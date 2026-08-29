@@ -1,5 +1,5 @@
 {
- "etag": "\"3337dea37c1d2272b1bcbe89e1b39a2e-gzip\"",
+ "etag": "\"2873e35d57546d43ca59d4de3930c227-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/attaques-ukrainiennes-contre-les-geants-du-commerce-en-ligne-les-russes-sont-rattrapes-par-la-guerre_8083208.html": "2026-08-29T14:58:54.528540+00:00",
@@ -30,11 +30,27 @@
   "https://www.franceinfo.fr/monde/europe/migrants/une-enquete-ouverte-apres-la-decouverte-de-58-migrants-a-paris-dans-un-poids-lourd-stationne-sans-chauffeur_8163932.html": "2026-08-29T14:58:54.528540+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/reportage-j-etais-brulee-de-partout-dans-la-ville-natale-de-volodymyr-zelensky-une-frappe-russe-fait-de-nombreuses-victimes-dans-un-centre-commercial_8161967.html": "2026-08-29T14:58:54.528540+00:00",
   "https://www.franceinfo.fr/monde/europe/belgique/reportage-je-n-ose-plus-sortir-de-chez-moi-a-bruxelles-des-fusillades-sur-fond-de-narcotrafic-inquietent-des-habitants_8162084.html": "2026-08-29T14:58:54.528540+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/deux-morts-dans-la-chute-d-un-drone-en-russie-un-immense-entrepot-de-wildberries-ravage-par-un-incendie_8162294.html": "2026-08-29T14:58:54.528540+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/le-directeur-de-la-cia-a-eu-des-contacts-avec-les-services-secrets-russes-a-moscou-annonce-le-kremlin_8162258.html": "2026-08-29T14:58:54.528540+00:00"
+  "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/la-banque-centrale-europeenne-peut-elle-racheter-la-dette-publique-francaise-comme-l-affirme-la-france-insoumise_8078171.html": "2026-08-29T15:12:32.022590+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/le-patron-de-la-cia-john-ratcliffe-en-visite-a-moscou-selon-plusieurs-medias-americains_8161142.html": "2026-08-29T15:12:32.022590+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "2:31 audio 2 minutes 31 La Banque centrale européenne peut-elle racheter la dette publique française, comme l'affirme La France insoumise ? La députée LFI Mathilde Panot affirme que la BCE peut mettre au frigo la dette publique de l'État français. Elle se réfère à \"un achat massif de titres de dettes publiques lors du Covid\".",
+   "link": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/la-banque-centrale-europeenne-peut-elle-racheter-la-dette-publique-francaise-comme-l-affirme-la-france-insoumise_8078171.html",
+   "summary": "La Banque centrale européenne peut-elle racheter la dette publique française, comme l'affirme La France insoumise ?",
+   "image": "https://www.franceinfo.fr/pictures/vtRBa-e15sQZrI2YiT8VNZxnmqE/0x53:1024x629/432x243/filters:format(jpg)/2026/08/26/6a8e7fc251352295807331.jpg",
+   "date": null,
+   "pubdate": "2026-08-29T15:12:32.022590+00:00"
+  },
+  {
+   "title": "Le patron de la CIA, John Ratcliffe, s'est rendu à Moscou pour une visite qui n'avait pas été annoncée, selon plusieurs médias américains Le motif de ce déplacement, qui serait le premier connu du directeur de la CIA en Russie depuis sa prise de fonctions en 2025, reste inconnu. Ni Washington ni Moscou ne l'ont confirmé.",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/le-patron-de-la-cia-john-ratcliffe-en-visite-a-moscou-selon-plusieurs-medias-americains_8161142.html",
+   "summary": "Le patron de la CIA, John Ratcliffe, s'est rendu à Moscou pour une visite qui n'avait pas été annoncée, selon plusieurs médias américains",
+   "image": "https://www.franceinfo.fr/pictures/Q3fUW-aFY9kJWkMcdLvUhUx7EHU/0x0:5355x3012/432x243/filters:format(jpg)/2026/08/25/6a8dbb5ec755c883143994.jpg",
+   "date": null,
+   "pubdate": "2026-08-29T15:12:32.022590+00:00"
+  },
   {
    "title": "2:19 audio 2 minutes 19 Attaques ukrainiennes contre les géants du commerce en ligne : les Russes sont rattrapés par la guerre. Des milliers de petits commerçants perdent leurs stocks et se retrouvent ruinés. Les consommateurs reçoivent leurs commandes en retard, ou pas du tout. Les prix augmentent.",
    "link": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/attaques-ukrainiennes-contre-les-geants-du-commerce-en-ligne-les-russes-sont-rattrapes-par-la-guerre_8083208.html",
@@ -256,22 +272,6 @@
    "link": "https://www.franceinfo.fr/monde/europe/belgique/reportage-je-n-ose-plus-sortir-de-chez-moi-a-bruxelles-des-fusillades-sur-fond-de-narcotrafic-inquietent-des-habitants_8162084.html",
    "summary": "\"Je n'ose plus sortir de chez moi\" : à Bruxelles, des fusillades sur fond de narcotrafic inquiètent des habitants",
    "image": "https://www.franceinfo.fr/pictures/f7C-pkBrrRF6uMa7X3hL35WtZxU/0x401:7710x4738/432x243/filters:format(jpg)/2026/08/26/6a8ec63287c03827091125.jpg",
-   "date": null,
-   "pubdate": "2026-08-29T14:58:54.528540+00:00"
-  },
-  {
-   "title": "Deux morts dans la chute d'un drone en Russie, un immense entrepôt de Wildberries ravagé par un incendie Les autorités russes affirment avoir \"intercepté et détruit\" au total 426 drones ukrainiens dans la nuit de mardi à mercredi.",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/deux-morts-dans-la-chute-d-un-drone-en-russie-un-immense-entrepot-de-wildberries-ravage-par-un-incendie_8162294.html",
-   "summary": "Deux morts dans la chute d'un drone en Russie, un immense entrepôt de Wildberries ravagé par un incendie",
-   "image": "https://www.franceinfo.fr/pictures/9hE5KhiN2ubLFHx4oZG1tqboTxc/0x565:5432x3621/432x243/filters:format(jpg)/2026/08/26/6a8ec5ba23ce9984412337.jpg",
-   "date": null,
-   "pubdate": "2026-08-29T14:58:54.528540+00:00"
-  },
-  {
-   "title": "Le directeur de la CIA a eu des contacts avec les services secrets russes à Moscou, annonce le Kremlin, Donald Trump minimise cette visite La présidence russe a qualifié ces échanges de \"positifs\", sans dévoiler les sujets abordés. Il s'agit de la première connue de John Ratcliffe en Russie depuis sa prise de fonctions en 2025.",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/le-directeur-de-la-cia-a-eu-des-contacts-avec-les-services-secrets-russes-a-moscou-annonce-le-kremlin_8162258.html",
-   "summary": "Le directeur de la CIA a eu des contacts avec les services secrets russes à Moscou, annonce le Kremlin, Donald Trump minimise cette visite",
-   "image": "https://www.franceinfo.fr/pictures/Zf19gTBnbjaut8IJ5OWXHTxz2FU/0x0:5529x3110/432x243/filters:format(jpg)/2026/08/26/6a8ec039e3bb5890168861.jpg",
    "date": null,
    "pubdate": "2026-08-29T14:58:54.528540+00:00"
   }
