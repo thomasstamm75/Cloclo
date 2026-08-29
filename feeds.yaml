@@ -12,3 +12,5 @@
 # La console en ligne ajoute les entrees ici et la regeneration part toute seule.
 - url: "https://acteurspublics.fr/actualites/"
   title: "Acteurs publics actualités"
+- url: "https://acteurspublics.fr/"
+  title: "Acteurs publics all"
