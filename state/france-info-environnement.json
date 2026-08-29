@@ -1,0 +1,63 @@
+{
+ "etag": "\"d7d60c-gzip\"",
+ "last_modified": "",
+ "first_seen": {
+  "https://www.franceinfo.fr/environnement/outils-de-l-ademe/que-faire-de-mes-dechets.html": "2026-08-29T14:53:05.975532+00:00",
+  "https://www.franceinfo.fr/environnement/outils-de-l-ademe/calculateur-empreinte-carbone.html": "2026-08-29T14:53:05.975532+00:00",
+  "https://www.franceinfo.fr/environnement/outils-de-l-ademe/calculer-emissions-co2-de-mes-trajets.html": "2026-08-29T14:53:05.975532+00:00",
+  "https://www.franceinfo.fr/environnement/outils-environnement/simulateur-aides-renovation-energetique": "2026-08-29T14:53:05.975532+00:00",
+  "https://www.franceinfo.fr/environnement/outils-environnement/restrictions-eau/": "2026-08-29T14:53:05.975532+00:00",
+  "https://www.franceinfo.fr/environnement/outils-de-l-ademe/saisons-des-fruits-et-legumes.html": "2026-08-29T14:53:05.975532+00:00"
+ },
+ "full_text_cache": {},
+ "last_good_items": [
+  {
+   "title": "Comment gÃ©rer vos dÃ©chets ?",
+   "link": "https://www.franceinfo.fr/environnement/outils-de-l-ademe/que-faire-de-mes-dechets.html",
+   "summary": "Saisissez le type de dÃ©chets dont vous voulez vous dÃ©barrasser pour dÃ©couvrir les options de collecte prÃ¨s de chez vous.",
+   "image": "",
+   "date": null,
+   "pubdate": "2026-08-29T14:53:05.975532+00:00"
+  },
+  {
+   "title": "Quelle est votre empreinte carbone ?",
+   "link": "https://www.franceinfo.fr/environnement/outils-de-l-ademe/calculateur-empreinte-carbone.html",
+   "summary": "Alimentation, logement, dÃ©placements, calculez votre empreinte carbone annuelle.",
+   "image": "",
+   "date": null,
+   "pubdate": "2026-08-29T14:53:05.975532+00:00"
+  },
+  {
+   "title": "Calculez lâempreinte carbone de vos dÃ©placements",
+   "link": "https://www.franceinfo.fr/environnement/outils-de-l-ademe/calculer-emissions-co2-de-mes-trajets.html",
+   "summary": "Mesurez l'impact en Co2 de vos trajets que ce soit en voiture, en vÃ©lo, ou en transport en commun.",
+   "image": "",
+   "date": null,
+   "pubdate": "2026-08-29T14:53:05.975532+00:00"
+  },
+  {
+   "title": "Simulateur dâaide Ã la rÃ©novation Ã©nergÃ©tique",
+   "link": "https://www.franceinfo.fr/environnement/outils-environnement/simulateur-aides-renovation-energetique",
+   "summary": "Estimez vos aides pour rÃ©nover votre logement",
+   "image": "",
+   "date": null,
+   "pubdate": "2026-08-29T14:53:05.975532+00:00"
+  },
+  {
+   "title": "Ãtes-vous concernÃ© par les restrictions dâeau ?",
+   "link": "https://www.franceinfo.fr/environnement/outils-environnement/restrictions-eau/",
+   "summary": "VÃ©rifiez les limitations dâusage de lâeau qui vous concernent en fonction de votre situation.",
+   "image": "",
+   "date": null,
+   "pubdate": "2026-08-29T14:53:05.975532+00:00"
+  },
+  {
+   "title": "Calendrier des fruits et lÃ©gumes de saison",
+   "link": "https://www.franceinfo.fr/environnement/outils-de-l-ademe/saisons-des-fruits-et-legumes.html",
+   "summary": "Optez pour des produits de saison pour faire des choix plus Ã©cologiques, plus savoureux et plus nutritifs.",
+   "image": "",
+   "date": null,
+   "pubdate": "2026-08-29T14:53:05.975532+00:00"
+  }
+ ]
+}
