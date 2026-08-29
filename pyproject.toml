@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cloclo"
+version = "1.0.0"
+description = "Générateur de flux RSS/Atom/JSON pour n'importe quelle page au contenu gratuit"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
+keywords = ["rss", "atom", "jsonfeed", "scraping", "veille"]
+classifiers = [
+  "Environment :: Console",
+  "Intended Audience :: End Users/Desktop",
+  "Natural Language :: French",
+  "Programming Language :: Python :: 3",
+  "Topic :: Internet :: WWW/HTTP :: Indexing/Search",
+]
+
+[project.scripts]
+cloclo = "cloclo.cli:main"
+
+[tool.setuptools]
+packages = ["cloclo"]
+
+[tool.setuptools.package-data]
+cloclo = ["recipes.json"]

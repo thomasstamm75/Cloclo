@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel>
+<title>Flux existant</title><link>https://source.example/</link><description>Un flux déjà publié</description>
+<item><title>Entrée A</title><link>https://source.example/a</link><guid>https://source.example/a</guid>
+<pubDate>Mon, 25 Aug 2026 08:00:00 +0200</pubDate><dc:creator>Alice</dc:creator><description>Résumé A</description></item>
+<item><title>Entrée B</title><link>https://source.example/b</link><guid>tag:source,2026:b</guid>
+<pubDate>Sun, 24 Aug 2026 08:00:00 +0200</pubDate><description>Résumé B</description></item>
+</channel></rss>

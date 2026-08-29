@@ -1,0 +1,16 @@
+{
+  "//": "Sélecteurs par site. Le premier motif `match` qui correspond à l'URL gagne.",
+  "//match": "sous-chaîne de l'URL, ou expression régulière préfixée par 're:'.",
+  "//exemple": {
+    "match": "exemple.fr/actualites",
+    "item": ".liste-actus > article",
+    "title": "h2",
+    "link": "h2 a@href",
+    "date": "time@datetime",
+    "summary": ".chapo",
+    "author": ".signature",
+    "image": "img@src",
+    "include_paid": false
+  },
+  "recipes": []
+}
