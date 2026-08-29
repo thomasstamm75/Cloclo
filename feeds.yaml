@@ -1,0 +1,63 @@
+# Configuration des flux RSS générés.
+#   rssgen inspect <url>   analyse une page et propose le bloc à coller ici
+#   rssgen add <url>       ajoute la page directement à ce fichier
+#   rssgen build           régénère tous les flux dans docs/
+
+site:
+  # Adresse publique des flux. À remplacer par votre domaine GitHub Pages :
+  # https://<utilisateur>.github.io/<dépôt>
+  base_url: "https://thomasstamm75.github.io/Cloclo"
+  title: "Mes flux RSS"
+  description: "Flux fabriqués pour des pages qui n'en proposent pas."
+
+defaults:
+  max_items: 25        # nombre d'articles conservés par flux
+  full_text: false     # true = télécharge chaque article pour le texte intégral
+  language: fr
+  ttl: 60              # minutes suggérées entre deux relevés
+  request_delay: 1.0   # pause entre deux requêtes vers un même site, en secondes
+
+feeds: []
+
+# --------------------------------------------------------------------------
+# Exemples de configuration, à décommenter et adapter.
+#
+# feeds:
+#   # Cas le plus simple : rssgen repère seul la liste d'articles.
+#   - id: ministere-actus
+#     title: "Ministère — actualités"
+#     url: https://exemple.gouv.fr/actualites
+#
+#   # Sélecteurs explicites, quand la détection automatique se trompe.
+#   - id: revue-juridique
+#     title: "Revue juridique"
+#     url: https://exemple.fr/publications
+#     selectors:
+#       item: "article.publication"     # le bloc qui entoure un article
+#       title: "h2 a"                   # le titre à l'intérieur du bloc
+#       link: "h2 a"                    # le lien (par défaut : premier <a>)
+#       date: "time"                    # la date
+#       summary: "p.chapo"              # le résumé
+#       author: ".signature"
+#       image: "img.vignette"
+#
+#   # Texte intégral : chaque article est téléchargé et son corps inséré.
+#   - id: blog-technique
+#     title: "Blog technique"
+#     url: https://exemple.dev/blog
+#     full_text: true
+#     full_text_selector: "div.post-body"   # facultatif
+#     max_full_text: 10                     # articles téléchargés par passage
+#
+#   # Filtres : ne garder que certains sujets, en écarter d'autres.
+#   - id: veille-budget
+#     title: "Veille budgétaire"
+#     url: https://exemple.fr/toutes-les-breves
+#     include: "budget|finances publiques|PLF"
+#     exclude: "sport|météo"
+#     max_items: 40
+#
+#   # Flux mis en pause sans être supprimé.
+#   - id: ancien-site
+#     url: https://exemple.fr/vieux
+#     enabled: false

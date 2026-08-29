@@ -1,0 +1,77 @@
+name: Générer et publier les flux
+
+on:
+  schedule:
+    # Toutes les trois heures. GitHub décale parfois les tâches planifiées de
+    # quelques minutes en cas de charge : c'est sans effet sur les flux.
+    - cron: "17 */3 * * *"
+  push:
+    branches: [main]
+    paths:
+      - "feeds.yaml"
+      - "rssgen/**"
+      - ".github/workflows/build-feeds.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+# Une seule génération à la fois : deux exécutions concurrentes se
+# disputeraient l'écriture du dossier state/.
+concurrency:
+  group: flux-rss
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Installer les dépendances
+        run: pip install -r requirements.txt
+
+      - name: Restaurer le cache HTTP
+        uses: actions/cache@v4
+        with:
+          path: .cache
+          key: rssgen-http-${{ github.run_id }}
+          restore-keys: rssgen-http-
+
+      - name: Générer les flux
+        run: python -m rssgen build --config feeds.yaml --output docs --state state
+
+      - name: Enregistrer les flux et l'état
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs state
+          if git diff --staged --quiet; then
+            echo "Aucun changement à enregistrer."
+          else
+            git commit -m "Mise à jour des flux RSS"
+            # La branche a pu bouger pendant la génération.
+            git pull --rebase --autostash origin ${{ github.ref_name }}
+            git push origin HEAD:${{ github.ref_name }}
+          fi
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
