@@ -10,3 +10,5 @@
 #   full_text: true                        facultatif, recuperer le texte integral des articles
 #
 # La console en ligne ajoute les entrees ici et la regeneration part toute seule.
+- url: "https://acteurspublics.fr/actualites/"
+  title: "Acteurs publics actualités"
