@@ -1,0 +1,12 @@
+# Sources suivies par Cloclo.
+# Une entree par page. Seuls url et title sont obligatoires.
+#
+# - url: https://exemple.fr/actualites     adresse de la page qui liste les publications
+#   title: "Exemple, actualites"           nom du flux dans l'agregateur
+#   item: "article.post"                   facultatif, selecteur CSS d'un article
+#   limit: 30                              facultatif, nombre d'articles conserves
+#   include: ["budget", "fiscalite"]       facultatif, garder les articles contenant un de ces mots
+#   exclude: ["agenda"]                    facultatif, ecarter les articles contenant un de ces mots
+#   full_text: true                        facultatif, recuperer le texte integral des articles
+#
+# La console en ligne ajoute les entrees ici et la regeneration part toute seule.
