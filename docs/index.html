@@ -1,0 +1,937 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Fluxothèque">
+<meta name="theme-color" content="#1B2733">
+<title>Fluxothèque</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,800&family=IBM+Plex+Mono:wght@400;600&display=swap" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/js-yaml/4.1.0/js-yaml.min.js"></script>
+<style>
+:root{
+  --papier:#EEF1F4;
+  --carte:#FFFFFF;
+  --encre:#1B2733;
+  --encre2:#4A5866;
+  --trait:#D5DBE1;
+  --onde:#E8641B;
+  --onde-fonce:#C24F0F;
+  --onde-pale:#FBE9DD;
+  --ok:#2E7D5B;
+  --ok-pale:#E3F0EA;
+  --erreur:#B3402A;
+  --erreur-pale:#F7E5E0;
+  --mono:'IBM Plex Mono',ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace;
+  --titre:'Bricolage Grotesque',-apple-system,'Segoe UI',system-ui,sans-serif;
+  --corps:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,Roboto,sans-serif;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{-webkit-text-size-adjust:100%}
+body{
+  background:var(--papier);
+  color:var(--encre);
+  font-family:var(--corps);
+  font-size:16px;
+  line-height:1.5;
+  min-height:100vh;
+  padding-bottom:48px;
+}
+a{color:var(--onde-fonce)}
+button{font-family:inherit;cursor:pointer}
+button:focus-visible,input:focus-visible,textarea:focus-visible,select:focus-visible{
+  outline:3px solid var(--onde);outline-offset:2px;
+}
+@media (prefers-reduced-motion:reduce){
+  *,*::before,*::after{animation:none!important;transition:none!important}
+}
+
+/* ---------- En-tête ---------- */
+header{
+  background:var(--encre);
+  color:#F4EFE9;
+  padding:22px 20px 18px;
+  position:relative;
+  overflow:hidden;
+}
+header .ondes{
+  position:absolute;right:-30px;top:-42px;width:190px;height:190px;
+  pointer-events:none;opacity:.9;
+}
+header h1{
+  font-family:var(--titre);
+  font-weight:800;
+  font-size:30px;
+  letter-spacing:-0.02em;
+  line-height:1.05;
+}
+header h1 .point{color:var(--onde)}
+header p{
+  margin-top:6px;color:#B9C2CB;font-size:13.5px;max-width:280px;
+}
+.pastille-depot{
+  display:inline-flex;align-items:center;gap:7px;margin-top:12px;
+  cursor:pointer;
+  background:rgba(255,255,255,.08);
+  border:1px solid rgba(255,255,255,.16);
+  border-radius:999px;padding:5px 12px;
+  font-family:var(--mono);font-size:12.5px;color:#E7EBEF;
+}
+.pastille-depot .voyant{
+  width:8px;height:8px;border-radius:50%;background:#7A8794;flex:none;
+}
+.pastille-depot .voyant.actif{background:var(--onde)}
+
+/* ---------- Onglets ---------- */
+nav{
+  display:flex;background:var(--carte);
+  border-bottom:1px solid var(--trait);
+  position:sticky;top:0;z-index:5;
+}
+nav button{
+  flex:1;background:none;border:none;
+  padding:13px 4px 11px;
+  font-size:14.5px;font-weight:600;color:var(--encre2);
+  border-bottom:3px solid transparent;
+}
+nav button[aria-selected="true"]{
+  color:var(--onde-fonce);border-bottom-color:var(--onde);
+}
+nav button:disabled{color:#B7C0C9;cursor:default}
+
+/* ---------- Cartes et champs ---------- */
+main{padding:16px;max-width:680px;margin:0 auto}
+.carte{
+  background:var(--carte);
+  border:1px solid var(--trait);
+  border-radius:14px;
+  padding:18px 16px;
+  margin-bottom:16px;
+}
+.carte h2{
+  font-family:var(--titre);font-weight:800;font-size:19px;
+  letter-spacing:-0.01em;margin-bottom:4px;
+}
+.carte .sous{color:var(--encre2);font-size:13.5px;margin-bottom:14px}
+label{display:block;font-size:13px;font-weight:600;color:var(--encre2);margin:12px 0 5px}
+label .opt{font-weight:400;color:#8894A0}
+input[type=text],input[type=password],input[type=url],input[type=number],textarea,select{
+  width:100%;
+  border:1.5px solid var(--trait);
+  border-radius:10px;
+  background:#FBFCFD;
+  padding:11px 12px;
+  font-size:16px;
+  color:var(--encre);
+  font-family:inherit;
+}
+textarea{font-family:var(--mono);font-size:13px;line-height:1.55;resize:vertical}
+.rang{display:flex;gap:10px}
+.rang>div{flex:1}
+.case{display:flex;align-items:flex-start;gap:10px;margin-top:12px;font-size:13.5px;color:var(--encre2)}
+.case input{width:20px;height:20px;margin-top:1px;accent-color:var(--onde);flex:none}
+
+.btn{
+  display:block;width:100%;
+  border:none;border-radius:11px;
+  padding:14px 16px;
+  font-size:16px;font-weight:700;
+  margin-top:16px;
+}
+.btn-principal{background:var(--onde);color:#fff}
+.btn-principal:active{background:var(--onde-fonce)}
+.btn-principal:disabled{background:#E5B79D;cursor:default}
+.btn-second{background:#fff;color:var(--encre);border:1.5px solid var(--trait)}
+.btn-discret{
+  background:none;border:none;color:var(--onde-fonce);
+  font-size:14px;font-weight:600;padding:10px 0;width:auto;margin-top:8px;
+}
+
+/* ---------- Messages ---------- */
+.message{
+  border-radius:10px;padding:11px 13px;font-size:14px;margin-top:14px;
+  display:none;white-space:pre-wrap;
+}
+.message.visible{display:block}
+.message.ok{background:var(--ok-pale);color:var(--ok)}
+.message.erreur{background:var(--erreur-pale);color:var(--erreur)}
+.message.info{background:var(--onde-pale);color:var(--onde-fonce)}
+
+/* ---------- Liste des flux ---------- */
+.flux{
+  border:1px solid var(--trait);border-radius:12px;
+  padding:14px;margin-top:12px;background:#FBFCFD;
+}
+.flux .titre-flux{
+  display:flex;align-items:center;gap:10px;font-weight:700;font-size:15.5px;
+}
+.flux .icone-onde{flex:none}
+.flux .adresse{
+  font-family:var(--mono);font-size:12px;color:var(--encre2);
+  margin:8px 0 10px;word-break:break-all;
+  background:#fff;border:1px dashed var(--trait);border-radius:8px;
+  padding:8px 10px;user-select:all;-webkit-user-select:all;
+}
+.flux .actions{display:flex;gap:8px}
+.flux .actions button,.flux .actions a{
+  flex:1;text-align:center;text-decoration:none;
+  border-radius:9px;padding:10px 8px;font-size:14px;font-weight:600;
+  border:1.5px solid var(--trait);background:#fff;color:var(--encre);
+}
+.flux .actions button.copie{background:var(--encre);border-color:var(--encre);color:#fff}
+.flux .actions button.copie.fait{background:var(--ok);border-color:var(--ok)}
+.vide{
+  text-align:center;color:var(--encre2);font-size:14px;
+  padding:26px 12px;border:1.5px dashed var(--trait);border-radius:12px;margin-top:12px;
+}
+
+/* ---------- Statut du générateur ---------- */
+.statut{
+  display:flex;align-items:center;gap:10px;
+  font-size:13.5px;color:var(--encre2);margin-top:4px;
+}
+.statut .voyant{width:10px;height:10px;border-radius:50%;background:#B7C0C9;flex:none}
+.statut .voyant.vert{background:var(--ok)}
+.statut .voyant.orange{background:var(--onde)}
+.statut .voyant.rouge{background:var(--erreur)}
+
+/* ---------- Relecture YAML ---------- */
+.bloc-nouveau{
+  font-family:var(--mono);font-size:12.5px;line-height:1.6;
+  background:#FFF7F1;border:1px solid #F0CDB4;border-radius:10px;
+  padding:12px;margin-top:12px;white-space:pre-wrap;word-break:break-word;
+}
+.legende{font-size:12.5px;color:#8894A0;margin-top:6px}
+
+details.aide{margin-top:14px;border-top:1px solid var(--trait);padding-top:12px}
+details.aide summary{
+  font-size:14px;font-weight:600;color:var(--onde-fonce);cursor:pointer;
+  list-style:none;
+}
+details.aide summary::-webkit-details-marker{display:none}
+details.aide summary::before{content:"+ ";font-family:var(--mono)}
+details.aide[open] summary::before{content:"– "}
+details.aide .contenu{font-size:13.5px;color:var(--encre2);margin-top:10px}
+details.aide .contenu p{margin-bottom:8px}
+details.aide .contenu code{
+  font-family:var(--mono);font-size:12px;background:var(--papier);
+  border-radius:5px;padding:1px 5px;
+}
+.pied{
+  text-align:center;font-size:12px;color:#98A2AC;margin-top:8px;
+  font-family:var(--mono);
+}
+.cache{display:none!important}
+#bandeauSandbox{
+  background:#FFF3D6;color:#7A5A12;border-bottom:1px solid #EAD79F;
+  padding:12px 16px;font-size:13.5px;display:none;
+}
+#bandeauSandbox.visible{display:block}
+.chargement{
+  display:inline-block;width:15px;height:15px;border-radius:50%;
+  border:2.5px solid rgba(255,255,255,.4);border-top-color:#fff;
+  animation:tour .8s linear infinite;vertical-align:-3px;margin-right:8px;
+}
+@keyframes tour{to{transform:rotate(360deg)}}
+</style>
+</head>
+<body>
+
+<header>
+  <svg class="ondes" viewBox="0 0 200 200" aria-hidden="true">
+    <g fill="none" stroke="#E8641B" stroke-linecap="round">
+      <circle cx="160" cy="40" r="6" fill="#E8641B" stroke="none"/>
+      <path d="M130 70 A42 42 0 0 1 160 82" stroke-width="9" opacity=".95"/>
+      <path d="M108 92 A73 73 0 0 1 160 114" stroke-width="9" opacity=".65"/>
+      <path d="M86 114 A105 105 0 0 1 160 146" stroke-width="9" opacity=".38"/>
+      <path d="M64 136 A136 136 0 0 1 160 178" stroke-width="9" opacity=".18"/>
+    </g>
+  </svg>
+  <h1>Fluxothèque<span class="point">.</span></h1>
+  <p>Tes flux RSS, fabriqués par Cloclo, prêts pour ton agrégateur.</p>
+  <button class="pastille-depot" id="boutonDepot" onclick="ouvrirConnexion()"><span class="voyant" id="voyantDepot"></span><span id="etiquetteDepot">non connecté</span></button>
+</header>
+
+<div id="bandeauSandbox">Cet environnement bloque l'accès à GitHub, la console ne fonctionnera pas ici. Ouvre-la à son adresse définitive, celle de ton site GitHub Pages.</div>
+
+<nav role="tablist" aria-label="Sections">
+  <button id="ongletFlux" role="tab" aria-selected="true" onclick="montrer('flux')">Mes flux</button>
+  <button id="ongletAjout" role="tab" aria-selected="false" onclick="montrer('ajout')" disabled>Ajouter</button>
+  <button id="ongletYaml" role="tab" aria-selected="false" onclick="montrer('yaml')" disabled>feeds.yaml</button>
+</nav>
+
+<main>
+
+<!-- ================= CONNEXION ================= -->
+<section id="panneauConnexion" class="carte">
+  <h2>Connexion au dépôt</h2>
+  <p class="sous">La Fluxothèque pilote ton dépôt GitHub. Elle lit les flux publiés, ajoute des sources et relance le générateur.</p>
+
+  <label for="champProprio">Propriétaire du dépôt</label>
+  <input type="text" id="champProprio" autocapitalize="none" autocorrect="off" placeholder="ton identifiant GitHub">
+
+  <div class="rang">
+    <div>
+      <label for="champDepot">Dépôt</label>
+      <input type="text" id="champDepot" autocapitalize="none" autocorrect="off" placeholder="Cloclo">
+    </div>
+    <div>
+      <label for="champFichier">Fichier des sources</label>
+      <input type="text" id="champFichier" autocapitalize="none" autocorrect="off" value="feeds.yaml">
+    </div>
+  </div>
+
+  <label for="champJeton">Jeton d'accès GitHub</label>
+  <input type="password" id="champJeton" autocapitalize="none" autocorrect="off" placeholder="github_pat_...">
+
+  <div class="case">
+    <input type="checkbox" id="caseJeton">
+    <span>Garder le jeton sur cet appareil. Sinon il sera redemandé à chaque ouverture.</span>
+  </div>
+
+  <button class="btn btn-principal" id="boutonConnexion" onclick="connecter()">Se connecter</button>
+  <div class="message" id="messageConnexion"></div>
+
+  <details class="aide">
+    <summary>Fabriquer un jeton adapté</summary>
+    <div class="contenu">
+      <p>Sur GitHub : Settings, puis Developer settings, puis Fine-grained tokens, puis Generate new token.</p>
+      <p>Limite sa portée au seul dépôt Cloclo. Accorde trois permissions : <code>Contents</code> en lecture et écriture, <code>Actions</code> en lecture et écriture, <code>Pages</code> en lecture.</p>
+      <p>Un jeton restreint de la sorte ne donne accès à rien d'autre, même en cas de fuite.</p>
+    </div>
+  </details>
+</section>
+
+<!-- ================= MES FLUX ================= -->
+<section id="panneauFlux" class="cache">
+  <div class="carte">
+    <h2>Flux publiés</h2>
+    <p class="sous">Chaque adresse se colle telle quelle dans Feeder, Inoreader ou NetNewsWire : bouton +, puis l'URL du flux.</p>
+    <div class="statut">
+      <span class="voyant" id="voyantGenerateur"></span>
+      <span id="texteGenerateur">Générateur : état inconnu</span>
+    </div>
+    <div id="listeFlux"></div>
+    <button class="btn btn-second" onclick="rafraichir()">Actualiser la liste</button>
+    <button class="btn btn-second" id="boutonRelance" onclick="relancerGenerateur()">Régénérer maintenant</button>
+    <div class="message" id="messageFlux"></div>
+  </div>
+</section>
+
+<!-- ================= AJOUTER ================= -->
+<section id="panneauAjout" class="cache">
+  <div class="carte">
+    <h2>Suivre une nouvelle page</h2>
+    <p class="sous">Indique la page qui liste les publications. Cloclo en fera un flux à la prochaine régénération.</p>
+
+    <label for="ajUrl">Adresse de la page</label>
+    <input type="url" id="ajUrl" inputmode="url" autocapitalize="none" placeholder="https://exemple.fr/actualites">
+
+    <label for="ajTitre">Titre du flux</label>
+    <input type="text" id="ajTitre" placeholder="Exemple, rubrique actualités">
+    <p class="legende">C'est le nom qui apparaîtra dans ton agrégateur.</p>
+
+    <label for="ajSelecteur">Sélecteur CSS d'un article <span class="opt">(facultatif)</span></label>
+    <input type="text" id="ajSelecteur" autocapitalize="none" autocorrect="off" placeholder="article.post">
+    <p class="legende">À renseigner si la détection automatique attrape le mauvais bloc. Un sélecteur explicite résiste mieux aux refontes du site.</p>
+
+    <div class="rang">
+      <div>
+        <label for="ajLimite">Nombre d'articles <span class="opt">(facultatif)</span></label>
+        <input type="number" id="ajLimite" inputmode="numeric" min="1" max="100" placeholder="30">
+      </div>
+      <div>
+        <label for="ajInclure">Garder les sujets <span class="opt">(facultatif)</span></label>
+        <input type="text" id="ajInclure" placeholder="budget, fiscalité">
+      </div>
+    </div>
+
+    <label for="ajExclure">Écarter les sujets <span class="opt">(facultatif)</span></label>
+    <input type="text" id="ajExclure" placeholder="agenda, nomination">
+
+    <div class="case">
+      <input type="checkbox" id="ajTexteIntegral">
+      <span>Récupérer le texte intégral des articles, pour la lecture hors ligne. Plus lourd pour le site suivi.</span>
+    </div>
+
+    <button class="btn btn-principal" onclick="preparerAjout()">Vérifier avant publication</button>
+
+    <div id="zoneRelecture" class="cache">
+      <p class="legende" style="margin-top:16px">Bloc qui sera ajouté à la fin de <span id="nomFichierRelecture">feeds.yaml</span>.</p>
+      <div class="bloc-nouveau" id="blocNouveau"></div>
+      <button class="btn btn-principal" id="boutonPublier" onclick="publierAjout()">Publier dans Cloclo</button>
+    </div>
+
+    <div class="message" id="messageAjout"></div>
+  </div>
+</section>
+
+<!-- ================= YAML BRUT ================= -->
+<section id="panneauYaml" class="cache">
+  <div class="carte">
+    <h2>Fichier des sources</h2>
+    <p class="sous">Le fichier <span id="nomFichierYaml">feeds.yaml</span> tel qu'il est dans le dépôt. Modifie-le à la main pour retirer un flux ou affiner un réglage, puis enregistre.</p>
+    <textarea id="editeurYaml" rows="18" spellcheck="false" autocapitalize="none" autocorrect="off"></textarea>
+    <button class="btn btn-principal" onclick="enregistrerYaml()">Enregistrer dans le dépôt</button>
+    <button class="btn btn-second" onclick="rechargerYaml()">Recharger depuis le dépôt</button>
+    <div class="message" id="messageYaml"></div>
+  </div>
+</section>
+
+<p class="pied" id="piedSite"></p>
+
+</main>
+
+<script>
+"use strict";
+
+/* ---------- État ---------- */
+const etat = {
+  jeton:"", proprio:"", depot:"", fichier:"feeds.yaml",
+  branche:"", branchePages:"", cheminPages:"",
+  siteUrl:"", siteConfirme:false,
+  yamlTexte:"", yamlSha:"",
+  workflowId:null, workflowNom:"",
+  connecte:false
+};
+
+const $ = id => document.getElementById(id);
+
+/* ---------- Stockage de la configuration ---------- */
+const coffre = {
+  async get(cle){
+    try{ const v = localStorage.getItem(cle); if(v !== null) return v; }catch(e){}
+    try{
+      if(typeof window.storage !== "undefined"){
+        const r = await window.storage.get(cle);
+        if(r && r.value) return r.value;
+      }
+    }catch(e){}
+    return null;
+  },
+  async set(cle, valeur){
+    let fait = false;
+    try{ localStorage.setItem(cle, valeur); fait = true; }catch(e){}
+    if(!fait){
+      try{
+        if(typeof window.storage !== "undefined") await window.storage.set(cle, valeur);
+      }catch(e){}
+    }
+  },
+  async del(cle){
+    try{ localStorage.removeItem(cle); }catch(e){}
+    try{
+      if(typeof window.storage !== "undefined") await window.storage.delete(cle);
+    }catch(e){}
+  }
+};
+
+async function chargerConfig(){
+  try{
+    const c = await coffre.get("fluxo-config");
+    if(c){
+      const v = JSON.parse(c);
+      if(v.proprio) $("champProprio").value = v.proprio;
+      if(v.depot) $("champDepot").value = v.depot;
+      if(v.fichier) $("champFichier").value = v.fichier;
+    }
+  }catch(e){}
+  try{
+    const t = await coffre.get("fluxo-jeton");
+    if(t){
+      $("champJeton").value = t;
+      $("caseJeton").checked = true;
+    }
+  }catch(e){}
+}
+async function sauverConfig(){
+  await coffre.set("fluxo-config", JSON.stringify({
+    proprio:etat.proprio, depot:etat.depot, fichier:etat.fichier
+  }));
+  if($("caseJeton").checked){
+    await coffre.set("fluxo-jeton", etat.jeton);
+  }else{
+    await coffre.del("fluxo-jeton");
+  }
+}
+
+/* ---------- Appels GitHub ---------- */
+async function github(chemin, options){
+  const o = options || {};
+  const reponse = await fetch("https://api.github.com" + chemin, {
+    method: o.method || "GET",
+    headers: {
+      "Authorization": "Bearer " + etat.jeton,
+      "Accept": "application/vnd.github+json",
+      "X-GitHub-Api-Version": "2022-11-28",
+      ...(o.body ? {"Content-Type":"application/json"} : {})
+    },
+    body: o.body ? JSON.stringify(o.body) : undefined
+  });
+  if(reponse.status === 204) return {};
+  let corps = null;
+  try{ corps = await reponse.json(); }catch(e){}
+  if(!reponse.ok){
+    const err = new Error((corps && corps.message) ? corps.message : ("Réponse " + reponse.status));
+    err.statut = reponse.status;
+    throw err;
+  }
+  return corps;
+}
+
+function b64versTexte(b64){
+  const brut = atob(b64.replace(/\n/g,""));
+  const octets = new Uint8Array(brut.length);
+  for(let i=0;i<brut.length;i++) octets[i] = brut.charCodeAt(i);
+  return new TextDecoder("utf-8").decode(octets);
+}
+function texteVersB64(texte){
+  const octets = new TextEncoder().encode(texte);
+  let brut = "";
+  for(let i=0;i<octets.length;i++) brut += String.fromCharCode(octets[i]);
+  return btoa(brut);
+}
+
+/* ---------- Messages ---------- */
+function dire(id, genre, texte){
+  const m = $(id);
+  m.className = "message visible " + genre;
+  m.textContent = texte;
+}
+function taire(id){ $(id).className = "message"; }
+
+function expliquer(err, contexte){
+  if(err.explique) return err.message;
+  if(err instanceof TypeError || /load failed|failed to fetch/i.test(err.message || "")){
+    return "Connexion à GitHub impossible depuis cet environnement. Ouvre la console à son adresse GitHub Pages, ou vérifie ta connexion.";
+  }
+  if(err.statut === 401) return "Jeton refusé par GitHub. Vérifie qu'il n'a pas expiré et qu'il est copié en entier.";
+  if(err.statut === 403) return "Accès refusé. Le jeton manque d'une permission (" + contexte + ") ou la limite d'appels est atteinte.";
+  if(err.statut === 404) return "Introuvable : " + contexte + ". Vérifie le nom et la portée du jeton.";
+  if(err.statut === 409) return "Le fichier a changé dans le dépôt entre-temps. Recharge puis recommence.";
+  if(err.statut === 422) return "GitHub a refusé la demande : " + err.message;
+  return err.message || "Panne inattendue.";
+}
+
+/* ---------- Connexion ---------- */
+async function connecter(){
+  etat.proprio = $("champProprio").value.trim();
+  etat.depot = $("champDepot").value.trim();
+  etat.fichier = $("champFichier").value.trim() || "feeds.yaml";
+  etat.jeton = $("champJeton").value.trim();
+  taire("messageConnexion");
+
+  if(!etat.proprio || !etat.depot || !etat.jeton){
+    dire("messageConnexion","erreur","Renseigne le propriétaire, le dépôt et le jeton.");
+    return;
+  }
+
+  const bouton = $("boutonConnexion");
+  bouton.disabled = true;
+  bouton.innerHTML = '<span class="chargement"></span>Connexion en cours';
+
+  try{
+    const depot = await github("/repos/" + etat.proprio + "/" + etat.depot);
+    etat.branche = depot.default_branch || "main";
+
+    await chargerPages();
+    await chargerYaml(true);
+    await chargerWorkflow();
+
+    etat.connecte = true;
+    await sauverConfig();
+
+    $("voyantDepot").classList.add("actif");
+    $("etiquetteDepot").textContent = etat.proprio + "/" + etat.depot;
+    $("ongletAjout").disabled = false;
+    $("ongletYaml").disabled = false;
+    $("panneauConnexion").classList.add("cache");
+    $("nomFichierYaml").textContent = etat.fichier;
+    $("nomFichierRelecture").textContent = etat.fichier;
+    $("piedSite").textContent = etat.siteUrl ? ("site : " + etat.siteUrl) : "";
+
+    await listerFlux();
+    await etatGenerateur();
+    montrer("flux");
+  }catch(err){
+    dire("messageConnexion","erreur", expliquer(err, "dépôt " + etat.proprio + "/" + etat.depot));
+  }finally{
+    bouton.disabled = false;
+    bouton.textContent = "Se connecter";
+  }
+}
+
+async function chargerPages(){
+  etat.siteUrl = "https://" + etat.proprio.toLowerCase() + ".github.io/" + etat.depot + "/";
+  etat.siteConfirme = false;
+  etat.branchePages = etat.branche;
+  etat.cheminPages = "/";
+  try{
+    const pages = await github("/repos/" + etat.proprio + "/" + etat.depot + "/pages");
+    if(pages.html_url){
+      etat.siteUrl = pages.html_url.endsWith("/") ? pages.html_url : pages.html_url + "/";
+      etat.siteConfirme = true;
+    }
+    if(pages.source){
+      etat.branchePages = pages.source.branch || etat.branche;
+      etat.cheminPages = pages.source.path || "/";
+    }
+  }catch(e){ /* jeton sans permission Pages : on garde l'adresse déduite */ }
+  if(!etat.siteConfirme){
+    try{
+      await github("/repos/" + etat.proprio + "/" + etat.depot + "/contents/docs?ref=" + etat.branche);
+      etat.cheminPages = "/docs";
+    }catch(e){}
+  }
+}
+
+async function chargerYaml(strict){
+  try{
+    const f = await github("/repos/" + etat.proprio + "/" + etat.depot +
+      "/contents/" + encodeURIComponent(etat.fichier).replace(/%2F/g,"/") +
+      "?ref=" + etat.branche);
+    etat.yamlTexte = b64versTexte(f.content);
+    etat.yamlSha = f.sha;
+    $("editeurYaml").value = etat.yamlTexte;
+  }catch(err){
+    etat.yamlTexte = ""; etat.yamlSha = "";
+    $("editeurYaml").value = "";
+    if(strict && err.statut === 404){
+      throw Object.assign(new Error("Le fichier " + etat.fichier + " n'existe pas sur la branche " + etat.branche + ". Corrige son nom dans le champ Fichier des sources."), {statut:404, explique:true});
+    }
+    if(strict) throw err;
+  }
+}
+
+async function chargerWorkflow(){
+  etat.workflowId = null; etat.workflowNom = "";
+  try{
+    const r = await github("/repos/" + etat.proprio + "/" + etat.depot + "/actions/workflows");
+    const liste = (r.workflows || []).filter(w => w.state === "active");
+    if(!liste.length) return;
+    const prefere = liste.find(w => /flux|feed|rss|g[ée]n[ée]r/i.test(w.name + " " + w.path));
+    const choisi = prefere || liste[0];
+    etat.workflowId = choisi.id;
+    etat.workflowNom = choisi.name;
+  }catch(e){}
+}
+
+/* ---------- Onglets ---------- */
+function montrer(nom){
+  const panneaux = {flux:"panneauFlux", ajout:"panneauAjout", yaml:"panneauYaml"};
+  const onglets = {flux:"ongletFlux", ajout:"ongletAjout", yaml:"ongletYaml"};
+  for(const k in panneaux){
+    $(panneaux[k]).classList.toggle("cache", k !== nom);
+    $(onglets[k]).setAttribute("aria-selected", k === nom ? "true" : "false");
+  }
+  if(!etat.connecte) $("panneauConnexion").classList.remove("cache");
+}
+
+/* ---------- Liste des flux publiés ---------- */
+async function listerFlux(){
+  const zone = $("listeFlux");
+  zone.innerHTML = "";
+  taire("messageFlux");
+  let fichiers = [];
+  try{
+    const arbre = await github("/repos/" + etat.proprio + "/" + etat.depot +
+      "/git/trees/" + encodeURIComponent(etat.branchePages) + "?recursive=1");
+    const racine = etat.cheminPages === "/" ? "" : etat.cheminPages.replace(/^\//,"") + "/";
+    fichiers = (arbre.tree || []).filter(n =>
+      n.type === "blob" &&
+      /\.(xml|atom|rss)$/i.test(n.path) &&
+      !n.path.startsWith(".github/") &&
+      (racine === "" || n.path.startsWith(racine))
+    ).map(n => ({
+      chemin: n.path,
+      relatif: racine ? n.path.slice(racine.length) : n.path
+    }));
+  }catch(err){
+    dire("messageFlux","erreur", expliquer(err, "arbre de la branche " + etat.branchePages));
+    return;
+  }
+
+  if(!fichiers.length && !etat.siteConfirme && etat.branchePages === etat.branche){
+    try{
+      const arbre2 = await github("/repos/" + etat.proprio + "/" + etat.depot +
+        "/git/trees/gh-pages?recursive=1");
+      fichiers = (arbre2.tree || []).filter(n =>
+        n.type === "blob" && /\.(xml|atom|rss)$/i.test(n.path) && !n.path.startsWith(".github/")
+      ).map(n => ({chemin:n.path, relatif:n.path}));
+      if(fichiers.length) etat.branchePages = "gh-pages";
+    }catch(e){}
+  }
+
+  if(!fichiers.length){
+    zone.innerHTML = '<div class="vide">Aucun flux publié pour le moment.<br>Ajoute une source, puis régénère : le fichier apparaîtra ici.</div>';
+    return;
+  }
+
+  const icone = '<svg class="icone-onde" width="20" height="20" viewBox="0 0 24 24" aria-hidden="true"><g fill="none" stroke="#E8641B" stroke-width="2.6" stroke-linecap="round"><circle cx="5.5" cy="18.5" r="1.6" fill="#E8641B" stroke="none"/><path d="M4 11.5a8.5 8.5 0 0 1 8.5 8.5"/><path d="M4 5a15 15 0 0 1 15 15"/></g></svg>';
+
+  fichiers.sort((a,b)=>a.relatif.localeCompare(b.relatif,"fr"));
+  for(const f of fichiers){
+    const adresse = etat.siteUrl + f.relatif;
+    const bloc = document.createElement("div");
+    bloc.className = "flux";
+    const nom = f.relatif.replace(/\.(xml|atom|rss)$/i,"").replace(/[-_]/g," ");
+    bloc.innerHTML =
+      '<div class="titre-flux">' + icone + '<span></span></div>' +
+      '<div class="adresse"></div>' +
+      '<div class="actions">' +
+        '<button class="copie">Copier l\'adresse</button>' +
+        '<a target="_blank" rel="noopener">Ouvrir</a>' +
+      '</div>';
+    bloc.querySelector(".titre-flux span").textContent = nom;
+    bloc.querySelector(".adresse").textContent = adresse;
+    bloc.querySelector("a").href = adresse;
+    bloc.querySelector("button.copie").addEventListener("click", ev => copierAdresse(ev.currentTarget, adresse));
+    zone.appendChild(bloc);
+  }
+
+  if(!etat.siteConfirme){
+    dire("messageFlux","info","Adresse du site déduite (le jeton n'a pas la permission Pages). Si un flux ne s'ouvre pas, vérifie l'adresse exacte dans les réglages Pages du dépôt.");
+  }
+}
+
+async function copierAdresse(bouton, adresse){
+  let reussi = false;
+  try{
+    await navigator.clipboard.writeText(adresse);
+    reussi = true;
+  }catch(e){
+    const z = document.createElement("textarea");
+    z.value = adresse;
+    z.style.position = "fixed"; z.style.opacity = "0";
+    document.body.appendChild(z);
+    z.select();
+    try{ reussi = document.execCommand("copy"); }catch(e2){}
+    z.remove();
+  }
+  if(reussi){
+    bouton.classList.add("fait");
+    bouton.textContent = "Adresse copiée";
+    setTimeout(()=>{ bouton.classList.remove("fait"); bouton.textContent = "Copier l'adresse"; }, 1800);
+  }else{
+    bouton.textContent = "Copie manuelle";
+  }
+}
+
+async function rafraichir(){
+  await chargerPages();
+  await listerFlux();
+  await etatGenerateur();
+}
+
+/* ---------- Générateur (Actions) ---------- */
+async function etatGenerateur(){
+  const voyant = $("voyantGenerateur");
+  const texte = $("texteGenerateur");
+  voyant.className = "voyant";
+  try{
+    const r = await github("/repos/" + etat.proprio + "/" + etat.depot + "/actions/runs?per_page=1");
+    const run = (r.workflow_runs || [])[0];
+    if(!run){ texte.textContent = "Générateur : aucun passage enregistré"; return; }
+    const quand = new Date(run.updated_at).toLocaleString("fr-FR",{day:"numeric",month:"short",hour:"2-digit",minute:"2-digit"});
+    if(run.status !== "completed"){
+      voyant.classList.add("orange");
+      texte.textContent = "Générateur : passage en cours (" + quand + ")";
+    }else if(run.conclusion === "success"){
+      voyant.classList.add("vert");
+      texte.textContent = "Générateur : dernier passage réussi, " + quand;
+    }else{
+      voyant.classList.add("rouge");
+      texte.textContent = "Générateur : dernier passage en échec (" + run.conclusion + "), " + quand;
+    }
+  }catch(e){
+    texte.textContent = "Générateur : état inaccessible avec ce jeton";
+  }
+}
+
+async function relancerGenerateur(){
+  taire("messageFlux");
+  if(!etat.workflowId){
+    dire("messageFlux","erreur","Aucun workflow trouvé dans le dépôt. La régénération suivra son rythme programmé.");
+    return;
+  }
+  const bouton = $("boutonRelance");
+  bouton.disabled = true;
+  try{
+    await github("/repos/" + etat.proprio + "/" + etat.depot +
+      "/actions/workflows/" + etat.workflowId + "/dispatches",
+      {method:"POST", body:{ref: etat.branche}});
+    dire("messageFlux","ok","Régénération lancée (" + etat.workflowNom + "). Compte deux à trois minutes, puis actualise la liste.");
+    setTimeout(etatGenerateur, 4000);
+  }catch(err){
+    if(err.statut === 422){
+      dire("messageFlux","info","Ce workflow n'accepte pas le lancement manuel. Ajoute workflow_dispatch dans son fichier .github/workflows, ou patiente : Cloclo repasse toutes les trois heures.");
+    }else{
+      dire("messageFlux","erreur", expliquer(err, "permission Actions"));
+    }
+  }finally{
+    bouton.disabled = false;
+  }
+}
+
+/* ---------- Ajout d'une source ---------- */
+let blocPrepare = "";
+
+function construireBloc(){
+  const url = $("ajUrl").value.trim();
+  const titre = $("ajTitre").value.trim();
+  const selecteur = $("ajSelecteur").value.trim();
+  const limite = $("ajLimite").value.trim();
+  const inclure = $("ajInclure").value.split(",").map(s=>s.trim()).filter(Boolean);
+  const exclure = $("ajExclure").value.split(",").map(s=>s.trim()).filter(Boolean);
+  const integral = $("ajTexteIntegral").checked;
+
+  if(!url || !/^https?:\/\//i.test(url)) return {erreur:"Donne l'adresse complète de la page, en http ou https."};
+  if(!titre) return {erreur:"Donne un titre au flux : c'est lui qui s'affichera dans l'agrégateur."};
+
+  let b = "- url: " + JSON.stringify(url) + "\n";
+  b += "  title: " + JSON.stringify(titre) + "\n";
+  if(selecteur) b += "  item: " + JSON.stringify(selecteur) + "\n";
+  if(limite){
+    const n = parseInt(limite,10);
+    if(!isNaN(n) && n>0) b += "  limit: " + n + "\n";
+  }
+  if(inclure.length) b += "  include: [" + inclure.map(m=>JSON.stringify(m)).join(", ") + "]\n";
+  if(exclure.length) b += "  exclude: [" + exclure.map(m=>JSON.stringify(m)).join(", ") + "]\n";
+  if(integral) b += "  full_text: true\n";
+  return {bloc:b};
+}
+
+function preparerAjout(){
+  taire("messageAjout");
+  const r = construireBloc();
+  if(r.erreur){
+    dire("messageAjout","erreur",r.erreur);
+    $("zoneRelecture").classList.add("cache");
+    return;
+  }
+  blocPrepare = r.bloc;
+  $("blocNouveau").textContent = r.bloc.trimEnd();
+  $("zoneRelecture").classList.remove("cache");
+
+  if(typeof jsyaml !== "undefined"){
+    try{
+      const base = etat.yamlTexte.endsWith("\n") || etat.yamlTexte === "" ? etat.yamlTexte : etat.yamlTexte + "\n";
+      jsyaml.loadAll(base + r.bloc);
+    }catch(e){
+      dire("messageAjout","erreur","Le fichier obtenu ne serait pas un YAML valide : " + e.message + " Vérifie tes entrées existantes dans l'onglet feeds.yaml.");
+    }
+  }
+}
+
+async function publierAjout(){
+  taire("messageAjout");
+  const bouton = $("boutonPublier");
+  bouton.disabled = true;
+  bouton.textContent = "Publication en cours";
+  try{
+    await chargerYaml(true);
+    const base = etat.yamlTexte === "" ? "" :
+      (etat.yamlTexte.endsWith("\n") ? etat.yamlTexte : etat.yamlTexte + "\n");
+    const nouveau = base + blocPrepare;
+    const titre = $("ajTitre").value.trim();
+    const corps = {
+      message: "Fluxothèque : ajout du flux " + titre,
+      content: texteVersB64(nouveau),
+      branch: etat.branche
+    };
+    if(etat.yamlSha) corps.sha = etat.yamlSha;
+    const r = await github("/repos/" + etat.proprio + "/" + etat.depot +
+      "/contents/" + encodeURIComponent(etat.fichier).replace(/%2F/g,"/"),
+      {method:"PUT", body:corps});
+    etat.yamlTexte = nouveau;
+    etat.yamlSha = r.content ? r.content.sha : "";
+    $("editeurYaml").value = nouveau;
+    $("zoneRelecture").classList.add("cache");
+    ["ajUrl","ajTitre","ajSelecteur","ajLimite","ajInclure","ajExclure"].forEach(id=>$(id).value="");
+    $("ajTexteIntegral").checked = false;
+    dire("messageAjout","ok","Source enregistrée dans " + etat.fichier + ". La régénération démarre toute seule, compte deux à trois minutes puis actualise la liste dans Mes flux.");
+  }catch(err){
+    dire("messageAjout","erreur", expliquer(err, "écriture de " + etat.fichier));
+  }finally{
+    bouton.disabled = false;
+    bouton.textContent = "Publier dans Cloclo";
+  }
+}
+
+/* ---------- YAML brut ---------- */
+async function enregistrerYaml(){
+  taire("messageYaml");
+  const texte = $("editeurYaml").value;
+  if(typeof jsyaml !== "undefined"){
+    try{ jsyaml.loadAll(texte); }
+    catch(e){
+      dire("messageYaml","erreur","YAML invalide, rien n'a été enregistré : " + e.message);
+      return;
+    }
+  }
+  try{
+    const corps = {
+      message: "Fluxothèque : mise à jour de " + etat.fichier,
+      content: texteVersB64(texte),
+      branch: etat.branche
+    };
+    if(etat.yamlSha) corps.sha = etat.yamlSha;
+    const r = await github("/repos/" + etat.proprio + "/" + etat.depot +
+      "/contents/" + encodeURIComponent(etat.fichier).replace(/%2F/g,"/"),
+      {method:"PUT", body:corps});
+    etat.yamlTexte = texte;
+    etat.yamlSha = r.content ? r.content.sha : "";
+    dire("messageYaml","ok","Fichier enregistré dans le dépôt.");
+  }catch(err){
+    if(err.statut === 409){
+      dire("messageYaml","erreur","Le fichier a changé dans le dépôt depuis ton chargement. Recharge, reporte tes modifications, puis enregistre.");
+    }else{
+      dire("messageYaml","erreur", expliquer(err, "écriture de " + etat.fichier));
+    }
+  }
+}
+
+async function rechargerYaml(){
+  taire("messageYaml");
+  try{
+    await chargerYaml(true);
+    dire("messageYaml","ok","Fichier rechargé depuis le dépôt.");
+  }catch(err){
+    dire("messageYaml","erreur", expliquer(err, "lecture de " + etat.fichier));
+  }
+}
+
+function ouvrirConnexion(){
+  $("panneauConnexion").classList.remove("cache");
+  window.scrollTo({top:0});
+}
+
+/* ---------- Départ ---------- */
+$("champDepot").value = "Cloclo";
+$("champProprio").value = "thomasstamm75";
+
+(function preremplirDepuisAdresse(){
+  const h = location.hostname;
+  if(h.endsWith(".github.io")){
+    $("champProprio").value = h.replace(".github.io","");
+    const morceaux = location.pathname.split("/").filter(Boolean);
+    if(morceaux.length) $("champDepot").value = morceaux[0];
+  }
+})();
+
+(async function testerAcces(){
+  try{
+    const r = await fetch("https://api.github.com/rate_limit", {method:"GET"});
+    if(!r.ok && r.status !== 401 && r.status !== 403) throw new Error("inaccessible");
+  }catch(e){
+    $("bandeauSandbox").classList.add("visible");
+  }
+})();
+
+chargerConfig();
+</script>
+</body>
+</html>
