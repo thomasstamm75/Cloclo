@@ -157,11 +157,36 @@ sortantes arbitraires.
 | --- | --- |
 | `rssgen inspect <url>` | cherche un flux existant, propose des sélecteurs |
 | `rssgen preview <url>` | affiche le flux sans toucher à la configuration |
+| `rssgen make <url>` | écrit le flux d'une seule page, sans configuration |
+| `rssgen from-items <json>` | construit un flux depuis une liste d'articles déjà relevée |
 | `rssgen add <url>` | ajoute la page à `feeds.yaml` |
 | `rssgen build` | génère tous les flux dans `docs/` |
 | `rssgen list` | liste les flux configurés |
 | `rssgen check` | valide `feeds.yaml` sans rien télécharger |
 | `rssgen serve` | sert les flux à la demande |
+
+### Travailler sur une page déjà enregistrée
+
+`inspect`, `preview` et `make` acceptent `--html <fichier>` : la page est lue
+depuis le disque au lieu du réseau. C'est commode pour mettre au point un
+sélecteur sans solliciter le site à chaque essai, et indispensable là où le
+processus Python n'a pas accès à Internet.
+
+```bash
+curl -sL https://exemple.fr/actualites -o page.html
+python -m rssgen make https://exemple.fr/actualites --html page.html -o flux.xml
+```
+
+L'adresse reste obligatoire : elle sert à rendre absolus les liens relatifs de
+la page.
+
+Quand la page n'est lisible ni par `rssgen` ni par `curl` (rendu JavaScript,
+par exemple), `from-items` construit le flux à partir d'une liste d'articles
+en JSON — seuls `title` et `link` sont requis :
+
+```bash
+python -m rssgen from-items articles.json --url https://exemple.fr/actualites -o flux.xml
+```
 
 ## Bon voisinage
 
@@ -173,6 +198,28 @@ publier un flux vide qui viderait la liste dans Feeder.
 
 Vérifiez les conditions d'utilisation des sites que vous suivez, et gardez un
 rythme de relevé raisonnable.
+
+## Le skill `/fluxrss`
+
+`.claude/skills/fluxrss/` contient un skill Claude qui pilote tout le
+processus : recherche d'un flux existant, extraction, écriture du `.xml` et
+mise en ligne. Il embarque une copie de `rssgen`, donc il fonctionne seul,
+dans n'importe quelle conversation, sans le dépôt.
+
+Pour l'installer, produisez l'archive et importez-la dans vos skills Claude :
+
+```bash
+python -m scripts.package_skill .claude/skills/fluxrss   # depuis skill-creator
+```
+
+La copie embarquée doit rester alignée sur `rssgen/`. Après toute modification
+du paquet :
+
+```bash
+cp rssgen/*.py .claude/skills/fluxrss/scripts/rssgen/
+```
+
+Un test vérifie cet alignement et échoue si les deux copies divergent.
 
 ## Tests
 

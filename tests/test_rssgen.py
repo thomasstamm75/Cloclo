@@ -348,3 +348,223 @@ def test_flux_desactive_absent_des_actifs(tmp_path):
                         "feeds:\n  - id: a\n    url: https://x.fr/1\n    enabled: false\n")
     config = load_config(path)
     assert len(config.feeds) == 1 and config.active == []
+
+
+# ------------------------------------------------- ligne de commande hors ligne
+def test_make_ecrit_un_flux_depuis_un_fichier_local(tmp_path, capsys):
+    from rssgen.cli import main
+
+    sortie = tmp_path / "flux.xml"
+    code = main(["make", "https://blog.example/",
+                 "--html", str(FIXTURES / "wordpress.html"),
+                 "--title", "Le blog", "-o", str(sortie)])
+    assert code == 0 and sortie.exists()
+    channel = ET.fromstring(sortie.read_text(encoding="utf-8")).find("channel")
+    assert channel.findtext("title") == "Le blog"
+    assert len(channel.findall("item")) == 4
+
+
+def test_make_sans_fichier_de_sortie_ecrit_sur_la_sortie_standard(capsys):
+    from rssgen.cli import main
+
+    assert main(["make", "https://actu.example/",
+                 "--html", str(FIXTURES / "cards.html")]) == 0
+    assert "<rss" in capsys.readouterr().out
+
+
+def test_make_memorise_les_dates_entre_deux_appels(tmp_path):
+    from rssgen.cli import main
+
+    etat, premier, second = tmp_path / "etat", tmp_path / "1.xml", tmp_path / "2.xml"
+    commande = ["make", "https://veille.example/",
+                "--html", str(FIXTURES / "nodate.html"), "--state", str(etat)]
+    main(commande + ["-o", str(premier)])
+    main(commande + ["-o", str(second)])
+
+    def dates(chemin: Path) -> list[str]:
+        channel = ET.fromstring(chemin.read_text(encoding="utf-8")).find("channel")
+        return [item.findtext("pubDate") for item in channel.findall("item")]
+
+    assert dates(premier) == dates(second)
+
+
+def test_make_signale_une_page_sans_article(tmp_path, capsys):
+    from rssgen.cli import main
+
+    vide = tmp_path / "vide.html"
+    vide.write_text("<html><body><h1>Rien</h1></body></html>", encoding="utf-8")
+    assert main(["make", "https://x.fr/", "--html", str(vide)]) == 1
+    assert "--item" in capsys.readouterr().err
+
+
+def test_make_respecte_un_selecteur_impose(tmp_path):
+    from rssgen.cli import main
+
+    sortie = tmp_path / "flux.xml"
+    main(["make", "https://actu.example/", "--html", str(FIXTURES / "cards.html"),
+          "--item", "div.card", "-o", str(sortie)])
+    channel = ET.fromstring(sortie.read_text(encoding="utf-8")).find("channel")
+    assert len(channel.findall("item")) == 4
+
+
+def test_inspect_sur_fichier_local_propose_un_selecteur(capsys):
+    from rssgen.cli import main
+
+    assert main(["inspect", "https://blog.example/",
+                 "--html", str(FIXTURES / "wordpress.html")]) == 0
+    sortie = capsys.readouterr().out
+    assert "article.post" in sortie and "Aucun flux existant" in sortie
+
+
+def test_preview_sur_fichier_local(capsys):
+    from rssgen.cli import main
+
+    assert main(["preview", "https://blog.example/",
+                 "--html", str(FIXTURES / "wordpress.html")]) == 0
+    assert "La réforme budgétaire" in capsys.readouterr().out
+
+
+def test_fichier_html_absent_signale_proprement(capsys):
+    from rssgen.cli import main
+
+    assert main(["make", "https://x.fr/", "--html", "/inexistant/page.html"]) == 3
+    assert "introuvable" in capsys.readouterr().err
+
+
+def test_from_items_construit_un_flux_depuis_du_json(tmp_path):
+    import json as json_module
+
+    from rssgen.cli import main
+
+    source = tmp_path / "items.json"
+    source.write_text(json_module.dumps([
+        {"title": "Première note", "link": "/note/1", "date": "12 mars 2026",
+         "summary": "Analyse."},
+        {"title": "Seconde note", "link": "https://x.fr/note/2", "author": "F. E."},
+    ]), encoding="utf-8")
+
+    sortie = tmp_path / "flux.xml"
+    assert main(["from-items", str(source), "--url", "https://x.fr/notes",
+                 "--title", "Notes", "-o", str(sortie)]) == 0
+
+    channel = ET.fromstring(sortie.read_text(encoding="utf-8")).find("channel")
+    items = channel.findall("item")
+    assert len(items) == 2
+    # Le lien relatif doit devenir absolu, sinon il est inutilisable dans Feeder.
+    assert items[0].findtext("link") == "https://x.fr/note/1"
+    assert "Mar 2026" in items[0].findtext("pubDate")
+
+
+def test_from_items_ignore_les_entrees_sans_titre_ou_sans_lien(tmp_path, capsys):
+    import json as json_module
+
+    from rssgen.cli import main
+
+    source = tmp_path / "items.json"
+    source.write_text(json_module.dumps([
+        {"title": "Valable", "link": "/a"},
+        {"title": "", "link": "/b"},
+        {"title": "Sans lien"},
+        "pas un objet",
+    ]), encoding="utf-8")
+    sortie = tmp_path / "flux.xml"
+    assert main(["from-items", str(source), "--url", "https://x.fr/",
+                 "-o", str(sortie)]) == 0
+    assert "3 entrée(s) ignorée(s)" in capsys.readouterr().out
+
+
+def test_from_items_accepte_un_objet_englobant(tmp_path):
+    import json as json_module
+
+    from rssgen.cli import main
+
+    source = tmp_path / "items.json"
+    source.write_text(json_module.dumps(
+        {"items": [{"title": "Une note", "link": "/a"}]}), encoding="utf-8")
+    sortie = tmp_path / "flux.xml"
+    assert main(["from-items", str(source), "--url", "https://x.fr/",
+                 "-o", str(sortie)]) == 0
+    assert sortie.exists()
+
+
+def test_from_items_refuse_un_json_invalide(tmp_path, capsys):
+    from rssgen.cli import main
+
+    source = tmp_path / "items.json"
+    source.write_text("{ pas du json", encoding="utf-8")
+    assert main(["from-items", str(source), "--url", "https://x.fr/"]) == 1
+    assert "JSON invalide" in capsys.readouterr().err
+
+
+def test_from_items_refuse_une_liste_vide(tmp_path, capsys):
+    from rssgen.cli import main
+
+    source = tmp_path / "items.json"
+    source.write_text("[]", encoding="utf-8")
+    assert main(["from-items", str(source), "--url", "https://x.fr/"]) == 1
+    assert "liste non vide" in capsys.readouterr().err
+
+
+def test_le_mode_hors_ligne_ne_depend_que_de_beautifulsoup(tmp_path):
+    """Le skill embarque le paquet : « make --html » doit tourner sans requests
+    ni PyYAML, pour que son installation reste légère."""
+    import subprocess
+    import sys
+    import textwrap
+
+    sortie = tmp_path / "flux.xml"
+    code = textwrap.dedent(f"""
+        import builtins, sys
+        _vrai = builtins.__import__
+        def bloque(nom, *a, **k):
+            if nom.split(".")[0] in {{"requests", "yaml"}}:
+                raise ImportError(nom)
+            return _vrai(nom, *a, **k)
+        builtins.__import__ = bloque
+        sys.path.insert(0, {str(Path(__file__).parent.parent)!r})
+        from rssgen.cli import main
+        sys.exit(main(["make", "https://actu.example/",
+                       "--html", {str(FIXTURES / 'cards.html')!r},
+                       "-o", {str(sortie)!r}]))
+    """)
+    resultat = subprocess.run([sys.executable, "-c", code],
+                              capture_output=True, text=True)
+    assert resultat.returncode == 0, resultat.stderr
+    assert "<rss" in sortie.read_text(encoding="utf-8")
+
+
+def test_la_copie_embarquee_dans_le_skill_est_identique_au_paquet():
+    """Le skill vendorise rssgen pour fonctionner seul. Si les deux copies
+    divergent, le skill livrerait un comportement différent du dépôt."""
+    import filecmp
+
+    source = Path(__file__).parent.parent / "rssgen"
+    copie = (Path(__file__).parent.parent
+             / ".claude" / "skills" / "fluxrss" / "scripts" / "rssgen")
+    if not copie.exists():
+        pytest.skip("copie embarquée absente")
+
+    attendus = sorted(p.name for p in source.glob("*.py"))
+    obtenus = sorted(p.name for p in copie.glob("*.py"))
+    assert obtenus == attendus, "des fichiers manquent ou sont en trop dans le skill"
+
+    rapport = filecmp.cmpfiles(source, copie, attendus, shallow=False)
+    assert not rapport[1], (
+        f"copie désynchronisée : {rapport[1]}. "
+        f"Relancer : cp rssgen/*.py .claude/skills/fluxrss/scripts/rssgen/")
+
+
+def test_l_ordre_de_la_page_est_conserve_quand_il_n_y_a_pas_de_date(tmp_path):
+    """Sans dates, des articles découverts ensemble doivent rester dans l'ordre
+    de la page, sinon l'agrégateur les mélange."""
+    from rssgen.cli import main
+
+    sortie = tmp_path / "flux.xml"
+    assert main(["make", "https://veille.example/",
+                 "--html", str(FIXTURES / "nodate.html"),
+                 "--state", str(tmp_path / "etat"), "-o", str(sortie)]) == 0
+
+    channel = ET.fromstring(sortie.read_text(encoding="utf-8")).find("channel")
+    titres = [item.findtext("title") for item in channel.findall("item")]
+    assert titres[0].startswith("Note de synthèse")
+    assert titres[-1].startswith("Perspectives")
