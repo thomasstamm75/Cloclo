@@ -1,5 +1,5 @@
 {
- "etag": "\"eadd2dc7d4a9716119a5cf1495eb9546-gzip\"",
+ "etag": "\"f473ae645feaa206178bbb6bae556aee-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/attaques-ukrainiennes-contre-les-geants-du-commerce-en-ligne-les-russes-sont-rattrapes-par-la-guerre_8083208.html": "2026-08-29T15:02:45.999397+00:00",
@@ -28,13 +28,29 @@
   "https://www.franceinfo.fr/monde/proche-orient/liban/au-liban-le-hezbollah-rejette-a-nouveau-l-accord-avec-israel-et-refuse-de-se-rendre_8167190.html": "2026-08-29T15:02:45.999397+00:00",
   "https://www.franceinfo.fr/culture/arts-expos/peinture/le-royaume-uni-bloque-l-exportation-d-un-tableau-rembrandt-estime-a-83-millions-d-euros_8167109.html": "2026-08-29T15:02:45.999397+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-ex-ministre-ukrainien-mykhailo-fedorov-critique-de-volodymyr-zelensky-devient-conseiller-a-la-defense-en-italie_8167115.html": "2026-08-29T15:02:45.999397+00:00",
-  "https://www.franceinfo.fr/monde/palestine/l-armee-israelienne-annonce-avoir-tue-trois-terroristes-dans-une-rare-frappe-en-cisjordanie-occupee_8167028.html": "2026-08-29T15:02:45.999397+00:00",
-  "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/crues-meurtrieres-au-nepal-et-au-tibet/deux-de-mes-collaborateurs-ont-disparu-un-guide-francais-habitue-de-la-region-temoigne-apres-les-crues-meurtrieres-au-nepal_8166752.html": "2026-08-29T15:02:45.999397+00:00",
   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/crues-meurtrieres-au-nepal-et-au-tibet/au-nepal-une-nouvelle-coulee-de-boue-moins-alarmante-que-prevu-apres-les-crues-meurtrieres_8153621.html": "2026-08-29T15:04:59.158431+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/reportage-quand-il-y-a-des-frappes-la-chaufferie-s-arrete-en-ukraine-la-ville-de-kryvyi-rih-s-active-pour-reparer-ses-reseaux-de-chauffage-avant-l-hiver_8166494.html": "2026-08-29T15:04:59.158431+00:00"
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/reportage-quand-il-y-a-des-frappes-la-chaufferie-s-arrete-en-ukraine-la-ville-de-kryvyi-rih-s-active-pour-reparer-ses-reseaux-de-chauffage-avant-l-hiver_8166494.html": "2026-08-29T15:04:59.158431+00:00",
+  "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/appel-a-temoignages-la-visite-du-pape-leon-xiv-en-france-est-un-evenement-que-vous-ne-manqueriez-pour-rien-au-monde-racontez-nous_8165303.html": "2026-08-29T15:07:29.757796+00:00",
+  "https://www.franceinfo.fr/faits-divers/incendie/plus-de-cinq-millions-de-personnes-exposees-aux-fumees-a-cause-d-incendies-en-indonesie-les-autorites-intensifient-leur-lutte-contre-les-feux_8166746.html": "2026-08-29T15:07:29.757796+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": ": Appel à témoignages La visite du pape Léon XIV en France est un événement que vous ne manqueriez pour rien au monde ? Racontez-nous Des milliers de personnes se sont inscrites pour la messe que doit célébrer le souverain pontife place de la Concorde, à Paris. Le pape assistera par ailleurs à une veillée de prières au Stade de France et se rendra les jours suivants à Lourdes (Hautes-Pyrénées) et à Metz (Moselle).",
+   "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/appel-a-temoignages-la-visite-du-pape-leon-xiv-en-france-est-un-evenement-que-vous-ne-manqueriez-pour-rien-au-monde-racontez-nous_8165303.html",
+   "summary": "La visite du pape Léon XIV en France est un événement que vous ne manqueriez pour rien au monde ? Racontez-nous",
+   "image": "https://www.franceinfo.fr/pictures/COBZ-ilQyrwgngg02OxTUCsz9OM/0x53:1024x629/432x243/filters:format(jpg)/2026/08/27/6a9051e07b000754687598.jpg",
+   "date": null,
+   "pubdate": "2026-08-29T15:07:29.757796+00:00"
+  },
+  {
+   "title": "Plus de cinq millions de personnes exposées aux fumées à cause d'incendies en Indonésie, les autorités intensifient leur lutte contre les feux Quelque 13 500 personnes ont été soignées pour des infections respiratoires en juillet et août, tandis que plus de 200 000 hectares ont brûlé depuis le début de l'année.",
+   "link": "https://www.franceinfo.fr/faits-divers/incendie/plus-de-cinq-millions-de-personnes-exposees-aux-fumees-a-cause-d-incendies-en-indonesie-les-autorites-intensifient-leur-lutte-contre-les-feux_8166746.html",
+   "summary": "Plus de cinq millions de personnes exposées aux fumées à cause d'incendies en Indonésie, les autorités intensifient leur lutte contre les feux",
+   "image": "https://www.franceinfo.fr/pictures/1u4CbkrDJh7Z8ZsAJLFWeqbtDwU/0x106:1024x682/432x243/filters:format(jpg)/2026/08/28/6a91ac3b5a1fe669815925.jpg",
+   "date": null,
+   "pubdate": "2026-08-29T15:07:29.757796+00:00"
+  },
   {
    "title": "Au Népal, une nouvelle coulée de boue moins alarmante que prévu après les crues meurtrières Dès vendredi matin, les autorités chinoises avaient lancé l'alerte d'une retenue d'eau en surplomb d'une zone déjà dévastée depuis deux jours, avant de se montrer plus rassurante face à l'évolution favorable de la situation.",
    "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/crues-meurtrieres-au-nepal-et-au-tibet/au-nepal-une-nouvelle-coulee-de-boue-moins-alarmante-que-prevu-apres-les-crues-meurtrieres_8153621.html",
@@ -256,22 +272,6 @@
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-ex-ministre-ukrainien-mykhailo-fedorov-critique-de-volodymyr-zelensky-devient-conseiller-a-la-defense-en-italie_8167115.html",
    "summary": "L'ex-ministre ukrainien Mykhaïlo Fedorov, détracteur de Volodymyr Zelensky, devient conseiller à la défense en Italie",
    "image": "https://www.franceinfo.fr/pictures/UDc7wiqCcB_e17Sp7gnqXJCRxu4/0x0:6876x3867/432x243/filters:format(jpg)/2026/08/28/6a91e2331064e339580046.jpg",
-   "date": null,
-   "pubdate": "2026-08-29T15:02:45.999397+00:00"
-  },
-  {
-   "title": "L'armée israélienne annonce avoir tué \"trois terroristes\" dans une rare frappe en Cisjordanie occupée Israël a présenté ces trois hommes tués dans la région de Jénine comme des membres du Hamas, mais une autre organisation, le Jihad islamique, les a revendiqués comme ses combattants.",
-   "link": "https://www.franceinfo.fr/monde/palestine/l-armee-israelienne-annonce-avoir-tue-trois-terroristes-dans-une-rare-frappe-en-cisjordanie-occupee_8167028.html",
-   "summary": "L'armée israélienne annonce avoir tué \"trois terroristes\" dans une rare frappe en Cisjordanie occupée",
-   "image": "https://www.franceinfo.fr/pictures/-CVcEBbZsDsZX4_ID_FPx1vakj0/0x92:7642x4391/432x243/filters:format(jpg)/2026/08/28/6a91bd358418f315388720.jpg",
-   "date": null,
-   "pubdate": "2026-08-29T15:02:45.999397+00:00"
-  },
-  {
-   "title": "\"Deux de mes collaborateurs ont disparu\" : un guide français habitué de la région témoigne après les crues meurtrières au Népal Une gigantesque coulée de boue a tout englouti sur son passage mercredi au Népal. Le guide et accompagnateur français Simon Allix, familier des lieux, décrit les conditions de voyage dans la zone aujourd'hui dévastée.",
-   "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/crues-meurtrieres-au-nepal-et-au-tibet/deux-de-mes-collaborateurs-ont-disparu-un-guide-francais-habitue-de-la-region-temoigne-apres-les-crues-meurtrieres-au-nepal_8166752.html",
-   "summary": "\"Deux de mes collaborateurs ont disparu\" : un guide français habitué de la région témoigne après les crues meurtrières au Népal",
-   "image": "https://www.franceinfo.fr/pictures/mKHEhbumNiWD6n5yqqv39t2cFXs/0x0:997x561/432x243/filters:format(jpg)/2026/08/28/6a91a3011860e176091447.jpg",
    "date": null,
    "pubdate": "2026-08-29T15:02:45.999397+00:00"
   }
