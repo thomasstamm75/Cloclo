@@ -1,17 +1,12 @@
 {
- "etag": "\"a8f4469529eb53502525b4fd988c485a-gzip\"",
+ "etag": "\"4f9426f13442f042b2d3a6fa7194b178-gzip\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/attaques-ukrainiennes-contre-les-geants-du-commerce-en-ligne-les-russes-sont-rattrapes-par-la-guerre_8083208.html": "2026-08-29T15:02:45.999397+00:00",
   "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/six-mois-apres-le-debut-de-la-guerre-en-iran-donald-trump-cherche-toujours-une-porte-de-sortie-a-l-approche-des-elections-americaines-de-mi-mandat_8160953.html": "2026-08-29T15:02:45.999397+00:00",
   "https://www.franceinfo.fr/monde/usa/affaire-jeffrey-epstein/l-essentiel-des-revelations-sur-l-affaire-epstein/": "2026-08-29T15:02:45.999397+00:00",
   "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/tout-comprendre-a-la-guerre-au-moyen-orient/": "2026-08-29T15:02:45.999397+00:00",
   "https://www.franceinfo.fr/monde/groenland/le-groenland-au-c-ur-d-un-bras-de-fer-geopolitique/": "2026-08-29T15:02:45.999397+00:00",
   "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/un-an-de-donald-trump-au-pouvoir/": "2026-08-29T15:02:45.999397+00:00",
-  "https://www.franceinfo.fr/monde/coree-du-sud/entre-modernite-et-traditions-bien-ancrees-comment-vit-on-en-coree-du-sud_8161439.html": "2026-08-29T15:02:45.999397+00:00",
-  "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-visite-du-pape-a-metz-c-est-un-formidable-coup-de-projecteur-sur-la-ville-estime-le-maire_8134199.html": "2026-08-29T15:02:45.999397+00:00",
-  "https://www.franceinfo.fr/monde/bresil/belem-ou-l-art-de-vivre-a-la-bresilienne_8160122.html": "2026-08-29T15:02:45.999397+00:00",
-  "https://www.franceinfo.fr/monde/italie/jouer-au-curling-au-pied-du-colisee-une-experience-inedite_8166599.html": "2026-08-29T18:24:54.320156+00:00",
   "https://www.franceinfo.fr/culture/arts-expos/peinture/le-royaume-uni-bloque-l-exportation-d-un-tableau-rembrandt-estime-a-83-millions-d-euros_8167109.html": "2026-08-29T18:24:54.320156+00:00",
   "https://www.franceinfo.fr/monde/italie/l-italie-propose-de-verbaliser-les-pietons-au-telephone_8167082.html": "2026-08-29T21:24:57.624161+00:00",
   "https://www.franceinfo.fr/replay-jt/france-2/20-heures/des-milliers-de-morts-par-an-le-fleau-des-attaques-de-serpents-au-kenya_8168879.html": "2026-08-29T21:24:57.624161+00:00",
@@ -31,10 +26,55 @@
   "https://www.franceinfo.fr/internet/reseaux-sociaux/facebook/l-accord-signe-par-meta-aux-etats-unis-est-une-bonne-nouvelle-pour-thierry-breton_8168165.html": "2026-08-30T06:24:55.494082+00:00",
   "https://www.franceinfo.fr/environnement/energie/energies-fossiles/totalenergies/totalenergies-maintiendra-son-plafonnement-des-prix-des-carburants-tant-que-le-conflit-durera-au-moyen-orient-reaffirme-son-pdg-patrick-pouyanne_8168288.html": "2026-08-30T07:23:41.948837+00:00",
   "https://www.franceinfo.fr/monde/usa/l-administration-trump-sur-le-point-de-ceder-une-partie-du-parc-yosemite-en-californie_8168264.html": "2026-08-30T07:23:41.948837+00:00",
-  "https://www.franceinfo.fr/monde/japon/il-faut-proteger-notre-culture-des-japonais-surpris-de-ne-pas-avoir-ete-consultes-sur-le-futur-parc-francais-dragon-ball-z_8167955.html": "2026-08-30T07:23:41.948837+00:00"
+  "https://www.franceinfo.fr/monde/japon/il-faut-proteger-notre-culture-des-japonais-surpris-de-ne-pas-avoir-ete-consultes-sur-le-futur-parc-francais-dragon-ball-z_8167955.html": "2026-08-30T07:23:41.948837+00:00",
+  "https://www.franceinfo.fr/monde/venezuela/le-venezuela-conserve-propriete-et-souverainete-de-son-petrole-assure-la-presidente-delcy-rodriguez-apres-l-accord-conclu-avec-les-etats-unis_8169308.html": "2026-08-30T09:24:48.462261+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-russie-dit-preparer-des-frappes-massives-contre-le-secteur-energetique-de-l-ukraine_8169281.html": "2026-08-30T09:24:48.462261+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-pleine-guerre-en-ukraine-le-maire-d-odessa-met-en-place-des-abris-contre-les-drones-russes-sur-ses-plages-pour-proteger-ses-vacanciers_8167196.html": "2026-08-30T09:24:48.462261+00:00",
+  "https://www.franceinfo.fr/monde/turquie/en-turquie-un-celebre-humoriste-a-nouveau-arrete-apres-avoir-ete-libere-dans-une-premiere-affaire_8168501.html": "2026-08-30T09:24:48.462261+00:00",
+  "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/le-president-iranien-appelle-la-population-a-accepter-les-consequences-economiques-de-la-guerre-au-moyen-orient_8168261.html": "2026-08-30T09:24:48.462261+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "Le Venezuela \"conserve propriété et souveraineté\" de son pétrole, assure la présidente Delcy Rodriguez après l'accord conclu avec les Etats-Unis Les deux pays ont signé un accord \"historique\" sur l'or noir. Mais cette décision suscite des critiques, certains y voyant un texte plus avantageux pour Washington que pour Caracas.",
+   "link": "https://www.franceinfo.fr/monde/venezuela/le-venezuela-conserve-propriete-et-souverainete-de-son-petrole-assure-la-presidente-delcy-rodriguez-apres-l-accord-conclu-avec-les-etats-unis_8169308.html",
+   "summary": "Le Venezuela \"conserve propriété et souveraineté\" de son pétrole, assure la présidente Delcy Rodriguez après l'accord conclu avec les Etats-Unis",
+   "image": "https://www.franceinfo.fr/pictures/0NeWYG3GWWvObJg9T1WTEbojGtE/16x0:1008x682/432x297/filters:format(jpg)/2026/08/30/6a93ed214f0d2224482345.jpg",
+   "date": null,
+   "pubdate": "2026-08-30T09:24:48.462261+00:00"
+  },
+  {
+   "title": "La Russie se prépare à des \"frappes massives\" contre le \"secteur énergétique\" de l'Ukraine",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-russie-dit-preparer-des-frappes-massives-contre-le-secteur-energetique-de-l-ukraine_8169281.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/iIYfLZsjPHfX77UrNjL2DoPl7H4/0x53:1024x629/432x243/filters:format(jpg)/2026/08/30/6a93e638cd3dc364093810.jpg",
+   "date": null,
+   "pubdate": "2026-08-30T09:24:48.462261+00:00"
+  },
+  {
+   "title": "En pleine guerre en Ukraine, le maire d'Odessa met en place des abris contre les drones russes sur ses plages pour protéger ses vacanciers Sur le front ukrainien, la pause estivale n'existe pas. Les attaques de drones russes perdurent, au point de tuer des vacanciers ukrainiens et de pousser la municipalité à installer sept abris pour leur permettre de se mettre à l'abri.",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-pleine-guerre-en-ukraine-le-maire-d-odessa-met-en-place-des-abris-contre-les-drones-russes-sur-ses-plages-pour-proteger-ses-vacanciers_8167196.html",
+   "summary": "En pleine guerre en Ukraine, le maire d'Odessa met en place des abris contre les drones russes sur ses plages pour protéger ses vacanciers",
+   "image": "https://www.franceinfo.fr/pictures/ZTXjASA2EHpbdnovNUhmu58guI4/0x213:3635x2258/432x243/filters:format(jpg)/2026/08/28/6a91f3cb9bb18197662680.jpg",
+   "date": null,
+   "pubdate": "2026-08-30T09:24:48.462261+00:00"
+  },
+  {
+   "title": "En Turquie, le célèbre humoriste Deniz Göktas à nouveau arrêté après avoir été libéré dans une première affaire Détenu d'abord à Istanbul, le comédien a été transféré dans la ville de Corlu, dans le nord-ouest du pays.",
+   "link": "https://www.franceinfo.fr/monde/turquie/en-turquie-un-celebre-humoriste-a-nouveau-arrete-apres-avoir-ete-libere-dans-une-premiere-affaire_8168501.html",
+   "summary": "En Turquie, le célèbre humoriste Deniz Göktas à nouveau arrêté après avoir été libéré dans une première affaire",
+   "image": "https://www.franceinfo.fr/pictures/w6WlX_BwYeYz9zatTRJsHngQNZE/0x65:1024x641/432x243/filters:format(jpg)/2026/08/29/6a92c9a36a028487783609.jpg",
+   "date": null,
+   "pubdate": "2026-08-30T09:24:48.462261+00:00"
+  },
+  {
+   "title": "Le président iranien appelle la population à \"accepter\" les conséquences économiques de la guerre au Moyen-Orient Cette déclaration intervient alors que les Etats-Unis ont annoncé un nouveau paquet de sanctions contre les partenaires commerciaux de l'Iran pour l'\"asphyxier économiquement\".",
+   "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/le-president-iranien-appelle-la-population-a-accepter-les-consequences-economiques-de-la-guerre-au-moyen-orient_8168261.html",
+   "summary": "Le président iranien appelle la population à \"accepter\" les conséquences économiques de la guerre au Moyen-Orient",
+   "image": "https://www.franceinfo.fr/pictures/aaDQO19VQbT0GJcoUHHoAIqqxrU/0x270:5203x3197/432x243/filters:format(jpg)/2026/08/29/6a92c5bf556ca386666624.jpg",
+   "date": null,
+   "pubdate": "2026-08-30T09:24:48.462261+00:00"
+  },
   {
    "title": "TotalEnergies maintiendra son plafonnement des prix des carburants \"tant que le conflit durera\" au Moyen-Orient, réaffirme son PDG Patrick Pouyanné Ce plafonnement des prix à la pompe a été mis en place par TotalEnergies en mars dernier, peu après le début de la guerre au Moyen-Orient.",
    "link": "https://www.franceinfo.fr/environnement/energie/energies-fossiles/totalenergies/totalenergies-maintiendra-son-plafonnement-des-prix-des-carburants-tant-que-le-conflit-durera-au-moyen-orient-reaffirme-son-pdg-patrick-pouyanne_8168288.html",
@@ -60,10 +100,10 @@
    "pubdate": "2026-08-30T07:23:41.948837+00:00"
   },
   {
-   "title": "\"Nous sommes peut-être le jour d’après Einstein\" : le télescope spatial Nancy Grace Roman va tenter de percer le mystère de l’énergie sombre Lancé dimanche pour une mission d'environ 5 ans, l'engin cosmologique va tenter de cartographier le cosmos et de répondre à l'un des plus gros mystères de notre monde : comprendre ce qu'est l'énergie sombre, au cœur de l'expansion de l'Univers.",
+   "title": "\"Nous sommes peut-être le jour d’après Einstein\" : le télescope spatial Nancy Grace Roman va tenter de percer le mystère de l’énergie sombre",
    "link": "https://www.franceinfo.fr/sciences/espace/nous-sommes-peut-etre-le-jour-d-apres-einstein-le-telescope-spatial-nancy-grace-roman-va-tenter-de-percer-le-mystere-de-l-energie-sombre_8168552.html",
-   "summary": "\"Nous sommes peut-être le jour d’après Einstein\" : le télescope spatial Nancy Grace Roman va tenter de percer le mystère de l’énergie sombre",
-   "image": "https://www.franceinfo.fr/pictures/72gZhFf-x08A3PgGAzeMDbYngLY/3x0:3145x2160/432x297/filters:format(jpg)/2026/08/29/6a92ecc4d8166731749321.jpg",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/2Fd4MZorBe0GKmkHOMieoeehjlE/0x0:3840x2160/432x243/filters:format(jpg)/2026/08/29/6a92ecc4d8166731749321.jpg",
    "date": null,
    "pubdate": "2026-08-30T06:24:55.494082+00:00"
   },
@@ -100,9 +140,9 @@
    "pubdate": "2026-08-30T06:24:55.494082+00:00"
   },
   {
-   "title": "Guerre en Ukraine : une frappe russe sur un entrepôt contenant des munitions fait au moins 37 morts près de Kiev Volodymyr Zelensky a fait état, samedi, de \"détonations à grande échelle d'obus, de mines, d'autres munitions et de drones\", qui n'auraient \"absolument pas dû\" se trouver dans la zone résidentielle touchée.",
+   "title": "Guerre en Ukraine : une frappe russe sur un entrepôt contenant des munitions fait au moins 38 morts près de Kiev Volodymyr Zelensky a fait état, samedi, de \"détonations à grande échelle d'obus, de mines, d'autres munitions et de drones\", qui n'auraient \"absolument pas dû\" se trouver dans la zone résidentielle touchée.",
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-ukraine-une-frappe-russe-fait-au-moins-27-morts-dans-un-entrepot-pres-de-kiev_8168213.html",
-   "summary": "Guerre en Ukraine : une frappe russe sur un entrepôt contenant des munitions fait au moins 37 morts près de Kiev",
+   "summary": "Guerre en Ukraine : une frappe russe sur un entrepôt contenant des munitions fait au moins 38 morts près de Kiev",
    "image": "https://www.franceinfo.fr/pictures/KYyZF39j8SavVCumK5fDVqiuZ7w/0x192:3688x2266/432x243/filters:format(jpg)/2026/08/29/6a92df6eb00f9801958522.jpg",
    "date": null,
    "pubdate": "2026-08-30T06:24:55.494082+00:00"
@@ -188,28 +228,12 @@
    "pubdate": "2026-08-29T21:24:57.624161+00:00"
   },
   {
-   "title": "1:42 vidéo 1 minute 42 Jouer au curling au pied du Colisée, une expérience inédite",
-   "link": "https://www.franceinfo.fr/monde/italie/jouer-au-curling-au-pied-du-colisee-une-experience-inedite_8166599.html",
-   "summary": "Jouer au curling au pied du Colisée, une expérience inédite",
-   "image": "https://www.franceinfo.fr/pictures/PssLXH1HTfsYNuQiSmMMBPmO7X4/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/08/28/6a9188e4bb801636874565.jpg",
-   "date": null,
-   "pubdate": "2026-08-29T18:24:54.320156+00:00"
-  },
-  {
    "title": "Le Royaume-Uni bloque l'exportation d'un tableau de Rembrandt estimé à 83 millions d'euros Le portrait, peint en 1657 par le grand maître flamand, représente une femme aisée d'Amsterdam, Catrina Hooghsaet.",
    "link": "https://www.franceinfo.fr/culture/arts-expos/peinture/le-royaume-uni-bloque-l-exportation-d-un-tableau-rembrandt-estime-a-83-millions-d-euros_8167109.html",
    "summary": "Le Royaume-Uni bloque l'exportation d'un tableau de Rembrandt estimé à 83 millions d'euros",
    "image": "https://www.franceinfo.fr/pictures/yXbyEyTNjhYX0bJrDUKtyPvbL6o/0x299:2691x1813/432x243/filters:format(jpg)/2026/08/28/6a91eeae4c8bc661645590.jpg",
    "date": null,
    "pubdate": "2026-08-29T18:24:54.320156+00:00"
-  },
-  {
-   "title": "2:19 audio 2 minutes 19 Attaques ukrainiennes contre les géants du commerce en ligne : les Russes sont rattrapés par la guerre.",
-   "link": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/attaques-ukrainiennes-contre-les-geants-du-commerce-en-ligne-les-russes-sont-rattrapes-par-la-guerre_8083208.html",
-   "summary": "Attaques ukrainiennes contre les géants du commerce en ligne : les Russes sont rattrapés par la guerre.",
-   "image": "https://www.franceinfo.fr/pictures/M2NFgM6KfKqz_mkpFiwiT0mehYw/0x79:1024x655/432x243/filters:format(jpg)/2026/08/29/6a929279e9f3d662857333.jpg",
-   "date": null,
-   "pubdate": "2026-08-29T15:02:45.999397+00:00"
   },
   {
    "title": "7:00 article 7 minutes Six mois après le début de la guerre en Iran, Donald Trump cherche toujours une porte de sortie, à l'approche des élections américaines de mi-mandat",
@@ -248,30 +272,6 @@
    "link": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/un-an-de-donald-trump-au-pouvoir/",
    "summary": "",
    "image": "https://www.franceinfo.fr/pictures/_Ls0AfsrdeH4b8e1t1laldX3AFA/432x297/filters:format(jpg)/2026/01/21/un-an-trump-au-pouvoir-6970f70527d4e960570673.jpg",
-   "date": null,
-   "pubdate": "2026-08-29T15:02:45.999397+00:00"
-  },
-  {
-   "title": "15:41 vidéo 15 minutes 41 Entre modernité et traditions bien ancrées, comment vit-on en Corée du Sud ?",
-   "link": "https://www.franceinfo.fr/monde/coree-du-sud/entre-modernite-et-traditions-bien-ancrees-comment-vit-on-en-coree-du-sud_8161439.html",
-   "summary": "Entre modernité et traditions bien ancrées, comment vit-on en Corée du Sud ?",
-   "image": "https://www.franceinfo.fr/pictures/Odiglc81HL9lK42mg3tDs3dYQ2I/313x0:1114x801/100x100/filters:format(jpg)/2026/08/25/6a8e0cbcdd8ce024614058.jpg",
-   "date": null,
-   "pubdate": "2026-08-29T15:02:45.999397+00:00"
-  },
-  {
-   "title": ": Reportage 4:46 audio 4 minutes 46 : Reportage Visite du pape à Metz : \"C'est un formidable coup de projecteur sur la ville\", estime le maire",
-   "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-visite-du-pape-a-metz-c-est-un-formidable-coup-de-projecteur-sur-la-ville-estime-le-maire_8134199.html",
-   "summary": "Visite du pape à Metz : \"C'est un formidable coup de projecteur sur la ville\", estime le maire",
-   "image": "https://www.franceinfo.fr/pictures/DF7OCqmzjl5n_wSxWV3jgvKOW8o/1432x0:4300x2868/100x100/filters:format(jpg)/2026/08/24/6a8c2f6bb5d24428190474.jpg",
-   "date": null,
-   "pubdate": "2026-08-29T15:02:45.999397+00:00"
-  },
-  {
-   "title": "15:05 vidéo 15 minutes 5 Belém, ou l'art de vivre à la brésilienne",
-   "link": "https://www.franceinfo.fr/monde/bresil/belem-ou-l-art-de-vivre-a-la-bresilienne_8160122.html",
-   "summary": "Belém, ou l'art de vivre à la brésilienne",
-   "image": "https://www.franceinfo.fr/pictures/47XyvYA6W7qukqmdh5ow8K3OsbQ/310x0:1013x703/100x100/filters:format(jpg)/2026/08/25/6a8cc3d401ff2223666455.jpg",
    "date": null,
    "pubdate": "2026-08-29T15:02:45.999397+00:00"
   }

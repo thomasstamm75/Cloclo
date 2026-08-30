@@ -1,8 +1,7 @@
 {
- "etag": "\"c48228c2516d02f62e879091c7b4e49e-gzip\"",
+ "etag": "\"0d966f7c9bf4670e5c418181add97857-gzip\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.franceinfo.fr/sciences/pour-les-adolescents-les-journees-d-ecole-commencent-trop-tot_8156273.html": "2026-08-29T14:50:52.592990+00:00",
   "https://www.franceinfo.fr/societe/pour-nous-il-n-y-a-pas-de-problematique-en-seine-et-marne-des-cameras-augmentees-utilisees-contre-les-depots-sauvages-malgre-l-avis-de-la-cnil_8168534.html": "2026-08-29T14:50:52.592990+00:00",
   "https://www.franceinfo.fr/france/auvergne-rhone-alpes/cantal/plus-de-200-personnes-participent-a-une-marche-blanche-a-aurillac-un-an-apres-le-suicide-de-l-institutrice-caroline-grandjean_8168267.html": "2026-08-29T14:50:52.592990+00:00",
   "https://www.franceinfo.fr/replay-radio/c-est-mon-boulot/jusqu-ou-peut-aller-un-employeur-qui-veut-geolocaliser-ses-salaries_8070572.html": "2026-08-29T14:50:52.592990+00:00",
@@ -29,7 +28,9 @@
   "https://www.franceinfo.fr/societe/conge-de-naissance/temoignages-pas-sur-que-ca-donne-envie-de-faire-des-enfants-le-conge-de-naissance-une-veritable-aubaine-pour-les-parents-mais-un-dispositif-inegalitaire_8166104.html": "2026-08-30T06:24:50.814664+00:00",
   "https://www.franceinfo.fr/monde/proche-orient/c-est-un-enfer-total-un-ressortissant-franco-egyptien-condamne-a-huit-ans-de-prison-en-arabie-saoudite-denonce-des-actes-de-torture_8168828.html": "2026-08-30T06:24:50.814664+00:00",
   "https://www.franceinfo.fr/economie/instituts-de-beaute-l-envers-du-decor_8166836.html": "2026-08-30T06:24:50.814664+00:00",
-  "https://www.franceinfo.fr/societe/nos-jours-heureux/nos-jours-heureux-baignade-salee-deluge-et-sentiment-de-liberte-a-deauville-la-journee-des-oublies-des-vacances-vire-a-la-formidable-odyssee_8155004.html": "2026-08-30T06:24:50.814664+00:00"
+  "https://www.franceinfo.fr/societe/nos-jours-heureux/nos-jours-heureux-baignade-salee-deluge-et-sentiment-de-liberte-a-deauville-la-journee-des-oublies-des-vacances-vire-a-la-formidable-odyssee_8155004.html": "2026-08-30T06:24:50.814664+00:00",
+  "https://www.franceinfo.fr/faits-divers/deux-marins-disparus-apres-le-naufrage-d-un-bateau-de-peche-francais-au-large-de-plymouth-en-angleterre_8169353.html": "2026-08-30T09:24:43.713933+00:00",
+  "https://www.franceinfo.fr/replay-radio/c-est-mon-boulot/quand-une-demission-est-requalifiee-en-licenciement_8073560.html": "2026-08-30T09:24:43.713933+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
@@ -42,10 +43,26 @@
    "pubdate": "2026-10-20T11:00:00+00:00"
   },
   {
-   "title": "1:36 vidéo 1 minute 36 Guerre en Ukraine : une frappe russe touche un dépôt de munitions de l'armée L'explosion d'un entrepôt frappé par un drone russe près de Kiev, dans la nuit du vendredi 28 au samedi 29 août, a fait au moins 37 morts. Il contenait des munitions, drones et explosifs utilisés par l’armée, sans les autorisations nécessaires.",
+   "title": "Deux marins disparus après le naufrage d'un bateau de pêche français au large de Plymouth en Angleterre Un bateau de pêche français a émis un signal de détresse samedi soir. Une importante opération de recherche a été lancée.",
+   "link": "https://www.franceinfo.fr/faits-divers/deux-marins-disparus-apres-le-naufrage-d-un-bateau-de-peche-francais-au-large-de-plymouth-en-angleterre_8169353.html",
+   "summary": "Deux marins disparus après le naufrage d'un bateau de pêche français au large de Plymouth en Angleterre",
+   "image": "https://www.franceinfo.fr/pictures/058o5dvwHpmkIemUD-SUnPxeI3M/43x0:2912x1973/432x297/filters:format(jpg)/2026/08/30/6a93f5abc8c72338377416.jpg",
+   "date": null,
+   "pubdate": "2026-08-30T09:24:43.713933+00:00"
+  },
+  {
+   "title": "2:28 audio 2 minutes 28 Quand une démission est requalifiée en licenciement",
+   "link": "https://www.franceinfo.fr/replay-radio/c-est-mon-boulot/quand-une-demission-est-requalifiee-en-licenciement_8073560.html",
+   "summary": "Quand une démission est requalifiée en licenciement",
+   "image": "https://www.franceinfo.fr/pictures/q6s1QdRNiZeLRQirB2yAVL2ycQY/0x0:2148x1208/432x243/filters:format(jpg)/2026/07/17/6a5a5bef97f5b694702382.jpg",
+   "date": null,
+   "pubdate": "2026-08-30T09:24:43.713933+00:00"
+  },
+  {
+   "title": "1:36 vidéo 1 minute 36 Guerre en Ukraine : une frappe russe touche un dépôt de munitions de l'armée",
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-une-frappe-russe-touche-un-depot-de-munitions-de-l-armee_8169197.html",
    "summary": "Guerre en Ukraine : une frappe russe touche un dépôt de munitions de l'armée",
-   "image": "https://www.franceinfo.fr/pictures/xqapsnUg2SHiOukr8un6JzZVYUA/161x0:1375x835/432x297/filters:format(jpg)/2026/08/30/6a93c14d7ffc6645044289.jpg",
+   "image": "https://www.franceinfo.fr/pictures/dMZKWC99sIlB9L7cko3mEKwfPRg/26x0:1510x835/432x243/filters:format(jpg)/2026/08/30/6a93c14d7ffc6645044289.jpg",
    "date": null,
    "pubdate": "2026-08-30T06:24:50.814664+00:00"
   },
@@ -114,22 +131,6 @@
    "pubdate": "2026-08-29T14:58:48.344836+00:00"
   },
   {
-   "title": "2:18 vidéo 2 minutes 18 Pour les adolescents, les journées d'école commencent trop tôt",
-   "link": "https://www.franceinfo.fr/sciences/pour-les-adolescents-les-journees-d-ecole-commencent-trop-tot_8156273.html",
-   "summary": "Pour les adolescents, les journées d'école commencent trop tôt",
-   "image": "https://www.franceinfo.fr/pictures/T1XO0jWuhNwLAKN-3NTiOsKXkN0/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/08/21/6a8844e5238b9786393295.jpg",
-   "date": null,
-   "pubdate": "2026-08-29T14:50:52.592990+00:00"
-  },
-  {
-   "title": "\"Pour nous, il n’y a pas de problématique\" : en Seine-et-Marne, des caméras augmentées utilisées contre les dépôts sauvages malgré l’avis de la CNIL",
-   "link": "https://www.franceinfo.fr/societe/pour-nous-il-n-y-a-pas-de-problematique-en-seine-et-marne-des-cameras-augmentees-utilisees-contre-les-depots-sauvages-malgre-l-avis-de-la-cnil_8168534.html",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/RUcta8W6EByXPvbMvp-yLHyjmVQ/0x0:5000x2812/432x243/filters:format(jpg)/2026/08/29/6a92d79ccd118825040824.jpg",
-   "date": null,
-   "pubdate": "2026-08-29T14:50:52.592990+00:00"
-  },
-  {
    "title": "Nos jours heureux 4 contenus",
    "link": "https://www.franceinfo.fr/societe/nos-jours-heureux/",
    "summary": "",
@@ -166,6 +167,14 @@
    "link": "https://www.franceinfo.fr/culture/musique/tout-le-monde-les-ecoutait-ou-les-subissait-peut-on-encore-parler-de-hits-de-l-ete-comme-avant-les-reseaux-sociaux_8155445.html",
    "summary": "\"Tout le monde les écoutait... ou les subissait\" : peut-on encore parler de \"hits de l'été\", comme avant les réseaux sociaux ?",
    "image": "https://www.franceinfo.fr/pictures/2vTdJYIs0KgfpwSgugbLNckEUvQ/584x0:3416x2832/100x100/filters:format(jpg)/2026/08/21/6a88b864c09fe968349292.jpg",
+   "date": null,
+   "pubdate": "2026-08-29T14:50:52.592990+00:00"
+  },
+  {
+   "title": "\"Pour nous, il n’y a pas de problématique\" : en Seine-et-Marne, des caméras augmentées utilisées contre les dépôts sauvages malgré l’avis de la CNIL Il y a un peu plus d'un million de tonnes de déchets dans les rues françaises chaque année. Face à ce fléau, un département francilien a doté 41 de ses communes de caméras augmentées pour identifier les responsables, quitte à ne pas respecter la législation en vigueur concernant leur usage.",
+   "link": "https://www.franceinfo.fr/societe/pour-nous-il-n-y-a-pas-de-problematique-en-seine-et-marne-des-cameras-augmentees-utilisees-contre-les-depots-sauvages-malgre-l-avis-de-la-cnil_8168534.html",
+   "summary": "\"Pour nous, il n’y a pas de problématique\" : en Seine-et-Marne, des caméras augmentées utilisées contre les dépôts sauvages malgré l’avis de la CNIL",
+   "image": "https://www.franceinfo.fr/pictures/RUcta8W6EByXPvbMvp-yLHyjmVQ/0x0:5000x2812/432x243/filters:format(jpg)/2026/08/29/6a92d79ccd118825040824.jpg",
    "date": null,
    "pubdate": "2026-08-29T14:50:52.592990+00:00"
   },
