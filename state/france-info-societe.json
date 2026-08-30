@@ -1,5 +1,5 @@
 {
- "etag": "\"0d966f7c9bf4670e5c418181add97857-gzip\"",
+ "etag": "\"8910182101806a4291c7e567f3f94ea2-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/societe/pour-nous-il-n-y-a-pas-de-problematique-en-seine-et-marne-des-cameras-augmentees-utilisees-contre-les-depots-sauvages-malgre-l-avis-de-la-cnil_8168534.html": "2026-08-29T14:50:52.592990+00:00",
@@ -19,8 +19,6 @@
   "https://www.franceinfo.fr/societe/mobilisation-des-pompiers/la-greve-des-sapeurs-pompiers-represente-le-seul-moyen-pour-se-faire-entendre-denonce-le-representant-cfdt-des-services-d-incendie-et-de-secours_8167022.html": "2026-08-29T14:50:52.592990+00:00",
   "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/appel-a-temoignages-la-visite-du-pape-leon-xiv-en-france-est-un-evenement-que-vous-ne-manqueriez-pour-rien-au-monde-racontez-nous_8165303.html": "2026-08-29T14:50:52.592990+00:00",
   "https://www.franceinfo.fr/sante/les-arrets-de-travail-courts-sont-ils-prescrits-en-open-bar-comme-l-affirme-edouard-philippe_8166740.html": "2026-08-29T14:50:52.592990+00:00",
-  "https://www.franceinfo.fr/societe/le-maire-de-nice-eric-ciotti-annonce-l-installation-de-drapeaux-francais-dans-les-cours-d-ecole-de-la-ville-des-la-rentree-2026_8166785.html": "2026-08-29T14:50:52.592990+00:00",
-  "https://www.franceinfo.fr/societe/mobilisation-des-pompiers/les-soldats-du-feu-bientot-en-greve_8168633.html": "2026-08-29T14:58:48.344836+00:00",
   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/le-syndicat-des-jeunes-medecins-depose-plainte-contre-x-pour-mise-en-danger-de-la-vie-d-autrui-et-denonce-l-inaction-du-gouvernement-durant-les-canicules_8168783.html": "2026-08-29T18:24:47.499280+00:00",
   "https://www.franceinfo.fr/societe/harcelement/je-me-suis-sentie-trahie-des-femmes-denoncent-les-derives-des-lunettes-connectees_8168726.html": "2026-08-29T18:24:47.499280+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-une-frappe-russe-touche-un-depot-de-munitions-de-l-armee_8169197.html": "2026-08-30T06:24:50.814664+00:00",
@@ -30,7 +28,8 @@
   "https://www.franceinfo.fr/economie/instituts-de-beaute-l-envers-du-decor_8166836.html": "2026-08-30T06:24:50.814664+00:00",
   "https://www.franceinfo.fr/societe/nos-jours-heureux/nos-jours-heureux-baignade-salee-deluge-et-sentiment-de-liberte-a-deauville-la-journee-des-oublies-des-vacances-vire-a-la-formidable-odyssee_8155004.html": "2026-08-30T06:24:50.814664+00:00",
   "https://www.franceinfo.fr/faits-divers/deux-marins-disparus-apres-le-naufrage-d-un-bateau-de-peche-francais-au-large-de-plymouth-en-angleterre_8169353.html": "2026-08-30T09:24:43.713933+00:00",
-  "https://www.franceinfo.fr/replay-radio/c-est-mon-boulot/quand-une-demission-est-requalifiee-en-licenciement_8073560.html": "2026-08-30T09:24:43.713933+00:00"
+  "https://www.franceinfo.fr/replay-radio/c-est-mon-boulot/quand-une-demission-est-requalifiee-en-licenciement_8073560.html": "2026-08-30T09:24:43.713933+00:00",
+  "https://www.franceinfo.fr/societe/homophobie/paris-le-president-d-une-association-lgbt-victime-d-une-agression-homophobe-un-homme-interpelle_8169461.html": "2026-08-30T12:24:50.792136+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
@@ -43,10 +42,18 @@
    "pubdate": "2026-10-20T11:00:00+00:00"
   },
   {
-   "title": "Deux marins disparus après le naufrage d'un bateau de pêche français au large de Plymouth en Angleterre Un bateau de pêche français a émis un signal de détresse samedi soir. Une importante opération de recherche a été lancée.",
+   "title": "Paris : le président d'une association LGBT victime d'une agression homophobe, un homme interpellé Le parquet de Paris a ouvert une enquête pour violence \"en raison de l'orientation sexuelle de la victime\".",
+   "link": "https://www.franceinfo.fr/societe/homophobie/paris-le-president-d-une-association-lgbt-victime-d-une-agression-homophobe-un-homme-interpelle_8169461.html",
+   "summary": "Paris : le président d'une association LGBT victime d'une agression homophobe, un homme interpellé",
+   "image": "https://www.franceinfo.fr/pictures/NvKbgNgJTSnoHVT-L4DEZZdPG6s/64x0:4235x2867/432x297/filters:format(jpg)/2017/07/12/phpTB4eZ7_1.jpg",
+   "date": null,
+   "pubdate": "2026-08-30T12:24:50.792136+00:00"
+  },
+  {
+   "title": "Deux marins disparus après le naufrage d'un bateau de pêche français de Saint-Brieuc au large de Plymouth en Angleterre",
    "link": "https://www.franceinfo.fr/faits-divers/deux-marins-disparus-apres-le-naufrage-d-un-bateau-de-peche-francais-au-large-de-plymouth-en-angleterre_8169353.html",
-   "summary": "Deux marins disparus après le naufrage d'un bateau de pêche français au large de Plymouth en Angleterre",
-   "image": "https://www.franceinfo.fr/pictures/058o5dvwHpmkIemUD-SUnPxeI3M/43x0:2912x1973/432x297/filters:format(jpg)/2026/08/30/6a93f5abc8c72338377416.jpg",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/UObcaAHxjDXy-auJkIjZP5mUpy8/0x155:2956x1817/432x243/filters:format(jpg)/2026/08/30/6a93f5abc8c72338377416.jpg",
    "date": null,
    "pubdate": "2026-08-30T09:24:43.713933+00:00"
   },
@@ -121,14 +128,6 @@
    "image": "https://www.franceinfo.fr/pictures/Op6ftrammKKx2HSx1IdT34nmU6I/0x0:900x1600/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/08/29/6a93054129f4d100207703.jpg",
    "date": null,
    "pubdate": "2026-08-29T18:24:47.499280+00:00"
-  },
-  {
-   "title": "1:32 vidéo 1 minute 32 Les soldats du feu bientôt en grève",
-   "link": "https://www.franceinfo.fr/societe/mobilisation-des-pompiers/les-soldats-du-feu-bientot-en-greve_8168633.html",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/E-iJAiQhF3TUqKghWeZX4FFsAFk/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/08/29/6a92f1e8bacfb267581963.jpg",
-   "date": null,
-   "pubdate": "2026-08-29T14:58:48.344836+00:00"
   },
   {
    "title": "Nos jours heureux 4 contenus",
@@ -255,14 +254,6 @@
    "link": "https://www.franceinfo.fr/sante/les-arrets-de-travail-courts-sont-ils-prescrits-en-open-bar-comme-l-affirme-edouard-philippe_8166740.html",
    "summary": "Les arrêts de travail courts sont-ils prescrits en \"open bar\" comme l'affirme Edouard Philippe ?",
    "image": "https://www.franceinfo.fr/pictures/GKCKhVk1qpHvyHLSNpNtIAQ5XiM/0x0:3252x1829/432x243/filters:format(jpg)/2026/08/28/6a91aa02a3b0c045389661.jpg",
-   "date": null,
-   "pubdate": "2026-08-29T14:50:52.592990+00:00"
-  },
-  {
-   "title": "Le maire de Nice Eric Ciotti annonce l'installation de drapeaux français dans les cours d'école de la ville dès la rentrée 2026 Des mâts portant le drapeau français seront installés dans les 89 écoles primaires de la municipalité \"jusqu'aux vacances de la Toussaint\", insiste l'élu, président de l'Union des droites pour la République, allié du Rassemblement national.",
-   "link": "https://www.franceinfo.fr/societe/le-maire-de-nice-eric-ciotti-annonce-l-installation-de-drapeaux-francais-dans-les-cours-d-ecole-de-la-ville-des-la-rentree-2026_8166785.html",
-   "summary": "Le maire de Nice Eric Ciotti annonce l'installation de drapeaux français dans les cours d'école de la ville dès la rentrée 2026",
-   "image": "https://www.franceinfo.fr/pictures/8UYPvpCIH7Bpwmi7VSgEn9x-_z4/432x243/filters:format(jpg)/2026/06/16/6a313a67bfd3a576022533.jpg",
    "date": null,
    "pubdate": "2026-08-29T14:50:52.592990+00:00"
   }

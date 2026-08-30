@@ -1,5 +1,5 @@
 {
- "etag": "\"0c30353051f24886eca30f5f59e168a6-gzip\"",
+ "etag": "\"ff53eda2fa1dc51a65991d18b746a78a-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/politique/francois-hollande/complique-de-changer-la-donne-quand-vous-etes-un-revenant-a-blois-francois-hollande-tente-toujours-de-se-poser-en-recours-en-marge-de-la-primaire-socialiste_8168333.html": "2026-08-29T14:56:08.686933+00:00",
@@ -25,16 +25,33 @@
   "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-le-premier-debat-presidentiel-organise-par-le-medef-a-donne-le-ton-de-la-campagne-2027_8081753.html": "2026-08-29T14:56:08.686933+00:00",
   "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/reduire-la-duree-d-indemnisation-du-chomage-comme-le-propose-edouard-philippe-permet-il-vraiment-de-retrouver-plus-vite-un-emploi_8138270.html": "2026-08-29T14:56:08.686933+00:00",
   "https://www.franceinfo.fr/politique/vrai-ou-faux-cumuler-un-mandat-d-adjoint-au-maire-et-un-emploi-se-fait-il-vraiment-partout-a-cause-d-indemnites-trop-faibles-comme-l-affirme-eric-coquerel_8162489.html": "2026-08-29T14:56:08.686933+00:00",
-  "https://www.franceinfo.fr/elections/presidentielle/reportage-vous-n-etes-pas-obligee-de-raconter-n-importe-quoi-a-roland-garros-un-premier-debat-offensif-sur-l-economie-entre-les-sept-principaux-candidats-a-la-presidentielle_8164652.html": "2026-08-29T14:56:08.686933+00:00",
   "https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/pas-de-hausse-d-impots-un-plan-de-sauvetage-agricole-et-une-reforme-des-arrets-maladie-sebastien-lecornu-fait-plusieurs-annonces-pour-la-rentree_8168540.html": "2026-08-29T18:24:50.542175+00:00",
   "https://www.franceinfo.fr/replay-jt/france-2/20-heures/c-est-le-signe-du-retour-francois-hollande-en-embuscade-lors-des-universites-d-ete-de-la-gauche_8168870.html": "2026-08-29T21:24:54.481392+00:00",
   "https://www.franceinfo.fr/politique/jordan-bardella/apres-un-ete-discret-jordan-bardella-a-fait-son-retour_8169215.html": "2026-08-30T06:24:53.129237+00:00",
-  "https://www.franceinfo.fr/elections/presidentielle/retraites-immigration-le-ralliement-de-gerald-darmanin-a-edouard-philippe-pour-la-presidentielle-assorti-de-conditions_8169110.html": "2026-08-30T06:24:53.129237+00:00"
+  "https://www.franceinfo.fr/elections/presidentielle/retraites-immigration-le-ralliement-de-gerald-darmanin-a-edouard-philippe-pour-la-presidentielle-assorti-de-conditions_8169110.html": "2026-08-30T06:24:53.129237+00:00",
+  "https://www.franceinfo.fr/elections/presidentielle/pour-raphael-glucksmann-la-candidature-d-olivier-faure-a-la-presidentielle-permet-enfin-de-tout-clarifier_8169500.html": "2026-08-30T12:24:52.976889+00:00",
+  "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-olivier-faure-annonce-sa-candidature-a-la-primaire-de-la-gauche_8169425.html": "2026-08-30T12:24:52.976889+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "45:00 vidéo 45 minutes \"Franc-Jeu\". Avec Raphaël Glucksmann Dans la perspective de l'élection présidentielle de 2027, à travers des interviews et des débats, Benjamin Duhamel interroge celles et ceux qui participent aux choix proposés aux Français pour l’avenir du pays. Le 30 août 2026, il reçoit le candidat Raphaël Glucksmann, cofondateur de Place publique, député européen.",
+   "title": "Pour Raphaël Glucksmann, la candidature d'Olivier Faure à la présidentielle permet \"enfin de tout clarifier\" Olivier Faure, le premier secrétaire du PS, a annoncé aux députés de son groupe sa candidature à la primaire de la gauche en vue de la présidentielle. Le député européen, Raphaël Glucksmann, participera aussi à cette primaire.",
+   "link": "https://www.franceinfo.fr/elections/presidentielle/pour-raphael-glucksmann-la-candidature-d-olivier-faure-a-la-presidentielle-permet-enfin-de-tout-clarifier_8169500.html",
+   "summary": "Pour Raphaël Glucksmann, la candidature d'Olivier Faure à la présidentielle permet \"enfin de tout clarifier\"",
+   "image": "https://www.franceinfo.fr/pictures/4E8kMXVA_gDEiK40F-EvzCZjasg/1x0:4423x3040/432x297/filters:format(jpg)/2025/02/26/000-34zy8xb-67bed3b777301850631360.jpg",
+   "date": null,
+   "pubdate": "2026-08-30T12:24:52.976889+00:00"
+  },
+  {
+   "title": "0:33 vidéo 33 secondes Présidentielle 2027 : Olivier Faure annonce sa candidature à la primaire de la gauche",
+   "link": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-olivier-faure-annonce-sa-candidature-a-la-primaire-de-la-gauche_8169425.html",
+   "summary": "Présidentielle 2027 : Olivier Faure annonce sa candidature à la primaire de la gauche",
+   "image": "https://www.franceinfo.fr/pictures/bdTcXgJ5bmY6UnqGsXn0e8PZugk/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/08/30/6a940023a840f499028377.jpg",
+   "date": null,
+   "pubdate": "2026-08-30T12:24:52.976889+00:00"
+  },
+  {
+   "title": "38:32 vidéo 38 minutes 32 \"Franc-Jeu\". Avec Raphaël Glucksmann Dans la perspective de l'élection présidentielle de 2027, à travers des interviews et des débats, Benjamin Duhamel interroge celles et ceux qui participent aux choix proposés aux Français pour l’avenir du pays. Le 30 août 2026, il reçoit le candidat Raphaël Glucksmann, cofondateur de Place publique, député européen.",
    "link": "https://www.franceinfo.fr/replay-magazine/france-2/franc-jeu/franc-jeu-avec-raphael-glucksmann_8163872.html",
    "summary": "Dans la perspective de l'élection présidentielle de 2027, à travers des interviews et des débats, Benjamin Duhamel interroge celles et ceux qui participent aux choix proposés aux Français pour l’avenir du pays. Le 30 août 2026, il reçoit le candidat Raphaël Glucksmann, cofondateur de Place publique, député européen.",
    "image": "https://www.franceinfo.fr/pictures/Fbh26rz7pEi0zniuyMT1nNCPA3k/0x0:680x382/432x243/filters:format(jpg)/2026/08/28/6a919b42820e4536048985.jpg",
@@ -42,10 +59,10 @@
    "pubdate": "2026-08-30T11:00:00+00:00"
   },
   {
-   "title": "1:25 vidéo 1 minute 25 Après un été discret, Jordan Bardella a fait son retour Quelques mois avant la présidentielle, Jordan Bardella ne compte pas porter le costume de figurant derrière Marine Le Pen. Au moment de faire sa rentrée, le président du RN a affiché ses objectifs pour l'année à venir.",
+   "title": "1:25 vidéo 1 minute 25 Après un été discret, Jordan Bardella a fait son retour",
    "link": "https://www.franceinfo.fr/politique/jordan-bardella/apres-un-ete-discret-jordan-bardella-a-fait-son-retour_8169215.html",
    "summary": "Après un été discret, Jordan Bardella a fait son retour",
-   "image": "https://www.franceinfo.fr/pictures/8a9AIbZT0QfyWaos0WqNtg_tdWg/208x0:1328x770/432x297/filters:format(jpg)/2026/08/30/6a93c7799ca12649447727.jpg",
+   "image": "https://www.franceinfo.fr/pictures/AawpiXsJYsLfdYu-FMcObXwNhDY/84x0:1452x770/432x243/filters:format(jpg)/2026/08/30/6a93c7799ca12649447727.jpg",
    "date": null,
    "pubdate": "2026-08-30T06:24:53.129237+00:00"
   },
@@ -106,22 +123,6 @@
    "pubdate": "2026-08-29T14:56:08.686933+00:00"
   },
   {
-   "title": "Appels à une primaire droite-centre : il faut \"avoir un candidat avant Noël\", réclame l'ancien ministre Hervé Morin",
-   "link": "https://www.franceinfo.fr/elections/presidentielle/appels-a-une-primaire-droite-centre-il-faut-avoir-un-candidat-avant-noel-reclame-l-ancien-ministre-herve-morin_8168135.html",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/rWrXnkz3ydhB_ZsoI9L-y5A0ZSs/0x247:4754x2921/432x243/filters:format(jpg)/2026/08/29/6a928e23ebf86556709464.jpg",
-   "date": null,
-   "pubdate": "2026-08-29T14:56:08.686933+00:00"
-  },
-  {
-   "title": "Présidentielle 2027 : Bruno Retailleau \"ne passera pas Noël\" et \"se retirera pour soutenir Edouard Philippe\", prédit Jordan Bardella",
-   "link": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-jordan-bardella-attendu-a-la-foire-de-chalons-en-champagne-les-socialistes-debattront-de-la-primaire-a-blois_8168102.html",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/NFLQIMboVIIM5_y-x_0DlPCkQQc/0x53:1024x629/432x243/filters:format(jpg)/2026/08/29/6a931e01732c2647478595.jpg",
-   "date": null,
-   "pubdate": "2026-08-29T14:56:08.686933+00:00"
-  },
-  {
    "title": "4:41 audio 4 minutes 41 \"Ça va être n'importe quoi… J'ai toujours été de son côté\" : à Hénin-Beaumont, le sort judiciaire de Marine Le Pen inquiète ses soutiens",
    "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/ca-va-etre-n-importe-quoi-j-ai-toujours-ete-de-son-cote-a-henin-beaumont-le-sort-judiciaire-de-marine-le-pen-inquiete-ses-soutiens_8063120.html",
    "summary": "\"Ça va être n'importe quoi… J'ai toujours été de son côté\" : à Hénin-Beaumont, le sort judiciaire de Marine Le Pen inquiète ses soutiens",
@@ -166,6 +167,22 @@
    "link": "https://www.franceinfo.fr/elections/presidentielle/on-ne-va-pas-faire-manger-des-haribos-a-retailleau-parce-qu-il-y-a-une-tendance-comment-les-candidats-a-la-presidentielle-2027-investissent-ou-pas-les-reseaux-sociaux_8033900.html",
    "summary": "\"On ne va pas faire manger des Haribos à Retailleau parce qu'il y a une tendance\" : comment les candidats à la présidentielle 2027 investissent (ou pas) les réseaux sociaux",
    "image": "https://www.franceinfo.fr/pictures/3D-7e_hQa8xXL74_qTttQK-fX2I/840x0:3000x2160/100x100/filters:format(jpg)/2026/06/12/6a2bcc71378bc971157505.jpg",
+   "date": null,
+   "pubdate": "2026-08-29T14:56:08.686933+00:00"
+  },
+  {
+   "title": "Appels à une primaire droite-centre : il faut \"avoir un candidat avant Noël\", réclame l'ancien ministre Hervé Morin \"Ceux qui refusent la primaire porteront une immense responsabilité\", estime Hervé Morin, ancien ministre centriste de la Défense et actuel président de la région Normandie.",
+   "link": "https://www.franceinfo.fr/elections/presidentielle/appels-a-une-primaire-droite-centre-il-faut-avoir-un-candidat-avant-noel-reclame-l-ancien-ministre-herve-morin_8168135.html",
+   "summary": "Appels à une primaire droite-centre : il faut \"avoir un candidat avant Noël\", réclame l'ancien ministre Hervé Morin",
+   "image": "https://www.franceinfo.fr/pictures/rWrXnkz3ydhB_ZsoI9L-y5A0ZSs/0x247:4754x2921/432x243/filters:format(jpg)/2026/08/29/6a928e23ebf86556709464.jpg",
+   "date": null,
+   "pubdate": "2026-08-29T14:56:08.686933+00:00"
+  },
+  {
+   "title": "Présidentielle 2027 : Bruno Retailleau \"ne passera pas Noël\" et \"se retirera pour soutenir Edouard Philippe\", prédit Jordan Bardella Le chef du RN a tendu la main, samedi, aux électeurs de LR qui se sentent \"orphelins d'un leader, d'un projet et d'une incarnation\".",
+   "link": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-jordan-bardella-attendu-a-la-foire-de-chalons-en-champagne-les-socialistes-debattront-de-la-primaire-a-blois_8168102.html",
+   "summary": "Présidentielle 2027 : Bruno Retailleau \"ne passera pas Noël\" et \"se retirera pour soutenir Edouard Philippe\", prédit Jordan Bardella",
+   "image": "https://www.franceinfo.fr/pictures/NFLQIMboVIIM5_y-x_0DlPCkQQc/0x53:1024x629/432x243/filters:format(jpg)/2026/08/29/6a931e01732c2647478595.jpg",
    "date": null,
    "pubdate": "2026-08-29T14:56:08.686933+00:00"
   },
@@ -246,14 +263,6 @@
    "link": "https://www.franceinfo.fr/politique/vrai-ou-faux-cumuler-un-mandat-d-adjoint-au-maire-et-un-emploi-se-fait-il-vraiment-partout-a-cause-d-indemnites-trop-faibles-comme-l-affirme-eric-coquerel_8162489.html",
    "summary": "Cumuler un mandat d'adjoint au maire et un emploi se fait-il vraiment \"partout\" à cause \"d'indemnités trop faibles\", comme l'affirme Eric Coquerel ?",
    "image": "https://www.franceinfo.fr/pictures/eWV_B6Kk95lUMY8N6foTpi_7BaY/0x0:1024x576/432x243/filters:format(jpg)/2026/08/26/6a8f12ca2418b353502336.jpg",
-   "date": null,
-   "pubdate": "2026-08-29T14:56:08.686933+00:00"
-  },
-  {
-   "title": ": Reportage \"Vous n'êtes pas obligée de raconter n'importe quoi !\" : à Roland-Garros, un premier débat offensif sur l'économie entre les sept principaux candidats à la présidentielle Pendant trois heures, les prétendants à l'Elysée ont débattu des sujets économiques lors de l'université d'été du Medef. Entre deux grondements de tonnerre, les passes d'armes et petites piques n'ont pas manqué, dans une ambiance restée cordiale.",
-   "link": "https://www.franceinfo.fr/elections/presidentielle/reportage-vous-n-etes-pas-obligee-de-raconter-n-importe-quoi-a-roland-garros-un-premier-debat-offensif-sur-l-economie-entre-les-sept-principaux-candidats-a-la-presidentielle_8164652.html",
-   "summary": "\"Vous n'êtes pas obligée de raconter n'importe quoi !\" : à Roland-Garros, un premier débat offensif sur l'économie entre les sept principaux candidats à la présidentielle",
-   "image": "https://www.franceinfo.fr/pictures/A--eFDtif17d86vsrTJTFHVWmN0/0x312:6000x3687/432x243/filters:format(jpg)/2026/08/27/6a90915307dfe922371894.jpg",
    "date": null,
    "pubdate": "2026-08-29T14:56:08.686933+00:00"
   }
