@@ -1,17 +1,12 @@
 {
- "etag": "\"b5a4f8f5734f4d3769a1ab7bf336c4ed-gzip\"",
+ "etag": "\"e7209d7352be02ed0c74e2e95e707d05-gzip\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/six-mois-apres-le-debut-de-la-guerre-en-iran-donald-trump-cherche-toujours-une-porte-de-sortie-a-l-approche-des-elections-americaines-de-mi-mandat_8160953.html": "2026-08-29T15:02:45.999397+00:00",
-  "https://www.franceinfo.fr/monde/palestine/benyamin-netanyahou-condamne-fermement-des-attaques-de-colons-israeliens-contre-des-villages-palestiniens-en-cisjordanie_8168813.html": "2026-08-29T21:24:57.624161+00:00",
   "https://www.franceinfo.fr/sciences/espace/nous-sommes-peut-etre-le-jour-d-apres-einstein-le-telescope-spatial-nancy-grace-roman-va-tenter-de-percer-le-mystere-de-l-energie-sombre_8168552.html": "2026-08-30T06:24:55.494082+00:00",
   "https://www.franceinfo.fr/monde/iran/crise-dans-le-detroit-d-ormuz/guerre-en-iran-le-secteur-petrolier-beneficie-t-il-de-la-crise-qui-se-prolonge-dans-le-detroit-d-ormuz_8165009.html": "2026-08-30T06:24:55.494082+00:00",
   "https://www.franceinfo.fr/monde/proche-orient/c-est-un-enfer-total-un-ressortissant-franco-egyptien-condamne-a-huit-ans-de-prison-en-arabie-saoudite-denonce-des-actes-de-torture_8168828.html": "2026-08-30T06:24:55.494082+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-ukraine-une-frappe-russe-fait-au-moins-27-morts-dans-un-entrepot-pres-de-kiev_8168213.html": "2026-08-30T06:24:55.494082+00:00",
-  "https://www.franceinfo.fr/monde/usa/midterms-2018/des-militants-des-droits-civiques-manifestent-a-washington-pour-defendre-le-vote-a-l-approche-des-elections-americaines-de-mi-mandat_8168162.html": "2026-08-30T06:24:55.494082+00:00",
   "https://www.franceinfo.fr/environnement/energie/energies-fossiles/totalenergies/totalenergies-maintiendra-son-plafonnement-des-prix-des-carburants-tant-que-le-conflit-durera-au-moyen-orient-reaffirme-son-pdg-patrick-pouyanne_8168288.html": "2026-08-30T07:23:41.948837+00:00",
   "https://www.franceinfo.fr/monde/usa/l-administration-trump-sur-le-point-de-ceder-une-partie-du-parc-yosemite-en-californie_8168264.html": "2026-08-30T07:23:41.948837+00:00",
-  "https://www.franceinfo.fr/monde/japon/il-faut-proteger-notre-culture-des-japonais-surpris-de-ne-pas-avoir-ete-consultes-sur-le-futur-parc-francais-dragon-ball-z_8167955.html": "2026-08-30T07:23:41.948837+00:00",
   "https://www.franceinfo.fr/monde/venezuela/le-venezuela-conserve-propriete-et-souverainete-de-son-petrole-assure-la-presidente-delcy-rodriguez-apres-l-accord-conclu-avec-les-etats-unis_8169308.html": "2026-08-30T09:24:48.462261+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-russie-dit-preparer-des-frappes-massives-contre-le-secteur-energetique-de-l-ukraine_8169281.html": "2026-08-30T09:24:48.462261+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-pleine-guerre-en-ukraine-le-maire-d-odessa-met-en-place-des-abris-contre-les-drones-russes-sur-ses-plages-pour-proteger-ses-vacanciers_8167196.html": "2026-08-30T09:24:48.462261+00:00",
@@ -31,15 +26,60 @@
   "https://www.franceinfo.fr/replay-jt/france-2/13-heures/deux-avions-de-ligne-survolent-a-basse-altitude-un-stade-et-creent-la-polemique-en-afrique-du-sud_8169548.html": "2026-08-30T15:24:53.083899+00:00",
   "https://www.franceinfo.fr/monde/chypre/un-ferry-chavire-au-large-des-cotes-de-chypre-du-nord-des-morts-recenses-parmi-les-267-personnes-a-bord_8169521.html": "2026-08-30T15:24:53.083899+00:00",
   "https://www.franceinfo.fr/monde/groenland/le-groenland-au-c-ur-d-un-bras-de-fer-geopolitique/": "2026-08-30T15:24:53.083899+00:00",
-  "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/un-an-de-donald-trump-au-pouvoir/": "2026-08-30T15:24:53.083899+00:00"
+  "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/un-an-de-donald-trump-au-pouvoir/": "2026-08-30T15:24:53.083899+00:00",
+  "https://www.franceinfo.fr/environnement/biodiversite/animaux/le-fleau-des-attaques-de-serpents_8169596.html": "2026-08-30T18:24:50.063155+00:00",
+  "https://www.franceinfo.fr/monde/venezuela/on-tient-bon-le-president-dechu-du-venezuela-nicolas-maduro-publie-des-photos-depuis-sa-prison-aux-etats-unis_8169749.html": "2026-08-30T18:24:50.063155+00:00",
+  "https://www.franceinfo.fr/culture/reportage-une-occasion-unique-de-raconter-l-histoire-a-varsovie-les-vestiges-du-plus-grand-ghetto-d-europe-s-ouvrent-aux-visiteurs_8169638.html": "2026-08-30T18:24:50.063155+00:00",
+  "https://www.franceinfo.fr/monde/usa/affaire-jeffrey-epstein/l-essentiel-des-revelations-sur-l-affaire-epstein/": "2026-08-30T18:24:50.063155+00:00",
+  "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/tout-comprendre-a-la-guerre-au-moyen-orient/": "2026-08-30T18:24:50.063155+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "0:47 vidéo 47 secondes Un ferry chavire au large de Chypre avec 267 personnes à bord Un bateau de croisière avec 267 personnes à bord a fait naufrage, dimanche 30 août, au large des côtes de Chypre du Nord. Au moins \"six personnes ont perdu la vie\", selon les autorités. Près d'une vingtaine de moyens maritimes et aériens sont mobilisés dans le cadre des opérations de secours.",
+   "title": "3:00 vidéo 3 minutes Le fléau des attaques de serpents Au Kenya, la prévention contre les serpents est devenue une nécessité absolue. Le pays abrite les espèces les plus dangereuses au monde, des milliers de personnes en meurent chaque année... et les antidotes manquent.",
+   "link": "https://www.franceinfo.fr/environnement/biodiversite/animaux/le-fleau-des-attaques-de-serpents_8169596.html",
+   "summary": "Au Kenya, la prévention contre les serpents est devenue une nécessité absolue. Le pays abrite les espèces les plus dangereuses au monde, des milliers de personnes en meurent chaque année... et les antidotes manquent.",
+   "image": "https://www.franceinfo.fr/pictures/GjgPG2KD5kcNuJDfw5hYmtqXN-M/0x0:1080x1920/fit-in/432x297/filters:upscale():fill(blur):format(jpg)/2026/08/30/6a943b9e71891040509071.png",
+   "date": null,
+   "pubdate": "2026-08-30T18:24:50.063155+00:00"
+  },
+  {
+   "title": "\"On tient bon\" : le président déchu du Venezuela, Nicolas Maduro, publie des photos depuis sa prison aux Etats-Unis",
+   "link": "https://www.franceinfo.fr/monde/venezuela/on-tient-bon-le-president-dechu-du-venezuela-nicolas-maduro-publie-des-photos-depuis-sa-prison-aux-etats-unis_8169749.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/3m09cwkwGzuablm9vKh47pgXA1I/0x0:1280x720/432x243/filters:format(jpg)/2026/08/30/6a945d906a2ad593508519.jpg",
+   "date": null,
+   "pubdate": "2026-08-30T18:24:50.063155+00:00"
+  },
+  {
+   "title": ": Reportage : Reportage \"Une occasion unique de raconter l’histoire\" : à Varsovie, les vestiges du plus grand ghetto d’Europe s’ouvrent aux visiteurs",
+   "link": "https://www.franceinfo.fr/culture/reportage-une-occasion-unique-de-raconter-l-histoire-a-varsovie-les-vestiges-du-plus-grand-ghetto-d-europe-s-ouvrent-aux-visiteurs_8169638.html",
+   "summary": "\"Une occasion unique de raconter l’histoire\" : à Varsovie, les vestiges du plus grand ghetto d’Europe s’ouvrent aux visiteurs",
+   "image": "https://www.franceinfo.fr/pictures/Iid-6dwlurIvUUb44DFEkqFvngw/0x62:1200x737/432x243/filters:format(jpg)/2026/08/30/6a944a1b1c6b8352911585.jpg",
+   "date": null,
+   "pubdate": "2026-08-30T18:24:50.063155+00:00"
+  },
+  {
+   "title": "L'essentiel des révélations sur l'affaire Epstein 14 contenus",
+   "link": "https://www.franceinfo.fr/monde/usa/affaire-jeffrey-epstein/l-essentiel-des-revelations-sur-l-affaire-epstein/",
+   "summary": "L'essentiel des révélations sur l'affaire Epstein",
+   "image": "https://www.franceinfo.fr/pictures/btENVL4vmQDLNvnJ4uUtTATvN9k/432x297/filters:format(jpg)/2026/02/12/000-96rl2gk-1-698def9a11d8a867290796.jpg",
+   "date": null,
+   "pubdate": "2026-08-30T18:24:50.063155+00:00"
+  },
+  {
+   "title": "Tout comprendre à la guerre au Moyen-Orient 27 contenus",
+   "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/tout-comprendre-a-la-guerre-au-moyen-orient/",
+   "summary": "Tout comprendre à la guerre au Moyen-Orient",
+   "image": "https://www.franceinfo.fr/pictures/1mjbL6KrEfhdf8kkM-fiwv8Aqs4/432x297/filters:format(jpg)/2026/03/01/075-nikoubazl-mourning260301-npgop-69a44a7350cd8738092334.jpg",
+   "date": null,
+   "pubdate": "2026-08-30T18:24:50.063155+00:00"
+  },
+  {
+   "title": "0:47 vidéo 47 secondes Un ferry chavire au large de Chypre avec 267 personnes à bord",
    "link": "https://www.franceinfo.fr/monde/chypre/un-ferry-chavire-au-large-de-chypre-avec-267-personnes-a-bord_8169677.html",
    "summary": "Un ferry chavire au large de Chypre avec 267 personnes à bord",
-   "image": "https://www.franceinfo.fr/pictures/Dg83HVrzG4bl7CjYHrRtqLs1ru4/0x0:1080x1920/fit-in/432x297/filters:upscale():fill(blur):format(jpg)/2026/08/30/6a9449aadf6d5811135185.jpg",
+   "image": "https://www.franceinfo.fr/pictures/j5u5BJi7iHu2au7vyd7pF3CDRKo/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/08/30/6a9449aadf6d5811135185.jpg",
    "date": null,
    "pubdate": "2026-08-30T15:24:53.083899+00:00"
   },
@@ -108,22 +148,6 @@
    "pubdate": "2026-08-30T12:24:56.383605+00:00"
   },
   {
-   "title": "Au Niger, la junte militaire au pouvoir affirme avoir déjoué une mutinerie avec l'appui de la Russie",
-   "link": "https://www.franceinfo.fr/monde/afrique/niger/au-niger-la-junte-militaire-au-pouvoir-dejoue-une-mutinerie-avec-l-aide-de-la-russie_8169404.html",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/SZGrbza_xQFodwkaxpzipKwRScw/0x53:1024x629/432x243/filters:format(jpg)/2026/08/30/6a940083c6744704087039.jpg",
-   "date": null,
-   "pubdate": "2026-08-30T12:24:56.383605+00:00"
-  },
-  {
-   "title": "L'Islande dit \"non\" à une reprise des négociations d'adhésion à l'Union européenne",
-   "link": "https://www.franceinfo.fr/monde/europe/union-europeenne/referendum-sur-l-union-europeenne-en-islande-le-non-en-avance-de-cinq-points-alors-que-le-depouillement-touche-a-sa-fin_8169350.html",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/ajEDIlhC_qI0zWXxuDm0N4I1I0U/0x53:1024x629/432x243/filters:format(jpg)/2026/08/30/6a93f5ce16ce9814819953.jpg",
-   "date": null,
-   "pubdate": "2026-08-30T12:24:56.383605+00:00"
-  },
-  {
    "title": "15:41 vidéo 15 minutes 41 Entre modernité et traditions bien ancrées, comment vit-on en Corée du Sud ?",
    "link": "https://www.franceinfo.fr/monde/coree-du-sud/entre-modernite-et-traditions-bien-ancrees-comment-vit-on-en-coree-du-sud_8161439.html",
    "summary": "Entre modernité et traditions bien ancrées, comment vit-on en Corée du Sud ?",
@@ -148,6 +172,22 @@
    "pubdate": "2026-08-30T12:24:56.383605+00:00"
   },
   {
+   "title": "Au Niger, la junte militaire au pouvoir affirme avoir déjoué une mutinerie avec l'appui de la Russie Depuis 2023, les militaires qui ont pris le pouvoir dans le pays se sont peu à peu éloignés de leur partenaire français pour se rapprocher de Moscou.",
+   "link": "https://www.franceinfo.fr/monde/afrique/niger/au-niger-la-junte-militaire-au-pouvoir-dejoue-une-mutinerie-avec-l-aide-de-la-russie_8169404.html",
+   "summary": "Au Niger, la junte militaire au pouvoir affirme avoir déjoué une mutinerie avec l'appui de la Russie",
+   "image": "https://www.franceinfo.fr/pictures/SZGrbza_xQFodwkaxpzipKwRScw/0x53:1024x629/432x243/filters:format(jpg)/2026/08/30/6a940083c6744704087039.jpg",
+   "date": null,
+   "pubdate": "2026-08-30T12:24:56.383605+00:00"
+  },
+  {
+   "title": "L'Islande dit \"non\" à une reprise des négociations d'adhésion à l'Union européenne C'est un coup dur pour l'UE, qui aurait vu d'un bon œil une candidature de cette riche île de l'Atlantique Nord et semblait prête à des compromis pour faciliter son intégration.",
+   "link": "https://www.franceinfo.fr/monde/europe/union-europeenne/referendum-sur-l-union-europeenne-en-islande-le-non-en-avance-de-cinq-points-alors-que-le-depouillement-touche-a-sa-fin_8169350.html",
+   "summary": "L'Islande dit \"non\" à une reprise des négociations d'adhésion à l'Union européenne",
+   "image": "https://www.franceinfo.fr/pictures/ajEDIlhC_qI0zWXxuDm0N4I1I0U/0x53:1024x629/432x243/filters:format(jpg)/2026/08/30/6a93f5ce16ce9814819953.jpg",
+   "date": null,
+   "pubdate": "2026-08-30T12:24:56.383605+00:00"
+  },
+  {
    "title": "2:19 audio 2 minutes 19 Attaques ukrainiennes contre les géants du commerce en ligne : les Russes sont rattrapés par la guerre. Des milliers de petits commerçants perdent leurs stocks et se retrouvent ruinés. Les consommateurs reçoivent leurs commandes en retard, ou pas du tout. Les prix augmentent.",
    "link": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/attaques-ukrainiennes-contre-les-geants-du-commerce-en-ligne-les-russes-sont-rattrapes-par-la-guerre_8083208.html",
    "summary": "Attaques ukrainiennes contre les géants du commerce en ligne : les Russes sont rattrapés par la guerre.",
@@ -156,9 +196,9 @@
    "pubdate": "2026-08-30T12:24:56.383605+00:00"
   },
   {
-   "title": "Le Venezuela \"conserve propriété et souveraineté\" de son pétrole, assure la présidente Delcy Rodriguez après l'accord conclu avec les Etats-Unis",
+   "title": "Le Venezuela \"conserve propriété et souveraineté\" de son pétrole, assure la présidente Delcy Rodriguez après l'accord conclu avec les Etats-Unis Les deux pays ont signé un accord \"historique\" sur l'or noir. Mais cette décision suscite des critiques, certains y voyant un texte plus avantageux pour Washington que pour Caracas.",
    "link": "https://www.franceinfo.fr/monde/venezuela/le-venezuela-conserve-propriete-et-souverainete-de-son-petrole-assure-la-presidente-delcy-rodriguez-apres-l-accord-conclu-avec-les-etats-unis_8169308.html",
-   "summary": "",
+   "summary": "Le Venezuela \"conserve propriété et souveraineté\" de son pétrole, assure la présidente Delcy Rodriguez après l'accord conclu avec les Etats-Unis",
    "image": "https://www.franceinfo.fr/pictures/ae39NgJPjmmWlBm_E39mWMR79f4/0x53:1024x629/432x243/filters:format(jpg)/2026/08/30/6a93ed214f0d2224482345.jpg",
    "date": null,
    "pubdate": "2026-08-30T09:24:48.462261+00:00"
@@ -212,14 +252,6 @@
    "pubdate": "2026-08-30T07:23:41.948837+00:00"
   },
   {
-   "title": "\"Il faut protéger notre culture\" : des Japonais surpris de ne pas avoir été consultés sur le futur parc français \"Dragon Ball Z\" Emmanuel Macron a annoncé un futur parc à thème Dragon Ball en région parisienne, financé par l'Arabie saoudite. Ce projet interroge au Japon, notamment sur les terres natales du créateur de Dragon Ball.",
-   "link": "https://www.franceinfo.fr/monde/japon/il-faut-proteger-notre-culture-des-japonais-surpris-de-ne-pas-avoir-ete-consultes-sur-le-futur-parc-francais-dragon-ball-z_8167955.html",
-   "summary": "\"Il faut protéger notre culture\" : des Japonais surpris de ne pas avoir été consultés sur le futur parc français \"Dragon Ball Z\"",
-   "image": "https://www.franceinfo.fr/pictures/uah7pJuGNa39yvGBgzrcpcPbxO4/0x285:5490x3374/432x243/filters:format(jpg)/2026/08/25/6a8d4bb591906639491328.jpg",
-   "date": null,
-   "pubdate": "2026-08-30T07:23:41.948837+00:00"
-  },
-  {
    "title": "\"Nous sommes peut-être le jour d’après Einstein\" : le télescope spatial Nancy Grace Roman va tenter de percer le mystère de l’énergie sombre Lancé dimanche pour une mission d'environ 5 ans, l'engin va tenter de cartographier le cosmos et de répondre à l'un des plus grand mystères de notre monde : comprendre ce qu'est l'énergie sombre, au cœur de l'expansion de l'Univers.",
    "link": "https://www.franceinfo.fr/sciences/espace/nous-sommes-peut-etre-le-jour-d-apres-einstein-le-telescope-spatial-nancy-grace-roman-va-tenter-de-percer-le-mystere-de-l-energie-sombre_8168552.html",
    "summary": "\"Nous sommes peut-être le jour d’après Einstein\" : le télescope spatial Nancy Grace Roman va tenter de percer le mystère de l’énergie sombre",
@@ -242,38 +274,6 @@
    "image": "https://www.franceinfo.fr/pictures/Hu_X2Lc8If9rS-9KzhZ4GoETYYY/0x241:4300x2658/432x243/filters:format(jpg)/2022/03/15/phpDbOAJd.jpg",
    "date": null,
    "pubdate": "2026-08-30T06:24:55.494082+00:00"
-  },
-  {
-   "title": "Guerre en Ukraine : une frappe russe sur un entrepôt contenant des munitions fait au moins 38 morts près de Kiev Volodymyr Zelensky a fait état, samedi, de \"détonations à grande échelle d'obus, de mines, d'autres munitions et de drones\", qui n'auraient \"absolument pas dû\" se trouver dans la zone résidentielle touchée.",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-ukraine-une-frappe-russe-fait-au-moins-27-morts-dans-un-entrepot-pres-de-kiev_8168213.html",
-   "summary": "Guerre en Ukraine : une frappe russe sur un entrepôt contenant des munitions fait au moins 38 morts près de Kiev",
-   "image": "https://www.franceinfo.fr/pictures/KYyZF39j8SavVCumK5fDVqiuZ7w/0x192:3688x2266/432x243/filters:format(jpg)/2026/08/29/6a92df6eb00f9801958522.jpg",
-   "date": null,
-   "pubdate": "2026-08-30T06:24:55.494082+00:00"
-  },
-  {
-   "title": "Des militants des droits civiques manifestent à Washington pour \"défendre le vote\", à l'approche des élections américaines de mi-mandat Les manifestants dénoncent notamment le redécoupage électoral engagé par les républicains à leur profit, ainsi que les restrictions au vote par correspondance soutenues par Donald Trump.",
-   "link": "https://www.franceinfo.fr/monde/usa/midterms-2018/des-militants-des-droits-civiques-manifestent-a-washington-pour-defendre-le-vote-a-l-approche-des-elections-americaines-de-mi-mandat_8168162.html",
-   "summary": "Des militants des droits civiques manifestent à Washington pour \"défendre le vote\", à l'approche des élections américaines de mi-mandat",
-   "image": "https://www.franceinfo.fr/pictures/bAispW_Ynw1yW6QhEJ_3fXmC9m0/0x372:3971x2605/432x243/filters:format(jpg)/2026/08/29/6a9296c82b97d601166390.jpg",
-   "date": null,
-   "pubdate": "2026-08-30T06:24:55.494082+00:00"
-  },
-  {
-   "title": "Benyamin Nétanyahou \"condamne fermement\" des attaques de colons israéliens contre des villages palestiniens en Cisjordanie Le Premier ministre a dénoncé des \"actes de violence criminels\" commis par des \"émeutiers\" qui \"nuisent\" à l'image internationale de l'Etat hébreu.",
-   "link": "https://www.franceinfo.fr/monde/palestine/benyamin-netanyahou-condamne-fermement-des-attaques-de-colons-israeliens-contre-des-villages-palestiniens-en-cisjordanie_8168813.html",
-   "summary": "Benyamin Nétanyahou \"condamne fermement\" des attaques de colons israéliens contre des villages palestiniens en Cisjordanie",
-   "image": "https://www.franceinfo.fr/pictures/rhcUJtDeuCXUCPHybGobLItIMa4/0x53:1024x629/432x243/filters:format(jpg)/2026/08/29/6a93285130c22400899892.jpg",
-   "date": null,
-   "pubdate": "2026-08-29T21:24:57.624161+00:00"
-  },
-  {
-   "title": "7:00 article 7 minutes Six mois après le début de la guerre en Iran, Donald Trump cherche toujours une porte de sortie, à l'approche des élections américaines de mi-mandat",
-   "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/six-mois-apres-le-debut-de-la-guerre-en-iran-donald-trump-cherche-toujours-une-porte-de-sortie-a-l-approche-des-elections-americaines-de-mi-mandat_8160953.html",
-   "summary": "Six mois après le début de la guerre en Iran, Donald Trump cherche toujours une porte de sortie, à l'approche des élections américaines de mi-mandat",
-   "image": "https://www.franceinfo.fr/pictures/t1uLbQ31M0Y1ShRTKbpwl0B6piA/0x0:2942x2942/100x100/filters:format(jpg)/2026/08/25/6a8dc64c93095374441082.jpg",
-   "date": null,
-   "pubdate": "2026-08-29T15:02:45.999397+00:00"
   }
  ]
 }
