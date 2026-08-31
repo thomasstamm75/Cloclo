@@ -1,14 +1,8 @@
 {
- "etag": "\"191748461e7af010adaf07a66abac5f9-gzip\"",
+ "etag": "\"e4c04783dba27ab48d3beffcfa8c5563-gzip\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.franceinfo.fr/societe/nos-jours-heureux/nos-jours-heureux-baignade-salee-deluge-et-sentiment-de-liberte-a-deauville-la-journee-des-oublies-des-vacances-vire-a-la-formidable-odyssee_8155004.html": "2026-08-30T06:24:50.814664+00:00",
   "https://www.franceinfo.fr/societe/education/inflation-cout-de-la-vie-contractuels-pourquoi-le-salaire-est-il-devenu-la-preoccupation-principale-des-professeurs_8169692.html": "2026-08-31T06:24:49.890917+00:00",
-  "https://www.franceinfo.fr/societe/homophobie/quand-j-aurai-panse-mes-plaies-je-continuerai-le-combat-assure-le-president-d-une-association-lgbt-agresse-a-paris_8170211.html": "2026-08-31T06:24:49.890917+00:00",
-  "https://www.franceinfo.fr/societe/pedocriminalite/un-policier-de-21-ans-mis-en-examen-a-rouen-pour-viol-sur-mineur-et-detention-d-images-pedopornographiques_8170193.html": "2026-08-31T06:24:49.890917+00:00",
-  "https://www.franceinfo.fr/societe/education/violences-dans-le-periscolaire/info-franceinfo-203-enquetes-penales-sont-en-cours-pour-des-soupcons-de-violences-dans-le-scolaire-et-le-periscolaire-parisien_8169875.html": "2026-08-31T06:24:49.890917+00:00",
-  "https://www.franceinfo.fr/culture/cinema/sorties-de-films/the-good-sister-l-epineuse-question-des-proches-des-auteurs-de-violences-sexuelles-explore-avec-justesse-par-ce-premier-film_8156552.html": "2026-08-31T06:24:49.890917+00:00",
-  "https://www.franceinfo.fr/societe/arrets-maladie-a-duree-limitee-interdiction-du-portable-au-lycee-taxe-sur-les-vetements-voici-tout-ce-qui-change-au-1er-septembre_8169296.html": "2026-08-31T06:24:49.890917+00:00",
   "https://www.franceinfo.fr/societe/education/service-national-universel/reportage-l-idee-de-servir-mon-pays-m-a-toujours-plu-pres-de-3-000-jeunes-demarrent-leur-service-national_8170262.html": "2026-08-31T09:24:36.715242+00:00",
   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/maintenant-il-faut-agir-estime-le-president-des-sdis-qui-demande-plus-de-moyens-pour-les-pompiers-apres-les-incendies-de-l-ete_8170397.html": "2026-08-31T09:24:36.715242+00:00",
   "https://www.franceinfo.fr/replay-radio/le-tour-de-la-question/quelles-missions-vont-effectuer-les-3-000-jeunes-de-la-premiere-promotion-du-service-national_8168462.html": "2026-08-31T09:24:36.715242+00:00",
@@ -28,18 +22,80 @@
   "https://www.franceinfo.fr/societe/education/violences-dans-le-periscolaire/203-enquetes-pour-violences-ouvertes-dans-le-milieu-periscolaire_8170778.html": "2026-08-31T15:24:51.780646+00:00",
   "https://www.franceinfo.fr/france/rentree/piratage-de-l-education-nationale-la-rentree-se-fera-en-mode-degrade-dans-les-academies-de-nantes-et-toulouse_8170589.html": "2026-08-31T15:24:51.780646+00:00",
   "https://www.franceinfo.fr/societe/education/un-service-rattache-au-premier-ministre-recommande-de-revaloriser-le-salaire-des-professeurs_8170760.html": "2026-08-31T15:24:51.780646+00:00",
-  "https://www.franceinfo.fr/politique/front-national/on-ne-peut-pas-interdire-de-pratiquer-la-religion-aux-gens-la-verbalisation-du-voile-dans-l-espace-public-proposee-par-le-rn-fait-debat_8170754.html": "2026-08-31T15:24:51.780646+00:00",
   "https://www.franceinfo.fr/france/rentree/en-deux-minutes-je-controle-tous-les-eleves-une-application-permet-de-bloquer-l-acces-aux-portables-des-collegiens_8170424.html": "2026-08-31T15:24:51.780646+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/j-essaie-d-y-aller-cinq-six-fois-par-semaine-a-16-ou-17-ans-ils-sont-deja-accros-a-la-salle-de-sport_8136965.html": "2026-08-31T15:24:51.780646+00:00",
-  "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-visite-du-pape-a-metz-c-est-un-formidable-coup-de-projecteur-sur-la-ville-estime-le-maire_8134199.html": "2026-08-31T15:24:51.780646+00:00"
+  "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-visite-du-pape-a-metz-c-est-un-formidable-coup-de-projecteur-sur-la-ville-estime-le-maire_8134199.html": "2026-08-31T15:24:51.780646+00:00",
+  "https://www.franceinfo.fr/faits-divers/terrorisme/enseignant-decapite-dans-les-yvelines/un-homme-implique-dans-l-assassinat-de-samuel-paty-de-nouveau-condamne_8171168.html": "2026-08-31T18:24:49.830768+00:00",
+  "https://www.franceinfo.fr/societe/harcelement-sexuel/un-animateur-du-centre-de-loisirs-de-tarnos-dans-les-landes-ecarte-pour-des-faits-pas-compatibles-avec-la-profession_8171117.html": "2026-08-31T18:24:49.830768+00:00",
+  "https://www.franceinfo.fr/societe/pacs-amical-absence-en-cas-de-deuil-habitat-collectif-la-deputee-lfi-clemence-guette-plaide-pour-accorder-des-droits-a-l-amitie_8170832.html": "2026-08-31T18:24:49.830768+00:00",
+  "https://www.franceinfo.fr/societe/justice/des-rapporteurs-de-l-onu-expriment-leur-vives-preoccupations-autour-des-poursuites-contre-l-eurodeputee-rima-hassan_8171066.html": "2026-08-31T18:24:49.830768+00:00",
+  "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/nice/marseillaise-et-lever-de-drapeau-tricolore-dans-les-ecoles-nicoises-le-ministre-de-l-education-nationale-retoque-la-proposition-d-eric-ciotti-3409082.html": "2026-08-31T18:24:49.830768+00:00",
+  "https://www.franceinfo.fr/societe/nos-jours-heureux/": "2026-08-31T18:24:49.830768+00:00",
+  "https://www.franceinfo.fr/societe/euthanasie/comprendre-les-debats-sur-la-fin-de-vie/": "2026-08-31T18:24:49.830768+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "1:41 vidéo 1 minute 41 Ça va être difficile le lycée sans ton téléphone ? C’est bientôt la rentrée et l’une des grosses nouveautés cette année, c’est l’interdiction du smartphone au lycée . On a demandé à des ados ce qu’ils en pensaient...",
+   "title": "Un homme impliqué dans l'assassinat de Samuel Paty de nouveau condamné Assigné à résidence dans les Hauts-de-Seine sur décision de la préfecture dans l'attente de son expulsion du territoire français, il a été contrôlé vendredi sur le parking du parc d'attractions Astérix.",
+   "link": "https://www.franceinfo.fr/faits-divers/terrorisme/enseignant-decapite-dans-les-yvelines/un-homme-implique-dans-l-assassinat-de-samuel-paty-de-nouveau-condamne_8171168.html",
+   "summary": "Un homme impliqué dans l'assassinat de Samuel Paty de nouveau condamné",
+   "image": "https://www.franceinfo.fr/pictures/mwTPr1oiwK8Q6eIvjMLw0i0_Mzs/16x0:1007x681/432x297/filters:format(jpg)/2026/08/31/6a95bf7b755e6144548693.jpg",
+   "date": null,
+   "pubdate": "2026-08-31T18:24:49.830768+00:00"
+  },
+  {
+   "title": "Un animateur du centre de loisirs de Tarnos, dans les Landes, écarté pour des faits \"pas compatibles avec la profession\"",
+   "link": "https://www.franceinfo.fr/societe/harcelement-sexuel/un-animateur-du-centre-de-loisirs-de-tarnos-dans-les-landes-ecarte-pour-des-faits-pas-compatibles-avec-la-profession_8171117.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/HJhX6j7awALLfs1CJYNwUm6kAYI/0x207:2048x1359/432x243/filters:format(jpg)/2026/08/31/6a95b4dc40f5e759637406.jpg",
+   "date": null,
+   "pubdate": "2026-08-31T18:24:49.830768+00:00"
+  },
+  {
+   "title": "\"Pacs\" amical, absence en cas de deuil, habitat collectif... La députée LFI Clémence Guetté plaide pour accorder des droits à l'amitié",
+   "link": "https://www.franceinfo.fr/societe/pacs-amical-absence-en-cas-de-deuil-habitat-collectif-la-deputee-lfi-clemence-guette-plaide-pour-accorder-des-droits-a-l-amitie_8170832.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/RN4r2FDr3jtneNiYskbCNyXTSiA/0x0:1024x576/432x243/filters:format(jpg)/2026/08/31/6a959c5646476303977526.jpg",
+   "date": null,
+   "pubdate": "2026-08-31T18:24:49.830768+00:00"
+  },
+  {
+   "title": "Des rapporteurs de l'ONU expriment leurs \"vives préoccupations\" autour des poursuites contre l'eurodéputée Rima Hassan",
+   "link": "https://www.franceinfo.fr/societe/justice/des-rapporteurs-de-l-onu-expriment-leur-vives-preoccupations-autour-des-poursuites-contre-l-eurodeputee-rima-hassan_8171066.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/ye3AgZnA3jgiBHV8IbDrjRdzFSE/0x53:1024x629/432x243/filters:format(jpg)/2026/08/31/6a95ad4744742085788860.jpg",
+   "date": null,
+   "pubdate": "2026-08-31T18:24:49.830768+00:00"
+  },
+  {
+   "title": "\"Marseillaise\" et lever de drapeau tricolore dans les écoles niçoises : le ministre de l'Education nationale retoque la proposition d'Eric Ciotti",
+   "link": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/nice/marseillaise-et-lever-de-drapeau-tricolore-dans-les-ecoles-nicoises-le-ministre-de-l-education-nationale-retoque-la-proposition-d-eric-ciotti-3409082.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/HjC8qo3EceBjTvKA4R1dfAvRqUc/432x243/filters:format(jpg)/2026/08/31/6a95995213ece416253599.jpg",
+   "date": null,
+   "pubdate": "2026-08-31T18:24:49.830768+00:00"
+  },
+  {
+   "title": "Nos jours heureux 4 contenus",
+   "link": "https://www.franceinfo.fr/societe/nos-jours-heureux/",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/70hxXkCD_HnVl93vv3dfs138KJQ/432x297/filters:format(jpg)/2026/07/30/6a6b142e19c9c745704318.jpg",
+   "date": null,
+   "pubdate": "2026-08-31T18:24:49.830768+00:00"
+  },
+  {
+   "title": "Comprendre les débats sur la fin de vie 15 contenus",
+   "link": "https://www.franceinfo.fr/societe/euthanasie/comprendre-les-debats-sur-la-fin-de-vie/",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/gZwL6mlJ39yMRDzurzn4EQx_sgw/432x297/filters:format(jpg)/2025/05/27/illustration-aide-a-mourir-68357ca797624128014806.jpg",
+   "date": null,
+   "pubdate": "2026-08-31T18:24:49.830768+00:00"
+  },
+  {
+   "title": "1:41 vidéo 1 minute 41 Ça va être difficile le lycée sans ton téléphone ?",
    "link": "https://www.franceinfo.fr/societe/education/scolarite/guide-parents/lycee/ca-va-etre-difficile-le-lycee-sans-ton-telephone_8170901.html",
    "summary": "Ça va être difficile le lycée sans ton téléphone ?",
-   "image": "https://www.franceinfo.fr/pictures/4B9oJD8d7UmmCJ7iFWEIbH2Yfio/0x0:1080x1920/fit-in/432x297/filters:upscale():fill(blur):format(jpg)/2026/08/31/6a95924927c03144099339.jpg",
+   "image": "https://www.franceinfo.fr/pictures/_NzM1KdLlBeajXwrV6JH_SXAiCQ/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/08/31/6a95924927c03144099339.jpg",
    "date": null,
    "pubdate": "2026-08-31T15:24:51.780646+00:00"
   },
@@ -76,38 +132,6 @@
    "pubdate": "2026-08-31T15:24:51.780646+00:00"
   },
   {
-   "title": "Piratage de l'Education nationale : la rentrée se fera en mode dégradé dans les académies de Nantes et Toulouse",
-   "link": "https://www.franceinfo.fr/france/rentree/piratage-de-l-education-nationale-la-rentree-se-fera-en-mode-degrade-dans-les-academies-de-nantes-et-toulouse_8170589.html",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/dXslPxiFCRptKtIyUYzbgLOop2A/0x389:7479x4596/432x243/filters:format(jpg)/2026/08/31/6a955a37d3bea617499869.jpg",
-   "date": null,
-   "pubdate": "2026-08-31T15:24:51.780646+00:00"
-  },
-  {
-   "title": "Un service rattaché au Premier ministre recommande de revaloriser le salaire des professeurs",
-   "link": "https://www.franceinfo.fr/societe/education/un-service-rattache-au-premier-ministre-recommande-de-revaloriser-le-salaire-des-professeurs_8170760.html",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/D6IyGMcNvWHZftriDOvmo2Y-GWo/0x53:1024x629/432x243/filters:format(jpg)/2026/08/31/6a95789f2dfb8140231873.jpg",
-   "date": null,
-   "pubdate": "2026-08-31T15:24:51.780646+00:00"
-  },
-  {
-   "title": "1:48 vidéo 1 minute 48 \"On ne peut pas interdire de pratiquer la religion aux gens\" : la verbalisation du voile dans l'espace public proposée par le RN fait débat",
-   "link": "https://www.franceinfo.fr/politique/front-national/on-ne-peut-pas-interdire-de-pratiquer-la-religion-aux-gens-la-verbalisation-du-voile-dans-l-espace-public-proposee-par-le-rn-fait-debat_8170754.html",
-   "summary": "\"On ne peut pas interdire de pratiquer la religion aux gens\" : la verbalisation du voile dans l'espace public proposée par le RN fait débat",
-   "image": "https://www.franceinfo.fr/pictures/58cdWndDrCptEoQwsKiidTrKg40/0x16:1249x719/432x243/filters:format(jpg)/2026/08/31/6a95778bc4c7c577993341.jpg",
-   "date": null,
-   "pubdate": "2026-08-31T15:24:51.780646+00:00"
-  },
-  {
-   "title": "\"En deux minutes, je contrôle tous les élèves\" : une application permet de bloquer l'accès aux portables des collégiens",
-   "link": "https://www.franceinfo.fr/france/rentree/en-deux-minutes-je-controle-tous-les-eleves-une-application-permet-de-bloquer-l-acces-aux-portables-des-collegiens_8170424.html",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/nDLMdoaHVvXS7uyFPw_ZaanMego/0x0:4300x2418/432x243/filters:format(jpg)/2026/08/31/6a95638ec20a0047820924.jpg",
-   "date": null,
-   "pubdate": "2026-08-31T15:24:51.780646+00:00"
-  },
-  {
    "title": "4:39 audio 4 minutes 39 \"J'essaie d'y aller cinq, six fois par semaine\" : À 16 ou 17 ans, ils sont déjà accros à la salle de sport",
    "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/j-essaie-d-y-aller-cinq-six-fois-par-semaine-a-16-ou-17-ans-ils-sont-deja-accros-a-la-salle-de-sport_8136965.html",
    "summary": "\"J'essaie d'y aller cinq, six fois par semaine\" : À 16 ou 17 ans, ils sont déjà accros à la salle de sport",
@@ -124,18 +148,42 @@
    "pubdate": "2026-08-31T15:24:51.780646+00:00"
   },
   {
-   "title": "Le RN prévoit un référendum sur l'interdiction du port du voile en cas de victoire à la présidentielle 2027",
-   "link": "https://www.franceinfo.fr/elections/presidentielle/le-rn-prevoit-un-referendum-sur-l-interdiction-du-port-du-voile-en-cas-de-victoire-a-la-presidentielle-2027_8170688.html",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/5uakbivPt721XVoeN5RDMkZKq4c/0x0:5299x2980/432x243/filters:format(jpg)/2026/08/31/6a9567c6b4e83903076495.jpg",
+   "title": "Piratage de l'Education nationale : la rentrée se fera en mode dégradé dans les académies de Nantes et Toulouse Touchée cet été par une cyberattaque, l'Éducation nationale est parvenue à un retour à la normale dans quasiment toutes les académies. Mais deux académies subissent toujours les conséquences de ce piratage et sont obligées de s'adapter pour la rentrée.",
+   "link": "https://www.franceinfo.fr/france/rentree/piratage-de-l-education-nationale-la-rentree-se-fera-en-mode-degrade-dans-les-academies-de-nantes-et-toulouse_8170589.html",
+   "summary": "Piratage de l'Education nationale : la rentrée se fera en mode dégradé dans les académies de Nantes et Toulouse",
+   "image": "https://www.franceinfo.fr/pictures/dXslPxiFCRptKtIyUYzbgLOop2A/0x389:7479x4596/432x243/filters:format(jpg)/2026/08/31/6a955a37d3bea617499869.jpg",
    "date": null,
-   "pubdate": "2026-08-31T12:25:04.910829+00:00"
+   "pubdate": "2026-08-31T15:24:51.780646+00:00"
+  },
+  {
+   "title": "Un service rattaché au Premier ministre recommande de revaloriser le salaire des professeurs Le Haut-commissariat à la stratégie et au plan publie un rapport, lundi, dans lequel il formule 11 recommandations pour améliorer le niveau des élèves français.",
+   "link": "https://www.franceinfo.fr/societe/education/un-service-rattache-au-premier-ministre-recommande-de-revaloriser-le-salaire-des-professeurs_8170760.html",
+   "summary": "Un service rattaché au Premier ministre recommande de revaloriser le salaire des professeurs",
+   "image": "https://www.franceinfo.fr/pictures/D6IyGMcNvWHZftriDOvmo2Y-GWo/0x53:1024x629/432x243/filters:format(jpg)/2026/08/31/6a95789f2dfb8140231873.jpg",
+   "date": null,
+   "pubdate": "2026-08-31T15:24:51.780646+00:00"
+  },
+  {
+   "title": "\"En deux minutes, je contrôle tous les élèves\" : une application permet de bloquer l'accès aux portables des collégiens Alors que le portable doit être interdit au collège à partir de mardi, deux entrepreneurs français ont lancé une application payante pour déployer cette mesure.",
+   "link": "https://www.franceinfo.fr/france/rentree/en-deux-minutes-je-controle-tous-les-eleves-une-application-permet-de-bloquer-l-acces-aux-portables-des-collegiens_8170424.html",
+   "summary": "\"En deux minutes, je contrôle tous les élèves\" : une application permet de bloquer l'accès aux portables des collégiens",
+   "image": "https://www.franceinfo.fr/pictures/nDLMdoaHVvXS7uyFPw_ZaanMego/0x0:4300x2418/432x243/filters:format(jpg)/2026/08/31/6a95638ec20a0047820924.jpg",
+   "date": null,
+   "pubdate": "2026-08-31T15:24:51.780646+00:00"
   },
   {
    "title": "5:00 article 5 minutes \"Tout le monde les écoutait... ou les subissait\" : peut-on encore parler de \"hits de l'été\", comme avant les réseaux sociaux ?",
    "link": "https://www.franceinfo.fr/culture/musique/tout-le-monde-les-ecoutait-ou-les-subissait-peut-on-encore-parler-de-hits-de-l-ete-comme-avant-les-reseaux-sociaux_8155445.html",
    "summary": "\"Tout le monde les écoutait... ou les subissait\" : peut-on encore parler de \"hits de l'été\", comme avant les réseaux sociaux ?",
    "image": "https://www.franceinfo.fr/pictures/2vTdJYIs0KgfpwSgugbLNckEUvQ/584x0:3416x2832/100x100/filters:format(jpg)/2026/08/21/6a88b864c09fe968349292.jpg",
+   "date": null,
+   "pubdate": "2026-08-31T12:25:04.910829+00:00"
+  },
+  {
+   "title": "Le RN prévoit un référendum sur l'interdiction du port du voile en cas de victoire à la présidentielle 2027 Selon l'entourage de Marine Le Pen, lundi auprès de France Inter, ce référendum serait une façon \"d'enjamber\" le Conseil constitutionnel, qui ne peut pas statuer sur des lois référendaires.",
+   "link": "https://www.franceinfo.fr/elections/presidentielle/le-rn-prevoit-un-referendum-sur-l-interdiction-du-port-du-voile-en-cas-de-victoire-a-la-presidentielle-2027_8170688.html",
+   "summary": "Le RN prévoit un référendum sur l'interdiction du port du voile en cas de victoire à la présidentielle 2027",
+   "image": "https://www.franceinfo.fr/pictures/5uakbivPt721XVoeN5RDMkZKq4c/0x0:5299x2980/432x243/filters:format(jpg)/2026/08/31/6a9567c6b4e83903076495.jpg",
    "date": null,
    "pubdate": "2026-08-31T12:25:04.910829+00:00"
   },
@@ -226,54 +274,6 @@
    "image": "https://www.franceinfo.fr/pictures/-3anYqUuV1CshC5irvdOvbdXuaY/0x449:4314x2876/432x243/filters:format(jpg)/2026/08/30/6a948b19e0e59251492241.jpg",
    "date": null,
    "pubdate": "2026-08-31T06:24:49.890917+00:00"
-  },
-  {
-   "title": "\"Quand j'aurai pansé mes plaies, je continuerai le combat\", assure le président d'une association LGBT+ agressé à Paris \"Je suis particulièrement choqué, mais ça me laisse dire qu'il y a encore du travail à faire\", explique Pierre Picavet, lundi sur France Inter. Le président de FLAG! a été victime d'une agression homophobe, à Paris.",
-   "link": "https://www.franceinfo.fr/societe/homophobie/quand-j-aurai-panse-mes-plaies-je-continuerai-le-combat-assure-le-president-d-une-association-lgbt-agresse-a-paris_8170211.html",
-   "summary": "\"Quand j'aurai pansé mes plaies, je continuerai le combat\", assure le président d'une association LGBT+ agressé à Paris",
-   "image": "https://www.franceinfo.fr/pictures/wyKIw4OrCTFJS06wEbte2RWykvQ/0x224:4300x2642/432x243/filters:format(jpg)/2026/08/31/6a9512df1bbe7819114050.jpg",
-   "date": null,
-   "pubdate": "2026-08-31T06:24:49.890917+00:00"
-  },
-  {
-   "title": "Un policier de 21 ans mis en examen à Rouen pour viol sur mineur et détention d'images pédopornographiques Le policier est entré en contact avec l'adolescent sur internet, via un réseau social habituellement utilisé par des passionnées de jeux vidéo, a appris lundi ICI Normandie.",
-   "link": "https://www.franceinfo.fr/societe/pedocriminalite/un-policier-de-21-ans-mis-en-examen-a-rouen-pour-viol-sur-mineur-et-detention-d-images-pedopornographiques_8170193.html",
-   "summary": "Un policier de 21 ans mis en examen à Rouen pour viol sur mineur et détention d'images pédopornographiques",
-   "image": "https://www.franceinfo.fr/pictures/GI-SjdvSnZTzVJK14fyqW7shSvA/432x243/filters:format(jpg)/2026/06/10/6a2961521c357621869069.jpg",
-   "date": null,
-   "pubdate": "2026-08-31T06:24:49.890917+00:00"
-  },
-  {
-   "title": ": Info franceinfo Plus de 200 enquêtes pénales sont en cours pour des soupçons de violences dans le scolaire et le périscolaire à Paris Au total, les dossiers concernent 184 écoles parisiennes avec parfois plusieurs enquêtes dans un même établissement.",
-   "link": "https://www.franceinfo.fr/societe/education/violences-dans-le-periscolaire/info-franceinfo-203-enquetes-penales-sont-en-cours-pour-des-soupcons-de-violences-dans-le-scolaire-et-le-periscolaire-parisien_8169875.html",
-   "summary": "Plus de 200 enquêtes pénales sont en cours pour des soupçons de violences dans le scolaire et le périscolaire à Paris",
-   "image": "https://www.franceinfo.fr/pictures/AjJPNxvJ0d3ZpoBDPojde-VHHO0/432x243/filters:format(jpg)/2026/08/26/6a8f050dadbde322086357.jpg",
-   "date": null,
-   "pubdate": "2026-08-31T06:24:49.890917+00:00"
-  },
-  {
-   "title": "\"The Good Sister\" : l'épineuse question des proches des auteurs de violences sexuelles, exploré avec justesse par ce premier film La réalisatrice allemande Sarah Miro Fischer avait déjà été remarquée par son court-métrage \"Spit\" sur les fantasmes féminins et la violence.",
-   "link": "https://www.franceinfo.fr/culture/cinema/sorties-de-films/the-good-sister-l-epineuse-question-des-proches-des-auteurs-de-violences-sexuelles-explore-avec-justesse-par-ce-premier-film_8156552.html",
-   "summary": "\"The Good Sister\" : l'épineuse question des proches des auteurs de violences sexuelles, exploré avec justesse par ce premier film",
-   "image": "https://www.franceinfo.fr/pictures/Q3OQ-0qNvklg6yuvNpwGqcEEezM/88x0:1512x801/432x243/filters:format(jpg)/2026/08/21/6a8881309ea3d986441430.jpeg",
-   "date": null,
-   "pubdate": "2026-08-31T06:24:49.890917+00:00"
-  },
-  {
-   "title": "Arrêts maladie à durée limitée, interdiction du portable au lycée, taxe sur les vêtements… Voici tout ce qui change au 1er septembre Dès mardi, le tarif repère du gaz augmente également de 5,6% pour près de 6 millions de foyers, alors que la facturation électronique devient obligatoire pour les entreprises.",
-   "link": "https://www.franceinfo.fr/societe/arrets-maladie-a-duree-limitee-interdiction-du-portable-au-lycee-taxe-sur-les-vetements-voici-tout-ce-qui-change-au-1er-septembre_8169296.html",
-   "summary": "Arrêts maladie à durée limitée, interdiction du portable au lycée, taxe sur les vêtements… Voici tout ce qui change au 1er septembre",
-   "image": "https://www.franceinfo.fr/pictures/zXna4XpfL1tsunNMqvYewxtNdGg/0x189:3634x2233/432x243/filters:format(jpg)/2026/08/30/6a945ba17ce8c326272595.jpg",
-   "date": null,
-   "pubdate": "2026-08-31T06:24:49.890917+00:00"
-  },
-  {
-   "title": "8:00 article 8 minutes NOS JOURS HEUREUX. Baignade salée, déluge et \"sentiment de liberté\" : à Deauville, la journée des oubliés des vacances vire à la formidable odyssée",
-   "link": "https://www.franceinfo.fr/societe/nos-jours-heureux/nos-jours-heureux-baignade-salee-deluge-et-sentiment-de-liberte-a-deauville-la-journee-des-oublies-des-vacances-vire-a-la-formidable-odyssee_8155004.html",
-   "summary": "NOS JOURS HEUREUX. Baignade salée, déluge et \"sentiment de liberté\" : à Deauville, la journée des oubliés des vacances vire à la formidable odyssée",
-   "image": "https://www.franceinfo.fr/pictures/Zq8EolKHOB2oIH7VpX_5-tloJRE/980x0:2980x2000/100x100/filters:format(jpg)/2026/08/28/6a914e549a9b8505944599.png",
-   "date": null,
-   "pubdate": "2026-08-30T06:24:50.814664+00:00"
   }
  ]
 }
