@@ -1,9 +1,7 @@
 {
- "etag": "\"efc957e94a0216b7af7e792c546a9535-gzip\"",
+ "etag": "\"558704689a8bd09b9951f0390565b96a-gzip\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.franceinfo.fr/sciences/espace/nous-sommes-peut-etre-le-jour-d-apres-einstein-le-telescope-spatial-nancy-grace-roman-va-tenter-de-percer-le-mystere-de-l-energie-sombre_8168552.html": "2026-08-30T06:24:55.494082+00:00",
-  "https://www.franceinfo.fr/environnement/energie/energies-fossiles/totalenergies/totalenergies-maintiendra-son-plafonnement-des-prix-des-carburants-tant-que-le-conflit-durera-au-moyen-orient-reaffirme-son-pdg-patrick-pouyanne_8168288.html": "2026-08-30T07:23:41.948837+00:00",
   "https://www.franceinfo.fr/monde/venezuela/le-venezuela-conserve-propriete-et-souverainete-de-son-petrole-assure-la-presidente-delcy-rodriguez-apres-l-accord-conclu-avec-les-etats-unis_8169308.html": "2026-08-30T09:24:48.462261+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-russie-dit-preparer-des-frappes-massives-contre-le-secteur-energetique-de-l-ukraine_8169281.html": "2026-08-30T09:24:48.462261+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-pleine-guerre-en-ukraine-le-maire-d-odessa-met-en-place-des-abris-contre-les-drones-russes-sur-ses-plages-pour-proteger-ses-vacanciers_8167196.html": "2026-08-30T09:24:48.462261+00:00",
@@ -31,10 +29,28 @@
   "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/tout-comprendre-a-la-guerre-au-moyen-orient/": "2026-08-30T18:24:50.063155+00:00",
   "https://www.franceinfo.fr/replay-jt/france-2/20-heures/chypre-un-navire-fait-naufrage-au-large-des-cotes-au-moins-sept-personnes-sont-mortes_8169815.html": "2026-08-30T21:24:56.448255+00:00",
   "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/six-mois-apres-le-debut-de-la-guerre-en-iran-donald-trump-cherche-toujours-une-porte-de-sortie-a-l-approche-des-elections-americaines-de-mi-mandat_8160953.html": "2026-08-30T21:24:56.448255+00:00",
-  "https://www.franceinfo.fr/monde/palestine/benyamin-netanyahou-condamne-fermement-des-attaques-de-colons-israeliens-contre-des-villages-palestiniens-en-cisjordanie_8168813.html": "2026-08-30T21:24:56.448255+00:00"
+  "https://www.franceinfo.fr/monde/palestine/benyamin-netanyahou-condamne-fermement-des-attaques-de-colons-israeliens-contre-des-villages-palestiniens-en-cisjordanie_8168813.html": "2026-08-30T21:24:56.448255+00:00",
+  "https://www.franceinfo.fr/monde/iran/crise-dans-le-detroit-d-ormuz/guerre-en-iran-le-secteur-petrolier-beneficie-t-il-de-la-crise-qui-se-prolonge-dans-le-detroit-d-ormuz_8165009.html": "2026-08-31T00:24:53.404757+00:00",
+  "https://www.franceinfo.fr/monde/proche-orient/c-est-un-enfer-total-un-ressortissant-franco-egyptien-condamne-a-huit-ans-de-prison-en-arabie-saoudite-denonce-des-actes-de-torture_8168828.html": "2026-08-31T00:24:53.404757+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "Guerre en Iran : le secteur pétrolier bénéficie-t-il de la crise qui se prolonge dans le détroit d'Ormuz ? Six mois après le début du conflit entre les Etats-Unis et l'Iran, exportateurs et importateurs de pétrole se sont adaptés au blocus du passage maritime. Non sans conséquences sur le marché de l'or noir.",
+   "link": "https://www.franceinfo.fr/monde/iran/crise-dans-le-detroit-d-ormuz/guerre-en-iran-le-secteur-petrolier-beneficie-t-il-de-la-crise-qui-se-prolonge-dans-le-detroit-d-ormuz_8165009.html",
+   "summary": "Guerre en Iran : le secteur pétrolier bénéficie-t-il de la crise qui se prolonge dans le détroit d'Ormuz ?",
+   "image": "https://www.franceinfo.fr/pictures/n82ZYkEMdIgDeEaPTA6KR49H-mE/0x311:6048x3713/432x243/filters:format(jpg)/2026/08/27/6a9061973fa18365551458.jpg",
+   "date": null,
+   "pubdate": "2026-08-31T00:24:53.404757+00:00"
+  },
+  {
+   "title": "\"C'est un enfer total\" : un ressortissant franco-égyptien condamné à huit ans de prison en Arabie saoudite dénonce des actes de torture L'ingénieur-chercheur a été arrêté en juin 2024 lors d'un pèlerinage à La Mecque lorsqu'un a policier a affirmé que Amr Abdelfattah aurait \"insulté le gouvernement saoudien\", chose niée par le ressortissant.",
+   "link": "https://www.franceinfo.fr/monde/proche-orient/c-est-un-enfer-total-un-ressortissant-franco-egyptien-condamne-a-huit-ans-de-prison-en-arabie-saoudite-denonce-des-actes-de-torture_8168828.html",
+   "summary": "\"C'est un enfer total\" : un ressortissant franco-égyptien condamné à huit ans de prison en Arabie saoudite dénonce des actes de torture",
+   "image": "https://www.franceinfo.fr/pictures/Hu_X2Lc8If9rS-9KzhZ4GoETYYY/0x241:4300x2658/432x243/filters:format(jpg)/2022/03/15/phpDbOAJd.jpg",
+   "date": null,
+   "pubdate": "2026-08-31T00:24:53.404757+00:00"
+  },
   {
    "title": ": Vidéo 1:45 vidéo 1 minute 45 \"Nous sommes tous couverts de coupures\" : au large de Chypre, des scènes de panique filmées lors du naufrage d'un ferry Un catamaran en route vers la Turquie a chaviré avec 267 passagers à son bord, dimanche. Sept personnes sont mortes, tandis que 17 autres étaient toujours portées disparues dans la soirée.",
    "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/chypre-un-navire-fait-naufrage-au-large-des-cotes-au-moins-sept-personnes-sont-mortes_8169815.html",
@@ -258,22 +274,6 @@
    "image": "https://www.franceinfo.fr/pictures/aaDQO19VQbT0GJcoUHHoAIqqxrU/0x270:5203x3197/432x243/filters:format(jpg)/2026/08/29/6a92c5bf556ca386666624.jpg",
    "date": null,
    "pubdate": "2026-08-30T09:24:48.462261+00:00"
-  },
-  {
-   "title": "TotalEnergies maintiendra son plafonnement des prix des carburants \"tant que le conflit durera\" au Moyen-Orient, réaffirme son PDG Patrick Pouyanné Ce plafonnement des prix à la pompe a été mis en place par TotalEnergies en mars dernier, peu après le début de la guerre au Moyen-Orient.",
-   "link": "https://www.franceinfo.fr/environnement/energie/energies-fossiles/totalenergies/totalenergies-maintiendra-son-plafonnement-des-prix-des-carburants-tant-que-le-conflit-durera-au-moyen-orient-reaffirme-son-pdg-patrick-pouyanne_8168288.html",
-   "summary": "TotalEnergies maintiendra son plafonnement des prix des carburants \"tant que le conflit durera\" au Moyen-Orient, réaffirme son PDG Patrick Pouyanné",
-   "image": "https://www.franceinfo.fr/pictures/jJYDHjPYTuAFizf_SQZFOAHs_IQ/0x0:5471x3077/432x243/filters:format(jpg)/2026/08/29/6a92aed04ae77338206498.jpg",
-   "date": null,
-   "pubdate": "2026-08-30T07:23:41.948837+00:00"
-  },
-  {
-   "title": "\"Nous sommes peut-être le jour d’après Einstein\" : le télescope spatial Nancy Grace Roman va tenter de percer le mystère de l’énergie sombre Lancé dimanche pour une mission d'environ 5 ans, l'engin va tenter de cartographier le cosmos et de répondre à l'un des plus grand mystères de notre monde : comprendre ce qu'est l'énergie sombre, au cœur de l'expansion de l'Univers.",
-   "link": "https://www.franceinfo.fr/sciences/espace/nous-sommes-peut-etre-le-jour-d-apres-einstein-le-telescope-spatial-nancy-grace-roman-va-tenter-de-percer-le-mystere-de-l-energie-sombre_8168552.html",
-   "summary": "\"Nous sommes peut-être le jour d’après Einstein\" : le télescope spatial Nancy Grace Roman va tenter de percer le mystère de l’énergie sombre",
-   "image": "https://www.franceinfo.fr/pictures/2Fd4MZorBe0GKmkHOMieoeehjlE/0x0:3840x2160/432x243/filters:format(jpg)/2026/08/29/6a92ecc4d8166731749321.jpg",
-   "date": null,
-   "pubdate": "2026-08-30T06:24:55.494082+00:00"
   }
  ]
 }
