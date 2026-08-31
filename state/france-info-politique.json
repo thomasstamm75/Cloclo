@@ -1,14 +1,10 @@
 {
- "etag": "\"04fbc1fbf372e256cde7fcdeeb538986-gzip\"",
+ "etag": "\"f13168a659c28ec35ee8bf690e93c73b-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/politique/francois-hollande/complique-de-changer-la-donne-quand-vous-etes-un-revenant-a-blois-francois-hollande-tente-toujours-de-se-poser-en-recours-en-marge-de-la-primaire-socialiste_8168333.html": "2026-08-29T14:56:08.686933+00:00",
   "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-sebastien-lecornu-n-est-pas-candidat-et-ne-se-mele-pas-de-la-campagne-electorale_8168519.html": "2026-08-29T14:56:08.686933+00:00",
   "https://www.franceinfo.fr/elections/presidentielle/presidentielle-le-pdg-de-totalenergies-patrick-pouyanne-inquiet-face-aux-programmes-economiques-de-marine-le-pen-et-jean-luc-melenchon_8168474.html": "2026-08-29T14:56:08.686933+00:00",
-  "https://www.franceinfo.fr/monde/japon/il-faut-proteger-notre-culture-des-japonais-surpris-de-ne-pas-avoir-ete-consultes-sur-le-futur-parc-francais-dragon-ball-z_8167955.html": "2026-08-29T14:56:08.686933+00:00",
-  "https://www.franceinfo.fr/elections/presidentielle/appels-a-une-primaire-droite-centre-il-faut-avoir-un-candidat-avant-noel-reclame-l-ancien-ministre-herve-morin_8168135.html": "2026-08-29T14:56:08.686933+00:00",
-  "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-jordan-bardella-attendu-a-la-foire-de-chalons-en-champagne-les-socialistes-debattront-de-la-primaire-a-blois_8168102.html": "2026-08-29T14:56:08.686933+00:00",
-  "https://www.franceinfo.fr/politique/front-national/j-aimais-bien-jordan-bardella-des-electeurs-rn-decus-de-ne-pas-recevoir-le-candidat-bardella-sur-la-foire-de-chalons-en-champagne_8168051.html": "2026-08-29T14:56:08.686933+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/ca-va-etre-n-importe-quoi-j-ai-toujours-ete-de-son-cote-a-henin-beaumont-le-sort-judiciaire-de-marine-le-pen-inquiete-ses-soutiens_8063120.html": "2026-08-29T14:56:08.686933+00:00",
   "https://www.franceinfo.fr/politique/affaire/financement-de-la-campagne-de-sarkozy/soupcons-de-financement-libyen-tout-comprendre-a-l-affaire/": "2026-08-29T14:56:08.686933+00:00",
   "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/tout-comprendre-au-proces-des-assistants-parlementaires-fn/": "2026-08-29T14:56:08.686933+00:00",
@@ -31,15 +27,59 @@
   "https://www.franceinfo.fr/politique/front-national/le-rassemblement-national-veut-sanctionner-le-port-du-voile-par-une-amende-s-il-arrive-au-pouvoir-affirme-le-depute-jean-philippe-tanguy_8170307.html": "2026-08-31T09:24:38.985250+00:00",
   "https://www.franceinfo.fr/france/rentree/rentree-2026-les-absences-de-professeurs-au-college-et-au-lycee-seront-marginales-assure-le-ministre-de-l-education-nationale_8170304.html": "2026-08-31T09:24:38.985250+00:00",
   "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/le-8h30-franceinfo-de-valerie-pecresse_8144879.html": "2026-08-31T09:24:38.985250+00:00",
-  "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/les-pensions-de-retraite-et-les-arrets-maladie-dans-le-viseur-des-economies-pour-le-budget-2027_8144957.html": "2026-08-31T09:24:38.985250+00:00"
+  "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/les-pensions-de-retraite-et-les-arrets-maladie-dans-le-viseur-des-economies-pour-le-budget-2027_8144957.html": "2026-08-31T09:24:38.985250+00:00",
+  "https://www.franceinfo.fr/elections/presidentielle/le-rn-prevoit-un-referendum-sur-l-interdiction-du-port-du-voile-en-cas-de-victoire-a-la-presidentielle-2027_8170688.html": "2026-08-31T12:25:07.300957+00:00",
+  "https://www.franceinfo.fr/replay-radio/les-informes-du-matin/la-primaire-a-gauche-le-duel-attal-philippe-les-informes-du-matin-du-lundi-31-aout-2026_8145017.html": "2026-08-31T11:00:00+00:00",
+  "https://www.franceinfo.fr/politique/ps/a-quoi-va-ressembler-la-primaire-du-ps_8170559.html": "2026-08-31T12:25:07.300957+00:00",
+  "https://www.franceinfo.fr/elections/presidentielle/valerie-pecresse-met-en-garde-contre-la-fragmentation-de-la-droite-lors-de-la-presidentielle-2027-apres-sa-defaite-douloureusement-vecue-en-2022_8170487.html": "2026-08-31T12:25:07.300957+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "La journaliste Natacha Polony se lance en politique pour \"perturber l'entre-soi\" \"Je n'exclus rien\", a-t-elle affirmé, interrogée au sujet d'une possible candidature à l'élection présidentielle de 2027.",
+   "title": "Le RN prévoit un référendum sur l’interdiction du port du voile, en cas de victoire à la présidentielle 2027 Selon l'entourage de Marine Le Pen, lundi auprès de France Inter, ce référendum serait une façon \"d’enjamber\" le Conseil constitutionnel, qui ne peut pas statuer sur des lois référendaires.",
+   "link": "https://www.franceinfo.fr/elections/presidentielle/le-rn-prevoit-un-referendum-sur-l-interdiction-du-port-du-voile-en-cas-de-victoire-a-la-presidentielle-2027_8170688.html",
+   "summary": "Le RN prévoit un référendum sur l’interdiction du port du voile, en cas de victoire à la présidentielle 2027",
+   "image": "https://www.franceinfo.fr/pictures/pHv77Adv_ckde74H5_FBfzV5Bik/160x0:5299x3533/432x297/filters:format(jpg)/2026/08/31/6a9567c6b4e83903076495.jpg",
+   "date": null,
+   "pubdate": "2026-08-31T12:25:07.300957+00:00"
+  },
+  {
+   "title": "1:09 vidéo 1 minute 9 À quoi va ressembler la primaire du PS ?",
+   "link": "https://www.franceinfo.fr/politique/ps/a-quoi-va-ressembler-la-primaire-du-ps_8170559.html",
+   "summary": "À quoi va ressembler la primaire du PS ?",
+   "image": "https://www.franceinfo.fr/pictures/5KKsYrU6ZQMQCgQNmBY84kP7jqc/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/08/31/6a955152e5516656427591.jpg",
+   "date": null,
+   "pubdate": "2026-08-31T12:25:07.300957+00:00"
+  },
+  {
+   "title": "Valérie Pécresse met en garde contre \"la fragmentation\" de la droite lors de la présidentielle 2027, après sa défaite \"douloureusement vécue\" en 2022",
+   "link": "https://www.franceinfo.fr/elections/presidentielle/valerie-pecresse-met-en-garde-contre-la-fragmentation-de-la-droite-lors-de-la-presidentielle-2027-apres-sa-defaite-douloureusement-vecue-en-2022_8170487.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/9fOasgdtaoBe8qprCwj9S77cmHw/0x0:1470x827/432x243/filters:format(jpg)/2026/08/31/6a954e7301b58532353714.jpg",
+   "date": null,
+   "pubdate": "2026-08-31T12:25:07.300957+00:00"
+  },
+  {
+   "title": "21:28 audio 21 minutes 28 La primaire à gauche, le duel Attal-Philippe... Les informés du matin du lundi 31 août 2026",
+   "link": "https://www.franceinfo.fr/replay-radio/les-informes-du-matin/la-primaire-a-gauche-le-duel-attal-philippe-les-informes-du-matin-du-lundi-31-aout-2026_8145017.html",
+   "summary": "La primaire à gauche, le duel Attal-Philippe... Les informés du matin du lundi 31 août 2026",
+   "image": "https://www.franceinfo.fr/pictures/6NLoSuFg41Y1cerIIGvt8FcngD8/0x0:1920x1080/432x243/filters:format(jpg)/2026/08/31/6a955e2342941682846309.png",
+   "date": "2026-08-31T11:00:00+00:00",
+   "pubdate": "2026-08-31T11:00:00+00:00"
+  },
+  {
+   "title": "24:44 audio 24 minutes 44 Valérie Pécresse dans le 8h30 franceinfo Valérie Pécresse, présidente LR de la région Ile-de-France, était l’invitée du \"8h30 franceinfo\", lundi 31 août 2026",
+   "link": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/le-8h30-franceinfo-de-valerie-pecresse_8144879.html",
+   "summary": "Valérie Pécresse dans le 8h30 franceinfo",
+   "image": "https://www.franceinfo.fr/pictures/F1uXY3o4Cazt6YMzRibK95rvL5s/0x0:1280x720/432x243/filters:format(jpg)/2026/08/31/6a9522d2190c7761640950.jpg",
+   "date": "2026-08-31T11:00:00+00:00",
+   "pubdate": "2026-08-31T11:00:00+00:00"
+  },
+  {
+   "title": "La journaliste Natacha Polony se lance en politique pour \"perturber l'entre-soi\"",
    "link": "https://www.franceinfo.fr/politique/la-journaliste-natacha-polony-se-lance-en-politique-pour-perturber-l-entre-soi_8170427.html",
-   "summary": "La journaliste Natacha Polony se lance en politique pour \"perturber l'entre-soi\"",
-   "image": "https://www.franceinfo.fr/pictures/joV7CTl-DjjCIUlMvUqW_ByjzFs/91x0:5956x4032/432x297/filters:format(jpg)/2026/08/31/6a95436b2eda3195041786.jpg",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/STKS3M7M592_53OZJY6O6cB8POM/0x315:6048x3717/432x243/filters:format(jpg)/2026/08/31/6a95436b2eda3195041786.jpg",
    "date": null,
    "pubdate": "2026-08-31T09:24:38.985250+00:00"
   },
@@ -55,7 +95,7 @@
    "title": "11:28 vidéo 11 minutes 28 Un duel Le Pen-Mélenchon au second tour de la présidentielle ? \"C'est déjà perdu si on en arrive à cette situation\", assure Jérôme Guedj, candidat à la primaire du pôle socialiste",
    "link": "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/l-invite-politique-du-lundi-31-aout-2026_8142563.html",
    "summary": "Un duel Le Pen-Mélenchon au second tour de la présidentielle ? \"C'est déjà perdu si on en arrive à cette situation\", assure Jérôme Guedj, candidat à la primaire du pôle socialiste",
-   "image": "https://www.franceinfo.fr/pictures/hyYsBWFh3zEZp48yqFhvPzDFFNI/0x0:1920x1080/432x243/filters:format(jpg)/2026/08/31/6a9543f321dee541807864.jpg",
+   "image": "https://www.franceinfo.fr/pictures/45Jo6TFGOunIzJkG7COKh-FdMcw/0x0:1920x1080/432x243/filters:format(jpg)/2026/08/31/6a955e74cdd58253810006.jpg",
    "date": null,
    "pubdate": "2026-08-31T09:24:38.985250+00:00"
   },
@@ -84,31 +124,23 @@
    "pubdate": "2026-08-31T09:24:38.985250+00:00"
   },
   {
-   "title": "Le Rassemblement national veut \"sanctionner le port du voile\" par \"une amende\" s'il arrive au pouvoir, affirme le député Jean-Philippe Tanguy",
+   "title": "Le Rassemblement national veut \"sanctionner le port du voile\" par \"une amende\" s'il arrive au pouvoir, affirme le député Jean-Philippe Tanguy L'interdiction du port du voile dans l'espace public figurait déjà au programme de Marine Le Pen lors de ses trois premières candidatures à l'Elysée.",
    "link": "https://www.franceinfo.fr/politique/front-national/le-rassemblement-national-veut-sanctionner-le-port-du-voile-par-une-amende-s-il-arrive-au-pouvoir-affirme-le-depute-jean-philippe-tanguy_8170307.html",
-   "summary": "",
+   "summary": "Le Rassemblement national veut \"sanctionner le port du voile\" par \"une amende\" s'il arrive au pouvoir, affirme le député Jean-Philippe Tanguy",
    "image": "https://www.franceinfo.fr/pictures/aB27E2cdPosH5klxKr44XqaUuxc/0x365:7008x4307/432x243/filters:format(jpg)/2026/08/31/6a952808eaaa2912427737.jpg",
    "date": null,
    "pubdate": "2026-08-31T09:24:38.985250+00:00"
   },
   {
-   "title": "Rentrée 2026 : les absences de professeurs seront \"marginales\", assure le ministre de l'Éducation nationale",
+   "title": "Rentrée 2026 : les absences de professeurs seront \"marginales\", assure le ministre de l'Éducation nationale Le taux de postes pourvus atteint 98,5% dans le premier degré, contre 92,1% l'an dernier et les absences de longue durée non-remplacées sont moins nombreuses, affirme Edouard Geffray, lundi sur France Inter.",
    "link": "https://www.franceinfo.fr/france/rentree/rentree-2026-les-absences-de-professeurs-au-college-et-au-lycee-seront-marginales-assure-le-ministre-de-l-education-nationale_8170304.html",
-   "summary": "",
+   "summary": "Rentrée 2026 : les absences de professeurs seront \"marginales\", assure le ministre de l'Éducation nationale",
    "image": "https://www.franceinfo.fr/pictures/Q5cg1l_7rlzMX-8C6p4FLSL1hGY/0x0:1603x901/432x243/filters:format(jpg)/2026/08/31/6a95259278d58160379181.jpg",
    "date": null,
    "pubdate": "2026-08-31T09:24:38.985250+00:00"
   },
   {
-   "title": "24:44 audio 24 minutes 44 Le \"8h30 franceinfo\" de Valérie Pécresse",
-   "link": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/le-8h30-franceinfo-de-valerie-pecresse_8144879.html",
-   "summary": "Le \"8h30 franceinfo\" de Valérie Pécresse",
-   "image": "https://www.franceinfo.fr/pictures/F1uXY3o4Cazt6YMzRibK95rvL5s/0x0:1280x720/432x243/filters:format(jpg)/2026/08/31/6a9522d2190c7761640950.jpg",
-   "date": null,
-   "pubdate": "2026-08-31T09:24:38.985250+00:00"
-  },
-  {
-   "title": "2:23 audio 2 minutes 23 Les pensions de retraite et les arrêts maladie dans le viseur des économies pour le budget 2027",
+   "title": "2:23 audio 2 minutes 23 Les pensions de retraite et les arrêts maladie dans le viseur des économies pour le budget 2027 Le premier ministre promet de ne pas augmenter les impôts pour boucler le budget 2027. Pour réduire le déficit, le gouvernement mise notamment sur des économies dans les dépenses sociales, avec les retraites et la santé dans le viseur.",
    "link": "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/les-pensions-de-retraite-et-les-arrets-maladie-dans-le-viseur-des-economies-pour-le-budget-2027_8144957.html",
    "summary": "Les pensions de retraite et les arrêts maladie dans le viseur des économies pour le budget 2027",
    "image": "https://www.franceinfo.fr/pictures/NGEUnqiZDtOPqey9ZuS03IDKYI4/0x0:1024x576/432x243/filters:format(jpg)/2026/08/31/6a95198b6ccb0796980641.jpg",
@@ -240,38 +272,6 @@
    "link": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-le-pdg-de-totalenergies-patrick-pouyanne-inquiet-face-aux-programmes-economiques-de-marine-le-pen-et-jean-luc-melenchon_8168474.html",
    "summary": "Présidentielle : le PDG de TotalEnergies, Patrick Pouyanné, \"inquiet\" face aux programmes économiques de Marine Le Pen et Jean-Luc Mélenchon",
    "image": "https://www.franceinfo.fr/pictures/dprlajWs7ugntaa1Vn_YkV5jWJI/0x285:5472x3363/432x243/filters:format(jpg)/2026/08/29/6a92ba4c689c7883962675.jpg",
-   "date": null,
-   "pubdate": "2026-08-29T14:56:08.686933+00:00"
-  },
-  {
-   "title": "\"Il faut protéger notre culture\" : des Japonais surpris de ne pas avoir été consultés sur le futur parc français \"Dragon Ball Z\" Emmanuel Macron a annoncé un futur parc à thème Dragon Ball en région parisienne, financé par l'Arabie saoudite. Ce projet interroge au Japon, notamment sur les terres natales du créateur de Dragon Ball.",
-   "link": "https://www.franceinfo.fr/monde/japon/il-faut-proteger-notre-culture-des-japonais-surpris-de-ne-pas-avoir-ete-consultes-sur-le-futur-parc-francais-dragon-ball-z_8167955.html",
-   "summary": "\"Il faut protéger notre culture\" : des Japonais surpris de ne pas avoir été consultés sur le futur parc français \"Dragon Ball Z\"",
-   "image": "https://www.franceinfo.fr/pictures/uah7pJuGNa39yvGBgzrcpcPbxO4/0x285:5490x3374/432x243/filters:format(jpg)/2026/08/25/6a8d4bb591906639491328.jpg",
-   "date": null,
-   "pubdate": "2026-08-29T14:56:08.686933+00:00"
-  },
-  {
-   "title": "Appels à une primaire droite-centre : il faut \"avoir un candidat avant Noël\", réclame l'ancien ministre Hervé Morin \"Ceux qui refusent la primaire porteront une immense responsabilité\", estime Hervé Morin, ancien ministre centriste de la Défense et actuel président de la région Normandie.",
-   "link": "https://www.franceinfo.fr/elections/presidentielle/appels-a-une-primaire-droite-centre-il-faut-avoir-un-candidat-avant-noel-reclame-l-ancien-ministre-herve-morin_8168135.html",
-   "summary": "Appels à une primaire droite-centre : il faut \"avoir un candidat avant Noël\", réclame l'ancien ministre Hervé Morin",
-   "image": "https://www.franceinfo.fr/pictures/rWrXnkz3ydhB_ZsoI9L-y5A0ZSs/0x247:4754x2921/432x243/filters:format(jpg)/2026/08/29/6a928e23ebf86556709464.jpg",
-   "date": null,
-   "pubdate": "2026-08-29T14:56:08.686933+00:00"
-  },
-  {
-   "title": "Présidentielle 2027 : Bruno Retailleau \"ne passera pas Noël\" et \"se retirera pour soutenir Edouard Philippe\", prédit Jordan Bardella Le chef du RN a tendu la main, samedi, aux électeurs de LR qui se sentent \"orphelins d'un leader, d'un projet et d'une incarnation\".",
-   "link": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-jordan-bardella-attendu-a-la-foire-de-chalons-en-champagne-les-socialistes-debattront-de-la-primaire-a-blois_8168102.html",
-   "summary": "Présidentielle 2027 : Bruno Retailleau \"ne passera pas Noël\" et \"se retirera pour soutenir Edouard Philippe\", prédit Jordan Bardella",
-   "image": "https://www.franceinfo.fr/pictures/NFLQIMboVIIM5_y-x_0DlPCkQQc/0x53:1024x629/432x243/filters:format(jpg)/2026/08/29/6a931e01732c2647478595.jpg",
-   "date": null,
-   "pubdate": "2026-08-29T14:56:08.686933+00:00"
-  },
-  {
-   "title": "\"J'aimais bien Jordan Bardella\" : des électeurs RN déçus de ne pas recevoir \"le candidat\" Bardella sur la Foire de Châlons-en-Champagne Le président du Rassemblement national se rend samedi 29 août sur la Foire de Châlons-en-Champagne, comme bien d'autres politiques. Sur place, des sympathisants du RN regrettent qu'il ne soit pas candidat à la prochaine présidentielle.",
-   "link": "https://www.franceinfo.fr/politique/front-national/j-aimais-bien-jordan-bardella-des-electeurs-rn-decus-de-ne-pas-recevoir-le-candidat-bardella-sur-la-foire-de-chalons-en-champagne_8168051.html",
-   "summary": "\"J'aimais bien Jordan Bardella\" : des électeurs RN déçus de ne pas recevoir \"le candidat\" Bardella sur la Foire de Châlons-en-Champagne",
-   "image": "https://www.franceinfo.fr/pictures/lItuyGZpTzCP7YIswiRpndarzA8/0x0:4555x2562/432x243/filters:format(jpg)/2026/08/29/6a927c3de4d4f644510965.jpg",
    "date": null,
    "pubdate": "2026-08-29T14:56:08.686933+00:00"
   }
