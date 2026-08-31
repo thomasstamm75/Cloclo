@@ -1,17 +1,8 @@
 {
- "etag": "\"55c8fda5c5d3cec6c1f38f6f180783eb-gzip\"",
+ "etag": "\"191748461e7af010adaf07a66abac5f9-gzip\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.franceinfo.fr/societe/nos-jours-heureux/": "2026-08-29T14:50:52.592990+00:00",
-  "https://www.franceinfo.fr/societe/euthanasie/comprendre-les-debats-sur-la-fin-de-vie/": "2026-08-29T14:50:52.592990+00:00",
-  "https://www.franceinfo.fr/societe/pedocriminalite/pres-de-200-personnes-reclament-la-demission-du-maire-de-sassetot-le-mauconduit-condamne-pour-detention-d-images-pedopornographiques_8169182.html": "2026-08-30T06:24:50.814664+00:00",
-  "https://www.franceinfo.fr/societe/conge-de-naissance/temoignages-pas-sur-que-ca-donne-envie-de-faire-des-enfants-le-conge-de-naissance-une-veritable-aubaine-pour-les-parents-mais-un-dispositif-inegalitaire_8166104.html": "2026-08-30T06:24:50.814664+00:00",
   "https://www.franceinfo.fr/societe/nos-jours-heureux/nos-jours-heureux-baignade-salee-deluge-et-sentiment-de-liberte-a-deauville-la-journee-des-oublies-des-vacances-vire-a-la-formidable-odyssee_8155004.html": "2026-08-30T06:24:50.814664+00:00",
-  "https://www.franceinfo.fr/faits-divers/deux-marins-disparus-apres-le-naufrage-d-un-bateau-de-peche-francais-au-large-de-plymouth-en-angleterre_8169353.html": "2026-08-30T09:24:43.713933+00:00",
-  "https://www.franceinfo.fr/replay-radio/c-est-mon-boulot/quand-une-demission-est-requalifiee-en-licenciement_8073560.html": "2026-08-30T09:24:43.713933+00:00",
-  "https://www.franceinfo.fr/societe/homophobie/paris-le-president-d-une-association-lgbt-victime-d-une-agression-homophobe-un-homme-interpelle_8169461.html": "2026-08-30T12:24:50.792136+00:00",
-  "https://www.franceinfo.fr/societe/education/on-jugera-sur-pieces-reagit-le-syndicat-national-des-lycees-et-des-colleges-snalc-apres-les-propositions-des-candidats-a-la-presidentielle-d-augmenter-les-salaires-des-enseignants_8169788.html": "2026-08-30T18:24:43.796953+00:00",
-  "https://www.franceinfo.fr/culture/reportage-une-occasion-unique-de-raconter-l-histoire-a-varsovie-les-vestiges-du-plus-grand-ghetto-d-europe-s-ouvrent-aux-visiteurs_8169638.html": "2026-08-30T18:24:43.796953+00:00",
   "https://www.franceinfo.fr/societe/education/inflation-cout-de-la-vie-contractuels-pourquoi-le-salaire-est-il-devenu-la-preoccupation-principale-des-professeurs_8169692.html": "2026-08-31T06:24:49.890917+00:00",
   "https://www.franceinfo.fr/societe/homophobie/quand-j-aurai-panse-mes-plaies-je-continuerai-le-combat-assure-le-president-d-une-association-lgbt-agresse-a-paris_8170211.html": "2026-08-31T06:24:49.890917+00:00",
   "https://www.franceinfo.fr/societe/pedocriminalite/un-policier-de-21-ans-mis-en-examen-a-rouen-pour-viol-sur-mineur-et-detention-d-images-pedopornographiques_8170193.html": "2026-08-31T06:24:49.890917+00:00",
@@ -19,9 +10,7 @@
   "https://www.franceinfo.fr/culture/cinema/sorties-de-films/the-good-sister-l-epineuse-question-des-proches-des-auteurs-de-violences-sexuelles-explore-avec-justesse-par-ce-premier-film_8156552.html": "2026-08-31T06:24:49.890917+00:00",
   "https://www.franceinfo.fr/societe/arrets-maladie-a-duree-limitee-interdiction-du-portable-au-lycee-taxe-sur-les-vetements-voici-tout-ce-qui-change-au-1er-septembre_8169296.html": "2026-08-31T06:24:49.890917+00:00",
   "https://www.franceinfo.fr/societe/education/service-national-universel/reportage-l-idee-de-servir-mon-pays-m-a-toujours-plu-pres-de-3-000-jeunes-demarrent-leur-service-national_8170262.html": "2026-08-31T09:24:36.715242+00:00",
-  "https://www.franceinfo.fr/societe/education/rentree-scolaire-2026-comment-rassurer-vos-enfants-avant-le-jour-j_8170421.html": "2026-08-31T09:24:36.715242+00:00",
   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/maintenant-il-faut-agir-estime-le-president-des-sdis-qui-demande-plus-de-moyens-pour-les-pompiers-apres-les-incendies-de-l-ete_8170397.html": "2026-08-31T09:24:36.715242+00:00",
-  "https://www.franceinfo.fr/france/rentree/je-ne-pense-pas-que-98-de-la-rentree-scolaire-a-ete-preparee-en-amont-affirme-carole-zerbib-membre-du-snpden-unsa-qui-fait-etat-d-un-certain-nombre-d-applications-qui-dysfonctionnent_8170385.html": "2026-08-31T09:24:36.715242+00:00",
   "https://www.franceinfo.fr/replay-radio/le-tour-de-la-question/quelles-missions-vont-effectuer-les-3-000-jeunes-de-la-premiere-promotion-du-service-national_8168462.html": "2026-08-31T09:24:36.715242+00:00",
   "https://www.franceinfo.fr/societe/religion/le-rn-propose-de-sanctionner-le-port-du-voile-valerie-pecresse-denonce-une-mesure-demagogique-et-impraticable_8170352.html": "2026-08-31T09:24:36.715242+00:00",
   "https://www.franceinfo.fr/france/rentree/des-parents-d-eleves-vont-organiser-une-marche-de-biarritz-a-bayonne-pour-sensibiliser-face-aux-violences-faites-aux-enfants_8170343.html": "2026-08-31T09:24:36.715242+00:00",
@@ -31,23 +20,114 @@
   "https://www.franceinfo.fr/societe/education/violences-dans-le-periscolaire/50-des-enfants-ne-sont-pas-entendus-dans-des-dispositifs-adaptes-selon-le-collectif-sos-periscolaire_8170286.html": "2026-08-31T09:24:36.715242+00:00",
   "https://www.franceinfo.fr/elections/presidentielle/le-rn-prevoit-un-referendum-sur-l-interdiction-du-port-du-voile-en-cas-de-victoire-a-la-presidentielle-2027_8170688.html": "2026-08-31T12:25:04.910829+00:00",
   "https://www.franceinfo.fr/elections/presidentielle/la-fsu-snuipp-refuse-toute-contrepartie-a-la-revalorisation-des-salaires-des-enseignants-proposee-par-des-candidats-a-la-presidentielle-2027_8170460.html": "2026-08-31T12:25:04.910829+00:00",
-  "https://www.franceinfo.fr/culture/musique/tout-le-monde-les-ecoutait-ou-les-subissait-peut-on-encore-parler-de-hits-de-l-ete-comme-avant-les-reseaux-sociaux_8155445.html": "2026-08-31T12:25:04.910829+00:00"
+  "https://www.franceinfo.fr/culture/musique/tout-le-monde-les-ecoutait-ou-les-subissait-peut-on-encore-parler-de-hits-de-l-ete-comme-avant-les-reseaux-sociaux_8155445.html": "2026-08-31T12:25:04.910829+00:00",
+  "https://www.franceinfo.fr/societe/education/scolarite/guide-parents/lycee/ca-va-etre-difficile-le-lycee-sans-ton-telephone_8170901.html": "2026-08-31T15:24:51.780646+00:00",
+  "https://www.franceinfo.fr/societe/armee-securite-defense/la-suede-signe-un-contrat-de-4-3-milliards-d-euros-pour-l-acquisition-de-quatre-fregates-militaires-francaises_8170913.html": "2026-08-31T15:24:51.780646+00:00",
+  "https://www.franceinfo.fr/replay-jt/france-2/13-heures/on-a-decouvert-dans-quel-univers-numerique-morbide-elle-vivait-le-combat-d-un-pere-dont-la-fille-s-est-suicidee-contre-tiktok_8170823.html": "2026-08-31T15:24:51.780646+00:00",
+  "https://www.franceinfo.fr/societe/armee-securite-defense/dix-mois-qui-vont-me-permettre-de-savoir-si-ca-me-correspond-au-cote-des-3-000-jeunes-recrues-du-nouveau-servicenational-qui-debute-ce-lundi_8170799.html": "2026-08-31T15:24:51.780646+00:00",
+  "https://www.franceinfo.fr/societe/education/violences-dans-le-periscolaire/203-enquetes-pour-violences-ouvertes-dans-le-milieu-periscolaire_8170778.html": "2026-08-31T15:24:51.780646+00:00",
+  "https://www.franceinfo.fr/france/rentree/piratage-de-l-education-nationale-la-rentree-se-fera-en-mode-degrade-dans-les-academies-de-nantes-et-toulouse_8170589.html": "2026-08-31T15:24:51.780646+00:00",
+  "https://www.franceinfo.fr/societe/education/un-service-rattache-au-premier-ministre-recommande-de-revaloriser-le-salaire-des-professeurs_8170760.html": "2026-08-31T15:24:51.780646+00:00",
+  "https://www.franceinfo.fr/politique/front-national/on-ne-peut-pas-interdire-de-pratiquer-la-religion-aux-gens-la-verbalisation-du-voile-dans-l-espace-public-proposee-par-le-rn-fait-debat_8170754.html": "2026-08-31T15:24:51.780646+00:00",
+  "https://www.franceinfo.fr/france/rentree/en-deux-minutes-je-controle-tous-les-eleves-une-application-permet-de-bloquer-l-acces-aux-portables-des-collegiens_8170424.html": "2026-08-31T15:24:51.780646+00:00",
+  "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/j-essaie-d-y-aller-cinq-six-fois-par-semaine-a-16-ou-17-ans-ils-sont-deja-accros-a-la-salle-de-sport_8136965.html": "2026-08-31T15:24:51.780646+00:00",
+  "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-visite-du-pape-a-metz-c-est-un-formidable-coup-de-projecteur-sur-la-ville-estime-le-maire_8134199.html": "2026-08-31T15:24:51.780646+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "Le RN prévoit un référendum sur l’interdiction du port du voile, en cas de victoire à la présidentielle 2027 Selon l'entourage de Marine Le Pen, lundi auprès de France Inter, ce référendum serait une façon \"d’enjamber\" le Conseil constitutionnel, qui ne peut pas statuer sur des lois référendaires.",
-   "link": "https://www.franceinfo.fr/elections/presidentielle/le-rn-prevoit-un-referendum-sur-l-interdiction-du-port-du-voile-en-cas-de-victoire-a-la-presidentielle-2027_8170688.html",
-   "summary": "Le RN prévoit un référendum sur l’interdiction du port du voile, en cas de victoire à la présidentielle 2027",
-   "image": "https://www.franceinfo.fr/pictures/pHv77Adv_ckde74H5_FBfzV5Bik/160x0:5299x3533/432x297/filters:format(jpg)/2026/08/31/6a9567c6b4e83903076495.jpg",
+   "title": "1:41 vidéo 1 minute 41 Ça va être difficile le lycée sans ton téléphone ? C’est bientôt la rentrée et l’une des grosses nouveautés cette année, c’est l’interdiction du smartphone au lycée . On a demandé à des ados ce qu’ils en pensaient...",
+   "link": "https://www.franceinfo.fr/societe/education/scolarite/guide-parents/lycee/ca-va-etre-difficile-le-lycee-sans-ton-telephone_8170901.html",
+   "summary": "Ça va être difficile le lycée sans ton téléphone ?",
+   "image": "https://www.franceinfo.fr/pictures/4B9oJD8d7UmmCJ7iFWEIbH2Yfio/0x0:1080x1920/fit-in/432x297/filters:upscale():fill(blur):format(jpg)/2026/08/31/6a95924927c03144099339.jpg",
    "date": null,
-   "pubdate": "2026-08-31T12:25:04.910829+00:00"
+   "pubdate": "2026-08-31T15:24:51.780646+00:00"
   },
   {
-   "title": "La FSU-SNUipp refuse toute \"contrepartie\" à la revalorisation des salaires des enseignants proposée par des candidats à la présidentielle 2027",
-   "link": "https://www.franceinfo.fr/elections/presidentielle/la-fsu-snuipp-refuse-toute-contrepartie-a-la-revalorisation-des-salaires-des-enseignants-proposee-par-des-candidats-a-la-presidentielle-2027_8170460.html",
+   "title": "La Suède signe un contrat de 4,3 milliards d'euros pour l'acquisition de quatre frégates militaires françaises",
+   "link": "https://www.franceinfo.fr/societe/armee-securite-defense/la-suede-signe-un-contrat-de-4-3-milliards-d-euros-pour-l-acquisition-de-quatre-fregates-militaires-francaises_8170913.html",
    "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/cSNKaz09YWKovmISdHONaCBs7ag/0x194:3748x2303/432x243/filters:format(jpg)/2026/08/31/6a9549607e9b4313943649.jpg",
+   "image": "https://www.franceinfo.fr/pictures/6EMCtTsBPbTgpyCVnkH4l317Iok/0x53:1024x629/432x243/filters:format(jpg)/2026/08/31/6a9594870c229494146633.jpg",
+   "date": null,
+   "pubdate": "2026-08-31T15:24:51.780646+00:00"
+  },
+  {
+   "title": "1:46 vidéo 1 minute 46 \"On a découvert dans quel univers numérique morbide elle vivait\" : le combat d’un père, dont la fille s’est suicidée, contre TikTok",
+   "link": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/on-a-decouvert-dans-quel-univers-numerique-morbide-elle-vivait-le-combat-d-un-pere-dont-la-fille-s-est-suicidee-contre-tiktok_8170823.html",
+   "summary": "\"On a découvert dans quel univers numérique morbide elle vivait\" : le combat d’un père, dont la fille s’est suicidée, contre TikTok",
+   "image": "https://www.franceinfo.fr/pictures/xjWc5OY61tKV8z0QNmyledyRJ5s/0x0:1920x1080/432x243/filters:format(jpg)/2026/08/31/6a95881bcb2e9249953738.jpg",
+   "date": null,
+   "pubdate": "2026-08-31T15:24:51.780646+00:00"
+  },
+  {
+   "title": "2:05 vidéo 2 minutes 5 \"Dix mois qui vont me permettre de savoir si ça me correspond\" : au côté des 3 000 jeunes recrues du nouveau Service national qui débute ce lundi",
+   "link": "https://www.franceinfo.fr/societe/armee-securite-defense/dix-mois-qui-vont-me-permettre-de-savoir-si-ca-me-correspond-au-cote-des-3-000-jeunes-recrues-du-nouveau-servicenational-qui-debute-ce-lundi_8170799.html",
+   "summary": "\"Dix mois qui vont me permettre de savoir si ça me correspond\" : au côté des 3 000 jeunes recrues du nouveau Service national qui débute ce lundi",
+   "image": "https://www.franceinfo.fr/pictures/MSy_AsOSnH4teCM7xMz2HwB7TTo/43x0:1343x731/432x243/filters:format(jpg)/2026/08/31/6a9581ebe7772215255846.jpg",
+   "date": null,
+   "pubdate": "2026-08-31T15:24:51.780646+00:00"
+  },
+  {
+   "title": "0:59 vidéo 59 secondes 203 enquêtes pour violences ouvertes dans le milieu périscolaire",
+   "link": "https://www.franceinfo.fr/societe/education/violences-dans-le-periscolaire/203-enquetes-pour-violences-ouvertes-dans-le-milieu-periscolaire_8170778.html",
+   "summary": "203 enquêtes pour violences ouvertes dans le milieu périscolaire",
+   "image": "https://www.franceinfo.fr/pictures/-rhRrSyo8eMIzj0bPYxM1KdVWuY/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/08/31/6a957be2c3c80419429488.png",
+   "date": null,
+   "pubdate": "2026-08-31T15:24:51.780646+00:00"
+  },
+  {
+   "title": "Piratage de l'Education nationale : la rentrée se fera en mode dégradé dans les académies de Nantes et Toulouse",
+   "link": "https://www.franceinfo.fr/france/rentree/piratage-de-l-education-nationale-la-rentree-se-fera-en-mode-degrade-dans-les-academies-de-nantes-et-toulouse_8170589.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/dXslPxiFCRptKtIyUYzbgLOop2A/0x389:7479x4596/432x243/filters:format(jpg)/2026/08/31/6a955a37d3bea617499869.jpg",
+   "date": null,
+   "pubdate": "2026-08-31T15:24:51.780646+00:00"
+  },
+  {
+   "title": "Un service rattaché au Premier ministre recommande de revaloriser le salaire des professeurs",
+   "link": "https://www.franceinfo.fr/societe/education/un-service-rattache-au-premier-ministre-recommande-de-revaloriser-le-salaire-des-professeurs_8170760.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/D6IyGMcNvWHZftriDOvmo2Y-GWo/0x53:1024x629/432x243/filters:format(jpg)/2026/08/31/6a95789f2dfb8140231873.jpg",
+   "date": null,
+   "pubdate": "2026-08-31T15:24:51.780646+00:00"
+  },
+  {
+   "title": "1:48 vidéo 1 minute 48 \"On ne peut pas interdire de pratiquer la religion aux gens\" : la verbalisation du voile dans l'espace public proposée par le RN fait débat",
+   "link": "https://www.franceinfo.fr/politique/front-national/on-ne-peut-pas-interdire-de-pratiquer-la-religion-aux-gens-la-verbalisation-du-voile-dans-l-espace-public-proposee-par-le-rn-fait-debat_8170754.html",
+   "summary": "\"On ne peut pas interdire de pratiquer la religion aux gens\" : la verbalisation du voile dans l'espace public proposée par le RN fait débat",
+   "image": "https://www.franceinfo.fr/pictures/58cdWndDrCptEoQwsKiidTrKg40/0x16:1249x719/432x243/filters:format(jpg)/2026/08/31/6a95778bc4c7c577993341.jpg",
+   "date": null,
+   "pubdate": "2026-08-31T15:24:51.780646+00:00"
+  },
+  {
+   "title": "\"En deux minutes, je contrôle tous les élèves\" : une application permet de bloquer l'accès aux portables des collégiens",
+   "link": "https://www.franceinfo.fr/france/rentree/en-deux-minutes-je-controle-tous-les-eleves-une-application-permet-de-bloquer-l-acces-aux-portables-des-collegiens_8170424.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/nDLMdoaHVvXS7uyFPw_ZaanMego/0x0:4300x2418/432x243/filters:format(jpg)/2026/08/31/6a95638ec20a0047820924.jpg",
+   "date": null,
+   "pubdate": "2026-08-31T15:24:51.780646+00:00"
+  },
+  {
+   "title": "4:39 audio 4 minutes 39 \"J'essaie d'y aller cinq, six fois par semaine\" : À 16 ou 17 ans, ils sont déjà accros à la salle de sport",
+   "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/j-essaie-d-y-aller-cinq-six-fois-par-semaine-a-16-ou-17-ans-ils-sont-deja-accros-a-la-salle-de-sport_8136965.html",
+   "summary": "\"J'essaie d'y aller cinq, six fois par semaine\" : À 16 ou 17 ans, ils sont déjà accros à la salle de sport",
+   "image": "https://www.franceinfo.fr/pictures/jDOUGAm8w19hyxuLSYX31-bLg-0/1110x0:5549x4439/100x100/filters:format(jpg)/2026/08/27/6a8fd849692d3132479339.jpg",
+   "date": null,
+   "pubdate": "2026-08-31T15:24:51.780646+00:00"
+  },
+  {
+   "title": ": Reportage 4:46 audio 4 minutes 46 : Reportage Visite du pape à Metz : \"C'est un formidable coup de projecteur sur la ville\", estime le maire",
+   "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-visite-du-pape-a-metz-c-est-un-formidable-coup-de-projecteur-sur-la-ville-estime-le-maire_8134199.html",
+   "summary": "Visite du pape à Metz : \"C'est un formidable coup de projecteur sur la ville\", estime le maire",
+   "image": "https://www.franceinfo.fr/pictures/DF7OCqmzjl5n_wSxWV3jgvKOW8o/1432x0:4300x2868/100x100/filters:format(jpg)/2026/08/24/6a8c2f6bb5d24428190474.jpg",
+   "date": null,
+   "pubdate": "2026-08-31T15:24:51.780646+00:00"
+  },
+  {
+   "title": "Le RN prévoit un référendum sur l'interdiction du port du voile en cas de victoire à la présidentielle 2027",
+   "link": "https://www.franceinfo.fr/elections/presidentielle/le-rn-prevoit-un-referendum-sur-l-interdiction-du-port-du-voile-en-cas-de-victoire-a-la-presidentielle-2027_8170688.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/5uakbivPt721XVoeN5RDMkZKq4c/0x0:5299x2980/432x243/filters:format(jpg)/2026/08/31/6a9567c6b4e83903076495.jpg",
    "date": null,
    "pubdate": "2026-08-31T12:25:04.910829+00:00"
   },
@@ -60,7 +140,15 @@
    "pubdate": "2026-08-31T12:25:04.910829+00:00"
   },
   {
-   "title": ": Reportage : Reportage \"L'idée de servir mon pays m'a toujours plu\" : près de 3 000 jeunes démarrent leur Service national",
+   "title": "La FSU-SNUipp refuse toute \"contrepartie\" à la revalorisation des salaires des enseignants proposée par des candidats à la présidentielle 2027 \"Il s'agit de rattraper les pertes salariales qu'on subit depuis 2010\", estime la porte-parole du FSU-SNUipp, lundi sur franceinfo. La question des salaires est la première préoccupation des enseignants, selon le baromètre du SE-UNSA.",
+   "link": "https://www.franceinfo.fr/elections/presidentielle/la-fsu-snuipp-refuse-toute-contrepartie-a-la-revalorisation-des-salaires-des-enseignants-proposee-par-des-candidats-a-la-presidentielle-2027_8170460.html",
+   "summary": "La FSU-SNUipp refuse toute \"contrepartie\" à la revalorisation des salaires des enseignants proposée par des candidats à la présidentielle 2027",
+   "image": "https://www.franceinfo.fr/pictures/cSNKaz09YWKovmISdHONaCBs7ag/0x194:3748x2303/432x243/filters:format(jpg)/2026/08/31/6a9549607e9b4313943649.jpg",
+   "date": null,
+   "pubdate": "2026-08-31T12:25:04.910829+00:00"
+  },
+  {
+   "title": ": Reportage \"L'idée de servir mon pays m'a toujours plu\" : près de 3 000 jeunes démarrent leur Service national Ces jeunes volontaires du Service national seront formés pendant dix mois et toucheront un salaire mensuel de 800 euros. Tout se déroulera \"exclusivement sur le territoire national\".",
    "link": "https://www.franceinfo.fr/societe/education/service-national-universel/reportage-l-idee-de-servir-mon-pays-m-a-toujours-plu-pres-de-3-000-jeunes-demarrent-leur-service-national_8170262.html",
    "summary": "\"L'idée de servir mon pays m'a toujours plu\" : près de 3 000 jeunes démarrent leur Service national",
    "image": "https://www.franceinfo.fr/pictures/Df07-4vDRoDwkYYm0Ld-bolwrVQ/0x187:2000x1312/432x243/filters:format(jpg)/2026/08/31/6a952e0f02b85976267923.jpg",
@@ -68,31 +156,15 @@
    "pubdate": "2026-08-31T09:24:36.715242+00:00"
   },
   {
-   "title": "1:01 vidéo 1 minute 1 Rentrée scolaire 2026 : comment rassurer vos enfants avant le jour J ?",
-   "link": "https://www.franceinfo.fr/societe/education/rentree-scolaire-2026-comment-rassurer-vos-enfants-avant-le-jour-j_8170421.html",
-   "summary": "Rentrée scolaire 2026 : comment rassurer vos enfants avant le jour J ?",
-   "image": "https://www.franceinfo.fr/pictures/sjA12LgrtN-tcrnLb9jalEzypgg/58x0:1433x773/432x243/filters:format(jpg)/2026/08/31/6a9542393acd9923777883.jpg",
-   "date": null,
-   "pubdate": "2026-08-31T09:24:36.715242+00:00"
-  },
-  {
-   "title": "\"Maintenant, il faut agir\", estime le président des Sdis, qui demande plus de moyens pour les pompiers après les incendies de l'été",
+   "title": "\"Maintenant, il faut agir\", estime le président des Sdis, qui demande plus de moyens pour les pompiers après les incendies de l'été \"Il est temps que le gouvernement prenne enfin la mesure de ce dossier\", ajoute Olivier Richefou, lundi sur ICI Mayenne, estimant que les syndicats ont \"raison\" d'avoir déposé un préavis de grève.",
    "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/maintenant-il-faut-agir-estime-le-president-des-sdis-qui-demande-plus-de-moyens-pour-les-pompiers-apres-les-incendies-de-l-ete_8170397.html",
-   "summary": "",
+   "summary": "\"Maintenant, il faut agir\", estime le président des Sdis, qui demande plus de moyens pour les pompiers après les incendies de l'été",
    "image": "https://www.franceinfo.fr/pictures/BDt5EzzP9VWCprRjQ4qrEwmRkQw/0x0:5568x3132/432x243/filters:format(jpg)/2026/08/31/6a953a84c897a537523199.jpg",
    "date": null,
    "pubdate": "2026-08-31T09:24:36.715242+00:00"
   },
   {
-   "title": "10:12 vidéo 10 minutes 12 \"Je ne pense pas que 98% de la rentrée scolaire a été préparée en amont\", affirme Carole Zerbib, membre du SNPDEN-UNSA, qui fait état d'un \"certain nombre d'applications qui dysfonctionnent\"",
-   "link": "https://www.franceinfo.fr/france/rentree/je-ne-pense-pas-que-98-de-la-rentree-scolaire-a-ete-preparee-en-amont-affirme-carole-zerbib-membre-du-snpden-unsa-qui-fait-etat-d-un-certain-nombre-d-applications-qui-dysfonctionnent_8170385.html",
-   "summary": "\"Je ne pense pas que 98% de la rentrée scolaire a été préparée en amont\", affirme Carole Zerbib, membre du SNPDEN-UNSA, qui fait état d'un \"certain nombre d'applications qui dysfonctionnent\"",
-   "image": "https://www.franceinfo.fr/pictures/WsWionZnqPPmmBfoCN0CQViQRpY/0x19:1227x709/432x243/filters:format(jpg)/2026/08/31/6a953defb9e24973555855.jpg",
-   "date": null,
-   "pubdate": "2026-08-31T09:24:36.715242+00:00"
-  },
-  {
-   "title": "1:42 audio 1 minute 42 Quelles missions vont effectuer les 3 000 jeunes de la première promotion du service national ?",
+   "title": "1:42 audio 1 minute 42 Quelles missions vont effectuer les 3 000 jeunes de la première promotion du service national ? La première promotion du service national volontaire débute sa formation lundi 31 août. Pendant dix mois, ces 3 000 jeunes de 18 à 25 ans suivront d'abord une préparation militaire avant d'effectuer des missions très variées.",
    "link": "https://www.franceinfo.fr/replay-radio/le-tour-de-la-question/quelles-missions-vont-effectuer-les-3-000-jeunes-de-la-premiere-promotion-du-service-national_8168462.html",
    "summary": "Quelles missions vont effectuer les 3 000 jeunes de la première promotion du service national ?",
    "image": "https://www.franceinfo.fr/pictures/ebO_EgOg_KqAWLDEVYp8krllHok/0x0:1920x1080/432x243/filters:format(jpg)/2026/08/31/6a95315cb0b6b152966224.png",
@@ -100,25 +172,25 @@
    "pubdate": "2026-08-31T09:24:36.715242+00:00"
   },
   {
-   "title": "Le RN propose de sanctionner le port du voile, Valérie Pécresse dénonce une mesure \"démagogique et impraticable\"",
+   "title": "Le RN propose de sanctionner le port du voile, Valérie Pécresse dénonce une mesure \"démagogique et impraticable\" Invitée lundi de franceinfo, la présidente LR de la région d'Île-de-France estime que le voile \"n'est pas un vêtement comme les autres\" mais qu'une \"femme adulte est libre de croire ou de ne pas croire à la religion de son choix.\"",
    "link": "https://www.franceinfo.fr/societe/religion/le-rn-propose-de-sanctionner-le-port-du-voile-valerie-pecresse-denonce-une-mesure-demagogique-et-impraticable_8170352.html",
-   "summary": "",
+   "summary": "Le RN propose de sanctionner le port du voile, Valérie Pécresse dénonce une mesure \"démagogique et impraticable\"",
    "image": "https://www.franceinfo.fr/pictures/w3nQTgKZR3A2gGHs-n6t_0IvvT8/0x0:1445x813/432x243/filters:format(jpg)/2026/08/31/6a95349244299148745165.jpg",
    "date": null,
    "pubdate": "2026-08-31T09:24:36.715242+00:00"
   },
   {
-   "title": "Des parents d'élèves vont organiser une marche de Biarritz à Bayonne, pour sensibiliser face aux violences faites aux enfants",
+   "title": "Des parents d'élèves vont organiser une marche de Biarritz à Bayonne, pour sensibiliser face aux violences faites aux enfants Cette marche se tient mardi midi, indique ICI Pays Basque. Deux animateurs d'un centre de loisirs de Biarritz ont été mis en examen fin juillet, l'un pour agression sexuelle sur mineur et l'autre pour corruption sur le même enfant.",
    "link": "https://www.franceinfo.fr/france/rentree/des-parents-d-eleves-vont-organiser-une-marche-de-biarritz-a-bayonne-pour-sensibiliser-face-aux-violences-faites-aux-enfants_8170343.html",
-   "summary": "",
+   "summary": "Des parents d'élèves vont organiser une marche de Biarritz à Bayonne, pour sensibiliser face aux violences faites aux enfants",
    "image": "https://www.franceinfo.fr/pictures/AOY5G68_mSNFmc6dy4tYl-mwo1I/0x174:4500x2705/432x243/filters:format(jpg)/2026/08/31/6a952dfa65b2a000507967.jpg",
    "date": null,
    "pubdate": "2026-08-31T09:24:36.715242+00:00"
   },
   {
-   "title": "Cyberattaque : un proviseur, membre du SNPDEN, appelle le ministère de l'Éducation à \"agir rapidement\" après une rentrée en mode \"dégradé\"",
+   "title": "Cyberattaque : un proviseur, membre du SNPDEN, appelle le ministère de l'Éducation à \"agir rapidement\" après une rentrée en mode \"dégradé\" \"La priorité du rectorat, ça a été d’assurer les payes. La deuxième, c’est le versement des bourses pour les étudiants, ensuite les nominations\", explique le secrétaire académique du Syndicat national des personnels de direction, lundi sur franceinfo.",
    "link": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/cyberattaque-un-proviseur-membre-du-snpden-appelle-le-ministere-de-l-education-a-agir-rapidement-apres-une-rentree-en-mode-degrade_8170325.html",
-   "summary": "",
+   "summary": "Cyberattaque : un proviseur, membre du SNPDEN, appelle le ministère de l'Éducation à \"agir rapidement\" après une rentrée en mode \"dégradé\"",
    "image": "https://www.franceinfo.fr/pictures/iRs7h83vlrS02VphI2zTiNDoCHg/0x0:4252x2391/432x243/filters:format(jpg)/2026/08/31/6a952b173de25782981866.jpg",
    "date": null,
    "pubdate": "2026-08-31T09:24:36.715242+00:00"
@@ -196,84 +268,12 @@
    "pubdate": "2026-08-31T06:24:49.890917+00:00"
   },
   {
-   "title": "\"On jugera sur pièces\", réagit le syndicat national des lycées et des collèges (SNALC), après les propositions des candidats à la présidentielle d'augmenter les salaires des enseignants \"Le principal chantier, c'est l'attractivité de nos métiers, ce sont les conditions de travail\", affirme Jean-Rémi Girard, président du syndicat.",
-   "link": "https://www.franceinfo.fr/societe/education/on-jugera-sur-pieces-reagit-le-syndicat-national-des-lycees-et-des-colleges-snalc-apres-les-propositions-des-candidats-a-la-presidentielle-d-augmenter-les-salaires-des-enseignants_8169788.html",
-   "summary": "\"On jugera sur pièces\", réagit le syndicat national des lycées et des collèges (SNALC), après les propositions des candidats à la présidentielle d'augmenter les salaires des enseignants",
-   "image": "https://www.franceinfo.fr/pictures/BoTVP9ynX5-KtNQCO2DnpFxMBzQ/0x53:1024x629/432x243/filters:format(jpg)/2025/04/10/080-hl-lpierre-1309739-67f775383496c696645339.jpg",
-   "date": null,
-   "pubdate": "2026-08-30T18:24:43.796953+00:00"
-  },
-  {
-   "title": ": Reportage \"Une occasion unique de raconter l’histoire\" : à Varsovie, les vestiges du plus grand ghetto d’Europe s’ouvrent aux visiteurs Depuis 2024, des archéologues analysent les ruines du plus grand ghetto d'Europe. Le site, désormais ouvert aux visiteurs, permet de connaître autrement cette histoire et pour certains, d'y accomplir un devoir de mémoire.",
-   "link": "https://www.franceinfo.fr/culture/reportage-une-occasion-unique-de-raconter-l-histoire-a-varsovie-les-vestiges-du-plus-grand-ghetto-d-europe-s-ouvrent-aux-visiteurs_8169638.html",
-   "summary": "\"Une occasion unique de raconter l’histoire\" : à Varsovie, les vestiges du plus grand ghetto d’Europe s’ouvrent aux visiteurs",
-   "image": "https://www.franceinfo.fr/pictures/Iid-6dwlurIvUUb44DFEkqFvngw/0x62:1200x737/432x243/filters:format(jpg)/2026/08/30/6a944a1b1c6b8352911585.jpg",
-   "date": null,
-   "pubdate": "2026-08-30T18:24:43.796953+00:00"
-  },
-  {
-   "title": "Paris : le président d'une association LGBT victime d'une agression homophobe, un homme interpellé Le parquet de Paris a ouvert une enquête pour violence \"en raison de l'orientation sexuelle de la victime\".",
-   "link": "https://www.franceinfo.fr/societe/homophobie/paris-le-president-d-une-association-lgbt-victime-d-une-agression-homophobe-un-homme-interpelle_8169461.html",
-   "summary": "Paris : le président d'une association LGBT victime d'une agression homophobe, un homme interpellé",
-   "image": "https://www.franceinfo.fr/pictures/UTJ8TuohxFuTrL2roCQAd71JAAs/0x0:4298x2415/432x243/filters:format(jpg)/2017/07/12/phpTB4eZ7_1.jpg",
-   "date": null,
-   "pubdate": "2026-08-30T12:24:50.792136+00:00"
-  },
-  {
-   "title": "Deux marins disparus après le naufrage d'un bateau de pêche français de Saint-Brieuc au large de Plymouth en Angleterre Un bateau de pêche français a émis un signal de détresse samedi soir. Une importante opération de recherche a été lancée.",
-   "link": "https://www.franceinfo.fr/faits-divers/deux-marins-disparus-apres-le-naufrage-d-un-bateau-de-peche-francais-au-large-de-plymouth-en-angleterre_8169353.html",
-   "summary": "Deux marins disparus après le naufrage d'un bateau de pêche français de Saint-Brieuc au large de Plymouth en Angleterre",
-   "image": "https://www.franceinfo.fr/pictures/UObcaAHxjDXy-auJkIjZP5mUpy8/0x155:2956x1817/432x243/filters:format(jpg)/2026/08/30/6a93f5abc8c72338377416.jpg",
-   "date": null,
-   "pubdate": "2026-08-30T09:24:43.713933+00:00"
-  },
-  {
-   "title": "2:28 audio 2 minutes 28 Quand une démission est requalifiée en licenciement La vie professionnelle se termine parfois devant la justice. Dans \"C'est mon boulot\" au mois d'août, on explore des litiges en droit du travail.",
-   "link": "https://www.franceinfo.fr/replay-radio/c-est-mon-boulot/quand-une-demission-est-requalifiee-en-licenciement_8073560.html",
-   "summary": "Quand une démission est requalifiée en licenciement",
-   "image": "https://www.franceinfo.fr/pictures/q6s1QdRNiZeLRQirB2yAVL2ycQY/0x0:2148x1208/432x243/filters:format(jpg)/2026/07/17/6a5a5bef97f5b694702382.jpg",
-   "date": null,
-   "pubdate": "2026-08-30T09:24:43.713933+00:00"
-  },
-  {
    "title": "8:00 article 8 minutes NOS JOURS HEUREUX. Baignade salée, déluge et \"sentiment de liberté\" : à Deauville, la journée des oubliés des vacances vire à la formidable odyssée",
    "link": "https://www.franceinfo.fr/societe/nos-jours-heureux/nos-jours-heureux-baignade-salee-deluge-et-sentiment-de-liberte-a-deauville-la-journee-des-oublies-des-vacances-vire-a-la-formidable-odyssee_8155004.html",
    "summary": "NOS JOURS HEUREUX. Baignade salée, déluge et \"sentiment de liberté\" : à Deauville, la journée des oubliés des vacances vire à la formidable odyssée",
    "image": "https://www.franceinfo.fr/pictures/Zq8EolKHOB2oIH7VpX_5-tloJRE/980x0:2980x2000/100x100/filters:format(jpg)/2026/08/28/6a914e549a9b8505944599.png",
    "date": null,
    "pubdate": "2026-08-30T06:24:50.814664+00:00"
-  },
-  {
-   "title": "Près de 200 personnes réclament la démission du maire de Sassetot-le-Mauconduit, condamné pour détention d'images pédopornographiques Après sa condamnation pour détention et diffusion d'images pédopornographiques, le maire de Sassetot-le-Mauconduit, en Seine-Maritime, est aussi appelé à la démission par son Conseil municipal.",
-   "link": "https://www.franceinfo.fr/societe/pedocriminalite/pres-de-200-personnes-reclament-la-demission-du-maire-de-sassetot-le-mauconduit-condamne-pour-detention-d-images-pedopornographiques_8169182.html",
-   "summary": "Près de 200 personnes réclament la démission du maire de Sassetot-le-Mauconduit, condamné pour détention d'images pédopornographiques",
-   "image": "https://www.franceinfo.fr/pictures/dPDvo2KnHv2VJ5Zq3fl5nLjPgWI/0x1:736x415/432x243/filters:format(jpg)/2026/08/30/6a93bd79e208d747697376.jpg",
-   "date": null,
-   "pubdate": "2026-08-30T06:24:50.814664+00:00"
-  },
-  {
-   "title": ": Témoignages \"Pas sûr que ça donne envie de faire des enfants\" : le congé de naissance, \"une véritable aubaine\" pour les parents, mais un dispositif \"inégalitaire\" Depuis le 1er juillet, chaque parent peut, après la naissance d'un enfant, bénéficier d'un ou deux mois de congé, indemnisé à 70% puis à 60% de sa rémunération. Les premiers bénéficiaires de cette mesure dressent leur bilan.",
-   "link": "https://www.franceinfo.fr/societe/conge-de-naissance/temoignages-pas-sur-que-ca-donne-envie-de-faire-des-enfants-le-conge-de-naissance-une-veritable-aubaine-pour-les-parents-mais-un-dispositif-inegalitaire_8166104.html",
-   "summary": "\"Pas sûr que ça donne envie de faire des enfants\" : le congé de naissance, \"une véritable aubaine\" pour les parents, mais un dispositif \"inégalitaire\"",
-   "image": "https://www.franceinfo.fr/pictures/9mA85UkVEo_0IEwtVXlc_PZSuKw/0x0:3741x2104/432x243/filters:format(jpg)/2026/08/28/6a9187816ea76439124547.jpg",
-   "date": null,
-   "pubdate": "2026-08-30T06:24:50.814664+00:00"
-  },
-  {
-   "title": "Nos jours heureux 4 contenus",
-   "link": "https://www.franceinfo.fr/societe/nos-jours-heureux/",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/70hxXkCD_HnVl93vv3dfs138KJQ/432x297/filters:format(jpg)/2026/07/30/6a6b142e19c9c745704318.jpg",
-   "date": null,
-   "pubdate": "2026-08-29T14:50:52.592990+00:00"
-  },
-  {
-   "title": "Comprendre les débats sur la fin de vie 15 contenus",
-   "link": "https://www.franceinfo.fr/societe/euthanasie/comprendre-les-debats-sur-la-fin-de-vie/",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/gZwL6mlJ39yMRDzurzn4EQx_sgw/432x297/filters:format(jpg)/2025/05/27/illustration-aide-a-mourir-68357ca797624128014806.jpg",
-   "date": null,
-   "pubdate": "2026-08-29T14:50:52.592990+00:00"
   }
  ]
 }
