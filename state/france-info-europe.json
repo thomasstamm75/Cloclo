@@ -1,10 +1,8 @@
 {
- "etag": "\"f467760e1d1c0c406d870b256bfb1fe9-gzip\"",
+ "etag": "\"30fb8ef899a0bb62e9b2ab89931e2e26-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/culture/arts-expos/ils-demandent-ou-est-le-portrait-d-angela-merkel-le-succes-d-un-tableau-de-l-ancienne-chanceliere-booste-la-frequentation-du-bode-museum-de-berlin_8169512.html": "2026-08-30T15:24:42.580100+00:00",
-  "https://www.franceinfo.fr/internet/intelligence-artificielle/temoignages-je-me-suis-sentie-obligee-de-me-justifier-sur-instagram-des-createurs-denoncent-la-mention-contenu-ia-qui-est-apparue-sur-leurs-publications_8162078.html": "2026-08-30T15:24:42.580100+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/partez-je-vous-en-prie-les-autorites-ukrainiennes-appellent-les-habitants-de-kherson-a-quitter-la-ville-face-aux-frappes-russes_8165687.html": "2026-08-30T15:24:42.580100+00:00",
   "https://www.franceinfo.fr/culture/reportage-une-occasion-unique-de-raconter-l-histoire-a-varsovie-les-vestiges-du-plus-grand-ghetto-d-europe-s-ouvrent-aux-visiteurs_8169638.html": "2026-08-30T18:24:48.872862+00:00",
   "https://www.franceinfo.fr/societe/knitting-raves-en-estonie-le-tricot-s-invite-en-boite-de-nuit_8166581.html": "2026-08-30T18:24:48.872862+00:00",
   "https://www.franceinfo.fr/monde/europe/les-crimes-de-l-ancien-general-ratko-mladic-ramenent-aux-heures-les-plus-sombres-de-l-histoire-de-l-europe-rappelle-le-policier-qui-a-enquete-sur-srebrenica_8166566.html": "2026-08-30T18:24:48.872862+00:00",
@@ -15,7 +13,6 @@
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/pendant-deux-jours-j-ai-tire-le-corps-d-un-mort-dans-la-kill-zone-les-soldats-ukrainiens-vivent-sous-la-menace-permanente-des-drones-russes_8089898.html": "2026-08-31T03:24:52.152627+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/au-fond-de-moi-je-sentais-que-je-devais-le-faire-ces-russes-qui-ont-choisi-de-combattre-pour-l-ukraine_8080760.html": "2026-08-31T03:24:52.152627+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/je-n-ai-pas-pu-assister-aux-funerailles-en-russie-le-business-florissant-des-videos-ia-qui-ressuscitent-les-soldats-morts-au-front_8101169.html": "2026-08-31T03:24:52.152627+00:00",
-  "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/guerre-en-ukraine-de-nouvelles-menaces-de-la-russie_8170241.html": "2026-08-31T06:24:53.589186+00:00",
   "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/le-non-des-islandais-lors-du-referendum-interroge-sur-l-attractivite-de-l-europe_8144900.html": "2026-08-31T06:24:53.589186+00:00",
   "https://www.franceinfo.fr/culture/cinema/sorties-de-films/the-good-sister-l-epineuse-question-des-proches-des-auteurs-de-violences-sexuelles-explore-avec-justesse-par-ce-premier-film_8156552.html": "2026-08-31T06:24:53.589186+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/je-ne-sais-pas-ce-qui-attend-nos-enfants-a-kiev-l-angoisse-de-la-rentree-sous-les-bombes-apres-un-ete-meurtrier_8144936.html": "2026-08-31T06:24:53.589186+00:00",
@@ -31,15 +28,41 @@
   "https://www.franceinfo.fr/economie/inflation/l-inflation-en-zone-euro-grimpe-a-3-3-au-mois-d-aout-une-premiere-depuis-trois-ans-tiree-par-la-hausse-des-prix-de-l-energie_8172029.html": "2026-09-01T12:36:09.502520+00:00",
   "https://www.franceinfo.fr/monde/europe/migrants/crise-des-migrants-a-ceuta/l-espagne-ecarte-une-action-directe-marocaine-dans-la-crise-migratoire-a-ceuta-mais-denonce-une-desinformation-liee-a-israel-et-la-russie_8171981.html": "2026-09-01T15:50:25.522104+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-au-moins-12-morts-dans-une-nouvelle-attaque-russe-massive-contre-kiev_8172188.html": "2026-09-01T15:50:25.522104+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/vos-questions-sur-l-effort-de-guerre-de-la-france/": "2026-09-01T15:50:25.522104+00:00"
+  "https://www.franceinfo.fr/sante/alimentation/la-france-consomme-t-elle-beaucoup-de-viandes-importees-du-bresil_8172464.html": "2026-09-01T18:33:22.437637+00:00",
+  "https://www.franceinfo.fr/monde/europe/migrants/crise-des-migrants-a-ceuta/reportage-un-mois-apres-les-nombreuses-arrivees-a-ceuta-des-femmes-migrantes-isolees-et-exposees-au-risque-de-violences-sexuelles_8172020.html": "2026-09-01T18:33:22.437637+00:00",
+  "https://www.franceinfo.fr/monde/europe/allemagne/l-allemagne-juge-la-russie-responsable-de-l-attaque-hybride-menee-avec-un-drone-charge-d-explosifs-debut-aout-a-l-aeroport-de-leipzig_8172476.html": "2026-09-01T18:33:22.437637+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "L'Espagne écarte une action directe marocaine dans la crise migratoire à Ceuta, mais dénonce une désinformation liée à Israël et la Russie Quelque 70 000 exilés sont arrivés sur le territoire espagnol fin juillet, lors de traversées qui ont fait près de 100 morts.",
+   "title": "La France consomme-t-elle beaucoup de viandes importées du brésil ? L'Union européenne va suspendre à partir de ce jeudi plusieurs importations animales en provenance du Brésil, faute de garantie suffisante sur le respect des règles sanitaires. Quels sont les changements à prévoir dans l'assiette des Français ?",
+   "link": "https://www.franceinfo.fr/sante/alimentation/la-france-consomme-t-elle-beaucoup-de-viandes-importees-du-bresil_8172464.html",
+   "summary": "La France consomme-t-elle beaucoup de viandes importées du brésil ?",
+   "image": "https://www.franceinfo.fr/pictures/ZUnrEnvKJg09DkXhPSWo20nOl9w/64x0:4188x2835/432x297/filters:format(jpg)/2022/01/24/php5RkhKL.jpg",
+   "date": null,
+   "pubdate": "2026-09-01T18:33:22.437637+00:00"
+  },
+  {
+   "title": ": Reportage : Reportage Un mois après les nombreuses arrivées à Ceuta, des femmes migrantes isolées et exposées au risque de violences sexuelles",
+   "link": "https://www.franceinfo.fr/monde/europe/migrants/crise-des-migrants-a-ceuta/reportage-un-mois-apres-les-nombreuses-arrivees-a-ceuta-des-femmes-migrantes-isolees-et-exposees-au-risque-de-violences-sexuelles_8172020.html",
+   "summary": "Un mois après les nombreuses arrivées à Ceuta, des femmes migrantes isolées et exposées au risque de violences sexuelles",
+   "image": "https://www.franceinfo.fr/pictures/2heIQOpFo0UC2QObhyLzCJRA0KI/0x0:712x401/432x243/filters:format(jpg)/2026/09/01/6a96bdbd81446737340004.jpg",
+   "date": null,
+   "pubdate": "2026-09-01T18:33:22.437637+00:00"
+  },
+  {
+   "title": "L'Allemagne juge la Russie \"responsable\" de \"l'attaque hybride\" menée avec un drone chargé d'explosifs, début août, à l'aéroport de Leipzig",
+   "link": "https://www.franceinfo.fr/monde/europe/allemagne/l-allemagne-juge-la-russie-responsable-de-l-attaque-hybride-menee-avec-un-drone-charge-d-explosifs-debut-aout-a-l-aeroport-de-leipzig_8172476.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/TUaqijdF3zuGDbw4md3tqebTmI4/0x52:1024x628/432x243/filters:format(jpg)/2026/09/01/6a96f628d15d4144736527.jpg",
+   "date": null,
+   "pubdate": "2026-09-01T18:33:22.437637+00:00"
+  },
+  {
+   "title": "L'Espagne écarte une action directe marocaine dans la crise migratoire à Ceuta, mais dénonce une désinformation liée à Israël et la Russie",
    "link": "https://www.franceinfo.fr/monde/europe/migrants/crise-des-migrants-a-ceuta/l-espagne-ecarte-une-action-directe-marocaine-dans-la-crise-migratoire-a-ceuta-mais-denonce-une-desinformation-liee-a-israel-et-la-russie_8171981.html",
-   "summary": "L'Espagne écarte une action directe marocaine dans la crise migratoire à Ceuta, mais dénonce une désinformation liée à Israël et la Russie",
-   "image": "https://www.franceinfo.fr/pictures/yEybHl3CIkmLC8Ie7dp2bVJvNyU/26x0:1018x682/432x297/filters:format(jpg)/2026/09/01/6a96d0e6bc272557668033.jpg",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/wf0cFx2OhfVQTjW8daPgkKjRf7k/0x39:1024x615/432x243/filters:format(jpg)/2026/09/01/6a96d0e6bc272557668033.jpg",
    "date": null,
    "pubdate": "2026-09-01T15:50:25.522104+00:00"
   },
@@ -48,14 +71,6 @@
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-au-moins-12-morts-dans-une-nouvelle-attaque-russe-massive-contre-kiev_8172188.html",
    "summary": "Guerre en Ukraine : au moins 12 morts dans une nouvelle attaque russe massive contre Kiev",
    "image": "https://www.franceinfo.fr/pictures/BBqMmGJ6-OzUUv1agapY0hUutLU/0x13:852x493/432x243/filters:format(jpg)/2026/09/01/6a96d476eca70316906035.jpg",
-   "date": null,
-   "pubdate": "2026-09-01T15:50:25.522104+00:00"
-  },
-  {
-   "title": "Vos questions sur l'effort de guerre de la France 6 contenus",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/vos-questions-sur-l-effort-de-guerre-de-la-france/",
-   "summary": "Vos questions sur l'effort de guerre de la France",
-   "image": "https://www.franceinfo.fr/pictures/ntZoU9VrwR_yrQmHdJn-AC2Tq7o/432x297/filters:format(jpg)/2025/04/01/effort-de-guerre-couverture-de-dossier-01-light-67eba0e5ca0a7848911582.jpg",
    "date": null,
    "pubdate": "2026-09-01T15:50:25.522104+00:00"
   },
@@ -124,15 +139,15 @@
    "pubdate": "2026-08-31T09:24:40.512180+00:00"
   },
   {
-   "title": "1:31 vidéo 1 minute 31 Guerre en Ukraine : de nouvelles menaces de la Russie",
-   "link": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/guerre-en-ukraine-de-nouvelles-menaces-de-la-russie_8170241.html",
-   "summary": "Guerre en Ukraine : de nouvelles menaces de la Russie",
-   "image": "https://www.franceinfo.fr/pictures/eRKuliXUF2WKOR3ztXnLfMPV2qI/185x0:1575x782/432x243/filters:format(jpg)/2026/08/31/6a951a1b471eb081477776.png",
+   "title": "4:30 audio 4 minutes 30 \"Je ne sais pas ce qui attend nos enfants\" : à Kiev, l'angoisse de la rentrée sous les bombes après un été meurtrier",
+   "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/je-ne-sais-pas-ce-qui-attend-nos-enfants-a-kiev-l-angoisse-de-la-rentree-sous-les-bombes-apres-un-ete-meurtrier_8144936.html",
+   "summary": "\"Je ne sais pas ce qui attend nos enfants\" : à Kiev, l'angoisse de la rentrée sous les bombes après un été meurtrier",
+   "image": "https://www.franceinfo.fr/pictures/07LcAYc2BL1tbPyni2IkoRuOcD4/1000x0:5000x4000/100x100/filters:format(jpg)/2026/08/31/6a950e984fe25063470033.jpg",
    "date": null,
    "pubdate": "2026-08-31T06:24:53.589186+00:00"
   },
   {
-   "title": "2:51 audio 2 minutes 51 Le \"non\" des Islandais lors du référendum interroge sur l'attractivité de l'Europe",
+   "title": "2:51 audio 2 minutes 51 Le \"non\" des Islandais lors du référendum interroge sur l'attractivité de l'Europe Les Islandais ont rejeté à près de 53% la reprise immédiate des négociations d’adhésion à l’Union européenne. Un résultat qui gèle toute nouvelle démarche jusqu’en 2028 et pose, au-delà de l’Islande, la capacité de l’Union européenne à continuer de séduire.",
    "link": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/le-non-des-islandais-lors-du-referendum-interroge-sur-l-attractivite-de-l-europe_8144900.html",
    "summary": "Le \"non\" des Islandais lors du référendum interroge sur l'attractivité de l'Europe",
    "image": "https://www.franceinfo.fr/pictures/SQ-L1DOC7pfIqojLC6Qv7FTcI90/0x400:7690x4726/432x243/filters:format(jpg)/2026/08/31/6a950f6cd64ef745085798.jpg",
@@ -140,18 +155,10 @@
    "pubdate": "2026-08-31T06:24:53.589186+00:00"
   },
   {
-   "title": "\"The Good Sister\" : l'épineuse question des proches des auteurs de violences sexuelles, exploré avec justesse par ce premier film",
+   "title": "\"The Good Sister\" : l'épineuse question des proches des auteurs de violences sexuelles, exploré avec justesse par ce premier film La réalisatrice allemande Sarah Miro Fischer avait déjà été remarquée par son court-métrage \"Spit\" sur les fantasmes féminins et la violence.",
    "link": "https://www.franceinfo.fr/culture/cinema/sorties-de-films/the-good-sister-l-epineuse-question-des-proches-des-auteurs-de-violences-sexuelles-explore-avec-justesse-par-ce-premier-film_8156552.html",
-   "summary": "",
+   "summary": "\"The Good Sister\" : l'épineuse question des proches des auteurs de violences sexuelles, exploré avec justesse par ce premier film",
    "image": "https://www.franceinfo.fr/pictures/Q3OQ-0qNvklg6yuvNpwGqcEEezM/88x0:1512x801/432x243/filters:format(jpg)/2026/08/21/6a8881309ea3d986441430.jpeg",
-   "date": null,
-   "pubdate": "2026-08-31T06:24:53.589186+00:00"
-  },
-  {
-   "title": "4:30 audio 4 minutes 30 \"Je ne sais pas ce qui attend nos enfants\" : à Kiev, l'angoisse de la rentrée sous les bombes après un été meurtrier",
-   "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/je-ne-sais-pas-ce-qui-attend-nos-enfants-a-kiev-l-angoisse-de-la-rentree-sous-les-bombes-apres-un-ete-meurtrier_8144936.html",
-   "summary": "\"Je ne sais pas ce qui attend nos enfants\" : à Kiev, l'angoisse de la rentrée sous les bombes après un été meurtrier",
-   "image": "https://www.franceinfo.fr/pictures/07LcAYc2BL1tbPyni2IkoRuOcD4/1000x0:5000x4000/100x100/filters:format(jpg)/2026/08/31/6a950e984fe25063470033.jpg",
    "date": null,
    "pubdate": "2026-08-31T06:24:53.589186+00:00"
   },
@@ -256,22 +263,6 @@
    "link": "https://www.franceinfo.fr/culture/arts-expos/ils-demandent-ou-est-le-portrait-d-angela-merkel-le-succes-d-un-tableau-de-l-ancienne-chanceliere-booste-la-frequentation-du-bode-museum-de-berlin_8169512.html",
    "summary": "\"Elle me manque\" : à Berlin, le portrait d’Angela Merkel, exposé au Bode Museum de Berlin, attire les foules et ravive la nostalgie",
    "image": "https://www.franceinfo.fr/pictures/e-wMiqgddzJSSNp9vP11R7ziC80/260x0:1899x922/432x243/filters:format(jpg)/2026/08/30/6a943698bd2a4641389009.jpg",
-   "date": null,
-   "pubdate": "2026-08-30T15:24:42.580100+00:00"
-  },
-  {
-   "title": ": Témoignages \"Je me suis sentie obligée de me justifier\" : sur Instagram, des créateurs dénoncent la mention \"Contenu IA\" qui est apparue sur leurs publications Depuis le début du mois d'août, le label \"Contenu IA\" fleurit sous d'innombrables publications sur les réseaux sociaux, au grand dam de certains créateurs qui se défendent d'avoir recours à l'intelligence artificielle pour leurs contenus.",
-   "link": "https://www.franceinfo.fr/internet/intelligence-artificielle/temoignages-je-me-suis-sentie-obligee-de-me-justifier-sur-instagram-des-createurs-denoncent-la-mention-contenu-ia-qui-est-apparue-sur-leurs-publications_8162078.html",
-   "summary": "\"Je me suis sentie obligée de me justifier\" : sur Instagram, des créateurs dénoncent la mention \"Contenu IA\" qui est apparue sur leurs publications",
-   "image": "https://www.franceinfo.fr/pictures/KQcJblIrdDSaG5YvEMgJOIgFzqo/0x183:5719x3400/432x243/filters:format(jpg)/2026/08/27/6a9048a630ea9586905126.jpg",
-   "date": null,
-   "pubdate": "2026-08-30T15:24:42.580100+00:00"
-  },
-  {
-   "title": "Les autorités ukrainiennes appellent les habitants de Kherson à quitter la ville face aux frappes russes Le gouverneur régional fait état d'une \"situation sécuritaire extrêmement difficile\" dans la ville où \"l'ennemi intensifie chaque jour ses attaques contre les infrastructures essentielles\".",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/partez-je-vous-en-prie-les-autorites-ukrainiennes-appellent-les-habitants-de-kherson-a-quitter-la-ville-face-aux-frappes-russes_8165687.html",
-   "summary": "Les autorités ukrainiennes appellent les habitants de Kherson à quitter la ville face aux frappes russes",
-   "image": "https://www.franceinfo.fr/pictures/h6lCo37wlatYliBhsmLkW0iaEoA/0x0:6177x3474/432x243/filters:format(jpg)/2026/08/27/6a909d1c25e73428720257.jpg",
    "date": null,
    "pubdate": "2026-08-30T15:24:42.580100+00:00"
   }

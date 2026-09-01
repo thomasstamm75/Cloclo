@@ -1,45 +1,115 @@
 {
- "etag": "\"ba0d4c399e0af2bece9ba1773212c3eb-gzip\"",
+ "etag": "\"e5d2a814cb204f440ec8044beb4b137e-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/j-essaie-d-y-aller-cinq-six-fois-par-semaine-a-16-ou-17-ans-ils-sont-deja-accros-a-la-salle-de-sport_8136965.html": "2026-08-31T15:24:51.780646+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-visite-du-pape-a-metz-c-est-un-formidable-coup-de-projecteur-sur-la-ville-estime-le-maire_8134199.html": "2026-08-31T15:24:51.780646+00:00",
-  "https://www.franceinfo.fr/faits-divers/terrorisme/enseignant-decapite-dans-les-yvelines/un-homme-implique-dans-l-assassinat-de-samuel-paty-de-nouveau-condamne_8171168.html": "2026-08-31T18:24:49.830768+00:00",
   "https://www.franceinfo.fr/societe/nos-jours-heureux/": "2026-08-31T18:24:49.830768+00:00",
   "https://www.franceinfo.fr/societe/euthanasie/comprendre-les-debats-sur-la-fin-de-vie/": "2026-08-31T18:24:49.830768+00:00",
-  "https://www.franceinfo.fr/france/rentree/beaucoup-d-enfants-vont-faire-leur-rentree-sans-aesh-a-leurs-cotes-deplore-un-responsable-syndical-de-l-academie-de-nantes_8171291.html": "2026-08-31T21:25:17.704742+00:00",
   "https://www.franceinfo.fr/societe/nos-jours-heureux/nos-jours-heureux-baignade-salee-deluge-et-sentiment-de-liberte-a-deauville-la-journee-des-oublies-des-vacances-vire-a-la-formidable-odyssee_8155004.html": "2026-08-31T21:25:17.704742+00:00",
-  "https://www.franceinfo.fr/internet/amazon/l-enseigne-amazon-poursuivie-aux-etats-unis-pour-avoir-surfacture-les-prix-de-sa-publicite-en-ligne_8171327.html": "2026-09-01T00:39:51.402136+00:00",
   "https://www.franceinfo.fr/societe/religion/le-droit-francais-ne-doit-pas-stigmatiser-une-religion-reagit-le-grand-imam-de-bordeaux-apres-la-proposition-du-rn-de-sanctionner-le-voile_8171702.html": "2026-09-01T06:36:19.642263+00:00",
   "https://www.franceinfo.fr/societe/religion/reportage-c-est-une-atteinte-a-la-liberte-les-femmes-qui-portent-un-voile-sous-le-choc-apres-la-proposition-d-un-referendum-par-le-rn_8171582.html": "2026-09-01T06:36:19.642263+00:00",
   "https://www.franceinfo.fr/culture/musique/rap/un-ancien-membre-d-un-gang-de-los-angeles-reconnu-coupable-du-meurtre-de-la-legende-du-rap-tupac-shakur-trente-ans-apres-sa-mort_8171537.html": "2026-09-01T06:36:19.642263+00:00",
   "https://www.franceinfo.fr/societe/education/faut-il-enseigner-la-lecture-aux-enfants-des-la-maternelle-pour-pallier-les-difficultes-en-francais_8163893.html": "2026-09-01T06:36:19.642263+00:00",
-  "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-absolument-pas-credible-juridiquement-le-rn-peut-il-vraiment-interdire-le-port-du-voile-dans-l-espace-public_8170601.html": "2026-09-01T06:36:19.642263+00:00",
-  "https://www.franceinfo.fr/societe/education/violences-dans-le-periscolaire/je-ne-les-mets-au-periscolaire-que-le-strict-minimum-pour-la-rentree-la-confiance-des-familles-fragilisee_8166218.html": "2026-09-01T06:36:19.642263+00:00",
   "https://www.franceinfo.fr/politique/front-national/personne-ne-va-mener-la-chasse-aux-femmes-voilees-affirme-le-depute-rn-jean-philippe-tanguy-apres-sa-proposition-de-sanctionner-le-port-du-voile_8171825.html": "2026-09-01T09:31:18.638231+00:00",
   "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/a-los-angeles-d-anciens-membres-de-gangs-jouent-les-mediateurs-aupres-des-sans-abri_8144828.html": "2026-09-01T09:31:18.638231+00:00",
   "https://www.franceinfo.fr/monde/royaume-uni/les-problemes-de-comportement-ont-considerablement-diminue-en-angleterre-l-utilisation-du-portable-au-lycee-etait-deja-limitee_8171705.html": "2026-09-01T09:31:18.638231+00:00",
   "https://www.franceinfo.fr/replay-radio/ca-dit-quoi/le-rn-veut-interdire-le-voile-arrets-maladie-limites-et-preretraite-pour-messi-ca-dit-quoi-ce-1er-septembre_8161412.html": "2026-09-01T09:31:18.638231+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/les-seropositifs-ne-sont-pas-malades-entre-discriminations-et-idees-recues-le-difficile-combat-contre-la-serophobie_8144933.html": "2026-09-01T09:31:18.638231+00:00",
-  "https://www.franceinfo.fr/societe/education/scolarite/guide-parents/lycee/ici-le-portable-est-interdit-pour-la-deuxieme-annee_8172116.html": "2026-09-01T12:36:05.088896+00:00",
-  "https://www.franceinfo.fr/societe/education/interdiction-du-portable-au-lycee-personnels-et-eleves-font-leurs-premiers-retours-sur-cette-nouvelle-regle-dont-l-application-varie_8172110.html": "2026-09-01T12:36:05.088896+00:00",
-  "https://www.franceinfo.fr/societe/education/scolarite/guide-parents/lycee/avant-15-les-reseaux-sociaux-ne-sont-pas-bons_8172107.html": "2026-09-01T12:36:05.088896+00:00",
-  "https://www.franceinfo.fr/france/rentree/on-essaie-de-reprendre-le-cours-normal-de-la-vie-une-rentree-particuliere-a-biscarrosse-encore-marquee-par-les-incendies-estivaux_8172083.html": "2026-09-01T12:36:05.088896+00:00",
   "https://www.franceinfo.fr/societe/education/reportage-un-nouveau-monde-a-troyes-des-adolescents-decouvrent-la-vie-de-lycee_8171786.html": "2026-09-01T12:36:05.088896+00:00",
   "https://www.franceinfo.fr/societe/justice/le-vanuatu-veut-engager-une-procedure-contre-la-france-a-la-devant-la-cour-internationale-de-justice-concernant-les-iles-de-matthew-et-hunter_8172338.html": "2026-09-01T15:50:22.118041+00:00",
   "https://www.franceinfo.fr/societe/securite-routiere/apres-les-trottinettes-electriques-le-casque-sera-t-il-bientot-obligatoire-pour-tous-a-velo_8171780.html": "2026-09-01T15:50:22.118041+00:00",
   "https://www.franceinfo.fr/france/lac-ontario-rebaptise-lac-amerique-comment-sont-choisis-les-noms-des-lacs-en-france_8170457.html": "2026-09-01T15:50:22.118041+00:00",
   "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/rhone/lyon/il-etait-au-sol-le-visage-ensanglante-en-train-de-se-faire-etrangler-une-elue-de-rillieux-raconte-son-agression-et-celle-de-son-conjoint-apres-ol-le-havre-3409694.html": "2026-09-01T15:50:22.118041+00:00",
-  "https://www.franceinfo.fr/societe/victimes-de-serophobie-ils-entament-une-greve-de-la-faim_8172242.html": "2026-09-01T15:50:22.118041+00:00",
-  "https://www.franceinfo.fr/societe/armee-securite-defense/a-quoi-ressemblent-les-fregates-vendues-a-la-suede_8172224.html": "2026-09-01T15:50:22.118041+00:00"
+  "https://www.franceinfo.fr/france/rentree/la-seconde-main-pour-preparer-la-rentree-chez-emmaus_8172026.html": "2026-09-01T18:33:18.227663+00:00",
+  "https://www.franceinfo.fr/culture/musique/patrick-bruel/patrick-bruel-prend-sa-responsabilite-c-est-une-excellente-chose-reagit-le-maire-de-chartres-apres-l-annulation-de-la-tournee-du-chanteur_8172611.html": "2026-09-01T18:33:18.227663+00:00",
+  "https://www.franceinfo.fr/societe/education/reportage-c-est-du-gaspillage-dans-ce-college-des-bouches-du-rhone-l-abandon-de-la-tenue-unique-divise-les-eleves-et-alourdit-la-facture-des-familles_8172482.html": "2026-09-01T18:33:18.227663+00:00",
+  "https://www.franceinfo.fr/societe/harcelement-sexuel/le-parquet-de-paris-requiert-le-renvoi-en-proces-pour-viol-de-l-avocat-juan-branco_8172581.html": "2026-09-01T18:33:18.227663+00:00",
+  "https://www.franceinfo.fr/monde/europe/migrants/crise-des-migrants-a-ceuta/reportage-un-mois-apres-les-nombreuses-arrivees-a-ceuta-des-femmes-migrantes-isolees-et-exposees-au-risque-de-violences-sexuelles_8172020.html": "2026-09-01T18:33:18.227663+00:00",
+  "https://www.franceinfo.fr/culture/musique/patrick-bruel/le-chanteur-patrick-bruel-mis-en-examen-pour-violences-sexuelles-annonce-l-annulationde-sa-tournee-prevue-a-l-automne_8172527.html": "2026-09-01T18:33:18.227663+00:00",
+  "https://www.franceinfo.fr/replay-radio/la-question-des-informes/faut-il-enseigner-la-lecture-des-la-maternelle_8168396.html": "2026-09-01T18:33:18.227663+00:00",
+  "https://france3-regions.franceinfo.fr/paris-ile-de-france/paris/on-va-avoir-17-ans-on-est-assez-grand-pour-gerer-notre-temps-d-ecran-la-rentree-sans-telephone-portable-au-lycee-ne-fait-pas-que-des-heureux-3409886.html": "2026-09-01T18:33:18.227663+00:00",
+  "https://www.franceinfo.fr/culture/musique/tout-le-monde-les-ecoutait-ou-les-subissait-peut-on-encore-parler-de-hits-de-l-ete-comme-avant-les-reseaux-sociaux_8155445.html": "2026-09-01T18:33:18.227663+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "Le Vanuatu veut engager une procédure contre la France devant la Cour internationale de justice concernant les îles de Matthew et Hunter Le Vanuatu revendique ces terres depuis son accession à l'indépendance vis à vis de la France et du Royaume-Uni en 1980. Pour la France, il n'est pas question de céder la souveraineté sur ces îles.",
+   "title": "vidéo La seconde main pour préparer la rentrée chez Emmaüs En 2026, la rentrée coûte en moyenne 488 euros par foyer, soit 79 euros de plus que l’année précédente, selon le dernier baromètre CSA/Cofidis. Pour alléger la facture, certaines familles s’orientent vers les achats en seconde main.",
+   "link": "https://www.franceinfo.fr/france/rentree/la-seconde-main-pour-preparer-la-rentree-chez-emmaus_8172026.html",
+   "summary": "La seconde main pour préparer la rentrée chez Emmaüs",
+   "image": "https://www.franceinfo.fr/pictures/HmaLA2ePEcLhqe6DWIQ4lkrPygI/0x0:900x1600/fit-in/432x297/filters:upscale():fill(blur):format(jpg)/2026/09/01/6a96aaead53a2108057115.jpg",
+   "date": null,
+   "pubdate": "2026-09-01T18:33:18.227663+00:00"
+  },
+  {
+   "title": "\"Patrick Bruel prend sa responsabilité, c'est une excellente chose\", réagit le maire de Chartres après l'annulation de la tournée du chanteur",
+   "link": "https://www.franceinfo.fr/culture/musique/patrick-bruel/patrick-bruel-prend-sa-responsabilite-c-est-une-excellente-chose-reagit-le-maire-de-chartres-apres-l-annulation-de-la-tournee-du-chanteur_8172611.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/KsGk36sa8boV14qxFWx2IcO39Xg/0x0:3000x1687/432x243/filters:format(jpg)/2026/09/01/6a9709d6983f5245641045.jpg",
+   "date": null,
+   "pubdate": "2026-09-01T18:33:18.227663+00:00"
+  },
+  {
+   "title": ": Reportage : Reportage \"C'est du gaspillage\" : dans ce collège des Bouches-du-Rhône, l'abandon de la tenue unique divise les élèves et alourdit la facture des familles",
+   "link": "https://www.franceinfo.fr/societe/education/reportage-c-est-du-gaspillage-dans-ce-college-des-bouches-du-rhone-l-abandon-de-la-tenue-unique-divise-les-eleves-et-alourdit-la-facture-des-familles_8172482.html",
+   "summary": "\"C'est du gaspillage\" : dans ce collège des Bouches-du-Rhône, l'abandon de la tenue unique divise les élèves et alourdit la facture des familles",
+   "image": "https://www.franceinfo.fr/pictures/BbCXJi_8JeEUKuKCRU1wXrLsW0A/0x394:6720x4174/432x243/filters:format(jpg)/2026/09/01/6a97005fd10df844993501.jpg",
+   "date": null,
+   "pubdate": "2026-09-01T18:33:18.227663+00:00"
+  },
+  {
+   "title": "Le parquet de Paris requiert le renvoi en procès pour viol de l'avocat Juan Branco",
+   "link": "https://www.franceinfo.fr/societe/harcelement-sexuel/le-parquet-de-paris-requiert-le-renvoi-en-proces-pour-viol-de-l-avocat-juan-branco_8172581.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/Zv46Zf7HSQW7hhoLZubCVU-__Lw/0x796:7652x5101/432x243/filters:format(jpg)/2026/09/01/6a97029b8c00d726064248.jpg",
+   "date": null,
+   "pubdate": "2026-09-01T18:33:18.227663+00:00"
+  },
+  {
+   "title": ": Reportage : Reportage Un mois après les nombreuses arrivées à Ceuta, des femmes migrantes isolées et exposées au risque de violences sexuelles",
+   "link": "https://www.franceinfo.fr/monde/europe/migrants/crise-des-migrants-a-ceuta/reportage-un-mois-apres-les-nombreuses-arrivees-a-ceuta-des-femmes-migrantes-isolees-et-exposees-au-risque-de-violences-sexuelles_8172020.html",
+   "summary": "Un mois après les nombreuses arrivées à Ceuta, des femmes migrantes isolées et exposées au risque de violences sexuelles",
+   "image": "https://www.franceinfo.fr/pictures/2heIQOpFo0UC2QObhyLzCJRA0KI/0x0:712x401/432x243/filters:format(jpg)/2026/09/01/6a96bdbd81446737340004.jpg",
+   "date": null,
+   "pubdate": "2026-09-01T18:33:18.227663+00:00"
+  },
+  {
+   "title": "Le chanteur Patrick Bruel, mis en examen pour violences sexuelles, annonce l'annulation de sa tournée prévue à l'automne",
+   "link": "https://www.franceinfo.fr/culture/musique/patrick-bruel/le-chanteur-patrick-bruel-mis-en-examen-pour-violences-sexuelles-annonce-l-annulationde-sa-tournee-prevue-a-l-automne_8172527.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/J69JkoSbSi5Tc1Ksjx13XT9bESQ/0x53:1024x629/432x243/filters:format(jpg)/2026/09/01/6a96fde8328db719185237.jpg",
+   "date": null,
+   "pubdate": "2026-09-01T18:33:18.227663+00:00"
+  },
+  {
+   "title": "9:26 audio 9 minutes 26 Faut-il enseigner la lecture dès la maternelle ?",
+   "link": "https://www.franceinfo.fr/replay-radio/la-question-des-informes/faut-il-enseigner-la-lecture-des-la-maternelle_8168396.html",
+   "summary": "Faut-il enseigner la lecture dès la maternelle ?",
+   "image": "https://www.franceinfo.fr/pictures/J-eA8wRW2U9s1AY9x3KZARtCCqk/0x184:3543x2177/432x243/filters:format(jpg)/2026/08/25/6a8dc73da2e89395935831.jpg",
+   "date": null,
+   "pubdate": "2026-09-01T18:33:18.227663+00:00"
+  },
+  {
+   "title": "\"On va avoir 17 ans, on est assez grand pour gérer notre temps d’écran\" : la rentrée sans téléphone portable au lycée ne fait pas que des heureux",
+   "link": "https://france3-regions.franceinfo.fr/paris-ile-de-france/paris/on-va-avoir-17-ans-on-est-assez-grand-pour-gerer-notre-temps-d-ecran-la-rentree-sans-telephone-portable-au-lycee-ne-fait-pas-que-des-heureux-3409886.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/jLpZiU3GESLEH6mrJRmb9VEWy40/432x243/filters:format(jpg)/2026/09/01/6a96f71696ba6412612664.jpg",
+   "date": null,
+   "pubdate": "2026-09-01T18:33:18.227663+00:00"
+  },
+  {
+   "title": "5:00 article 5 minutes \"Tout le monde les écoutait... ou les subissait\" : peut-on encore parler de \"hits de l'été\", comme avant les réseaux sociaux ?",
+   "link": "https://www.franceinfo.fr/culture/musique/tout-le-monde-les-ecoutait-ou-les-subissait-peut-on-encore-parler-de-hits-de-l-ete-comme-avant-les-reseaux-sociaux_8155445.html",
+   "summary": "\"Tout le monde les écoutait... ou les subissait\" : peut-on encore parler de \"hits de l'été\", comme avant les réseaux sociaux ?",
+   "image": "https://www.franceinfo.fr/pictures/2vTdJYIs0KgfpwSgugbLNckEUvQ/584x0:3416x2832/100x100/filters:format(jpg)/2026/08/21/6a88b864c09fe968349292.jpg",
+   "date": null,
+   "pubdate": "2026-09-01T18:33:18.227663+00:00"
+  },
+  {
+   "title": "Le Vanuatu veut engager une procédure contre la France devant la Cour internationale de justice concernant les îles de Matthew et Hunter",
    "link": "https://www.franceinfo.fr/societe/justice/le-vanuatu-veut-engager-une-procedure-contre-la-france-a-la-devant-la-cour-internationale-de-justice-concernant-les-iles-de-matthew-et-hunter_8172338.html",
-   "summary": "Le Vanuatu veut engager une procédure contre la France devant la Cour internationale de justice concernant les îles de Matthew et Hunter",
-   "image": "https://www.franceinfo.fr/pictures/rXEJ6jNpMml-0CJvQji2L2oA7HM/16x0:1008x682/432x297/filters:format(jpg)/2026/09/01/6a96e9885222f296603463.jpg",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/qAvPmXG3cVIx9CArJT1CMj-7Vzo/0x53:1024x629/432x243/filters:format(jpg)/2026/09/01/6a96e9885222f296603463.jpg",
    "date": null,
    "pubdate": "2026-09-01T15:50:22.118041+00:00"
   },
@@ -52,68 +122,20 @@
    "pubdate": "2026-09-01T15:50:22.118041+00:00"
   },
   {
-   "title": "Lac Ontario rebaptisé \"lac Amérique\" : comment sont choisis les noms des lacs en France ?",
+   "title": "Lac Ontario rebaptisé \"lac Amérique\" : comment sont choisis les noms des lacs en France ? En plein conflit commercial entre le Canada et les Etats-Unis, Donald Trump a décidé de manière unilatérale de renommer le lac Ontario à la frontière entre les deux pays. Une telle situation pourrait-elle se produire en France ?",
    "link": "https://www.franceinfo.fr/france/lac-ontario-rebaptise-lac-amerique-comment-sont-choisis-les-noms-des-lacs-en-france_8170457.html",
-   "summary": "",
+   "summary": "Lac Ontario rebaptisé \"lac Amérique\" : comment sont choisis les noms des lacs en France ?",
    "image": "https://www.franceinfo.fr/pictures/mgJc0SlOBQ03DAW0kPKoctPFB50/0x322:6192x3805/432x243/filters:format(jpg)/2026/09/01/6a96e2dc60a73611538793.jpg",
    "date": null,
    "pubdate": "2026-09-01T15:50:22.118041+00:00"
   },
   {
-   "title": "\"Il était au sol, en train de se faire étrangler\" : agressée avec son conjoint après un match de l'OL, une élue du Rhône témoigne des violences et des propos racistes",
+   "title": "\"Il était au sol, en train de se faire étrangler\" : agressée avec son conjoint après un match de l'OL, une élue du Rhône témoigne des violences et des propos racistes Meriem Bouchedda et son conjoint ont été agressés après le match OL-Le Havre, samedi, aux abords du Groupama Stadium. L’élue affirme avoir subi des insultes racistes avant que son compagnon ne soit roué de coups. Tous deux ont reçu 15 jours d’ITT et ont déposé plainte. Une enquête est en cours. Elle témoigne de cette nuit traumatisante.",
    "link": "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/rhone/lyon/il-etait-au-sol-le-visage-ensanglante-en-train-de-se-faire-etrangler-une-elue-de-rillieux-raconte-son-agression-et-celle-de-son-conjoint-apres-ol-le-havre-3409694.html",
-   "summary": "",
+   "summary": "\"Il était au sol, en train de se faire étrangler\" : agressée avec son conjoint après un match de l'OL, une élue du Rhône témoigne des violences et des propos racistes",
    "image": "https://www.franceinfo.fr/pictures/pRtjRioTQZk3iUy7vOdIufQinFQ/432x243/filters:format(jpg)/2026/09/01/6a96e1d1a6782769277275.jpg",
    "date": null,
    "pubdate": "2026-09-01T15:50:22.118041+00:00"
-  },
-  {
-   "title": "2:19 vidéo 2 minutes 19 Victimes de sérophobie, ils entament une grève de la faim",
-   "link": "https://www.franceinfo.fr/societe/victimes-de-serophobie-ils-entament-une-greve-de-la-faim_8172242.html",
-   "summary": "Victimes de sérophobie, ils entament une grève de la faim",
-   "image": "https://www.franceinfo.fr/pictures/0VanQm_iFwE7wCYFXEazzygVvSo/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/01/6a96d9a0e75c7356830949.jpg",
-   "date": null,
-   "pubdate": "2026-09-01T15:50:22.118041+00:00"
-  },
-  {
-   "title": "2:24 vidéo 2 minutes 24 À quoi ressemblent les frégates vendues à la Suède",
-   "link": "https://www.franceinfo.fr/societe/armee-securite-defense/a-quoi-ressemblent-les-fregates-vendues-a-la-suede_8172224.html",
-   "summary": "À quoi ressemblent les frégates vendues à la Suède",
-   "image": "https://www.franceinfo.fr/pictures/c_L29xFaUYCwSs2A0BDOK2vb6QM/0x0:900x1600/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/01/6a96d83fdce82506952577.jpg",
-   "date": null,
-   "pubdate": "2026-09-01T15:50:22.118041+00:00"
-  },
-  {
-   "title": "1:36 vidéo 1 minute 36 Ici, le portable est interdit pour la deuxième année",
-   "link": "https://www.franceinfo.fr/societe/education/scolarite/guide-parents/lycee/ici-le-portable-est-interdit-pour-la-deuxieme-annee_8172116.html",
-   "summary": "Ici, le portable est interdit pour la deuxième année",
-   "image": "https://www.franceinfo.fr/pictures/2gV-qK1oCE7PszSEa8QRP5HLxus/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/01/6a96bc509d876080605225.jpg",
-   "date": null,
-   "pubdate": "2026-09-01T12:36:05.088896+00:00"
-  },
-  {
-   "title": ": Vidéo 1:49 vidéo 1 minute 49 : Vidéo Interdiction du portable au lycée : pour la rentrée, une nouvelle règle mais plusieurs façons de l'appliquer",
-   "link": "https://www.franceinfo.fr/societe/education/interdiction-du-portable-au-lycee-personnels-et-eleves-font-leurs-premiers-retours-sur-cette-nouvelle-regle-dont-l-application-varie_8172110.html",
-   "summary": "Interdiction du portable au lycée : pour la rentrée, une nouvelle règle mais plusieurs façons de l'appliquer",
-   "image": "https://www.franceinfo.fr/pictures/RyW_mC-qyM_hzuAOqOmvDueCpAg/0x46:1143x689/432x243/filters:format(jpg)/2026/09/01/6a96bb316bc22626832531.jpg",
-   "date": null,
-   "pubdate": "2026-09-01T12:36:05.088896+00:00"
-  },
-  {
-   "title": "1:35 vidéo 1 minute 35 \"Avant 15, les réseaux sociaux ne sont pas bons\"",
-   "link": "https://www.franceinfo.fr/societe/education/scolarite/guide-parents/lycee/avant-15-les-reseaux-sociaux-ne-sont-pas-bons_8172107.html",
-   "summary": "\"Avant 15, les réseaux sociaux ne sont pas bons\"",
-   "image": "https://www.franceinfo.fr/pictures/KZlGi0ou0gz4tAcCBaMPsggbOd4/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/01/6a96b80445e50676865799.jpg",
-   "date": null,
-   "pubdate": "2026-09-01T12:36:05.088896+00:00"
-  },
-  {
-   "title": ": Vidéo 1:48 vidéo 1 minute 48 : Vidéo \"On essaie de reprendre le cours normal de la vie\" : une rentrée scolaire particulière à Biscarrosse, encore marquée par l'incendie dans les Landes",
-   "link": "https://www.franceinfo.fr/france/rentree/on-essaie-de-reprendre-le-cours-normal-de-la-vie-une-rentree-particuliere-a-biscarrosse-encore-marquee-par-les-incendies-estivaux_8172083.html",
-   "summary": "\"On essaie de reprendre le cours normal de la vie\" : une rentrée scolaire particulière à Biscarrosse, encore marquée par l'incendie dans les Landes",
-   "image": "https://www.franceinfo.fr/pictures/jjA0JUsXUh8nfkxALRRpQWG0vVw/0x12:1361x778/432x243/filters:format(jpg)/2026/09/01/6a96b68056c1b576799291.jpg",
-   "date": null,
-   "pubdate": "2026-09-01T12:36:05.088896+00:00"
   },
   {
    "title": ": Reportage \"Un nouveau monde\" : à Troyes, des adolescents découvrent la vie de lycée De l'entrée en seconde à l'interdiction du téléphone portable au lycée, cette rentrée du 1er septembre apporte son lot de nouveautés pour les jeunes élèves. Certains établissements, comme le lycée Chrestien de Troyes, dans l'Aube, ont déjà préparé cette nouvelle mesure.",
@@ -196,30 +218,6 @@
    "pubdate": "2026-09-01T06:36:19.642263+00:00"
   },
   {
-   "title": ": Vrai ou faux \"Absolument pas crédible juridiquement\" : le RN peut-il vraiment interdire le port du voile dans l'espace public ? Le député Jean-Philippe Tanguy a affirmé dimanche que son parti comptait interdire le port du voile dans l'espace public. Selon les spécialistes du droit public, la mesure serait sans nul doute anticonstitutionnelle.",
-   "link": "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-absolument-pas-credible-juridiquement-le-rn-peut-il-vraiment-interdire-le-port-du-voile-dans-l-espace-public_8170601.html",
-   "summary": "\"Absolument pas crédible juridiquement\" : le RN peut-il vraiment interdire le port du voile dans l'espace public ?",
-   "image": "https://www.franceinfo.fr/pictures/HiQDMdj1yAdviiJ1dmOKtNtCyIw/0x73:1024x649/432x243/filters:format(jpg)/2026/08/31/6a95a0c8a3c4d481703730.jpg",
-   "date": null,
-   "pubdate": "2026-09-01T06:36:19.642263+00:00"
-  },
-  {
-   "title": "\"Je ne les mets au périscolaire que le strict minimum\" : pour la rentrée, la confiance des familles fragilisée La crise du périscolaire incite des familles à remettre en question leurs choix de garde pour la nouvelle année scolaire. Elles attendent des mairies des garanties de sécurité et plus de transparence.",
-   "link": "https://www.franceinfo.fr/societe/education/violences-dans-le-periscolaire/je-ne-les-mets-au-periscolaire-que-le-strict-minimum-pour-la-rentree-la-confiance-des-familles-fragilisee_8166218.html",
-   "summary": "\"Je ne les mets au périscolaire que le strict minimum\" : pour la rentrée, la confiance des familles fragilisée",
-   "image": "https://www.franceinfo.fr/pictures/LBtA03k2Bwy1_FZRrez75VgSADw/0x32:1024x608/432x243/filters:format(jpg)/2026/08/28/6a91a0cbd545f355076588.jpg",
-   "date": null,
-   "pubdate": "2026-09-01T06:36:19.642263+00:00"
-  },
-  {
-   "title": "L'enseigne Amazon poursuivie aux Etats-Unis pour avoir surfacturé les prix de sa publicité en ligne \"Amazon a truqué des milliards d'enchères publicitaires\", a déclaré le procureur général de Californie, Rob Bonta, lors d'une conférence de presse, dénonçant des surcoûts \"souvent répercutés sur les acheteurs ordinaires\". Le groupe rejette des accusations \"malavisées\".",
-   "link": "https://www.franceinfo.fr/internet/amazon/l-enseigne-amazon-poursuivie-aux-etats-unis-pour-avoir-surfacture-les-prix-de-sa-publicite-en-ligne_8171327.html",
-   "summary": "L'enseigne Amazon poursuivie aux Etats-Unis pour avoir surfacturé les prix de sa publicité en ligne",
-   "image": "https://www.franceinfo.fr/pictures/oKz8i3HUL1hi6TrdjieeQiy5c7c/0x25:1024x601/432x243/filters:format(jpg)/2026/08/31/6a95f92603560371153628.jpg",
-   "date": null,
-   "pubdate": "2026-09-01T00:39:51.402136+00:00"
-  },
-  {
    "title": "8:00 article 8 minutes NOS JOURS HEUREUX. Baignade salée, déluge et \"sentiment de liberté\" : à Deauville, la journée des oubliés des vacances vire à la formidable odyssée",
    "link": "https://www.franceinfo.fr/societe/nos-jours-heureux/nos-jours-heureux-baignade-salee-deluge-et-sentiment-de-liberte-a-deauville-la-journee-des-oublies-des-vacances-vire-a-la-formidable-odyssee_8155004.html",
    "summary": "NOS JOURS HEUREUX. Baignade salée, déluge et \"sentiment de liberté\" : à Deauville, la journée des oubliés des vacances vire à la formidable odyssée",
@@ -228,15 +226,7 @@
    "pubdate": "2026-08-31T21:25:17.704742+00:00"
   },
   {
-   "title": "\"Beaucoup d'enfants vont faire leur rentrée sans AESH à leurs côtés\", déplore un responsable syndical de l'académie de Nantes Une majorité d'enseignants n'a pas accès à sa boîte mail à cause de la cyberattaque survenue cet été, ce qui complique notamment l'appel des élèves, regrette Joeffrey Renaud, enseignant et représentant du Snes-FSU, lundi sur France Inter.",
-   "link": "https://www.franceinfo.fr/france/rentree/beaucoup-d-enfants-vont-faire-leur-rentree-sans-aesh-a-leurs-cotes-deplore-un-responsable-syndical-de-l-academie-de-nantes_8171291.html",
-   "summary": "\"Beaucoup d'enfants vont faire leur rentrée sans AESH à leurs côtés\", déplore un responsable syndical de l'académie de Nantes",
-   "image": "https://www.franceinfo.fr/pictures/la5YVHBXxYNuju-xcfyIJiv3hAY/0x116:3000x1803/432x243/filters:format(jpg)/2026/08/31/6a95e4bd29f08049224920.jpg",
-   "date": null,
-   "pubdate": "2026-08-31T21:25:17.704742+00:00"
-  },
-  {
-   "title": "Nos jours heureux 4 contenus",
+   "title": "Nos jours heureux 5 contenus",
    "link": "https://www.franceinfo.fr/societe/nos-jours-heureux/",
    "summary": "",
    "image": "https://www.franceinfo.fr/pictures/70hxXkCD_HnVl93vv3dfs138KJQ/432x297/filters:format(jpg)/2026/07/30/6a6b142e19c9c745704318.jpg",
@@ -248,14 +238,6 @@
    "link": "https://www.franceinfo.fr/societe/euthanasie/comprendre-les-debats-sur-la-fin-de-vie/",
    "summary": "",
    "image": "https://www.franceinfo.fr/pictures/gZwL6mlJ39yMRDzurzn4EQx_sgw/432x297/filters:format(jpg)/2025/05/27/illustration-aide-a-mourir-68357ca797624128014806.jpg",
-   "date": null,
-   "pubdate": "2026-08-31T18:24:49.830768+00:00"
-  },
-  {
-   "title": "Un homme impliqué dans l'assassinat de Samuel Paty de nouveau condamné Assigné à résidence dans les Hauts-de-Seine sur décision de la préfecture dans l'attente de son expulsion du territoire français, il a été contrôlé vendredi sur le parking du parc d'attractions Astérix.",
-   "link": "https://www.franceinfo.fr/faits-divers/terrorisme/enseignant-decapite-dans-les-yvelines/un-homme-implique-dans-l-assassinat-de-samuel-paty-de-nouveau-condamne_8171168.html",
-   "summary": "Un homme impliqué dans l'assassinat de Samuel Paty de nouveau condamné",
-   "image": "https://www.franceinfo.fr/pictures/DqdpGYr0vtBgtkSjJIfjKX8w76Y/0x52:1024x628/432x243/filters:format(jpg)/2026/08/31/6a95bf7b755e6144548693.jpg",
    "date": null,
    "pubdate": "2026-08-31T18:24:49.830768+00:00"
   },
