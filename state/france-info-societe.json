@@ -1,28 +1,23 @@
 {
- "etag": "\"6f0495f74394c1d8e8fcbb2c75121048-gzip\"",
+ "etag": "\"b2d534d41ca299332a80fef050e82a28-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/culture/musique/tout-le-monde-les-ecoutait-ou-les-subissait-peut-on-encore-parler-de-hits-de-l-ete-comme-avant-les-reseaux-sociaux_8155445.html": "2026-08-31T12:25:04.910829+00:00",
   "https://www.franceinfo.fr/societe/armee-securite-defense/la-suede-signe-un-contrat-de-4-3-milliards-d-euros-pour-l-acquisition-de-quatre-fregates-militaires-francaises_8170913.html": "2026-08-31T15:24:51.780646+00:00",
-  "https://www.franceinfo.fr/france/rentree/piratage-de-l-education-nationale-la-rentree-se-fera-en-mode-degrade-dans-les-academies-de-nantes-et-toulouse_8170589.html": "2026-08-31T15:24:51.780646+00:00",
-  "https://www.franceinfo.fr/societe/education/un-service-rattache-au-premier-ministre-recommande-de-revaloriser-le-salaire-des-professeurs_8170760.html": "2026-08-31T15:24:51.780646+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/j-essaie-d-y-aller-cinq-six-fois-par-semaine-a-16-ou-17-ans-ils-sont-deja-accros-a-la-salle-de-sport_8136965.html": "2026-08-31T15:24:51.780646+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-visite-du-pape-a-metz-c-est-un-formidable-coup-de-projecteur-sur-la-ville-estime-le-maire_8134199.html": "2026-08-31T15:24:51.780646+00:00",
   "https://www.franceinfo.fr/faits-divers/terrorisme/enseignant-decapite-dans-les-yvelines/un-homme-implique-dans-l-assassinat-de-samuel-paty-de-nouveau-condamne_8171168.html": "2026-08-31T18:24:49.830768+00:00",
   "https://www.franceinfo.fr/societe/harcelement-sexuel/un-animateur-du-centre-de-loisirs-de-tarnos-dans-les-landes-ecarte-pour-des-faits-pas-compatibles-avec-la-profession_8171117.html": "2026-08-31T18:24:49.830768+00:00",
   "https://www.franceinfo.fr/societe/pacs-amical-absence-en-cas-de-deuil-habitat-collectif-la-deputee-lfi-clemence-guette-plaide-pour-accorder-des-droits-a-l-amitie_8170832.html": "2026-08-31T18:24:49.830768+00:00",
   "https://www.franceinfo.fr/societe/justice/des-rapporteurs-de-l-onu-expriment-leur-vives-preoccupations-autour-des-poursuites-contre-l-eurodeputee-rima-hassan_8171066.html": "2026-08-31T18:24:49.830768+00:00",
-  "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/nice/marseillaise-et-lever-de-drapeau-tricolore-dans-les-ecoles-nicoises-le-ministre-de-l-education-nationale-retoque-la-proposition-d-eric-ciotti-3409082.html": "2026-08-31T18:24:49.830768+00:00",
   "https://www.franceinfo.fr/societe/nos-jours-heureux/": "2026-08-31T18:24:49.830768+00:00",
   "https://www.franceinfo.fr/societe/euthanasie/comprendre-les-debats-sur-la-fin-de-vie/": "2026-08-31T18:24:49.830768+00:00",
   "https://www.franceinfo.fr/france/rentree/beaucoup-d-enfants-vont-faire-leur-rentree-sans-aesh-a-leurs-cotes-deplore-un-responsable-syndical-de-l-academie-de-nantes_8171291.html": "2026-08-31T21:25:17.704742+00:00",
   "https://www.franceinfo.fr/societe/nos-jours-heureux/nos-jours-heureux-baignade-salee-deluge-et-sentiment-de-liberte-a-deauville-la-journee-des-oublies-des-vacances-vire-a-la-formidable-odyssee_8155004.html": "2026-08-31T21:25:17.704742+00:00",
-  "https://www.franceinfo.fr/faits-divers/meurtres/tuerie-de-chevaline/des-investigations-en-cours-pour-savoir-si-une-arme-decouverte-dans-le-lac-d-annecy-pourrait-etre-liee-a-la-tuerie-de-chevaline_8171342.html": "2026-09-01T00:39:51.402136+00:00",
   "https://www.franceinfo.fr/internet/amazon/l-enseigne-amazon-poursuivie-aux-etats-unis-pour-avoir-surfacture-les-prix-de-sa-publicite-en-ligne_8171327.html": "2026-09-01T00:39:51.402136+00:00",
   "https://www.franceinfo.fr/societe/religion/le-droit-francais-ne-doit-pas-stigmatiser-une-religion-reagit-le-grand-imam-de-bordeaux-apres-la-proposition-du-rn-de-sanctionner-le-voile_8171702.html": "2026-09-01T06:36:19.642263+00:00",
   "https://www.franceinfo.fr/societe/religion/reportage-c-est-une-atteinte-a-la-liberte-les-femmes-qui-portent-un-voile-sous-le-choc-apres-la-proposition-d-un-referendum-par-le-rn_8171582.html": "2026-09-01T06:36:19.642263+00:00",
   "https://www.franceinfo.fr/culture/musique/rap/un-ancien-membre-d-un-gang-de-los-angeles-reconnu-coupable-du-meurtre-de-la-legende-du-rap-tupac-shakur-trente-ans-apres-sa-mort_8171537.html": "2026-09-01T06:36:19.642263+00:00",
-  "https://www.franceinfo.fr/monde/une-campagne-de-pro-excision-fait-polemique-au-mali_8170658.html": "2026-09-01T06:36:19.642263+00:00",
   "https://www.franceinfo.fr/societe/education/faut-il-enseigner-la-lecture-aux-enfants-des-la-maternelle-pour-pallier-les-difficultes-en-francais_8163893.html": "2026-09-01T06:36:19.642263+00:00",
   "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-absolument-pas-credible-juridiquement-le-rn-peut-il-vraiment-interdire-le-port-du-voile-dans-l-espace-public_8170601.html": "2026-09-01T06:36:19.642263+00:00",
   "https://www.franceinfo.fr/societe/education/violences-dans-le-periscolaire/je-ne-les-mets-au-periscolaire-que-le-strict-minimum-pour-la-rentree-la-confiance-des-familles-fragilisee_8166218.html": "2026-09-01T06:36:19.642263+00:00",
@@ -31,15 +26,60 @@
   "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/a-los-angeles-d-anciens-membres-de-gangs-jouent-les-mediateurs-aupres-des-sans-abri_8144828.html": "2026-09-01T09:31:18.638231+00:00",
   "https://www.franceinfo.fr/monde/royaume-uni/les-problemes-de-comportement-ont-considerablement-diminue-en-angleterre-l-utilisation-du-portable-au-lycee-etait-deja-limitee_8171705.html": "2026-09-01T09:31:18.638231+00:00",
   "https://www.franceinfo.fr/replay-radio/ca-dit-quoi/le-rn-veut-interdire-le-voile-arrets-maladie-limites-et-preretraite-pour-messi-ca-dit-quoi-ce-1er-septembre_8161412.html": "2026-09-01T09:31:18.638231+00:00",
-  "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/les-seropositifs-ne-sont-pas-malades-entre-discriminations-et-idees-recues-le-difficile-combat-contre-la-serophobie_8144933.html": "2026-09-01T09:31:18.638231+00:00"
+  "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/les-seropositifs-ne-sont-pas-malades-entre-discriminations-et-idees-recues-le-difficile-combat-contre-la-serophobie_8144933.html": "2026-09-01T09:31:18.638231+00:00",
+  "https://www.franceinfo.fr/societe/education/scolarite/guide-parents/lycee/ici-le-portable-est-interdit-pour-la-deuxieme-annee_8172116.html": "2026-09-01T12:36:05.088896+00:00",
+  "https://www.franceinfo.fr/societe/education/interdiction-du-portable-au-lycee-personnels-et-eleves-font-leurs-premiers-retours-sur-cette-nouvelle-regle-dont-l-application-varie_8172110.html": "2026-09-01T12:36:05.088896+00:00",
+  "https://www.franceinfo.fr/societe/education/scolarite/guide-parents/lycee/avant-15-les-reseaux-sociaux-ne-sont-pas-bons_8172107.html": "2026-09-01T12:36:05.088896+00:00",
+  "https://www.franceinfo.fr/france/rentree/on-essaie-de-reprendre-le-cours-normal-de-la-vie-une-rentree-particuliere-a-biscarrosse-encore-marquee-par-les-incendies-estivaux_8172083.html": "2026-09-01T12:36:05.088896+00:00",
+  "https://www.franceinfo.fr/societe/education/reportage-un-nouveau-monde-a-troyes-des-adolescents-decouvrent-la-vie-de-lycee_8171786.html": "2026-09-01T12:36:05.088896+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "11:53 vidéo 11 minutes 53 Rentrée scolaire : \"Il va falloir montrer qu'on est autre chose qu'une part de marché électoral\", prévient Sophie Vénétitay, professeure et secrétaire générale du SNES-FSU Invitée de \"La Matinale\" mardi 1er septembre, l'enseignante et syndicaliste revient sur les enjeux de cette rentrée et réagit aux propositions des candidats à la présidentielle pour rehausser le salaire des professeurs. \"Je n'oublie pas que pendant 10 ans, […], les seules fois où les politiques ont été à nos côtés, c'était quand un professeur se faisait assassiner\", pointe-t-elle, évoquant les \"attentes très fortes\" de ses collègues.",
+   "title": "1:36 vidéo 1 minute 36 Ici, le portable est interdit pour la deuxième année Le smartphone interdit au lycée, c'est l'un des gros changement de cette rentrée. Pourtant, dans ce lycée d'Aubergenville, en région parisienne, l'interdiction est déjà en place depuis un an. Comment ça s'est passé pour les élèves ? On leur a posé la question...",
+   "link": "https://www.franceinfo.fr/societe/education/scolarite/guide-parents/lycee/ici-le-portable-est-interdit-pour-la-deuxieme-annee_8172116.html",
+   "summary": "Ici, le portable est interdit pour la deuxième année",
+   "image": "https://www.franceinfo.fr/pictures/5R3Gi-jHM0yh7RxdXUs6b_McPjI/0x0:1080x1920/fit-in/432x297/filters:upscale():fill(blur):format(jpg)/2026/09/01/6a96bc509d876080605225.jpg",
+   "date": null,
+   "pubdate": "2026-09-01T12:36:05.088896+00:00"
+  },
+  {
+   "title": ": Vidéo 1:49 vidéo 1 minute 49 : Vidéo Interdiction du portable au lycée : pour la rentrée, une nouvelle règle mais plusieurs façons de l'appliquer",
+   "link": "https://www.franceinfo.fr/societe/education/interdiction-du-portable-au-lycee-personnels-et-eleves-font-leurs-premiers-retours-sur-cette-nouvelle-regle-dont-l-application-varie_8172110.html",
+   "summary": "Interdiction du portable au lycée : pour la rentrée, une nouvelle règle mais plusieurs façons de l'appliquer",
+   "image": "https://www.franceinfo.fr/pictures/RyW_mC-qyM_hzuAOqOmvDueCpAg/0x46:1143x689/432x243/filters:format(jpg)/2026/09/01/6a96bb316bc22626832531.jpg",
+   "date": null,
+   "pubdate": "2026-09-01T12:36:05.088896+00:00"
+  },
+  {
+   "title": "1:35 vidéo 1 minute 35 \"Avant 15, les réseaux sociaux ne sont pas bons\"",
+   "link": "https://www.franceinfo.fr/societe/education/scolarite/guide-parents/lycee/avant-15-les-reseaux-sociaux-ne-sont-pas-bons_8172107.html",
+   "summary": "\"Avant 15, les réseaux sociaux ne sont pas bons\"",
+   "image": "https://www.franceinfo.fr/pictures/KZlGi0ou0gz4tAcCBaMPsggbOd4/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/01/6a96b80445e50676865799.jpg",
+   "date": null,
+   "pubdate": "2026-09-01T12:36:05.088896+00:00"
+  },
+  {
+   "title": ": Vidéo 1:48 vidéo 1 minute 48 : Vidéo \"On essaie de reprendre le cours normal de la vie\" : une rentrée scolaire particulière à Biscarrosse, encore marquée par l'incendie dans les Landes",
+   "link": "https://www.franceinfo.fr/france/rentree/on-essaie-de-reprendre-le-cours-normal-de-la-vie-une-rentree-particuliere-a-biscarrosse-encore-marquee-par-les-incendies-estivaux_8172083.html",
+   "summary": "\"On essaie de reprendre le cours normal de la vie\" : une rentrée scolaire particulière à Biscarrosse, encore marquée par l'incendie dans les Landes",
+   "image": "https://www.franceinfo.fr/pictures/jjA0JUsXUh8nfkxALRRpQWG0vVw/0x12:1361x778/432x243/filters:format(jpg)/2026/09/01/6a96b68056c1b576799291.jpg",
+   "date": null,
+   "pubdate": "2026-09-01T12:36:05.088896+00:00"
+  },
+  {
+   "title": ": Reportage : Reportage \"Un nouveau monde\" : à Troyes, des adolescents découvrent la vie de lycée",
+   "link": "https://www.franceinfo.fr/societe/education/reportage-un-nouveau-monde-a-troyes-des-adolescents-decouvrent-la-vie-de-lycee_8171786.html",
+   "summary": "\"Un nouveau monde\" : à Troyes, des adolescents découvrent la vie de lycée",
+   "image": "https://www.franceinfo.fr/pictures/NgxxE0o3vGw2crBCRET5d5Y28x0/0x0:1920x1080/432x243/filters:format(jpg)/2026/09/01/6a9697200e652851743552.png",
+   "date": null,
+   "pubdate": "2026-09-01T12:36:05.088896+00:00"
+  },
+  {
+   "title": "11:53 vidéo 11 minutes 53 Rentrée scolaire : \"Il va falloir montrer qu'on est autre chose qu'une part de marché électoral\", prévient Sophie Vénétitay, professeure et secrétaire générale du SNES-FSU",
    "link": "https://www.franceinfo.fr/societe/education/rentree-scolaire-il-va-falloir-montrer-qu-on-est-autre-chose-qu-une-part-de-marche-electoral-previent-sophie-venetitay-professeure-et-secretaire-generale-du-snes-fsu_8171855.html",
    "summary": "Rentrée scolaire : \"Il va falloir montrer qu'on est autre chose qu'une part de marché électoral\", prévient Sophie Vénétitay, professeure et secrétaire générale du SNES-FSU",
-   "image": "https://www.franceinfo.fr/pictures/3mRzhdC_qlpOCEl-WtVUJikkV7s/98x0:1132x711/432x297/filters:format(jpg)/2026/09/01/6a9697c1e4a8b871914587.jpg",
+   "image": "https://www.franceinfo.fr/pictures/F4ekOemJ7sTuQYIgDNeWBovxVVk/0x9:1231x701/432x243/filters:format(jpg)/2026/09/01/6a9697c1e4a8b871914587.jpg",
    "date": null,
    "pubdate": "2026-09-01T09:31:18.638231+00:00"
   },
@@ -76,7 +116,7 @@
    "pubdate": "2026-09-01T09:31:18.638231+00:00"
   },
   {
-   "title": "4:50 audio 4 minutes 50 \"Les séropositifs ne sont pas malades\" : entre discriminations et idées reçues, le difficile combat contre la sérophobie",
+   "title": "4:50 audio 4 minutes 50 \"Les séropositifs ne sont pas malades\" : entre discriminations et idées reçues, le difficile combat contre la sérophobie Romain, 37 ans, et Bénédicte, 60 ans, racontent les insultes, les agressions et les discriminations qu’ils ont subies en raison de leur séropositivité. Tous deux dénoncent la persistance des préjugés sur le VIH, alors qu’un traitement efficace empêche la transmission du virus.",
    "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/les-seropositifs-ne-sont-pas-malades-entre-discriminations-et-idees-recues-le-difficile-combat-contre-la-serophobie_8144933.html",
    "summary": "\"Les séropositifs ne sont pas malades\" : entre discriminations et idées reçues, le difficile combat contre la sérophobie",
    "image": "https://www.franceinfo.fr/pictures/RagBv-9GqXYffdRz2UHd9LqO6UQ/0x0:1920x1080/432x243/filters:format(jpg)/2026/09/01/6a967ff451b47521514806.png",
@@ -84,15 +124,15 @@
    "pubdate": "2026-09-01T09:31:18.638231+00:00"
   },
   {
-   "title": "\"Le droit français ne doit pas stigmatiser une religion\", réagit le grand imam de Bordeaux, après la proposition du RN de sanctionner le voile",
+   "title": "\"Le droit français ne doit pas stigmatiser une religion\", réagit le grand imam de Bordeaux, après la proposition du RN de sanctionner le voile \"On va passer d'une démocratie à une ochlocratie, c'est-à-dire le gouvernement par la foule\", poursuit Tareq Oubrou, mardi sur franceinfo, alors que le Rassemblement national veut organiser un référendum sur le port du voile, en cas de victoire à la présidentielle 2027.",
    "link": "https://www.franceinfo.fr/societe/religion/le-droit-francais-ne-doit-pas-stigmatiser-une-religion-reagit-le-grand-imam-de-bordeaux-apres-la-proposition-du-rn-de-sanctionner-le-voile_8171702.html",
-   "summary": "",
+   "summary": "\"Le droit français ne doit pas stigmatiser une religion\", réagit le grand imam de Bordeaux, après la proposition du RN de sanctionner le voile",
    "image": "https://www.franceinfo.fr/pictures/u8quvAdMMLeODGi4-tx7F7XBW1M/0x292:7300x4395/432x243/filters:format(jpg)/2023/12/30/000-339d7zz-658fc87f89fb8529985435.jpg",
    "date": null,
    "pubdate": "2026-09-01T06:36:19.642263+00:00"
   },
   {
-   "title": ": Reportage : Reportage \"C'est une atteinte à la liberté !\" : les femmes qui portent un voile sous le choc, après la proposition d'un référendum par le RN",
+   "title": ": Reportage \"C'est une atteinte à la liberté !\" : les femmes qui portent un voile sous le choc, après la proposition d'un référendum par le RN En cas de victoire à la présidentielle 2027, le Rassemblement national veut consulter les Français sur l'interdiction du port du voile. Dans un centre commercial de la région parisienne, les principales concernées s'interrogent sur l'inégalité de traitement entre les différentes religions.",
    "link": "https://www.franceinfo.fr/societe/religion/reportage-c-est-une-atteinte-a-la-liberte-les-femmes-qui-portent-un-voile-sous-le-choc-apres-la-proposition-d-un-referendum-par-le-rn_8171582.html",
    "summary": "\"C'est une atteinte à la liberté !\" : les femmes qui portent un voile sous le choc, après la proposition d'un référendum par le RN",
    "image": "https://www.franceinfo.fr/pictures/XaxEDRN4vupb3ZJ3HVn0SrAGYjc/0x5:1387x786/432x243/filters:format(jpg)/2026/09/01/6a96611540876127307631.jpg",
@@ -100,18 +140,10 @@
    "pubdate": "2026-09-01T06:36:19.642263+00:00"
   },
   {
-   "title": "Un ancien membre d'un gang de Los Angeles reconnu coupable du meurtre de la légende du rap Tupac Shakur, trente ans après sa mort",
+   "title": "Un ancien membre d'un gang de Los Angeles reconnu coupable du meurtre de la légende du rap Tupac Shakur, trente ans après sa mort Le prononcé de la peine doit avoir lieu le 13 octobre. Duane Davis a déclaré dans la salle d'audience vouloir faire appel de la décision.",
    "link": "https://www.franceinfo.fr/culture/musique/rap/un-ancien-membre-d-un-gang-de-los-angeles-reconnu-coupable-du-meurtre-de-la-legende-du-rap-tupac-shakur-trente-ans-apres-sa-mort_8171537.html",
-   "summary": "",
+   "summary": "Un ancien membre d'un gang de Los Angeles reconnu coupable du meurtre de la légende du rap Tupac Shakur, trente ans après sa mort",
    "image": "https://www.franceinfo.fr/pictures/rZ6XDIDRk8D_Q8Xnyc5TqLZsMoQ/0x128:4479x2648/432x243/filters:format(jpg)/2026/09/01/6a965190d8941966999753.jpg",
-   "date": null,
-   "pubdate": "2026-09-01T06:36:19.642263+00:00"
-  },
-  {
-   "title": "1:25 vidéo 1 minute 25 Une campagne de pro-excision fait polémique au Mali",
-   "link": "https://www.franceinfo.fr/monde/une-campagne-de-pro-excision-fait-polemique-au-mali_8170658.html",
-   "summary": "Une campagne de pro-excision fait polémique au Mali",
-   "image": "https://www.franceinfo.fr/pictures/GdN-Bqgz6sWXb4vBMvxx8nXN4Rk/0x0:900x1600/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/08/31/6a95631fb1ec5499984884.jpg",
    "date": null,
    "pubdate": "2026-09-01T06:36:19.642263+00:00"
   },
@@ -236,44 +268,12 @@
    "pubdate": "2026-08-31T15:24:51.780646+00:00"
   },
   {
-   "title": "Piratage de l'Education nationale : la rentrée se fera en mode dégradé dans les académies de Nantes et Toulouse Touchée cet été par une cyberattaque, l'Éducation nationale est parvenue à un retour à la normale dans quasiment toutes les académies. Mais deux académies subissent toujours les conséquences de ce piratage et sont obligées de s'adapter pour la rentrée.",
-   "link": "https://www.franceinfo.fr/france/rentree/piratage-de-l-education-nationale-la-rentree-se-fera-en-mode-degrade-dans-les-academies-de-nantes-et-toulouse_8170589.html",
-   "summary": "Piratage de l'Education nationale : la rentrée se fera en mode dégradé dans les académies de Nantes et Toulouse",
-   "image": "https://www.franceinfo.fr/pictures/dXslPxiFCRptKtIyUYzbgLOop2A/0x389:7479x4596/432x243/filters:format(jpg)/2026/08/31/6a955a37d3bea617499869.jpg",
-   "date": null,
-   "pubdate": "2026-08-31T15:24:51.780646+00:00"
-  },
-  {
-   "title": "Un service rattaché au Premier ministre recommande de revaloriser le salaire des professeurs Le Haut-commissariat à la stratégie et au plan publie un rapport, lundi, dans lequel il formule 11 recommandations pour améliorer le niveau des élèves français.",
-   "link": "https://www.franceinfo.fr/societe/education/un-service-rattache-au-premier-ministre-recommande-de-revaloriser-le-salaire-des-professeurs_8170760.html",
-   "summary": "Un service rattaché au Premier ministre recommande de revaloriser le salaire des professeurs",
-   "image": "https://www.franceinfo.fr/pictures/D6IyGMcNvWHZftriDOvmo2Y-GWo/0x53:1024x629/432x243/filters:format(jpg)/2026/08/31/6a95789f2dfb8140231873.jpg",
-   "date": null,
-   "pubdate": "2026-08-31T15:24:51.780646+00:00"
-  },
-  {
    "title": "5:00 article 5 minutes \"Tout le monde les écoutait... ou les subissait\" : peut-on encore parler de \"hits de l'été\", comme avant les réseaux sociaux ?",
    "link": "https://www.franceinfo.fr/culture/musique/tout-le-monde-les-ecoutait-ou-les-subissait-peut-on-encore-parler-de-hits-de-l-ete-comme-avant-les-reseaux-sociaux_8155445.html",
    "summary": "\"Tout le monde les écoutait... ou les subissait\" : peut-on encore parler de \"hits de l'été\", comme avant les réseaux sociaux ?",
    "image": "https://www.franceinfo.fr/pictures/2vTdJYIs0KgfpwSgugbLNckEUvQ/584x0:3416x2832/100x100/filters:format(jpg)/2026/08/21/6a88b864c09fe968349292.jpg",
    "date": null,
    "pubdate": "2026-08-31T12:25:04.910829+00:00"
-  },
-  {
-   "title": "Marseillaise et lever de drapeau tricolore dans les écoles niçoises : le ministre de l'Éducation nationale retoque la proposition d'Éric Ciotti Le ministre de l'Éducation nationale Edouard Geffray a rejeté, ce lundi 31 août 2026, la proposition d'Éric Ciotti formulée en fin de semaine dernière. Le maire de Nice avait annoncé l'installation de mâts dans toutes les écoles niçoises afin d'y organiser chaque semaine une cérémonie de lever de drapeau français sur fond de Marseillaise.",
-   "link": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/nice/marseillaise-et-lever-de-drapeau-tricolore-dans-les-ecoles-nicoises-le-ministre-de-l-education-nationale-retoque-la-proposition-d-eric-ciotti-3409082.html",
-   "summary": "Marseillaise et lever de drapeau tricolore dans les écoles niçoises : le ministre de l'Éducation nationale retoque la proposition d'Éric Ciotti",
-   "image": "https://www.franceinfo.fr/pictures/HjC8qo3EceBjTvKA4R1dfAvRqUc/432x243/filters:format(jpg)/2026/08/31/6a95995213ece416253599.jpg",
-   "date": "2026-08-31T11:00:00+00:00",
-   "pubdate": "2026-08-31T11:00:00+00:00"
-  },
-  {
-   "title": "Des investigations en cours pour savoir si une arme découverte dans le lac d'Annecy est liée à la tuerie de Chevaline Le 5 septembre 2012, Saad al-Hilli, un homme britannique d'origine irakienne de 50 ans, son épouse de 47 ans et sa belle-mère de 74 ans avaient été retrouvés morts dans leur voiture, après avoir reçu plusieurs balles dans la tête, sur une route de campagne.",
-   "link": "https://www.franceinfo.fr/faits-divers/meurtres/tuerie-de-chevaline/des-investigations-en-cours-pour-savoir-si-une-arme-decouverte-dans-le-lac-d-annecy-pourrait-etre-liee-a-la-tuerie-de-chevaline_8171342.html",
-   "summary": "Des investigations en cours pour savoir si une arme découverte dans le lac d'Annecy est liée à la tuerie de Chevaline",
-   "image": "https://www.franceinfo.fr/pictures/AOVhcpMCkPcxscLBEqxPrVnDgnU/0x106:1024x682/432x243/filters:format(jpg)/2026/09/01/6a96014a137fa004105020.jpg",
-   "date": "2012-09-05T11:00:00+00:00",
-   "pubdate": "2012-09-05T11:00:00+00:00"
   }
  ]
 }
