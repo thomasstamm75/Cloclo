@@ -1,14 +1,8 @@
 {
- "etag": "\"af0bdffb0a3c5205704244e1251492da-gzip\"",
+ "etag": "\"43177dc97334f906d08ea91b508a5e85-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/societe/education/service-national-universel/reportage-l-idee-de-servir-mon-pays-m-a-toujours-plu-pres-de-3-000-jeunes-demarrent-leur-service-national_8170262.html": "2026-08-31T09:24:36.715242+00:00",
-  "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/maintenant-il-faut-agir-estime-le-president-des-sdis-qui-demande-plus-de-moyens-pour-les-pompiers-apres-les-incendies-de-l-ete_8170397.html": "2026-08-31T09:24:36.715242+00:00",
-  "https://www.franceinfo.fr/replay-radio/le-tour-de-la-question/quelles-missions-vont-effectuer-les-3-000-jeunes-de-la-premiere-promotion-du-service-national_8168462.html": "2026-08-31T09:24:36.715242+00:00",
-  "https://www.franceinfo.fr/societe/religion/le-rn-propose-de-sanctionner-le-port-du-voile-valerie-pecresse-denonce-une-mesure-demagogique-et-impraticable_8170352.html": "2026-08-31T09:24:36.715242+00:00",
-  "https://www.franceinfo.fr/france/rentree/des-parents-d-eleves-vont-organiser-une-marche-de-biarritz-a-bayonne-pour-sensibiliser-face-aux-violences-faites-aux-enfants_8170343.html": "2026-08-31T09:24:36.715242+00:00",
-  "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/cyberattaque-un-proviseur-membre-du-snpden-appelle-le-ministere-de-l-education-a-agir-rapidement-apres-une-rentree-en-mode-degrade_8170325.html": "2026-08-31T09:24:36.715242+00:00",
-  "https://www.franceinfo.fr/france/rentree/rentree-2026-les-absences-de-professeurs-au-college-et-au-lycee-seront-marginales-assure-le-ministre-de-l-education-nationale_8170304.html": "2026-08-31T09:24:36.715242+00:00",
   "https://www.franceinfo.fr/elections/presidentielle/le-rn-prevoit-un-referendum-sur-l-interdiction-du-port-du-voile-en-cas-de-victoire-a-la-presidentielle-2027_8170688.html": "2026-08-31T12:25:04.910829+00:00",
   "https://www.franceinfo.fr/elections/presidentielle/la-fsu-snuipp-refuse-toute-contrepartie-a-la-revalorisation-des-salaires-des-enseignants-proposee-par-des-candidats-a-la-presidentielle-2027_8170460.html": "2026-08-31T12:25:04.910829+00:00",
   "https://www.franceinfo.fr/culture/musique/tout-le-monde-les-ecoutait-ou-les-subissait-peut-on-encore-parler-de-hits-de-l-ete-comme-avant-les-reseaux-sociaux_8155445.html": "2026-08-31T12:25:04.910829+00:00",
@@ -26,19 +20,81 @@
   "https://www.franceinfo.fr/societe/nos-jours-heureux/": "2026-08-31T18:24:49.830768+00:00",
   "https://www.franceinfo.fr/societe/euthanasie/comprendre-les-debats-sur-la-fin-de-vie/": "2026-08-31T18:24:49.830768+00:00",
   "https://www.franceinfo.fr/france/rentree/beaucoup-d-enfants-vont-faire-leur-rentree-sans-aesh-a-leurs-cotes-deplore-un-responsable-syndical-de-l-academie-de-nantes_8171291.html": "2026-08-31T21:25:17.704742+00:00",
-  "https://www.franceinfo.fr/societe/armee-securite-defense/service-national-discipline-vie-en-caserne-les-premiers-jours-des-jeunes-recrues_8171231.html": "2026-08-31T21:25:17.704742+00:00",
   "https://www.franceinfo.fr/societe/nos-jours-heureux/nos-jours-heureux-baignade-salee-deluge-et-sentiment-de-liberte-a-deauville-la-journee-des-oublies-des-vacances-vire-a-la-formidable-odyssee_8155004.html": "2026-08-31T21:25:17.704742+00:00",
   "https://www.franceinfo.fr/faits-divers/meurtres/tuerie-de-chevaline/des-investigations-en-cours-pour-savoir-si-une-arme-decouverte-dans-le-lac-d-annecy-pourrait-etre-liee-a-la-tuerie-de-chevaline_8171342.html": "2026-09-01T00:39:51.402136+00:00",
   "https://www.franceinfo.fr/internet/amazon/l-enseigne-amazon-poursuivie-aux-etats-unis-pour-avoir-surfacture-les-prix-de-sa-publicite-en-ligne_8171327.html": "2026-09-01T00:39:51.402136+00:00",
-  "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/port-du-voile-le-rassemblement-national-promet-un-referendum-sur-la-lutte-contre-l-ideologie-islamiste_8171321.html": "2026-09-01T00:39:51.402136+00:00"
+  "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/port-du-voile-le-rassemblement-national-promet-un-referendum-sur-la-lutte-contre-l-ideologie-islamiste_8171321.html": "2026-09-01T00:39:51.402136+00:00",
+  "https://www.franceinfo.fr/societe/religion/le-droit-francais-ne-doit-pas-stigmatiser-une-religion-reagit-le-grand-imam-de-bordeaux-apres-la-proposition-du-rn-de-sanctionner-le-voile_8171702.html": "2026-09-01T06:36:19.642263+00:00",
+  "https://www.franceinfo.fr/societe/religion/reportage-c-est-une-atteinte-a-la-liberte-les-femmes-qui-portent-un-voile-sous-le-choc-apres-la-proposition-d-un-referendum-par-le-rn_8171582.html": "2026-09-01T06:36:19.642263+00:00",
+  "https://www.franceinfo.fr/culture/musique/rap/un-ancien-membre-d-un-gang-de-los-angeles-reconnu-coupable-du-meurtre-de-la-legende-du-rap-tupac-shakur-trente-ans-apres-sa-mort_8171537.html": "2026-09-01T06:36:19.642263+00:00",
+  "https://www.franceinfo.fr/monde/une-campagne-de-pro-excision-fait-polemique-au-mali_8170658.html": "2026-09-01T06:36:19.642263+00:00",
+  "https://www.franceinfo.fr/societe/education/faut-il-enseigner-la-lecture-aux-enfants-des-la-maternelle-pour-pallier-les-difficultes-en-francais_8163893.html": "2026-09-01T06:36:19.642263+00:00",
+  "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-absolument-pas-credible-juridiquement-le-rn-peut-il-vraiment-interdire-le-port-du-voile-dans-l-espace-public_8170601.html": "2026-09-01T06:36:19.642263+00:00",
+  "https://www.franceinfo.fr/societe/education/violences-dans-le-periscolaire/je-ne-les-mets-au-periscolaire-que-le-strict-minimum-pour-la-rentree-la-confiance-des-familles-fragilisee_8166218.html": "2026-09-01T06:36:19.642263+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "Des investigations en cours pour savoir si une arme découverte dans le lac d'Annecy pourrait être liée à la tuerie de Chevaline Un pistolet Luger a été remonté à la surface par des touristes britanniques qui se baignaient dans le lac d'Annecy.",
+   "title": "\"Le droit français ne doit pas stigmatiser une religion\", réagit le grand imam de Bordeaux, après la proposition du RN de sanctionner le voile \"On va passer d'une démocratie à une ochlocratie, c'est-à-dire le gouvernement par la foule\", poursuit Tareq Oubrou, mardi sur franceinfo, alors que le Rassemblement national veut organiser un référendum sur le port du voile, en cas de victoire à la présidentielle 2027.",
+   "link": "https://www.franceinfo.fr/societe/religion/le-droit-francais-ne-doit-pas-stigmatiser-une-religion-reagit-le-grand-imam-de-bordeaux-apres-la-proposition-du-rn-de-sanctionner-le-voile_8171702.html",
+   "summary": "\"Le droit français ne doit pas stigmatiser une religion\", réagit le grand imam de Bordeaux, après la proposition du RN de sanctionner le voile",
+   "image": "https://www.franceinfo.fr/pictures/hjahSE6iy3Wl2h-RWhNynQ01G9s/108x0:7195x4872/432x297/filters:format(jpg)/2023/12/30/000-339d7zz-658fc87f89fb8529985435.jpg",
+   "date": null,
+   "pubdate": "2026-09-01T06:36:19.642263+00:00"
+  },
+  {
+   "title": ": Reportage : Reportage \"C'est une atteinte à la liberté !\" : les femmes qui portent un voile sous le choc, après la proposition d'un référendum par le RN",
+   "link": "https://www.franceinfo.fr/societe/religion/reportage-c-est-une-atteinte-a-la-liberte-les-femmes-qui-portent-un-voile-sous-le-choc-apres-la-proposition-d-un-referendum-par-le-rn_8171582.html",
+   "summary": "\"C'est une atteinte à la liberté !\" : les femmes qui portent un voile sous le choc, après la proposition d'un référendum par le RN",
+   "image": "https://www.franceinfo.fr/pictures/XaxEDRN4vupb3ZJ3HVn0SrAGYjc/0x5:1387x786/432x243/filters:format(jpg)/2026/09/01/6a96611540876127307631.jpg",
+   "date": null,
+   "pubdate": "2026-09-01T06:36:19.642263+00:00"
+  },
+  {
+   "title": "Un ancien membre d'un gang de Los Angeles reconnu coupable du meurtre de la légende du rap Tupac Shakur, trente ans après sa mort",
+   "link": "https://www.franceinfo.fr/culture/musique/rap/un-ancien-membre-d-un-gang-de-los-angeles-reconnu-coupable-du-meurtre-de-la-legende-du-rap-tupac-shakur-trente-ans-apres-sa-mort_8171537.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/rZ6XDIDRk8D_Q8Xnyc5TqLZsMoQ/0x128:4479x2648/432x243/filters:format(jpg)/2026/09/01/6a965190d8941966999753.jpg",
+   "date": null,
+   "pubdate": "2026-09-01T06:36:19.642263+00:00"
+  },
+  {
+   "title": "1:25 vidéo 1 minute 25 Une campagne de pro-excision fait polémique au Mali",
+   "link": "https://www.franceinfo.fr/monde/une-campagne-de-pro-excision-fait-polemique-au-mali_8170658.html",
+   "summary": "Une campagne de pro-excision fait polémique au Mali",
+   "image": "https://www.franceinfo.fr/pictures/GdN-Bqgz6sWXb4vBMvxx8nXN4Rk/0x0:900x1600/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/08/31/6a95631fb1ec5499984884.jpg",
+   "date": null,
+   "pubdate": "2026-09-01T06:36:19.642263+00:00"
+  },
+  {
+   "title": "Faut-il enseigner la lecture aux enfants dès la maternelle pour pallier les difficultés en français ?",
+   "link": "https://www.franceinfo.fr/societe/education/faut-il-enseigner-la-lecture-aux-enfants-des-la-maternelle-pour-pallier-les-difficultes-en-francais_8163893.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/G43xHdMGakePb2L9P2BjszbuNks/0x39:1024x615/432x243/filters:format(jpg)/2026/08/26/6a8f16211dec7338810385.jpg",
+   "date": null,
+   "pubdate": "2026-09-01T06:36:19.642263+00:00"
+  },
+  {
+   "title": ": Vrai ou faux : Vrai ou faux \"Absolument pas crédible juridiquement\" : le RN peut-il vraiment interdire le port du voile dans l'espace public ?",
+   "link": "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-absolument-pas-credible-juridiquement-le-rn-peut-il-vraiment-interdire-le-port-du-voile-dans-l-espace-public_8170601.html",
+   "summary": "\"Absolument pas crédible juridiquement\" : le RN peut-il vraiment interdire le port du voile dans l'espace public ?",
+   "image": "https://www.franceinfo.fr/pictures/HiQDMdj1yAdviiJ1dmOKtNtCyIw/0x73:1024x649/432x243/filters:format(jpg)/2026/08/31/6a95a0c8a3c4d481703730.jpg",
+   "date": null,
+   "pubdate": "2026-09-01T06:36:19.642263+00:00"
+  },
+  {
+   "title": "\"Je ne les mets au périscolaire que le strict minimum\" : pour la rentrée, la confiance des familles fragilisée",
+   "link": "https://www.franceinfo.fr/societe/education/violences-dans-le-periscolaire/je-ne-les-mets-au-periscolaire-que-le-strict-minimum-pour-la-rentree-la-confiance-des-familles-fragilisee_8166218.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/LBtA03k2Bwy1_FZRrez75VgSADw/0x32:1024x608/432x243/filters:format(jpg)/2026/08/28/6a91a0cbd545f355076588.jpg",
+   "date": null,
+   "pubdate": "2026-09-01T06:36:19.642263+00:00"
+  },
+  {
+   "title": "Des investigations en cours pour savoir si une arme découverte dans le lac d'Annecy pourrait être liée à la tuerie de Chevaline",
    "link": "https://www.franceinfo.fr/faits-divers/meurtres/tuerie-de-chevaline/des-investigations-en-cours-pour-savoir-si-une-arme-decouverte-dans-le-lac-d-annecy-pourrait-etre-liee-a-la-tuerie-de-chevaline_8171342.html",
-   "summary": "Des investigations en cours pour savoir si une arme découverte dans le lac d'Annecy pourrait être liée à la tuerie de Chevaline",
-   "image": "https://www.franceinfo.fr/pictures/aFijf-KIa833MrD_oufqPUlxEuM/16x0:1008x682/432x297/filters:format(jpg)/2026/09/01/6a96014a137fa004105020.jpg",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/mDX5p8lghJnPiZtTz7yODk9D21E/0x53:1024x629/432x243/filters:format(jpg)/2026/09/01/6a96014a137fa004105020.jpg",
    "date": null,
    "pubdate": "2026-09-01T00:39:51.402136+00:00"
   },
@@ -59,22 +115,6 @@
    "pubdate": "2026-09-01T00:39:51.402136+00:00"
   },
   {
-   "title": "\"Beaucoup d'enfants vont faire leur rentrée sans AESH à leurs côtés\", déplore un responsable syndical de l'académie de Nantes",
-   "link": "https://www.franceinfo.fr/france/rentree/beaucoup-d-enfants-vont-faire-leur-rentree-sans-aesh-a-leurs-cotes-deplore-un-responsable-syndical-de-l-academie-de-nantes_8171291.html",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/la5YVHBXxYNuju-xcfyIJiv3hAY/0x116:3000x1803/432x243/filters:format(jpg)/2026/08/31/6a95e4bd29f08049224920.jpg",
-   "date": null,
-   "pubdate": "2026-08-31T21:25:17.704742+00:00"
-  },
-  {
-   "title": "1:55 vidéo 1 minute 55 Service national : discipline, vie en caserne… les premiers jours des jeunes recrues",
-   "link": "https://www.franceinfo.fr/societe/armee-securite-defense/service-national-discipline-vie-en-caserne-les-premiers-jours-des-jeunes-recrues_8171231.html",
-   "summary": "Service national : discipline, vie en caserne… les premiers jours des jeunes recrues",
-   "image": "https://www.franceinfo.fr/pictures/DT-VVL7DAyHfF_9GtdJY4-e5owg/0x14:815x472/432x243/filters:format(jpg)/2026/08/31/6a95cfa77a4a9190279701.jpg",
-   "date": null,
-   "pubdate": "2026-08-31T21:25:17.704742+00:00"
-  },
-  {
    "title": "8:00 article 8 minutes NOS JOURS HEUREUX. Baignade salée, déluge et \"sentiment de liberté\" : à Deauville, la journée des oubliés des vacances vire à la formidable odyssée",
    "link": "https://www.franceinfo.fr/societe/nos-jours-heureux/nos-jours-heureux-baignade-salee-deluge-et-sentiment-de-liberte-a-deauville-la-journee-des-oublies-des-vacances-vire-a-la-formidable-odyssee_8155004.html",
    "summary": "NOS JOURS HEUREUX. Baignade salée, déluge et \"sentiment de liberté\" : à Deauville, la journée des oubliés des vacances vire à la formidable odyssée",
@@ -83,44 +123,12 @@
    "pubdate": "2026-08-31T21:25:17.704742+00:00"
   },
   {
-   "title": "Un homme impliqué dans l'assassinat de Samuel Paty de nouveau condamné",
-   "link": "https://www.franceinfo.fr/faits-divers/terrorisme/enseignant-decapite-dans-les-yvelines/un-homme-implique-dans-l-assassinat-de-samuel-paty-de-nouveau-condamne_8171168.html",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/DqdpGYr0vtBgtkSjJIfjKX8w76Y/0x52:1024x628/432x243/filters:format(jpg)/2026/08/31/6a95bf7b755e6144548693.jpg",
+   "title": "\"Beaucoup d'enfants vont faire leur rentrée sans AESH à leurs côtés\", déplore un responsable syndical de l'académie de Nantes Une majorité d'enseignants n'a pas accès à sa boîte mail à cause de la cyberattaque survenue cet été, ce qui complique notamment l'appel des élèves, regrette Joeffrey Renaud, enseignant et représentant du Snes-FSU, lundi sur France Inter.",
+   "link": "https://www.franceinfo.fr/france/rentree/beaucoup-d-enfants-vont-faire-leur-rentree-sans-aesh-a-leurs-cotes-deplore-un-responsable-syndical-de-l-academie-de-nantes_8171291.html",
+   "summary": "\"Beaucoup d'enfants vont faire leur rentrée sans AESH à leurs côtés\", déplore un responsable syndical de l'académie de Nantes",
+   "image": "https://www.franceinfo.fr/pictures/la5YVHBXxYNuju-xcfyIJiv3hAY/0x116:3000x1803/432x243/filters:format(jpg)/2026/08/31/6a95e4bd29f08049224920.jpg",
    "date": null,
-   "pubdate": "2026-08-31T18:24:49.830768+00:00"
-  },
-  {
-   "title": "Un animateur du centre de loisirs de Tarnos, dans les Landes, écarté pour des faits \"pas compatibles avec la profession\"",
-   "link": "https://www.franceinfo.fr/societe/harcelement-sexuel/un-animateur-du-centre-de-loisirs-de-tarnos-dans-les-landes-ecarte-pour-des-faits-pas-compatibles-avec-la-profession_8171117.html",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/HJhX6j7awALLfs1CJYNwUm6kAYI/0x207:2048x1359/432x243/filters:format(jpg)/2026/08/31/6a95b4dc40f5e759637406.jpg",
-   "date": null,
-   "pubdate": "2026-08-31T18:24:49.830768+00:00"
-  },
-  {
-   "title": "\"Pacs\" amical, absence en cas de deuil, habitat collectif... La députée LFI Clémence Guetté plaide pour accorder des droits à l'amitié",
-   "link": "https://www.franceinfo.fr/societe/pacs-amical-absence-en-cas-de-deuil-habitat-collectif-la-deputee-lfi-clemence-guette-plaide-pour-accorder-des-droits-a-l-amitie_8170832.html",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/RN4r2FDr3jtneNiYskbCNyXTSiA/0x0:1024x576/432x243/filters:format(jpg)/2026/08/31/6a959c5646476303977526.jpg",
-   "date": null,
-   "pubdate": "2026-08-31T18:24:49.830768+00:00"
-  },
-  {
-   "title": "Des rapporteurs de l'ONU expriment leurs \"vives préoccupations\" autour des poursuites contre l'eurodéputée Rima Hassan",
-   "link": "https://www.franceinfo.fr/societe/justice/des-rapporteurs-de-l-onu-expriment-leur-vives-preoccupations-autour-des-poursuites-contre-l-eurodeputee-rima-hassan_8171066.html",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/ye3AgZnA3jgiBHV8IbDrjRdzFSE/0x53:1024x629/432x243/filters:format(jpg)/2026/08/31/6a95ad4744742085788860.jpg",
-   "date": null,
-   "pubdate": "2026-08-31T18:24:49.830768+00:00"
-  },
-  {
-   "title": "\"Marseillaise\" et lever de drapeau tricolore dans les écoles niçoises : le ministre de l'Education nationale retoque la proposition d'Eric Ciotti",
-   "link": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/nice/marseillaise-et-lever-de-drapeau-tricolore-dans-les-ecoles-nicoises-le-ministre-de-l-education-nationale-retoque-la-proposition-d-eric-ciotti-3409082.html",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/HjC8qo3EceBjTvKA4R1dfAvRqUc/432x243/filters:format(jpg)/2026/08/31/6a95995213ece416253599.jpg",
-   "date": null,
-   "pubdate": "2026-08-31T18:24:49.830768+00:00"
+   "pubdate": "2026-08-31T21:25:17.704742+00:00"
   },
   {
    "title": "Nos jours heureux 4 contenus",
@@ -135,6 +143,46 @@
    "link": "https://www.franceinfo.fr/societe/euthanasie/comprendre-les-debats-sur-la-fin-de-vie/",
    "summary": "",
    "image": "https://www.franceinfo.fr/pictures/gZwL6mlJ39yMRDzurzn4EQx_sgw/432x297/filters:format(jpg)/2025/05/27/illustration-aide-a-mourir-68357ca797624128014806.jpg",
+   "date": null,
+   "pubdate": "2026-08-31T18:24:49.830768+00:00"
+  },
+  {
+   "title": "Un homme impliqué dans l'assassinat de Samuel Paty de nouveau condamné Assigné à résidence dans les Hauts-de-Seine sur décision de la préfecture dans l'attente de son expulsion du territoire français, il a été contrôlé vendredi sur le parking du parc d'attractions Astérix.",
+   "link": "https://www.franceinfo.fr/faits-divers/terrorisme/enseignant-decapite-dans-les-yvelines/un-homme-implique-dans-l-assassinat-de-samuel-paty-de-nouveau-condamne_8171168.html",
+   "summary": "Un homme impliqué dans l'assassinat de Samuel Paty de nouveau condamné",
+   "image": "https://www.franceinfo.fr/pictures/DqdpGYr0vtBgtkSjJIfjKX8w76Y/0x52:1024x628/432x243/filters:format(jpg)/2026/08/31/6a95bf7b755e6144548693.jpg",
+   "date": null,
+   "pubdate": "2026-08-31T18:24:49.830768+00:00"
+  },
+  {
+   "title": "Un animateur du centre de loisirs de Tarnos, dans les Landes, écarté pour des faits \"pas compatibles avec la profession\" L'animateur est soupçonné d'avoir envoyé des documents à caractère pornographique à une mineure, affirme le maire de Tarnos. La direction du centre de loisirs a lancé une procédure de licenciement à son égard.",
+   "link": "https://www.franceinfo.fr/societe/harcelement-sexuel/un-animateur-du-centre-de-loisirs-de-tarnos-dans-les-landes-ecarte-pour-des-faits-pas-compatibles-avec-la-profession_8171117.html",
+   "summary": "Un animateur du centre de loisirs de Tarnos, dans les Landes, écarté pour des faits \"pas compatibles avec la profession\"",
+   "image": "https://www.franceinfo.fr/pictures/HJhX6j7awALLfs1CJYNwUm6kAYI/0x207:2048x1359/432x243/filters:format(jpg)/2026/08/31/6a95b4dc40f5e759637406.jpg",
+   "date": null,
+   "pubdate": "2026-08-31T18:24:49.830768+00:00"
+  },
+  {
+   "title": "\"Pacs\" amical, absence en cas de deuil, habitat collectif... La députée LFI Clémence Guetté plaide pour accorder des droits à l'amitié \"Dans notre corpus juridique, tout est pensé pour le couple et pour la famille\", regrette l'élue insoumise. Elle dévoile, dans un livre intitulé \"Pour une politique de l'amitié\", les contours d'une proposition de loi pour \"reconnaître l'importance intime et sociale\" de ce lien.",
+   "link": "https://www.franceinfo.fr/societe/pacs-amical-absence-en-cas-de-deuil-habitat-collectif-la-deputee-lfi-clemence-guette-plaide-pour-accorder-des-droits-a-l-amitie_8170832.html",
+   "summary": "\"Pacs\" amical, absence en cas de deuil, habitat collectif... La députée LFI Clémence Guetté plaide pour accorder des droits à l'amitié",
+   "image": "https://www.franceinfo.fr/pictures/RN4r2FDr3jtneNiYskbCNyXTSiA/0x0:1024x576/432x243/filters:format(jpg)/2026/08/31/6a959c5646476303977526.jpg",
+   "date": null,
+   "pubdate": "2026-08-31T18:24:49.830768+00:00"
+  },
+  {
+   "title": "Des rapporteurs de l'ONU expriment leurs \"vives préoccupations\" autour des poursuites contre l'eurodéputée Rima Hassan Ces rapporteurs, mandatés par le Conseil des droits de l'homme mais qui ne s'expriment pas au nom de l'ONU, ont été saisis par Rima Hassan, qui doit être jugée en octobre à Paris pour apologie du terrorisme.",
+   "link": "https://www.franceinfo.fr/societe/justice/des-rapporteurs-de-l-onu-expriment-leur-vives-preoccupations-autour-des-poursuites-contre-l-eurodeputee-rima-hassan_8171066.html",
+   "summary": "Des rapporteurs de l'ONU expriment leurs \"vives préoccupations\" autour des poursuites contre l'eurodéputée Rima Hassan",
+   "image": "https://www.franceinfo.fr/pictures/ye3AgZnA3jgiBHV8IbDrjRdzFSE/0x53:1024x629/432x243/filters:format(jpg)/2026/08/31/6a95ad4744742085788860.jpg",
+   "date": null,
+   "pubdate": "2026-08-31T18:24:49.830768+00:00"
+  },
+  {
+   "title": "\"Marseillaise\" et lever de drapeau tricolore dans les écoles niçoises : le ministre de l'Education nationale retoque la proposition d'Eric Ciotti Edouard Geffray a rejeté, lundi, la proposition formulée en fin de semaine dernière par le maire de Nice, qui avait annoncé l'installation de mâts dans toutes les écoles niçoises afin d'y organiser chaque semaine une cérémonie de lever de drapeau français.",
+   "link": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/nice/marseillaise-et-lever-de-drapeau-tricolore-dans-les-ecoles-nicoises-le-ministre-de-l-education-nationale-retoque-la-proposition-d-eric-ciotti-3409082.html",
+   "summary": "\"Marseillaise\" et lever de drapeau tricolore dans les écoles niçoises : le ministre de l'Education nationale retoque la proposition d'Eric Ciotti",
+   "image": "https://www.franceinfo.fr/pictures/HjC8qo3EceBjTvKA4R1dfAvRqUc/432x243/filters:format(jpg)/2026/08/31/6a95995213ece416253599.jpg",
    "date": null,
    "pubdate": "2026-08-31T18:24:49.830768+00:00"
   },
@@ -215,54 +263,6 @@
    "link": "https://www.franceinfo.fr/societe/education/service-national-universel/reportage-l-idee-de-servir-mon-pays-m-a-toujours-plu-pres-de-3-000-jeunes-demarrent-leur-service-national_8170262.html",
    "summary": "\"L'idée de servir mon pays m'a toujours plu\" : près de 3 000 jeunes démarrent leur Service national",
    "image": "https://www.franceinfo.fr/pictures/Df07-4vDRoDwkYYm0Ld-bolwrVQ/0x187:2000x1312/432x243/filters:format(jpg)/2026/08/31/6a952e0f02b85976267923.jpg",
-   "date": null,
-   "pubdate": "2026-08-31T09:24:36.715242+00:00"
-  },
-  {
-   "title": "\"Maintenant, il faut agir\", estime le président des Sdis, qui demande plus de moyens pour les pompiers après les incendies de l'été \"Il est temps que le gouvernement prenne enfin la mesure de ce dossier\", ajoute Olivier Richefou, lundi sur ICI Mayenne, estimant que les syndicats ont \"raison\" d'avoir déposé un préavis de grève.",
-   "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/maintenant-il-faut-agir-estime-le-president-des-sdis-qui-demande-plus-de-moyens-pour-les-pompiers-apres-les-incendies-de-l-ete_8170397.html",
-   "summary": "\"Maintenant, il faut agir\", estime le président des Sdis, qui demande plus de moyens pour les pompiers après les incendies de l'été",
-   "image": "https://www.franceinfo.fr/pictures/BDt5EzzP9VWCprRjQ4qrEwmRkQw/0x0:5568x3132/432x243/filters:format(jpg)/2026/08/31/6a953a84c897a537523199.jpg",
-   "date": null,
-   "pubdate": "2026-08-31T09:24:36.715242+00:00"
-  },
-  {
-   "title": "1:42 audio 1 minute 42 Quelles missions vont effectuer les 3 000 jeunes de la première promotion du service national ? La première promotion du service national volontaire débute sa formation lundi 31 août. Pendant dix mois, ces 3 000 jeunes de 18 à 25 ans suivront d'abord une préparation militaire avant d'effectuer des missions très variées.",
-   "link": "https://www.franceinfo.fr/replay-radio/le-tour-de-la-question/quelles-missions-vont-effectuer-les-3-000-jeunes-de-la-premiere-promotion-du-service-national_8168462.html",
-   "summary": "Quelles missions vont effectuer les 3 000 jeunes de la première promotion du service national ?",
-   "image": "https://www.franceinfo.fr/pictures/ebO_EgOg_KqAWLDEVYp8krllHok/0x0:1920x1080/432x243/filters:format(jpg)/2026/08/31/6a95315cb0b6b152966224.png",
-   "date": null,
-   "pubdate": "2026-08-31T09:24:36.715242+00:00"
-  },
-  {
-   "title": "Le RN propose de sanctionner le port du voile, Valérie Pécresse dénonce une mesure \"démagogique et impraticable\" Invitée lundi de franceinfo, la présidente LR de la région d'Île-de-France estime que le voile \"n'est pas un vêtement comme les autres\" mais qu'une \"femme adulte est libre de croire ou de ne pas croire à la religion de son choix.\"",
-   "link": "https://www.franceinfo.fr/societe/religion/le-rn-propose-de-sanctionner-le-port-du-voile-valerie-pecresse-denonce-une-mesure-demagogique-et-impraticable_8170352.html",
-   "summary": "Le RN propose de sanctionner le port du voile, Valérie Pécresse dénonce une mesure \"démagogique et impraticable\"",
-   "image": "https://www.franceinfo.fr/pictures/w3nQTgKZR3A2gGHs-n6t_0IvvT8/0x0:1445x813/432x243/filters:format(jpg)/2026/08/31/6a95349244299148745165.jpg",
-   "date": null,
-   "pubdate": "2026-08-31T09:24:36.715242+00:00"
-  },
-  {
-   "title": "Des parents d'élèves vont organiser une marche de Biarritz à Bayonne, pour sensibiliser face aux violences faites aux enfants Cette marche se tient mardi midi, indique ICI Pays Basque. Deux animateurs d'un centre de loisirs de Biarritz ont été mis en examen fin juillet, l'un pour agression sexuelle sur mineur et l'autre pour corruption sur le même enfant.",
-   "link": "https://www.franceinfo.fr/france/rentree/des-parents-d-eleves-vont-organiser-une-marche-de-biarritz-a-bayonne-pour-sensibiliser-face-aux-violences-faites-aux-enfants_8170343.html",
-   "summary": "Des parents d'élèves vont organiser une marche de Biarritz à Bayonne, pour sensibiliser face aux violences faites aux enfants",
-   "image": "https://www.franceinfo.fr/pictures/AOY5G68_mSNFmc6dy4tYl-mwo1I/0x174:4500x2705/432x243/filters:format(jpg)/2026/08/31/6a952dfa65b2a000507967.jpg",
-   "date": null,
-   "pubdate": "2026-08-31T09:24:36.715242+00:00"
-  },
-  {
-   "title": "Cyberattaque : un proviseur, membre du SNPDEN, appelle le ministère de l'Éducation à \"agir rapidement\" après une rentrée en mode \"dégradé\" \"La priorité du rectorat, ça a été d’assurer les payes. La deuxième, c’est le versement des bourses pour les étudiants, ensuite les nominations\", explique le secrétaire académique du Syndicat national des personnels de direction, lundi sur franceinfo.",
-   "link": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/cyberattaque-un-proviseur-membre-du-snpden-appelle-le-ministere-de-l-education-a-agir-rapidement-apres-une-rentree-en-mode-degrade_8170325.html",
-   "summary": "Cyberattaque : un proviseur, membre du SNPDEN, appelle le ministère de l'Éducation à \"agir rapidement\" après une rentrée en mode \"dégradé\"",
-   "image": "https://www.franceinfo.fr/pictures/iRs7h83vlrS02VphI2zTiNDoCHg/0x0:4252x2391/432x243/filters:format(jpg)/2026/08/31/6a952b173de25782981866.jpg",
-   "date": null,
-   "pubdate": "2026-08-31T09:24:36.715242+00:00"
-  },
-  {
-   "title": "Rentrée 2026 : les absences de professeurs seront \"marginales\", assure le ministre de l'Éducation nationale Le taux de postes pourvus atteint 98,5% dans le premier degré, contre 92,1% l'an dernier et les absences de longue durée non-remplacées sont moins nombreuses, affirme Edouard Geffray, lundi sur France Inter.",
-   "link": "https://www.franceinfo.fr/france/rentree/rentree-2026-les-absences-de-professeurs-au-college-et-au-lycee-seront-marginales-assure-le-ministre-de-l-education-nationale_8170304.html",
-   "summary": "Rentrée 2026 : les absences de professeurs seront \"marginales\", assure le ministre de l'Éducation nationale",
-   "image": "https://www.franceinfo.fr/pictures/Q5cg1l_7rlzMX-8C6p4FLSL1hGY/0x0:1603x901/432x243/filters:format(jpg)/2026/08/31/6a95259278d58160379181.jpg",
    "date": null,
    "pubdate": "2026-08-31T09:24:36.715242+00:00"
   }
