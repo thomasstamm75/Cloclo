@@ -1,15 +1,10 @@
 {
- "etag": "\"b2d534d41ca299332a80fef050e82a28-gzip\"",
+ "etag": "\"ba0d4c399e0af2bece9ba1773212c3eb-gzip\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.franceinfo.fr/culture/musique/tout-le-monde-les-ecoutait-ou-les-subissait-peut-on-encore-parler-de-hits-de-l-ete-comme-avant-les-reseaux-sociaux_8155445.html": "2026-08-31T12:25:04.910829+00:00",
-  "https://www.franceinfo.fr/societe/armee-securite-defense/la-suede-signe-un-contrat-de-4-3-milliards-d-euros-pour-l-acquisition-de-quatre-fregates-militaires-francaises_8170913.html": "2026-08-31T15:24:51.780646+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/j-essaie-d-y-aller-cinq-six-fois-par-semaine-a-16-ou-17-ans-ils-sont-deja-accros-a-la-salle-de-sport_8136965.html": "2026-08-31T15:24:51.780646+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-visite-du-pape-a-metz-c-est-un-formidable-coup-de-projecteur-sur-la-ville-estime-le-maire_8134199.html": "2026-08-31T15:24:51.780646+00:00",
   "https://www.franceinfo.fr/faits-divers/terrorisme/enseignant-decapite-dans-les-yvelines/un-homme-implique-dans-l-assassinat-de-samuel-paty-de-nouveau-condamne_8171168.html": "2026-08-31T18:24:49.830768+00:00",
-  "https://www.franceinfo.fr/societe/harcelement-sexuel/un-animateur-du-centre-de-loisirs-de-tarnos-dans-les-landes-ecarte-pour-des-faits-pas-compatibles-avec-la-profession_8171117.html": "2026-08-31T18:24:49.830768+00:00",
-  "https://www.franceinfo.fr/societe/pacs-amical-absence-en-cas-de-deuil-habitat-collectif-la-deputee-lfi-clemence-guette-plaide-pour-accorder-des-droits-a-l-amitie_8170832.html": "2026-08-31T18:24:49.830768+00:00",
-  "https://www.franceinfo.fr/societe/justice/des-rapporteurs-de-l-onu-expriment-leur-vives-preoccupations-autour-des-poursuites-contre-l-eurodeputee-rima-hassan_8171066.html": "2026-08-31T18:24:49.830768+00:00",
   "https://www.franceinfo.fr/societe/nos-jours-heureux/": "2026-08-31T18:24:49.830768+00:00",
   "https://www.franceinfo.fr/societe/euthanasie/comprendre-les-debats-sur-la-fin-de-vie/": "2026-08-31T18:24:49.830768+00:00",
   "https://www.franceinfo.fr/france/rentree/beaucoup-d-enfants-vont-faire-leur-rentree-sans-aesh-a-leurs-cotes-deplore-un-responsable-syndical-de-l-academie-de-nantes_8171291.html": "2026-08-31T21:25:17.704742+00:00",
@@ -21,7 +16,6 @@
   "https://www.franceinfo.fr/societe/education/faut-il-enseigner-la-lecture-aux-enfants-des-la-maternelle-pour-pallier-les-difficultes-en-francais_8163893.html": "2026-09-01T06:36:19.642263+00:00",
   "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-absolument-pas-credible-juridiquement-le-rn-peut-il-vraiment-interdire-le-port-du-voile-dans-l-espace-public_8170601.html": "2026-09-01T06:36:19.642263+00:00",
   "https://www.franceinfo.fr/societe/education/violences-dans-le-periscolaire/je-ne-les-mets-au-periscolaire-que-le-strict-minimum-pour-la-rentree-la-confiance-des-familles-fragilisee_8166218.html": "2026-09-01T06:36:19.642263+00:00",
-  "https://www.franceinfo.fr/societe/education/rentree-scolaire-il-va-falloir-montrer-qu-on-est-autre-chose-qu-une-part-de-marche-electoral-previent-sophie-venetitay-professeure-et-secretaire-generale-du-snes-fsu_8171855.html": "2026-09-01T09:31:18.638231+00:00",
   "https://www.franceinfo.fr/politique/front-national/personne-ne-va-mener-la-chasse-aux-femmes-voilees-affirme-le-depute-rn-jean-philippe-tanguy-apres-sa-proposition-de-sanctionner-le-port-du-voile_8171825.html": "2026-09-01T09:31:18.638231+00:00",
   "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/a-los-angeles-d-anciens-membres-de-gangs-jouent-les-mediateurs-aupres-des-sans-abri_8144828.html": "2026-09-01T09:31:18.638231+00:00",
   "https://www.franceinfo.fr/monde/royaume-uni/les-problemes-de-comportement-ont-considerablement-diminue-en-angleterre-l-utilisation-du-portable-au-lycee-etait-deja-limitee_8171705.html": "2026-09-01T09:31:18.638231+00:00",
@@ -31,15 +25,69 @@
   "https://www.franceinfo.fr/societe/education/interdiction-du-portable-au-lycee-personnels-et-eleves-font-leurs-premiers-retours-sur-cette-nouvelle-regle-dont-l-application-varie_8172110.html": "2026-09-01T12:36:05.088896+00:00",
   "https://www.franceinfo.fr/societe/education/scolarite/guide-parents/lycee/avant-15-les-reseaux-sociaux-ne-sont-pas-bons_8172107.html": "2026-09-01T12:36:05.088896+00:00",
   "https://www.franceinfo.fr/france/rentree/on-essaie-de-reprendre-le-cours-normal-de-la-vie-une-rentree-particuliere-a-biscarrosse-encore-marquee-par-les-incendies-estivaux_8172083.html": "2026-09-01T12:36:05.088896+00:00",
-  "https://www.franceinfo.fr/societe/education/reportage-un-nouveau-monde-a-troyes-des-adolescents-decouvrent-la-vie-de-lycee_8171786.html": "2026-09-01T12:36:05.088896+00:00"
+  "https://www.franceinfo.fr/societe/education/reportage-un-nouveau-monde-a-troyes-des-adolescents-decouvrent-la-vie-de-lycee_8171786.html": "2026-09-01T12:36:05.088896+00:00",
+  "https://www.franceinfo.fr/societe/justice/le-vanuatu-veut-engager-une-procedure-contre-la-france-a-la-devant-la-cour-internationale-de-justice-concernant-les-iles-de-matthew-et-hunter_8172338.html": "2026-09-01T15:50:22.118041+00:00",
+  "https://www.franceinfo.fr/societe/securite-routiere/apres-les-trottinettes-electriques-le-casque-sera-t-il-bientot-obligatoire-pour-tous-a-velo_8171780.html": "2026-09-01T15:50:22.118041+00:00",
+  "https://www.franceinfo.fr/france/lac-ontario-rebaptise-lac-amerique-comment-sont-choisis-les-noms-des-lacs-en-france_8170457.html": "2026-09-01T15:50:22.118041+00:00",
+  "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/rhone/lyon/il-etait-au-sol-le-visage-ensanglante-en-train-de-se-faire-etrangler-une-elue-de-rillieux-raconte-son-agression-et-celle-de-son-conjoint-apres-ol-le-havre-3409694.html": "2026-09-01T15:50:22.118041+00:00",
+  "https://www.franceinfo.fr/societe/victimes-de-serophobie-ils-entament-une-greve-de-la-faim_8172242.html": "2026-09-01T15:50:22.118041+00:00",
+  "https://www.franceinfo.fr/societe/armee-securite-defense/a-quoi-ressemblent-les-fregates-vendues-a-la-suede_8172224.html": "2026-09-01T15:50:22.118041+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "1:36 vidéo 1 minute 36 Ici, le portable est interdit pour la deuxième année Le smartphone interdit au lycée, c'est l'un des gros changement de cette rentrée. Pourtant, dans ce lycée d'Aubergenville, en région parisienne, l'interdiction est déjà en place depuis un an. Comment ça s'est passé pour les élèves ? On leur a posé la question...",
+   "title": "Le Vanuatu veut engager une procédure contre la France devant la Cour internationale de justice concernant les îles de Matthew et Hunter Le Vanuatu revendique ces terres depuis son accession à l'indépendance vis à vis de la France et du Royaume-Uni en 1980. Pour la France, il n'est pas question de céder la souveraineté sur ces îles.",
+   "link": "https://www.franceinfo.fr/societe/justice/le-vanuatu-veut-engager-une-procedure-contre-la-france-a-la-devant-la-cour-internationale-de-justice-concernant-les-iles-de-matthew-et-hunter_8172338.html",
+   "summary": "Le Vanuatu veut engager une procédure contre la France devant la Cour internationale de justice concernant les îles de Matthew et Hunter",
+   "image": "https://www.franceinfo.fr/pictures/rXEJ6jNpMml-0CJvQji2L2oA7HM/16x0:1008x682/432x297/filters:format(jpg)/2026/09/01/6a96e9885222f296603463.jpg",
+   "date": null,
+   "pubdate": "2026-09-01T15:50:22.118041+00:00"
+  },
+  {
+   "title": "Après les trottinettes électriques, le casque sera-t-il bientôt obligatoire pour tous à vélo ?",
+   "link": "https://www.franceinfo.fr/societe/securite-routiere/apres-les-trottinettes-electriques-le-casque-sera-t-il-bientot-obligatoire-pour-tous-a-velo_8171780.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/C2xdJDkRMVR3KepDySvgrakCzJk/0x0:5472x3078/432x243/filters:format(jpg)/2026/09/01/6a969464d7c17745762695.jpg",
+   "date": null,
+   "pubdate": "2026-09-01T15:50:22.118041+00:00"
+  },
+  {
+   "title": "Lac Ontario rebaptisé \"lac Amérique\" : comment sont choisis les noms des lacs en France ?",
+   "link": "https://www.franceinfo.fr/france/lac-ontario-rebaptise-lac-amerique-comment-sont-choisis-les-noms-des-lacs-en-france_8170457.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/mgJc0SlOBQ03DAW0kPKoctPFB50/0x322:6192x3805/432x243/filters:format(jpg)/2026/09/01/6a96e2dc60a73611538793.jpg",
+   "date": null,
+   "pubdate": "2026-09-01T15:50:22.118041+00:00"
+  },
+  {
+   "title": "\"Il était au sol, en train de se faire étrangler\" : agressée avec son conjoint après un match de l'OL, une élue du Rhône témoigne des violences et des propos racistes",
+   "link": "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/rhone/lyon/il-etait-au-sol-le-visage-ensanglante-en-train-de-se-faire-etrangler-une-elue-de-rillieux-raconte-son-agression-et-celle-de-son-conjoint-apres-ol-le-havre-3409694.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/pRtjRioTQZk3iUy7vOdIufQinFQ/432x243/filters:format(jpg)/2026/09/01/6a96e1d1a6782769277275.jpg",
+   "date": null,
+   "pubdate": "2026-09-01T15:50:22.118041+00:00"
+  },
+  {
+   "title": "2:19 vidéo 2 minutes 19 Victimes de sérophobie, ils entament une grève de la faim",
+   "link": "https://www.franceinfo.fr/societe/victimes-de-serophobie-ils-entament-une-greve-de-la-faim_8172242.html",
+   "summary": "Victimes de sérophobie, ils entament une grève de la faim",
+   "image": "https://www.franceinfo.fr/pictures/0VanQm_iFwE7wCYFXEazzygVvSo/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/01/6a96d9a0e75c7356830949.jpg",
+   "date": null,
+   "pubdate": "2026-09-01T15:50:22.118041+00:00"
+  },
+  {
+   "title": "2:24 vidéo 2 minutes 24 À quoi ressemblent les frégates vendues à la Suède",
+   "link": "https://www.franceinfo.fr/societe/armee-securite-defense/a-quoi-ressemblent-les-fregates-vendues-a-la-suede_8172224.html",
+   "summary": "À quoi ressemblent les frégates vendues à la Suède",
+   "image": "https://www.franceinfo.fr/pictures/c_L29xFaUYCwSs2A0BDOK2vb6QM/0x0:900x1600/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/01/6a96d83fdce82506952577.jpg",
+   "date": null,
+   "pubdate": "2026-09-01T15:50:22.118041+00:00"
+  },
+  {
+   "title": "1:36 vidéo 1 minute 36 Ici, le portable est interdit pour la deuxième année",
    "link": "https://www.franceinfo.fr/societe/education/scolarite/guide-parents/lycee/ici-le-portable-est-interdit-pour-la-deuxieme-annee_8172116.html",
    "summary": "Ici, le portable est interdit pour la deuxième année",
-   "image": "https://www.franceinfo.fr/pictures/5R3Gi-jHM0yh7RxdXUs6b_McPjI/0x0:1080x1920/fit-in/432x297/filters:upscale():fill(blur):format(jpg)/2026/09/01/6a96bc509d876080605225.jpg",
+   "image": "https://www.franceinfo.fr/pictures/2gV-qK1oCE7PszSEa8QRP5HLxus/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/01/6a96bc509d876080605225.jpg",
    "date": null,
    "pubdate": "2026-09-01T12:36:05.088896+00:00"
   },
@@ -68,7 +116,7 @@
    "pubdate": "2026-09-01T12:36:05.088896+00:00"
   },
   {
-   "title": ": Reportage : Reportage \"Un nouveau monde\" : à Troyes, des adolescents découvrent la vie de lycée",
+   "title": ": Reportage \"Un nouveau monde\" : à Troyes, des adolescents découvrent la vie de lycée De l'entrée en seconde à l'interdiction du téléphone portable au lycée, cette rentrée du 1er septembre apporte son lot de nouveautés pour les jeunes élèves. Certains établissements, comme le lycée Chrestien de Troyes, dans l'Aube, ont déjà préparé cette nouvelle mesure.",
    "link": "https://www.franceinfo.fr/societe/education/reportage-un-nouveau-monde-a-troyes-des-adolescents-decouvrent-la-vie-de-lycee_8171786.html",
    "summary": "\"Un nouveau monde\" : à Troyes, des adolescents découvrent la vie de lycée",
    "image": "https://www.franceinfo.fr/pictures/NgxxE0o3vGw2crBCRET5d5Y28x0/0x0:1920x1080/432x243/filters:format(jpg)/2026/09/01/6a9697200e652851743552.png",
@@ -76,23 +124,15 @@
    "pubdate": "2026-09-01T12:36:05.088896+00:00"
   },
   {
-   "title": "11:53 vidéo 11 minutes 53 Rentrée scolaire : \"Il va falloir montrer qu'on est autre chose qu'une part de marché électoral\", prévient Sophie Vénétitay, professeure et secrétaire générale du SNES-FSU",
-   "link": "https://www.franceinfo.fr/societe/education/rentree-scolaire-il-va-falloir-montrer-qu-on-est-autre-chose-qu-une-part-de-marche-electoral-previent-sophie-venetitay-professeure-et-secretaire-generale-du-snes-fsu_8171855.html",
-   "summary": "Rentrée scolaire : \"Il va falloir montrer qu'on est autre chose qu'une part de marché électoral\", prévient Sophie Vénétitay, professeure et secrétaire générale du SNES-FSU",
-   "image": "https://www.franceinfo.fr/pictures/F4ekOemJ7sTuQYIgDNeWBovxVVk/0x9:1231x701/432x243/filters:format(jpg)/2026/09/01/6a9697c1e4a8b871914587.jpg",
-   "date": null,
-   "pubdate": "2026-09-01T09:31:18.638231+00:00"
-  },
-  {
-   "title": "\"Personne ne va mener la chasse aux femmes voilées\", affirme le député RN Jean-Philippe Tanguy, après sa proposition de sanctionner le port du voile",
+   "title": "\"Personne ne va mener la chasse aux femmes voilées\", affirme le député RN Jean-Philippe Tanguy, après sa proposition de sanctionner le port du voile En cas de victoire à la présidentielle 2027, le Rassemblement national veut un référendum sur l'interdiction du port du voile. Cette mesure permettra de \"protéger\" les femmes \"en évitant que ce voile s'impose dans la civilisation française\", estime Jean-Philippe Tanguy, mardi sur franceinfo.",
    "link": "https://www.franceinfo.fr/politique/front-national/personne-ne-va-mener-la-chasse-aux-femmes-voilees-affirme-le-depute-rn-jean-philippe-tanguy-apres-sa-proposition-de-sanctionner-le-port-du-voile_8171825.html",
-   "summary": "",
+   "summary": "\"Personne ne va mener la chasse aux femmes voilées\", affirme le député RN Jean-Philippe Tanguy, après sa proposition de sanctionner le port du voile",
    "image": "https://www.franceinfo.fr/pictures/2luvmhqOumB_BwH52jaJex94qz0/0x0:1415x796/432x243/filters:format(jpg)/2026/09/01/6a968fa161457157491184.jpg",
    "date": null,
    "pubdate": "2026-09-01T09:31:18.638231+00:00"
   },
   {
-   "title": "2:11 audio 2 minutes 11 À Los Angeles, d'anciens membres de gangs jouent les médiateurs auprès des sans-abri",
+   "title": "2:11 audio 2 minutes 11 À Los Angeles, d'anciens membres de gangs jouent les médiateurs auprès des sans-abri Une société privée intervient auprès des personnes sans-abri pour les convaincre de quitter les campements installés dans les rues de Venice Beach. Une initiative saluée par les riverains, mais qui soulève tout de même des questions sur le rôle de cette entreprise et les méthodes employées.",
    "link": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/a-los-angeles-d-anciens-membres-de-gangs-jouent-les-mediateurs-aupres-des-sans-abri_8144828.html",
    "summary": "À Los Angeles, d'anciens membres de gangs jouent les médiateurs auprès des sans-abri",
    "image": "https://www.franceinfo.fr/pictures/6MpYujiJ32wWjEYNWeYPkPA4Ae4/0x21:1024x597/432x243/filters:format(jpg)/2026/09/01/6a966e4d23cf3360915486.jpg",
@@ -100,15 +140,15 @@
    "pubdate": "2026-09-01T09:31:18.638231+00:00"
   },
   {
-   "title": "\"Les problèmes de comportement ont considérablement diminué\" : en Angleterre, l'utilisation du portable au lycée était déjà limitée",
+   "title": "\"Les problèmes de comportement ont considérablement diminué\" : en Angleterre, l'utilisation du portable au lycée était déjà limitée La loi anglaise vient entériner en septembre une pratique qui était déjà répandue, la plupart des établissements ont déjà mis en place des restrictions à l'utilisation des smartphones. Dans ce lycée de Londres, les résultats sont flagrants.",
    "link": "https://www.franceinfo.fr/monde/royaume-uni/les-problemes-de-comportement-ont-considerablement-diminue-en-angleterre-l-utilisation-du-portable-au-lycee-etait-deja-limitee_8171705.html",
-   "summary": "",
+   "summary": "\"Les problèmes de comportement ont considérablement diminué\" : en Angleterre, l'utilisation du portable au lycée était déjà limitée",
    "image": "https://www.franceinfo.fr/pictures/hZz6Emwa12OW3WPn8LZB-msbzuQ/0x386:7360x4526/432x243/filters:format(jpg)/2026/09/01/6a9676590a26e836871768.jpg",
    "date": null,
    "pubdate": "2026-09-01T09:31:18.638231+00:00"
   },
   {
-   "title": "6:04 audio 6 minutes 4 PODCASTLe RN veut interdire le voile, arrêts maladie limités et préretraite pour Messi : ça dit quoi ce 1er septembre ?",
+   "title": "6:04 audio 6 minutes 4 PODCASTLe RN veut interdire le voile, arrêts maladie limités et préretraite pour Messi : ça dit quoi ce 1er septembre ? Ce mardi 1er septembre, le Rassemblement national veut organiser un référendum sur le port du voile dans l'espace public, la durée des arrêts maladie est désormais limitée et Lionel Messi prend sa retraite internationale.",
    "link": "https://www.franceinfo.fr/replay-radio/ca-dit-quoi/le-rn-veut-interdire-le-voile-arrets-maladie-limites-et-preretraite-pour-messi-ca-dit-quoi-ce-1er-septembre_8161412.html",
    "summary": "PODCASTLe RN veut interdire le voile, arrêts maladie limités et préretraite pour Messi : ça dit quoi ce 1er septembre ?",
    "image": "https://www.franceinfo.fr/pictures/80sBY0jRyqJULv4x42KzWL8ULjY/0x0:1920x1080/432x243/filters:format(jpg)/2026/08/31/6a95f5e50264c800004561.jpg",
@@ -116,9 +156,9 @@
    "pubdate": "2026-09-01T09:31:18.638231+00:00"
   },
   {
-   "title": "4:50 audio 4 minutes 50 \"Les séropositifs ne sont pas malades\" : entre discriminations et idées reçues, le difficile combat contre la sérophobie Romain, 37 ans, et Bénédicte, 60 ans, racontent les insultes, les agressions et les discriminations qu’ils ont subies en raison de leur séropositivité. Tous deux dénoncent la persistance des préjugés sur le VIH, alors qu’un traitement efficace empêche la transmission du virus.",
+   "title": "4:50 audio 4 minutes 50 REMPORTAGE. \"Les séropositifs ne sont pas malades\" : entre discriminations et idées reçues, le difficile combat contre la sérophobie Romain, 37 ans, et Bénédicte, 60 ans, racontent les insultes, les agressions et les discriminations qu’ils ont subies en raison de leur séropositivité. Tous deux dénoncent la persistance des préjugés sur le VIH, alors qu’un traitement efficace empêche la transmission du virus.",
    "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/les-seropositifs-ne-sont-pas-malades-entre-discriminations-et-idees-recues-le-difficile-combat-contre-la-serophobie_8144933.html",
-   "summary": "\"Les séropositifs ne sont pas malades\" : entre discriminations et idées reçues, le difficile combat contre la sérophobie",
+   "summary": "REMPORTAGE. \"Les séropositifs ne sont pas malades\" : entre discriminations et idées reçues, le difficile combat contre la sérophobie",
    "image": "https://www.franceinfo.fr/pictures/RagBv-9GqXYffdRz2UHd9LqO6UQ/0x0:1920x1080/432x243/filters:format(jpg)/2026/09/01/6a967ff451b47521514806.png",
    "date": null,
    "pubdate": "2026-09-01T09:31:18.638231+00:00"
@@ -220,30 +260,6 @@
    "pubdate": "2026-08-31T18:24:49.830768+00:00"
   },
   {
-   "title": "Un animateur du centre de loisirs de Tarnos, dans les Landes, écarté pour des faits \"pas compatibles avec la profession\" L'animateur est soupçonné d'avoir envoyé des documents à caractère pornographique à une mineure, affirme le maire de Tarnos. La direction du centre de loisirs a lancé une procédure de licenciement à son égard.",
-   "link": "https://www.franceinfo.fr/societe/harcelement-sexuel/un-animateur-du-centre-de-loisirs-de-tarnos-dans-les-landes-ecarte-pour-des-faits-pas-compatibles-avec-la-profession_8171117.html",
-   "summary": "Un animateur du centre de loisirs de Tarnos, dans les Landes, écarté pour des faits \"pas compatibles avec la profession\"",
-   "image": "https://www.franceinfo.fr/pictures/HJhX6j7awALLfs1CJYNwUm6kAYI/0x207:2048x1359/432x243/filters:format(jpg)/2026/08/31/6a95b4dc40f5e759637406.jpg",
-   "date": null,
-   "pubdate": "2026-08-31T18:24:49.830768+00:00"
-  },
-  {
-   "title": "\"Pacs\" amical, absence en cas de deuil, habitat collectif... La députée LFI Clémence Guetté plaide pour accorder des droits à l'amitié \"Dans notre corpus juridique, tout est pensé pour le couple et pour la famille\", regrette l'élue insoumise. Elle dévoile, dans un livre intitulé \"Pour une politique de l'amitié\", les contours d'une proposition de loi pour \"reconnaître l'importance intime et sociale\" de ce lien.",
-   "link": "https://www.franceinfo.fr/societe/pacs-amical-absence-en-cas-de-deuil-habitat-collectif-la-deputee-lfi-clemence-guette-plaide-pour-accorder-des-droits-a-l-amitie_8170832.html",
-   "summary": "\"Pacs\" amical, absence en cas de deuil, habitat collectif... La députée LFI Clémence Guetté plaide pour accorder des droits à l'amitié",
-   "image": "https://www.franceinfo.fr/pictures/RN4r2FDr3jtneNiYskbCNyXTSiA/0x0:1024x576/432x243/filters:format(jpg)/2026/08/31/6a959c5646476303977526.jpg",
-   "date": null,
-   "pubdate": "2026-08-31T18:24:49.830768+00:00"
-  },
-  {
-   "title": "Des rapporteurs de l'ONU expriment leurs \"vives préoccupations\" autour des poursuites contre l'eurodéputée Rima Hassan Ces rapporteurs, mandatés par le Conseil des droits de l'homme mais qui ne s'expriment pas au nom de l'ONU, ont été saisis par Rima Hassan, qui doit être jugée en octobre à Paris pour apologie du terrorisme.",
-   "link": "https://www.franceinfo.fr/societe/justice/des-rapporteurs-de-l-onu-expriment-leur-vives-preoccupations-autour-des-poursuites-contre-l-eurodeputee-rima-hassan_8171066.html",
-   "summary": "Des rapporteurs de l'ONU expriment leurs \"vives préoccupations\" autour des poursuites contre l'eurodéputée Rima Hassan",
-   "image": "https://www.franceinfo.fr/pictures/ye3AgZnA3jgiBHV8IbDrjRdzFSE/0x53:1024x629/432x243/filters:format(jpg)/2026/08/31/6a95ad4744742085788860.jpg",
-   "date": null,
-   "pubdate": "2026-08-31T18:24:49.830768+00:00"
-  },
-  {
    "title": "4:39 audio 4 minutes 39 \"J'essaie d'y aller cinq, six fois par semaine\" : À 16 ou 17 ans, ils sont déjà accros à la salle de sport",
    "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/j-essaie-d-y-aller-cinq-six-fois-par-semaine-a-16-ou-17-ans-ils-sont-deja-accros-a-la-salle-de-sport_8136965.html",
    "summary": "\"J'essaie d'y aller cinq, six fois par semaine\" : À 16 ou 17 ans, ils sont déjà accros à la salle de sport",
@@ -258,22 +274,6 @@
    "image": "https://www.franceinfo.fr/pictures/DF7OCqmzjl5n_wSxWV3jgvKOW8o/1432x0:4300x2868/100x100/filters:format(jpg)/2026/08/24/6a8c2f6bb5d24428190474.jpg",
    "date": null,
    "pubdate": "2026-08-31T15:24:51.780646+00:00"
-  },
-  {
-   "title": "La Suède signe un contrat de 4,3 milliards d'euros pour l'acquisition de quatre frégates militaires françaises Cette signature s'est faite à l'occasion du déplacement du président français à Stockholm (Suède), où il a été reçu par le Premier ministre suédois, Ulf Kristersson.",
-   "link": "https://www.franceinfo.fr/societe/armee-securite-defense/la-suede-signe-un-contrat-de-4-3-milliards-d-euros-pour-l-acquisition-de-quatre-fregates-militaires-francaises_8170913.html",
-   "summary": "La Suède signe un contrat de 4,3 milliards d'euros pour l'acquisition de quatre frégates militaires françaises",
-   "image": "https://www.franceinfo.fr/pictures/6EMCtTsBPbTgpyCVnkH4l317Iok/0x53:1024x629/432x243/filters:format(jpg)/2026/08/31/6a9594870c229494146633.jpg",
-   "date": null,
-   "pubdate": "2026-08-31T15:24:51.780646+00:00"
-  },
-  {
-   "title": "5:00 article 5 minutes \"Tout le monde les écoutait... ou les subissait\" : peut-on encore parler de \"hits de l'été\", comme avant les réseaux sociaux ?",
-   "link": "https://www.franceinfo.fr/culture/musique/tout-le-monde-les-ecoutait-ou-les-subissait-peut-on-encore-parler-de-hits-de-l-ete-comme-avant-les-reseaux-sociaux_8155445.html",
-   "summary": "\"Tout le monde les écoutait... ou les subissait\" : peut-on encore parler de \"hits de l'été\", comme avant les réseaux sociaux ?",
-   "image": "https://www.franceinfo.fr/pictures/2vTdJYIs0KgfpwSgugbLNckEUvQ/584x0:3416x2832/100x100/filters:format(jpg)/2026/08/21/6a88b864c09fe968349292.jpg",
-   "date": null,
-   "pubdate": "2026-08-31T12:25:04.910829+00:00"
   }
  ]
 }
