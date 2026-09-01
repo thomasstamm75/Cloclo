@@ -1,12 +1,11 @@
 {
- "etag": "\"30fb8ef899a0bb62e9b2ab89931e2e26-gzip\"",
+ "etag": "\"094bab72088580af7b1b1142b74c685a-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/culture/arts-expos/ils-demandent-ou-est-le-portrait-d-angela-merkel-le-succes-d-un-tableau-de-l-ancienne-chanceliere-booste-la-frequentation-du-bode-museum-de-berlin_8169512.html": "2026-08-30T15:24:42.580100+00:00",
   "https://www.franceinfo.fr/culture/reportage-une-occasion-unique-de-raconter-l-histoire-a-varsovie-les-vestiges-du-plus-grand-ghetto-d-europe-s-ouvrent-aux-visiteurs_8169638.html": "2026-08-30T18:24:48.872862+00:00",
   "https://www.franceinfo.fr/societe/knitting-raves-en-estonie-le-tricot-s-invite-en-boite-de-nuit_8166581.html": "2026-08-30T18:24:48.872862+00:00",
   "https://www.franceinfo.fr/monde/europe/les-crimes-de-l-ancien-general-ratko-mladic-ramenent-aux-heures-les-plus-sombres-de-l-histoire-de-l-europe-rappelle-le-policier-qui-a-enquete-sur-srebrenica_8166566.html": "2026-08-30T18:24:48.872862+00:00",
-  "https://www.franceinfo.fr/culture/patrimoine/histoire/l-ancien-chef-militaire-ratko-mladic-aura-des-obseques-avec-les-honneurs-militaires-et-d-etat-annonce-le-ministre-serbe-de-la-justice_8166461.html": "2026-08-30T18:24:48.872862+00:00",
   "https://www.franceinfo.fr/monde/europe/union-europeenne/euro-peche-securite-on-vous-explique-les-enjeux-du-referendum-en-islande-sur-la-reprise-des-negociations-d-adhesion-avec-l-ue_8108924.html": "2026-08-30T21:24:55.300701+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-ex-ministre-ukrainien-mykhailo-fedorov-critique-de-volodymyr-zelensky-devient-conseiller-a-la-defense-en-italie_8167115.html": "2026-08-30T21:24:55.300701+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/reportage-quand-il-y-a-des-frappes-la-chaufferie-s-arrete-en-ukraine-la-ville-de-kryvyi-rih-s-active-pour-reparer-ses-reseaux-de-chauffage-avant-l-hiver_8166494.html": "2026-08-30T21:24:55.300701+00:00",
@@ -30,15 +29,24 @@
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-au-moins-12-morts-dans-une-nouvelle-attaque-russe-massive-contre-kiev_8172188.html": "2026-09-01T15:50:25.522104+00:00",
   "https://www.franceinfo.fr/sante/alimentation/la-france-consomme-t-elle-beaucoup-de-viandes-importees-du-bresil_8172464.html": "2026-09-01T18:33:22.437637+00:00",
   "https://www.franceinfo.fr/monde/europe/migrants/crise-des-migrants-a-ceuta/reportage-un-mois-apres-les-nombreuses-arrivees-a-ceuta-des-femmes-migrantes-isolees-et-exposees-au-risque-de-violences-sexuelles_8172020.html": "2026-09-01T18:33:22.437637+00:00",
-  "https://www.franceinfo.fr/monde/europe/allemagne/l-allemagne-juge-la-russie-responsable-de-l-attaque-hybride-menee-avec-un-drone-charge-d-explosifs-debut-aout-a-l-aeroport-de-leipzig_8172476.html": "2026-09-01T18:33:22.437637+00:00"
+  "https://www.franceinfo.fr/monde/europe/allemagne/l-allemagne-juge-la-russie-responsable-de-l-attaque-hybride-menee-avec-un-drone-charge-d-explosifs-debut-aout-a-l-aeroport-de-leipzig_8172476.html": "2026-09-01T18:33:22.437637+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/les-jours-surs-dans-le-ciel-russe-sont-revolus-declare-volodymyr-zelensky-aux-compagnies-aeriennes_8172764.html": "2026-09-01T21:28:47.521845+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "La France consomme-t-elle beaucoup de viandes importées du brésil ? L'Union européenne va suspendre à partir de ce jeudi plusieurs importations animales en provenance du Brésil, faute de garantie suffisante sur le respect des règles sanitaires. Quels sont les changements à prévoir dans l'assiette des Français ?",
+   "title": "\"Les jours sûrs dans le ciel russe sont révolus\", déclare Volodymyr Zelensky aux compagnies aériennes Le président ukrainien a précisé que si elle n'était pas visée \"en soi\", l'aviation civile n'avait \"pas sa place dans un ciel infesté de drones\". Des avertissements qualifiés par Vladimir Poutine de \"terroriste\".",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/les-jours-surs-dans-le-ciel-russe-sont-revolus-declare-volodymyr-zelensky-aux-compagnies-aeriennes_8172764.html",
+   "summary": "\"Les jours sûrs dans le ciel russe sont révolus\", déclare Volodymyr Zelensky aux compagnies aériennes",
+   "image": "https://www.franceinfo.fr/pictures/waVSvxdN1XHTPgKg1sCEMhrgEdk/16x0:1008x682/432x297/filters:format(jpg)/2026/09/01/6a973e88f2cda137244070.jpg",
+   "date": null,
+   "pubdate": "2026-09-01T21:28:47.521845+00:00"
+  },
+  {
+   "title": "La France consomme-t-elle beaucoup de viandes importées du brésil ?",
    "link": "https://www.franceinfo.fr/sante/alimentation/la-france-consomme-t-elle-beaucoup-de-viandes-importees-du-bresil_8172464.html",
-   "summary": "La France consomme-t-elle beaucoup de viandes importées du brésil ?",
-   "image": "https://www.franceinfo.fr/pictures/ZUnrEnvKJg09DkXhPSWo20nOl9w/64x0:4188x2835/432x297/filters:format(jpg)/2022/01/24/php5RkhKL.jpg",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/GzhgS31b1aujJk2weIlSq40IT48/0x340:4250x2728/432x243/filters:format(jpg)/2022/01/24/php5RkhKL.jpg",
    "date": null,
    "pubdate": "2026-09-01T18:33:22.437637+00:00"
   },
@@ -123,9 +131,9 @@
    "pubdate": "2026-08-31T15:24:56.345553+00:00"
   },
   {
-   "title": "La Suède signe un contrat de 4,3 milliards d'euros pour l'acquisition de quatre frégates militaires françaises",
+   "title": "La Suède signe un contrat de 4,3 milliards d'euros pour l'acquisition de quatre frégates militaires françaises Cette signature s'est faite à l'occasion du déplacement du président français à Stockholm (Suède), où il a été reçu par le Premier ministre suédois, Ulf Kristersson.",
    "link": "https://www.franceinfo.fr/societe/armee-securite-defense/la-suede-signe-un-contrat-de-4-3-milliards-d-euros-pour-l-acquisition-de-quatre-fregates-militaires-francaises_8170913.html",
-   "summary": "",
+   "summary": "La Suède signe un contrat de 4,3 milliards d'euros pour l'acquisition de quatre frégates militaires françaises",
    "image": "https://www.franceinfo.fr/pictures/6EMCtTsBPbTgpyCVnkH4l317Iok/0x53:1024x629/432x243/filters:format(jpg)/2026/08/31/6a9594870c229494146633.jpg",
    "date": null,
    "pubdate": "2026-08-31T15:24:56.345553+00:00"
@@ -247,14 +255,6 @@
    "link": "https://www.franceinfo.fr/monde/europe/les-crimes-de-l-ancien-general-ratko-mladic-ramenent-aux-heures-les-plus-sombres-de-l-histoire-de-l-europe-rappelle-le-policier-qui-a-enquete-sur-srebrenica_8166566.html",
    "summary": "Les crimes de l'ancien général Ratko Mladic \"ramènent aux heures les plus sombres de l'histoire de l'Europe\", rappelle le policier qui a enquêté sur Srebrenica",
    "image": "https://www.franceinfo.fr/pictures/Ri594tfoPWXTWaanRNhg4aehZrI/0x188:3000x1874/432x243/filters:format(jpg)/2012/05/16/000_Par7084655_1.jpg",
-   "date": null,
-   "pubdate": "2026-08-30T18:24:48.872862+00:00"
-  },
-  {
-   "title": "L'ancien chef militaire Ratko Mladic, condamné pour génocide, aura des obsèques avec \"les honneurs militaires et d’Etat\", annonce le ministre de la Justice serbe L'ex-général avait notamment été reconnu coupable pour son rôle dans le massacre de Srebrenica, en juillet 1995, où les forces placées sous son commandement avaient exécuté environ 8 000 hommes et adolescents bosniaques musulmans.",
-   "link": "https://www.franceinfo.fr/culture/patrimoine/histoire/l-ancien-chef-militaire-ratko-mladic-aura-des-obseques-avec-les-honneurs-militaires-et-d-etat-annonce-le-ministre-serbe-de-la-justice_8166461.html",
-   "summary": "L'ancien chef militaire Ratko Mladic, condamné pour génocide, aura des obsèques avec \"les honneurs militaires et d’Etat\", annonce le ministre de la Justice serbe",
-   "image": "https://www.franceinfo.fr/pictures/pvymYvgi8sQ5lmqEMI74gZM0oSc/0x492:4473x3008/432x243/filters:format(jpg)/2026/08/28/6a916da6bd8b6448043506.jpg",
    "date": null,
    "pubdate": "2026-08-30T18:24:48.872862+00:00"
   },
