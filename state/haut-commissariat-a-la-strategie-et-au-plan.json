@@ -1,8 +1,7 @@
 {
- "etag": "W/\"1788339983\"",
- "last_modified": "Wed, 02 Sep 2026 09:06:23 GMT",
+ "etag": "W/\"1788346487\"",
+ "last_modified": "Wed, 02 Sep 2026 10:54:47 GMT",
  "first_seen": {
-  "https://www.strategie-plan.gouv.fr/publications/dialogue-strategique-franco-britannique-un-nouveau-depart-et-un-agenda-commun-pour-la": "2026-08-30T07:25:01.975485+00:00",
   "https://www.strategie-plan.gouv.fr/evenements/responsabilite-territoriale-de-lentreprise-quels-leviers-pour-des-territoires-plus": "2026-08-30T07:25:01.975485+00:00",
   "https://www.strategie-plan.gouv.fr/evenements/levaluation-socioeconomique-des-infrastructures-de-transport-au-dela-des-gains-de-temps": "2026-08-30T07:25:01.975485+00:00",
   "https://www.strategie-plan.gouv.fr/evenements/quels-nouveaux-moteurs-pour-la-productivite-francaise": "2026-08-30T07:25:01.975485+00:00",
@@ -14,10 +13,19 @@
   "https://www.strategie-plan.gouv.fr/publications/hcfea-aider-les-parents-aider-les-enfants-grandir": "2026-05-07T11:00:00+00:00",
   "https://www.strategie-plan.gouv.fr/publications/hcfips-colloque-lois-de-financement-de-la-securite-sociale-30-ans-et-apres": "2026-05-06T11:00:00+00:00",
   "https://www.strategie-plan.gouv.fr/publications/niveau-scolaire-elements-de-diagnostic-et-propositions": "2026-08-31T12:26:30.165588+00:00",
-  "https://www.strategie-plan.gouv.fr/actualites/nomination-de-thomas-grjebine-rapporteur-general-du-haut-commissariat-la-strategie-et-au": "2026-09-01T09:32:44.276294+00:00"
+  "https://www.strategie-plan.gouv.fr/actualites/nomination-de-thomas-grjebine-rapporteur-general-du-haut-commissariat-la-strategie-et-au": "2026-09-01T09:32:44.276294+00:00",
+  "https://www.strategie-plan.gouv.fr/publications/france-2035-france-2050-focus-environnement-retrouver-souverainete-habitabilite-et": "2026-09-02T12:37:49.173702+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "Bienvenue sur le site du Haut-commissariat à la Stratégie et au Plan",
+   "link": "https://www.strategie-plan.gouv.fr/publications/france-2035-france-2050-focus-environnement-retrouver-souverainete-habitabilite-et",
+   "summary": "Le Haut-commissariat à la Stratégie et au Plan contribue à l’action publique par ses analyses et ses propositions. Il éclaire les choix collectifs sur les enjeux démographiques, économiques, sociaux, environnementaux, sanitaires, technologiques et culturels, dans un cadre national et européen.",
+   "image": "https://www.strategie-plan.gouv.fr/files/styles/ds_image_paragraphe/public/files/accueil-fstrat.png?itok=ZH0UHCYU",
+   "date": null,
+   "pubdate": "2026-09-02T12:37:49.173702+00:00"
+  },
   {
    "title": "Nomination de Thomas Grjebine, rapporteur général du Haut-commissariat à la Stratégie et au Plan",
    "link": "https://www.strategie-plan.gouv.fr/actualites/nomination-de-thomas-grjebine-rapporteur-general-du-haut-commissariat-la-strategie-et-au",
@@ -27,12 +35,12 @@
    "pubdate": "2026-09-01T09:32:44.276294+00:00"
   },
   {
-   "title": "Bienvenue sur le site du Haut-commissariat à la Stratégie et au Plan",
+   "title": "Niveau scolaire : éléments de diagnostic et propositions",
    "link": "https://www.strategie-plan.gouv.fr/publications/niveau-scolaire-elements-de-diagnostic-et-propositions",
-   "summary": "Le Haut-commissariat à la Stratégie et au Plan contribue à l’action publique par ses analyses et ses propositions. Il éclaire les choix collectifs sur les enjeux démographiques, économiques, sociaux, environnementaux, sanitaires, technologiques et culturels, dans un cadre national et européen.",
-   "image": "https://www.strategie-plan.gouv.fr/files/styles/ds_image_paragraphe/public/files/accueil-fstrat.png?itok=ZH0UHCYU",
-   "date": null,
-   "pubdate": "2026-08-31T12:26:30.165588+00:00"
+   "summary": "Haut-commissariat à la Stratégie et au Plan",
+   "image": "",
+   "date": "2026-08-31T11:00:00+00:00",
+   "pubdate": "2026-08-31T11:00:00+00:00"
   },
   {
    "title": "Responsabilité territoriale de l’entrepr...",
@@ -57,14 +65,6 @@
    "image": "",
    "date": null,
    "pubdate": "2026-08-30T07:25:01.975485+00:00"
-  },
-  {
-   "title": "« Dialogue stratégique franco-britannique » : un nouveau départ et un agenda commun pour la relation franco-britannique",
-   "link": "https://www.strategie-plan.gouv.fr/publications/dialogue-strategique-franco-britannique-un-nouveau-depart-et-un-agenda-commun-pour-la",
-   "summary": "Haut-commissariat à la Stratégie et au Plan",
-   "image": "",
-   "date": "2026-07-27T11:00:00+00:00",
-   "pubdate": "2026-07-27T11:00:00+00:00"
   },
   {
    "title": "Conférence | Réarmer l’Europe : quelle souveraineté pour l’industrie de défense ?",
