@@ -1,13 +1,10 @@
 {
- "etag": "\"692c5330d988857e3c7dd83cabc9ef56-gzip\"",
+ "etag": "\"42c6e9795dbe278777b002141f2128ad-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-visite-du-pape-a-metz-c-est-un-formidable-coup-de-projecteur-sur-la-ville-estime-le-maire_8134199.html": "2026-08-31T18:24:55.290969+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-une-attaque-russe-massive-fait-neuf-morts-a-kiev-et-dans-sa-region_8171675.html": "2026-09-01T06:36:26.831317+00:00",
   "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/a-los-angeles-d-anciens-membres-de-gangs-jouent-les-mediateurs-aupres-des-sans-abri_8144828.html": "2026-09-01T09:31:23.951901+00:00",
   "https://www.franceinfo.fr/monde/royaume-uni/les-problemes-de-comportement-ont-considerablement-diminue-en-angleterre-l-utilisation-du-portable-au-lycee-etait-deja-limitee_8171705.html": "2026-09-01T09:31:23.951901+00:00",
-  "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/le-japon-veut-pouvoir-geolocaliser-ses-ressortissants-a-l-etranger-en-cas-de-crise_8144831.html": "2026-09-01T09:31:23.951901+00:00",
-  "https://www.franceinfo.fr/environnement/energie/en-chine-les-capacites-d-energie-solaire-depassent-desormais-celles-du-charbon_8171678.html": "2026-09-01T09:31:23.951901+00:00",
   "https://www.franceinfo.fr/monde/g20/ce-n-est-pas-le-moment-de-normaliser-la-presence-de-la-russie-estime-l-union-europeenne-irritee-par-la-venue-d-un-ministre-russe-au-g20-finances_8172125.html": "2026-09-01T12:36:13.062997+00:00",
   "https://www.franceinfo.fr/faits-divers/justice-proces/trente-ans-apres-le-meurtre-de-tupac-shakur-comment-la-justice-americaine-est-elle-finalement-parvenue-a-condamner-un-ancien-chef-de-gang_8171765.html": "2026-09-01T12:36:13.062997+00:00",
   "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/guerre-au-moyen-orient-le-president-iranien-appelle-les-etats-unis-a-revenir-a-la-table-des-negociations_8172074.html": "2026-09-01T12:36:13.062997+00:00",
@@ -16,7 +13,6 @@
   "https://www.franceinfo.fr/faits-divers/naufrage-d-un-chalutier-francais-au-large-de-l-angleterre-une-enquete-ouverte-un-navire-de-la-marine-nationale-envoye-sur-zone_8171984.html": "2026-09-01T12:36:13.062997+00:00",
   "https://www.franceinfo.fr/replay-radio/le-tour-de-la-question/aux-etats-unis-la-couverture-vaccinale-des-enfants-de-maternelle-recule_8168459.html": "2026-09-01T12:36:13.062997+00:00",
   "https://www.franceinfo.fr/monde/europe/migrants/crise-des-migrants-a-ceuta/l-espagne-ecarte-une-action-directe-marocaine-dans-la-crise-migratoire-a-ceuta-mais-denonce-une-desinformation-liee-a-israel-et-la-russie_8171981.html": "2026-09-01T15:50:26.652582+00:00",
-  "https://www.franceinfo.fr/monde/bali-des-rizieres-aux-temples-a-velo-l-ile-se-decouvre-autrement_8172332.html": "2026-09-01T15:50:26.652582+00:00",
   "https://www.franceinfo.fr/monde/chypre/l-epave-du-ferry-qui-a-coule-au-large-de-chypre-du-nord-a-ete-localisee_8172323.html": "2026-09-01T15:50:26.652582+00:00",
   "https://www.franceinfo.fr/france/lac-ontario-rebaptise-lac-amerique-comment-sont-choisis-les-noms-des-lacs-en-france_8170457.html": "2026-09-01T15:50:26.652582+00:00",
   "https://www.franceinfo.fr/faits-divers/justice-proces/royaume-uni-un-homme-juge-pour-avoir-drogue-viole-et-fait-livrer-sa-femme-a-d-autres-hommes-pendant-20-ans_8172104.html": "2026-09-01T15:50:26.652582+00:00",
@@ -31,15 +27,42 @@
   "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/six-mois-apres-le-debut-de-la-guerre-en-iran-donald-trump-cherche-toujours-une-porte-de-sortie-a-l-approche-des-elections-americaines-de-mi-mandat_8160953.html": "2026-09-01T18:33:28.347462+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/les-jours-surs-dans-le-ciel-russe-sont-revolus-declare-volodymyr-zelensky-aux-compagnies-aeriennes_8172764.html": "2026-09-01T21:28:48.999968+00:00",
   "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/le-prix-du-gaz-europeen-atteint-un-niveau-inedit-depuis-2023-apres-les-nouvelles-frappes-americaines-en-iran_8172704.html": "2026-09-01T21:28:48.999968+00:00",
-  "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/je-ne-sais-pas-ce-qui-attend-nos-enfants-a-kiev-l-angoisse-de-la-rentree-sous-les-bombes-apres-un-ete-meurtrier_8144936.html": "2026-09-01T21:28:48.999968+00:00"
+  "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/je-ne-sais-pas-ce-qui-attend-nos-enfants-a-kiev-l-angoisse-de-la-rentree-sous-les-bombes-apres-un-ete-meurtrier_8144936.html": "2026-09-01T21:28:48.999968+00:00",
+  "https://www.franceinfo.fr/monde/g20/la-presence-de-la-russie-au-g20-finance-a-cree-un-malaise-selon-le-canada_8172803.html": "2026-09-02T00:38:07.393634+00:00",
+  "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/apres-de-nouvelles-frappes-americaines-contre-l-iran-teheran-dit-lancer-une-riposte-decisive_8172800.html": "2026-09-02T00:38:07.393634+00:00",
+  "https://www.franceinfo.fr/monde/europe/allemagne/berlin-annonce-des-mesures-de-retorsion-contre-la-russie-accusee-d-etre-derriere-le-drone-explosif-de-l-aeroport-de-leipzig_8172794.html": "2026-09-02T00:38:07.393634+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "\"Les jours sûrs dans le ciel russe sont révolus\", déclare Volodymyr Zelensky aux compagnies aériennes Le président ukrainien a précisé que si elle n'était pas visée \"en soi\", l'aviation civile n'avait \"pas sa place dans un ciel infesté de drones\". Des avertissements qualifiés par Vladimir Poutine de \"terroriste\".",
+   "title": "La présence de la Russie au G20 Finance a créé un \"malaise\", selon le Canada Cette présence du ministre des Finances russe n'a \"pas eu d'impact\" sur l'issue des discussions, a pour sa part affirmé mardi son homologue américain et hôte de l'événement, Scott Bessent.",
+   "link": "https://www.franceinfo.fr/monde/g20/la-presence-de-la-russie-au-g20-finance-a-cree-un-malaise-selon-le-canada_8172803.html",
+   "summary": "La présence de la Russie au G20 Finance a créé un \"malaise\", selon le Canada",
+   "image": "https://www.franceinfo.fr/pictures/xGCY2-goHVKy-2Dv7YzCB_abiaw/16x0:1008x682/432x297/filters:format(jpg)/2026/09/02/6a9753c314ffc144533545.jpg",
+   "date": null,
+   "pubdate": "2026-09-02T00:38:07.393634+00:00"
+  },
+  {
+   "title": "Après de nouvelles frappes américaines contre l'Iran, Téhéran dit lancer une riposte \"décisive\"",
+   "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/apres-de-nouvelles-frappes-americaines-contre-l-iran-teheran-dit-lancer-une-riposte-decisive_8172800.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/YxkvN6QI_MyDRw4AyNet09XOHB8/0x65:1024x641/432x243/filters:format(jpg)/2026/09/02/6a974eb71e0af194096470.jpg",
+   "date": null,
+   "pubdate": "2026-09-02T00:38:07.393634+00:00"
+  },
+  {
+   "title": "Berlin annonce des mesures de rétorsion contre la Russie, accusée d'être derrière le drone explosif de l'aéroport de Leipzig",
+   "link": "https://www.franceinfo.fr/monde/europe/allemagne/berlin-annonce-des-mesures-de-retorsion-contre-la-russie-accusee-d-etre-derriere-le-drone-explosif-de-l-aeroport-de-leipzig_8172794.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/e8zFlDRQjKzfGtzwUSRRnoJexyM/0x0:1024x576/432x243/filters:format(jpg)/2026/09/01/6a9746807c685250239000.jpg",
+   "date": null,
+   "pubdate": "2026-09-02T00:38:07.393634+00:00"
+  },
+  {
+   "title": "\"Les jours sûrs dans le ciel russe sont révolus\", déclare Volodymyr Zelensky aux compagnies aériennes",
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/les-jours-surs-dans-le-ciel-russe-sont-revolus-declare-volodymyr-zelensky-aux-compagnies-aeriennes_8172764.html",
-   "summary": "\"Les jours sûrs dans le ciel russe sont révolus\", déclare Volodymyr Zelensky aux compagnies aériennes",
-   "image": "https://www.franceinfo.fr/pictures/waVSvxdN1XHTPgKg1sCEMhrgEdk/16x0:1008x682/432x297/filters:format(jpg)/2026/09/01/6a973e88f2cda137244070.jpg",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/MHV14z3psflhaCywhuikduTjZhs/0x53:1024x629/432x243/filters:format(jpg)/2026/09/01/6a973e88f2cda137244070.jpg",
    "date": null,
    "pubdate": "2026-09-01T21:28:48.999968+00:00"
   },
@@ -60,9 +83,9 @@
    "pubdate": "2026-09-01T21:28:48.999968+00:00"
   },
   {
-   "title": "• Direct • Direct Guerre au Moyen-Orient : l'Iran dit lancer une \"opération décisive\" contre des cibles américaines",
+   "title": "Guerre au Moyen-Orient : l'Iran dit lancer une \"opération décisive\" contre des cibles américaines",
    "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-donald-trump-promet-de-bombarder-l-iran-bien-plus-durement-si-le-pays-replique-aux-dernieres-frappes-americaines_8172632.html",
-   "summary": "Guerre au Moyen-Orient : l'Iran dit lancer une \"opération décisive\" contre des cibles américaines",
+   "summary": "",
    "image": "https://www.franceinfo.fr/pictures/TPa_nEYw6ZOas5Ob81xlC5avK5E/0x53:1024x629/432x243/filters:format(jpg)/2026/09/01/6a97138a93566777201621.jpg",
    "date": null,
    "pubdate": "2026-09-01T18:33:28.347462+00:00"
@@ -108,34 +131,26 @@
    "pubdate": "2026-09-01T18:33:28.347462+00:00"
   },
   {
-   "title": "L'Espagne écarte une action directe marocaine dans la crise migratoire à Ceuta, mais dénonce une désinformation liée à Israël et la Russie",
+   "title": "15:41 vidéo 15 minutes 41 Entre modernité et traditions bien ancrées, comment vit-on en Corée du Sud ?",
+   "link": "https://www.franceinfo.fr/monde/coree-du-sud/entre-modernite-et-traditions-bien-ancrees-comment-vit-on-en-coree-du-sud_8161439.html",
+   "summary": "Entre modernité et traditions bien ancrées, comment vit-on en Corée du Sud ?",
+   "image": "https://www.franceinfo.fr/pictures/Odiglc81HL9lK42mg3tDs3dYQ2I/313x0:1114x801/100x100/filters:format(jpg)/2026/08/25/6a8e0cbcdd8ce024614058.jpg",
+   "date": null,
+   "pubdate": "2026-09-01T15:50:26.652582+00:00"
+  },
+  {
+   "title": "L'Espagne écarte une action directe marocaine dans la crise migratoire à Ceuta, mais dénonce une désinformation liée à Israël et la Russie Quelque 70 000 exilés sont arrivés sur le territoire espagnol fin juillet, lors de traversées qui ont fait près de 100 morts.",
    "link": "https://www.franceinfo.fr/monde/europe/migrants/crise-des-migrants-a-ceuta/l-espagne-ecarte-une-action-directe-marocaine-dans-la-crise-migratoire-a-ceuta-mais-denonce-une-desinformation-liee-a-israel-et-la-russie_8171981.html",
-   "summary": "",
+   "summary": "L'Espagne écarte une action directe marocaine dans la crise migratoire à Ceuta, mais dénonce une désinformation liée à Israël et la Russie",
    "image": "https://www.franceinfo.fr/pictures/wf0cFx2OhfVQTjW8daPgkKjRf7k/0x39:1024x615/432x243/filters:format(jpg)/2026/09/01/6a96d0e6bc272557668033.jpg",
    "date": null,
    "pubdate": "2026-09-01T15:50:26.652582+00:00"
   },
   {
-   "title": "4:15 vidéo 4 minutes 15 Bali : des rizières aux temples, à vélo, l'île se découvre autrement",
-   "link": "https://www.franceinfo.fr/monde/bali-des-rizieres-aux-temples-a-velo-l-ile-se-decouvre-autrement_8172332.html",
-   "summary": "Bali : des rizières aux temples, à vélo, l'île se découvre autrement",
-   "image": "https://www.franceinfo.fr/pictures/gBVR7ewMGb6mQdubQhumUt9mKKE/0x22:815x481/432x243/filters:format(jpg)/2026/09/01/6a96e9df97ad3896895091.jpg",
-   "date": null,
-   "pubdate": "2026-09-01T15:50:26.652582+00:00"
-  },
-  {
-   "title": "L'épave du ferry qui a coulé au large de Chypre du Nord a été localisée",
+   "title": "L'épave du ferry qui a coulé au large de Chypre du Nord a été localisée Un bateau de croisière avec 267 personnes à bord a fait naufrage dimanche, au large des côtes de Chypre du Nord. Le bilan provisoire est d'au moins 8 morts et 20 disparus.",
    "link": "https://www.franceinfo.fr/monde/chypre/l-epave-du-ferry-qui-a-coule-au-large-de-chypre-du-nord-a-ete-localisee_8172323.html",
-   "summary": "",
+   "summary": "L'épave du ferry qui a coulé au large de Chypre du Nord a été localisée",
    "image": "https://www.franceinfo.fr/pictures/0ghD1yu-vkr0XWV83BmH26fxTic/0x53:1024x629/432x243/filters:format(jpg)/2026/09/01/6a96e62eed9fe146009937.jpg",
-   "date": null,
-   "pubdate": "2026-09-01T15:50:26.652582+00:00"
-  },
-  {
-   "title": "15:41 vidéo 15 minutes 41 Entre modernité et traditions bien ancrées, comment vit-on en Corée du Sud ?",
-   "link": "https://www.franceinfo.fr/monde/coree-du-sud/entre-modernite-et-traditions-bien-ancrees-comment-vit-on-en-coree-du-sud_8161439.html",
-   "summary": "Entre modernité et traditions bien ancrées, comment vit-on en Corée du Sud ?",
-   "image": "https://www.franceinfo.fr/pictures/Odiglc81HL9lK42mg3tDs3dYQ2I/313x0:1114x801/100x100/filters:format(jpg)/2026/08/25/6a8e0cbcdd8ce024614058.jpg",
    "date": null,
    "pubdate": "2026-09-01T15:50:26.652582+00:00"
   },
@@ -242,30 +257,6 @@
    "image": "https://www.franceinfo.fr/pictures/hZz6Emwa12OW3WPn8LZB-msbzuQ/0x386:7360x4526/432x243/filters:format(jpg)/2026/09/01/6a9676590a26e836871768.jpg",
    "date": null,
    "pubdate": "2026-09-01T09:31:23.951901+00:00"
-  },
-  {
-   "title": "2:21 audio 2 minutes 21 Le Japon veut pouvoir géolocaliser ses ressortissants à l'étranger en cas de crise Face à la multiplication des crises à l'étranger, le gouvernement japonais envisage de lancer dès 2027 une application permettant de localiser en permanence, sur la base du volontariat, ses citoyens voyageant hors du pays.",
-   "link": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/le-japon-veut-pouvoir-geolocaliser-ses-ressortissants-a-l-etranger-en-cas-de-crise_8144831.html",
-   "summary": "Le Japon veut pouvoir géolocaliser ses ressortissants à l'étranger en cas de crise",
-   "image": "https://www.franceinfo.fr/pictures/MGO7KO5cU13np0OmBJ1LR_Y3Lho/0x85:1639x1007/432x243/filters:format(jpg)/2026/08/31/6a94fff5bdbfa386002583.jpg",
-   "date": null,
-   "pubdate": "2026-09-01T09:31:23.951901+00:00"
-  },
-  {
-   "title": "En Chine, les capacités d'énergie solaire dépassent désormais celles du charbon Le pays, premier émetteur mondial de gaz à effet de serre responsables du changement climatique, s'est engagé à atteindre le pic de ses émissions d'ici à 2030 et la neutralité carbone d'ici à 2060.",
-   "link": "https://www.franceinfo.fr/environnement/energie/en-chine-les-capacites-d-energie-solaire-depassent-desormais-celles-du-charbon_8171678.html",
-   "summary": "En Chine, les capacités d'énergie solaire dépassent désormais celles du charbon",
-   "image": "https://www.franceinfo.fr/pictures/M1WL7-INlvzY_jDoCMAsFaqmpLk/0x320:6144x3776/432x243/filters:format(jpg)/2026/09/01/6a967224cc5ae368811131.jpg",
-   "date": null,
-   "pubdate": "2026-09-01T09:31:23.951901+00:00"
-  },
-  {
-   "title": "Guerre en Ukraine : une attaque russe \"massive\" fait 12 morts à Kiev et dans sa région L'armée russe a ciblé \"délibérément des installations civiles et des bâtiments résidentiels\", a déclaré Tymur Tkachenko, qui dirige l'administration militaire de la région de Kiev qui entoure la capitale.",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-une-attaque-russe-massive-fait-neuf-morts-a-kiev-et-dans-sa-region_8171675.html",
-   "summary": "Guerre en Ukraine : une attaque russe \"massive\" fait 12 morts à Kiev et dans sa région",
-   "image": "https://www.franceinfo.fr/pictures/glGyl9dnK5a0KgHbuye0PnCVN7c/0x0:1024x576/432x243/filters:format(jpg)/2026/09/01/6a969fa4ccd4e401219918.jpg",
-   "date": null,
-   "pubdate": "2026-09-01T06:36:26.831317+00:00"
   },
   {
    "title": ": Reportage 4:46 audio 4 minutes 46 : Reportage Visite du pape à Metz : \"C'est un formidable coup de projecteur sur la ville\", estime le maire",
