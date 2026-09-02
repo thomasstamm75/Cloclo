@@ -1,5 +1,5 @@
 {
- "etag": "\"7ededeacd2216f01ac1eaf412b1bae7c-gzip\"",
+ "etag": "\"150cbeb169d1a189124c4a54498ae9e5-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/j-essaie-d-y-aller-cinq-six-fois-par-semaine-a-16-ou-17-ans-ils-sont-deja-accros-a-la-salle-de-sport_8136965.html": "2026-08-31T15:24:51.780646+00:00",
@@ -8,37 +8,69 @@
   "https://www.franceinfo.fr/societe/euthanasie/comprendre-les-debats-sur-la-fin-de-vie/": "2026-08-31T18:24:49.830768+00:00",
   "https://www.franceinfo.fr/societe/nos-jours-heureux/nos-jours-heureux-baignade-salee-deluge-et-sentiment-de-liberte-a-deauville-la-journee-des-oublies-des-vacances-vire-a-la-formidable-odyssee_8155004.html": "2026-08-31T21:25:17.704742+00:00",
   "https://www.franceinfo.fr/culture/musique/tout-le-monde-les-ecoutait-ou-les-subissait-peut-on-encore-parler-de-hits-de-l-ete-comme-avant-les-reseaux-sociaux_8155445.html": "2026-09-01T18:33:18.227663+00:00",
-  "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/une-association-de-protection-de-l-enfance-saisit-la-justice-contre-la-messe-du-pape-leon-xiv-prevue-place-de-la-concorde_8173262.html": "2026-09-02T06:38:43.493578+00:00",
-  "https://www.franceinfo.fr/culture/musique/patrick-bruel/affaire-de-violences-sexuelles/les-feministes-peuvent-au-travers-de-leurs-actions-faire-peur-a-des-agresseurs-reagit-une-militante-de-noustoutes-apres-l-annulation-de-la-tournee-de-patrick-bruel_8173217.html": "2026-09-02T06:38:43.493578+00:00",
   "https://www.franceinfo.fr/societe/racisme/une-petition-demande-la-deprogrammation-du-banquet-du-canon-francais-a-riorges-dans-la-loire_8173514.html": "2026-09-02T09:30:16.857517+00:00",
   "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/l-invite-politique-du-mercredi-02-septembre-2026_8167568.html": "2026-09-02T09:30:16.857517+00:00",
   "https://www.franceinfo.fr/internet/intelligence-artificielle/des-references-inventees-erronees-un-magistrat-deplore-l-augmentation-de-l-utilisation-de-l-ia-dans-des-requetes-administratives_8173352.html": "2026-09-02T09:30:16.857517+00:00",
   "https://www.franceinfo.fr/societe/religion/sanctionner-le-port-du-voile-edouard-philippe-juge-la-proposition-du-rn-inconstitutionnelle-et-scandaleuse_8173319.html": "2026-09-02T09:30:16.857517+00:00",
   "https://www.franceinfo.fr/societe/harcelement-sexuel/la-ciivise-reclame-des-garanties-pour-les-eleves-qui-repondront-au-questionnaire-sur-les-violences-sexuelles-distrubue-dans-les-ecoles_8173751.html": "2026-09-02T12:36:24.189622+00:00",
   "https://www.franceinfo.fr/societe/seconde-guerre-mondiale/un-centre-equestre-des-yvelines-rebaptise-du-nom-d-un-ancien-cavalier-et-milicien-sous-l-occupation-l-opposition-municipale-se-dit-outree_8173757.html": "2026-09-02T12:36:24.189622+00:00",
-  "https://www.franceinfo.fr/culture/musique/patrick-bruel/affaire-de-violences-sexuelles/patrick-bruel-annule-sa-tournee-c-est-la-chose-la-plus-decente-reagit-le-maire-lille-qui-s-etait-oppose-a-la-venue-du-chanteur-dans-sa-ville_8173748.html": "2026-09-02T12:36:24.189622+00:00",
   "https://www.franceinfo.fr/societe/education/cout-de-la-rentree-universitaire-depuis-le-covid-les-politiques-n-ont-rien-fait-denonce-la-presidente-d-une-federation-etudiante_8173379.html": "2026-09-02T12:36:24.189622+00:00",
   "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-la-reforme-du-concours-des-enseignants-a-t-elle-permis-de-recruter-quasiment-a-plein-comme-l-affirme-le-ministre-de-l-education-nationale_8171921.html": "2026-09-02T12:36:24.189622+00:00",
   "https://www.franceinfo.fr/societe/drogue/info-franceinfo-plus-de-230-kilos-de-cocaine-decouverts-dans-le-systeme-de-ventilation-d-un-poids-lourd-en-cote-d-or-pres-de-7-millions-d-euros-de-valeur-estimee_8173607.html": "2026-09-02T12:36:24.189622+00:00",
   "https://www.franceinfo.fr/societe/homophobie/agression-a-paris-du-president-d-une-association-lgbt-le-suspect-mis-en-examen-pour-violences-aggravees_8173592.html": "2026-09-02T12:36:24.189622+00:00",
   "https://www.franceinfo.fr/replay-radio/l-il-de-constance/doudoune-air-fryer-sac-cabaia-et-si-votre-placard-en-disait-plus-long-sur-vous-que-les-sondages_8144915.html": "2026-09-02T12:36:24.189622+00:00",
   "https://france3-regions.franceinfo.fr/paris-ile-de-france/paris/il-y-a-un-sujet-de-confiance-apres-les-scandales-dans-le-periscolaire-parisien-la-frequentation-des-centres-de-loisirs-en-baisse-3410009.html": "2026-09-02T12:36:24.189622+00:00",
-  "https://france3-regions.franceinfo.fr/occitanie/haute-garonne/toulouse/largage-mediatique-efficacite-en-question-cout-tres-eleve-le-bilan-tres-critique-de-l-avion-militaire-a400m-contre-les-incendies-en-gironde-3409613.html": "2026-09-02T12:36:24.189622+00:00",
   "https://www.franceinfo.fr/culture/musique/patrick-bruel/affaire-de-violences-sexuelles/ou-en-est-la-procedure-judiciaire-depuis-la-mise-en-examen-de-patrick-bruel-vise-par-une-trentaine-de-plaintes-pour-violences-sexuelles_8173547.html": "2026-09-02T15:35:40.501636+00:00",
   "https://www.franceinfo.fr/societe/justice/un-homme-condamne-a-cinq-ans-de-prison-ferme-dans-les-pyrenees-orientales-pour-quatre-departs-de-feu-cet-ete_8174000.html": "2026-09-02T15:35:40.501636+00:00",
   "https://www.franceinfo.fr/societe/education/je-me-retrouve-sans-travail-des-enseignants-contractuels-manifestent-pour-denoncer-leur-non-renouvellement-cette-annee_8173829.html": "2026-09-02T15:35:40.501636+00:00",
   "https://www.franceinfo.fr/economie/emploi/les-livreurs-de-repas-mieux-payes-depuis-le-1er-septembre_8174006.html": "2026-09-02T18:33:00.713261+00:00",
   "https://www.franceinfo.fr/politique/raphael-glucksmann/primaire-du-ps-pourquoi-l-organisation-de-debats-semble-deja-poser-probleme_8174093.html": "2026-09-02T18:33:00.713261+00:00",
   "https://www.franceinfo.fr/replay-radio/la-question-des-informes/a-quoi-pourrait-ressembler-une-defense-europeenne_8168390.html": "2026-09-02T18:33:00.713261+00:00",
-  "https://www.franceinfo.fr/societe/lgbt/agression-homophobe-je-vais-te-tuer-sale-pede_8174210.html": "2026-09-02T18:33:00.713261+00:00"
+  "https://www.franceinfo.fr/societe/lgbt/agression-homophobe-je-vais-te-tuer-sale-pede_8174210.html": "2026-09-02T18:33:00.713261+00:00",
+  "https://www.franceinfo.fr/societe/education/education-faut-il-apprendre-a-lire-des-la-maternelle_8174441.html": "2026-09-02T21:28:17.457713+00:00",
+  "https://www.franceinfo.fr/societe/harcelement-sexuel/un-professeur-de-sport-du-pas-de-calais-mis-en-examen-pour-agressions-sexuelles-et-viols_8174435.html": "2026-09-02T21:28:17.457713+00:00",
+  "https://www.franceinfo.fr/societe/racisme/je-l-ai-vecu-comme-une-volonte-de-tuer-temoigne-une-elue-du-rhone-victime-d-une-agression-raciste-avec-son-conjoint_8174351.html": "2026-09-02T21:28:17.457713+00:00",
+  "https://www.franceinfo.fr/monde/qatar/le-parquet-financier-requiert-un-proces-contre-quatre-personnes-dans-l-enquete-sur-l-attribution-du-mondial-2022-au-qatar_8174336.html": "2026-09-02T21:28:17.457713+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "1:05 vidéo 1 minute 5 Les livreurs de repas mieux payés depuis le 1er septembre Les livreurs de repas à vélo ou motorisés voient leur rémunération augmenter en France, depuis le mardi 1er septembre. Le taux horaire minimum négocié avec les plateformes passe de 11,75 euros brut par heure à 19 euros, après avoir chuté de 20% en moyenne ces dernières années en tenant compte de l’inflation.",
+   "title": "2:17 vidéo 2 minutes 17 Éducation : faut-il apprendre à lire dès la maternelle ? À trois ans et demi, Manon sait déjà lire. Un apprentissage précoce défendu par la chercheuse Céline Alvarez, qui souhaite voir la lecture commencer dès la maternelle. Une méthode qui séduit certains enseignants, mais suscite aussi des réserves dans le primaire.",
+   "link": "https://www.franceinfo.fr/societe/education/education-faut-il-apprendre-a-lire-des-la-maternelle_8174441.html",
+   "summary": "Éducation : faut-il apprendre à lire dès la maternelle ?",
+   "image": "https://www.franceinfo.fr/pictures/9LNXi2mdXZquwyWhfQY_2CRcYQ4/20x0:767x513/432x297/filters:format(jpg)/2026/09/02/6a988b1cac3b4464047619.jpg",
+   "date": null,
+   "pubdate": "2026-09-02T21:28:17.457713+00:00"
+  },
+  {
+   "title": "Un professeur de sport du Pas-de-Calais mis en examen pour agressions sexuelles et viols",
+   "link": "https://www.franceinfo.fr/societe/harcelement-sexuel/un-professeur-de-sport-du-pas-de-calais-mis-en-examen-pour-agressions-sexuelles-et-viols_8174435.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/YNV8ndv6IC4JWG9hSddg7qYMqO4/0x53:1024x629/432x243/filters:format(jpg)/2026/09/02/6a9887e2080e1356961957.jpg",
+   "date": null,
+   "pubdate": "2026-09-02T21:28:17.457713+00:00"
+  },
+  {
+   "title": "\"Je l'ai vécu comme une volonté de tuer\", témoigne une élue du Rhône victime d'une agression raciste avec son conjoint",
+   "link": "https://www.franceinfo.fr/societe/racisme/je-l-ai-vecu-comme-une-volonte-de-tuer-temoigne-une-elue-du-rhone-victime-d-une-agression-raciste-avec-son-conjoint_8174351.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/G2XHUIsLMRvk5laxO1jlwn4lf-A/0x593:5704x3802/432x243/filters:format(jpg)/2026/09/02/6a987421937cb768114853.jpg",
+   "date": null,
+   "pubdate": "2026-09-02T21:28:17.457713+00:00"
+  },
+  {
+   "title": "Le parquet financier requiert un procès contre quatre personnes dans l'enquête sur l'attribution du Mondial 2022 au Qatar",
+   "link": "https://www.franceinfo.fr/monde/qatar/le-parquet-financier-requiert-un-proces-contre-quatre-personnes-dans-l-enquete-sur-l-attribution-du-mondial-2022-au-qatar_8174336.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/KzNWuL7BPzu3yaPTov2iBYUlCLo/0x53:1024x629/432x243/filters:format(jpg)/2026/09/02/6a986e58243f5974384938.jpg",
+   "date": null,
+   "pubdate": "2026-09-02T21:28:17.457713+00:00"
+  },
+  {
+   "title": "1:05 vidéo 1 minute 5 Les livreurs de repas mieux payés depuis le 1er septembre",
    "link": "https://www.franceinfo.fr/economie/emploi/les-livreurs-de-repas-mieux-payes-depuis-le-1er-septembre_8174006.html",
    "summary": "Les livreurs de repas mieux payés depuis le 1er septembre",
-   "image": "https://www.franceinfo.fr/pictures/y9kKoSeWjCRs_q8Uom27002ya4A/0x0:900x1600/fit-in/432x297/filters:upscale():fill(blur):format(jpg)/2026/09/02/6a9834b8df9eb064511547.jpg",
+   "image": "https://www.franceinfo.fr/pictures/ELRyPq1dVHU4fo7xRcDtX4ySPno/0x0:900x1600/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/02/6a9834b8df9eb064511547.jpg",
    "date": null,
    "pubdate": "2026-09-02T18:33:00.713261+00:00"
   },
@@ -83,34 +115,26 @@
    "pubdate": "2026-09-02T15:35:40.501636+00:00"
   },
   {
-   "title": "\"Je me retrouve sans travail\" : des enseignants contractuels manifestent pour dénoncer leur non-renouvellement cette année",
+   "title": "\"Je me retrouve sans travail\" : des enseignants contractuels manifestent pour dénoncer leur non-renouvellement cette année L'Education nationale a décidé de ne pas renouveler plusieurs centaines d'enseignants contractuels cette année. Ces professionnels dénoncent cette décision et se mobilisent devant les rectorats, notamment à Paris.",
    "link": "https://www.franceinfo.fr/societe/education/je-me-retrouve-sans-travail-des-enseignants-contractuels-manifestent-pour-denoncer-leur-non-renouvellement-cette-annee_8173829.html",
-   "summary": "",
+   "summary": "\"Je me retrouve sans travail\" : des enseignants contractuels manifestent pour dénoncer leur non-renouvellement cette année",
    "image": "https://www.franceinfo.fr/pictures/7K9lqFcYXwBT_iyOb7yLhS0nK8M/0x375:2000x1500/432x243/filters:format(jpg)/2026/09/02/6a98216addd69540333214.jpg",
    "date": null,
    "pubdate": "2026-09-02T15:35:40.501636+00:00"
   },
   {
-   "title": "La Ciivise réclame des garanties pour les élèves qui répondront au questionnaire sur les violences sexuelles distribué dans les écoles",
+   "title": "La Ciivise réclame des garanties pour les élèves qui répondront au questionnaire sur les violences sexuelles distribué dans les écoles Depuis septembre, des questions sur les violences sexistes et sexuelles ont été ajoutées au questionnaire distribué chaque année aux élèves sur le harcèlement scolaire.",
    "link": "https://www.franceinfo.fr/societe/harcelement-sexuel/la-ciivise-reclame-des-garanties-pour-les-eleves-qui-repondront-au-questionnaire-sur-les-violences-sexuelles-distrubue-dans-les-ecoles_8173751.html",
-   "summary": "",
+   "summary": "La Ciivise réclame des garanties pour les élèves qui répondront au questionnaire sur les violences sexuelles distribué dans les écoles",
    "image": "https://www.franceinfo.fr/pictures/NfW9pMhNNrhB4OcO290UOSGVvTw/0x0:1024x576/432x243/filters:format(jpg)/2026/09/02/6a980cc9d4574962262210.jpg",
    "date": null,
    "pubdate": "2026-09-02T12:36:24.189622+00:00"
   },
   {
-   "title": "Un centre équestre des Yvelines rebaptisé du nom d'un ancien cavalier et milicien sous l'Occupation, l'opposition municipale se dit \"outrée\"",
+   "title": "Un centre équestre des Yvelines rebaptisé du nom d'un ancien cavalier et milicien sous l'Occupation, l'opposition municipale se dit \"outrée\" La mairie de Bois-d'Arcy rebaptise son centre équestre du nom de Pierre Jonquères d'Oriola, un milicien sous le régime de Vichy, ce qui provoque l'indignation de l'opposition, mercredi au micro de France Inter.",
    "link": "https://www.franceinfo.fr/societe/seconde-guerre-mondiale/un-centre-equestre-des-yvelines-rebaptise-du-nom-d-un-ancien-cavalier-et-milicien-sous-l-occupation-l-opposition-municipale-se-dit-outree_8173757.html",
-   "summary": "",
+   "summary": "Un centre équestre des Yvelines rebaptisé du nom d'un ancien cavalier et milicien sous l'Occupation, l'opposition municipale se dit \"outrée\"",
    "image": "https://www.franceinfo.fr/pictures/WQk7X_QpZuHYkbH-9HIvwAp6TK8/0x208:4000x2458/432x243/filters:format(jpg)/2026/09/02/6a980c54be175743711451.jpg",
-   "date": null,
-   "pubdate": "2026-09-02T12:36:24.189622+00:00"
-  },
-  {
-   "title": "1:58 vidéo 1 minute 58 Patrick Bruel annule sa tournée : \"C'est la chose la plus décente\", réagit le maire Lille, qui s'était opposé à la venue du chanteur dans sa ville",
-   "link": "https://www.franceinfo.fr/culture/musique/patrick-bruel/affaire-de-violences-sexuelles/patrick-bruel-annule-sa-tournee-c-est-la-chose-la-plus-decente-reagit-le-maire-lille-qui-s-etait-oppose-a-la-venue-du-chanteur-dans-sa-ville_8173748.html",
-   "summary": "Patrick Bruel annule sa tournée : \"C'est la chose la plus décente\", réagit le maire Lille, qui s'était opposé à la venue du chanteur dans sa ville",
-   "image": "https://www.franceinfo.fr/pictures/_AzjHFJIOeWnmeZGarVopUGbMkE/135x0:1399x711/432x243/filters:format(jpg)/2026/09/02/6a980c12b1180834886396.jpg",
    "date": null,
    "pubdate": "2026-09-02T12:36:24.189622+00:00"
   },
@@ -163,14 +187,6 @@
    "pubdate": "2026-09-02T12:36:24.189622+00:00"
   },
   {
-   "title": "Largage médiatique, seulement six rotations, efficacité en question : le bilan très critiqué de l'avion militaire A400M contre les incendies en Gironde Mobilisé en urgence fin juillet pour lutter contre les incendies en Gironde, l’A400M a réalisé six largages de retardant en trois jours. Un mois plus tard, son efficacité reste difficile à évaluer et son coût élevé interroge, alors que les pilotes de la Sécurité civile contestent l’intérêt opérationnel de cette expérimentation.",
-   "link": "https://france3-regions.franceinfo.fr/occitanie/haute-garonne/toulouse/largage-mediatique-efficacite-en-question-cout-tres-eleve-le-bilan-tres-critique-de-l-avion-militaire-a400m-contre-les-incendies-en-gironde-3409613.html",
-   "summary": "Largage médiatique, seulement six rotations, efficacité en question : le bilan très critiqué de l'avion militaire A400M contre les incendies en Gironde",
-   "image": "https://www.franceinfo.fr/pictures/NvrwWwCUnMnKOq-DOtUOFL-lhlk/432x243/filters:format(jpg)/2026/09/02/6a97a65b927ef164423279.jpg",
-   "date": null,
-   "pubdate": "2026-09-02T12:36:24.189622+00:00"
-  },
-  {
    "title": "Une pétition demande la déprogrammation du banquet du Canon français à Riorges, dans la Loire Cette pétition, lancée par plusieurs partis de gauche, pointe les \"chants fascistes, saluts nazis, propos racistes, homophobes\" lors de précédents banquets du Canon français, rapporte mercredi ICI Saint-Etienne Loire.",
    "link": "https://www.franceinfo.fr/societe/racisme/une-petition-demande-la-deprogrammation-du-banquet-du-canon-francais-a-riorges-dans-la-loire_8173514.html",
    "summary": "Une pétition demande la déprogrammation du banquet du Canon français à Riorges, dans la Loire",
@@ -201,22 +217,6 @@
    "image": "https://www.franceinfo.fr/pictures/PhUXQiJlCVQC0nIN1sTGTAZwtJc/0x0:1690x951/432x243/filters:format(jpg)/2026/09/02/6a97c857608a0692803591.jpg",
    "date": null,
    "pubdate": "2026-09-02T09:30:16.857517+00:00"
-  },
-  {
-   "title": "Une association de protection de l'enfance saisit la justice contre la messe du pape Léon XIV prévue place de la Concorde Une messe en plein air est organisée le 26 septembre. \"Il y a plein d'endroits pour les pratiquants, je ne vois pas pourquoi on aurait un espace public qui leur soit réservé\", estime l'association Mouv'Enfants, mercredi sur franceinfo.",
-   "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/une-association-de-protection-de-l-enfance-saisit-la-justice-contre-la-messe-du-pape-leon-xiv-prevue-place-de-la-concorde_8173262.html",
-   "summary": "Une association de protection de l'enfance saisit la justice contre la messe du pape Léon XIV prévue place de la Concorde",
-   "image": "https://www.franceinfo.fr/pictures/Pbpk-b0PoaxGdFLRqXuli08IxaY/0x53:1024x629/432x243/filters:format(jpg)/2026/09/02/6a97b99f13843014391738.jpg",
-   "date": null,
-   "pubdate": "2026-09-02T06:38:43.493578+00:00"
-  },
-  {
-   "title": "\"Les féministes peuvent, au travers de leurs actions, faire peur à des agresseurs\", réagit une militante de NousToutes, après l'annulation de la tournée de Patrick Bruel \"Ça devrait être quelque chose qui se normalise, ajoute-t-elle, mercredi sur France Inter, \"qu'il n'y ait pas de personne accusée par des dizaines de victimes et mise en examen, qui puisse se produire en toute impunité sur scène\".",
-   "link": "https://www.franceinfo.fr/culture/musique/patrick-bruel/affaire-de-violences-sexuelles/les-feministes-peuvent-au-travers-de-leurs-actions-faire-peur-a-des-agresseurs-reagit-une-militante-de-noustoutes-apres-l-annulation-de-la-tournee-de-patrick-bruel_8173217.html",
-   "summary": "\"Les féministes peuvent, au travers de leurs actions, faire peur à des agresseurs\", réagit une militante de NousToutes, après l'annulation de la tournée de Patrick Bruel",
-   "image": "https://www.franceinfo.fr/pictures/WaKJvqb5FnXdMMPav1zn77djKNg/432x243/filters:format(jpg)/2026/09/02/6a97a406ac8d7434915520.jpg",
-   "date": null,
-   "pubdate": "2026-09-02T06:38:43.493578+00:00"
   },
   {
    "title": "5:00 article 5 minutes \"Tout le monde les écoutait... ou les subissait\" : peut-on encore parler de \"hits de l'été\", comme avant les réseaux sociaux ?",
