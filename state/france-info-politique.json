@@ -1,19 +1,10 @@
 {
- "etag": "\"baf5ec09370e650b20b90ef928e1a817-gzip\"",
+ "etag": "\"f66e970ef516a7c8449449a10bed8dd8-gzip\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.franceinfo.fr/elections/presidentielle/les-socialistes-la-font-bien-la-droite-et-le-centre-peuvent-ils-encore-organiser-une-primaire-pour-la-presidentielle-de-2027_8171882.html": "2026-09-03T05:30:05.683790+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-a-atlanta-les-republicains-craignent-la-fin-de-l-ere-trump-a-l-approche-des-elections-de-mi-mandat-les-democrates-revent-de-revanche_8145842.html": "2026-09-03T06:36:54.583405+00:00",
-  "https://www.franceinfo.fr/politique/parlement-francais/assemblee-nationale/l-assemblee-nationale-ne-tiendra-pas-de-session-extraordinaire-en-septembre-la-rentree-prevue-en-octobre_8175056.html": "2026-09-03T09:31:04.513993+00:00",
-  "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/l-invite-politique-du-jeudi-03-septembre-2026_8167544.html": "2026-09-03T09:31:04.513993+00:00",
-  "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/vrai-ou-faux-l-absence-de-vote-du-budget-2027-coutera-t-elle-15-milliards-d-euros-a-l-etat_8144990.html": "2026-09-03T09:31:04.513993+00:00",
-  "https://www.franceinfo.fr/france/langues-regionale/le-ministre-de-l-education-nationale-veut-former-une-nouvelle-generation-de-professeurs-bilingues-en-vue-d-une-epreuve-en-langue-regionale-au-baccalaureat_8174942.html": "2026-09-03T09:31:04.513993+00:00",
-  "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/le-8h30-franceinfo-de-maud-bregeon_8144864.html": "2026-09-03T09:31:04.513993+00:00",
-  "https://www.franceinfo.fr/economie/automobile/essence/les-aides-et-le-guichet-grands-rouleurs-prolonges-d-un-mois-jusqu-au-30-septembre-face-a-la-hausse-des-prix-des-carburants_8174912.html": "2026-09-03T09:31:04.513993+00:00",
   "https://www.franceinfo.fr/politique/je-vous-demande-de-vous-arreter-comment-la-phrase-d-edouard-balladur-est-devenue-culte_8171597.html": "2026-09-03T09:31:04.513993+00:00",
   "https://www.franceinfo.fr/economie/immobilier/encadrement-des-loyers/la-prolongation-de-l-encadrement-des-loyers-debattue-a-partir-du-21-octobre-au-senat-selon-la-mairie-de-paris_8175380.html": "2026-09-03T12:36:40.392930+00:00",
-  "https://www.franceinfo.fr/replay-radio/les-informes-du-matin/tension-entre-la-russie-et-l-europe-budget-2027-les-informes-du-matin-du-jeudi-03-septembre-2026_8146097.html": "2026-09-03T11:00:00+00:00",
-  "https://www.franceinfo.fr/economie/crise/crise-de-la-dette/annuler-une-partie-de-la-dette-francaise-est-une-proposition-fantaisiste-selon-le-prix-nobel-d-economie-jean-tirole_8175131.html": "2026-09-03T12:36:40.392930+00:00",
   "https://www.franceinfo.fr/politique/affaire/financement-de-la-campagne-de-sarkozy/soupcons-de-financement-libyen-tout-comprendre-a-l-affaire/": "2026-09-03T12:36:40.392930+00:00",
   "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/tout-comprendre-au-proces-des-assistants-parlementaires-fn/": "2026-09-03T12:36:40.392930+00:00",
   "https://www.franceinfo.fr/politique/j-ai-fait-une-erreur-terrible-jean-luc-melenchon-admet-avoir-change-d-avis-sur-le-port-du-voile-islamique_8175281.html": "2026-09-03T15:32:23.507136+00:00",
@@ -21,67 +12,132 @@
   "https://www.franceinfo.fr/societe/harcelement-sexuel/stop-aux-boucs-emissaires-magistrats-et-commissaires-de-police-contestent-le-courrier-de-gerald-darmanin-sur-les-violences-sexuelles-sur-mineurs_8175497.html": "2026-09-03T15:32:23.507136+00:00",
   "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/haute-vienne/limoges/francois-hollande-sur-tous-les-fronts-politiques-et-mediatiques-ne-pensez-pas-que-chaque-visite-de-chalon-est-une-declaration-de-candidature-3410954.html": "2026-09-03T18:33:51.556629+00:00",
   "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/var/toulon/cyberharcelee-menacee-de-viol-depuis-huit-mois-cette-candidate-lfi-aux-senatoriales-decrit-un-enfer-j-ai-eu-peur-3410711.html": "2026-09-03T18:33:51.556629+00:00",
-  "https://www.franceinfo.fr/replay-jt/france-2/20-heures/pourquoi-le-rn-et-lfi-s-emprent-ils-du-voile_8175992.html": "2026-09-03T21:28:33.978986+00:00",
   "https://www.franceinfo.fr/politique/ps/primaire-socialiste/le-depute-emmanuel-maurel-annonce-sa-candidature-a-la-primaire-socialiste-pour-l-election-presidentielle_8176532.html": "2026-09-04T06:35:07.548221+00:00",
   "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-face-a-la-crise-agricole-sebastien-lecornu-veut-mettre-les-candidats-a-la-presidentielle-au-pied-du-mur_8145032.html": "2026-09-04T06:35:07.548221+00:00",
-  "https://www.franceinfo.fr/replay-magazine/franceinfo/sur-le-terrain/sur-le-terrain-du-3-septembre-2026-l-encadrement-des-loyers-est-il-impossible-a-faire-respecter_8176481.html": "2026-09-03T11:00:00+00:00",
   "https://www.franceinfo.fr/environnement/qu-est-ce-que-le-socialisme-ecologique-prone-par-olivier-faure_8175926.html": "2026-09-04T06:35:07.548221+00:00",
-  "https://www.franceinfo.fr/replay-magazine/franceinfo/sur-le-terrain/sur-le-terrain-du-3-septembre-2026-le-referendum-elargi-proposition-democratique-ou-populiste_8176436.html": "2026-09-03T11:00:00+00:00",
   "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/direct-la-ministre-de-l-agriculture-annie-genevard-doit-annoncer-des-mesures-d-aide-au-secteur-pour-faire-face-aux-canicules-et-a-la-secheresse_8176388.html": "2026-09-04T06:35:07.548221+00:00",
-  "https://www.franceinfo.fr/replay-magazine/franceinfo/sur-le-terrain/sur-le-terrain-du-3-septembre-2026-avec-quel-budget-s-adapter-aux-canicules_8176418.html": "2026-09-03T11:00:00+00:00",
   "https://www.franceinfo.fr/elections/presidentielle/on-ne-decouvre-rien-les-candidats-a-la-presidentielle-ont-ils-adapte-leur-programme-apres-les-canicules-d-un-ete-apocalyptique_8174960.html": "2026-09-04T06:35:07.548221+00:00",
   "https://www.franceinfo.fr/sante/handicap/direct-ecole-logement-accessibilite-emmanuel-macron-attendu-avec-des-annonces-a-la-conference-nationale-sur-le-handicap_8174987.html": "2026-09-04T06:35:07.548221+00:00",
-  "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-c-est-le-sauveur-en-saxe-anhalt-ulrich-siegmund-l-homme-le-plus-dangereux-d-allemagne-selon-der-spiegel-aux-portes-du-pouvoir_8147219.html": "2026-09-04T06:35:07.548221+00:00"
+  "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-c-est-le-sauveur-en-saxe-anhalt-ulrich-siegmund-l-homme-le-plus-dangereux-d-allemagne-selon-der-spiegel-aux-portes-du-pouvoir_8147219.html": "2026-09-04T06:35:07.548221+00:00",
+  "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/secheresse/annie-genevard-est-le-visage-d-un-etat-incapable-de-repondre-a-une-crise-majeure-denonce-l-eurodepute-rn-gilles-pennelle-apres-l-annonce-d-un-plan-pour-soutenir-les-agriculteurs_8176796.html": "2026-09-04T09:30:12.320905+00:00",
+  "https://www.franceinfo.fr/societe/harcelement-sexuel/il-y-a-un-vrai-probleme-de-moyens-mais-aussi-de-mentalite-dans-la-lutte-contre-les-violences-sexuelles-estime-andrea-bescond_8176628.html": "2026-09-04T09:30:12.320905+00:00",
+  "https://www.franceinfo.fr/politique/la-crise-agricole-et-les-candidats-au-pied-du-mur_8176745.html": "2026-09-04T09:30:12.320905+00:00",
+  "https://www.franceinfo.fr/politique/la-france-insoumise/le-budget-2027-ne-marchera-pas-d-un-point-de-vue-economique-estime-manuel-bompard_8176661.html": "2026-09-04T09:30:12.320905+00:00",
+  "https://www.franceinfo.fr/elections/presidentielle/manuel-bompard-reconnait-des-difficultes-a-obtenir-des-parrainages-pour-la-presidentielle-2027-et-appelle-les-elus-a-donner-un-coup-de-main_8176646.html": "2026-09-04T09:30:12.320905+00:00",
+  "https://www.franceinfo.fr/elections/presidentielle/si-je-me-lance-c-est-au-bon-moment-francois-hollande-pas-encore-candidat-mais-deja-en-campagne_8176607.html": "2026-09-04T09:30:12.320905+00:00",
+  "https://www.franceinfo.fr/replay-radio/le-monde-et-vous/avec-la-secheresse-la-recolte-de-mais-s-effondre-en-europe-de-la-hongrie-a-la-france_8168423.html": "2026-09-04T09:30:12.320905+00:00",
+  "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/vrai-ou-faux-avant-les-vacances-d-ete-commencaient-elles-le-14-juillet-comme-l-affirme-emmanuel-macron_8144984.html": "2026-09-04T09:30:12.320905+00:00",
+  "https://www.franceinfo.fr/elections/presidentielle/le-nouvel-age-du-socialisme-c-est-le-socialisme-ecologique-declare-olivier-faure-qui-souhaite-toujours-une-alliance-avec-les-ecologistes_8176595.html": "2026-09-04T09:30:12.320905+00:00",
+  "https://www.franceinfo.fr/politique/franchises-medicales-oui-nous-voulons-indexer-le-plafond-sur-l-inflation-confirme-la-ministre-de-la-sante_8176547.html": "2026-09-04T09:30:12.320905+00:00",
+  "https://www.franceinfo.fr/culture/livres/emprisonnement-du-journaliste-christophe-gleizes-en-algerie/il-n-y-a-plus-rien-qui-s-oppose-a-la-liberation-du-journaliste-christophe-gleizes-affirme-jean-noel-barrot_8176574.html": "2026-09-04T09:30:12.320905+00:00",
+  "https://www.franceinfo.fr/economie/medias/jean-noel-barrot-tres-etonne-et-afflige-de-constater-le-retour-de-xenia-fedorova-sur-cnews-et-le-jdnews_8176562.html": "2026-09-04T09:30:12.320905+00:00",
+  "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/l-invite-politique-du-vendredi-04-septembre-2026_8167499.html": "2026-09-04T09:30:12.320905+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "Le député Emmanuel Maurel annonce sa candidature à la primaire socialiste pour l'élection présidentielle \"Je crois profondément que l'on peut aller au deuxième tour et battre le Rassemblement national\", a assuré le fondateur du parti Gauche républicaine et socialiste, sur franceinfo.",
-   "link": "https://www.franceinfo.fr/politique/ps/primaire-socialiste/le-depute-emmanuel-maurel-annonce-sa-candidature-a-la-primaire-socialiste-pour-l-election-presidentielle_8176532.html",
-   "summary": "Le député Emmanuel Maurel annonce sa candidature à la primaire socialiste pour l'élection présidentielle",
-   "image": "https://www.franceinfo.fr/pictures/XR1bPDpIxR4Qfiadevtz9XNZRhw/109x0:7130x4827/432x297/filters:format(jpg)/2026/09/04/6a9a6537aca27629058409.jpg",
+   "title": "Annie Genevard est le \"visage d'un État incapable de répondre à une crise majeure\", dénonce l'eurodéputé RN Gilles Pennelle, après l'annonce d'un plan pour soutenir les agriculteurs Le plan de plus d'un milliard d'euros face annoncé par la ministre de l'Agriculture est un \"véritable scandale\" alors que les \"pertes dues à la sécheresse sont estimées à 10 milliards d'euros\", estime Gilles Pennelle, vendredi sur franceinfo.",
+   "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/secheresse/annie-genevard-est-le-visage-d-un-etat-incapable-de-repondre-a-une-crise-majeure-denonce-l-eurodepute-rn-gilles-pennelle-apres-l-annonce-d-un-plan-pour-soutenir-les-agriculteurs_8176796.html",
+   "summary": "Annie Genevard est le \"visage d'un État incapable de répondre à une crise majeure\", dénonce l'eurodéputé RN Gilles Pennelle, après l'annonce d'un plan pour soutenir les agriculteurs",
+   "image": "https://www.franceinfo.fr/pictures/9UVKKHORtCINE8sCnwJfcEhzWKY/26x0:5332x3648/432x297/filters:format(jpg)/2026/09/04/6a9a8dc5c67f3329002261.jpg",
    "date": null,
-   "pubdate": "2026-09-04T06:35:07.548221+00:00"
+   "pubdate": "2026-09-04T09:30:12.320905+00:00"
   },
   {
-   "title": ": Édito 2:34 audio 2 minutes 34 : Édito Face à la crise agricole, Sébastien Lecornu veut mettre les candidats à la présidentielle au pied du mur",
-   "link": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-face-a-la-crise-agricole-sebastien-lecornu-veut-mettre-les-candidats-a-la-presidentielle-au-pied-du-mur_8145032.html",
-   "summary": "Face à la crise agricole, Sébastien Lecornu veut mettre les candidats à la présidentielle au pied du mur",
-   "image": "https://www.franceinfo.fr/pictures/rfkfHY6SaUZosImdC3r_BCmMAVE/0x53:1024x629/432x243/filters:format(jpg)/2026/09/04/6a9a4d9db906e319305661.jpg",
-   "date": null,
-   "pubdate": "2026-09-04T06:35:07.548221+00:00"
-  },
-  {
-   "title": "Qu’est-ce que le \"socialisme écologique\" prôné par Olivier Faure ?",
-   "link": "https://www.franceinfo.fr/environnement/qu-est-ce-que-le-socialisme-ecologique-prone-par-olivier-faure_8175926.html",
+   "title": "\"Il y a un vrai problème de moyens\" mais aussi de \"mentalité\" dans la lutte contre les violences sexuelles, estime Andréa Bescond",
+   "link": "https://www.franceinfo.fr/societe/harcelement-sexuel/il-y-a-un-vrai-probleme-de-moyens-mais-aussi-de-mentalite-dans-la-lutte-contre-les-violences-sexuelles-estime-andrea-bescond_8176628.html",
    "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/GGzhMx2wS5CwFt_VKFs12TOo9H4/0x363:6977x4287/432x243/filters:format(jpg)/2026/08/31/6a9507bbbe712934925696.jpg",
+   "image": "https://www.franceinfo.fr/pictures/nR5Q4k03EhNAXPZ6CkbR1t-f03Y/0x0:1495x840/432x243/filters:format(jpg)/2026/09/04/6a9a8a0862458866936433.jpg",
    "date": null,
-   "pubdate": "2026-09-04T06:35:07.548221+00:00"
+   "pubdate": "2026-09-04T09:30:12.320905+00:00"
   },
   {
-   "title": "• Direct • Direct La ministre de l'Agriculture Annie Genevard doit annoncer des mesures d'aide au secteur pour faire face aux canicules et à la sécheresse",
-   "link": "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/direct-la-ministre-de-l-agriculture-annie-genevard-doit-annoncer-des-mesures-d-aide-au-secteur-pour-faire-face-aux-canicules-et-a-la-secheresse_8176388.html",
-   "summary": "La ministre de l'Agriculture Annie Genevard doit annoncer des mesures d'aide au secteur pour faire face aux canicules et à la sécheresse",
-   "image": "https://www.franceinfo.fr/pictures/yY8JVzmKiFnhUWvTXz-sFjZ0cSM/0x0:6194x3484/432x243/filters:format(jpg)/2026/09/04/6a9a4a9ad5715099200137.jpg",
+   "title": "1:19 vidéo 1 minute 19 La crise agricole et les candidats au pied du mur ?",
+   "link": "https://www.franceinfo.fr/politique/la-crise-agricole-et-les-candidats-au-pied-du-mur_8176745.html",
+   "summary": "La crise agricole et les candidats au pied du mur ?",
+   "image": "https://www.franceinfo.fr/pictures/ZsaSZLyIn3goaPmfqNFYPNdQoiY/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/04/6a9a871eaf968644491773.jpg",
    "date": null,
-   "pubdate": "2026-09-04T06:35:07.548221+00:00"
+   "pubdate": "2026-09-04T09:30:12.320905+00:00"
   },
   {
-   "title": "\"On ne découvre rien\" : les candidats à la présidentielle ont-ils adapté leur programme après les canicules d'un été \"apocalyptique\" ?",
-   "link": "https://www.franceinfo.fr/elections/presidentielle/on-ne-decouvre-rien-les-candidats-a-la-presidentielle-ont-ils-adapte-leur-programme-apres-les-canicules-d-un-ete-apocalyptique_8174960.html",
+   "title": "Le budget 2027 \"ne marchera pas d'un point de vue économique\", estime Manuel Bompard",
+   "link": "https://www.franceinfo.fr/politique/la-france-insoumise/le-budget-2027-ne-marchera-pas-d-un-point-de-vue-economique-estime-manuel-bompard_8176661.html",
    "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/0iwOFghoAjiBLkY8YmX2LO7EieU/0x285:5472x3363/432x243/filters:format(jpg)/2026/09/03/6a9966bd23f75280837282.jpg",
+   "image": "https://www.franceinfo.fr/pictures/EKzx_FXFQFqUCr8K61VgBr1M18M/0x0:1464x824/432x243/filters:format(jpg)/2026/09/04/6a9a7f559edf3123832398.png",
    "date": null,
-   "pubdate": "2026-09-04T06:35:07.548221+00:00"
+   "pubdate": "2026-09-04T09:30:12.320905+00:00"
   },
   {
-   "title": "• Direct • Direct Conférence nationale sur le handicap : Emmanuel Macron attendu pour un discours à la mi-journée",
-   "link": "https://www.franceinfo.fr/sante/handicap/direct-ecole-logement-accessibilite-emmanuel-macron-attendu-avec-des-annonces-a-la-conference-nationale-sur-le-handicap_8174987.html",
-   "summary": "Conférence nationale sur le handicap : Emmanuel Macron attendu pour un discours à la mi-journée",
-   "image": "https://www.franceinfo.fr/pictures/5S1pJZyUZH0MhB8Vk1uMKFO0now/0x53:1024x629/432x243/filters:format(jpg)/2026/09/03/6a992b8808383243281850.jpg",
+   "title": "Manuel Bompard reconnaît des difficultés à obtenir des parrainages pour la présidentielle 2027 et appelle les élus à \"donner un coup de main\"",
+   "link": "https://www.franceinfo.fr/elections/presidentielle/manuel-bompard-reconnait-des-difficultes-a-obtenir-des-parrainages-pour-la-presidentielle-2027-et-appelle-les-elus-a-donner-un-coup-de-main_8176646.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/h3X5CZKekFga1fXBA6KHHBQOH7o/0x0:1427x803/432x243/filters:format(jpg)/2026/09/04/6a9a7cf8d89b1089491798.png",
    "date": null,
-   "pubdate": "2026-09-04T06:35:07.548221+00:00"
+   "pubdate": "2026-09-04T09:30:12.320905+00:00"
+  },
+  {
+   "title": "1:43 vidéo 1 minute 43 \"Si je me lance, c'est au bon moment\" : François Hollande, pas encore candidat, mais déjà en campagne",
+   "link": "https://www.franceinfo.fr/elections/presidentielle/si-je-me-lance-c-est-au-bon-moment-francois-hollande-pas-encore-candidat-mais-deja-en-campagne_8176607.html",
+   "summary": "\"Si je me lance, c'est au bon moment\" : François Hollande, pas encore candidat, mais déjà en campagne",
+   "image": "https://www.franceinfo.fr/pictures/LfPXASHD9UardqtwTpQA0br56M0/49x0:1486x808/432x243/filters:format(jpg)/2026/09/04/6a9a77abb84b3651201895.jpg",
+   "date": null,
+   "pubdate": "2026-09-04T09:30:12.320905+00:00"
+  },
+  {
+   "title": "2:27 audio 2 minutes 27 Avec la sécheresse, la récolte de maïs s'effondre en Europe, de la Hongrie à la France",
+   "link": "https://www.franceinfo.fr/replay-radio/le-monde-et-vous/avec-la-secheresse-la-recolte-de-mais-s-effondre-en-europe-de-la-hongrie-a-la-france_8168423.html",
+   "summary": "Avec la sécheresse, la récolte de maïs s'effondre en Europe, de la Hongrie à la France",
+   "image": "https://www.franceinfo.fr/pictures/R9UGnioHLKnvFNKEljEvJxX8g1E/0x247:4752x2920/432x243/filters:format(jpg)/2026/09/03/6a99631f325ea885858558.jpg",
+   "date": null,
+   "pubdate": "2026-09-04T09:30:12.320905+00:00"
+  },
+  {
+   "title": ": Vrai ou faux 2:02 audio 2 minutes 2 : Vrai ou faux Avant, les vacances d'été commençaient-elles le 14 juillet , comme l'affirme Emmanuel Macron ?",
+   "link": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/vrai-ou-faux-avant-les-vacances-d-ete-commencaient-elles-le-14-juillet-comme-l-affirme-emmanuel-macron_8144984.html",
+   "summary": "Avant, les vacances d'été commençaient-elles le 14 juillet , comme l'affirme Emmanuel Macron ?",
+   "image": "https://www.franceinfo.fr/pictures/9M7xjq8PE82xN1E_YTryryhPrDY/0x53:1024x629/432x243/filters:format(jpg)/2026/09/04/6a9a72f4cb6ba144368898.jpg",
+   "date": null,
+   "pubdate": "2026-09-04T09:30:12.320905+00:00"
+  },
+  {
+   "title": "\"Le nouvel âge du socialisme, c'est le socialisme écologique\", déclare Olivier Faure qui souhaite toujours une alliance avec les Ecologistes",
+   "link": "https://www.franceinfo.fr/elections/presidentielle/le-nouvel-age-du-socialisme-c-est-le-socialisme-ecologique-declare-olivier-faure-qui-souhaite-toujours-une-alliance-avec-les-ecologistes_8176595.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/i5IqIQcc9Y7J4vatOhqk0Xx5Kbs/0x264:5068x3115/432x243/filters:format(jpg)/2026/04/12/69db752fdb24b584534755.jpg",
+   "date": null,
+   "pubdate": "2026-09-04T09:30:12.320905+00:00"
+  },
+  {
+   "title": "8:18 vidéo 8 minutes 18 Franchises médicales : \"Oui, nous voulons indexer le plafond sur l'inflation\", confirme la ministre de la Santé",
+   "link": "https://www.franceinfo.fr/politique/franchises-medicales-oui-nous-voulons-indexer-le-plafond-sur-l-inflation-confirme-la-ministre-de-la-sante_8176547.html",
+   "summary": "Franchises médicales : \"Oui, nous voulons indexer le plafond sur l'inflation\", confirme la ministre de la Santé",
+   "image": "https://www.franceinfo.fr/pictures/nwei-wt0nqdREJv1ZxuyIT--q8M/0x98:897x602/432x243/filters:format(jpg)/2026/09/04/6a9a71227ff18276812550.jpg",
+   "date": null,
+   "pubdate": "2026-09-04T09:30:12.320905+00:00"
+  },
+  {
+   "title": "\"Il n'y a plus rien qui s'oppose à la libération\" du journaliste Christophe Gleizes, affirme Jean-Noël Barrot \"Je sais que nous parviendrons à obtenir la libération\", du journaliste, détenu en Algérie depuis mai 2024, ajoute le chef de la diplomatie française, vendredi sur France Inter.",
+   "link": "https://www.franceinfo.fr/culture/livres/emprisonnement-du-journaliste-christophe-gleizes-en-algerie/il-n-y-a-plus-rien-qui-s-oppose-a-la-liberation-du-journaliste-christophe-gleizes-affirme-jean-noel-barrot_8176574.html",
+   "summary": "\"Il n'y a plus rien qui s'oppose à la libération\" du journaliste Christophe Gleizes, affirme Jean-Noël Barrot",
+   "image": "https://www.franceinfo.fr/pictures/DAbSqKDJt0bdqY9Xen-5hHYG2W4/0x0:1559x876/432x243/filters:format(jpg)/2026/09/04/6a9a78e6da018100995330.jpg",
+   "date": null,
+   "pubdate": "2026-09-04T09:30:12.320905+00:00"
+  },
+  {
+   "title": "Jean-Noël Barrot \"très étonné\" et \"affligé\" de constater le retour de Xenia Fedorova sur CNews et le JDNews \"Je souhaite que chacun puisse être mis face à ses responsabilités\", a poursuivi le ministre des Affaires étrangères, vendredi sur France Inter, alors que la chroniqueuse pro-Kremlin avait été visée par un arrêté d'expulsion.",
+   "link": "https://www.franceinfo.fr/economie/medias/jean-noel-barrot-tres-etonne-et-afflige-de-constater-le-retour-de-xenia-fedorova-sur-cnews-et-le-jdnews_8176562.html",
+   "summary": "Jean-Noël Barrot \"très étonné\" et \"affligé\" de constater le retour de Xenia Fedorova sur CNews et le JDNews",
+   "image": "https://www.franceinfo.fr/pictures/DEycoyoySK7t6bWB4Ga1xRKykFQ/0x0:1440x810/432x243/filters:format(jpg)/2026/09/04/6a9a790d4a40c652225356.jpg",
+   "date": null,
+   "pubdate": "2026-09-04T09:30:12.320905+00:00"
+  },
+  {
+   "title": "12:18 vidéo 12 minutes 18 Primaire du pôle socialiste : \"Oui, je serai candidat\", annonce Emmanuel Maurel, élu de la Gauche Républicaine et Socialiste Le député GRS du Val-d'Oise a annoncé ce vendredi 4 septembre se lancer dans la course pour porter les couleurs de la gauche social-démocrate à l'élection présidentielle de 2027. L'élu explique porter un programme basé sur \"un nouveau modèle de développement\" autour de \"trois ruptures : on démondialise, on démarchandise, on démocratise.\"",
+   "link": "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/l-invite-politique-du-vendredi-04-septembre-2026_8167499.html",
+   "summary": "Primaire du pôle socialiste : \"Oui, je serai candidat\", annonce Emmanuel Maurel, élu de la Gauche Républicaine et Socialiste",
+   "image": "https://www.franceinfo.fr/pictures/eFEIR_dl9wZdTiu-v6cFfbqDp50/0x0:1920x1080/432x243/filters:format(jpg)/2026/09/04/6a9a82ab19f07775295915.jpg",
+   "date": null,
+   "pubdate": "2026-09-04T09:30:12.320905+00:00"
   },
   {
    "title": ": Reportage 4:57 audio 4 minutes 57 : Reportage \"C'est le sauveur\" : Ulrich Siegmund \"l’homme le plus dangereux d’Allemagne\" selon \"Der Spiegel\", aux portes d'une victoire historique",
@@ -92,12 +148,52 @@
    "pubdate": "2026-09-04T06:35:07.548221+00:00"
   },
   {
-   "title": "1:53 vidéo 1 minute 53 Pourquoi le RN et LFI s’emparent-ils du voile ?",
-   "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/pourquoi-le-rn-et-lfi-s-emprent-ils-du-voile_8175992.html",
-   "summary": "Pourquoi le RN et LFI s’emparent-ils du voile ?",
-   "image": "https://www.franceinfo.fr/pictures/T6GBE6SnWMxSXyYPgDVj4qibs_4/0x0:1920x1080/432x243/filters:format(jpg)/2026/09/03/6a99c90aee9dd581846284.jpg",
+   "title": "Le député Emmanuel Maurel annonce sa candidature à la primaire socialiste pour l'élection présidentielle \"Je crois profondément que l'on peut aller au deuxième tour et battre le Rassemblement national\", a assuré le fondateur du parti Gauche républicaine et socialiste, sur franceinfo.",
+   "link": "https://www.franceinfo.fr/politique/ps/primaire-socialiste/le-depute-emmanuel-maurel-annonce-sa-candidature-a-la-primaire-socialiste-pour-l-election-presidentielle_8176532.html",
+   "summary": "Le député Emmanuel Maurel annonce sa candidature à la primaire socialiste pour l'élection présidentielle",
+   "image": "https://www.franceinfo.fr/pictures/U7PVWR1SUMC1XTRQTEfhsy9U3Qg/0x377:7240x4449/432x243/filters:format(jpg)/2026/09/04/6a9a6537aca27629058409.jpg",
    "date": null,
-   "pubdate": "2026-09-03T21:28:33.978986+00:00"
+   "pubdate": "2026-09-04T06:35:07.548221+00:00"
+  },
+  {
+   "title": ": Édito 2:34 audio 2 minutes 34 Face à la crise agricole, Sébastien Lecornu veut mettre les candidats à la présidentielle au pied du mur Après un été caniculaire qui a durement frappé le monde agricole, le gouvernement prépare des mesures d’aide malgré des finances contraintes. Sébastien Lecornu veut aussi faire de cette crise un enjeu de la campagne présidentielle et placer les candidats face a leurs responsabilités.",
+   "link": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-face-a-la-crise-agricole-sebastien-lecornu-veut-mettre-les-candidats-a-la-presidentielle-au-pied-du-mur_8145032.html",
+   "summary": "Face à la crise agricole, Sébastien Lecornu veut mettre les candidats à la présidentielle au pied du mur",
+   "image": "https://www.franceinfo.fr/pictures/rfkfHY6SaUZosImdC3r_BCmMAVE/0x53:1024x629/432x243/filters:format(jpg)/2026/09/04/6a9a4d9db906e319305661.jpg",
+   "date": null,
+   "pubdate": "2026-09-04T06:35:07.548221+00:00"
+  },
+  {
+   "title": "Qu’est-ce que le \"socialisme écologique\" prôné par Olivier Faure ? Après un été caniculaire historique, le premier secrétaire du Parti socialiste a présenté les contours de son plan écologique samedi 29 août à Blois. Officiellement candidat à la primaire de la gauche, le numéro un du parti entend imprimer sa marque sur ce thème désormais incontournable dans la course à l’Elysée.",
+   "link": "https://www.franceinfo.fr/environnement/qu-est-ce-que-le-socialisme-ecologique-prone-par-olivier-faure_8175926.html",
+   "summary": "Qu’est-ce que le \"socialisme écologique\" prôné par Olivier Faure ?",
+   "image": "https://www.franceinfo.fr/pictures/GGzhMx2wS5CwFt_VKFs12TOo9H4/0x363:6977x4287/432x243/filters:format(jpg)/2026/08/31/6a9507bbbe712934925696.jpg",
+   "date": null,
+   "pubdate": "2026-09-04T06:35:07.548221+00:00"
+  },
+  {
+   "title": "• Direct Crise agricole : le gouvernement annonce un plan de plus d'un milliard d'euros pour soutenir le secteur Ce dispositif doit permettre \"d'indemniser rapidement les pertes et préserver notre potentiel de production\", selon la ministre de l'Agriculture, Annie Genevard.",
+   "link": "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/direct-la-ministre-de-l-agriculture-annie-genevard-doit-annoncer-des-mesures-d-aide-au-secteur-pour-faire-face-aux-canicules-et-a-la-secheresse_8176388.html",
+   "summary": "Crise agricole : le gouvernement annonce un plan de plus d'un milliard d'euros pour soutenir le secteur",
+   "image": "https://www.franceinfo.fr/pictures/yY8JVzmKiFnhUWvTXz-sFjZ0cSM/0x0:6194x3484/432x243/filters:format(jpg)/2026/09/04/6a9a4a9ad5715099200137.jpg",
+   "date": null,
+   "pubdate": "2026-09-04T06:35:07.548221+00:00"
+  },
+  {
+   "title": "\"On ne découvre rien\" : les candidats à la présidentielle ont-ils adapté leur programme après les canicules d'un été \"apocalyptique\" ? L'été 2026 est le plus chaud jamais enregistré en France depuis le début des relevés des températures. Cette actualité climatique va-t-elle percuter la campagne électorale et faire de l'écologie le thème central ? Franceinfo a interrogé les prétendants à l'Elysée.",
+   "link": "https://www.franceinfo.fr/elections/presidentielle/on-ne-decouvre-rien-les-candidats-a-la-presidentielle-ont-ils-adapte-leur-programme-apres-les-canicules-d-un-ete-apocalyptique_8174960.html",
+   "summary": "\"On ne découvre rien\" : les candidats à la présidentielle ont-ils adapté leur programme après les canicules d'un été \"apocalyptique\" ?",
+   "image": "https://www.franceinfo.fr/pictures/0iwOFghoAjiBLkY8YmX2LO7EieU/0x285:5472x3363/432x243/filters:format(jpg)/2026/09/03/6a9966bd23f75280837282.jpg",
+   "date": null,
+   "pubdate": "2026-09-04T06:35:07.548221+00:00"
+  },
+  {
+   "title": "• Direct Conférence nationale sur le handicap : Emmanuel Macron attendu pour un discours à la mi-journée Le président de la République s'exprime à la mi-journée, vendredi, en clôture de ce rendez-vous organisé tous les trois ans. Avant de quitter ses fonctions, il entend \"ouvrir une nouvelle étape d'une société pleinement accessible\", selon l'Elysée.",
+   "link": "https://www.franceinfo.fr/sante/handicap/direct-ecole-logement-accessibilite-emmanuel-macron-attendu-avec-des-annonces-a-la-conference-nationale-sur-le-handicap_8174987.html",
+   "summary": "Conférence nationale sur le handicap : Emmanuel Macron attendu pour un discours à la mi-journée",
+   "image": "https://www.franceinfo.fr/pictures/5S1pJZyUZH0MhB8Vk1uMKFO0now/0x53:1024x629/432x243/filters:format(jpg)/2026/09/03/6a992b8808383243281850.jpg",
+   "date": null,
+   "pubdate": "2026-09-04T06:35:07.548221+00:00"
   },
   {
    "title": "François Hollande sur tous les fronts politiques et médiatiques : \"Ne pensez pas que chaque visite de Châlon est une déclaration de candidature\" François Hollande se présentera-t-il à l'élection présidentielle ? Si le député de Corrèze reste flou sur sa décision, il écarte l'idée de participer à la primaire socialiste, organisée en octobre. Une stratégie rejetée par une partie des socialistes, qui craignent que l'initiative de l'ancien président saborde les chances du PS en 2027.",
@@ -164,98 +260,10 @@
    "pubdate": "2026-09-03T12:36:40.392930+00:00"
   },
   {
-   "title": "Annuler une partie de la dette française est \"une proposition fantaisiste\", selon le Prix Nobel d'économie Jean Tirole Jean Tirole estime jeudi sur France Inter qu'une annulation, dans le meilleur des cas, \"ne changerait rien\" et, dans le pire des cas, serait \"contraire aux règlements\" européens et signifierait que la France \"devrait sortir de la zone euro\".",
-   "link": "https://www.franceinfo.fr/economie/crise/crise-de-la-dette/annuler-une-partie-de-la-dette-francaise-est-une-proposition-fantaisiste-selon-le-prix-nobel-d-economie-jean-tirole_8175131.html",
-   "summary": "Annuler une partie de la dette française est \"une proposition fantaisiste\", selon le Prix Nobel d'économie Jean Tirole",
-   "image": "https://www.franceinfo.fr/pictures/Y4HRKlpArA1XLsjFqFW-uZgujZ0/0x187:4128x2509/432x243/filters:format(jpg)/2026/09/03/6a993ded01f90069167196.jpg",
-   "date": null,
-   "pubdate": "2026-09-03T12:36:40.392930+00:00"
-  },
-  {
-   "title": "23:20 vidéo 23 minutes 20 \"Sur le terrain\" du 3 septembre 2026 : l'encadrement des loyers est-il impossible à faire respecter ?",
-   "link": "https://www.franceinfo.fr/replay-magazine/franceinfo/sur-le-terrain/sur-le-terrain-du-3-septembre-2026-l-encadrement-des-loyers-est-il-impossible-a-faire-respecter_8176481.html",
-   "summary": "\"Sur le terrain\" du 3 septembre 2026 : l'encadrement des loyers est-il impossible à faire respecter ?",
-   "image": "https://www.franceinfo.fr/pictures/p1V-M3F36ePxpJebtxbClzCNtc8/160x0:1564x790/432x243/filters:format(jpg)/2026/09/04/6a9a54e824350235916261.jpg",
-   "date": "2026-09-03T11:00:00+00:00",
-   "pubdate": "2026-09-03T11:00:00+00:00"
-  },
-  {
-   "title": "25:35 vidéo 25 minutes 35 \"Sur le terrain\" du 3 septembre 2026 : le référendum élargi, proposition démocratique ou populiste ?",
-   "link": "https://www.franceinfo.fr/replay-magazine/franceinfo/sur-le-terrain/sur-le-terrain-du-3-septembre-2026-le-referendum-elargi-proposition-democratique-ou-populiste_8176436.html",
-   "summary": "\"Sur le terrain\" du 3 septembre 2026 : le référendum élargi, proposition démocratique ou populiste ?",
-   "image": "https://www.franceinfo.fr/pictures/PPv1OhGBUqq61k1MfcOYuhYuRH8/270x0:1575x734/432x243/filters:format(jpg)/2026/09/04/6a9a4dbff0a43862547390.jpg",
-   "date": "2026-09-03T11:00:00+00:00",
-   "pubdate": "2026-09-03T11:00:00+00:00"
-  },
-  {
-   "title": "30:20 vidéo 30 minutes 20 \"Sur le terrain\" du 3 septembre 2026 : avec quel budget s'adapter aux canicules ?",
-   "link": "https://www.franceinfo.fr/replay-magazine/franceinfo/sur-le-terrain/sur-le-terrain-du-3-septembre-2026-avec-quel-budget-s-adapter-aux-canicules_8176418.html",
-   "summary": "\"Sur le terrain\" du 3 septembre 2026 : avec quel budget s'adapter aux canicules ?",
-   "image": "https://www.franceinfo.fr/pictures/MeP8qaiKIufzcaDmf8LHCGiaZoc/36x0:1491x818/432x243/filters:format(jpg)/2026/09/04/6a9a4a8d5974e038913069.jpg",
-   "date": "2026-09-03T11:00:00+00:00",
-   "pubdate": "2026-09-03T11:00:00+00:00"
-  },
-  {
-   "title": "21:11 audio 21 minutes 11 Tension entre la Russie et l'Europe, budget 2027... Les informés du matin du jeudi 03 septembre 2026 Tous les jours, les informés débattent de l'actualité autour d'Agathe Lambret et de Renaud Dély.",
-   "link": "https://www.franceinfo.fr/replay-radio/les-informes-du-matin/tension-entre-la-russie-et-l-europe-budget-2027-les-informes-du-matin-du-jeudi-03-septembre-2026_8146097.html",
-   "summary": "Tension entre la Russie et l'Europe, budget 2027... Les informés du matin du jeudi 03 septembre 2026",
-   "image": "https://www.franceinfo.fr/pictures/OJ2iO8-BK24GptP5Wkim1Ae9PEM/332x41:1024x430/432x243/filters:format(jpg)/2026/09/03/6a994b49e473e568057239.jpg",
-   "date": "2026-09-03T11:00:00+00:00",
-   "pubdate": "2026-09-03T11:00:00+00:00"
-  },
-  {
    "title": "3:00 article 3 minutes \"Je vous demande de vous arrêter\" : comment la phrase d'Edouard Balladur est devenue culte",
    "link": "https://www.franceinfo.fr/politique/je-vous-demande-de-vous-arreter-comment-la-phrase-d-edouard-balladur-est-devenue-culte_8171597.html",
    "summary": "\"Je vous demande de vous arrêter\" : comment la phrase d'Edouard Balladur est devenue culte",
    "image": "https://www.franceinfo.fr/pictures/vFjOa3n5rZf7oOh8hNmg_76YnpQ/720x0:3568x2848/100x100/filters:format(jpg)/2026/09/01/6a965ae37d0eb915432123.jpg",
-   "date": null,
-   "pubdate": "2026-09-03T09:31:04.513993+00:00"
-  },
-  {
-   "title": "L'Assemblée nationale ne tiendra pas de session extraordinaire en septembre, la rentrée prévue en octobre Cela aura pour conséquence de retarder l'examen de la proposition de loi dite \"intégrale\" sur les violences sexuelles et sexistes, a appris jeudi franceinfo.",
-   "link": "https://www.franceinfo.fr/politique/parlement-francais/assemblee-nationale/l-assemblee-nationale-ne-tiendra-pas-de-session-extraordinaire-en-septembre-la-rentree-prevue-en-octobre_8175056.html",
-   "summary": "L'Assemblée nationale ne tiendra pas de session extraordinaire en septembre, la rentrée prévue en octobre",
-   "image": "https://www.franceinfo.fr/pictures/tf9XiexNidpStsGmfPXAz1YuD6E/0x225:4300x2643/432x243/filters:format(jpg)/2026/09/03/6a99315309086990889343.jpg",
-   "date": null,
-   "pubdate": "2026-09-03T09:31:04.513993+00:00"
-  },
-  {
-   "title": "10:56 vidéo 10 minutes 56 Voile dans l'espace public : \"Si le choix des Français vise à confier le pouvoir à des gens qui mettent en place une xénophobie d'État, oui, je le refuserai\", confirme Alexis Corbière Invité politique de \"La Matinale\", l'ex-Insoumis et député du groupe Écologiste et social de Seine-Saint-Denis, réagit au débat autour de la proposition ru Rassemblement national pour la présidentielle de verbaliser les femmes voilées dans l'espace public. \"Les Jean-Philippe Tanguy devraient être condamnés actuellement par la loi\", ajoute-t-il.",
-   "link": "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/l-invite-politique-du-jeudi-03-septembre-2026_8167544.html",
-   "summary": "Voile dans l'espace public : \"Si le choix des Français vise à confier le pouvoir à des gens qui mettent en place une xénophobie d'État, oui, je le refuserai\", confirme Alexis Corbière",
-   "image": "https://www.franceinfo.fr/pictures/-JL8HKoYFfDfco2_ad618dG9TrU/0x0:1920x1080/432x243/filters:format(jpg)/2026/09/03/6a99531e5eccb957901749.jpg",
-   "date": null,
-   "pubdate": "2026-09-03T09:31:04.513993+00:00"
-  },
-  {
-   "title": ": Vrai ou faux 2:05 audio 2 minutes 5 L'absence de vote du budget 2027 coûtera-t-elle 15 milliards d’euros à l’État ? Plusieurs ministres affirment que si le projet de budget 2027 du gouvernement n'était pas adopté d'ici le 31 décembre, cela pourrait coûter 15 milliards d'euros aux finances publiques. Le Vrai ou Faux fait le point.",
-   "link": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/vrai-ou-faux-l-absence-de-vote-du-budget-2027-coutera-t-elle-15-milliards-d-euros-a-l-etat_8144990.html",
-   "summary": "L'absence de vote du budget 2027 coûtera-t-elle 15 milliards d’euros à l’État ?",
-   "image": "https://www.franceinfo.fr/pictures/5ccN-1pQFy1YVcHIfmTbJciB-8E/0x60:1024x636/432x243/filters:format(jpg)/2026/09/03/6a99203744c30892494925.jpg",
-   "date": null,
-   "pubdate": "2026-09-03T09:31:04.513993+00:00"
-  },
-  {
-   "title": "Le ministre de l'Education nationale veut \"former une nouvelle génération\" de professeurs bilingues, en vue d'une épreuve en langue régionale au baccalauréat Edouard Geffray a reconnu néanmoins des problèmes de recrutements d'enseignants de langue régionale. \"Ce n'est pas parce qu'on crée des postes qu'on a forcément du monde compétent à mettre dessus\", ajoute le ministre, jeudi, sur ICI Armorique.",
-   "link": "https://www.franceinfo.fr/france/langues-regionale/le-ministre-de-l-education-nationale-veut-former-une-nouvelle-generation-de-professeurs-bilingues-en-vue-d-une-epreuve-en-langue-regionale-au-baccalaureat_8174942.html",
-   "summary": "Le ministre de l'Education nationale veut \"former une nouvelle génération\" de professeurs bilingues, en vue d'une épreuve en langue régionale au baccalauréat",
-   "image": "https://www.franceinfo.fr/pictures/SQyl2d4ngUhqIsI77n0e_eLW2jo/0x53:1024x629/432x243/filters:format(jpg)/2026/07/16/6a587459b0b42501396879.jpg",
-   "date": null,
-   "pubdate": "2026-09-03T09:31:04.513993+00:00"
-  },
-  {
-   "title": "23:05 audio 23 minutes 5 Carburants, présidentielle, budget... Le \"8h30 franceinfo\" de Maud Bregeon Maud Bregeon, porte-parole du gouvernement, ministre déléguée chargée de l'Énergie, est l'invitée du \"8h30 franceinfo\".",
-   "link": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/le-8h30-franceinfo-de-maud-bregeon_8144864.html",
-   "summary": "Carburants, présidentielle, budget... Le \"8h30 franceinfo\" de Maud Bregeon",
-   "image": "https://www.franceinfo.fr/pictures/Z1KN3nm0tBuMzGn0mEqgSbrSoOM/232x37:1073x510/432x243/filters:format(jpg)/2026/09/03/6a991c2bc2d8c189747401.jpg",
-   "date": null,
-   "pubdate": "2026-09-03T09:31:04.513993+00:00"
-  },
-  {
-   "title": "Les aides et le guichet \"grands rouleurs\" prolongés d'un mois, jusqu'au 30 septembre, face à la hausse des prix des carburants Maud Bregeon, porte-parole du gouvernement annonce, jeudi sur franceinfo, la prolongation d'un mois du guichet \"grands rouleurs\", qui devait fermer le 31 août.",
-   "link": "https://www.franceinfo.fr/economie/automobile/essence/les-aides-et-le-guichet-grands-rouleurs-prolonges-d-un-mois-jusqu-au-30-septembre-face-a-la-hausse-des-prix-des-carburants_8174912.html",
-   "summary": "Les aides et le guichet \"grands rouleurs\" prolongés d'un mois, jusqu'au 30 septembre, face à la hausse des prix des carburants",
-   "image": "https://www.franceinfo.fr/pictures/sY4sER-sAhQnGe_fAx8JX2hYJ6g/0x0:1422x800/432x243/filters:format(jpg)/2026/09/03/6a9916146f9c6920287072.png",
    "date": null,
    "pubdate": "2026-09-03T09:31:04.513993+00:00"
   },
@@ -266,14 +274,6 @@
    "image": "https://www.franceinfo.fr/pictures/ThZEHM_mXqdURdVGiap0tEo05iw/270x0:1169x899/100x100/filters:format(jpg)/2026/09/02/6a9887d380725266921772.jpg",
    "date": null,
    "pubdate": "2026-09-03T06:36:54.583405+00:00"
-  },
-  {
-   "title": "6:00 article 6 minutes \"Les socialistes la font bien !\" : la droite et le centre peuvent-ils encore organiser une primaire pour la présidentielle de 2027 ?",
-   "link": "https://www.franceinfo.fr/elections/presidentielle/les-socialistes-la-font-bien-la-droite-et-le-centre-peuvent-ils-encore-organiser-une-primaire-pour-la-presidentielle-de-2027_8171882.html",
-   "summary": "\"Les socialistes la font bien !\" : la droite et le centre peuvent-ils encore organiser une primaire pour la présidentielle de 2027 ?",
-   "image": "https://www.franceinfo.fr/pictures/5fUZH6GrNERGe4r4sXKwaeunXrU/0x0:3545x3545/100x100/filters:format(jpg)/2026/09/02/6a981ecec229f147572924.jpg",
-   "date": null,
-   "pubdate": "2026-09-03T05:30:05.683790+00:00"
   }
  ]
 }

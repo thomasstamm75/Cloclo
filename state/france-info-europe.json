@@ -1,9 +1,8 @@
 {
- "etag": "\"eabeaf1b590b5d1f931bfd4ab360392a-gzip\"",
+ "etag": "\"bda810816ad22c8731f5621b7aab2e75-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/faits-divers/l-homme-soupconne-d-etre-a-l-origine-des-tirs-mortels-en-marge-d-une-rave-party-en-suisse-en-proie-a-des-problemes-psychologiques-garde-le-silence_8173910.html": "2026-09-02T15:35:45.564165+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/reportage-il-arrive-que-l-alerte-sonne-apres-l-explosion-des-drones-russes-a-reaction-plus-rapides-font-beaucoup-de-degats-en-ukraine_8173199.html": "2026-09-02T15:35:45.564165+00:00",
   "https://www.franceinfo.fr/replay-radio/la-question-des-informes/a-quoi-pourrait-ressembler-une-defense-europeenne_8168390.html": "2026-09-02T18:33:04.935969+00:00",
   "https://www.franceinfo.fr/monde/europe/allemagne/l-attaque-de-drone-explosif-attribuee-a-la-russie-un-revelateur-du-role-strategique-de-l-aeroport-allemand-de-leipzig-dans-la-guerre-en-ukraine_8173484.html": "2026-09-02T18:33:04.935969+00:00",
   "https://www.franceinfo.fr/monde/europe/il-a-pris-un-risque-enorme-un-journaliste-raconte-l-histoire-d-un-archiviste-du-kgb-qui-a-leve-le-voile-sur-l-espionnage-sovietique-apres-l-effondrement-de-l-urss_8173868.html": "2026-09-02T18:33:04.935969+00:00",
@@ -28,15 +27,33 @@
   "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/a-ceuta-la-crise-migratoire-se-transforme-en-crise-politique-pour-pedro-sanchez-accuse-de-complicite_8144885.html": "2026-09-04T06:35:08.856465+00:00",
   "https://www.franceinfo.fr/replay-magazine/france-2/nous-les-europeens/nous-les-europeens-roumanie-vivre-avec-les-ours_8152880.html": "2026-09-04T06:35:08.856465+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-c-est-le-sauveur-en-saxe-anhalt-ulrich-siegmund-l-homme-le-plus-dangereux-d-allemagne-selon-der-spiegel-aux-portes-du-pouvoir_8147219.html": "2026-09-04T06:35:08.856465+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/vos-questions-sur-l-effort-de-guerre-de-la-france/": "2026-09-04T06:35:08.856465+00:00"
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/vos-questions-sur-l-effort-de-guerre-de-la-france/": "2026-09-04T06:35:08.856465+00:00",
+  "https://www.franceinfo.fr/monde/russie/face-a-la-menace-russe-les-europeens-serrent-les-rangs_8176577.html": "2026-09-04T09:30:13.485104+00:00",
+  "https://www.franceinfo.fr/replay-radio/le-monde-et-vous/avec-la-secheresse-la-recolte-de-mais-s-effondre-en-europe-de-la-hongrie-a-la-france_8168423.html": "2026-09-04T09:30:13.485104+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "2:43 audio 2 minutes 43 À Ceuta, la crise migratoire se transforme en crise politique pour Pedro Sanchez, accusé de complicité Après l'afflux massif de migrants dans l'enclave espagnole, Pedro Sanchez fait face à une contestation grandissante. Le Premier ministre est accusé de minimiser le rôle du Maroc, alors que l'opposition dénonce son impuissance et évoque une possible guerre hybride menée contre l'Espagne.",
+   "title": "1:16 vidéo 1 minute 16 Face à la menace russe, les Européens serrent les rangs Un mois après l'attaque d'un drone chargé d'explosifs à Leipzig, les responsables européens se sont réunis en Allemagne jeudi 3 septembre. L'occasion pour Jean-Noël Barrot et ses pairs de hausser le ton face à la Russie.",
+   "link": "https://www.franceinfo.fr/monde/russie/face-a-la-menace-russe-les-europeens-serrent-les-rangs_8176577.html",
+   "summary": "Face à la menace russe, les Européens serrent les rangs",
+   "image": "https://www.franceinfo.fr/pictures/A77m-hEzZx57FiepNhcbWtFBZo4/216x0:1320x759/432x297/filters:format(jpg)/2026/09/04/6a9a71997c46b396860117.jpg",
+   "date": null,
+   "pubdate": "2026-09-04T09:30:13.485104+00:00"
+  },
+  {
+   "title": "4:04:30 audio 4 heures 4 minutes 30 Avec la sécheresse, la récolte de maïs s'effondre en Europe, de la Hongrie à la France",
+   "link": "https://www.franceinfo.fr/replay-radio/le-monde-et-vous/avec-la-secheresse-la-recolte-de-mais-s-effondre-en-europe-de-la-hongrie-a-la-france_8168423.html",
+   "summary": "Avec la sécheresse, la récolte de maïs s'effondre en Europe, de la Hongrie à la France",
+   "image": "https://www.franceinfo.fr/pictures/R9UGnioHLKnvFNKEljEvJxX8g1E/0x247:4752x2920/432x243/filters:format(jpg)/2026/09/03/6a99631f325ea885858558.jpg",
+   "date": null,
+   "pubdate": "2026-09-04T09:30:13.485104+00:00"
+  },
+  {
+   "title": "2:43 audio 2 minutes 43 À Ceuta, la crise migratoire se transforme en crise politique pour Pedro Sanchez, accusé de complicité",
    "link": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/a-ceuta-la-crise-migratoire-se-transforme-en-crise-politique-pour-pedro-sanchez-accuse-de-complicite_8144885.html",
    "summary": "À Ceuta, la crise migratoire se transforme en crise politique pour Pedro Sanchez, accusé de complicité",
-   "image": "https://www.franceinfo.fr/pictures/yzAvgapaX3JfIvklzcCr5rfWxZI/0x43:3947x2756/432x297/filters:format(jpg)/2026/09/04/6a9a5a9f718bf004904018.jpg",
+   "image": "https://www.franceinfo.fr/pictures/20oDmU3rV5_1buiiByMgpoGDXIA/0x289:3947x2510/432x243/filters:format(jpg)/2026/09/04/6a9a5a9f718bf004904018.jpg",
    "date": null,
    "pubdate": "2026-09-04T06:35:08.856465+00:00"
   },
@@ -105,17 +122,17 @@
    "pubdate": "2026-09-03T12:36:42.245181+00:00"
   },
   {
-   "title": "Le Premier ministre espagnol, Pedro Sanchez, affirme de nouveau n'avoir \"aucune preuve\" d'une implication du Maroc dans la crise de Ceuta",
+   "title": "Le Premier ministre espagnol, Pedro Sanchez, affirme de nouveau n'avoir \"aucune preuve\" d'une implication du Maroc dans la crise de Ceuta Un document du Centre national de l'immigration et des frontières met toutefois en cause l'attitude des forces de l'ordre marocaines les 30 et 31 juillet, sans établir que le Maroc ait organisé l’arrivée massive de migrants.",
    "link": "https://www.franceinfo.fr/monde/europe/migrants/crise-des-migrants-a-ceuta/le-premier-ministre-espagnol-pedro-sanchez-nie-une-implication-du-maroc-dans-la-crise-de-ceuta_8175278.html",
-   "summary": "",
+   "summary": "Le Premier ministre espagnol, Pedro Sanchez, affirme de nouveau n'avoir \"aucune preuve\" d'une implication du Maroc dans la crise de Ceuta",
    "image": "https://www.franceinfo.fr/pictures/bWSHCevw8kYzJwGu8D3CSoSn-OU/0x0:1024x576/432x243/filters:format(jpg)/2026/09/03/6a994b3e41bb5156733443.jpg",
    "date": null,
    "pubdate": "2026-09-03T12:36:42.245181+00:00"
   },
   {
-   "title": "\"Totale permissivité\" des policiers marocains, migrants orientés vers la mer… Ce qu'il faut retenir du rapport de la police espagnole sur la crise migratoire à Ceuta",
+   "title": "\"Totale permissivité\" des policiers marocains, migrants orientés vers la mer… Ce qu'il faut retenir du rapport de la police espagnole sur la crise migratoire à Ceuta Le document du Centre national de l'immigration et des frontières met en cause l'attitude des forces de l'ordre marocaines les 30 et 31 juillet, sans établir que le Maroc ait organisé l’arrivée massive de migrants. Il fragilise néanmoins la version défendue jusqu'ici par le gouvernement espagnol.",
    "link": "https://www.franceinfo.fr/monde/europe/migrants/crise-des-migrants-a-ceuta/totale-permissivite-dispositif-policier-reduit-migrants-orientes-vers-la-mer-ce-qu-il-faut-retenir-du-rapport-de-la-police-espagnole-sur-la-crise-migratoire-a-ceuta_8175053.html",
-   "summary": "",
+   "summary": "\"Totale permissivité\" des policiers marocains, migrants orientés vers la mer… Ce qu'il faut retenir du rapport de la police espagnole sur la crise migratoire à Ceuta",
    "image": "https://www.franceinfo.fr/pictures/X35SlnlfIKmROhwH2Q9wr42FxLM/0x580:5568x3712/432x243/filters:format(jpg)/2026/09/03/6a9933488218c034405752.jpg",
    "date": null,
    "pubdate": "2026-09-03T12:36:42.245181+00:00"
@@ -229,14 +246,6 @@
    "link": "https://www.franceinfo.fr/faits-divers/l-homme-soupconne-d-etre-a-l-origine-des-tirs-mortels-en-marge-d-une-rave-party-en-suisse-en-proie-a-des-problemes-psychologiques-garde-le-silence_8173910.html",
    "summary": "L'homme soupçonné d'être à l'origine des tirs mortels en marge d'une rave-party en Suisse, en proie à \"des problèmes psychologiques\", garde le silence",
    "image": "https://www.franceinfo.fr/pictures/7386D8N6125O8Y2dLh9AKImsb1M/0x286:5500x3380/432x243/filters:format(jpg)/2026/09/02/6a982a04db121529913624.jpg",
-   "date": null,
-   "pubdate": "2026-09-02T15:35:45.564165+00:00"
-  },
-  {
-   "title": ": Reportage \"Il arrive que l'alerte sonne après l'explosion\" : des drones russes à réaction, plus rapides, font beaucoup de dégâts en Ukraine La Russie poursuit ses frappes contre l'Ukraine, et désormais l'armée russe utilise des drones à réaction. Ils sont trois fois plus rapides que les drones Shahed et donc, plus difficiles à intercepter.",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/reportage-il-arrive-que-l-alerte-sonne-apres-l-explosion-des-drones-russes-a-reaction-plus-rapides-font-beaucoup-de-degats-en-ukraine_8173199.html",
-   "summary": "\"Il arrive que l'alerte sonne après l'explosion\" : des drones russes à réaction, plus rapides, font beaucoup de dégâts en Ukraine",
-   "image": "https://www.franceinfo.fr/pictures/dD5cG2SRflSNgLTO3BdDdwFPy1M/0x0:4080x2295/432x243/filters:format(jpg)/2026/09/02/6a97adc8d19c0775551001.jpg",
    "date": null,
    "pubdate": "2026-09-02T15:35:45.564165+00:00"
   },
