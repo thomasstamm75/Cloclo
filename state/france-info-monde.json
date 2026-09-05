@@ -1,9 +1,8 @@
 {
- "etag": "\"67ed4fd0faa2c464827c178f77b9b327-gzip\"",
+ "etag": "\"153d9c6c595dc2a0540aa60a15d939a4-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/tout-comprendre-a-la-guerre-au-moyen-orient/": "2026-09-03T18:33:54.980038+00:00",
-  "https://www.franceinfo.fr/monde/groenland/le-groenland-au-c-ur-d-un-bras-de-fer-geopolitique/": "2026-09-03T18:33:54.980038+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-a-atlanta-les-republicains-craignent-la-fin-de-l-ere-trump-a-l-approche-des-elections-de-mi-mandat-les-democrates-revent-de-revanche_8145842.html": "2026-09-03T21:28:37.033583+00:00",
   "https://www.franceinfo.fr/monde/usa/affaire-jeffrey-epstein/l-essentiel-des-revelations-sur-l-affaire-epstein/": "2026-09-03T21:28:37.033583+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/je-ne-sais-pas-ce-qui-attend-nos-enfants-a-kiev-l-angoisse-de-la-rentree-sous-les-bombes-apres-un-ete-meurtrier_8144936.html": "2026-09-03T21:28:37.033583+00:00",
@@ -31,10 +30,19 @@
   "https://www.franceinfo.fr/replay-radio/les-informes-de-france-info/plan-d-urgence-pour-l-agriculture-l-extreme-droite-en-europe-les-informes-de-franceinfo-du-vendredi-4-septembre-2026_8144999.html": "2026-09-04T11:00:00+00:00",
   "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/l-onu-evoque-la-possibilite-d-un-crime-contre-l-humanite-et-d-un-nettoyage-ethnique-commis-par-israel-apres-le-deplacement-de-palestiniens-de-cisjordanie_8177957.html": "2026-09-05T00:38:24.036511+00:00",
   "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/au-liban-des-frappes-israeliennes-dans-le-sud-et-l-est-font-trois-morts-et-23-blesses_8177951.html": "2026-09-05T00:38:24.036511+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/donald-trump-affirme-que-ses-emissaires-se-rendent-a-moscou-et-a-kiev-avec-un-plan-visant-a-mettre-fin-a-la-guerre_8177936.html": "2026-09-05T00:38:24.036511+00:00"
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/donald-trump-affirme-que-ses-emissaires-se-rendent-a-moscou-et-a-kiev-avec-un-plan-visant-a-mettre-fin-a-la-guerre_8177936.html": "2026-09-05T00:38:24.036511+00:00",
+  "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/un-an-de-donald-trump-au-pouvoir/": "2026-09-05T03:28:52.076083+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "Un an de Donald Trump au pouvoir 18 contenus",
+   "link": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/un-an-de-donald-trump-au-pouvoir/",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/_Ls0AfsrdeH4b8e1t1laldX3AFA/432x297/filters:format(jpg)/2026/01/21/un-an-trump-au-pouvoir-6970f70527d4e960570673.jpg",
+   "date": null,
+   "pubdate": "2026-09-05T03:28:52.076083+00:00"
+  },
   {
    "title": "L'ONU évoque la possibilité d'un \"crime contre l’humanité\" et d'un \"nettoyage ethnique\" commis par Israël après le déplacement de Palestiniens de Cisjordanie Dans un nouveau rapport, le Haut-Commissariat conclut que les forces de sécurité israéliennes ont déplacé de force l'ensemble de la population palestinienne de trois camps de réfugiés en Cisjordanie occupée entre janvier et février 2025 et continuent d'empêcher leur retour.",
    "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/l-onu-evoque-la-possibilite-d-un-crime-contre-l-humanite-et-d-un-nettoyage-ethnique-commis-par-israel-apres-le-deplacement-de-palestiniens-de-cisjordanie_8177957.html",
@@ -264,14 +272,6 @@
    "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/tout-comprendre-a-la-guerre-au-moyen-orient/",
    "summary": "Tout comprendre à la guerre au Moyen-Orient",
    "image": "https://www.franceinfo.fr/pictures/1mjbL6KrEfhdf8kkM-fiwv8Aqs4/432x297/filters:format(jpg)/2026/03/01/075-nikoubazl-mourning260301-npgop-69a44a7350cd8738092334.jpg",
-   "date": null,
-   "pubdate": "2026-09-03T18:33:54.980038+00:00"
-  },
-  {
-   "title": "Le Groenland au cœur d'un bras de fer géopolitique 15 contenus",
-   "link": "https://www.franceinfo.fr/monde/groenland/le-groenland-au-c-ur-d-un-bras-de-fer-geopolitique/",
-   "summary": "Le Groenland au cœur d'un bras de fer géopolitique",
-   "image": "https://www.franceinfo.fr/pictures/MKq4Aviz_2Dt7XVuO__X2DAEw5M/432x297/filters:format(jpg)/2026/01/22/043-sw-js9nbczzm6o-697245bf34b52414921393.jpg",
    "date": null,
    "pubdate": "2026-09-03T18:33:54.980038+00:00"
   }
