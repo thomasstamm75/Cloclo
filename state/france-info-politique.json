@@ -1,9 +1,8 @@
 {
- "etag": "\"66291c34c6fc8485e450fe73d0849b77-gzip\"",
+ "etag": "\"34d5bf2796f7219fbbd2ad7e7f1a0c46-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/politique/affaire/financement-de-la-campagne-de-sarkozy/soupcons-de-financement-libyen-tout-comprendre-a-l-affaire/": "2026-09-03T12:36:40.392930+00:00",
-  "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/tout-comprendre-au-proces-des-assistants-parlementaires-fn/": "2026-09-03T12:36:40.392930+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-c-est-le-sauveur-en-saxe-anhalt-ulrich-siegmund-l-homme-le-plus-dangereux-d-allemagne-selon-der-spiegel-aux-portes-du-pouvoir_8147219.html": "2026-09-04T06:35:07.548221+00:00",
   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/secheresse/le-depute-jean-rene-cazeneuve-epr-salue-le-tres-bel-effort-du-gouvernement-avec-un-plan-d-urgence-pour-les-agriculteurs-face-a-la-secheresse_8177021.html": "2026-09-04T12:35:52.167529+00:00",
   "https://www.franceinfo.fr/elections/presidentielle/les-socialistes-la-font-bien-la-droite-et-le-centre-peuvent-ils-encore-organiser-une-primaire-pour-la-presidentielle-de-2027_8171882.html": "2026-09-04T12:35:52.167529+00:00",
@@ -31,7 +30,8 @@
   "https://www.franceinfo.fr/politique/rachida-dati/quatre-questions-sur-la-demande-de-rachida-dati-de-reintegrer-la-magistrature-a-quelques-jours-de-son-proces-pour-corruption_8178530.html": "2026-09-05T15:28:12.521666+00:00",
   "https://www.franceinfo.fr/politique/il-n-y-a-qu-une-voie-eric-ciotti-propose-a-marine-le-pen-un-pacte-d-alliance-pour-la-presidentielle-de-2027_8178815.html": "2026-09-05T15:28:12.521666+00:00",
   "https://www.franceinfo.fr/politique/melenchon/pouvoir-d-achat-rn-jean-luc-melenchon-a-delivre-un-discours-de-campagne-depuis-la-braderie-de-lille_8178941.html": "2026-09-05T18:30:22.761221+00:00",
-  "https://www.franceinfo.fr/politique/eelv/marine-tondelier-veut-une-loi-pour-interdire-le-mensonge-en-politique-apres-les-propos-polemiques-d-un-senateur-sur-un-pesticide_8178884.html": "2026-09-05T18:30:22.761221+00:00"
+  "https://www.franceinfo.fr/politique/eelv/marine-tondelier-veut-une-loi-pour-interdire-le-mensonge-en-politique-apres-les-propos-polemiques-d-un-senateur-sur-un-pesticide_8178884.html": "2026-09-05T18:30:22.761221+00:00",
+  "https://www.franceinfo.fr/politique/je-vous-demande-de-vous-arreter-comment-la-phrase-d-edouard-balladur-est-devenue-culte_8171597.html": "2026-09-05T21:27:09.701273+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
@@ -42,6 +42,14 @@
    "image": "https://www.franceinfo.fr/pictures/Fbh26rz7pEi0zniuyMT1nNCPA3k/0x0:680x382/432x243/filters:format(jpg)/2026/08/28/6a919b42820e4536048985.jpg",
    "date": "2026-09-06T11:00:00+00:00",
    "pubdate": "2026-09-06T11:00:00+00:00"
+  },
+  {
+   "title": "3:00 article 3 minutes \"Je vous demande de vous arrêter\" : comment la phrase d'Edouard Balladur est devenue culte",
+   "link": "https://www.franceinfo.fr/politique/je-vous-demande-de-vous-arreter-comment-la-phrase-d-edouard-balladur-est-devenue-culte_8171597.html",
+   "summary": "\"Je vous demande de vous arrêter\" : comment la phrase d'Edouard Balladur est devenue culte",
+   "image": "https://www.franceinfo.fr/pictures/vFjOa3n5rZf7oOh8hNmg_76YnpQ/720x0:3568x2848/100x100/filters:format(jpg)/2026/09/01/6a965ae37d0eb915432123.jpg",
+   "date": null,
+   "pubdate": "2026-09-05T21:27:09.701273+00:00"
   },
   {
    "title": "Pouvoir d'achat, RN... Jean-Luc Mélenchon dévoile ses premières mesures de campagne pour 2027 à la braderie de Lille Le leader de La France insoumise et candidat à la présidentielle a tenu un discours de rentrée à la braderie de Lille, dans lequel il a notamment proposé de bloquer les prix.",
@@ -132,7 +140,7 @@
    "pubdate": "2026-09-05T09:27:45.468985+00:00"
   },
   {
-   "title": "• Direct Election présidentielle : Jordan Bardella réaffirme son \"amitié politique indéfectible\" avec Marine Le Pen, malgré les polémiques En cette rentrée politique, des candidats de tous bords prennent la parole ce week-end, depuis la braderie de Lille où la Foire de Châlons-en-Champagne.",
+   "title": "Election présidentielle : Jordan Bardella réaffirme son \"amitié politique indéfectible\" avec Marine Le Pen, malgré les polémiques En cette rentrée politique, des candidats de tous bords prennent la parole ce week-end, depuis la braderie de Lille où la Foire de Châlons-en-Champagne.",
    "link": "https://www.franceinfo.fr/politique/direct-campagne-presidentielle-jean-luc-melenchon-gabriel-attal-et-marine-tondelier-venus-vendre-leur-candidature-a-la-braderie-de-lille_8178386.html",
    "summary": "Election présidentielle : Jordan Bardella réaffirme son \"amitié politique indéfectible\" avec Marine Le Pen, malgré les polémiques",
    "image": "https://www.franceinfo.fr/pictures/3gxI8Wu-NcT_-FGs4M9U_XJUsdU/0x46:1024x622/432x243/filters:format(jpg)/2026/09/05/6a9c500fd2f4f324499704.jpg",
@@ -264,14 +272,6 @@
    "link": "https://www.franceinfo.fr/politique/affaire/financement-de-la-campagne-de-sarkozy/soupcons-de-financement-libyen-tout-comprendre-a-l-affaire/",
    "summary": "Soupçons de financement libyen : tout comprendre à l'affaire",
    "image": "https://www.franceinfo.fr/pictures/v8aRR1aSuiF4ZIj9DIPv2bzZJf8/432x297/filters:format(jpg)/2025/10/22/sarkozymontage-68f8fa8dd58da459326159.jpg",
-   "date": null,
-   "pubdate": "2026-09-03T12:36:40.392930+00:00"
-  },
-  {
-   "title": "Tout comprendre au procès des assistants parlementaires FN 20 contenus",
-   "link": "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/tout-comprendre-au-proces-des-assistants-parlementaires-fn/",
-   "summary": "Tout comprendre au procès des assistants parlementaires FN",
-   "image": "https://www.franceinfo.fr/pictures/iHJ4ZCCHTABB8-X6GO7CrL-9zcI/432x297/filters:format(jpg)/2026/01/28/marine-le-pen-a-son-proces-en-appel-697a50d594f91234092099.jpg",
    "date": null,
    "pubdate": "2026-09-03T12:36:40.392930+00:00"
   }
