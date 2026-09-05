@@ -1,16 +1,11 @@
 {
- "etag": "\"13e8024badf6bdc6edbc9f63796414c4-gzip\"",
+ "etag": "\"b954fd1b9ff32bb08cb0ebb95e01ddeb-gzip\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.franceinfo.fr/societe/nos-jours-heureux/": "2026-08-31T18:24:49.830768+00:00",
   "https://www.franceinfo.fr/societe/nos-jours-heureux/nos-jours-heureux-baignade-salee-deluge-et-sentiment-de-liberte-a-deauville-la-journee-des-oublies-des-vacances-vire-a-la-formidable-odyssee_8155004.html": "2026-08-31T21:25:17.704742+00:00",
   "https://www.franceinfo.fr/culture/musique/tout-le-monde-les-ecoutait-ou-les-subissait-peut-on-encore-parler-de-hits-de-l-ete-comme-avant-les-reseaux-sociaux_8155445.html": "2026-09-01T18:33:18.227663+00:00",
-  "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/secheresse/des-milliers-d-agriculteurs-au-bord-de-la-faillite-a-cause-de-la-secheresse-selon-la-fnsea-qui-attend-un-plan-d-aide-massif_8176511.html": "2026-09-04T06:35:03.966326+00:00",
   "https://www.franceinfo.fr/societe/education/violences-dans-le-periscolaire/violences-dans-le-periscolaire-a-paris-emmanuel-gregoire-prend-acte-du-depot-de-plainte-qui-le-vise_8176781.html": "2026-09-04T09:30:09.916934+00:00",
   "https://www.franceinfo.fr/societe/harcelement-sexuel/il-y-a-un-vrai-probleme-de-moyens-mais-aussi-de-mentalite-dans-la-lutte-contre-les-violences-sexuelles-estime-andrea-bescond_8176628.html": "2026-09-04T09:30:09.916934+00:00",
-  "https://www.franceinfo.fr/societe/harcelement-sexuel/un-collegien-de-12-ans-soupconne-d-agression-sexuelle-sur-une-enseignante-a-nantes_8176682.html": "2026-09-04T09:30:09.916934+00:00",
-  "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/vrai-ou-faux-avant-les-vacances-d-ete-commencaient-elles-le-14-juillet-comme-l-affirme-emmanuel-macron_8144984.html": "2026-09-04T09:30:09.916934+00:00",
-  "https://www.franceinfo.fr/societe/education/violences-dans-le-periscolaire/violences-dans-le-periscolaire-a-paris-le-maire-emmanuel-gregoire-et-sa-predecesseure-anne-hidalgo-vises-par-une-plainte-de-17-familles_8176556.html": "2026-09-04T09:30:09.916934+00:00",
   "https://www.franceinfo.fr/societe/education/violences-dans-le-periscolaire/on-ne-sait-pas-ce-que-l-on-a-le-droit-de-faire-a-paris-les-agents-du-periscolaire-formes-face-aux-violences-sexuelles_8177051.html": "2026-09-04T12:35:49.925207+00:00",
   "https://www.franceinfo.fr/monde/europe/une-commissaire-europeenne-annule-sa-visite-en-serbie-a-cause-des-hommages-rendus-au-genocidaire-ratko-mladic_8177048.html": "2026-09-04T12:35:49.925207+00:00",
   "https://www.franceinfo.fr/societe/education/violences-dans-le-periscolaire/la-plainte-contre-la-ville-de-paris-dans-l-affaire-du-periscolaire-a-pour-vocation-de-montrer-le-silence-coupable-qui-a-mis-en-danger-nos-enfants-selon-un-avocat_8177057.html": "2026-09-04T12:35:49.925207+00:00",
@@ -18,7 +13,6 @@
   "https://www.franceinfo.fr/societe/education/affaire-de-violences-sexuelles-a-notre-dame-de-betharram/le-collectif-des-victimes-de-betharram-prend-acte-avec-consternation-du-refus-du-pape-d-accorder-une-audience-lors-de-sa-venue-a-lourdes_8176931.html": "2026-09-04T12:35:49.925207+00:00",
   "https://www.franceinfo.fr/societe/education/l-ecole-inclusive-progresse-mais-reste-confrontee-a-un-manque-de-moyens-et-d-accompagnement_8176529.html": "2026-09-04T12:35:49.925207+00:00",
   "https://www.franceinfo.fr/replay-radio/les-informes-du-matin/les-informes-du-matin-du-vendredi-04-septembre-2026_8147495.html": "2026-09-04T11:00:00+00:00",
-  "https://www.franceinfo.fr/l-actu-pour-les-jeunes/l-actu-pour-les-jeunes-12-18-ans/voici-les-premiers-volontaires-du-service-national_8177450.html": "2026-09-04T15:30:16.156026+00:00",
   "https://www.franceinfo.fr/faits-divers/disparition-de-lyhanna-dans-le-gers/affaire-lyhanna-jerome-barella-mis-en-examen-pour-le-viol-et-le-meurtre-de-la-fillette-vise-par-une-nouvelle-plainte-pour-corruption-de-mineure_8176790.html": "2026-09-04T15:30:16.156026+00:00",
   "https://www.franceinfo.fr/environnement/adaptation-des-ecoles-a-la-chaleur-la-reduction-du-budget-n-impacte-pas-la-volonte-d-agir-des-elus-elle-impacte-juste-la-realite-de-l-action-deplore-le-directeur-d-actee_8177066.html": "2026-09-04T15:30:16.156026+00:00",
   "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/la-colere-d-associations-avant-la-venue-du-pape_8177597.html": "2026-09-04T18:30:19.633907+00:00",
@@ -31,10 +25,64 @@
   "https://www.franceinfo.fr/faits-divers/il-y-a-14-plaintes-la-colere-des-familles-apres-la-remise-en-liberte-d-un-animateur-accuse-de-viols-sur-des-enfants_8177885.html": "2026-09-04T21:28:42.202411+00:00",
   "https://www.franceinfo.fr/replay-jt/france-2/20-heures/une-machine-a-cash-une-machine-a-flash-le-radar-qui-rendait-fous-les-automobilistes-du-peripherique-parisien_8177834.html": "2026-09-04T21:28:42.202411+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-visite-du-pape-a-metz-c-est-un-formidable-coup-de-projecteur-sur-la-ville-estime-le-maire_8134199.html": "2026-09-04T21:28:42.202411+00:00",
-  "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/j-essaie-d-y-aller-cinq-six-fois-par-semaine-a-16-ou-17-ans-ils-sont-deja-accros-a-la-salle-de-sport_8136965.html": "2026-09-05T00:38:17.798512+00:00"
+  "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/j-essaie-d-y-aller-cinq-six-fois-par-semaine-a-16-ou-17-ans-ils-sont-deja-accros-a-la-salle-de-sport_8136965.html": "2026-09-05T00:38:17.798512+00:00",
+  "https://www.franceinfo.fr/politique/jordan-bardella/nous-partageons-les-memes-valeurs-jordan-bardella-s-affiche-avec-le-sulfureux-monsieur-brexit_8178383.html": "2026-09-05T06:32:33.299665+00:00",
+  "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/temoignages-on-m-a-dit-de-le-laisser-la-bas-le-combat-de-parents-francais-pour-recuperer-leurs-enfants-emmenes-a-l-etranger-par-leur-ex-conjoint_8148599.html": "2026-09-05T06:32:33.299665+00:00",
+  "https://www.franceinfo.fr/societe/harcelement-sexuel/en-moselle-un-couple-d-assistants-familiaux-mis-en-examen-pour-des-soupcons-de-viols-et-d-agressions-sexuelles-sur-une-vingtaine-d-enfants_8178353.html": "2026-09-05T06:32:33.299665+00:00",
+  "https://www.franceinfo.fr/france/rentree/de-moins-en-moins-d-eleves-a-l-ecole-une-opportunite-pour-faire-des-economies-ou-ameliorer-la-qualite-de-l-enseignement_8176919.html": "2026-09-05T06:32:33.299665+00:00",
+  "https://www.franceinfo.fr/societe/religion/un-debat-tres-franco-francais-pourquoi-le-port-du-voile-islamique-dans-l-espace-public-passionne-plus-que-chez-nos-voisins_8175416.html": "2026-09-05T06:32:33.299665+00:00",
+  "https://www.franceinfo.fr/societe/euthanasie/comprendre-les-debats-sur-la-fin-de-vie/": "2026-09-05T06:32:33.299665+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "1:14 vidéo 1 minute 14 \"Nous partageons les mêmes valeurs\" : Jordan Bardella s'affiche avec le sulfureux \"Monsieur Brexit\" En compagnie de Nigel Farage, leader du parti populiste d'extrême droite Reform UK, Jordan Bardella a signé, vendredi 4 septembre, un accord prévoyant un renvoi des réfugiés des eaux britanniques vers la France dans le cas où le RN accède au pouvoir lors de la prochaine présidentielle.",
+   "link": "https://www.franceinfo.fr/politique/jordan-bardella/nous-partageons-les-memes-valeurs-jordan-bardella-s-affiche-avec-le-sulfureux-monsieur-brexit_8178383.html",
+   "summary": "\"Nous partageons les mêmes valeurs\" : Jordan Bardella s'affiche avec le sulfureux \"Monsieur Brexit\"",
+   "image": "https://www.franceinfo.fr/pictures/meDSFMprxu_JcKOmyfw9-P45lhM/158x0:1377x838/432x297/filters:format(jpg)/2026/09/05/6a9bb01ab9f6c035142012.jpg",
+   "date": null,
+   "pubdate": "2026-09-05T06:32:33.299665+00:00"
+  },
+  {
+   "title": ": Témoignages 4:24 audio 4 minutes 24 : Témoignages \"On m'a dit de le laisser là-bas\" : le combat de parents français pour récupérer leurs enfants emmenés à l'étranger par leur ex-conjoint",
+   "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/temoignages-on-m-a-dit-de-le-laisser-la-bas-le-combat-de-parents-francais-pour-recuperer-leurs-enfants-emmenes-a-l-etranger-par-leur-ex-conjoint_8148599.html",
+   "summary": "\"On m'a dit de le laisser là-bas\" : le combat de parents français pour récupérer leurs enfants emmenés à l'étranger par leur ex-conjoint",
+   "image": "https://www.franceinfo.fr/pictures/WW97HCNEDWiroxtskcNvlcoWdqs/0x225:4300x2643/432x243/filters:format(jpg)/2026/09/04/6a9b00ae59ed0425571815.jpg",
+   "date": null,
+   "pubdate": "2026-09-05T06:32:33.299665+00:00"
+  },
+  {
+   "title": "En Moselle, un couple d’assistants familiaux mis en examen pour des soupçons de viols et d’agressions sexuelles sur une vingtaine d'enfants",
+   "link": "https://www.franceinfo.fr/societe/harcelement-sexuel/en-moselle-un-couple-d-assistants-familiaux-mis-en-examen-pour-des-soupcons-de-viols-et-d-agressions-sexuelles-sur-une-vingtaine-d-enfants_8178353.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/DGi68NXeA2Z2v0smvHrKjLiYpoo/0x256:3000x1943/432x243/filters:format(jpg)/2026/09/05/6a9bababd02ec424454556.jpg",
+   "date": null,
+   "pubdate": "2026-09-05T06:32:33.299665+00:00"
+  },
+  {
+   "title": "De moins en moins d'élèves à l'école... Une opportunité pour faire des économies ou améliorer la qualité de l'enseignement ?",
+   "link": "https://www.franceinfo.fr/france/rentree/de-moins-en-moins-d-eleves-a-l-ecole-une-opportunite-pour-faire-des-economies-ou-ameliorer-la-qualite-de-l-enseignement_8176919.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/MhjqU47Ar1ifepsDx40J_toeiuM/0x0:1024x576/432x243/filters:format(jpg)/2026/09/04/6a9a9b2a494ef763313981.jpg",
+   "date": null,
+   "pubdate": "2026-09-05T06:32:33.299665+00:00"
+  },
+  {
+   "title": "\"Un débat très franco-français\" : pourquoi le port du voile islamique dans l'espace public passionne plus que chez nos voisins",
+   "link": "https://www.franceinfo.fr/societe/religion/un-debat-tres-franco-francais-pourquoi-le-port-du-voile-islamique-dans-l-espace-public-passionne-plus-que-chez-nos-voisins_8175416.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/SaNM0eCELY4RHjAUpi1Jc2NpS3I/0x66:1024x642/432x243/filters:format(jpg)/2026/09/03/6a999315ecc26004492034.jpg",
+   "date": null,
+   "pubdate": "2026-09-05T06:32:33.299665+00:00"
+  },
+  {
+   "title": "Comprendre les débats sur la fin de vie 15 contenus",
+   "link": "https://www.franceinfo.fr/societe/euthanasie/comprendre-les-debats-sur-la-fin-de-vie/",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/gZwL6mlJ39yMRDzurzn4EQx_sgw/432x297/filters:format(jpg)/2025/05/27/illustration-aide-a-mourir-68357ca797624128014806.jpg",
+   "date": null,
+   "pubdate": "2026-09-05T06:32:33.299665+00:00"
+  },
   {
    "title": "4:39 audio 4 minutes 39 \"J'essaie d'y aller cinq, six fois par semaine\" : À 16 ou 17 ans, ils sont déjà accros à la salle de sport",
    "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/j-essaie-d-y-aller-cinq-six-fois-par-semaine-a-16-ou-17-ans-ils-sont-deja-accros-a-la-salle-de-sport_8136965.html",
@@ -44,10 +92,10 @@
    "pubdate": "2026-09-05T00:38:17.798512+00:00"
   },
   {
-   "title": "Le youtubeur Greg Guillotin visé par une plainte pour violences conjugales La plaignante dénonce \"des années de coups, d'insultes et de dénigrement de la part de son ancien compagnon, rencontré sur les réseaux sociaux alors qu'elle n'avait que 19 ans et lui 35\", fait savoir son avocat vendredi.",
+   "title": "Le youtubeur Greg Guillotin visé par une plainte pour violences conjugales",
    "link": "https://www.franceinfo.fr/societe/violences-faites-aux-femmes/le-youtubeur-greg-guillotin-vise-par-une-plainte-pour-violences-conjugales_8177924.html",
-   "summary": "Le youtubeur Greg Guillotin visé par une plainte pour violences conjugales",
-   "image": "https://www.franceinfo.fr/pictures/RF0XyhyaGL5aU00bIBA5hqATt3I/37x0:882x581/432x297/filters:format(jpg)/2026/09/04/6a9b31555692e521304569.png",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/d3y_oLHanDJ2cN6YbbhvFfoUCIw/0x31:920x549/432x243/filters:format(jpg)/2026/09/04/6a9b31555692e521304569.png",
    "date": null,
    "pubdate": "2026-09-04T21:28:42.202411+00:00"
   },
@@ -92,44 +140,36 @@
    "pubdate": "2026-09-04T18:30:19.633907+00:00"
   },
   {
-   "title": "Les mobilisations sur l'affaire Lyhanna reprennent lundi en France pour demander \"une loi intégrale contre les violences sexuelles\"",
+   "title": "Les mobilisations sur l'affaire Lyhanna reprennent lundi en France pour demander \"une loi intégrale contre les violences sexuelles\" \"La coalition féministe et enfantiste appelle à la reprise des mobilisations ce lundi 7 septembre à 19 heures, place Vendôme à Paris et dans toute la France\", écrivent plusieurs associations dans un communiqué, lundi.",
    "link": "https://www.franceinfo.fr/faits-divers/disparition-de-lyhanna-dans-le-gers/les-mobilisations-sur-l-affaire-lyhanna-reprennent-lundi-en-france-pour-demander-une-loi-integrale-contre-les-violences-sexuelles_8177762.html",
-   "summary": "",
+   "summary": "Les mobilisations sur l'affaire Lyhanna reprennent lundi en France pour demander \"une loi intégrale contre les violences sexuelles\"",
    "image": "https://www.franceinfo.fr/pictures/uEs0CCGo5HlvqbfWGiwLmH_SCoU/0x66:1024x642/432x243/filters:format(jpg)/2026/09/04/6a9b02e0ab3dc685946891.jpg",
    "date": null,
    "pubdate": "2026-09-04T18:30:19.633907+00:00"
   },
   {
-   "title": "Il n'y a \"aucun élément qui laisserait indiquer\" que la \"responsabilité pénale\" d'Anne Hidalgo est \"engagée\" sur les violences dans le périscolaire, défend son avocat",
+   "title": "Il n'y a \"aucun élément qui laisserait indiquer\" que la \"responsabilité pénale\" d'Anne Hidalgo est \"engagée\" sur les violences dans le périscolaire, défend son avocat \"Il n'y a pas un système de pédocriminalité caché dans l'encadrement périscolaire\" à Paris, assure Patrick Klugman, vendredi sur France Inter. Anne Hidalgo est visée avec l'actuel maire de la capitale Emmanuel Grégoire par une plainte émanant de plusieurs familles parisiennes.",
    "link": "https://www.franceinfo.fr/societe/education/violences-dans-le-periscolaire/il-n-y-a-aucun-element-qui-laisserait-indiquer-que-la-responsabilite-penale-d-anne-hidalgo-est-engagee-sur-les-violences-dans-le-periscolaire-defend-son-avocat_8177720.html",
-   "summary": "",
+   "summary": "Il n'y a \"aucun élément qui laisserait indiquer\" que la \"responsabilité pénale\" d'Anne Hidalgo est \"engagée\" sur les violences dans le périscolaire, défend son avocat",
    "image": "https://www.franceinfo.fr/pictures/3JS__SMNUnS_pj2B-s9L4t3SQbo/0x32:1024x608/432x243/filters:format(jpg)/2026/09/04/6a9af6659abe7551258165.jpg",
    "date": null,
    "pubdate": "2026-09-04T18:30:19.633907+00:00"
   },
   {
-   "title": "Les infractions liées au radar de chantier situé sur le périphérique parisien annulées par la justice",
+   "title": "Les infractions liées au radar de chantier situé sur le périphérique parisien annulées par la justice La préfecture de police a justifié cette décision vendredi en évoquant des \"difficultés techniques sur l'appareil\", située porte de Montreuil, à Paris. La production de procès-verbaux par ce radar de chantier a aussi \"été neutralisée\".",
    "link": "https://www.franceinfo.fr/societe/securite-routiere/les-infractions-du-radar-de-chantier-situe-sur-le-peripherique-parisien-annulees-par-la-justice_8177666.html",
-   "summary": "",
+   "summary": "Les infractions liées au radar de chantier situé sur le périphérique parisien annulées par la justice",
    "image": "https://www.franceinfo.fr/pictures/PFG3cVpfXHZFGv86j58uN387Edo/0x53:1024x629/432x243/filters:format(jpg)/2026/09/04/6a9af52fec161103512533.jpg",
    "date": null,
    "pubdate": "2026-09-04T18:30:19.633907+00:00"
   },
   {
-   "title": "L' ex-DRH Christian Nègre, mis en examen pour avoir drogué près de 250 femmes, travaille toujours dans les ressources humaines, sous pseudonyme",
+   "title": "L' ex-DRH Christian Nègre, mis en examen pour avoir drogué près de 250 femmes, travaille toujours dans les ressources humaines, sous pseudonyme Cet ancien haut fonctionnaire s'était déjà fait remarquer pour être intervenu dans des écoles de commerce à Caen, sous le nom de \"Bernard Genre\". Il officie toujours comme coach professionnel indépendant.",
    "link": "https://www.franceinfo.fr/societe/harcelement-sexuel/l-ex-drh-christian-negre-mis-en-examen-pour-avoir-drogue-pres-de-250-femmes-travaille-toujours-dans-les-ressources-humaines-sous-pseudonyme_8177270.html",
-   "summary": "",
+   "summary": "L' ex-DRH Christian Nègre, mis en examen pour avoir drogué près de 250 femmes, travaille toujours dans les ressources humaines, sous pseudonyme",
    "image": "https://www.franceinfo.fr/pictures/qtSm6DMMcJ5JoT4X6u-qswxn9pk/0x53:1024x629/432x243/filters:format(jpg)/2026/09/04/6a9ae03aed5a2965998432.jpg",
    "date": null,
    "pubdate": "2026-09-04T18:30:19.633907+00:00"
-  },
-  {
-   "title": "1:45 vidéo 1 minute 45 Voici les premiers volontaires du service national",
-   "link": "https://www.franceinfo.fr/l-actu-pour-les-jeunes/l-actu-pour-les-jeunes-12-18-ans/voici-les-premiers-volontaires-du-service-national_8177450.html",
-   "summary": "Voici les premiers volontaires du service national",
-   "image": "https://www.franceinfo.fr/pictures/-5eQWmmE6sfET8vwpZMwYEEX2L0/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/04/6a9adc1316d08831036227.jpg",
-   "date": null,
-   "pubdate": "2026-09-04T15:30:16.156026+00:00"
   },
   {
    "title": "Affaire Lyhanna : Jérôme Barella, mis en examen pour le viol et le meurtre de la fillette, visé par une nouvelle plainte pour corruption de mineure Selon les informations de Mediapart, le quadragénaire a envoyé de nombreux SMS à une petite fille de 13 ans l'année dernière. Mais selon l'avocate de la mineure, elle et sa mère ont été dans un premier temps dissuadées de porter plainte lors de leur audition début juillet à la gendarmerie d'Auch.",
@@ -220,38 +260,6 @@
    "pubdate": "2026-09-04T09:30:09.916934+00:00"
   },
   {
-   "title": "Un collégien de 12 ans soupçonné d'agression sexuelle sur une enseignante à Nantes Une expertise pédopsychiatrique en cours afin de déterminer si le jeune peut être déclaré pénalement responsable, indique vendredi le parquet de Nantes à l'Agence Radio France.",
-   "link": "https://www.franceinfo.fr/societe/harcelement-sexuel/un-collegien-de-12-ans-soupconne-d-agression-sexuelle-sur-une-enseignante-a-nantes_8176682.html",
-   "summary": "Un collégien de 12 ans soupçonné d'agression sexuelle sur une enseignante à Nantes",
-   "image": "https://www.franceinfo.fr/pictures/rjmCpxwq-ZerEQJyo4mV1rk9zWw/0x226:4000x2476/432x243/filters:format(jpg)/2026/09/04/6a9a80f54c9f2287274121.jpg",
-   "date": null,
-   "pubdate": "2026-09-04T09:30:09.916934+00:00"
-  },
-  {
-   "title": ": Vrai ou faux 2:02 audio 2 minutes 2 Avant, les vacances d'été commençaient-elles le 14 juillet , comme l'affirme Emmanuel Macron ? Le président de la République Emmanuel Macron affirme que les vacances d'été commençaient plus tard quand il était encore scolarisé. Mais c'est faux.",
-   "link": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/vrai-ou-faux-avant-les-vacances-d-ete-commencaient-elles-le-14-juillet-comme-l-affirme-emmanuel-macron_8144984.html",
-   "summary": "Avant, les vacances d'été commençaient-elles le 14 juillet , comme l'affirme Emmanuel Macron ?",
-   "image": "https://www.franceinfo.fr/pictures/9M7xjq8PE82xN1E_YTryryhPrDY/0x53:1024x629/432x243/filters:format(jpg)/2026/09/04/6a9a72f4cb6ba144368898.jpg",
-   "date": null,
-   "pubdate": "2026-09-04T09:30:09.916934+00:00"
-  },
-  {
-   "title": "Violences dans le périscolaire à Paris : le maire, Emmanuel Grégoire, et sa prédécesseure, Anne Hidalgo, visés par une plainte de 16 familles Réunies autour du collectif MeTooEcole, ces familles, dont les enfants sont scolarisés dans différentes écoles de la capitale, demandent à la justice d'examiner ce que les édiles savaient des dysfonctionnements dans le périscolaire.",
-   "link": "https://www.franceinfo.fr/societe/education/violences-dans-le-periscolaire/violences-dans-le-periscolaire-a-paris-le-maire-emmanuel-gregoire-et-sa-predecesseure-anne-hidalgo-vises-par-une-plainte-de-17-familles_8176556.html",
-   "summary": "Violences dans le périscolaire à Paris : le maire, Emmanuel Grégoire, et sa prédécesseure, Anne Hidalgo, visés par une plainte de 16 familles",
-   "image": "https://www.franceinfo.fr/pictures/butVovs8Leqa6R7gLZb6fQNUmXc/0x625:6000x4000/432x243/filters:format(jpg)/2026/09/04/6a9a6aef8c1df806611373.jpg",
-   "date": null,
-   "pubdate": "2026-09-04T09:30:09.916934+00:00"
-  },
-  {
-   "title": "Des milliers d'agriculteurs \"au bord de la faillite\" à cause de la sécheresse, selon la FNSEA qui attend \"un plan d'aide massif\" \"C'est la survie de beaucoup d'exploitations dans quasiment toutes les filières\" qui se joue, alerte le vice-président de la FNSEA vendredi sur franceinfo, avant les annonces du gouvernement.",
-   "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/secheresse/des-milliers-d-agriculteurs-au-bord-de-la-faillite-a-cause-de-la-secheresse-selon-la-fnsea-qui-attend-un-plan-d-aide-massif_8176511.html",
-   "summary": "Des milliers d'agriculteurs \"au bord de la faillite\" à cause de la sécheresse, selon la FNSEA qui attend \"un plan d'aide massif\"",
-   "image": "https://www.franceinfo.fr/pictures/PkIiGhPuXR9PYzZg-Q5Tlkfu2nE/0x234:4500x2765/432x243/filters:format(jpg)/2026/09/04/6a9a5de20a264122687844.jpg",
-   "date": null,
-   "pubdate": "2026-09-04T06:35:03.966326+00:00"
-  },
-  {
    "title": "5:00 article 5 minutes \"Tout le monde les écoutait... ou les subissait\" : peut-on encore parler de \"hits de l'été\", comme avant les réseaux sociaux ?",
    "link": "https://www.franceinfo.fr/culture/musique/tout-le-monde-les-ecoutait-ou-les-subissait-peut-on-encore-parler-de-hits-de-l-ete-comme-avant-les-reseaux-sociaux_8155445.html",
    "summary": "\"Tout le monde les écoutait... ou les subissait\" : peut-on encore parler de \"hits de l'été\", comme avant les réseaux sociaux ?",
@@ -266,14 +274,6 @@
    "image": "https://www.franceinfo.fr/pictures/Zq8EolKHOB2oIH7VpX_5-tloJRE/980x0:2980x2000/100x100/filters:format(jpg)/2026/08/28/6a914e549a9b8505944599.png",
    "date": null,
    "pubdate": "2026-08-31T21:25:17.704742+00:00"
-  },
-  {
-   "title": "Nos jours heureux 5 contenus",
-   "link": "https://www.franceinfo.fr/societe/nos-jours-heureux/",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/70hxXkCD_HnVl93vv3dfs138KJQ/432x297/filters:format(jpg)/2026/07/30/6a6b142e19c9c745704318.jpg",
-   "date": null,
-   "pubdate": "2026-08-31T18:24:49.830768+00:00"
   }
  ]
 }
