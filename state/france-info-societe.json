@@ -1,9 +1,8 @@
 {
- "etag": "\"6c151e851bdfd24a701bc78cda4260e8-gzip\"",
+ "etag": "\"13e8024badf6bdc6edbc9f63796414c4-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/societe/nos-jours-heureux/": "2026-08-31T18:24:49.830768+00:00",
-  "https://www.franceinfo.fr/societe/euthanasie/comprendre-les-debats-sur-la-fin-de-vie/": "2026-08-31T18:24:49.830768+00:00",
   "https://www.franceinfo.fr/societe/nos-jours-heureux/nos-jours-heureux-baignade-salee-deluge-et-sentiment-de-liberte-a-deauville-la-journee-des-oublies-des-vacances-vire-a-la-formidable-odyssee_8155004.html": "2026-08-31T21:25:17.704742+00:00",
   "https://www.franceinfo.fr/culture/musique/tout-le-monde-les-ecoutait-ou-les-subissait-peut-on-encore-parler-de-hits-de-l-ete-comme-avant-les-reseaux-sociaux_8155445.html": "2026-09-01T18:33:18.227663+00:00",
   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/secheresse/des-milliers-d-agriculteurs-au-bord-de-la-faillite-a-cause-de-la-secheresse-selon-la-fnsea-qui-attend-un-plan-d-aide-massif_8176511.html": "2026-09-04T06:35:03.966326+00:00",
@@ -31,10 +30,19 @@
   "https://www.franceinfo.fr/monde/usa/aux-etats-unis-le-juge-annule-le-proces-de-lindsay-clancy-accusee-d-un-triple-infanticide-les-jures-n-etant-pas-parvenus-a-s-entendre-sur-un-verdict_8177852.html": "2026-09-04T21:28:42.202411+00:00",
   "https://www.franceinfo.fr/faits-divers/il-y-a-14-plaintes-la-colere-des-familles-apres-la-remise-en-liberte-d-un-animateur-accuse-de-viols-sur-des-enfants_8177885.html": "2026-09-04T21:28:42.202411+00:00",
   "https://www.franceinfo.fr/replay-jt/france-2/20-heures/une-machine-a-cash-une-machine-a-flash-le-radar-qui-rendait-fous-les-automobilistes-du-peripherique-parisien_8177834.html": "2026-09-04T21:28:42.202411+00:00",
-  "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-visite-du-pape-a-metz-c-est-un-formidable-coup-de-projecteur-sur-la-ville-estime-le-maire_8134199.html": "2026-09-04T21:28:42.202411+00:00"
+  "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-visite-du-pape-a-metz-c-est-un-formidable-coup-de-projecteur-sur-la-ville-estime-le-maire_8134199.html": "2026-09-04T21:28:42.202411+00:00",
+  "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/j-essaie-d-y-aller-cinq-six-fois-par-semaine-a-16-ou-17-ans-ils-sont-deja-accros-a-la-salle-de-sport_8136965.html": "2026-09-05T00:38:17.798512+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "4:39 audio 4 minutes 39 \"J'essaie d'y aller cinq, six fois par semaine\" : À 16 ou 17 ans, ils sont déjà accros à la salle de sport",
+   "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/j-essaie-d-y-aller-cinq-six-fois-par-semaine-a-16-ou-17-ans-ils-sont-deja-accros-a-la-salle-de-sport_8136965.html",
+   "summary": "\"J'essaie d'y aller cinq, six fois par semaine\" : À 16 ou 17 ans, ils sont déjà accros à la salle de sport",
+   "image": "https://www.franceinfo.fr/pictures/jDOUGAm8w19hyxuLSYX31-bLg-0/1110x0:5549x4439/100x100/filters:format(jpg)/2026/08/27/6a8fd849692d3132479339.jpg",
+   "date": null,
+   "pubdate": "2026-09-05T00:38:17.798512+00:00"
+  },
   {
    "title": "Le youtubeur Greg Guillotin visé par une plainte pour violences conjugales La plaignante dénonce \"des années de coups, d'insultes et de dénigrement de la part de son ancien compagnon, rencontré sur les réseaux sociaux alors qu'elle n'avait que 19 ans et lui 35\", fait savoir son avocat vendredi.",
    "link": "https://www.franceinfo.fr/societe/violences-faites-aux-femmes/le-youtubeur-greg-guillotin-vise-par-une-plainte-pour-violences-conjugales_8177924.html",
@@ -264,14 +272,6 @@
    "link": "https://www.franceinfo.fr/societe/nos-jours-heureux/",
    "summary": "",
    "image": "https://www.franceinfo.fr/pictures/70hxXkCD_HnVl93vv3dfs138KJQ/432x297/filters:format(jpg)/2026/07/30/6a6b142e19c9c745704318.jpg",
-   "date": null,
-   "pubdate": "2026-08-31T18:24:49.830768+00:00"
-  },
-  {
-   "title": "Comprendre les débats sur la fin de vie 15 contenus",
-   "link": "https://www.franceinfo.fr/societe/euthanasie/comprendre-les-debats-sur-la-fin-de-vie/",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/gZwL6mlJ39yMRDzurzn4EQx_sgw/432x297/filters:format(jpg)/2025/05/27/illustration-aide-a-mourir-68357ca797624128014806.jpg",
    "date": null,
    "pubdate": "2026-08-31T18:24:49.830768+00:00"
   }
