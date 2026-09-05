@@ -1,13 +1,11 @@
 {
- "etag": "\"6bf3f34e6bedb47dbfd059f555f81f4b-gzip\"",
+ "etag": "\"4a12a30382ee81a041ef2e4183ec4c5d-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/au-fond-de-moi-je-sentais-que-je-devais-le-faire-ces-russes-qui-ont-choisi-de-combattre-pour-l-ukraine_8080760.html": "2026-09-03T00:39:54.931684+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/pendant-deux-jours-j-ai-tire-le-corps-d-un-mort-dans-la-kill-zone-les-soldats-ukrainiens-vivent-sous-la-menace-permanente-des-drones-russes_8089898.html": "2026-09-03T05:30:06.801744+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/je-ne-sais-pas-ce-qui-attend-nos-enfants-a-kiev-l-angoisse-de-la-rentree-sous-les-bombes-apres-un-ete-meurtrier_8144936.html": "2026-09-03T06:36:55.715472+00:00",
   "https://www.franceinfo.fr/monde/europe/allemagne/ce-que-l-on-sait-des-deux-suspects-identifies-apres-l-attaque-hybride-menee-avec-un-drone-explosif-a-leipzig_8175077.html": "2026-09-03T12:36:42.245181+00:00",
-  "https://www.franceinfo.fr/replay-radio/les-informes-du-matin/tension-entre-la-russie-et-l-europe-budget-2027-les-informes-du-matin-du-jeudi-03-septembre-2026_8146097.html": "2026-09-03T11:00:00+00:00",
-  "https://www.franceinfo.fr/monde/europe/migrants/crise-des-migrants-a-ceuta/le-premier-ministre-espagnol-pedro-sanchez-nie-une-implication-du-maroc-dans-la-crise-de-ceuta_8175278.html": "2026-09-03T12:36:42.245181+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-russie-le-transport-aerien-pris-de-febrilite-apres-une-phrase-de-volodymyr-zelensky-sur-la-fin-des-jours-surs-dans-le-ciel-russe_8175368.html": "2026-09-03T15:32:25.502966+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-ukraine-l-embarras-apres-des-coups-de-feu-tires-lors-d-une-confrontation-entre-deux-agences-de-renseignement-a-kiev_8175563.html": "2026-09-03T18:33:53.013464+00:00",
   "https://www.franceinfo.fr/monde/europe/allemagne/un-objet-suspect-decouvert-pres-d-un-poste-electrique-en-allemagne-deux-autres-sabotages-ont-vise-des-infrastructures-electriques-du-pays-en-quelques-jours_8176091.html": "2026-09-04T00:37:29.960064+00:00",
@@ -24,23 +22,48 @@
   "https://www.franceinfo.fr/replay-radio/les-informes-de-france-info/plan-d-urgence-pour-l-agriculture-l-extreme-droite-en-europe-les-informes-de-franceinfo-du-vendredi-4-septembre-2026_8144999.html": "2026-09-04T11:00:00+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/donald-trump-affirme-que-ses-emissaires-se-rendent-a-moscou-et-a-kiev-avec-un-plan-visant-a-mettre-fin-a-la-guerre_8177936.html": "2026-09-05T00:38:22.455719+00:00",
   "https://www.franceinfo.fr/politique/jordan-bardella/nous-partageons-les-memes-valeurs-jordan-bardella-s-affiche-avec-le-sulfureux-monsieur-brexit_8178383.html": "2026-09-05T06:32:37.117339+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-russie-touche-les-services-de-securite-ukrainiens-et-frappe-kiev-au-c-ur_8178368.html": "2026-09-05T06:32:37.117339+00:00",
   "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/aides-a-l-ukraine-rachida-dati-reintegre-la-magistrature-le-8h30-franceinfo-de-laurent-jacobelli_8145071.html": "2026-09-05T11:00:00+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/un-drone-russe-frappe-le-siege-du-service-de-securite-ukrainien-a-kiev_8178524.html": "2026-09-05T09:27:47.067970+00:00",
   "https://www.franceinfo.fr/politique/front-national/guerre-en-ukraine-nous-sommes-aux-cotes-de-l-ukraine-mais-pas-au-prix-de-la-ruine-financiere-estime-laurent-jacobelli_8178485.html": "2026-09-05T09:27:47.067970+00:00",
-  "https://www.franceinfo.fr/politique/l-afd-aux-portes-du-pouvoir-en-saxe-anhalt_8177507.html": "2026-09-05T09:27:47.067970+00:00",
   "https://www.franceinfo.fr/monde/europe/allemagne/l-afd-aux-portes-du-pouvoir-dans-la-campagne-allemande_8173733.html": "2026-09-05T09:27:47.067970+00:00",
   "https://www.franceinfo.fr/elections/presidentielle/on-coupe-le-robinet-marine-le-pen-et-edouard-philippe-s-affrontent-par-tweets-interposes-sur-l-aide-a-l-ukraine_8178434.html": "2026-09-05T09:27:47.067970+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-les-emissaires-de-donald-trump-attendus-a-moscou-et-a-kiev-pour-faire-avancer-les-choses-selon-le-president-americain_8178449.html": "2026-09-05T09:27:47.067970+00:00"
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-les-emissaires-de-donald-trump-attendus-a-moscou-et-a-kiev-pour-faire-avancer-les-choses-selon-le-president-americain_8178449.html": "2026-09-05T09:27:47.067970+00:00",
+  "https://www.franceinfo.fr/elections/presidentielle/parti-de-la-soumission-a-la-russie-patriotes-de-pacotille-les-candidats-a-la-presidentielle-fustigent-la-position-du-rn-sur-l-aide-a-l-ukraine_8178707.html": "2026-09-05T12:33:00.907233+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/volodymyr-zelensky-denonce-des-frappes-russes-deliberees-contre-des-aeroports-de-kiev-avant-la-visite-en-ukraine-des-emissaires-americains_8178620.html": "2026-09-05T12:33:00.907233+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/nous-avons-une-idee-pour-la-paix-a-quoi-faut-il-s-attendre-lors-des-visites-des-emissaires-americains-a-moscou-et-kiev_8178452.html": "2026-09-05T12:33:00.907233+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "18:19 audio 18 minutes 19 Aides à l'Ukraine, Rachida Dati réintègre la magistrature… le \"8h30 franceinfo\" de Laurent Jacobelli Le député de Moselle et porte-parole du Rassemblement national était l'invité du \"8h30 franceinfo\", samedi 5 septembre 2026.",
+   "title": "Parti de \"la soumission\" à la Russie, \"patriotes de pacotille\"... Les candidats à la présidentielle fustigent la position du RN sur l'aide à l'Ukraine A l'antenne de BFMTV, Louis Aliot avait suggéré d'arrêter de soutenir financièrement l'Ukraine, reprenant à son compte l'expression \"couper le robinet\".",
+   "link": "https://www.franceinfo.fr/elections/presidentielle/parti-de-la-soumission-a-la-russie-patriotes-de-pacotille-les-candidats-a-la-presidentielle-fustigent-la-position-du-rn-sur-l-aide-a-l-ukraine_8178707.html",
+   "summary": "Parti de \"la soumission\" à la Russie, \"patriotes de pacotille\"... Les candidats à la présidentielle fustigent la position du RN sur l'aide à l'Ukraine",
+   "image": "https://www.franceinfo.fr/pictures/w62i-O_4fXBsJV7oykGyzpB7PLc/16x0:1008x682/432x297/filters:format(jpg)/2026/09/05/6a9c08e4200f5455044727.jpg",
+   "date": null,
+   "pubdate": "2026-09-05T12:33:00.907233+00:00"
+  },
+  {
+   "title": "Volodymyr Zelensky dénonce des frappes russes \"délibérées\" contre des aéroports de Kiev, avant la visite en Ukraine des émissaires américains",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/volodymyr-zelensky-denonce-des-frappes-russes-deliberees-contre-des-aeroports-de-kiev-avant-la-visite-en-ukraine-des-emissaires-americains_8178620.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/C2i3aCOXzCgmI_gG1ZWUpQr8fkY/0x53:1024x629/432x243/filters:format(jpg)/2026/09/05/6a9bf1350bf4a329211109.jpg",
+   "date": null,
+   "pubdate": "2026-09-05T12:33:00.907233+00:00"
+  },
+  {
+   "title": "\"Nous avons une idée pour la paix\" : à quoi faut-il s'attendre lors des visites des émissaires américains à Moscou et Kiev ?",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/nous-avons-une-idee-pour-la-paix-a-quoi-faut-il-s-attendre-lors-des-visites-des-emissaires-americains-a-moscou-et-kiev_8178452.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/vUCpfTE6CMZDNVp5ZBm4Ofn7EJQ/0x0:1024x576/432x243/filters:format(jpg)/2026/09/05/6a9bd4e1e3c72986534047.jpg",
+   "date": null,
+   "pubdate": "2026-09-05T12:33:00.907233+00:00"
+  },
+  {
+   "title": "18:19 audio 18 minutes 19 Aides à l'Ukraine, Rachida Dati réintègre la magistrature… le \"8h30 franceinfo\" de Laurent Jacobelli",
    "link": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/aides-a-l-ukraine-rachida-dati-reintegre-la-magistrature-le-8h30-franceinfo-de-laurent-jacobelli_8145071.html",
    "summary": "Aides à l'Ukraine, Rachida Dati réintègre la magistrature… le \"8h30 franceinfo\" de Laurent Jacobelli",
-   "image": "https://www.franceinfo.fr/pictures/3UIeqvpre5-aB_LomfFYrUF47p4/110x0:1086x671/432x297/filters:format(jpg)/2026/09/05/6a9bde13f14ec242254149.png",
-   "date": "2026-09-05T11:00:00+00:00",
+   "image": "https://www.franceinfo.fr/pictures/2yeyEw8BKLkdWDisk2czYro6zi8/1x0:1194x671/432x243/filters:format(jpg)/2026/09/05/6a9bde13f14ec242254149.png",
+   "date": null,
    "pubdate": "2026-09-05T11:00:00+00:00"
   },
   {
@@ -60,17 +83,9 @@
    "pubdate": "2026-09-05T09:27:47.067970+00:00"
   },
   {
-   "title": "2:58 vidéo 2 minutes 58 L’AfD aux portes du pouvoir en Saxe-Anhalt",
-   "link": "https://www.franceinfo.fr/politique/l-afd-aux-portes-du-pouvoir-en-saxe-anhalt_8177507.html",
-   "summary": "L’AfD aux portes du pouvoir en Saxe-Anhalt",
-   "image": "https://www.franceinfo.fr/pictures/RrrITnpLhH1ZjQ_hjACHHA32XBY/0x0:900x1600/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/04/6a9ae046e913a271637559.jpg",
-   "date": null,
-   "pubdate": "2026-09-05T09:27:47.067970+00:00"
-  },
-  {
-   "title": "2:58 vidéo 2 minutes 58 L’AfD aux portes du pouvoir dans la campagne allemande",
+   "title": "2:58 vidéo 2 minutes 58 L'AfD aux portes du pouvoir dans la campagne allemande",
    "link": "https://www.franceinfo.fr/monde/europe/allemagne/l-afd-aux-portes-du-pouvoir-dans-la-campagne-allemande_8173733.html",
-   "summary": "L’AfD aux portes du pouvoir dans la campagne allemande",
+   "summary": "L'AfD aux portes du pouvoir dans la campagne allemande",
    "image": "https://www.franceinfo.fr/pictures/YgY588n6PXOWQjUbN7ljsSfvgHo/0x0:900x1600/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/02/6a9804d3aa36b170958609.jpg",
    "date": null,
    "pubdate": "2026-09-05T09:27:47.067970+00:00"
@@ -84,9 +99,9 @@
    "pubdate": "2026-09-05T09:27:47.067970+00:00"
   },
   {
-   "title": "• Direct • Direct Guerre en Ukraine : Volodymyr Zelensky dénonce des frappes russes \"délibérées\" contre des aéroports de Kiev, avant la visite des émissaires américains",
+   "title": "• Direct • Direct Guerre en Ukraine : les émissaires de Donald Trump, Jared Kushner et Steve Witkoff, sont arrivés à Moscou, annonce la presse russe",
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-les-emissaires-de-donald-trump-attendus-a-moscou-et-a-kiev-pour-faire-avancer-les-choses-selon-le-president-americain_8178449.html",
-   "summary": "Guerre en Ukraine : Volodymyr Zelensky dénonce des frappes russes \"délibérées\" contre des aéroports de Kiev, avant la visite des émissaires américains",
+   "summary": "Guerre en Ukraine : les émissaires de Donald Trump, Jared Kushner et Steve Witkoff, sont arrivés à Moscou, annonce la presse russe",
    "image": "https://www.franceinfo.fr/pictures/TPSAhDU4j7UysoXAdFFCVu24QHk/0x53:1024x629/432x243/filters:format(jpg)/2026/09/05/6a9bc6717239a297841538.jpg",
    "date": null,
    "pubdate": "2026-09-05T09:27:47.067970+00:00"
@@ -100,17 +115,9 @@
    "pubdate": "2026-09-05T06:32:37.117339+00:00"
   },
   {
-   "title": "1:17 vidéo 1 minute 17 La Russie touche les services de sécurité ukrainiens et frappe Kiev au cœur",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-russie-touche-les-services-de-securite-ukrainiens-et-frappe-kiev-au-c-ur_8178368.html",
-   "summary": "La Russie touche les services de sécurité ukrainiens et frappe Kiev au cœur",
-   "image": "https://www.franceinfo.fr/pictures/Td71IjSamJOzIq53Q_Gvm4O9mFA/38x0:1445x791/432x243/filters:format(jpg)/2026/09/05/6a9bac70551ad940276588.jpg",
-   "date": null,
-   "pubdate": "2026-09-05T06:32:37.117339+00:00"
-  },
-  {
-   "title": "Donald Trump affirme que ses émissaires se rendent à Moscou et à Kiev avec un plan \"visant à mettre fin à la guerre\"",
+   "title": "Donald Trump affirme que ses émissaires se rendent à Moscou et à Kiev avec un plan \"visant à mettre fin à la guerre\" Ce sera la première fois que Jared Kushner et Steve Witkoff se rendront à Kiev depuis le retour de Donald Trump au pouvoir l'année dernière.",
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/donald-trump-affirme-que-ses-emissaires-se-rendent-a-moscou-et-a-kiev-avec-un-plan-visant-a-mettre-fin-a-la-guerre_8177936.html",
-   "summary": "",
+   "summary": "Donald Trump affirme que ses émissaires se rendent à Moscou et à Kiev avec un plan \"visant à mettre fin à la guerre\"",
    "image": "https://www.franceinfo.fr/pictures/nTOJrIam-qoS22UL6jx9FixmGLQ/0x0:1024x576/432x243/filters:format(jpg)/2026/09/04/6a9b384f32bd2801100377.jpg",
    "date": null,
    "pubdate": "2026-09-05T00:38:22.455719+00:00"
@@ -234,22 +241,6 @@
    "image": "https://www.franceinfo.fr/pictures/fRIbXvc3VlgZTeh7bHIusci-LIQ/0x0:1024x576/432x243/filters:format(jpg)/2026/09/03/6a994ab085275321543001.jpg",
    "date": null,
    "pubdate": "2026-09-03T12:36:42.245181+00:00"
-  },
-  {
-   "title": "Le Premier ministre espagnol, Pedro Sanchez, affirme de nouveau n'avoir \"aucune preuve\" d'une implication du Maroc dans la crise de Ceuta Un document du Centre national de l'immigration et des frontières met toutefois en cause l'attitude des forces de l'ordre marocaines les 30 et 31 juillet, sans établir que le Maroc ait organisé l’arrivée massive de migrants.",
-   "link": "https://www.franceinfo.fr/monde/europe/migrants/crise-des-migrants-a-ceuta/le-premier-ministre-espagnol-pedro-sanchez-nie-une-implication-du-maroc-dans-la-crise-de-ceuta_8175278.html",
-   "summary": "Le Premier ministre espagnol, Pedro Sanchez, affirme de nouveau n'avoir \"aucune preuve\" d'une implication du Maroc dans la crise de Ceuta",
-   "image": "https://www.franceinfo.fr/pictures/bWSHCevw8kYzJwGu8D3CSoSn-OU/0x0:1024x576/432x243/filters:format(jpg)/2026/09/03/6a994b3e41bb5156733443.jpg",
-   "date": null,
-   "pubdate": "2026-09-03T12:36:42.245181+00:00"
-  },
-  {
-   "title": "21:11 audio 21 minutes 11 Tension entre la Russie et l'Europe, budget 2027... Les informés du matin du jeudi 03 septembre 2026 Tous les jours, les informés débattent de l'actualité autour d'Agathe Lambret et de Renaud Dély.",
-   "link": "https://www.franceinfo.fr/replay-radio/les-informes-du-matin/tension-entre-la-russie-et-l-europe-budget-2027-les-informes-du-matin-du-jeudi-03-septembre-2026_8146097.html",
-   "summary": "Tension entre la Russie et l'Europe, budget 2027... Les informés du matin du jeudi 03 septembre 2026",
-   "image": "https://www.franceinfo.fr/pictures/OJ2iO8-BK24GptP5Wkim1Ae9PEM/332x41:1024x430/432x243/filters:format(jpg)/2026/09/03/6a994b49e473e568057239.jpg",
-   "date": "2026-09-03T11:00:00+00:00",
-   "pubdate": "2026-09-03T11:00:00+00:00"
   },
   {
    "title": "4:30 audio 4 minutes 30 \"Je ne sais pas ce qui attend nos enfants\" : à Kiev, l'angoisse de la rentrée sous les bombes après un été meurtrier",

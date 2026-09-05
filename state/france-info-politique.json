@@ -1,5 +1,5 @@
 {
- "etag": "\"2f367297e12137a9ae1f89fb91c7c62c-gzip\"",
+ "etag": "\"bf40aa50cc9820bfbe715df90e428c91-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/politique/je-vous-demande-de-vous-arreter-comment-la-phrase-d-edouard-balladur-est-devenue-culte_8171597.html": "2026-09-03T09:31:04.513993+00:00",
@@ -26,12 +26,12 @@
   "https://www.franceinfo.fr/societe/religion/un-debat-tres-franco-francais-pourquoi-le-port-du-voile-islamique-dans-l-espace-public-passionne-plus-que-chez-nos-voisins_8175416.html": "2026-09-05T06:32:35.839755+00:00",
   "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/aides-a-l-ukraine-rachida-dati-reintegre-la-magistrature-le-8h30-franceinfo-de-laurent-jacobelli_8145071.html": "2026-09-05T11:00:00+00:00",
   "https://www.franceinfo.fr/politique/front-national/guerre-en-ukraine-nous-sommes-aux-cotes-de-l-ukraine-mais-pas-au-prix-de-la-ruine-financiere-estime-laurent-jacobelli_8178485.html": "2026-09-05T09:27:45.468985+00:00",
-  "https://www.franceinfo.fr/politique/l-afd-aux-portes-du-pouvoir-en-saxe-anhalt_8177507.html": "2026-09-05T09:27:45.468985+00:00",
   "https://www.franceinfo.fr/monde/europe/allemagne/l-afd-aux-portes-du-pouvoir-dans-la-campagne-allemande_8173733.html": "2026-09-05T09:27:45.468985+00:00",
   "https://www.franceinfo.fr/replay-radio/le-brief-politique/presidentielle-2027-marine-le-pen-et-jordan-bardella-affichent-de-plus-en-plus-leurs-divergences_8148692.html": "2026-09-05T09:27:45.468985+00:00",
   "https://www.franceinfo.fr/elections/presidentielle/on-coupe-le-robinet-marine-le-pen-et-edouard-philippe-s-affrontent-par-tweets-interposes-sur-l-aide-a-l-ukraine_8178434.html": "2026-09-05T09:27:45.468985+00:00",
   "https://www.franceinfo.fr/elections/presidentielle/braderie-de-lille-melenchon-attal-la-presidentielle-s-invite-dans-les-rues_8178413.html": "2026-09-05T09:27:45.468985+00:00",
-  "https://www.franceinfo.fr/politique/direct-campagne-presidentielle-jean-luc-melenchon-gabriel-attal-et-marine-tondelier-venus-vendre-leur-candidature-a-la-braderie-de-lille_8178386.html": "2026-09-05T09:27:45.468985+00:00"
+  "https://www.franceinfo.fr/politique/direct-campagne-presidentielle-jean-luc-melenchon-gabriel-attal-et-marine-tondelier-venus-vendre-leur-candidature-a-la-braderie-de-lille_8178386.html": "2026-09-05T09:27:45.468985+00:00",
+  "https://www.franceinfo.fr/replay-radio/les-informes-du-matin/les-informes-du-matin-du-vendredi-04-septembre-2026_8147495.html": "2026-09-04T11:00:00+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
@@ -60,17 +60,9 @@
    "pubdate": "2026-09-05T09:27:45.468985+00:00"
   },
   {
-   "title": "2:58 vidéo 2 minutes 58 L’AfD aux portes du pouvoir en Saxe-Anhalt",
-   "link": "https://www.franceinfo.fr/politique/l-afd-aux-portes-du-pouvoir-en-saxe-anhalt_8177507.html",
-   "summary": "L’AfD aux portes du pouvoir en Saxe-Anhalt",
-   "image": "https://www.franceinfo.fr/pictures/RrrITnpLhH1ZjQ_hjACHHA32XBY/0x0:900x1600/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/04/6a9ae046e913a271637559.jpg",
-   "date": null,
-   "pubdate": "2026-09-05T09:27:45.468985+00:00"
-  },
-  {
-   "title": "2:58 vidéo 2 minutes 58 L’AfD aux portes du pouvoir dans la campagne allemande",
+   "title": "2:58 vidéo 2 minutes 58 L'AfD aux portes du pouvoir dans la campagne allemande",
    "link": "https://www.franceinfo.fr/monde/europe/allemagne/l-afd-aux-portes-du-pouvoir-dans-la-campagne-allemande_8173733.html",
-   "summary": "L’AfD aux portes du pouvoir dans la campagne allemande",
+   "summary": "L'AfD aux portes du pouvoir dans la campagne allemande",
    "image": "https://www.franceinfo.fr/pictures/YgY588n6PXOWQjUbN7ljsSfvgHo/0x0:900x1600/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/02/6a9804d3aa36b170958609.jpg",
    "date": null,
    "pubdate": "2026-09-05T09:27:45.468985+00:00"
@@ -100,10 +92,10 @@
    "pubdate": "2026-09-05T09:27:45.468985+00:00"
   },
   {
-   "title": "• Direct • Direct Election présidentielle : \"Entre le Rassemblement national et moi, il y a deux mondes\", lance Gabriel Attal à la braderie de Lille",
+   "title": "• Direct • Direct Election présidentielle : à Châlons-en-Champagne, Raphaël Glucksmann qualifie les élus du Rassemblement national de \"patriotes de pacotille\"",
    "link": "https://www.franceinfo.fr/politique/direct-campagne-presidentielle-jean-luc-melenchon-gabriel-attal-et-marine-tondelier-venus-vendre-leur-candidature-a-la-braderie-de-lille_8178386.html",
-   "summary": "Election présidentielle : \"Entre le Rassemblement national et moi, il y a deux mondes\", lance Gabriel Attal à la braderie de Lille",
-   "image": "https://www.franceinfo.fr/pictures/vWH47xy_vURsaf49A1RqZ2W0m1o/0x207:3984x2448/432x243/filters:format(jpg)/2026/09/05/6a9bb7cbf3442960280459.jpg",
+   "summary": "Election présidentielle : à Châlons-en-Champagne, Raphaël Glucksmann qualifie les élus du Rassemblement national de \"patriotes de pacotille\"",
+   "image": "https://www.franceinfo.fr/pictures/sFlIRIGVJh6DSZe2yAlKzU1PCQw/0x53:1024x629/432x243/filters:format(jpg)/2026/09/05/6a9bfbd379761063041447.jpg",
    "date": null,
    "pubdate": "2026-09-05T09:27:45.468985+00:00"
   },
@@ -124,9 +116,9 @@
    "pubdate": "2026-09-05T06:32:35.839755+00:00"
   },
   {
-   "title": "\"Un débat très franco-français\" : pourquoi le port du voile islamique dans l'espace public passionne plus que chez nos voisins Depuis 2004, plusieurs pays européens ont réglementé le port de vêtements religieux, en particulier celui du voile intégral. Mais le débat porte rarement, comme en France, sur la possibilité de bannir le foulard de l'espace public.",
+   "title": "\"Un débat très franco-français\" : pourquoi le port du voile islamique dans l'espace public passionne plus que chez nos voisins",
    "link": "https://www.franceinfo.fr/societe/religion/un-debat-tres-franco-francais-pourquoi-le-port-du-voile-islamique-dans-l-espace-public-passionne-plus-que-chez-nos-voisins_8175416.html",
-   "summary": "\"Un débat très franco-français\" : pourquoi le port du voile islamique dans l'espace public passionne plus que chez nos voisins",
+   "summary": "",
    "image": "https://www.franceinfo.fr/pictures/SaNM0eCELY4RHjAUpi1Jc2NpS3I/0x66:1024x642/432x243/filters:format(jpg)/2026/09/03/6a999315ecc26004492034.jpg",
    "date": null,
    "pubdate": "2026-09-05T06:32:35.839755+00:00"
@@ -240,6 +232,14 @@
    "link": "https://www.franceinfo.fr/replay-radio/les-informes-de-france-info/plan-d-urgence-pour-l-agriculture-l-extreme-droite-en-europe-les-informes-de-franceinfo-du-vendredi-4-septembre-2026_8144999.html",
    "summary": "Plan d'urgence pour l'agriculture, l'extrême droite en Europe... Les informés de franceinfo du vendredi 4 septembre 2026",
    "image": "https://www.franceinfo.fr/pictures/3dX_ZMJMhfOTbeF9LfGiY4HB-mA/0x0:1920x1080/432x243/filters:format(jpg)/2026/09/04/6a9b098d49bf0702633485.png",
+   "date": "2026-09-04T11:00:00+00:00",
+   "pubdate": "2026-09-04T11:00:00+00:00"
+  },
+  {
+   "title": "20:41 audio 20 minutes 41 Les informés du matin du vendredi 04 septembre 2026 Tous les jours, les informés débattent de l'actualité autour de Benjamin Recouvreur et de Renaud Dély.",
+   "link": "https://www.franceinfo.fr/replay-radio/les-informes-du-matin/les-informes-du-matin-du-vendredi-04-septembre-2026_8147495.html",
+   "summary": "Les informés du matin du vendredi 04 septembre 2026",
+   "image": "https://www.franceinfo.fr/pictures/o_ADBahtqgUk8Ow1Te2K8TXNBvg/0x360:3456x2302/432x243/filters:format(jpg)/2025/09/05/micro-franceinfo-dans-le-studio-411-de-la-maison-de-la-radio-68bb0455afc8a833594060.jpg",
    "date": "2026-09-04T11:00:00+00:00",
    "pubdate": "2026-09-04T11:00:00+00:00"
   },
