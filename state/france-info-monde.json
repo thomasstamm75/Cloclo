@@ -1,8 +1,7 @@
 {
- "etag": "\"c1a932fcdb27fcf1f2936ea603c99fa2-gzip\"",
+ "etag": "\"db47d13294fcd807009b7f8359a0adb0-gzip\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-a-atlanta-les-republicains-craignent-la-fin-de-l-ere-trump-a-l-approche-des-elections-de-mi-mandat-les-democrates-revent-de-revanche_8145842.html": "2026-09-03T21:28:37.033583+00:00",
   "https://www.franceinfo.fr/monde/usa/affaire-jeffrey-epstein/l-essentiel-des-revelations-sur-l-affaire-epstein/": "2026-09-03T21:28:37.033583+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-c-est-le-sauveur-en-saxe-anhalt-ulrich-siegmund-l-homme-le-plus-dangereux-d-allemagne-selon-der-spiegel-aux-portes-du-pouvoir_8147219.html": "2026-09-04T06:35:10.695323+00:00",
   "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/un-an-de-donald-trump-au-pouvoir/": "2026-09-05T03:28:52.076083+00:00",
@@ -31,10 +30,19 @@
   "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/or-les-banques-centrales-europeennes-prennent-leurs-distances-avec-les-etats-unis_8145080.html": "2026-09-05T18:30:25.020565+00:00",
   "https://www.franceinfo.fr/faits-divers/dans-les-avions-les-incidents-avec-des-passagers-violents-se-multiplient_8179058.html": "2026-09-05T21:27:13.090972+00:00",
   "https://www.franceinfo.fr/monde/l-onu-adopte-une-resolution-pour-changer-notre-carte-du-monde_8179040.html": "2026-09-05T21:27:13.090972+00:00",
-  "https://www.franceinfo.fr/monde/asie/seisme-au-nepal/sauvee-10-jours-apres-la-catastrophe_8179046.html": "2026-09-05T21:27:13.090972+00:00"
+  "https://www.franceinfo.fr/monde/asie/seisme-au-nepal/sauvee-10-jours-apres-la-catastrophe_8179046.html": "2026-09-05T21:27:13.090972+00:00",
+  "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/je-ne-sais-pas-ce-qui-attend-nos-enfants-a-kiev-l-angoisse-de-la-rentree-sous-les-bombes-apres-un-ete-meurtrier_8144936.html": "2026-09-06T00:41:25.867642+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "4:30 audio 4 minutes 30 \"Je ne sais pas ce qui attend nos enfants\" : à Kiev, l'angoisse de la rentrée sous les bombes après un été meurtrier",
+   "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/je-ne-sais-pas-ce-qui-attend-nos-enfants-a-kiev-l-angoisse-de-la-rentree-sous-les-bombes-apres-un-ete-meurtrier_8144936.html",
+   "summary": "\"Je ne sais pas ce qui attend nos enfants\" : à Kiev, l'angoisse de la rentrée sous les bombes après un été meurtrier",
+   "image": "https://www.franceinfo.fr/pictures/07LcAYc2BL1tbPyni2IkoRuOcD4/1000x0:5000x4000/100x100/filters:format(jpg)/2026/08/31/6a950e984fe25063470033.jpg",
+   "date": null,
+   "pubdate": "2026-09-06T00:41:25.867642+00:00"
+  },
   {
    "title": "1:44 vidéo 1 minute 44 Dans les avions, les incidents avec des passagers violents se multiplient Les violences à bord des avions se multiplient ces derniers mois. Passagers alcoolisés ou sous l'emprise de stupéfiants, altercations avec le personnel : les compagnies aériennes renforcent la formation de leurs équipages et réclament un durcissement des règles sur l'alcool dans les aéroports.",
    "link": "https://www.franceinfo.fr/faits-divers/dans-les-avions-les-incidents-avec-des-passagers-violents-se-multiplient_8179058.html",
@@ -264,14 +272,6 @@
    "link": "https://www.franceinfo.fr/monde/usa/affaire-jeffrey-epstein/l-essentiel-des-revelations-sur-l-affaire-epstein/",
    "summary": "L'essentiel des révélations sur l'affaire Epstein",
    "image": "https://www.franceinfo.fr/pictures/btENVL4vmQDLNvnJ4uUtTATvN9k/432x297/filters:format(jpg)/2026/02/12/000-96rl2gk-1-698def9a11d8a867290796.jpg",
-   "date": null,
-   "pubdate": "2026-09-03T21:28:37.033583+00:00"
-  },
-  {
-   "title": ": Reportage 4:58 audio 4 minutes 58 : Reportage À Atlanta, les républicains anticipent la défaite aux \"Midterms\" et \"la fin de l'ère Trump\", les démocrates rêvent de revanche",
-   "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-a-atlanta-les-republicains-craignent-la-fin-de-l-ere-trump-a-l-approche-des-elections-de-mi-mandat-les-democrates-revent-de-revanche_8145842.html",
-   "summary": "À Atlanta, les républicains anticipent la défaite aux \"Midterms\" et \"la fin de l'ère Trump\", les démocrates rêvent de revanche",
-   "image": "https://www.franceinfo.fr/pictures/ThZEHM_mXqdURdVGiap0tEo05iw/270x0:1169x899/100x100/filters:format(jpg)/2026/09/02/6a9887d380725266921772.jpg",
    "date": null,
    "pubdate": "2026-09-03T21:28:37.033583+00:00"
   }
