@@ -1,12 +1,9 @@
 {
- "etag": "\"fba464d4375497f6ed5a3cd041e42df2-gzip\"",
+ "etag": "\"712bb7dcb65531c9b527ceb1ca6a3f6a-gzip\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/au-fond-de-moi-je-sentais-que-je-devais-le-faire-ces-russes-qui-ont-choisi-de-combattre-pour-l-ukraine_8080760.html": "2026-09-03T00:39:54.931684+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/pendant-deux-jours-j-ai-tire-le-corps-d-un-mort-dans-la-kill-zone-les-soldats-ukrainiens-vivent-sous-la-menace-permanente-des-drones-russes_8089898.html": "2026-09-03T05:30:06.801744+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/je-ne-sais-pas-ce-qui-attend-nos-enfants-a-kiev-l-angoisse-de-la-rentree-sous-les-bombes-apres-un-ete-meurtrier_8144936.html": "2026-09-03T06:36:55.715472+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-ukraine-l-embarras-apres-des-coups-de-feu-tires-lors-d-une-confrontation-entre-deux-agences-de-renseignement-a-kiev_8175563.html": "2026-09-03T18:33:53.013464+00:00",
-  "https://www.franceinfo.fr/monde/europe/allemagne/un-objet-suspect-decouvert-pres-d-un-poste-electrique-en-allemagne-deux-autres-sabotages-ont-vise-des-infrastructures-electriques-du-pays-en-quelques-jours_8176091.html": "2026-09-04T00:37:29.960064+00:00",
   "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/a-ceuta-la-crise-migratoire-se-transforme-en-crise-politique-pour-pedro-sanchez-accuse-de-complicite_8144885.html": "2026-09-04T06:35:08.856465+00:00",
   "https://www.franceinfo.fr/replay-magazine/france-2/nous-les-europeens/nous-les-europeens-roumanie-vivre-avec-les-ours_8152880.html": "2026-09-04T06:35:08.856465+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-c-est-le-sauveur-en-saxe-anhalt-ulrich-siegmund-l-homme-le-plus-dangereux-d-allemagne-selon-der-spiegel-aux-portes-du-pouvoir_8147219.html": "2026-09-04T06:35:08.856465+00:00",
@@ -22,22 +19,48 @@
   "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/aides-a-l-ukraine-rachida-dati-reintegre-la-magistrature-le-8h30-franceinfo-de-laurent-jacobelli_8145071.html": "2026-09-05T11:00:00+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/un-drone-russe-frappe-le-siege-du-service-de-securite-ukrainien-a-kiev_8178524.html": "2026-09-05T09:27:47.067970+00:00",
   "https://www.franceinfo.fr/politique/front-national/guerre-en-ukraine-nous-sommes-aux-cotes-de-l-ukraine-mais-pas-au-prix-de-la-ruine-financiere-estime-laurent-jacobelli_8178485.html": "2026-09-05T09:27:47.067970+00:00",
-  "https://www.franceinfo.fr/monde/europe/allemagne/l-afd-aux-portes-du-pouvoir-dans-la-campagne-allemande_8173733.html": "2026-09-05T09:27:47.067970+00:00",
   "https://www.franceinfo.fr/elections/presidentielle/on-coupe-le-robinet-marine-le-pen-et-edouard-philippe-s-affrontent-par-tweets-interposes-sur-l-aide-a-l-ukraine_8178434.html": "2026-09-05T09:27:47.067970+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-les-emissaires-de-donald-trump-attendus-a-moscou-et-a-kiev-pour-faire-avancer-les-choses-selon-le-president-americain_8178449.html": "2026-09-05T09:27:47.067970+00:00",
   "https://www.franceinfo.fr/elections/presidentielle/parti-de-la-soumission-a-la-russie-patriotes-de-pacotille-les-candidats-a-la-presidentielle-fustigent-la-position-du-rn-sur-l-aide-a-l-ukraine_8178707.html": "2026-09-05T12:33:00.907233+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/volodymyr-zelensky-denonce-des-frappes-russes-deliberees-contre-des-aeroports-de-kiev-avant-la-visite-en-ukraine-des-emissaires-americains_8178620.html": "2026-09-05T12:33:00.907233+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/nous-avons-une-idee-pour-la-paix-a-quoi-faut-il-s-attendre-lors-des-visites-des-emissaires-americains-a-moscou-et-kiev_8178452.html": "2026-09-05T12:33:00.907233+00:00",
   "https://www.franceinfo.fr/monde/europe/allemagne/en-allemagne-des-milliers-de-manifestants-pour-la-democratie-a-la-veille-d-un-scrutin-regional-ou-l-extreme-droite-est-favorite_8178782.html": "2026-09-05T15:28:27.557096+00:00",
-  "https://www.franceinfo.fr/monde/europe/allemagne/allemagne-en-saxe-anhalt-les-chefs-d-entreprise-divises-face-a-une-possible-victoire-historique-de-l-afd_8178722.html": "2026-09-05T15:28:27.557096+00:00"
+  "https://www.franceinfo.fr/monde/europe/allemagne/allemagne-en-saxe-anhalt-les-chefs-d-entreprise-divises-face-a-une-possible-victoire-historique-de-l-afd_8178722.html": "2026-09-05T15:28:27.557096+00:00",
+  "https://www.franceinfo.fr/monde/europe/allemagne/l-extreme-droite-allemande-va-t-elle-remporter-une-region_8179451.html": "2026-09-06T06:33:31.530415+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-les-emissaires-de-donald-trump-peuvent-ils-vraiment-changer-la-situation_8179436.html": "2026-09-06T06:33:31.530415+00:00",
+  "https://www.franceinfo.fr/monde/europe/allemagne/il-y-a-une-extrapolation-du-declin-economique-comment-l-extreme-droite-allemande-est-arrivee-aux-portes-du-pouvoir-en-saxe-anhalt_8175638.html": "2026-09-06T06:33:31.530415+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "En Allemagne, des milliers de manifestants pour \"la démocratie\" à la veille d'un scrutin régional où l'extrême droite est favorite Le parti Alternative für Deutschland est pressentie pour remporter une victoire historique une Saxe-Anhalt, une région de l'ex-République démocratique allemande plus pauvre que la moyenne du reste du pays.",
+   "title": "1:52 vidéo 1 minute 52 L'extrême droite allemande va-t-elle remporter une région ? En Saxe-Anhalt (Allemagne), l'AfD pourrait remporter l'élection régionale du dimanche 6 septembre et marquer un tournant dans l'histoire politique du pays. Représenté par un jeune candidat, le parti d'extrême droite gagne toujours plus en popularité.",
+   "link": "https://www.franceinfo.fr/monde/europe/allemagne/l-extreme-droite-allemande-va-t-elle-remporter-une-region_8179451.html",
+   "summary": "L'extrême droite allemande va-t-elle remporter une région ?",
+   "image": "https://www.franceinfo.fr/pictures/wFyE_pxJUwyxcxk_x77cIZ99mHI/207x0:1328x771/432x297/filters:format(jpg)/2026/09/06/6a9d032ae0c6f552503313.jpg",
+   "date": null,
+   "pubdate": "2026-09-06T06:33:31.530415+00:00"
+  },
+  {
+   "title": "1:29 vidéo 1 minute 29 Guerre en Ukraine : les émissaires de Donald Trump peuvent-ils vraiment changer la situation ?",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-les-emissaires-de-donald-trump-peuvent-ils-vraiment-changer-la-situation_8179436.html",
+   "summary": "Guerre en Ukraine : les émissaires de Donald Trump peuvent-ils vraiment changer la situation ?",
+   "image": "https://www.franceinfo.fr/pictures/CxdOAc4Q9CM6f7HNhJOw1MxD0EM/20x0:1515x841/432x243/filters:format(jpg)/2026/09/06/6a9cfeb61e78e150789097.jpg",
+   "date": null,
+   "pubdate": "2026-09-06T06:33:31.530415+00:00"
+  },
+  {
+   "title": "7:00 article 7 minutes \"Il y a une extrapolation du déclin économique\" : comment l'extrême droite allemande est arrivée aux portes du pouvoir en Saxe-Anhalt",
+   "link": "https://www.franceinfo.fr/monde/europe/allemagne/il-y-a-une-extrapolation-du-declin-economique-comment-l-extreme-droite-allemande-est-arrivee-aux-portes-du-pouvoir-en-saxe-anhalt_8175638.html",
+   "summary": "\"Il y a une extrapolation du déclin économique\" : comment l'extrême droite allemande est arrivée aux portes du pouvoir en Saxe-Anhalt",
+   "image": "https://www.franceinfo.fr/pictures/-nAiSgts3hDGmwBA52wjbLgKz5c/7x0:689x682/100x100/filters:format(jpg)/2026/09/03/6a99968962ca9292189034.jpg",
+   "date": null,
+   "pubdate": "2026-09-06T06:33:31.530415+00:00"
+  },
+  {
+   "title": "En Allemagne, des milliers de manifestants pour \"la démocratie\" à la veille d'un scrutin régional où l'extrême droite est favorite",
    "link": "https://www.franceinfo.fr/monde/europe/allemagne/en-allemagne-des-milliers-de-manifestants-pour-la-democratie-a-la-veille-d-un-scrutin-regional-ou-l-extreme-droite-est-favorite_8178782.html",
-   "summary": "En Allemagne, des milliers de manifestants pour \"la démocratie\" à la veille d'un scrutin régional où l'extrême droite est favorite",
-   "image": "https://www.franceinfo.fr/pictures/qyktpM1VI9R8O4ajMyt9jx3zfrM/134x0:4841x3236/432x297/filters:format(jpg)/2026/09/05/6a9c1e5783c79821579814.jpg",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/r02evJ35aFEckDVmiX58lSGCBnE/0x218:4976x3017/432x243/filters:format(jpg)/2026/09/05/6a9c1e5783c79821579814.jpg",
    "date": null,
    "pubdate": "2026-09-05T15:28:27.557096+00:00"
   },
@@ -98,17 +121,9 @@
    "pubdate": "2026-09-05T09:27:47.067970+00:00"
   },
   {
-   "title": "2:58 vidéo 2 minutes 58 L'AfD aux portes du pouvoir dans la campagne allemande",
-   "link": "https://www.franceinfo.fr/monde/europe/allemagne/l-afd-aux-portes-du-pouvoir-dans-la-campagne-allemande_8173733.html",
-   "summary": "L'AfD aux portes du pouvoir dans la campagne allemande",
-   "image": "https://www.franceinfo.fr/pictures/YgY588n6PXOWQjUbN7ljsSfvgHo/0x0:900x1600/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/02/6a9804d3aa36b170958609.jpg",
-   "date": null,
-   "pubdate": "2026-09-05T09:27:47.067970+00:00"
-  },
-  {
-   "title": "\"On coupe le robinet\" : Marine Le Pen et Edouard Philippe s’affrontent par tweets interposés sur l'aide à l'Ukraine",
+   "title": "\"On coupe le robinet\" : Marine Le Pen et Edouard Philippe s’affrontent par tweets interposés sur l'aide à l'Ukraine Les deux anciens Premiers ministres Edouard Philippe et Gabriel Attal et la candidate du RN s’affrontent depuis 24 heures sur le soutien à apporter à Kiev. Une nouvelle montée des tensions entre les favoris des sondages en vue de la présidentielle.",
    "link": "https://www.franceinfo.fr/elections/presidentielle/on-coupe-le-robinet-marine-le-pen-et-edouard-philippe-s-affrontent-par-tweets-interposes-sur-l-aide-a-l-ukraine_8178434.html",
-   "summary": "",
+   "summary": "\"On coupe le robinet\" : Marine Le Pen et Edouard Philippe s’affrontent par tweets interposés sur l'aide à l'Ukraine",
    "image": "https://www.franceinfo.fr/pictures/1VcToD93TIWlQD2CV6xVcdknufk/0x211:4068x2500/432x243/filters:format(jpg)/2026/09/05/6a9bbed8a1853683016063.jpg",
    "date": null,
    "pubdate": "2026-09-05T09:27:47.067970+00:00"
@@ -186,18 +201,18 @@
    "pubdate": "2026-09-04T09:30:13.485104+00:00"
   },
   {
-   "title": ": Reportage 4:57 audio 4 minutes 57 : Reportage \"C'est le sauveur\", Ulrich Siegmund \"l’homme le plus dangereux d’Allemagne\", selon \"Der Spiegel\", aux portes d'une victoire historique",
-   "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-c-est-le-sauveur-en-saxe-anhalt-ulrich-siegmund-l-homme-le-plus-dangereux-d-allemagne-selon-der-spiegel-aux-portes-du-pouvoir_8147219.html",
-   "summary": "\"C'est le sauveur\", Ulrich Siegmund \"l’homme le plus dangereux d’Allemagne\", selon \"Der Spiegel\", aux portes d'une victoire historique",
-   "image": "https://www.franceinfo.fr/pictures/VFg8d1outM3G4QXNVW4Z5Ox_n70/171x0:853x682/100x100/filters:format(jpg)/2026/09/04/6a9a5941c45a4796624614.jpg",
-   "date": null,
-   "pubdate": "2026-09-04T06:35:08.856465+00:00"
-  },
-  {
    "title": "Vos questions sur l'effort de guerre de la France 6 contenus",
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/vos-questions-sur-l-effort-de-guerre-de-la-france/",
    "summary": "Vos questions sur l'effort de guerre de la France",
    "image": "https://www.franceinfo.fr/pictures/ntZoU9VrwR_yrQmHdJn-AC2Tq7o/432x297/filters:format(jpg)/2025/04/01/effort-de-guerre-couverture-de-dossier-01-light-67eba0e5ca0a7848911582.jpg",
+   "date": null,
+   "pubdate": "2026-09-04T06:35:08.856465+00:00"
+  },
+  {
+   "title": ": Reportage 4:57 audio 4 minutes 57 : Reportage \"C'est le sauveur\", Ulrich Siegmund \"l’homme le plus dangereux d’Allemagne\", selon \"Der Spiegel\", aux portes d'une victoire historique",
+   "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-c-est-le-sauveur-en-saxe-anhalt-ulrich-siegmund-l-homme-le-plus-dangereux-d-allemagne-selon-der-spiegel-aux-portes-du-pouvoir_8147219.html",
+   "summary": "\"C'est le sauveur\", Ulrich Siegmund \"l’homme le plus dangereux d’Allemagne\", selon \"Der Spiegel\", aux portes d'une victoire historique",
+   "image": "https://www.franceinfo.fr/pictures/VFg8d1outM3G4QXNVW4Z5Ox_n70/171x0:853x682/100x100/filters:format(jpg)/2026/09/04/6a9a5941c45a4796624614.jpg",
    "date": null,
    "pubdate": "2026-09-04T06:35:08.856465+00:00"
   },
@@ -218,22 +233,6 @@
    "pubdate": "2026-09-04T06:35:08.856465+00:00"
   },
   {
-   "title": "Un objet suspect découvert près d'un poste électrique en Allemagne, après deux sabotages contre des infrastructures ces derniers jours L'objet n'a provoqué aucun dégât et a été \"sécurisé\", a précisé la police pour qui son éventuelle capacité de nuisance reste encore à établir.",
-   "link": "https://www.franceinfo.fr/monde/europe/allemagne/un-objet-suspect-decouvert-pres-d-un-poste-electrique-en-allemagne-deux-autres-sabotages-ont-vise-des-infrastructures-electriques-du-pays-en-quelques-jours_8176091.html",
-   "summary": "Un objet suspect découvert près d'un poste électrique en Allemagne, après deux sabotages contre des infrastructures ces derniers jours",
-   "image": "https://www.franceinfo.fr/pictures/0WaBHv-jUDMtxsKzB7bvZ92WuJ8/0x53:1024x629/432x243/filters:format(jpg)/2026/09/04/6a99f5cd2dd21898300452.jpg",
-   "date": null,
-   "pubdate": "2026-09-04T00:37:29.960064+00:00"
-  },
-  {
-   "title": "En Ukraine, l'embarras après des coups de feu tirés lors d'une confrontation entre deux agences de renseignement à Kiev Des membres du service de sécurité ont fait usage de leurs armes durant une querelle avec des agents du renseignement militaire, en pleine rue à Kiev, dans la nuit de lundi à mardi. Le président Volodymyr Zelensky a qualifié cette scène de \"scandaleuse\".",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-ukraine-l-embarras-apres-des-coups-de-feu-tires-lors-d-une-confrontation-entre-deux-agences-de-renseignement-a-kiev_8175563.html",
-   "summary": "En Ukraine, l'embarras après des coups de feu tirés lors d'une confrontation entre deux agences de renseignement à Kiev",
-   "image": "https://www.franceinfo.fr/pictures/8c-vby9lKQ0jctjnYlfshVwhkPI/0x339:4300x2758/432x243/filters:format(jpg)/2026/09/03/6a99a26ef033d045559830.jpg",
-   "date": null,
-   "pubdate": "2026-09-03T18:33:53.013464+00:00"
-  },
-  {
    "title": "4:30 audio 4 minutes 30 \"Je ne sais pas ce qui attend nos enfants\" : à Kiev, l'angoisse de la rentrée sous les bombes après un été meurtrier",
    "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/je-ne-sais-pas-ce-qui-attend-nos-enfants-a-kiev-l-angoisse-de-la-rentree-sous-les-bombes-apres-un-ete-meurtrier_8144936.html",
    "summary": "\"Je ne sais pas ce qui attend nos enfants\" : à Kiev, l'angoisse de la rentrée sous les bombes après un été meurtrier",
@@ -248,14 +247,6 @@
    "image": "https://www.franceinfo.fr/pictures/4zYrkSRE72oHOw9FZqUYFfND8Rc/51x0:3963x3912/100x100/filters:format(jpg)/2026/07/23/6a61b9ee54a89103415579.jpg",
    "date": null,
    "pubdate": "2026-09-03T05:30:06.801744+00:00"
-  },
-  {
-   "title": "5:09 audio 5 minutes 9 \"Au fond de moi, je sentais que je devais le faire\" : ces Russes qui ont choisi de combattre pour l'Ukraine",
-   "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/au-fond-de-moi-je-sentais-que-je-devais-le-faire-ces-russes-qui-ont-choisi-de-combattre-pour-l-ukraine_8080760.html",
-   "summary": "\"Au fond de moi, je sentais que je devais le faire\" : ces Russes qui ont choisi de combattre pour l'Ukraine",
-   "image": "https://www.franceinfo.fr/pictures/HSs1ilVqK7WkYhz2q5ObE-H2RKk/159x0:2816x2657/100x100/filters:format(jpg)/2026/07/17/6a59bab47901b529860639.jpg",
-   "date": null,
-   "pubdate": "2026-09-03T00:39:54.931684+00:00"
   }
  ]
 }

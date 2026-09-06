@@ -1,10 +1,7 @@
 {
- "etag": "\"34d5bf2796f7219fbbd2ad7e7f1a0c46-gzip\"",
+ "etag": "\"ae68c980397e47f1db3c0905e1f75449-gzip\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.franceinfo.fr/politique/affaire/financement-de-la-campagne-de-sarkozy/soupcons-de-financement-libyen-tout-comprendre-a-l-affaire/": "2026-09-03T12:36:40.392930+00:00",
-  "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-c-est-le-sauveur-en-saxe-anhalt-ulrich-siegmund-l-homme-le-plus-dangereux-d-allemagne-selon-der-spiegel-aux-portes-du-pouvoir_8147219.html": "2026-09-04T06:35:07.548221+00:00",
-  "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/secheresse/le-depute-jean-rene-cazeneuve-epr-salue-le-tres-bel-effort-du-gouvernement-avec-un-plan-d-urgence-pour-les-agriculteurs-face-a-la-secheresse_8177021.html": "2026-09-04T12:35:52.167529+00:00",
   "https://www.franceinfo.fr/elections/presidentielle/les-socialistes-la-font-bien-la-droite-et-le-centre-peuvent-ils-encore-organiser-une-primaire-pour-la-presidentielle-de-2027_8171882.html": "2026-09-04T12:35:52.167529+00:00",
   "https://www.franceinfo.fr/sante/handicap/nous-demandons-un-grenelle-de-l-aide-a-domicile-lance-le-directeur-general-de-l-association-apf-france-handicap-apres-la-conference-nationale_8177474.html": "2026-09-04T15:30:18.695849+00:00",
   "https://www.franceinfo.fr/faits-divers/police/les-syndicats-de-police-insatisfaits-de-leur-echange-avec-le-ministre-de-l-interieur-et-mettent-en-garde-contre-un-mobilisation-le-15-septembre_8177417.html": "2026-09-04T15:30:18.695849+00:00",
@@ -31,7 +28,10 @@
   "https://www.franceinfo.fr/politique/il-n-y-a-qu-une-voie-eric-ciotti-propose-a-marine-le-pen-un-pacte-d-alliance-pour-la-presidentielle-de-2027_8178815.html": "2026-09-05T15:28:12.521666+00:00",
   "https://www.franceinfo.fr/politique/melenchon/pouvoir-d-achat-rn-jean-luc-melenchon-a-delivre-un-discours-de-campagne-depuis-la-braderie-de-lille_8178941.html": "2026-09-05T18:30:22.761221+00:00",
   "https://www.franceinfo.fr/politique/eelv/marine-tondelier-veut-une-loi-pour-interdire-le-mensonge-en-politique-apres-les-propos-polemiques-d-un-senateur-sur-un-pesticide_8178884.html": "2026-09-05T18:30:22.761221+00:00",
-  "https://www.franceinfo.fr/politique/je-vous-demande-de-vous-arreter-comment-la-phrase-d-edouard-balladur-est-devenue-culte_8171597.html": "2026-09-05T21:27:09.701273+00:00"
+  "https://www.franceinfo.fr/politique/je-vous-demande-de-vous-arreter-comment-la-phrase-d-edouard-balladur-est-devenue-culte_8171597.html": "2026-09-05T21:27:09.701273+00:00",
+  "https://www.franceinfo.fr/politique/rachida-dati/malgre-son-proces-pour-corruption-rachida-dati-demande-a-reintegrer-la-magistrature_8179469.html": "2026-09-06T06:33:30.405325+00:00",
+  "https://www.franceinfo.fr/monde/europe/allemagne/l-extreme-droite-allemande-va-t-elle-remporter-une-region_8179451.html": "2026-09-06T06:33:30.405325+00:00",
+  "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/tout-comprendre-au-proces-des-assistants-parlementaires-fn/": "2026-09-06T06:33:30.405325+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
@@ -44,6 +44,30 @@
    "pubdate": "2026-09-06T11:00:00+00:00"
   },
   {
+   "title": "1:10 vidéo 1 minute 10 Malgré son procès pour corruption, Rachida Dati demande à réintégrer la magistrature Mise en examen pour corruption et trafic d'influence passif, Rachida Dati, dont le procès s'ouvre dans dix jours, s'est vu proposer, à sa demande, un poste de magistrate. Ce timing interroge au sein de la profession.",
+   "link": "https://www.franceinfo.fr/politique/rachida-dati/malgre-son-proces-pour-corruption-rachida-dati-demande-a-reintegrer-la-magistrature_8179469.html",
+   "summary": "Malgré son procès pour corruption, Rachida Dati demande à réintégrer la magistrature",
+   "image": "https://www.franceinfo.fr/pictures/hjNP5yfEBAMTv6gEcSCrd3ZNSjM/209x0:1326x768/432x297/filters:format(jpg)/2026/09/06/6a9d071d8ae67725512508.jpg",
+   "date": null,
+   "pubdate": "2026-09-06T06:33:30.405325+00:00"
+  },
+  {
+   "title": "1:52 vidéo 1 minute 52 L'extrême droite allemande va-t-elle remporter une région ?",
+   "link": "https://www.franceinfo.fr/monde/europe/allemagne/l-extreme-droite-allemande-va-t-elle-remporter-une-region_8179451.html",
+   "summary": "L'extrême droite allemande va-t-elle remporter une région ?",
+   "image": "https://www.franceinfo.fr/pictures/u7K5YXT6axLT0j71oIXTN8qAIEo/82x0:1453x771/432x243/filters:format(jpg)/2026/09/06/6a9d032ae0c6f552503313.jpg",
+   "date": null,
+   "pubdate": "2026-09-06T06:33:30.405325+00:00"
+  },
+  {
+   "title": "Tout comprendre au procès des assistants parlementaires FN 20 contenus",
+   "link": "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/tout-comprendre-au-proces-des-assistants-parlementaires-fn/",
+   "summary": "Tout comprendre au procès des assistants parlementaires FN",
+   "image": "https://www.franceinfo.fr/pictures/iHJ4ZCCHTABB8-X6GO7CrL-9zcI/432x297/filters:format(jpg)/2026/01/28/marine-le-pen-a-son-proces-en-appel-697a50d594f91234092099.jpg",
+   "date": null,
+   "pubdate": "2026-09-06T06:33:30.405325+00:00"
+  },
+  {
    "title": "3:00 article 3 minutes \"Je vous demande de vous arrêter\" : comment la phrase d'Edouard Balladur est devenue culte",
    "link": "https://www.franceinfo.fr/politique/je-vous-demande-de-vous-arreter-comment-la-phrase-d-edouard-balladur-est-devenue-culte_8171597.html",
    "summary": "\"Je vous demande de vous arrêter\" : comment la phrase d'Edouard Balladur est devenue culte",
@@ -52,10 +76,10 @@
    "pubdate": "2026-09-05T21:27:09.701273+00:00"
   },
   {
-   "title": "Pouvoir d'achat, RN... Jean-Luc Mélenchon dévoile ses premières mesures de campagne pour 2027 à la braderie de Lille Le leader de La France insoumise et candidat à la présidentielle a tenu un discours de rentrée à la braderie de Lille, dans lequel il a notamment proposé de bloquer les prix.",
+   "title": "Pouvoir d'achat, RN... Jean-Luc Mélenchon dévoile ses premières mesures de campagne pour 2027 à la braderie de Lille",
    "link": "https://www.franceinfo.fr/politique/melenchon/pouvoir-d-achat-rn-jean-luc-melenchon-a-delivre-un-discours-de-campagne-depuis-la-braderie-de-lille_8178941.html",
-   "summary": "Pouvoir d'achat, RN... Jean-Luc Mélenchon dévoile ses premières mesures de campagne pour 2027 à la braderie de Lille",
-   "image": "https://www.franceinfo.fr/pictures/5ZovVkm-J95NHzmqjjwxw7rHdbk/0x0:5762x3962/432x297/filters:format(jpg)/2026/09/05/6a9c42201ef86960639080.jpg",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/ij66fE1wjBArW1akzf7ftbRIR54/0x0:5943x3342/432x243/filters:format(jpg)/2026/09/05/6a9c42201ef86960639080.jpg",
    "date": null,
    "pubdate": "2026-09-05T18:30:22.761221+00:00"
   },
@@ -116,7 +140,7 @@
    "pubdate": "2026-09-05T09:27:45.468985+00:00"
   },
   {
-   "title": "2:35 audio 2 minutes 35 Présidentielle 2027 : Marine Le Pen et Jordan Bardella affichent de plus en plus leurs divergences",
+   "title": "2:35 audio 2 minutes 35 Présidentielle 2027 : Marine Le Pen et Jordan Bardella affichent de plus en plus leurs divergences A 7 mois de la présidentielle, le RN reste toujours en tète, et de loin, des intentions de vote, mais le fameux \"ticket\" Marine Le Pen / Jordan Bardella semble s'effriter.",
    "link": "https://www.franceinfo.fr/replay-radio/le-brief-politique/presidentielle-2027-marine-le-pen-et-jordan-bardella-affichent-de-plus-en-plus-leurs-divergences_8148692.html",
    "summary": "Présidentielle 2027 : Marine Le Pen et Jordan Bardella affichent de plus en plus leurs divergences",
    "image": "https://www.franceinfo.fr/pictures/5g9WTEQXbWE0Avd-qnPl2nf2zI0/0x117:2256x1386/432x243/filters:format(jpg)/2026/09/05/6a9bcb3a6e7c9321517005.jpg",
@@ -124,9 +148,9 @@
    "pubdate": "2026-09-05T09:27:45.468985+00:00"
   },
   {
-   "title": "\"On coupe le robinet\" : Marine Le Pen et Edouard Philippe s’affrontent par tweets interposés sur l'aide à l'Ukraine",
+   "title": "\"On coupe le robinet\" : Marine Le Pen et Edouard Philippe s’affrontent par tweets interposés sur l'aide à l'Ukraine Les deux anciens Premiers ministres Edouard Philippe et Gabriel Attal et la candidate du RN s’affrontent depuis 24 heures sur le soutien à apporter à Kiev. Une nouvelle montée des tensions entre les favoris des sondages en vue de la présidentielle.",
    "link": "https://www.franceinfo.fr/elections/presidentielle/on-coupe-le-robinet-marine-le-pen-et-edouard-philippe-s-affrontent-par-tweets-interposes-sur-l-aide-a-l-ukraine_8178434.html",
-   "summary": "",
+   "summary": "\"On coupe le robinet\" : Marine Le Pen et Edouard Philippe s’affrontent par tweets interposés sur l'aide à l'Ukraine",
    "image": "https://www.franceinfo.fr/pictures/1VcToD93TIWlQD2CV6xVcdknufk/0x211:4068x2500/432x243/filters:format(jpg)/2026/09/05/6a9bbed8a1853683016063.jpg",
    "date": null,
    "pubdate": "2026-09-05T09:27:45.468985+00:00"
@@ -244,36 +268,12 @@
    "pubdate": "2026-09-04T12:35:52.167529+00:00"
   },
   {
-   "title": "Le député Jean-René Cazeneuve (EPR) salue le \"très bel effort\" du gouvernement avec un plan d'urgence pour les agriculteurs face à la sécheresse \"Est-ce que ça va suffire ?\" s'interroge le député du camp présidentiel qui y voit tout de même \"un plan historiquement élevé\", vendredi sur franceinfo.",
-   "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/secheresse/le-depute-jean-rene-cazeneuve-epr-salue-le-tres-bel-effort-du-gouvernement-avec-un-plan-d-urgence-pour-les-agriculteurs-face-a-la-secheresse_8177021.html",
-   "summary": "Le député Jean-René Cazeneuve (EPR) salue le \"très bel effort\" du gouvernement avec un plan d'urgence pour les agriculteurs face à la sécheresse",
-   "image": "https://www.franceinfo.fr/pictures/7h_dY21p5oo3hxYXa4O2UJTLEnY/0x0:1024x576/432x243/filters:format(jpg)/2025/11/09/untitled-69105e0b7c198883494420.jpg",
-   "date": null,
-   "pubdate": "2026-09-04T12:35:52.167529+00:00"
-  },
-  {
    "title": "1:15:00 audio 1 heure 15 minutes Plan d'urgence pour l'agriculture, l'extrême droite en Europe... Les informés de franceinfo du vendredi 4 septembre 2026 Tous les soirs, les informés débattent de l'actualité autour d'Hadrien Bect.",
    "link": "https://www.franceinfo.fr/replay-radio/les-informes-de-france-info/plan-d-urgence-pour-l-agriculture-l-extreme-droite-en-europe-les-informes-de-franceinfo-du-vendredi-4-septembre-2026_8144999.html",
    "summary": "Plan d'urgence pour l'agriculture, l'extrême droite en Europe... Les informés de franceinfo du vendredi 4 septembre 2026",
    "image": "https://www.franceinfo.fr/pictures/3dX_ZMJMhfOTbeF9LfGiY4HB-mA/0x0:1920x1080/432x243/filters:format(jpg)/2026/09/04/6a9b098d49bf0702633485.png",
    "date": "2026-09-04T11:00:00+00:00",
    "pubdate": "2026-09-04T11:00:00+00:00"
-  },
-  {
-   "title": ": Reportage 4:57 audio 4 minutes 57 : Reportage \"C'est le sauveur\", Ulrich Siegmund \"l’homme le plus dangereux d’Allemagne\", selon \"Der Spiegel\", aux portes d'une victoire historique",
-   "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-c-est-le-sauveur-en-saxe-anhalt-ulrich-siegmund-l-homme-le-plus-dangereux-d-allemagne-selon-der-spiegel-aux-portes-du-pouvoir_8147219.html",
-   "summary": "\"C'est le sauveur\", Ulrich Siegmund \"l’homme le plus dangereux d’Allemagne\", selon \"Der Spiegel\", aux portes d'une victoire historique",
-   "image": "https://www.franceinfo.fr/pictures/VFg8d1outM3G4QXNVW4Z5Ox_n70/171x0:853x682/100x100/filters:format(jpg)/2026/09/04/6a9a5941c45a4796624614.jpg",
-   "date": null,
-   "pubdate": "2026-09-04T06:35:07.548221+00:00"
-  },
-  {
-   "title": "Soupçons de financement libyen : tout comprendre à l'affaire 29 contenus",
-   "link": "https://www.franceinfo.fr/politique/affaire/financement-de-la-campagne-de-sarkozy/soupcons-de-financement-libyen-tout-comprendre-a-l-affaire/",
-   "summary": "Soupçons de financement libyen : tout comprendre à l'affaire",
-   "image": "https://www.franceinfo.fr/pictures/v8aRR1aSuiF4ZIj9DIPv2bzZJf8/432x297/filters:format(jpg)/2025/10/22/sarkozymontage-68f8fa8dd58da459326159.jpg",
-   "date": null,
-   "pubdate": "2026-09-03T12:36:40.392930+00:00"
   }
  ]
 }
