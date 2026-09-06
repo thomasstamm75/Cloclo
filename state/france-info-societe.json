@@ -1,15 +1,11 @@
 {
- "etag": "\"2198a37e7f45792d8b32f2556f897647-gzip\"",
+ "etag": "\"4e2dcf72b7267daac04990773bfb4591-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/culture/musique/tout-le-monde-les-ecoutait-ou-les-subissait-peut-on-encore-parler-de-hits-de-l-ete-comme-avant-les-reseaux-sociaux_8155445.html": "2026-09-01T18:33:18.227663+00:00",
-  "https://www.franceinfo.fr/societe/violences-faites-aux-femmes/le-youtubeur-greg-guillotin-vise-par-une-plainte-pour-violences-conjugales_8177924.html": "2026-09-04T21:28:42.202411+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-visite-du-pape-a-metz-c-est-un-formidable-coup-de-projecteur-sur-la-ville-estime-le-maire_8134199.html": "2026-09-04T21:28:42.202411+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/j-essaie-d-y-aller-cinq-six-fois-par-semaine-a-16-ou-17-ans-ils-sont-deja-accros-a-la-salle-de-sport_8136965.html": "2026-09-05T00:38:17.798512+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/temoignages-on-m-a-dit-de-le-laisser-la-bas-le-combat-de-parents-francais-pour-recuperer-leurs-enfants-emmenes-a-l-etranger-par-leur-ex-conjoint_8148599.html": "2026-09-05T06:32:33.299665+00:00",
-  "https://www.franceinfo.fr/societe/harcelement-sexuel/en-moselle-un-couple-d-assistants-familiaux-mis-en-examen-pour-des-soupcons-de-viols-et-d-agressions-sexuelles-sur-une-vingtaine-d-enfants_8178353.html": "2026-09-05T06:32:33.299665+00:00",
-  "https://www.franceinfo.fr/france/rentree/de-moins-en-moins-d-eleves-a-l-ecole-une-opportunite-pour-faire-des-economies-ou-ameliorer-la-qualite-de-l-enseignement_8176919.html": "2026-09-05T06:32:33.299665+00:00",
-  "https://www.franceinfo.fr/societe/religion/un-debat-tres-franco-francais-pourquoi-le-port-du-voile-islamique-dans-l-espace-public-passionne-plus-que-chez-nos-voisins_8175416.html": "2026-09-05T06:32:33.299665+00:00",
   "https://www.franceinfo.fr/replay-radio/c-est-mon-boulot/pourquoi-de-plus-en-plus-de-jeunes-ont-ils-envie-de-se-reorienter-en-debut-de-carriere_8145098.html": "2026-09-05T09:27:42.214783+00:00",
   "https://www.franceinfo.fr/societe/pauvrete/a-lyon-l-association-1-cabas-pour-1-etudiant-cherche-des-parrains-et-des-marraines-pour-aider-les-etudiants-les-plus-precaires_8178392.html": "2026-09-05T09:27:42.214783+00:00",
   "https://www.franceinfo.fr/societe/religion/fetes-juives-de-septembre-laurent-nunez-demande-aux-prefets-de-renforcer-la-securite-des-lieux-de-culte-juifs_8178674.html": "2026-09-05T12:32:57.223538+00:00",
@@ -21,25 +17,58 @@
   "https://www.franceinfo.fr/societe/immigration/des-manifestants-anti-immigration-ont-bloque-l-acces-au-port-de-douvres-le-trafic-maritime-entre-la-france-et-le-royaume-uni-brievement-interrompu_8178743.html": "2026-09-05T15:28:09.655516+00:00",
   "https://www.franceinfo.fr/societe/mariage/avoir-un-mariage-de-princesse-c-est-mon-reve-de-petite-fille-le-mariage-revient-en-grace-chez-les-jeunes_8178986.html": "2026-09-05T18:30:20.464997+00:00",
   "https://www.franceinfo.fr/elections/presidentielle/immigration-jordan-bardella-a-propose-de-devenir-un-sous-traitant-de-la-grande-bretagne-tacle-xavier-bertrand_8178881.html": "2026-09-05T18:30:20.464997+00:00",
-  "https://www.franceinfo.fr/societe/mariage/mariage-ces-couples-qui-attendent-plusieurs-annees-avant-de-se-dire-oui_8179097.html": "2026-09-05T21:27:06.281524+00:00",
-  "https://www.franceinfo.fr/politique/rachida-dati/malgre-son-proces-pour-corruption-rachida-dati-demande-a-reintegrer-la-magistrature_8179469.html": "2026-09-06T06:33:28.245522+00:00",
   "https://www.franceinfo.fr/enquetes-franceinfo/enquete-deux-hommes-accusent-joaquim-pueyo-d-attouchements-sur-mineurs_8177357.html": "2026-09-06T06:33:28.245522+00:00",
-  "https://www.franceinfo.fr/societe/justice/de-nouvelles-accusations-d-agression-sexuelle-contre-l-ex-maire-d-alencon_8177432.html": "2026-09-06T06:33:28.245522+00:00",
   "https://www.franceinfo.fr/societe/antisemitisme/negationnisme-distorsion-de-l-histoire-visee-ideologique-la-desinformation-sur-la-shoah-tres-presente-sur-les-reseaux-sociaux_8178749.html": "2026-09-06T09:29:14.534373+00:00",
   "https://www.franceinfo.fr/environnement/actions-ecologiques/transports-ecologiques/c-est-la-rentree-les-gens-ont-besoin-d-etre-en-securite-sur-leurs-velos-la-revision-une-etape-a-ne-pas-negliger-avant-de-se-remettre-en-selle_8172236.html": "2026-09-06T09:29:14.534373+00:00",
   "https://www.franceinfo.fr/politique/prenez-le-voile-et-sortez-pourquoi-des-femmes-et-des-hommes-se-filment-voiles-pour-denoncer-la-proposition-du-rn_8179499.html": "2026-09-06T09:29:14.534373+00:00",
   "https://www.franceinfo.fr/replay-radio/l-invite-culture/julia-kerninon-j-aime-les-mots-jusqu-a-l-ivresse_8177615.html": "2026-09-06T12:33:38.094002+00:00",
   "https://www.franceinfo.fr/politique/front-national/on-vous-resume-la-passe-d-armes-entre-jordan-bardella-et-ses-adversaires-apres-la-signature-d-un-accord-sur-l-immigration-avec-nigel-farage_8179508.html": "2026-09-06T12:33:38.094002+00:00",
   "https://www.franceinfo.fr/societe/harcelement-sexuel/video-apres-que-mimi-mathy-a-defendu-patrick-bruel-flavie-flament-estomaquee-par-ces-femmes-qui-portent-en-elles-le-poids-du-monde-d-hier_8179580.html": "2026-09-06T12:33:38.094002+00:00",
-  "https://www.franceinfo.fr/societe/nos-jours-heureux/nos-jours-heureux-baignade-salee-deluge-et-sentiment-de-liberte-a-deauville-la-journee-des-oublies-des-vacances-vire-a-la-formidable-odyssee_8155004.html": "2026-09-06T12:33:38.094002+00:00"
+  "https://www.franceinfo.fr/societe/nos-jours-heureux/nos-jours-heureux-baignade-salee-deluge-et-sentiment-de-liberte-a-deauville-la-journee-des-oublies-des-vacances-vire-a-la-formidable-odyssee_8155004.html": "2026-09-06T12:33:38.094002+00:00",
+  "https://www.franceinfo.fr/societe/harcelement-sexuel/on-est-trois-a-avoir-pris-la-parole-combien-d-autres-s-interroge-le-journaliste-frederic-pommier-apres-de-nouvelles-accusations-d-abus-sexuels-contre-joaquim-pueyo_8179910.html": "2026-09-06T15:28:05.473182+00:00",
+  "https://www.franceinfo.fr/sports/j-ai-affaire-a-des-incompetents-la-federation-nationale-des-associations-et-syndicats-sportifs-denonce-le-desengagement-de-l-etat_8179790.html": "2026-09-06T15:28:05.473182+00:00",
+  "https://www.franceinfo.fr/societe/immigration/immigration-l-accord-symbolique-signe-au-royaume-uni-par-jordan-bardella-est-courageux-et-coherent-defend-jean-philippe-tanguy_8179817.html": "2026-09-06T15:28:05.473182+00:00",
+  "https://www.franceinfo.fr/societe/education/c-etait-comme-le-diner-de-cons-le-parcours-du-combattant-d-azad-professeur-contractuel-en-region-parisienne_8179760.html": "2026-09-06T15:28:05.473182+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "7:00 audio 7 minutes Julia Kerninon : \"J'aime les mots jusqu'à l'ivresse\" Dans \"Le dernier des Wilberforce\", Julia Kerninon met en scène la tragédie de deux familles unies par les amitiés indéfectibles de leurs enfants. C'est une forme de roman du patriarcat et c'est aussi le livre d'une écrivaine profondément convaincue que seule la fiction donne une cohérence au monde.",
+   "title": "\"On est trois à avoir pris la parole, combien d'autres ?\", s'interroge le journaliste Frédéric Pommier après de nouvelles accusations d'abus sexuels contre Joaquim Pueyo Le journaliste Frédéric Pommier a été le premier à accuser Joaquim Pueyo, l'ancien maire d'Alençon, de violences sexuelles.",
+   "link": "https://www.franceinfo.fr/societe/harcelement-sexuel/on-est-trois-a-avoir-pris-la-parole-combien-d-autres-s-interroge-le-journaliste-frederic-pommier-apres-de-nouvelles-accusations-d-abus-sexuels-contre-joaquim-pueyo_8179910.html",
+   "summary": "\"On est trois à avoir pris la parole, combien d'autres ?\", s'interroge le journaliste Frédéric Pommier après de nouvelles accusations d'abus sexuels contre Joaquim Pueyo",
+   "image": "https://www.franceinfo.fr/pictures/iWRAAlX21rV23Ekx2JMLL04E6MY/87x0:5672x3840/432x297/filters:format(jpg)/2026/09/06/6a9d821897fb6666562425.jpg",
+   "date": null,
+   "pubdate": "2026-09-06T15:28:05.473182+00:00"
+  },
+  {
+   "title": "3:41 audio 3 minutes 41 \"J'ai affaire à des incompétents\" : la Fédération nationale des associations et syndicats sportifs dénonce le désengagement de l'État",
+   "link": "https://www.franceinfo.fr/sports/j-ai-affaire-a-des-incompetents-la-federation-nationale-des-associations-et-syndicats-sportifs-denonce-le-desengagement-de-l-etat_8179790.html",
+   "summary": "\"J'ai affaire à des incompétents\" : la Fédération nationale des associations et syndicats sportifs dénonce le désengagement de l'État",
+   "image": "https://www.franceinfo.fr/pictures/D-iJso4LEl1cxw6d36jb0FL1xnk/0x250:4800x2950/432x243/filters:format(jpg)/2026/09/06/6a9d6bc7e6c17657460107.jpg",
+   "date": null,
+   "pubdate": "2026-09-06T15:28:05.473182+00:00"
+  },
+  {
+   "title": "L'accord symbolique signé au Royaume-Uni par Jordan Bardella sur l'immigration est \"courageux\" et \"cohérent\", défend Jean-Philippe Tanguy",
+   "link": "https://www.franceinfo.fr/societe/immigration/immigration-l-accord-symbolique-signe-au-royaume-uni-par-jordan-bardella-est-courageux-et-coherent-defend-jean-philippe-tanguy_8179817.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/AtVgxWecX_nyT2rCgb19p5oFi18/0x238:4578x2813/432x243/filters:format(jpg)/2026/09/06/6a9d6ae598b5f431408119.jpg",
+   "date": null,
+   "pubdate": "2026-09-06T15:28:05.473182+00:00"
+  },
+  {
+   "title": "\"C'était comme le dîner de cons\" : le parcours du combattant d'Azad, professeur contractuel en région parisienne",
+   "link": "https://www.franceinfo.fr/societe/education/c-etait-comme-le-diner-de-cons-le-parcours-du-combattant-d-azad-professeur-contractuel-en-region-parisienne_8179760.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/njE6i_sEZxYU6EFPrXj81WfrANs/0x227:5977x3590/432x243/filters:format(jpg)/2026/09/06/6a9d5792cda33742571084.jpg",
+   "date": null,
+   "pubdate": "2026-09-06T15:28:05.473182+00:00"
+  },
+  {
+   "title": "7:16 audio 7 minutes 16 Julia Kerninon : \"J'aime les mots jusqu'à l'ivresse\"",
    "link": "https://www.franceinfo.fr/replay-radio/l-invite-culture/julia-kerninon-j-aime-les-mots-jusqu-a-l-ivresse_8177615.html",
    "summary": "Julia Kerninon : \"J'aime les mots jusqu'à l'ivresse\"",
-   "image": "https://www.franceinfo.fr/pictures/PNumTv83RBAQYqdnJb1kmJh23bs/103x0:6716x4547/432x297/filters:format(jpg)/2026/09/05/6a9bdf688485a416836470.jpg",
+   "image": "https://www.franceinfo.fr/pictures/GU_KvllmCUVhNDh2AOvwaXmleW0/0x355:6820x4191/432x243/filters:format(jpg)/2026/09/05/6a9bdf688485a416836470.jpg",
    "date": null,
    "pubdate": "2026-09-06T12:33:38.094002+00:00"
   },
@@ -92,36 +121,12 @@
    "pubdate": "2026-09-06T09:29:14.534373+00:00"
   },
   {
-   "title": "1:10 vidéo 1 minute 10 Malgré son procès pour corruption, Rachida Dati demande à réintégrer la magistrature",
-   "link": "https://www.franceinfo.fr/politique/rachida-dati/malgre-son-proces-pour-corruption-rachida-dati-demande-a-reintegrer-la-magistrature_8179469.html",
-   "summary": "Malgré son procès pour corruption, Rachida Dati demande à réintégrer la magistrature",
-   "image": "https://www.franceinfo.fr/pictures/6sZ4bvSvJkex-JAkeTzFqGdtz4s/85x0:1450x768/432x243/filters:format(jpg)/2026/09/06/6a9d071d8ae67725512508.jpg",
-   "date": null,
-   "pubdate": "2026-09-06T06:33:28.245522+00:00"
-  },
-  {
-   "title": ": Enquête : Enquête Deux hommes accusent Joaquim Pueyo, l'ex-maire d'Alençon, d'attouchements sur mineurs",
+   "title": ": Enquête Deux hommes accusent Joaquim Pueyo, l'ex-maire d'Alençon, d'attouchements sur mineurs Après le journaliste Frédéric Pommier, deux nouveaux témoins accusent l'ancien député-maire d'Alençon de les avoir agressés sexuellement quand ils étaient mineurs. Des faits pour lesquels Patrick et Tony ont décidé de porter plainte. Joaquim Pueyo nie tout agissement pédocriminel.",
    "link": "https://www.franceinfo.fr/enquetes-franceinfo/enquete-deux-hommes-accusent-joaquim-pueyo-d-attouchements-sur-mineurs_8177357.html",
    "summary": "Deux hommes accusent Joaquim Pueyo, l'ex-maire d'Alençon, d'attouchements sur mineurs",
    "image": "https://www.franceinfo.fr/pictures/YHVo0P3nj_D6Ic_pLl5waiKOoPU/0x262:5040x3097/432x243/filters:format(jpg)/2026/09/04/6a9ad56db9d09629761861.jpg",
    "date": null,
    "pubdate": "2026-09-06T06:33:28.245522+00:00"
-  },
-  {
-   "title": "1:34 vidéo 1 minute 34 De nouvelles accusations d’agression sexuelle contre l'ex-maire d'Alençon",
-   "link": "https://www.franceinfo.fr/societe/justice/de-nouvelles-accusations-d-agression-sexuelle-contre-l-ex-maire-d-alencon_8177432.html",
-   "summary": "De nouvelles accusations d’agression sexuelle contre l'ex-maire d'Alençon",
-   "image": "https://www.franceinfo.fr/pictures/XG68QE7fNDTRlxhbUiiewYyBzrQ/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/04/6a9adad7db336370104002.png",
-   "date": null,
-   "pubdate": "2026-09-06T06:33:28.245522+00:00"
-  },
-  {
-   "title": "2:58 vidéo 2 minutes 58 Mariage : ces couples qui attendent plusieurs années avant de se dire oui",
-   "link": "https://www.franceinfo.fr/societe/mariage/mariage-ces-couples-qui-attendent-plusieurs-annees-avant-de-se-dire-oui_8179097.html",
-   "summary": "Mariage : ces couples qui attendent plusieurs années avant de se dire oui",
-   "image": "https://www.franceinfo.fr/pictures/sgBErBla1f6ZXcngWa1RejRzheY/6x0:825x461/432x243/filters:format(jpg)/2026/09/05/6a9c801071bb8053020634.jpg",
-   "date": null,
-   "pubdate": "2026-09-05T21:27:06.281524+00:00"
   },
   {
    "title": "\"Avoir un mariage de princesse, c'est mon rêve de petite fille\" : le mariage revient en grâce chez les jeunes Si les Français se marient en moyenne à 37 ans, les jeunes couples retrouvent aussi l'envie de s'unir et de perpétuer la tradition.",
@@ -220,30 +225,6 @@
    "pubdate": "2026-09-05T06:32:33.299665+00:00"
   },
   {
-   "title": "En Moselle, un couple d’assistants familiaux mis en examen pour des soupçons de viols et d’agressions sexuelles sur une vingtaine d'enfants En Moselle, un couple de familles d’accueil a été mis en examen fin août, notamment pour des soupçons de viols et d’agressions sexuelles sur des enfants qu’il a hébergés entre 1997 et 2016. Les enquêteurs ont identifié 26 potentielles victimes parmi une cinquantaine d’anciens mineurs accueillis par le couple. Les deux suspects contestent les faits.",
-   "link": "https://www.franceinfo.fr/societe/harcelement-sexuel/en-moselle-un-couple-d-assistants-familiaux-mis-en-examen-pour-des-soupcons-de-viols-et-d-agressions-sexuelles-sur-une-vingtaine-d-enfants_8178353.html",
-   "summary": "En Moselle, un couple d’assistants familiaux mis en examen pour des soupçons de viols et d’agressions sexuelles sur une vingtaine d'enfants",
-   "image": "https://www.franceinfo.fr/pictures/DGi68NXeA2Z2v0smvHrKjLiYpoo/0x256:3000x1943/432x243/filters:format(jpg)/2026/09/05/6a9bababd02ec424454556.jpg",
-   "date": null,
-   "pubdate": "2026-09-05T06:32:33.299665+00:00"
-  },
-  {
-   "title": "De moins en moins d'élèves à l'école... Une opportunité pour faire des économies ou améliorer la qualité de l'enseignement ? Six millions d'élèves ont fait leur rentrée dans les écoles françaises. Un chiffre qui ne cesse de chuter depuis une dizaine d'années.",
-   "link": "https://www.franceinfo.fr/france/rentree/de-moins-en-moins-d-eleves-a-l-ecole-une-opportunite-pour-faire-des-economies-ou-ameliorer-la-qualite-de-l-enseignement_8176919.html",
-   "summary": "De moins en moins d'élèves à l'école... Une opportunité pour faire des économies ou améliorer la qualité de l'enseignement ?",
-   "image": "https://www.franceinfo.fr/pictures/MhjqU47Ar1ifepsDx40J_toeiuM/0x0:1024x576/432x243/filters:format(jpg)/2026/09/04/6a9a9b2a494ef763313981.jpg",
-   "date": null,
-   "pubdate": "2026-09-05T06:32:33.299665+00:00"
-  },
-  {
-   "title": "\"Un débat très franco-français\" : pourquoi le port du voile islamique dans l'espace public passionne plus que chez nos voisins Depuis 2004, plusieurs pays européens ont réglementé le port de vêtements religieux, en particulier celui du voile intégral. Mais le débat porte rarement, comme en France, sur la possibilité de bannir le foulard de l'espace public.",
-   "link": "https://www.franceinfo.fr/societe/religion/un-debat-tres-franco-francais-pourquoi-le-port-du-voile-islamique-dans-l-espace-public-passionne-plus-que-chez-nos-voisins_8175416.html",
-   "summary": "\"Un débat très franco-français\" : pourquoi le port du voile islamique dans l'espace public passionne plus que chez nos voisins",
-   "image": "https://www.franceinfo.fr/pictures/SaNM0eCELY4RHjAUpi1Jc2NpS3I/0x66:1024x642/432x243/filters:format(jpg)/2026/09/03/6a999315ecc26004492034.jpg",
-   "date": null,
-   "pubdate": "2026-09-05T06:32:33.299665+00:00"
-  },
-  {
    "title": "4:39 audio 4 minutes 39 \"J'essaie d'y aller cinq, six fois par semaine\" : À 16 ou 17 ans, ils sont déjà accros à la salle de sport",
    "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/j-essaie-d-y-aller-cinq-six-fois-par-semaine-a-16-ou-17-ans-ils-sont-deja-accros-a-la-salle-de-sport_8136965.html",
    "summary": "\"J'essaie d'y aller cinq, six fois par semaine\" : À 16 ou 17 ans, ils sont déjà accros à la salle de sport",
@@ -256,14 +237,6 @@
    "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-visite-du-pape-a-metz-c-est-un-formidable-coup-de-projecteur-sur-la-ville-estime-le-maire_8134199.html",
    "summary": "Visite du pape à Metz : \"C'est un formidable coup de projecteur sur la ville\", estime le maire",
    "image": "https://www.franceinfo.fr/pictures/DF7OCqmzjl5n_wSxWV3jgvKOW8o/1432x0:4300x2868/100x100/filters:format(jpg)/2026/08/24/6a8c2f6bb5d24428190474.jpg",
-   "date": null,
-   "pubdate": "2026-09-04T21:28:42.202411+00:00"
-  },
-  {
-   "title": "Le youtubeur Greg Guillotin visé par une plainte pour violences conjugales La plaignante dénonce \"des années de coups, d'insultes et de dénigrement de la part de son ancien compagnon, rencontré sur les réseaux sociaux alors qu'elle n'avait que 19 ans et lui 35\", fait savoir son avocat vendredi.",
-   "link": "https://www.franceinfo.fr/societe/violences-faites-aux-femmes/le-youtubeur-greg-guillotin-vise-par-une-plainte-pour-violences-conjugales_8177924.html",
-   "summary": "Le youtubeur Greg Guillotin visé par une plainte pour violences conjugales",
-   "image": "https://www.franceinfo.fr/pictures/d3y_oLHanDJ2cN6YbbhvFfoUCIw/0x31:920x549/432x243/filters:format(jpg)/2026/09/04/6a9b31555692e521304569.png",
    "date": null,
    "pubdate": "2026-09-04T21:28:42.202411+00:00"
   },
