@@ -1,11 +1,8 @@
 {
- "etag": "\"076d4a4d67a95e21076d80e242f1a418-gzip\"",
+ "etag": "\"6917615cb7859104beadedce79af973b-gzip\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.franceinfo.fr/societe/nos-jours-heureux/nos-jours-heureux-baignade-salee-deluge-et-sentiment-de-liberte-a-deauville-la-journee-des-oublies-des-vacances-vire-a-la-formidable-odyssee_8155004.html": "2026-08-31T21:25:17.704742+00:00",
   "https://www.franceinfo.fr/culture/musique/tout-le-monde-les-ecoutait-ou-les-subissait-peut-on-encore-parler-de-hits-de-l-ete-comme-avant-les-reseaux-sociaux_8155445.html": "2026-09-01T18:33:18.227663+00:00",
-  "https://www.franceinfo.fr/faits-divers/disparition-de-lyhanna-dans-le-gers/les-mobilisations-sur-l-affaire-lyhanna-reprennent-lundi-en-france-pour-demander-une-loi-integrale-contre-les-violences-sexuelles_8177762.html": "2026-09-04T18:30:19.633907+00:00",
-  "https://www.franceinfo.fr/societe/education/violences-dans-le-periscolaire/il-n-y-a-aucun-element-qui-laisserait-indiquer-que-la-responsabilite-penale-d-anne-hidalgo-est-engagee-sur-les-violences-dans-le-periscolaire-defend-son-avocat_8177720.html": "2026-09-04T18:30:19.633907+00:00",
   "https://www.franceinfo.fr/societe/violences-faites-aux-femmes/le-youtubeur-greg-guillotin-vise-par-une-plainte-pour-violences-conjugales_8177924.html": "2026-09-04T21:28:42.202411+00:00",
   "https://www.franceinfo.fr/monde/usa/aux-etats-unis-le-juge-annule-le-proces-de-lindsay-clancy-accusee-d-un-triple-infanticide-les-jures-n-etant-pas-parvenus-a-s-entendre-sur-un-verdict_8177852.html": "2026-09-04T21:28:42.202411+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-visite-du-pape-a-metz-c-est-un-formidable-coup-de-projecteur-sur-la-ville-estime-le-maire_8134199.html": "2026-09-04T21:28:42.202411+00:00",
@@ -31,22 +28,49 @@
   "https://www.franceinfo.fr/societe/lgbt/une-femme-transgenre-laceree-a-une-centaine-de-reprises-a-montpellier_8177810.html": "2026-09-05T21:27:06.281524+00:00",
   "https://www.franceinfo.fr/politique/rachida-dati/malgre-son-proces-pour-corruption-rachida-dati-demande-a-reintegrer-la-magistrature_8179469.html": "2026-09-06T06:33:28.245522+00:00",
   "https://www.franceinfo.fr/enquetes-franceinfo/enquete-deux-hommes-accusent-joaquim-pueyo-d-attouchements-sur-mineurs_8177357.html": "2026-09-06T06:33:28.245522+00:00",
-  "https://www.franceinfo.fr/societe/justice/de-nouvelles-accusations-d-agression-sexuelle-contre-l-ex-maire-d-alencon_8177432.html": "2026-09-06T06:33:28.245522+00:00"
+  "https://www.franceinfo.fr/societe/justice/de-nouvelles-accusations-d-agression-sexuelle-contre-l-ex-maire-d-alencon_8177432.html": "2026-09-06T06:33:28.245522+00:00",
+  "https://www.franceinfo.fr/societe/antisemitisme/negationnisme-distorsion-de-l-histoire-visee-ideologique-la-desinformation-sur-la-shoah-tres-presente-sur-les-reseaux-sociaux_8178749.html": "2026-09-06T09:29:14.534373+00:00",
+  "https://www.franceinfo.fr/environnement/actions-ecologiques/transports-ecologiques/c-est-la-rentree-les-gens-ont-besoin-d-etre-en-securite-sur-leurs-velos-la-revision-une-etape-a-ne-pas-negliger-avant-de-se-remettre-en-selle_8172236.html": "2026-09-06T09:29:14.534373+00:00",
+  "https://www.franceinfo.fr/politique/prenez-le-voile-et-sortez-pourquoi-des-femmes-et-des-hommes-se-filment-voiles-pour-denoncer-la-proposition-du-rn_8179499.html": "2026-09-06T09:29:14.534373+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "1:10 vidéo 1 minute 10 Malgré son procès pour corruption, Rachida Dati demande à réintégrer la magistrature Mise en examen pour corruption et trafic d'influence passif, Rachida Dati, dont le procès s'ouvre dans dix jours, s'est vu proposer, à sa demande, un poste de magistrate. Ce timing interroge au sein de la profession.",
+   "title": "Négationnisme, distorsion de l'histoire, visée idéologique... La désinformation sur la Shoah très présente sur les réseaux sociaux En cette journée de cérémonie en hommage aux déportés et victimes de France de la Shoah, rescapés et historiens alertent sur le danger des contenus en ligne, notamment ceux créés par l'IA.",
+   "link": "https://www.franceinfo.fr/societe/antisemitisme/negationnisme-distorsion-de-l-histoire-visee-ideologique-la-desinformation-sur-la-shoah-tres-presente-sur-les-reseaux-sociaux_8178749.html",
+   "summary": "Négationnisme, distorsion de l'histoire, visée idéologique... La désinformation sur la Shoah très présente sur les réseaux sociaux",
+   "image": "https://www.franceinfo.fr/pictures/W09ioMm4kvTpoBwORXeYWx3XRfM/0x0:3259x2241/432x297/filters:format(jpg)/2026/09/05/6a9c24ef13a9e810201257.jpg",
+   "date": null,
+   "pubdate": "2026-09-06T09:29:14.534373+00:00"
+  },
+  {
+   "title": "\"C'est la rentrée, les gens ont besoin d'être en sécurité sur leurs vélos\" : la révision, une étape à ne pas négliger avant de se remettre en selle",
+   "link": "https://www.franceinfo.fr/environnement/actions-ecologiques/transports-ecologiques/c-est-la-rentree-les-gens-ont-besoin-d-etre-en-securite-sur-leurs-velos-la-revision-une-etape-a-ne-pas-negliger-avant-de-se-remettre-en-selle_8172236.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/7vf7i6uuIUa3c4cdNu9Mue4e4s0/0x275:4244x2662/432x243/filters:format(jpg)/2026/09/03/6a993218025ec343659323.jpg",
+   "date": null,
+   "pubdate": "2026-09-06T09:29:14.534373+00:00"
+  },
+  {
+   "title": "\"Prenez le voile et sortez\" : pourquoi des femmes et des hommes se filment voilés pour dénoncer la proposition du RN",
+   "link": "https://www.franceinfo.fr/politique/prenez-le-voile-et-sortez-pourquoi-des-femmes-et-des-hommes-se-filment-voiles-pour-denoncer-la-proposition-du-rn_8179499.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/1XGPW5CHvbXfdVfME1vC3fx3-eQ/0x221:4252x2613/432x243/filters:format(jpg)/2026/09/06/6a9d1112cd05d827769993.jpg",
+   "date": null,
+   "pubdate": "2026-09-06T09:29:14.534373+00:00"
+  },
+  {
+   "title": "1:10 vidéo 1 minute 10 Malgré son procès pour corruption, Rachida Dati demande à réintégrer la magistrature",
    "link": "https://www.franceinfo.fr/politique/rachida-dati/malgre-son-proces-pour-corruption-rachida-dati-demande-a-reintegrer-la-magistrature_8179469.html",
    "summary": "Malgré son procès pour corruption, Rachida Dati demande à réintégrer la magistrature",
-   "image": "https://www.franceinfo.fr/pictures/hjNP5yfEBAMTv6gEcSCrd3ZNSjM/209x0:1326x768/432x297/filters:format(jpg)/2026/09/06/6a9d071d8ae67725512508.jpg",
+   "image": "https://www.franceinfo.fr/pictures/6sZ4bvSvJkex-JAkeTzFqGdtz4s/85x0:1450x768/432x243/filters:format(jpg)/2026/09/06/6a9d071d8ae67725512508.jpg",
    "date": null,
    "pubdate": "2026-09-06T06:33:28.245522+00:00"
   },
   {
-   "title": ": Enquête : Enquête Deux hommes accusent Joaquim Pueyo d'attouchements sur mineurs",
+   "title": ": Enquête : Enquête Deux hommes accusent Joaquim Pueyo, l'ex-maire d'Alençon, d'attouchements sur mineurs",
    "link": "https://www.franceinfo.fr/enquetes-franceinfo/enquete-deux-hommes-accusent-joaquim-pueyo-d-attouchements-sur-mineurs_8177357.html",
-   "summary": "Deux hommes accusent Joaquim Pueyo d'attouchements sur mineurs",
+   "summary": "Deux hommes accusent Joaquim Pueyo, l'ex-maire d'Alençon, d'attouchements sur mineurs",
    "image": "https://www.franceinfo.fr/pictures/YHVo0P3nj_D6Ic_pLl5waiKOoPU/0x262:5040x3097/432x243/filters:format(jpg)/2026/09/04/6a9ad56db9d09629761861.jpg",
    "date": null,
    "pubdate": "2026-09-06T06:33:28.245522+00:00"
@@ -92,15 +116,15 @@
    "pubdate": "2026-09-05T18:30:20.464997+00:00"
   },
   {
-   "title": "Quatre questions sur la demande de Rachida Dati de réintégrer la magistrature, à quelques jours de son procès pour corruption",
+   "title": "Quatre questions sur la demande de Rachida Dati de réintégrer la magistrature, à quelques jours de son procès pour corruption L'ex-ministre de la Culture sera jugée du 16 au 28 septembre devant le tribunal correctionnel de Paris, notamment pour corruption et trafic d'influence passifs dans l'affaire Renault-Nissan.",
    "link": "https://www.franceinfo.fr/politique/rachida-dati/quatre-questions-sur-la-demande-de-rachida-dati-de-reintegrer-la-magistrature-a-quelques-jours-de-son-proces-pour-corruption_8178530.html",
-   "summary": "",
+   "summary": "Quatre questions sur la demande de Rachida Dati de réintégrer la magistrature, à quelques jours de son procès pour corruption",
    "image": "https://www.franceinfo.fr/pictures/raOYSWei-5W-ak3e8uxLrPr6X6k/0x25:1024x601/432x243/filters:format(jpg)/2026/09/05/6a9c158a9f389182657461.jpg",
    "date": null,
    "pubdate": "2026-09-05T15:28:09.655516+00:00"
   },
   {
-   "title": "4:46 audio 4 minutes 46 Le long combat contre les violences faites aux enfants en milieu périscolaire",
+   "title": "4:46 audio 4 minutes 46 Le long combat contre les violences faites aux enfants en milieu périscolaire L'historien de franceinfo, Fabrice d'Almeida, a plongé dans les archives pour comprendre comment la violence envers les enfants en milieu périscolaire a été traitée au fil des décennies.",
    "link": "https://www.franceinfo.fr/replay-radio/l-info-de-l-histoire/le-long-combat-contre-les-violences-faites-aux-enfants-en-milieu-periscolaire_8145083.html",
    "summary": "Le long combat contre les violences faites aux enfants en milieu périscolaire",
    "image": "https://www.franceinfo.fr/pictures/NQxVaI8X7endS9jdtwPLBmtwKqE/0x240:4608x2832/432x243/filters:format(jpg)/2026/09/04/6a9af21707014392259532.jpg",
@@ -108,7 +132,7 @@
    "pubdate": "2026-09-05T15:28:09.655516+00:00"
   },
   {
-   "title": "2:40 audio 2 minutes 40 Téléphone portable au lycée : peut-on encore l’utiliser dans certaines zones de la cour ?",
+   "title": "2:40 audio 2 minutes 40 Téléphone portable au lycée : peut-on encore l’utiliser dans certaines zones de la cour ? Bien que l’utilisation du portable soit interdite dans tous les lycées depuis la rentrée, chaque établissement doit adapter son règlement intérieur et peut prévoir des exceptions limitées.",
    "link": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux-junior/telephone-portable-au-lycee-peut-on-encore-l-utiliser-dans-certaines-zones-de-la-cour_8144987.html",
    "summary": "Téléphone portable au lycée : peut-on encore l’utiliser dans certaines zones de la cour ?",
    "image": "https://www.franceinfo.fr/pictures/DqwFxXZar1VEaD6f6COm6sj7fSw/0x110:2121x1303/432x243/filters:format(jpg)/2026/09/03/6a9984c48b2da313328014.jpg",
@@ -244,36 +268,12 @@
    "pubdate": "2026-09-04T21:28:42.202411+00:00"
   },
   {
-   "title": "Les mobilisations sur l'affaire Lyhanna reprennent lundi en France pour demander \"une loi intégrale contre les violences sexuelles\" \"La coalition féministe et enfantiste appelle à la reprise des mobilisations ce lundi 7 septembre à 19 heures, place Vendôme à Paris et dans toute la France\", écrivent plusieurs associations dans un communiqué, lundi.",
-   "link": "https://www.franceinfo.fr/faits-divers/disparition-de-lyhanna-dans-le-gers/les-mobilisations-sur-l-affaire-lyhanna-reprennent-lundi-en-france-pour-demander-une-loi-integrale-contre-les-violences-sexuelles_8177762.html",
-   "summary": "Les mobilisations sur l'affaire Lyhanna reprennent lundi en France pour demander \"une loi intégrale contre les violences sexuelles\"",
-   "image": "https://www.franceinfo.fr/pictures/uEs0CCGo5HlvqbfWGiwLmH_SCoU/0x66:1024x642/432x243/filters:format(jpg)/2026/09/04/6a9b02e0ab3dc685946891.jpg",
-   "date": null,
-   "pubdate": "2026-09-04T18:30:19.633907+00:00"
-  },
-  {
-   "title": "Il n'y a \"aucun élément qui laisserait indiquer\" que la \"responsabilité pénale\" d'Anne Hidalgo est \"engagée\" sur les violences dans le périscolaire, défend son avocat \"Il n'y a pas un système de pédocriminalité caché dans l'encadrement périscolaire\" à Paris, assure Patrick Klugman, vendredi sur France Inter. Anne Hidalgo est visée avec l'actuel maire de la capitale Emmanuel Grégoire par une plainte émanant de plusieurs familles parisiennes.",
-   "link": "https://www.franceinfo.fr/societe/education/violences-dans-le-periscolaire/il-n-y-a-aucun-element-qui-laisserait-indiquer-que-la-responsabilite-penale-d-anne-hidalgo-est-engagee-sur-les-violences-dans-le-periscolaire-defend-son-avocat_8177720.html",
-   "summary": "Il n'y a \"aucun élément qui laisserait indiquer\" que la \"responsabilité pénale\" d'Anne Hidalgo est \"engagée\" sur les violences dans le périscolaire, défend son avocat",
-   "image": "https://www.franceinfo.fr/pictures/3JS__SMNUnS_pj2B-s9L4t3SQbo/0x32:1024x608/432x243/filters:format(jpg)/2026/09/04/6a9af6659abe7551258165.jpg",
-   "date": null,
-   "pubdate": "2026-09-04T18:30:19.633907+00:00"
-  },
-  {
    "title": "5:00 article 5 minutes \"Tout le monde les écoutait... ou les subissait\" : peut-on encore parler de \"hits de l'été\", comme avant les réseaux sociaux ?",
    "link": "https://www.franceinfo.fr/culture/musique/tout-le-monde-les-ecoutait-ou-les-subissait-peut-on-encore-parler-de-hits-de-l-ete-comme-avant-les-reseaux-sociaux_8155445.html",
    "summary": "\"Tout le monde les écoutait... ou les subissait\" : peut-on encore parler de \"hits de l'été\", comme avant les réseaux sociaux ?",
    "image": "https://www.franceinfo.fr/pictures/2vTdJYIs0KgfpwSgugbLNckEUvQ/584x0:3416x2832/100x100/filters:format(jpg)/2026/08/21/6a88b864c09fe968349292.jpg",
    "date": null,
    "pubdate": "2026-09-01T18:33:18.227663+00:00"
-  },
-  {
-   "title": "8:00 article 8 minutes NOS JOURS HEUREUX. Baignade salée, déluge et \"sentiment de liberté\" : à Deauville, la journée des oubliés des vacances vire à la formidable odyssée",
-   "link": "https://www.franceinfo.fr/societe/nos-jours-heureux/nos-jours-heureux-baignade-salee-deluge-et-sentiment-de-liberte-a-deauville-la-journee-des-oublies-des-vacances-vire-a-la-formidable-odyssee_8155004.html",
-   "summary": "NOS JOURS HEUREUX. Baignade salée, déluge et \"sentiment de liberté\" : à Deauville, la journée des oubliés des vacances vire à la formidable odyssée",
-   "image": "https://www.franceinfo.fr/pictures/Zq8EolKHOB2oIH7VpX_5-tloJRE/980x0:2980x2000/100x100/filters:format(jpg)/2026/08/28/6a914e549a9b8505944599.png",
-   "date": null,
-   "pubdate": "2026-08-31T21:25:17.704742+00:00"
   }
  ]
 }

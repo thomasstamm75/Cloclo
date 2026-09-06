@@ -1,13 +1,10 @@
 {
- "etag": "\"beee98702ef152620f4929d15635c528-gzip\"",
+ "etag": "\"ef2c562be102c9dd55ba737a45eb65a2-gzip\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-c-est-le-sauveur-en-saxe-anhalt-ulrich-siegmund-l-homme-le-plus-dangereux-d-allemagne-selon-der-spiegel-aux-portes-du-pouvoir_8147219.html": "2026-09-04T06:35:10.695323+00:00",
   "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/un-an-de-donald-trump-au-pouvoir/": "2026-09-05T03:28:52.076083+00:00",
   "https://www.franceinfo.fr/monde/groenland/le-groenland-au-c-ur-d-un-bras-de-fer-geopolitique/": "2026-09-05T06:32:39.397435+00:00",
   "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/aides-a-l-ukraine-rachida-dati-reintegre-la-magistrature-le-8h30-franceinfo-de-laurent-jacobelli_8145071.html": "2026-09-05T11:00:00+00:00",
-  "https://www.franceinfo.fr/monde/asie/seisme-au-nepal/crue-meurtriere-au-nepal-un-troisieme-rescape-de-nationalite-chinoise-a-ete-extrait-vivant-d-un-tunnel_8178500.html": "2026-09-05T09:27:49.064589+00:00",
-  "https://www.franceinfo.fr/monde/royaume-uni/au-royaume-uni-nigel-farage-veut-convaincre-qu-il-peut-gouverner-le-pays_8178473.html": "2026-09-05T09:27:49.064589+00:00",
   "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/tout-comprendre-a-la-guerre-au-moyen-orient/": "2026-09-05T09:27:49.064589+00:00",
   "https://www.franceinfo.fr/elections/presidentielle/parti-de-la-soumission-a-la-russie-patriotes-de-pacotille-les-candidats-a-la-presidentielle-fustigent-la-position-du-rn-sur-l-aide-a-l-ukraine_8178707.html": "2026-09-05T12:33:02.429625+00:00",
   "https://www.franceinfo.fr/monde/israel/ils-nous-ont-donne-une-heure-pour-partir-en-cisjordanie-un-couple-de-palestiniens-expulse-de-sa-maison-par-des-colons-israeliens_8173265.html": "2026-09-05T12:33:02.429625+00:00",
@@ -18,28 +15,79 @@
   "https://www.franceinfo.fr/monde/argentine/l-argentine-va-restituer-a-l-heritiere-d-un-galeriste-juif-un-tableau-vole-par-les-nazis-et-reapparu-dans-une-annonce-immobiliere_8178761.html": "2026-09-05T15:28:29.534411+00:00",
   "https://www.franceinfo.fr/monde/europe/allemagne/allemagne-en-saxe-anhalt-les-chefs-d-entreprise-divises-face-a-une-possible-victoire-historique-de-l-afd_8178722.html": "2026-09-05T15:28:29.534411+00:00",
   "https://www.franceinfo.fr/societe/immigration/des-manifestants-anti-immigration-ont-bloque-l-acces-au-port-de-douvres-le-trafic-maritime-entre-la-france-et-le-royaume-uni-brievement-interrompu_8178743.html": "2026-09-05T15:28:29.534411+00:00",
-  "https://www.franceinfo.fr/monde/asie/seisme-au-nepal/nepal-une-femme-de-64-retrouvee-vivante-sous-les-decombres-dix-jours-apres-la-catastrophe_8179019.html": "2026-09-05T18:30:25.020565+00:00",
   "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/guerre-au-moyen-orient-les-etats-unis-annoncent-des-frappes-sur-trois-petroliers-iraniens_8178950.html": "2026-09-05T18:30:25.020565+00:00",
   "https://www.franceinfo.fr/monde/usa/l-editeur-de-tetris-fait-bloc-contre-un-jeu-video-mis-en-ligne-par-la-maison-blanche_8178773.html": "2026-09-05T18:30:25.020565+00:00",
   "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/or-les-banques-centrales-europeennes-prennent-leurs-distances-avec-les-etats-unis_8145080.html": "2026-09-05T18:30:25.020565+00:00",
   "https://www.franceinfo.fr/faits-divers/dans-les-avions-les-incidents-avec-des-passagers-violents-se-multiplient_8179058.html": "2026-09-05T21:27:13.090972+00:00",
-  "https://www.franceinfo.fr/monde/l-onu-adopte-une-resolution-pour-changer-notre-carte-du-monde_8179040.html": "2026-09-05T21:27:13.090972+00:00",
-  "https://www.franceinfo.fr/monde/asie/seisme-au-nepal/sauvee-10-jours-apres-la-catastrophe_8179046.html": "2026-09-05T21:27:13.090972+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/je-ne-sais-pas-ce-qui-attend-nos-enfants-a-kiev-l-angoisse-de-la-rentree-sous-les-bombes-apres-un-ete-meurtrier_8144936.html": "2026-09-06T00:41:25.867642+00:00",
   "https://www.franceinfo.fr/monde/proche-orient/l-armee-israelienne-ordonne-aux-habitants-d-une-zone-du-sud-du-liban-d-evacuer_8179475.html": "2026-09-06T06:33:33.087627+00:00",
   "https://www.franceinfo.fr/monde/europe/allemagne/l-extreme-droite-allemande-va-t-elle-remporter-une-region_8179451.html": "2026-09-06T06:33:33.087627+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-les-emissaires-de-donald-trump-peuvent-ils-vraiment-changer-la-situation_8179436.html": "2026-09-06T06:33:33.087627+00:00",
   "https://www.franceinfo.fr/monde/usa/attentats-du-11-septembre-2001/video-je-dis-que-la-torture-est-la-politique-officielle-un-agent-de-la-cia-raconte-comment-il-a-revele-les-mensonges-du-gouvernement-americain-lors-de-la-guerre-contre-l-irak_8075705.html": "2026-09-06T06:33:33.087627+00:00",
   "https://www.franceinfo.fr/monde/europe/allemagne/il-y-a-une-extrapolation-du-declin-economique-comment-l-extreme-droite-allemande-est-arrivee-aux-portes-du-pouvoir-en-saxe-anhalt_8175638.html": "2026-09-06T06:33:33.087627+00:00",
-  "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-a-atlanta-les-republicains-craignent-la-fin-de-l-ere-trump-a-l-approche-des-elections-de-mi-mandat-les-democrates-revent-de-revanche_8145842.html": "2026-09-06T06:33:33.087627+00:00"
+  "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-a-atlanta-les-republicains-craignent-la-fin-de-l-ere-trump-a-l-approche-des-elections-de-mi-mandat-les-democrates-revent-de-revanche_8145842.html": "2026-09-06T06:33:33.087627+00:00",
+  "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/guerre-en-ukraine-voyage-des-emissaires-americains-le-8h30-franceinfo-de-nicolas-tenzer_8145068.html": "2026-09-06T11:00:00+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-la-venue-des-emissaires-americains-ne-peut-aboutir-a-rien-selon-le-politologue-nicolas-tenzer_8179556.html": "2026-09-06T09:29:32.976781+00:00",
+  "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/l-iran-replique-apres-les-frappes-americaines-sur-trois-de-ses-petroliers-dans-le-detroit-d-ormuz_8179538.html": "2026-09-06T09:29:32.976781+00:00",
+  "https://www.franceinfo.fr/monde/asie/les-vols-suspendus-dans-six-aeroports-en-indonesie-apres-une-eruption-volcanique_8179523.html": "2026-09-06T09:29:32.976781+00:00",
+  "https://www.franceinfo.fr/monde/europe/allemagne/direct-elections-regionales-en-allemagne-les-bureaux-de-votes-sont-ouverts-en-saxe-anhalt-ou-l-extreme-droite-est-favorite_8179493.html": "2026-09-06T09:29:32.976781+00:00",
+  "https://www.franceinfo.fr/monde/usa/affaire-jeffrey-epstein/l-essentiel-des-revelations-sur-l-affaire-epstein/": "2026-09-06T09:29:32.976781+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "L'armée israélienne ordonne aux habitants d'une zone du sud du Liban d'évacuer Alors que les affrontements dans le pays ont diminué depuis juin et la signature d'un protocole entre les Etats-Unis et l'Iran et à un accord-cadre entre le Liban et Israël, l'armée israélienne poursuit de ses opérations militaires sporadiques dans le sud",
+   "title": "18:23 audio 18 minutes 23 Guerre en Ukraine, voyage des émissaires américains… le \"8h30 franceinfo\" de Nicolas Tenzer Le politologue et spécialiste des relations internationales était l'invité du \"8h30 franceinfo\", dimanche 6 septembre 2026.",
+   "link": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/guerre-en-ukraine-voyage-des-emissaires-americains-le-8h30-franceinfo-de-nicolas-tenzer_8145068.html",
+   "summary": "Guerre en Ukraine, voyage des émissaires américains… le \"8h30 franceinfo\" de Nicolas Tenzer",
+   "image": "https://www.franceinfo.fr/pictures/EiGr-9LBaEX7qk9KRKeCFW9tvGc/103x0:1086x676/432x297/filters:format(jpg)/2026/09/06/6a9d3162f2623647123309.png",
+   "date": "2026-09-06T11:00:00+00:00",
+   "pubdate": "2026-09-06T11:00:00+00:00"
+  },
+  {
+   "title": "19:25 vidéo 19 minutes 25 Guerre en Ukraine : la venue des émissaires américains \"ne peut aboutir à rien\", selon le politologue Nicolas Tenzer",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-la-venue-des-emissaires-americains-ne-peut-aboutir-a-rien-selon-le-politologue-nicolas-tenzer_8179556.html",
+   "summary": "Guerre en Ukraine : la venue des émissaires américains \"ne peut aboutir à rien\", selon le politologue Nicolas Tenzer",
+   "image": "https://www.franceinfo.fr/pictures/fz2IHJWfPrQcdqBUrfacu4Dw9YE/0x0:1920x1080/432x243/filters:format(jpg)/2026/09/06/6a9d1fe125130104750401.jpg",
+   "date": null,
+   "pubdate": "2026-09-06T09:29:32.976781+00:00"
+  },
+  {
+   "title": "L'Iran réplique après les frappes américaines sur trois de ses pétroliers dans le détroit d'Ormuz",
+   "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/l-iran-replique-apres-les-frappes-americaines-sur-trois-de-ses-petroliers-dans-le-detroit-d-ormuz_8179538.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/RiG1rF8JavjS1LJaEc_oJlTp2fg/0x53:1024x629/432x243/filters:format(jpg)/2026/09/06/6a9d20b4097bc389314492.jpg",
+   "date": null,
+   "pubdate": "2026-09-06T09:29:32.976781+00:00"
+  },
+  {
+   "title": "En Indonésie, une éruption volcanique entraîne la suspension des vols dans six aéroports",
+   "link": "https://www.franceinfo.fr/monde/asie/les-vols-suspendus-dans-six-aeroports-en-indonesie-apres-une-eruption-volcanique_8179523.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/sPD2OP-pSULRsExPiwGySVffSH4/0x53:1024x629/432x243/filters:format(jpg)/2026/09/06/6a9d19a3edeb1457971132.jpg",
+   "date": null,
+   "pubdate": "2026-09-06T09:29:32.976781+00:00"
+  },
+  {
+   "title": "• Direct • Direct Elections régionales en Allemagne : les bureaux de votes sont ouverts en Saxe-Anhalt, où l'extrême droite est favorite",
+   "link": "https://www.franceinfo.fr/monde/europe/allemagne/direct-elections-regionales-en-allemagne-les-bureaux-de-votes-sont-ouverts-en-saxe-anhalt-ou-l-extreme-droite-est-favorite_8179493.html",
+   "summary": "Elections régionales en Allemagne : les bureaux de votes sont ouverts en Saxe-Anhalt, où l'extrême droite est favorite",
+   "image": "https://www.franceinfo.fr/pictures/5C6AXxmalbPDaSGrwa3I3jh7Nqs/0x53:1024x629/432x243/filters:format(jpg)/2026/09/06/6a9d133be90cc242768471.jpg",
+   "date": null,
+   "pubdate": "2026-09-06T09:29:32.976781+00:00"
+  },
+  {
+   "title": "L'essentiel des révélations sur l'affaire Epstein 14 contenus",
+   "link": "https://www.franceinfo.fr/monde/usa/affaire-jeffrey-epstein/l-essentiel-des-revelations-sur-l-affaire-epstein/",
+   "summary": "L'essentiel des révélations sur l'affaire Epstein",
+   "image": "https://www.franceinfo.fr/pictures/btENVL4vmQDLNvnJ4uUtTATvN9k/432x297/filters:format(jpg)/2026/02/12/000-96rl2gk-1-698def9a11d8a867290796.jpg",
+   "date": null,
+   "pubdate": "2026-09-06T09:29:32.976781+00:00"
+  },
+  {
+   "title": "Des frappes israéliennes font quatre morts dans le sud du Liban, selon le ministère de la Santé libanais",
    "link": "https://www.franceinfo.fr/monde/proche-orient/l-armee-israelienne-ordonne-aux-habitants-d-une-zone-du-sud-du-liban-d-evacuer_8179475.html",
-   "summary": "L'armée israélienne ordonne aux habitants d'une zone du sud du Liban d'évacuer",
-   "image": "https://www.franceinfo.fr/pictures/bKQ1dF4U7jVMYggyCwGGimzIFLw/16x0:1008x682/432x297/filters:format(jpg)/2026/09/06/6a9d08c5a4963769209353.jpg",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/iwzhu-325KDncFurDXW31squPHo/0x106:1024x682/432x243/filters:format(jpg)/2026/09/06/6a9d08c5a4963769209353.jpg",
    "date": null,
    "pubdate": "2026-09-06T06:33:33.087627+00:00"
   },
@@ -100,41 +148,17 @@
    "pubdate": "2026-09-05T21:27:13.090972+00:00"
   },
   {
-   "title": "2:06 vidéo 2 minutes 6 L'ONU adopte une résolution pour changer notre carte du monde",
-   "link": "https://www.franceinfo.fr/monde/l-onu-adopte-une-resolution-pour-changer-notre-carte-du-monde_8179040.html",
-   "summary": "L'ONU adopte une résolution pour changer notre carte du monde",
-   "image": "https://www.franceinfo.fr/pictures/EBJC1iKUZnQ7qCJ4OQSbgJ0rEsI/0x28:838x499/432x243/filters:format(jpg)/2026/09/05/6a9c67327630f306082820.jpg",
-   "date": null,
-   "pubdate": "2026-09-05T21:27:13.090972+00:00"
-  },
-  {
-   "title": "1:30 vidéo 1 minute 30 Sauvée 10 jours après la catastrophe",
-   "link": "https://www.franceinfo.fr/monde/asie/seisme-au-nepal/sauvee-10-jours-apres-la-catastrophe_8179046.html",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/jYJOJToX31JLzwzq6O3Di1Sufdw/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/05/6a9c65e26a6b8653152967.png",
-   "date": null,
-   "pubdate": "2026-09-05T21:27:13.090972+00:00"
-  },
-  {
-   "title": "1:24 vidéo 1 minute 24 Comment une femme de 64 a été retrouvée vivante sous les décombres dix jours après les crues au Népal",
-   "link": "https://www.franceinfo.fr/monde/asie/seisme-au-nepal/nepal-une-femme-de-64-retrouvee-vivante-sous-les-decombres-dix-jours-apres-la-catastrophe_8179019.html",
-   "summary": "Comment une femme de 64 a été retrouvée vivante sous les décombres dix jours après les crues au Népal",
-   "image": "https://www.franceinfo.fr/pictures/EQwVxBMKt4qaJI8ufDrlIVechDU/0x0:1920x1080/432x243/filters:format(jpg)/2026/09/05/6a9c5d61329ac210084934.jpg",
-   "date": null,
-   "pubdate": "2026-09-05T18:30:25.020565+00:00"
-  },
-  {
-   "title": "Guerre au Moyen-Orient : les Etats-Unis annoncent des frappes sur trois pétroliers iraniens, Téhéran promet des représailles \"plus dures\"",
+   "title": "Guerre au Moyen-Orient : les Etats-Unis annoncent des frappes sur trois pétroliers iraniens, Téhéran promet des représailles \"plus dures\" Selon le Commandement militaire américain pour le Moyen-Orient, ces frappes interviennent en riposte à une attaque de Téhéran contre deux navires de l'armée américaine.",
    "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/guerre-au-moyen-orient-les-etats-unis-annoncent-des-frappes-sur-trois-petroliers-iraniens_8178950.html",
-   "summary": "",
+   "summary": "Guerre au Moyen-Orient : les Etats-Unis annoncent des frappes sur trois pétroliers iraniens, Téhéran promet des représailles \"plus dures\"",
    "image": "https://www.franceinfo.fr/pictures/NaqYrCgtx7fik8iD3w5KpUphTY4/0x192:6000x3567/432x243/filters:format(jpg)/2026/09/05/6a9c43f21e067127538279.jpg",
    "date": null,
    "pubdate": "2026-09-05T18:30:25.020565+00:00"
   },
   {
-   "title": "L'éditeur de \"Tetris\" fait bloc contre un jeu vidéo mis en ligne par la Maison Blanche",
+   "title": "L'éditeur de \"Tetris\" fait bloc contre un jeu vidéo mis en ligne par la Maison Blanche La présidence américaine a créé un jeu intitulé \"Build The Wall\" dont l'objectif est de construire un mur à la frontière très inspiré de la création de The Tetris Company. \"Nous prenons l'atteinte à la propriété intellectuelle très au sérieux\", a fait savoir l'entreprise.",
    "link": "https://www.franceinfo.fr/monde/usa/l-editeur-de-tetris-fait-bloc-contre-un-jeu-video-mis-en-ligne-par-la-maison-blanche_8178773.html",
-   "summary": "",
+   "summary": "L'éditeur de \"Tetris\" fait bloc contre un jeu vidéo mis en ligne par la Maison Blanche",
    "image": "https://www.franceinfo.fr/pictures/LtjBMloyOwa84Y8t3lFTJFeeje0/45x0:1601x875/432x243/filters:format(jpg)/2026/09/05/6a9c2b5ca0f39442346206.png",
    "date": null,
    "pubdate": "2026-09-05T18:30:25.020565+00:00"
@@ -236,22 +260,6 @@
    "pubdate": "2026-09-05T09:27:49.064589+00:00"
   },
   {
-   "title": "Crue meurtrière au Népal : un troisième rescapé, de nationalité chinoise, a été extrait vivant d'un tunnel Juste après le désastre, les autorités népalaises avaient estimé à une centaine le nombre d'ouvriers susceptibles d'être bloqués dans ce tunnel.",
-   "link": "https://www.franceinfo.fr/monde/asie/seisme-au-nepal/crue-meurtriere-au-nepal-un-troisieme-rescape-de-nationalite-chinoise-a-ete-extrait-vivant-d-un-tunnel_8178500.html",
-   "summary": "Crue meurtrière au Népal : un troisième rescapé, de nationalité chinoise, a été extrait vivant d'un tunnel",
-   "image": "https://www.franceinfo.fr/pictures/mWghdUlS2LFwi621aqpPDB95uKA/0x53:1024x629/432x243/filters:format(jpg)/2026/09/05/6a9bd96b32923584917326.jpg",
-   "date": null,
-   "pubdate": "2026-09-05T09:27:49.064589+00:00"
-  },
-  {
-   "title": "Au Royaume-Uni, Nigel Farage veut convaincre qu'il peut gouverner le pays Après un été difficile, le leader de Reform UK tente de remobiliser ses troupes au congrès annuel du parti, à Birmingham. S'il conserve le soutien de sa base militante, il devra convaincre au-delà de ses fidèles pour prétendre devenir Premier ministre.",
-   "link": "https://www.franceinfo.fr/monde/royaume-uni/au-royaume-uni-nigel-farage-veut-convaincre-qu-il-peut-gouverner-le-pays_8178473.html",
-   "summary": "Au Royaume-Uni, Nigel Farage veut convaincre qu'il peut gouverner le pays",
-   "image": "https://www.franceinfo.fr/pictures/f9ajJK0KA4y4Xo_lukpXlCUseTE/0x387:7442x4573/432x243/filters:format(jpg)/2026/09/05/6a9bca685d100101974992.jpg",
-   "date": null,
-   "pubdate": "2026-09-05T09:27:49.064589+00:00"
-  },
-  {
    "title": "Le Groenland au cœur d'un bras de fer géopolitique 15 contenus",
    "link": "https://www.franceinfo.fr/monde/groenland/le-groenland-au-c-ur-d-un-bras-de-fer-geopolitique/",
    "summary": "Le Groenland au cœur d'un bras de fer géopolitique",
@@ -266,14 +274,6 @@
    "image": "https://www.franceinfo.fr/pictures/_Ls0AfsrdeH4b8e1t1laldX3AFA/432x297/filters:format(jpg)/2026/01/21/un-an-trump-au-pouvoir-6970f70527d4e960570673.jpg",
    "date": null,
    "pubdate": "2026-09-05T03:28:52.076083+00:00"
-  },
-  {
-   "title": ": Reportage 4:57 audio 4 minutes 57 : Reportage \"C'est le sauveur\", Ulrich Siegmund \"l’homme le plus dangereux d’Allemagne\", selon \"Der Spiegel\", aux portes d'une victoire historique",
-   "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-c-est-le-sauveur-en-saxe-anhalt-ulrich-siegmund-l-homme-le-plus-dangereux-d-allemagne-selon-der-spiegel-aux-portes-du-pouvoir_8147219.html",
-   "summary": "\"C'est le sauveur\", Ulrich Siegmund \"l’homme le plus dangereux d’Allemagne\", selon \"Der Spiegel\", aux portes d'une victoire historique",
-   "image": "https://www.franceinfo.fr/pictures/VFg8d1outM3G4QXNVW4Z5Ox_n70/171x0:853x682/100x100/filters:format(jpg)/2026/09/04/6a9a5941c45a4796624614.jpg",
-   "date": null,
-   "pubdate": "2026-09-04T06:35:10.695323+00:00"
   }
  ]
 }
