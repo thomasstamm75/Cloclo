@@ -1,14 +1,11 @@
 {
- "etag": "\"f479374fd2568a1309ee4019b7029365-gzip\"",
+ "etag": "\"903b0f9ddd668cdcc54c32211167e77c-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/culture/musique/tout-le-monde-les-ecoutait-ou-les-subissait-peut-on-encore-parler-de-hits-de-l-ete-comme-avant-les-reseaux-sociaux_8155445.html": "2026-09-01T18:33:18.227663+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-visite-du-pape-a-metz-c-est-un-formidable-coup-de-projecteur-sur-la-ville-estime-le-maire_8134199.html": "2026-09-04T21:28:42.202411+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/j-essaie-d-y-aller-cinq-six-fois-par-semaine-a-16-ou-17-ans-ils-sont-deja-accros-a-la-salle-de-sport_8136965.html": "2026-09-05T00:38:17.798512+00:00",
-  "https://www.franceinfo.fr/enquetes-franceinfo/enquete-deux-hommes-accusent-joaquim-pueyo-d-attouchements-sur-mineurs_8177357.html": "2026-09-06T06:33:28.245522+00:00",
   "https://www.franceinfo.fr/societe/antisemitisme/negationnisme-distorsion-de-l-histoire-visee-ideologique-la-desinformation-sur-la-shoah-tres-presente-sur-les-reseaux-sociaux_8178749.html": "2026-09-06T09:29:14.534373+00:00",
-  "https://www.franceinfo.fr/environnement/actions-ecologiques/transports-ecologiques/c-est-la-rentree-les-gens-ont-besoin-d-etre-en-securite-sur-leurs-velos-la-revision-une-etape-a-ne-pas-negliger-avant-de-se-remettre-en-selle_8172236.html": "2026-09-06T09:29:14.534373+00:00",
-  "https://www.franceinfo.fr/politique/prenez-le-voile-et-sortez-pourquoi-des-femmes-et-des-hommes-se-filment-voiles-pour-denoncer-la-proposition-du-rn_8179499.html": "2026-09-06T09:29:14.534373+00:00",
   "https://www.franceinfo.fr/replay-radio/l-invite-culture/julia-kerninon-j-aime-les-mots-jusqu-a-l-ivresse_8177615.html": "2026-09-06T12:33:38.094002+00:00",
   "https://www.franceinfo.fr/politique/front-national/on-vous-resume-la-passe-d-armes-entre-jordan-bardella-et-ses-adversaires-apres-la-signature-d-un-accord-sur-l-immigration-avec-nigel-farage_8179508.html": "2026-09-06T12:33:38.094002+00:00",
   "https://www.franceinfo.fr/societe/nos-jours-heureux/nos-jours-heureux-baignade-salee-deluge-et-sentiment-de-liberte-a-deauville-la-journee-des-oublies-des-vacances-vire-a-la-formidable-odyssee_8155004.html": "2026-09-06T12:33:38.094002+00:00",
@@ -29,15 +26,51 @@
   "https://www.franceinfo.fr/societe/violences-faites-aux-femmes/la-loi-c-est-le-signal-et-l-orientation-qui-sont-donnes-a-une-societe-lance-une-figure-de-la-lutte-pour-les-droits-des-femmes-et-des-enfants-a-propos-du-projet-de-loi-integrale-contre-les-violences-sexistes-et-sexuelles_8180603.html": "2026-09-07T09:33:10.274192+00:00",
   "https://www.franceinfo.fr/politique/parlement-francais/assemblee-nationale/le-projet-de-loi-integrale-sur-les-violences-faites-aux-enfants-et-aux-femmes-entame-son-parcours-a-l-assemblee_8180510.html": "2026-09-07T09:33:10.274192+00:00",
   "https://www.franceinfo.fr/societe/nos-jours-heureux/": "2026-09-07T09:33:10.274192+00:00",
-  "https://www.franceinfo.fr/societe/euthanasie/comprendre-les-debats-sur-la-fin-de-vie/": "2026-09-07T09:33:10.274192+00:00"
+  "https://www.franceinfo.fr/societe/euthanasie/comprendre-les-debats-sur-la-fin-de-vie/": "2026-09-07T09:33:10.274192+00:00",
+  "https://www.franceinfo.fr/societe/harcelement-sexuel/detection-des-victimes-juridictions-specialisees-reconnaissance-de-l-inceste-ce-que-contient-la-proposition-de-loi-integrale-pour-lutter-contre-les-violences-sexistes-et-sexuelles-qui-arrive-a-l-assemblee_8180609.html": "2026-09-07T12:37:40.546893+00:00",
+  "https://www.franceinfo.fr/societe/familles-royales/royaume-uni-rentree-princiere-sous-haute-securite_8180894.html": "2026-09-07T12:37:40.546893+00:00",
+  "https://www.franceinfo.fr/societe/justice/a-nantes-dix-personnes-en-garde-a-vue-soupconnees-d-avoir-degrade-le-chantier-d-un-futur-centre-de-retention-administrative_8180816.html": "2026-09-07T12:37:40.546893+00:00",
+  "https://www.franceinfo.fr/societe/harcelement-sexuel/la-pression-populaire-doit-s-accentuer-estime-la-deputee-lfi-gabrielle-cathala-a-propos-de-la-loi-integrale-contre-les-violences-sexuelles_8180798.html": "2026-09-07T12:37:40.546893+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "10:10 vidéo 10 minutes 10 Violences dans le périscolaire : \"La justice refuse de croire les enfants\", déplore Rebecca Royer, avocate Rebecca Royer, avocate chez Kopp&Royer Avocates, était l’invitée de La Matinale sur franceinfo lundi 7 septembre.",
+   "title": "Détection des victimes, juridictions spécialisées, reconnaissance de l'inceste... Ce que contient la proposition de loi intégrale contre les violences sexistes et sexuelles, qui arrive à l'Assemblée Inspiré des propositions d'un collectif d'associations, ce texte porté par une députée socialiste ambitionne de traiter tous les aspects du problème, de la prévention des violences aux sanctions. Soutenu par le gouvernement depuis l'affaire Lyhanna, il est examiné en commission à l'Assemblée à partir de lundi.",
+   "link": "https://www.franceinfo.fr/societe/harcelement-sexuel/detection-des-victimes-juridictions-specialisees-reconnaissance-de-l-inceste-ce-que-contient-la-proposition-de-loi-integrale-pour-lutter-contre-les-violences-sexistes-et-sexuelles-qui-arrive-a-l-assemblee_8180609.html",
+   "summary": "Détection des victimes, juridictions spécialisées, reconnaissance de l'inceste... Ce que contient la proposition de loi intégrale contre les violences sexistes et sexuelles, qui arrive à l'Assemblée",
+   "image": "https://www.franceinfo.fr/pictures/6h8Ie_LNqyx7duIw9wKhi4iyZk0/5x0:997x682/432x297/filters:format(jpg)/2026/09/07/6a9e950964e5b089073104.jpg",
+   "date": null,
+   "pubdate": "2026-09-07T12:37:40.546893+00:00"
+  },
+  {
+   "title": "2:49 vidéo 2 minutes 49 Royaume-Uni : rentrée princière sous haute sécurité",
+   "link": "https://www.franceinfo.fr/societe/familles-royales/royaume-uni-rentree-princiere-sous-haute-securite_8180894.html",
+   "summary": "Royaume-Uni : rentrée princière sous haute sécurité",
+   "image": "https://www.franceinfo.fr/pictures/bkVeeJ5J1BZqFWEBBrWlODzflfI/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/07/6a9e90195364e157346790.jpg",
+   "date": null,
+   "pubdate": "2026-09-07T12:37:40.546893+00:00"
+  },
+  {
+   "title": "À Nantes, dix personnes en garde à vue, soupçonnées d'avoir dégradé le chantier d'un futur centre de rétention administrative",
+   "link": "https://www.franceinfo.fr/societe/justice/a-nantes-dix-personnes-en-garde-a-vue-soupconnees-d-avoir-degrade-le-chantier-d-un-futur-centre-de-retention-administrative_8180816.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/CDD6y-wPrED9ZY_P7pXiGwpwrLE/432x243/filters:format(jpg)/2026/07/23/6a61dd5446b58225224984.jpg",
+   "date": null,
+   "pubdate": "2026-09-07T12:37:40.546893+00:00"
+  },
+  {
+   "title": "\"La pression populaire doit s'accentuer\", estime la députée LFI Gabrielle Cathala à propos de la \"loi intégrale\" contre les violences sexuelles",
+   "link": "https://www.franceinfo.fr/societe/harcelement-sexuel/la-pression-populaire-doit-s-accentuer-estime-la-deputee-lfi-gabrielle-cathala-a-propos-de-la-loi-integrale-contre-les-violences-sexuelles_8180798.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/7hnDsKWbD-zcTEmPYLumv2mcVyU/0x0:1024x576/432x243/filters:format(jpg)/2026/04/15/69dfef7d5eac7450359448.jpg",
+   "date": null,
+   "pubdate": "2026-09-07T12:37:40.546893+00:00"
+  },
+  {
+   "title": "10:10 vidéo 10 minutes 10 Violences dans le périscolaire : \"La justice refuse de croire les enfants\", déplore Rebecca Royer, avocate",
    "link": "https://www.franceinfo.fr/replay-jt/franceinfo/6h30-9h30/7-heures/violences-dans-le-periscolaire-la-justice-refuse-de-croire-les-enfants-deplore-rebecca-royer-avocate_8180651.html",
    "summary": "Violences dans le périscolaire : \"La justice refuse de croire les enfants\", déplore Rebecca Royer, avocate",
-   "image": "https://www.franceinfo.fr/pictures/C9pmnrqcKhfRUo9ZLVF6_FfxpAA/174x0:1745x1080/432x297/filters:format(jpg)/2026/09/07/6a9e7b892be79546778482.jpg",
+   "image": "https://www.franceinfo.fr/pictures/SWCU2C5FS0aNMf3b6T25K74NUPw/0x0:1920x1080/432x243/filters:format(jpg)/2026/09/07/6a9e7b892be79546778482.jpg",
    "date": null,
    "pubdate": "2026-09-07T09:33:10.274192+00:00"
   },
@@ -82,14 +115,6 @@
    "pubdate": "2026-09-07T09:33:10.274192+00:00"
   },
   {
-   "title": "Le projet de \"loi intégrale\" sur les violences faites aux enfants et aux femmes entame son parcours à l'Assemblée",
-   "link": "https://www.franceinfo.fr/politique/parlement-francais/assemblee-nationale/le-projet-de-loi-integrale-sur-les-violences-faites-aux-enfants-et-aux-femmes-entame-son-parcours-a-l-assemblee_8180510.html",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/UlTFCTETTwur_fIvwEjOZ_FkbBk/0x221:4252x2613/432x243/filters:format(jpg)/2026/09/07/6a9e6114760e6650998473.jpg",
-   "date": null,
-   "pubdate": "2026-09-07T09:33:10.274192+00:00"
-  },
-  {
    "title": "Nos jours heureux 5 contenus",
    "link": "https://www.franceinfo.fr/societe/nos-jours-heureux/",
    "summary": "",
@@ -106,17 +131,25 @@
    "pubdate": "2026-09-07T09:33:10.274192+00:00"
   },
   {
-   "title": "Les associations féministes appellent les parlementaires à \"prendre leurs responsabilités\" pour faire \"aboutir\" la loi intégrale contre les violences sexistes et sexuelles",
+   "title": "Le projet de \"loi intégrale\" sur les violences faites aux enfants et aux femmes entame son parcours à l'Assemblée Le texte transpartisan est examiné lundi en commission. Il a été rédigé en réponse, notamment, à l'émotion suscitée par l'affaire Lyhanna, 11 ans, tuée en mai.",
+   "link": "https://www.franceinfo.fr/politique/parlement-francais/assemblee-nationale/le-projet-de-loi-integrale-sur-les-violences-faites-aux-enfants-et-aux-femmes-entame-son-parcours-a-l-assemblee_8180510.html",
+   "summary": "Le projet de \"loi intégrale\" sur les violences faites aux enfants et aux femmes entame son parcours à l'Assemblée",
+   "image": "https://www.franceinfo.fr/pictures/UlTFCTETTwur_fIvwEjOZ_FkbBk/0x221:4252x2613/432x243/filters:format(jpg)/2026/09/07/6a9e6114760e6650998473.jpg",
+   "date": null,
+   "pubdate": "2026-09-07T09:33:10.274192+00:00"
+  },
+  {
+   "title": "Les associations féministes appellent les parlementaires à \"prendre leurs responsabilités\" pour faire \"aboutir\" la loi intégrale contre les violences sexistes et sexuelles Le texte arrive en commission à l'Assemblée nationale lundi, même si de nombreuses associations craignent que \"la discussion budgétaire\" à l'automne et la fin de la session parlementaire \"en février\" pour l'élection présidentielle empêchent les discussions et le passage de cette loi intégrale très attendue.",
    "link": "https://www.franceinfo.fr/societe/harcelement-sexuel/les-associations-feministes-appellent-les-parlementaires-a-prendre-leur-responsabilite-pour-faire-aboutir-la-loi-integrale-contre-les-violences-sexistes-et-sexuelles_8180495.html",
-   "summary": "",
+   "summary": "Les associations féministes appellent les parlementaires à \"prendre leurs responsabilités\" pour faire \"aboutir\" la loi intégrale contre les violences sexistes et sexuelles",
    "image": "https://www.franceinfo.fr/pictures/291kq788yVlozM60g0CY8et25u0/0x310:5903x3631/432x243/filters:format(jpg)/2019/08/06/phpB0q2hb.jpg",
    "date": null,
    "pubdate": "2026-09-07T06:39:29.273330+00:00"
   },
   {
-   "title": "Chapelets, t-shirts, bracelets… L'Eglise s'organise pour financer la venue de Léon XIV en France",
+   "title": "Chapelets, t-shirts, bracelets… L'Eglise s'organise pour financer la venue de Léon XIV en France L'Eglise de France doit prendre en charge financièrement une large partie de la visite du pape Léon XIV en France, du 25 au 28 septembre. Elle fait donc appel aux dons et propose aussi des produits officiels à la vente.",
    "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/chapelets-t-shirts-bracelets-l-eglise-s-organise-pour-financer-la-venue-de-leon-xiv-en-france_8178830.html",
-   "summary": "",
+   "summary": "Chapelets, t-shirts, bracelets… L'Eglise s'organise pour financer la venue de Léon XIV en France",
    "image": "https://www.franceinfo.fr/pictures/-Yw5xvP_5Q-oQGsxVn_gDWYb21I/0x375:4000x2625/432x243/filters:format(jpg)/2026/09/05/6a9c7bc5eae55883333620.jpg",
    "date": null,
    "pubdate": "2026-09-07T06:39:29.273330+00:00"
@@ -130,9 +163,9 @@
    "pubdate": "2026-09-07T06:39:29.273330+00:00"
   },
   {
-   "title": "Rentrée scolaire : deux tiers des collèges et lycées français ont une équipe incomplète, selon une enquête du Snes-FSU",
+   "title": "Rentrée scolaire : deux tiers des collèges et lycées français ont une équipe incomplète, selon une enquête du Snes-FSU Le ministre de l'Education nationale, Edouard Geffray, avait affirmé quelques jours avant la rentrée scolaire que les absences de professeurs seraient \"marginales\".",
    "link": "https://www.franceinfo.fr/societe/education/rentree-scolaire-deux-tiers-des-colleges-et-lycees-francais-ont-une-equipe-incomplete-selon-une-enquete-du-snes-fsu_8180042.html",
-   "summary": "",
+   "summary": "Rentrée scolaire : deux tiers des collèges et lycées français ont une équipe incomplète, selon une enquête du Snes-FSU",
    "image": "https://www.franceinfo.fr/pictures/8BiibfDdHjPJxVP-gMIsHHG-yG4/0x450:4928x3222/432x243/filters:format(jpg)/2026/09/07/6a9e54d9cc28a014908562.jpg",
    "date": null,
    "pubdate": "2026-09-07T03:31:22.053995+00:00"
@@ -208,30 +241,6 @@
    "image": "https://www.franceinfo.fr/pictures/zy-23HVHPaOUXG4iZ4aY_N34SiM/0x349:3362x2241/432x243/filters:format(jpg)/2026/09/05/6a9c24ef13a9e810201257.jpg",
    "date": null,
    "pubdate": "2026-09-06T09:29:14.534373+00:00"
-  },
-  {
-   "title": "\"C'est la rentrée, les gens ont besoin d'être en sécurité sur leurs vélos\" : la révision, une étape à ne pas négliger avant de se remettre en selle Avec le retour des trajets du quotidien, la rentrée est le moment idéal pour faire réviser son vélo, par un professionnel ou par soi-même.",
-   "link": "https://www.franceinfo.fr/environnement/actions-ecologiques/transports-ecologiques/c-est-la-rentree-les-gens-ont-besoin-d-etre-en-securite-sur-leurs-velos-la-revision-une-etape-a-ne-pas-negliger-avant-de-se-remettre-en-selle_8172236.html",
-   "summary": "\"C'est la rentrée, les gens ont besoin d'être en sécurité sur leurs vélos\" : la révision, une étape à ne pas négliger avant de se remettre en selle",
-   "image": "https://www.franceinfo.fr/pictures/7vf7i6uuIUa3c4cdNu9Mue4e4s0/0x275:4244x2662/432x243/filters:format(jpg)/2026/09/03/6a993218025ec343659323.jpg",
-   "date": null,
-   "pubdate": "2026-09-06T09:29:14.534373+00:00"
-  },
-  {
-   "title": "\"Prenez le voile et sortez\" : pourquoi des femmes et des hommes se filment voilés pour dénoncer la proposition du RN Sur les réseaux sociaux, des femmes et des hommes choisissent de se filmer avec un foulard sur la tête, en soutien aux femmes musulmanes et pour dénoncer la mesure défendue par le Rassemblement national.",
-   "link": "https://www.franceinfo.fr/politique/prenez-le-voile-et-sortez-pourquoi-des-femmes-et-des-hommes-se-filment-voiles-pour-denoncer-la-proposition-du-rn_8179499.html",
-   "summary": "\"Prenez le voile et sortez\" : pourquoi des femmes et des hommes se filment voilés pour dénoncer la proposition du RN",
-   "image": "https://www.franceinfo.fr/pictures/1XGPW5CHvbXfdVfME1vC3fx3-eQ/0x221:4252x2613/432x243/filters:format(jpg)/2026/09/06/6a9d1112cd05d827769993.jpg",
-   "date": null,
-   "pubdate": "2026-09-06T09:29:14.534373+00:00"
-  },
-  {
-   "title": ": Enquête Deux hommes accusent Joaquim Pueyo, l'ex-maire d'Alençon, d'attouchements sur mineurs Après le journaliste Frédéric Pommier, deux nouveaux témoins accusent l'ancien député-maire d'Alençon de les avoir agressés sexuellement quand ils étaient mineurs. Des faits pour lesquels Patrick et Tony ont décidé de porter plainte. Joaquim Pueyo nie tout agissement pédocriminel.",
-   "link": "https://www.franceinfo.fr/enquetes-franceinfo/enquete-deux-hommes-accusent-joaquim-pueyo-d-attouchements-sur-mineurs_8177357.html",
-   "summary": "Deux hommes accusent Joaquim Pueyo, l'ex-maire d'Alençon, d'attouchements sur mineurs",
-   "image": "https://www.franceinfo.fr/pictures/YHVo0P3nj_D6Ic_pLl5waiKOoPU/0x262:5040x3097/432x243/filters:format(jpg)/2026/09/04/6a9ad56db9d09629761861.jpg",
-   "date": null,
-   "pubdate": "2026-09-06T06:33:28.245522+00:00"
   },
   {
    "title": "4:39 audio 4 minutes 39 \"J'essaie d'y aller cinq, six fois par semaine\" : À 16 ou 17 ans, ils sont déjà accros à la salle de sport",
