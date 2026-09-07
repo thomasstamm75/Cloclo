@@ -1,6 +1,6 @@
 {
- "etag": "W/\"1788743022\"",
- "last_modified": "Mon, 07 Sep 2026 01:03:42 GMT",
+ "etag": "W/\"1788772227\"",
+ "last_modified": "Mon, 07 Sep 2026 09:10:27 GMT",
  "first_seen": {
   "https://www.strategie-plan.gouv.fr/evenements/levaluation-socioeconomique-des-infrastructures-de-transport-au-dela-des-gains-de-temps": "2026-08-30T07:25:01.975485+00:00",
   "https://www.strategie-plan.gouv.fr/evenements/quels-nouveaux-moteurs-pour-la-productivite-francaise": "2026-08-30T07:25:01.975485+00:00",
@@ -12,12 +12,20 @@
   "https://www.strategie-plan.gouv.fr/publications/hcfea-aider-les-parents-aider-les-enfants-grandir": "2026-05-07T11:00:00+00:00",
   "https://www.strategie-plan.gouv.fr/publications/hcfips-colloque-lois-de-financement-de-la-securite-sociale-30-ans-et-apres": "2026-05-06T11:00:00+00:00",
   "https://www.strategie-plan.gouv.fr/publications/niveau-scolaire-elements-de-diagnostic-et-propositions": "2026-08-31T12:26:30.165588+00:00",
-  "https://www.strategie-plan.gouv.fr/actualites/nomination-de-thomas-grjebine-rapporteur-general-du-haut-commissariat-la-strategie-et-au": "2026-09-01T09:32:44.276294+00:00",
   "https://www.strategie-plan.gouv.fr/publications/france-2035-france-2050-focus-environnement-retrouver-souverainete-habitabilite-et": "2026-09-02T12:37:49.173702+00:00",
-  "https://www.strategie-plan.gouv.fr/evenements/evenements-climatiques-extremes-tirer-les-lecons-de-lete-2026-pour-mieux-preparer": "2026-09-04T06:36:30.944044+00:00"
+  "https://www.strategie-plan.gouv.fr/evenements/evenements-climatiques-extremes-tirer-les-lecons-de-lete-2026-pour-mieux-preparer": "2026-09-04T06:36:30.944044+00:00",
+  "https://www.strategie-plan.gouv.fr/publications/france-2035-france-2050-focus-economie-retrouver-la-capacite-de-produire-en-france-et": "2026-09-07T09:34:35.305456+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "Bienvenue sur le site du Haut-commissariat à la Stratégie et au Plan",
+   "link": "https://www.strategie-plan.gouv.fr/publications/france-2035-france-2050-focus-economie-retrouver-la-capacite-de-produire-en-france-et",
+   "summary": "Le Haut-commissariat à la Stratégie et au Plan contribue à l’action publique par ses analyses et ses propositions. Il éclaire les choix collectifs sur les enjeux démographiques, économiques, sociaux, environnementaux, sanitaires, technologiques et culturels, dans un cadre national et européen.",
+   "image": "https://www.strategie-plan.gouv.fr/files/styles/ds_image_paragraphe/public/files/accueil-fstrat.png?itok=ZH0UHCYU",
+   "date": null,
+   "pubdate": "2026-09-07T09:34:35.305456+00:00"
+  },
   {
    "title": "Événements climatiques extrêmes : tirer ...",
    "link": "https://www.strategie-plan.gouv.fr/evenements/evenements-climatiques-extremes-tirer-les-lecons-de-lete-2026-pour-mieux-preparer",
@@ -27,20 +35,12 @@
    "pubdate": "2026-09-04T06:36:30.944044+00:00"
   },
   {
-   "title": "Bienvenue sur le site du Haut-commissariat à la Stratégie et au Plan",
+   "title": "France 2035, France 2050 - Focus Environnement : retrouver souveraineté, habitabilité et cohésion nationale, par la transition écologique",
    "link": "https://www.strategie-plan.gouv.fr/publications/france-2035-france-2050-focus-environnement-retrouver-souverainete-habitabilite-et",
-   "summary": "Le Haut-commissariat à la Stratégie et au Plan contribue à l’action publique par ses analyses et ses propositions. Il éclaire les choix collectifs sur les enjeux démographiques, économiques, sociaux, environnementaux, sanitaires, technologiques et culturels, dans un cadre national et européen.",
-   "image": "https://www.strategie-plan.gouv.fr/files/styles/ds_image_paragraphe/public/files/accueil-fstrat.png?itok=ZH0UHCYU",
-   "date": null,
-   "pubdate": "2026-09-02T12:37:49.173702+00:00"
-  },
-  {
-   "title": "Nomination de Thomas Grjebine, rapporteur général du Haut-commissariat à la Stratégie et au Plan",
-   "link": "https://www.strategie-plan.gouv.fr/actualites/nomination-de-thomas-grjebine-rapporteur-general-du-haut-commissariat-la-strategie-et-au",
-   "summary": "",
+   "summary": "Haut-commissariat à la Stratégie et au Plan",
    "image": "",
-   "date": null,
-   "pubdate": "2026-09-01T09:32:44.276294+00:00"
+   "date": "2026-09-02T11:00:00+00:00",
+   "pubdate": "2026-09-02T11:00:00+00:00"
   },
   {
    "title": "Niveau scolaire : éléments de diagnostic et propositions",
