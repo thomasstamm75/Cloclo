@@ -1,13 +1,10 @@
 {
- "etag": "\"c986c07c320e70882f45ed2774fff8b6-gzip\"",
+ "etag": "\"31c6f3ea5a6a9541d6e280fd6596246c-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-c-est-le-sauveur-en-saxe-anhalt-ulrich-siegmund-l-homme-le-plus-dangereux-d-allemagne-selon-der-spiegel-aux-portes-du-pouvoir_8147219.html": "2026-09-06T09:29:17.318622+00:00",
-  "https://www.franceinfo.fr/elections/presidentielle/le-communiste-fabien-roussel-officialise-sa-candidature-a-l-election-presidentielle-de-2027-pour-defendre-un-projet-de-rupture_8179856.html": "2026-09-06T21:27:09.592485+00:00",
   "https://www.franceinfo.fr/societe/harcelement-sexuel/les-associations-feministes-appellent-les-parlementaires-a-prendre-leur-responsabilite-pour-faire-aboutir-la-loi-integrale-contre-les-violences-sexistes-et-sexuelles_8180495.html": "2026-09-07T06:39:31.800138+00:00",
   "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-entre-marine-le-pen-et-jordan-bardella-une-entente-de-plus-en-plus-fragile-au-rn_8158967.html": "2026-09-07T06:39:31.800138+00:00",
-  "https://www.franceinfo.fr/monde/europe/allemagne/face-a-la-victoire-de-l-afd-en-saxe-anhalt-la-gauche-et-le-centre-francais-expriment-leurs-inquietudes-silence-du-rn_8180453.html": "2026-09-07T06:39:31.800138+00:00",
-  "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/comment-l-afd-a-conquis-la-saxe-anhalt-en-jouant-sur-la-nostalgie-de-l-ex-rda_8158964.html": "2026-09-07T06:39:31.800138+00:00",
   "https://www.franceinfo.fr/economie/le-gouvernement-etudie-la-piste-l-instauration-de-prelevements-sur-l-epargne-salariale-pour-financer-le-budget-2027-selon-le-ministre-de-l-economie_8180675.html": "2026-09-07T09:33:12.613224+00:00",
   "https://www.franceinfo.fr/replay-radio/les-informes-du-matin/les-informes-du-matin-du-lundi-07-septembre-2026_8158994.html": "2026-09-07T11:00:00+00:00",
   "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/vrai-ou-faux-l-union-europeenne-se-prepare-t-elle-a-annuler-l-election-presidentielle-francaise_8158988.html": "2026-09-07T09:33:12.613224+00:00",
@@ -22,7 +19,6 @@
   "https://www.franceinfo.fr/societe/harcelement-sexuel/detection-des-victimes-juridictions-specialisees-reconnaissance-de-l-inceste-ce-que-contient-la-proposition-de-loi-integrale-pour-lutter-contre-les-violences-sexistes-et-sexuelles-qui-arrive-a-l-assemblee_8180609.html": "2026-09-07T12:37:43.044270+00:00",
   "https://www.franceinfo.fr/politique/modem/assistants-parlementaires-du-modem/francois-bayrou-se-dit-absolument-serein-avant-son-proces-en-appel-dans-l-affaire-des-assistants-d-eurodeputes-modem_8180960.html": "2026-09-07T12:37:43.044270+00:00",
   "https://www.franceinfo.fr/monde/europe/allemagne/victoire-de-l-afd-en-saxe-anhalt-en-allemagne-le-cordon-sanitaire-contre-l-extreme-droite-a-saute-constate-un-specialiste-de-l-europe_8180576.html": "2026-09-07T12:37:43.044270+00:00",
-  "https://www.franceinfo.fr/politique/la-gauche-je-ne-sais-pas-qui-c-est-s-interroge-francois-hollande_8180948.html": "2026-09-07T12:37:43.044270+00:00",
   "https://www.franceinfo.fr/societe/harcelement-sexuel/la-pression-populaire-doit-s-accentuer-estime-la-deputee-lfi-gabrielle-cathala-a-propos-de-la-loi-integrale-contre-les-violences-sexuelles_8180798.html": "2026-09-07T12:37:43.044270+00:00",
   "https://www.franceinfo.fr/replay-jt/france-2/13-heures/l-afd-aux-portes-du-pouvoir-l-extreme-droite-signe-une-victoire-historique-en-saxe-anhalt-en-allemagne_8181095.html": "2026-09-07T15:30:58.825926+00:00",
   "https://www.franceinfo.fr/societe/harcelement-sexuel/loi-integrale-contre-les-violences-sexuelles-definir-l-inceste-c-est-deja-un-premier-pas-estime-l-association-face-a-l-inceste_8181074.html": "2026-09-07T15:30:58.825926+00:00",
@@ -31,15 +27,51 @@
   "https://www.franceinfo.fr/elections/presidentielle/les-socialistes-la-font-bien-la-droite-et-le-centre-peuvent-ils-encore-organiser-une-primaire-pour-la-presidentielle-de-2027_8171882.html": "2026-09-07T15:30:58.825926+00:00",
   "https://www.franceinfo.fr/politique/le-plan-de-renovation-thermique-des-ecoles-ampute-de-40-millions-d-euros_8181503.html": "2026-09-07T18:33:47.481587+00:00",
   "https://www.franceinfo.fr/replay-jt/france-2/13-heures/la-gratuite-des-transports-en-commun-pour-les-plus-de-65-ans-fait-polemique-a-nice_8181059.html": "2026-09-07T18:33:47.481587+00:00",
-  "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-a-atlanta-les-republicains-craignent-la-fin-de-l-ere-trump-a-l-approche-des-elections-de-mi-mandat-les-democrates-revent-de-revanche_8145842.html": "2026-09-07T18:33:47.481587+00:00"
+  "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-a-atlanta-les-republicains-craignent-la-fin-de-l-ere-trump-a-l-approche-des-elections-de-mi-mandat-les-democrates-revent-de-revanche_8145842.html": "2026-09-07T18:33:47.481587+00:00",
+  "https://www.franceinfo.fr/politique/jordan-bardella/jordan-bardella-pris-au-piege-de-la-traduction-ce-que-revele-l-accord-avec-nigel-farage_8181680.html": "2026-09-07T21:29:38.918186+00:00",
+  "https://www.franceinfo.fr/monde/europe/allemagne/je-m-inquiete-beaucoup-les-professeurs-de-saxe-anhalt-sur-le-qui-vive-face-aux-projets-scolaires-de-l-extreme-droite-allemande_8181695.html": "2026-09-07T21:29:38.918186+00:00",
+  "https://www.franceinfo.fr/monde/europe/allemagne/comment-peut-on-faire-ca-en-etant-allemand-l-allemagne-sous-le-choc-apres-le-score-historique-du-parti-d-extreme-droite-afd_8181668.html": "2026-09-07T21:29:38.918186+00:00",
+  "https://www.franceinfo.fr/politique/je-vous-demande-de-vous-arreter-comment-la-phrase-d-edouard-balladur-est-devenue-culte_8171597.html": "2026-09-07T21:29:38.918186+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "2:08 vidéo 2 minutes 8 Le plan de rénovation thermique des écoles amputé de 40 millions d'euros Alors qu’une nouvelle vague de chaleur tardive frappe la France, la rénovation énergétique des écoles risque de se faire attendre. Selon une information de Politico confirmée par \"Le Monde\", le gouvernement a décidé de geler 40 millions d’euros du plan d’urgence lancé cet été pour adapter les écoles aux fortes chaleurs. Le programme Actee, chargé d’accompagner les collectivités, ne disposera finalement que de 10 millions d’euros. Une décision que regrette son directeur, Guillaume Perrin.",
+   "title": "2:06 vidéo 2 minutes 6 Jordan Bardella pris au piège de la traduction ? Ce que révèle l'accord avec Nigel Farage Jordan Bardella et Nigel Farage ont signé le 4 septembre un accord sur le retour des migrants interceptés dans les eaux britanniques. Mais entre les versions française et anglaise du texte, une phrase a disparu. Une différence de traduction qui pourrait bien changer la portée de l'engagement pris par le président du RN.",
+   "link": "https://www.franceinfo.fr/politique/jordan-bardella/jordan-bardella-pris-au-piege-de-la-traduction-ce-que-revele-l-accord-avec-nigel-farage_8181680.html",
+   "summary": "Jordan Bardella pris au piège de la traduction ? Ce que révèle l'accord avec Nigel Farage",
+   "image": "https://www.franceinfo.fr/pictures/suv-km4iGHUxoHnesvhnne3RiT4/16x0:807x544/432x297/filters:format(jpg)/2026/09/07/6a9f0c118d4e7014154825.jpg",
+   "date": null,
+   "pubdate": "2026-09-07T21:29:38.918186+00:00"
+  },
+  {
+   "title": "2:23 vidéo 2 minutes 23 \"Je m'inquiète beaucoup\" : les professeurs de Saxe-Anhalt sur le qui-vive face aux projets scolaires de l'extrême droite allemande",
+   "link": "https://www.franceinfo.fr/monde/europe/allemagne/je-m-inquiete-beaucoup-les-professeurs-de-saxe-anhalt-sur-le-qui-vive-face-aux-projets-scolaires-de-l-extreme-droite-allemande_8181695.html",
+   "summary": "\"Je m'inquiète beaucoup\" : les professeurs de Saxe-Anhalt sur le qui-vive face aux projets scolaires de l'extrême droite allemande",
+   "image": "https://www.franceinfo.fr/pictures/e-bjG6iWqVjdcy1ZQEoajwE8Rz8/43x0:995x535/432x243/filters:format(jpg)/2026/09/07/6a9f0dff0444f824320303.jpg",
+   "date": null,
+   "pubdate": "2026-09-07T21:29:38.918186+00:00"
+  },
+  {
+   "title": "1:51 vidéo 1 minute 51 \"Comment peut-on faire ça en étant allemand ?\" : l'Allemagne sous le choc après le score historique du parti d'extrême droite AfD",
+   "link": "https://www.franceinfo.fr/monde/europe/allemagne/comment-peut-on-faire-ca-en-etant-allemand-l-allemagne-sous-le-choc-apres-le-score-historique-du-parti-d-extreme-droite-afd_8181668.html",
+   "summary": "\"Comment peut-on faire ça en étant allemand ?\" : l'Allemagne sous le choc après le score historique du parti d'extrême droite AfD",
+   "image": "https://www.franceinfo.fr/pictures/OCNpNBCnTXnVDq9ZRN2WD-ZMv4w/0x9:832x477/432x243/filters:format(jpg)/2026/09/07/6a9f02505a68d814755103.jpg",
+   "date": null,
+   "pubdate": "2026-09-07T21:29:38.918186+00:00"
+  },
+  {
+   "title": "3:00 article 3 minutes \"Je vous demande de vous arrêter\" : comment la phrase d'Edouard Balladur est devenue culte",
+   "link": "https://www.franceinfo.fr/politique/je-vous-demande-de-vous-arreter-comment-la-phrase-d-edouard-balladur-est-devenue-culte_8171597.html",
+   "summary": "\"Je vous demande de vous arrêter\" : comment la phrase d'Edouard Balladur est devenue culte",
+   "image": "https://www.franceinfo.fr/pictures/vFjOa3n5rZf7oOh8hNmg_76YnpQ/720x0:3568x2848/100x100/filters:format(jpg)/2026/09/01/6a965ae37d0eb915432123.jpg",
+   "date": null,
+   "pubdate": "2026-09-07T21:29:38.918186+00:00"
+  },
+  {
+   "title": "2:08 vidéo 2 minutes 8 Le plan de rénovation thermique des écoles amputé de 40 millions d'euros",
    "link": "https://www.franceinfo.fr/politique/le-plan-de-renovation-thermique-des-ecoles-ampute-de-40-millions-d-euros_8181503.html",
    "summary": "Le plan de rénovation thermique des écoles amputé de 40 millions d'euros",
-   "image": "https://www.franceinfo.fr/pictures/qcIZdqwrO3Q5-vUKsJgs85Tj-TY/0x0:1080x1920/fit-in/432x297/filters:upscale():fill(blur):format(jpg)/2026/09/07/6a9edfebade6d878891278.jpg",
+   "image": "https://www.franceinfo.fr/pictures/hcgCmlf2l_cZA87wEAKmYHUfnEE/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/07/6a9edfebade6d878891278.jpg",
    "date": null,
    "pubdate": "2026-09-07T18:33:47.481587+00:00"
   },
@@ -108,26 +140,18 @@
    "pubdate": "2026-09-07T12:37:43.044270+00:00"
   },
   {
-   "title": "François Bayrou se dit \"absolument serein\" avant son procès en appel dans l'affaire des assistants d'eurodéputés MoDem",
+   "title": "François Bayrou se dit \"absolument serein\" avant son procès en appel dans l'affaire des assistants d'eurodéputés MoDem L'ancien Premier ministre est poursuivi pour complicité de détournement de fonds publics et est soupçonné d'avoir utilisé entre 2005 et 2017 des fonds européens pour rémunérer des assistants parlementaires qui travaillaient en réalité pour l'UDF, puis le MoDem. Il doit comparaître à partir de mercredi devant la cour d'appel de Paris, après avoir été relaxé en 2024.",
    "link": "https://www.franceinfo.fr/politique/modem/assistants-parlementaires-du-modem/francois-bayrou-se-dit-absolument-serein-avant-son-proces-en-appel-dans-l-affaire-des-assistants-d-eurodeputes-modem_8180960.html",
-   "summary": "",
+   "summary": "François Bayrou se dit \"absolument serein\" avant son procès en appel dans l'affaire des assistants d'eurodéputés MoDem",
    "image": "https://www.franceinfo.fr/pictures/4fcVAG-kAQq1mtPV-ojWrM4VR88/0x322:6192x3805/432x243/filters:format(jpg)/2026/08/11/6a7abcd954d26312296308.jpg",
    "date": null,
    "pubdate": "2026-09-07T12:37:43.044270+00:00"
   },
   {
-   "title": "6:17 audio 6 minutes 17 Victoire de l'AfD en Saxe-Anhalt : en Allemagne, \"le cordon sanitaire contre l'extrême droite a sauté\", constate un spécialiste de l'Europe",
+   "title": "6:17 audio 6 minutes 17 Victoire de l'AfD en Saxe-Anhalt : en Allemagne, \"le cordon sanitaire contre l'extrême droite a sauté\", constate un spécialiste de l'Europe Avec 44% des voix, l'AfD sort très largement victorieuse des élections régionales qui se sont tenues dimanche en Saxe-Anhalt. C'est la première fois depuis 1945 qu'un parti d'extrême droite est en position favorable pour diriger une région allemande.",
    "link": "https://www.franceinfo.fr/monde/europe/allemagne/victoire-de-l-afd-en-saxe-anhalt-en-allemagne-le-cordon-sanitaire-contre-l-extreme-droite-a-saute-constate-un-specialiste-de-l-europe_8180576.html",
    "summary": "Victoire de l'AfD en Saxe-Anhalt : en Allemagne, \"le cordon sanitaire contre l'extrême droite a sauté\", constate un spécialiste de l'Europe",
    "image": "https://www.franceinfo.fr/pictures/_mzzYPYF3HtllmGwABJe6Qmzvjw/0x136:6000x3511/432x243/filters:format(jpg)/2026/09/07/6a9e9b92995f0981621434.jpg",
-   "date": null,
-   "pubdate": "2026-09-07T12:37:43.044270+00:00"
-  },
-  {
-   "title": "0:57 vidéo 57 secondes \"La gauche, je ne sais pas qui c'est !\", s'interroge François Hollande",
-   "link": "https://www.franceinfo.fr/politique/la-gauche-je-ne-sais-pas-qui-c-est-s-interroge-francois-hollande_8180948.html",
-   "summary": "\"La gauche, je ne sais pas qui c'est !\", s'interroge François Hollande",
-   "image": "https://www.franceinfo.fr/pictures/kPJp32nFsS9Q00YpC4JxJumdOC0/0x0:900x1600/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/07/6a9e9d70ead12049137909.jpg",
    "date": null,
    "pubdate": "2026-09-07T12:37:43.044270+00:00"
   },
@@ -242,30 +266,6 @@
    "image": "https://www.franceinfo.fr/pictures/xBsc99LgtG2fJebnnIx_5VDIsXs/0x5:1024x581/432x243/filters:format(jpg)/2026/09/07/6a9e41c1aba2f272219973.jpg",
    "date": null,
    "pubdate": "2026-09-07T06:39:31.800138+00:00"
-  },
-  {
-   "title": "Face à la victoire de l'AfD en Saxe-Anhalt, la gauche et le centre français expriment leurs inquiétudes, le RN reste silencieux Pour la première fois depuis la Seconde Guerre mondiale, un parti d'extrême droite a remporté des élections en Allemagne. Une victoire qui a fait réagir la gauche et le centre en France. Le Rassemblement national n'a pas réagi.",
-   "link": "https://www.franceinfo.fr/monde/europe/allemagne/face-a-la-victoire-de-l-afd-en-saxe-anhalt-la-gauche-et-le-centre-francais-expriment-leurs-inquietudes-silence-du-rn_8180453.html",
-   "summary": "Face à la victoire de l'AfD en Saxe-Anhalt, la gauche et le centre français expriment leurs inquiétudes, le RN reste silencieux",
-   "image": "https://www.franceinfo.fr/pictures/8tDkZnVmO8xoyIcgga-5QAGyU3k/0x0:1024x576/432x243/filters:format(jpg)/2026/09/07/6a9e515c801f9608003581.jpg",
-   "date": null,
-   "pubdate": "2026-09-07T06:39:31.800138+00:00"
-  },
-  {
-   "title": "3:01 audio 3 minutes 1 Comment l’AfD a conquis la Saxe-Anhalt en jouant sur la nostalgie de l’ex-RDA Avec plus de 44% des voix dans la région de Saxe-Anhalt, l'AfD écrase ses adversaires et inflige un sérieux revers au chancelier allemand. Une victoire qui révèle aussi le paradoxe d'une extrême droite qui a su exploiter la nostalgie de l'ancienne Allemagne communiste.",
-   "link": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/comment-l-afd-a-conquis-la-saxe-anhalt-en-jouant-sur-la-nostalgie-de-l-ex-rda_8158964.html",
-   "summary": "Comment l’AfD a conquis la Saxe-Anhalt en jouant sur la nostalgie de l’ex-RDA",
-   "image": "https://www.franceinfo.fr/pictures/cP-OjLoJyPmhIMuvXXF-gd98dGM/0x171:4449x2674/432x243/filters:format(jpg)/2026/09/07/6a9e433156a59672161024.jpg",
-   "date": null,
-   "pubdate": "2026-09-07T06:39:31.800138+00:00"
-  },
-  {
-   "title": "Le communiste Fabien Roussel officialise sa candidature à l'élection présidentielle de 2027 pour défendre \"un projet de rupture\" Le maire de Saint-Amand-les-Eaux et ancien député du Nord se lance pour la seconde fois dans la course à l'Elysée, avec la volonté de réaliser un meilleur score qu'en 2022 (2,28%).",
-   "link": "https://www.franceinfo.fr/elections/presidentielle/le-communiste-fabien-roussel-officialise-sa-candidature-a-l-election-presidentielle-de-2027-pour-defendre-un-projet-de-rupture_8179856.html",
-   "summary": "Le communiste Fabien Roussel officialise sa candidature à l'élection présidentielle de 2027 pour défendre \"un projet de rupture\"",
-   "image": "https://www.franceinfo.fr/pictures/xfKZIog8BYYyx3qP-TUj4ykGmuI/0x0:6048x3402/432x243/filters:format(jpg)/2026/09/06/6a9d7749d20fa789153211.jpg",
-   "date": null,
-   "pubdate": "2026-09-06T21:27:09.592485+00:00"
   },
   {
    "title": ": Reportage 4:57 audio 4 minutes 57 : Reportage \"C'est le sauveur\", Ulrich Siegmund \"l’homme le plus dangereux d’Allemagne\", selon \"Der Spiegel\", aux portes d'une victoire historique",
