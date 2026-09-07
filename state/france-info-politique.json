@@ -1,14 +1,10 @@
 {
- "etag": "\"580a0eb254ee68f032a9a4f83004dacb-gzip\"",
+ "etag": "\"f2e7581db2afd5eb19a231a9674e875e-gzip\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-a-atlanta-les-republicains-craignent-la-fin-de-l-ere-trump-a-l-approche-des-elections-de-mi-mandat-les-democrates-revent-de-revanche_8145842.html": "2026-09-04T21:28:44.437560+00:00",
   "https://www.franceinfo.fr/politique/je-vous-demande-de-vous-arreter-comment-la-phrase-d-edouard-balladur-est-devenue-culte_8171597.html": "2026-09-05T21:27:09.701273+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-c-est-le-sauveur-en-saxe-anhalt-ulrich-siegmund-l-homme-le-plus-dangereux-d-allemagne-selon-der-spiegel-aux-portes-du-pouvoir_8147219.html": "2026-09-06T09:29:17.318622+00:00",
-  "https://www.franceinfo.fr/politique/front-national/on-vous-resume-la-passe-d-armes-entre-jordan-bardella-et-ses-adversaires-apres-la-signature-d-un-accord-sur-l-immigration-avec-nigel-farage_8179508.html": "2026-09-06T12:33:40.751077+00:00",
-  "https://www.franceinfo.fr/societe/immigration/immigration-l-accord-symbolique-signe-au-royaume-uni-par-jordan-bardella-est-courageux-et-coherent-defend-jean-philippe-tanguy_8179817.html": "2026-09-06T15:28:07.927341+00:00",
   "https://www.franceinfo.fr/politique/ps/primaire-socialiste/segolene-royal-annonce-qu-elle-a-obtenu-les-parrainages-necessaires-pour-participer-a-la-primaire-socialiste_8180078.html": "2026-09-06T18:30:23.121861+00:00",
-  "https://www.franceinfo.fr/politique/ps/une-insulte-a-la-memoire-de-ce-village-martyr-olivier-faure-critique-apres-avoir-compare-le-porge-detruit-par-les-flammes-a-oradour-sur-glane_8179841.html": "2026-09-06T18:30:23.121861+00:00",
   "https://www.franceinfo.fr/elections/presidentielle/le-communiste-fabien-roussel-officialise-sa-candidature-a-l-election-presidentielle-de-2027-pour-defendre-un-projet-de-rupture_8179856.html": "2026-09-06T21:27:09.592485+00:00",
   "https://www.franceinfo.fr/societe/harcelement-sexuel/les-associations-feministes-appellent-les-parlementaires-a-prendre-leur-responsabilite-pour-faire-aboutir-la-loi-integrale-contre-les-violences-sexistes-et-sexuelles_8180495.html": "2026-09-07T06:39:31.800138+00:00",
   "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-entre-marine-le-pen-et-jordan-bardella-une-entente-de-plus-en-plus-fragile-au-rn_8158967.html": "2026-09-07T06:39:31.800138+00:00",
@@ -31,15 +27,59 @@
   "https://www.franceinfo.fr/politique/la-gauche-je-ne-sais-pas-qui-c-est-s-interroge-francois-hollande_8180948.html": "2026-09-07T12:37:43.044270+00:00",
   "https://www.franceinfo.fr/politique/le-maire-socialiste-de-saint-ouen-karim-bouamrane-ne-soutiendra-pas-francois-hollande-sans-mea-culpa-sur-la-decheance-de-nationalite_8180795.html": "2026-09-07T12:37:43.044270+00:00",
   "https://www.franceinfo.fr/societe/harcelement-sexuel/la-pression-populaire-doit-s-accentuer-estime-la-deputee-lfi-gabrielle-cathala-a-propos-de-la-loi-integrale-contre-les-violences-sexuelles_8180798.html": "2026-09-07T12:37:43.044270+00:00",
-  "https://www.franceinfo.fr/politique/reglement-de-comptes-au-rn_8180804.html": "2026-09-07T12:37:43.044270+00:00"
+  "https://www.franceinfo.fr/replay-jt/france-2/13-heures/l-afd-aux-portes-du-pouvoir-l-extreme-droite-signe-une-victoire-historique-en-saxe-anhalt-en-allemagne_8181095.html": "2026-09-07T15:30:58.825926+00:00",
+  "https://www.franceinfo.fr/societe/harcelement-sexuel/loi-integrale-contre-les-violences-sexuelles-definir-l-inceste-c-est-deja-un-premier-pas-estime-l-association-face-a-l-inceste_8181074.html": "2026-09-07T15:30:58.825926+00:00",
+  "https://www.franceinfo.fr/economie/l-epargne-salariale-bientot-taxee-pour-renflouer-les-caisses-de-la-securite-sociale-c-est-malvenu-juge-un-patron_8181044.html": "2026-09-07T15:30:58.825926+00:00",
+  "https://www.franceinfo.fr/politique/la-victoire-de-l-afd-en-allemagne-est-une-alerte-extremement-grave-selon-manuel-bompard-coordinateur-de-la-france-insoumise_8181038.html": "2026-09-07T15:30:58.825926+00:00",
+  "https://www.franceinfo.fr/elections/presidentielle/les-socialistes-la-font-bien-la-droite-et-le-centre-peuvent-ils-encore-organiser-une-primaire-pour-la-presidentielle-de-2027_8171882.html": "2026-09-07T15:30:58.825926+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "Actes d'enquête obligatoire, juridictions spécialisées, reconnaissance de l'inceste... Ce que contient la proposition de loi intégrale contre les violences sexistes et sexuelles, qui arrive à l'Assemblée Inspiré des propositions d'un collectif d'associations, ce texte porté par une députée socialiste ambitionne de traiter tous les aspects du problème, de la prévention des violences aux sanctions. Soutenu par le gouvernement depuis l'affaire Lyhanna, il est examiné en commission à l'Assemblée à partir de lundi.",
+   "title": "1:56 vidéo 1 minute 56 L'AfD aux portes du pouvoir : l'extrême droite signe une victoire historique en Saxe-Anhalt, en Allemagne En Allemagne, c’est une victoire historique du parti d’extrême droite de l’AfD. Il remporte près de 44 % des voix en Saxe-Anhalt et pourrait donc diriger une région, ce qui serait une première pour un tel parti depuis 1945. C’est un séisme politique.",
+   "link": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/l-afd-aux-portes-du-pouvoir-l-extreme-droite-signe-une-victoire-historique-en-saxe-anhalt-en-allemagne_8181095.html",
+   "summary": "L'AfD aux portes du pouvoir : l'extrême droite signe une victoire historique en Saxe-Anhalt, en Allemagne",
+   "image": "https://www.franceinfo.fr/pictures/lZJRyl-pFvH3PFRPCflReUBvFVs/174x0:1745x1080/432x297/filters:format(jpg)/2026/09/07/6a9ebd83b31ad588925471.jpg",
+   "date": null,
+   "pubdate": "2026-09-07T15:30:58.825926+00:00"
+  },
+  {
+   "title": "Loi intégrale contre les violences sexuelles : définir l'inceste, \"c'est déjà un premier pas\", estime l’association Face à l’inceste",
+   "link": "https://www.franceinfo.fr/societe/harcelement-sexuel/loi-integrale-contre-les-violences-sexuelles-definir-l-inceste-c-est-deja-un-premier-pas-estime-l-association-face-a-l-inceste_8181074.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/zqBQPL3rrc7eH6igyrTYMPTlMAA/0x193:4256x2587/432x243/filters:format(jpg)/2026/06/12/6a2bace17c674242666390.jpg",
+   "date": null,
+   "pubdate": "2026-09-07T15:30:58.825926+00:00"
+  },
+  {
+   "title": "1:56 vidéo 1 minute 56 L'épargne salariale bientôt taxée pour renflouer les caisses de la Sécurité sociale ? \"C'est malvenu\", juge un patron",
+   "link": "https://www.franceinfo.fr/economie/l-epargne-salariale-bientot-taxee-pour-renflouer-les-caisses-de-la-securite-sociale-c-est-malvenu-juge-un-patron_8181044.html",
+   "summary": "L'épargne salariale bientôt taxée pour renflouer les caisses de la Sécurité sociale ? \"C'est malvenu\", juge un patron",
+   "image": "https://www.franceinfo.fr/pictures/oS0MMGrEmMHmCktUaR3hpKZKPiM/0x1:1202x678/432x243/filters:format(jpg)/2026/09/07/6a9ebb5416649145912211.jpg",
+   "date": null,
+   "pubdate": "2026-09-07T15:30:58.825926+00:00"
+  },
+  {
+   "title": "1:20 vidéo 1 minute 20 La victoire de l’AfD en Allemagne est \"une alerte extrêmement grave\" selon Manuel Bompard, coordinateur de La France insoumise",
+   "link": "https://www.franceinfo.fr/politique/la-victoire-de-l-afd-en-allemagne-est-une-alerte-extremement-grave-selon-manuel-bompard-coordinateur-de-la-france-insoumise_8181038.html",
+   "summary": "La victoire de l’AfD en Allemagne est \"une alerte extrêmement grave\" selon Manuel Bompard, coordinateur de La France insoumise",
+   "image": "https://www.franceinfo.fr/pictures/0tz5WGS_4ZvwWBOh_nrOkAMP28E/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/07/6a9eb21688e35424438845.png",
+   "date": null,
+   "pubdate": "2026-09-07T15:30:58.825926+00:00"
+  },
+  {
+   "title": "6:00 article 6 minutes \"Les socialistes la font bien !\" : la droite et le centre peuvent-ils encore organiser une primaire pour la présidentielle de 2027 ?",
+   "link": "https://www.franceinfo.fr/elections/presidentielle/les-socialistes-la-font-bien-la-droite-et-le-centre-peuvent-ils-encore-organiser-une-primaire-pour-la-presidentielle-de-2027_8171882.html",
+   "summary": "\"Les socialistes la font bien !\" : la droite et le centre peuvent-ils encore organiser une primaire pour la présidentielle de 2027 ?",
+   "image": "https://www.franceinfo.fr/pictures/5fUZH6GrNERGe4r4sXKwaeunXrU/0x0:3545x3545/100x100/filters:format(jpg)/2026/09/02/6a981ecec229f147572924.jpg",
+   "date": null,
+   "pubdate": "2026-09-07T15:30:58.825926+00:00"
+  },
+  {
+   "title": "Actes d'enquête obligatoire, juridictions spécialisées, reconnaissance de l'inceste... Ce que contient la proposition de loi intégrale contre les violences sexistes et sexuelles, qui arrive à l'Assemblée",
    "link": "https://www.franceinfo.fr/societe/harcelement-sexuel/detection-des-victimes-juridictions-specialisees-reconnaissance-de-l-inceste-ce-que-contient-la-proposition-de-loi-integrale-pour-lutter-contre-les-violences-sexistes-et-sexuelles-qui-arrive-a-l-assemblee_8180609.html",
-   "summary": "Actes d'enquête obligatoire, juridictions spécialisées, reconnaissance de l'inceste... Ce que contient la proposition de loi intégrale contre les violences sexistes et sexuelles, qui arrive à l'Assemblée",
-   "image": "https://www.franceinfo.fr/pictures/6h8Ie_LNqyx7duIw9wKhi4iyZk0/5x0:997x682/432x297/filters:format(jpg)/2026/09/07/6a9e950964e5b089073104.jpg",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/2oV1S0PFz57yJPizwnmqCLIUxOg/0x39:1024x615/432x243/filters:format(jpg)/2026/09/07/6a9e950964e5b089073104.jpg",
    "date": null,
    "pubdate": "2026-09-07T12:37:43.044270+00:00"
   },
@@ -84,36 +124,12 @@
    "pubdate": "2026-09-07T12:37:43.044270+00:00"
   },
   {
-   "title": "1:33 vidéo 1 minute 33 Le Pen-Bardella : règlement de comptes au RN ?",
-   "link": "https://www.franceinfo.fr/politique/reglement-de-comptes-au-rn_8180804.html",
-   "summary": "Le Pen-Bardella : règlement de comptes au RN ?",
-   "image": "https://www.franceinfo.fr/pictures/LY8QhYwHcWDzO4MwXmWc2ehhkk8/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/07/6a9e86d3d255e196163948.jpg",
-   "date": null,
-   "pubdate": "2026-09-07T12:37:43.044270+00:00"
-  },
-  {
-   "title": "21:01 audio 21 minutes 1 Les informés du matin du lundi 07 septembre 2026",
+   "title": "21:01 audio 21 minutes 1 Les informés du matin du lundi 07 septembre 2026 Tous les jours, les informés débattent de l'actualité autour de Benjamin Recouvreur et de Renaud Dély.",
    "link": "https://www.franceinfo.fr/replay-radio/les-informes-du-matin/les-informes-du-matin-du-lundi-07-septembre-2026_8158994.html",
    "summary": "Les informés du matin du lundi 07 septembre 2026",
    "image": "https://www.franceinfo.fr/pictures/o_ADBahtqgUk8Ow1Te2K8TXNBvg/0x360:3456x2302/432x243/filters:format(jpg)/2025/09/05/micro-franceinfo-dans-le-studio-411-de-la-maison-de-la-radio-68bb0455afc8a833594060.jpg",
    "date": "2026-09-07T11:00:00+00:00",
    "pubdate": "2026-09-07T11:00:00+00:00"
-  },
-  {
-   "title": "Le gouvernement envisage des prélèvements sur l'épargne salariale pour financer le budget 2027 de la Sécurité sociale, selon le ministre de l'Economie",
-   "link": "https://www.franceinfo.fr/economie/le-gouvernement-etudie-la-piste-l-instauration-de-prelevements-sur-l-epargne-salariale-pour-financer-le-budget-2027-selon-le-ministre-de-l-economie_8180675.html",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/TQwHU8ww0ARTBPhaOZrytFzyR7M/0x0:1024x576/432x243/filters:format(jpg)/2026/09/07/6a9e7c09ee253197907029.jpg",
-   "date": null,
-   "pubdate": "2026-09-07T09:33:12.613224+00:00"
-  },
-  {
-   "title": ": Vrai ou faux 2:04 audio 2 minutes 4 : Vrai ou faux L'Union européenne se prépare-t-elle à annuler l'élection présidentielle française ?",
-   "link": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/vrai-ou-faux-l-union-europeenne-se-prepare-t-elle-a-annuler-l-election-presidentielle-francaise_8158988.html",
-   "summary": "L'Union européenne se prépare-t-elle à annuler l'élection présidentielle française ?",
-   "image": "https://www.franceinfo.fr/pictures/nNZamsqvLSquyqneUO741Ov9YtA/0x53:1024x629/432x243/filters:format(jpg)/2026/09/07/6a9e752a8696a961884155.jpg",
-   "date": null,
-   "pubdate": "2026-09-07T09:33:12.613224+00:00"
   },
   {
    "title": "Soupçons de financement libyen : tout comprendre à l'affaire 29 contenus",
@@ -128,6 +144,22 @@
    "link": "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/tout-comprendre-au-proces-des-assistants-parlementaires-fn/",
    "summary": "Tout comprendre au procès des assistants parlementaires FN",
    "image": "https://www.franceinfo.fr/pictures/iHJ4ZCCHTABB8-X6GO7CrL-9zcI/432x297/filters:format(jpg)/2026/01/28/marine-le-pen-a-son-proces-en-appel-697a50d594f91234092099.jpg",
+   "date": null,
+   "pubdate": "2026-09-07T09:33:12.613224+00:00"
+  },
+  {
+   "title": "Le gouvernement envisage des prélèvements sur l'épargne salariale pour financer le budget 2027 de la Sécurité sociale, selon le ministre de l'Economie D'après le quotidien \"Les Echos\", l'exécutif étudie la possibilité de soumettre à cotisations une partie des primes d'intéressement, participation ou abondements des employeurs aux plans d'épargne.",
+   "link": "https://www.franceinfo.fr/economie/le-gouvernement-etudie-la-piste-l-instauration-de-prelevements-sur-l-epargne-salariale-pour-financer-le-budget-2027-selon-le-ministre-de-l-economie_8180675.html",
+   "summary": "Le gouvernement envisage des prélèvements sur l'épargne salariale pour financer le budget 2027 de la Sécurité sociale, selon le ministre de l'Economie",
+   "image": "https://www.franceinfo.fr/pictures/TQwHU8ww0ARTBPhaOZrytFzyR7M/0x0:1024x576/432x243/filters:format(jpg)/2026/09/07/6a9e7c09ee253197907029.jpg",
+   "date": null,
+   "pubdate": "2026-09-07T09:33:12.613224+00:00"
+  },
+  {
+   "title": ": Vrai ou faux 2:04 audio 2 minutes 4 L'Union européenne se prépare-t-elle à annuler l'élection présidentielle française ? Des internautes affirment que l'Union européenne se prépare à annuler l'élection présidentielle de 2027, en prétextant lutter contre les ingérences étrangères. C'est faux.",
+   "link": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/vrai-ou-faux-l-union-europeenne-se-prepare-t-elle-a-annuler-l-election-presidentielle-francaise_8158988.html",
+   "summary": "L'Union européenne se prépare-t-elle à annuler l'élection présidentielle française ?",
+   "image": "https://www.franceinfo.fr/pictures/nNZamsqvLSquyqneUO741Ov9YtA/0x53:1024x629/432x243/filters:format(jpg)/2026/09/07/6a9e752a8696a961884155.jpg",
    "date": null,
    "pubdate": "2026-09-07T09:33:12.613224+00:00"
   },
@@ -228,30 +260,6 @@
    "pubdate": "2026-09-06T18:30:23.121861+00:00"
   },
   {
-   "title": "\"Une insulte à la mémoire de ce village martyr\" : Olivier Faure critiqué après avoir comparé Le Porge, ravagé par les flammes, à Oradour-sur-Glane Le premier secrétaire du Parti socialiste a osé une comparaison vendredi sur ICI Gironde, au lendemain de sa visite au Porge (Gironde), où 183 maisons ont été détruites lors d'un incendie cet été.",
-   "link": "https://www.franceinfo.fr/politique/ps/une-insulte-a-la-memoire-de-ce-village-martyr-olivier-faure-critique-apres-avoir-compare-le-porge-detruit-par-les-flammes-a-oradour-sur-glane_8179841.html",
-   "summary": "\"Une insulte à la mémoire de ce village martyr\" : Olivier Faure critiqué après avoir comparé Le Porge, ravagé par les flammes, à Oradour-sur-Glane",
-   "image": "https://www.franceinfo.fr/pictures/12tpO40uMqyNEUwtLNRK7zrVGvs/0x87:1024x663/432x243/filters:format(jpg)/2026/09/06/6a9d8a85c9787096399622.jpg",
-   "date": null,
-   "pubdate": "2026-09-06T18:30:23.121861+00:00"
-  },
-  {
-   "title": "L'accord symbolique signé au Royaume-Uni par Jordan Bardella sur l'immigration est \"courageux\" et \"cohérent\", défend Jean-Philippe Tanguy Cet accord, signé vendredi entre le Britannique Nigel Farage et Jordan Bardella, prévoit un renvoi des migrants des eaux britanniques vers la France.",
-   "link": "https://www.franceinfo.fr/societe/immigration/immigration-l-accord-symbolique-signe-au-royaume-uni-par-jordan-bardella-est-courageux-et-coherent-defend-jean-philippe-tanguy_8179817.html",
-   "summary": "L'accord symbolique signé au Royaume-Uni par Jordan Bardella sur l'immigration est \"courageux\" et \"cohérent\", défend Jean-Philippe Tanguy",
-   "image": "https://www.franceinfo.fr/pictures/AtVgxWecX_nyT2rCgb19p5oFi18/0x238:4578x2813/432x243/filters:format(jpg)/2026/09/06/6a9d6ae598b5f431408119.jpg",
-   "date": null,
-   "pubdate": "2026-09-06T15:28:07.927341+00:00"
-  },
-  {
-   "title": "On vous résume la passe d'armes entre Jordan Bardella et ses adversaires après la signature d'un accord sur l'immigration avec Nigel Farage Le président du RN a signé un texte avec le chef du parti Reform UK prévoyant, en cas d'arrivée au pouvoir, le renvoi vers la France de migrants interpellés dans les eaux britanniques.",
-   "link": "https://www.franceinfo.fr/politique/front-national/on-vous-resume-la-passe-d-armes-entre-jordan-bardella-et-ses-adversaires-apres-la-signature-d-un-accord-sur-l-immigration-avec-nigel-farage_8179508.html",
-   "summary": "On vous résume la passe d'armes entre Jordan Bardella et ses adversaires après la signature d'un accord sur l'immigration avec Nigel Farage",
-   "image": "https://www.franceinfo.fr/pictures/aS_j53W75A1Jo49HKVaSY_V9WuU/0x0:1024x576/432x243/filters:format(jpg)/2026/09/06/6a9d33b269f2b938993489.jpg",
-   "date": null,
-   "pubdate": "2026-09-06T12:33:40.751077+00:00"
-  },
-  {
    "title": ": Reportage 4:57 audio 4 minutes 57 : Reportage \"C'est le sauveur\", Ulrich Siegmund \"l’homme le plus dangereux d’Allemagne\", selon \"Der Spiegel\", aux portes d'une victoire historique",
    "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-c-est-le-sauveur-en-saxe-anhalt-ulrich-siegmund-l-homme-le-plus-dangereux-d-allemagne-selon-der-spiegel-aux-portes-du-pouvoir_8147219.html",
    "summary": "\"C'est le sauveur\", Ulrich Siegmund \"l’homme le plus dangereux d’Allemagne\", selon \"Der Spiegel\", aux portes d'une victoire historique",
@@ -266,14 +274,6 @@
    "image": "https://www.franceinfo.fr/pictures/vFjOa3n5rZf7oOh8hNmg_76YnpQ/720x0:3568x2848/100x100/filters:format(jpg)/2026/09/01/6a965ae37d0eb915432123.jpg",
    "date": null,
    "pubdate": "2026-09-05T21:27:09.701273+00:00"
-  },
-  {
-   "title": ": Reportage 4:58 audio 4 minutes 58 : Reportage À Atlanta, les républicains anticipent la défaite aux \"Midterms\" et \"la fin de l'ère Trump\", les démocrates rêvent de revanche",
-   "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-a-atlanta-les-republicains-craignent-la-fin-de-l-ere-trump-a-l-approche-des-elections-de-mi-mandat-les-democrates-revent-de-revanche_8145842.html",
-   "summary": "À Atlanta, les républicains anticipent la défaite aux \"Midterms\" et \"la fin de l'ère Trump\", les démocrates rêvent de revanche",
-   "image": "https://www.franceinfo.fr/pictures/ThZEHM_mXqdURdVGiap0tEo05iw/270x0:1169x899/100x100/filters:format(jpg)/2026/09/02/6a9887d380725266921772.jpg",
-   "date": null,
-   "pubdate": "2026-09-04T21:28:44.437560+00:00"
   }
  ]
 }

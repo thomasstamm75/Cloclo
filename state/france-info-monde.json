@@ -1,15 +1,8 @@
 {
- "etag": "\"5aeb967480d25b16356b2cddfa0add84-gzip\"",
+ "etag": "\"f72f6721639e2fb1e56b089878763515-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-c-est-le-sauveur-en-saxe-anhalt-ulrich-siegmund-l-homme-le-plus-dangereux-d-allemagne-selon-der-spiegel-aux-portes-du-pouvoir_8147219.html": "2026-09-06T12:33:43.560749+00:00",
-  "https://www.franceinfo.fr/monde/usa/un-avion-cargo-d-amazon-sort-de-piste-a-miami-et-percute-des-vehicules_8180126.html": "2026-09-06T21:27:11.819503+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/ukraine-des-representants-de-la-france-de-l-allemagne-et-du-royaume-uni-ont-participe-aux-pourparlers-entre-volodymyr-zelensky-et-les-emissaires-americains_8180102.html": "2026-09-06T21:27:11.819503+00:00",
-  "https://www.franceinfo.fr/monde/europe/allemagne/face-a-la-victoire-de-l-afd-en-saxe-anhalt-la-gauche-et-le-centre-francais-expriment-leurs-inquietudes-silence-du-rn_8180453.html": "2026-09-07T06:39:40.572891+00:00",
-  "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/chapelets-t-shirts-bracelets-l-eglise-s-organise-pour-financer-la-venue-de-leon-xiv-en-france_8178830.html": "2026-09-07T06:39:40.572891+00:00",
-  "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/comment-l-afd-a-conquis-la-saxe-anhalt-en-jouant-sur-la-nostalgie-de-l-ex-rda_8158964.html": "2026-09-07T06:39:40.572891+00:00",
-  "https://www.franceinfo.fr/monde/europe/allemagne/pourquoi-la-victoire-de-l-afd-lors-des-elections-en-saxe-anhalt-est-un-seisme-politique-en-allemagne_8176916.html": "2026-09-07T06:39:40.572891+00:00",
-  "https://www.franceinfo.fr/replay-radio/le-monde-d-elodie/claude-guibal-raconte-ses-annees-a-couvrir-les-conflits-vous-ne-savez-pas-qui-vous-etes-avant-de-traverser-une-guerre-ou-une-crise_8158982.html": "2026-09-07T06:39:40.572891+00:00",
   "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/l-iran-met-en-garde-la-coree-du-sud-contre-toute-implication-dans-le-detroit-d-ormuz_8180645.html": "2026-09-07T09:33:15.134909+00:00",
   "https://www.franceinfo.fr/societe/immigration/au-royaume-uni-une-manifestation-anti-migrants-a-portsmouth-apres-l-arrivee-d-une-embarcation_8180585.html": "2026-09-07T09:33:15.134909+00:00",
   "https://www.franceinfo.fr/monde/proche-orient/yemen/au-yemen-plus-de-300-combattants-morts-dans-les-affrontements-entre-rebelles-et-forces-gouvernementales-de-nombreuses-familles-deplacees_8180486.html": "2026-09-07T09:33:15.134909+00:00",
@@ -23,89 +16,96 @@
   "https://www.franceinfo.fr/monde/russie/en-plein-rapprochement-la-russie-et-la-coree-du-nord-inaugurent-leur-premiere-liaison-routiere_8181008.html": "2026-09-07T12:37:45.783605+00:00",
   "https://www.franceinfo.fr/monde/europe/allemagne/friedrich-merz-se-dit-profondement-choque-par-la-victoire-du-parti-d-extreme-droite-allemand-afd-en-saxe-anhalt_8180966.html": "2026-09-07T12:37:45.783605+00:00",
   "https://www.franceinfo.fr/monde/europe/allemagne/victoire-de-l-afd-en-saxe-anhalt-en-allemagne-le-cordon-sanitaire-contre-l-extreme-droite-a-saute-constate-un-specialiste-de-l-europe_8180576.html": "2026-09-07T12:37:45.783605+00:00",
-  "https://www.franceinfo.fr/monde/europe/allemagne/large-victoire-de-l-extreme-droite-en-allemagne_8180954.html": "2026-09-07T12:37:45.783605+00:00",
-  "https://www.franceinfo.fr/monde/inde/6-morts-apres-l-effondrement-d-un-immeuble-a-new-delhi_8180936.html": "2026-09-07T12:37:45.783605+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/apres-les-pourparlers-avec-les-emissaires-americains-le-kremlin-dit-ne-pas-exclure-une-reprise-des-negociations-entre-moscou-kiev-et-washington_8180915.html": "2026-09-07T12:37:45.783605+00:00",
   "https://www.franceinfo.fr/internet/intelligence-artificielle/l-intelligence-artificielle-avancee-pourrait-poser-un-risque-existentiel-pour-l-humanite-estime-un-responsable-de-l-onu_8180747.html": "2026-09-07T12:37:45.783605+00:00",
   "https://www.franceinfo.fr/monde/europe/allemagne/apres-sa-victoire-electorale-le-parti-d-extreme-droite-allemande-afd-affirme-avoir-lance-des-discussions-pour-un-gouvernement-regional-en-saxe-anhalt_8180813.html": "2026-09-07T12:37:45.783605+00:00",
   "https://www.franceinfo.fr/culture/cinema/la-coree-du-sud-copreside-le-sommet-lumiere-sept-choses-a-savoir-sur-son-cinema-qui-a-conquis-l-occident_8176907.html": "2026-09-07T12:37:45.783605+00:00",
   "https://www.franceinfo.fr/monde/europe/allemagne/il-y-a-une-extrapolation-du-declin-economique-comment-l-extreme-droite-allemande-est-arrivee-aux-portes-du-pouvoir-en-saxe-anhalt_8175638.html": "2026-09-07T12:37:45.783605+00:00",
   "https://www.franceinfo.fr/monde/usa/affaire-jeffrey-epstein/l-essentiel-des-revelations-sur-l-affaire-epstein/": "2026-09-07T12:37:45.783605+00:00",
-  "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-a-atlanta-les-republicains-craignent-la-fin-de-l-ere-trump-a-l-approche-des-elections-de-mi-mandat-les-democrates-revent-de-revanche_8145842.html": "2026-09-07T12:37:45.783605+00:00"
+  "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-a-atlanta-les-republicains-craignent-la-fin-de-l-ere-trump-a-l-approche-des-elections-de-mi-mandat-les-democrates-revent-de-revanche_8145842.html": "2026-09-07T12:37:45.783605+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/nous-ne-partons-pas-de-l-hypothese-d-une-panne-technique-mais-d-un-acte-volontaire-ce-que-l-on-sait-des-incidents-signales-sur-le-reseau-electrique-allemand_8180690.html": "2026-09-07T15:31:06.057843+00:00",
+  "https://www.franceinfo.fr/monde/le-soldat-de-la-legion-etrangere-francaise-enleve-en-colombie-a-echappe-a-ses-ravisseurs-et-est-en-securite_8181338.html": "2026-09-07T15:31:06.057843+00:00",
+  "https://www.franceinfo.fr/monde/europe/plusieurs-milliers-de-personnes-ont-assiste-a-belgrade-aux-obseques-de-ratko-mladic-surnomme-le-boucher-des-balkans_8181200.html": "2026-09-07T15:31:06.057843+00:00",
+  "https://www.franceinfo.fr/monde/voici-la-nouvelle-carte-du-monde_8181218.html": "2026-09-07T15:31:06.057843+00:00",
+  "https://www.franceinfo.fr/monde/usa/cinq-morts-cinq-blesses-un-avion-encastre-dans-des-voitures-que-s-est-il-passe-dans-un-aeroport-de-miami-en-floride_8181188.html": "2026-09-07T15:31:06.057843+00:00",
+  "https://www.franceinfo.fr/replay-jt/france-2/13-heures/l-afd-aux-portes-du-pouvoir-l-extreme-droite-signe-une-victoire-historique-en-saxe-anhalt-en-allemagne_8181095.html": "2026-09-07T15:31:06.057843+00:00",
+  "https://www.franceinfo.fr/monde/europe/et-si-l-union-europeenne-finissait-par-fermer-la-porte-aux-touristes-russes_8181023.html": "2026-09-07T15:31:06.057843+00:00",
+  "https://www.franceinfo.fr/politique/la-victoire-de-l-afd-en-allemagne-est-une-alerte-extremement-grave-selon-manuel-bompard-coordinateur-de-la-france-insoumise_8181038.html": "2026-09-07T15:31:06.057843+00:00",
+  "https://www.franceinfo.fr/monde/royaume-uni/un-homme-se-jette-par-la-fenetre-pour-echapper-a-ses-ravisseurs_8180987.html": "2026-09-07T15:31:06.057843+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "En plein rapprochement, la Russie et la Corée du Nord inaugurent leur première liaison routière Construit en un an et demi, ce pont s'étend sur un kilomètre. Les deux pays étaient pour l'heure reliés par des liaisons aériennes et ferroviaires.",
-   "link": "https://www.franceinfo.fr/monde/russie/en-plein-rapprochement-la-russie-et-la-coree-du-nord-inaugurent-leur-premiere-liaison-routiere_8181008.html",
-   "summary": "En plein rapprochement, la Russie et la Corée du Nord inaugurent leur première liaison routière",
-   "image": "https://www.franceinfo.fr/assets/common/images/logos/placeholder-4e7f49f2.png",
+   "title": "\"Nous ne partons pas de l'hypothèse d'une panne technique mais d'un acte volontaire\" : ce que l'on sait des incidents signalés sur le réseau électrique allemand La police allemande recherche activement un homme de 48 ans, qui a revendiqué ces actes dans un courrier.",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/nous-ne-partons-pas-de-l-hypothese-d-une-panne-technique-mais-d-un-acte-volontaire-ce-que-l-on-sait-des-incidents-signales-sur-le-reseau-electrique-allemand_8180690.html",
+   "summary": "\"Nous ne partons pas de l'hypothèse d'une panne technique mais d'un acte volontaire\" : ce que l'on sait des incidents signalés sur le réseau électrique allemand",
+   "image": "https://www.franceinfo.fr/pictures/Te_8VuI4ElrTsPQo5-hLiwVpaQw/43x0:2844x1926/432x297/filters:format(jpg)/2026/09/07/6a9e982220cfc039424666.jpg",
    "date": null,
-   "pubdate": "2026-09-07T12:37:45.783605+00:00"
+   "pubdate": "2026-09-07T15:31:06.057843+00:00"
   },
   {
-   "title": "Le chancelier Friedrich Merz se dit \"profondément choqué\" par la victoire du parti d'extrême droite allemand AfD en Saxe-Anhalt",
-   "link": "https://www.franceinfo.fr/monde/europe/allemagne/friedrich-merz-se-dit-profondement-choque-par-la-victoire-du-parti-d-extreme-droite-allemand-afd-en-saxe-anhalt_8180966.html",
+   "title": "Le soldat de la Légion étrangère française enlevé il y a un mois en Colombie a échappé à ses ravisseurs et se trouve \"en sécurité\"",
+   "link": "https://www.franceinfo.fr/monde/le-soldat-de-la-legion-etrangere-francaise-enleve-en-colombie-a-echappe-a-ses-ravisseurs-et-est-en-securite_8181338.html",
    "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/pmWfyA1mxqufwV-3mqD6lHpsNBw/0x77:1024x653/432x243/filters:format(jpg)/2026/09/07/6a9ea2bfa3b55705753991.jpg",
+   "image": "https://www.franceinfo.fr/pictures/PuLiTGKOt9g00FZCmfSssPvSqdA/0x520:5000x3333/432x243/filters:format(jpg)/2026/08/31/6a95068dabc79581257040.jpg",
    "date": null,
-   "pubdate": "2026-09-07T12:37:45.783605+00:00"
+   "pubdate": "2026-09-07T15:31:06.057843+00:00"
   },
   {
-   "title": "6:17 audio 6 minutes 17 Victoire de l'AfD en Saxe-Anhalt : en Allemagne, \"le cordon sanitaire contre l'extrême droite a sauté\", constate un spécialiste de l'Europe",
-   "link": "https://www.franceinfo.fr/monde/europe/allemagne/victoire-de-l-afd-en-saxe-anhalt-en-allemagne-le-cordon-sanitaire-contre-l-extreme-droite-a-saute-constate-un-specialiste-de-l-europe_8180576.html",
-   "summary": "Victoire de l'AfD en Saxe-Anhalt : en Allemagne, \"le cordon sanitaire contre l'extrême droite a sauté\", constate un spécialiste de l'Europe",
-   "image": "https://www.franceinfo.fr/pictures/_mzzYPYF3HtllmGwABJe6Qmzvjw/0x136:6000x3511/432x243/filters:format(jpg)/2026/09/07/6a9e9b92995f0981621434.jpg",
-   "date": null,
-   "pubdate": "2026-09-07T12:37:45.783605+00:00"
-  },
-  {
-   "title": "1:18 vidéo 1 minute 18 Large victoire de l'extrême droite en Allemagne",
-   "link": "https://www.franceinfo.fr/monde/europe/allemagne/large-victoire-de-l-extreme-droite-en-allemagne_8180954.html",
-   "summary": "Large victoire de l'extrême droite en Allemagne",
-   "image": "https://www.franceinfo.fr/pictures/-nFvgZd7Q30L3TswmM3XLvAejeM/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/07/6a9e9e664fe84014009142.jpg",
-   "date": null,
-   "pubdate": "2026-09-07T12:37:45.783605+00:00"
-  },
-  {
-   "title": "0:28 vidéo 28 secondes 6 morts après l'effondrement d'un immeuble à New Delhi",
-   "link": "https://www.franceinfo.fr/monde/inde/6-morts-apres-l-effondrement-d-un-immeuble-a-new-delhi_8180936.html",
-   "summary": "6 morts après l'effondrement d'un immeuble à New Delhi",
-   "image": "https://www.franceinfo.fr/pictures/C1p0iePXqHwyya1n_u_iTuaFGtg/2233x0:4913x4765/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/07/6a9e9a31bc6a3663175041.jpg",
-   "date": null,
-   "pubdate": "2026-09-07T12:37:45.783605+00:00"
-  },
-  {
-   "title": "Après les pourparlers avec les émissaires américains, le Kremlin dit \"ne pas exclure\" une reprise des négociations entre Moscou, Kiev et Washington",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/apres-les-pourparlers-avec-les-emissaires-americains-le-kremlin-dit-ne-pas-exclure-une-reprise-des-negociations-entre-moscou-kiev-et-washington_8180915.html",
+   "title": "Mort de Ratko Mladic : plusieurs milliers de personnes ont assisté aux obsèques du \"boucher des Balkans\" à Belgrade",
+   "link": "https://www.franceinfo.fr/monde/europe/plusieurs-milliers-de-personnes-ont-assiste-a-belgrade-aux-obseques-de-ratko-mladic-surnomme-le-boucher-des-balkans_8181200.html",
    "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/AseR9zCkLFHaNVF3Fz_12ihvbhA/0x53:1024x629/432x243/filters:format(jpg)/2026/09/07/6a9e9534987db063815850.jpg",
+   "image": "https://www.franceinfo.fr/pictures/4t7ofahQSW2vKaDr6fNUf8chdYo/0x53:1024x629/432x243/filters:format(jpg)/2026/09/07/6a9ebf8f0d261406963174.jpg",
    "date": null,
-   "pubdate": "2026-09-07T12:37:45.783605+00:00"
+   "pubdate": "2026-09-07T15:31:06.057843+00:00"
   },
   {
-   "title": "L'intelligence artificielle avancée pourrait poser un \"risque existentiel pour l'humanité\", estime un haut responsable de l'ONU",
-   "link": "https://www.franceinfo.fr/internet/intelligence-artificielle/l-intelligence-artificielle-avancee-pourrait-poser-un-risque-existentiel-pour-l-humanite-estime-un-responsable-de-l-onu_8180747.html",
+   "title": "1:19 vidéo 1 minute 19 Voici la nouvelle carte du monde",
+   "link": "https://www.franceinfo.fr/monde/voici-la-nouvelle-carte-du-monde_8181218.html",
    "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/Mr_q6f2eHR38RtkYb6gKP09fwSs/0x53:1024x629/432x243/filters:format(jpg)/2026/09/07/6a9e831d9d6d3835735184.jpg",
+   "image": "https://www.franceinfo.fr/pictures/dQ_EHjoSrFTca1p--hWajS5Pz7c/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/07/6a9ec103e73c7601497802.jpg",
    "date": null,
-   "pubdate": "2026-09-07T12:37:45.783605+00:00"
+   "pubdate": "2026-09-07T15:31:06.057843+00:00"
   },
   {
-   "title": "Après sa victoire électorale en Saxe-Anhalt, le parti d'extrême droite allemand AfD affirme avoir lancé des discussions pour un gouvernement régional",
-   "link": "https://www.franceinfo.fr/monde/europe/allemagne/apres-sa-victoire-electorale-le-parti-d-extreme-droite-allemande-afd-affirme-avoir-lance-des-discussions-pour-un-gouvernement-regional-en-saxe-anhalt_8180813.html",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/qpZXCg3ALpwsL_UasrFxSV4a0Hk/0x0:1024x576/432x243/filters:format(jpg)/2026/09/07/6a9e8a6084454522820545.jpg",
+   "title": "1:49 vidéo 1 minute 49 Cinq morts, cinq blessés, un avion encastré dans des voitures… Que s'est-il passé dans un aéroport de Miami en Floride ?",
+   "link": "https://www.franceinfo.fr/monde/usa/cinq-morts-cinq-blesses-un-avion-encastre-dans-des-voitures-que-s-est-il-passe-dans-un-aeroport-de-miami-en-floride_8181188.html",
+   "summary": "Cinq morts, cinq blessés, un avion encastré dans des voitures… Que s'est-il passé dans un aéroport de Miami en Floride ?",
+   "image": "https://www.franceinfo.fr/pictures/faDqdhL8grdBUtEUwKPDoWjeme0/30x0:1042x569/432x243/filters:format(jpg)/2026/09/07/6a9ebf21b929f092040958.jpg",
    "date": null,
-   "pubdate": "2026-09-07T12:37:45.783605+00:00"
+   "pubdate": "2026-09-07T15:31:06.057843+00:00"
   },
   {
-   "title": "La Corée du Sud copréside le Sommet Lumière : sept choses à savoir sur son cinéma qui a conquis l'Occident",
-   "link": "https://www.franceinfo.fr/culture/cinema/la-coree-du-sud-copreside-le-sommet-lumiere-sept-choses-a-savoir-sur-son-cinema-qui-a-conquis-l-occident_8176907.html",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/YJwaIUi1Ytpkgqb09OrgKYCVG4I/0x40:1024x616/432x243/filters:format(jpg)/2026/09/04/6a9a9c51a03c7672283284.jpg",
+   "title": "1:56 vidéo 1 minute 56 L'AfD aux portes du pouvoir : l'extrême droite signe une victoire historique en Saxe-Anhalt, en Allemagne",
+   "link": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/l-afd-aux-portes-du-pouvoir-l-extreme-droite-signe-une-victoire-historique-en-saxe-anhalt-en-allemagne_8181095.html",
+   "summary": "L'AfD aux portes du pouvoir : l'extrême droite signe une victoire historique en Saxe-Anhalt, en Allemagne",
+   "image": "https://www.franceinfo.fr/pictures/LGyuD_6ZLHJh0z4eU33f7zNZgG0/0x0:1920x1080/432x243/filters:format(jpg)/2026/09/07/6a9ebd83b31ad588925471.jpg",
    "date": null,
-   "pubdate": "2026-09-07T12:37:45.783605+00:00"
+   "pubdate": "2026-09-07T15:31:06.057843+00:00"
+  },
+  {
+   "title": "Et si l'Union européenne finissait par fermer la porte aux touristes russes ?",
+   "link": "https://www.franceinfo.fr/monde/europe/et-si-l-union-europeenne-finissait-par-fermer-la-porte-aux-touristes-russes_8181023.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/VDRUR4QTOE4PFGgNz4Sib1-NNkc/0x0:6378x3587/432x243/filters:format(jpg)/2026/09/07/6a9eb359c579d524189845.jpg",
+   "date": null,
+   "pubdate": "2026-09-07T15:31:06.057843+00:00"
+  },
+  {
+   "title": "1:20 vidéo 1 minute 20 La victoire de l’AfD en Allemagne est \"une alerte extrêmement grave\" selon Manuel Bompard, coordinateur de La France insoumise",
+   "link": "https://www.franceinfo.fr/politique/la-victoire-de-l-afd-en-allemagne-est-une-alerte-extremement-grave-selon-manuel-bompard-coordinateur-de-la-france-insoumise_8181038.html",
+   "summary": "La victoire de l’AfD en Allemagne est \"une alerte extrêmement grave\" selon Manuel Bompard, coordinateur de La France insoumise",
+   "image": "https://www.franceinfo.fr/pictures/0tz5WGS_4ZvwWBOh_nrOkAMP28E/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/07/6a9eb21688e35424438845.png",
+   "date": null,
+   "pubdate": "2026-09-07T15:31:06.057843+00:00"
+  },
+  {
+   "title": "0:48 vidéo 48 secondes Un homme se jette par la fenêtre pour échapper à ses ravisseurs",
+   "link": "https://www.franceinfo.fr/monde/royaume-uni/un-homme-se-jette-par-la-fenetre-pour-echapper-a-ses-ravisseurs_8180987.html",
+   "summary": "Un homme se jette par la fenêtre pour échapper à ses ravisseurs",
+   "image": "https://www.franceinfo.fr/pictures/kQOvsxkE0o2oJBrom3XkER9bveM/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/07/6a9eaa0cd1c2d766246008.png",
+   "date": null,
+   "pubdate": "2026-09-07T15:31:06.057843+00:00"
   },
   {
    "title": "7:00 article 7 minutes \"Il y a une extrapolation du déclin économique\" : comment l'extrême droite allemande est arrivée aux portes du pouvoir en Saxe-Anhalt",
@@ -132,20 +132,60 @@
    "pubdate": "2026-09-07T12:37:45.783605+00:00"
   },
   {
-   "title": "29:26 audio 29 minutes 26 Claude Guibal raconte ses années à couvrir les conflits : \"Vous ne savez pas qui vous êtes avant de traverser une guerre ou une crise\" Tous les jours, une personnalité s'invite dans le monde d'Élodie Suigo. Lundi 7 septembre 2026, la journaliste et reporter de guerre Claude Guibal. Elle publie, \"Ce que la guerre fait aux hommes\", aux éditions Albin Michel, en partenariat avec Radio France.",
-   "link": "https://www.franceinfo.fr/replay-radio/le-monde-d-elodie/claude-guibal-raconte-ses-annees-a-couvrir-les-conflits-vous-ne-savez-pas-qui-vous-etes-avant-de-traverser-une-guerre-ou-une-crise_8158982.html",
-   "summary": "Claude Guibal raconte ses années à couvrir les conflits : \"Vous ne savez pas qui vous êtes avant de traverser une guerre ou une crise\"",
-   "image": "https://www.franceinfo.fr/pictures/k7rcdWHPMQPG7S5LqRmPEld20g4/0x0:1200x675/432x243/filters:format(jpg)/2026/08/28/6a91566128fe4392639987.jpg",
-   "date": "2026-09-07T11:00:00+00:00",
-   "pubdate": "2026-09-07T11:00:00+00:00"
+   "title": "La première route entre la Russie et la Corée du Nord, un pont d'un kilomètre de long, a été inaugurée L'édifice, construit en un an et demi, \"symbolise l'aspiration à renforcer les relations amicales et de bon voisinage\" entre les deux pays, qui étaient pour l'heure reliés par des liaisons aériennes et ferroviaires.",
+   "link": "https://www.franceinfo.fr/monde/russie/en-plein-rapprochement-la-russie-et-la-coree-du-nord-inaugurent-leur-premiere-liaison-routiere_8181008.html",
+   "summary": "La première route entre la Russie et la Corée du Nord, un pont d'un kilomètre de long, a été inaugurée",
+   "image": "https://www.franceinfo.fr/pictures/RCy7mTq7CqTQmuWhibiuselZkFY/0x53:1024x629/432x243/filters:format(jpg)/2026/09/07/6a9eaf953c209609520611.jpg",
+   "date": null,
+   "pubdate": "2026-09-07T12:37:45.783605+00:00"
   },
   {
-   "title": "L'Iran met en garde la Corée du Sud contre toute implication dans le détroit d'Ormuz",
-   "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/l-iran-met-en-garde-la-coree-du-sud-contre-toute-implication-dans-le-detroit-d-ormuz_8180645.html",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/cod6A2NNtTk-R-atgAfrlyZ71X0/0x53:1024x629/432x243/filters:format(jpg)/2026/09/07/6a9e7805e3749727293079.jpg",
+   "title": "Le chancelier Friedrich Merz se dit \"profondément choqué\" par la victoire du parti d'extrême droite allemand AfD en Saxe-Anhalt Le dirigeant allemand a pris la parole lundi midi, au lendemain de la victoire électorale régionale de l'extrême droite.",
+   "link": "https://www.franceinfo.fr/monde/europe/allemagne/friedrich-merz-se-dit-profondement-choque-par-la-victoire-du-parti-d-extreme-droite-allemand-afd-en-saxe-anhalt_8180966.html",
+   "summary": "Le chancelier Friedrich Merz se dit \"profondément choqué\" par la victoire du parti d'extrême droite allemand AfD en Saxe-Anhalt",
+   "image": "https://www.franceinfo.fr/pictures/pmWfyA1mxqufwV-3mqD6lHpsNBw/0x77:1024x653/432x243/filters:format(jpg)/2026/09/07/6a9ea2bfa3b55705753991.jpg",
    "date": null,
-   "pubdate": "2026-09-07T09:33:15.134909+00:00"
+   "pubdate": "2026-09-07T12:37:45.783605+00:00"
+  },
+  {
+   "title": "6:17 audio 6 minutes 17 Victoire de l'AfD en Saxe-Anhalt : en Allemagne, \"le cordon sanitaire contre l'extrême droite a sauté\", constate un spécialiste de l'Europe Avec 44% des voix, l'AfD sort très largement victorieuse des élections régionales qui se sont tenues dimanche en Saxe-Anhalt. C'est la première fois depuis 1945 qu'un parti d'extrême droite est en position favorable pour diriger une région allemande.",
+   "link": "https://www.franceinfo.fr/monde/europe/allemagne/victoire-de-l-afd-en-saxe-anhalt-en-allemagne-le-cordon-sanitaire-contre-l-extreme-droite-a-saute-constate-un-specialiste-de-l-europe_8180576.html",
+   "summary": "Victoire de l'AfD en Saxe-Anhalt : en Allemagne, \"le cordon sanitaire contre l'extrême droite a sauté\", constate un spécialiste de l'Europe",
+   "image": "https://www.franceinfo.fr/pictures/_mzzYPYF3HtllmGwABJe6Qmzvjw/0x136:6000x3511/432x243/filters:format(jpg)/2026/09/07/6a9e9b92995f0981621434.jpg",
+   "date": null,
+   "pubdate": "2026-09-07T12:37:45.783605+00:00"
+  },
+  {
+   "title": "Après les pourparlers avec les émissaires américains, le Kremlin dit \"ne pas exclure\" une reprise des négociations entre Moscou, Kiev et Washington Le porte-parole de la présidence russe, Dmitri Peskov, précise qu'il est \"encore trop tôt pour parler du lieu et des dates précises\".",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/apres-les-pourparlers-avec-les-emissaires-americains-le-kremlin-dit-ne-pas-exclure-une-reprise-des-negociations-entre-moscou-kiev-et-washington_8180915.html",
+   "summary": "Après les pourparlers avec les émissaires américains, le Kremlin dit \"ne pas exclure\" une reprise des négociations entre Moscou, Kiev et Washington",
+   "image": "https://www.franceinfo.fr/pictures/AseR9zCkLFHaNVF3Fz_12ihvbhA/0x53:1024x629/432x243/filters:format(jpg)/2026/09/07/6a9e9534987db063815850.jpg",
+   "date": null,
+   "pubdate": "2026-09-07T12:37:45.783605+00:00"
+  },
+  {
+   "title": "L'intelligence artificielle avancée pourrait poser un \"risque existentiel pour l'humanité\", estime un haut responsable de l'ONU \"Nous avons besoin que les pays qui hébergent l'IA et ceux qui participent à leurs chaînes d'approvisionnement s'accordent sur des lignes rouges communes\", a martelé le haut-commissaire de l'ONU aux droits de l'homme, Volker Türk.",
+   "link": "https://www.franceinfo.fr/internet/intelligence-artificielle/l-intelligence-artificielle-avancee-pourrait-poser-un-risque-existentiel-pour-l-humanite-estime-un-responsable-de-l-onu_8180747.html",
+   "summary": "L'intelligence artificielle avancée pourrait poser un \"risque existentiel pour l'humanité\", estime un haut responsable de l'ONU",
+   "image": "https://www.franceinfo.fr/pictures/Mr_q6f2eHR38RtkYb6gKP09fwSs/0x53:1024x629/432x243/filters:format(jpg)/2026/09/07/6a9e831d9d6d3835735184.jpg",
+   "date": null,
+   "pubdate": "2026-09-07T12:37:45.783605+00:00"
+  },
+  {
+   "title": "Après sa victoire électorale en Saxe-Anhalt, le parti d'extrême droite allemand AfD affirme avoir lancé des discussions pour un gouvernement régional Ce parti a remporté les élections dimanche dans une région de l'est de l'Allemagne, alors que jamais une région allemande n'avait été dirigée par l'extrême droite depuis 1945.",
+   "link": "https://www.franceinfo.fr/monde/europe/allemagne/apres-sa-victoire-electorale-le-parti-d-extreme-droite-allemande-afd-affirme-avoir-lance-des-discussions-pour-un-gouvernement-regional-en-saxe-anhalt_8180813.html",
+   "summary": "Après sa victoire électorale en Saxe-Anhalt, le parti d'extrême droite allemand AfD affirme avoir lancé des discussions pour un gouvernement régional",
+   "image": "https://www.franceinfo.fr/pictures/qpZXCg3ALpwsL_UasrFxSV4a0Hk/0x0:1024x576/432x243/filters:format(jpg)/2026/09/07/6a9e8a6084454522820545.jpg",
+   "date": null,
+   "pubdate": "2026-09-07T12:37:45.783605+00:00"
+  },
+  {
+   "title": "La Corée du Sud copréside le Sommet Lumière : sept choses à savoir sur son cinéma qui a conquis l'Occident Pour \"le premier sommet international\" consacré à l'avenir du cinéma et des images animées, la France s'est associée à un géant du 7e art en Asie, la Corée du Sud. Depuis un quart de siècle, sa production cinématographique s'impose également sur les écrans occidentaux.",
+   "link": "https://www.franceinfo.fr/culture/cinema/la-coree-du-sud-copreside-le-sommet-lumiere-sept-choses-a-savoir-sur-son-cinema-qui-a-conquis-l-occident_8176907.html",
+   "summary": "La Corée du Sud copréside le Sommet Lumière : sept choses à savoir sur son cinéma qui a conquis l'Occident",
+   "image": "https://www.franceinfo.fr/pictures/YJwaIUi1Ytpkgqb09OrgKYCVG4I/0x40:1024x616/432x243/filters:format(jpg)/2026/09/04/6a9a9c51a03c7672283284.jpg",
+   "date": null,
+   "pubdate": "2026-09-07T12:37:45.783605+00:00"
   },
   {
    "title": "Tout comprendre à la guerre au Moyen-Orient 27 contenus",
@@ -176,6 +216,14 @@
    "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/je-ne-sais-pas-ce-qui-attend-nos-enfants-a-kiev-l-angoisse-de-la-rentree-sous-les-bombes-apres-un-ete-meurtrier_8144936.html",
    "summary": "\"Je ne sais pas ce qui attend nos enfants\" : à Kiev, l'angoisse de la rentrée sous les bombes après un été meurtrier",
    "image": "https://www.franceinfo.fr/pictures/07LcAYc2BL1tbPyni2IkoRuOcD4/1000x0:5000x4000/100x100/filters:format(jpg)/2026/08/31/6a950e984fe25063470033.jpg",
+   "date": null,
+   "pubdate": "2026-09-07T09:33:15.134909+00:00"
+  },
+  {
+   "title": "L'Iran met en garde la Corée du Sud contre toute implication dans le détroit d'Ormuz La présidence sud-coréenne a déclaré vendredi qu'elle envisageait de contribuer à la sécurisation de la navigation dans le détroit stratégique d'Ormuz.",
+   "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/l-iran-met-en-garde-la-coree-du-sud-contre-toute-implication-dans-le-detroit-d-ormuz_8180645.html",
+   "summary": "L'Iran met en garde la Corée du Sud contre toute implication dans le détroit d'Ormuz",
+   "image": "https://www.franceinfo.fr/pictures/cod6A2NNtTk-R-atgAfrlyZ71X0/0x53:1024x629/432x243/filters:format(jpg)/2026/09/07/6a9e7805e3749727293079.jpg",
    "date": null,
    "pubdate": "2026-09-07T09:33:15.134909+00:00"
   },
@@ -218,54 +266,6 @@
    "image": "https://www.franceinfo.fr/pictures/TMlmSC0yhINXTFqZty3D32kG4_w/0x0:1024x576/432x243/filters:format(jpg)/2026/09/07/6a9e6854c2ebb095330653.jpg",
    "date": null,
    "pubdate": "2026-09-07T09:33:15.134909+00:00"
-  },
-  {
-   "title": "Face à la victoire de l'AfD en Saxe-Anhalt, la gauche et le centre français expriment leurs inquiétudes, le RN reste silencieux Pour la première fois depuis la Seconde Guerre mondiale, un parti d'extrême droite a remporté des élections en Allemagne. Une victoire qui a fait réagir la gauche et le centre en France. Le Rassemblement national n'a pas réagi.",
-   "link": "https://www.franceinfo.fr/monde/europe/allemagne/face-a-la-victoire-de-l-afd-en-saxe-anhalt-la-gauche-et-le-centre-francais-expriment-leurs-inquietudes-silence-du-rn_8180453.html",
-   "summary": "Face à la victoire de l'AfD en Saxe-Anhalt, la gauche et le centre français expriment leurs inquiétudes, le RN reste silencieux",
-   "image": "https://www.franceinfo.fr/pictures/8tDkZnVmO8xoyIcgga-5QAGyU3k/0x0:1024x576/432x243/filters:format(jpg)/2026/09/07/6a9e515c801f9608003581.jpg",
-   "date": null,
-   "pubdate": "2026-09-07T06:39:40.572891+00:00"
-  },
-  {
-   "title": "Chapelets, t-shirts, bracelets… L'Eglise s'organise pour financer la venue de Léon XIV en France L'Eglise de France doit prendre en charge financièrement une large partie de la visite du pape Léon XIV en France, du 25 au 28 septembre. Elle fait donc appel aux dons et propose aussi des produits officiels à la vente.",
-   "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/chapelets-t-shirts-bracelets-l-eglise-s-organise-pour-financer-la-venue-de-leon-xiv-en-france_8178830.html",
-   "summary": "Chapelets, t-shirts, bracelets… L'Eglise s'organise pour financer la venue de Léon XIV en France",
-   "image": "https://www.franceinfo.fr/pictures/-Yw5xvP_5Q-oQGsxVn_gDWYb21I/0x375:4000x2625/432x243/filters:format(jpg)/2026/09/05/6a9c7bc5eae55883333620.jpg",
-   "date": null,
-   "pubdate": "2026-09-07T06:39:40.572891+00:00"
-  },
-  {
-   "title": "3:01 audio 3 minutes 1 Comment l’AfD a conquis la Saxe-Anhalt en jouant sur la nostalgie de l’ex-RDA Avec plus de 44% des voix dans la région de Saxe-Anhalt, l'AfD écrase ses adversaires et inflige un sérieux revers au chancelier allemand. Une victoire qui révèle aussi le paradoxe d'une extrême droite qui a su exploiter la nostalgie de l'ancienne Allemagne communiste.",
-   "link": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/comment-l-afd-a-conquis-la-saxe-anhalt-en-jouant-sur-la-nostalgie-de-l-ex-rda_8158964.html",
-   "summary": "Comment l’AfD a conquis la Saxe-Anhalt en jouant sur la nostalgie de l’ex-RDA",
-   "image": "https://www.franceinfo.fr/pictures/cP-OjLoJyPmhIMuvXXF-gd98dGM/0x171:4449x2674/432x243/filters:format(jpg)/2026/09/07/6a9e433156a59672161024.jpg",
-   "date": null,
-   "pubdate": "2026-09-07T06:39:40.572891+00:00"
-  },
-  {
-   "title": "Pourquoi la victoire de l'AfD lors des élections en Saxe-Anhalt est un séisme politique en Allemagne Le parti d'extrême droite, qui s'est radicalisé ces dernières années, a récolté près de 44% des voix dans le petit Land de l'est de l'Allemagne. De quoi inquiéter les autres formations politiques.",
-   "link": "https://www.franceinfo.fr/monde/europe/allemagne/pourquoi-la-victoire-de-l-afd-lors-des-elections-en-saxe-anhalt-est-un-seisme-politique-en-allemagne_8176916.html",
-   "summary": "Pourquoi la victoire de l'AfD lors des élections en Saxe-Anhalt est un séisme politique en Allemagne",
-   "image": "https://www.franceinfo.fr/pictures/4WAUhZhqelJAUO_vsEZuLlhMHy4/0x438:7060x4410/432x243/filters:format(jpg)/2026/09/06/6a9db38d738cd865376038.jpg",
-   "date": null,
-   "pubdate": "2026-09-07T06:39:40.572891+00:00"
-  },
-  {
-   "title": "La sortie de piste d'un avion-cargo d'Amazon à Miami fait cinq morts et cinq blessés Après être sorti en bout de piste au moment de son atterrissage, l'engin a percuté plusieurs véhicules sur une route voisine et a pris feu.",
-   "link": "https://www.franceinfo.fr/monde/usa/un-avion-cargo-d-amazon-sort-de-piste-a-miami-et-percute-des-vehicules_8180126.html",
-   "summary": "La sortie de piste d'un avion-cargo d'Amazon à Miami fait cinq morts et cinq blessés",
-   "image": "https://www.franceinfo.fr/pictures/aUoxfq7CzMvBfex7Ev1KjWUWLek/0x312:6000x3687/432x243/filters:format(jpg)/2026/09/06/6a9dc7acd5b5b153415504.jpg",
-   "date": null,
-   "pubdate": "2026-09-06T21:27:11.819503+00:00"
-  },
-  {
-   "title": "Ukraine : des représentants de la France, de l’Allemagne et du Royaume-Uni ont participé aux pourparlers entre Volodymyr Zelensky et les émissaires américains Les émissaires envoyés par Donald Trump à Moscou puis Kiev dimanche se sont félicités de discussions \"significatives\".",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/ukraine-des-representants-de-la-france-de-l-allemagne-et-du-royaume-uni-ont-participe-aux-pourparlers-entre-volodymyr-zelensky-et-les-emissaires-americains_8180102.html",
-   "summary": "Ukraine : des représentants de la France, de l’Allemagne et du Royaume-Uni ont participé aux pourparlers entre Volodymyr Zelensky et les émissaires américains",
-   "image": "https://www.franceinfo.fr/pictures/7r6n_O7gd-ddpI2LZ2iG3D-pzl4/0x135:2593x1593/432x243/filters:format(jpg)/2026/09/06/6a9db6fe196c2793828075.jpg",
-   "date": null,
-   "pubdate": "2026-09-06T21:27:11.819503+00:00"
   },
   {
    "title": ": Reportage 4:57 audio 4 minutes 57 : Reportage \"C'est le sauveur\", Ulrich Siegmund \"l’homme le plus dangereux d’Allemagne\", selon \"Der Spiegel\", aux portes d'une victoire historique",
