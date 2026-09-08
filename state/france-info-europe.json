@@ -1,19 +1,16 @@
 {
- "etag": "\"6e569aa7b6b4799737d1ac489f685aa8-gzip\"",
+ "etag": "\"a5c4ecb03cf9862192cf87dddbc0171f-gzip\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.franceinfo.fr/economie/emploi/metiers/restauration-hotellerie-sports-loisirs/on-a-des-balles-de-ping-pong-en-belgique-la-canicule-pese-sur-la-production-de-pommes-de-terre-et-raccourcit-les-frites_8180462.html": "2026-09-07T09:33:14.018487+00:00",
   "https://www.franceinfo.fr/monde/europe/allemagne/friedrich-merz-se-dit-profondement-choque-par-la-victoire-du-parti-d-extreme-droite-allemand-afd-en-saxe-anhalt_8180966.html": "2026-09-07T12:37:44.533030+00:00",
   "https://www.franceinfo.fr/monde/europe/allemagne/victoire-de-l-afd-en-saxe-anhalt-en-allemagne-le-cordon-sanitaire-contre-l-extreme-droite-a-saute-constate-un-specialiste-de-l-europe_8180576.html": "2026-09-07T12:37:44.533030+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/apres-les-pourparlers-avec-les-emissaires-americains-le-kremlin-dit-ne-pas-exclure-une-reprise-des-negociations-entre-moscou-kiev-et-washington_8180915.html": "2026-09-07T12:37:44.533030+00:00",
-  "https://www.franceinfo.fr/monde/europe/allemagne/apres-sa-victoire-electorale-le-parti-d-extreme-droite-allemande-afd-affirme-avoir-lance-des-discussions-pour-un-gouvernement-regional-en-saxe-anhalt_8180813.html": "2026-09-07T12:37:44.533030+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/nous-ne-partons-pas-de-l-hypothese-d-une-panne-technique-mais-d-un-acte-volontaire-ce-que-l-on-sait-des-incidents-signales-sur-le-reseau-electrique-allemand_8180690.html": "2026-09-07T15:31:00.024660+00:00",
   "https://www.franceinfo.fr/monde/europe/plusieurs-milliers-de-personnes-ont-assiste-a-belgrade-aux-obseques-de-ratko-mladic-surnomme-le-boucher-des-balkans_8181200.html": "2026-09-07T15:31:00.024660+00:00",
   "https://www.franceinfo.fr/monde/europe/et-si-l-union-europeenne-finissait-par-fermer-la-porte-aux-touristes-russes_8181023.html": "2026-09-07T15:31:00.024660+00:00",
   "https://www.franceinfo.fr/monde/europe/allemagne/slogans-nazis-nepotisme-alice-weidel-tout-ce-qu-il-y-a-a-savoir-sur-l-afd-le-parti-d-extreme-droite-qui-seduit-en-allemagne_8181278.html": "2026-09-07T18:33:49.042590+00:00",
   "https://www.franceinfo.fr/internet/reseaux-sociaux/emmanuel-macron-demande-a-ursula-von-der-leyen-une-interdiction-europeenne-des-reseaux-sociaux-aux-moins-de-15-ans_8181692.html": "2026-09-07T21:29:40.056193+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-ukraine-le-procureur-general-demissionne-sur-fond-d-accusations-de-corruption_8181800.html": "2026-09-08T00:41:24.671855+00:00",
-  "https://www.franceinfo.fr/monde/europe/allemagne/l-allemagne-sous-le-choc-apres-la-victoire-de-l-extreme-droite_8181737.html": "2026-09-08T06:36:42.256058+00:00",
   "https://www.franceinfo.fr/monde/europe/migrants/apres-la-mort-de-31-migrants-dans-un-naufrage-en-2021-le-proces-de-14-passeurs-s-ouvre-lundi-a-paris_8181731.html": "2026-09-08T06:36:42.256058+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/volodymyr-zelensky-evoque-une-possible-desescalade-cet-hiver-dans-la-guerre-en-ukraine_8182535.html": "2026-09-08T06:36:42.256058+00:00",
   "https://www.franceinfo.fr/monde/europe/allemagne/quelque-chose-a-change-au-sein-de-la-societe-europeenne-la-victoire-de-l-afd-en-saxe-anhalt-une-lecon-pour-les-partis-d-extreme-droite-en-europe_8180639.html": "2026-09-08T06:36:42.256058+00:00",
@@ -28,15 +25,42 @@
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/volodymyr-zelensky-espere-une-reprise-des-septembre-des-negociations-avec-moscou-et-washington-pour-tenter-de-mettre-fin-a-la-guerre-en-ukraine_8183048.html": "2026-09-08T12:37:54.197865+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/ses-missiles-balistiques-parlent-plus-fort-que-ses-mots-sur-la-diplomatie-la-russie-reprend-ses-frappes-sur-kiev-apres-la-visite-des-emissaires-americains_8183351.html": "2026-09-08T15:33:14.919351+00:00",
   "https://www.franceinfo.fr/monde/europe/migrants/crise-des-migrants-a-ceuta/on-a-l-impression-de-devoir-porter-notre-carte-d-identite-sur-le-front-la-colere-des-habitants-musulmans-de-ceuta-harceles-ou-pris-a-tort-pour-des-migrants-en-situation-irreguliere_8183210.html": "2026-09-08T15:33:14.919351+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/au-moins-trois-morts-et-huit-blesses-apres-une-nouvelle-nuit-de-frappes-sur-kiev-volodymyr-zelensky-en-appelle-a-washington_8183204.html": "2026-09-08T15:33:14.919351+00:00"
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/au-moins-trois-morts-et-huit-blesses-apres-une-nouvelle-nuit-de-frappes-sur-kiev-volodymyr-zelensky-en-appelle-a-washington_8183204.html": "2026-09-08T15:33:14.919351+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/je-ne-veux-plus-que-mon-fils-vive-ca-au-cote-des-habitants-de-kiev-refugies-dans-le-metro-en-pleine-attaque-russe_8183753.html": "2026-09-08T23:25:59.470991+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/ils-se-refugient-dans-le-metro-de-kiev-face-aux-bombes_8183714.html": "2026-09-08T23:25:59.470991+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/vos-questions-sur-l-effort-de-guerre-de-la-france/": "2026-09-08T23:25:59.470991+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "\"Ses missiles balistiques parlent plus fort que ses mots sur la diplomatie\" : la Russie reprend ses frappes sur Kiev après la visite des émissaires américains Selon un bilan provisoire de la police ukrainienne, au moins deux personnes ont été tuées et huit autres blessées dans ces nouvelles frappes nocturnes.",
+   "title": "2:33 vidéo 2 minutes 33 \"Je ne veux plus que mon fils vive ça\" : au côté des habitants de Kiev, réfugiés dans le métro en pleine attaque russe Kiev a vécu une nouvelle nuit de peur, du lundi au mardi 8 septembre, sous les missiles et les drones russes. Au moins trois morts sont à déplorer, alors que les négociateurs américains venaient de repartir. Une nouvelle fois, les Ukrainiens se sont réfugiés dans le métro, exaspérés après plus de quatre ans de conflit. Nos envoyés spéciaux ont partagé leur attente et leur angoisse.",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/je-ne-veux-plus-que-mon-fils-vive-ca-au-cote-des-habitants-de-kiev-refugies-dans-le-metro-en-pleine-attaque-russe_8183753.html",
+   "summary": "\"Je ne veux plus que mon fils vive ça\" : au côté des habitants de Kiev, réfugiés dans le métro en pleine attaque russe",
+   "image": "https://www.franceinfo.fr/pictures/5FcWHgbIAu7j112hHx6e509rO6U/164x0:1212x720/432x297/filters:format(jpg)/2026/09/08/6aa0709f48c46768944293.jpg",
+   "date": null,
+   "pubdate": "2026-09-08T23:25:59.470991+00:00"
+  },
+  {
+   "title": "2:37 vidéo 2 minutes 37 Ils se réfugient dans le métro de Kiev face aux bombes",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/ils-se-refugient-dans-le-metro-de-kiev-face-aux-bombes_8183714.html",
+   "summary": "Ils se réfugient dans le métro de Kiev face aux bombes",
+   "image": "https://www.franceinfo.fr/pictures/X8hcWEbroLxU4YnLlXTHgkYXGY0/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/08/6aa05e7878ece582355925.jpg",
+   "date": null,
+   "pubdate": "2026-09-08T23:25:59.470991+00:00"
+  },
+  {
+   "title": "Vos questions sur l'effort de guerre de la France 6 contenus",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/vos-questions-sur-l-effort-de-guerre-de-la-france/",
+   "summary": "Vos questions sur l'effort de guerre de la France",
+   "image": "https://www.franceinfo.fr/pictures/ntZoU9VrwR_yrQmHdJn-AC2Tq7o/432x297/filters:format(jpg)/2025/04/01/effort-de-guerre-couverture-de-dossier-01-light-67eba0e5ca0a7848911582.jpg",
+   "date": null,
+   "pubdate": "2026-09-08T23:25:59.470991+00:00"
+  },
+  {
+   "title": "\"Ses missiles balistiques parlent plus fort que ses mots sur la diplomatie\" : la Russie reprend ses frappes sur Kiev après la visite des émissaires américains",
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/ses-missiles-balistiques-parlent-plus-fort-que-ses-mots-sur-la-diplomatie-la-russie-reprend-ses-frappes-sur-kiev-apres-la-visite-des-emissaires-americains_8183351.html",
-   "summary": "\"Ses missiles balistiques parlent plus fort que ses mots sur la diplomatie\" : la Russie reprend ses frappes sur Kiev après la visite des émissaires américains",
-   "image": "https://www.franceinfo.fr/pictures/c6ZrAIj64Mz3TFjau9iXtobnkAc/91x0:5956x4032/432x297/filters:format(jpg)/2026/09/08/6aa01e92b4558242630506.jpg",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/dJVtB3Lnn3IMJ3hmK3qLtggNizY/0x315:6048x3717/432x243/filters:format(jpg)/2026/09/08/6aa01e92b4558242630506.jpg",
    "date": null,
    "pubdate": "2026-09-08T15:33:14.919351+00:00"
   },
@@ -129,17 +153,9 @@
    "pubdate": "2026-09-08T09:31:39.759956+00:00"
   },
   {
-   "title": "1:55 vidéo 1 minute 55 L'Allemagne sous le choc après la victoire de l'extrême droite",
-   "link": "https://www.franceinfo.fr/monde/europe/allemagne/l-allemagne-sous-le-choc-apres-la-victoire-de-l-extreme-droite_8181737.html",
-   "summary": "L'Allemagne sous le choc après la victoire de l'extrême droite",
-   "image": "https://www.franceinfo.fr/pictures/29m3LF17LE5_7iet44Sbo72dnLc/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/07/6a9f16e454645252864895.jpg",
-   "date": null,
-   "pubdate": "2026-09-08T06:36:42.256058+00:00"
-  },
-  {
-   "title": "Après la mort de 31 migrants dans un naufrage en 2021, le procès de 14 passeurs s'ouvre lundi à Paris",
+   "title": "Après la mort de 31 migrants dans un naufrage en 2021, le procès de 14 passeurs s'ouvre lundi à Paris Le procès se tiendra sur trois semaines. Il s'agit du pire naufrage de migrants dans la Manche. Le drame avait provoqué une polémique sur l'inaction des autorités françaises et britanniques.",
    "link": "https://www.franceinfo.fr/monde/europe/migrants/apres-la-mort-de-31-migrants-dans-un-naufrage-en-2021-le-proces-de-14-passeurs-s-ouvre-lundi-a-paris_8181731.html",
-   "summary": "",
+   "summary": "Après la mort de 31 migrants dans un naufrage en 2021, le procès de 14 passeurs s'ouvre lundi à Paris",
    "image": "https://www.franceinfo.fr/pictures/dasHjcDy_-CaTpDhu7YifSKnMyM/0x362:6926x4257/432x243/filters:format(jpg)/2026/09/07/6a9f1f75a4142473991462.jpg",
    "date": null,
    "pubdate": "2026-09-08T06:36:42.256058+00:00"
@@ -231,22 +247,6 @@
    "image": "https://www.franceinfo.fr/pictures/AseR9zCkLFHaNVF3Fz_12ihvbhA/0x53:1024x629/432x243/filters:format(jpg)/2026/09/07/6a9e9534987db063815850.jpg",
    "date": null,
    "pubdate": "2026-09-07T12:37:44.533030+00:00"
-  },
-  {
-   "title": "Après sa victoire électorale en Saxe-Anhalt, le parti d'extrême droite allemand AfD affirme avoir lancé des discussions pour un gouvernement régional Ce parti a remporté les élections dimanche dans une région de l'est de l'Allemagne, alors que jamais une région allemande n'avait été dirigée par l'extrême droite depuis 1945.",
-   "link": "https://www.franceinfo.fr/monde/europe/allemagne/apres-sa-victoire-electorale-le-parti-d-extreme-droite-allemande-afd-affirme-avoir-lance-des-discussions-pour-un-gouvernement-regional-en-saxe-anhalt_8180813.html",
-   "summary": "Après sa victoire électorale en Saxe-Anhalt, le parti d'extrême droite allemand AfD affirme avoir lancé des discussions pour un gouvernement régional",
-   "image": "https://www.franceinfo.fr/pictures/qpZXCg3ALpwsL_UasrFxSV4a0Hk/0x0:1024x576/432x243/filters:format(jpg)/2026/09/07/6a9e8a6084454522820545.jpg",
-   "date": null,
-   "pubdate": "2026-09-07T12:37:44.533030+00:00"
-  },
-  {
-   "title": "\"On a des balles de ping-pong\" : en Belgique, la canicule pèse sur la production de pommes de terre et raccourcit les frites En Belgique, la sécheresse n'a pas permis aux pommes de terre de grandir autant que d'habitude. Une mauvaise nouvelle pour les amateurs de frites, qui seront plus courtes cet automne et pourraient coûter plus cher.",
-   "link": "https://www.franceinfo.fr/economie/emploi/metiers/restauration-hotellerie-sports-loisirs/on-a-des-balles-de-ping-pong-en-belgique-la-canicule-pese-sur-la-production-de-pommes-de-terre-et-raccourcit-les-frites_8180462.html",
-   "summary": "\"On a des balles de ping-pong\" : en Belgique, la canicule pèse sur la production de pommes de terre et raccourcit les frites",
-   "image": "https://www.franceinfo.fr/pictures/H5xkhL7dUJSOORnUyQ2jfRjxlMU/0x112:6000x3487/432x243/filters:format(jpg)/2026/09/07/6a9e5d36eb08d182703733.jpg",
-   "date": null,
-   "pubdate": "2026-09-07T09:33:14.018487+00:00"
   }
  ]
 }
