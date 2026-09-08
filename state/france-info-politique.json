@@ -1,5 +1,5 @@
 {
- "etag": "\"c1778fda2cf41f1fe3d151c18e3108a1-gzip\"",
+ "etag": "\"5f8429a195d3a6d5420ed8f1938eda37-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-c-est-le-sauveur-en-saxe-anhalt-ulrich-siegmund-l-homme-le-plus-dangereux-d-allemagne-selon-der-spiegel-aux-portes-du-pouvoir_8147219.html": "2026-09-06T09:29:17.318622+00:00",
@@ -25,15 +25,23 @@
   "https://www.franceinfo.fr/politique/le-casse-tete-des-retraites-en-2027-qui-reviendra-en-2032_8182997.html": "2026-09-08T12:37:52.662594+00:00",
   "https://www.franceinfo.fr/politique/edouard-philippe/il-y-a-un-risque-tres-grand-que-la-droite-ne-soit-pas-au-second-tour-s-il-y-a-dispersion-des-candidats-en-janvier-fevrier_8182970.html": "2026-09-08T12:37:52.662594+00:00",
   "https://www.franceinfo.fr/politique/la-gauche-je-ne-sais-pas-qui-c-est-s-interroge-francois-hollande_8180948.html": "2026-09-08T12:37:52.662594+00:00",
-  "https://www.franceinfo.fr/politique/reglement-de-comptes-au-rn_8180804.html": "2026-09-08T12:37:52.662594+00:00"
+  "https://www.franceinfo.fr/economie/transports/prix-des-carburants/le-ministre-de-l-economie-reunit-mercredi-les-distributeurs-pour-parler-des-prix-du-carburant_8183159.html": "2026-09-08T15:33:13.797333+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "1:28 vidéo 1 minute 28 Le casse-tête des retraites en 2027... qui reviendra en 2032 Le dossier des retraites revient planer sur le début de la campagne présidentielle et tous les candidats avancent leurs propositions. L'édito de Renaud Dély.",
+   "title": "Le ministre de l'Economie réunit mercredi les distributeurs pour parler des prix du carburant Cette réunion intervient au moment où le prix du SP95-E10 a atteint, samedi, son tarif le plus élevé depuis le début de la guerre au Moyen-Orient.",
+   "link": "https://www.franceinfo.fr/economie/transports/prix-des-carburants/le-ministre-de-l-economie-reunit-mercredi-les-distributeurs-pour-parler-des-prix-du-carburant_8183159.html",
+   "summary": "Le ministre de l'Economie réunit mercredi les distributeurs pour parler des prix du carburant",
+   "image": "https://www.franceinfo.fr/pictures/q-yEpzCbvzzSh2iN0dFMKMl6duM/0x0:992x682/432x297/filters:format(jpg)/2026/07/30/6a6afdf3774f8341820956.jpg",
+   "date": null,
+   "pubdate": "2026-09-08T15:33:13.797333+00:00"
+  },
+  {
+   "title": "1:28 vidéo 1 minute 28 Le casse-tête des retraites en 2027... qui reviendra en 2032",
    "link": "https://www.franceinfo.fr/politique/le-casse-tete-des-retraites-en-2027-qui-reviendra-en-2032_8182997.html",
    "summary": "Le casse-tête des retraites en 2027... qui reviendra en 2032",
-   "image": "https://www.franceinfo.fr/pictures/wuKdKOhYQX8ugUJeEB8gjiKFNLk/0x0:1080x1920/fit-in/432x297/filters:upscale():fill(blur):format(jpg)/2026/09/08/6a9fde8f11ff7871753944.jpg",
+   "image": "https://www.franceinfo.fr/pictures/a_bkGgzlCrDDZztuVsefADPwIgM/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/08/6a9fde8f11ff7871753944.jpg",
    "date": null,
    "pubdate": "2026-09-08T12:37:52.662594+00:00"
   },
@@ -50,14 +58,6 @@
    "link": "https://www.franceinfo.fr/politique/la-gauche-je-ne-sais-pas-qui-c-est-s-interroge-francois-hollande_8180948.html",
    "summary": "\"La gauche, je ne sais pas qui c'est !\", s'interroge François Hollande",
    "image": "https://www.franceinfo.fr/pictures/kPJp32nFsS9Q00YpC4JxJumdOC0/0x0:900x1600/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/07/6a9e9d70ead12049137909.jpg",
-   "date": null,
-   "pubdate": "2026-09-08T12:37:52.662594+00:00"
-  },
-  {
-   "title": "1:33 vidéo 1 minute 33 Le Pen-Bardella : règlement de comptes au RN ? Marine Le Pen et Jordan Bardella revendiquaient une complicité sans accroc et voilà qu’entre eux, les désaccords se multiplient. L'édito de Renaud Dély.",
-   "link": "https://www.franceinfo.fr/politique/reglement-de-comptes-au-rn_8180804.html",
-   "summary": "Le Pen-Bardella : règlement de comptes au RN ?",
-   "image": "https://www.franceinfo.fr/pictures/LY8QhYwHcWDzO4MwXmWc2ehhkk8/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/07/6a9e86d3d255e196163948.jpg",
    "date": null,
    "pubdate": "2026-09-08T12:37:52.662594+00:00"
   },
@@ -118,7 +118,7 @@
    "pubdate": "2026-09-08T09:31:38.568019+00:00"
   },
   {
-   "title": ": Édito 2:39 audio 2 minutes 39 : Édito Les retraites, l’épouvantail qui hante déjà les candidats à la présidentielle",
+   "title": ": Édito 2:39 audio 2 minutes 39 Les retraites, l’épouvantail qui hante déjà les candidats à la présidentielle À sept mois du premier tour, le dossier des retraites s’invite déjà dans la campagne présidentielle et met les candidats sous pression. De 60 à 67 ans, chacun avance sa formule, tandis qu’Édouard Philippe reste rattrapé par sa proposition passée.",
    "link": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-les-retraites-l-epouvantail-qui-hante-deja-les-candidats-a-la-presidentielle_8160182.html",
    "summary": "Les retraites, l’épouvantail qui hante déjà les candidats à la présidentielle",
    "image": "https://www.franceinfo.fr/pictures/Hn_thQwesCRyzwKyy-9U9nQ3zBc/0x0:1024x576/432x243/filters:format(jpg)/2026/09/08/6a9f9422d3f32102461365.jpg",
