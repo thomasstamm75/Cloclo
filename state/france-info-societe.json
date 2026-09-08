@@ -1,5 +1,5 @@
 {
- "etag": "\"5749656d69947cfc1d1793caa238ff0c-gzip\"",
+ "etag": "\"4ba479e3c665c74e4eed970f0403f492-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/culture/musique/tout-le-monde-les-ecoutait-ou-les-subissait-peut-on-encore-parler-de-hits-de-l-ete-comme-avant-les-reseaux-sociaux_8155445.html": "2026-09-01T18:33:18.227663+00:00",
@@ -29,15 +29,33 @@
   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/a-cause-de-la-chaleur-les-cours-suspendus-dans-trois-lycees-de-nimes-mardi-apres-midi_8183246.html": "2026-09-08T15:33:11.536771+00:00",
   "https://www.franceinfo.fr/internet/securite-sur-internet/l-arnaque-au-faux-conseiller-bancaire-en-hausse-avec-plus-34-en-2025-quelles-precautions-prendre-pour-se-proteger_8183231.html": "2026-09-08T15:33:11.536771+00:00",
   "https://www.franceinfo.fr/societe/nos-jours-heureux/": "2026-09-08T15:33:11.536771+00:00",
-  "https://www.franceinfo.fr/societe/euthanasie/comprendre-les-debats-sur-la-fin-de-vie/": "2026-09-08T15:33:11.536771+00:00"
+  "https://www.franceinfo.fr/societe/euthanasie/comprendre-les-debats-sur-la-fin-de-vie/": "2026-09-08T15:33:11.536771+00:00",
+  "https://www.franceinfo.fr/faits-divers/police/violences-urbaines-apres-un-controle-de-police-a-chambery-la-piste-d-un-suicide-ou-d-un-tir-accidentel-de-la-victime-etudiee_8183687.html": "2026-09-08T18:34:31.033646+00:00",
+  "https://www.franceinfo.fr/societe/religion/le-mouvement-hindou-baps-n-a-pas-demande-un-traitement-differencie-entre-les-femmes-et-les-hommes-lors-de-la-visite-de-sa-delegation-a-la-tour-eiffel_8183684.html": "2026-09-08T18:34:31.033646+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "0:51 vidéo 51 secondes Pourquoi les pompiers sont en grève ? Du matériel et du recrutement : c'est ce que demandent, en partie, les pompiers. Après un été à être mobilisés à cause des incendies, ils sont en grève, et c'est rare. On explique pourquoi et quelles conséquences ça peut avoir.",
+   "title": "2:14 vidéo 2 minutes 14 Violences urbaines après un contrôle de police à Chambéry : la piste d'un suicide ou d'un tir accidentel de la victime étudiée À Chambéry, en Savoie, plusieurs quartiers ont connu une nuit de violences urbaines après la découverte d'un conducteur, blessé par balle à la suite d'un refus d'obtempérer. L'individu est décédé dans l'après-midi, ce mardi 8 septembre. Selon les premiers éléments de l'enquête, les policiers n'ont pas tiré. La piste d'un suicide ou d'un tir accidentel est donc étudiée.",
+   "link": "https://www.franceinfo.fr/faits-divers/police/violences-urbaines-apres-un-controle-de-police-a-chambery-la-piste-d-un-suicide-ou-d-un-tir-accidentel-de-la-victime-etudiee_8183687.html",
+   "summary": "Violences urbaines après un contrôle de police à Chambéry : la piste d'un suicide ou d'un tir accidentel de la victime étudiée",
+   "image": "https://www.franceinfo.fr/pictures/0moJRPGtgog3Q9PfhBZmA1Sxbv4/0x1:793x547/432x297/filters:format(jpg)/2026/09/08/6aa05391bc6f4502828591.jpg",
+   "date": null,
+   "pubdate": "2026-09-08T18:34:31.033646+00:00"
+  },
+  {
+   "title": "Le mouvement hindou Baps n'a pas demandé \"un traitement différencié entre les femmes et les hommes\", lors de la visite de sa délégation à la tour Eiffel",
+   "link": "https://www.franceinfo.fr/societe/religion/le-mouvement-hindou-baps-n-a-pas-demande-un-traitement-differencie-entre-les-femmes-et-les-hommes-lors-de-la-visite-de-sa-delegation-a-la-tour-eiffel_8183684.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/WjYMRa2Jmqv26zrP4XyEV6c-Vj8/0x286:5496x3377/432x243/filters:format(jpg)/2026/09/08/6aa01e0cf3697022103793.jpg",
+   "date": null,
+   "pubdate": "2026-09-08T18:34:31.033646+00:00"
+  },
+  {
+   "title": "0:51 vidéo 51 secondes Pourquoi les pompiers sont en grève ?",
    "link": "https://www.franceinfo.fr/societe/mobilisation-des-pompiers/pourquoi-les-pompiers-sont-en-greve_8183426.html",
-   "summary": "Du matériel et du recrutement : c'est ce que demandent, en partie, les pompiers. Après un été à être mobilisés à cause des incendies, ils sont en grève, et c'est rare. On explique pourquoi et quelles conséquences ça peut avoir.",
-   "image": "https://www.franceinfo.fr/pictures/QFzkHgZPIFCi6ylQxM9z7g6P2WA/0x0:1080x1920/fit-in/432x297/filters:upscale():fill(blur):format(jpg)/2026/09/08/6aa026fa65531698495057.jpg",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/wu_g1MlSrSeoPP1smcwtF1dNXOY/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/08/6aa026fa65531698495057.jpg",
    "date": null,
    "pubdate": "2026-09-08T15:33:11.536771+00:00"
   },
@@ -114,15 +132,15 @@
    "pubdate": "2026-09-08T15:33:11.536771+00:00"
   },
   {
-   "title": "L’Ordre des médecins est une \"boîte noire\" qui \"étouffe et protège\", dénonce la députée Sandrine Rousseau à propos de l'affaire Le Scouarnec",
+   "title": "L’Ordre des médecins est une \"boîte noire\" qui \"étouffe et protège\", dénonce la députée Sandrine Rousseau à propos de l'affaire Le Scouarnec L'élue écologiste est également corapporteure d'une mission flash à l'Assemblée nationale portant sur les suites à donner sur les 300 viols et agressions sexuelles commis par l'ancien chirurgien. Cette mission formule mardi 27 recommandations portant sur les milieux de la santé et de la justice.",
    "link": "https://www.franceinfo.fr/faits-divers/affaire-le-scouarnec/l-ordre-des-medecins-est-une-boite-noire-qui-etouffe-et-protege-denonce-la-deputee-sandrine-rousseau-a-propos-de-l-affaire-le-scouarnec_8183138.html",
-   "summary": "",
+   "summary": "L’Ordre des médecins est une \"boîte noire\" qui \"étouffe et protège\", dénonce la députée Sandrine Rousseau à propos de l'affaire Le Scouarnec",
    "image": "https://www.franceinfo.fr/pictures/bX9cC2GSnR4CMIkYIRv70T-W2dc/0x188:3627x2229/432x243/filters:format(jpg)/2024/12/06/000-363e9dx-67531b666ab54022696149.jpg",
    "date": null,
    "pubdate": "2026-09-08T12:37:49.869652+00:00"
   },
   {
-   "title": "10:45 audio 10 minutes 45 Chute du niveau des élèves Français dans l'enquête PISA 2025 : l'éducation souffre d'un \"trop-plein de réformes\", déplore un spécialiste",
+   "title": "10:45 audio 10 minutes 45 Chute du niveau des élèves Français dans l'enquête PISA 2025 : l'éducation souffre d'un \"trop-plein de réformes\", déplore un spécialiste La nouvelle enquête internationale PISA est publiée mardi. Elle évalue et compare les compétences de 760 000 élèves de 15 ans dans 91 pays. Et les résultats des élèves français n'ont jamais été aussi mauvais.",
    "link": "https://www.franceinfo.fr/societe/education/chute-du-niveau-des-eleves-francais-dans-l-enquete-pisa-2025-l-education-souffre-d-un-trop-plein-de-reformes-deplore-un-specialiste_8182787.html",
    "summary": "Chute du niveau des élèves Français dans l'enquête PISA 2025 : l'éducation souffre d'un \"trop-plein de réformes\", déplore un spécialiste",
    "image": "https://www.franceinfo.fr/pictures/2OcF3JVDIXAXOH85svRNL2bQkYE/0x312:6000x3687/432x243/filters:format(jpg)/2026/09/08/6a9ff6a3640d3133188905.jpg",
@@ -141,7 +159,7 @@
    "title": "\"Nous sommes déçus\", assurent les sapeurs-pompiers en grève après une réunion au ministère de l'Intérieur Alors que débute un mouvement de grève dans les rangs des sapeurs-pompiers, l'intersyndicale dit ne pas être satisfaite du futur projet de loi sur la Sécurité civile dévoilé mardi au ministère de l'Intérieur.",
    "link": "https://www.franceinfo.fr/societe/mobilisation-des-pompiers/nous-sommes-decus-assurent-les-sapeurs-pompiers-en-greve-apres-une-reunion-au-ministere-de-l-interieur_8183099.html",
    "summary": "\"Nous sommes déçus\", assurent les sapeurs-pompiers en grève après une réunion au ministère de l'Intérieur",
-   "image": "https://www.franceinfo.fr/pictures/JQPucHkZ-_w-7HhGXyt119B8W8o/0x391:7488x4603/432x243/filters:format(jpg)/2026/09/08/6a9ff5bde7733132411761.jpg",
+   "image": "https://www.franceinfo.fr/pictures/ptKulw-icQp8JCRfz8B4QPyOxDY/0x264:5090x3128/432x243/filters:format(jpg)/2026/09/08/6aa0357bb312d968083702.jpg",
    "date": null,
    "pubdate": "2026-09-08T12:37:49.869652+00:00"
   },

@@ -1,12 +1,11 @@
 {
- "etag": "\"5f8429a195d3a6d5420ed8f1938eda37-gzip\"",
+ "etag": "\"b2c2b8c369694ca080fa8837950f98cf-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-c-est-le-sauveur-en-saxe-anhalt-ulrich-siegmund-l-homme-le-plus-dangereux-d-allemagne-selon-der-spiegel-aux-portes-du-pouvoir_8147219.html": "2026-09-06T09:29:17.318622+00:00",
   "https://www.franceinfo.fr/societe/harcelement-sexuel/detection-des-victimes-juridictions-specialisees-reconnaissance-de-l-inceste-ce-que-contient-la-proposition-de-loi-integrale-pour-lutter-contre-les-violences-sexistes-et-sexuelles-qui-arrive-a-l-assemblee_8180609.html": "2026-09-07T12:37:43.044270+00:00",
   "https://www.franceinfo.fr/politique/modem/assistants-parlementaires-du-modem/francois-bayrou-se-dit-absolument-serein-avant-son-proces-en-appel-dans-l-affaire-des-assistants-d-eurodeputes-modem_8180960.html": "2026-09-07T12:37:43.044270+00:00",
   "https://www.franceinfo.fr/monde/europe/allemagne/victoire-de-l-afd-en-saxe-anhalt-en-allemagne-le-cordon-sanitaire-contre-l-extreme-droite-a-saute-constate-un-specialiste-de-l-europe_8180576.html": "2026-09-07T12:37:43.044270+00:00",
-  "https://www.franceinfo.fr/societe/harcelement-sexuel/la-pression-populaire-doit-s-accentuer-estime-la-deputee-lfi-gabrielle-cathala-a-propos-de-la-loi-integrale-contre-les-violences-sexuelles_8180798.html": "2026-09-07T12:37:43.044270+00:00",
   "https://www.franceinfo.fr/societe/harcelement-sexuel/loi-integrale-contre-les-violences-sexuelles-definir-l-inceste-c-est-deja-un-premier-pas-estime-l-association-face-a-l-inceste_8181074.html": "2026-09-07T15:30:58.825926+00:00",
   "https://www.franceinfo.fr/elections/presidentielle/les-socialistes-la-font-bien-la-droite-et-le-centre-peuvent-ils-encore-organiser-une-primaire-pour-la-presidentielle-de-2027_8171882.html": "2026-09-07T15:30:58.825926+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-a-atlanta-les-republicains-craignent-la-fin-de-l-ere-trump-a-l-approche-des-elections-de-mi-mandat-les-democrates-revent-de-revanche_8145842.html": "2026-09-07T18:33:47.481587+00:00",
@@ -14,26 +13,59 @@
   "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-les-retraites-l-epouvantail-qui-hante-deja-les-candidats-a-la-presidentielle_8160182.html": "2026-09-08T06:36:40.320238+00:00",
   "https://www.franceinfo.fr/monde/europe/allemagne/quelque-chose-a-change-au-sein-de-la-societe-europeenne-la-victoire-de-l-afd-en-saxe-anhalt-une-lecon-pour-les-partis-d-extreme-droite-en-europe_8180639.html": "2026-09-08T06:36:40.320238+00:00",
   "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-sarah-knafo-a-t-elle-raison-de-denoncer-dans-son-livre-un-casse-du-siecle-orchestre-par-l-etat-au-detriment-des-contribuables_8175293.html": "2026-09-08T06:36:40.320238+00:00",
-  "https://www.franceinfo.fr/politique/le-maire-socialiste-de-saint-ouen-karim-bouamrane-ne-soutiendra-pas-francois-hollande-sans-mea-culpa-sur-la-decheance-de-nationalite_8180795.html": "2015-11-13T11:00:00+00:00",
   "https://www.franceinfo.fr/elections/presidentielle/info-franceinfo-presidentielle-2027-les-details-de-la-charte-envoyee-par-herve-morin-aux-candidats-de-la-droite-et-du-centre-pour-l-organisation-d-une-primaire_8182712.html": "2026-09-08T09:31:38.568019+00:00",
   "https://www.franceinfo.fr/politique/greve-a-la-tour-eiffel-on-n-efface-pas-les-femmes-dans-notre-societe-francaise-reagit-sebastien-chenu-vice-president-de-l-assemblee-nationale-et-depute-rn_8182730.html": "2026-09-08T09:31:38.568019+00:00",
   "https://www.franceinfo.fr/politique/edouard-philippe/edouard-philippe-denonce-une-decision-absurde-apres-l-eviction-de-salariees-de-la-tour-eiffel-lors-d-un-evenement-hindou_8182721.html": "2026-09-08T09:31:38.568019+00:00",
   "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/vrai-ou-faux-sous-la-cinquieme-republique-la-gauche-n-a-t-elle-jamais-gagne-la-presidentielle-avec-un-candidat-unique-comme-l-affirme-ian-brossat_8160203.html": "2026-09-08T09:31:38.568019+00:00",
   "https://www.franceinfo.fr/politique/francois-hollande/il-est-courageux-francois-hollande-teste-sa-popularite-lors-d-une-seance-de-dedicaces_8182697.html": "2026-09-08T09:31:38.568019+00:00",
   "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/le-8h30-franceinfo-d-edouard-philippe_8160212.html": "2026-09-08T09:31:38.568019+00:00",
-  "https://www.franceinfo.fr/politique/front-national/pourquoi-le-rn-a-t-il-acte-la-rupture-avec-l-afd_8182667.html": "2026-09-08T09:31:38.568019+00:00",
   "https://www.franceinfo.fr/politique/le-casse-tete-des-retraites-en-2027-qui-reviendra-en-2032_8182997.html": "2026-09-08T12:37:52.662594+00:00",
   "https://www.franceinfo.fr/politique/edouard-philippe/il-y-a-un-risque-tres-grand-que-la-droite-ne-soit-pas-au-second-tour-s-il-y-a-dispersion-des-candidats-en-janvier-fevrier_8182970.html": "2026-09-08T12:37:52.662594+00:00",
-  "https://www.franceinfo.fr/politique/la-gauche-je-ne-sais-pas-qui-c-est-s-interroge-francois-hollande_8180948.html": "2026-09-08T12:37:52.662594+00:00",
-  "https://www.franceinfo.fr/economie/transports/prix-des-carburants/le-ministre-de-l-economie-reunit-mercredi-les-distributeurs-pour-parler-des-prix-du-carburant_8183159.html": "2026-09-08T15:33:13.797333+00:00"
+  "https://www.franceinfo.fr/economie/transports/prix-des-carburants/le-ministre-de-l-economie-reunit-mercredi-les-distributeurs-pour-parler-des-prix-du-carburant_8183159.html": "2026-09-08T15:33:13.797333+00:00",
+  "https://www.franceinfo.fr/politique/ps/primaire-socialiste/info-franceinfo-une-centaine-de-responsables-socialistes-appellent-a-ouvrir-la-primaire-ps-place-publique-entre-autres-a-francois-ruffin_8183657.html": "2026-09-08T18:34:33.227570+00:00",
+  "https://www.franceinfo.fr/politique/ps/primaire-socialiste/primaire-du-ps-le-parti-tente-de-booster-la-participation_8183483.html": "2026-09-08T18:34:33.227570+00:00",
+  "https://www.franceinfo.fr/elections/presidentielle/edouard-philippe-invite-gabriel-attal-bruno-retailleau-et-francois-bayrou-a-une-rencontre-en-novembre-pour-evoquer-la-presidentielle-2027-et-l-apres-election_8183582.html": "2026-09-08T18:34:33.227570+00:00",
+  "https://www.franceinfo.fr/politique/la-victoire-de-l-afd-en-allemagne-est-une-alerte-extremement-grave-selon-manuel-bompard-coordinateur-de-la-france-insoumise_8181038.html": "2026-09-08T18:34:33.227570+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "Le ministre de l'Economie réunit mercredi les distributeurs pour parler des prix du carburant Cette réunion intervient au moment où le prix du SP95-E10 a atteint, samedi, son tarif le plus élevé depuis le début de la guerre au Moyen-Orient.",
+   "title": ": Info franceinfo Une centaine de responsables socialistes appellent à ouvrir la primaire PS Place Publique, entre autres à François Ruffin Dans une lettre ouverte consultée ce mardi par franceinfo, des membres du Parti socialiste plaident pour élargir la primaire de la gauche PS-Place Publique à, notamment, Marine Tondelier et François Ruffin. Ils appellent à ne pas avoir \"peur de la démocratie\".",
+   "link": "https://www.franceinfo.fr/politique/ps/primaire-socialiste/info-franceinfo-une-centaine-de-responsables-socialistes-appellent-a-ouvrir-la-primaire-ps-place-publique-entre-autres-a-francois-ruffin_8183657.html",
+   "summary": "Une centaine de responsables socialistes appellent à ouvrir la primaire PS Place Publique, entre autres à François Ruffin",
+   "image": "https://www.franceinfo.fr/pictures/BOXTDnbopdTKG7w1PS_6OU3Yxok/0x0:4884x3358/432x297/filters:format(jpg)/2026/09/08/6aa046b79c72f206159805.jpg",
+   "date": null,
+   "pubdate": "2026-09-08T18:34:33.227570+00:00"
+  },
+  {
+   "title": "Primaire de la gauche : le PS se mobilise pour attirer les électeurs",
+   "link": "https://www.franceinfo.fr/politique/ps/primaire-socialiste/primaire-du-ps-le-parti-tente-de-booster-la-participation_8183483.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/oP0hVu_22znyOBGGtwS2GOROWc4/0x386:7411x4554/432x243/filters:format(jpg)/2026/09/08/6aa03c28a06e7949130274.jpg",
+   "date": null,
+   "pubdate": "2026-09-08T18:34:33.227570+00:00"
+  },
+  {
+   "title": "Édouard Philippe invite Gabriel Attal, Bruno Retailleau et François Bayrou à une rencontre en novembre pour évoquer la présidentielle 2027 et l'après-élection",
+   "link": "https://www.franceinfo.fr/elections/presidentielle/edouard-philippe-invite-gabriel-attal-bruno-retailleau-et-francois-bayrou-a-une-rencontre-en-novembre-pour-evoquer-la-presidentielle-2027-et-l-apres-election_8183582.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/AUhATHB_8jofxe_E6h0mYL-pKiY/0x0:6000x3375/432x243/filters:format(jpg)/2026/09/08/6aa03bdbbe645521830671.jpg",
+   "date": null,
+   "pubdate": "2026-09-08T18:34:33.227570+00:00"
+  },
+  {
+   "title": "1:20 vidéo 1 minute 20 La victoire de l’AfD en Allemagne est \"une alerte extrêmement grave\" selon Manuel Bompard, coordinateur de La France insoumise Interrogé sur la victoire électorale du parti d'extrême droite allemand AfD en Saxe-Anhalt, Manuel Bompard rappelle que \"Marine Le Pen était pendant 10 ans dans le même groupe que l’AfD au Parlement européen.\" Le parti d’extrême droite allemand défend par ailleurs un projet de \"remigration\". Il ajoute à ce titre qu’ \"il y a encore 2 ans, Marion Maréchal, disait que le projet de \"remigration\" faisait partie de ses projets.\"",
+   "link": "https://www.franceinfo.fr/politique/la-victoire-de-l-afd-en-allemagne-est-une-alerte-extremement-grave-selon-manuel-bompard-coordinateur-de-la-france-insoumise_8181038.html",
+   "summary": "La victoire de l’AfD en Allemagne est \"une alerte extrêmement grave\" selon Manuel Bompard, coordinateur de La France insoumise",
+   "image": "https://www.franceinfo.fr/pictures/0tz5WGS_4ZvwWBOh_nrOkAMP28E/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/07/6a9eb21688e35424438845.png",
+   "date": null,
+   "pubdate": "2026-09-08T18:34:33.227570+00:00"
+  },
+  {
+   "title": "Le ministre de l'Economie réunit mercredi les distributeurs pour parler des prix du carburant",
    "link": "https://www.franceinfo.fr/economie/transports/prix-des-carburants/le-ministre-de-l-economie-reunit-mercredi-les-distributeurs-pour-parler-des-prix-du-carburant_8183159.html",
-   "summary": "Le ministre de l'Economie réunit mercredi les distributeurs pour parler des prix du carburant",
-   "image": "https://www.franceinfo.fr/pictures/q-yEpzCbvzzSh2iN0dFMKMl6duM/0x0:992x682/432x297/filters:format(jpg)/2026/07/30/6a6afdf3774f8341820956.jpg",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/L4s9u51NkOZINZs-R5YBl-b1GWE/0x0:1024x576/432x243/filters:format(jpg)/2026/07/30/6a6afdf3774f8341820956.jpg",
    "date": null,
    "pubdate": "2026-09-08T15:33:13.797333+00:00"
   },
@@ -46,18 +78,10 @@
    "pubdate": "2026-09-08T12:37:52.662594+00:00"
   },
   {
-   "title": "1:42 vidéo 1 minute 42 \"Il y a un risque très grand que la droite ne soit pas au second tour \"s'il y a dispersion des candidats en janvier/février\"",
+   "title": "1:42 vidéo 1 minute 42 \"Il y a un risque très grand que la droite ne soit pas au second tour\"",
    "link": "https://www.franceinfo.fr/politique/edouard-philippe/il-y-a-un-risque-tres-grand-que-la-droite-ne-soit-pas-au-second-tour-s-il-y-a-dispersion-des-candidats-en-janvier-fevrier_8182970.html",
-   "summary": "\"Il y a un risque très grand que la droite ne soit pas au second tour \"s'il y a dispersion des candidats en janvier/février\"",
+   "summary": "\"Il y a un risque très grand que la droite ne soit pas au second tour\"",
    "image": "https://www.franceinfo.fr/pictures/T_cSOpoMB1oGiDpmOUTZfjhn62w/0x0:900x1600/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/08/6a9fdd6b56199880885680.jpg",
-   "date": null,
-   "pubdate": "2026-09-08T12:37:52.662594+00:00"
-  },
-  {
-   "title": "0:57 vidéo 57 secondes \"La gauche, je ne sais pas qui c'est !\", s'interroge François Hollande Pour François Hollande, la gauche c'est \"30% du corps électoral\", alors pour gagner l'élection présidentielle en 2027, il faut aller \"chercher des électeurs qui ne sont pas situés politiquement\", il y a une \"nécessité de rassemblement\". L'ancien président de la République et député PS de Corrèze était l'invité de Simon Le Baron et Agathe Lambret dans le 8.30 franceinfo.",
-   "link": "https://www.franceinfo.fr/politique/la-gauche-je-ne-sais-pas-qui-c-est-s-interroge-francois-hollande_8180948.html",
-   "summary": "\"La gauche, je ne sais pas qui c'est !\", s'interroge François Hollande",
-   "image": "https://www.franceinfo.fr/pictures/kPJp32nFsS9Q00YpC4JxJumdOC0/0x0:900x1600/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/07/6a9e9d70ead12049137909.jpg",
    "date": null,
    "pubdate": "2026-09-08T12:37:52.662594+00:00"
   },
@@ -86,7 +110,7 @@
    "pubdate": "2026-09-08T09:31:38.568019+00:00"
   },
   {
-   "title": ": Vrai ou faux 1:47 audio 1 minute 47 : Vrai ou faux Sous la Cinquième République, la gauche n’a-t-elle jamais gagné la présidentielle avec un candidat unique, comme l’affirme Ian Brossat ?",
+   "title": ": Vrai ou faux 1:46 audio 1 minute 46 : Vrai ou faux Sous la Cinquième République, la gauche n’a-t-elle jamais gagné la présidentielle avec un candidat unique, comme l’affirme Ian Brossat ?",
    "link": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/vrai-ou-faux-sous-la-cinquieme-republique-la-gauche-n-a-t-elle-jamais-gagne-la-presidentielle-avec-un-candidat-unique-comme-l-affirme-ian-brossat_8160203.html",
    "summary": "Sous la Cinquième République, la gauche n’a-t-elle jamais gagné la présidentielle avec un candidat unique, comme l’affirme Ian Brossat ?",
    "image": "https://www.franceinfo.fr/pictures/aqfcjMV0Ch23Fl7qHUdV--Fykw8/0x53:1024x629/432x243/filters:format(jpg)/2026/09/08/6a9fb6449350e529024068.jpg",
@@ -94,26 +118,18 @@
    "pubdate": "2026-09-08T09:31:38.568019+00:00"
   },
   {
-   "title": "\"Il est courageux\" : François Hollande teste sa popularité lors d'une séance de dédicaces",
+   "title": "\"Il est courageux\" : François Hollande teste sa popularité lors d'une séance de dédicaces L'ancien président de la République, qui pourrait se présenter pour l'élection présidentielle de 2027, vient de publier son livre \"Unir\". Une occasion de rencontrer ses potentiels électeurs.",
    "link": "https://www.franceinfo.fr/politique/francois-hollande/il-est-courageux-francois-hollande-teste-sa-popularite-lors-d-une-seance-de-dedicaces_8182697.html",
-   "summary": "",
+   "summary": "\"Il est courageux\" : François Hollande teste sa popularité lors d'une séance de dédicaces",
    "image": "https://www.franceinfo.fr/pictures/UoxkP-6txHBiaJCV7UUmJ4AsZi8/0x53:1024x629/432x243/filters:format(jpg)/2026/09/08/6a9fb589a3848244328293.jpg",
    "date": null,
    "pubdate": "2026-09-08T09:31:38.568019+00:00"
   },
   {
-   "title": "23:23 audio 23 minutes 23 Présidentielle 2027, Tour Eiffel ... Le \"8h30 franceinfo\" d'Édouard Philippe",
+   "title": "23:23 audio 23 minutes 23 Présidentielle 2027, Tour Eiffel ... Le \"8h30 franceinfo\" d'Édouard Philippe Édouard Philippe, maire du Havre, candidat Horizons à l'élection présidentielle",
    "link": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/le-8h30-franceinfo-d-edouard-philippe_8160212.html",
    "summary": "Présidentielle 2027, Tour Eiffel ... Le \"8h30 franceinfo\" d'Édouard Philippe",
    "image": "https://www.franceinfo.fr/pictures/Ws6nflVH4qYhl7d4Nacyf4AI6Qk/249x0:1030x439/432x243/filters:format(jpg)/2026/09/08/6a9fb1f006a10608792516.jpg",
-   "date": null,
-   "pubdate": "2026-09-08T09:31:38.568019+00:00"
-  },
-  {
-   "title": "1:27 vidéo 1 minute 27 Pourquoi le RN a \"acté la rupture\" avec l'AfD",
-   "link": "https://www.franceinfo.fr/politique/front-national/pourquoi-le-rn-a-t-il-acte-la-rupture-avec-l-afd_8182667.html",
-   "summary": "Pourquoi le RN a \"acté la rupture\" avec l'AfD",
-   "image": "https://www.franceinfo.fr/pictures/jnizStTAcW5qWjmCc05qqO6PHLU/258x44:1661x833/432x243/filters:format(jpg)/2026/09/08/6a9fac847b282903011305.jpg",
    "date": null,
    "pubdate": "2026-09-08T09:31:38.568019+00:00"
   },
@@ -198,28 +214,12 @@
    "pubdate": "2026-09-07T12:37:43.044270+00:00"
   },
   {
-   "title": "\"La pression populaire doit s'accentuer\", estime la députée LFI Gabrielle Cathala à propos de la \"loi intégrale\" contre les violences sexuelles Le texte est examiné en commission spéciale à l'Assemblée nationale lundi après-midi pour y être discuté et amendé avant son examen en séance publique début octobre.",
-   "link": "https://www.franceinfo.fr/societe/harcelement-sexuel/la-pression-populaire-doit-s-accentuer-estime-la-deputee-lfi-gabrielle-cathala-a-propos-de-la-loi-integrale-contre-les-violences-sexuelles_8180798.html",
-   "summary": "\"La pression populaire doit s'accentuer\", estime la députée LFI Gabrielle Cathala à propos de la \"loi intégrale\" contre les violences sexuelles",
-   "image": "https://www.franceinfo.fr/pictures/7hnDsKWbD-zcTEmPYLumv2mcVyU/0x0:1024x576/432x243/filters:format(jpg)/2026/04/15/69dfef7d5eac7450359448.jpg",
-   "date": null,
-   "pubdate": "2026-09-07T12:37:43.044270+00:00"
-  },
-  {
    "title": ": Reportage 4:57 audio 4 minutes 57 : Reportage \"C'est le sauveur\", Ulrich Siegmund \"l’homme le plus dangereux d’Allemagne\", selon \"Der Spiegel\", aux portes d'une victoire historique",
    "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-c-est-le-sauveur-en-saxe-anhalt-ulrich-siegmund-l-homme-le-plus-dangereux-d-allemagne-selon-der-spiegel-aux-portes-du-pouvoir_8147219.html",
    "summary": "\"C'est le sauveur\", Ulrich Siegmund \"l’homme le plus dangereux d’Allemagne\", selon \"Der Spiegel\", aux portes d'une victoire historique",
    "image": "https://www.franceinfo.fr/pictures/VFg8d1outM3G4QXNVW4Z5Ox_n70/171x0:853x682/100x100/filters:format(jpg)/2026/09/04/6a9a5941c45a4796624614.jpg",
    "date": null,
    "pubdate": "2026-09-06T09:29:17.318622+00:00"
-  },
-  {
-   "title": "Le maire socialiste de Saint-Ouen, Karim Bouamrane, ne soutiendra pas François Hollande sans \"mea culpa\" sur la déchéance de nationalité Après les attentats du 13 novembre 2015 à Paris et Saint-Denis, François Hollande avait proposé de réviser la Constitution pour étendre la déchéance de nationalité aux binationaux condamnés pour terrorisme. Cette proposition, finalement abandonnée, avait provoqué un tollé à gauche.",
-   "link": "https://www.franceinfo.fr/politique/le-maire-socialiste-de-saint-ouen-karim-bouamrane-ne-soutiendra-pas-francois-hollande-sans-mea-culpa-sur-la-decheance-de-nationalite_8180795.html",
-   "summary": "Le maire socialiste de Saint-Ouen, Karim Bouamrane, ne soutiendra pas François Hollande sans \"mea culpa\" sur la déchéance de nationalité",
-   "image": "https://www.franceinfo.fr/pictures/1fY_BOG9xczVid0f1or5wxm_yJ0/0x0:1024x576/432x243/filters:format(jpg)/2026/09/07/6a9e882ddb97b878379601.jpg",
-   "date": "2015-11-13T11:00:00+00:00",
-   "pubdate": "2015-11-13T11:00:00+00:00"
   }
  ]
 }
