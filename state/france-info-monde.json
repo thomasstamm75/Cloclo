@@ -1,15 +1,7 @@
 {
- "etag": "\"519300d015d74a5d1bfc6287d0d3e787-gzip\"",
+ "etag": "\"7b9757071e12a4c66686099832ef9007-gzip\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.franceinfo.fr/monde/usa/affaire-jeffrey-epstein/l-essentiel-des-revelations-sur-l-affaire-epstein/": "2026-09-07T12:37:45.783605+00:00",
-  "https://www.franceinfo.fr/monde/asie/taiwan/du-sommet-de-l-etat-au-quotidien-des-habitants-comment-taiwan-se-prepare-a-une-guerre-avec-la-chine_8181767.html": "2026-09-07T21:29:41.175938+00:00",
-  "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-c-est-le-sauveur-en-saxe-anhalt-ulrich-siegmund-l-homme-le-plus-dangereux-d-allemagne-selon-der-spiegel-aux-portes-du-pouvoir_8147219.html": "2026-09-08T18:34:35.827269+00:00",
-  "https://www.franceinfo.fr/culture/la-serie-south-park-se-rebaptise-south-america-pour-se-moquer-de-donald-trump_8183780.html": "2026-09-08T23:26:00.812526+00:00",
-  "https://www.franceinfo.fr/monde/proche-orient/yemen/apres-une-attaque-d-ampleur-des-rebelles-yemenites-en-arabie-saoudite-l-ue-denonce-une-escalade-dangereuse_8183744.html": "2026-09-08T23:26:00.812526+00:00",
-  "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/un-an-de-donald-trump-au-pouvoir/": "2026-09-08T23:26:00.812526+00:00",
-  "https://www.franceinfo.fr/sciences/espace/de-belles-annonces-attendues-des-geants-americains-absents-ce-que-l-on-sait-du-sommet-international-sur-l-espace-organise-par-emmanuel-macron-a-paris_8180450.html": "2026-09-09T04:49:46.743613+00:00",
-  "https://www.franceinfo.fr/monde/prix-nobel/vrai-ou-faux-le-nobel-d-economie-est-il-un-soi-disant-prix-nobel-comme-le-juge-jean-luc-melenchon_8182844.html": "2026-09-09T04:49:46.743613+00:00",
   "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/tout-comprendre-a-la-guerre-au-moyen-orient/": "2026-09-09T04:49:46.743613+00:00",
   "https://www.franceinfo.fr/monde/groenland/le-groenland-au-c-ur-d-un-bras-de-fer-geopolitique/": "2026-09-09T04:49:46.743613+00:00",
   "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-a-offert-45-000-dollars-en-cadeau-de-fin-d-annee-a-trois-collaboratrices-dont-son-assistante-natalie-harp_8184479.html": "2026-09-09T11:31:31.226493+00:00",
@@ -29,89 +21,107 @@
   "https://www.franceinfo.fr/monde/usa/la-maison-blanche-retire-de-son-site-un-jeu-video-polemique-inspire-de-tetris_8184248.html": "2026-09-09T11:31:31.226493+00:00",
   "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/l-espoir-diplomatique-renait-dans-la-guerre-en-ukraine-mais-les-combats-s-intensifient_8161529.html": "2026-09-09T11:31:31.226493+00:00",
   "https://www.franceinfo.fr/monde/usa/donald-trump-interdit-des-produits-canadiens-le-conflit-commercial-entre-washington-et-ottawa-s-envenime_8184176.html": "2026-09-09T11:31:31.226493+00:00",
-  "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-teheran-attaque-une-base-militaire-des-etats-unis-en-jordanie-et-une-vingtaine-de-bateaux-apres-des-frappes-americaines-contre-des-petroliers_8184188.html": "2026-09-09T11:31:31.226493+00:00"
+  "https://www.franceinfo.fr/culture/cinema/sorties-de-films/les-survivants-du-che-la-fascinante-histoire-des-guerilleros-qui-ont-combattu-jusqu-au-bout-au-cote-du-leader-revolutionnaire_8183807.html": "2026-09-09T16:43:31.450546+00:00",
+  "https://www.franceinfo.fr/monde/afrique/rwanda/genocide-au-rwanda/genocide-au-rwanda-la-cour-de-cassation-confirme-le-non-lieu-en-faveur-de-militaires-francais-lors-des-massacres-de-bisesero_8185073.html": "2026-09-09T16:43:31.450546+00:00",
+  "https://www.franceinfo.fr/economie/automobile/carlos-ghosn/l-ex-pdg-de-renault-carlos-ghosn-demande-le-report-de-son-proces-pour-corruption-avec-rachida-dati_8184866.html": "2026-09-09T16:43:31.450546+00:00",
+  "https://www.franceinfo.fr/economie/pouvoir-achat/logement/europe-les-pays-les-plus-touches-par-la-crise-du-logement_8184857.html": "2026-09-09T16:43:31.450546+00:00",
+  "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-met-la-france-sur-sa-carte-des-us_8184842.html": "2026-09-09T16:43:31.450546+00:00",
+  "https://www.franceinfo.fr/monde/europe/bon-eleve-europeen-en-matiere-de-stockage-de-gaz-la-pologne-pourrait-etre-un-jour-invitee-a-partager-ses-reserves_8184779.html": "2026-09-09T16:43:31.450546+00:00",
+  "https://www.franceinfo.fr/monde/europe/allemagne/en-saxe-anhalt-l-afd-veut-desormais-frapper-les-eglises-au-portefeuille_8184500.html": "2026-09-09T16:43:31.450546+00:00",
+  "https://www.franceinfo.fr/monde/israel/b-netanyahou-a-t-il-ete-averti-avant-les-attaques-du-7-octobre_8184767.html": "2026-09-09T16:43:31.450546+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/un-drone-russe-frappe-les-locaux-d-une-tv-ukrainienne_8184692.html": "2026-09-09T16:43:31.450546+00:00",
+  "https://www.franceinfo.fr/monde/palestine/gaza/nous-allons-aussi-prendre-des-contre-mesures-israel-menace-de-represailles-les-pays-qui-sanctionnent-les-colonies-en-cisjordanie-occupee_8184650.html": "2026-09-09T16:43:31.450546+00:00",
+  "https://www.franceinfo.fr/societe/religion/la-venue-du-pape-leon-xiv-en-france-rassemblera-au-moins-600-000-fideles-lors-d-une-messe-geante-a-paris_8184548.html": "2026-09-09T16:43:31.450546+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "Donald Trump a offert 45 000 dollars en cadeau de fin d'année à trois collaboratrices, dont son assistante Natalie Harp \"Le président a l'habitude depuis longtemps de faire des cadeaux de Noël aux personnes de son entourage\", a défendu la Maison Blanche.",
-   "link": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-a-offert-45-000-dollars-en-cadeau-de-fin-d-annee-a-trois-collaboratrices-dont-son-assistante-natalie-harp_8184479.html",
-   "summary": "Donald Trump a offert 45 000 dollars en cadeau de fin d'année à trois collaboratrices, dont son assistante Natalie Harp",
-   "image": "https://www.franceinfo.fr/pictures/72GyNLcA_OXLr8h4G2tjZyAVJx4/16x0:1008x682/432x297/filters:format(jpg)/2026/09/09/6aa13641da2d8514021084.jpg",
+   "title": "\"Les Survivants du Che\" : la fascinante histoire des guérilleros qui ont combattu jusqu'au bout au côté du leader révolutionnaire Ces six guérilleros cubains et boliviens auraient préféré mourir avec le Che dans cette ultime campagne bolivienne. Christophe Dimitri Réveille raconte, avec un sens du suspense et de l'esthétique, leur parcours méconnu.",
+   "link": "https://www.franceinfo.fr/culture/cinema/sorties-de-films/les-survivants-du-che-la-fascinante-histoire-des-guerilleros-qui-ont-combattu-jusqu-au-bout-au-cote-du-leader-revolutionnaire_8183807.html",
+   "summary": "\"Les Survivants du Che\" : la fascinante histoire des guérilleros qui ont combattu jusqu'au bout au côté du leader révolutionnaire",
+   "image": "https://www.franceinfo.fr/pictures/g6ej5vj-k9Nxe9BI__yc3oEOGfs/251x0:2829x1772/432x297/filters:format(jpg)/2026/09/09/6aa096b823efa389993609.jpg",
    "date": null,
-   "pubdate": "2026-09-09T11:31:31.226493+00:00"
+   "pubdate": "2026-09-09T16:43:31.450546+00:00"
   },
   {
-   "title": "Le baril de pétrole Brent a repassé la barre des 100 dollars, une conséquence de l'intensification de la guerre au Moyen-Orient",
-   "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/le-baril-de-petrole-brent-a-repasse-la-barre-des-100-dollars-une-consequence-de-l-intensification-de-la-guerre-au-moyen-orient_8184647.html",
+   "title": "Génocide au Rwanda : la Cour de cassation confirme le non-lieu en faveur de militaires français lors des massacres de Bisesero",
+   "link": "https://www.franceinfo.fr/monde/afrique/rwanda/genocide-au-rwanda/genocide-au-rwanda-la-cour-de-cassation-confirme-le-non-lieu-en-faveur-de-militaires-francais-lors-des-massacres-de-bisesero_8185073.html",
    "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/-4MVibsB5y3P8xOMs7cN6bc6ZTk/0x53:1024x629/432x243/filters:format(jpg)/2026/09/09/6aa1359e5b6f2383128590.jpg",
+   "image": "https://www.franceinfo.fr/pictures/F_HWTplCo_JhEE_HMMsEBJ3_ieg/0x53:1024x629/432x243/filters:format(jpg)/2026/09/09/6aa17e8e8f29e168040073.jpg",
    "date": null,
-   "pubdate": "2026-09-09T11:31:31.226493+00:00"
+   "pubdate": "2026-09-09T16:43:31.450546+00:00"
   },
   {
-   "title": "Benyamin Nétanyahou averti d'un projet d'attaque du Hamas avant le 7-Octobre ? On vous résume les révélations du journal \"Haaretz\" et les réactions en Israël",
-   "link": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/benyamin-netanyahou-averti-d-un-projet-d-attaque-du-hamas-avant-le-7-octobre-on-vous-resume-les-revelations-du-journal-haaretz-et-les-reactions-en-israel_8184335.html",
+   "title": "L'ex-PDG de Renault, Carlos Ghosn, demande le report de son procès pour corruption avec Rachida Dati",
+   "link": "https://www.franceinfo.fr/economie/automobile/carlos-ghosn/l-ex-pdg-de-renault-carlos-ghosn-demande-le-report-de-son-proces-pour-corruption-avec-rachida-dati_8184866.html",
    "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/oPmyK8xGtROgKA5Qd2xoe8BoP9I/0x106:1024x682/432x243/filters:format(jpg)/2026/09/09/6aa109223f8f7620621197.jpg",
+   "image": "https://www.franceinfo.fr/pictures/pT4wyUOzjP9LRx85w7WPiOkWkDg/0x220:4242x2607/432x243/filters:format(jpg)/2026/09/09/6aa17d31f1e98289398835.jpg",
    "date": null,
-   "pubdate": "2026-09-09T11:31:31.226493+00:00"
+   "pubdate": "2026-09-09T16:43:31.450546+00:00"
   },
   {
-   "title": "Téhéran attaque une base militaire des Etats-Unis en Jordanie et une vingtaine de bateaux, après des frappes américaines contre des pétroliers iraniens",
-   "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/teheran-attaque-une-base-militaire-des-etats-unis-en-jordanie-et-une-vingtaine-de-bateaux-apres-des-frappes-americaines-contre-des-petroliers-iraniens_8184395.html",
+   "title": "1:54 vidéo 1 minute 54 Europe : les pays les plus touchés par la crise du logement",
+   "link": "https://www.franceinfo.fr/economie/pouvoir-achat/logement/europe-les-pays-les-plus-touches-par-la-crise-du-logement_8184857.html",
+   "summary": "Europe : les pays les plus touchés par la crise du logement",
+   "image": "https://www.franceinfo.fr/pictures/_z0x5Cd_Uw9vrPMP5f0CIgnfPrA/0x0:900x1600/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/09/6aa165d4e3e65481488372.jpg",
+   "date": null,
+   "pubdate": "2026-09-09T16:43:31.450546+00:00"
+  },
+  {
+   "title": "1:06 vidéo 1 minute 6 Donald Trump met la France sur sa carte des US",
+   "link": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-met-la-france-sur-sa-carte-des-us_8184842.html",
+   "summary": "Donald Trump met la France sur sa carte des US",
+   "image": "https://www.franceinfo.fr/pictures/ak7TDZsyEGECQzSYLwq4yPbFoqQ/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/09/6aa1630787661026853160.jpg",
+   "date": null,
+   "pubdate": "2026-09-09T16:43:31.450546+00:00"
+  },
+  {
+   "title": "Bon élève européen en matière de stockage de gaz, la Pologne pourrait être un jour invitée à partager ses réserves",
+   "link": "https://www.franceinfo.fr/monde/europe/bon-eleve-europeen-en-matiere-de-stockage-de-gaz-la-pologne-pourrait-etre-un-jour-invitee-a-partager-ses-reserves_8184779.html",
    "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/XPGWSRwlYMkMcmo5e2ArxRRXGdI/0x0:1024x576/432x243/filters:format(jpg)/2026/09/09/6aa128f127be8410717069.jpg",
+   "image": "https://www.franceinfo.fr/pictures/X_sgWCJv4TrqFO-S11N7_rtQb_E/0x169:1832x1200/432x243/filters:format(jpg)/2026/09/09/6aa15024e8471372034926.jpg",
    "date": null,
-   "pubdate": "2026-09-09T11:31:31.226493+00:00"
+   "pubdate": "2026-09-09T16:43:31.450546+00:00"
   },
   {
-   "title": "2:31 audio 2 minutes 31 OpenAI affirme avoir résolu l’équation mathématique de Navier-Stokes, un défi vieux de deux siècles, mais la prouesse fait polémique",
-   "link": "https://www.franceinfo.fr/replay-radio/histoire-du-jour/openai-affirme-avoir-resolu-l-equation-mathematique-de-navier-stokes-un-defi-vieux-de-deux-siecles-mais-la-prouesse-fait-polemique_8168348.html",
-   "summary": "OpenAI affirme avoir résolu l’équation mathématique de Navier-Stokes, un défi vieux de deux siècles, mais la prouesse fait polémique",
-   "image": "https://www.franceinfo.fr/pictures/EyaQ6pdPzdQPbjyS7KHlWKYSRXQ/0x312:6000x3687/432x243/filters:format(jpg)/2026/09/09/6aa11cd4921a7849326279.jpg",
+   "title": "1:15 audio 1 minute 15 En Saxe-Anhalt, l'AfD veut désormais frapper les Églises au portefeuille",
+   "link": "https://www.franceinfo.fr/monde/europe/allemagne/en-saxe-anhalt-l-afd-veut-desormais-frapper-les-eglises-au-portefeuille_8184500.html",
+   "summary": "En Saxe-Anhalt, l'AfD veut désormais frapper les Églises au portefeuille",
+   "image": "https://www.franceinfo.fr/pictures/Ltfnt5Hn-JA3v8Dwb3JeJYw7gNA/0x254:4928x3026/432x243/filters:format(jpg)/2026/09/09/6aa135315bd28223958422.jpg",
    "date": null,
-   "pubdate": "2026-09-09T11:31:31.226493+00:00"
+   "pubdate": "2026-09-09T16:43:31.450546+00:00"
   },
   {
-   "title": "\"Cet endroit, nous l'avons acheté\" : à Gush Etzion, les habitants des colonies israéliennes défendent leur présence en Cisjordanie occupée",
-   "link": "https://www.franceinfo.fr/monde/proche-orient/guerre/cet-endroit-nous-l-avons-achete-a-gush-etzion-les-habitants-des-colonies-israeliennes-defendent-leur-presence-en-cisjordanie-occupee_8184368.html",
+   "title": "2:04 vidéo 2 minutes 4 B.Nétanyahou a-t-il été averti avant les attaques du 7 octobre ?",
+   "link": "https://www.franceinfo.fr/monde/israel/b-netanyahou-a-t-il-ete-averti-avant-les-attaques-du-7-octobre_8184767.html",
+   "summary": "B.Nétanyahou a-t-il été averti avant les attaques du 7 octobre ?",
+   "image": "https://www.franceinfo.fr/pictures/ioY7BdRATXOMSfrIWJBXA-OFkDE/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/09/6aa14d6292d98958448994.jpg",
+   "date": null,
+   "pubdate": "2026-09-09T16:43:31.450546+00:00"
+  },
+  {
+   "title": "0:28 vidéo 28 secondes Un drone russe frappe les locaux d'une TV ukrainienne",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/un-drone-russe-frappe-les-locaux-d-une-tv-ukrainienne_8184692.html",
+   "summary": "Un drone russe frappe les locaux d'une TV ukrainienne",
+   "image": "https://www.franceinfo.fr/pictures/3JO3llgXh0S5cojQRNUEdDAN_FY/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/09/6aa13a37da4d6324921033.png",
+   "date": null,
+   "pubdate": "2026-09-09T16:43:31.450546+00:00"
+  },
+  {
+   "title": "\"Nous allons aussi prendre des contre-mesures\" : Israël menace de représailles les pays qui sanctionnent les colonies en Cisjordanie occupée",
+   "link": "https://www.franceinfo.fr/monde/palestine/gaza/nous-allons-aussi-prendre-des-contre-mesures-israel-menace-de-represailles-les-pays-qui-sanctionnent-les-colonies-en-cisjordanie-occupee_8184650.html",
    "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/AFN6urUR2ndQfomftdvjEV_d53w/111x156:829x560/432x243/filters:format(jpg)/2026/09/09/6aa10ef07acc3179399696.jpg",
+   "image": "https://www.franceinfo.fr/pictures/6Msk8cExjbOJKOhE4aOR_ZsoOdQ/0x218:4200x2581/432x243/filters:format(jpg)/2026/09/09/6aa149dd66541741119116.jpg",
    "date": null,
-   "pubdate": "2026-09-09T11:31:31.226493+00:00"
+   "pubdate": "2026-09-09T16:43:31.450546+00:00"
   },
   {
-   "title": "5:52 audio 5 minutes 52 Bernard Arnault 3/4 : Puissant parmi les puissants",
-   "link": "https://www.franceinfo.fr/replay-radio/ces-destins-qui-font-l-info/bernard-arnault-3-4-puissant-parmi-les-puissants_8180906.html",
-   "summary": "Bernard Arnault 3/4 : Puissant parmi les puissants",
-   "image": "https://www.franceinfo.fr/pictures/eyqel2Oxx6vfbWSm5kNOG7CbS-U/0x53:1024x629/432x243/filters:format(jpg)/2026/09/07/6a9e994ec8561768226862.jpg",
+   "title": "La venue du pape Léon XIV en France rassemblera au moins \"600 000\" fidèles lors d'une messe géante à Paris Le pape Léon XIV sera en France du 25 au 28 septembre. Près de 8 000 personnes s'inscrivent chaque jour pour assister à la messe géante lace de la Concorde, alors que le diocèse et la préfecture se préparent à un éventuel afflux d'un million de personnes.",
+   "link": "https://www.franceinfo.fr/societe/religion/la-venue-du-pape-leon-xiv-en-france-rassemblera-au-moins-600-000-fideles-lors-d-une-messe-geante-a-paris_8184548.html",
+   "summary": "La venue du pape Léon XIV en France rassemblera au moins \"600 000\" fidèles lors d'une messe géante à Paris",
+   "image": "https://www.franceinfo.fr/pictures/S7E7mGXgqOrnipiaFGjcl5hF4oE/0x0:3032x1705/432x243/filters:format(jpg)/2026/09/09/6aa130418fd95850875825.jpg",
    "date": null,
-   "pubdate": "2026-09-09T11:31:31.226493+00:00"
-  },
-  {
-   "title": "Six personnes sont mortes en Russie et en Ukraine après de nouveaux échanges de frappes",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/six-personnes-sont-mortes-en-russie-et-en-ukraine-apres-de-nouveaux-echanges-de-frappes_8184365.html",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/twmxYzmu_EZ4EpE7n7KCQ-258Ak/0x0:1024x576/432x243/filters:format(jpg)/2026/09/09/6aa10a9707a4d426058162.jpg",
-   "date": null,
-   "pubdate": "2026-09-09T11:31:31.226493+00:00"
-  },
-  {
-   "title": "2:44 audio 2 minutes 44 Du parc \"Dragon Ball\" avorté à LFI, comment les animés et le manga sont devenus une arme électorale",
-   "link": "https://www.franceinfo.fr/replay-radio/l-il-de-constance/du-parc-dragon-ball-avorte-a-lfi-comment-les-animes-et-le-manga-sont-devenus-une-arme-electorale_8161535.html",
-   "summary": "Du parc \"Dragon Ball\" avorté à LFI, comment les animés et le manga sont devenus une arme électorale",
-   "image": "https://www.franceinfo.fr/pictures/N5WU45M9TXy2d4tuWepvm2Gp0zg/0x0:1600x900/432x243/filters:format(jpg)/2022/10/05/php5qLeQD.jpg",
-   "date": null,
-   "pubdate": "2026-09-09T11:31:31.226493+00:00"
-  },
-  {
-   "title": ": Podcast 5:42 audio 5 minutes 42 : Podcast Les colons de Cisjordanie sanctionnés, records à la pompe et l'IA est un crack en maths : ça dit quoi ce 9 septembre ?",
-   "link": "https://www.franceinfo.fr/replay-radio/ca-dit-quoi/les-colons-de-cisjordanie-sanctionnes-records-a-la-pompe-et-l-ia-est-un-crack-en-maths-ca-dit-quoi-ce-9-septembre_8174438.html",
-   "summary": "Les colons de Cisjordanie sanctionnés, records à la pompe et l'IA est un crack en maths : ça dit quoi ce 9 septembre ?",
-   "image": "https://www.franceinfo.fr/pictures/9lyqWE1bA5I30lff67Q1rji1RF8/0x110:2120x1303/432x243/filters:format(jpg)/2026/09/09/6aa102d798763076939399.jpg",
-   "date": null,
-   "pubdate": "2026-09-09T11:31:31.226493+00:00"
+   "pubdate": "2026-09-09T16:43:31.450546+00:00"
   },
   {
    "title": ": Reportage 4:59 audio 4 minutes 59 : Reportage \"Il y a 70% de bon et 30% de mauvais\" : en Chine, le culte de Mao prend de l'ampleur chez les jeunes",
@@ -126,6 +136,86 @@
    "link": "https://www.franceinfo.fr/monde/europe/allemagne/il-y-a-une-extrapolation-du-declin-economique-comment-l-extreme-droite-allemande-est-arrivee-aux-portes-du-pouvoir-en-saxe-anhalt_8175638.html",
    "summary": "\"Il y a une extrapolation du déclin économique\" : comment l'extrême droite allemande est arrivée aux portes du pouvoir en Saxe-Anhalt",
    "image": "https://www.franceinfo.fr/pictures/-nAiSgts3hDGmwBA52wjbLgKz5c/7x0:689x682/100x100/filters:format(jpg)/2026/09/03/6a99968962ca9292189034.jpg",
+   "date": null,
+   "pubdate": "2026-09-09T11:31:31.226493+00:00"
+  },
+  {
+   "title": "Donald Trump a offert 45 000 dollars en cadeau de fin d'année à trois collaboratrices, dont son assistante Natalie Harp \"Le président a l'habitude depuis longtemps de faire des cadeaux de Noël aux personnes de son entourage\", a défendu la Maison Blanche.",
+   "link": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-a-offert-45-000-dollars-en-cadeau-de-fin-d-annee-a-trois-collaboratrices-dont-son-assistante-natalie-harp_8184479.html",
+   "summary": "Donald Trump a offert 45 000 dollars en cadeau de fin d'année à trois collaboratrices, dont son assistante Natalie Harp",
+   "image": "https://www.franceinfo.fr/pictures/CSPkwXOrlMblzuZg8Jfh-616PrU/0x53:1024x629/432x243/filters:format(jpg)/2026/09/09/6aa13641da2d8514021084.jpg",
+   "date": null,
+   "pubdate": "2026-09-09T11:31:31.226493+00:00"
+  },
+  {
+   "title": "Le baril de pétrole Brent a repassé la barre des 100 dollars, une conséquence de l'intensification de la guerre au Moyen-Orient C'est une première depuis fin juillet. Mercredi matin, le prix du baril de Brent de la mer du Nord a brièvement touché un plus haut à 100,19 dollars.",
+   "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/le-baril-de-petrole-brent-a-repasse-la-barre-des-100-dollars-une-consequence-de-l-intensification-de-la-guerre-au-moyen-orient_8184647.html",
+   "summary": "Le baril de pétrole Brent a repassé la barre des 100 dollars, une conséquence de l'intensification de la guerre au Moyen-Orient",
+   "image": "https://www.franceinfo.fr/pictures/-4MVibsB5y3P8xOMs7cN6bc6ZTk/0x53:1024x629/432x243/filters:format(jpg)/2026/09/09/6aa1359e5b6f2383128590.jpg",
+   "date": null,
+   "pubdate": "2026-09-09T11:31:31.226493+00:00"
+  },
+  {
+   "title": "Benyamin Nétanyahou averti d'un projet d'attaque du Hamas avant le 7-Octobre ? On vous résume les révélations du journal \"Haaretz\" et les réactions en Israël D'après l'extrait d'un livre-enquête publié par le quotidien israélien, le chef du gouvernement avait été alerté en septembre 2023 de menaces du groupe islamiste palestinien, relayées par le président des Emirats arabes unis, mais n'a pas transmis l'information.",
+   "link": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/benyamin-netanyahou-averti-d-un-projet-d-attaque-du-hamas-avant-le-7-octobre-on-vous-resume-les-revelations-du-journal-haaretz-et-les-reactions-en-israel_8184335.html",
+   "summary": "Benyamin Nétanyahou averti d'un projet d'attaque du Hamas avant le 7-Octobre ? On vous résume les révélations du journal \"Haaretz\" et les réactions en Israël",
+   "image": "https://www.franceinfo.fr/pictures/oPmyK8xGtROgKA5Qd2xoe8BoP9I/0x106:1024x682/432x243/filters:format(jpg)/2026/09/09/6aa109223f8f7620621197.jpg",
+   "date": null,
+   "pubdate": "2026-09-09T11:31:31.226493+00:00"
+  },
+  {
+   "title": "Téhéran attaque une base militaire des Etats-Unis en Jordanie et une vingtaine de bateaux, après des frappes américaines contre des pétroliers iraniens Selon l'armée jordanienne, 20 missiles iraniens ont été tirés sur le pays, dont 18 ont été interceptés et deux sont tombés dans des zones désertes.",
+   "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/teheran-attaque-une-base-militaire-des-etats-unis-en-jordanie-et-une-vingtaine-de-bateaux-apres-des-frappes-americaines-contre-des-petroliers-iraniens_8184395.html",
+   "summary": "Téhéran attaque une base militaire des Etats-Unis en Jordanie et une vingtaine de bateaux, après des frappes américaines contre des pétroliers iraniens",
+   "image": "https://www.franceinfo.fr/pictures/XPGWSRwlYMkMcmo5e2ArxRRXGdI/0x0:1024x576/432x243/filters:format(jpg)/2026/09/09/6aa128f127be8410717069.jpg",
+   "date": null,
+   "pubdate": "2026-09-09T11:31:31.226493+00:00"
+  },
+  {
+   "title": "2:31 audio 2 minutes 31 OpenAI affirme avoir résolu l’équation mathématique de Navier-Stokes, un défi vieux de deux siècles, mais la prouesse fait polémique Le créateur de ChatGPT annonce avoir trouvé la solution à l'équation Navier-Stokes, faisant partie des sept problèmes dits du millénaire. Mais des chercheurs estiment qu'il y a plagiat.",
+   "link": "https://www.franceinfo.fr/replay-radio/histoire-du-jour/openai-affirme-avoir-resolu-l-equation-mathematique-de-navier-stokes-un-defi-vieux-de-deux-siecles-mais-la-prouesse-fait-polemique_8168348.html",
+   "summary": "OpenAI affirme avoir résolu l’équation mathématique de Navier-Stokes, un défi vieux de deux siècles, mais la prouesse fait polémique",
+   "image": "https://www.franceinfo.fr/pictures/EyaQ6pdPzdQPbjyS7KHlWKYSRXQ/0x312:6000x3687/432x243/filters:format(jpg)/2026/09/09/6aa11cd4921a7849326279.jpg",
+   "date": null,
+   "pubdate": "2026-09-09T11:31:31.226493+00:00"
+  },
+  {
+   "title": "\"Cet endroit, nous l'avons acheté\" : à Gush Etzion, les habitants des colonies israéliennes défendent leur présence en Cisjordanie occupée Douze pays, dont la France, veulent mettre fin au commerce avec les colonies israéliennes en Cisjordanie occupée. Sur place, les habitants de Gush Etzion rejettent cette appellation et défendent leur présence sur ces terres.",
+   "link": "https://www.franceinfo.fr/monde/proche-orient/guerre/cet-endroit-nous-l-avons-achete-a-gush-etzion-les-habitants-des-colonies-israeliennes-defendent-leur-presence-en-cisjordanie-occupee_8184368.html",
+   "summary": "\"Cet endroit, nous l'avons acheté\" : à Gush Etzion, les habitants des colonies israéliennes défendent leur présence en Cisjordanie occupée",
+   "image": "https://www.franceinfo.fr/pictures/AFN6urUR2ndQfomftdvjEV_d53w/111x156:829x560/432x243/filters:format(jpg)/2026/09/09/6aa10ef07acc3179399696.jpg",
+   "date": null,
+   "pubdate": "2026-09-09T11:31:31.226493+00:00"
+  },
+  {
+   "title": "5:52 audio 5 minutes 52 Bernard Arnault 3/4 : Puissant parmi les puissants Le portrait, en quatre parties, de Bernard Arnault, l’homme des présidents, raconté par Agathe Mahuet et Théo Gomar. Bernard Arnault cultive depuis des décennies des relations étroites avec les puissants, de Donald Trump à Emmanuel Macron, en passant par Xi Jinping et Vladimir Poutine.",
+   "link": "https://www.franceinfo.fr/replay-radio/ces-destins-qui-font-l-info/bernard-arnault-3-4-puissant-parmi-les-puissants_8180906.html",
+   "summary": "Bernard Arnault 3/4 : Puissant parmi les puissants",
+   "image": "https://www.franceinfo.fr/pictures/eyqel2Oxx6vfbWSm5kNOG7CbS-U/0x53:1024x629/432x243/filters:format(jpg)/2026/09/07/6a9e994ec8561768226862.jpg",
+   "date": null,
+   "pubdate": "2026-09-09T11:31:31.226493+00:00"
+  },
+  {
+   "title": "Six personnes sont mortes en Russie et en Ukraine après de nouveaux échanges de frappes Ces attaques interviennent au lendemain d'un nouvel entretien téléphonique entre le président russe, Vladimir Poutine, et son homologue américain, Donald Trump, sur les moyens de régler le conflit en Ukraine.",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/six-personnes-sont-mortes-en-russie-et-en-ukraine-apres-de-nouveaux-echanges-de-frappes_8184365.html",
+   "summary": "Six personnes sont mortes en Russie et en Ukraine après de nouveaux échanges de frappes",
+   "image": "https://www.franceinfo.fr/pictures/twmxYzmu_EZ4EpE7n7KCQ-258Ak/0x0:1024x576/432x243/filters:format(jpg)/2026/09/09/6aa10a9707a4d426058162.jpg",
+   "date": null,
+   "pubdate": "2026-09-09T11:31:31.226493+00:00"
+  },
+  {
+   "title": "2:44 audio 2 minutes 44 Du parc \"Dragon Ball\" avorté à LFI, comment les animés et le manga sont devenus une arme électorale Emmanuel Macron a annoncé un parc à thème inspiré de \"Dragon Ball\" dans le Val-d'Oise, avant un démenti japonais. Derrière ce couac, une tendance de fond traverse toute la classe politique française : le manga et les animés, longtemps méprisés, sont devenus des outils de séduction électorale assumés.",
+   "link": "https://www.franceinfo.fr/replay-radio/l-il-de-constance/du-parc-dragon-ball-avorte-a-lfi-comment-les-animes-et-le-manga-sont-devenus-une-arme-electorale_8161535.html",
+   "summary": "Du parc \"Dragon Ball\" avorté à LFI, comment les animés et le manga sont devenus une arme électorale",
+   "image": "https://www.franceinfo.fr/pictures/N5WU45M9TXy2d4tuWepvm2Gp0zg/0x0:1600x900/432x243/filters:format(jpg)/2022/10/05/php5qLeQD.jpg",
+   "date": null,
+   "pubdate": "2026-09-09T11:31:31.226493+00:00"
+  },
+  {
+   "title": ": Podcast 5:42 audio 5 minutes 42 Les colons de Cisjordanie sanctionnés, records à la pompe et l'IA est un crack en maths : ça dit quoi ce 9 septembre ? Ce mercredi 9 septembre, 12 pays annoncent stopper le commerce avec les colons de Cisjordanie, le prix de l'essence atteint de nouveaux records et Open AI affirme avoir résolu un problème de maths réputé insoluble.",
+   "link": "https://www.franceinfo.fr/replay-radio/ca-dit-quoi/les-colons-de-cisjordanie-sanctionnes-records-a-la-pompe-et-l-ia-est-un-crack-en-maths-ca-dit-quoi-ce-9-septembre_8174438.html",
+   "summary": "Les colons de Cisjordanie sanctionnés, records à la pompe et l'IA est un crack en maths : ça dit quoi ce 9 septembre ?",
+   "image": "https://www.franceinfo.fr/pictures/9lyqWE1bA5I30lff67Q1rji1RF8/0x110:2120x1303/432x243/filters:format(jpg)/2026/09/09/6aa102d798763076939399.jpg",
    "date": null,
    "pubdate": "2026-09-09T11:31:31.226493+00:00"
   },
@@ -170,14 +260,6 @@
    "pubdate": "2026-09-09T11:31:31.226493+00:00"
   },
   {
-   "title": "• Direct Guerre au Moyen-Orient : plusieurs navires sont en feu dans le Golfe, selon l'agence maritime britannique L'Iran a annoncé plus tôt mercredi avoir pris pour cible une vingtaine de bateaux tentant d'emprunter le détroit d'Ormuz.",
-   "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-teheran-attaque-une-base-militaire-des-etats-unis-en-jordanie-et-une-vingtaine-de-bateaux-apres-des-frappes-americaines-contre-des-petroliers_8184188.html",
-   "summary": "Guerre au Moyen-Orient : plusieurs navires sont en feu dans le Golfe, selon l'agence maritime britannique",
-   "image": "https://www.franceinfo.fr/pictures/QO7MU-nHW9vdsMsfXSfnb_cbfUw/0x0:1015x571/432x243/filters:format(jpg)/2026/09/09/6aa12f372070f083787632.jpg",
-   "date": null,
-   "pubdate": "2026-09-09T11:31:31.226493+00:00"
-  },
-  {
    "title": "Tout comprendre à la guerre au Moyen-Orient 27 contenus",
    "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/tout-comprendre-a-la-guerre-au-moyen-orient/",
    "summary": "Tout comprendre à la guerre au Moyen-Orient",
@@ -192,70 +274,6 @@
    "image": "https://www.franceinfo.fr/pictures/MKq4Aviz_2Dt7XVuO__X2DAEw5M/432x297/filters:format(jpg)/2026/01/22/043-sw-js9nbczzm6o-697245bf34b52414921393.jpg",
    "date": null,
    "pubdate": "2026-09-09T04:49:46.743613+00:00"
-  },
-  {
-   "title": "De \"belles annonces\" attendues, des géants américains absents… Ce que l'on sait du Sommet international sur l'espace organisé par Emmanuel Macron à Paris Ce rendez-vous inédit, qui se tient mercredi et jeudi, doit permettre un dialogue entre des dirigeants internationaux et des entreprises du spatial. Sa préparation a été marquée par les désistements inattendus du chancelier allemand Friedrich Merz et des entreprises américaines SpaceX et Blue Origin.",
-   "link": "https://www.franceinfo.fr/sciences/espace/de-belles-annonces-attendues-des-geants-americains-absents-ce-que-l-on-sait-du-sommet-international-sur-l-espace-organise-par-emmanuel-macron-a-paris_8180450.html",
-   "summary": "De \"belles annonces\" attendues, des géants américains absents… Ce que l'on sait du Sommet international sur l'espace organisé par Emmanuel Macron à Paris",
-   "image": "https://www.franceinfo.fr/pictures/ytmNCVjNTPKzk7WnKIUZXFOI2Ds/0x106:1024x682/432x243/filters:format(jpg)/2026/09/07/6a9e5f3e87dab223718898.jpg",
-   "date": null,
-   "pubdate": "2026-09-09T04:49:46.743613+00:00"
-  },
-  {
-   "title": ": Vrai ou faux Le \"Nobel\" d'économie est-il un \"soi-disant\" prix Nobel, comme le juge Jean-Luc Mélenchon ? Après les critiques de Philippe Aghion contre la proposition d'annuler une partie de la dette française, le candidat insoumis à la présidentielle a minimisé la récompense reçue par l'économiste en 2025. Une attaque qui remet en lumière l'histoire singulière de ce prix.",
-   "link": "https://www.franceinfo.fr/monde/prix-nobel/vrai-ou-faux-le-nobel-d-economie-est-il-un-soi-disant-prix-nobel-comme-le-juge-jean-luc-melenchon_8182844.html",
-   "summary": "Le \"Nobel\" d'économie est-il un \"soi-disant\" prix Nobel, comme le juge Jean-Luc Mélenchon ?",
-   "image": "https://www.franceinfo.fr/pictures/j9aZLY0_MZ_iPiUzrXhlBajy7dU/0x0:1024x576/432x243/filters:format(jpg)/2026/09/08/6aa0232861efd327116624.jpg",
-   "date": null,
-   "pubdate": "2026-09-09T04:49:46.743613+00:00"
-  },
-  {
-   "title": "Un an de Donald Trump au pouvoir 18 contenus",
-   "link": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/un-an-de-donald-trump-au-pouvoir/",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/_Ls0AfsrdeH4b8e1t1laldX3AFA/432x297/filters:format(jpg)/2026/01/21/un-an-trump-au-pouvoir-6970f70527d4e960570673.jpg",
-   "date": null,
-   "pubdate": "2026-09-08T23:26:00.812526+00:00"
-  },
-  {
-   "title": "La série \"South Park\" se rebaptise \"South America\" pour se moquer de Donald Trump Cette initiative de la série satirique tourne en dérision les velléités du président américain de rebaptiser des lieux à travers le monde par des décisions unilatérales.",
-   "link": "https://www.franceinfo.fr/culture/la-serie-south-park-se-rebaptise-south-america-pour-se-moquer-de-donald-trump_8183780.html",
-   "summary": "La série \"South Park\" se rebaptise \"South America\" pour se moquer de Donald Trump",
-   "image": "https://www.franceinfo.fr/pictures/iypxF9eB80qaa6Gbaa9f5xnG-lM/0x0:1024x576/432x243/filters:format(jpg)/2026/09/08/6aa0836918f9d880545602.jpg",
-   "date": null,
-   "pubdate": "2026-09-08T23:26:00.812526+00:00"
-  },
-  {
-   "title": "Après une attaque d'ampleur des rebelles yéménites en Arabie saoudite, l'UE dénonce \"une escalade dangereuse\" Riyad a dénoncé une série de frappes des houthis du Yémen voisin, et promis de riposter à ce qui constitue la plus importante attaque de ces rebelles pro-iraniens contre le territoire saoudien depuis plusieurs années.",
-   "link": "https://www.franceinfo.fr/monde/proche-orient/yemen/apres-une-attaque-d-ampleur-des-rebelles-yemenites-en-arabie-saoudite-l-ue-denonce-une-escalade-dangereuse_8183744.html",
-   "summary": "Après une attaque d'ampleur des rebelles yéménites en Arabie saoudite, l'UE dénonce \"une escalade dangereuse\"",
-   "image": "https://www.franceinfo.fr/pictures/krC4XncHntzupuXFKZzFM-89Krw/0x320:682x703/432x243/filters:format(jpg)/2026/09/08/6aa078d4530ee482615498.jpg",
-   "date": null,
-   "pubdate": "2026-09-08T23:26:00.812526+00:00"
-  },
-  {
-   "title": ": Reportage 4:57 audio 4 minutes 57 : Reportage \"C'est le sauveur\", Ulrich Siegmund \"l’homme le plus dangereux d’Allemagne\", selon \"Der Spiegel\", aux portes d'une victoire historique",
-   "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-c-est-le-sauveur-en-saxe-anhalt-ulrich-siegmund-l-homme-le-plus-dangereux-d-allemagne-selon-der-spiegel-aux-portes-du-pouvoir_8147219.html",
-   "summary": "\"C'est le sauveur\", Ulrich Siegmund \"l’homme le plus dangereux d’Allemagne\", selon \"Der Spiegel\", aux portes d'une victoire historique",
-   "image": "https://www.franceinfo.fr/pictures/VFg8d1outM3G4QXNVW4Z5Ox_n70/171x0:853x682/100x100/filters:format(jpg)/2026/09/04/6a9a5941c45a4796624614.jpg",
-   "date": null,
-   "pubdate": "2026-09-08T18:34:35.827269+00:00"
-  },
-  {
-   "title": "8:38 vidéo 8 minutes 38 Du sommet de l'État au quotidien des habitants, comment Taïwan se prépare à une guerre avec la Chine",
-   "link": "https://www.franceinfo.fr/monde/asie/taiwan/du-sommet-de-l-etat-au-quotidien-des-habitants-comment-taiwan-se-prepare-a-une-guerre-avec-la-chine_8181767.html",
-   "summary": "Du sommet de l'État au quotidien des habitants, comment Taïwan se prépare à une guerre avec la Chine",
-   "image": "https://www.franceinfo.fr/pictures/qv3AbkPaCS-_I_VHsNJFogDZez8/301x0:976x675/100x100/filters:format(jpg)/2026/09/07/6a9f2791a58aa222823355.jpg",
-   "date": null,
-   "pubdate": "2026-09-07T21:29:41.175938+00:00"
-  },
-  {
-   "title": "L'essentiel des révélations sur l'affaire Epstein 14 contenus",
-   "link": "https://www.franceinfo.fr/monde/usa/affaire-jeffrey-epstein/l-essentiel-des-revelations-sur-l-affaire-epstein/",
-   "summary": "L'essentiel des révélations sur l'affaire Epstein",
-   "image": "https://www.franceinfo.fr/pictures/btENVL4vmQDLNvnJ4uUtTATvN9k/432x297/filters:format(jpg)/2026/02/12/000-96rl2gk-1-698def9a11d8a867290796.jpg",
-   "date": null,
-   "pubdate": "2026-09-07T12:37:45.783605+00:00"
   }
  ]
 }
