@@ -1,40 +1,102 @@
 {
- "etag": "\"21353deb427894f02ae16f3b4efaeb38-gzip\"",
+ "etag": "\"5e723600292c6e1d3f9c03aec29ae154-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/culture/musique/tout-le-monde-les-ecoutait-ou-les-subissait-peut-on-encore-parler-de-hits-de-l-ete-comme-avant-les-reseaux-sociaux_8155445.html": "2026-09-01T18:33:18.227663+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-visite-du-pape-a-metz-c-est-un-formidable-coup-de-projecteur-sur-la-ville-estime-le-maire_8134199.html": "2026-09-04T21:28:42.202411+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/j-essaie-d-y-aller-cinq-six-fois-par-semaine-a-16-ou-17-ans-ils-sont-deja-accros-a-la-salle-de-sport_8136965.html": "2026-09-05T00:38:17.798512+00:00",
   "https://www.franceinfo.fr/societe/nos-jours-heureux/nos-jours-heureux-baignade-salee-deluge-et-sentiment-de-liberte-a-deauville-la-journee-des-oublies-des-vacances-vire-a-la-formidable-odyssee_8155004.html": "2026-09-06T12:33:38.094002+00:00",
-  "https://www.franceinfo.fr/societe/l-eviction-du-personnel-feminin-de-la-tour-eiffel-lors-d-un-evenement-hindou-est-un-evenement-totalement-choquant-et-inacceptable-assure-ariel-weil-president-de-la-societe-d-exploitation_8182616.html": "2026-09-08T06:36:37.199331+00:00",
-  "https://www.franceinfo.fr/societe/mobilisation-des-pompiers/reportage-nous-avons-ete-pousses-dans-nos-retranchements-en-lozere-les-pompiers-volontaires-reclament-davantage-de-moyens_8182595.html": "2026-09-08T09:31:36.180009+00:00",
-  "https://www.franceinfo.fr/societe/education/les-resultats-francais-a-l-enquete-pisa-sont-preoccupants-mais-pas-une-surprise-selon-le-ministre-de-l-education-nationale_8182796.html": "2026-09-08T09:31:36.180009+00:00",
-  "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/en-oklahoma-des-detenus-transformes-en-teleoperateurs-pour-des-appels-soupconnes-de-promouvoir-des-candidats-republicains_8160179.html": "2026-09-08T09:31:36.180009+00:00",
-  "https://www.franceinfo.fr/societe/education/classement-pisa/la-france-stagne-a-la-27e-place-la-chine-domine-le-niveau-global-baisse-ce-qu-il-faut-retenir-du-classement-pisa-2026_8180801.html": "2026-09-08T09:31:36.180009+00:00",
   "https://www.franceinfo.fr/faits-divers/affaire-le-scouarnec/l-ordre-des-medecins-est-une-boite-noire-qui-etouffe-et-protege-denonce-la-deputee-sandrine-rousseau-a-propos-de-l-affaire-le-scouarnec_8183138.html": "2026-09-08T12:37:49.869652+00:00",
   "https://www.franceinfo.fr/societe/education/chute-du-niveau-des-eleves-francais-dans-l-enquete-pisa-2025-l-education-souffre-d-un-trop-plein-de-reformes-deplore-un-specialiste_8182787.html": "2026-09-08T12:37:49.869652+00:00",
   "https://www.franceinfo.fr/societe/prise-en-charge-des-personnes-agees/maltraitance-dans-les-ehpad/des-ressources-humaines-et-financieres-largement-insuffisantes-4-ans-apres-le-scandale-orpea-le-conseil-de-l-europe-s-alarme-de-la-situation-des-ehpad-en-france_8183087.html": "2026-09-08T12:37:49.869652+00:00",
   "https://www.franceinfo.fr/societe/mobilisation-des-pompiers/nous-sommes-decus-assurent-les-sapeurs-pompiers-en-greve-apres-une-reunion-au-ministere-de-l-interieur_8183099.html": "2026-09-08T12:37:49.869652+00:00",
   "https://www.franceinfo.fr/societe/justice/info-radio-france-pres-de-500-kilos-de-protoxyde-d-azote-retrouves-dans-un-fourgon-dans-le-var-le-conducteur-condamne-a-un-an-de-prison-ferme_8182955.html": "2026-09-08T12:37:49.869652+00:00",
-  "https://www.franceinfo.fr/societe/mobilisation-des-pompiers/pourquoi-les-pompiers-sont-en-greve_8183426.html": "2026-09-08T15:33:11.536771+00:00",
   "https://www.franceinfo.fr/societe/religion/qui-est-baps-ce-groupe-hindou-dont-la-visite-de-la-tour-eiffel-a-provoque-une-greve-lundi_8183228.html": "2026-09-08T15:33:11.536771+00:00",
   "https://www.franceinfo.fr/societe/feminicides/le-corps-calcine-d-une-femme-retrouve-pres-de-toulouse-une-enquete-ouverte-pour-assassinat-sur-conjoint_8183303.html": "2026-09-08T15:33:11.536771+00:00",
   "https://www.franceinfo.fr/culture/cinema/faire-de-l-education-a-l-image-un-apprentissage-fondamental-du-xxie-siecle-une-grande-ambition-post-sommet-lumiere_8181062.html": "2026-09-08T15:33:11.536771+00:00",
   "https://www.franceinfo.fr/faits-divers/les-policiers-n-ont-pas-fait-usage-de-leur-arme-lors-des-violences-urbaines-a-chambery-affirme-le-parquet-de-la-ville_8183282.html": "2026-09-08T15:33:11.536771+00:00",
   "https://www.franceinfo.fr/societe/education/pourquoi-le-niveau-des-eleves-britanniques-est-il-meilleur-que-celui-des-francais_8183156.html": "2026-09-08T15:33:11.536771+00:00",
   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/a-cause-de-la-chaleur-les-cours-suspendus-dans-trois-lycees-de-nimes-mardi-apres-midi_8183246.html": "2026-09-08T15:33:11.536771+00:00",
-  "https://www.franceinfo.fr/faits-divers/police/violences-urbaines-apres-un-controle-de-police-a-chambery-la-piste-d-un-suicide-ou-d-un-tir-accidentel-de-la-victime-etudiee_8183687.html": "2026-09-08T18:34:31.033646+00:00",
   "https://www.franceinfo.fr/societe/religion/le-mouvement-hindou-baps-n-a-pas-demande-un-traitement-differencie-entre-les-femmes-et-les-hommes-lors-de-la-visite-de-sa-delegation-a-la-tour-eiffel_8183684.html": "2026-09-08T18:34:31.033646+00:00",
   "https://www.franceinfo.fr/internet/reseaux-sociaux/fausses-informations-des-ateliers-proposes-aux-seniors-pour-apprendre-a-detecter-les-pieges-sur-internet_8183720.html": "2026-09-08T23:25:56.022604+00:00",
   "https://www.franceinfo.fr/societe/mobilisation-des-pompiers/pompiers-en-pleine-greve-la-colere-monte-apres-un-ete-marque-par-les-incendies_8183729.html": "2026-09-08T23:25:56.022604+00:00",
-  "https://www.franceinfo.fr/societe/un-restaurateur-cible-par-des-messages-haineux-apres-avoir-ajoute-des-plats-halal-a-sa-carte_8183738.html": "2026-09-08T23:25:56.022604+00:00",
-  "https://www.franceinfo.fr/societe/education/education-les-collegiens-de-plus-en-plus-en-difficulte-en-mathematiques_8183723.html": "2026-09-08T23:25:56.022604+00:00",
-  "https://www.franceinfo.fr/monde/inde/tour-eiffel-fermee-un-groupe-religieux-au-c-ur-du-scandale_8183477.html": "2026-09-08T23:25:56.022604+00:00",
   "https://www.franceinfo.fr/societe/nos-jours-heureux/": "2026-09-09T04:49:42.416146+00:00",
-  "https://www.franceinfo.fr/societe/euthanasie/comprendre-les-debats-sur-la-fin-de-vie/": "2026-09-09T04:49:42.416146+00:00"
+  "https://www.franceinfo.fr/societe/euthanasie/comprendre-les-debats-sur-la-fin-de-vie/": "2026-09-09T04:49:42.416146+00:00",
+  "https://www.franceinfo.fr/societe/education/un-rapport-senatorial-veut-supprimer-le-droit-de-tous-les-bacheliers-de-poursuivre-des-etudes_8184521.html": "2026-09-09T11:31:24.722413+00:00",
+  "https://www.franceinfo.fr/societe/harcelement-sexuel/un-professeur-de-tennis-de-25-ans-mis-en-examen-pour-viol-et-agression-sexuelle-sur-mineur-dans-le-vaucluse_8184554.html": "2026-09-09T11:31:24.722413+00:00",
+  "https://www.franceinfo.fr/societe/education/bruno-le-maire-souhaite-avancer-la-maternelle-de-3-ans-a-1-an-face-a-la-baisse-des-resultats-des-eleves-francais-au-test-pisa_8184428.html": "2026-09-09T11:31:24.722413+00:00",
+  "https://www.franceinfo.fr/societe/justice/on-est-sous-le-choc-confie-le-conservateur-du-musee-apres-le-cambriolage-au-musee-renoir_8184437.html": "2026-09-09T11:31:24.722413+00:00",
+  "https://www.franceinfo.fr/economie/automobile/essence/on-fait-attention-parce-qu-on-est-parents-face-a-la-flambee-du-carburant-les-automobilistes-traquent-les-economies_8184272.html": "2026-09-09T11:31:24.722413+00:00",
+  "https://www.franceinfo.fr/societe/education/violences-dans-le-periscolaire/tous-les-faits-contredisent-les-accusations-de-non-assistance-a-personne-en-danger-concernant-les-violences-dans-le-periscolaire-se-defend-anne-hidalgo-ancienne-maire-de-paris_8184347.html": "2026-09-09T11:31:24.722413+00:00",
+  "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-le-declassement-de-la-france-s-installe-au-c-ur-de-la-campagne-presidentielle_8161532.html": "2026-09-09T11:31:24.722413+00:00",
+  "https://www.franceinfo.fr/societe/drogue/un-homme-mis-en-examen-et-ecroue-apres-la-saisie-de-930-kg-de-cocaine-dans-les-pyrenees-orientales_8184260.html": "2026-09-09T11:31:24.722413+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "Un rapport sénatorial veut supprimer le droit de tous les bacheliers de poursuivre des études Ce rapport issu de la commission d'enquête sur l'excellence académique recommande aussi de multiplier par cinq les frais d'inscription à l'université.",
+   "link": "https://www.franceinfo.fr/societe/education/un-rapport-senatorial-veut-supprimer-le-droit-de-tous-les-bacheliers-de-poursuivre-des-etudes_8184521.html",
+   "summary": "Un rapport sénatorial veut supprimer le droit de tous les bacheliers de poursuivre des études",
+   "image": "https://www.franceinfo.fr/pictures/wrTpllAE0zOeSCM9w2GXDzXtY6s/32x0:1024x682/432x297/filters:format(jpg)/2026/09/09/6aa12dc046c9e771858905.jpg",
+   "date": null,
+   "pubdate": "2026-09-09T11:31:24.722413+00:00"
+  },
+  {
+   "title": "Un professeur de tennis de 25 ans mis en examen pour viol et agression sexuelle sur mineur dans le Vaucluse",
+   "link": "https://www.franceinfo.fr/societe/harcelement-sexuel/un-professeur-de-tennis-de-25-ans-mis-en-examen-pour-viol-et-agression-sexuelle-sur-mineur-dans-le-vaucluse_8184554.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/xgrv8iNkTOAFYSCXERjRXyqgnb8/0x103:3872x2281/432x243/filters:format(jpg)/2026/09/09/6aa126bea63c1097596367.jpg",
+   "date": null,
+   "pubdate": "2026-09-09T11:31:24.722413+00:00"
+  },
+  {
+   "title": "Bruno Le Maire souhaite \"avancer la maternelle de 3 ans à 1 an\" face à la baisse des résultats des élèves français au test Pisa",
+   "link": "https://www.franceinfo.fr/societe/education/bruno-le-maire-souhaite-avancer-la-maternelle-de-3-ans-a-1-an-face-a-la-baisse-des-resultats-des-eleves-francais-au-test-pisa_8184428.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/L-YB1EazInTzeBZWRU3E_k2w1VI/0x25:1024x601/432x243/filters:format(jpg)/2026/09/09/6aa1156adf926871993729.jpg",
+   "date": null,
+   "pubdate": "2026-09-09T11:31:24.722413+00:00"
+  },
+  {
+   "title": "\"On est sous le choc\", confie le conservateur du musée après le cambriolage au Musée Renoir",
+   "link": "https://www.franceinfo.fr/societe/justice/on-est-sous-le-choc-confie-le-conservateur-du-musee-apres-le-cambriolage-au-musee-renoir_8184437.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/RD2bdeDS_8NIJPFH6T4PkNmgE6U/0x107:3149x1878/432x243/filters:format(jpg)/2026/09/09/6aa113bb3156d575481280.jpg",
+   "date": null,
+   "pubdate": "2026-09-09T11:31:24.722413+00:00"
+  },
+  {
+   "title": "\"On fait attention parce qu’on est parents\" : face à la flambée du carburant, les automobilistes traquent les économies",
+   "link": "https://www.franceinfo.fr/economie/automobile/essence/on-fait-attention-parce-qu-on-est-parents-face-a-la-flambee-du-carburant-les-automobilistes-traquent-les-economies_8184272.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/tTBdFWriqp9m9DNLFIxt4NmYoiY/0x327:6286x3863/432x243/filters:format(jpg)/2026/09/09/6aa1033408fda012447717.jpg",
+   "date": null,
+   "pubdate": "2026-09-09T11:31:24.722413+00:00"
+  },
+  {
+   "title": "\"Tous les faits contredisent\" les accusations de non-assistance à personne en danger concernant les violences dans le périscolaire, se défend Anne Hidalgo, ancienne maire de Paris",
+   "link": "https://www.franceinfo.fr/societe/education/violences-dans-le-periscolaire/tous-les-faits-contredisent-les-accusations-de-non-assistance-a-personne-en-danger-concernant-les-violences-dans-le-periscolaire-se-defend-anne-hidalgo-ancienne-maire-de-paris_8184347.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/ibe9Bgk0ClI7yB9j5qen3OpLOA4/0x0:5546x3119/432x243/filters:format(jpg)/2026/09/09/6aa10378d6df8117724389.jpg",
+   "date": null,
+   "pubdate": "2026-09-09T11:31:24.722413+00:00"
+  },
+  {
+   "title": ": Édito 2:47 audio 2 minutes 47 : Édito Le déclassement de la France s’installe au cœur de la campagne présidentielle",
+   "link": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-le-declassement-de-la-france-s-installe-au-c-ur-de-la-campagne-presidentielle_8161532.html",
+   "summary": "Le déclassement de la France s’installe au cœur de la campagne présidentielle",
+   "image": "https://www.franceinfo.fr/pictures/o9ShN5S_l3vXUrmQoJCY4I1kE70/0x311:5973x3670/432x243/filters:format(jpg)/2026/09/09/6aa0e5795acad752016402.jpg",
+   "date": null,
+   "pubdate": "2026-09-09T11:31:24.722413+00:00"
+  },
+  {
+   "title": "Un homme mis en examen et écroué après la saisie de 930 kg de cocaïne dans les Pyrénées-Orientales",
+   "link": "https://www.franceinfo.fr/societe/drogue/un-homme-mis-en-examen-et-ecroue-apres-la-saisie-de-930-kg-de-cocaine-dans-les-pyrenees-orientales_8184260.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/eVnVGqo_5dip8HAa8ZlydLIW-Nc/0x53:1024x629/432x243/filters:format(jpg)/2026/09/09/6aa0f27dd01ec516584193.jpg",
+   "date": null,
+   "pubdate": "2026-09-09T11:31:24.722413+00:00"
+  },
   {
    "title": "Nos jours heureux 5 contenus",
    "link": "https://www.franceinfo.fr/societe/nos-jours-heureux/",
@@ -52,10 +114,10 @@
    "pubdate": "2026-09-09T04:49:42.416146+00:00"
   },
   {
-   "title": "4:03 vidéo 4 minutes 3 Fausses informations : des ateliers proposés aux seniors pour apprendre à détecter les pièges sur Internet Les réseaux sociaux changent notre façon de nous informer, et cela concerne toutes les générations. Vous êtes nombreux à y retrouver vos proches, à partager des articles, mais comment savoir à quoi se fier ? Une étude a montré que les plus de 65 ans partageaient près de sept fois plus de fausses informations que les jeunes adultes. Des formations les aident à repérer les pièges et à comprendre ce qui apparaît sur leur écran.",
+   "title": "4:03 vidéo 4 minutes 3 Fausses informations : des ateliers proposés aux seniors pour apprendre à détecter les pièges sur Internet",
    "link": "https://www.franceinfo.fr/internet/reseaux-sociaux/fausses-informations-des-ateliers-proposes-aux-seniors-pour-apprendre-a-detecter-les-pieges-sur-internet_8183720.html",
    "summary": "Fausses informations : des ateliers proposés aux seniors pour apprendre à détecter les pièges sur Internet",
-   "image": "https://www.franceinfo.fr/pictures/BOdQ6cgUcwiP7ESSz_m3WZ476uY/39x0:993x656/432x297/filters:format(jpg)/2026/09/08/6aa06aa4e4262022135274.jpg",
+   "image": "https://www.franceinfo.fr/pictures/ac4PCMROxiKQkZy4fYA4YFsDuPs/0x37:1033x618/432x243/filters:format(jpg)/2026/09/08/6aa06aa4e4262022135274.jpg",
    "date": null,
    "pubdate": "2026-09-08T23:25:56.022604+00:00"
   },
@@ -68,65 +130,25 @@
    "pubdate": "2026-09-08T23:25:56.022604+00:00"
   },
   {
-   "title": "2:16 vidéo 2 minutes 16 Un restaurateur ciblé par des messages haineux après avoir ajouté des plats halal à sa carte",
-   "link": "https://www.franceinfo.fr/societe/un-restaurateur-cible-par-des-messages-haineux-apres-avoir-ajoute-des-plats-halal-a-sa-carte_8183738.html",
-   "summary": "Un restaurateur ciblé par des messages haineux après avoir ajouté des plats halal à sa carte",
-   "image": "https://www.franceinfo.fr/pictures/zWs1K25kSQgS7qhZP-xk3MWfUFg/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/08/6aa067dbc889f605309719.png",
-   "date": null,
-   "pubdate": "2026-09-08T23:25:56.022604+00:00"
-  },
-  {
-   "title": "2:01 vidéo 2 minutes 1 Éducation : les collégiens de plus en plus en difficulté en mathématiques",
-   "link": "https://www.franceinfo.fr/societe/education/education-les-collegiens-de-plus-en-plus-en-difficulte-en-mathematiques_8183723.html",
-   "summary": "Éducation : les collégiens de plus en plus en difficulté en mathématiques",
-   "image": "https://www.franceinfo.fr/pictures/6shU9XNBLH7_F8d02do5qlg2kJE/0x55:849x533/432x243/filters:format(jpg)/2026/09/08/6aa0665053423658487082.jpg",
-   "date": null,
-   "pubdate": "2026-09-08T23:25:56.022604+00:00"
-  },
-  {
-   "title": "vidéo Tour Eiffel fermée : un groupe religieux au cœur du scandale",
-   "link": "https://www.franceinfo.fr/monde/inde/tour-eiffel-fermee-un-groupe-religieux-au-c-ur-du-scandale_8183477.html",
-   "summary": "Tour Eiffel fermée : un groupe religieux au cœur du scandale",
-   "image": "https://www.franceinfo.fr/pictures/rWc4ACe1YtcRERHotB7viWePrdg/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/08/6aa02ddf3f06d358059976.png",
-   "date": null,
-   "pubdate": "2026-09-08T23:25:56.022604+00:00"
-  },
-  {
-   "title": "2:14 vidéo 2 minutes 14 Violences urbaines après un contrôle de police à Chambéry : la piste d'un suicide ou d'un tir accidentel de la victime étudiée",
-   "link": "https://www.franceinfo.fr/faits-divers/police/violences-urbaines-apres-un-controle-de-police-a-chambery-la-piste-d-un-suicide-ou-d-un-tir-accidentel-de-la-victime-etudiee_8183687.html",
-   "summary": "Violences urbaines après un contrôle de police à Chambéry : la piste d'un suicide ou d'un tir accidentel de la victime étudiée",
-   "image": "https://www.franceinfo.fr/pictures/uniK2Jnf6d4JV15XYZDelhO4xU4/0x51:793x497/432x243/filters:format(jpg)/2026/09/08/6aa05391bc6f4502828591.jpg",
-   "date": null,
-   "pubdate": "2026-09-08T18:34:31.033646+00:00"
-  },
-  {
-   "title": "Le mouvement hindou Baps n'a pas demandé \"un traitement différencié entre les femmes et les hommes\", lors de la visite de sa délégation à la tour Eiffel",
+   "title": "Le mouvement hindou Baps affirme ne pas avoir demandé \"un traitement différencié entre les femmes et les hommes\", lors de la visite de sa délégation à la tour Eiffel Les salariés du monument le plus connu de Paris ont fermé l'accès à la tour lundi afin de dénoncer des \"consignes\" ayant conduit à l'exclusion du personnel féminin lors d'une visite de la délégation de ce groupe religieux samedi.",
    "link": "https://www.franceinfo.fr/societe/religion/le-mouvement-hindou-baps-n-a-pas-demande-un-traitement-differencie-entre-les-femmes-et-les-hommes-lors-de-la-visite-de-sa-delegation-a-la-tour-eiffel_8183684.html",
-   "summary": "",
+   "summary": "Le mouvement hindou Baps affirme ne pas avoir demandé \"un traitement différencié entre les femmes et les hommes\", lors de la visite de sa délégation à la tour Eiffel",
    "image": "https://www.franceinfo.fr/pictures/WjYMRa2Jmqv26zrP4XyEV6c-Vj8/0x286:5496x3377/432x243/filters:format(jpg)/2026/09/08/6aa01e0cf3697022103793.jpg",
    "date": null,
    "pubdate": "2026-09-08T18:34:31.033646+00:00"
   },
   {
-   "title": "0:51 vidéo 51 secondes Pourquoi les pompiers sont en grève ?",
-   "link": "https://www.franceinfo.fr/societe/mobilisation-des-pompiers/pourquoi-les-pompiers-sont-en-greve_8183426.html",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/wu_g1MlSrSeoPP1smcwtF1dNXOY/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/08/6aa026fa65531698495057.jpg",
-   "date": null,
-   "pubdate": "2026-09-08T15:33:11.536771+00:00"
-  },
-  {
-   "title": "Qui est BAPS, ce groupe hindou dont la visite de la tour Eiffel a provoqué une grève lundi ?",
+   "title": "Qui est BAPS, ce groupe hindou dont la visite de la tour Eiffel a provoqué une grève lundi ? Une partie du personnel du monument s'est mise en grève pour protester contre l'éviction des femmes lors de la visite d'une délégation hindoue samedi à la tour Eiffel. De son côté, l'organisation BAPS se défend d'avoir voulu une telle exclusion.",
    "link": "https://www.franceinfo.fr/societe/religion/qui-est-baps-ce-groupe-hindou-dont-la-visite-de-la-tour-eiffel-a-provoque-une-greve-lundi_8183228.html",
-   "summary": "",
+   "summary": "Qui est BAPS, ce groupe hindou dont la visite de la tour Eiffel a provoqué une grève lundi ?",
    "image": "https://www.franceinfo.fr/pictures/WjYMRa2Jmqv26zrP4XyEV6c-Vj8/0x286:5496x3377/432x243/filters:format(jpg)/2026/09/08/6aa01e0cf3697022103793.jpg",
    "date": null,
    "pubdate": "2026-09-08T15:33:11.536771+00:00"
   },
   {
-   "title": "Le corps calciné d'une femme retrouvé près de Toulouse, une enquête ouverte pour assassinat sur conjoint",
+   "title": "Le corps calciné d'une femme retrouvé près de Toulouse, une enquête ouverte pour assassinat sur conjoint Le suspect présumé et ex-conjoint de la victime a déjà fait l'objet d'une plainte de cette dernière pour \"appels malveillants par conjoint, atteinte à l'intimité par conjoint, violences psychologiques ayant occasionné un jour d'ITT\".",
    "link": "https://www.franceinfo.fr/societe/feminicides/le-corps-calcine-d-une-femme-retrouve-pres-de-toulouse-une-enquete-ouverte-pour-assassinat-sur-conjoint_8183303.html",
-   "summary": "",
+   "summary": "Le corps calciné d'une femme retrouvé près de Toulouse, une enquête ouverte pour assassinat sur conjoint",
    "image": "https://www.franceinfo.fr/pictures/r0McupV9PMdYc0je2WPfDQ69fgc/432x243/filters:format(jpg)/2026/07/30/6a6b6ca8adaf1294085877.jpg",
    "date": null,
    "pubdate": "2026-09-08T15:33:11.536771+00:00"
@@ -202,46 +224,6 @@
    "image": "https://www.franceinfo.fr/pictures/7K8jrDxt390WOVG-X4GJreIyoaU/0x276:5340x3280/432x243/filters:format(jpg)/2026/09/08/6a9fdcbf54cdb661288706.jpg",
    "date": null,
    "pubdate": "2026-09-08T12:37:49.869652+00:00"
-  },
-  {
-   "title": ": Reportage \"Nous avons été poussés dans nos retranchements\" : en Lozère, les pompiers volontaires réclament davantage de moyens Les pompiers sont appelés à la grève partout en France à partir de mardi. La Lozère illustre les difficultés auxquelles ils sont confrontés : manque d'effectifs, matériel vieillissant et hausse des interventions. Les volontaires, très majoritaires dans le département, arrivent à bout de souffle.",
-   "link": "https://www.franceinfo.fr/societe/mobilisation-des-pompiers/reportage-nous-avons-ete-pousses-dans-nos-retranchements-en-lozere-les-pompiers-volontaires-reclament-davantage-de-moyens_8182595.html",
-   "summary": "\"Nous avons été poussés dans nos retranchements\" : en Lozère, les pompiers volontaires réclament davantage de moyens",
-   "image": "https://www.franceinfo.fr/pictures/3fcJwNf_HPsxUPEN4cRmtvuJt3E/0x312:6000x3687/432x243/filters:format(jpg)/2026/09/08/6a9fb0730f7aa066910463.jpg",
-   "date": null,
-   "pubdate": "2026-09-08T09:31:36.180009+00:00"
-  },
-  {
-   "title": "Les résultats français à l'enquête Pisa sont \"préoccupants\" mais \"pas une surprise\" selon le ministre de l'Education nationale Les résultats des élèves français à l'enquête internationale Pisa de 2025 sont les plus bas jamais mesurés depuis la création de ce classement en 2000. La France se maintient toutefois dans la moyenne des pays de l'OCDE.",
-   "link": "https://www.franceinfo.fr/societe/education/les-resultats-francais-a-l-enquete-pisa-sont-preoccupants-mais-pas-une-surprise-selon-le-ministre-de-l-education-nationale_8182796.html",
-   "summary": "Les résultats français à l'enquête Pisa sont \"préoccupants\" mais \"pas une surprise\" selon le ministre de l'Education nationale",
-   "image": "https://www.franceinfo.fr/pictures/LkXXSHOzkfYoBkpD8pHE_bJk0xw/0x0:1024x576/432x243/filters:format(jpg)/2026/09/08/6a9fc57b020a8898017376.jpg",
-   "date": null,
-   "pubdate": "2026-09-08T09:31:36.180009+00:00"
-  },
-  {
-   "title": "2:28 audio 2 minutes 28 En Oklahoma, des détenus transformés en téléopérateurs pour des appels soupçonnés de promouvoir des candidats républicains Plusieurs prisons d'Oklahoma ont servi en 2026 de centres d’appels, avec des détenus payés pour faire, indirectement, la promotion de candidats républicains. Une pratique révélée par une enquête du site d’investigation Oklahoma Watch.",
-   "link": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/en-oklahoma-des-detenus-transformes-en-teleoperateurs-pour-des-appels-soupconnes-de-promouvoir-des-candidats-republicains_8160179.html",
-   "summary": "En Oklahoma, des détenus transformés en téléopérateurs pour des appels soupçonnés de promouvoir des candidats républicains",
-   "image": "https://www.franceinfo.fr/pictures/r8NfwY2gcNwAmdtvImUVSPCXD8o/0x52:1024x628/432x243/filters:format(jpg)/2026/09/08/6a9fbbe70d9f1875435398.jpg",
-   "date": null,
-   "pubdate": "2026-09-08T09:31:36.180009+00:00"
-  },
-  {
-   "title": "La France stagne à la 27e place, la Chine domine, le niveau global baisse… Ce qu'il faut retenir des résultats du classement Pisa 2026 Les analystes du classement constatent une baisse générale du niveau des élèves des pays de l'Organisation de coopération et de développement économiques en lecture, en mathématiques et en sciences.",
-   "link": "https://www.franceinfo.fr/societe/education/classement-pisa/la-france-stagne-a-la-27e-place-la-chine-domine-le-niveau-global-baisse-ce-qu-il-faut-retenir-du-classement-pisa-2026_8180801.html",
-   "summary": "La France stagne à la 27e place, la Chine domine, le niveau global baisse… Ce qu'il faut retenir des résultats du classement Pisa 2026",
-   "image": "https://www.franceinfo.fr/pictures/HRYgDamz3Dcrf2fRd_w6DogGM2Q/0x74:3984x2315/432x243/filters:format(jpg)/2026/09/07/6a9e9826d1855987249164.jpg",
-   "date": null,
-   "pubdate": "2026-09-08T09:31:36.180009+00:00"
-  },
-  {
-   "title": "L'éviction du personnel féminin de la tour Eiffel lors de la visite d'un groupe hindou est \"totalement choquante et inacceptable\", assure le président de la Société d'exploitation du monument, qui rouvre aujourd'hui Le personnel du monument parisien était en grève lundi, pour protester contre cette mesure. Ariel Weil assure que les résultats de l'enquête interne seront connus \"dans les prochains jours\".",
-   "link": "https://www.franceinfo.fr/societe/l-eviction-du-personnel-feminin-de-la-tour-eiffel-lors-d-un-evenement-hindou-est-un-evenement-totalement-choquant-et-inacceptable-assure-ariel-weil-president-de-la-societe-d-exploitation_8182616.html",
-   "summary": "L'éviction du personnel féminin de la tour Eiffel lors de la visite d'un groupe hindou est \"totalement choquante et inacceptable\", assure le président de la Société d'exploitation du monument, qui rouvre aujourd'hui",
-   "image": "https://www.franceinfo.fr/assets/common/images/logos/placeholder-4e7f49f2.png",
-   "date": null,
-   "pubdate": "2026-09-08T06:36:37.199331+00:00"
   },
   {
    "title": "8:00 article 8 minutes NOS JOURS HEUREUX. Baignade salée, déluge et \"sentiment de liberté\" : à Deauville, la journée des oubliés des vacances vire à la formidable odyssée",
