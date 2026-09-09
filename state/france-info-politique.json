@@ -1,10 +1,8 @@
 {
- "etag": "\"0c66089b7a6039f48a749afd15dd9dc5-gzip\"",
+ "etag": "\"6c8ae7f3aa1fb1a4f9639ea1a8faed7e-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-c-est-le-sauveur-en-saxe-anhalt-ulrich-siegmund-l-homme-le-plus-dangereux-d-allemagne-selon-der-spiegel-aux-portes-du-pouvoir_8147219.html": "2026-09-06T09:29:17.318622+00:00",
-  "https://www.franceinfo.fr/societe/harcelement-sexuel/detection-des-victimes-juridictions-specialisees-reconnaissance-de-l-inceste-ce-que-contient-la-proposition-de-loi-integrale-pour-lutter-contre-les-violences-sexistes-et-sexuelles-qui-arrive-a-l-assemblee_8180609.html": "2026-09-07T12:37:43.044270+00:00",
-  "https://www.franceinfo.fr/societe/harcelement-sexuel/loi-integrale-contre-les-violences-sexuelles-definir-l-inceste-c-est-deja-un-premier-pas-estime-l-association-face-a-l-inceste_8181074.html": "2026-09-07T15:30:58.825926+00:00",
   "https://www.franceinfo.fr/elections/presidentielle/les-socialistes-la-font-bien-la-droite-et-le-centre-peuvent-ils-encore-organiser-une-primaire-pour-la-presidentielle-de-2027_8171882.html": "2026-09-07T15:30:58.825926+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-a-atlanta-les-republicains-craignent-la-fin-de-l-ere-trump-a-l-approche-des-elections-de-mi-mandat-les-democrates-revent-de-revanche_8145842.html": "2026-09-07T18:33:47.481587+00:00",
   "https://www.franceinfo.fr/politique/je-vous-demande-de-vous-arreter-comment-la-phrase-d-edouard-balladur-est-devenue-culte_8171597.html": "2026-09-07T21:29:38.918186+00:00",
@@ -12,28 +10,96 @@
   "https://www.franceinfo.fr/monde/europe/allemagne/quelque-chose-a-change-au-sein-de-la-societe-europeenne-la-victoire-de-l-afd-en-saxe-anhalt-une-lecon-pour-les-partis-d-extreme-droite-en-europe_8180639.html": "2026-09-08T06:36:40.320238+00:00",
   "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-sarah-knafo-a-t-elle-raison-de-denoncer-dans-son-livre-un-casse-du-siecle-orchestre-par-l-etat-au-detriment-des-contribuables_8175293.html": "2026-09-08T06:36:40.320238+00:00",
   "https://www.franceinfo.fr/elections/presidentielle/info-franceinfo-presidentielle-2027-les-details-de-la-charte-envoyee-par-herve-morin-aux-candidats-de-la-droite-et-du-centre-pour-l-organisation-d-une-primaire_8182712.html": "2026-09-08T09:31:38.568019+00:00",
-  "https://www.franceinfo.fr/politique/greve-a-la-tour-eiffel-on-n-efface-pas-les-femmes-dans-notre-societe-francaise-reagit-sebastien-chenu-vice-president-de-l-assemblee-nationale-et-depute-rn_8182730.html": "2026-09-08T09:31:38.568019+00:00",
   "https://www.franceinfo.fr/politique/edouard-philippe/edouard-philippe-denonce-une-decision-absurde-apres-l-eviction-de-salariees-de-la-tour-eiffel-lors-d-un-evenement-hindou_8182721.html": "2026-09-08T09:31:38.568019+00:00",
   "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/vrai-ou-faux-sous-la-cinquieme-republique-la-gauche-n-a-t-elle-jamais-gagne-la-presidentielle-avec-un-candidat-unique-comme-l-affirme-ian-brossat_8160203.html": "2026-09-08T09:31:38.568019+00:00",
   "https://www.franceinfo.fr/politique/francois-hollande/il-est-courageux-francois-hollande-teste-sa-popularite-lors-d-une-seance-de-dedicaces_8182697.html": "2026-09-08T09:31:38.568019+00:00",
   "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/le-8h30-franceinfo-d-edouard-philippe_8160212.html": "2026-09-08T09:31:38.568019+00:00",
-  "https://www.franceinfo.fr/politique/le-casse-tete-des-retraites-en-2027-qui-reviendra-en-2032_8182997.html": "2026-09-08T12:37:52.662594+00:00",
-  "https://www.franceinfo.fr/politique/edouard-philippe/il-y-a-un-risque-tres-grand-que-la-droite-ne-soit-pas-au-second-tour-s-il-y-a-dispersion-des-candidats-en-janvier-fevrier_8182970.html": "2026-09-08T12:37:52.662594+00:00",
   "https://www.franceinfo.fr/economie/transports/prix-des-carburants/le-ministre-de-l-economie-reunit-mercredi-les-distributeurs-pour-parler-des-prix-du-carburant_8183159.html": "2026-09-08T15:33:13.797333+00:00",
   "https://www.franceinfo.fr/politique/ps/primaire-socialiste/info-franceinfo-une-centaine-de-responsables-socialistes-appellent-a-ouvrir-la-primaire-ps-place-publique-entre-autres-a-francois-ruffin_8183657.html": "2026-09-08T18:34:33.227570+00:00",
   "https://www.franceinfo.fr/politique/ps/primaire-socialiste/primaire-du-ps-le-parti-tente-de-booster-la-participation_8183483.html": "2026-09-08T18:34:33.227570+00:00",
   "https://www.franceinfo.fr/elections/presidentielle/edouard-philippe-invite-gabriel-attal-bruno-retailleau-et-francois-bayrou-a-une-rencontre-en-novembre-pour-evoquer-la-presidentielle-2027-et-l-apres-election_8183582.html": "2026-09-08T18:34:33.227570+00:00",
-  "https://www.franceinfo.fr/politique/la-victoire-de-l-afd-en-allemagne-est-une-alerte-extremement-grave-selon-manuel-bompard-coordinateur-de-la-france-insoumise_8181038.html": "2026-09-08T18:34:33.227570+00:00",
   "https://www.franceinfo.fr/politique/presidentielle-2027-comment-tiktok-est-devenu-un-terrain-de-campagne-politique_8183774.html": "2026-09-08T23:25:58.303544+00:00",
-  "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-s-approprie-les-antilles-francaises-dans-une-nouvelle-carte-polemique-qui-fait-reagir-les-outre-mer_8183699.html": "2026-09-08T23:25:58.303544+00:00"
+  "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-s-approprie-les-antilles-francaises-dans-une-nouvelle-carte-polemique-qui-fait-reagir-les-outre-mer_8183699.html": "2026-09-08T23:25:58.303544+00:00",
+  "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-gabriel-attal-candidat-a-l-election-presidentielle-2027-a-t-il-le-droit-de-promouvoir-sa-candidature-un-verre-d-alcool-a-la-main_8182991.html": "2026-09-09T04:49:44.532974+00:00",
+  "https://www.franceinfo.fr/sciences/espace/de-belles-annonces-attendues-des-geants-americains-absents-ce-que-l-on-sait-du-sommet-international-sur-l-espace-organise-par-emmanuel-macron-a-paris_8180450.html": "2026-09-09T04:49:44.532974+00:00",
+  "https://www.franceinfo.fr/politique/rachida-dati/elle-rebondira-toujours-c-est-sa-marque-de-fabrique-malgre-sa-defaite-a-paris-et-son-proces-a-venir-rachida-dati-croit-elle-toujours-a-son-avenir-politique_8160863.html": "2026-09-09T04:49:44.532974+00:00",
+  "https://www.franceinfo.fr/monde/prix-nobel/vrai-ou-faux-le-nobel-d-economie-est-il-un-soi-disant-prix-nobel-comme-le-juge-jean-luc-melenchon_8182844.html": "2026-09-09T04:49:44.532974+00:00",
+  "https://www.franceinfo.fr/politique/front-national/il-a-du-mal-a-prendre-ses-marques-au-rassemblement-national-les-couacs-de-rentree-interrogent-sur-la-place-de-jordan-bardella_8183180.html": "2026-09-09T04:49:44.532974+00:00",
+  "https://www.franceinfo.fr/politique/modem/assistants-parlementaires-du-modem/j-aborde-ce-proces-avec-grande-serenite-francois-bayrou-repasse-devant-les-juges-dans-l-affaire-des-assistants-parlementaires-d-eurodeputes-du-modem_8180660.html": "2026-09-09T04:49:44.532974+00:00",
+  "https://www.franceinfo.fr/politique/affaire/financement-de-la-campagne-de-sarkozy/soupcons-de-financement-libyen-tout-comprendre-a-l-affaire/": "2026-09-09T04:49:44.532974+00:00",
+  "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/tout-comprendre-au-proces-des-assistants-parlementaires-fn/": "2026-09-09T04:49:44.532974+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "7:22 vidéo 7 minutes 22 Présidentielle 2027 : comment TikTok est devenu un terrain de campagne politique À l’approche de la présidentielle 2027, TikTok s’impose comme un nouveau terrain de campagne. Les responsables politiques multiplient les vidéos et surfent sur les tendances pour toucher un public jeune. Mais comment leurs contenus parviennent-ils dans les fils d’utilisateurs qui ne les suivent pas ? Une expérience menée sur la plateforme permet de comprendre les stratégies des partis et le rôle de l’algorithme.",
+   "title": ": Vrai ou faux Gabriel Attal, candidat à l'élection présidentielle 2027, a-t-il le droit de promouvoir sa candidature un verre d'alcool à la main ? Le député Renaissance a publié une vidéo sur ses réseaux sociaux lundi soir, se mettant en scène dans un bistrot, avec un grand verre de bière.",
+   "link": "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-gabriel-attal-candidat-a-l-election-presidentielle-2027-a-t-il-le-droit-de-promouvoir-sa-candidature-un-verre-d-alcool-a-la-main_8182991.html",
+   "summary": "Gabriel Attal, candidat à l'élection présidentielle 2027, a-t-il le droit de promouvoir sa candidature un verre d'alcool à la main ?",
+   "image": "https://www.franceinfo.fr/pictures/BfOUp6w6YwY3uaN-uY1JUo3TwKo/32x0:1024x682/432x297/filters:format(jpg)/2026/09/08/6aa00743640ef067170032.jpg",
+   "date": null,
+   "pubdate": "2026-09-09T04:49:44.532974+00:00"
+  },
+  {
+   "title": "De \"belles annonces\" attendues, des géants américains absents… Ce que l'on sait du Sommet international sur l'espace organisé par Emmanuel Macron à Paris",
+   "link": "https://www.franceinfo.fr/sciences/espace/de-belles-annonces-attendues-des-geants-americains-absents-ce-que-l-on-sait-du-sommet-international-sur-l-espace-organise-par-emmanuel-macron-a-paris_8180450.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/ytmNCVjNTPKzk7WnKIUZXFOI2Ds/0x106:1024x682/432x243/filters:format(jpg)/2026/09/07/6a9e5f3e87dab223718898.jpg",
+   "date": null,
+   "pubdate": "2026-09-09T04:49:44.532974+00:00"
+  },
+  {
+   "title": "\"Elle rebondira toujours, c'est sa marque de fabrique\" : malgré sa défaite à Paris et son procès à venir, Rachida Dati croit-elle toujours à son avenir politique ?",
+   "link": "https://www.franceinfo.fr/politique/rachida-dati/elle-rebondira-toujours-c-est-sa-marque-de-fabrique-malgre-sa-defaite-a-paris-et-son-proces-a-venir-rachida-dati-croit-elle-toujours-a-son-avenir-politique_8160863.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/GeAJX6O98rToLK85I8ykFYujBs4/0x243:4666x2867/432x243/filters:format(jpg)/2026/09/07/6a9f12206071e219710043.jpg",
+   "date": null,
+   "pubdate": "2026-09-09T04:49:44.532974+00:00"
+  },
+  {
+   "title": ": Vrai ou faux : Vrai ou faux Le \"Nobel\" d'économie est-il un \"soi-disant\" prix Nobel, comme le juge Jean-Luc Mélenchon ?",
+   "link": "https://www.franceinfo.fr/monde/prix-nobel/vrai-ou-faux-le-nobel-d-economie-est-il-un-soi-disant-prix-nobel-comme-le-juge-jean-luc-melenchon_8182844.html",
+   "summary": "Le \"Nobel\" d'économie est-il un \"soi-disant\" prix Nobel, comme le juge Jean-Luc Mélenchon ?",
+   "image": "https://www.franceinfo.fr/pictures/j9aZLY0_MZ_iPiUzrXhlBajy7dU/0x0:1024x576/432x243/filters:format(jpg)/2026/09/08/6aa0232861efd327116624.jpg",
+   "date": null,
+   "pubdate": "2026-09-09T04:49:44.532974+00:00"
+  },
+  {
+   "title": "\"Il a du mal à prendre ses marques\" : au Rassemblement national, les couacs de rentrée interrogent sur la place de Jordan Bardella",
+   "link": "https://www.franceinfo.fr/politique/front-national/il-a-du-mal-a-prendre-ses-marques-au-rassemblement-national-les-couacs-de-rentree-interrogent-sur-la-place-de-jordan-bardella_8183180.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/Lqunyt2sFjWzX2JgmAOrZFvVRfk/0x93:1024x669/432x243/filters:format(jpg)/2026/09/08/6aa005cbd386f650722429.jpg",
+   "date": null,
+   "pubdate": "2026-09-09T04:49:44.532974+00:00"
+  },
+  {
+   "title": "\"J'aborde ce procès avec grande sérénité\" : François Bayrou repasse devant les juges dans l'affaire des assistants parlementaires d'eurodéputés du MoDem",
+   "link": "https://www.franceinfo.fr/politique/modem/assistants-parlementaires-du-modem/j-aborde-ce-proces-avec-grande-serenite-francois-bayrou-repasse-devant-les-juges-dans-l-affaire-des-assistants-parlementaires-d-eurodeputes-du-modem_8180660.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/kS6iF898OhKagfltG6IlngrGFp0/0x0:1024x576/432x243/filters:format(jpg)/2026/09/07/6a9e75abd18ec182169372.jpg",
+   "date": null,
+   "pubdate": "2026-09-09T04:49:44.532974+00:00"
+  },
+  {
+   "title": "Soupçons de financement libyen : tout comprendre à l'affaire 29 contenus",
+   "link": "https://www.franceinfo.fr/politique/affaire/financement-de-la-campagne-de-sarkozy/soupcons-de-financement-libyen-tout-comprendre-a-l-affaire/",
+   "summary": "Soupçons de financement libyen : tout comprendre à l'affaire",
+   "image": "https://www.franceinfo.fr/pictures/v8aRR1aSuiF4ZIj9DIPv2bzZJf8/432x297/filters:format(jpg)/2025/10/22/sarkozymontage-68f8fa8dd58da459326159.jpg",
+   "date": null,
+   "pubdate": "2026-09-09T04:49:44.532974+00:00"
+  },
+  {
+   "title": "Tout comprendre au procès des assistants parlementaires FN 20 contenus",
+   "link": "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/tout-comprendre-au-proces-des-assistants-parlementaires-fn/",
+   "summary": "Tout comprendre au procès des assistants parlementaires FN",
+   "image": "https://www.franceinfo.fr/pictures/iHJ4ZCCHTABB8-X6GO7CrL-9zcI/432x297/filters:format(jpg)/2026/01/28/marine-le-pen-a-son-proces-en-appel-697a50d594f91234092099.jpg",
+   "date": null,
+   "pubdate": "2026-09-09T04:49:44.532974+00:00"
+  },
+  {
+   "title": "7:22 vidéo 7 minutes 22 Présidentielle 2027 : comment TikTok est devenu un terrain de campagne politique",
    "link": "https://www.franceinfo.fr/politique/presidentielle-2027-comment-tiktok-est-devenu-un-terrain-de-campagne-politique_8183774.html",
    "summary": "Présidentielle 2027 : comment TikTok est devenu un terrain de campagne politique",
-   "image": "https://www.franceinfo.fr/pictures/4jC542642qSIrGZu9UqxFB4X7jI/14x0:775x523/432x297/filters:format(jpg)/2026/09/08/6aa07d4eee8e5842741432.jpg",
+   "image": "https://www.franceinfo.fr/pictures/rO5yP1d2_Vq6WubSNS0VElGT2UQ/0x39:790x483/432x243/filters:format(jpg)/2026/09/08/6aa07d4eee8e5842741432.jpg",
    "date": null,
    "pubdate": "2026-09-08T23:25:58.303544+00:00"
   },
@@ -62,58 +128,26 @@
    "pubdate": "2026-09-08T18:34:33.227570+00:00"
   },
   {
-   "title": "Édouard Philippe invite Gabriel Attal, Bruno Retailleau et François Bayrou à une rencontre en novembre pour évoquer la présidentielle 2027 et l'après-élection",
+   "title": "Édouard Philippe invite Gabriel Attal, Bruno Retailleau et François Bayrou à une rencontre en novembre pour évoquer la présidentielle 2027 et l'après-élection Le candidat dans la course à l'Elysée convie ses principaux concurrents à droite non seulement en vue de l'élection présidentielle mais aussi des élections législatives. Une proposition rejetée par Bruno Retailleau.",
    "link": "https://www.franceinfo.fr/elections/presidentielle/edouard-philippe-invite-gabriel-attal-bruno-retailleau-et-francois-bayrou-a-une-rencontre-en-novembre-pour-evoquer-la-presidentielle-2027-et-l-apres-election_8183582.html",
-   "summary": "",
+   "summary": "Édouard Philippe invite Gabriel Attal, Bruno Retailleau et François Bayrou à une rencontre en novembre pour évoquer la présidentielle 2027 et l'après-élection",
    "image": "https://www.franceinfo.fr/pictures/AUhATHB_8jofxe_E6h0mYL-pKiY/0x0:6000x3375/432x243/filters:format(jpg)/2026/09/08/6aa03bdbbe645521830671.jpg",
    "date": null,
    "pubdate": "2026-09-08T18:34:33.227570+00:00"
   },
   {
-   "title": "1:20 vidéo 1 minute 20 La victoire de l’AfD en Allemagne est \"une alerte extrêmement grave\" selon Manuel Bompard, coordinateur de La France insoumise Interrogé sur la victoire électorale du parti d'extrême droite allemand AfD en Saxe-Anhalt, Manuel Bompard rappelle que \"Marine Le Pen était pendant 10 ans dans le même groupe que l’AfD au Parlement européen.\" Le parti d’extrême droite allemand défend par ailleurs un projet de \"remigration\". Il ajoute à ce titre qu’ \"il y a encore 2 ans, Marion Maréchal, disait que le projet de \"remigration\" faisait partie de ses projets.\"",
-   "link": "https://www.franceinfo.fr/politique/la-victoire-de-l-afd-en-allemagne-est-une-alerte-extremement-grave-selon-manuel-bompard-coordinateur-de-la-france-insoumise_8181038.html",
-   "summary": "La victoire de l’AfD en Allemagne est \"une alerte extrêmement grave\" selon Manuel Bompard, coordinateur de La France insoumise",
-   "image": "https://www.franceinfo.fr/pictures/0tz5WGS_4ZvwWBOh_nrOkAMP28E/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/07/6a9eb21688e35424438845.png",
-   "date": null,
-   "pubdate": "2026-09-08T18:34:33.227570+00:00"
-  },
-  {
-   "title": "Le ministre de l'Economie réunit mercredi les distributeurs pour parler des prix du carburant",
+   "title": "Le ministre de l'Economie réunit mercredi les distributeurs pour parler des prix du carburant Cette réunion intervient au moment où le prix du SP95-E10 a atteint, samedi, son tarif le plus élevé depuis le début de la guerre au Moyen-Orient.",
    "link": "https://www.franceinfo.fr/economie/transports/prix-des-carburants/le-ministre-de-l-economie-reunit-mercredi-les-distributeurs-pour-parler-des-prix-du-carburant_8183159.html",
-   "summary": "",
+   "summary": "Le ministre de l'Economie réunit mercredi les distributeurs pour parler des prix du carburant",
    "image": "https://www.franceinfo.fr/pictures/L4s9u51NkOZINZs-R5YBl-b1GWE/0x0:1024x576/432x243/filters:format(jpg)/2026/07/30/6a6afdf3774f8341820956.jpg",
    "date": null,
    "pubdate": "2026-09-08T15:33:13.797333+00:00"
   },
   {
-   "title": "1:28 vidéo 1 minute 28 Le casse-tête des retraites en 2027... qui reviendra en 2032",
-   "link": "https://www.franceinfo.fr/politique/le-casse-tete-des-retraites-en-2027-qui-reviendra-en-2032_8182997.html",
-   "summary": "Le casse-tête des retraites en 2027... qui reviendra en 2032",
-   "image": "https://www.franceinfo.fr/pictures/a_bkGgzlCrDDZztuVsefADPwIgM/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/08/6a9fde8f11ff7871753944.jpg",
-   "date": null,
-   "pubdate": "2026-09-08T12:37:52.662594+00:00"
-  },
-  {
-   "title": "1:42 vidéo 1 minute 42 \"Il y a un risque très grand que la droite ne soit pas au second tour\"",
-   "link": "https://www.franceinfo.fr/politique/edouard-philippe/il-y-a-un-risque-tres-grand-que-la-droite-ne-soit-pas-au-second-tour-s-il-y-a-dispersion-des-candidats-en-janvier-fevrier_8182970.html",
-   "summary": "\"Il y a un risque très grand que la droite ne soit pas au second tour\"",
-   "image": "https://www.franceinfo.fr/pictures/T_cSOpoMB1oGiDpmOUTZfjhn62w/0x0:900x1600/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/08/6a9fdd6b56199880885680.jpg",
-   "date": null,
-   "pubdate": "2026-09-08T12:37:52.662594+00:00"
-  },
-  {
-   "title": ": Info franceinfo : Info franceinfo Présidentielle 2027 : les détails de la charte envoyée par Hervé Morin aux candidats de la droite et du centre pour l'organisation d'une primaire",
+   "title": ": Info franceinfo Présidentielle 2027 : les détails de la charte envoyée par Hervé Morin aux candidats de la droite et du centre pour l'organisation d'une primaire Le président de la région Normandie appelle officiellement Edouard Philippe, Bruno Retailleau, Gabriel Attal et David Lisnard à se départager via une primaire, dans le but de réduire la \"dispersion\" des voix en avril prochain, et d'éviter un second tour entre Jean-Luc Mélenchon et Marine Le Pen.",
    "link": "https://www.franceinfo.fr/elections/presidentielle/info-franceinfo-presidentielle-2027-les-details-de-la-charte-envoyee-par-herve-morin-aux-candidats-de-la-droite-et-du-centre-pour-l-organisation-d-une-primaire_8182712.html",
    "summary": "Présidentielle 2027 : les détails de la charte envoyée par Hervé Morin aux candidats de la droite et du centre pour l'organisation d'une primaire",
    "image": "https://www.franceinfo.fr/pictures/HS-lBwuaYCRgF4K2ZOgvY7nlxrI/0x410:6279x3942/432x243/filters:format(jpg)/2026/09/08/6a9fc6ced26e6219632970.jpg",
-   "date": null,
-   "pubdate": "2026-09-08T09:31:38.568019+00:00"
-  },
-  {
-   "title": "8:30 vidéo 8 minutes 30 Grève à la tour Eiffel : \"On n'efface pas les femmes dans notre société française\", réagit Sébastien Chenu, vice-président de l'Assemblée nationale et député RN",
-   "link": "https://www.franceinfo.fr/politique/greve-a-la-tour-eiffel-on-n-efface-pas-les-femmes-dans-notre-societe-francaise-reagit-sebastien-chenu-vice-president-de-l-assemblee-nationale-et-depute-rn_8182730.html",
-   "summary": "Grève à la tour Eiffel : \"On n'efface pas les femmes dans notre société française\", réagit Sébastien Chenu, vice-président de l'Assemblée nationale et député RN",
-   "image": "https://www.franceinfo.fr/pictures/M9cLm15rzpZXsXR5lhMvyz9G9zo/0x0:1920x1080/432x243/filters:format(jpg)/2026/09/08/6a9fb749e979c047983510.jpg",
    "date": null,
    "pubdate": "2026-09-08T09:31:38.568019+00:00"
   },
@@ -196,22 +230,6 @@
    "image": "https://www.franceinfo.fr/pictures/5fUZH6GrNERGe4r4sXKwaeunXrU/0x0:3545x3545/100x100/filters:format(jpg)/2026/09/02/6a981ecec229f147572924.jpg",
    "date": null,
    "pubdate": "2026-09-07T15:30:58.825926+00:00"
-  },
-  {
-   "title": "Loi intégrale contre les violences sexuelles : définir l'inceste, \"c'est déjà un premier pas\", estime l’association Face à l’inceste La proposition de loi intégrale contre les violences sexistes et sexuelles est discutée à partir de lundi à l’Assemblée nationale en commission spéciale.",
-   "link": "https://www.franceinfo.fr/societe/harcelement-sexuel/loi-integrale-contre-les-violences-sexuelles-definir-l-inceste-c-est-deja-un-premier-pas-estime-l-association-face-a-l-inceste_8181074.html",
-   "summary": "Loi intégrale contre les violences sexuelles : définir l'inceste, \"c'est déjà un premier pas\", estime l’association Face à l’inceste",
-   "image": "https://www.franceinfo.fr/pictures/zqBQPL3rrc7eH6igyrTYMPTlMAA/0x193:4256x2587/432x243/filters:format(jpg)/2026/06/12/6a2bace17c674242666390.jpg",
-   "date": null,
-   "pubdate": "2026-09-07T15:30:58.825926+00:00"
-  },
-  {
-   "title": "Actes d'enquête obligatoire, juridictions spécialisées, reconnaissance de l'inceste... Ce que contient la proposition de loi intégrale contre les violences sexistes et sexuelles, qui arrive à l'Assemblée Inspiré des propositions d'un collectif d'associations, ce texte porté par une députée socialiste ambitionne de traiter tous les aspects du problème, de la prévention des violences aux sanctions. Soutenu par le gouvernement depuis l'affaire Lyhanna, il est examiné en commission à l'Assemblée à partir de lundi.",
-   "link": "https://www.franceinfo.fr/societe/harcelement-sexuel/detection-des-victimes-juridictions-specialisees-reconnaissance-de-l-inceste-ce-que-contient-la-proposition-de-loi-integrale-pour-lutter-contre-les-violences-sexistes-et-sexuelles-qui-arrive-a-l-assemblee_8180609.html",
-   "summary": "Actes d'enquête obligatoire, juridictions spécialisées, reconnaissance de l'inceste... Ce que contient la proposition de loi intégrale contre les violences sexistes et sexuelles, qui arrive à l'Assemblée",
-   "image": "https://www.franceinfo.fr/pictures/2oV1S0PFz57yJPizwnmqCLIUxOg/0x39:1024x615/432x243/filters:format(jpg)/2026/09/07/6a9e950964e5b089073104.jpg",
-   "date": null,
-   "pubdate": "2026-09-07T12:37:43.044270+00:00"
   },
   {
    "title": ": Reportage 4:57 audio 4 minutes 57 : Reportage \"C'est le sauveur\", Ulrich Siegmund \"l’homme le plus dangereux d’Allemagne\", selon \"Der Spiegel\", aux portes d'une victoire historique",
