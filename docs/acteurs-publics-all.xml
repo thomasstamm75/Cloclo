@@ -5,7 +5,7 @@
     <link>https://acteurspublics.fr/</link>
     <description>Flux fabriqué par Cloclo à partir de https://acteurspublics.fr/</description>
     <language>fr</language>
-    <lastBuildDate>Fri, 11 Sep 2026 11:28:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 14:04:28 +0000</lastBuildDate>
     <atom:link href="https://thomasstamm75.github.io/Cloclo/acteurs-publics-all.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>10 septembre 2026 6e édition des Rencontres de la relation citoyen Acteurs publics Solutions X Salesforce</title>
@@ -22,18 +22,18 @@
       <description>&lt;p&gt;Trophée des trophées – Jeudi 2 Juillet à Paris&lt;/p&gt;</description>
     </item>
     <item>
-      <title>1 juillet 2026 Les labels du Film d’utilité publique – Lauréats 2026</title>
-      <link>https://acteurspublics.fr/evenement/les-labels-du-film-dutilite-publique-laureats-2026/</link>
-      <guid isPermaLink="true">https://acteurspublics.fr/evenement/les-labels-du-film-dutilite-publique-laureats-2026/</guid>
-      <pubDate>Wed, 01 Jul 2026 11:00:00 +0000</pubDate>
-      <description>&lt;p&gt;Les labels du Film d’utilité publique – Lauréats 2026&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>1 juillet 2026 Les labels du Film d’utilité publique – Promotion 2026</title>
       <link>https://acteurspublics.fr/evenement/les-labels-du-film-dutilite-publique-promotion-2026/</link>
       <guid isPermaLink="true">https://acteurspublics.fr/evenement/les-labels-du-film-dutilite-publique-promotion-2026/</guid>
       <pubDate>Wed, 01 Jul 2026 11:00:00 +0000</pubDate>
       <description>&lt;p&gt;Les labels du Film d’utilité publique – Promotion 2026&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>1 juillet 2026 Les labels du Film d’utilité publique – Lauréats 2026</title>
+      <link>https://acteurspublics.fr/evenement/les-labels-du-film-dutilite-publique-laureats-2026/</link>
+      <guid isPermaLink="true">https://acteurspublics.fr/evenement/les-labels-du-film-dutilite-publique-laureats-2026/</guid>
+      <pubDate>Wed, 01 Jul 2026 11:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Les labels du Film d’utilité publique – Lauréats 2026&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
