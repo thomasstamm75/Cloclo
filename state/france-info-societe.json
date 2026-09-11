@@ -1,8 +1,7 @@
 {
- "etag": "\"e8e7d1af59c4aa7991913d77ae8fe892-gzip\"",
+ "etag": "\"a269dd3db0c73e1d3a6658e7ed2aafb8-gzip\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.franceinfo.fr/societe/nos-jours-heureux/": "2026-09-09T04:49:42.416146+00:00",
   "https://www.franceinfo.fr/culture/jeux-video/affaires-de-pedocriminalite-paris-en-ligne-chez-les-mineurs-plaintes-deposees-on-vous-resume-les-polemiques-autour-du-jeu-en-ligne-roblox-qui-fete-ses-20-ans_8180441.html": "2026-09-10T04:50:42.320323+00:00",
   "https://www.franceinfo.fr/economie/transports/uber-vise-par-une-action-collective-de-chauffeurs-en-europe_8185943.html": "2026-09-10T11:27:15.672695+00:00",
   "https://www.franceinfo.fr/societe/l-avocat-du-policier-de-carcassonne-mis-en-cause-denonce-une-violation-de-la-vie-privee-de-son-client-accuse-d-avoir-tenu-des-propos-racistes_8186216.html": "2026-09-10T11:27:15.672695+00:00",
@@ -31,10 +30,19 @@
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/j-essaie-d-y-aller-cinq-six-fois-par-semaine-a-16-ou-17-ans-ils-sont-deja-accros-a-la-salle-de-sport_8136965.html": "2026-09-10T20:55:40.866008+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-visite-du-pape-a-metz-c-est-un-formidable-coup-de-projecteur-sur-la-ville-estime-le-maire_8134199.html": "2026-09-10T20:55:40.866008+00:00",
   "https://www.franceinfo.fr/societe/racisme/aurore-berge-critiquee-pour-ses-propos-sur-la-theorie-raciste-du-grand-remplacement_8187350.html": "2026-09-10T23:13:11.816440+00:00",
-  "https://www.franceinfo.fr/societe/nos-jours-heureux/nos-jours-heureux-baignade-salee-deluge-et-sentiment-de-liberte-a-deauville-la-journee-des-oublies-des-vacances-vire-a-la-formidable-odyssee_8155004.html": "2026-09-10T23:13:11.816440+00:00"
+  "https://www.franceinfo.fr/societe/nos-jours-heureux/nos-jours-heureux-baignade-salee-deluge-et-sentiment-de-liberte-a-deauville-la-journee-des-oublies-des-vacances-vire-a-la-formidable-odyssee_8155004.html": "2026-09-10T23:13:11.816440+00:00",
+  "https://www.franceinfo.fr/societe/euthanasie/comprendre-les-debats-sur-la-fin-de-vie/": "2026-09-11T04:47:19.484195+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "Comprendre les débats sur la fin de vie 15 contenus",
+   "link": "https://www.franceinfo.fr/societe/euthanasie/comprendre-les-debats-sur-la-fin-de-vie/",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/gZwL6mlJ39yMRDzurzn4EQx_sgw/432x297/filters:format(jpg)/2025/05/27/illustration-aide-a-mourir-68357ca797624128014806.jpg",
+   "date": null,
+   "pubdate": "2026-09-11T04:47:19.484195+00:00"
+  },
   {
    "title": "1:38 vidéo 1 minute 38 Aurore Bergé critiquée pour ses propos sur la théorie raciste du \"grand remplacement\" La ministre chargée de la Lutte contre les discriminations Aurore Bergé s'est retrouvée, jeudi 10 septembre, au centre des critiques jusque dans son propre camp pour avoir invoqué la \"liberté d'expression\" au sujet de la théorie d'extrême droite, raciste et complotiste, du \"grand remplacement\".",
    "link": "https://www.franceinfo.fr/societe/racisme/aurore-berge-critiquee-pour-ses-propos-sur-la-theorie-raciste-du-grand-remplacement_8187350.html",
@@ -266,14 +274,6 @@
    "image": "https://www.franceinfo.fr/pictures/4fcQSJRAcKBTcwXZjItdX8wZ0RA/566x0:4472x3906/100x100/filters:format(jpg)/2026/09/07/6a9eac60a6fe8005404497.jpg",
    "date": null,
    "pubdate": "2026-09-10T04:50:42.320323+00:00"
-  },
-  {
-   "title": "Nos jours heureux 5 contenus",
-   "link": "https://www.franceinfo.fr/societe/nos-jours-heureux/",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/70hxXkCD_HnVl93vv3dfs138KJQ/432x297/filters:format(jpg)/2026/07/30/6a6b142e19c9c745704318.jpg",
-   "date": null,
-   "pubdate": "2026-09-09T04:49:42.416146+00:00"
   }
  ]
 }

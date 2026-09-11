@@ -1,9 +1,8 @@
 {
- "etag": "\"558839a2890ad930020e22c0405d8d86-gzip\"",
+ "etag": "\"a98cef4ee45d1d9add9e11954851c1bc-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-il-y-a-70-de-bon-et-30-de-mauvais-en-chine-le-culte-de-mao-prend-de-l-ampleur-chez-les-jeunes_8161538.html": "2026-09-09T11:31:31.226493+00:00",
-  "https://www.franceinfo.fr/monde/europe/allemagne/il-y-a-une-extrapolation-du-declin-economique-comment-l-extreme-droite-allemande-est-arrivee-aux-portes-du-pouvoir-en-saxe-anhalt_8175638.html": "2026-09-09T11:31:31.226493+00:00",
   "https://www.franceinfo.fr/grands-formats/de-san-francisco-a-los-angeles-les-richesses-menacees-de-la-pacific-coast-highway-la-route-du-pacifique_8185364.html": "2026-09-09T20:59:31.397963+00:00",
   "https://www.franceinfo.fr/monde/usa/affaire-jeffrey-epstein/l-essentiel-des-revelations-sur-l-affaire-epstein/": "2026-09-09T20:59:31.397963+00:00",
   "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/un-an-de-donald-trump-au-pouvoir/": "2026-09-09T20:59:31.397963+00:00",
@@ -16,8 +15,6 @@
   "https://www.franceinfo.fr/monde/usa/affaire-jeffrey-epstein/le-parquet-de-paris-a-denombre-26-victimes-dont-13-n-etaient-apparues-dans-aucun-dossier-de-l-affaire-epstein-indique-la-procureure-de-paris_8186018.html": "2026-09-10T11:27:21.073492+00:00",
   "https://www.franceinfo.fr/monde/israel/le-parti-de-benyamin-netanyahou-accuse-un-dirigeant-palestinien-d-etre-a-l-origine-des-revelations-selon-lesquelles-le-premier-ministre-israelien-aurait-ete-informe-de-l-attaque-du-7-octobre_8185859.html": "2026-09-10T11:27:21.073492+00:00",
   "https://www.franceinfo.fr/replay-radio/le-tour-de-la-question/de-nanterre-pour-un-special-celine-dion-aux-salles-privatives-le-karaoke-seduit-toujours-autant_8168426.html": "2026-09-10T11:27:21.073492+00:00",
-  "https://www.franceinfo.fr/monde/royaume-uni/en-angleterre-des-manifestants-anti-immigration-prennent-par-erreur-des-joueurs-de-cricket-pakistanais-pour-des-migrants_8185820.html": "2026-09-10T11:27:21.073492+00:00",
-  "https://www.franceinfo.fr/culture/arts-expos/tapisserie-de-bayeux-l-exposition-londonienne-ouvre-ces-portes-a-guichets-fermes-ce-jeudi_8186585.html": "2026-09-10T16:29:43.314427+00:00",
   "https://www.franceinfo.fr/culture/cinema/john-malkovich-penelope-cruz-mark-ruffalo-defile-attendu-de-stars-au-festival-international-du-film-de-toronto_8185940.html": "2026-09-10T16:29:43.314427+00:00",
   "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-peut-il-vraiment-distribuer-5-000-dollars-a-chaque-adulte-americain-a-l-issue-des-elections-de-mi-mandat_8185988.html": "2026-09-10T16:29:43.314427+00:00",
   "https://www.franceinfo.fr/monde/europe/union-europeenne/malgre-le-depart-de-viktor-orban-la-hongrie-persiste-a-freiner-le-processus-d-adhesion-de-l-ukraine-a-l-union-europeenne_8186372.html": "2026-09-10T16:29:43.314427+00:00",
@@ -31,15 +28,42 @@
   "https://www.franceinfo.fr/monde/proche-orient/liban/israel-dit-avoir-detruit-des-infrastructures-souterraines-du-hezbollah-au-liban-secoue-par-de-fortes-explosions_8187275.html": "2026-09-10T20:55:47.818746+00:00",
   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/une-enorme-trombe-marine-filmee-en-italie_8187179.html": "2026-09-10T20:55:47.818746+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/le-canada-annonce-plus-de-200-millions-d-euros-d-aide-en-matiere-de-defense-aerienne-pour-l-ukraine_8187203.html": "2026-09-10T20:55:47.818746+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/des-frappes-russes-sur-un-centre-commercial-font-au-moins-quatre-morts-et-60-blesses-dans-l-est-de-l-ukraine_8187083.html": "2026-09-10T20:55:47.818746+00:00"
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/des-frappes-russes-sur-un-centre-commercial-font-au-moins-quatre-morts-et-60-blesses-dans-l-est-de-l-ukraine_8187083.html": "2026-09-10T20:55:47.818746+00:00",
+  "https://www.franceinfo.fr/monde/chine/hong-kong/a-hong-kong-des-militants-de-la-memoire-de-tiananmen-condamnes-a-entre-5-et-7-ans-de-prison_8187653.html": "2026-09-11T04:47:26.022533+00:00",
+  "https://www.franceinfo.fr/monde/les-groupes-armes-recrutent-sur-tiktok-et-facebook_8186441.html": "2026-09-11T04:47:26.022533+00:00",
+  "https://www.franceinfo.fr/monde/usa/attentats-du-11-septembre-2001/l-americain-typique-n-y-pense-pas-vingt-cinq-ans-apres-le-11-septembre-comment-l-antiterrorisme-s-est-fondu-dans-le-quotidien-des-etats-unis_8184497.html": "2026-09-11T04:47:26.022533+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "1:58 vidéo 1 minute 58 En difficulté à l'approche des midterms, Donald Trump promet 5 000 dollars à chaque Américain Aux États-Unis, Donald Trump promet jusqu’à 5 000 dollars à chaque citoyen si les Républicains remportent les deux chambres du Congrès. À deux mois des élections de mi-mandat, il tente de reprendre la main avec une annonce qui rappelle ses précédentes promesses de chèques.",
+   "title": "A Hong Kong, des militants de la mémoire de Tiananmen condamnés à entre 5 et 7 ans de prison Les trois militants condamnés vendredi avaient déjà été reconnus coupables d'\"incitation à la subversion\" en août et sont détenus depuis leur inculpation en 2021.",
+   "link": "https://www.franceinfo.fr/monde/chine/hong-kong/a-hong-kong-des-militants-de-la-memoire-de-tiananmen-condamnes-a-entre-5-et-7-ans-de-prison_8187653.html",
+   "summary": "A Hong Kong, des militants de la mémoire de Tiananmen condamnés à entre 5 et 7 ans de prison",
+   "image": "https://www.franceinfo.fr/pictures/StEXP-jVO0FXLOuGXLzsGbgO9S0/139x0:884x512/432x297/filters:format(jpg)/2026/09/11/6aa384c736ff7765019928.jpg",
+   "date": null,
+   "pubdate": "2026-09-11T04:47:26.022533+00:00"
+  },
+  {
+   "title": "1:38 vidéo 1 minute 38 Les groupes armés recrutent sur TikTok et Facebook",
+   "link": "https://www.franceinfo.fr/monde/les-groupes-armes-recrutent-sur-tiktok-et-facebook_8186441.html",
+   "summary": "Les groupes armés recrutent sur TikTok et Facebook",
+   "image": "https://www.franceinfo.fr/pictures/k2c46aHV8I_uc-MoKLLA-p-2zLc/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/10/6aa2a71ada8ba226683680.jpg",
+   "date": null,
+   "pubdate": "2026-09-11T04:47:26.022533+00:00"
+  },
+  {
+   "title": "\"L'Américain typique n'y pense pas\" : vingt-cinq ans après le 11-Septembre, comment l'antiterrorisme s'est fondu dans le quotidien des Etats-Unis",
+   "link": "https://www.franceinfo.fr/monde/usa/attentats-du-11-septembre-2001/l-americain-typique-n-y-pense-pas-vingt-cinq-ans-apres-le-11-septembre-comment-l-antiterrorisme-s-est-fondu-dans-le-quotidien-des-etats-unis_8184497.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/qIb8f2xL7gCoonA2-5uY2AUFS4c/0x0:2048x1152/432x243/filters:format(jpg)/2026/09/09/6aa123216b8af538988109.jpg",
+   "date": null,
+   "pubdate": "2026-09-11T04:47:26.022533+00:00"
+  },
+  {
+   "title": "1:58 vidéo 1 minute 58 En difficulté à l'approche des midterms, Donald Trump promet 5 000 dollars à chaque Américain",
    "link": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/en-difficulte-a-l-approche-des-midterms-donald-trump-promet-5-000-dollars-a-chaque-americain_8187233.html",
    "summary": "En difficulté à l'approche des midterms, Donald Trump promet 5 000 dollars à chaque Américain",
-   "image": "https://www.franceinfo.fr/pictures/qME1Zbp-EKzpE20U2DgT2L_DHdk/48x0:1491x992/432x297/filters:format(jpg)/2026/09/10/6aa2fe9df40a6220179193.png",
+   "image": "https://www.franceinfo.fr/pictures/StR9rEisaPdnQlvRdM_0VRxGh8g/0x62:1540x929/432x243/filters:format(jpg)/2026/09/10/6aa2fe9df40a6220179193.png",
    "date": null,
    "pubdate": "2026-09-10T20:55:47.818746+00:00"
   },
@@ -92,25 +116,17 @@
    "pubdate": "2026-09-10T20:55:47.818746+00:00"
   },
   {
-   "title": "Des frappes russes sur un centre commercial font au moins quatre morts et 60 blessés dans l'est de l'Ukraine",
+   "title": "Des frappes russes sur un centre commercial font au moins quatre morts et 60 blessés dans l'est de l'Ukraine Ce bilan, transmis par le gouverneur régional, est provisoire à ce stade, alors que des commerces et des véhicules ont été endommagés.",
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/des-frappes-russes-sur-un-centre-commercial-font-au-moins-quatre-morts-et-60-blesses-dans-l-est-de-l-ukraine_8187083.html",
-   "summary": "",
+   "summary": "Des frappes russes sur un centre commercial font au moins quatre morts et 60 blessés dans l'est de l'Ukraine",
    "image": "https://www.franceinfo.fr/pictures/dxmATE3EKtOBuoO6xDi5XSrmm2A/0x57:1024x633/432x243/filters:format(jpg)/2026/09/10/6aa2d9137851f279519320.jpg",
    "date": null,
    "pubdate": "2026-09-10T20:55:47.818746+00:00"
   },
   {
-   "title": "2:06 vidéo 2 minutes 6 Tapisserie de Bayeux : l'exposition londonienne ouvre ses portes à guichets fermés ce jeudi",
-   "link": "https://www.franceinfo.fr/culture/arts-expos/tapisserie-de-bayeux-l-exposition-londonienne-ouvre-ces-portes-a-guichets-fermes-ce-jeudi_8186585.html",
-   "summary": "Tapisserie de Bayeux : l'exposition londonienne ouvre ses portes à guichets fermés ce jeudi",
-   "image": "https://www.franceinfo.fr/pictures/pV8asVcd6hY0H4y_1wsf5emFC4Y/77x0:1248x659/432x243/filters:format(jpg)/2026/09/10/6aa2c2a78dabc815886238.jpg",
-   "date": null,
-   "pubdate": "2026-09-10T16:29:43.314427+00:00"
-  },
-  {
-   "title": "John Malkovich, Penélope Cruz, Mark Ruffalo... Défilé attendu de stars au Festival international du film de Toronto",
+   "title": "John Malkovich, Penélope Cruz, Mark Ruffalo... Défilé attendu de stars au Festival international du film de Toronto Au programme du plus grand festival de cinéma d'Amérique du Nord, des avant-premières très attendues, mais aussi des films déjà présentés à Cannes ou à Venise.",
    "link": "https://www.franceinfo.fr/culture/cinema/john-malkovich-penelope-cruz-mark-ruffalo-defile-attendu-de-stars-au-festival-international-du-film-de-toronto_8185940.html",
-   "summary": "",
+   "summary": "John Malkovich, Penélope Cruz, Mark Ruffalo... Défilé attendu de stars au Festival international du film de Toronto",
    "image": "https://www.franceinfo.fr/pictures/NxPYf3zZT3kQNFOVadNL7PhZDL4/0x0:3000x1687/432x243/filters:format(jpg)/2026/09/10/6aa2b8452d7c2304137208.jpg",
    "date": null,
    "pubdate": "2026-09-10T16:29:43.314427+00:00"
@@ -204,14 +220,6 @@
    "pubdate": "2026-09-10T11:27:21.073492+00:00"
   },
   {
-   "title": "En Angleterre, des manifestants anti-immigration prennent par erreur des joueurs de cricket pakistanais pour des migrants Une quarantaine de personnes se sont rassemblées mardi à Portsmouth devant un hôtel après avoir lu sur les réseaux sociaux que des migrants y étaient hébergés. Il s'agissait en fait de joueurs de l'équipe pakistanaise de cricket, basés dans cette ville le temps d'une tournée dans le sud de l'Angleterre.",
-   "link": "https://www.franceinfo.fr/monde/royaume-uni/en-angleterre-des-manifestants-anti-immigration-prennent-par-erreur-des-joueurs-de-cricket-pakistanais-pour-des-migrants_8185820.html",
-   "summary": "En Angleterre, des manifestants anti-immigration prennent par erreur des joueurs de cricket pakistanais pour des migrants",
-   "image": "https://www.franceinfo.fr/pictures/COf9VLoQy6POZrGLfZVhE4J3Jzw/0x449:5714x3663/432x243/filters:format(jpg)/2026/09/10/6aa248cbd3611489827804.jpg",
-   "date": null,
-   "pubdate": "2026-09-10T11:27:21.073492+00:00"
-  },
-  {
    "title": "Tout comprendre à la guerre au Moyen-Orient 27 contenus",
    "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/tout-comprendre-a-la-guerre-au-moyen-orient/",
    "summary": "Tout comprendre à la guerre au Moyen-Orient",
@@ -264,14 +272,6 @@
    "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-il-y-a-70-de-bon-et-30-de-mauvais-en-chine-le-culte-de-mao-prend-de-l-ampleur-chez-les-jeunes_8161538.html",
    "summary": "\"Il y a 70% de bon et 30% de mauvais\" : en Chine, le culte de Mao prend de l'ampleur chez les jeunes",
    "image": "https://www.franceinfo.fr/pictures/w3Ocn6zpscSeecS3EEUW5jVWcR8/1032x0:5160x4128/100x100/filters:format(jpg)/2026/09/09/6aa0f3e422509555262109.jpg",
-   "date": null,
-   "pubdate": "2026-09-09T11:31:31.226493+00:00"
-  },
-  {
-   "title": "7:00 article 7 minutes \"Il y a une extrapolation du déclin économique\" : comment l'extrême droite allemande est arrivée aux portes du pouvoir en Saxe-Anhalt",
-   "link": "https://www.franceinfo.fr/monde/europe/allemagne/il-y-a-une-extrapolation-du-declin-economique-comment-l-extreme-droite-allemande-est-arrivee-aux-portes-du-pouvoir-en-saxe-anhalt_8175638.html",
-   "summary": "\"Il y a une extrapolation du déclin économique\" : comment l'extrême droite allemande est arrivée aux portes du pouvoir en Saxe-Anhalt",
-   "image": "https://www.franceinfo.fr/pictures/-nAiSgts3hDGmwBA52wjbLgKz5c/7x0:689x682/100x100/filters:format(jpg)/2026/09/03/6a99968962ca9292189034.jpg",
    "date": null,
    "pubdate": "2026-09-09T11:31:31.226493+00:00"
   }

@@ -1,5 +1,5 @@
 {
- "etag": "\"006db533b0c9b69c335b9b1049c7e336-gzip\"",
+ "etag": "\"46dcce097a40cf55911703f15a5339b0-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-c-est-le-sauveur-en-saxe-anhalt-ulrich-siegmund-l-homme-le-plus-dangereux-d-allemagne-selon-der-spiegel-aux-portes-du-pouvoir_8147219.html": "2026-09-09T16:43:27.764480+00:00",
@@ -27,15 +27,33 @@
   "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/nous-sommes-dans-un-climat-de-reglement-de-compte-dans-le-cadre-d-une-primaire-mortifere-juge-bernard-cazeneuve_8186357.html": "2026-09-10T16:29:39.427153+00:00",
   "https://www.franceinfo.fr/economie/entreprises/le-gouvernement-veut-encourager-la-reprise-des-entreprises-par-leurs-salaries-grace-a-des-mesures-fiscales-plus-favorables_8186186.html": "2026-09-10T16:29:39.427153+00:00",
   "https://www.franceinfo.fr/replay-magazine/franceinfo/avant-le-20h/injures-racistes-d-un-policier-a-carcassonne-on-a-150-000-adherents-vous-ne-savez-pas-la-vie-l-uvre-les-propos-des-uns-ou-des-autres-defend-andrea-kotarac-porte-parole-du-rn_8187188.html": "2026-09-10T20:55:44.448568+00:00",
-  "https://www.franceinfo.fr/politique/faut-il-taxer-davantage-les-successions_8186486.html": "2026-09-10T20:55:44.448568+00:00"
+  "https://www.franceinfo.fr/politique/faut-il-taxer-davantage-les-successions_8186486.html": "2026-09-10T20:55:44.448568+00:00",
+  "https://www.franceinfo.fr/politique/a-suivre-loic-de-la-mornais-aurore-berge-suscite-un-tolle-avec-le-grand-remplacement_8187698.html": "2026-09-11T04:47:22.726214+00:00",
+  "https://www.franceinfo.fr/politique/ps/primaire-socialiste/on-la-prend-tres-au-serieux-segolene-royal-peut-elle-creer-la-surprise-a-la-primaire-socialiste-vingt-ans-apres-son-echec-a-la-presidentielle_8184773.html": "2026-09-11T04:47:22.726214+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "18:14 vidéo 18 minutes 14 Injures racistes d'un policier à Carcassonne : \"On a 150 000 adhérents, vous ne savez pas la vie, l'œuvre, les propos des uns ou des autres…\", défend Andréa Kotarac, porte-parole du RN Invité du \"Duel\" politique d'\"Avant le 20h\", jeudi 10 septembre, Andréa Kotarac revient sur la polémique engendrée par les propos racistes, sexistes et homophobes tenus par un policier de Carcassonne et enregistrés par sa caméra. Membre du service d'ordre du RN, l'agent a été suspendu. \"C'est un parti qui a en son sein des personnes qui tiennent ces propos-là, parce qu'il alimente ces propos-là\", rétorque face à lui Rachel-Flore Pardo, porte-parole du candidat Gabriel Attal.",
+   "title": "28:54 vidéo 28 minutes 54 A suivre Loïc de la Mornais : Aurore Bergé suscite un tollé avec le \"Grand remplacement\" Dans cette première partie, Loïc de la Mornais et ses invités reviennent, jeudi 10 septembre, sur les propos d'Aurore Bergé qui invoque la liberté d'expression pour parler du Grand Remplacement. Une séquence à retrouver dans l'émission \"A suivre Loïc de la Mornais\" diffusée entre 20h30 et 22h sur la chaîne info, canal 16.",
+   "link": "https://www.franceinfo.fr/politique/a-suivre-loic-de-la-mornais-aurore-berge-suscite-un-tolle-avec-le-grand-remplacement_8187698.html",
+   "summary": "A suivre Loïc de la Mornais : Aurore Bergé suscite un tollé avec le \"Grand remplacement\"",
+   "image": "https://www.franceinfo.fr/pictures/zADscpRKH2PWR-0OUX39nGiePs4/262x0:1386x773/432x297/filters:format(jpg)/2026/09/11/6aa3858d8a930056754266.jpg",
+   "date": null,
+   "pubdate": "2026-09-11T04:47:22.726214+00:00"
+  },
+  {
+   "title": "\"On la prend très au sérieux\" : Ségolène Royal peut-elle créer la surprise à la primaire socialiste, vingt ans après son échec à la présidentielle ?",
+   "link": "https://www.franceinfo.fr/politique/ps/primaire-socialiste/on-la-prend-tres-au-serieux-segolene-royal-peut-elle-creer-la-surprise-a-la-primaire-socialiste-vingt-ans-apres-son-echec-a-la-presidentielle_8184773.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/Orx_b9IPr9lG0WVVZc8TKxz7kxk/0x119:4724x2777/432x243/filters:format(jpg)/2026/09/09/6aa15c1eb7622440450165.jpg",
+   "date": null,
+   "pubdate": "2026-09-11T04:47:22.726214+00:00"
+  },
+  {
+   "title": "18:14 vidéo 18 minutes 14 Injures racistes d'un policier à Carcassonne : \"On a 150 000 adhérents, vous ne savez pas la vie, l'œuvre, les propos des uns ou des autres…\", défend Andréa Kotarac, porte-parole du RN",
    "link": "https://www.franceinfo.fr/replay-magazine/franceinfo/avant-le-20h/injures-racistes-d-un-policier-a-carcassonne-on-a-150-000-adherents-vous-ne-savez-pas-la-vie-l-uvre-les-propos-des-uns-ou-des-autres-defend-andrea-kotarac-porte-parole-du-rn_8187188.html",
    "summary": "Injures racistes d'un policier à Carcassonne : \"On a 150 000 adhérents, vous ne savez pas la vie, l'œuvre, les propos des uns ou des autres…\", défend Andréa Kotarac, porte-parole du RN",
-   "image": "https://www.franceinfo.fr/pictures/OWhKVNkY7TmCz_C7w2QS8SaPm7I/170x0:1239x735/432x297/filters:format(jpg)/2026/09/10/6aa2f494b5437867735695.jpg",
+   "image": "https://www.franceinfo.fr/pictures/d0JMlTPpZeUDM1TguBoR8TlIq2M/51x0:1358x735/432x243/filters:format(jpg)/2026/09/10/6aa2f494b5437867735695.jpg",
    "date": null,
    "pubdate": "2026-09-10T20:55:44.448568+00:00"
   },
@@ -96,22 +114,6 @@
    "pubdate": "2026-09-10T16:29:39.427153+00:00"
   },
   {
-   "title": "L'avocat du policier de Carcassonne mis en cause dénonce une \"violation de la vie privée\" de son client, accusé d'avoir tenu des propos racistes",
-   "link": "https://www.franceinfo.fr/societe/l-avocat-du-policier-de-carcassonne-mis-en-cause-denonce-une-violation-de-la-vie-privee-de-son-client-accuse-d-avoir-tenu-des-propos-racistes_8186216.html",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/4MyBpZfGidWPBOzhxTzF4KWGfgY/0x53:1024x629/432x243/filters:format(jpg)/2026/09/10/6aa28cd4cadf8493689881.jpg",
-   "date": null,
-   "pubdate": "2026-09-10T11:27:18.076027+00:00"
-  },
-  {
-   "title": "Le ministre de l'Intérieur \"déplore\" l'annulation d'un concert de Barbara Butch à Amiens, malgré \"les garanties de sécurité\" apportées",
-   "link": "https://www.franceinfo.fr/culture/le-ministre-de-l-interieur-deplore-l-annulation-d-un-concert-de-barbara-butch-a-amiens-malgre-les-garanties-de-securite-apportees_8186219.html",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/JW2GFEF-E9movnn_9jdK5AQtWMk/0x53:1024x629/432x243/filters:format(jpg)/2026/09/10/6aa285fcbcc13305594515.jpg",
-   "date": null,
-   "pubdate": "2026-09-10T11:27:18.076027+00:00"
-  },
-  {
    "title": "Soupçons de financement libyen : tout comprendre à l'affaire 29 contenus",
    "link": "https://www.franceinfo.fr/politique/affaire/financement-de-la-campagne-de-sarkozy/soupcons-de-financement-libyen-tout-comprendre-a-l-affaire/",
    "summary": "Soupçons de financement libyen : tout comprendre à l'affaire",
@@ -124,6 +126,22 @@
    "link": "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/tout-comprendre-au-proces-des-assistants-parlementaires-fn/",
    "summary": "Tout comprendre au procès des assistants parlementaires FN",
    "image": "https://www.franceinfo.fr/pictures/iHJ4ZCCHTABB8-X6GO7CrL-9zcI/432x297/filters:format(jpg)/2026/01/28/marine-le-pen-a-son-proces-en-appel-697a50d594f91234092099.jpg",
+   "date": null,
+   "pubdate": "2026-09-10T11:27:18.076027+00:00"
+  },
+  {
+   "title": "L'avocat du policier de Carcassonne mis en cause dénonce une \"violation de la vie privée\" de son client, accusé d'avoir tenu des propos racistes Dans son communiqué, l'avocat appelle \"à la plus grande retenue dans le traitement médiatique de cette affaire\".",
+   "link": "https://www.franceinfo.fr/societe/l-avocat-du-policier-de-carcassonne-mis-en-cause-denonce-une-violation-de-la-vie-privee-de-son-client-accuse-d-avoir-tenu-des-propos-racistes_8186216.html",
+   "summary": "L'avocat du policier de Carcassonne mis en cause dénonce une \"violation de la vie privée\" de son client, accusé d'avoir tenu des propos racistes",
+   "image": "https://www.franceinfo.fr/pictures/4MyBpZfGidWPBOzhxTzF4KWGfgY/0x53:1024x629/432x243/filters:format(jpg)/2026/09/10/6aa28cd4cadf8493689881.jpg",
+   "date": null,
+   "pubdate": "2026-09-10T11:27:18.076027+00:00"
+  },
+  {
+   "title": "Le ministre de l'Intérieur \"déplore\" l'annulation d'un concert de Barbara Butch à Amiens, malgré \"les garanties de sécurité\" apportées \"La défense de la liberté d'expression ne doit souffrir d’aucun renoncement\", a réagi Laurent Nuñez.",
+   "link": "https://www.franceinfo.fr/culture/le-ministre-de-l-interieur-deplore-l-annulation-d-un-concert-de-barbara-butch-a-amiens-malgre-les-garanties-de-securite-apportees_8186219.html",
+   "summary": "Le ministre de l'Intérieur \"déplore\" l'annulation d'un concert de Barbara Butch à Amiens, malgré \"les garanties de sécurité\" apportées",
+   "image": "https://www.franceinfo.fr/pictures/JW2GFEF-E9movnn_9jdK5AQtWMk/0x53:1024x629/432x243/filters:format(jpg)/2026/09/10/6aa285fcbcc13305594515.jpg",
    "date": null,
    "pubdate": "2026-09-10T11:27:18.076027+00:00"
   },
