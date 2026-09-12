@@ -1,5 +1,5 @@
 {
- "etag": "\"cf8ad5a244469492c0f32f71bb7dfa22-gzip\"",
+ "etag": "\"d871666d2365d2b4d0245e6c752fc59d-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-c-est-le-sauveur-en-saxe-anhalt-ulrich-siegmund-l-homme-le-plus-dangereux-d-allemagne-selon-der-spiegel-aux-portes-du-pouvoir_8147219.html": "2026-09-09T16:43:27.764480+00:00",
@@ -8,7 +8,6 @@
   "https://www.franceinfo.fr/politique/je-vous-demande-de-vous-arreter-comment-la-phrase-d-edouard-balladur-est-devenue-culte_8171597.html": "2026-09-09T20:59:27.970256+00:00",
   "https://www.franceinfo.fr/politique/affaire/financement-de-la-campagne-de-sarkozy/soupcons-de-financement-libyen-tout-comprendre-a-l-affaire/": "2026-09-10T11:27:18.076027+00:00",
   "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/tout-comprendre-au-proces-des-assistants-parlementaires-fn/": "2026-09-10T11:27:18.076027+00:00",
-  "https://www.franceinfo.fr/politique/ps/primaire-socialiste/on-la-prend-tres-au-serieux-segolene-royal-peut-elle-creer-la-surprise-a-la-primaire-socialiste-vingt-ans-apres-son-echec-a-la-presidentielle_8184773.html": "2026-09-11T04:47:22.726214+00:00",
   "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/le-8h30-franceinfo-de-clemence-guette_8165801.html": "2026-09-11T11:29:00.344218+00:00",
   "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/propos-racistes-d-un-policier-ancien-militant-rn-on-a-une-capacite-de-reaction-tres-forte-assure-la-deputee-rn-laure-lavalette_8167796.html": "2026-09-11T11:29:00.344218+00:00",
   "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/vrai-ou-faux-y-a-t-il-du-racisme-dans-tous-les-partis-politiques-comme-l-affirme-le-rn-louis-alliot_8165828.html": "2026-09-11T11:29:00.344218+00:00",
@@ -21,13 +20,14 @@
   "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/prix-du-carburant-budget-presidentielle-le-8h30-franceinfo-de-thomas-menage_8167418.html": "2026-09-12T10:53:53.949580+00:00",
   "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-fete-de-l-humanite-fete-de-la-rose-campus-des-jeunes-republicains-la-rentree-politique-bat-son-plein_8189465.html": "2026-09-12T10:53:53.949580+00:00",
   "https://www.franceinfo.fr/politique/seine-maritime-le-conseil-municipal-de-sassetot-le-mauconduit-a-elu-son-nouveau-maire-apres-la-demission-du-precedent-condamne-pour-pedopornographie_8189480.html": "2026-09-12T10:53:53.949580+00:00",
-  "https://www.franceinfo.fr/replay-radio/l-interview-politique/chacun-a-decide-d-etre-dans-son-couloir-de-natation-deplore-marine-tondelier-candidate-ecologiste-a-l-election-presidentielle_8189441.html": "2026-09-12T10:53:53.949580+00:00",
   "https://www.franceinfo.fr/replay-radio/le-brief-politique/le-rassemblement-national-veut-investir-les-banlieues_8167361.html": "2026-09-12T10:53:53.949580+00:00",
   "https://www.franceinfo.fr/elections/presidentielle/le-risque-pour-nous-c-est-de-rester-un-second-choix-comment-bruno-retailleau-espere-se-relancer-dans-la-course-a-la-presidentielle_8165129.html": "2026-09-12T10:53:53.949580+00:00",
   "https://www.franceinfo.fr/economie/transports/prix-des-carburants/carburants-il-faut-baisser-la-fiscalite-on-ne-peut-pas-laisser-un-pays-s-asphyxier_8189711.html": "2026-09-12T14:06:03.780383+00:00",
   "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux-junior/reseaux-sociaux-l-interdiction-au-moins-de-15-ans-a-t-elle-ete-reportee-en-avril-2027_8167427.html": "2026-09-12T15:35:54.124253+00:00",
   "https://www.franceinfo.fr/replay-radio/l-info-de-l-histoire/les-brebis-galeuses-en-perspective-presidentielle_8167412.html": "2026-09-12T15:35:54.124253+00:00",
-  "https://www.franceinfo.fr/vrai-ou-fake/primaire-de-la-gauche-la-gauche-unie-perd-elle-toujours_8189843.html": "2026-09-12T15:35:54.124253+00:00"
+  "https://www.franceinfo.fr/vrai-ou-fake/primaire-de-la-gauche-la-gauche-unie-perd-elle-toujours_8189843.html": "2026-09-12T15:35:54.124253+00:00",
+  "https://www.franceinfo.fr/culture/musique/ca-donne-de-l-espoir-la-presidentielle-au-c-ur-de-la-fete-de-l-humanite_8190095.html": "2026-09-12T20:38:23.121726+00:00",
+  "https://www.franceinfo.fr/politique/marine-le-pen/marine-le-pen-prefere-un-budget-imparfait-operationnel-avant-la-presidentielle-plutot-qu-une-loi-speciale_8189900.html": "2026-09-12T20:38:23.121726+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
@@ -40,15 +40,31 @@
    "pubdate": "2026-09-13T11:00:00+00:00"
   },
   {
-   "title": "2:30 audio 2 minutes 30 Réseaux sociaux : l'interdiction au moins de 15 ans a-t-elle été reportée en avril 2027 ? Le Conseil constitutionnel avait censuré cette mesure défendue par le gouvernement, estimant qu'elle portait atteinte la liberté d'expression. Les collégiens veulent savoir où en est le processus.",
+   "title": "1:51 vidéo 1 minute 51 \"Ça donne de l'espoir\" : la présidentielle au cœur de la fête de l'Humanité La Fête de l'Humanité 2026 sous le soleil et au parfum présidentiel, avec notamment Fabien Roussel, candidat communiste à la maison, et des visiteurs de gauche aux ambitions aiguisées, comme Jean-Luc Mélenchon, dont l’appétit sur cet électorat est assumé. À quoi a ressemblé cette cohabitation du jour ?",
+   "link": "https://www.franceinfo.fr/culture/musique/ca-donne-de-l-espoir-la-presidentielle-au-c-ur-de-la-fete-de-l-humanite_8190095.html",
+   "summary": "\"Ça donne de l'espoir\" : la présidentielle au cœur de la fête de l'Humanité",
+   "image": "https://www.franceinfo.fr/pictures/yR8s_61DjN4qZrEiwJa0M5vTRAM/80x0:1657x1084/432x297/filters:format(jpg)/2026/09/12/6aa5a896cc63f907687696.png",
+   "date": null,
+   "pubdate": "2026-09-12T20:38:23.121726+00:00"
+  },
+  {
+   "title": "Marine Le Pen préfère un budget \"imparfait, opérationnel\" avant la présidentielle, plutôt qu'une loi spéciale",
+   "link": "https://www.franceinfo.fr/politique/marine-le-pen/marine-le-pen-prefere-un-budget-imparfait-operationnel-avant-la-presidentielle-plutot-qu-une-loi-speciale_8189900.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/P_xBzvcCOADRYjQ-wQguW-qkm8A/0x25:1024x601/432x243/filters:format(jpg)/2026/09/12/6aa57201142ed475399676.jpg",
+   "date": null,
+   "pubdate": "2026-09-12T20:38:23.121726+00:00"
+  },
+  {
+   "title": "2:40 audio 2 minutes 40 Réseaux sociaux : l'interdiction au moins de 15 ans a-t-elle été reportée en avril 2027 ?",
    "link": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux-junior/reseaux-sociaux-l-interdiction-au-moins-de-15-ans-a-t-elle-ete-reportee-en-avril-2027_8167427.html",
    "summary": "Réseaux sociaux : l'interdiction au moins de 15 ans a-t-elle été reportée en avril 2027 ?",
-   "image": "https://www.franceinfo.fr/pictures/8TKg0TaW2jjFMPk6Hvrx7V3xAI0/31x0:2088x1414/432x297/filters:format(jpg)/2026/09/11/6aa3e7d324658208253353.jpg",
+   "image": "https://www.franceinfo.fr/pictures/XxU5Fj4VgzNcLAQrgTerecyeaoY/0x110:2120x1303/432x243/filters:format(jpg)/2026/09/11/6aa3e7d324658208253353.jpg",
    "date": null,
    "pubdate": "2026-09-12T15:35:54.124253+00:00"
   },
   {
-   "title": "4:30 audio 4 minutes 30 Les brebis galeuses en perspective présidentielle",
+   "title": "4:46 audio 4 minutes 46 Les brebis galeuses en perspective présidentielle",
    "link": "https://www.franceinfo.fr/replay-radio/l-info-de-l-histoire/les-brebis-galeuses-en-perspective-presidentielle_8167412.html",
    "summary": "Les brebis galeuses en perspective présidentielle",
    "image": "https://www.franceinfo.fr/pictures/-MDX51XLAT9O1MWyedlEydQefkU/403x0:3567x1780/432x243/filters:format(jpg)/2026/09/12/6aa50ce17ac1d552651562.jpg",
@@ -88,10 +104,10 @@
    "pubdate": "2026-09-12T10:53:53.949580+00:00"
   },
   {
-   "title": "• Direct • Direct Présidentielle 2027 : \"Cette époque de l'inflation est un rapt sur la paie des travailleurs\", lance Jean-Luc Mélenchon à la Fête de l'Humanité",
+   "title": "Présidentielle 2027 : \"Ne nous laissons pas tondre\" comme des moutons, lance Fabien Roussel à la Fête de l'Humanité, en appelant \"à envahir les ronds-points\" pour créer \"un rapport de force\"",
    "link": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-fete-de-l-humanite-fete-de-la-rose-campus-des-jeunes-republicains-la-rentree-politique-bat-son-plein_8189465.html",
-   "summary": "Présidentielle 2027 : \"Cette époque de l'inflation est un rapt sur la paie des travailleurs\", lance Jean-Luc Mélenchon à la Fête de l'Humanité",
-   "image": "https://www.franceinfo.fr/pictures/ff8GQdIQ9JDCOAMlCx3RlpiM90w/0x0:1024x576/432x243/filters:format(jpg)/2026/09/12/6aa5674ca0286359170845.jpg",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/enrrR0Qq4r2MQA1HJE1r3tN5WG4/0x0:1024x576/432x243/filters:format(jpg)/2026/09/12/6aa54edaa7e7a775597570.jpg",
    "date": null,
    "pubdate": "2026-09-12T10:53:53.949580+00:00"
   },
@@ -104,15 +120,7 @@
    "pubdate": "2026-09-12T10:53:53.949580+00:00"
   },
   {
-   "title": "14:17 vidéo 14 minutes 17 \"Chacun a décidé d'être dans son couloir de natation\", déplore Marine Tondelier, candidate écologiste à l'élection présidentielle",
-   "link": "https://www.franceinfo.fr/replay-radio/l-interview-politique/chacun-a-decide-d-etre-dans-son-couloir-de-natation-deplore-marine-tondelier-candidate-ecologiste-a-l-election-presidentielle_8189441.html",
-   "summary": "\"Chacun a décidé d'être dans son couloir de natation\", déplore Marine Tondelier, candidate écologiste à l'élection présidentielle",
-   "image": "https://www.franceinfo.fr/pictures/vKAFB1R2fro__vJSoMQjmPuU_yw/132x0:1278x645/432x243/filters:format(jpg)/2026/09/12/6aa4f45f77ad6882006812.jpg",
-   "date": null,
-   "pubdate": "2026-09-12T10:53:53.949580+00:00"
-  },
-  {
-   "title": "2:36 audio 2 minutes 36 Le Rassemblement national veut investir les banlieues",
+   "title": "2:36 audio 2 minutes 36 Le Rassemblement national veut investir les banlieues La philosophie est claire, il veut \"veut occuper tous les espaces, s'adresser à tous les Français\", explique un membre de l'état-major du parti.",
    "link": "https://www.franceinfo.fr/replay-radio/le-brief-politique/le-rassemblement-national-veut-investir-les-banlieues_8167361.html",
    "summary": "Le Rassemblement national veut investir les banlieues",
    "image": "https://www.franceinfo.fr/pictures/W319yHG6W9msFJiroRPmmCbE244/0x41:1024x617/432x243/filters:format(jpg)/2026/09/12/6aa4fd75f04e4382424459.jpg",
@@ -182,14 +190,6 @@
    "image": "https://www.franceinfo.fr/pictures/7Fn1caigIGPYfxT1FC9Z9REwz04/0x53:1024x629/432x243/filters:format(jpg)/2026/09/11/6aa38635089a5470077469.jpg",
    "date": null,
    "pubdate": "2026-09-11T11:29:00.344218+00:00"
-  },
-  {
-   "title": "\"On la prend très au sérieux\" : Ségolène Royal peut-elle créer la surprise à la primaire socialiste, vingt ans après son échec à la présidentielle ? L'ancienne ministre et ambassadrice des pôles \"trace son sillon\" en électron libre de la primaire socialiste. Au point de susciter la méfiance de ses rivaux, qui voient en elle un élément perturbateur plus qu'une candidate capable de remporter le scrutin.",
-   "link": "https://www.franceinfo.fr/politique/ps/primaire-socialiste/on-la-prend-tres-au-serieux-segolene-royal-peut-elle-creer-la-surprise-a-la-primaire-socialiste-vingt-ans-apres-son-echec-a-la-presidentielle_8184773.html",
-   "summary": "\"On la prend très au sérieux\" : Ségolène Royal peut-elle créer la surprise à la primaire socialiste, vingt ans après son échec à la présidentielle ?",
-   "image": "https://www.franceinfo.fr/pictures/Orx_b9IPr9lG0WVVZc8TKxz7kxk/0x119:4724x2777/432x243/filters:format(jpg)/2026/09/09/6aa15c1eb7622440450165.jpg",
-   "date": null,
-   "pubdate": "2026-09-11T04:47:22.726214+00:00"
   },
   {
    "title": "Soupçons de financement libyen : tout comprendre à l'affaire 29 contenus",
