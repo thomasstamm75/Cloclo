@@ -1,10 +1,8 @@
 {
- "etag": "\"1f390f197e46a131ab4a8d4f047d00b1-gzip\"",
+ "etag": "\"2a8599ffdcd339689cf60f53e7d03036-gzip\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.franceinfo.fr/grands-formats/de-san-francisco-a-los-angeles-les-richesses-menacees-de-la-pacific-coast-highway-la-route-du-pacifique_8185364.html": "2026-09-09T20:59:31.397963+00:00",
   "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/tout-comprendre-a-la-guerre-au-moyen-orient/": "2026-09-10T04:50:48.816994+00:00",
-  "https://www.franceinfo.fr/monde/groenland/le-groenland-au-c-ur-d-un-bras-de-fer-geopolitique/": "2026-09-10T04:50:48.816994+00:00",
   "https://www.franceinfo.fr/internet/reseaux-sociaux/le-gouverneur-de-californie-signe-une-loi-pour-proteger-les-enfants-sur-les-reseaux-sociaux_8188100.html": "2026-09-11T11:29:03.276435+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/quatre-personnes-sont-mortes-dans-des-echanges-de-frappes-respectives-en-la-russie-et-l-ukraine_8187827.html": "2026-09-11T11:29:03.276435+00:00",
   "https://www.franceinfo.fr/economie/croissance/elle-fait-pale-figure-a-cote-de-ses-voisins-pourquoi-l-economie-francaise-tourne-t-elle-a-ce-point-au-ralenti_8187803.html": "2026-09-11T11:29:03.276435+00:00",
@@ -31,10 +29,28 @@
   "https://www.franceinfo.fr/monde/groenland/le-danemark-rend-une-meteorite-au-groenland-un-nouveau-pas-dans-la-reconnaissance-de-son-passe-colonial_8188787.html": "2026-09-11T21:01:35.469697+00:00",
   "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/a-metz-le-pape-leon-xiv-rencontrera-des-representants-des-principaux-cultes-en-france-notamment-protestant-juif-et-musulman_8188760.html": "2026-09-11T21:01:35.469697+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-il-y-a-70-de-bon-et-30-de-mauvais-en-chine-le-culte-de-mao-prend-de-l-ampleur-chez-les-jeunes_8161538.html": "2026-09-11T23:19:04.187466+00:00",
-  "https://www.franceinfo.fr/monde/asie/taiwan/du-sommet-de-l-etat-au-quotidien-des-habitants-comment-taiwan-se-prepare-a-une-guerre-avec-la-chine_8181767.html": "2026-09-11T23:19:04.187466+00:00"
+  "https://www.franceinfo.fr/monde/asie/taiwan/du-sommet-de-l-etat-au-quotidien-des-habitants-comment-taiwan-se-prepare-a-une-guerre-avec-la-chine_8181767.html": "2026-09-11T23:19:04.187466+00:00",
+  "https://www.franceinfo.fr/monde/usa/affaire-jeffrey-epstein/l-essentiel-des-revelations-sur-l-affaire-epstein/": "2026-09-12T04:41:56.759719+00:00",
+  "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/un-an-de-donald-trump-au-pouvoir/": "2026-09-12T04:41:56.759719+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "L'essentiel des révélations sur l'affaire Epstein 14 contenus",
+   "link": "https://www.franceinfo.fr/monde/usa/affaire-jeffrey-epstein/l-essentiel-des-revelations-sur-l-affaire-epstein/",
+   "summary": "L'essentiel des révélations sur l'affaire Epstein",
+   "image": "https://www.franceinfo.fr/pictures/btENVL4vmQDLNvnJ4uUtTATvN9k/432x297/filters:format(jpg)/2026/02/12/000-96rl2gk-1-698def9a11d8a867290796.jpg",
+   "date": null,
+   "pubdate": "2026-09-12T04:41:56.759719+00:00"
+  },
+  {
+   "title": "Un an de Donald Trump au pouvoir 18 contenus",
+   "link": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/un-an-de-donald-trump-au-pouvoir/",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/_Ls0AfsrdeH4b8e1t1laldX3AFA/432x297/filters:format(jpg)/2026/01/21/un-an-trump-au-pouvoir-6970f70527d4e960570673.jpg",
+   "date": null,
+   "pubdate": "2026-09-12T04:41:56.759719+00:00"
+  },
   {
    "title": ": Reportage 4:59 audio 4 minutes 59 : Reportage \"Il y a 70% de bon et 30% de mauvais\" : en Chine, le culte de Mao prend de l'ampleur chez les jeunes",
    "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-il-y-a-70-de-bon-et-30-de-mauvais-en-chine-le-culte-de-mao-prend-de-l-ampleur-chez-les-jeunes_8161538.html",
@@ -258,22 +274,6 @@
    "image": "https://www.franceinfo.fr/pictures/1mjbL6KrEfhdf8kkM-fiwv8Aqs4/432x297/filters:format(jpg)/2026/03/01/075-nikoubazl-mourning260301-npgop-69a44a7350cd8738092334.jpg",
    "date": null,
    "pubdate": "2026-09-10T04:50:48.816994+00:00"
-  },
-  {
-   "title": "Le Groenland au cœur d'un bras de fer géopolitique 15 contenus",
-   "link": "https://www.franceinfo.fr/monde/groenland/le-groenland-au-c-ur-d-un-bras-de-fer-geopolitique/",
-   "summary": "Le Groenland au cœur d'un bras de fer géopolitique",
-   "image": "https://www.franceinfo.fr/pictures/MKq4Aviz_2Dt7XVuO__X2DAEw5M/432x297/filters:format(jpg)/2026/01/22/043-sw-js9nbczzm6o-697245bf34b52414921393.jpg",
-   "date": null,
-   "pubdate": "2026-09-10T04:50:48.816994+00:00"
-  },
-  {
-   "title": "15:05 vidéo 15 minutes 5 De San Francisco à Los Angeles, les richesses menacées de la Pacific Coast Highway, la route du Pacifique",
-   "link": "https://www.franceinfo.fr/grands-formats/de-san-francisco-a-los-angeles-les-richesses-menacees-de-la-pacific-coast-highway-la-route-du-pacifique_8185364.html",
-   "summary": "De San Francisco à Los Angeles, les richesses menacées de la Pacific Coast Highway, la route du Pacifique",
-   "image": "https://www.franceinfo.fr/pictures/9lkkIO-0dQIuS9VDA94Fb4vb2U8/283x0:1171x888/100x100/filters:format(jpg)/2026/09/09/6aa1bc177607a042945197.jpg",
-   "date": null,
-   "pubdate": "2026-09-09T20:59:31.397963+00:00"
   }
  ]
 }
