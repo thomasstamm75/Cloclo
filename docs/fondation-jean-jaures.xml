@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Fondation Jean Jaurès</title>
+    <link>https://www.jean-jaures.org/</link>
+    <description>Flux fabriqué par Cloclo à partir de https://www.jean-jaures.org/</description>
+    <language>fr</language>
+    <lastBuildDate>Sat, 12 Sep 2026 14:07:31 +0000</lastBuildDate>
+    <atom:link href="https://thomasstamm75.github.io/Cloclo/fondation-jean-jaures.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reconquérir la souveraineté fiscale de la République centrafricaine</title>
+      <link>https://www.jean-jaures.org/publication/reconquerir-la-souverainete-fiscale-de-la-republique-centrafricaine/</link>
+      <guid isPermaLink="true">https://www.jean-jaures.org/publication/reconquerir-la-souverainete-fiscale-de-la-republique-centrafricaine/</guid>
+      <pubDate>Fri, 11 Sep 2026 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Immigration et intégration : quel est l’état de l’opinion ?</title>
+      <link>https://www.jean-jaures.org/publication/immigration-et-integration-quel-est-letat-de-lopinion/</link>
+      <guid isPermaLink="true">https://www.jean-jaures.org/publication/immigration-et-integration-quel-est-letat-de-lopinion/</guid>
+      <pubDate>Fri, 11 Sep 2026 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Immigration, intégration : des Français résolument en faveur de la régulation</title>
+      <link>https://www.jean-jaures.org/publication/immigration-integration-des-francais-resolument-en-faveur-de-la-regulation/</link>
+      <guid isPermaLink="true">https://www.jean-jaures.org/publication/immigration-integration-des-francais-resolument-en-faveur-de-la-regulation/</guid>
+      <pubDate>Fri, 11 Sep 2026 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Repenser la doctrine socialiste de l’immigration : travail et statut des étrangers en France</title>
+      <link>https://www.jean-jaures.org/publication/repenser-la-doctrine-socialiste-de-limmigration-travail-et-statut-des-etrangers-en-france/</link>
+      <guid isPermaLink="true">https://www.jean-jaures.org/publication/repenser-la-doctrine-socialiste-de-limmigration-travail-et-statut-des-etrangers-en-france/</guid>
+      <pubDate>Fri, 11 Sep 2026 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Souveraineté énergétique et électrification des usages : une enquête européenne</title>
+      <link>https://www.jean-jaures.org/publication/souverainete-energetique-et-electrification-des-usages-une-enquete-europeenne/</link>
+      <guid isPermaLink="true">https://www.jean-jaures.org/publication/souverainete-energetique-et-electrification-des-usages-une-enquete-europeenne/</guid>
+      <pubDate>Thu, 10 Sep 2026 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gouverner l’Atlantique Nord : flux, profondeurs et choix démocratiques</title>
+      <link>https://www.jean-jaures.org/publication/gouverner-latlantique-nord-flux-profondeurs-et-choix-democratiques/</link>
+      <guid isPermaLink="true">https://www.jean-jaures.org/publication/gouverner-latlantique-nord-flux-profondeurs-et-choix-democratiques/</guid>
+      <pubDate>Tue, 08 Sep 2026 11:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
