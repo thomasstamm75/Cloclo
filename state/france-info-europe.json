@@ -1,12 +1,11 @@
 {
- "etag": "\"ac3071b3f8ae138aa396b85a5c7a115c-gzip\"",
+ "etag": "\"61c5bf3ad4e887f7515e551cb2453c99-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/monde/europe/allemagne/il-y-a-une-extrapolation-du-declin-economique-comment-l-extreme-droite-allemande-est-arrivee-aux-portes-du-pouvoir-en-saxe-anhalt_8175638.html": "2026-09-08T09:31:39.759956+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-c-est-le-sauveur-en-saxe-anhalt-ulrich-siegmund-l-homme-le-plus-dangereux-d-allemagne-selon-der-spiegel-aux-portes-du-pouvoir_8147219.html": "2026-09-08T09:31:39.759956+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/je-ne-sais-pas-ce-qui-attend-nos-enfants-a-kiev-l-angoisse-de-la-rentree-sous-les-bombes-apres-un-ete-meurtrier_8144936.html": "2026-09-08T09:31:39.759956+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/pendant-deux-jours-j-ai-tire-le-corps-d-un-mort-dans-la-kill-zone-les-soldats-ukrainiens-vivent-sous-la-menace-permanente-des-drones-russes_8089898.html": "2026-09-08T09:31:39.759956+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/six-personnes-sont-mortes-en-russie-et-en-ukraine-apres-de-nouveaux-echanges-de-frappes_8184365.html": "2026-09-09T11:31:29.777472+00:00",
   "https://www.franceinfo.fr/monde/europe/bon-eleve-europeen-en-matiere-de-stockage-de-gaz-la-pologne-pourrait-etre-un-jour-invitee-a-partager-ses-reserves_8184779.html": "2026-09-09T16:43:29.606057+00:00",
   "https://www.franceinfo.fr/monde/europe/allemagne/en-saxe-anhalt-l-afd-veut-desormais-frapper-les-eglises-au-portefeuille_8184500.html": "2026-09-09T16:43:29.606057+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/vos-questions-sur-l-effort-de-guerre-de-la-france/": "2026-09-09T16:43:29.606057+00:00",
@@ -28,15 +27,24 @@
   "https://www.franceinfo.fr/replay-radio/salut-l-info/podcast-le-grand-retour-de-celine-dion-rentree-difficile-pour-les-agriculteurs-et-un-coin-a-prouts_8177906.html": "2026-09-11T16:33:29.877443+00:00",
   "https://www.franceinfo.fr/monde/russie/une-armee-de-bots-russes-va-cibler-les-prochaines-elections-en-france-et-en-allemagne-previent-la-suede_8188328.html": "2026-09-11T16:33:29.877443+00:00",
   "https://www.franceinfo.fr/monde/europe/en-suede-des-elections-sur-fond-de-tournant-securitaire_8189768.html": "2026-09-12T14:06:05.306285+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-quatre-morts-dans-des-frappes-russes-nocturnes-dont-deux-dans-une-usine-arcelormittal_8189747.html": "2026-09-12T14:06:05.306285+00:00"
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-quatre-morts-dans-des-frappes-russes-nocturnes-dont-deux-dans-une-usine-arcelormittal_8189747.html": "2026-09-12T14:06:05.306285+00:00",
+  "https://www.franceinfo.fr/vrai-ou-fake/l-afd-allemande-est-elle-neonazie_8189846.html": "2026-09-12T15:35:55.726472+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "En Suède, des élections sur fond de tournant sécuritaire Appelés à voter ce dimanche, les électeurs suédois placent la santé, l’éducation et le pouvoir d’achat au premier rang de leurs préoccupations. Mais la criminalité et la violence des gangs, en pleine expansion, ont durablement transformé le paysage politique du royaume scandinave.",
+   "title": "2:29 vidéo 2 minutes 29 L'AFD allemande est-elle néonazie ? Le parti allemand AFD, créé en 2013, est-il néonazi ? L'équipe de \"Vrai ou Faux\" a décrypté les déclarations de ses membres aux côtés de spécialistes.",
+   "link": "https://www.franceinfo.fr/vrai-ou-fake/l-afd-allemande-est-elle-neonazie_8189846.html",
+   "summary": "Le parti allemand AFD, créé en 2013, est-il néonazi ? L'équipe de \"Vrai ou Faux\" a décrypté les déclarations de ses membres aux côtés de spécialistes.",
+   "image": "https://www.franceinfo.fr/pictures/Mk1LElRnTBOjlD_hF6--Vr_I9uA/110x0:1553x992/432x297/filters:format(jpg)/2026/09/12/6aa56271c1101568903667.png",
+   "date": null,
+   "pubdate": "2026-09-12T15:35:55.726472+00:00"
+  },
+  {
+   "title": "En Suède, des élections sur fond de tournant sécuritaire",
    "link": "https://www.franceinfo.fr/monde/europe/en-suede-des-elections-sur-fond-de-tournant-securitaire_8189768.html",
-   "summary": "En Suède, des élections sur fond de tournant sécuritaire",
-   "image": "https://www.franceinfo.fr/pictures/6h-GRfH-dCCFK8NDvB9OzfWaOBo/99x0:6421x4347/432x297/filters:format(jpg)/2026/09/12/6aa5515384ec4745423932.jpg",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/8A3Wdw916_H1HRGXMs70iHaMMM0/0x339:6521x4007/432x243/filters:format(jpg)/2026/09/12/6aa5515384ec4745423932.jpg",
    "date": null,
    "pubdate": "2026-09-12T14:06:05.306285+00:00"
   },
@@ -105,9 +113,9 @@
    "pubdate": "2026-09-11T11:29:02.165981+00:00"
   },
   {
-   "title": "Le Canada annonce plus de 200 millions d'euros d'aide pour la défense aérienne de l'Ukraine",
+   "title": "Le Canada annonce plus de 200 millions d'euros d'aide pour la défense aérienne de l'Ukraine Afin d'aider les Ukrainiens à passer l'hiver face aux attaques russes sur leurs infrastructures énergétiques, le Canada va également \"fournir plus de 430 millions de dollars [268 millions d'euros] en garanties de prêt pour l'achat de gaz\", a annoncé jeudi le Premier ministre canadien, Mark Carney.",
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/le-canada-annonce-plus-de-200-millions-d-euros-d-aide-en-matiere-de-defense-aerienne-pour-l-ukraine_8187203.html",
-   "summary": "",
+   "summary": "Le Canada annonce plus de 200 millions d'euros d'aide pour la défense aérienne de l'Ukraine",
    "image": "https://www.franceinfo.fr/pictures/lPcsMXvEgVCAiOw68TOAt78hcUw/0x0:1024x576/432x243/filters:format(jpg)/2026/09/10/6aa2f62a9b125354513058.jpg",
    "date": null,
    "pubdate": "2026-09-10T20:55:46.046890+00:00"
@@ -207,14 +215,6 @@
    "image": "https://www.franceinfo.fr/pictures/Ltfnt5Hn-JA3v8Dwb3JeJYw7gNA/0x254:4928x3026/432x243/filters:format(jpg)/2026/09/09/6aa135315bd28223958422.jpg",
    "date": null,
    "pubdate": "2026-09-09T16:43:29.606057+00:00"
-  },
-  {
-   "title": "Six personnes sont mortes en Russie et en Ukraine après de nouveaux échanges de frappes Ces attaques interviennent au lendemain d'un nouvel entretien téléphonique entre le président russe, Vladimir Poutine, et son homologue américain, Donald Trump, sur les moyens de régler le conflit en Ukraine.",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/six-personnes-sont-mortes-en-russie-et-en-ukraine-apres-de-nouveaux-echanges-de-frappes_8184365.html",
-   "summary": "Six personnes sont mortes en Russie et en Ukraine après de nouveaux échanges de frappes",
-   "image": "https://www.franceinfo.fr/pictures/twmxYzmu_EZ4EpE7n7KCQ-258Ak/0x0:1024x576/432x243/filters:format(jpg)/2026/09/09/6aa10a9707a4d426058162.jpg",
-   "date": null,
-   "pubdate": "2026-09-09T11:31:29.777472+00:00"
   },
   {
    "title": "7:00 article 7 minutes \"Il y a une extrapolation du déclin économique\" : comment l'extrême droite allemande est arrivée aux portes du pouvoir en Saxe-Anhalt",
