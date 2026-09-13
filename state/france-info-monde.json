@@ -1,10 +1,7 @@
 {
- "etag": "\"8d7244b9f07b72d1cb75286a677e789b-gzip\"",
+ "etag": "\"b5168540f1c29c595368f9462fcc84b7-gzip\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.franceinfo.fr/grands-formats/de-san-francisco-a-los-angeles-les-richesses-menacees-de-la-pacific-coast-highway-la-route-du-pacifique_8185364.html": "2026-09-12T10:53:56.790351+00:00",
-  "https://www.franceinfo.fr/monde/groenland/le-groenland-au-c-ur-d-un-bras-de-fer-geopolitique/": "2026-09-12T10:53:56.790351+00:00",
-  "https://www.franceinfo.fr/monde/europe/en-suede-des-elections-sur-fond-de-tournant-securitaire_8189768.html": "2026-09-12T14:06:06.909534+00:00",
   "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/tout-comprendre-a-la-guerre-au-moyen-orient/": "2026-09-12T14:06:06.909534+00:00",
   "https://www.franceinfo.fr/monde/europe/allemagne/il-y-a-une-extrapolation-du-declin-economique-comment-l-extreme-droite-allemande-est-arrivee-aux-portes-du-pouvoir-en-saxe-anhalt_8175638.html": "2026-09-12T14:06:06.909534+00:00",
   "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/au-maroc-la-campagne-des-elections-legislatives-s-ouvre-sur-fond-de-crise-sociale_8167364.html": "2026-09-12T15:35:56.832491+00:00",
@@ -31,10 +28,37 @@
   "https://www.franceinfo.fr/monde/europe/la-gauche-en-tete-des-legislatives-en-suede-et-l-extreme-droite-perd-du-terrain-pour-la-premiere-fois-depuis-2010-selon-des-sondages-sortie-des-urnes_8191127.html": "2026-09-13T20:54:12.878018+00:00",
   "https://www.franceinfo.fr/replay-jt/france-2/20-heures/la-russie-frappe-un-train-a-800-metres-de-la-frontiere-polonaise_8191124.html": "2026-09-13T20:54:12.878018+00:00",
   "https://www.franceinfo.fr/monde/proche-orient/yemen/au-yemen-la-recrudescence-des-combats-entraine-le-deplacement-de-pres-de-86-000-personnes_8191109.html": "2026-09-13T20:54:12.878018+00:00",
-  "https://www.franceinfo.fr/monde/asie/taiwan/du-sommet-de-l-etat-au-quotidien-des-habitants-comment-taiwan-se-prepare-a-une-guerre-avec-la-chine_8181767.html": "2026-09-13T20:54:12.878018+00:00"
+  "https://www.franceinfo.fr/monde/asie/taiwan/du-sommet-de-l-etat-au-quotidien-des-habitants-comment-taiwan-se-prepare-a-une-guerre-avec-la-chine_8181767.html": "2026-09-13T20:54:12.878018+00:00",
+  "https://www.franceinfo.fr/monde/usa/affaire-jeffrey-epstein/l-essentiel-des-revelations-sur-l-affaire-epstein/": "2026-09-13T23:12:45.685409+00:00",
+  "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/un-an-de-donald-trump-au-pouvoir/": "2026-09-13T23:12:45.685409+00:00",
+  "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-il-y-a-70-de-bon-et-30-de-mauvais-en-chine-le-culte-de-mao-prend-de-l-ampleur-chez-les-jeunes_8161538.html": "2026-09-13T23:12:45.685409+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "L'essentiel des révélations sur l'affaire Epstein 14 contenus",
+   "link": "https://www.franceinfo.fr/monde/usa/affaire-jeffrey-epstein/l-essentiel-des-revelations-sur-l-affaire-epstein/",
+   "summary": "L'essentiel des révélations sur l'affaire Epstein",
+   "image": "https://www.franceinfo.fr/pictures/btENVL4vmQDLNvnJ4uUtTATvN9k/432x297/filters:format(jpg)/2026/02/12/000-96rl2gk-1-698def9a11d8a867290796.jpg",
+   "date": null,
+   "pubdate": "2026-09-13T23:12:45.685409+00:00"
+  },
+  {
+   "title": "Un an de Donald Trump au pouvoir 18 contenus",
+   "link": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/un-an-de-donald-trump-au-pouvoir/",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/_Ls0AfsrdeH4b8e1t1laldX3AFA/432x297/filters:format(jpg)/2026/01/21/un-an-trump-au-pouvoir-6970f70527d4e960570673.jpg",
+   "date": null,
+   "pubdate": "2026-09-13T23:12:45.685409+00:00"
+  },
+  {
+   "title": ": Reportage 4:59 audio 4 minutes 59 : Reportage \"Il y a 70% de bon et 30% de mauvais\" : en Chine, le culte de Mao prend de l'ampleur chez les jeunes",
+   "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-il-y-a-70-de-bon-et-30-de-mauvais-en-chine-le-culte-de-mao-prend-de-l-ampleur-chez-les-jeunes_8161538.html",
+   "summary": "\"Il y a 70% de bon et 30% de mauvais\" : en Chine, le culte de Mao prend de l'ampleur chez les jeunes",
+   "image": "https://www.franceinfo.fr/pictures/w3Ocn6zpscSeecS3EEUW5jVWcR8/1032x0:5160x4128/100x100/filters:format(jpg)/2026/09/09/6aa0f3e422509555262109.jpg",
+   "date": null,
+   "pubdate": "2026-09-13T23:12:45.685409+00:00"
+  },
   {
    "title": "1:35 vidéo 1 minute 35 Anniversaire du pape : 3 infos insolites sur Léon XIV Ce lundi, le pape Léon XIV fête ses 71 ans. Connaissez-vous bien le souverain pontife ? Voici 3 anecdotes insolites sur sa vie.",
    "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/anniversaire-du-pape-3-infos-insolites-sur-leon-xiv_8188490.html",
@@ -44,7 +68,7 @@
    "pubdate": "2026-09-13T20:54:12.878018+00:00"
   },
   {
-   "title": "La gauche en tête des législatives en Suède et l'extrême droite perd du terrain pour la première fois depuis 2010, selon des sondages sortie des urnes",
+   "title": "Suspense maximal pour les législatives en Suède : la coalition de gauche en tête d'un cheveu, alors que le dépouillement n'est pas terminé",
    "link": "https://www.franceinfo.fr/monde/europe/la-gauche-en-tete-des-legislatives-en-suede-et-l-extreme-droite-perd-du-terrain-pour-la-premiere-fois-depuis-2010-selon-des-sondages-sortie-des-urnes_8191127.html",
    "summary": "",
    "image": "https://www.franceinfo.fr/pictures/-sUzpa5wCcVMp6cq44ofcbM4LyA/0x62:1024x638/432x243/filters:format(jpg)/2026/09/13/6aa6f233af721827818592.jpg",
@@ -250,30 +274,6 @@
    "image": "https://www.franceinfo.fr/pictures/-nAiSgts3hDGmwBA52wjbLgKz5c/7x0:689x682/100x100/filters:format(jpg)/2026/09/03/6a99968962ca9292189034.jpg",
    "date": null,
    "pubdate": "2026-09-12T14:06:06.909534+00:00"
-  },
-  {
-   "title": "En Suède, des élections sur fond de tournant sécuritaire Appelés à voter ce dimanche, les électeurs suédois placent la santé, l’éducation et le pouvoir d’achat au premier rang de leurs préoccupations. Mais la criminalité et la violence des gangs, en pleine expansion, ont durablement transformé le paysage politique du royaume scandinave.",
-   "link": "https://www.franceinfo.fr/monde/europe/en-suede-des-elections-sur-fond-de-tournant-securitaire_8189768.html",
-   "summary": "En Suède, des élections sur fond de tournant sécuritaire",
-   "image": "https://www.franceinfo.fr/pictures/8A3Wdw916_H1HRGXMs70iHaMMM0/0x339:6521x4007/432x243/filters:format(jpg)/2026/09/12/6aa5515384ec4745423932.jpg",
-   "date": null,
-   "pubdate": "2026-09-12T14:06:06.909534+00:00"
-  },
-  {
-   "title": "15:05 vidéo 15 minutes 5 De San Francisco à Los Angeles, les richesses menacées de la Pacific Coast Highway, la route du Pacifique",
-   "link": "https://www.franceinfo.fr/grands-formats/de-san-francisco-a-los-angeles-les-richesses-menacees-de-la-pacific-coast-highway-la-route-du-pacifique_8185364.html",
-   "summary": "De San Francisco à Los Angeles, les richesses menacées de la Pacific Coast Highway, la route du Pacifique",
-   "image": "https://www.franceinfo.fr/pictures/9lkkIO-0dQIuS9VDA94Fb4vb2U8/283x0:1171x888/100x100/filters:format(jpg)/2026/09/09/6aa1bc177607a042945197.jpg",
-   "date": null,
-   "pubdate": "2026-09-12T10:53:56.790351+00:00"
-  },
-  {
-   "title": "Le Groenland au cœur d'un bras de fer géopolitique 15 contenus",
-   "link": "https://www.franceinfo.fr/monde/groenland/le-groenland-au-c-ur-d-un-bras-de-fer-geopolitique/",
-   "summary": "Le Groenland au cœur d'un bras de fer géopolitique",
-   "image": "https://www.franceinfo.fr/pictures/MKq4Aviz_2Dt7XVuO__X2DAEw5M/432x297/filters:format(jpg)/2026/01/22/043-sw-js9nbczzm6o-697245bf34b52414921393.jpg",
-   "date": null,
-   "pubdate": "2026-09-12T10:53:56.790351+00:00"
   }
  ]
 }
