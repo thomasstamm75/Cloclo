@@ -1,13 +1,11 @@
 {
- "etag": "\"8bab74dc356a3826dc37989ef07e2bd8-gzip\"",
+ "etag": "\"f9900378af461363def0698c6c6cd2c4-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/monde/europe/allemagne/il-y-a-une-extrapolation-du-declin-economique-comment-l-extreme-droite-allemande-est-arrivee-aux-portes-du-pouvoir-en-saxe-anhalt_8175638.html": "2026-09-08T09:31:39.759956+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-c-est-le-sauveur-en-saxe-anhalt-ulrich-siegmund-l-homme-le-plus-dangereux-d-allemagne-selon-der-spiegel-aux-portes-du-pouvoir_8147219.html": "2026-09-08T09:31:39.759956+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/je-ne-sais-pas-ce-qui-attend-nos-enfants-a-kiev-l-angoisse-de-la-rentree-sous-les-bombes-apres-un-ete-meurtrier_8144936.html": "2026-09-08T09:31:39.759956+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/pendant-deux-jours-j-ai-tire-le-corps-d-un-mort-dans-la-kill-zone-les-soldats-ukrainiens-vivent-sous-la-menace-permanente-des-drones-russes_8089898.html": "2026-09-08T09:31:39.759956+00:00",
-  "https://www.franceinfo.fr/monde/europe/bon-eleve-europeen-en-matiere-de-stockage-de-gaz-la-pologne-pourrait-etre-un-jour-invitee-a-partager-ses-reserves_8184779.html": "2026-09-09T16:43:29.606057+00:00",
-  "https://www.franceinfo.fr/monde/europe/allemagne/en-saxe-anhalt-l-afd-veut-desormais-frapper-les-eglises-au-portefeuille_8184500.html": "2026-09-09T16:43:29.606057+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/vos-questions-sur-l-effort-de-guerre-de-la-france/": "2026-09-09T16:43:29.606057+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-avion-qui-transportait-le-president-ukrainien-volodymyr-zelensky-a-failli-etre-touche-par-un-drone-en-moldavie_8185283.html": "2026-09-09T20:59:29.683392+00:00",
   "https://www.franceinfo.fr/economie/industrie/l-accord-commercial-arianespace-et-amazon-montre-l-excellence-de-la-filiere-ariane-se-felicite-le-ministre-philippe-baptiste_8185172.html": "2026-09-09T20:59:29.683392+00:00",
@@ -21,22 +19,57 @@
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/des-frappes-russes-sur-un-centre-commercial-font-au-moins-quatre-morts-et-60-blesses-dans-l-est-de-l-ukraine_8187083.html": "2026-09-10T20:55:46.046890+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/quatre-personnes-sont-mortes-dans-des-echanges-de-frappes-respectives-en-la-russie-et-l-ukraine_8187827.html": "2026-09-11T11:29:02.165981+00:00",
   "https://www.franceinfo.fr/economie/croissance/elle-fait-pale-figure-a-cote-de-ses-voisins-pourquoi-l-economie-francaise-tourne-t-elle-a-ce-point-au-ralenti_8187803.html": "2026-09-11T11:29:02.165981+00:00",
-  "https://www.franceinfo.fr/monde/turquie/un-cargo-russe-frappe-par-des-drones-ukrainiens-s-echoue-sur-une-plage-en-turquie_8186738.html": "2026-09-11T11:29:02.165981+00:00",
   "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/le-canada-scelle-un-partenariat-de-100-ans-avec-l-ukraine-et-se-rapproche-de-l-europe_8165804.html": "2026-09-11T11:29:02.165981+00:00",
   "https://www.franceinfo.fr/internet/reseaux-sociaux/que-faut-il-pour-que-l-europe-bouge-l-appel-l-aide-de-parents-d-enfants-victimes-des-reseaux-sociaux-a-ursula-von-der-leyen_8187284.html": "2026-09-11T11:29:02.165981+00:00",
   "https://www.franceinfo.fr/replay-radio/salut-l-info/podcast-le-grand-retour-de-celine-dion-rentree-difficile-pour-les-agriculteurs-et-un-coin-a-prouts_8177906.html": "2026-09-11T16:33:29.877443+00:00",
   "https://www.franceinfo.fr/monde/russie/une-armee-de-bots-russes-va-cibler-les-prochaines-elections-en-france-et-en-allemagne-previent-la-suede_8188328.html": "2026-09-11T16:33:29.877443+00:00",
   "https://www.franceinfo.fr/monde/europe/en-suede-des-elections-sur-fond-de-tournant-securitaire_8189768.html": "2026-09-12T14:06:05.306285+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-quatre-morts-dans-des-frappes-russes-nocturnes-dont-deux-dans-une-usine-arcelormittal_8189747.html": "2026-09-12T14:06:05.306285+00:00",
-  "https://www.franceinfo.fr/vrai-ou-fake/l-afd-allemande-est-elle-neonazie_8189846.html": "2026-09-12T15:35:55.726472+00:00"
+  "https://www.franceinfo.fr/vrai-ou-fake/l-afd-allemande-est-elle-neonazie_8189846.html": "2026-09-12T15:35:55.726472+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/un-train-a-destination-de-varsovie-frappe-par-un-drone-russe-pres-de-la-frontiere-polonaise-en-ukraine_8190752.html": "2026-09-13T11:59:34.981624+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-le-kremlin-n-exclut-pas-une-reprise-des-negociations-trilaterales-avec-kiev-en-octobre_8190662.html": "2026-09-13T11:59:34.981624+00:00",
+  "https://www.franceinfo.fr/monde/europe/union-europeenne/arctique-face-aux-grandes-puissances-l-union-europeenne-veut-muscler-sa-strategie_8190659.html": "2026-09-13T11:59:34.981624+00:00",
+  "https://www.franceinfo.fr/monde/europe/ca-fait-honte-au-peuple-irlandais-a-dublin-la-visite-officielle-de-donald-trump-suscite-colere-et-indignation_8190023.html": "2026-09-13T11:59:34.981624+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "2:29 vidéo 2 minutes 29 L'AFD allemande est-elle néonazie ? Le parti allemand AFD, créé en 2013, est-il néonazi ? L'équipe de \"Vrai ou Faux\" a décrypté les déclarations de ses membres aux côtés de spécialistes.",
+   "title": "Un train à destination de Varsovie frappé par un drone russe près de la frontière polonaise en Ukraine L'attaque, qui a visé un train avec 206 passagers à bord, n'a fait aucune victime, ont annoncé dimanche la Pologne et l'Ukraine.",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/un-train-a-destination-de-varsovie-frappe-par-un-drone-russe-pres-de-la-frontiere-polonaise-en-ukraine_8190752.html",
+   "summary": "Un train à destination de Varsovie frappé par un drone russe près de la frontière polonaise en Ukraine",
+   "image": "https://www.franceinfo.fr/pictures/q1X_pCpH-niCrllVnAJirm6xkd4/128x0:4300x2868/432x297/filters:format(jpg)/2026/09/13/6aa68cbf8492d263890506.jpg",
+   "date": null,
+   "pubdate": "2026-09-13T11:59:34.981624+00:00"
+  },
+  {
+   "title": "Guerre en Ukraine : le Kremlin n'exclut pas une reprise des négociations trilatérales avec Kiev en octobre",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-le-kremlin-n-exclut-pas-une-reprise-des-negociations-trilaterales-avec-kiev-en-octobre_8190662.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/HJ81o-g6NOzozm1c8wunA9kzt9w/0x110:1024x686/432x243/filters:format(jpg)/2026/09/13/6aa6739d0c735784920782.jpg",
+   "date": null,
+   "pubdate": "2026-09-13T11:59:34.981624+00:00"
+  },
+  {
+   "title": "Arctique : face aux grandes puissances, l’Union européenne veut muscler sa stratégie",
+   "link": "https://www.franceinfo.fr/monde/europe/union-europeenne/arctique-face-aux-grandes-puissances-l-union-europeenne-veut-muscler-sa-strategie_8190659.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/gOtVp_nX4UrdNIO0ZGHsPEBXkGE/0x39:1024x615/432x243/filters:format(jpg)/2026/09/13/6aa67260e7372268545457.jpg",
+   "date": null,
+   "pubdate": "2026-09-13T11:59:34.981624+00:00"
+  },
+  {
+   "title": "\"Ça fait honte au peuple irlandais\" : à Dublin, la visite officielle de Donald Trump suscite colère et indignation",
+   "link": "https://www.franceinfo.fr/monde/europe/ca-fait-honte-au-peuple-irlandais-a-dublin-la-visite-officielle-de-donald-trump-suscite-colere-et-indignation_8190023.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/Qja6MOKQd_1UBroK8QbtDhaqpVY/0x625:6000x4000/432x243/filters:format(jpg)/2026/09/12/6aa58f40c772b726836401.jpg",
+   "date": null,
+   "pubdate": "2026-09-13T11:59:34.981624+00:00"
+  },
+  {
+   "title": "2:29 vidéo 2 minutes 29 L'AFD allemande est-elle néonazie ?",
    "link": "https://www.franceinfo.fr/vrai-ou-fake/l-afd-allemande-est-elle-neonazie_8189846.html",
-   "summary": "Le parti allemand AFD, créé en 2013, est-il néonazi ? L'équipe de \"Vrai ou Faux\" a décrypté les déclarations de ses membres aux côtés de spécialistes.",
-   "image": "https://www.franceinfo.fr/pictures/Mk1LElRnTBOjlD_hF6--Vr_I9uA/110x0:1553x992/432x297/filters:format(jpg)/2026/09/12/6aa56271c1101568903667.png",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/o-dw7PvRlp_hvNbMaDcZNpw4ZFs/0x28:1664x964/432x243/filters:format(jpg)/2026/09/12/6aa56271c1101568903667.png",
    "date": null,
    "pubdate": "2026-09-12T15:35:55.726472+00:00"
   },
@@ -81,23 +114,15 @@
    "pubdate": "2026-09-11T11:29:02.165981+00:00"
   },
   {
-   "title": "\"Elle fait pâle figure à côté de ses voisins\" : pourquoi l'économie française tourne-t-elle à ce point au ralenti ?",
+   "title": "\"Elle fait pâle figure à côté de ses voisins\" : pourquoi l'économie française tourne-t-elle à ce point au ralenti ? Les prévisions de croissance pour la France en 2026 ont été revues à la baisse. D'après l'Insee, notre économie devrait connaître en moyenne annuelle une progression \"trois fois moins\" importante que le Royaume-Uni, l'Allemagne ou encore l'Espagne.",
    "link": "https://www.franceinfo.fr/economie/croissance/elle-fait-pale-figure-a-cote-de-ses-voisins-pourquoi-l-economie-francaise-tourne-t-elle-a-ce-point-au-ralenti_8187803.html",
-   "summary": "",
+   "summary": "\"Elle fait pâle figure à côté de ses voisins\" : pourquoi l'économie française tourne-t-elle à ce point au ralenti ?",
    "image": "https://www.franceinfo.fr/pictures/4SMiI-87UDbBFMtDTQWMtpz7YKM/0x53:1024x629/432x243/filters:format(jpg)/2026/09/11/6aa3b370cd8bf269499512.jpg",
    "date": null,
    "pubdate": "2026-09-11T11:29:02.165981+00:00"
   },
   {
-   "title": "1:03 vidéo 1 minute 3 Un cargo russe, frappé par des drones ukrainiens, s’échoue sur une plage en Turquie",
-   "link": "https://www.franceinfo.fr/monde/turquie/un-cargo-russe-frappe-par-des-drones-ukrainiens-s-echoue-sur-une-plage-en-turquie_8186738.html",
-   "summary": "Un cargo russe, frappé par des drones ukrainiens, s’échoue sur une plage en Turquie",
-   "image": "https://www.franceinfo.fr/pictures/yPcHkukXUPHaVvz8Ww-1wAFL3wY/0x0:900x1600/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/10/6aa2c9894b66e168854220.jpg",
-   "date": null,
-   "pubdate": "2026-09-11T11:29:02.165981+00:00"
-  },
-  {
-   "title": "2:25 audio 2 minutes 25 Le Canada scelle un partenariat de \"100 ans\" avec l'Ukraine et se rapproche de l’Europe",
+   "title": "2:25 audio 2 minutes 25 Le Canada scelle un partenariat de \"100 ans\" avec l'Ukraine et se rapproche de l’Europe Le Canada a multiplié, jeudi les engagements militaires et industriels en faveur de l’Ukraine, lors de la visite de Volodymyr Zelensky . Une alliance de long terme qui confirme aussi l’éloignement d’Ottawa vis-à-vis des États-Unis de Donald Trump.",
    "link": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/le-canada-scelle-un-partenariat-de-100-ans-avec-l-ukraine-et-se-rapproche-de-l-europe_8165804.html",
    "summary": "Le Canada scelle un partenariat de \"100 ans\" avec l'Ukraine et se rapproche de l’Europe",
    "image": "https://www.franceinfo.fr/pictures/ePbUvsm42FYRGhAkl2z_GHDF0SM/0x53:1024x629/432x243/filters:format(jpg)/2026/09/11/6aa38a86d6310478725927.jpg",
@@ -105,9 +130,9 @@
    "pubdate": "2026-09-11T11:29:02.165981+00:00"
   },
   {
-   "title": "\"Que faut-il pour que l'Europe bouge ?\" : l'appel à l'aide de parents d'enfants victimes des réseaux sociaux à Ursula von der Leyen",
+   "title": "\"Que faut-il pour que l'Europe bouge ?\" : l'appel à l'aide de parents d'enfants victimes des réseaux sociaux à Ursula von der Leyen La Commission européenne doit présenter ses annonces le 16 septembre pour protéger les mineurs en ligne. Des familles endeuillées demandent dans une lettre ouverte une meilleure mise en ouvre de la législation européenne sur les plateformes.",
    "link": "https://www.franceinfo.fr/internet/reseaux-sociaux/que-faut-il-pour-que-l-europe-bouge-l-appel-l-aide-de-parents-d-enfants-victimes-des-reseaux-sociaux-a-ursula-von-der-leyen_8187284.html",
-   "summary": "",
+   "summary": "\"Que faut-il pour que l'Europe bouge ?\" : l'appel à l'aide de parents d'enfants victimes des réseaux sociaux à Ursula von der Leyen",
    "image": "https://www.franceinfo.fr/pictures/cEm-mHz0jNzRdLYiG5ZpDcTi54k/0x386:7360x4526/432x243/filters:format(jpg)/2026/03/26/69c5103fb2bff431349908.jpg",
    "date": null,
    "pubdate": "2026-09-11T11:29:02.165981+00:00"
@@ -197,22 +222,6 @@
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/vos-questions-sur-l-effort-de-guerre-de-la-france/",
    "summary": "Vos questions sur l'effort de guerre de la France",
    "image": "https://www.franceinfo.fr/pictures/ntZoU9VrwR_yrQmHdJn-AC2Tq7o/432x297/filters:format(jpg)/2025/04/01/effort-de-guerre-couverture-de-dossier-01-light-67eba0e5ca0a7848911582.jpg",
-   "date": null,
-   "pubdate": "2026-09-09T16:43:29.606057+00:00"
-  },
-  {
-   "title": "Bon élève européen en matière de stockage de gaz, la Pologne pourrait être un jour invitée à partager ses réserves La Pologne a rempli ses installations de stockage de gaz naturel à 96% de leur capacité, soit le niveau le plus élevé de toute l'Union européenne, bien au-dessus de la moyenne de 67% enregistrée au sein de l'UE, comme l'explique cet article de la radio publique polonaise Polskie Radio.",
-   "link": "https://www.franceinfo.fr/monde/europe/bon-eleve-europeen-en-matiere-de-stockage-de-gaz-la-pologne-pourrait-etre-un-jour-invitee-a-partager-ses-reserves_8184779.html",
-   "summary": "Bon élève européen en matière de stockage de gaz, la Pologne pourrait être un jour invitée à partager ses réserves",
-   "image": "https://www.franceinfo.fr/pictures/X_sgWCJv4TrqFO-S11N7_rtQb_E/0x169:1832x1200/432x243/filters:format(jpg)/2026/09/09/6aa15024e8471372034926.jpg",
-   "date": null,
-   "pubdate": "2026-09-09T16:43:29.606057+00:00"
-  },
-  {
-   "title": "1:15 audio 1 minute 15 En Saxe-Anhalt, l'AfD veut désormais frapper les Églises au portefeuille L'inquiétude des Églises catholique et protestante de Saxe-Anhalt est montée d'un cran depuis la victoire de l'AfD aux élections régionales dimanche dernier. Le leader du parti dans la région entend supprimer leur financement.",
-   "link": "https://www.franceinfo.fr/monde/europe/allemagne/en-saxe-anhalt-l-afd-veut-desormais-frapper-les-eglises-au-portefeuille_8184500.html",
-   "summary": "En Saxe-Anhalt, l'AfD veut désormais frapper les Églises au portefeuille",
-   "image": "https://www.franceinfo.fr/pictures/Ltfnt5Hn-JA3v8Dwb3JeJYw7gNA/0x254:4928x3026/432x243/filters:format(jpg)/2026/09/09/6aa135315bd28223958422.jpg",
    "date": null,
    "pubdate": "2026-09-09T16:43:29.606057+00:00"
   },
