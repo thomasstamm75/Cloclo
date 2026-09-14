@@ -1,13 +1,10 @@
 {
- "etag": "\"b5168540f1c29c595368f9462fcc84b7-gzip\"",
+ "etag": "\"1837f2bc904d58df82d65e5e7ab65e06-gzip\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/tout-comprendre-a-la-guerre-au-moyen-orient/": "2026-09-12T14:06:06.909534+00:00",
-  "https://www.franceinfo.fr/monde/europe/allemagne/il-y-a-une-extrapolation-du-declin-economique-comment-l-extreme-droite-allemande-est-arrivee-aux-portes-du-pouvoir-en-saxe-anhalt_8175638.html": "2026-09-12T14:06:06.909534+00:00",
   "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/au-maroc-la-campagne-des-elections-legislatives-s-ouvre-sur-fond-de-crise-sociale_8167364.html": "2026-09-12T15:35:56.832491+00:00",
   "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/je-pense-que-ce-serait-fantastique-a-la-surprise-generale-donald-trump-plaide-pour-une-irlande-unifiee_8189870.html": "2026-09-12T15:35:56.832491+00:00",
   "https://www.franceinfo.fr/replay-radio/le-rendez-vous-du-mediateur/l-intelligence-artificielle-peut-elle-devenir-incontrolable-et-comment-les-medias-doivent-ils-s-en-premunir_8167424.html": "2026-09-12T15:35:56.832491+00:00",
-  "https://www.franceinfo.fr/replay-radio/l-empire-des-series/prisonniere-951-l-histoire-vraie-de-l-enlevement-par-les-autorites-iraniennes-de-la-britannique-nazanin-zaghari_8167409.html": "2026-09-12T15:35:56.832491+00:00",
   "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/un-instrument-strategique-de-pression-supplementaire-pourquoi-les-rebelles-houthis-servent-les-interets-de-l-iran-en-s-emparant-du-detroit-de-bab-el-mandeb_8189762.html": "2026-09-12T20:38:26.722370+00:00",
   "https://www.franceinfo.fr/monde/asie/le-bilan-de-l-incendie-sur-un-ferry-aux-philippines-s-alourdit-avec-au-moins-76-morts_8189930.html": "2026-09-12T20:38:26.722370+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/un-train-a-destination-de-varsovie-frappe-par-un-drone-russe-pres-de-la-frontiere-polonaise-en-ukraine_8190752.html": "2026-09-13T11:59:36.109625+00:00",
@@ -21,7 +18,6 @@
   "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/opposants-journalistes-citoyens-comment-la-russie-reprime-toute-contestation-de-la-guerre-en-ukraine_8149349.html": "2026-09-13T16:24:16.714183+00:00",
   "https://www.franceinfo.fr/monde/europe/migrants/crise-des-migrants-a-ceuta/plus-de-5-300-migrants-restes-a-ceuta-ont-pu-retourner-au-maroc-en-un-mois-assure-le-gouvernement-espagnol_8190917.html": "2026-09-13T16:24:16.714183+00:00",
   "https://www.franceinfo.fr/monde/europe/mag-da-le-na-le-compositeur-d-abba-revisite-le-tube-du-groupe-suedois-mamma-mia-en-soutien-a-la-candidate-du-bloc-de-gauche-aux-legislatives_8190809.html": "2026-09-13T16:24:16.714183+00:00",
-  "https://www.franceinfo.fr/replay-jt/france-2/13-heures/costumes-liturgiques-ca-s-active-avant-la-venue-du-pape-leon-xiv_8190791.html": "2026-09-13T16:24:16.714183+00:00",
   "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/grace-au-pape-on-fait-des-affaires-a-deux-semaines-de-la-visite-du-pape-a-lourdes-les-hotels-affichent-presque-tous-complet_8190758.html": "2026-09-13T16:24:16.714183+00:00",
   "https://www.franceinfo.fr/replay-radio/l-invite-culture/thelyson-orelien-un-migrant-part-parce-qu-il-veut-vivre_8177648.html": "2026-09-13T16:24:16.714183+00:00",
   "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/anniversaire-du-pape-3-infos-insolites-sur-leon-xiv_8188490.html": "2026-09-13T20:54:12.878018+00:00",
@@ -31,10 +27,46 @@
   "https://www.franceinfo.fr/monde/asie/taiwan/du-sommet-de-l-etat-au-quotidien-des-habitants-comment-taiwan-se-prepare-a-une-guerre-avec-la-chine_8181767.html": "2026-09-13T20:54:12.878018+00:00",
   "https://www.franceinfo.fr/monde/usa/affaire-jeffrey-epstein/l-essentiel-des-revelations-sur-l-affaire-epstein/": "2026-09-13T23:12:45.685409+00:00",
   "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/un-an-de-donald-trump-au-pouvoir/": "2026-09-13T23:12:45.685409+00:00",
-  "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-il-y-a-70-de-bon-et-30-de-mauvais-en-chine-le-culte-de-mao-prend-de-l-ampleur-chez-les-jeunes_8161538.html": "2026-09-13T23:12:45.685409+00:00"
+  "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-il-y-a-70-de-bon-et-30-de-mauvais-en-chine-le-culte-de-mao-prend-de-l-ampleur-chez-les-jeunes_8161538.html": "2026-09-13T23:12:45.685409+00:00",
+  "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/la-chine-nous-espionne-et-nous-les-espionnons-aussi-donald-trump-minimise-une-fourniture-presumee-de-renseignements-chinois-a-l-iran_8191433.html": "2026-09-14T05:03:44.432647+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/un-besoin-critique-de-systemes-de-defense-antiaerienne-l-ukraine-s-attend-a-vivre-l-hiver-le-plus-difficile-depuis-le-debut-de-la-guerre-avec-la-russie_8184539.html": "2026-09-14T05:03:44.432647+00:00",
+  "https://www.franceinfo.fr/grands-formats/de-san-francisco-a-los-angeles-les-richesses-menacees-de-la-pacific-coast-highway-la-route-du-pacifique_8185364.html": "2026-09-14T05:03:44.432647+00:00",
+  "https://www.franceinfo.fr/monde/groenland/le-groenland-au-c-ur-d-un-bras-de-fer-geopolitique/": "2026-09-14T05:03:44.432647+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "\"La Chine nous espionne et nous les espionnons aussi\" : Donald Trump minimise une fourniture présumée de renseignements chinois à l'Iran Selon le \"Wall Street Journal\", des entités chinoises auraient fourni à l'Iran des images satellites d'une base militaire en Jordanie avant et après une frappe iranienne qui a tué trois soldats américains.",
+   "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/la-chine-nous-espionne-et-nous-les-espionnons-aussi-donald-trump-minimise-une-fourniture-presumee-de-renseignements-chinois-a-l-iran_8191433.html",
+   "summary": "\"La Chine nous espionne et nous les espionnons aussi\" : Donald Trump minimise une fourniture présumée de renseignements chinois à l'Iran",
+   "image": "https://www.franceinfo.fr/pictures/rHDSoModhwBf01Zu897h8KHd82Y/32x0:1024x682/432x297/filters:format(jpg)/2026/09/14/6aa77d0bbd867613158275.jpg",
+   "date": null,
+   "pubdate": "2026-09-14T05:03:44.432647+00:00"
+  },
+  {
+   "title": "\"Un besoin critique de systèmes de défense antiaérienne\" : l'Ukraine s'attend à vivre l'hiver le plus difficile depuis le début de la guerre avec la Russie",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/un-besoin-critique-de-systemes-de-defense-antiaerienne-l-ukraine-s-attend-a-vivre-l-hiver-le-plus-difficile-depuis-le-debut-de-la-guerre-avec-la-russie_8184539.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/webR6QBHygsM8vDaY6ToGDJrdX0/0x81:6720x3861/432x243/filters:format(jpg)/2026/09/09/6aa154bb749ec928547293.jpg",
+   "date": null,
+   "pubdate": "2026-09-14T05:03:44.432647+00:00"
+  },
+  {
+   "title": "15:05 vidéo 15 minutes 5 De San Francisco à Los Angeles, les richesses menacées de la Pacific Coast Highway, la route du Pacifique",
+   "link": "https://www.franceinfo.fr/grands-formats/de-san-francisco-a-los-angeles-les-richesses-menacees-de-la-pacific-coast-highway-la-route-du-pacifique_8185364.html",
+   "summary": "De San Francisco à Los Angeles, les richesses menacées de la Pacific Coast Highway, la route du Pacifique",
+   "image": "https://www.franceinfo.fr/pictures/9lkkIO-0dQIuS9VDA94Fb4vb2U8/283x0:1171x888/100x100/filters:format(jpg)/2026/09/09/6aa1bc177607a042945197.jpg",
+   "date": null,
+   "pubdate": "2026-09-14T05:03:44.432647+00:00"
+  },
+  {
+   "title": "Le Groenland au cœur d'un bras de fer géopolitique 15 contenus",
+   "link": "https://www.franceinfo.fr/monde/groenland/le-groenland-au-c-ur-d-un-bras-de-fer-geopolitique/",
+   "summary": "Le Groenland au cœur d'un bras de fer géopolitique",
+   "image": "https://www.franceinfo.fr/pictures/MKq4Aviz_2Dt7XVuO__X2DAEw5M/432x297/filters:format(jpg)/2026/01/22/043-sw-js9nbczzm6o-697245bf34b52414921393.jpg",
+   "date": null,
+   "pubdate": "2026-09-14T05:03:44.432647+00:00"
+  },
   {
    "title": "L'essentiel des révélations sur l'affaire Epstein 14 contenus",
    "link": "https://www.franceinfo.fr/monde/usa/affaire-jeffrey-epstein/l-essentiel-des-revelations-sur-l-affaire-epstein/",
@@ -60,15 +92,15 @@
    "pubdate": "2026-09-13T23:12:45.685409+00:00"
   },
   {
-   "title": "1:35 vidéo 1 minute 35 Anniversaire du pape : 3 infos insolites sur Léon XIV Ce lundi, le pape Léon XIV fête ses 71 ans. Connaissez-vous bien le souverain pontife ? Voici 3 anecdotes insolites sur sa vie.",
+   "title": "1:35 vidéo 1 minute 35 Anniversaire du pape : 3 infos insolites sur Léon XIV",
    "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/anniversaire-du-pape-3-infos-insolites-sur-leon-xiv_8188490.html",
    "summary": "Anniversaire du pape : 3 infos insolites sur Léon XIV",
-   "image": "https://www.franceinfo.fr/pictures/onDuZM63YcPxWy6ry5mZOMeMQco/0x0:1080x1920/fit-in/432x297/filters:upscale():fill(blur):format(jpg)/2026/09/11/6aa4141db8fbd604068043.png",
+   "image": "https://www.franceinfo.fr/pictures/IsFFKDOsh8wm3A-gSRShLVWex3E/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/11/6aa4141db8fbd604068043.png",
    "date": null,
    "pubdate": "2026-09-13T20:54:12.878018+00:00"
   },
   {
-   "title": "Suspense maximal pour les législatives en Suède : la coalition de gauche en tête d'un cheveu, alors que le dépouillement n'est pas terminé",
+   "title": "Suspense totale à l'issue des législatives en Suède, les sociaux-démocrates se disent \"prêts\" à gouverner",
    "link": "https://www.franceinfo.fr/monde/europe/la-gauche-en-tete-des-legislatives-en-suede-et-l-extreme-droite-perd-du-terrain-pour-la-premiere-fois-depuis-2010-selon-des-sondages-sortie-des-urnes_8191127.html",
    "summary": "",
    "image": "https://www.franceinfo.fr/pictures/-sUzpa5wCcVMp6cq44ofcbM4LyA/0x62:1024x638/432x243/filters:format(jpg)/2026/09/13/6aa6f233af721827818592.jpg",
@@ -132,17 +164,9 @@
    "pubdate": "2026-09-13T16:24:16.714183+00:00"
   },
   {
-   "title": "1:29 vidéo 1 minute 29 Visite du pape Léon XIV en France : les artisans s'activent pour réaliser les costumes liturgiques",
-   "link": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/costumes-liturgiques-ca-s-active-avant-la-venue-du-pape-leon-xiv_8190791.html",
-   "summary": "Visite du pape Léon XIV en France : les artisans s'activent pour réaliser les costumes liturgiques",
-   "image": "https://www.franceinfo.fr/pictures/-TjTpu3wyuzwCTeOVnKi7u_bXKw/0x0:1920x1080/432x243/filters:format(jpg)/2026/09/13/6aa6977489757904543888.jpg",
-   "date": null,
-   "pubdate": "2026-09-13T16:24:16.714183+00:00"
-  },
-  {
-   "title": "\"Grâce au pape, on fait des affaires\" : à deux semaines de la visite du pape à Lourdes, les hôtels affichent presque tous complet",
+   "title": "\"Grâce au pape, on fait des affaires\" : à deux semaines de la visite du pape à Lourdes, les hôtels affichent presque tous complet Plusieurs centaines de milliers de pèlerins sont attendus à Lourdes. Alors que les hôtels sont presque complets et que les prix s’envolent, certains doivent s’éloigner jusque dans le sud de la Haute-Garonne pour espérer trouver un logement.",
    "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/grace-au-pape-on-fait-des-affaires-a-deux-semaines-de-la-visite-du-pape-a-lourdes-les-hotels-affichent-presque-tous-complet_8190758.html",
-   "summary": "",
+   "summary": "\"Grâce au pape, on fait des affaires\" : à deux semaines de la visite du pape à Lourdes, les hôtels affichent presque tous complet",
    "image": "https://www.franceinfo.fr/pictures/glpom4qpuN1k3YPFtWfRtCDJat4/0x653:4500x3185/432x243/filters:format(jpg)/2026/09/13/6aa689c9a42cf669623174.jpg",
    "date": null,
    "pubdate": "2026-09-13T16:24:16.714183+00:00"
@@ -156,9 +180,9 @@
    "pubdate": "2026-09-13T16:24:16.714183+00:00"
   },
   {
-   "title": "Guerre en Ukraine : une \"attaque systémique\" est \"en cours\" contre les transports ferroviaires ukrainiens, une alerte \"de haut niveau\" déclenchée Cet avertissement de la compagnie des chemins de fer ukrainiens survient après l'attaque, qui a visé, dimanche matin, un train à destination de la Pologne avec 206 passagers à bord.",
+   "title": "Guerre en Ukraine : une \"attaque systémique\" a touché les transports ferroviaires ukrainiens, une alerte \"de haut niveau\" déclenchée Cet avertissement de la compagnie des chemins de fer ukrainiens est survenue après l'attaque, qui a visé, dimanche matin, un train à destination de la Pologne avec 206 passagers à bord.",
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/un-train-a-destination-de-varsovie-frappe-par-un-drone-russe-pres-de-la-frontiere-polonaise-en-ukraine_8190752.html",
-   "summary": "Guerre en Ukraine : une \"attaque systémique\" est \"en cours\" contre les transports ferroviaires ukrainiens, une alerte \"de haut niveau\" déclenchée",
+   "summary": "Guerre en Ukraine : une \"attaque systémique\" a touché les transports ferroviaires ukrainiens, une alerte \"de haut niveau\" déclenchée",
    "image": "https://www.franceinfo.fr/pictures/3onmuEp1h7lHHUJqZl962fO7MdM/0x339:4300x2758/432x243/filters:format(jpg)/2026/09/13/6aa68cbf8492d263890506.jpg",
    "date": null,
    "pubdate": "2026-09-13T11:59:36.109625+00:00"
@@ -250,30 +274,6 @@
    "image": "https://www.franceinfo.fr/pictures/eu04e6Y6dd6vZfBAFEqPrSSXI7w/0x110:2121x1303/432x243/filters:format(jpg)/2026/09/11/6aa413b91b64a469099398.jpg",
    "date": null,
    "pubdate": "2026-09-12T15:35:56.832491+00:00"
-  },
-  {
-   "title": "2:50 audio 2 minutes 50 \"Prisonnière 951\" : l'histoire vraie de l'enlèvement par les autorités iraniennes de la britannique Nazanin Zaghari Elle devait rester 24 heures, elle restera 6 ans. En 2016, Nazanin Zaghari-Ratcliffe est arrêtée en Iran et séparée de sa fille. Accusée d’espionnage, elle devient l’otage d’un implacable bras de fer diplomatique. \"Prisonnière 951\" raconte cette histoire vraie avec une sobriété glaçante.",
-   "link": "https://www.franceinfo.fr/replay-radio/l-empire-des-series/prisonniere-951-l-histoire-vraie-de-l-enlevement-par-les-autorites-iraniennes-de-la-britannique-nazanin-zaghari_8167409.html",
-   "summary": "\"Prisonnière 951\" : l'histoire vraie de l'enlèvement par les autorités iraniennes de la britannique Nazanin Zaghari",
-   "image": "https://www.franceinfo.fr/pictures/BlJaJthjGcAv0h2bxm1N2nApXqI/0x0:621x349/432x243/filters:format(jpg)/2026/09/09/6aa12f6da74f7958751373.jpg",
-   "date": null,
-   "pubdate": "2026-09-12T15:35:56.832491+00:00"
-  },
-  {
-   "title": "Tout comprendre à la guerre au Moyen-Orient 27 contenus",
-   "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/tout-comprendre-a-la-guerre-au-moyen-orient/",
-   "summary": "Tout comprendre à la guerre au Moyen-Orient",
-   "image": "https://www.franceinfo.fr/pictures/1mjbL6KrEfhdf8kkM-fiwv8Aqs4/432x297/filters:format(jpg)/2026/03/01/075-nikoubazl-mourning260301-npgop-69a44a7350cd8738092334.jpg",
-   "date": null,
-   "pubdate": "2026-09-12T14:06:06.909534+00:00"
-  },
-  {
-   "title": "7:00 article 7 minutes \"Il y a une extrapolation du déclin économique\" : comment l'extrême droite allemande est arrivée aux portes du pouvoir en Saxe-Anhalt",
-   "link": "https://www.franceinfo.fr/monde/europe/allemagne/il-y-a-une-extrapolation-du-declin-economique-comment-l-extreme-droite-allemande-est-arrivee-aux-portes-du-pouvoir-en-saxe-anhalt_8175638.html",
-   "summary": "\"Il y a une extrapolation du déclin économique\" : comment l'extrême droite allemande est arrivée aux portes du pouvoir en Saxe-Anhalt",
-   "image": "https://www.franceinfo.fr/pictures/-nAiSgts3hDGmwBA52wjbLgKz5c/7x0:689x682/100x100/filters:format(jpg)/2026/09/03/6a99968962ca9292189034.jpg",
-   "date": null,
-   "pubdate": "2026-09-12T14:06:06.909534+00:00"
   }
  ]
 }
