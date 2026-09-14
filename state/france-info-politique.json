@@ -1,5 +1,5 @@
 {
- "etag": "\"3068fa99faf8157a54a1efa93daab435-gzip\"",
+ "etag": "\"a854d04d654ce2f537407fbd19976e5b-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-c-est-le-sauveur-en-saxe-anhalt-ulrich-siegmund-l-homme-le-plus-dangereux-d-allemagne-selon-der-spiegel-aux-portes-du-pouvoir_8147219.html": "2026-09-09T16:43:27.764480+00:00",
@@ -11,8 +11,6 @@
   "https://www.franceinfo.fr/elections/presidentielle/a-la-fete-de-l-humanite-les-sympathisants-de-gauche-partages-entre-pessimisme-et-espoir-avant-2027_8189516.html": "2026-09-12T10:53:53.949580+00:00",
   "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/prix-du-carburant-budget-presidentielle-le-8h30-franceinfo-de-thomas-menage_8167418.html": "2026-09-12T10:53:53.949580+00:00",
   "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-fete-de-l-humanite-fete-de-la-rose-campus-des-jeunes-republicains-la-rentree-politique-bat-son-plein_8189465.html": "2026-09-12T10:53:53.949580+00:00",
-  "https://www.franceinfo.fr/politique/seine-maritime-le-conseil-municipal-de-sassetot-le-mauconduit-a-elu-son-nouveau-maire-apres-la-demission-du-precedent-condamne-pour-pedopornographie_8189480.html": "2026-09-12T10:53:53.949580+00:00",
-  "https://www.franceinfo.fr/replay-radio/le-brief-politique/le-rassemblement-national-veut-investir-les-banlieues_8167361.html": "2026-09-12T10:53:53.949580+00:00",
   "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux-junior/reseaux-sociaux-l-interdiction-au-moins-de-15-ans-a-t-elle-ete-reportee-en-avril-2027_8167427.html": "2026-09-12T15:35:54.124253+00:00",
   "https://www.franceinfo.fr/replay-radio/l-info-de-l-histoire/les-brebis-galeuses-en-perspective-presidentielle_8167412.html": "2026-09-12T15:35:54.124253+00:00",
   "https://www.franceinfo.fr/politique/marine-le-pen/marine-le-pen-prefere-un-budget-imparfait-operationnel-avant-la-presidentielle-plutot-qu-une-loi-speciale_8189900.html": "2026-09-12T20:38:23.121726+00:00",
@@ -22,7 +20,6 @@
   "https://www.franceinfo.fr/politique/marine-le-pen/reportage-nous-nous-devons-plus-que-jamais-de-mener-la-bataille-sociale-en-meeting-a-henin-beaumont-marine-le-pen-tente-de-retrouver-les-accents-de-sa-campagne-presidentielle-de-2022_8189702.html": "2026-09-13T16:24:05.570839+00:00",
   "https://www.franceinfo.fr/economie/budget/retraites-contribution-des-tres-grandes-entreprises-salaires-des-ministres-on-vous-resume-les-principales-pistes-du-budget-2027_8190542.html": "2026-09-13T16:24:05.570839+00:00",
   "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-marine-le-pen-a-henin-beaumont-fete-de-l-humanite-la-rentree-politique-se-poursuit_8190491.html": "2026-09-13T16:24:05.570839+00:00",
-  "https://www.franceinfo.fr/replay-magazine/franceinfo/avant-le-20h/budget-2027-sebastien-lecornu-et-marine-le-pen-ont-pas-mal-de-chances-de-s-entendre-estime-charles-sapin-directeur-adjoint-de-valeurs-actuelles_8191148.html": "2026-09-13T20:54:09.622377+00:00",
   "https://www.franceinfo.fr/politique/marine-le-pen/m-le-pen-j-bardella-tensions-sur-la-ligne_8191904.html": "2026-09-14T12:57:09.442934+00:00",
   "https://www.franceinfo.fr/societe/armee-securite-defense/nucleaire-militaire/la-finlande-va-rejoindre-la-dissuasion-nucleaire-avancee-proposee-par-la-france_8191679.html": "2026-09-14T12:57:09.442934+00:00",
   "https://www.franceinfo.fr/politique/emmanuel-macron/emmanuel-macron-effectuera-une-visite-d-etat-en-espagne-les-29-et-30-septembre_8191649.html": "2026-09-14T12:57:09.442934+00:00",
@@ -30,16 +27,42 @@
   "https://www.franceinfo.fr/politique/reparer-le-present-ca-n-empeche-pas-de-preparer-l-avenir-et-ca-ce-sera-le-prochain-budget-estime-annie-genevard-ministre-de-l-agriculture-de-l-agroalimentaire-et-de-la-souverainete-alimentaire_8191574.html": "2026-09-14T12:57:09.442934+00:00",
   "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/le-8h30-franceinfo-de-laure-lavalette_8169962.html": "2026-09-14T12:57:09.442934+00:00",
   "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/financer-les-retraites-des-la-naissance-avec-un-livret-prevoyance-l-idee-qui-fait-son-chemin-en-italie_8169980.html": "2026-09-14T12:57:09.442934+00:00",
-  "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/presidentielle-2027-marine-le-pen-fait-sa-rentree-a-henin-beaumont_8191541.html": "2026-09-14T12:57:09.442934+00:00",
-  "https://www.franceinfo.fr/internet/reseaux-sociaux/le-gouvernement-soumet-une-nouvelle-version-de-l-interdiction-des-reseaux-sociaux-aux-moins-de-15-ans-a-la-commission-europeenne-apres-la-censure-d-un-precedent-texte-par-le-conseil-constitutionnel_8191493.html": "2026-09-14T12:57:09.442934+00:00"
+  "https://www.franceinfo.fr/internet/reseaux-sociaux/le-gouvernement-soumet-une-nouvelle-version-de-l-interdiction-des-reseaux-sociaux-aux-moins-de-15-ans-a-la-commission-europeenne-apres-la-censure-d-un-precedent-texte-par-le-conseil-constitutionnel_8191493.html": "2026-09-14T12:57:09.442934+00:00",
+  "https://www.franceinfo.fr/faits-divers/disparition-de-lyhanna-dans-le-gers/affaire-lyhanna-la-plainte-de-la-mere-de-la-petite-rosa-contre-gerald-darmanin-classee-sans-suite_8192453.html": "2026-09-14T19:51:55.101918+00:00",
+  "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-les-ecologistes-devoilent-leurs-propositions-pour-proteger-les-littoraux_8192429.html": "2026-09-14T19:51:55.101918+00:00",
+  "https://www.franceinfo.fr/economie/transports/gilets-jaunes/que-pensent-les-politiques-d-une-eventuelle-reprise-du-mouvement-des-gilets-jaunes_8192027.html": "2026-09-14T19:51:55.101918+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "vidéo M. Le Pen /J. Bardella : tensions sur la ligne Marine Le Pen, en tête des sondages, a fait sa rentrée à Hénin-Beaumont sur le thème de la priorité nationale. Coïncidence : cette date correspond à l'anniversaire de Jordan Bardella, qu'elle a salué sur les réseaux.",
+   "title": "Affaire Lyhanna : la plainte de la mère de la petite Rosa contre Gérald Darmanin classée sans suite La mère de Rosa avait porté plainte, le 29 juin, auprès de la Cour de justice de la République, pour \"mise en danger délibérée de la vie d'autrui\" et \"non-assistance à personne en danger\".",
+   "link": "https://www.franceinfo.fr/faits-divers/disparition-de-lyhanna-dans-le-gers/affaire-lyhanna-la-plainte-de-la-mere-de-la-petite-rosa-contre-gerald-darmanin-classee-sans-suite_8192453.html",
+   "summary": "Affaire Lyhanna : la plainte de la mère de la petite Rosa contre Gérald Darmanin classée sans suite",
+   "image": "https://www.franceinfo.fr/pictures/5J6SjbV0S2gm2BVx1D6MtOdLG24/883x0:6192x3649/432x297/filters:format(jpg)/2026/09/14/6aa83ef505223539534462.jpg",
+   "date": null,
+   "pubdate": "2026-09-14T19:51:55.101918+00:00"
+  },
+  {
+   "title": "Présidentielle 2027 : Les Ecologistes dévoilent leurs propositions pour protéger les littoraux",
+   "link": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-les-ecologistes-devoilent-leurs-propositions-pour-proteger-les-littoraux_8192429.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/4jkWPsZps6gkk6vo0HDis_tVM4s/0x66:1024x642/432x243/filters:format(jpg)/2026/09/14/6aa83a7e32ae1705001304.jpg",
+   "date": null,
+   "pubdate": "2026-09-14T19:51:55.101918+00:00"
+  },
+  {
+   "title": "\"J'entends cette colère\" : que pensent les politiques d'une éventuelle reprise du mouvement des \"gilets jaunes\" ?",
+   "link": "https://www.franceinfo.fr/economie/transports/gilets-jaunes/que-pensent-les-politiques-d-une-eventuelle-reprise-du-mouvement-des-gilets-jaunes_8192027.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/mvshG1rzGl8iYEVFYXfBY6XJreo/0x17:4300x2435/432x243/filters:format(jpg)/2024/10/15/gilet-jaune-670e0e6bdaa74555417722.jpg",
+   "date": null,
+   "pubdate": "2026-09-14T19:51:55.101918+00:00"
+  },
+  {
+   "title": "vidéo M. Le Pen /J. Bardella : tensions sur la ligne",
    "link": "https://www.franceinfo.fr/politique/marine-le-pen/m-le-pen-j-bardella-tensions-sur-la-ligne_8191904.html",
    "summary": "M. Le Pen /J. Bardella : tensions sur la ligne",
-   "image": "https://www.franceinfo.fr/pictures/taMZeIx8w4DW5kmEZW8KkoJk6bw/0x0:1080x1920/fit-in/432x297/filters:upscale():fill(blur):format(jpg)/2026/09/14/6aa7de7e37778860240351.jpg",
+   "image": "https://www.franceinfo.fr/pictures/zpYQwAr3PF9YAAzFlKCXa17CG9I/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/14/6aa7de7e37778860240351.jpg",
    "date": null,
    "pubdate": "2026-09-14T12:57:09.442934+00:00"
   },
@@ -92,28 +115,12 @@
    "pubdate": "2026-09-14T12:57:09.442934+00:00"
   },
   {
-   "title": "1:37 vidéo 1 minute 37 Présidentielle 2027 : Marine Le Pen fait sa rentrée à Hénin-Beaumont",
-   "link": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/presidentielle-2027-marine-le-pen-fait-sa-rentree-a-henin-beaumont_8191541.html",
-   "summary": "Présidentielle 2027 : Marine Le Pen fait sa rentrée à Hénin-Beaumont",
-   "image": "https://www.franceinfo.fr/pictures/YktiXCn03P14k_oubbjansm3Qho/163x0:1473x737/432x243/filters:format(jpg)/2026/09/14/6aa791ae8ee37742071033.png",
-   "date": null,
-   "pubdate": "2026-09-14T12:57:09.442934+00:00"
-  },
-  {
-   "title": "\"Ne rien lâcher\" : le gouvernement soumet une nouvelle version de l'interdiction des réseaux sociaux aux moins de 15 ans à la Commission européenne",
+   "title": "\"Ne rien lâcher\" : le gouvernement soumet une nouvelle version de l'interdiction des réseaux sociaux aux moins de 15 ans à la Commission européenne Le Conseil constitutionnel avait considéré que le texte adopté par le Parlement français portait \"une atteinte disproportionnée\" à la liberté d'expression et de communication des adolescents.",
    "link": "https://www.franceinfo.fr/internet/reseaux-sociaux/le-gouvernement-soumet-une-nouvelle-version-de-l-interdiction-des-reseaux-sociaux-aux-moins-de-15-ans-a-la-commission-europeenne-apres-la-censure-d-un-precedent-texte-par-le-conseil-constitutionnel_8191493.html",
-   "summary": "",
+   "summary": "\"Ne rien lâcher\" : le gouvernement soumet une nouvelle version de l'interdiction des réseaux sociaux aux moins de 15 ans à la Commission européenne",
    "image": "https://www.franceinfo.fr/pictures/zEijKngA3FmlO44zsSBX-0fIe00/0x0:1024x576/432x243/filters:format(jpg)/2026/09/14/6aa784b76ec6a678599773.jpg",
    "date": null,
    "pubdate": "2026-09-14T12:57:09.442934+00:00"
-  },
-  {
-   "title": "27:13 vidéo 27 minutes 13 Budget 2027 : \"Sébastien Lecornu et Marine Le Pen ont pas mal de chances de s'entendre\", estime Charles Sapin, directeur adjoint de Valeurs actuelles",
-   "link": "https://www.franceinfo.fr/replay-magazine/franceinfo/avant-le-20h/budget-2027-sebastien-lecornu-et-marine-le-pen-ont-pas-mal-de-chances-de-s-entendre-estime-charles-sapin-directeur-adjoint-de-valeurs-actuelles_8191148.html",
-   "summary": "Budget 2027 : \"Sébastien Lecornu et Marine Le Pen ont pas mal de chances de s'entendre\", estime Charles Sapin, directeur adjoint de Valeurs actuelles",
-   "image": "https://www.franceinfo.fr/pictures/XHeUgX_AR3-PaWpKD22yJX36B_c/0x0:1920x1080/432x243/filters:format(jpg)/2026/09/13/6aa6f985b9eb6509901723.jpg",
-   "date": null,
-   "pubdate": "2026-09-13T20:54:09.622377+00:00"
   },
   {
    "title": ": Reportage \"Nous nous devons plus que jamais de mener la bataille sociale\" : en meeting à Hénin-Beaumont, Marine Le Pen tente de retrouver les accents de sa campagne présidentielle de 2022 La candidate du RN a effectué sa rentrée politique dimanche dans son fief du Pas-de-Calais. Elle a choisi d'évoquer la question du logement, promettant de continuer à parler de pouvoir d'achat.",
@@ -208,22 +215,6 @@
    "link": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-fete-de-l-humanite-fete-de-la-rose-campus-des-jeunes-republicains-la-rentree-politique-bat-son-plein_8189465.html",
    "summary": "Présidentielle 2027 : \"Ne nous laissons pas tondre\" comme des moutons, lance Fabien Roussel à la Fête de l'Humanité, en appelant \"à envahir les ronds-points\" pour créer \"un rapport de force\"",
    "image": "https://www.franceinfo.fr/pictures/enrrR0Qq4r2MQA1HJE1r3tN5WG4/0x0:1024x576/432x243/filters:format(jpg)/2026/09/12/6aa54edaa7e7a775597570.jpg",
-   "date": null,
-   "pubdate": "2026-09-12T10:53:53.949580+00:00"
-  },
-  {
-   "title": "Seine-Maritime : le conseil municipal de Sassetot-le-Mauconduit a élu son nouveau maire, après la démission du précédent condamné pour pédopornographie Un nouveau maire pour tourner la page. Philippe Rasse a été élu vendredi à la tête de Sassetot-le-Mauconduit (Seine-Maritime), après la démission d'Eric Scarano, condamné à 18 mois de prison pour détention et diffusion d'images pédopornographiques.",
-   "link": "https://www.franceinfo.fr/politique/seine-maritime-le-conseil-municipal-de-sassetot-le-mauconduit-a-elu-son-nouveau-maire-apres-la-demission-du-precedent-condamne-pour-pedopornographie_8189480.html",
-   "summary": "Seine-Maritime : le conseil municipal de Sassetot-le-Mauconduit a élu son nouveau maire, après la démission du précédent condamné pour pédopornographie",
-   "image": "https://www.franceinfo.fr/pictures/NBA_iHge5UgUuz520A8-VoVX3iY/0x0:1024x576/432x243/filters:format(jpg)/2026/09/12/6aa504002f187976299430.jpg",
-   "date": null,
-   "pubdate": "2026-09-12T10:53:53.949580+00:00"
-  },
-  {
-   "title": "2:36 audio 2 minutes 36 Le Rassemblement national veut investir les banlieues La philosophie est claire, il veut \"veut occuper tous les espaces, s'adresser à tous les Français\", explique un membre de l'état-major du parti.",
-   "link": "https://www.franceinfo.fr/replay-radio/le-brief-politique/le-rassemblement-national-veut-investir-les-banlieues_8167361.html",
-   "summary": "Le Rassemblement national veut investir les banlieues",
-   "image": "https://www.franceinfo.fr/pictures/W319yHG6W9msFJiroRPmmCbE244/0x41:1024x617/432x243/filters:format(jpg)/2026/09/12/6aa4fd75f04e4382424459.jpg",
    "date": null,
    "pubdate": "2026-09-12T10:53:53.949580+00:00"
   },
