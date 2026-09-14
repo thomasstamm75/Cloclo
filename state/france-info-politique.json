@@ -1,5 +1,5 @@
 {
- "etag": "\"776f45dae0327b0fc3fe052b860c1c90-gzip\"",
+ "etag": "\"3068fa99faf8157a54a1efa93daab435-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-c-est-le-sauveur-en-saxe-anhalt-ulrich-siegmund-l-homme-le-plus-dangereux-d-allemagne-selon-der-spiegel-aux-portes-du-pouvoir_8147219.html": "2026-09-09T16:43:27.764480+00:00",
@@ -8,49 +8,115 @@
   "https://www.franceinfo.fr/politique/je-vous-demande-de-vous-arreter-comment-la-phrase-d-edouard-balladur-est-devenue-culte_8171597.html": "2026-09-09T20:59:27.970256+00:00",
   "https://www.franceinfo.fr/politique/affaire/financement-de-la-campagne-de-sarkozy/soupcons-de-financement-libyen-tout-comprendre-a-l-affaire/": "2026-09-10T11:27:18.076027+00:00",
   "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/tout-comprendre-au-proces-des-assistants-parlementaires-fn/": "2026-09-10T11:27:18.076027+00:00",
-  "https://www.franceinfo.fr/elections/presidentielle/accuse-de-vouloir-prendre-des-vacances-une-fois-elu-president-edouard-philippe-denonce-une-polemique-montee-a-partir-de-phrases-tronquees_8188250.html": "2026-09-11T14:04:42.238102+00:00",
-  "https://www.franceinfo.fr/replay-magazine/france-2/franc-jeu/franc-jeu-avec-laurent-nunez_8163860.html": "2026-09-13T11:00:00+00:00",
-  "https://www.franceinfo.fr/economie/crise/crise-de-la-dette/dette-publique-peut-on-foutre-au-feu-une-partie-de-l-emprunt-francais-comme-le-propose-jean-luc-melenchon_8188346.html": "2026-09-11T16:33:28.186756+00:00",
   "https://www.franceinfo.fr/elections/presidentielle/a-la-fete-de-l-humanite-les-sympathisants-de-gauche-partages-entre-pessimisme-et-espoir-avant-2027_8189516.html": "2026-09-12T10:53:53.949580+00:00",
   "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/prix-du-carburant-budget-presidentielle-le-8h30-franceinfo-de-thomas-menage_8167418.html": "2026-09-12T10:53:53.949580+00:00",
   "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-fete-de-l-humanite-fete-de-la-rose-campus-des-jeunes-republicains-la-rentree-politique-bat-son-plein_8189465.html": "2026-09-12T10:53:53.949580+00:00",
   "https://www.franceinfo.fr/politique/seine-maritime-le-conseil-municipal-de-sassetot-le-mauconduit-a-elu-son-nouveau-maire-apres-la-demission-du-precedent-condamne-pour-pedopornographie_8189480.html": "2026-09-12T10:53:53.949580+00:00",
   "https://www.franceinfo.fr/replay-radio/le-brief-politique/le-rassemblement-national-veut-investir-les-banlieues_8167361.html": "2026-09-12T10:53:53.949580+00:00",
-  "https://www.franceinfo.fr/elections/presidentielle/le-risque-pour-nous-c-est-de-rester-un-second-choix-comment-bruno-retailleau-espere-se-relancer-dans-la-course-a-la-presidentielle_8165129.html": "2026-09-12T10:53:53.949580+00:00",
   "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux-junior/reseaux-sociaux-l-interdiction-au-moins-de-15-ans-a-t-elle-ete-reportee-en-avril-2027_8167427.html": "2026-09-12T15:35:54.124253+00:00",
   "https://www.franceinfo.fr/replay-radio/l-info-de-l-histoire/les-brebis-galeuses-en-perspective-presidentielle_8167412.html": "2026-09-12T15:35:54.124253+00:00",
-  "https://www.franceinfo.fr/culture/musique/ca-donne-de-l-espoir-la-presidentielle-au-c-ur-de-la-fete-de-l-humanite_8190095.html": "2026-09-12T20:38:23.121726+00:00",
   "https://www.franceinfo.fr/politique/marine-le-pen/marine-le-pen-prefere-un-budget-imparfait-operationnel-avant-la-presidentielle-plutot-qu-une-loi-speciale_8189900.html": "2026-09-12T20:38:23.121726+00:00",
   "https://www.franceinfo.fr/monde/canada/le-premier-ministre-canadien-mark-carney-va-se-rendre-avec-emmanuel-macron-a-saint-pierre-et-miquelon_8190524.html": "2026-09-13T11:59:33.858025+00:00",
   "https://www.franceinfo.fr/elections/presidentielle/il-faudrait-peut-etre-un-peu-plus-de-peps-a-nogent-sur-marne-bruno-retailleau-cherche-a-faire-decoller-sa-campagne_8190503.html": "2026-09-13T11:59:33.858025+00:00",
   "https://www.franceinfo.fr/elections/presidentielle/en-meeting-a-la-fete-de-l-humanite-jean-luc-melenchon-attire-les-foules-et-plaide-pour-le-blocage-des-prix_8190017.html": "2026-09-13T11:59:33.858025+00:00",
   "https://www.franceinfo.fr/politique/marine-le-pen/reportage-nous-nous-devons-plus-que-jamais-de-mener-la-bataille-sociale-en-meeting-a-henin-beaumont-marine-le-pen-tente-de-retrouver-les-accents-de-sa-campagne-presidentielle-de-2022_8189702.html": "2026-09-13T16:24:05.570839+00:00",
   "https://www.franceinfo.fr/economie/budget/retraites-contribution-des-tres-grandes-entreprises-salaires-des-ministres-on-vous-resume-les-principales-pistes-du-budget-2027_8190542.html": "2026-09-13T16:24:05.570839+00:00",
-  "https://www.franceinfo.fr/politique/marine-le-pen/video-marine-le-pen-candidate-du-rn-a-la-presidentielle-2027-detaille-une-serie-de-propositions-sur-le-logement-qui-sera-un-des-grands-chantiers-de-son-quinquennat-si-elle-est-elue_8190839.html": "2026-09-13T16:24:05.570839+00:00",
   "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-marine-le-pen-a-henin-beaumont-fete-de-l-humanite-la-rentree-politique-se-poursuit_8190491.html": "2026-09-13T16:24:05.570839+00:00",
   "https://www.franceinfo.fr/replay-magazine/franceinfo/avant-le-20h/budget-2027-sebastien-lecornu-et-marine-le-pen-ont-pas-mal-de-chances-de-s-entendre-estime-charles-sapin-directeur-adjoint-de-valeurs-actuelles_8191148.html": "2026-09-13T20:54:09.622377+00:00",
-  "https://www.franceinfo.fr/politique/marine-le-pen/des-tensions-sur-la-ligne-entre-marine-le-pen-et-jordan-bardella_8191121.html": "2026-09-13T20:54:09.622377+00:00"
+  "https://www.franceinfo.fr/politique/marine-le-pen/m-le-pen-j-bardella-tensions-sur-la-ligne_8191904.html": "2026-09-14T12:57:09.442934+00:00",
+  "https://www.franceinfo.fr/societe/armee-securite-defense/nucleaire-militaire/la-finlande-va-rejoindre-la-dissuasion-nucleaire-avancee-proposee-par-la-france_8191679.html": "2026-09-14T12:57:09.442934+00:00",
+  "https://www.franceinfo.fr/politique/emmanuel-macron/emmanuel-macron-effectuera-une-visite-d-etat-en-espagne-les-29-et-30-septembre_8191649.html": "2026-09-14T12:57:09.442934+00:00",
+  "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-censurer-ou-ne-pas-censurer-that-is-the-question-le-dilemme-budgetaire-de-marine-le-pen_8169974.html": "2026-09-14T12:57:09.442934+00:00",
+  "https://www.franceinfo.fr/politique/reparer-le-present-ca-n-empeche-pas-de-preparer-l-avenir-et-ca-ce-sera-le-prochain-budget-estime-annie-genevard-ministre-de-l-agriculture-de-l-agroalimentaire-et-de-la-souverainete-alimentaire_8191574.html": "2026-09-14T12:57:09.442934+00:00",
+  "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/le-8h30-franceinfo-de-laure-lavalette_8169962.html": "2026-09-14T12:57:09.442934+00:00",
+  "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/financer-les-retraites-des-la-naissance-avec-un-livret-prevoyance-l-idee-qui-fait-son-chemin-en-italie_8169980.html": "2026-09-14T12:57:09.442934+00:00",
+  "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/presidentielle-2027-marine-le-pen-fait-sa-rentree-a-henin-beaumont_8191541.html": "2026-09-14T12:57:09.442934+00:00",
+  "https://www.franceinfo.fr/internet/reseaux-sociaux/le-gouvernement-soumet-une-nouvelle-version-de-l-interdiction-des-reseaux-sociaux-aux-moins-de-15-ans-a-la-commission-europeenne-apres-la-censure-d-un-precedent-texte-par-le-conseil-constitutionnel_8191493.html": "2026-09-14T12:57:09.442934+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "27:13 vidéo 27 minutes 13 Budget 2027 : \"Sébastien Lecornu et Marine Le Pen ont pas mal de chances de s'entendre\", estime Charles Sapin, directeur adjoint de Valeurs actuelles Rokhaya Diallo, présidente de Palitis et éditorialiste au Guardian, et Charles Sapin, directeur adjoint de la rédaction de Valeurs actuelles, étaient les invités du Duel. Ils sont notamment revenus sur le budget 2027.",
+   "title": "vidéo M. Le Pen /J. Bardella : tensions sur la ligne Marine Le Pen, en tête des sondages, a fait sa rentrée à Hénin-Beaumont sur le thème de la priorité nationale. Coïncidence : cette date correspond à l'anniversaire de Jordan Bardella, qu'elle a salué sur les réseaux.",
+   "link": "https://www.franceinfo.fr/politique/marine-le-pen/m-le-pen-j-bardella-tensions-sur-la-ligne_8191904.html",
+   "summary": "M. Le Pen /J. Bardella : tensions sur la ligne",
+   "image": "https://www.franceinfo.fr/pictures/taMZeIx8w4DW5kmEZW8KkoJk6bw/0x0:1080x1920/fit-in/432x297/filters:upscale():fill(blur):format(jpg)/2026/09/14/6aa7de7e37778860240351.jpg",
+   "date": null,
+   "pubdate": "2026-09-14T12:57:09.442934+00:00"
+  },
+  {
+   "title": "La Finlande va rejoindre la dissuasion nucléaire \"avancée\" proposée par la France",
+   "link": "https://www.franceinfo.fr/societe/armee-securite-defense/nucleaire-militaire/la-finlande-va-rejoindre-la-dissuasion-nucleaire-avancee-proposee-par-la-france_8191679.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/im9kMQ4dbpuBffNB8nn7HfUc2rY/0x0:1024x576/432x243/filters:format(jpg)/2026/09/14/6aa7d3981f469571100515.jpg",
+   "date": null,
+   "pubdate": "2026-09-14T12:57:09.442934+00:00"
+  },
+  {
+   "title": "Emmanuel Macron effectuera une visite d'Etat en Espagne les 29 et 30 septembre",
+   "link": "https://www.franceinfo.fr/politique/emmanuel-macron/emmanuel-macron-effectuera-une-visite-d-etat-en-espagne-les-29-et-30-septembre_8191649.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/G9P8vbRsMLMOxyegrDihkpegd9k/0x53:1024x629/432x243/filters:format(jpg)/2026/09/14/6aa7b2f5575f8785014584.jpg",
+   "date": null,
+   "pubdate": "2026-09-14T12:57:09.442934+00:00"
+  },
+  {
+   "title": ": Édito 2:35 audio 2 minutes 35 : Édito Censurer ou ne pas censurer, that is the question... Le dilemme budgétaire de Marine Le Pen",
+   "link": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-censurer-ou-ne-pas-censurer-that-is-the-question-le-dilemme-budgetaire-de-marine-le-pen_8169974.html",
+   "summary": "Censurer ou ne pas censurer, that is the question... Le dilemme budgétaire de Marine Le Pen",
+   "image": "https://www.franceinfo.fr/pictures/Tul5laoFpiu8auoU98OHrujNF6M/0x53:1024x629/432x243/filters:format(jpg)/2026/09/14/6aa7a2654b4f4516158575.jpg",
+   "date": null,
+   "pubdate": "2026-09-14T12:57:09.442934+00:00"
+  },
+  {
+   "title": "7:21 vidéo 7 minutes 21 \"Réparer le présent, ça n'empêche pas de préparer l'avenir. Et ça, ce sera le prochain budget\", estime Annie Genevard, ministre de l'Agriculture, de l'Agroalimentaire et de la Souveraineté alimentaire.",
+   "link": "https://www.franceinfo.fr/politique/reparer-le-present-ca-n-empeche-pas-de-preparer-l-avenir-et-ca-ce-sera-le-prochain-budget-estime-annie-genevard-ministre-de-l-agriculture-de-l-agroalimentaire-et-de-la-souverainete-alimentaire_8191574.html",
+   "summary": "\"Réparer le présent, ça n'empêche pas de préparer l'avenir. Et ça, ce sera le prochain budget\", estime Annie Genevard, ministre de l'Agriculture, de l'Agroalimentaire et de la Souveraineté alimentaire.",
+   "image": "https://www.franceinfo.fr/pictures/tGvZpn25BAx5B1P2mGHKM2NM0s4/0x11:822x474/432x243/filters:format(jpg)/2026/09/14/6aa79f72aae86367846949.jpg",
+   "date": null,
+   "pubdate": "2026-09-14T12:57:09.442934+00:00"
+  },
+  {
+   "title": "23:22 audio 23 minutes 22 Le \"8h30 franceinfo\" de Laure Lavalette",
+   "link": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/le-8h30-franceinfo-de-laure-lavalette_8169962.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/zwjg-mgmQlrDTr5-kuywErB8Iz0/0x0:1280x720/432x243/filters:format(jpg)/2026/05/05/69f99f3e618a6737829018.jpg",
+   "date": null,
+   "pubdate": "2026-09-14T12:57:09.442934+00:00"
+  },
+  {
+   "title": "2:31 audio 2 minutes 31 Financer les retraites dès la naissance avec un livret prévoyance , l’idée qui fait son chemin en Italie",
+   "link": "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/financer-les-retraites-des-la-naissance-avec-un-livret-prevoyance-l-idee-qui-fait-son-chemin-en-italie_8169980.html",
+   "summary": "Financer les retraites dès la naissance avec un livret prévoyance , l’idée qui fait son chemin en Italie",
+   "image": "https://www.franceinfo.fr/pictures/fM0cLrJj7W6enFLg1bknPTCsHlc/0x140:2688x1652/432x243/filters:format(jpg)/2026/09/14/6aa79aa503ac9555918392.jpg",
+   "date": null,
+   "pubdate": "2026-09-14T12:57:09.442934+00:00"
+  },
+  {
+   "title": "1:37 vidéo 1 minute 37 Présidentielle 2027 : Marine Le Pen fait sa rentrée à Hénin-Beaumont",
+   "link": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/presidentielle-2027-marine-le-pen-fait-sa-rentree-a-henin-beaumont_8191541.html",
+   "summary": "Présidentielle 2027 : Marine Le Pen fait sa rentrée à Hénin-Beaumont",
+   "image": "https://www.franceinfo.fr/pictures/YktiXCn03P14k_oubbjansm3Qho/163x0:1473x737/432x243/filters:format(jpg)/2026/09/14/6aa791ae8ee37742071033.png",
+   "date": null,
+   "pubdate": "2026-09-14T12:57:09.442934+00:00"
+  },
+  {
+   "title": "\"Ne rien lâcher\" : le gouvernement soumet une nouvelle version de l'interdiction des réseaux sociaux aux moins de 15 ans à la Commission européenne",
+   "link": "https://www.franceinfo.fr/internet/reseaux-sociaux/le-gouvernement-soumet-une-nouvelle-version-de-l-interdiction-des-reseaux-sociaux-aux-moins-de-15-ans-a-la-commission-europeenne-apres-la-censure-d-un-precedent-texte-par-le-conseil-constitutionnel_8191493.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/zEijKngA3FmlO44zsSBX-0fIe00/0x0:1024x576/432x243/filters:format(jpg)/2026/09/14/6aa784b76ec6a678599773.jpg",
+   "date": null,
+   "pubdate": "2026-09-14T12:57:09.442934+00:00"
+  },
+  {
+   "title": "27:13 vidéo 27 minutes 13 Budget 2027 : \"Sébastien Lecornu et Marine Le Pen ont pas mal de chances de s'entendre\", estime Charles Sapin, directeur adjoint de Valeurs actuelles",
    "link": "https://www.franceinfo.fr/replay-magazine/franceinfo/avant-le-20h/budget-2027-sebastien-lecornu-et-marine-le-pen-ont-pas-mal-de-chances-de-s-entendre-estime-charles-sapin-directeur-adjoint-de-valeurs-actuelles_8191148.html",
    "summary": "Budget 2027 : \"Sébastien Lecornu et Marine Le Pen ont pas mal de chances de s'entendre\", estime Charles Sapin, directeur adjoint de Valeurs actuelles",
-   "image": "https://www.franceinfo.fr/pictures/Pdx4Zcug9KT_fieAKl_i4hj-20I/174x0:1745x1080/432x297/filters:format(jpg)/2026/09/13/6aa6f985b9eb6509901723.jpg",
+   "image": "https://www.franceinfo.fr/pictures/XHeUgX_AR3-PaWpKD22yJX36B_c/0x0:1920x1080/432x243/filters:format(jpg)/2026/09/13/6aa6f985b9eb6509901723.jpg",
    "date": null,
    "pubdate": "2026-09-13T20:54:09.622377+00:00"
   },
   {
-   "title": "2:48 vidéo 2 minutes 48 Des tensions sur la ligne du RN entre Marine Le Pen et Jordan Bardella",
-   "link": "https://www.franceinfo.fr/politique/marine-le-pen/des-tensions-sur-la-ligne-entre-marine-le-pen-et-jordan-bardella_8191121.html",
-   "summary": "Des tensions sur la ligne du RN entre Marine Le Pen et Jordan Bardella",
-   "image": "https://www.franceinfo.fr/pictures/ZIq-FR_Wi9Q1QJUGKnEmMA4V6p8/0x41:1406x832/432x243/filters:format(jpg)/2026/09/13/6aa6efd89f1b3846625177.png",
-   "date": null,
-   "pubdate": "2026-09-13T20:54:09.622377+00:00"
-  },
-  {
-   "title": ": Reportage : Reportage \"Nous nous devons plus que jamais de mener la bataille sociale\" : en meeting à Hénin-Beaumont, Marine Le Pen tente de retrouver les accents de sa campagne présidentielle de 2022",
+   "title": ": Reportage \"Nous nous devons plus que jamais de mener la bataille sociale\" : en meeting à Hénin-Beaumont, Marine Le Pen tente de retrouver les accents de sa campagne présidentielle de 2022 La candidate du RN a effectué sa rentrée politique dimanche dans son fief du Pas-de-Calais. Elle a choisi d'évoquer la question du logement, promettant de continuer à parler de pouvoir d'achat.",
    "link": "https://www.franceinfo.fr/politique/marine-le-pen/reportage-nous-nous-devons-plus-que-jamais-de-mener-la-bataille-sociale-en-meeting-a-henin-beaumont-marine-le-pen-tente-de-retrouver-les-accents-de-sa-campagne-presidentielle-de-2022_8189702.html",
    "summary": "\"Nous nous devons plus que jamais de mener la bataille sociale\" : en meeting à Hénin-Beaumont, Marine Le Pen tente de retrouver les accents de sa campagne présidentielle de 2022",
    "image": "https://www.franceinfo.fr/pictures/_AwvI0JEfmunhoIACtRAbDGsD_U/0x100:1024x676/432x243/filters:format(jpg)/2026/09/13/6aa6c32d07ad7911216753.jpg",
@@ -58,68 +124,44 @@
    "pubdate": "2026-09-13T16:24:05.570839+00:00"
   },
   {
-   "title": "Retraites, contribution des très grandes entreprises, salaires des ministres... On vous résume les principales pistes du budget 2027",
+   "title": "Retraites, contribution des très grandes entreprises, salaires des ministres... On vous résume les principales pistes du budget 2027 Le gouvernement reste à la recherche de 30 milliards d'euros d'économies pour réduire le déficit et la dette publics. Il envisage de mettre à contribution les retraités à hauteur de 6 milliards, sans pour autant leur faire porter \"l'effort central de ce budget\".",
    "link": "https://www.franceinfo.fr/economie/budget/retraites-contribution-des-tres-grandes-entreprises-salaires-des-ministres-on-vous-resume-les-principales-pistes-du-budget-2027_8190542.html",
-   "summary": "",
+   "summary": "Retraites, contribution des très grandes entreprises, salaires des ministres... On vous résume les principales pistes du budget 2027",
    "image": "https://www.franceinfo.fr/pictures/IeFN5Noot_5bzp59HV-EOuYYwZQ/0x0:1024x576/432x243/filters:format(jpg)/2026/09/13/6aa6641894fdf856460605.jpg",
    "date": null,
    "pubdate": "2026-09-13T16:24:05.570839+00:00"
   },
   {
-   "title": ": Vidéo 1:40 vidéo 1 minute 40 : Vidéo Marine Le Pen, candidate du RN à la présidentielle, détaille une série de propositions sur le logement, qui sera l'\"un des grands chantiers\" de son quinquennat si elle est élue",
-   "link": "https://www.franceinfo.fr/politique/marine-le-pen/video-marine-le-pen-candidate-du-rn-a-la-presidentielle-2027-detaille-une-serie-de-propositions-sur-le-logement-qui-sera-un-des-grands-chantiers-de-son-quinquennat-si-elle-est-elue_8190839.html",
-   "summary": "Marine Le Pen, candidate du RN à la présidentielle, détaille une série de propositions sur le logement, qui sera l'\"un des grands chantiers\" de son quinquennat si elle est élue",
-   "image": "https://www.franceinfo.fr/pictures/32lFzAzb6DBkKWDKYBVAuBKpInY/0x0:1024x576/432x243/filters:format(jpg)/2026/09/13/6aa6b158e185f558428504.jpg",
-   "date": null,
-   "pubdate": "2026-09-13T16:24:05.570839+00:00"
-  },
-  {
-   "title": "Manuel Bompard, coordinateur de La France insoumise, répète que son parti \"censurera le budget\"",
+   "title": "Manuel Bompard, coordinateur de La France insoumise, répète que son parti \"censurera le budget\" Le député des Bouches-du-Rhône est l'invité de l'émission politique \"Le Grand Enjeu\" sur franceinfo et \"ICI\", dimanche.",
    "link": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-marine-le-pen-a-henin-beaumont-fete-de-l-humanite-la-rentree-politique-se-poursuit_8190491.html",
-   "summary": "",
+   "summary": "Manuel Bompard, coordinateur de La France insoumise, répète que son parti \"censurera le budget\"",
    "image": "https://www.franceinfo.fr/pictures/BS2_CqhatdSlb9bBADDY-zx3mLg/0x0:1920x1080/432x243/filters:format(jpg)/2026/09/13/6aa6d07b872c8622469749.jpg",
    "date": null,
    "pubdate": "2026-09-13T16:24:05.570839+00:00"
   },
   {
-   "title": "Le Premier ministre canadien, Mark Carney, va se rendre avec Emmanuel Macron à Saint-Pierre-et-Miquelon",
+   "title": "Le Premier ministre canadien, Mark Carney, va se rendre avec Emmanuel Macron à Saint-Pierre-et-Miquelon \"Il s'agira de la première visite officielle d'un Premier ministre canadien dans l'archipel\", a souligné la présidence française. Emmanuel Macron y est attendu du 19 au 21 septembre.",
    "link": "https://www.franceinfo.fr/monde/canada/le-premier-ministre-canadien-mark-carney-va-se-rendre-avec-emmanuel-macron-a-saint-pierre-et-miquelon_8190524.html",
-   "summary": "",
+   "summary": "Le Premier ministre canadien, Mark Carney, va se rendre avec Emmanuel Macron à Saint-Pierre-et-Miquelon",
    "image": "https://www.franceinfo.fr/pictures/vhBpQ6ZuVB-vEC8KJbssPQqP0Xw/0x0:1024x576/432x243/filters:format(jpg)/2026/09/13/6aa65a9cf284a328616963.jpg",
    "date": null,
    "pubdate": "2026-09-13T11:59:33.858025+00:00"
   },
   {
-   "title": "\"Il faudrait peut-être un peu plus de peps\" : à Nogent-sur-Marne, Bruno Retailleau cherche à faire décoller sa campagne",
+   "title": "\"Il faudrait peut-être un peu plus de peps\" : à Nogent-sur-Marne, Bruno Retailleau cherche à faire décoller sa campagne À la peine dans les sondages, Bruno Retailleau cherche un nouvel élan auprès des jeunes de son parti et veut se démarquer de ses adversaires.",
    "link": "https://www.franceinfo.fr/elections/presidentielle/il-faudrait-peut-etre-un-peu-plus-de-peps-a-nogent-sur-marne-bruno-retailleau-cherche-a-faire-decoller-sa-campagne_8190503.html",
-   "summary": "",
+   "summary": "\"Il faudrait peut-être un peu plus de peps\" : à Nogent-sur-Marne, Bruno Retailleau cherche à faire décoller sa campagne",
    "image": "https://www.franceinfo.fr/pictures/j7gdE29S1vIlRwW6e8EORdjXrzc/0x395:7560x4647/432x243/filters:format(jpg)/2026/09/13/6aa6500b1d9d0152966151.jpg",
    "date": null,
    "pubdate": "2026-09-13T11:59:33.858025+00:00"
   },
   {
-   "title": "En meeting à la Fête de l’Humanité, Jean-Luc Mélenchon attire les foules et plaide pour le blocage des prix",
+   "title": "En meeting à la Fête de l’Humanité, Jean-Luc Mélenchon attire les foules et plaide pour le blocage des prix À gauche, la campagne présidentielle se joue aussi sur les pelouses de ce rendez-vous annuel. Du blocage des marges à une échelle mobile des salaires, le candidat insoumis s'est offert une tribune pour dérouler une partie de son programme pour 2027.",
    "link": "https://www.franceinfo.fr/elections/presidentielle/en-meeting-a-la-fete-de-l-humanite-jean-luc-melenchon-attire-les-foules-et-plaide-pour-le-blocage-des-prix_8190017.html",
-   "summary": "",
+   "summary": "En meeting à la Fête de l’Humanité, Jean-Luc Mélenchon attire les foules et plaide pour le blocage des prix",
    "image": "https://www.franceinfo.fr/pictures/f5qZ0xNMWOj_T8bkbNNlOfogirI/0x83:3278x1927/432x243/filters:format(jpg)/2026/09/12/6aa59ae2df0d8196944372.jpg",
    "date": null,
    "pubdate": "2026-09-13T11:59:33.858025+00:00"
-  },
-  {
-   "title": "38:41 vidéo 38 minutes 41 \"Franc-Jeu\". Avec Laurent Nuñez Dans la perspective de l'élection présidentielle de 2027, à travers des interviews et des débats, Benjamin Duhamel interroge celles et ceux qui participent aux choix proposés aux Français pour l’avenir du pays. Le 13 septembre 2026, il reçoit Laurent Nuñez, ministre de l'Intérieur.",
-   "link": "https://www.franceinfo.fr/replay-magazine/france-2/franc-jeu/franc-jeu-avec-laurent-nunez_8163860.html",
-   "summary": "Dans la perspective de l'élection présidentielle de 2027, à travers des interviews et des débats, Benjamin Duhamel interroge celles et ceux qui participent aux choix proposés aux Français pour l’avenir du pays. Le 13 septembre 2026, il reçoit Laurent Nuñez, ministre de l'Intérieur.",
-   "image": "https://www.franceinfo.fr/pictures/Fbh26rz7pEi0zniuyMT1nNCPA3k/0x0:680x382/432x243/filters:format(jpg)/2026/08/28/6a919b42820e4536048985.jpg",
-   "date": "2026-09-13T11:00:00+00:00",
-   "pubdate": "2026-09-13T11:00:00+00:00"
-  },
-  {
-   "title": "1:51 vidéo 1 minute 51 \"Ça donne de l'espoir\" : la présidentielle au cœur de la fête de l'Humanité",
-   "link": "https://www.franceinfo.fr/culture/musique/ca-donne-de-l-espoir-la-presidentielle-au-c-ur-de-la-fete-de-l-humanite_8190095.html",
-   "summary": "\"Ça donne de l'espoir\" : la présidentielle au cœur de la fête de l'Humanité",
-   "image": "https://www.franceinfo.fr/pictures/T4-iqf4fk2jpkH6yy4xUexA-EUQ/0x53:1738x1030/432x243/filters:format(jpg)/2026/09/12/6aa5a896cc63f907687696.png",
-   "date": null,
-   "pubdate": "2026-09-12T20:38:23.121726+00:00"
   },
   {
    "title": "Marine Le Pen préfère un budget \"imparfait, opérationnel\" avant la présidentielle, plutôt qu'une loi spéciale La candidate du RN estime qu'un président de la République pourrait modifier plus rapidement un budget déjà existant. Le Premier ministre, Sébastien Lecornu, dévoilera sa copie budgétaire le 30 septembre.",
@@ -184,30 +226,6 @@
    "image": "https://www.franceinfo.fr/pictures/W319yHG6W9msFJiroRPmmCbE244/0x41:1024x617/432x243/filters:format(jpg)/2026/09/12/6aa4fd75f04e4382424459.jpg",
    "date": null,
    "pubdate": "2026-09-12T10:53:53.949580+00:00"
-  },
-  {
-   "title": "\"Le risque pour nous, c'est de rester un second choix\" : comment Bruno Retailleau espère se relancer dans la course à la présidentielle Le candidat LR à l'Elysée, pris en tenaille entre le vote pour Edouard Philippe et celui pour Marine Le Pen, cherche une voie de passage pour exister dans la campagne.",
-   "link": "https://www.franceinfo.fr/elections/presidentielle/le-risque-pour-nous-c-est-de-rester-un-second-choix-comment-bruno-retailleau-espere-se-relancer-dans-la-course-a-la-presidentielle_8165129.html",
-   "summary": "\"Le risque pour nous, c'est de rester un second choix\" : comment Bruno Retailleau espère se relancer dans la course à la présidentielle",
-   "image": "https://www.franceinfo.fr/pictures/qgUkH_8PL_GtNNyTbSssuUHbe0w/0x0:3840x2160/432x243/filters:format(jpg)/2026/09/11/6aa4110e1127e234243532.jpg",
-   "date": null,
-   "pubdate": "2026-09-12T10:53:53.949580+00:00"
-  },
-  {
-   "title": "Dette publique : peut-on \"foutre au feu\" une partie de l'emprunt français, comme le propose Jean-Luc Mélenchon ? Alors que les taux d'emprunt sont à un niveau jamais vu depuis la crise financière de 2008, le candidat à l'élection présidentielle de la France Insoumise propose de ne plus payer une partie des intérêts de la dette. La solution est désapprouvée par la Banque de France et la BCE.",
-   "link": "https://www.franceinfo.fr/economie/crise/crise-de-la-dette/dette-publique-peut-on-foutre-au-feu-une-partie-de-l-emprunt-francais-comme-le-propose-jean-luc-melenchon_8188346.html",
-   "summary": "Dette publique : peut-on \"foutre au feu\" une partie de l'emprunt français, comme le propose Jean-Luc Mélenchon ?",
-   "image": "https://www.franceinfo.fr/pictures/5nUOOFu44dJLodhCpSntsnycmmQ/0x252:4845x2978/432x243/filters:format(jpg)/2019/02/20/phpuA6mGL.jpg",
-   "date": null,
-   "pubdate": "2026-09-11T16:33:28.186756+00:00"
-  },
-  {
-   "title": "Accusé de vouloir prendre des \"vacances\" une fois élu président, Edouard Philippe dénonce une polémique montée \"à partir de phrases tronquées\" Dans un podcast, le candidat Horizons estime que le calendrier actuel de l'après-présidentielle peut être amélioré. Ses adversaires lui reprochent de vouloir s'accorder des congés avant d'entrer à l'Elysée.",
-   "link": "https://www.franceinfo.fr/elections/presidentielle/accuse-de-vouloir-prendre-des-vacances-une-fois-elu-president-edouard-philippe-denonce-une-polemique-montee-a-partir-de-phrases-tronquees_8188250.html",
-   "summary": "Accusé de vouloir prendre des \"vacances\" une fois élu président, Edouard Philippe dénonce une polémique montée \"à partir de phrases tronquées\"",
-   "image": "https://www.franceinfo.fr/pictures/Yse7KzVFGkNRN4uvspcui0wfYtU/0x0:1024x576/432x243/filters:format(jpg)/2026/09/11/6aa3ee64773a6132837534.jpg",
-   "date": null,
-   "pubdate": "2026-09-11T14:04:42.238102+00:00"
   },
   {
    "title": "Soupçons de financement libyen : tout comprendre à l'affaire 29 contenus",

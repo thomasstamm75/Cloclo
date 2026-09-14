@@ -1,28 +1,36 @@
 {
- "etag": "W/\"1789348274\"",
- "last_modified": "Mon, 14 Sep 2026 01:11:14 GMT",
+ "etag": "W/\"1789389956\"",
+ "last_modified": "Mon, 14 Sep 2026 12:45:56 GMT",
  "first_seen": {
   "https://www.strategie-plan.gouv.fr/publications/hcfips-salaire-brut-salaire-net-evolutions-comparees-et-constats": "2026-06-16T11:00:00+00:00",
   "https://www.strategie-plan.gouv.fr/publications/hcaam-rapport-du-hcaam-trois-scenarios-pour-une-reforme-des-depassements-dhonoraires": "2026-06-09T11:00:00+00:00",
   "https://www.strategie-plan.gouv.fr/publications/hcfea-aider-les-parents-aider-les-enfants-grandir": "2026-05-07T11:00:00+00:00",
   "https://www.strategie-plan.gouv.fr/publications/hcfips-colloque-lois-de-financement-de-la-securite-sociale-30-ans-et-apres": "2026-05-06T11:00:00+00:00",
-  "https://www.strategie-plan.gouv.fr/publications/france-2035-france-2050-focus-environnement-retrouver-souverainete-habitabilite-et": "2026-09-02T12:37:49.173702+00:00",
   "https://www.strategie-plan.gouv.fr/evenements/evenements-climatiques-extremes-tirer-les-lecons-de-lete-2026-pour-mieux-preparer": "2026-09-04T06:36:30.944044+00:00",
   "https://www.strategie-plan.gouv.fr/publications/france-2035-france-2050-focus-economie-retrouver-la-capacite-de-produire-en-france-et": "2026-09-07T09:34:35.305456+00:00",
   "https://www.strategie-plan.gouv.fr/colloque-levaluation-socioeconomique-des-infrastructures-de-transport-au-dela-des-gains-de-temps": "2026-09-07T11:00:00+00:00",
   "https://www.strategie-plan.gouv.fr/publications/france-2035-france-2050-focus-choisir-son-travail-demain-etre-plus-libres-et": "2026-09-10T11:28:41.284041+00:00",
   "https://www.strategie-plan.gouv.fr/conference-quels-nouveaux-moteurs-pour-la-productivite-francaise": "2026-09-08T11:00:00+00:00",
-  "https://www.strategie-plan.gouv.fr/france-2035-france-2050-decouvrez-le-rapport": "2026-09-10T11:00:00+00:00"
+  "https://www.strategie-plan.gouv.fr/france-2035-france-2050-decouvrez-le-rapport": "2026-09-10T11:00:00+00:00",
+  "https://www.strategie-plan.gouv.fr/publications/lempreinte-carbone-concilier-climat-et-souverainete": "2026-09-14T12:58:32.984952+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
    "title": "Bienvenue sur le site du Haut-commissariat à la Stratégie et au Plan",
-   "link": "https://www.strategie-plan.gouv.fr/publications/france-2035-france-2050-focus-choisir-son-travail-demain-etre-plus-libres-et",
+   "link": "https://www.strategie-plan.gouv.fr/publications/lempreinte-carbone-concilier-climat-et-souverainete",
    "summary": "Le Haut-commissariat à la Stratégie et au Plan contribue à l’action publique par ses analyses et ses propositions. Il éclaire les choix collectifs sur les enjeux démographiques, économiques, sociaux, environnementaux, sanitaires, technologiques et culturels, dans un cadre national et européen.",
    "image": "https://www.strategie-plan.gouv.fr/files/styles/ds_image_paragraphe/public/files/accueil-fstrat.png?itok=ZH0UHCYU",
    "date": null,
-   "pubdate": "2026-09-10T11:28:41.284041+00:00"
+   "pubdate": "2026-09-14T12:58:32.984952+00:00"
+  },
+  {
+   "title": "France 2035, France 2050 - Focus Choisir son travail demain : être plus libres et indépendants, individuellement et collectivement",
+   "link": "https://www.strategie-plan.gouv.fr/publications/france-2035-france-2050-focus-choisir-son-travail-demain-etre-plus-libres-et",
+   "summary": "Haut-commissariat à la Stratégie et au Plan",
+   "image": "",
+   "date": "2026-09-10T11:00:00+00:00",
+   "pubdate": "2026-09-10T11:00:00+00:00"
   },
   {
    "title": "« France 2035, France 2050 » - Découvrez le rapport",
@@ -63,14 +71,6 @@
    "image": "",
    "date": null,
    "pubdate": "2026-09-04T06:36:30.944044+00:00"
-  },
-  {
-   "title": "France 2035, France 2050 - Focus Environnement : retrouver souveraineté, habitabilité et cohésion nationale, par la transition écologique",
-   "link": "https://www.strategie-plan.gouv.fr/publications/france-2035-france-2050-focus-environnement-retrouver-souverainete-habitabilite-et",
-   "summary": "Haut-commissariat à la Stratégie et au Plan",
-   "image": "",
-   "date": "2026-09-02T11:00:00+00:00",
-   "pubdate": "2026-09-02T11:00:00+00:00"
   },
   {
    "title": "HCFiPS | Salaire brut, salaire net - Évolutions comparées et constats",
