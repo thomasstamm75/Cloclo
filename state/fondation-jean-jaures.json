@@ -1,16 +1,24 @@
 {
  "etag": "",
- "last_modified": "Tue, 15 Sep 2026 11:05:06 GMT",
+ "last_modified": "Tue, 15 Sep 2026 16:00:14 GMT",
  "first_seen": {
   "https://www.jean-jaures.org/publication/reconquerir-la-souverainete-fiscale-de-la-republique-centrafricaine/": "2026-09-11T11:00:00+00:00",
   "https://www.jean-jaures.org/publication/immigration-et-integration-quel-est-letat-de-lopinion/": "2026-09-11T11:00:00+00:00",
   "https://www.jean-jaures.org/publication/immigration-integration-des-francais-resolument-en-faveur-de-la-regulation/": "2026-09-11T11:00:00+00:00",
   "https://www.jean-jaures.org/publication/repenser-la-doctrine-socialiste-de-limmigration-travail-et-statut-des-etrangers-en-france/": "2026-09-11T11:00:00+00:00",
-  "https://www.jean-jaures.org/publication/souverainete-energetique-et-electrification-des-usages-une-enquete-europeenne/": "2026-09-10T11:00:00+00:00",
-  "https://www.jean-jaures.org/publication/medias-et-extreme-droite-en-allemagne-et-en-france-quarante-ans-a-chercher-la-bonne-distance/": "2026-09-15T11:00:00+00:00"
+  "https://www.jean-jaures.org/publication/medias-et-extreme-droite-en-allemagne-et-en-france-quarante-ans-a-chercher-la-bonne-distance/": "2026-09-15T11:00:00+00:00",
+  "https://www.jean-jaures.org/publication/venezuela-paradoxes-dun-tremblement-de-terre-destructeur-devidences/": "2026-09-15T11:00:00+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "Venezuela : paradoxes d’un tremblement de terre destructeur d’évidences",
+   "link": "https://www.jean-jaures.org/publication/venezuela-paradoxes-dun-tremblement-de-terre-destructeur-devidences/",
+   "summary": "",
+   "image": "",
+   "date": "2026-09-15T11:00:00+00:00",
+   "pubdate": "2026-09-15T11:00:00+00:00"
+  },
   {
    "title": "Médias et extrême droite en Allemagne et en France : quarante ans à chercher la bonne distance",
    "link": "https://www.jean-jaures.org/publication/medias-et-extreme-droite-en-allemagne-et-en-france-quarante-ans-a-chercher-la-bonne-distance/",
@@ -50,14 +58,6 @@
    "image": "",
    "date": "2026-09-11T11:00:00+00:00",
    "pubdate": "2026-09-11T11:00:00+00:00"
-  },
-  {
-   "title": "Souveraineté énergétique et électrification des usages : une enquête européenne",
-   "link": "https://www.jean-jaures.org/publication/souverainete-energetique-et-electrification-des-usages-une-enquete-europeenne/",
-   "summary": "",
-   "image": "",
-   "date": "2026-09-10T11:00:00+00:00",
-   "pubdate": "2026-09-10T11:00:00+00:00"
   }
  ]
 }

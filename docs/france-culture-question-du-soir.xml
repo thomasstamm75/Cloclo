@@ -5,8 +5,15 @@
     <link>https://www.radiofrance.fr/franceculture/podcasts/le-temps-du-debat</link>
     <description>Flux fabriqué par Cloclo à partir de https://www.radiofrance.fr/franceculture/podcasts/le-temps-du-debat</description>
     <language>fr</language>
-    <lastBuildDate>Tue, 15 Sep 2026 11:52:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 17:06:29 +0000</lastBuildDate>
     <atom:link href="https://thomasstamm75.github.io/Cloclo/france-culture-question-du-soir.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IA est-elle une idÃ©ologieÂ ?</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/ia-est-elle-une-ideologie-7438886</link>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/ia-est-elle-une-ideologie-7438886</guid>
+      <pubDate>Tue, 15 Sep 2026 11:00:00 +0000</pubDate>
+      <description>&lt;img src="https://www.radiofrance.fr/pikapi/images/b374e5f1-1145-418a-b361-8be4b967a876/2048" alt=""/&gt;&lt;p&gt;L'IA inquiÃ¨te, et tel un rouleau compresseur, elle progresse sans que nous puissions lâarrÃªter ou la freiner. Simple outil technologique au service de lâhomme, pour certains experts, n'est-elle pas en train de devenir autre chose qu'un outilÂ ? Une idÃ©ologie qui ne dit pas son nomÂ ?&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Pas d'Ã©mission pour cause de grÃ¨ve</title>
       <link>https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/pas-d-emission-pour-cause-de-greve-6032568</link>
@@ -132,13 +139,6 @@
       <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/a-quoi-joue-donald-trump-en-asie-7507433</guid>
       <pubDate>Fri, 11 Sep 2026 14:10:40 +0000</pubDate>
       <description>&lt;img src="https://www.radiofrance.fr/pikapi/images/dc612ce2-8c8c-43d8-906d-4036d4810c33/2048" alt=""/&gt;&lt;p&gt;Alors que Donald Trump met en avant sa "trÃ¨s bonne relation" avec le dictateur nord-corÃ©en Kim Jong-un, et annonce vouloir rÃ©duire des exercices militaires prÃ©vus avec son alliÃ© historique, la CorÃ©e du Sud, faut-il s'inquiÃ©ter des grandes manoeuvres diplomatiques et militaires en AsieÂ ?&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Le nuclÃ©aire peut-il rÃ©sister au changement climatiqueÂ ?</title>
-      <link>https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/le-nucleaire-doit-il-resister-au-changement-climatique-7622599</link>
-      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/le-nucleaire-doit-il-resister-au-changement-climatique-7622599</guid>
-      <pubDate>Fri, 11 Sep 2026 14:10:40 +0000</pubDate>
-      <description>&lt;img src="https://www.radiofrance.fr/pikapi/images/0f4f7d26-c3f1-4179-afb9-304285d74854/2048" alt=""/&gt;&lt;p&gt;Cet Ã©tÃ©, canicules et sÃ©cheresses mettent Ã lâÃ©preuve le parc nuclÃ©aire franÃ§ais et contraignent l'arrÃªt de plusieurs rÃ©acteurs par EDF. LâÃ©nergie nuclÃ©aire, souvent prÃ©sentÃ©e comme une Ã©nergie verte, est-elle vraiment adaptÃ©e au changement climatiqueÂ ?&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
