@@ -1,11 +1,8 @@
 {
- "etag": "\"5c80c72e60fa4a0a3e11864dc265c71b-gzip\"",
+ "etag": "\"f306d458dd8a67d836b47c8941d9a0a9-gzip\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.franceinfo.fr/replay-radio/salut-l-info/podcast-le-grand-retour-de-celine-dion-rentree-difficile-pour-les-agriculteurs-et-un-coin-a-prouts_8177906.html": "2026-09-11T16:33:29.877443+00:00",
-  "https://www.franceinfo.fr/monde/russie/une-armee-de-bots-russes-va-cibler-les-prochaines-elections-en-france-et-en-allemagne-previent-la-suede_8188328.html": "2026-09-11T16:33:29.877443+00:00",
   "https://www.franceinfo.fr/monde/europe/en-suede-des-elections-sur-fond-de-tournant-securitaire_8189768.html": "2026-09-12T14:06:05.306285+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-quatre-morts-dans-des-frappes-russes-nocturnes-dont-deux-dans-une-usine-arcelormittal_8189747.html": "2026-09-12T14:06:05.306285+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/un-train-a-destination-de-varsovie-frappe-par-un-drone-russe-pres-de-la-frontiere-polonaise-en-ukraine_8190752.html": "2026-09-13T11:59:34.981624+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-le-kremlin-n-exclut-pas-une-reprise-des-negociations-trilaterales-avec-kiev-en-octobre_8190662.html": "2026-09-13T11:59:34.981624+00:00",
   "https://www.franceinfo.fr/monde/europe/union-europeenne/arctique-face-aux-grandes-puissances-l-union-europeenne-veut-muscler-sa-strategie_8190659.html": "2026-09-13T11:59:34.981624+00:00",
@@ -18,9 +15,7 @@
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/un-besoin-critique-de-systemes-de-defense-antiaerienne-l-ukraine-s-attend-a-vivre-l-hiver-le-plus-difficile-depuis-le-debut-de-la-guerre-avec-la-russie_8184539.html": "2026-09-14T05:03:43.324060+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/je-ne-sais-pas-ce-qui-attend-nos-enfants-a-kiev-l-angoisse-de-la-rentree-sous-les-bombes-apres-un-ete-meurtrier_8144936.html": "2026-09-14T05:03:43.324060+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-la-frappe-russe-contre-un-train-vise-a-desunir-les-allies-de-kiev-denonce-le-chef-de-la-diplomatie-francaise_8191835.html": "2026-09-14T12:57:11.181621+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/pourquoi-la-prise-de-controle-du-detroit-de-bab-el-mandeb-par-les-houthis-inquiete_8191820.html": "2026-09-14T12:57:11.181621+00:00",
   "https://www.franceinfo.fr/monde/europe/plus-que-quelques-jours-pour-designer-les-illustrations-des-nouveaux-billets-en-euros_8190977.html": "2026-09-14T12:57:11.181621+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/ils-se-refugient-dans-le-metro-pour-survivre_8191676.html": "2026-09-14T12:57:11.181621+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/ce-que-l-on-sait-de-la-frappe-de-drone-russe-contre-un-train-en-ukraine-pres-de-la-frontiere-avec-la-pologne_8191496.html": "2026-09-14T12:57:11.181621+00:00",
   "https://www.franceinfo.fr/monde/europe/migrants/un-mort-et-25-disparus-dans-le-naufrage-d-une-embarcation-de-migrants-au-large-de-la-grece_8191589.html": "2026-09-14T12:57:11.181621+00:00",
   "https://www.franceinfo.fr/replay-radio/les-informes-de-france-info/poutine-peut-il-entrainer-l-europe-dans-son-escalade-les-informes-de-franceinfo-du-lundi-14-septembre-2026_8169995.html": "2026-09-14T11:00:00+00:00",
@@ -31,15 +26,42 @@
   "https://www.franceinfo.fr/monde/europe/allemagne/il-y-a-une-extrapolation-du-declin-economique-comment-l-extreme-droite-allemande-est-arrivee-aux-portes-du-pouvoir-en-saxe-anhalt_8175638.html": "2026-09-14T19:51:56.909555+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-c-est-le-sauveur-en-saxe-anhalt-ulrich-siegmund-l-homme-le-plus-dangereux-d-allemagne-selon-der-spiegel-aux-portes-du-pouvoir_8147219.html": "2026-09-14T19:51:56.909555+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/une-facon-de-tester-la-solidarite-que-signifiait-la-frappe-d-un-drone-russe-sur-un-train-pres-de-la-frontiere-polonaise_8192519.html": "2026-09-14T23:53:58.993734+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/vos-questions-sur-l-effort-de-guerre-de-la-france/": "2026-09-14T23:53:58.993734+00:00"
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/vos-questions-sur-l-effort-de-guerre-de-la-france/": "2026-09-14T23:53:58.993734+00:00",
+  "https://www.franceinfo.fr/monde/usa/le-mariage-de-donald-trump-jr-a-ete-en-grande-partie-finance-par-un-oligarque-proche-de-vladimir-poutine-revele-un-magazine-americain-d-investigation_8193149.html": "2026-09-15T11:51:24.815957+00:00",
+  "https://www.franceinfo.fr/replay-radio/le-brief-eco/l-envoi-d-argent-aux-familles-et-aux-proches-a-l-etranger-a-presque-double-en-dix-ans_8171384.html": "2026-09-15T11:51:24.815957+00:00",
+  "https://www.franceinfo.fr/monde/otan/un-drone-abattu-par-l-otan-au-dessus-de-la-lituanie_8192894.html": "2026-09-15T11:51:24.815957+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "2:11 vidéo 2 minutes 11 \"Une façon de tester la solidarité\" : que signifiait la frappe d'un drone russe sur un train près de la frontière polonaise ? Les réactions affluent après la frappe russe sur un train reliant Kiev, en Ukraine, à Varsovie, la capitale polonaise, le week-end dernier. Une nouvelle escalade, à seulement deux kilomètres de la frontière polonaise, dénoncée par l'ensemble des dirigeants européens. Quelles seraient les conséquences d’une attaque russe dans un pays de l’Otan ?",
+   "title": "Le mariage de Donald Trump Jr a été en grande partie financé par un oligarque proche de Vladimir Poutine, révèle un magazine américain d'investigation Le fils du président américain et sa femme ont confirmé que leur \"cher ami\" Umar Kremlev avait \"très généreusement offert deux soirées incroyables\" aux Bahamas. Des révélations qui risquent de peser dans les négociations lancées par Donald Trump entre l'Ukraine et la Russie.",
+   "link": "https://www.franceinfo.fr/monde/usa/le-mariage-de-donald-trump-jr-a-ete-en-grande-partie-finance-par-un-oligarque-proche-de-vladimir-poutine-revele-un-magazine-americain-d-investigation_8193149.html",
+   "summary": "Le mariage de Donald Trump Jr a été en grande partie financé par un oligarque proche de Vladimir Poutine, révèle un magazine américain d'investigation",
+   "image": "https://www.franceinfo.fr/pictures/L6mun00etas8Pcpd-pdU9q9IFsQ/446x0:1024x397/432x297/filters:format(jpg)/2026/09/15/6aa8f0190ff40844826441.jpg",
+   "date": null,
+   "pubdate": "2026-09-15T11:51:24.815957+00:00"
+  },
+  {
+   "title": "2:20 audio 2 minutes 20 L'envoi d’argent aux familles et aux proches à l’étranger a presque doublé en dix ans",
+   "link": "https://www.franceinfo.fr/replay-radio/le-brief-eco/l-envoi-d-argent-aux-familles-et-aux-proches-a-l-etranger-a-presque-double-en-dix-ans_8171384.html",
+   "summary": "L'envoi d’argent aux familles et aux proches à l’étranger a presque doublé en dix ans",
+   "image": "https://www.franceinfo.fr/pictures/e6wdaoXO7_-f1JeyR0-sRjkxnZA/0x53:7174x4089/432x243/filters:format(jpg)/2026/09/15/6aa8d7ff7772f100494777.jpg",
+   "date": null,
+   "pubdate": "2026-09-15T11:51:24.815957+00:00"
+  },
+  {
+   "title": "Un drone abattu par l'Otan au-dessus de la Lituanie",
+   "link": "https://www.franceinfo.fr/monde/otan/un-drone-abattu-par-l-otan-au-dessus-de-la-lituanie_8192894.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/0kdHEf46SwAB9x0epS1pkl8klT4/0x32:1024x608/432x243/filters:format(jpg)/2026/09/15/6aa8ccd18ee5c833916083.jpg",
+   "date": null,
+   "pubdate": "2026-09-15T11:51:24.815957+00:00"
+  },
+  {
+   "title": "2:11 vidéo 2 minutes 11 \"Une façon de tester la solidarité\" : que signifiait la frappe d'un drone russe sur un train près de la frontière polonaise ?",
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/une-facon-de-tester-la-solidarite-que-signifiait-la-frappe-d-un-drone-russe-sur-un-train-pres-de-la-frontiere-polonaise_8192519.html",
    "summary": "\"Une façon de tester la solidarité\" : que signifiait la frappe d'un drone russe sur un train près de la frontière polonaise ?",
-   "image": "https://www.franceinfo.fr/pictures/_LdqckH9t107dUtcVIAHPnWuq5w/72x0:914x579/432x297/filters:format(jpg)/2026/09/14/6aa850f589ffc901524530.jpg",
+   "image": "https://www.franceinfo.fr/pictures/bC3BWIHOFYD_qV9nJ8wAQXD2XeA/0x11:987x567/432x243/filters:format(jpg)/2026/09/14/6aa850f589ffc901524530.jpg",
    "date": null,
    "pubdate": "2026-09-14T23:53:58.993734+00:00"
   },
@@ -108,26 +130,10 @@
    "pubdate": "2026-09-14T12:57:11.181621+00:00"
   },
   {
-   "title": "1:01 vidéo 1 minute 1 Pourquoi la prise de contrôle du détroit de Bab-el-Mandeb par les Houthis inquiète ?",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/pourquoi-la-prise-de-controle-du-detroit-de-bab-el-mandeb-par-les-houthis-inquiete_8191820.html",
-   "summary": "Pourquoi la prise de contrôle du détroit de Bab-el-Mandeb par les Houthis inquiète ?",
-   "image": "https://www.franceinfo.fr/pictures/-Wc-2jnO8uY_Lho8gdMJsv7IoBM/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/14/6aa7c7b41228b612307551.png",
-   "date": null,
-   "pubdate": "2026-09-14T12:57:11.181621+00:00"
-  },
-  {
-   "title": "Plus que quelques jours pour désigner les illustrations des nouveaux billets en euros",
+   "title": "Plus que quelques jours pour désigner les illustrations des nouveaux billets en euros Entre le visage de personnalités historiques ou un aperçu du patrimoine écologique de l'Union sur les futurs billets européens, que choisiriez-vous ? La consultation en ligne lancée par la Banque centrale européenne est encore ouverte jusqu'au 21 septembre afin de trancher entre ces deux options.",
    "link": "https://www.franceinfo.fr/monde/europe/plus-que-quelques-jours-pour-designer-les-illustrations-des-nouveaux-billets-en-euros_8190977.html",
-   "summary": "",
+   "summary": "Plus que quelques jours pour désigner les illustrations des nouveaux billets en euros",
    "image": "https://www.franceinfo.fr/pictures/-KTHeqw3YUsvPYFkN622nZkwtSA/0x195:4000x2445/432x243/filters:format(jpg)/2026/09/13/6aa704ef6b23f262694276.jpg",
-   "date": null,
-   "pubdate": "2026-09-14T12:57:11.181621+00:00"
-  },
-  {
-   "title": "1:04 vidéo 1 minute 4 Ils se réfugient dans le métro pour survivre",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/ils-se-refugient-dans-le-metro-pour-survivre_8191676.html",
-   "summary": "Ils se réfugient dans le métro pour survivre",
-   "image": "https://www.franceinfo.fr/pictures/tReTsRMMGuHG4MT6upmfEkaOXPk/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/14/6aa7b3ad87624301967991.jpg",
    "date": null,
    "pubdate": "2026-09-14T12:57:11.181621+00:00"
   },
@@ -250,30 +256,6 @@
    "image": "https://www.franceinfo.fr/pictures/8A3Wdw916_H1HRGXMs70iHaMMM0/0x339:6521x4007/432x243/filters:format(jpg)/2026/09/12/6aa5515384ec4745423932.jpg",
    "date": null,
    "pubdate": "2026-09-12T14:06:05.306285+00:00"
-  },
-  {
-   "title": "Guerre en Ukraine : quatre morts dans des frappes russes nocturnes, dont deux dans une usine ArcelorMittal \"Nous condamnons fermement ces attaques ennemies insidieuses\", a réagi le groupe sidérurgique. En plus des frappes mortelles, d'autres ont blessé 35 personnes dans la ville portuaire d'Odessa.",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-quatre-morts-dans-des-frappes-russes-nocturnes-dont-deux-dans-une-usine-arcelormittal_8189747.html",
-   "summary": "Guerre en Ukraine : quatre morts dans des frappes russes nocturnes, dont deux dans une usine ArcelorMittal",
-   "image": "https://www.franceinfo.fr/pictures/XUqLq7yUv_H9PCx7a12XKwaZXM4/0x93:1024x669/432x243/filters:format(jpg)/2026/09/12/6aa54aec7e140427243319.jpg",
-   "date": null,
-   "pubdate": "2026-09-12T14:06:05.306285+00:00"
-  },
-  {
-   "title": ": Podcast 19:54 audio 19 minutes 54 Le grand retour de Céline Dion, rentrée difficile pour les agriculteurs et un coin à prouts Céline Dion de retour sur scène en France, les agriculteurs en difficulté et un \"coin à prouts\" installé dans une classe : c'est le programme du nouvel épisode de \"Salut l'info !\", le podcast d'actualités des 7-11 ans.",
-   "link": "https://www.franceinfo.fr/replay-radio/salut-l-info/podcast-le-grand-retour-de-celine-dion-rentree-difficile-pour-les-agriculteurs-et-un-coin-a-prouts_8177906.html",
-   "summary": "Le grand retour de Céline Dion, rentrée difficile pour les agriculteurs et un coin à prouts",
-   "image": "https://www.franceinfo.fr/pictures/b25IRWXHMQbwFSyC4_aO8Xdhkfk/0x1:1594x898/432x243/filters:format(jpg)/2026/09/11/6aa3ccbd8588e488298955.jpg",
-   "date": null,
-   "pubdate": "2026-09-11T16:33:29.877443+00:00"
-  },
-  {
-   "title": "Une armée de bots russes va cibler les prochaines élections en France et en Allemagne, prévient la Suède Un haut responsable suédois chargé de la lutte contre la désinformation a fait savoir dans la presse que Moscou voyait des \"opportunités\" de polariser et diviser les sociétés occidentales lors des prochains scrutins européens, notamment pour la présidentielle.",
-   "link": "https://www.franceinfo.fr/monde/russie/une-armee-de-bots-russes-va-cibler-les-prochaines-elections-en-france-et-en-allemagne-previent-la-suede_8188328.html",
-   "summary": "Une armée de bots russes va cibler les prochaines élections en France et en Allemagne, prévient la Suède",
-   "image": "https://www.franceinfo.fr/pictures/NjROkHiwGGxqrIdFCcHcS9A8X5c/0x31:5760x3271/432x243/filters:format(jpg)/2026/09/11/6aa40cd2b22e4930804662.jpg",
-   "date": null,
-   "pubdate": "2026-09-11T16:33:29.877443+00:00"
   }
  ]
 }
