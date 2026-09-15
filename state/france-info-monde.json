@@ -1,21 +1,17 @@
 {
- "etag": "\"dc354c1617ca00b607d02e1265ba8158-gzip\"",
+ "etag": "\"56e34541633dc533ef28d375638b0e5f-gzip\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.franceinfo.fr/grands-formats/de-san-francisco-a-los-angeles-les-richesses-menacees-de-la-pacific-coast-highway-la-route-du-pacifique_8185364.html": "2026-09-14T05:03:44.432647+00:00",
   "https://www.franceinfo.fr/monde/turquie/l-union-europeenne-se-dit-preoccupee-par-les-arrestations-de-militants-lgbt-en-turquie_8191967.html": "2026-09-14T12:57:12.705440+00:00",
   "https://www.franceinfo.fr/monde/usa/aux-etats-unis-le-kennedy-center-risque-la-faillite-rapporte-un-media-americain_8191901.html": "2026-09-14T12:57:12.705440+00:00",
   "https://www.franceinfo.fr/monde/chine/la-chine-durcit-les-conditions-de-sortie-du-territoire-y-compris-pour-ses-propres-citoyens_8190833.html": "2026-09-14T12:57:12.705440+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-la-frappe-russe-contre-un-train-vise-a-desunir-les-allies-de-kiev-denonce-le-chef-de-la-diplomatie-francaise_8191835.html": "2026-09-14T12:57:12.705440+00:00",
   "https://www.franceinfo.fr/monde/europe/plus-que-quelques-jours-pour-designer-les-illustrations-des-nouveaux-billets-en-euros_8190977.html": "2026-09-14T12:57:12.705440+00:00",
-  "https://www.franceinfo.fr/monde/palestine/une-ong-accuse-israel-d-eliminer-la-possibilite-d-une-nation-palestinienne-en-cisjordanie-occupee_8191793.html": "2026-09-14T12:57:12.705440+00:00",
-  "https://www.franceinfo.fr/politique/emmanuel-macron/emmanuel-macron-effectuera-une-visite-d-etat-en-espagne-les-29-et-30-septembre_8191649.html": "2026-09-14T12:57:12.705440+00:00",
   "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/tout-comprendre-a-la-guerre-au-moyen-orient/": "2026-09-14T12:57:12.705440+00:00",
   "https://www.franceinfo.fr/monde/europe/allemagne/il-y-a-une-extrapolation-du-declin-economique-comment-l-extreme-droite-allemande-est-arrivee-aux-portes-du-pouvoir-en-saxe-anhalt_8175638.html": "2026-09-14T12:57:12.705440+00:00",
   "https://www.franceinfo.fr/economie/automobile/essence/carburants-a-qui-profite-l-envolee-des-prix_8192477.html": "2026-09-14T19:51:58.446257+00:00",
   "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/les-realisateurs-israeliens-de-naza-pourraient-etre-dechus-de-leur-nationalite_8192408.html": "2026-09-14T19:51:58.446257+00:00",
   "https://www.franceinfo.fr/monde/pourquoi-les-banques-centrales-ont-repris-gout-a-l-or_8192351.html": "2026-09-14T19:51:58.446257+00:00",
-  "https://www.franceinfo.fr/replay-radio/les-informes-de-france-info/poutine-peut-il-entrainer-l-europe-dans-son-escalade-les-informes-de-franceinfo-du-lundi-14-septembre-2026_8169995.html": "2026-09-14T11:00:00+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/donald-trump-affirme-que-l-ukraine-et-la-russie-ont-accepte-d-arreter-les-bombardements-sur-les-infrastructures-energetiques-adverses_8192360.html": "2026-09-14T19:51:58.446257+00:00",
   "https://www.franceinfo.fr/replay-radio/la-question-des-informes/il-y-a-un-reel-danger-avec-l-intelligence-artificielle-mais-les-alertes-des-geants-americains-sont-aussi-une-bataille-de-communication_8192282.html": "2026-09-14T19:51:58.446257+00:00",
   "https://www.franceinfo.fr/internet/intelligence-artificielle/donald-trump-fustige-une-conspiration-malsaine-contre-l-intelligence-artificielle-et-s-en-prend-au-patron-d-anthropic_8192303.html": "2026-09-14T19:51:58.446257+00:00",
@@ -31,15 +27,51 @@
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/une-facon-de-tester-la-solidarite-que-signifiait-la-frappe-d-un-drone-russe-sur-un-train-pres-de-la-frontiere-polonaise_8192519.html": "2026-09-14T23:54:00.115640+00:00",
   "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/un-an-de-donald-trump-au-pouvoir/": "2026-09-14T23:54:00.115640+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-il-y-a-70-de-bon-et-30-de-mauvais-en-chine-le-culte-de-mao-prend-de-l-ampleur-chez-les-jeunes_8161538.html": "2026-09-14T23:54:00.115640+00:00",
-  "https://www.franceinfo.fr/monde/asie/taiwan/du-sommet-de-l-etat-au-quotidien-des-habitants-comment-taiwan-se-prepare-a-une-guerre-avec-la-chine_8181767.html": "2026-09-14T23:54:00.115640+00:00"
+  "https://www.franceinfo.fr/monde/asie/taiwan/du-sommet-de-l-etat-au-quotidien-des-habitants-comment-taiwan-se-prepare-a-une-guerre-avec-la-chine_8181767.html": "2026-09-14T23:54:00.115640+00:00",
+  "https://www.franceinfo.fr/monde/otan/un-drone-abattu-par-l-otan-au-dessus-de-la-lituanie_8192894.html": "2026-09-15T04:59:46.818516+00:00",
+  "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/un-tweet-a-failli-priver-la-france-d-ambassadeur-aux-etats-unis_8192267.html": "2026-09-15T04:59:46.818516+00:00",
+  "https://www.franceinfo.fr/monde/usa/affaire-jeffrey-epstein/l-essentiel-des-revelations-sur-l-affaire-epstein/": "2026-09-15T04:59:46.818516+00:00",
+  "https://www.franceinfo.fr/monde/groenland/le-groenland-au-c-ur-d-un-bras-de-fer-geopolitique/": "2026-09-15T04:59:46.818516+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "L'administration Trump abroge les limites d'émissions polluantes imposées aux centrales électriques Le secteur énergétique représente près d'un quart des émissions de gaz à effet de serre des Etats-Unis, premier pollueur historique.",
+   "title": "Un drone abattu par l'Otan au-dessus de la Lituanie \"Alors que la Russie intensifie son agression contre l'Ukraine, une telle préparation est vitale pour notre région. Avec nos alliés de l'Otan, la Lituanie défendra son espace aérien\", a commenté le président lituanien, sans préciser à quel pays appartenait ce drone.",
+   "link": "https://www.franceinfo.fr/monde/otan/un-drone-abattu-par-l-otan-au-dessus-de-la-lituanie_8192894.html",
+   "summary": "Un drone abattu par l'Otan au-dessus de la Lituanie",
+   "image": "https://www.franceinfo.fr/pictures/yriuDM08zguqalGMZR8ypihgAHI/0x0:992x682/432x297/filters:format(jpg)/2026/09/15/6aa8ccd18ee5c833916083.jpg",
+   "date": null,
+   "pubdate": "2026-09-15T04:59:46.818516+00:00"
+  },
+  {
+   "title": "1:22 vidéo 1 minute 22 Un tweet a failli priver la France d’ambassadeur aux Etats-Unis",
+   "link": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/un-tweet-a-failli-priver-la-france-d-ambassadeur-aux-etats-unis_8192267.html",
+   "summary": "Un tweet a failli priver la France d’ambassadeur aux Etats-Unis",
+   "image": "https://www.franceinfo.fr/pictures/jf_qsRiMNhYDNhz5Cl-WiDscfLY/110x0:1303x2121/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/14/6aa817de73b1d952376552.jpg",
+   "date": null,
+   "pubdate": "2026-09-15T04:59:46.818516+00:00"
+  },
+  {
+   "title": "L'essentiel des révélations sur l'affaire Epstein 14 contenus",
+   "link": "https://www.franceinfo.fr/monde/usa/affaire-jeffrey-epstein/l-essentiel-des-revelations-sur-l-affaire-epstein/",
+   "summary": "L'essentiel des révélations sur l'affaire Epstein",
+   "image": "https://www.franceinfo.fr/pictures/btENVL4vmQDLNvnJ4uUtTATvN9k/432x297/filters:format(jpg)/2026/02/12/000-96rl2gk-1-698def9a11d8a867290796.jpg",
+   "date": null,
+   "pubdate": "2026-09-15T04:59:46.818516+00:00"
+  },
+  {
+   "title": "Le Groenland au cœur d'un bras de fer géopolitique 15 contenus",
+   "link": "https://www.franceinfo.fr/monde/groenland/le-groenland-au-c-ur-d-un-bras-de-fer-geopolitique/",
+   "summary": "Le Groenland au cœur d'un bras de fer géopolitique",
+   "image": "https://www.franceinfo.fr/pictures/MKq4Aviz_2Dt7XVuO__X2DAEw5M/432x297/filters:format(jpg)/2026/01/22/043-sw-js9nbczzm6o-697245bf34b52414921393.jpg",
+   "date": null,
+   "pubdate": "2026-09-15T04:59:46.818516+00:00"
+  },
+  {
+   "title": "L'administration Trump abroge les limites d'émissions polluantes imposées aux centrales électriques",
    "link": "https://www.franceinfo.fr/environnement/l-administration-trump-abroge-les-limites-d-emissions-polluantes-imposees-aux-centrales-electriques_8192606.html",
-   "summary": "L'administration Trump abroge les limites d'émissions polluantes imposées aux centrales électriques",
-   "image": "https://www.franceinfo.fr/pictures/OEltd0cyp6cfeyvdEDNWR4S621Y/32x0:1024x682/432x297/filters:format(jpg)/2026/09/14/6aa86a7df300c321898486.jpg",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/6hELkqSuEbNIish6vauc5mXUeSM/0x106:1024x682/432x243/filters:format(jpg)/2026/09/14/6aa86a7df300c321898486.jpg",
    "date": null,
    "pubdate": "2026-09-14T23:54:00.115640+00:00"
   },
@@ -116,15 +148,15 @@
    "pubdate": "2026-09-14T19:51:58.446257+00:00"
   },
   {
-   "title": "Donald Trump affirme que l'Ukraine et la Russie ont accepté d'arrêter les bombardements sur les infrastructures énergétiques adverses",
+   "title": "Donald Trump affirme que l'Ukraine et la Russie ont accepté d'arrêter les bombardements sur les infrastructures énergétiques adverses Le président américain avait interpellé son homologue ukrainien Volodymyr Zelensky, dimanche, l'appelant à \"arrêter\" d'attaquer les raffineries de pétrole en Russie, face à la hausse des prix à la pompe.",
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/donald-trump-affirme-que-l-ukraine-et-la-russie-ont-accepte-d-arreter-les-bombardements-sur-les-infrastructures-energetiques-adverses_8192360.html",
-   "summary": "",
+   "summary": "Donald Trump affirme que l'Ukraine et la Russie ont accepté d'arrêter les bombardements sur les infrastructures énergétiques adverses",
    "image": "https://www.franceinfo.fr/pictures/_NEwXiHujwyEoyfKendkTmM8qAY/0x0:1024x576/432x243/filters:format(jpg)/2026/09/14/6aa82b73df0c7427488473.jpg",
    "date": null,
    "pubdate": "2026-09-14T19:51:58.446257+00:00"
   },
   {
-   "title": "9:59 audio 9 minutes 59 \"Il y a un réel danger\" avec l'intelligence artificielle, mais les alertes des géants américains sont aussi une bataille de communication",
+   "title": "9:59 audio 9 minutes 59 \"Il y a un réel danger\" avec l'intelligence artificielle, mais les alertes des géants américains sont aussi une bataille de communication Les dirigeants de grands groupes américains de l'intelligence artificielle multiplient les mises en garde sur les risques d'un développement trop rapide. Le patron d'Anthropic estime que l'IA pourrait prendre le contrôle d'internet d'ici 6 mois à un an.",
    "link": "https://www.franceinfo.fr/replay-radio/la-question-des-informes/il-y-a-un-reel-danger-avec-l-intelligence-artificielle-mais-les-alertes-des-geants-americains-sont-aussi-une-bataille-de-communication_8192282.html",
    "summary": "\"Il y a un réel danger\" avec l'intelligence artificielle, mais les alertes des géants américains sont aussi une bataille de communication",
    "image": "https://www.franceinfo.fr/pictures/29n44IVjAe5vj9H5ibQhFshVa0E/0x114:4500x2645/432x243/filters:format(jpg)/2026/09/14/6aa829944e9c4016609820.jpg",
@@ -242,38 +274,6 @@
    "image": "https://www.franceinfo.fr/pictures/-KTHeqw3YUsvPYFkN622nZkwtSA/0x195:4000x2445/432x243/filters:format(jpg)/2026/09/13/6aa704ef6b23f262694276.jpg",
    "date": null,
    "pubdate": "2026-09-14T12:57:12.705440+00:00"
-  },
-  {
-   "title": "Une ONG accuse Israël d'\"éliminer\" la possibilité d'une nation palestinienne en Cisjordanie occupée L'ONG de défense des droits humains B'Tselem affirme que cet objectif s'appuie sur \"la violence et l'intimidation, les restrictions de mouvement, l'étouffement économique, la destruction sociale et politique, le nettoyage ethnique et la conquête territoriale\".",
-   "link": "https://www.franceinfo.fr/monde/palestine/une-ong-accuse-israel-d-eliminer-la-possibilite-d-une-nation-palestinienne-en-cisjordanie-occupee_8191793.html",
-   "summary": "Une ONG accuse Israël d'\"éliminer\" la possibilité d'une nation palestinienne en Cisjordanie occupée",
-   "image": "https://www.franceinfo.fr/pictures/08BneKzODClGyahumCtWo8E5laA/0x53:1024x629/432x243/filters:format(jpg)/2026/09/14/6aa7c5b4f2e81459090080.jpg",
-   "date": null,
-   "pubdate": "2026-09-14T12:57:12.705440+00:00"
-  },
-  {
-   "title": "Emmanuel Macron effectuera une visite d'Etat en Espagne les 29 et 30 septembre Le chef de l'Etat rencontrera le roi Felipe VI et Pedro Sanchez. Avec le Premier ministre, il évoquera \"les grands enjeux européens et internationaux, notamment la situation en Ukraine et au Proche-Orient\".",
-   "link": "https://www.franceinfo.fr/politique/emmanuel-macron/emmanuel-macron-effectuera-une-visite-d-etat-en-espagne-les-29-et-30-septembre_8191649.html",
-   "summary": "Emmanuel Macron effectuera une visite d'Etat en Espagne les 29 et 30 septembre",
-   "image": "https://www.franceinfo.fr/pictures/G9P8vbRsMLMOxyegrDihkpegd9k/0x53:1024x629/432x243/filters:format(jpg)/2026/09/14/6aa7b2f5575f8785014584.jpg",
-   "date": null,
-   "pubdate": "2026-09-14T12:57:12.705440+00:00"
-  },
-  {
-   "title": "50:51 audio 50 minutes 51 Poutine peut-il entraîner l'Europe dans son escalade ? Les informés de franceinfo du lundi 14 septembre 2026",
-   "link": "https://www.franceinfo.fr/replay-radio/les-informes-de-france-info/poutine-peut-il-entrainer-l-europe-dans-son-escalade-les-informes-de-franceinfo-du-lundi-14-septembre-2026_8169995.html",
-   "summary": "Poutine peut-il entraîner l'Europe dans son escalade ? Les informés de franceinfo du lundi 14 septembre 2026",
-   "image": "https://www.franceinfo.fr/pictures/FEWNMv3aSIxgLrGjcZH3Gl-YKzY/0x0:1280x720/432x243/filters:format(jpg)/2025/06/06/informes-68429c5c84e56598711552.jpg",
-   "date": "2026-09-14T11:00:00+00:00",
-   "pubdate": "2026-09-14T11:00:00+00:00"
-  },
-  {
-   "title": "15:05 vidéo 15 minutes 5 De San Francisco à Los Angeles, les richesses menacées de la Pacific Coast Highway, la route du Pacifique",
-   "link": "https://www.franceinfo.fr/grands-formats/de-san-francisco-a-los-angeles-les-richesses-menacees-de-la-pacific-coast-highway-la-route-du-pacifique_8185364.html",
-   "summary": "De San Francisco à Los Angeles, les richesses menacées de la Pacific Coast Highway, la route du Pacifique",
-   "image": "https://www.franceinfo.fr/pictures/9lkkIO-0dQIuS9VDA94Fb4vb2U8/283x0:1171x888/100x100/filters:format(jpg)/2026/09/09/6aa1bc177607a042945197.jpg",
-   "date": null,
-   "pubdate": "2026-09-14T05:03:44.432647+00:00"
   }
  ]
 }
