@@ -1,10 +1,7 @@
 {
- "etag": "\"bfefbd37deba2b48d08b3f6268933377-gzip\"",
+ "etag": "\"fe57cfeb0dc58bd85e5e92afc21ea479-gzip\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/opposants-journalistes-citoyens-comment-la-russie-reprime-toute-contestation-de-la-guerre-en-ukraine_8149349.html": "2026-09-13T16:24:06.720290+00:00",
-  "https://www.franceinfo.fr/monde/europe/migrants/crise-des-migrants-a-ceuta/plus-de-5-300-migrants-restes-a-ceuta-ont-pu-retourner-au-maroc-en-un-mois-assure-le-gouvernement-espagnol_8190917.html": "2026-09-13T16:24:06.720290+00:00",
-  "https://www.franceinfo.fr/monde/europe/mag-da-le-na-le-compositeur-d-abba-revisite-le-tube-du-groupe-suedois-mamma-mia-en-soutien-a-la-candidate-du-bloc-de-gauche-aux-legislatives_8190809.html": "2026-09-13T16:24:06.720290+00:00",
   "https://www.franceinfo.fr/monde/europe/la-gauche-en-tete-des-legislatives-en-suede-et-l-extreme-droite-perd-du-terrain-pour-la-premiere-fois-depuis-2010-selon-des-sondages-sortie-des-urnes_8191127.html": "2026-09-13T20:54:11.262483+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/pendant-deux-jours-j-ai-tire-le-corps-d-un-mort-dans-la-kill-zone-les-soldats-ukrainiens-vivent-sous-la-menace-permanente-des-drones-russes_8089898.html": "2026-09-13T23:12:43.893303+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/un-besoin-critique-de-systemes-de-defense-antiaerienne-l-ukraine-s-attend-a-vivre-l-hiver-le-plus-difficile-depuis-le-debut-de-la-guerre-avec-la-russie_8184539.html": "2026-09-14T05:03:43.324060+00:00",
@@ -19,7 +16,6 @@
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/ils-n-entendent-ni-les-sirenes-ni-les-drones-ni-les-explosions-dans-la-ville-ukrainienne-de-kramatorsk-le-quotidien-infernal-des-personnes-malentendantes-pres-de-la-ligne-de-front_8192012.html": "2026-09-14T19:51:56.909555+00:00",
   "https://www.franceinfo.fr/monde/europe/allemagne/il-y-a-une-extrapolation-du-declin-economique-comment-l-extreme-droite-allemande-est-arrivee-aux-portes-du-pouvoir-en-saxe-anhalt_8175638.html": "2026-09-14T19:51:56.909555+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-c-est-le-sauveur-en-saxe-anhalt-ulrich-siegmund-l-homme-le-plus-dangereux-d-allemagne-selon-der-spiegel-aux-portes-du-pouvoir_8147219.html": "2026-09-14T19:51:56.909555+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/une-facon-de-tester-la-solidarite-que-signifiait-la-frappe-d-un-drone-russe-sur-un-train-pres-de-la-frontiere-polonaise_8192519.html": "2026-09-14T23:53:58.993734+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/vos-questions-sur-l-effort-de-guerre-de-la-france/": "2026-09-14T23:53:58.993734+00:00",
   "https://www.franceinfo.fr/monde/usa/le-mariage-de-donald-trump-jr-a-ete-en-grande-partie-finance-par-un-oligarque-proche-de-vladimir-poutine-revele-un-magazine-americain-d-investigation_8193149.html": "2026-09-15T11:51:24.815957+00:00",
   "https://www.franceinfo.fr/replay-radio/le-brief-eco/l-envoi-d-argent-aux-familles-et-aux-proches-a-l-etranger-a-presque-double-en-dix-ans_8171384.html": "2026-09-15T11:51:24.815957+00:00",
@@ -29,15 +25,51 @@
   "https://www.franceinfo.fr/monde/otan/drones-russes-alerte-aux-frontieres-de-l-otan_8193800.html": "2026-09-15T17:05:04.099353+00:00",
   "https://www.franceinfo.fr/monde/europe/belgique/a-bruxelles-les-petites-mains-du-narcotrafic-recrutees-dans-la-grande-precarite_8193632.html": "2026-09-15T17:05:04.099353+00:00",
   "https://www.franceinfo.fr/monde/europe/union-europeenne/leonard-de-vinci-marie-curie-a-quoi-ressembleront-les-nouveaux-billets-de-la-zone-euro_8193737.html": "2026-09-15T17:05:04.099353+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-moscou-salue-la-bonne-idee-de-donald-trump-sur-une-treve-energetique-avec-kiev_8193752.html": "2026-09-15T17:05:04.099353+00:00"
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-moscou-salue-la-bonne-idee-de-donald-trump-sur-une-treve-energetique-avec-kiev_8193752.html": "2026-09-15T17:05:04.099353+00:00",
+  "https://www.franceinfo.fr/politique/agressions-russes-contre-l-europe-le-ministre-jean-noel-barrot-denonce-des-actes-irresponsables-et-une-agressivite-qui-s-accelere_8194340.html": "2026-09-15T21:26:21.080823+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-france-est-une-cible-prioritaire-de-vladimir-poutine-declare-jean-noel-barrot-ministre-des-affaires-etrangeres_8194247.html": "2026-09-15T21:26:21.080823+00:00",
+  "https://www.franceinfo.fr/monde/pays-bas/des-sabotages-en-serie-sur-les-rails-aux-pays-bas-interrogent-les-autorites_8194253.html": "2026-09-15T21:26:21.080823+00:00",
+  "https://www.franceinfo.fr/economie/budget/budget-2027-sebastien-lecornu-demande-a-la-commission-europeenne-d-alleger-la-charge-pesant-sur-les-etats-membres_8194250.html": "2026-09-15T21:26:21.080823+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": ": Reportage \"Plus de huit millions de livres pour enfants\" partis en fumée : l'Ukraine face à une pénurie de manuels scolaires après des frappes russes Tout l'été, et jusqu'à la veille de la rentrée, Moscou a intensifié ses frappes contre les infrastructures logistiques du pays. Plus d'un tiers des livres imprimés en 2026 ont été détruits par Moscou créant une pénurie en Ukraine.",
+   "title": "7:21 vidéo 7 minutes 21 Agressions russes contre l'Europe : le ministre Jean-Noël Barrot dénonce des \"actes irresponsables\" et une agressivité \"qui s'accélère\" À l'heure où les tensions et les provocations de la Russie se multiplient, quelle réponse la France peut-elle apporter ? Pour en parler, Jean-Noël Barrot, le ministre de l'Europe et des Affaires étrangères, est l'invité du \"20 Heures\", mardi 15 septembre.",
+   "link": "https://www.franceinfo.fr/politique/agressions-russes-contre-l-europe-le-ministre-jean-noel-barrot-denonce-des-actes-irresponsables-et-une-agressivite-qui-s-accelere_8194340.html",
+   "summary": "Agressions russes contre l'Europe : le ministre Jean-Noël Barrot dénonce des \"actes irresponsables\" et une agressivité \"qui s'accélère\"",
+   "image": "https://www.franceinfo.fr/pictures/DIMLu55bdF76EndRM8H2lj4YDjk/110x0:1115x691/432x297/filters:format(jpg)/2026/09/15/6aa9aa85a46c2925818151.jpg",
+   "date": null,
+   "pubdate": "2026-09-15T21:26:21.080823+00:00"
+  },
+  {
+   "title": "7:21 vidéo 7 minutes 21 La France est une \"cible prioritaire de Vladimir Poutine\", déclare Jean-Noël Barrot, ministre des Affaires étrangères",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-france-est-une-cible-prioritaire-de-vladimir-poutine-declare-jean-noel-barrot-ministre-des-affaires-etrangeres_8194247.html",
+   "summary": "La France est une \"cible prioritaire de Vladimir Poutine\", déclare Jean-Noël Barrot, ministre des Affaires étrangères",
+   "image": "https://www.franceinfo.fr/pictures/bCuodquqqO0X-TTL1Sa-1K0bByY/0x0:1920x1080/432x243/filters:format(jpg)/2026/09/15/6aa997619e55c975948843.jpg",
+   "date": null,
+   "pubdate": "2026-09-15T21:26:21.080823+00:00"
+  },
+  {
+   "title": "1:31 vidéo 1 minute 31 Des sabotages en série sur les rails aux Pays-Bas interrogent les autorités",
+   "link": "https://www.franceinfo.fr/monde/pays-bas/des-sabotages-en-serie-sur-les-rails-aux-pays-bas-interrogent-les-autorites_8194253.html",
+   "summary": "Des sabotages en série sur les rails aux Pays-Bas interrogent les autorités",
+   "image": "https://www.franceinfo.fr/pictures/YqDrRJkzdBrimLUObUpYJV37hno/22x0:1322x731/432x243/filters:format(jpg)/2026/09/15/6aa996c810940900435663.jpg",
+   "date": null,
+   "pubdate": "2026-09-15T21:26:21.080823+00:00"
+  },
+  {
+   "title": "Budget 2027 : Sébastien Lecornu demande à la Commission européenne d'\"alléger la charge pesant sur les États membres\"",
+   "link": "https://www.franceinfo.fr/economie/budget/budget-2027-sebastien-lecornu-demande-a-la-commission-europeenne-d-alleger-la-charge-pesant-sur-les-etats-membres_8194250.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/nPgTABS7pjT-HLD7eKTG-bJUVtQ/0x225:4300x2643/432x243/filters:format(jpg)/2026/09/15/6aa996458b965429314097.jpg",
+   "date": null,
+   "pubdate": "2026-09-15T21:26:21.080823+00:00"
+  },
+  {
+   "title": ": Reportage : Reportage \"Plus de huit millions de livres pour enfants\" partis en fumée : l'Ukraine face à une pénurie de manuels scolaires après des frappes russes",
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/reportage-plus-de-huit-millions-de-livres-pour-enfants-partis-en-fumee-l-ukraine-face-a-une-penurie-de-manuels-scolaires-apres-des-frappes-russes_8192342.html",
    "summary": "\"Plus de huit millions de livres pour enfants\" partis en fumée : l'Ukraine face à une pénurie de manuels scolaires après des frappes russes",
-   "image": "https://www.franceinfo.fr/pictures/Vdnx7okGrpjCJonvYoe42w7x29U/145x0:1454x900/432x297/filters:format(jpg)/2026/09/14/6aa8420659848131991942.jpg",
+   "image": "https://www.franceinfo.fr/pictures/cXyyBOTpHRayEAbsLyCoCBJyUsQ/0x0:1600x900/432x243/filters:format(jpg)/2026/09/14/6aa8420659848131991942.jpg",
    "date": null,
    "pubdate": "2026-09-15T17:05:04.099353+00:00"
   },
@@ -82,15 +114,15 @@
    "pubdate": "2026-09-15T17:05:04.099353+00:00"
   },
   {
-   "title": "Le mariage de Donald Trump Jr a été en grande partie financé par un oligarque proche de Vladimir Poutine, révèle un magazine américain d'investigation",
+   "title": "Le mariage de Donald Trump Jr a été en grande partie financé par un oligarque proche de Vladimir Poutine, révèle un magazine américain d'investigation Le fils du président américain et sa femme ont confirmé que leur \"cher ami\" Umar Kremlev avait \"très généreusement offert deux soirées incroyables\" aux Bahamas. Des révélations qui risquent de peser dans les négociations lancées par Donald Trump entre l'Ukraine et la Russie.",
    "link": "https://www.franceinfo.fr/monde/usa/le-mariage-de-donald-trump-jr-a-ete-en-grande-partie-finance-par-un-oligarque-proche-de-vladimir-poutine-revele-un-magazine-americain-d-investigation_8193149.html",
-   "summary": "",
+   "summary": "Le mariage de Donald Trump Jr a été en grande partie financé par un oligarque proche de Vladimir Poutine, révèle un magazine américain d'investigation",
    "image": "https://www.franceinfo.fr/pictures/GlVRLQ57e__ACxJs14TPgKY2Am4/446x0:1024x325/432x243/filters:format(jpg)/2026/09/15/6aa8f0190ff40844826441.jpg",
    "date": null,
    "pubdate": "2026-09-15T11:51:24.815957+00:00"
   },
   {
-   "title": "2:20 audio 2 minutes 20 L'envoi d’argent aux familles et aux proches à l’étranger a presque doublé en dix ans",
+   "title": "2:20 audio 2 minutes 20 L'envoi d’argent aux familles et aux proches à l’étranger a presque doublé en dix ans En 2025, 220 millions de personnes ont envoyé environ 730 milliards d’euros à leurs proches dans leur pays d’origine, près de deux fois plus qu’en 2015.Ces transferts, qui dépassent désormais l’aide publique au développement, constituent une ressource essentielle pour de nombreuses familles, notamment dans les zones rurales.",
    "link": "https://www.franceinfo.fr/replay-radio/le-brief-eco/l-envoi-d-argent-aux-familles-et-aux-proches-a-l-etranger-a-presque-double-en-dix-ans_8171384.html",
    "summary": "L'envoi d’argent aux familles et aux proches à l’étranger a presque doublé en dix ans",
    "image": "https://www.franceinfo.fr/pictures/e6wdaoXO7_-f1JeyR0-sRjkxnZA/0x53:7174x4089/432x243/filters:format(jpg)/2026/09/15/6aa8d7ff7772f100494777.jpg",
@@ -98,20 +130,12 @@
    "pubdate": "2026-09-15T11:51:24.815957+00:00"
   },
   {
-   "title": "Un drone abattu par l'Otan au-dessus de la Lituanie",
+   "title": "Un drone abattu par l'Otan au-dessus de la Lituanie \"Alors que la Russie intensifie son agression contre l'Ukraine, une telle préparation est vitale pour notre région. Avec nos alliés de l'Otan, la Lituanie défendra son espace aérien\", a commenté le président lituanien, sans préciser à quel pays appartenait ce drone.",
    "link": "https://www.franceinfo.fr/monde/otan/un-drone-abattu-par-l-otan-au-dessus-de-la-lituanie_8192894.html",
-   "summary": "",
+   "summary": "Un drone abattu par l'Otan au-dessus de la Lituanie",
    "image": "https://www.franceinfo.fr/pictures/0kdHEf46SwAB9x0epS1pkl8klT4/0x32:1024x608/432x243/filters:format(jpg)/2026/09/15/6aa8ccd18ee5c833916083.jpg",
    "date": null,
    "pubdate": "2026-09-15T11:51:24.815957+00:00"
-  },
-  {
-   "title": "2:11 vidéo 2 minutes 11 \"Une façon de tester la solidarité\" : que signifiait la frappe d'un drone russe sur un train près de la frontière polonaise ?",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/une-facon-de-tester-la-solidarite-que-signifiait-la-frappe-d-un-drone-russe-sur-un-train-pres-de-la-frontiere-polonaise_8192519.html",
-   "summary": "\"Une façon de tester la solidarité\" : que signifiait la frappe d'un drone russe sur un train près de la frontière polonaise ?",
-   "image": "https://www.franceinfo.fr/pictures/bC3BWIHOFYD_qV9nJ8wAQXD2XeA/0x11:987x567/432x243/filters:format(jpg)/2026/09/14/6aa850f589ffc901524530.jpg",
-   "date": null,
-   "pubdate": "2026-09-14T23:53:58.993734+00:00"
   },
   {
    "title": "Vos questions sur l'effort de guerre de la France 6 contenus",
@@ -232,30 +256,6 @@
    "image": "https://www.franceinfo.fr/pictures/-sUzpa5wCcVMp6cq44ofcbM4LyA/0x62:1024x638/432x243/filters:format(jpg)/2026/09/13/6aa6f233af721827818592.jpg",
    "date": null,
    "pubdate": "2026-09-13T20:54:11.262483+00:00"
-  },
-  {
-   "title": "2:57 audio 2 minutes 57 Opposants, journalistes, citoyens... comment la Russie réprime toute contestation de la guerre en Ukraine En Russie, à quelques jours de la tenue d'élections législatives, focus sur la répression, qui concerne tous les pans de la société. Contester la guerre en Ukraine est passible de peines de prison, parfois très lourdes.",
-   "link": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/opposants-journalistes-citoyens-comment-la-russie-reprime-toute-contestation-de-la-guerre-en-ukraine_8149349.html",
-   "summary": "Opposants, journalistes, citoyens... comment la Russie réprime toute contestation de la guerre en Ukraine",
-   "image": "https://www.franceinfo.fr/pictures/xpSMjHh1ktYCJXG5QZqR3PcfVZg/0x0:1024x576/432x243/filters:format(jpg)/2026/09/13/6aa69130d6d99672131125.jpg",
-   "date": null,
-   "pubdate": "2026-09-13T16:24:06.720290+00:00"
-  },
-  {
-   "title": "Plus de 5 300 migrants restés à Ceuta ont pu retourner au Maroc en un mois, assure le gouvernement espagnol La plupart des migrants qui étaient entrés à Ceuta fin juillet sont retournés au Maroc dans les heures qui ont suivi leur arrivée. Mais certains sont restés plusieurs semaines, obligeant le gouvernement espagnol à distinguer ceux qui avaient droit à l'asile de ceux qui ne pouvaient y prétendre.",
-   "link": "https://www.franceinfo.fr/monde/europe/migrants/crise-des-migrants-a-ceuta/plus-de-5-300-migrants-restes-a-ceuta-ont-pu-retourner-au-maroc-en-un-mois-assure-le-gouvernement-espagnol_8190917.html",
-   "summary": "Plus de 5 300 migrants restés à Ceuta ont pu retourner au Maroc en un mois, assure le gouvernement espagnol",
-   "image": "https://www.franceinfo.fr/pictures/1oB44q1o1WD1AtD1cd4_EpGtLgA/0x53:1024x629/432x243/filters:format(jpg)/2026/09/13/6aa6c11135743742364808.jpg",
-   "date": null,
-   "pubdate": "2026-09-13T16:24:06.720290+00:00"
-  },
-  {
-   "title": "\"Mag-da-le-na !\" : en Suède, le compositeur d'ABBA revisite le tube \"Mamma Mia\" en soutien à la candidate du bloc de gauche aux législatives Benny Andersson s'est installé dimanche devant un piano, au siège du parti social-démocrate, quelques heures après l'ouverture des bureaux de vote, dans un scrutin qui s'annonce très serré.",
-   "link": "https://www.franceinfo.fr/monde/europe/mag-da-le-na-le-compositeur-d-abba-revisite-le-tube-du-groupe-suedois-mamma-mia-en-soutien-a-la-candidate-du-bloc-de-gauche-aux-legislatives_8190809.html",
-   "summary": "\"Mag-da-le-na !\" : en Suède, le compositeur d'ABBA revisite le tube \"Mamma Mia\" en soutien à la candidate du bloc de gauche aux législatives",
-   "image": "https://www.franceinfo.fr/pictures/-5LdBNZ33Wjvg8E6AyMKIzvjQ44/0x0:1024x576/432x243/filters:format(jpg)/2026/09/13/6aa69eee9c6bb199916340.jpg",
-   "date": null,
-   "pubdate": "2026-09-13T16:24:06.720290+00:00"
   }
  ]
 }
