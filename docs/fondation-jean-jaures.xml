@@ -5,8 +5,14 @@
     <link>https://www.jean-jaures.org/</link>
     <description>Flux fabriqué par Cloclo à partir de https://www.jean-jaures.org/</description>
     <language>fr</language>
-    <lastBuildDate>Wed, 16 Sep 2026 11:45:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 17:06:25 +0000</lastBuildDate>
     <atom:link href="https://thomasstamm75.github.io/Cloclo/fondation-jean-jaures.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vers une économie politique duale</title>
+      <link>https://www.jean-jaures.org/publication/vers-une-economie-politique-duale/</link>
+      <guid isPermaLink="true">https://www.jean-jaures.org/publication/vers-une-economie-politique-duale/</guid>
+      <pubDate>Wed, 16 Sep 2026 11:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Venezuela : paradoxes d’un tremblement de terre destructeur d’évidences</title>
       <link>https://www.jean-jaures.org/publication/venezuela-paradoxes-dun-tremblement-de-terre-destructeur-devidences/</link>
@@ -35,12 +41,6 @@
       <title>Immigration, intégration : des Français résolument en faveur de la régulation</title>
       <link>https://www.jean-jaures.org/publication/immigration-integration-des-francais-resolument-en-faveur-de-la-regulation/</link>
       <guid isPermaLink="true">https://www.jean-jaures.org/publication/immigration-integration-des-francais-resolument-en-faveur-de-la-regulation/</guid>
-      <pubDate>Fri, 11 Sep 2026 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Repenser la doctrine socialiste de l’immigration : travail et statut des étrangers en France</title>
-      <link>https://www.jean-jaures.org/publication/repenser-la-doctrine-socialiste-de-limmigration-travail-et-statut-des-etrangers-en-france/</link>
-      <guid isPermaLink="true">https://www.jean-jaures.org/publication/repenser-la-doctrine-socialiste-de-limmigration-travail-et-statut-des-etrangers-en-france/</guid>
       <pubDate>Fri, 11 Sep 2026 11:00:00 +0000</pubDate>
     </item>
   </channel>
