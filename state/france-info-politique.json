@@ -1,5 +1,5 @@
 {
- "etag": "\"2c17cb431a42072db61fe5dc339b2b80-gzip\"",
+ "etag": "\"a24358160be2264f0d98e04303e7c4a8-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-a-atlanta-les-republicains-craignent-la-fin-de-l-ere-trump-a-l-approche-des-elections-de-mi-mandat-les-democrates-revent-de-revanche_8145842.html": "2026-09-09T20:59:27.970256+00:00",
@@ -15,8 +15,6 @@
   "https://www.franceinfo.fr/elections/presidentielle/cinq-candidats-participeront-a-la-primaire-de-la-gauche-pour-la-presidentielle-le-depute-philippe-brun-exclu-apres-des-accusations-de-violences_8194955.html": "2026-09-16T11:44:20.192023+00:00",
   "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/vrai-ou-faux-les-prix-des-carburants-ont-ils-vraiment-ete-bloques-en-france-pendant-la-guerre-du-golfe_8172911.html": "2026-09-16T11:44:20.192023+00:00",
   "https://www.franceinfo.fr/societe/education/violences-dans-le-periscolaire/violences-sexuelles-dans-le-periscolaire-le-maire-de-paris-emmanuel-gregoire-reconnait-des-dysfonctionnements-et-des-failles-et-exprime-ses-profonds-regrets_8195102.html": "2026-09-16T11:44:20.192023+00:00",
-  "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/le-8h30-franceinfo-de-bruno-retailleau_8172920.html": "2026-09-16T11:44:20.192023+00:00",
-  "https://www.franceinfo.fr/politique/rachida-dati/rachida-dati-a-un-devoir-d-exemplarite-estime-l-ong-transparency-international-france-alors-que-l-ancienne-ministre-comparait-pour-corruption_8194952.html": "2026-09-16T11:44:20.192023+00:00",
   "https://www.franceinfo.fr/politique/la-france-insoumise/video-peut-etre-qu-un-ministre-de-l-interieur-ne-devrait-pas-dire-ca-laurent-nunez-a-t-il-participe-a-alimenter-des-fuites-sur-la-detention-de-drogue-par-rima-hassan_8191880.html": "2026-09-16T17:04:57.569463+00:00",
   "https://www.franceinfo.fr/societe/justice/exclu-du-parti-socialiste-et-de-la-primaire-pour-la-presidentielle-philippe-brun-denonce-des-fausses-accusations-de-violences-et-annonce-deposer-plainte_8194358.html": "2026-09-16T17:04:57.569463+00:00",
   "https://www.franceinfo.fr/societe/harcelement-sexuel/aurore-berge-annonce-qu-elle-deposera-un-amendement-sur-le-controle-coercitif-dans-la-loi-integrale-contre-les-violences-sexistes-et-sexuelles_8195804.html": "2026-09-16T17:04:57.569463+00:00",
@@ -29,15 +27,51 @@
   "https://www.franceinfo.fr/monde/europe/union-europeenne/budget-2027-l-amende-record-infligee-par-l-europe-a-google-pourra-t-elle-alleger-les-depenses-francaises_8196179.html": "2026-09-16T21:23:07.747056+00:00",
   "https://www.franceinfo.fr/l-actu-pour-les-jeunes/c-est-quoi-la-friendflation_8195699.html": "2026-09-16T21:23:07.747056+00:00",
   "https://www.franceinfo.fr/politique/rachida-dati/il-est-temps-pour-elle-de-s-expliquer-le-proces-de-rachida-dati-pour-corruption-maintenu-malgre-l-absence-de-carlos-ghosn_8195972.html": "2026-09-16T21:23:07.747056+00:00",
-  "https://www.franceinfo.fr/politique/front-national/la-presence-de-marion-marechal-a-une-exposition-anti-avortement-au-parlement-europeen-fait-polemique-au-sein-du-rassemblement-national_8196005.html": "2026-09-16T21:23:07.747056+00:00"
+  "https://www.franceinfo.fr/politique/front-national/la-presence-de-marion-marechal-a-une-exposition-anti-avortement-au-parlement-europeen-fait-polemique-au-sein-du-rassemblement-national_8196005.html": "2026-09-16T21:23:07.747056+00:00",
+  "https://www.franceinfo.fr/economie/vrai-ou-faux-est-il-vrai-que-70-des-francais-sont-eligibles-a-un-logement-du-parc-social-et-que-seulement-11-d-entre-eux-en-beneficient-comme-l-affirme-marine-le-pen_8195210.html": "2026-09-17T04:58:07.192422+00:00",
+  "https://www.franceinfo.fr/politique/front-national/un-depute-du-rn-protege-malgre-plusieurs-alertes_8196011.html": "2026-09-17T04:58:07.192422+00:00",
+  "https://www.franceinfo.fr/enquetes-franceinfo/info-radio-france-c-est-une-bombe-a-retardement-comment-le-rn-a-laisse-en-place-un-depute-soupconne-de-detournements-d-argent-public_8195957.html": "2026-09-17T04:58:07.192422+00:00",
+  "https://www.franceinfo.fr/politique/marine-le-pen/marine-le-pen-souhaite-interdire-le-voile-islamique-de-maniere-progressive_8196287.html": "2026-09-17T04:58:07.192422+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "Fausse information sur Rima Hassan : LFI demande la démission du ministre Laurent Nuñez, après les révélations de \"Complément d'enquête\" L'avocat de Rima Hassan a demandé l'ouverture d'une information judiciaire pour \"identifier sans délai les personnes à l'origine de ces fuites et d'en comprendre les motivations\".",
+   "title": ": Vrai ou faux Est-il vrai que \"70% des Français sont éligibles\" à un logement du parc social et que \"seulement 11% d'entre eux en bénéficient\", comme l'affirme Marine Le Pen ? La \"priorité nationale\" défendue par le Rassemblement national en matière de logement social s'appuie sur plusieurs statistiques. Des chiffres tirés d'études bien réelles, mais qui ne peuvent pas être interprétés de la façon dont le parti les présente.",
+   "link": "https://www.franceinfo.fr/economie/vrai-ou-faux-est-il-vrai-que-70-des-francais-sont-eligibles-a-un-logement-du-parc-social-et-que-seulement-11-d-entre-eux-en-beneficient-comme-l-affirme-marine-le-pen_8195210.html",
+   "summary": "Est-il vrai que \"70% des Français sont éligibles\" à un logement du parc social et que \"seulement 11% d'entre eux en bénéficient\", comme l'affirme Marine Le Pen ?",
+   "image": "https://www.franceinfo.fr/pictures/P-Cjv2X-66l2h9Goh23CV-j1XSs/32x0:1024x682/432x297/filters:format(jpg)/2026/09/16/6aaa673534590046343510.jpg",
+   "date": null,
+   "pubdate": "2026-09-17T04:58:07.192422+00:00"
+  },
+  {
+   "title": "1:48 vidéo 1 minute 48 Un député du RN protégé malgré plusieurs alertes ?",
+   "link": "https://www.franceinfo.fr/politique/front-national/un-depute-du-rn-protege-malgre-plusieurs-alertes_8196011.html",
+   "summary": "Un député du RN protégé malgré plusieurs alertes ?",
+   "image": "https://www.franceinfo.fr/pictures/EinAAVHrTbQwCskzql5OYte3UgU/0x0:900x1600/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/16/6aaacf521d2b1125763853.jpg",
+   "date": null,
+   "pubdate": "2026-09-17T04:58:07.192422+00:00"
+  },
+  {
+   "title": ": info radio france : info radio france \"C'est une bombe à retardement\" : comment le RN a laissé en place un député soupçonné de détournements d'argent public",
+   "link": "https://www.franceinfo.fr/enquetes-franceinfo/info-radio-france-c-est-une-bombe-a-retardement-comment-le-rn-a-laisse-en-place-un-depute-soupconne-de-detournements-d-argent-public_8195957.html",
+   "summary": "\"C'est une bombe à retardement\" : comment le RN a laissé en place un député soupçonné de détournements d'argent public",
+   "image": "https://www.franceinfo.fr/pictures/y57a_5515lEcfVEOS4yUF8f-z-Y/0x185:3564x2190/432x243/filters:format(jpg)/2026/09/16/6aaac7c7c22a5856717494.jpg",
+   "date": null,
+   "pubdate": "2026-09-17T04:58:07.192422+00:00"
+  },
+  {
+   "title": "Marine Le Pen souhaite \"interdire le voile\" islamique \"de manière progressive\"",
+   "link": "https://www.franceinfo.fr/politique/marine-le-pen/marine-le-pen-souhaite-interdire-le-voile-islamique-de-maniere-progressive_8196287.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/E0sP2hIpg3IObjl3AEDwUlNXCok/0x53:1024x629/432x243/filters:format(jpg)/2026/09/16/6aab0a34d97f9694513087.jpg",
+   "date": null,
+   "pubdate": "2026-09-17T04:58:07.192422+00:00"
+  },
+  {
+   "title": "Fausse information sur Rima Hassan : LFI demande la démission du ministre Laurent Nuñez, après les révélations de \"Complément d'enquête\"",
    "link": "https://www.franceinfo.fr/politique/fausse-information-sur-rima-hassan-lfi-demande-la-demission-du-ministre-laurent-nunez-apres-les-revelations-de-complement-d-enquete_8196206.html",
-   "summary": "Fausse information sur Rima Hassan : LFI demande la démission du ministre Laurent Nuñez, après les révélations de \"Complément d'enquête\"",
-   "image": "https://www.franceinfo.fr/pictures/V2k1XQLpx28TTqGKtqg99xl7cJ8/32x0:1024x682/432x297/filters:format(jpg)/2026/09/16/6aab03b340f23517226339.jpg",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/v_eQZHwOsOkAFtgItXf-PWARQko/0x93:1024x669/432x243/filters:format(jpg)/2026/09/16/6aab03b340f23517226339.jpg",
    "date": null,
    "pubdate": "2026-09-16T21:23:07.747056+00:00"
   },
@@ -50,9 +84,9 @@
    "pubdate": "2026-09-16T21:23:07.747056+00:00"
   },
   {
-   "title": "1:54 vidéo 1 minute 54 Présidentielle 2027 : Philippe Brun, accusés de violences par une ancienne collaboratrice, exclu de la primaire socialiste",
+   "title": "1:54 vidéo 1 minute 54 Présidentielle 2027 : Philippe Brun, accusé de violences par une ancienne collaboratrice, exclu de la primaire socialiste",
    "link": "https://www.franceinfo.fr/politique/ps/presidentielle-2027-philippe-brun-accuses-de-violences-par-une-ancienne-collaboratrice-exclu-de-la-primaire-socialiste_8196107.html",
-   "summary": "Présidentielle 2027 : Philippe Brun, accusés de violences par une ancienne collaboratrice, exclu de la primaire socialiste",
+   "summary": "Présidentielle 2027 : Philippe Brun, accusé de violences par une ancienne collaboratrice, exclu de la primaire socialiste",
    "image": "https://www.franceinfo.fr/pictures/kEPJjlT4VokTeQZ1qG_t50iiLsg/0x122:1524x979/432x243/filters:format(jpg)/2026/09/16/6aaae3e13c212416455084.png",
    "date": null,
    "pubdate": "2026-09-16T21:23:07.747056+00:00"
@@ -82,23 +116,31 @@
    "pubdate": "2026-09-16T21:23:07.747056+00:00"
   },
   {
-   "title": "\"Il est temps pour elle de s'expliquer\" : le procès de Rachida Dati pour corruption maintenu, malgré l'absence de Carlos Ghosn",
+   "title": "\"Il est temps pour elle de s'expliquer\" : le procès de Rachida Dati pour corruption maintenu, malgré l'absence de Carlos Ghosn Dès l'ouverture de l'audience, mercredi après-midi, le tribunal a examiné la demande de report formulée dans un courrier par l'ex-PDG de Renault, réfugié au Liban. Il a finalement décidé de juger Carlos Ghosn en son absence.",
    "link": "https://www.franceinfo.fr/politique/rachida-dati/il-est-temps-pour-elle-de-s-expliquer-le-proces-de-rachida-dati-pour-corruption-maintenu-malgre-l-absence-de-carlos-ghosn_8195972.html",
-   "summary": "",
+   "summary": "\"Il est temps pour elle de s'expliquer\" : le procès de Rachida Dati pour corruption maintenu, malgré l'absence de Carlos Ghosn",
    "image": "https://www.franceinfo.fr/pictures/2E-e80UcYaquKJdUdLln7BZHUzs/0x0:1788x1005/432x243/filters:format(jpg)/2026/09/16/6aaaac62ea9ee091623114.jpg",
    "date": null,
    "pubdate": "2026-09-16T21:23:07.747056+00:00"
   },
   {
-   "title": "La présence de Marion Maréchal à une exposition anti-avortement au Parlement européen fait polémique au sein du Rassemblement national",
+   "title": "La présence de Marion Maréchal à une exposition anti-avortement au Parlement européen fait polémique au sein du Rassemblement national L'eurodéputée s'est rendue mardi à une exposition portée par une association italienne anti-avortement et opposée au mariage pour tous et à l'adoption homoparentale.",
    "link": "https://www.franceinfo.fr/politique/front-national/la-presence-de-marion-marechal-a-une-exposition-anti-avortement-au-parlement-europeen-fait-polemique-au-sein-du-rassemblement-national_8196005.html",
-   "summary": "",
+   "summary": "La présence de Marion Maréchal à une exposition anti-avortement au Parlement européen fait polémique au sein du Rassemblement national",
    "image": "https://www.franceinfo.fr/pictures/Qsa_rVSEPDS6N9ADb4VKxiSIHxU/0x0:5000x2812/432x243/filters:format(jpg)/2024/05/01/maxnewsspecial837157-6631e18db23b3837510089.jpg",
    "date": null,
    "pubdate": "2026-09-16T21:23:07.747056+00:00"
   },
   {
-   "title": ": Vidéo : Vidéo \"Peut-être qu'un ministre de l'Intérieur ne devrait pas dire ça\" : Laurent Nuñez a-t-il participé à alimenter des fuites sur la détention de drogue par Rima Hassan ?",
+   "title": ": Reportage 4:57 audio 4 minutes 57 : Reportage \"C'est le sauveur\", Ulrich Siegmund \"l’homme le plus dangereux d’Allemagne\", selon \"Der Spiegel\", aux portes d'une victoire historique",
+   "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-c-est-le-sauveur-en-saxe-anhalt-ulrich-siegmund-l-homme-le-plus-dangereux-d-allemagne-selon-der-spiegel-aux-portes-du-pouvoir_8147219.html",
+   "summary": "\"C'est le sauveur\", Ulrich Siegmund \"l’homme le plus dangereux d’Allemagne\", selon \"Der Spiegel\", aux portes d'une victoire historique",
+   "image": "https://www.franceinfo.fr/pictures/VFg8d1outM3G4QXNVW4Z5Ox_n70/171x0:853x682/100x100/filters:format(jpg)/2026/09/04/6a9a5941c45a4796624614.jpg",
+   "date": null,
+   "pubdate": "2026-09-16T17:04:57.569463+00:00"
+  },
+  {
+   "title": ": Vidéo \"Peut-être qu'un ministre de l'Intérieur ne devrait pas dire ça\" : Laurent Nuñez a-t-il participé à alimenter des fuites sur la détention de drogue par Rima Hassan ? En avril, plusieurs médias avaient relayé l'information erronée selon laquelle de la drogue de synthèse avait été retrouvée dans les effets personnels de l'eurodéputée LFI, alors en garde à vue. Selon \"Complément d'enquête\", qui a recueilli le témoignage de plusieurs sources, le ministre de l'Intérieur en personne a en partie contribué à la diffusion de cette fausse information.",
    "link": "https://www.franceinfo.fr/politique/la-france-insoumise/video-peut-etre-qu-un-ministre-de-l-interieur-ne-devrait-pas-dire-ca-laurent-nunez-a-t-il-participe-a-alimenter-des-fuites-sur-la-detention-de-drogue-par-rima-hassan_8191880.html",
    "summary": "\"Peut-être qu'un ministre de l'Intérieur ne devrait pas dire ça\" : Laurent Nuñez a-t-il participé à alimenter des fuites sur la détention de drogue par Rima Hassan ?",
    "image": "https://www.franceinfo.fr/pictures/q-0_6KBXAoVub4WR5u0S9Wveloc/0x53:1024x629/432x243/filters:format(jpg)/2026/09/14/6aa817922defa127157152.jpg",
@@ -106,18 +148,10 @@
    "pubdate": "2026-09-16T17:04:57.569463+00:00"
   },
   {
-   "title": "Exclu de la primaire, Philippe Brun accuse le Parti socialiste de vouloir le \"tuer politiquement\" et dénonce des \"accusations calomnieuses\" de violences",
+   "title": "Exclu de la primaire, Philippe Brun accuse le Parti socialiste de vouloir le \"tuer politiquement\" et dénonce des \"accusations calomnieuses\" de violences Lors d'une conférence de presse, le député de l'Eure s'est défendu après avoir été suspendu en raison d'accusations de violences. \"Ces accusations nuisent à ma réputation\", a-t-il déclaré, annonçant sa volonté de porter plainte.",
    "link": "https://www.franceinfo.fr/societe/justice/exclu-du-parti-socialiste-et-de-la-primaire-pour-la-presidentielle-philippe-brun-denonce-des-fausses-accusations-de-violences-et-annonce-deposer-plainte_8194358.html",
-   "summary": "",
+   "summary": "Exclu de la primaire, Philippe Brun accuse le Parti socialiste de vouloir le \"tuer politiquement\" et dénonce des \"accusations calomnieuses\" de violences",
    "image": "https://www.franceinfo.fr/pictures/zjQKI2gxkt5TqofhHxJgg_hclfE/0x0:1024x576/432x243/filters:format(jpg)/2026/09/16/6aaac2eb4721a027984317.jpg",
-   "date": null,
-   "pubdate": "2026-09-16T17:04:57.569463+00:00"
-  },
-  {
-   "title": ": Reportage 4:57 audio 4 minutes 57 : Reportage \"C'est le sauveur\", Ulrich Siegmund \"l’homme le plus dangereux d’Allemagne\", selon \"Der Spiegel\", aux portes d'une victoire historique",
-   "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-c-est-le-sauveur-en-saxe-anhalt-ulrich-siegmund-l-homme-le-plus-dangereux-d-allemagne-selon-der-spiegel-aux-portes-du-pouvoir_8147219.html",
-   "summary": "\"C'est le sauveur\", Ulrich Siegmund \"l’homme le plus dangereux d’Allemagne\", selon \"Der Spiegel\", aux portes d'une victoire historique",
-   "image": "https://www.franceinfo.fr/pictures/VFg8d1outM3G4QXNVW4Z5Ox_n70/171x0:853x682/100x100/filters:format(jpg)/2026/09/04/6a9a5941c45a4796624614.jpg",
    "date": null,
    "pubdate": "2026-09-16T17:04:57.569463+00:00"
   },
@@ -198,22 +232,6 @@
    "link": "https://www.franceinfo.fr/societe/education/violences-dans-le-periscolaire/violences-sexuelles-dans-le-periscolaire-le-maire-de-paris-emmanuel-gregoire-reconnait-des-dysfonctionnements-et-des-failles-et-exprime-ses-profonds-regrets_8195102.html",
    "summary": "Violences sexuelles dans le périscolaire : le maire de Paris, Emmanuel Grégoire, reconnaît \"des dysfonctionnements et des failles\" et exprime ses \"profonds regrets\"",
    "image": "https://www.franceinfo.fr/pictures/1kijE1x0u27o_Z3UuOpdfYmQeBc/0x80:1024x656/432x243/filters:format(jpg)/2026/09/16/6aaa4c6484163353598445.jpg",
-   "date": null,
-   "pubdate": "2026-09-16T11:44:20.192023+00:00"
-  },
-  {
-   "title": "23:52 audio 23 minutes 52 Présidentielle, carburants... Le \"8h30 franceinfo\" de Bruno Retailleau Bruno Retailleau, ancien ministre de l'Intérieur, président des Républicains, candidat à l'élection présidentielle",
-   "link": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/le-8h30-franceinfo-de-bruno-retailleau_8172920.html",
-   "summary": "Présidentielle, carburants... Le \"8h30 franceinfo\" de Bruno Retailleau",
-   "image": "https://www.franceinfo.fr/pictures/C0UMnxh9izgF-TX6LHQv6qMBbxA/181x0:1098x516/432x243/filters:format(jpg)/2026/09/16/6aaa3e6d0dd7c137424066.jpg",
-   "date": null,
-   "pubdate": "2026-09-16T11:44:20.192023+00:00"
-  },
-  {
-   "title": "Rachida Dati \"a un devoir d'exemplarité\", estime l'ONG Transparency International France, alors que l'ancienne ministre comparaît pour corruption \"La justice doit passer, il n'y a pas de passe-droit\", affirme Patrick Lefas, président de l'ONG, mercredi sur France Inter. L'ancienne ministre et ancienne eurodéputée a récemment demandé sa réintégration dans la magistrature, alors que s'ouvre lundi à Paris son procès pour corruption.",
-   "link": "https://www.franceinfo.fr/politique/rachida-dati/rachida-dati-a-un-devoir-d-exemplarite-estime-l-ong-transparency-international-france-alors-que-l-ancienne-ministre-comparait-pour-corruption_8194952.html",
-   "summary": "Rachida Dati \"a un devoir d'exemplarité\", estime l'ONG Transparency International France, alors que l'ancienne ministre comparaît pour corruption",
-   "image": "https://www.franceinfo.fr/pictures/0DJgrwAd5Z0z7sg54BMgsL55aq0/0x0:6431x3617/432x243/filters:format(jpg)/2026/09/16/6aaa3676630fd963220592.jpg",
    "date": null,
    "pubdate": "2026-09-16T11:44:20.192023+00:00"
   },
