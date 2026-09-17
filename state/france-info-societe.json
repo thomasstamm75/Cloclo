@@ -1,5 +1,5 @@
 {
- "etag": "\"aabce4ecbd72f8573733344f531bdcba-gzip\"",
+ "etag": "\"1de28ab3fcf95df71edaac400bd8cc4e-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/culture/jeux-video/affaires-de-pedocriminalite-paris-en-ligne-chez-les-mineurs-plaintes-deposees-on-vous-resume-les-polemiques-autour-du-jeu-en-ligne-roblox-qui-fete-ses-20-ans_8180441.html": "2026-09-10T04:50:42.320323+00:00",
@@ -8,95 +8,178 @@
   "https://www.franceinfo.fr/societe/euthanasie/comprendre-les-debats-sur-la-fin-de-vie/": "2026-09-11T04:47:19.484195+00:00",
   "https://www.franceinfo.fr/societe/nos-jours-heureux/": "2026-09-11T11:28:57.813955+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-on-a-meme-fouille-nos-poubelles-avec-le-panuozzo-un-sandwich-italien-halal-un-restaurant-des-yvelines-enflamme-les-reseaux-sociaux_8169983.html": "2026-09-14T12:57:05.918706+00:00",
-  "https://www.franceinfo.fr/replay-radio/le-monde-d-elodie/si-on-ne-doute-pas-je-ne-pense-pas-qu-on-rentre-au-gign-le-general-rety-raconte-ses-annees-dans-l-unite-d-elite-de-la-gendarmerie_8172905.html": "2026-09-16T11:00:00+00:00",
-  "https://www.franceinfo.fr/societe/justice/exclu-du-parti-socialiste-et-de-la-primaire-pour-la-presidentielle-philippe-brun-denonce-des-fausses-accusations-de-violences-et-annonce-deposer-plainte_8194358.html": "2026-09-16T17:04:55.045979+00:00",
-  "https://www.franceinfo.fr/societe/harcelement-sexuel/aurore-berge-annonce-qu-elle-deposera-un-amendement-sur-le-controle-coercitif-dans-la-loi-integrale-contre-les-violences-sexistes-et-sexuelles_8195804.html": "2026-09-16T17:04:55.045979+00:00",
-  "https://www.franceinfo.fr/monde/royaume-uni/la-france-ne-souhaite-pas-poursuivre-l-experimentation-de-l-accord-migratoire-one-in-one-out-avec-le-royaume-uni-au-dela-du-1er-octobre_8195504.html": "2026-09-16T17:04:55.045979+00:00",
-  "https://www.franceinfo.fr/politique/fausse-information-sur-rima-hassan-lfi-demande-la-demission-du-ministre-laurent-nunez-apres-les-revelations-de-complement-d-enquete_8196206.html": "2026-09-16T21:23:04.723148+00:00",
-  "https://www.franceinfo.fr/politique/front-national/la-presence-de-marion-marechal-a-une-exposition-anti-avortement-au-parlement-europeen-fait-polemique-au-sein-du-rassemblement-national_8196005.html": "2026-09-16T21:23:04.723148+00:00",
-  "https://www.franceinfo.fr/faits-divers/terrorisme/attaques-du-13-novembre-a-paris/proces-des-attentats-du-13-novembre-2015/un-affront-a-la-justice-francaise-la-possible-liberation-conditionnelle-de-mohamed-bakkali-logisticien-des-attentats-du-13-novembre-indigne-les-victimes_8195525.html": "2026-09-16T21:23:04.723148+00:00",
   "https://www.franceinfo.fr/internet/reseaux-sociaux/comment-emmanuel-macron-compte-faire-aboutir-l-interdiction-des-reseaux-sociaux-aux-moins-de-15-ans-malgre-la-censure-du-conseil-constitutionnel_8191757.html": "2026-09-17T04:58:04.921265+00:00",
-  "https://www.franceinfo.fr/l-actu-pour-les-jeunes/trop-de-fautes-au-bac-et-au-brevet-points-en-moins_8197238.html": "2026-09-17T11:48:50.562108+00:00",
   "https://www.franceinfo.fr/france/nouvelle-aquitaine/gironde/bordeaux/un-homme-de-37-ans-juge-en-comparution-immediate-pour-des-menaces-de-mort-contre-un-surveillant-et-la-principale-d-un-college-en-gironde_8197196.html": "2026-09-17T11:48:50.562108+00:00",
   "https://www.franceinfo.fr/sports/il-y-a-d-autres-moyens-de-parler-de-sport-feminin-que-de-montrer-un-corps-nu-des-sportives-francaises-denoncent-a-leur-tour-une-publicite-avec-sydney-sweeney_8196947.html": "2026-09-17T11:48:50.562108+00:00",
   "https://www.franceinfo.fr/societe/education/le-syndicat-national-des-lycees-et-colleges-juge-tout-a-fait-coherent-le-nouveau-bareme-sur-l-orthographe-au-bac-et-au-brevet_8197064.html": "2026-09-17T11:48:50.562108+00:00",
   "https://www.franceinfo.fr/replay-radio/le-tour-de-la-question/reportage-une-dangerosite-particuliere-au-c-ur-du-transfert-ultra-securise-d-un-detenu-vers-le-nouveau-quartier-de-haute-securite-de-reau_8193002.html": "2026-09-17T11:48:50.562108+00:00",
-  "https://www.franceinfo.fr/societe/education/education-globalement-on-a-eu-une-rentree-que-je-qualifierais-de-correcte-estime-edouard-geffray_8196851.html": "2026-09-17T11:48:50.562108+00:00",
   "https://www.franceinfo.fr/societe/harcelement-sexuel/mise-en-examen-de-l-avocat-david-metaxas-pour-viols-et-agressions-sexuelles-une-plaignante-evoque-des-violences-sexuelles-a-repetition_8196824.html": "2026-09-17T11:48:50.562108+00:00",
   "https://www.franceinfo.fr/societe/harcelement-sexuel/rien-n-empechera-que-les-moyens-dedies-a-la-lutte-contre-les-violences-sexistes-et-sexuelles-continuent-a-augmenter-promet-la-ministre-aurore-berge_8196746.html": "2026-09-17T11:48:50.562108+00:00",
   "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/vrai-ou-faux-un-tiers-des-francais-sont-ils-a-decouvert-chaque-17-du-mois-comme-l-affirme-bruno-retailleau_8174603.html": "2026-09-17T11:48:50.562108+00:00",
   "https://www.franceinfo.fr/societe/harcelement-sexuel/violences-sexistes-et-sexuelles-40-des-associations-feministes-doivent-refuser-des-beneficiaires-par-manque-de-moyens-deplore-la-fondation-des-femmes_8196683.html": "2026-09-17T11:48:50.562108+00:00",
   "https://www.franceinfo.fr/societe/justice/l-ancien-maire-de-nice-christian-estrosi-vise-par-une-enquete-pour-detournement-de-fonds-a-la-suite-d-un-signalement-de-son-successeur-eric-ciotti_8196638.html": "2026-09-17T11:48:50.562108+00:00",
-  "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/les-etats-unis-reconnaissent-avoir-des-armes-dans-l-espace_8174582.html": "2026-09-17T11:48:50.562108+00:00"
+  "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/les-etats-unis-reconnaissent-avoir-des-armes-dans-l-espace_8174582.html": "2026-09-17T11:48:50.562108+00:00",
+  "https://www.franceinfo.fr/societe/justice/vise-par-une-plainte-pour-viol-le-maire-de-concarneau-place-en-garde-a-vue_8197814.html": "2026-09-17T17:05:10.830976+00:00",
+  "https://www.franceinfo.fr/replay-magazine/france-2/complement-d-enquete/video-vingt-deux-procedures-contre-rima-hassan-acharnement-judiciaire-ou-propos-condamnables_8196314.html": "2026-09-17T17:05:10.830976+00:00",
+  "https://www.franceinfo.fr/societe/justice/30-tonnes-de-protoxyde-d-azote-saisies-apres-un-controle-a-un-peage-de-montauban_8197757.html": "2026-09-17T17:05:10.830976+00:00",
+  "https://www.franceinfo.fr/replay-magazine/france-2/complement-d-enquete/video-rima-hassan-tient-elle-des-positions-antisemites-l-analyse-d-un-chercheur-pour-complement-d-enquete_8196311.html": "2026-09-17T17:05:10.830976+00:00",
+  "https://www.franceinfo.fr/l-actu-pour-les-jeunes/et-toi-t-as-un-job-apres-les-cours_8197745.html": "2026-09-17T17:05:10.830976+00:00",
+  "https://www.franceinfo.fr/internet/reseaux-sociaux/reseaux-sociaux-interdits-avant-13-ans-fonctionnalites-addictives-bloquees-pour-les-mineurs-ce-que-contient-le-kids-act-presente-par-la-commission-europeenne_8197241.html": "2026-09-17T17:05:10.830976+00:00",
+  "https://www.franceinfo.fr/societe/justice/dieudonne/dieudonne-a-ete-condamne-a-six-mois-sous-bracelet-electronique-pour-apologie-du-terrorisme-et-injure-envers-laurent-nunez_8197703.html": "2026-09-17T17:05:10.830976+00:00",
+  "https://www.franceinfo.fr/elections/presidentielle/pour-son-dernier-deplacement-avant-son-accouchement-marine-tondelier-veut-un-pays-a-hauteur-d-enfant_8197694.html": "2026-09-17T17:05:10.830976+00:00",
+  "https://www.franceinfo.fr/societe/education/orthographe-au-bac-et-au-brevet-2027-le-ministre-de-l-education-detaille-la-grille-d-evaluation-de-maitrise-du-francais_8197409.html": "2026-09-17T17:05:10.830976+00:00",
+  "https://www.franceinfo.fr/societe/education/brevet-et-bac-l-orthographe-coutera-deux-points_8197562.html": "2026-09-17T17:05:10.830976+00:00",
+  "https://www.franceinfo.fr/monde/turquie/en-turquie-le-pouvoir-poursuit-sa-repression-contre-la-communaute-lgbt-et-incarcere-plusieurs-dizaines-de-personnes_8195711.html": "2026-09-17T17:05:10.830976+00:00",
+  "https://www.franceinfo.fr/societe/violences-faites-aux-femmes/quels-sont-les-moyens-consacres-par-l-etat-a-la-lutte-contre-les-violences-faites-aux-femmes_8197472.html": "2026-09-17T17:05:10.830976+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "0:45 vidéo 45 secondes Trop de fautes au bac et au brevet = points en moins Si tu passes le bac ou le brevet cette année, prépare-toi : ces examens vont être plus durs ! Notamment sur l'orthographe... On t'explique ça en détail.",
-   "link": "https://www.franceinfo.fr/l-actu-pour-les-jeunes/trop-de-fautes-au-bac-et-au-brevet-points-en-moins_8197238.html",
-   "summary": "Trop de fautes au bac et au brevet = points en moins",
-   "image": "https://www.franceinfo.fr/pictures/qAcPDZVMsVxD5KUGtbRgdpflpB0/0x0:1080x1920/fit-in/432x297/filters:upscale():fill(blur):format(jpg)/2026/09/17/6aabcc3d33775923589342.jpg",
+   "title": "Visé par une plainte pour viol, le maire de Concarneau placé en garde à vue Quentin Le Gaillard, maire de Concarneau (Finistère), a été placé en garde à vue. Il est visé par une plainte pour viol. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/societe/justice/vise-par-une-plainte-pour-viol-le-maire-de-concarneau-place-en-garde-a-vue_8197814.html",
+   "summary": "Visé par une plainte pour viol, le maire de Concarneau placé en garde à vue",
+   "image": "https://www.franceinfo.fr/pictures/MWBs6YkLELmpdl46iVQzEANNitY/169x0:4732x3137/432x297/filters:format(jpg)/2026/09/17/6aac1a1ab0fef429670882.jpg",
    "date": null,
-   "pubdate": "2026-09-17T11:48:50.562108+00:00"
+   "pubdate": "2026-09-17T17:05:10.830976+00:00"
   },
   {
-   "title": "Un homme de 37 ans jugé en comparution immédiate pour des menaces de mort contre un surveillant et la principale d'un collège en Gironde",
-   "link": "https://www.franceinfo.fr/france/nouvelle-aquitaine/gironde/bordeaux/un-homme-de-37-ans-juge-en-comparution-immediate-pour-des-menaces-de-mort-contre-un-surveillant-et-la-principale-d-un-college-en-gironde_8197196.html",
+   "title": ": Vidéo 5:50 vidéo 5 minutes 50 : Vidéo Vingt-deux procédures contre Rima Hassan : acharnement judiciaire ou propos condamnables ?",
+   "link": "https://www.franceinfo.fr/replay-magazine/france-2/complement-d-enquete/video-vingt-deux-procedures-contre-rima-hassan-acharnement-judiciaire-ou-propos-condamnables_8196314.html",
+   "summary": "Vingt-deux procédures contre Rima Hassan : acharnement judiciaire ou propos condamnables ?",
+   "image": "https://www.franceinfo.fr/pictures/RhnBFZmyq8H1MdL8Un7cXtQk-RM/0x0:1920x1080/432x243/filters:format(jpg)/2026/09/17/6aac13872e31c345700425.jpg",
+   "date": null,
+   "pubdate": "2026-09-17T17:05:10.830976+00:00"
+  },
+  {
+   "title": "30 tonnes de protoxyde d’azote saisies après un contrôle à un péage de Montauban",
+   "link": "https://www.franceinfo.fr/societe/justice/30-tonnes-de-protoxyde-d-azote-saisies-apres-un-controle-a-un-peage-de-montauban_8197757.html",
    "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/ASpLl449gax0fqBo48Sl-FazjWc/0x247:4743x2914/432x243/filters:format(jpg)/2026/09/17/6aac131ae467e455635024.jpg",
+   "date": null,
+   "pubdate": "2026-09-17T17:05:10.830976+00:00"
+  },
+  {
+   "title": ": Vidéo 4:59 vidéo 4 minutes 59 : Vidéo Rima Hassan tient-elle des positions antisémites ? L'analyse d'un chercheur pour \"Complément d'enquête\"",
+   "link": "https://www.franceinfo.fr/replay-magazine/france-2/complement-d-enquete/video-rima-hassan-tient-elle-des-positions-antisemites-l-analyse-d-un-chercheur-pour-complement-d-enquete_8196311.html",
+   "summary": "Rima Hassan tient-elle des positions antisémites ? L'analyse d'un chercheur pour \"Complément d'enquête\"",
+   "image": "https://www.franceinfo.fr/pictures/yste_-mJzk8T8aoT-ALxkRqIvIc/0x0:1920x1080/432x243/filters:format(jpg)/2026/09/17/6aac1134de2e7164664720.jpg",
+   "date": null,
+   "pubdate": "2026-09-17T17:05:10.830976+00:00"
+  },
+  {
+   "title": "2:24 vidéo 2 minutes 24 Et toi, t'as un job après les cours ?",
+   "link": "https://www.franceinfo.fr/l-actu-pour-les-jeunes/et-toi-t-as-un-job-apres-les-cours_8197745.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/a7YzJPG_XJVxivJFJR9dEDxTjYM/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/17/6aac0fff8c87b079397583.jpg",
+   "date": null,
+   "pubdate": "2026-09-17T17:05:10.830976+00:00"
+  },
+  {
+   "title": "Réseaux sociaux interdits avant 13 ans, fonctionnalités \"addictives\" bloquées pour les mineurs… Ce que contient le \"Kids Act\" présenté par la Commission européenne",
+   "link": "https://www.franceinfo.fr/internet/reseaux-sociaux/reseaux-sociaux-interdits-avant-13-ans-fonctionnalites-addictives-bloquees-pour-les-mineurs-ce-que-contient-le-kids-act-presente-par-la-commission-europeenne_8197241.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/IuJnloHhtBr6RfwpRNNBad5Ng3A/0x53:1024x629/432x243/filters:format(jpg)/2026/09/17/6aabf6a507e5b320937133.jpg",
+   "date": null,
+   "pubdate": "2026-09-17T17:05:10.830976+00:00"
+  },
+  {
+   "title": "Dieudonné condamné à six mois sous bracelet électronique pour apologie du terrorisme et injure envers Laurent Nuñez",
+   "link": "https://www.franceinfo.fr/societe/justice/dieudonne/dieudonne-a-ete-condamne-a-six-mois-sous-bracelet-electronique-pour-apologie-du-terrorisme-et-injure-envers-laurent-nunez_8197703.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/8aN_Rn1RAF1QIaFhxtHCA0LG-Sc/0x0:1024x576/432x243/filters:format(jpg)/2026/09/17/6aac0cf9a19d3191577702.jpg",
+   "date": null,
+   "pubdate": "2026-09-17T17:05:10.830976+00:00"
+  },
+  {
+   "title": "Pour son dernier déplacement avant son accouchement, Marine Tondelier veut \"un pays à hauteur d'enfant\"",
+   "link": "https://www.franceinfo.fr/elections/presidentielle/pour-son-dernier-deplacement-avant-son-accouchement-marine-tondelier-veut-un-pays-a-hauteur-d-enfant_8197694.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/qS-wN5Y_n9MAxSt-qmiS5C4UJhs/0x5:1024x581/432x243/filters:format(jpg)/2026/09/17/6aac0a2d18a4a413414162.jpg",
+   "date": null,
+   "pubdate": "2026-09-17T17:05:10.830976+00:00"
+  },
+  {
+   "title": "Orthographe au bac et au brevet 2027 : le ministre de l'Education détaille la grille d'évaluation de maîtrise du français",
+   "link": "https://www.franceinfo.fr/societe/education/orthographe-au-bac-et-au-brevet-2027-le-ministre-de-l-education-detaille-la-grille-d-evaluation-de-maitrise-du-francais_8197409.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/ysOPo9wvRjBvqjEkHksCwPzqkSM/0x253:4928x3025/432x243/filters:format(jpg)/2026/09/06/6a9d9f36b0ca4097251864.jpg",
+   "date": null,
+   "pubdate": "2026-09-17T17:05:10.830976+00:00"
+  },
+  {
+   "title": "1:12 vidéo 1 minute 12 Brevet et bac : l’orthographe coûtera deux points",
+   "link": "https://www.franceinfo.fr/societe/education/brevet-et-bac-l-orthographe-coutera-deux-points_8197562.html",
+   "summary": "Brevet et bac : l’orthographe coûtera deux points",
+   "image": "https://www.franceinfo.fr/pictures/DGSyz0roQbUlDy1ACBBX1uQoRJo/0x0:900x1600/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/17/6aabff6f1c971850431453.jpg",
+   "date": null,
+   "pubdate": "2026-09-17T17:05:10.830976+00:00"
+  },
+  {
+   "title": "En Turquie, le pouvoir poursuit sa répression contre la communauté LGBT+ et incarcère plusieurs dizaines de personnes Les autorités ont mené une vague d'arrestations dans plusieurs villes turques depuis dimanche. Plus de 80 personnes ont été placées en détention provisoire.",
+   "link": "https://www.franceinfo.fr/monde/turquie/en-turquie-le-pouvoir-poursuit-sa-repression-contre-la-communaute-lgbt-et-incarcere-plusieurs-dizaines-de-personnes_8195711.html",
+   "summary": "En Turquie, le pouvoir poursuit sa répression contre la communauté LGBT+ et incarcère plusieurs dizaines de personnes",
+   "image": "https://www.franceinfo.fr/pictures/Z-yeF9s1WIV-k88iQWJaPCCRmyY/0x53:1024x629/432x243/filters:format(jpg)/2026/09/17/6aabd40eef8ad320732979.jpg",
+   "date": null,
+   "pubdate": "2026-09-17T17:05:10.830976+00:00"
+  },
+  {
+   "title": "Quels sont les moyens consacrés par l'État à la lutte contre les violences faites aux femmes ? Le gouvernement prévoit 1,5 milliard d'euros par an pour lutter contre les violences sexistes et sexuelles. Un montant contesté par les associations, qui jugent les moyens réels bien inférieurs.",
+   "link": "https://www.franceinfo.fr/societe/violences-faites-aux-femmes/quels-sont-les-moyens-consacres-par-l-etat-a-la-lutte-contre-les-violences-faites-aux-femmes_8197472.html",
+   "summary": "Quels sont les moyens consacrés par l'État à la lutte contre les violences faites aux femmes ?",
+   "image": "https://www.franceinfo.fr/pictures/5Dz7qjaIQreHtxDNS8_zjg_7V3o/0x254:4928x3026/432x243/filters:format(jpg)/2025/08/12/3919-689b965e0fdd6123333937.jpg",
+   "date": null,
+   "pubdate": "2026-09-17T17:05:10.830976+00:00"
+  },
+  {
+   "title": "Un homme de 37 ans jugé en comparution immédiate pour des menaces de mort contre un surveillant et la principale d'un collège en Gironde L'homme a reconnu une partie des faits pendant son audition. Sa compagne, placée sous contrôle judiciaire, est également jugée jeudi.",
+   "link": "https://www.franceinfo.fr/france/nouvelle-aquitaine/gironde/bordeaux/un-homme-de-37-ans-juge-en-comparution-immediate-pour-des-menaces-de-mort-contre-un-surveillant-et-la-principale-d-un-college-en-gironde_8197196.html",
+   "summary": "Un homme de 37 ans jugé en comparution immédiate pour des menaces de mort contre un surveillant et la principale d'un collège en Gironde",
    "image": "https://www.franceinfo.fr/pictures/FnUKljSl1hQ8fEl-egeP32kd1tc/0x0:5984x3366/432x243/filters:format(jpg)/2021/01/08/phpL3gvxO.jpg",
    "date": null,
    "pubdate": "2026-09-17T11:48:50.562108+00:00"
   },
   {
-   "title": "\"Il y a d'autres moyens de parler de sport féminin que de montrer un corps nu\" : des sportives françaises dénoncent à leur tour une publicité avec Sydney Sweeney",
+   "title": "\"Il y a d'autres moyens de parler de sport féminin que de montrer un corps nu\" : des sportives françaises dénoncent à leur tour une publicité avec Sydney Sweeney Une publicité pour le site de paris sportifs Novig avec l'actrice Sydney Sweeney dénudée provoque l'indignation de sportives de haut niveau, qui dénoncent l'hypersexualisation des femmes dans le sport.",
    "link": "https://www.franceinfo.fr/sports/il-y-a-d-autres-moyens-de-parler-de-sport-feminin-que-de-montrer-un-corps-nu-des-sportives-francaises-denoncent-a-leur-tour-une-publicite-avec-sydney-sweeney_8196947.html",
-   "summary": "",
+   "summary": "\"Il y a d'autres moyens de parler de sport féminin que de montrer un corps nu\" : des sportives françaises dénoncent à leur tour une publicité avec Sydney Sweeney",
    "image": "https://www.franceinfo.fr/pictures/h8HL2RPRpGAGsp6hG_OBxwCPQXQ/0x312:6000x3687/432x243/filters:format(jpg)/2026/09/17/6aaba9f9192ae384756183.jpg",
    "date": null,
    "pubdate": "2026-09-17T11:48:50.562108+00:00"
   },
   {
-   "title": "Le Syndicat national des lycées et collèges juge \"tout à fait cohérent\" le nouveau barème sur l'orthographe au bac et au brevet",
+   "title": "Le Syndicat national des lycées et collèges juge \"tout à fait cohérent\" le nouveau barème sur l'orthographe au bac et au brevet \"Il pouvait y avoir des consignes différentes d'une académie à l'autre\", indique Jean-Rémi Girard. Il salue ainsi une harmonisation des consignes et rappelle que cette évolution ne constitue \"pas une révolution\".",
    "link": "https://www.franceinfo.fr/societe/education/le-syndicat-national-des-lycees-et-colleges-juge-tout-a-fait-coherent-le-nouveau-bareme-sur-l-orthographe-au-bac-et-au-brevet_8197064.html",
-   "summary": "",
+   "summary": "Le Syndicat national des lycées et collèges juge \"tout à fait cohérent\" le nouveau barème sur l'orthographe au bac et au brevet",
    "image": "https://www.franceinfo.fr/pictures/SoDmxBLl_XvXN1K7dt7PcJfw60o/0x53:1024x629/432x243/filters:format(jpg)/2026/09/17/6aabba2cbfba4832450590.jpg",
    "date": null,
    "pubdate": "2026-09-17T11:48:50.562108+00:00"
   },
   {
-   "title": ": Reportage 4:56 audio 4 minutes 56 : Reportage \"Une dangerosité particulière\": au cœur du transfert ultra-sécurisé d'un détenu vers le nouveau quartier de haute-sécurité de Réau",
+   "title": ": Reportage 4:56 audio 4 minutes 56 \"Une dangerosité particulière\" : au cœur du transfert ultra-sécurisé d'un détenu vers le nouveau quartier de haute-sécurité de Réau L'administration pénitentiaire transfère ses détenus les plus à risque vers le troisième, et nouveau, quartier ultra-sécurisé de Réau dans le cadre de la lutte contre le grand banditisme. franceinfo a pu suivre l'une de ces opérations d'extraction ultrasensible.",
    "link": "https://www.franceinfo.fr/replay-radio/le-tour-de-la-question/reportage-une-dangerosite-particuliere-au-c-ur-du-transfert-ultra-securise-d-un-detenu-vers-le-nouveau-quartier-de-haute-securite-de-reau_8193002.html",
-   "summary": "\"Une dangerosité particulière\": au cœur du transfert ultra-sécurisé d'un détenu vers le nouveau quartier de haute-sécurité de Réau",
-   "image": "https://www.franceinfo.fr/pictures/JQrEOtJQLik37EY89xHgiHukVrk/0x0:3840x2160/432x243/filters:format(jpg)/2026/09/16/6aaaf2f8edf09756561469.jpg",
+   "summary": "\"Une dangerosité particulière\" : au cœur du transfert ultra-sécurisé d'un détenu vers le nouveau quartier de haute-sécurité de Réau",
+   "image": "https://www.franceinfo.fr/pictures/YjDPdU2bm89f4a-NJKSOXFApMPs/0x0:3840x2160/432x243/filters:format(jpg)/2026/09/17/6aac11495955e895940376.jpg",
    "date": null,
    "pubdate": "2026-09-17T11:48:50.562108+00:00"
   },
   {
-   "title": "8:25 vidéo 8 minutes 25 \"C'est une rentrée correcte en termes de qualité du service public pour les Français\" : estime le ministre de l'Education, Edouard Geffray",
-   "link": "https://www.franceinfo.fr/societe/education/education-globalement-on-a-eu-une-rentree-que-je-qualifierais-de-correcte-estime-edouard-geffray_8196851.html",
-   "summary": "\"C'est une rentrée correcte en termes de qualité du service public pour les Français\" : estime le ministre de l'Education, Edouard Geffray",
-   "image": "https://www.franceinfo.fr/pictures/R7IyKVFSqIZ0L-1az4IdjYtt-hk/0x3:1629x919/432x243/filters:format(jpg)/2026/09/17/6aaba15a78bee294016393.jpg",
-   "date": null,
-   "pubdate": "2026-09-17T11:48:50.562108+00:00"
-  },
-  {
-   "title": "Mise en examen de l'avocat David Metaxas pour viols et agressions sexuelles : une plaignante évoque \"des violences sexuelles à répétition\"",
+   "title": "Mise en examen de l'avocat David Metaxas pour viols et agressions sexuelles : une plaignante évoque \"des violences sexuelles à répétition\" L'avocat installé à Lyon est visé par six plaintes. L'une des plaignante, stagiaire au moment des faits, dénonce une relation \"faite d'emprise, de violences psychologiques, de violences sexuelles à répétition\".",
    "link": "https://www.franceinfo.fr/societe/harcelement-sexuel/mise-en-examen-de-l-avocat-david-metaxas-pour-viols-et-agressions-sexuelles-une-plaignante-evoque-des-violences-sexuelles-a-repetition_8196824.html",
-   "summary": "",
+   "summary": "Mise en examen de l'avocat David Metaxas pour viols et agressions sexuelles : une plaignante évoque \"des violences sexuelles à répétition\"",
    "image": "https://www.franceinfo.fr/pictures/46ljtJW6k_vadoQCm3l2-ILCFJQ/0x54:1024x630/432x243/filters:format(jpg)/2026/09/17/6aab9cbec5b9a872153974.jpg",
    "date": null,
    "pubdate": "2026-09-17T11:48:50.562108+00:00"
   },
   {
-   "title": "\"Rien n'empêchera que les moyens\" dédiés à la lutte contre les violences sexistes et sexuelles \"continuent à augmenter\", promet la ministre Aurore Bergé",
+   "title": "\"Rien n'empêchera que les moyens\" dédiés à la lutte contre les violences sexistes et sexuelles \"continuent à augmenter\", promet la ministre Aurore Bergé \"Le Premier ministre a été très clair : 1,5 milliard d'euros, c'est un socle, un point de départ, ce n'est pas un point d'arrivée\", rappelle la ministre déléguée chargée de l'Egalité entre les femmes et les hommes, jeudi sur franceinfo.",
    "link": "https://www.franceinfo.fr/societe/harcelement-sexuel/rien-n-empechera-que-les-moyens-dedies-a-la-lutte-contre-les-violences-sexistes-et-sexuelles-continuent-a-augmenter-promet-la-ministre-aurore-berge_8196746.html",
-   "summary": "",
+   "summary": "\"Rien n'empêchera que les moyens\" dédiés à la lutte contre les violences sexistes et sexuelles \"continuent à augmenter\", promet la ministre Aurore Bergé",
    "image": "https://www.franceinfo.fr/pictures/HJPFnM8U-F1mUsaqmLXZNlSJ2Z0/0x0:1024x576/432x243/filters:format(jpg)/2026/09/17/6aab8a36b99bc500990412.jpg",
    "date": null,
    "pubdate": "2026-09-17T11:48:50.562108+00:00"
   },
   {
-   "title": ": Vrai ou faux 2:00 audio 2 minutes : Vrai ou faux Un tiers des Français sont-ils à découvert chaque 17 du mois, comme l'affirme Bruno Retailleau ?",
+   "title": ": Vrai ou faux 2:00 audio 2 minutes Un tiers des Français sont-ils à découvert chaque 17 du mois, comme l'affirme Bruno Retailleau ? Le candidate Les Républicains à la présidentielle Bruno Retailleau affirme que la France est \"en voie de tiers-mondisation\", car un Français sur trois serait à découvert le 17 de chaque mois.",
    "link": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/vrai-ou-faux-un-tiers-des-francais-sont-ils-a-decouvert-chaque-17-du-mois-comme-l-affirme-bruno-retailleau_8174603.html",
    "summary": "Un tiers des Français sont-ils à découvert chaque 17 du mois, comme l'affirme Bruno Retailleau ?",
    "image": "https://www.franceinfo.fr/pictures/sO3CuR2XAMUl9zBmX4HM3m0K5vY/0x296:5700x3503/432x243/filters:format(jpg)/2026/09/17/6aab89951db70727535501.jpg",
@@ -104,9 +187,9 @@
    "pubdate": "2026-09-17T11:48:50.562108+00:00"
   },
   {
-   "title": "Violences sexistes et sexuelles : \"40% des associations\" féministes \"doivent refuser des bénéficiaires\" par manque de moyens, déplore la Fondation des femmes",
+   "title": "Violences sexistes et sexuelles : \"40% des associations\" féministes \"doivent refuser des bénéficiaires\" par manque de moyens, déplore la Fondation des femmes \"C'est au gouvernement, c'est lui seul qui peut débloquer la question des moyens pour qu'on lui demande solennellement de prendre ses responsabilités sur ces milliards d'euros qui sont nécessaires\", lance Laura Slimani, directrice des projets de la Fondation, au micro de franceinfo, jeudi.",
    "link": "https://www.franceinfo.fr/societe/harcelement-sexuel/violences-sexistes-et-sexuelles-40-des-associations-feministes-doivent-refuser-des-beneficiaires-par-manque-de-moyens-deplore-la-fondation-des-femmes_8196683.html",
-   "summary": "",
+   "summary": "Violences sexistes et sexuelles : \"40% des associations\" féministes \"doivent refuser des bénéficiaires\" par manque de moyens, déplore la Fondation des femmes",
    "image": "https://www.franceinfo.fr/pictures/4pTXt07seyioyBkdasgu_vtHBI4/0x520:5000x3333/432x243/filters:format(jpg)/2026/09/17/6aab83195ef0c184594126.jpg",
    "date": null,
    "pubdate": "2026-09-17T11:48:50.562108+00:00"
@@ -134,62 +217,6 @@
    "image": "https://www.franceinfo.fr/pictures/EoIi0wATgvM01vSoJGDnmFigOww/0x260:5000x3072/432x243/filters:format(jpg)/2026/09/14/6aa81c03d1149706688930.jpg",
    "date": null,
    "pubdate": "2026-09-17T04:58:04.921265+00:00"
-  },
-  {
-   "title": "Fausse information sur Rima Hassan : LFI demande la démission du ministre Laurent Nuñez, après les révélations de \"Complément d'enquête\" L'avocat de Rima Hassan a demandé l'ouverture d'une information judiciaire pour \"identifier sans délai les personnes à l'origine de ces fuites et d'en comprendre les motivations\".",
-   "link": "https://www.franceinfo.fr/politique/fausse-information-sur-rima-hassan-lfi-demande-la-demission-du-ministre-laurent-nunez-apres-les-revelations-de-complement-d-enquete_8196206.html",
-   "summary": "Fausse information sur Rima Hassan : LFI demande la démission du ministre Laurent Nuñez, après les révélations de \"Complément d'enquête\"",
-   "image": "https://www.franceinfo.fr/pictures/v_eQZHwOsOkAFtgItXf-PWARQko/0x93:1024x669/432x243/filters:format(jpg)/2026/09/16/6aab03b340f23517226339.jpg",
-   "date": null,
-   "pubdate": "2026-09-16T21:23:04.723148+00:00"
-  },
-  {
-   "title": "La présence de Marion Maréchal à une exposition anti-avortement au Parlement européen fait polémique au sein du Rassemblement national L'eurodéputée s'est rendue mardi à une exposition portée par une association italienne anti-avortement et opposée au mariage pour tous et à l'adoption homoparentale.",
-   "link": "https://www.franceinfo.fr/politique/front-national/la-presence-de-marion-marechal-a-une-exposition-anti-avortement-au-parlement-europeen-fait-polemique-au-sein-du-rassemblement-national_8196005.html",
-   "summary": "La présence de Marion Maréchal à une exposition anti-avortement au Parlement européen fait polémique au sein du Rassemblement national",
-   "image": "https://www.franceinfo.fr/pictures/Qsa_rVSEPDS6N9ADb4VKxiSIHxU/0x0:5000x2812/432x243/filters:format(jpg)/2024/05/01/maxnewsspecial837157-6631e18db23b3837510089.jpg",
-   "date": null,
-   "pubdate": "2026-09-16T21:23:04.723148+00:00"
-  },
-  {
-   "title": "\"Un affront à la justice française\" : la possible libération conditionnelle de Mohamed Bakkali, \"logisticien\" des attentats du 13-Novembre, indigne les victimes A peine cinq ans après sa condamnation à trente années de prison pour les attaques terroristes du Bataclan, des terrasses et du Stade de France, le Belgo-Marocain, qui purge sa peine en Belgique, pourrait bientôt être remis en liberté, la loi belge étant plus souple que la loi française en matière d'exécution des peines.",
-   "link": "https://www.franceinfo.fr/faits-divers/terrorisme/attaques-du-13-novembre-a-paris/proces-des-attentats-du-13-novembre-2015/un-affront-a-la-justice-francaise-la-possible-liberation-conditionnelle-de-mohamed-bakkali-logisticien-des-attentats-du-13-novembre-indigne-les-victimes_8195525.html",
-   "summary": "\"Un affront à la justice française\" : la possible libération conditionnelle de Mohamed Bakkali, \"logisticien\" des attentats du 13-Novembre, indigne les victimes",
-   "image": "https://www.franceinfo.fr/pictures/DX08EPjv0Vja6yofdDOk0S8uqQw/0x5:1024x581/432x243/filters:format(jpg)/2026/09/16/6aaac00c066f2919979560.jpg",
-   "date": null,
-   "pubdate": "2026-09-16T21:23:04.723148+00:00"
-  },
-  {
-   "title": "Exclu de la primaire, Philippe Brun accuse le Parti socialiste de vouloir le \"tuer politiquement\" et dénonce des \"accusations calomnieuses\" de violences Lors d'une conférence de presse, le député de l'Eure s'est défendu après avoir été suspendu en raison d'accusations de violences. \"Ces accusations nuisent à ma réputation\", a-t-il déclaré, annonçant sa volonté de porter plainte.",
-   "link": "https://www.franceinfo.fr/societe/justice/exclu-du-parti-socialiste-et-de-la-primaire-pour-la-presidentielle-philippe-brun-denonce-des-fausses-accusations-de-violences-et-annonce-deposer-plainte_8194358.html",
-   "summary": "Exclu de la primaire, Philippe Brun accuse le Parti socialiste de vouloir le \"tuer politiquement\" et dénonce des \"accusations calomnieuses\" de violences",
-   "image": "https://www.franceinfo.fr/pictures/zjQKI2gxkt5TqofhHxJgg_hclfE/0x0:1024x576/432x243/filters:format(jpg)/2026/09/16/6aaac2eb4721a027984317.jpg",
-   "date": null,
-   "pubdate": "2026-09-16T17:04:55.045979+00:00"
-  },
-  {
-   "title": "Aurore Bergé annonce qu'elle déposera un amendement sur le \"contrôle coercitif\" dans la loi intégrale contre les violences sexistes et sexuelles La ministre déléguée chargée de l'Egalité entre les femmes et les hommes veut inscrire ce mécanisme de domination observé dans le cadre des violences conjugales dans le Code pénal.",
-   "link": "https://www.franceinfo.fr/societe/harcelement-sexuel/aurore-berge-annonce-qu-elle-deposera-un-amendement-sur-le-controle-coercitif-dans-la-loi-integrale-contre-les-violences-sexistes-et-sexuelles_8195804.html",
-   "summary": "Aurore Bergé annonce qu'elle déposera un amendement sur le \"contrôle coercitif\" dans la loi intégrale contre les violences sexistes et sexuelles",
-   "image": "https://www.franceinfo.fr/pictures/9-yHTlmo1GL5ImeSJI06y5Ec9V4/0x18:1024x594/432x243/filters:format(jpg)/2026/09/16/6aaab40834565661115057.jpg",
-   "date": null,
-   "pubdate": "2026-09-16T17:04:55.045979+00:00"
-  },
-  {
-   "title": "La France ne souhaite pas poursuivre l'expérimentation de l'accord migratoire \"one in, one out\" avec le Royaume-Uni au-delà du 1er octobre Cet accord prévoit le renvoi sur le territoire français de personnes arrivées Outre-Manche à l'aide d'une embarcation clandestine, en échange de l'accueil légal par l'Etat britannique de migrants se trouvant en France, sur le principe \"un qui entre, un qui sort\".",
-   "link": "https://www.franceinfo.fr/monde/royaume-uni/la-france-ne-souhaite-pas-poursuivre-l-experimentation-de-l-accord-migratoire-one-in-one-out-avec-le-royaume-uni-au-dela-du-1er-octobre_8195504.html",
-   "summary": "La France ne souhaite pas poursuivre l'expérimentation de l'accord migratoire \"one in, one out\" avec le Royaume-Uni au-delà du 1er octobre",
-   "image": "https://www.franceinfo.fr/pictures/SxUX91sXDJomome4ULVsVTP-vpc/0x0:5566x3130/432x243/filters:format(jpg)/2026/09/16/6aaa8993bcde7231538981.jpg",
-   "date": null,
-   "pubdate": "2026-09-16T17:04:55.045979+00:00"
-  },
-  {
-   "title": "26:25 audio 26 minutes 25 \"Si on ne doute pas, je ne pense pas qu'on rentre au GIGN\" : le général Réty raconte ses années dans l’unité d’élite de la gendarmerie Tous les jours, une personnalité s'invite dans le monde d'Élodie Suigo. Mercredi 16 septembre 2026, le général Ghislain Réty, ancien dirigeant du GIGN. Il publie mercredi, \"Ce que le GIGN m'a appris\", aux éditions Albin Michel.",
-   "link": "https://www.franceinfo.fr/replay-radio/le-monde-d-elodie/si-on-ne-doute-pas-je-ne-pense-pas-qu-on-rentre-au-gign-le-general-rety-raconte-ses-annees-dans-l-unite-d-elite-de-la-gendarmerie_8172905.html",
-   "summary": "\"Si on ne doute pas, je ne pense pas qu'on rentre au GIGN\" : le général Réty raconte ses années dans l’unité d’élite de la gendarmerie",
-   "image": "https://www.franceinfo.fr/pictures/SLBINR7wtzXRUY_0oQXLJM2ouE8/0x53:1024x629/432x243/filters:format(jpg)/2026/09/10/6aa2dd272eea1698497511.jpg",
-   "date": "2026-09-16T11:00:00+00:00",
-   "pubdate": "2026-09-16T11:00:00+00:00"
   },
   {
    "title": ": Reportage 4:55 audio 4 minutes 55 : Reportage \"On a même fouillé nos poubelles !\" : avec le \"panuozzo\", un sandwich italien halal, un restaurant des Yvelines enflamme les réseaux sociaux",

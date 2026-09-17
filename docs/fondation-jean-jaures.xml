@@ -5,8 +5,14 @@
     <link>https://www.jean-jaures.org/</link>
     <description>Flux fabriqué par Cloclo à partir de https://www.jean-jaures.org/</description>
     <language>fr</language>
-    <lastBuildDate>Thu, 17 Sep 2026 11:50:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 17:06:43 +0000</lastBuildDate>
     <atom:link href="https://thomasstamm75.github.io/Cloclo/fondation-jean-jaures.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Saxe-Anhalt : une analyse de la victoire de l’AfD</title>
+      <link>https://www.jean-jaures.org/publication/saxe-anhalt-une-analyse-de-la-victoire-de-lafd/</link>
+      <guid isPermaLink="true">https://www.jean-jaures.org/publication/saxe-anhalt-une-analyse-de-la-victoire-de-lafd/</guid>
+      <pubDate>Thu, 17 Sep 2026 11:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Vers une économie politique duale</title>
       <link>https://www.jean-jaures.org/publication/vers-une-economie-politique-duale/</link>
@@ -36,12 +42,6 @@
       <link>https://www.jean-jaures.org/publication/gauche-au-singulier-ou-au-pluriel/</link>
       <guid isPermaLink="true">https://www.jean-jaures.org/publication/gauche-au-singulier-ou-au-pluriel/</guid>
       <pubDate>Mon, 14 Sep 2026 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Reconquérir la souveraineté fiscale de la République centrafricaine</title>
-      <link>https://www.jean-jaures.org/publication/reconquerir-la-souverainete-fiscale-de-la-republique-centrafricaine/</link>
-      <guid isPermaLink="true">https://www.jean-jaures.org/publication/reconquerir-la-souverainete-fiscale-de-la-republique-centrafricaine/</guid>
-      <pubDate>Fri, 11 Sep 2026 11:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -1,82 +1,178 @@
 {
- "etag": "\"3474887d055acd330557a7945addf513-gzip\"",
+ "etag": "\"70bbf6c519e49a580024a05f9437b01a-gzip\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/interview-menaces-des-drones-russes-ils-sont-trop-rapides-pour-etre-interceptes-on-va-reviser-notre-technologie-explique-un-specialiste-ukrainien-de-la-lutte-antidrones_8195705.html": "2026-09-16T17:04:59.925699+00:00",
-  "https://www.franceinfo.fr/grands-formats/de-san-francisco-a-los-angeles-les-richesses-menacees-de-la-pacific-coast-highway-la-route-du-pacifique_8185364.html": "2026-09-16T17:04:59.925699+00:00",
-  "https://www.franceinfo.fr/sports/foot/kylian-mbappe/je-ne-veux-pas-etablir-de-priorite-dans-la-souffrance-kylian-mbappe-explique-pourquoi-il-n-a-pas-enfile-entierement-un-tee-shirt-de-soutien-a-ceuta_8196185.html": "2026-09-16T21:23:10.622451+00:00",
-  "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/la-chaine-americaine-cbs-devoile-des-images-des-degats-causes-par-les-frappes-iraniennes-sur-des-bases-americaines-au-moyen-orient_8196158.html": "2026-09-16T21:23:10.622451+00:00",
-  "https://www.franceinfo.fr/replay-radio/les-informes-de-france-info/budget-2027-qui-veut-aider-sebastien-lecornu-les-informes-de-franceinfo-du-mercredi-16-septembre-2026_8172914.html": "2026-09-16T21:23:10.622451+00:00",
-  "https://www.franceinfo.fr/faits-divers/terrorisme/attaques-du-13-novembre-a-paris/proces-des-attentats-du-13-novembre-2015/un-affront-a-la-justice-francaise-la-possible-liberation-conditionnelle-de-mohamed-bakkali-logisticien-des-attentats-du-13-novembre-indigne-les-victimes_8195525.html": "2026-09-16T21:23:10.622451+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/reportage-plus-de-huit-millions-de-livres-pour-enfants-partis-en-fumee-l-ukraine-face-a-une-penurie-de-manuels-scolaires-apres-des-frappes-russes_8192342.html": "2026-09-16T21:23:10.622451+00:00",
   "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/tout-comprendre-a-la-guerre-au-moyen-orient/": "2026-09-16T21:23:10.622451+00:00",
-  "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/un-an-de-donald-trump-au-pouvoir/": "2026-09-16T21:23:10.622451+00:00",
-  "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-il-y-a-70-de-bon-et-30-de-mauvais-en-chine-le-culte-de-mao-prend-de-l-ampleur-chez-les-jeunes_8161538.html": "2026-09-16T21:23:10.622451+00:00",
-  "https://www.franceinfo.fr/monde/asie/taiwan/du-sommet-de-l-etat-au-quotidien-des-habitants-comment-taiwan-se-prepare-a-une-guerre-avec-la-chine_8181767.html": "2026-09-16T21:23:10.622451+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/le-congres-americain-adopte-un-nouveau-paquet-de-sanctions-contre-la-russie_8196548.html": "2026-09-17T04:58:10.303788+00:00",
-  "https://www.franceinfo.fr/monde/canada/son-expertise-lui-permet-de-dire-non-mark-carney-le-premier-ministre-du-canada-devenu-chef-de-file-des-dirigeants-qui-tiennent-tete-a-donald-trump_8195135.html": "2026-09-17T04:58:10.303788+00:00",
-  "https://www.franceinfo.fr/internet/reseaux-sociaux/comment-emmanuel-macron-compte-faire-aboutir-l-interdiction-des-reseaux-sociaux-aux-moins-de-15-ans-malgre-la-censure-du-conseil-constitutionnel_8191757.html": "2026-09-17T04:58:10.303788+00:00",
   "https://www.franceinfo.fr/monde/usa/affaire-jeffrey-epstein/l-essentiel-des-revelations-sur-l-affaire-epstein/": "2026-09-17T04:58:10.303788+00:00",
   "https://www.franceinfo.fr/monde/groenland/le-groenland-au-c-ur-d-un-bras-de-fer-geopolitique/": "2026-09-17T04:58:10.303788+00:00",
   "https://www.franceinfo.fr/monde/espagne/en-espagne-la-dette-publique-est-passee-en-juillet-sous-les-100-du-pib-une-premiere-depuis-2020_8197244.html": "2026-09-17T11:48:57.151582+00:00",
   "https://www.franceinfo.fr/monde/canada/nous-sommes-plus-forts-ensemble-le-canada-salue-l-idee-de-devenir-membre-associe-de-l-union-europeenne_8197148.html": "2026-09-17T11:48:57.151582+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/face-a-l-etat-des-finances-publiques-marine-le-pen-estime-que-la-france-ne-peut-plus-aider-l-ukraine-autant-qu-actuellement_8197058.html": "2026-09-17T11:48:57.151582+00:00",
-  "https://www.franceinfo.fr/replay-magazine/france-2/envoye-special/video-aux-origines-du-vin-dans-le-plus-ancien-chai-du-monde-en-armenie_8170484.html": "2026-09-17T11:48:57.151582+00:00",
   "https://www.franceinfo.fr/monde/moyen-orient/emmanuel-macron-convie-les-chefs-de-parti-vendredi-pour-evoquer-la-degradation-rapide-de-la-situation-internationale-et-ses-consequences-en-france-sur-la-securite-et-l-energie_8196932.html": "2026-09-17T11:48:57.151582+00:00",
   "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/aux-etats-unis-on-peut-profiter-du-duty-free-sans-avoir-de-billet-d-avion_8174579.html": "2026-09-17T11:48:57.151582+00:00",
   "https://www.franceinfo.fr/monde/europe/georgie/en-georgie-un-projet-historique-de-trump-tower-a-deux-milliards-de-dollars-pour-transformer-le-paysage-de-tbilissi_8195633.html": "2026-09-17T11:48:57.151582+00:00",
   "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/notre-pays-a-besoin-de-retrouver-des-moments-symboliques-ou-l-on-n-est-pas-dans-la-polemique-estime-l-eveque-d-ajaccio-avant-la-venue-du-pape-en-france_8196812.html": "2026-09-17T11:48:57.151582+00:00",
-  "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/crise-des-migrants-a-ceuta-mbappe-au-c-ur-d-une-polemique_8196698.html": "2026-09-17T11:48:57.151582+00:00",
   "https://www.franceinfo.fr/environnement/crise-climatique/de-fortes-pluies-et-des-inondations-touchent-la-cote-mediterraneenne-en-espagne-un-mort-pres-de-barcelone_8196644.html": "2026-09-17T11:48:57.151582+00:00",
   "https://www.franceinfo.fr/replay-radio/ca-dit-quoi/la-colere-monte-mbappe-repond-aux-espagnols-scandalises-et-le-canada-membre-de-l-ue-ca-dit-quoi-ce-17-septembre_8187311.html": "2026-09-17T11:48:57.151582+00:00",
   "https://www.franceinfo.fr/replay-radio/le-monde-et-vous/froid-electricite-proximite-de-la-chine-la-siberie-nouvel-eldorado-des-data-centers-russes_8191940.html": "2026-09-17T11:48:57.151582+00:00",
   "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/les-etats-unis-reconnaissent-avoir-des-armes-dans-l-espace_8174582.html": "2026-09-17T11:48:57.151582+00:00",
-  "https://www.franceinfo.fr/monde/europe/union-europeenne/donald-trump-menace-d-arreter-les-echanges-commerciaux-avec-l-ue-en-raison-de-son-projet-d-association-avec-le-canada_8196545.html": "2026-09-17T11:48:57.151582+00:00"
+  "https://www.franceinfo.fr/monde/europe/union-europeenne/donald-trump-menace-d-arreter-les-echanges-commerciaux-avec-l-ue-en-raison-de-son-projet-d-association-avec-le-canada_8196545.html": "2026-09-17T11:48:57.151582+00:00",
+  "https://www.franceinfo.fr/internet/google/l-amende-de-google-au-secours-du-budget-francais_8197670.html": "2026-09-17T17:05:18.263022+00:00",
+  "https://www.franceinfo.fr/monde/proche-orient/tensions-entre-l-arabie-saoudite-et-l-iran/l-union-europeenne-exprime-sa-totale-solidarite-avec-l-arabie-saoudite-et-appelle-les-houthis-a-cesser-leurs-frappes_8197769.html": "2026-09-17T17:05:18.263022+00:00",
+  "https://www.franceinfo.fr/internet/reseaux-sociaux/reseaux-sociaux-interdits-avant-13-ans-fonctionnalites-addictives-bloquees-pour-les-mineurs-ce-que-contient-le-kids-act-presente-par-la-commission-europeenne_8197241.html": "2026-09-17T17:05:18.263022+00:00",
+  "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/le-pape-ne-vient-pas-a-bondy-pour-des-raisons-simplement-logistiques-assure-le-maire_8197691.html": "2026-09-17T17:05:18.263022+00:00",
+  "https://www.franceinfo.fr/monde/royaume-uni/piddington-le-village-anglais-qui-vote-pour-quitter-le-royaume-uni_8197655.html": "2026-09-17T17:05:18.263022+00:00",
+  "https://www.franceinfo.fr/economie/immobilier/si-quelqu-un-l-a-pour-3-50-euros-c-est-super-pour-lui-en-angleterre-de-plus-en-plus-d-adeptes-de-la-maison-loterie_8197355.html": "2026-09-17T17:05:18.263022+00:00",
+  "https://www.franceinfo.fr/monde/turquie/en-turquie-le-pouvoir-poursuit-sa-repression-contre-la-communaute-lgbt-et-incarcere-plusieurs-dizaines-de-personnes_8195711.html": "2026-09-17T17:05:18.263022+00:00",
+  "https://www.franceinfo.fr/internet/intelligence-artificielle/en-inde-des-petites-mains-filment-leurs-gestes-pour-entrainer-des-robots-destines-a-les-remplacer_8197172.html": "2026-09-17T17:05:18.263022+00:00",
+  "https://www.franceinfo.fr/monde/europe/union-europeenne/en-suede-la-gauche-remporte-de-justesse-les-legislatives-et-le-premier-ministre-annonce-sa-demission_8197415.html": "2026-09-17T17:05:18.263022+00:00",
+  "https://www.franceinfo.fr/economie/automobile/essence/aides-directes-baisse-de-la-tva-taxation-des-profits-petroliers-quelles-sont-les-solutions-mises-en-place-en-europe-face-a-la-flambee-des-prix-des-carburants_8197235.html": "2026-09-17T17:05:18.263022+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-au-moins-18-blesses-par-une-attaque-de-missiles-et-de-drones-russes-sur-kiev_8197373.html": "2026-09-17T17:05:18.263022+00:00",
+  "https://www.franceinfo.fr/monde/afrique/guinee/en-guinee-la-chaine-d-information-france-24-est-desormais-interdite-de-diffusion_8197301.html": "2026-09-17T17:05:18.263022+00:00",
+  "https://www.franceinfo.fr/monde/turquie/en-turquie-recep-tayyip-erdogan-briguera-un-nouveau-mandat-lors-d-une-election-anticipee_8197286.html": "2026-09-17T17:05:18.263022+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
+   "title": "L'amende de Google au secours du budget français ? Sébastien Lecornu souhaite que l’amende record de 4,1 milliards d’euros infligée à Google pour abus de position dominante soit reversée aux États membres. Une manne potentielle pour la France, en pleine recherche d’économies. Mais cette somme peut-elle réellement être redistribuée ? Aujourd'hui 1:56 vidéo 1 minute 56",
+   "link": "https://www.franceinfo.fr/internet/google/l-amende-de-google-au-secours-du-budget-francais_8197670.html",
+   "summary": "L'amende de Google au secours du budget français ?",
+   "image": "https://www.franceinfo.fr/pictures/Zr6U2pTd3hCjNbLD1LqNuJV54ko/0x0:1080x1920/fit-in/432x297/filters:upscale():fill(blur):format(jpg)/2026/09/17/6aac08798ba4b596429691.jpg",
+   "date": null,
+   "pubdate": "2026-09-17T17:05:18.263022+00:00"
+  },
+  {
+   "title": "L'Union européenne exprime sa \"totale solidarité\" avec l'Arabie saoudite et appelle les houthis à cesser leurs frappes",
+   "link": "https://www.franceinfo.fr/monde/proche-orient/tensions-entre-l-arabie-saoudite-et-l-iran/l-union-europeenne-exprime-sa-totale-solidarite-avec-l-arabie-saoudite-et-appelle-les-houthis-a-cesser-leurs-frappes_8197769.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/1DCz92EbRlXPQcWbik-oBQZKRpk/0x53:1024x629/432x243/filters:format(jpg)/2026/09/17/6aac1760b8b06700823858.jpg",
+   "date": null,
+   "pubdate": "2026-09-17T17:05:18.263022+00:00"
+  },
+  {
+   "title": "Réseaux sociaux interdits avant 13 ans, fonctionnalités \"addictives\" bloquées pour les mineurs… Ce que contient le \"Kids Act\" présenté par la Commission européenne",
+   "link": "https://www.franceinfo.fr/internet/reseaux-sociaux/reseaux-sociaux-interdits-avant-13-ans-fonctionnalites-addictives-bloquees-pour-les-mineurs-ce-que-contient-le-kids-act-presente-par-la-commission-europeenne_8197241.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/IuJnloHhtBr6RfwpRNNBad5Ng3A/0x53:1024x629/432x243/filters:format(jpg)/2026/09/17/6aabf6a507e5b320937133.jpg",
+   "date": null,
+   "pubdate": "2026-09-17T17:05:18.263022+00:00"
+  },
+  {
+   "title": "Le pape ne vient pas à Bondy pour des \"raisons simplement logistiques\", assure le maire",
+   "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/le-pape-ne-vient-pas-a-bondy-pour-des-raisons-simplement-logistiques-assure-le-maire_8197691.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/t_mkNQtgxfXBTf1JeRrx76EfjqU/0x311:6048x3713/432x243/filters:format(jpg)/2026/09/17/6aac0d9b9cdbf070392199.jpg",
+   "date": null,
+   "pubdate": "2026-09-17T17:05:18.263022+00:00"
+  },
+  {
+   "title": "Piddington, le village anglais qui vote pour quitter le Royaume-Uni",
+   "link": "https://www.franceinfo.fr/monde/royaume-uni/piddington-le-village-anglais-qui-vote-pour-quitter-le-royaume-uni_8197655.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/8wtrMwTEArpBCkNrMLDV65R03ss/0x279:5392x3312/432x243/filters:format(jpg)/2026/09/17/6aac0dcddd2b4670282007.jpg",
+   "date": null,
+   "pubdate": "2026-09-17T17:05:18.263022+00:00"
+  },
+  {
+   "title": "1:52 vidéo 1 minute 52 \"Si quelqu'un l'a pour 3,50 euros, c'est super pour lui\" : en Angleterre, de plus en plus d'adeptes de la \"maison-loterie\"",
+   "link": "https://www.franceinfo.fr/economie/immobilier/si-quelqu-un-l-a-pour-3-50-euros-c-est-super-pour-lui-en-angleterre-de-plus-en-plus-d-adeptes-de-la-maison-loterie_8197355.html",
+   "summary": "\"Si quelqu'un l'a pour 3,50 euros, c'est super pour lui\" : en Angleterre, de plus en plus d'adeptes de la \"maison-loterie\"",
+   "image": "https://www.franceinfo.fr/pictures/4nX1oumFGE4eyvO4rzkzGwcSbxk/0x99:1520x954/432x243/filters:format(jpg)/2026/09/17/6aabe5c968dd2959080257.png",
+   "date": null,
+   "pubdate": "2026-09-17T17:05:18.263022+00:00"
+  },
+  {
+   "title": "En Turquie, le pouvoir poursuit sa répression contre la communauté LGBT+ et incarcère plusieurs dizaines de personnes",
+   "link": "https://www.franceinfo.fr/monde/turquie/en-turquie-le-pouvoir-poursuit-sa-repression-contre-la-communaute-lgbt-et-incarcere-plusieurs-dizaines-de-personnes_8195711.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/Z-yeF9s1WIV-k88iQWJaPCCRmyY/0x53:1024x629/432x243/filters:format(jpg)/2026/09/17/6aabd40eef8ad320732979.jpg",
+   "date": null,
+   "pubdate": "2026-09-17T17:05:18.263022+00:00"
+  },
+  {
+   "title": "2:05 audio 2 minutes 5 En Inde, des petites mains filment leurs gestes pour entraîner des robots destinés à les remplacer",
+   "link": "https://www.franceinfo.fr/internet/intelligence-artificielle/en-inde-des-petites-mains-filment-leurs-gestes-pour-entrainer-des-robots-destines-a-les-remplacer_8197172.html",
+   "summary": "En Inde, des petites mains filment leurs gestes pour entraîner des robots destinés à les remplacer",
+   "image": "https://www.franceinfo.fr/pictures/lxKUtJbwEOyOPakznCu6Oz2ONT8/0x375:7200x4425/432x243/filters:format(jpg)/2026/09/17/6aabfab89e8e5891428310.jpg",
+   "date": null,
+   "pubdate": "2026-09-17T17:05:18.263022+00:00"
+  },
+  {
+   "title": "En Suède, la gauche remporte de justesse les législatives et le Premier ministre conservateur annonce sa démission",
+   "link": "https://www.franceinfo.fr/monde/europe/union-europeenne/en-suede-la-gauche-remporte-de-justesse-les-legislatives-et-le-premier-ministre-annonce-sa-demission_8197415.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/obF-89x63R3qcnrs2PQ3wQ3Spz0/0x0:1024x576/432x243/filters:format(jpg)/2026/09/17/6aabf3d837779000044523.jpg",
+   "date": null,
+   "pubdate": "2026-09-17T17:05:18.263022+00:00"
+  },
+  {
+   "title": "Aides directes, baisse de la TVA, taxation des profits pétroliers… Quelles sont les solutions mises en place en Europe face à la flambée des prix des carburants ?",
+   "link": "https://www.franceinfo.fr/economie/automobile/essence/aides-directes-baisse-de-la-tva-taxation-des-profits-petroliers-quelles-sont-les-solutions-mises-en-place-en-europe-face-a-la-flambee-des-prix-des-carburants_8197235.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/rqNWsmcB4m-sK6yEN4GHtrE_z8M/0x312:6000x3687/432x243/filters:format(jpg)/2026/09/17/6aabcc95d0cd1754594340.jpg",
+   "date": null,
+   "pubdate": "2026-09-17T17:05:18.263022+00:00"
+  },
+  {
+   "title": "Guerre en Ukraine : au moins 18 blessés par une attaque de missiles et de drones russes sur Kiev Aux premières heures jeudi, des journalistes de l'AFP ont entendu une douzaine de fortes détonations dans la capitale. D'autres régions ukrainiennes ont été visées dans la nuit de mercredi à jeudi.",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-au-moins-18-blesses-par-une-attaque-de-missiles-et-de-drones-russes-sur-kiev_8197373.html",
+   "summary": "Guerre en Ukraine : au moins 18 blessés par une attaque de missiles et de drones russes sur Kiev",
+   "image": "https://www.franceinfo.fr/pictures/logPXZ07A_JqeQtdhqgdJBvHoIQ/0x106:1024x682/432x243/filters:format(jpg)/2026/09/17/6aabe8b7544b9625651507.jpg",
+   "date": null,
+   "pubdate": "2026-09-17T17:05:18.263022+00:00"
+  },
+  {
+   "title": "En Guinée, la chaîne d'information France 24 est désormais \"interdite de diffusion\" France 24 a déjà été interdite au Mali, au Burkina Faso et au Niger, trois pays sahéliens dirigés par des régimes militaires souverainistes.",
+   "link": "https://www.franceinfo.fr/monde/afrique/guinee/en-guinee-la-chaine-d-information-france-24-est-desormais-interdite-de-diffusion_8197301.html",
+   "summary": "En Guinée, la chaîne d'information France 24 est désormais \"interdite de diffusion\"",
+   "image": "https://www.franceinfo.fr/pictures/J82YgCdoUdqMEURYFlgs_YC32q8/0x66:1024x642/432x243/filters:format(jpg)/2026/09/17/6aabdeb95c44a403227353.jpg",
+   "date": null,
+   "pubdate": "2026-09-17T17:05:18.263022+00:00"
+  },
+  {
+   "title": "En Turquie, Recep Tayyip Erdogan briguera un nouveau mandat lors d'une élection anticipée A ce jour, la Constitution empêche le président turc de se représenter s'il va au terme de son troisième mandat.",
+   "link": "https://www.franceinfo.fr/monde/turquie/en-turquie-recep-tayyip-erdogan-briguera-un-nouveau-mandat-lors-d-une-election-anticipee_8197286.html",
+   "summary": "En Turquie, Recep Tayyip Erdogan briguera un nouveau mandat lors d'une élection anticipée",
+   "image": "https://www.franceinfo.fr/pictures/b366FC6s6SSwRm-otvEAeblc_4o/0x25:1024x601/432x243/filters:format(jpg)/2026/09/17/6aabda0b90e82622805800.jpg",
+   "date": null,
+   "pubdate": "2026-09-17T17:05:18.263022+00:00"
+  },
+  {
    "title": "En Espagne, la dette publique est passée en juillet sous les 100% du PIB, une première depuis 2020 Le gouvernement du Premier ministre socialiste, Pedro Sánchez, avait fixé comme objectif de passer sous ce seuil symbolique avant la fin de l'année.",
    "link": "https://www.franceinfo.fr/monde/espagne/en-espagne-la-dette-publique-est-passee-en-juillet-sous-les-100-du-pib-une-premiere-depuis-2020_8197244.html",
    "summary": "En Espagne, la dette publique est passée en juillet sous les 100% du PIB, une première depuis 2020",
-   "image": "https://www.franceinfo.fr/pictures/GvLGNs8GEiUwHiUICWT1zeVRaIw/0x0:992x682/432x297/filters:format(jpg)/2026/09/17/6aabd15c6df80326009021.jpg",
+   "image": "https://www.franceinfo.fr/pictures/75D5Cn3xdOobiQ69NvaKOYpTNkw/0x66:1024x642/432x243/filters:format(jpg)/2026/09/17/6aabd15c6df80326009021.jpg",
    "date": null,
    "pubdate": "2026-09-17T11:48:57.151582+00:00"
   },
   {
-   "title": "\"Nous sommes plus forts ensemble\" : le Canada salue l'idée de devenir membre associé de l'Union européenne",
+   "title": "\"Nous sommes plus forts ensemble\" : le Canada salue l'idée de devenir membre associé de l'Union européenne Mercredi, la présidente de la Commission européenne a proposé à ce pays nord-américain de renforcer les liens via ce nouveau statut.",
    "link": "https://www.franceinfo.fr/monde/canada/nous-sommes-plus-forts-ensemble-le-canada-salue-l-idee-de-devenir-membre-associe-de-l-union-europeenne_8197148.html",
-   "summary": "",
+   "summary": "\"Nous sommes plus forts ensemble\" : le Canada salue l'idée de devenir membre associé de l'Union européenne",
    "image": "https://www.franceinfo.fr/pictures/QHg-CU8JUssu7fNWTH-NxkSVHeI/0x0:990x557/432x243/filters:format(jpg)/2026/09/17/6aabc12dd4de3030535613.png",
    "date": null,
    "pubdate": "2026-09-17T11:48:57.151582+00:00"
   },
   {
-   "title": "Face à l'état des finances publiques, Marine Le Pen estime que la France ne peut plus aider l'Ukraine autant qu'actuellement",
+   "title": "Face à l'état des finances publiques, Marine Le Pen estime que la France ne peut plus aider l'Ukraine autant qu'actuellement \"On peut continuer à former leurs soldats, leurs armées, on peut continuer à leur apporter du matériel pour pouvoir se défendre. Mais financièrement, nous ne pouvons plus\", a-t-elle déclaré mercredi sur LCI, en écartant tout \"acte d'hostilité\" envers Kiev.",
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/face-a-l-etat-des-finances-publiques-marine-le-pen-estime-que-la-france-ne-peut-plus-aider-l-ukraine-autant-qu-actuellement_8197058.html",
-   "summary": "",
+   "summary": "Face à l'état des finances publiques, Marine Le Pen estime que la France ne peut plus aider l'Ukraine autant qu'actuellement",
    "image": "https://www.franceinfo.fr/pictures/FcO6ZfkqpSkGlApEAqshmumYVdY/0x32:1024x608/432x243/filters:format(jpg)/2026/09/17/6aabbabf869f8294552723.jpg",
    "date": null,
    "pubdate": "2026-09-17T11:48:57.151582+00:00"
   },
   {
-   "title": ": Vidéo 3:20 vidéo 3 minutes 20 : Vidéo Aux origines du vin, dans le plus ancien chai du monde, en Arménie",
-   "link": "https://www.franceinfo.fr/replay-magazine/france-2/envoye-special/video-aux-origines-du-vin-dans-le-plus-ancien-chai-du-monde-en-armenie_8170484.html",
-   "summary": "Aux origines du vin, dans le plus ancien chai du monde, en Arménie",
-   "image": "https://www.franceinfo.fr/pictures/o1AomlpnDQwt9Qtl2zHEx2BZQA0/0x0:1920x1080/432x243/filters:format(jpg)/2026/09/07/6a9ebb49a671e310542454.jpg",
-   "date": null,
-   "pubdate": "2026-09-17T11:48:57.151582+00:00"
-  },
-  {
-   "title": "Emmanuel Macron convie les chefs de parti vendredi pour évoquer la \"dégradation rapide\" de la situation internationale et ses \"conséquences en France sur la sécurité et l'énergie\"",
+   "title": "Emmanuel Macron convie les chefs de parti vendredi pour évoquer la \"dégradation rapide\" de la situation internationale et ses \"conséquences en France sur la sécurité et l'énergie\" Cette réunion autour du chef de l'Etat, en présence du Premier ministre et des responsables militaires et du renseignement, aura lieu à 10h30 vendredi au palais de l'Elysée.",
    "link": "https://www.franceinfo.fr/monde/moyen-orient/emmanuel-macron-convie-les-chefs-de-parti-vendredi-pour-evoquer-la-degradation-rapide-de-la-situation-internationale-et-ses-consequences-en-france-sur-la-securite-et-l-energie_8196932.html",
-   "summary": "",
+   "summary": "Emmanuel Macron convie les chefs de parti vendredi pour évoquer la \"dégradation rapide\" de la situation internationale et ses \"conséquences en France sur la sécurité et l'énergie\"",
    "image": "https://www.franceinfo.fr/pictures/hD50UjV2ZgG4qHhdPA6IDKGqM58/0x0:1024x576/432x243/filters:format(jpg)/2026/09/17/6aaba7f47cb3a255336472.jpg",
    "date": null,
    "pubdate": "2026-09-17T11:48:57.151582+00:00"
   },
   {
-   "title": "2:30 audio 2 minutes 30 Aux États-Unis, on peut profiter du duty-free sans avoir de billet d'avion",
+   "title": "2:30 audio 2 minutes 30 Aux États-Unis, on peut profiter du duty-free sans avoir de billet d'avion Dans certains aéroports américains, il sera bientôt possible d'accompagner un voyageur jusqu'à sa porte d'embarquement et de faire du shopping, moyennant quelques démarches et quelques dollars.",
    "link": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/aux-etats-unis-on-peut-profiter-du-duty-free-sans-avoir-de-billet-d-avion_8174579.html",
    "summary": "Aux États-Unis, on peut profiter du duty-free sans avoir de billet d'avion",
    "image": "https://www.franceinfo.fr/pictures/ezOIwvN8ibc4wDjp5QNJ_2Js1xE/0x312:6000x3687/432x243/filters:format(jpg)/2026/09/17/6aab9344ecb50218009495.jpg",
@@ -84,33 +180,25 @@
    "pubdate": "2026-09-17T11:48:57.151582+00:00"
   },
   {
-   "title": "En Géorgie, un projet \"historique\" de Trump Tower à deux milliards de dollars pour transformer le paysage de Tbilissi",
+   "title": "En Géorgie, un projet \"historique\" de Trump Tower à deux milliards de dollars pour transformer le paysage de Tbilissi Cette tour de 70 étages va voir le jour dans la capitale géorgienne. Après des années de froid entre les deux pays, ce projet pharaonique apparaît comme un signal politique fort. La télévision publique géorgienne GPB revient sur cette annonce.",
    "link": "https://www.franceinfo.fr/monde/europe/georgie/en-georgie-un-projet-historique-de-trump-tower-a-deux-milliards-de-dollars-pour-transformer-le-paysage-de-tbilissi_8195633.html",
-   "summary": "",
+   "summary": "En Géorgie, un projet \"historique\" de Trump Tower à deux milliards de dollars pour transformer le paysage de Tbilissi",
    "image": "https://www.franceinfo.fr/pictures/Thoicb9QuUoNWsTpzuDRq9-Kw2g/0x0:1200x675/432x243/filters:format(jpg)/2026/09/16/6aaa9c4d4acd4111632430.jpg",
    "date": null,
    "pubdate": "2026-09-17T11:48:57.151582+00:00"
   },
   {
-   "title": "\"Notre pays a besoin de retrouver des moments symboliques où l'on n'est pas dans la polémique\", estime l'évêque d'Ajaccio avant la venue du pape en France",
+   "title": "\"Notre pays a besoin de retrouver des moments symboliques où l'on n'est pas dans la polémique\", estime l'évêque d'Ajaccio avant la venue du pape en France Le cardinal François Bustillo évoque une \"soif de spiritualité\", alors que près de 600 000 personnes sont inscrites pour assister à la messe place de la Concorde à Paris.",
    "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/notre-pays-a-besoin-de-retrouver-des-moments-symboliques-ou-l-on-n-est-pas-dans-la-polemique-estime-l-eveque-d-ajaccio-avant-la-venue-du-pape-en-france_8196812.html",
-   "summary": "",
+   "summary": "\"Notre pays a besoin de retrouver des moments symboliques où l'on n'est pas dans la polémique\", estime l'évêque d'Ajaccio avant la venue du pape en France",
    "image": "https://www.franceinfo.fr/pictures/1TxzhzQ4qhfiZP0kScFnwxd11Cg/0x53:1024x629/432x243/filters:format(jpg)/2026/09/17/6aab96e777dfb060281342.jpg",
    "date": null,
    "pubdate": "2026-09-17T11:48:57.151582+00:00"
   },
   {
-   "title": "1:40 vidéo 1 minute 40 Crise des migrants à Ceuta : Mbappé au cœur d'une polémique",
-   "link": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/crise-des-migrants-a-ceuta-mbappe-au-c-ur-d-une-polemique_8196698.html",
-   "summary": "Crise des migrants à Ceuta : Mbappé au cœur d'une polémique",
-   "image": "https://www.franceinfo.fr/pictures/CZiUVykv5HRT9n-RPzzjBLWb0HM/215x0:1506x726/432x243/filters:format(jpg)/2026/09/17/6aab904fe51f3610267202.png",
-   "date": null,
-   "pubdate": "2026-09-17T11:48:57.151582+00:00"
-  },
-  {
-   "title": "De fortes pluies et des inondations touchent la côte méditerranéenne en Espagne, un mort près de Barcelone",
+   "title": "De fortes pluies et des inondations touchent la côte méditerranéenne en Espagne, un mort près de Barcelone Les autorités ont appelé les habitants de Catalogne et de la région de Valence à éviter tout déplacement inutile et à faire preuve d'une extrême prudence.",
    "link": "https://www.franceinfo.fr/environnement/crise-climatique/de-fortes-pluies-et-des-inondations-touchent-la-cote-mediterraneenne-en-espagne-un-mort-pres-de-barcelone_8196644.html",
-   "summary": "",
+   "summary": "De fortes pluies et des inondations touchent la côte méditerranéenne en Espagne, un mort près de Barcelone",
    "image": "https://www.franceinfo.fr/pictures/Ge3HxOOtQ1K7ywVG0-ijkYlAbnk/0x106:1024x682/432x243/filters:format(jpg)/2026/09/17/6aab8f7f051ff373172981.jpg",
    "date": null,
    "pubdate": "2026-09-17T11:48:57.151582+00:00"
@@ -172,22 +260,6 @@
    "pubdate": "2026-09-17T04:58:10.303788+00:00"
   },
   {
-   "title": "\"Son expertise lui permet de dire non\" : Mark Carney, le Premier ministre du Canada devenu chef de file des dirigeants qui tiennent tête à Donald Trump Le patron du Parti libéral canadien s'est fait élire sur la promesse de résister au président américain. Une position qui lui assure une forte popularité dans son pays, et lui confère une stature inattendue sur la scène internationale.",
-   "link": "https://www.franceinfo.fr/monde/canada/son-expertise-lui-permet-de-dire-non-mark-carney-le-premier-ministre-du-canada-devenu-chef-de-file-des-dirigeants-qui-tiennent-tete-a-donald-trump_8195135.html",
-   "summary": "\"Son expertise lui permet de dire non\" : Mark Carney, le Premier ministre du Canada devenu chef de file des dirigeants qui tiennent tête à Donald Trump",
-   "image": "https://www.franceinfo.fr/pictures/0AyzpUL8L_2dw0dn-im_bx4hffE/0x0:1024x576/432x243/filters:format(jpg)/2026/09/16/6aaaa0adf124f876682575.jpg",
-   "date": null,
-   "pubdate": "2026-09-17T04:58:10.303788+00:00"
-  },
-  {
-   "title": "Comment Emmanuel Macron compte faire aboutir l'interdiction des réseaux sociaux aux moins de 15 ans malgré la censure du Conseil constitutionnel Le chef de l'Etat a annoncé lundi avoir présenté un nouveau texte à Bruxelles dans l'espoir de mettre en place l'interdiction des réseaux sociaux aux adolescents de moins de 15 ans. Il doit pour cela se conformer à la loi française et à la loi européenne.",
-   "link": "https://www.franceinfo.fr/internet/reseaux-sociaux/comment-emmanuel-macron-compte-faire-aboutir-l-interdiction-des-reseaux-sociaux-aux-moins-de-15-ans-malgre-la-censure-du-conseil-constitutionnel_8191757.html",
-   "summary": "Comment Emmanuel Macron compte faire aboutir l'interdiction des réseaux sociaux aux moins de 15 ans malgré la censure du Conseil constitutionnel",
-   "image": "https://www.franceinfo.fr/pictures/EoIi0wATgvM01vSoJGDnmFigOww/0x260:5000x3072/432x243/filters:format(jpg)/2026/09/14/6aa81c03d1149706688930.jpg",
-   "date": null,
-   "pubdate": "2026-09-17T04:58:10.303788+00:00"
-  },
-  {
    "title": ": Reportage 2:00 article 2 minutes : Reportage \"Plus de huit millions de livres pour enfants\" partis en fumée : l'Ukraine face à une pénurie de manuels scolaires après des frappes russes",
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/reportage-plus-de-huit-millions-de-livres-pour-enfants-partis-en-fumee-l-ukraine-face-a-une-penurie-de-manuels-scolaires-apres-des-frappes-russes_8192342.html",
    "summary": "\"Plus de huit millions de livres pour enfants\" partis en fumée : l'Ukraine face à une pénurie de manuels scolaires après des frappes russes",
@@ -202,78 +274,6 @@
    "image": "https://www.franceinfo.fr/pictures/1mjbL6KrEfhdf8kkM-fiwv8Aqs4/432x297/filters:format(jpg)/2026/03/01/075-nikoubazl-mourning260301-npgop-69a44a7350cd8738092334.jpg",
    "date": null,
    "pubdate": "2026-09-16T21:23:10.622451+00:00"
-  },
-  {
-   "title": "Un an de Donald Trump au pouvoir 18 contenus",
-   "link": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/un-an-de-donald-trump-au-pouvoir/",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/_Ls0AfsrdeH4b8e1t1laldX3AFA/432x297/filters:format(jpg)/2026/01/21/un-an-trump-au-pouvoir-6970f70527d4e960570673.jpg",
-   "date": null,
-   "pubdate": "2026-09-16T21:23:10.622451+00:00"
-  },
-  {
-   "title": ": Reportage 4:59 audio 4 minutes 59 : Reportage \"Il y a 70% de bon et 30% de mauvais\" : en Chine, le culte de Mao prend de l'ampleur chez les jeunes",
-   "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-il-y-a-70-de-bon-et-30-de-mauvais-en-chine-le-culte-de-mao-prend-de-l-ampleur-chez-les-jeunes_8161538.html",
-   "summary": "\"Il y a 70% de bon et 30% de mauvais\" : en Chine, le culte de Mao prend de l'ampleur chez les jeunes",
-   "image": "https://www.franceinfo.fr/pictures/w3Ocn6zpscSeecS3EEUW5jVWcR8/1032x0:5160x4128/100x100/filters:format(jpg)/2026/09/09/6aa0f3e422509555262109.jpg",
-   "date": null,
-   "pubdate": "2026-09-16T21:23:10.622451+00:00"
-  },
-  {
-   "title": "8:38 vidéo 8 minutes 38 Du sommet de l'État au quotidien des habitants, comment Taïwan se prépare à une guerre avec la Chine",
-   "link": "https://www.franceinfo.fr/monde/asie/taiwan/du-sommet-de-l-etat-au-quotidien-des-habitants-comment-taiwan-se-prepare-a-une-guerre-avec-la-chine_8181767.html",
-   "summary": "Du sommet de l'État au quotidien des habitants, comment Taïwan se prépare à une guerre avec la Chine",
-   "image": "https://www.franceinfo.fr/pictures/qv3AbkPaCS-_I_VHsNJFogDZez8/301x0:976x675/100x100/filters:format(jpg)/2026/09/07/6a9f2791a58aa222823355.jpg",
-   "date": null,
-   "pubdate": "2026-09-16T21:23:10.622451+00:00"
-  },
-  {
-   "title": "\"Je ne veux pas établir de priorité dans la souffrance\" : Kylian Mbappé explique pourquoi il n'a pas enfilé entièrement un tee-shirt de soutien à Ceuta Avant le match du Real Madrid contre Elche, mardi soir, l'attaquant tricolore a fait partie des trois joueurs ayant décidé de recouvrir la moitié de ce tee-shirt.",
-   "link": "https://www.franceinfo.fr/sports/foot/kylian-mbappe/je-ne-veux-pas-etablir-de-priorite-dans-la-souffrance-kylian-mbappe-explique-pourquoi-il-n-a-pas-enfile-entierement-un-tee-shirt-de-soutien-a-ceuta_8196185.html",
-   "summary": "\"Je ne veux pas établir de priorité dans la souffrance\" : Kylian Mbappé explique pourquoi il n'a pas enfilé entièrement un tee-shirt de soutien à Ceuta",
-   "image": "https://www.franceinfo.fr/pictures/d-13BiEDpB-lR7yIZvyaOTVxJ60/0x0:7000x3937/432x243/filters:format(jpg)/2026/09/16/6aaafb407dee1831172132.jpg",
-   "date": null,
-   "pubdate": "2026-09-16T21:23:10.622451+00:00"
-  },
-  {
-   "title": "La chaîne américaine CBS dévoile des images des dégâts causés par les frappes iraniennes sur des bases américaines au Moyen-Orient Selon le Pentagone, le coût de la guerre en Iran à fin juin est de 33,4 milliards de dollars mais ce chiffre \"n'inclut pas les coûts de réparation des infrastructures\".",
-   "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/la-chaine-americaine-cbs-devoile-des-images-des-degats-causes-par-les-frappes-iraniennes-sur-des-bases-americaines-au-moyen-orient_8196158.html",
-   "summary": "La chaîne américaine CBS dévoile des images des dégâts causés par les frappes iraniennes sur des bases américaines au Moyen-Orient",
-   "image": "https://www.franceinfo.fr/pictures/vLYJyyqoRv2PLOho588zvC15TgU/0x93:1024x669/432x243/filters:format(jpg)/2026/09/16/6aaaf1192d325732109669.jpg",
-   "date": null,
-   "pubdate": "2026-09-16T21:23:10.622451+00:00"
-  },
-  {
-   "title": "51:06 audio 51 minutes 6 Budget 2027 : qui veut aider Sébastien Lecornu ? Les informés de franceinfo du mercredi 16 septembre 2026 Tous les soirs, les informés débattent de l'actualité autour d'Hadrien Bect.",
-   "link": "https://www.franceinfo.fr/replay-radio/les-informes-de-france-info/budget-2027-qui-veut-aider-sebastien-lecornu-les-informes-de-franceinfo-du-mercredi-16-septembre-2026_8172914.html",
-   "summary": "Budget 2027 : qui veut aider Sébastien Lecornu ? Les informés de franceinfo du mercredi 16 septembre 2026",
-   "image": "https://www.franceinfo.fr/pictures/F1WEIXC1EyGrJ4d9cIOIwzy0XfY/61x0:1856x1010/432x243/filters:format(jpg)/2026/09/16/6aaad5cce0006913622936.png",
-   "date": null,
-   "pubdate": "2026-09-16T21:23:10.622451+00:00"
-  },
-  {
-   "title": "\"Un affront à la justice française\" : la possible libération conditionnelle de Mohamed Bakkali, \"logisticien\" des attentats du 13-Novembre, indigne les victimes A peine cinq ans après sa condamnation à trente années de prison pour les attaques terroristes du Bataclan, des terrasses et du Stade de France, le Belgo-Marocain, qui purge sa peine en Belgique, pourrait bientôt être remis en liberté, la loi belge étant plus souple que la loi française en matière d'exécution des peines.",
-   "link": "https://www.franceinfo.fr/faits-divers/terrorisme/attaques-du-13-novembre-a-paris/proces-des-attentats-du-13-novembre-2015/un-affront-a-la-justice-francaise-la-possible-liberation-conditionnelle-de-mohamed-bakkali-logisticien-des-attentats-du-13-novembre-indigne-les-victimes_8195525.html",
-   "summary": "\"Un affront à la justice française\" : la possible libération conditionnelle de Mohamed Bakkali, \"logisticien\" des attentats du 13-Novembre, indigne les victimes",
-   "image": "https://www.franceinfo.fr/pictures/DX08EPjv0Vja6yofdDOk0S8uqQw/0x5:1024x581/432x243/filters:format(jpg)/2026/09/16/6aaac00c066f2919979560.jpg",
-   "date": null,
-   "pubdate": "2026-09-16T21:23:10.622451+00:00"
-  },
-  {
-   "title": "15:05 vidéo 15 minutes 5 De San Francisco à Los Angeles, les richesses menacées de la Pacific Coast Highway, la route du Pacifique",
-   "link": "https://www.franceinfo.fr/grands-formats/de-san-francisco-a-los-angeles-les-richesses-menacees-de-la-pacific-coast-highway-la-route-du-pacifique_8185364.html",
-   "summary": "De San Francisco à Los Angeles, les richesses menacées de la Pacific Coast Highway, la route du Pacifique",
-   "image": "https://www.franceinfo.fr/pictures/9lkkIO-0dQIuS9VDA94Fb4vb2U8/283x0:1171x888/100x100/filters:format(jpg)/2026/09/09/6aa1bc177607a042945197.jpg",
-   "date": null,
-   "pubdate": "2026-09-16T17:04:59.925699+00:00"
-  },
-  {
-   "title": ": Interview Menaces des drones russes : \"Ils sont trop rapides pour être interceptés, on va réviser notre technologie\", explique un spécialiste ukrainien de la lutte antidrones La dernière génération de drones russes fait des ravages en Ukraine. Mais la fondation caritative Come Back Alive travaille déjà à améliorer son modèle de drone, destructeur de drone. Franceinfo a rencontré le directeur du programme \"Drone Fall\".",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/interview-menaces-des-drones-russes-ils-sont-trop-rapides-pour-etre-interceptes-on-va-reviser-notre-technologie-explique-un-specialiste-ukrainien-de-la-lutte-antidrones_8195705.html",
-   "summary": "Menaces des drones russes : \"Ils sont trop rapides pour être interceptés, on va réviser notre technologie\", explique un spécialiste ukrainien de la lutte antidrones",
-   "image": "https://www.franceinfo.fr/pictures/2lBpoIjj1HhBxarH_t29036unWk/0x335:6439x3957/432x243/filters:format(jpg)/2026/09/16/6aaab388abea0686566770.jpg",
-   "date": null,
-   "pubdate": "2026-09-16T17:04:59.925699+00:00"
   }
  ]
 }
