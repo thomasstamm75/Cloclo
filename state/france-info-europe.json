@@ -1,20 +1,15 @@
 {
- "etag": "\"00f0806a1b3db64e4452c5f0de528afa-gzip\"",
+ "etag": "\"13f1abcd6f1e80751bfc3655a1627d31-gzip\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/je-ne-sais-pas-ce-qui-attend-nos-enfants-a-kiev-l-angoisse-de-la-rentree-sous-les-bombes-apres-un-ete-meurtrier_8144936.html": "2026-09-14T05:03:43.324060+00:00",
   "https://www.franceinfo.fr/monde/europe/allemagne/il-y-a-une-extrapolation-du-declin-economique-comment-l-extreme-droite-allemande-est-arrivee-aux-portes-du-pouvoir-en-saxe-anhalt_8175638.html": "2026-09-14T19:51:56.909555+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-c-est-le-sauveur-en-saxe-anhalt-ulrich-siegmund-l-homme-le-plus-dangereux-d-allemagne-selon-der-spiegel-aux-portes-du-pouvoir_8147219.html": "2026-09-14T19:51:56.909555+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/vos-questions-sur-l-effort-de-guerre-de-la-france/": "2026-09-14T23:53:58.993734+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/reportage-plus-de-huit-millions-de-livres-pour-enfants-partis-en-fumee-l-ukraine-face-a-une-penurie-de-manuels-scolaires-apres-des-frappes-russes_8192342.html": "2026-09-15T17:05:04.099353+00:00",
-  "https://www.franceinfo.fr/sports/foot/kylian-mbappe/je-ne-veux-pas-etablir-de-priorite-dans-la-souffrance-kylian-mbappe-explique-pourquoi-il-n-a-pas-enfile-entierement-un-tee-shirt-de-soutien-a-ceuta_8196185.html": "2026-09-16T21:23:09.055567+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/le-congres-americain-adopte-un-nouveau-paquet-de-sanctions-contre-la-russie_8196548.html": "2026-09-17T04:58:08.620151+00:00",
-  "https://www.franceinfo.fr/internet/reseaux-sociaux/comment-emmanuel-macron-compte-faire-aboutir-l-interdiction-des-reseaux-sociaux-aux-moins-de-15-ans-malgre-la-censure-du-conseil-constitutionnel_8191757.html": "2026-09-17T04:58:08.620151+00:00",
   "https://www.franceinfo.fr/monde/canada/nous-sommes-plus-forts-ensemble-le-canada-salue-l-idee-de-devenir-membre-associe-de-l-union-europeenne_8197148.html": "2026-09-17T11:48:55.432624+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/face-a-l-etat-des-finances-publiques-marine-le-pen-estime-que-la-france-ne-peut-plus-aider-l-ukraine-autant-qu-actuellement_8197058.html": "2026-09-17T11:48:55.432624+00:00",
   "https://www.franceinfo.fr/monde/europe/georgie/en-georgie-un-projet-historique-de-trump-tower-a-deux-milliards-de-dollars-pour-transformer-le-paysage-de-tbilissi_8195633.html": "2026-09-17T11:48:55.432624+00:00",
   "https://www.franceinfo.fr/replay-radio/ca-dit-quoi/la-colere-monte-mbappe-repond-aux-espagnols-scandalises-et-le-canada-membre-de-l-ue-ca-dit-quoi-ce-17-septembre_8187311.html": "2026-09-17T11:48:55.432624+00:00",
-  "https://www.franceinfo.fr/monde/europe/union-europeenne/donald-trump-menace-d-arreter-les-echanges-commerciaux-avec-l-ue-en-raison-de-son-projet-d-association-avec-le-canada_8196545.html": "2026-09-17T11:48:55.432624+00:00",
   "https://www.franceinfo.fr/internet/reseaux-sociaux/reseaux-sociaux-interdits-avant-13-ans-fonctionnalites-addictives-bloquees-pour-les-mineurs-ce-que-contient-le-kids-act-presente-par-la-commission-europeenne_8197241.html": "2026-09-17T17:05:16.613096+00:00",
   "https://www.franceinfo.fr/monde/europe/union-europeenne/en-suede-la-gauche-remporte-de-justesse-les-legislatives-et-le-premier-ministre-annonce-sa-demission_8197415.html": "2026-09-17T17:05:16.613096+00:00",
   "https://www.franceinfo.fr/economie/automobile/essence/aides-directes-baisse-de-la-tva-taxation-des-profits-petroliers-quelles-sont-les-solutions-mises-en-place-en-europe-face-a-la-flambee-des-prix-des-carburants_8197235.html": "2026-09-17T17:05:16.613096+00:00",
@@ -28,18 +23,79 @@
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-plus-de-1-000-cas-de-violences-sexuelles-depuis-le-debut-du-conflit-alerte-l-onu_8198969.html": "2026-09-18T11:23:36.950385+00:00",
   "https://www.franceinfo.fr/sante/vaccins/la-vaccination-infantile-est-en-recul-dans-plusieurs-pays-d-europe-depuis-le-covid-19-selon-une-etude_8198696.html": "2026-09-18T11:23:36.950385+00:00",
   "https://www.franceinfo.fr/replay-radio/ca-dit-quoi/emmanuel-macron-renonce-a-fort-boyard-canicule-et-crises-suicidaires-et-la-bo-de-gta-ca-dit-quoi-ce-18-septembre_8188964.html": "2026-09-18T11:23:36.950385+00:00",
-  "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/guerre-en-ukraine-ces-russes-tentes-par-l-exil_8198615.html": "2026-09-18T11:23:36.950385+00:00",
-  "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/carburants-les-prix-atteignent-des-sommets-en-allemagne_8198612.html": "2026-09-18T11:23:36.950385+00:00",
   "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/sur-les-champs-de-bataille-l-intelligence-artificielle-et-les-de-systemes-autonomes-tuent-deja_8176166.html": "2026-09-18T11:23:36.950385+00:00",
-  "https://www.franceinfo.fr/monde/europe/allemagne/reportage-election-regionale-dans-le-nord-est-de-l-allemagne-ou-l-afd-seduit-en-misant-sur-le-retour-d-un-partenariat-commercial-avec-la-russie_8197997.html": "2026-09-18T11:23:36.950385+00:00"
+  "https://www.franceinfo.fr/monde/europe/allemagne/reportage-election-regionale-dans-le-nord-est-de-l-allemagne-ou-l-afd-seduit-en-misant-sur-le-retour-d-un-partenariat-commercial-avec-la-russie_8197997.html": "2026-09-18T11:23:36.950385+00:00",
+  "https://www.franceinfo.fr/replay-radio/salut-l-info/podcast-l-ecole-malgre-la-guerre-un-record-battu-pour-les-basketteuses-francaises-et-un-tresor-viking_8188970.html": "2026-09-18T16:29:38.771248+00:00",
+  "https://www.franceinfo.fr/monde/russie/reportage-le-gouvernement-ne-doit-pas-adapter-les-lois-qu-on-trouve-en-europe-les-russes-aux-urnes-pour-des-legislatives-en-pleine-guerre-en-ukraine_8199230.html": "2026-09-18T16:29:38.771248+00:00",
+  "https://www.franceinfo.fr/politique/emmanuel-macron/face-aux-attaques-hybrides-russes-emmanuel-macron-promet-un-plan-pour-les-infrastructures-critiques_8199287.html": "2026-09-18T16:29:38.771248+00:00",
+  "https://www.franceinfo.fr/politique/emmanuel-macron/protection-des-infrastructures-critiques-g7-de-l-energie-prix-des-carburants-ce-qu-il-faut-retenir-de-la-prise-de-parole-d-emmanuel-macron-a-l-elysee_8199119.html": "2026-09-18T16:29:38.771248+00:00",
+  "https://www.franceinfo.fr/monde/russie/elections-legislatives-en-russie-l-etat-d-esprit-des-russes-avant-le-lancement-du-premier-scrutin-depuis-la-guerre_8198096.html": "2026-09-18T16:29:38.771248+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/ingerences-sabotages-tentatives-d-assassinat-la-menace-russe-va-t-elle-prendre-une-nouvelle-ampleur-en-europe_8199089.html": "2026-09-18T16:29:38.771248+00:00",
+  "https://www.franceinfo.fr/sports/foot/kylian-mbappe/eric-zemmour-accuse-kylian-mbappe-de-solidarite-islamique-avec-les-migrants-a-ceuta-ses-propos-suscitent-l-indignation-a-gauche_8199035.html": "2026-09-18T16:29:38.771248+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "Eux, à 16 ans, ils ont le droit de vote La région de #Berlin vient d'autoriser le vote aux 16 – 18 ans. Ils pourront donc participer à l'élection de ce dimanche 20 septembre. C'est la 7e à le faire alors qu'en France, l'idée reste une simple proposition électorale. Alors, est-ce que toi t'aimerais voter dès 16 ans ? Aujourd'hui 1:05 vidéo 1 minute 5",
+   "title": ": Podcast L’école malgré la guerre, un record battu pour les basketteuses françaises et un trésor viking Les écoles touchées par la guerre, les Françaises qui battent un record en basket et un incroyable trésor viking : c'est l'actualité de la semaine du podcast pour enfants \"Salut l'info !\" Aujourd'hui : Podcast 15:49 audio 15 minutes 49",
+   "link": "https://www.franceinfo.fr/replay-radio/salut-l-info/podcast-l-ecole-malgre-la-guerre-un-record-battu-pour-les-basketteuses-francaises-et-un-tresor-viking_8188970.html",
+   "summary": "L’école malgré la guerre, un record battu pour les basketteuses françaises et un trésor viking",
+   "image": "https://www.franceinfo.fr/pictures/lQls0ZjgPpHuZGAy3KyZB65HsNk/142x0:1451x900/432x297/filters:format(jpg)/2026/09/18/6aacf6e6e98e6276499758.jpg",
+   "date": null,
+   "pubdate": "2026-09-18T16:29:38.771248+00:00"
+  },
+  {
+   "title": ": Reportage : Reportage \"Le gouvernement ne doit pas adapter les lois qu'on trouve en Europe\" : les Russes aux urnes pour des législatives, en pleine guerre en Ukraine",
+   "link": "https://www.franceinfo.fr/monde/russie/reportage-le-gouvernement-ne-doit-pas-adapter-les-lois-qu-on-trouve-en-europe-les-russes-aux-urnes-pour-des-legislatives-en-pleine-guerre-en-ukraine_8199230.html",
+   "summary": "\"Le gouvernement ne doit pas adapter les lois qu'on trouve en Europe\" : les Russes aux urnes pour des législatives, en pleine guerre en Ukraine",
+   "image": "https://www.franceinfo.fr/pictures/Rr8vq-FbGdzpg-JvYCNABDBhdsY/0x287:5515x3389/432x243/filters:format(jpg)/2026/09/18/6aad42c03b5e0457145609.jpg",
+   "date": null,
+   "pubdate": "2026-09-18T16:29:38.771248+00:00"
+  },
+  {
+   "title": "Face aux attaques \"hybrides\" russes, Emmanuel Macron promet un plan pour les \"infrastructures critiques\"",
+   "link": "https://www.franceinfo.fr/politique/emmanuel-macron/face-aux-attaques-hybrides-russes-emmanuel-macron-promet-un-plan-pour-les-infrastructures-critiques_8199287.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/uEwx_qIioIl3DOotTvQ8htSS5m8/0x12:1024x588/432x243/filters:format(jpg)/2026/09/18/6aad43bb0a75f250332664.jpg",
+   "date": null,
+   "pubdate": "2026-09-18T16:29:38.771248+00:00"
+  },
+  {
+   "title": "16:34 vidéo 16 minutes 34 Protection des \"infrastructures critiques\", G7 de l'énergie, prix des carburants… Ce qu'il faut retenir de la prise de parole d'Emmanuel Macron à l'Elysée",
+   "link": "https://www.franceinfo.fr/politique/emmanuel-macron/protection-des-infrastructures-critiques-g7-de-l-energie-prix-des-carburants-ce-qu-il-faut-retenir-de-la-prise-de-parole-d-emmanuel-macron-a-l-elysee_8199119.html",
+   "summary": "Protection des \"infrastructures critiques\", G7 de l'énergie, prix des carburants… Ce qu'il faut retenir de la prise de parole d'Emmanuel Macron à l'Elysée",
+   "image": "https://www.franceinfo.fr/pictures/jaBMQunmiwCoBYvjueblMzF6Q9I/0x0:1024x576/432x243/filters:format(jpg)/2026/09/18/6aad37cd67ec9387160972.jpg",
+   "date": null,
+   "pubdate": "2026-09-18T16:29:38.771248+00:00"
+  },
+  {
+   "title": "2:58 vidéo 2 minutes 58 Élections législatives en Russie : l'état d'esprit des Russes avant le lancement du premier scrutin depuis la guerre",
+   "link": "https://www.franceinfo.fr/monde/russie/elections-legislatives-en-russie-l-etat-d-esprit-des-russes-avant-le-lancement-du-premier-scrutin-depuis-la-guerre_8198096.html",
+   "summary": "Élections législatives en Russie : l'état d'esprit des Russes avant le lancement du premier scrutin depuis la guerre",
+   "image": "https://www.franceinfo.fr/pictures/gBUT9YnnEIWJyGn6IX3ewxBdOY4/0x11:1357x775/432x243/filters:format(jpg)/2026/09/17/6aac4f53ef361021315763.jpg",
+   "date": null,
+   "pubdate": "2026-09-18T16:29:38.771248+00:00"
+  },
+  {
+   "title": "Ingérences, sabotages, tentatives d'assassinat… La menace russe va-t-elle prendre une nouvelle ampleur en Europe ?",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/ingerences-sabotages-tentatives-d-assassinat-la-menace-russe-va-t-elle-prendre-une-nouvelle-ampleur-en-europe_8199089.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/4OS3ctStGRNk_nbJk_tP2036hHM/15x58:849x527/432x243/filters:format(jpg)/2026/09/18/6aad35e76f753967963152.jpg",
+   "date": null,
+   "pubdate": "2026-09-18T16:29:38.771248+00:00"
+  },
+  {
+   "title": "Eric Zemmour accuse Kylian Mbappé de \"solidarité islamique\" avec les migrants à Ceuta, ses propos suscitent l'indignation à gauche",
+   "link": "https://www.franceinfo.fr/sports/foot/kylian-mbappe/eric-zemmour-accuse-kylian-mbappe-de-solidarite-islamique-avec-les-migrants-a-ceuta-ses-propos-suscitent-l-indignation-a-gauche_8199035.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/aeGkwaoCsthy-l0MHv61qGc2XYM/0x191:1024x767/432x243/filters:format(jpg)/2026/09/18/6aad22775918f376379317.jpg",
+   "date": null,
+   "pubdate": "2026-09-18T16:29:38.771248+00:00"
+  },
+  {
+   "title": "1:05 vidéo 1 minute 5 Eux, à 16 ans, ils ont le droit de vote",
    "link": "https://www.franceinfo.fr/monde/europe/allemagne/eux-a-16-ans-ils-ont-le-droit-de-vote_8199020.html",
-   "summary": "La région de #Berlin vient d'autoriser le vote aux 16 – 18 ans. Ils pourront donc participer à l'élection de ce dimanche 20 septembre. C'est la 7e à le faire alors qu'en France, l'idée reste une simple proposition électorale. Alors, est-ce que toi t'aimerais voter dès 16 ans ?",
-   "image": "https://www.franceinfo.fr/pictures/UEjEsPNu20Xv_qX340P6o_vtJ50/0x0:1080x1920/fit-in/432x297/filters:upscale():fill(blur):format(jpg)/2026/09/18/6aad182363b5e783129963.jpg",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/fJdub8yAoJpaZAl35lGmUKKoErk/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/18/6aad182363b5e783129963.jpg",
    "date": null,
    "pubdate": "2026-09-18T11:23:36.950385+00:00"
   },
@@ -60,7 +116,7 @@
    "pubdate": "2026-09-18T11:23:36.950385+00:00"
   },
   {
-   "title": ": Podcast 6:04 audio 6 minutes 4 : Podcast Emmanuel Macron renonce à Fort Boyard, canicule et crises suicidaires et la BO de GTA : ça dit quoi ce 18 septembre ?",
+   "title": ": Podcast 6:04 audio 6 minutes 4 Emmanuel Macron renonce à Fort Boyard, canicule et crises suicidaires et la BO de GTA : ça dit quoi ce 18 septembre ? Ce vendredi 18 septembre, Emmanuel Macron convoque tous les chefs de partis à l'Élysée pour une réunion sur la situation internationale, avec la chaleur de cet été les appels au 3114 ont augmenté et Rockstars Games continue de teaser GTA VI.",
    "link": "https://www.franceinfo.fr/replay-radio/ca-dit-quoi/emmanuel-macron-renonce-a-fort-boyard-canicule-et-crises-suicidaires-et-la-bo-de-gta-ca-dit-quoi-ce-18-septembre_8188964.html",
    "summary": "Emmanuel Macron renonce à Fort Boyard, canicule et crises suicidaires et la BO de GTA : ça dit quoi ce 18 septembre ?",
    "image": "https://www.franceinfo.fr/pictures/M3VFY_KEIOV7QQ2wy_KqkAMW-5o/0x25:1024x601/432x243/filters:format(jpg)/2026/09/18/6aacc1a12ba81097643929.jpg",
@@ -68,23 +124,7 @@
    "pubdate": "2026-09-18T11:23:36.950385+00:00"
   },
   {
-   "title": "1:42 vidéo 1 minute 42 Guerre en Ukraine : ces Russes tentés par l'exil",
-   "link": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/guerre-en-ukraine-ces-russes-tentes-par-l-exil_8198615.html",
-   "summary": "Guerre en Ukraine : ces Russes tentés par l'exil",
-   "image": "https://www.franceinfo.fr/pictures/Ny84v3a2ZBtOJiUNOoddfwscDfg/185x0:1476x726/432x243/filters:format(jpg)/2026/09/18/6aacd9cc9b40f700578594.png",
-   "date": null,
-   "pubdate": "2026-09-18T11:23:36.950385+00:00"
-  },
-  {
-   "title": "1:44 vidéo 1 minute 44 Carburants : les prix atteignent des sommets en Allemagne",
-   "link": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/carburants-les-prix-atteignent-des-sommets-en-allemagne_8198612.html",
-   "summary": "Carburants : les prix atteignent des sommets en Allemagne",
-   "image": "https://www.franceinfo.fr/pictures/QSn8fNb9GY0XxPm6m2N6OImh-uM/176x0:1464x725/432x243/filters:format(jpg)/2026/09/18/6aacd4a045e07950667761.png",
-   "date": null,
-   "pubdate": "2026-09-18T11:23:36.950385+00:00"
-  },
-  {
-   "title": "2:46 audio 2 minutes 46 Sur les champs de bataille, l’intelligence artificielle et les systèmes autonomes tuent déjà",
+   "title": "2:46 audio 2 minutes 46 Sur les champs de bataille, l’intelligence artificielle et les systèmes autonomes tuent déjà Alors que les risques existentiels liés à l’IA alimentent les débats, son utilisation militaire est déjà une réalité. En Ukraine comme en Iran, les systèmes autonomes bouleversent la manière de faire la guerre.",
    "link": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/sur-les-champs-de-bataille-l-intelligence-artificielle-et-les-de-systemes-autonomes-tuent-deja_8176166.html",
    "summary": "Sur les champs de bataille, l’intelligence artificielle et les systèmes autonomes tuent déjà",
    "image": "https://www.franceinfo.fr/pictures/A7-J9R6ZMHdcGRWg2nw0XvfKqVo/0x53:1024x629/432x243/filters:format(jpg)/2026/09/18/6aacca14c0c6b038233924.jpg",
@@ -92,7 +132,7 @@
    "pubdate": "2026-09-18T11:23:36.950385+00:00"
   },
   {
-   "title": ": Reportage : Reportage Election régionale dans le nord-est de l'Allemagne, où l'AfD séduit en misant sur le retour d'un partenariat commercial avec la Russie",
+   "title": ": Reportage Election régionale dans le nord-est de l'Allemagne, où l'AfD séduit en misant sur le retour d'un partenariat commercial avec la Russie Les électeurs du Land de Mecklembourg-Poméranie-Occidentale sont appelés aux urnes dimanche. Le parti d'extrême droite propose notamment d'utiliser à nouveau le gaz russe, moins cher. C'est un argument de poids dans un contexte de hausse des prix du carburant.",
    "link": "https://www.franceinfo.fr/monde/europe/allemagne/reportage-election-regionale-dans-le-nord-est-de-l-allemagne-ou-l-afd-seduit-en-misant-sur-le-retour-d-un-partenariat-commercial-avec-la-russie_8197997.html",
    "summary": "Election régionale dans le nord-est de l'Allemagne, où l'AfD séduit en misant sur le retour d'un partenariat commercial avec la Russie",
    "image": "https://www.franceinfo.fr/pictures/KZorDw2kJiHP4gI4cfMk9P_6VFI/180x0:1819x922/432x243/filters:format(jpg)/2026/09/17/6aac464e50bc0390597719.jpg",
@@ -100,17 +140,17 @@
    "pubdate": "2026-09-18T11:23:36.950385+00:00"
   },
   {
-   "title": "\"La situation va de mal en pis\" : en Russie, la société toujours plus verrouillée à l'heure des élections législatives",
+   "title": "\"La situation va de mal en pis\" : en Russie, la société toujours plus verrouillée à l'heure des élections législatives La répression des voix dissidentes russes a continué de s'aggraver à l'approche du scrutin, organisé de vendredi à dimanche en Russie.",
    "link": "https://www.franceinfo.fr/monde/russie/la-situation-va-de-mal-en-pis-en-russie-la-societe-toujours-plus-verrouillee-a-l-heure-des-elections-legislatives_8194973.html",
-   "summary": "",
+   "summary": "\"La situation va de mal en pis\" : en Russie, la société toujours plus verrouillée à l'heure des élections législatives",
    "image": "https://www.franceinfo.fr/pictures/byD6NHOi_Nl6CW65w7kqevndjsI/0x0:995x560/432x243/filters:format(jpg)/2026/09/16/6aaaa866cc37f658546030.jpg",
    "date": null,
    "pubdate": "2026-09-18T04:50:27.217585+00:00"
   },
   {
-   "title": "Les plans russes incluent \"des attaques hybrides de drones et de missiles\" contre des pays pro-Ukraine, avertit Donald Tusk, Premier ministre polonais",
+   "title": "Les plans russes incluent \"des attaques hybrides de drones et de missiles\" contre des pays pro-Ukraine, avertit Donald Tusk, Premier ministre polonais Le Premier ministre polonais doit se rendre vendredi en Ukraine, où il doit notamment retrouver son homologue slovaque Robert Fico.",
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/les-plans-russes-incluent-des-attaques-hybrides-de-drones-et-de-missiles-contre-des-pays-pro-ukraine-avertit-donald-tusk-premier-ministre-polonais_8198099.html",
-   "summary": "",
+   "summary": "Les plans russes incluent \"des attaques hybrides de drones et de missiles\" contre des pays pro-Ukraine, avertit Donald Tusk, Premier ministre polonais",
    "image": "https://www.franceinfo.fr/pictures/dutvPoHNbVIXNphhW2FMb_xFnGg/0x0:1024x576/432x243/filters:format(jpg)/2026/09/17/6aac4d105307a076009243.jpg",
    "date": null,
    "pubdate": "2026-09-17T21:27:09.223780+00:00"
@@ -204,38 +244,6 @@
    "pubdate": "2026-09-17T11:48:55.432624+00:00"
   },
   {
-   "title": "Donald Trump menace d'arrêter les échanges commerciaux avec l'UE si elle maintient son projet d'association avec le Canada \"S'ils font cela, si j'estime qu'il s'agit d'un acte hostile, j'imposerai des droits de douane très lourds ou je cesserai tout commerce avec l'Europe\", a déclaré mercredi le président américain.",
-   "link": "https://www.franceinfo.fr/monde/europe/union-europeenne/donald-trump-menace-d-arreter-les-echanges-commerciaux-avec-l-ue-en-raison-de-son-projet-d-association-avec-le-canada_8196545.html",
-   "summary": "Donald Trump menace d'arrêter les échanges commerciaux avec l'UE si elle maintient son projet d'association avec le Canada",
-   "image": "https://www.franceinfo.fr/pictures/zY8_MAqXLpw3mn1z-gl02lIfouI/0x106:1024x682/432x243/filters:format(jpg)/2026/09/17/6aab7741076fa425482202.jpg",
-   "date": null,
-   "pubdate": "2026-09-17T11:48:55.432624+00:00"
-  },
-  {
-   "title": "Le Congrès américain adopte un nouveau paquet de sanctions contre la Russie, Volodymyr Zelensky salue un vote \"symbolique\" Le texte, qui prévoit pour la première fois côté américain de s'en prendre à la flotte fantôme de la Russie, constitue la première action de taille du Congrès américain contre Moscou depuis le retour au pouvoir de Donald Trump.",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/le-congres-americain-adopte-un-nouveau-paquet-de-sanctions-contre-la-russie_8196548.html",
-   "summary": "Le Congrès américain adopte un nouveau paquet de sanctions contre la Russie, Volodymyr Zelensky salue un vote \"symbolique\"",
-   "image": "https://www.franceinfo.fr/pictures/N6lXTgrEPCqt9qfJjnUzPu3FBrc/0x128:1024x704/432x243/filters:format(jpg)/2026/09/17/6aab6c96714b0435650010.jpg",
-   "date": null,
-   "pubdate": "2026-09-17T04:58:08.620151+00:00"
-  },
-  {
-   "title": "Comment Emmanuel Macron compte faire aboutir l'interdiction des réseaux sociaux aux moins de 15 ans malgré la censure du Conseil constitutionnel Le chef de l'Etat a annoncé lundi avoir présenté un nouveau texte à Bruxelles dans l'espoir de mettre en place l'interdiction des réseaux sociaux aux adolescents de moins de 15 ans. Il doit pour cela se conformer à la loi française et à la loi européenne.",
-   "link": "https://www.franceinfo.fr/internet/reseaux-sociaux/comment-emmanuel-macron-compte-faire-aboutir-l-interdiction-des-reseaux-sociaux-aux-moins-de-15-ans-malgre-la-censure-du-conseil-constitutionnel_8191757.html",
-   "summary": "Comment Emmanuel Macron compte faire aboutir l'interdiction des réseaux sociaux aux moins de 15 ans malgré la censure du Conseil constitutionnel",
-   "image": "https://www.franceinfo.fr/pictures/EoIi0wATgvM01vSoJGDnmFigOww/0x260:5000x3072/432x243/filters:format(jpg)/2026/09/14/6aa81c03d1149706688930.jpg",
-   "date": null,
-   "pubdate": "2026-09-17T04:58:08.620151+00:00"
-  },
-  {
-   "title": "\"Je ne veux pas établir de priorité dans la souffrance\" : Kylian Mbappé explique pourquoi il n'a pas enfilé entièrement un tee-shirt de soutien à Ceuta Avant le match du Real Madrid contre Elche, mardi soir, l'attaquant tricolore a fait partie des trois joueurs ayant décidé de recouvrir la moitié de ce tee-shirt.",
-   "link": "https://www.franceinfo.fr/sports/foot/kylian-mbappe/je-ne-veux-pas-etablir-de-priorite-dans-la-souffrance-kylian-mbappe-explique-pourquoi-il-n-a-pas-enfile-entierement-un-tee-shirt-de-soutien-a-ceuta_8196185.html",
-   "summary": "\"Je ne veux pas établir de priorité dans la souffrance\" : Kylian Mbappé explique pourquoi il n'a pas enfilé entièrement un tee-shirt de soutien à Ceuta",
-   "image": "https://www.franceinfo.fr/pictures/d-13BiEDpB-lR7yIZvyaOTVxJ60/0x0:7000x3937/432x243/filters:format(jpg)/2026/09/16/6aaafb407dee1831172132.jpg",
-   "date": null,
-   "pubdate": "2026-09-16T21:23:09.055567+00:00"
-  },
-  {
    "title": ": Reportage 2:00 article 2 minutes : Reportage \"Plus de huit millions de livres pour enfants\" partis en fumée : l'Ukraine face à une pénurie de manuels scolaires après des frappes russes",
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/reportage-plus-de-huit-millions-de-livres-pour-enfants-partis-en-fumee-l-ukraine-face-a-une-penurie-de-manuels-scolaires-apres-des-frappes-russes_8192342.html",
    "summary": "\"Plus de huit millions de livres pour enfants\" partis en fumée : l'Ukraine face à une pénurie de manuels scolaires après des frappes russes",
@@ -266,14 +274,6 @@
    "image": "https://www.franceinfo.fr/pictures/VFg8d1outM3G4QXNVW4Z5Ox_n70/171x0:853x682/100x100/filters:format(jpg)/2026/09/04/6a9a5941c45a4796624614.jpg",
    "date": null,
    "pubdate": "2026-09-14T19:51:56.909555+00:00"
-  },
-  {
-   "title": "4:30 audio 4 minutes 30 \"Je ne sais pas ce qui attend nos enfants\" : à Kiev, l'angoisse de la rentrée sous les bombes après un été meurtrier",
-   "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/je-ne-sais-pas-ce-qui-attend-nos-enfants-a-kiev-l-angoisse-de-la-rentree-sous-les-bombes-apres-un-ete-meurtrier_8144936.html",
-   "summary": "\"Je ne sais pas ce qui attend nos enfants\" : à Kiev, l'angoisse de la rentrée sous les bombes après un été meurtrier",
-   "image": "https://www.franceinfo.fr/pictures/07LcAYc2BL1tbPyni2IkoRuOcD4/1000x0:5000x4000/100x100/filters:format(jpg)/2026/08/31/6a950e984fe25063470033.jpg",
-   "date": null,
-   "pubdate": "2026-09-14T05:03:43.324060+00:00"
   }
  ]
 }

@@ -1,17 +1,10 @@
 {
- "etag": "\"04447d4da80b0c30b53be4fcc11a0ae7-gzip\"",
+ "etag": "\"1624f92699f4296271a261889ab5a411-gzip\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.franceinfo.fr/monde/proche-orient/tensions-entre-l-arabie-saoudite-et-l-iran/l-union-europeenne-exprime-sa-totale-solidarite-avec-l-arabie-saoudite-et-appelle-les-houthis-a-cesser-leurs-frappes_8197769.html": "2026-09-17T17:05:18.263022+00:00",
-  "https://www.franceinfo.fr/internet/reseaux-sociaux/reseaux-sociaux-interdits-avant-13-ans-fonctionnalites-addictives-bloquees-pour-les-mineurs-ce-que-contient-le-kids-act-presente-par-la-commission-europeenne_8197241.html": "2026-09-17T17:05:18.263022+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/les-plans-russes-incluent-des-attaques-hybrides-de-drones-et-de-missiles-contre-des-pays-pro-ukraine-avertit-donald-tusk-premier-ministre-polonais_8198099.html": "2026-09-17T21:27:10.631456+00:00",
-  "https://www.franceinfo.fr/monde/europe/allemagne/aujourd-hui-le-probleme-de-la-cdu-s-appelle-friedrich-merz-a-quatre-jours-d-un-nouveau-scrutin-regional-l-afd-cible-le-chancelier-allemand_8196818.html": "2026-09-17T21:27:10.631456+00:00",
-  "https://www.franceinfo.fr/replay-radio/la-question-des-informes/l-ampleur-de-l-ingerence-americaine-est-elle-sous-estimee_8197715.html": "2026-09-17T21:27:10.631456+00:00",
-  "https://www.franceinfo.fr/monde/europe/gabriel-attal-juge-que-l-europe-des-27-a-atteint-ses-limites-et-plaide-pour-des-etats-unis-d-europe_8197754.html": "2026-09-17T21:27:10.631456+00:00",
   "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/un-an-de-donald-trump-au-pouvoir/": "2026-09-17T21:27:10.631456+00:00",
   "https://www.franceinfo.fr/grands-formats/de-san-francisco-a-los-angeles-les-richesses-menacees-de-la-pacific-coast-highway-la-route-du-pacifique_8185364.html": "2026-09-17T21:27:10.631456+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-il-y-a-70-de-bon-et-30-de-mauvais-en-chine-le-culte-de-mao-prend-de-l-ampleur-chez-les-jeunes_8161538.html": "2026-09-17T21:27:10.631456+00:00",
-  "https://www.franceinfo.fr/monde/asie/taiwan/du-sommet-de-l-etat-au-quotidien-des-habitants-comment-taiwan-se-prepare-a-une-guerre-avec-la-chine_8181767.html": "2026-09-17T21:27:10.631456+00:00",
   "https://www.franceinfo.fr/economie/automobile/essence/direct-crise-energetique-emmanuel-macron-va-recevoir-les-principaux-responsables-politiques-pour-evoquer-les-conflits-internationaux-et-leurs-consequences-en-france_8198486.html": "2026-09-18T04:50:28.917127+00:00",
   "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/il-est-d-abord-accueilli-comme-chef-de-l-eglise-pourquoi-le-pape-leon-xiv-a-refuse-les-honneurs-d-une-visite-d-etat_8197469.html": "2026-09-18T04:50:28.917127+00:00",
   "https://www.franceinfo.fr/monde/russie/la-situation-va-de-mal-en-pis-en-russie-la-societe-toujours-plus-verrouillee-a-l-heure-des-elections-legislatives_8194973.html": "2026-09-18T04:50:28.917127+00:00",
@@ -19,72 +12,143 @@
   "https://www.franceinfo.fr/monde/usa/affaire-jeffrey-epstein/l-essentiel-des-revelations-sur-l-affaire-epstein/": "2026-09-18T04:50:28.917127+00:00",
   "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/tout-comprendre-a-la-guerre-au-moyen-orient/": "2026-09-18T04:50:28.917127+00:00",
   "https://www.franceinfo.fr/monde/groenland/le-groenland-au-c-ur-d-un-bras-de-fer-geopolitique/": "2026-09-18T04:50:28.917127+00:00",
-  "https://www.franceinfo.fr/monde/europe/allemagne/eux-a-16-ans-ils-ont-le-droit-de-vote_8199020.html": "2026-09-18T11:23:38.116045+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-plus-de-1-000-cas-de-violences-sexuelles-depuis-le-debut-du-conflit-alerte-l-onu_8198969.html": "2026-09-18T11:23:38.116045+00:00",
   "https://www.franceinfo.fr/culture/patrimoine/archeologie/en-italie-une-fresque-et-des-mosaiques-antiques-exhumees-au-c-ur-de-rome_8198672.html": "2026-09-18T11:23:38.116045+00:00",
   "https://www.franceinfo.fr/culture/livres/le-mexique-expose-le-codex-azcatitlan-un-precieux-manuscrit-conserve-en-france-depuis-deux-siecles_8198714.html": "2026-09-18T11:23:38.116045+00:00",
   "https://www.franceinfo.fr/sante/vaccins/la-vaccination-infantile-est-en-recul-dans-plusieurs-pays-d-europe-depuis-le-covid-19-selon-une-etude_8198696.html": "2026-09-18T11:23:38.116045+00:00",
-  "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/vers-une-affluence-record-pour-la-venue-du-pape-leon-xiv-a-paris_8198669.html": "2026-09-18T11:23:38.116045+00:00",
   "https://www.franceinfo.fr/replay-radio/le-monde-et-vous/face-a-la-flambee-des-prix-du-petrole-certains-pays-envisagent-de-revenir-a-la-semaine-de-quatre-jours_8191937.html": "2026-09-18T11:23:38.116045+00:00",
   "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/des-photos-de-l-afp-montrent-donald-trump-en-train-de-regarder-un-panneau-semblant-evoquer-une-demolition-du-kennedy-center_8198657.html": "2026-09-18T11:23:38.116045+00:00",
   "https://www.franceinfo.fr/replay-radio/ca-dit-quoi/emmanuel-macron-renonce-a-fort-boyard-canicule-et-crises-suicidaires-et-la-bo-de-gta-ca-dit-quoi-ce-18-septembre_8188964.html": "2026-09-18T11:23:38.116045+00:00",
-  "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/guerre-en-ukraine-ces-russes-tentes-par-l-exil_8198615.html": "2026-09-18T11:23:38.116045+00:00",
   "https://www.franceinfo.fr/replay-radio/le-brief-eco/l-espagne-ramene-sa-dette-publique-sous-les-100-du-pib-quand-la-france-paie-des-interets-au-prix-fort_8176151.html": "2026-09-18T11:23:38.116045+00:00",
   "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/sur-les-champs-de-bataille-l-intelligence-artificielle-et-les-de-systemes-autonomes-tuent-deja_8176166.html": "2026-09-18T11:23:38.116045+00:00",
-  "https://www.franceinfo.fr/monde/europe/allemagne/reportage-election-regionale-dans-le-nord-est-de-l-allemagne-ou-l-afd-seduit-en-misant-sur-le-retour-d-un-partenariat-commercial-avec-la-russie_8197997.html": "2026-09-18T11:23:38.116045+00:00"
+  "https://www.franceinfo.fr/monde/europe/allemagne/reportage-election-regionale-dans-le-nord-est-de-l-allemagne-ou-l-afd-seduit-en-misant-sur-le-retour-d-un-partenariat-commercial-avec-la-russie_8197997.html": "2026-09-18T11:23:38.116045+00:00",
+  "https://www.franceinfo.fr/replay-radio/salut-l-info/podcast-l-ecole-malgre-la-guerre-un-record-battu-pour-les-basketteuses-francaises-et-un-tresor-viking_8188970.html": "2026-09-18T16:29:40.439105+00:00",
+  "https://www.franceinfo.fr/monde/espagne/en-espagne-plus-de-80-000-hectares-sont-irrigues-avec-de-l-eau-volee-selon-une-enquete-du-wwf_8199143.html": "2026-09-18T16:29:40.439105+00:00",
+  "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/visite-du-pape-leon-xiv-en-france-derniere-ligne-droite-pour-les-preparatifs-dans-les-paroisses_8199347.html": "2026-09-18T16:29:40.439105+00:00",
+  "https://www.franceinfo.fr/monde/russie/reportage-le-gouvernement-ne-doit-pas-adapter-les-lois-qu-on-trouve-en-europe-les-russes-aux-urnes-pour-des-legislatives-en-pleine-guerre-en-ukraine_8199230.html": "2026-09-18T16:29:40.439105+00:00",
+  "https://www.franceinfo.fr/politique/emmanuel-macron/face-aux-attaques-hybrides-russes-emmanuel-macron-promet-un-plan-pour-les-infrastructures-critiques_8199287.html": "2026-09-18T16:29:40.439105+00:00",
+  "https://www.franceinfo.fr/politique/emmanuel-macron/protection-des-infrastructures-critiques-g7-de-l-energie-prix-des-carburants-ce-qu-il-faut-retenir-de-la-prise-de-parole-d-emmanuel-macron-a-l-elysee_8199119.html": "2026-09-18T16:29:40.439105+00:00",
+  "https://www.franceinfo.fr/monde/russie/elections-legislatives-en-russie-l-etat-d-esprit-des-russes-avant-le-lancement-du-premier-scrutin-depuis-la-guerre_8198096.html": "2026-09-18T16:29:40.439105+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/ingerences-sabotages-tentatives-d-assassinat-la-menace-russe-va-t-elle-prendre-une-nouvelle-ampleur-en-europe_8199089.html": "2026-09-18T16:29:40.439105+00:00",
+  "https://www.franceinfo.fr/economie/automobile/essence/prix-record-du-gazole-et-de-l-essence-visualisez-la-flambee-des-tarifs-a-la-pompe-depuis-le-debut-de-la-guerre-au-moyen-orient_8198840.html": "2026-09-18T16:29:40.439105+00:00",
+  "https://www.franceinfo.fr/sports/foot/kylian-mbappe/eric-zemmour-accuse-kylian-mbappe-de-solidarite-islamique-avec-les-migrants-a-ceuta-ses-propos-suscitent-l-indignation-a-gauche_8199035.html": "2026-09-18T16:29:40.439105+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "Eux, à 16 ans, ils ont le droit de vote La région de #Berlin vient d'autoriser le vote aux 16 – 18 ans. Ils pourront donc participer à l'élection de ce dimanche 20 septembre. C'est la 7e à le faire alors qu'en France, l'idée reste une simple proposition électorale. Alors, est-ce que toi t'aimerais voter dès 16 ans ? Aujourd'hui 1:05 vidéo 1 minute 5",
-   "link": "https://www.franceinfo.fr/monde/europe/allemagne/eux-a-16-ans-ils-ont-le-droit-de-vote_8199020.html",
-   "summary": "La région de #Berlin vient d'autoriser le vote aux 16 – 18 ans. Ils pourront donc participer à l'élection de ce dimanche 20 septembre. C'est la 7e à le faire alors qu'en France, l'idée reste une simple proposition électorale. Alors, est-ce que toi t'aimerais voter dès 16 ans ?",
-   "image": "https://www.franceinfo.fr/pictures/UEjEsPNu20Xv_qX340P6o_vtJ50/0x0:1080x1920/fit-in/432x297/filters:upscale():fill(blur):format(jpg)/2026/09/18/6aad182363b5e783129963.jpg",
+   "title": ": Podcast L’école malgré la guerre, un record battu pour les basketteuses françaises et un trésor viking Les écoles touchées par la guerre, les Françaises qui battent un record en basket et un incroyable trésor viking : c'est l'actualité de la semaine du podcast pour enfants \"Salut l'info !\" Aujourd'hui : Podcast 15:49 audio 15 minutes 49",
+   "link": "https://www.franceinfo.fr/replay-radio/salut-l-info/podcast-l-ecole-malgre-la-guerre-un-record-battu-pour-les-basketteuses-francaises-et-un-tresor-viking_8188970.html",
+   "summary": "L’école malgré la guerre, un record battu pour les basketteuses françaises et un trésor viking",
+   "image": "https://www.franceinfo.fr/pictures/lQls0ZjgPpHuZGAy3KyZB65HsNk/142x0:1451x900/432x297/filters:format(jpg)/2026/09/18/6aacf6e6e98e6276499758.jpg",
    "date": null,
-   "pubdate": "2026-09-18T11:23:38.116045+00:00"
+   "pubdate": "2026-09-18T16:29:40.439105+00:00"
   },
   {
-   "title": "Guerre en Ukraine : plus de 1 000 cas de violences sexuelles depuis le début du conflit, alerte l'ONU",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-plus-de-1-000-cas-de-violences-sexuelles-depuis-le-debut-du-conflit-alerte-l-onu_8198969.html",
+   "title": "En Espagne, plus de 80 000 hectares sont irrigués avec de l'eau volée, selon une enquête du WWF",
+   "link": "https://www.franceinfo.fr/monde/espagne/en-espagne-plus-de-80-000-hectares-sont-irrigues-avec-de-l-eau-volee-selon-une-enquete-du-wwf_8199143.html",
    "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/xU5EQeyRIIz9-seFzUY7HgN6bEQ/0x0:4000x2250/432x243/filters:format(jpg)/2026/09/18/6aad345c66b72250373144.jpg",
+   "date": null,
+   "pubdate": "2026-09-18T16:29:40.439105+00:00"
+  },
+  {
+   "title": "2:09 vidéo 2 minutes 9 Visite du pape Léon XIV en France : dernière ligne droite pour les préparatifs dans les paroisses",
+   "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/visite-du-pape-leon-xiv-en-france-derniere-ligne-droite-pour-les-preparatifs-dans-les-paroisses_8199347.html",
+   "summary": "Visite du pape Léon XIV en France : dernière ligne droite pour les préparatifs dans les paroisses",
+   "image": "https://www.franceinfo.fr/pictures/y9JMPKEApDzv-1yHkTcVHW4IkJ4/85x0:1225x641/432x243/filters:format(jpg)/2026/09/18/6aad4f4dde5b2185791765.jpg",
+   "date": null,
+   "pubdate": "2026-09-18T16:29:40.439105+00:00"
+  },
+  {
+   "title": ": Reportage : Reportage \"Le gouvernement ne doit pas adapter les lois qu'on trouve en Europe\" : les Russes aux urnes pour des législatives, en pleine guerre en Ukraine",
+   "link": "https://www.franceinfo.fr/monde/russie/reportage-le-gouvernement-ne-doit-pas-adapter-les-lois-qu-on-trouve-en-europe-les-russes-aux-urnes-pour-des-legislatives-en-pleine-guerre-en-ukraine_8199230.html",
+   "summary": "\"Le gouvernement ne doit pas adapter les lois qu'on trouve en Europe\" : les Russes aux urnes pour des législatives, en pleine guerre en Ukraine",
+   "image": "https://www.franceinfo.fr/pictures/Rr8vq-FbGdzpg-JvYCNABDBhdsY/0x287:5515x3389/432x243/filters:format(jpg)/2026/09/18/6aad42c03b5e0457145609.jpg",
+   "date": null,
+   "pubdate": "2026-09-18T16:29:40.439105+00:00"
+  },
+  {
+   "title": "Face aux attaques \"hybrides\" russes, Emmanuel Macron promet un plan pour les \"infrastructures critiques\"",
+   "link": "https://www.franceinfo.fr/politique/emmanuel-macron/face-aux-attaques-hybrides-russes-emmanuel-macron-promet-un-plan-pour-les-infrastructures-critiques_8199287.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/uEwx_qIioIl3DOotTvQ8htSS5m8/0x12:1024x588/432x243/filters:format(jpg)/2026/09/18/6aad43bb0a75f250332664.jpg",
+   "date": null,
+   "pubdate": "2026-09-18T16:29:40.439105+00:00"
+  },
+  {
+   "title": "16:34 vidéo 16 minutes 34 Protection des \"infrastructures critiques\", G7 de l'énergie, prix des carburants… Ce qu'il faut retenir de la prise de parole d'Emmanuel Macron à l'Elysée",
+   "link": "https://www.franceinfo.fr/politique/emmanuel-macron/protection-des-infrastructures-critiques-g7-de-l-energie-prix-des-carburants-ce-qu-il-faut-retenir-de-la-prise-de-parole-d-emmanuel-macron-a-l-elysee_8199119.html",
+   "summary": "Protection des \"infrastructures critiques\", G7 de l'énergie, prix des carburants… Ce qu'il faut retenir de la prise de parole d'Emmanuel Macron à l'Elysée",
+   "image": "https://www.franceinfo.fr/pictures/jaBMQunmiwCoBYvjueblMzF6Q9I/0x0:1024x576/432x243/filters:format(jpg)/2026/09/18/6aad37cd67ec9387160972.jpg",
+   "date": null,
+   "pubdate": "2026-09-18T16:29:40.439105+00:00"
+  },
+  {
+   "title": "2:58 vidéo 2 minutes 58 Élections législatives en Russie : l'état d'esprit des Russes avant le lancement du premier scrutin depuis la guerre",
+   "link": "https://www.franceinfo.fr/monde/russie/elections-legislatives-en-russie-l-etat-d-esprit-des-russes-avant-le-lancement-du-premier-scrutin-depuis-la-guerre_8198096.html",
+   "summary": "Élections législatives en Russie : l'état d'esprit des Russes avant le lancement du premier scrutin depuis la guerre",
+   "image": "https://www.franceinfo.fr/pictures/gBUT9YnnEIWJyGn6IX3ewxBdOY4/0x11:1357x775/432x243/filters:format(jpg)/2026/09/17/6aac4f53ef361021315763.jpg",
+   "date": null,
+   "pubdate": "2026-09-18T16:29:40.439105+00:00"
+  },
+  {
+   "title": "Ingérences, sabotages, tentatives d'assassinat… La menace russe va-t-elle prendre une nouvelle ampleur en Europe ?",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/ingerences-sabotages-tentatives-d-assassinat-la-menace-russe-va-t-elle-prendre-une-nouvelle-ampleur-en-europe_8199089.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/4OS3ctStGRNk_nbJk_tP2036hHM/15x58:849x527/432x243/filters:format(jpg)/2026/09/18/6aad35e76f753967963152.jpg",
+   "date": null,
+   "pubdate": "2026-09-18T16:29:40.439105+00:00"
+  },
+  {
+   "title": "Prix record du gazole et de l'essence : visualisez la flambée des tarifs à la pompe depuis le début de la guerre au Moyen-Orient",
+   "link": "https://www.franceinfo.fr/economie/automobile/essence/prix-record-du-gazole-et-de-l-essence-visualisez-la-flambee-des-tarifs-a-la-pompe-depuis-le-debut-de-la-guerre-au-moyen-orient_8198840.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/vGmgdJx_GRI1timu8eS2iy7MBHc/0x52:1024x628/432x243/filters:format(jpg)/2026/09/18/6aad17ffd09da314414610.jpg",
+   "date": null,
+   "pubdate": "2026-09-18T16:29:40.439105+00:00"
+  },
+  {
+   "title": "Eric Zemmour accuse Kylian Mbappé de \"solidarité islamique\" avec les migrants à Ceuta, ses propos suscitent l'indignation à gauche",
+   "link": "https://www.franceinfo.fr/sports/foot/kylian-mbappe/eric-zemmour-accuse-kylian-mbappe-de-solidarite-islamique-avec-les-migrants-a-ceuta-ses-propos-suscitent-l-indignation-a-gauche_8199035.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/aeGkwaoCsthy-l0MHv61qGc2XYM/0x191:1024x767/432x243/filters:format(jpg)/2026/09/18/6aad22775918f376379317.jpg",
+   "date": null,
+   "pubdate": "2026-09-18T16:29:40.439105+00:00"
+  },
+  {
+   "title": "Guerre en Ukraine : plus de 1 000 cas de violences sexuelles depuis le début du conflit, alerte l'ONU Sur l'ensemble des cas recensés, 89% ont été attribués au camp russe, notamment à des membres des forces armées, de l'administration pénitentiaire et des services de sécurité nationale et 11% aux Ukrainiens.",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-plus-de-1-000-cas-de-violences-sexuelles-depuis-le-debut-du-conflit-alerte-l-onu_8198969.html",
+   "summary": "Guerre en Ukraine : plus de 1 000 cas de violences sexuelles depuis le début du conflit, alerte l'ONU",
    "image": "https://www.franceinfo.fr/pictures/oJB5ytuDh3QomZJ7N8MjtXstZmE/0x18:1024x594/432x243/filters:format(jpg)/2026/09/18/6aad1403b6a6f126031531.jpg",
    "date": null,
    "pubdate": "2026-09-18T11:23:38.116045+00:00"
   },
   {
-   "title": "En Italie, une fresque et des mosaïques antiques exhumées au cœur de Rome",
+   "title": "En Italie, une fresque et des mosaïques antiques exhumées au cœur de Rome Rome a encore des merveilles antiques à dévoiler. Sous les thermes de Trajan, près du Colisée, se trouvent une fresque et des murs de mosaïques parmi les plus importants, en dimension, du monde antique.",
    "link": "https://www.franceinfo.fr/culture/patrimoine/archeologie/en-italie-une-fresque-et-des-mosaiques-antiques-exhumees-au-c-ur-de-rome_8198672.html",
-   "summary": "",
+   "summary": "En Italie, une fresque et des mosaïques antiques exhumées au cœur de Rome",
    "image": "https://www.franceinfo.fr/pictures/-DNnYJ5G31Q9vF-jkbFwR-GVBiM/0x106:1024x682/432x243/filters:format(jpg)/2026/09/18/6aaceab26c494044489453.jpg",
    "date": null,
    "pubdate": "2026-09-18T11:23:38.116045+00:00"
   },
   {
-   "title": "Le Mexique expose le \"Codex Azcatitlan\", un précieux manuscrit conservé en France depuis deux siècles",
+   "title": "Le Mexique expose le \"Codex Azcatitlan\", un précieux manuscrit conservé en France depuis deux siècles La Bibliothèque nationale de France, qui le détient depuis plus d'un siècle, l'a prêté au Mexique à l'occasion du bicentenaire des relations diplomatiques entre les deux pays.",
    "link": "https://www.franceinfo.fr/culture/livres/le-mexique-expose-le-codex-azcatitlan-un-precieux-manuscrit-conserve-en-france-depuis-deux-siecles_8198714.html",
-   "summary": "",
+   "summary": "Le Mexique expose le \"Codex Azcatitlan\", un précieux manuscrit conservé en France depuis deux siècles",
    "image": "https://www.franceinfo.fr/pictures/MeX_-rZ0Ai_YKRY0_kDqrsTi1_I/0x495:7581x4760/432x243/filters:format(jpg)/2026/09/18/6aaceb551aa4a140612314.jpg",
    "date": null,
    "pubdate": "2026-09-18T11:23:38.116045+00:00"
   },
   {
-   "title": "La vaccination infantile est en recul dans plusieurs pays d'Europe depuis le Covid-19, selon une étude",
+   "title": "La vaccination infantile est en recul dans plusieurs pays d'Europe depuis le Covid-19, selon une étude En France, la couverture vaccinale a augmenté pour quatre vaccins et diminué pour trois autres.",
    "link": "https://www.franceinfo.fr/sante/vaccins/la-vaccination-infantile-est-en-recul-dans-plusieurs-pays-d-europe-depuis-le-covid-19-selon-une-etude_8198696.html",
-   "summary": "",
+   "summary": "La vaccination infantile est en recul dans plusieurs pays d'Europe depuis le Covid-19, selon une étude",
    "image": "https://www.franceinfo.fr/pictures/6CIBkFwpIEAkPuPZvFtaawB7TQ8/0x1:1024x577/432x243/filters:format(jpg)/2026/09/18/6aaceeb0e9940235682047.jpg",
    "date": null,
    "pubdate": "2026-09-18T11:23:38.116045+00:00"
   },
   {
-   "title": "1:10 vidéo 1 minute 10 Vers une affluence record pour la venue du pape Léon XIV à Paris ?",
-   "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/vers-une-affluence-record-pour-la-venue-du-pape-leon-xiv-a-paris_8198669.html",
-   "summary": "Vers une affluence record pour la venue du pape Léon XIV à Paris ?",
-   "image": "https://www.franceinfo.fr/pictures/FUqNcagEjQQDuwKUhtOVodKdB0Y/0x61:1028x640/432x243/filters:format(jpg)/2026/09/18/6aace1de83603271962440.jpg",
-   "date": null,
-   "pubdate": "2026-09-18T11:23:38.116045+00:00"
-  },
-  {
-   "title": "2:45 audio 2 minutes 45 Face à la flambée des prix du pétrole, certains pays envisagent de revenir à la semaine de quatre jours",
+   "title": "2:45 audio 2 minutes 45 Face à la flambée des prix du pétrole, certains pays envisagent de revenir à la semaine de quatre jours Le Pakistan pourrait rétablir la semaine de quatre jours, déjà appliquée au printemps, en raison de la hausse des prix du pétrole et des perturbations des approvisionnements au Moyen-Orient. L'objectif n'est pas de réduire le temps de travail, mais les déplacements et donc la consommation de carburant.",
    "link": "https://www.franceinfo.fr/replay-radio/le-monde-et-vous/face-a-la-flambee-des-prix-du-petrole-certains-pays-envisagent-de-revenir-a-la-semaine-de-quatre-jours_8191937.html",
    "summary": "Face à la flambée des prix du pétrole, certains pays envisagent de revenir à la semaine de quatre jours",
    "image": "https://www.franceinfo.fr/pictures/Hdxvtx3V-Dxne_feKYmr2dtURL0/0x44:7520x4274/432x243/filters:format(jpg)/2026/09/18/6aacdfdd749c1832413800.jpg",
@@ -92,26 +156,18 @@
    "pubdate": "2026-09-18T11:23:38.116045+00:00"
   },
   {
-   "title": "Des photos de l'AFP montrent Donald Trump en train de regarder un panneau semblant évoquer une démolition du Kennedy Center",
+   "title": "Des photos de l'AFP montrent Donald Trump en train de regarder un panneau semblant évoquer une démolition du Kennedy Center Le président américain menace de condamner ce haut lieu culturel de Washington si son nom n'y est pas accolé.",
    "link": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/des-photos-de-l-afp-montrent-donald-trump-en-train-de-regarder-un-panneau-semblant-evoquer-une-demolition-du-kennedy-center_8198657.html",
-   "summary": "",
+   "summary": "Des photos de l'AFP montrent Donald Trump en train de regarder un panneau semblant évoquer une démolition du Kennedy Center",
    "image": "https://www.franceinfo.fr/pictures/EU78tmDmHit66dEwfrx7zg79V2Y/0x32:1024x608/432x243/filters:format(jpg)/2026/09/18/6aacdaf442655729256189.jpg",
    "date": null,
    "pubdate": "2026-09-18T11:23:38.116045+00:00"
   },
   {
-   "title": ": Podcast 6:04 audio 6 minutes 4 : Podcast Emmanuel Macron renonce à Fort Boyard, canicule et crises suicidaires et la BO de GTA : ça dit quoi ce 18 septembre ?",
+   "title": ": Podcast 6:04 audio 6 minutes 4 Emmanuel Macron renonce à Fort Boyard, canicule et crises suicidaires et la BO de GTA : ça dit quoi ce 18 septembre ? Ce vendredi 18 septembre, Emmanuel Macron convoque tous les chefs de partis à l'Élysée pour une réunion sur la situation internationale, avec la chaleur de cet été les appels au 3114 ont augmenté et Rockstars Games continue de teaser GTA VI.",
    "link": "https://www.franceinfo.fr/replay-radio/ca-dit-quoi/emmanuel-macron-renonce-a-fort-boyard-canicule-et-crises-suicidaires-et-la-bo-de-gta-ca-dit-quoi-ce-18-septembre_8188964.html",
    "summary": "Emmanuel Macron renonce à Fort Boyard, canicule et crises suicidaires et la BO de GTA : ça dit quoi ce 18 septembre ?",
    "image": "https://www.franceinfo.fr/pictures/M3VFY_KEIOV7QQ2wy_KqkAMW-5o/0x25:1024x601/432x243/filters:format(jpg)/2026/09/18/6aacc1a12ba81097643929.jpg",
-   "date": null,
-   "pubdate": "2026-09-18T11:23:38.116045+00:00"
-  },
-  {
-   "title": "1:42 vidéo 1 minute 42 Guerre en Ukraine : ces Russes tentés par l'exil",
-   "link": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/guerre-en-ukraine-ces-russes-tentes-par-l-exil_8198615.html",
-   "summary": "Guerre en Ukraine : ces Russes tentés par l'exil",
-   "image": "https://www.franceinfo.fr/pictures/Ny84v3a2ZBtOJiUNOoddfwscDfg/185x0:1476x726/432x243/filters:format(jpg)/2026/09/18/6aacd9cc9b40f700578594.png",
    "date": null,
    "pubdate": "2026-09-18T11:23:38.116045+00:00"
   },
@@ -172,10 +228,10 @@
    "pubdate": "2026-09-18T04:50:28.917127+00:00"
   },
   {
-   "title": "• Direct Crise énergétique : les responsables politiques échangent à l'Elysée avec Emmanuel Macron, qui s'exprimera à l'issue de la réunion Le chef de l'Etat a convoqué les chefs de parti et candidats à la présidentielle pour évoquer la situation internationale et les conséquences sur le quotidien des Français.",
+   "title": "• Direct Prix des carburants : \"Ils font le choix de refuser de venir en aide aux Français\", réagit Marine Le Pen La candidate d'extrême droite à la présidentielle a estimé qu'une baisse des taxes était la seule solution pour mettre fin à la flambée des prix à la pompe.",
    "link": "https://www.franceinfo.fr/economie/automobile/essence/direct-crise-energetique-emmanuel-macron-va-recevoir-les-principaux-responsables-politiques-pour-evoquer-les-conflits-internationaux-et-leurs-consequences-en-france_8198486.html",
-   "summary": "Crise énergétique : les responsables politiques échangent à l'Elysée avec Emmanuel Macron, qui s'exprimera à l'issue de la réunion",
-   "image": "https://www.franceinfo.fr/pictures/jC9y3_8QDkyjaK817XJK3kLoLxU/0x32:1024x608/432x243/filters:format(jpg)/2026/09/18/6aad0586892d4003540731.jpg",
+   "summary": "Prix des carburants : \"Ils font le choix de refuser de venir en aide aux Français\", réagit Marine Le Pen",
+   "image": "https://www.franceinfo.fr/pictures/2Rqh1lX2ADvHJ2sy2Qf34u4Vxss/0x0:1920x1080/432x243/filters:format(jpg)/2026/09/18/6aad2ab0cc577397809955.jpg",
    "date": null,
    "pubdate": "2026-09-18T04:50:28.917127+00:00"
   },
@@ -218,62 +274,6 @@
    "image": "https://www.franceinfo.fr/pictures/w3Ocn6zpscSeecS3EEUW5jVWcR8/1032x0:5160x4128/100x100/filters:format(jpg)/2026/09/09/6aa0f3e422509555262109.jpg",
    "date": null,
    "pubdate": "2026-09-17T21:27:10.631456+00:00"
-  },
-  {
-   "title": "8:38 vidéo 8 minutes 38 Du sommet de l'État au quotidien des habitants, comment Taïwan se prépare à une guerre avec la Chine",
-   "link": "https://www.franceinfo.fr/monde/asie/taiwan/du-sommet-de-l-etat-au-quotidien-des-habitants-comment-taiwan-se-prepare-a-une-guerre-avec-la-chine_8181767.html",
-   "summary": "Du sommet de l'État au quotidien des habitants, comment Taïwan se prépare à une guerre avec la Chine",
-   "image": "https://www.franceinfo.fr/pictures/qv3AbkPaCS-_I_VHsNJFogDZez8/301x0:976x675/100x100/filters:format(jpg)/2026/09/07/6a9f2791a58aa222823355.jpg",
-   "date": null,
-   "pubdate": "2026-09-17T21:27:10.631456+00:00"
-  },
-  {
-   "title": "Les plans russes incluent \"des attaques hybrides de drones et de missiles\" contre des pays pro-Ukraine, avertit Donald Tusk, Premier ministre polonais Le Premier ministre polonais doit se rendre vendredi en Ukraine, où il doit notamment retrouver son homologue slovaque Robert Fico.",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/les-plans-russes-incluent-des-attaques-hybrides-de-drones-et-de-missiles-contre-des-pays-pro-ukraine-avertit-donald-tusk-premier-ministre-polonais_8198099.html",
-   "summary": "Les plans russes incluent \"des attaques hybrides de drones et de missiles\" contre des pays pro-Ukraine, avertit Donald Tusk, Premier ministre polonais",
-   "image": "https://www.franceinfo.fr/pictures/dutvPoHNbVIXNphhW2FMb_xFnGg/0x0:1024x576/432x243/filters:format(jpg)/2026/09/17/6aac4d105307a076009243.jpg",
-   "date": null,
-   "pubdate": "2026-09-17T21:27:10.631456+00:00"
-  },
-  {
-   "title": "\"Aujourd'hui, le problème de la CDU s’appelle Friedrich Merz\" : à quatre jours d'un nouveau scrutin régional, l’AFD cible le chancelier allemand Après le triomphe de l’AFD en Saxe-Anhalt, le chancelier allemand Friedrich Merz apparaît de plus en plus fragilisé. Il est la cible du parti d’extrême droite, qui agrège les colères lors de ses rassemblements dans le Mecklembourg-Poméranie-Occidentale.",
-   "link": "https://www.franceinfo.fr/monde/europe/allemagne/aujourd-hui-le-probleme-de-la-cdu-s-appelle-friedrich-merz-a-quatre-jours-d-un-nouveau-scrutin-regional-l-afd-cible-le-chancelier-allemand_8196818.html",
-   "summary": "\"Aujourd'hui, le problème de la CDU s’appelle Friedrich Merz\" : à quatre jours d'un nouveau scrutin régional, l’AFD cible le chancelier allemand",
-   "image": "https://www.franceinfo.fr/pictures/FysdM3Vl6ljzHuG5pDea5sCPK10/0x267:5141x3159/432x243/filters:format(jpg)/2026/09/17/6aab9825ef159995984046.jpg",
-   "date": null,
-   "pubdate": "2026-09-17T21:27:10.631456+00:00"
-  },
-  {
-   "title": "9:55 audio 9 minutes 55 L'ampleur de l’ingérence américaine en Europe est-elle sous-estimée ? Invitée sur franceinfo, Melissa Bell, correspondante à Paris pour CNN, publie \"Sous influence américaine, enquête sur l’ingérence américaine en France et en Europe\" (éditions First).",
-   "link": "https://www.franceinfo.fr/replay-radio/la-question-des-informes/l-ampleur-de-l-ingerence-americaine-est-elle-sous-estimee_8197715.html",
-   "summary": "L'ampleur de l’ingérence américaine en Europe est-elle sous-estimée ?",
-   "image": "https://www.franceinfo.fr/pictures/JmqnxnJtR7fLPU2w0SJS79Cn3nU/0x336:6400x3936/432x243/filters:format(jpg)/2026/09/17/6aac3c4bba7eb790793190.jpg",
-   "date": null,
-   "pubdate": "2026-09-17T21:27:10.631456+00:00"
-  },
-  {
-   "title": "Gabriel Attal juge que l'Europe des 27 a \"atteint ses limites\" et plaide pour des \"Etats-Unis d'Europe\" S'il n'a pas précisé le nombre de pays visés, le candidat à la présidentielle a dit vouloir instaurer ces \"Etats-Unis d'Europe\" en faisant \"le premier référendum européen\".",
-   "link": "https://www.franceinfo.fr/monde/europe/gabriel-attal-juge-que-l-europe-des-27-a-atteint-ses-limites-et-plaide-pour-des-etats-unis-d-europe_8197754.html",
-   "summary": "Gabriel Attal juge que l'Europe des 27 a \"atteint ses limites\" et plaide pour des \"Etats-Unis d'Europe\"",
-   "image": "https://www.franceinfo.fr/pictures/WPQ9MEFnRzkWjMaFsAW6MZfCQW0/0x0:1024x576/432x243/filters:format(jpg)/2026/09/17/6aac272fa7f89742879039.jpg",
-   "date": null,
-   "pubdate": "2026-09-17T21:27:10.631456+00:00"
-  },
-  {
-   "title": "L'Union européenne exprime sa \"totale solidarité\" avec l'Arabie saoudite et appelle les houthis à cesser leurs frappes Des affrontements meurtriers ont fait cinq morts jeudi entre les rebelles yéménites et l'Arabie saoudite, quelques jours après l'offensive éclair des combattants pro-iraniens sur la mer Rouge.",
-   "link": "https://www.franceinfo.fr/monde/proche-orient/tensions-entre-l-arabie-saoudite-et-l-iran/l-union-europeenne-exprime-sa-totale-solidarite-avec-l-arabie-saoudite-et-appelle-les-houthis-a-cesser-leurs-frappes_8197769.html",
-   "summary": "L'Union européenne exprime sa \"totale solidarité\" avec l'Arabie saoudite et appelle les houthis à cesser leurs frappes",
-   "image": "https://www.franceinfo.fr/pictures/1DCz92EbRlXPQcWbik-oBQZKRpk/0x53:1024x629/432x243/filters:format(jpg)/2026/09/17/6aac1760b8b06700823858.jpg",
-   "date": null,
-   "pubdate": "2026-09-17T17:05:18.263022+00:00"
-  },
-  {
-   "title": "Réseaux sociaux interdits avant 13 ans, fonctionnalités \"addictives\" bloquées pour les mineurs… Ce que contient le \"Kids Act\" présenté par la Commission européenne Le projet contient de nombreuses contraintes pour les réseaux sociaux, les plateformes de partage de vidéos, les jeux vidéo en ligne et les créateurs de \"chatbots\" alimentés par intelligence artificielle.",
-   "link": "https://www.franceinfo.fr/internet/reseaux-sociaux/reseaux-sociaux-interdits-avant-13-ans-fonctionnalites-addictives-bloquees-pour-les-mineurs-ce-que-contient-le-kids-act-presente-par-la-commission-europeenne_8197241.html",
-   "summary": "Réseaux sociaux interdits avant 13 ans, fonctionnalités \"addictives\" bloquées pour les mineurs… Ce que contient le \"Kids Act\" présenté par la Commission européenne",
-   "image": "https://www.franceinfo.fr/pictures/IuJnloHhtBr6RfwpRNNBad5Ng3A/0x53:1024x629/432x243/filters:format(jpg)/2026/09/17/6aabf6a507e5b320937133.jpg",
-   "date": null,
-   "pubdate": "2026-09-17T17:05:18.263022+00:00"
   }
  ]
 }
