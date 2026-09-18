@@ -1,19 +1,27 @@
 {
  "etag": "",
- "last_modified": "Thu, 17 Sep 2026 16:14:16 GMT",
+ "last_modified": "Fri, 18 Sep 2026 04:49:57 GMT",
  "first_seen": {
   "https://www.jean-jaures.org/publication/medias-et-extreme-droite-en-allemagne-et-en-france-quarante-ans-a-chercher-la-bonne-distance/": "2026-09-15T11:00:00+00:00",
   "https://www.jean-jaures.org/publication/venezuela-paradoxes-dun-tremblement-de-terre-destructeur-devidences/": "2026-09-15T11:00:00+00:00",
   "https://www.jean-jaures.org/publication/vers-une-economie-politique-duale/": "2026-09-16T11:00:00+00:00",
   "https://www.jean-jaures.org/publication/enquete-electorale-2026-les-enseignements-de-la-vague-de-septembre/": "2026-09-14T11:00:00+00:00",
-  "https://www.jean-jaures.org/publication/gauche-au-singulier-ou-au-pluriel/": "2026-09-14T11:00:00+00:00",
-  "https://www.jean-jaures.org/publication/saxe-anhalt-une-analyse-de-la-victoire-de-lafd/": "2026-09-17T11:00:00+00:00"
+  "https://www.jean-jaures.org/publication/saxe-anhalt-une-analyse-de-la-victoire-de-lafd/": "2026-09-17T11:00:00+00:00",
+  "https://www.jean-jaures.org/publication/presidentielle-2027-de-limportance-de-ne-pas-occulter-les-sujets-de-fond-et-de-ne-pas-se-tromper-de-sujets/": "2026-09-17T11:00:00+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
    "title": "Saxe-Anhalt : une analyse de la victoire de l’AfD",
    "link": "https://www.jean-jaures.org/publication/saxe-anhalt-une-analyse-de-la-victoire-de-lafd/",
+   "summary": "",
+   "image": "",
+   "date": "2026-09-17T11:00:00+00:00",
+   "pubdate": "2026-09-17T11:00:00+00:00"
+  },
+  {
+   "title": "Présidentielle 2027 : de l’importance de ne pas occulter les sujets de fond, et de ne pas se tromper de sujet(s)",
+   "link": "https://www.jean-jaures.org/publication/presidentielle-2027-de-limportance-de-ne-pas-occulter-les-sujets-de-fond-et-de-ne-pas-se-tromper-de-sujets/",
    "summary": "",
    "image": "",
    "date": "2026-09-17T11:00:00+00:00",
@@ -46,14 +54,6 @@
   {
    "title": "Enquête électorale 2026 : les enseignements de la vague de septembre",
    "link": "https://www.jean-jaures.org/publication/enquete-electorale-2026-les-enseignements-de-la-vague-de-septembre/",
-   "summary": "",
-   "image": "",
-   "date": "2026-09-14T11:00:00+00:00",
-   "pubdate": "2026-09-14T11:00:00+00:00"
-  },
-  {
-   "title": "Gauche, au singulier ou au pluriel ?",
-   "link": "https://www.jean-jaures.org/publication/gauche-au-singulier-ou-au-pluriel/",
    "summary": "",
    "image": "",
    "date": "2026-09-14T11:00:00+00:00",

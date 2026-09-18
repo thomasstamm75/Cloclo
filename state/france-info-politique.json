@@ -1,12 +1,9 @@
 {
- "etag": "\"b68677ae2d518d53d4eb4dec1a93a5c9-gzip\"",
+ "etag": "\"8ed6364507ed228bab710c9f2685c84b-gzip\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-a-atlanta-les-republicains-craignent-la-fin-de-l-ere-trump-a-l-approche-des-elections-de-mi-mandat-les-democrates-revent-de-revanche_8145842.html": "2026-09-09T20:59:27.970256+00:00",
   "https://www.franceinfo.fr/politique/affaire/financement-de-la-campagne-de-sarkozy/soupcons-de-financement-libyen-tout-comprendre-a-l-affaire/": "2026-09-15T17:05:01.817408+00:00",
-  "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/tout-comprendre-au-proces-des-assistants-parlementaires-fn/": "2026-09-15T17:05:01.817408+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-c-est-le-sauveur-en-saxe-anhalt-ulrich-siegmund-l-homme-le-plus-dangereux-d-allemagne-selon-der-spiegel-aux-portes-du-pouvoir_8147219.html": "2026-09-16T17:04:57.569463+00:00",
-  "https://www.franceinfo.fr/economie/vrai-ou-faux-est-il-vrai-que-70-des-francais-sont-eligibles-a-un-logement-du-parc-social-et-que-seulement-11-d-entre-eux-en-beneficient-comme-l-affirme-marine-le-pen_8195210.html": "2026-09-17T04:58:07.192422+00:00",
   "https://www.franceinfo.fr/enquetes-franceinfo/info-radio-france-c-est-une-bombe-a-retardement-comment-le-rn-a-laisse-en-place-un-depute-soupconne-de-detournements-d-argent-public_8195957.html": "2026-09-17T04:58:07.192422+00:00",
   "https://www.franceinfo.fr/politique/rachida-dati/direct-proces-de-rachida-dati-la-premiere-prise-de-parole-de-l-ancienne-ministre-jugee-pour-corruption-attendue-cet-apres-midi_8197178.html": "2026-09-17T11:48:53.755375+00:00",
   "https://www.franceinfo.fr/politique/ps/primaire-socialiste/la-primaire-commence-mal-l-affaire-philippe-brun-peut-elle-polluer-le-scrutin-organise-pour-designer-le-candidat-du-ps-a-la-presidentielle_8196653.html": "2026-09-17T11:48:53.755375+00:00",
@@ -20,26 +17,69 @@
   "https://www.franceinfo.fr/politique/ps/je-n-y-suis-pour-rien-assure-olivier-faure-apres-l-eviction-de-la-primaire-socialiste-de-philippe-brun-accuse-de-violences_8196743.html": "2026-09-17T11:48:53.755375+00:00",
   "https://www.franceinfo.fr/replay-radio/l-edito-politique/le-risque-d-une-victoire-a-la-pyrrhus-pour-le-vainqueur-de-la-primaire-du-pole-sociale-democrate_8174585.html": "2026-09-17T11:48:53.755375+00:00",
   "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/un-rapport-preconise-de-conserver-un-age-legal-de-depart-a-la-retraite-pour-une-future-reforme_8174591.html": "2026-09-17T11:48:53.755375+00:00",
-  "https://www.franceinfo.fr/elections/presidentielle/en-quoi-consiste-l-etat-d-urgence-sociale-que-souhaite-declencher-jean-luc-melenchon_8190866.html": "2026-09-17T11:48:53.755375+00:00",
   "https://www.franceinfo.fr/economie/budget/retraites-gel-du-point-d-indice-des-fonctionnaires-carence-pour-les-etrangers-les-principales-pistes-du-gouvernement-pour-realiser-54-milliards-d-euros-d-economies-sur-le-budget-2027_8197454.html": "2026-09-17T17:05:15.000186+00:00",
   "https://www.franceinfo.fr/replay-magazine/france-2/complement-d-enquete/video-vingt-deux-procedures-contre-rima-hassan-acharnement-judiciaire-ou-propos-condamnables_8196314.html": "2026-09-17T17:05:15.000186+00:00",
   "https://www.franceinfo.fr/replay-magazine/france-2/complement-d-enquete/video-rima-hassan-tient-elle-des-positions-antisemites-l-analyse-d-un-chercheur-pour-complement-d-enquete_8196311.html": "2026-09-17T17:05:15.000186+00:00",
   "https://www.franceinfo.fr/elections/presidentielle/pour-son-dernier-deplacement-avant-son-accouchement-marine-tondelier-veut-un-pays-a-hauteur-d-enfant_8197694.html": "2026-09-17T17:05:15.000186+00:00",
   "https://www.franceinfo.fr/economie/budget/pour-le-budget-2027-sebastien-lecornu-propose-un-effort-d-environ-54-milliards-d-euros_8197535.html": "2026-09-17T17:05:15.000186+00:00",
-  "https://www.franceinfo.fr/politique/budegt-2027-et-loi-integrale-contre-les-violences-sexistes-et-sexuelles_8197343.html": "2026-09-17T17:05:15.000186+00:00",
   "https://www.franceinfo.fr/elections/municipales/le-tribunal-administratif-preconise-l-annulation-de-la-victoire-du-rn-a-montargis-lors-des-dernieres-elections-municipales_8197115.html": "2026-09-17T17:05:15.000186+00:00",
   "https://www.franceinfo.fr/politique/rachida-dati/j-ai-signe-un-contrat-d-avocate-et-j-ai-exerce-comme-avocate-assure-rachida-dati-lors-de-son-proces-pour-corruption_8197910.html": "2026-09-17T21:27:08.067280+00:00",
   "https://www.franceinfo.fr/elections/presidentielle/edouard-philippe-souhaite-doter-la-france-d-une-veritable-politique-de-securite-climatique_8197976.html": "2026-09-17T21:27:08.067280+00:00",
   "https://www.franceinfo.fr/politique/parlement-francais/assemblee-nationale/je-ne-vois-pas-l-interet-de-mettre-autant-d-argent-les-travaux-de-la-discorde-a-l-assemblee-nationale_8197970.html": "2026-09-17T21:27:08.067280+00:00",
-  "https://www.franceinfo.fr/monde/europe/gabriel-attal-juge-que-l-europe-des-27-a-atteint-ses-limites-et-plaide-pour-des-etats-unis-d-europe_8197754.html": "2026-09-17T21:27:08.067280+00:00"
+  "https://www.franceinfo.fr/monde/europe/gabriel-attal-juge-que-l-europe-des-27-a-atteint-ses-limites-et-plaide-pour-des-etats-unis-d-europe_8197754.html": "2026-09-17T21:27:08.067280+00:00",
+  "https://www.franceinfo.fr/economie/automobile/essence/direct-crise-energetique-emmanuel-macron-va-recevoir-les-principaux-responsables-politiques-pour-evoquer-les-conflits-internationaux-et-leurs-consequences-en-france_8198486.html": "2026-09-18T04:50:25.534165+00:00",
+  "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/il-est-d-abord-accueilli-comme-chef-de-l-eglise-pourquoi-le-pape-leon-xiv-a-refuse-les-honneurs-d-une-visite-d-etat_8197469.html": "2026-09-18T04:50:25.534165+00:00",
+  "https://www.franceinfo.fr/politique/eric-zemmour/eric-zemmour-president-du-parti-d-extreme-droite-reconquete-annonce-sa-candidature-a-l-election-presidentielle_8198141.html": "2026-09-18T04:50:25.534165+00:00",
+  "https://www.franceinfo.fr/elections/presidentielle/les-socialistes-la-font-bien-la-droite-et-le-centre-peuvent-ils-encore-organiser-une-primaire-pour-la-presidentielle-de-2027_8171882.html": "2026-09-18T04:50:25.534165+00:00",
+  "https://www.franceinfo.fr/politique/je-vous-demande-de-vous-arreter-comment-la-phrase-d-edouard-balladur-est-devenue-culte_8171597.html": "2026-09-18T04:50:25.534165+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "\"J'ai signé un contrat d'avocate et j'ai exercé comme avocate\", assure Rachida Dati lors de son procès pour corruption Jeudi en fin d'après-midi, la maire du 7e arrondissement de Paris a commencé à répondre aux questions du tribunal, axées sur le contrat qu'elle a signé avec la filiale de Renault, en tant qu'avocate, au cœur des accusations de corruption. Aujourd'hui",
+   "title": "• Direct Crise énergétique: Emmanuel Macron va recevoir les principaux responsables politiques pour évoquer les conflits internationaux \"et leurs conséquences en France\" Cette réunion autour du chef de l'Etat, en présence uniquement du Premier ministre, Sébastien Lecornu, et des responsables militaires et du renseignement, est prévue vendredi à 10h30 à l'Elysée. Aujourd'hui • Direct",
+   "link": "https://www.franceinfo.fr/economie/automobile/essence/direct-crise-energetique-emmanuel-macron-va-recevoir-les-principaux-responsables-politiques-pour-evoquer-les-conflits-internationaux-et-leurs-consequences-en-france_8198486.html",
+   "summary": "Crise énergétique: Emmanuel Macron va recevoir les principaux responsables politiques pour évoquer les conflits internationaux \"et leurs conséquences en France\"",
+   "image": "https://www.franceinfo.fr/pictures/m8vrpykWSsxPZX9COR7pcnckJ6I/32x0:1024x682/432x297/filters:format(jpg)/2026/09/18/6aacc1a12ba81097643929.jpg",
+   "date": null,
+   "pubdate": "2026-09-18T04:50:25.534165+00:00"
+  },
+  {
+   "title": "\"Il est d'abord accueilli comme chef de l'Eglise\" : pourquoi le pape Léon XIV a refusé les honneurs d'une visite d'Etat",
+   "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/il-est-d-abord-accueilli-comme-chef-de-l-eglise-pourquoi-le-pape-leon-xiv-a-refuse-les-honneurs-d-une-visite-d-etat_8197469.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/Z4dr8ZwCo2d0rxWcmRBxnmpfpyM/0x53:1024x629/432x243/filters:format(jpg)/2026/09/17/6aabf9e8421e5901225665.jpg",
+   "date": null,
+   "pubdate": "2026-09-18T04:50:25.534165+00:00"
+  },
+  {
+   "title": "Eric Zemmour, président du parti d’extrême droite Reconquête, annonce qu'il sera candidat à l'élection présidentielle",
+   "link": "https://www.franceinfo.fr/politique/eric-zemmour/eric-zemmour-president-du-parti-d-extreme-droite-reconquete-annonce-sa-candidature-a-l-election-presidentielle_8198141.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/BQOPpHd2CfWmgoqJoRc8Wlecb6A/0x0:1024x576/432x243/filters:format(jpg)/2026/09/17/6aac5b1c78d83712963427.jpg",
+   "date": null,
+   "pubdate": "2026-09-18T04:50:25.534165+00:00"
+  },
+  {
+   "title": "6:00 article 6 minutes \"Les socialistes la font bien !\" : la droite et le centre peuvent-ils encore organiser une primaire pour la présidentielle de 2027 ?",
+   "link": "https://www.franceinfo.fr/elections/presidentielle/les-socialistes-la-font-bien-la-droite-et-le-centre-peuvent-ils-encore-organiser-une-primaire-pour-la-presidentielle-de-2027_8171882.html",
+   "summary": "\"Les socialistes la font bien !\" : la droite et le centre peuvent-ils encore organiser une primaire pour la présidentielle de 2027 ?",
+   "image": "https://www.franceinfo.fr/pictures/5fUZH6GrNERGe4r4sXKwaeunXrU/0x0:3545x3545/100x100/filters:format(jpg)/2026/09/02/6a981ecec229f147572924.jpg",
+   "date": null,
+   "pubdate": "2026-09-18T04:50:25.534165+00:00"
+  },
+  {
+   "title": "3:00 article 3 minutes \"Je vous demande de vous arrêter\" : comment la phrase d'Edouard Balladur est devenue culte",
+   "link": "https://www.franceinfo.fr/politique/je-vous-demande-de-vous-arreter-comment-la-phrase-d-edouard-balladur-est-devenue-culte_8171597.html",
+   "summary": "\"Je vous demande de vous arrêter\" : comment la phrase d'Edouard Balladur est devenue culte",
+   "image": "https://www.franceinfo.fr/pictures/vFjOa3n5rZf7oOh8hNmg_76YnpQ/720x0:3568x2848/100x100/filters:format(jpg)/2026/09/01/6a965ae37d0eb915432123.jpg",
+   "date": null,
+   "pubdate": "2026-09-18T04:50:25.534165+00:00"
+  },
+  {
+   "title": "\"J'ai signé un contrat d'avocate et j'ai exercé comme avocate\", assure Rachida Dati lors de son procès pour corruption",
    "link": "https://www.franceinfo.fr/politique/rachida-dati/j-ai-signe-un-contrat-d-avocate-et-j-ai-exerce-comme-avocate-assure-rachida-dati-lors-de-son-proces-pour-corruption_8197910.html",
-   "summary": "\"J'ai signé un contrat d'avocate et j'ai exercé comme avocate\", assure Rachida Dati lors de son procès pour corruption",
-   "image": "https://www.franceinfo.fr/pictures/cWd2v5E6hBwTEz_zoP1JYU1MRl8/168x0:1805x1126/432x297/filters:format(jpg)/2026/09/17/6aac4023325f4697282012.jpg",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/8e-2TRvnc7w84z7FEiM5ypxzpQc/0x7:1974x1118/432x243/filters:format(jpg)/2026/09/17/6aac4023325f4697282012.jpg",
    "date": null,
    "pubdate": "2026-09-17T21:27:08.067280+00:00"
   },
@@ -92,26 +132,18 @@
    "pubdate": "2026-09-17T17:05:15.000186+00:00"
   },
   {
-   "title": "Pour son dernier déplacement avant son accouchement, Marine Tondelier veut \"un pays à hauteur d'enfant\"",
+   "title": "Pour son dernier déplacement avant son accouchement, Marine Tondelier veut \"un pays à hauteur d'enfant\" Devant la presse jeudi, la candidate des Ecologistes à la présidentielle a présenté ses mesures destinées aux enfants.",
    "link": "https://www.franceinfo.fr/elections/presidentielle/pour-son-dernier-deplacement-avant-son-accouchement-marine-tondelier-veut-un-pays-a-hauteur-d-enfant_8197694.html",
-   "summary": "",
+   "summary": "Pour son dernier déplacement avant son accouchement, Marine Tondelier veut \"un pays à hauteur d'enfant\"",
    "image": "https://www.franceinfo.fr/pictures/qS-wN5Y_n9MAxSt-qmiS5C4UJhs/0x5:1024x581/432x243/filters:format(jpg)/2026/09/17/6aac0a2d18a4a413414162.jpg",
    "date": null,
    "pubdate": "2026-09-17T17:05:15.000186+00:00"
   },
   {
-   "title": "Pour le budget 2027, Sébastien Lecornu propose \"un effort\" d'environ 54 milliards d'euros",
+   "title": "Pour le budget 2027, Sébastien Lecornu propose \"un effort\" d'environ 54 milliards d'euros Dans un entretien au \"Figaro\", le Premier ministre affirme jeudi que \"la charge de la dette pèse de plus en plus lourd sur l'équation budgétaire\".",
    "link": "https://www.franceinfo.fr/economie/budget/pour-le-budget-2027-sebastien-lecornu-propose-un-effort-d-environ-54-milliards-d-euros_8197535.html",
-   "summary": "",
+   "summary": "Pour le budget 2027, Sébastien Lecornu propose \"un effort\" d'environ 54 milliards d'euros",
    "image": "https://www.franceinfo.fr/pictures/jIuY6x3Ei7Bb6k9es7TGBRAmn8o/0x73:1024x649/432x243/filters:format(jpg)/2026/09/15/6aa9589616bd1202021595.jpg",
-   "date": null,
-   "pubdate": "2026-09-17T17:05:15.000186+00:00"
-  },
-  {
-   "title": "2:57 vidéo 2 minutes 57 Budget 2027 et loi intégrale contre les violences sexistes et sexuelles",
-   "link": "https://www.franceinfo.fr/politique/budegt-2027-et-loi-integrale-contre-les-violences-sexistes-et-sexuelles_8197343.html",
-   "summary": "Budget 2027 et loi intégrale contre les violences sexistes et sexuelles",
-   "image": "https://www.franceinfo.fr/pictures/SDeFpyX6V3XBFuVEEy5Ml00wsU4/0x0:900x1600/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/17/6aabe3d7c9323304972807.jpg",
    "date": null,
    "pubdate": "2026-09-17T17:05:15.000186+00:00"
   },
@@ -220,26 +252,10 @@
    "pubdate": "2026-09-17T11:48:53.755375+00:00"
   },
   {
-   "title": "En quoi consiste \"l'état d'urgence sociale\" que souhaite déclencher Jean-Luc Mélenchon ? L'insoumis est revenu samedi à deux thèmes qui lui sont chers, le pouvoir d’achat et les inégalités sociales. Après une année marquée par la hausse des prix du carburant et l'inflation, le candidat à la présidentielle entend peser davantage sur ces sujets, avec 2027 en ligne de mire.",
-   "link": "https://www.franceinfo.fr/elections/presidentielle/en-quoi-consiste-l-etat-d-urgence-sociale-que-souhaite-declencher-jean-luc-melenchon_8190866.html",
-   "summary": "En quoi consiste \"l'état d'urgence sociale\" que souhaite déclencher Jean-Luc Mélenchon ?",
-   "image": "https://www.franceinfo.fr/pictures/LP5eJURuDjCGDYKYYU7U_NIWBEM/0x0:4625x2601/432x243/filters:format(jpg)/2026/09/13/6aa6ec1b2a532911112278.jpg",
-   "date": null,
-   "pubdate": "2026-09-17T11:48:53.755375+00:00"
-  },
-  {
    "title": "\"C'est une bombe à retardement\" : comment le RN a laissé en place un député soupçonné de détournements d'argent public Le Rassemblement national a investi l'un de ses députés pour les législatives 2024 malgré une série d'alertes internes dont certaines sont remontées jusqu’à Marine Le Pen. José Beaurain, élu de l'Aisne, est soupçonné de fraude et de détournements de ses avances de frais de mandat.",
    "link": "https://www.franceinfo.fr/enquetes-franceinfo/info-radio-france-c-est-une-bombe-a-retardement-comment-le-rn-a-laisse-en-place-un-depute-soupconne-de-detournements-d-argent-public_8195957.html",
    "summary": "\"C'est une bombe à retardement\" : comment le RN a laissé en place un député soupçonné de détournements d'argent public",
    "image": "https://www.franceinfo.fr/assets/common/images/logos/placeholder-4e7f49f2.png",
-   "date": null,
-   "pubdate": "2026-09-17T04:58:07.192422+00:00"
-  },
-  {
-   "title": ": Vrai ou faux Est-il vrai que \"70% des Français sont éligibles\" à un logement du parc social et que \"seulement 11% d'entre eux en bénéficient\", comme l'affirme Marine Le Pen ? La \"priorité nationale\" défendue par le Rassemblement national en matière de logement social s'appuie sur plusieurs statistiques. Des chiffres tirés d'études bien réelles, mais qui ne peuvent pas être interprétés de la façon dont le parti les présente.",
-   "link": "https://www.franceinfo.fr/economie/vrai-ou-faux-est-il-vrai-que-70-des-francais-sont-eligibles-a-un-logement-du-parc-social-et-que-seulement-11-d-entre-eux-en-beneficient-comme-l-affirme-marine-le-pen_8195210.html",
-   "summary": "Est-il vrai que \"70% des Français sont éligibles\" à un logement du parc social et que \"seulement 11% d'entre eux en bénéficient\", comme l'affirme Marine Le Pen ?",
-   "image": "https://www.franceinfo.fr/pictures/C_ZHYrRk-ojRX8YgJBIIAIItHVg/0x0:1024x576/432x243/filters:format(jpg)/2026/09/16/6aaa673534590046343510.jpg",
    "date": null,
    "pubdate": "2026-09-17T04:58:07.192422+00:00"
   },
@@ -258,22 +274,6 @@
    "image": "https://www.franceinfo.fr/pictures/v8aRR1aSuiF4ZIj9DIPv2bzZJf8/432x297/filters:format(jpg)/2025/10/22/sarkozymontage-68f8fa8dd58da459326159.jpg",
    "date": null,
    "pubdate": "2026-09-15T17:05:01.817408+00:00"
-  },
-  {
-   "title": "Tout comprendre au procès des assistants parlementaires FN 20 contenus",
-   "link": "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/tout-comprendre-au-proces-des-assistants-parlementaires-fn/",
-   "summary": "Tout comprendre au procès des assistants parlementaires FN",
-   "image": "https://www.franceinfo.fr/pictures/iHJ4ZCCHTABB8-X6GO7CrL-9zcI/432x297/filters:format(jpg)/2026/01/28/marine-le-pen-a-son-proces-en-appel-697a50d594f91234092099.jpg",
-   "date": null,
-   "pubdate": "2026-09-15T17:05:01.817408+00:00"
-  },
-  {
-   "title": ": Reportage 4:58 audio 4 minutes 58 : Reportage À Atlanta, les républicains anticipent la défaite aux \"Midterms\" et \"la fin de l'ère Trump\", les démocrates rêvent de revanche",
-   "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-a-atlanta-les-republicains-craignent-la-fin-de-l-ere-trump-a-l-approche-des-elections-de-mi-mandat-les-democrates-revent-de-revanche_8145842.html",
-   "summary": "À Atlanta, les républicains anticipent la défaite aux \"Midterms\" et \"la fin de l'ère Trump\", les démocrates rêvent de revanche",
-   "image": "https://www.franceinfo.fr/pictures/ThZEHM_mXqdURdVGiap0tEo05iw/270x0:1169x899/100x100/filters:format(jpg)/2026/09/02/6a9887d380725266921772.jpg",
-   "date": null,
-   "pubdate": "2026-09-09T20:59:27.970256+00:00"
   }
  ]
 }
