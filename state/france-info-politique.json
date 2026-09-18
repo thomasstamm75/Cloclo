@@ -1,10 +1,7 @@
 {
- "etag": "\"ebc4392c76454ba3f4647a8d5fbd8b22-gzip\"",
+ "etag": "\"fdc9ab20353ebdbecf15d3d3bf6cb293-gzip\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.franceinfo.fr/economie/budget/retraites-gel-du-point-d-indice-des-fonctionnaires-carence-pour-les-etrangers-les-principales-pistes-du-gouvernement-pour-realiser-54-milliards-d-euros-d-economies-sur-le-budget-2027_8197454.html": "2026-09-17T17:05:15.000186+00:00",
-  "https://www.franceinfo.fr/elections/presidentielle/pour-son-dernier-deplacement-avant-son-accouchement-marine-tondelier-veut-un-pays-a-hauteur-d-enfant_8197694.html": "2026-09-17T17:05:15.000186+00:00",
-  "https://www.franceinfo.fr/economie/budget/pour-le-budget-2027-sebastien-lecornu-propose-un-effort-d-environ-54-milliards-d-euros_8197535.html": "2026-09-17T17:05:15.000186+00:00",
   "https://www.franceinfo.fr/politique/rachida-dati/j-ai-signe-un-contrat-d-avocate-et-j-ai-exerce-comme-avocate-assure-rachida-dati-lors-de-son-proces-pour-corruption_8197910.html": "2026-09-17T21:27:08.067280+00:00",
   "https://www.franceinfo.fr/elections/presidentielle/edouard-philippe-souhaite-doter-la-france-d-une-veritable-politique-de-securite-climatique_8197976.html": "2026-09-17T21:27:08.067280+00:00",
   "https://www.franceinfo.fr/monde/europe/gabriel-attal-juge-que-l-europe-des-27-a-atteint-ses-limites-et-plaide-pour-des-etats-unis-d-europe_8197754.html": "2026-09-17T21:27:08.067280+00:00",
@@ -14,7 +11,6 @@
   "https://www.franceinfo.fr/elections/presidentielle/les-socialistes-la-font-bien-la-droite-et-le-centre-peuvent-ils-encore-organiser-une-primaire-pour-la-presidentielle-de-2027_8171882.html": "2026-09-18T04:50:25.534165+00:00",
   "https://www.franceinfo.fr/politique/je-vous-demande-de-vous-arreter-comment-la-phrase-d-edouard-balladur-est-devenue-culte_8171597.html": "2026-09-18T04:50:25.534165+00:00",
   "https://www.franceinfo.fr/economie/automobile/essence/carburants-familles-rurales-reclame-le-prolongement-de-l-aide-aux-grands-rouleurs-son-doublement-et-son-elargissement_8198996.html": "2026-09-18T11:23:35.491514+00:00",
-  "https://www.franceinfo.fr/economie/budget/le-rn-va-t-il-permettre-a-sebastien-lecornu-de-faire-passer-son-budget_8198933.html": "2026-09-18T11:23:35.491514+00:00",
   "https://www.franceinfo.fr/economie/transports/penurie-de-carburants/face-a-la-flambee-des-prix-des-carburants-l-aide-aux-gros-rouleurs-ne-s-arretera-pas-le-30-septembre-annonce-le-ministre-du-commerce_8198720.html": "2026-09-18T11:23:35.491514+00:00",
   "https://www.franceinfo.fr/replay-radio/ca-dit-quoi/emmanuel-macron-renonce-a-fort-boyard-canicule-et-crises-suicidaires-et-la-bo-de-gta-ca-dit-quoi-ce-18-septembre_8188964.html": "2026-09-18T11:23:35.491514+00:00",
   "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-pour-sebastien-lecornu-faire-adopter-le-budget-2027-ressemble-a-une-ascension-de-l-everest-en-tongs_8176172.html": "2026-09-18T11:23:35.491514+00:00",
@@ -31,15 +27,51 @@
   "https://www.franceinfo.fr/politique/emmanuel-macron/protection-des-infrastructures-critiques-g7-de-l-energie-prix-des-carburants-ce-qu-il-faut-retenir-de-la-prise-de-parole-d-emmanuel-macron-a-l-elysee_8199119.html": "2026-09-18T16:29:36.923277+00:00",
   "https://www.franceinfo.fr/societe/harcelement-sexuel/le-maire-de-concarneau-mis-en-examen-pour-viol-et-agression-sexuelle-et-place-sous-controle-judiciaire_8199134.html": "2026-09-18T16:29:36.923277+00:00",
   "https://www.franceinfo.fr/sports/foot/kylian-mbappe/eric-zemmour-accuse-kylian-mbappe-de-solidarite-islamique-avec-les-migrants-a-ceuta-ses-propos-suscitent-l-indignation-a-gauche_8199035.html": "2026-09-18T16:29:36.923277+00:00",
-  "https://www.franceinfo.fr/politique/affaire/financement-de-la-campagne-de-sarkozy/soupcons-de-financement-libyen-tout-comprendre-a-l-affaire/": "2026-09-18T16:29:36.923277+00:00"
+  "https://www.franceinfo.fr/politique/affaire/financement-de-la-campagne-de-sarkozy/soupcons-de-financement-libyen-tout-comprendre-a-l-affaire/": "2026-09-18T16:29:36.923277+00:00",
+  "https://www.franceinfo.fr/elections/presidentielle/lors-de-la-rentree-du-modem-francois-bayrou-a-plaide-a-nouveau-pour-une-primaire-allant-de-la-droite-a-la-gauche-moderee_8199797.html": "2026-09-18T20:57:47.237717+00:00",
+  "https://www.franceinfo.fr/societe/justice/info-radio-france-ecarte-du-ps-philippe-brun-tente-de-rassembler-des-preuves-de-violences-de-la-part-de-son-ancienne-collaboratrice_8199776.html": "2026-09-18T20:57:47.237717+00:00",
+  "https://www.franceinfo.fr/economie/budget/le-budget-de-l-education-nationale-ne-sera-pas-en-baisse-en-2027-assure-le-ministre-edouard-geffray_8199722.html": "2026-09-18T20:57:47.237717+00:00",
+  "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-c-est-le-sauveur-en-saxe-anhalt-ulrich-siegmund-l-homme-le-plus-dangereux-d-allemagne-selon-der-spiegel-aux-portes-du-pouvoir_8147219.html": "2026-09-18T20:57:47.237717+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "Face aux attaques \"hybrides\" russes, Emmanuel Macron promet un plan pour les \"infrastructures critiques\" Après avoir reçu les candidats à sa succession à l'Elysée, le chef de l'Etat a dressé vendredi un sombre tableau des menaces qui visent la France, en particulier de la part de la Russie. Aujourd'hui",
+   "title": "Lors de la rentrée du MoDem, François Bayrou a plaidé à nouveau pour une primaire allant de la droite à la gauche modérée Le président du MoDem évoque depuis cet été une primaire du \"grand courant central\", les candidats déclarés, Édouard Philippe et Gabriel Attal manquant à ses yeux de la \"légitimité\" d'une désignation. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/elections/presidentielle/lors-de-la-rentree-du-modem-francois-bayrou-a-plaide-a-nouveau-pour-une-primaire-allant-de-la-droite-a-la-gauche-moderee_8199797.html",
+   "summary": "Lors de la rentrée du MoDem, François Bayrou a plaidé à nouveau pour une primaire allant de la droite à la gauche modérée",
+   "image": "https://www.franceinfo.fr/pictures/xqu8TbOQGAVSOZijVtif0v5UctU/5x0:997x682/432x297/filters:format(jpg)/2026/09/18/6aad904fc0067225459159.jpg",
+   "date": null,
+   "pubdate": "2026-09-18T20:57:47.237717+00:00"
+  },
+  {
+   "title": ": info radio france : info radio france Écarté du PS, Philippe Brun tente de \"rassembler des preuves de violences de la part de son ancienne collaboratrice\"",
+   "link": "https://www.franceinfo.fr/societe/justice/info-radio-france-ecarte-du-ps-philippe-brun-tente-de-rassembler-des-preuves-de-violences-de-la-part-de-son-ancienne-collaboratrice_8199776.html",
+   "summary": "Écarté du PS, Philippe Brun tente de \"rassembler des preuves de violences de la part de son ancienne collaboratrice\"",
+   "image": "https://www.franceinfo.fr/pictures/e3ezFWECj0-A2hfIlbn7nCM0PCY/432x243/filters:format(jpg)/2026/09/16/6aaa588d34c98365091941.jpg",
+   "date": null,
+   "pubdate": "2026-09-18T20:57:47.237717+00:00"
+  },
+  {
+   "title": "Le budget de l'Education nationale \"ne sera pas en baisse\" en 2027, assure le ministre Edouard Geffray",
+   "link": "https://www.franceinfo.fr/economie/budget/le-budget-de-l-education-nationale-ne-sera-pas-en-baisse-en-2027-assure-le-ministre-edouard-geffray_8199722.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/t6nOV0Eo7p2hCaJrXYVoVyuCJQU/0x0:1024x576/432x243/filters:format(jpg)/2026/09/18/6aad7737b9a44756028026.jpg",
+   "date": null,
+   "pubdate": "2026-09-18T20:57:47.237717+00:00"
+  },
+  {
+   "title": ": Reportage 4:57 audio 4 minutes 57 : Reportage \"C'est le sauveur\", Ulrich Siegmund \"l’homme le plus dangereux d’Allemagne\", selon \"Der Spiegel\", aux portes d'une victoire historique",
+   "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-c-est-le-sauveur-en-saxe-anhalt-ulrich-siegmund-l-homme-le-plus-dangereux-d-allemagne-selon-der-spiegel-aux-portes-du-pouvoir_8147219.html",
+   "summary": "\"C'est le sauveur\", Ulrich Siegmund \"l’homme le plus dangereux d’Allemagne\", selon \"Der Spiegel\", aux portes d'une victoire historique",
+   "image": "https://www.franceinfo.fr/pictures/VFg8d1outM3G4QXNVW4Z5Ox_n70/171x0:853x682/100x100/filters:format(jpg)/2026/09/04/6a9a5941c45a4796624614.jpg",
+   "date": null,
+   "pubdate": "2026-09-18T20:57:47.237717+00:00"
+  },
+  {
+   "title": "Face aux attaques \"hybrides\" russes, Emmanuel Macron promet un plan pour les \"infrastructures critiques\"",
    "link": "https://www.franceinfo.fr/politique/emmanuel-macron/face-aux-attaques-hybrides-russes-emmanuel-macron-promet-un-plan-pour-les-infrastructures-critiques_8199287.html",
-   "summary": "Face aux attaques \"hybrides\" russes, Emmanuel Macron promet un plan pour les \"infrastructures critiques\"",
-   "image": "https://www.franceinfo.fr/pictures/asWP41Rved2ZRXFYEp4UFMa7B_M/32x0:1024x682/432x297/filters:format(jpg)/2026/09/18/6aad43bb0a75f250332664.jpg",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/uEwx_qIioIl3DOotTvQ8htSS5m8/0x12:1024x588/432x243/filters:format(jpg)/2026/09/18/6aad43bb0a75f250332664.jpg",
    "date": null,
    "pubdate": "2026-09-18T16:29:36.923277+00:00"
   },
@@ -100,30 +132,6 @@
    "pubdate": "2026-09-18T11:23:35.491514+00:00"
   },
   {
-   "title": "1:37 vidéo 1 minute 37 Le RN va-t-il permettre à Sébastien Lecornu de faire passer son budget ?",
-   "link": "https://www.franceinfo.fr/economie/budget/le-rn-va-t-il-permettre-a-sebastien-lecornu-de-faire-passer-son-budget_8198933.html",
-   "summary": "Le RN va-t-il permettre à Sébastien Lecornu de faire passer son budget ?",
-   "image": "https://www.franceinfo.fr/pictures/TY2j3Gw-85_gpk3eZAfMcuVpKJo/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/18/6aad0bc261752908005710.jpg",
-   "date": null,
-   "pubdate": "2026-09-18T11:23:35.491514+00:00"
-  },
-  {
-   "title": "Face à la flambée des prix des carburants, l'aide aux \"gros rouleurs\" ne \"s'arrêtera pas le 30 septembre\", annonce le ministre du Commerce",
-   "link": "https://www.franceinfo.fr/economie/transports/penurie-de-carburants/face-a-la-flambee-des-prix-des-carburants-l-aide-aux-gros-rouleurs-ne-s-arretera-pas-le-30-septembre-annonce-le-ministre-du-commerce_8198720.html",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/CPyMbMYwJ0P7lnsROOXrsS2ta3Y/0x0:1024x576/432x243/filters:format(jpg)/2026/09/18/6aacd18c29800407405656.jpg",
-   "date": null,
-   "pubdate": "2026-09-18T11:23:35.491514+00:00"
-  },
-  {
-   "title": ": Podcast 6:04 audio 6 minutes 4 : Podcast Emmanuel Macron renonce à Fort Boyard, canicule et crises suicidaires et la BO de GTA : ça dit quoi ce 18 septembre ?",
-   "link": "https://www.franceinfo.fr/replay-radio/ca-dit-quoi/emmanuel-macron-renonce-a-fort-boyard-canicule-et-crises-suicidaires-et-la-bo-de-gta-ca-dit-quoi-ce-18-septembre_8188964.html",
-   "summary": "Emmanuel Macron renonce à Fort Boyard, canicule et crises suicidaires et la BO de GTA : ça dit quoi ce 18 septembre ?",
-   "image": "https://www.franceinfo.fr/pictures/M3VFY_KEIOV7QQ2wy_KqkAMW-5o/0x25:1024x601/432x243/filters:format(jpg)/2026/09/18/6aacc1a12ba81097643929.jpg",
-   "date": null,
-   "pubdate": "2026-09-18T11:23:35.491514+00:00"
-  },
-  {
    "title": "Tout comprendre au procès des assistants parlementaires FN 20 contenus",
    "link": "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/tout-comprendre-au-proces-des-assistants-parlementaires-fn/",
    "summary": "Tout comprendre au procès des assistants parlementaires FN",
@@ -136,6 +144,22 @@
    "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-a-atlanta-les-republicains-craignent-la-fin-de-l-ere-trump-a-l-approche-des-elections-de-mi-mandat-les-democrates-revent-de-revanche_8145842.html",
    "summary": "À Atlanta, les républicains anticipent la défaite aux \"Midterms\" et \"la fin de l'ère Trump\", les démocrates rêvent de revanche",
    "image": "https://www.franceinfo.fr/pictures/ThZEHM_mXqdURdVGiap0tEo05iw/270x0:1169x899/100x100/filters:format(jpg)/2026/09/02/6a9887d380725266921772.jpg",
+   "date": null,
+   "pubdate": "2026-09-18T11:23:35.491514+00:00"
+  },
+  {
+   "title": "Face à la flambée des prix des carburants, l'aide aux \"gros rouleurs\" ne \"s'arrêtera pas le 30 septembre\", annonce le ministre du Commerce Maud Bregeon, la porte-parole du gouvernement, a de son côté annoncé \"un nouveau dispositif d'aide pour les Français les plus précaires qui travaillent\", à compter du 1er octobre.",
+   "link": "https://www.franceinfo.fr/economie/transports/penurie-de-carburants/face-a-la-flambee-des-prix-des-carburants-l-aide-aux-gros-rouleurs-ne-s-arretera-pas-le-30-septembre-annonce-le-ministre-du-commerce_8198720.html",
+   "summary": "Face à la flambée des prix des carburants, l'aide aux \"gros rouleurs\" ne \"s'arrêtera pas le 30 septembre\", annonce le ministre du Commerce",
+   "image": "https://www.franceinfo.fr/pictures/CPyMbMYwJ0P7lnsROOXrsS2ta3Y/0x0:1024x576/432x243/filters:format(jpg)/2026/09/18/6aacd18c29800407405656.jpg",
+   "date": null,
+   "pubdate": "2026-09-18T11:23:35.491514+00:00"
+  },
+  {
+   "title": ": Podcast 6:04 audio 6 minutes 4 Emmanuel Macron renonce à Fort Boyard, canicule et crises suicidaires et la BO de GTA : ça dit quoi ce 18 septembre ? Ce vendredi 18 septembre, Emmanuel Macron convoque tous les chefs de partis à l'Élysée pour une réunion sur la situation internationale, avec la chaleur de cet été les appels au 3114 ont augmenté et Rockstars Games continue de teaser GTA VI.",
+   "link": "https://www.franceinfo.fr/replay-radio/ca-dit-quoi/emmanuel-macron-renonce-a-fort-boyard-canicule-et-crises-suicidaires-et-la-bo-de-gta-ca-dit-quoi-ce-18-septembre_8188964.html",
+   "summary": "Emmanuel Macron renonce à Fort Boyard, canicule et crises suicidaires et la BO de GTA : ça dit quoi ce 18 septembre ?",
+   "image": "https://www.franceinfo.fr/pictures/M3VFY_KEIOV7QQ2wy_KqkAMW-5o/0x25:1024x601/432x243/filters:format(jpg)/2026/09/18/6aacc1a12ba81097643929.jpg",
    "date": null,
    "pubdate": "2026-09-18T11:23:35.491514+00:00"
   },
@@ -250,30 +274,6 @@
    "image": "https://www.franceinfo.fr/pictures/WPQ9MEFnRzkWjMaFsAW6MZfCQW0/0x0:1024x576/432x243/filters:format(jpg)/2026/09/17/6aac272fa7f89742879039.jpg",
    "date": null,
    "pubdate": "2026-09-17T21:27:08.067280+00:00"
-  },
-  {
-   "title": "Retraites, gel du point d'indice des fonctionnaires, \"carence\" pour les étrangers… Les pistes du gouvernement pour réaliser 54 milliards d'euros d'économies sur le budget 2027 Dans les colonnes du \"Figaro\" jeudi, le Premier ministre présente ses principaux arbitrages concernant le budget de l'Etat pour 2027, dans un contexte d'objectif de réduction des déficits et de recherche de compromis politique.",
-   "link": "https://www.franceinfo.fr/economie/budget/retraites-gel-du-point-d-indice-des-fonctionnaires-carence-pour-les-etrangers-les-principales-pistes-du-gouvernement-pour-realiser-54-milliards-d-euros-d-economies-sur-le-budget-2027_8197454.html",
-   "summary": "Retraites, gel du point d'indice des fonctionnaires, \"carence\" pour les étrangers… Les pistes du gouvernement pour réaliser 54 milliards d'euros d'économies sur le budget 2027",
-   "image": "https://www.franceinfo.fr/pictures/WClzKa-C8UOUNIRAMh2CALEbyWs/0x0:1024x576/432x243/filters:format(jpg)/2026/09/17/6aabfd972cb1c262550644.jpg",
-   "date": null,
-   "pubdate": "2026-09-17T17:05:15.000186+00:00"
-  },
-  {
-   "title": "Pour son dernier déplacement avant son accouchement, Marine Tondelier veut \"un pays à hauteur d'enfant\" Devant la presse jeudi, la candidate des Ecologistes à la présidentielle a présenté ses mesures destinées aux enfants.",
-   "link": "https://www.franceinfo.fr/elections/presidentielle/pour-son-dernier-deplacement-avant-son-accouchement-marine-tondelier-veut-un-pays-a-hauteur-d-enfant_8197694.html",
-   "summary": "Pour son dernier déplacement avant son accouchement, Marine Tondelier veut \"un pays à hauteur d'enfant\"",
-   "image": "https://www.franceinfo.fr/pictures/qS-wN5Y_n9MAxSt-qmiS5C4UJhs/0x5:1024x581/432x243/filters:format(jpg)/2026/09/17/6aac0a2d18a4a413414162.jpg",
-   "date": null,
-   "pubdate": "2026-09-17T17:05:15.000186+00:00"
-  },
-  {
-   "title": "Pour le budget 2027, Sébastien Lecornu propose \"un effort\" d'environ 54 milliards d'euros Dans un entretien au \"Figaro\", le Premier ministre affirme jeudi que \"la charge de la dette pèse de plus en plus lourd sur l'équation budgétaire\".",
-   "link": "https://www.franceinfo.fr/economie/budget/pour-le-budget-2027-sebastien-lecornu-propose-un-effort-d-environ-54-milliards-d-euros_8197535.html",
-   "summary": "Pour le budget 2027, Sébastien Lecornu propose \"un effort\" d'environ 54 milliards d'euros",
-   "image": "https://www.franceinfo.fr/pictures/jIuY6x3Ei7Bb6k9es7TGBRAmn8o/0x73:1024x649/432x243/filters:format(jpg)/2026/09/15/6aa9589616bd1202021595.jpg",
-   "date": null,
-   "pubdate": "2026-09-17T17:05:15.000186+00:00"
   }
  ]
 }

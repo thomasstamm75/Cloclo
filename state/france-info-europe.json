@@ -1,15 +1,13 @@
 {
- "etag": "\"13f1abcd6f1e80751bfc3655a1627d31-gzip\"",
+ "etag": "\"32a34805c6f4fb2a308c5772a5567394-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/monde/europe/allemagne/il-y-a-une-extrapolation-du-declin-economique-comment-l-extreme-droite-allemande-est-arrivee-aux-portes-du-pouvoir-en-saxe-anhalt_8175638.html": "2026-09-14T19:51:56.909555+00:00",
-  "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-c-est-le-sauveur-en-saxe-anhalt-ulrich-siegmund-l-homme-le-plus-dangereux-d-allemagne-selon-der-spiegel-aux-portes-du-pouvoir_8147219.html": "2026-09-14T19:51:56.909555+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/vos-questions-sur-l-effort-de-guerre-de-la-france/": "2026-09-14T23:53:58.993734+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/reportage-plus-de-huit-millions-de-livres-pour-enfants-partis-en-fumee-l-ukraine-face-a-une-penurie-de-manuels-scolaires-apres-des-frappes-russes_8192342.html": "2026-09-15T17:05:04.099353+00:00",
   "https://www.franceinfo.fr/monde/canada/nous-sommes-plus-forts-ensemble-le-canada-salue-l-idee-de-devenir-membre-associe-de-l-union-europeenne_8197148.html": "2026-09-17T11:48:55.432624+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/face-a-l-etat-des-finances-publiques-marine-le-pen-estime-que-la-france-ne-peut-plus-aider-l-ukraine-autant-qu-actuellement_8197058.html": "2026-09-17T11:48:55.432624+00:00",
   "https://www.franceinfo.fr/monde/europe/georgie/en-georgie-un-projet-historique-de-trump-tower-a-deux-milliards-de-dollars-pour-transformer-le-paysage-de-tbilissi_8195633.html": "2026-09-17T11:48:55.432624+00:00",
-  "https://www.franceinfo.fr/replay-radio/ca-dit-quoi/la-colere-monte-mbappe-repond-aux-espagnols-scandalises-et-le-canada-membre-de-l-ue-ca-dit-quoi-ce-17-septembre_8187311.html": "2026-09-17T11:48:55.432624+00:00",
   "https://www.franceinfo.fr/internet/reseaux-sociaux/reseaux-sociaux-interdits-avant-13-ans-fonctionnalites-addictives-bloquees-pour-les-mineurs-ce-que-contient-le-kids-act-presente-par-la-commission-europeenne_8197241.html": "2026-09-17T17:05:16.613096+00:00",
   "https://www.franceinfo.fr/monde/europe/union-europeenne/en-suede-la-gauche-remporte-de-justesse-les-legislatives-et-le-premier-ministre-annonce-sa-demission_8197415.html": "2026-09-17T17:05:16.613096+00:00",
   "https://www.franceinfo.fr/economie/automobile/essence/aides-directes-baisse-de-la-tva-taxation-des-profits-petroliers-quelles-sont-les-solutions-mises-en-place-en-europe-face-a-la-flambee-des-prix-des-carburants_8197235.html": "2026-09-17T17:05:16.613096+00:00",
@@ -31,15 +29,33 @@
   "https://www.franceinfo.fr/politique/emmanuel-macron/protection-des-infrastructures-critiques-g7-de-l-energie-prix-des-carburants-ce-qu-il-faut-retenir-de-la-prise-de-parole-d-emmanuel-macron-a-l-elysee_8199119.html": "2026-09-18T16:29:38.771248+00:00",
   "https://www.franceinfo.fr/monde/russie/elections-legislatives-en-russie-l-etat-d-esprit-des-russes-avant-le-lancement-du-premier-scrutin-depuis-la-guerre_8198096.html": "2026-09-18T16:29:38.771248+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/ingerences-sabotages-tentatives-d-assassinat-la-menace-russe-va-t-elle-prendre-une-nouvelle-ampleur-en-europe_8199089.html": "2026-09-18T16:29:38.771248+00:00",
-  "https://www.franceinfo.fr/sports/foot/kylian-mbappe/eric-zemmour-accuse-kylian-mbappe-de-solidarite-islamique-avec-les-migrants-a-ceuta-ses-propos-suscitent-l-indignation-a-gauche_8199035.html": "2026-09-18T16:29:38.771248+00:00"
+  "https://www.franceinfo.fr/sports/foot/kylian-mbappe/eric-zemmour-accuse-kylian-mbappe-de-solidarite-islamique-avec-les-migrants-a-ceuta-ses-propos-suscitent-l-indignation-a-gauche_8199035.html": "2026-09-18T16:29:38.771248+00:00",
+  "https://www.franceinfo.fr/monde/russie/la-tour-de-refroidissement-d-une-centrale-nucleaire-russe-frappee-par-un-drone_8199674.html": "2026-09-18T20:57:49.048748+00:00",
+  "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/je-ne-sais-pas-ce-qui-attend-nos-enfants-a-kiev-l-angoisse-de-la-rentree-sous-les-bombes-apres-un-ete-meurtrier_8144936.html": "2026-09-18T20:57:49.048748+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": ": Podcast L’école malgré la guerre, un record battu pour les basketteuses françaises et un trésor viking Les écoles touchées par la guerre, les Françaises qui battent un record en basket et un incroyable trésor viking : c'est l'actualité de la semaine du podcast pour enfants \"Salut l'info !\" Aujourd'hui : Podcast 15:49 audio 15 minutes 49",
+   "title": "La tour de refroidissement d'une centrale nucléaire russe touchée par un drone Le patron de l'Agence internationale de l'énergie atomique a réaffirmé que toute attaque contre une installation nucléaire était \"inacceptable\" et a appelé à une retenue maximale pour éviter le risque d'un accident nucléaire. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/russie/la-tour-de-refroidissement-d-une-centrale-nucleaire-russe-frappee-par-un-drone_8199674.html",
+   "summary": "La tour de refroidissement d'une centrale nucléaire russe touchée par un drone",
+   "image": "https://www.franceinfo.fr/pictures/0S3XHehYzEF2Bzy9BO7ofQfbB4Y/32x0:1024x682/432x297/filters:format(jpg)/2026/09/18/6aad7135cbde4641660196.jpg",
+   "date": null,
+   "pubdate": "2026-09-18T20:57:49.048748+00:00"
+  },
+  {
+   "title": "4:30 audio 4 minutes 30 \"Je ne sais pas ce qui attend nos enfants\" : à Kiev, l'angoisse de la rentrée sous les bombes après un été meurtrier",
+   "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/je-ne-sais-pas-ce-qui-attend-nos-enfants-a-kiev-l-angoisse-de-la-rentree-sous-les-bombes-apres-un-ete-meurtrier_8144936.html",
+   "summary": "\"Je ne sais pas ce qui attend nos enfants\" : à Kiev, l'angoisse de la rentrée sous les bombes après un été meurtrier",
+   "image": "https://www.franceinfo.fr/pictures/07LcAYc2BL1tbPyni2IkoRuOcD4/1000x0:5000x4000/100x100/filters:format(jpg)/2026/08/31/6a950e984fe25063470033.jpg",
+   "date": null,
+   "pubdate": "2026-09-18T20:57:49.048748+00:00"
+  },
+  {
+   "title": ": Podcast 15:49 audio 15 minutes 49 : Podcast L’école malgré la guerre, un record battu pour les basketteuses françaises et un trésor viking",
    "link": "https://www.franceinfo.fr/replay-radio/salut-l-info/podcast-l-ecole-malgre-la-guerre-un-record-battu-pour-les-basketteuses-francaises-et-un-tresor-viking_8188970.html",
    "summary": "L’école malgré la guerre, un record battu pour les basketteuses françaises et un trésor viking",
-   "image": "https://www.franceinfo.fr/pictures/lQls0ZjgPpHuZGAy3KyZB65HsNk/142x0:1451x900/432x297/filters:format(jpg)/2026/09/18/6aacf6e6e98e6276499758.jpg",
+   "image": "https://www.franceinfo.fr/pictures/ZLlmbwPNiMpotTM6zNFLk5CwxoI/0x1:1594x898/432x243/filters:format(jpg)/2026/09/18/6aacf6e6e98e6276499758.jpg",
    "date": null,
    "pubdate": "2026-09-18T16:29:38.771248+00:00"
   },
@@ -108,9 +124,9 @@
    "pubdate": "2026-09-18T11:23:36.950385+00:00"
   },
   {
-   "title": "La vaccination infantile est en recul dans plusieurs pays d'Europe depuis le Covid-19, selon une étude",
+   "title": "La vaccination infantile est en recul dans plusieurs pays d'Europe depuis le Covid-19, selon une étude En France, la couverture vaccinale a augmenté pour quatre vaccins et diminué pour trois autres.",
    "link": "https://www.franceinfo.fr/sante/vaccins/la-vaccination-infantile-est-en-recul-dans-plusieurs-pays-d-europe-depuis-le-covid-19-selon-une-etude_8198696.html",
-   "summary": "",
+   "summary": "La vaccination infantile est en recul dans plusieurs pays d'Europe depuis le Covid-19, selon une étude",
    "image": "https://www.franceinfo.fr/pictures/6CIBkFwpIEAkPuPZvFtaawB7TQ8/0x1:1024x577/432x243/filters:format(jpg)/2026/09/18/6aaceeb0e9940235682047.jpg",
    "date": null,
    "pubdate": "2026-09-18T11:23:36.950385+00:00"
@@ -236,14 +252,6 @@
    "pubdate": "2026-09-17T11:48:55.432624+00:00"
   },
   {
-   "title": ": Podcast 5:36 audio 5 minutes 36 La colère monte, Mbappé répond aux Espagnols scandalisés et le Canada membre de l'UE ? Ça dit quoi ce 17 septembre ? Ce jeudi 17 septembre, la colère monte face aux prix des carburants, Kylian Mbappé s'exprime après avoir créé une polémique en Espagne et personne ne sait ce qu'est un \"membre associé\" de l'UE.",
-   "link": "https://www.franceinfo.fr/replay-radio/ca-dit-quoi/la-colere-monte-mbappe-repond-aux-espagnols-scandalises-et-le-canada-membre-de-l-ue-ca-dit-quoi-ce-17-septembre_8187311.html",
-   "summary": "La colère monte, Mbappé répond aux Espagnols scandalisés et le Canada membre de l'UE ? Ça dit quoi ce 17 septembre ?",
-   "image": "https://www.franceinfo.fr/pictures/AZuWkxwKCKm4_LSW1xoF93nZDxc/0x11:1024x587/432x243/filters:format(jpg)/2026/09/15/6aa8e572de0f4577345236.jpg",
-   "date": null,
-   "pubdate": "2026-09-17T11:48:55.432624+00:00"
-  },
-  {
    "title": ": Reportage 2:00 article 2 minutes : Reportage \"Plus de huit millions de livres pour enfants\" partis en fumée : l'Ukraine face à une pénurie de manuels scolaires après des frappes russes",
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/reportage-plus-de-huit-millions-de-livres-pour-enfants-partis-en-fumee-l-ukraine-face-a-une-penurie-de-manuels-scolaires-apres-des-frappes-russes_8192342.html",
    "summary": "\"Plus de huit millions de livres pour enfants\" partis en fumée : l'Ukraine face à une pénurie de manuels scolaires après des frappes russes",
@@ -264,14 +272,6 @@
    "link": "https://www.franceinfo.fr/monde/europe/allemagne/il-y-a-une-extrapolation-du-declin-economique-comment-l-extreme-droite-allemande-est-arrivee-aux-portes-du-pouvoir-en-saxe-anhalt_8175638.html",
    "summary": "\"Il y a une extrapolation du déclin économique\" : comment l'extrême droite allemande est arrivée aux portes du pouvoir en Saxe-Anhalt",
    "image": "https://www.franceinfo.fr/pictures/-nAiSgts3hDGmwBA52wjbLgKz5c/7x0:689x682/100x100/filters:format(jpg)/2026/09/03/6a99968962ca9292189034.jpg",
-   "date": null,
-   "pubdate": "2026-09-14T19:51:56.909555+00:00"
-  },
-  {
-   "title": ": Reportage 4:57 audio 4 minutes 57 : Reportage \"C'est le sauveur\", Ulrich Siegmund \"l’homme le plus dangereux d’Allemagne\", selon \"Der Spiegel\", aux portes d'une victoire historique",
-   "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-c-est-le-sauveur-en-saxe-anhalt-ulrich-siegmund-l-homme-le-plus-dangereux-d-allemagne-selon-der-spiegel-aux-portes-du-pouvoir_8147219.html",
-   "summary": "\"C'est le sauveur\", Ulrich Siegmund \"l’homme le plus dangereux d’Allemagne\", selon \"Der Spiegel\", aux portes d'une victoire historique",
-   "image": "https://www.franceinfo.fr/pictures/VFg8d1outM3G4QXNVW4Z5Ox_n70/171x0:853x682/100x100/filters:format(jpg)/2026/09/04/6a9a5941c45a4796624614.jpg",
    "date": null,
    "pubdate": "2026-09-14T19:51:56.909555+00:00"
   }
