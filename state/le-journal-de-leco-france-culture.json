@@ -1,5 +1,5 @@
 {
- "etag": "\"1b1sfwk\"",
+ "etag": "\"11p7emk\"",
  "last_modified": "",
  "first_seen": {
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/russie-et-inde-renforcent-leurs-liens-sur-l-energie-et-la-defense-8269390": "2026-09-11T14:06:06.074777+00:00",
@@ -16,13 +16,21 @@
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/au-liban-la-guerre-ruine-l-espoir-d-une-reprise-economique-2864950": "2026-07-02T11:00:00+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/le-journal-de-l-eco-du-mercredi-01-juillet-2026-2167160": "2026-09-11T14:06:06.074777+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/retraites-les-travailleurs-etrangers-au-secours-du-systeme-7521483": "2026-06-30T11:00:00+00:00",
-  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/impact-de-la-canicule-la-france-en-haut-du-podium-europeen-5251887": "2026-06-29T11:00:00+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/cooperatives-agricoles-la-course-a-l-agrandissement-6788764": "2026-09-15T11:00:00+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/l-ue-a-la-recherche-de-nouvelles-ressources-propres-4198620": "2026-09-16T11:45:45.409269+00:00",
-  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/lutte-contre-les-fraudes-en-ligne-les-gafam-mises-a-contribution-3686534": "2026-09-17T11:50:19.042649+00:00"
+  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/lutte-contre-les-fraudes-en-ligne-les-gafam-mises-a-contribution-3686534": "2026-09-17T11:50:19.042649+00:00",
+  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/ormuz-une-onde-de-choc-mondiale-sur-les-marches-de-l-energie-2532544": "2026-09-18T11:24:59.509854+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "Ormuz, une onde de choc mondiale sur les marchÃ©s de l'Ã©nergie",
+   "link": "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/ormuz-une-onde-de-choc-mondiale-sur-les-marches-de-l-energie-2532544",
+   "summary": "Les prix du gaz ont bondi sur les marchÃ©s de gros europÃ©ens Ã 81 euros le MWh cette semaine, un plus haut depuis 2023 et plus du double dâavant la guerre en Iran. Le conflit au Moyen-Orient dÃ©stabilise tous les marchÃ©s de l'Ã©nergie, plongeant dans l'incertitude entreprises et mÃ©nages.",
+   "image": "https://www.radiofrance.fr/pikapi/images/9c8c16f8-f20f-42b9-9254-e1d7128006f8/2048",
+   "date": null,
+   "pubdate": "2026-09-18T11:24:59.509854+00:00"
+  },
   {
    "title": "Lutte contre les fraudes en ligneÂ : les Gafam mises Ã contribution",
    "link": "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/lutte-contre-les-fraudes-en-ligne-les-gafam-mises-a-contribution-3686534",
@@ -158,14 +166,6 @@
    "image": "https://www.radiofrance.fr/pikapi/images/e6a794bb-063b-4736-931b-0125c84b7649/2048",
    "date": "2026-06-30T11:00:00+00:00",
    "pubdate": "2026-06-30T11:00:00+00:00"
-  },
-  {
-   "title": "Impact de la caniculeÂ : la France en haut du podium europÃ©en",
-   "link": "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/impact-de-la-canicule-la-france-en-haut-du-podium-europeen-5251887",
-   "summary": "La canicule historique que l'on vient de vivre en France ne sera pas la derniÃ¨re. Or les consÃ©quences Ã©conomiques de ces Ã©pisodes de trÃ¨s fortes chaleurs sont de plus en plus documentÃ©es, et loin d'Ãªtre nÃ©gligeables.",
-   "image": "https://www.radiofrance.fr/pikapi/images/7cbf0f18-e1f1-426a-b41a-33dd5a3ab656/2048",
-   "date": "2026-06-29T11:00:00+00:00",
-   "pubdate": "2026-06-29T11:00:00+00:00"
   }
  ]
 }
