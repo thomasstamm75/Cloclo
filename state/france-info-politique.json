@@ -1,9 +1,7 @@
 {
- "etag": "\"c3f331ba063f4f32314863e409cf169a-gzip\"",
+ "etag": "\"aea25ff5af3ef087e07a4604b8d8d64a-gzip\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.franceinfo.fr/elections/presidentielle/les-socialistes-la-font-bien-la-droite-et-le-centre-peuvent-ils-encore-organiser-une-primaire-pour-la-presidentielle-de-2027_8171882.html": "2026-09-18T04:50:25.534165+00:00",
-  "https://www.franceinfo.fr/politique/je-vous-demande-de-vous-arreter-comment-la-phrase-d-edouard-balladur-est-devenue-culte_8171597.html": "2026-09-18T04:50:25.534165+00:00",
   "https://www.franceinfo.fr/economie/automobile/essence/carburants-familles-rurales-reclame-le-prolongement-de-l-aide-aux-grands-rouleurs-son-doublement-et-son-elargissement_8198996.html": "2026-09-18T11:23:35.491514+00:00",
   "https://www.franceinfo.fr/economie/transports/penurie-de-carburants/face-a-la-flambee-des-prix-des-carburants-l-aide-aux-gros-rouleurs-ne-s-arretera-pas-le-30-septembre-annonce-le-ministre-du-commerce_8198720.html": "2026-09-18T11:23:35.491514+00:00",
   "https://www.franceinfo.fr/replay-radio/ca-dit-quoi/emmanuel-macron-renonce-a-fort-boyard-canicule-et-crises-suicidaires-et-la-bo-de-gta-ca-dit-quoi-ce-18-septembre_8188964.html": "2026-09-18T11:23:35.491514+00:00",
@@ -30,8 +28,10 @@
   "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/pour-le-budget-2027-on-demande-un-petit-effort-a-tout-le-monde-souligne-le-ministre-du-logement-pour-justifier-le-gel-des-apl_8178035.html": "2026-09-19T11:07:13.928614+00:00",
   "https://www.franceinfo.fr/replay-radio/le-brief-politique/eric-zemmour-presque-candidat-a-l-election-presidentielle-de-2027-un-atout-pour-marine-le-pen_8178050.html": "2026-09-19T11:07:13.928614+00:00",
   "https://www.franceinfo.fr/economie/budget/derouler-sa-campagne-presidentielle-apparaitre-comme-une-cheffe-d-etat-pourquoi-le-scenario-d-une-non-censure-de-marine-le-pen-et-du-rn-sur-le-budget-se-renforce_8198828.html": "2026-09-19T11:07:13.928614+00:00",
-  "https://www.franceinfo.fr/politique/eric-zemmour/eric-zemmour-president-du-parti-d-extreme-droite-reconquete-annonce-sa-candidature-a-l-election-presidentielle_8198141.html": "2026-09-19T11:07:13.928614+00:00",
-  "https://www.franceinfo.fr/politique/rachida-dati/j-ai-signe-un-contrat-d-avocate-et-j-ai-exerce-comme-avocate-assure-rachida-dati-lors-de-son-proces-pour-corruption_8197910.html": "2026-09-19T11:07:13.928614+00:00"
+  "https://www.franceinfo.fr/vrai-ou-fake/la-priorite-nationale-est-elle-une-idee-de-gauche_8200784.html": "2026-09-19T15:55:53.333646+00:00",
+  "https://www.franceinfo.fr/economie/syndicats/la-secretaire-generale-de-la-cgt-conseille-au-gouvernement-d-ecouter-la-grogne-sociale-sinon-l-hiver-va-mal-se-passer_8200691.html": "2026-09-19T15:55:53.333646+00:00",
+  "https://www.franceinfo.fr/elections/presidentielle/les-avocats-de-philippe-brun-annoncent-leur-intention-de-porter-plainte-pour-denonciation-calomnieuse_8200673.html": "2026-09-19T15:55:53.333646+00:00",
+  "https://www.franceinfo.fr/monde/russie/reunion-a-l-elysee-la-menace-russe-s-intensifie-en-france_8200682.html": "2026-09-19T15:55:53.333646+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
@@ -44,10 +44,42 @@
    "pubdate": "2026-09-20T11:00:00+00:00"
   },
   {
-   "title": "À Saint-Pierre-et-Miquelon, un village entier contraint de déménager à cause du dérèglement climatique Le président de la République se rend samedi sur l'archipel, où la commune de Miquelon-Langlade espère que l'Etat maintiendra ses promesses d'accompagner financièrement les projets entamés en raison du changement climatique. Aujourd'hui",
+   "title": "La priorité nationale est-elle une idée de gauche ? Aujourd’hui portée par le Rassemblement national, l’idée de préférence ou priorité nationale vient-elle de Vichy ou du Front populaire ? Aujourd'hui 2:46 vidéo 2 minutes 46",
+   "link": "https://www.franceinfo.fr/vrai-ou-fake/la-priorite-nationale-est-elle-une-idee-de-gauche_8200784.html",
+   "summary": "La priorité nationale est-elle une idée de gauche ?",
+   "image": "https://www.franceinfo.fr/pictures/5ioyzA-my7lLtUFeCriGVT1hCvk/116x0:1163x720/432x297/filters:format(jpg)/2026/09/19/6aae973a1313a457989488.png",
+   "date": null,
+   "pubdate": "2026-09-19T15:55:53.333646+00:00"
+  },
+  {
+   "title": "La secrétaire générale de la CGT conseille au gouvernement d'écouter la grogne sociale, \"sinon l'hiver va mal se passer\"",
+   "link": "https://www.franceinfo.fr/economie/syndicats/la-secretaire-generale-de-la-cgt-conseille-au-gouvernement-d-ecouter-la-grogne-sociale-sinon-l-hiver-va-mal-se-passer_8200691.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/QWTO4xngzpv3v6y24PibShVKjKU/0x312:6000x3687/432x243/filters:format(jpg)/2026/09/19/6aae78074bafe381548690.jpg",
+   "date": null,
+   "pubdate": "2026-09-19T15:55:53.333646+00:00"
+  },
+  {
+   "title": "Les avocats du député Philippe Brun, exclu de la primaire du PS, annoncent leur intention de porter plainte pour dénonciation calomnieuse",
+   "link": "https://www.franceinfo.fr/elections/presidentielle/les-avocats-de-philippe-brun-annoncent-leur-intention-de-porter-plainte-pour-denonciation-calomnieuse_8200673.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/1XuM4EFGLv0kYiltqXZFCWLCesU/0x309:5930x3644/432x243/filters:format(jpg)/2026/09/19/6aae73aa7c22c819743655.jpg",
+   "date": null,
+   "pubdate": "2026-09-19T15:55:53.333646+00:00"
+  },
+  {
+   "title": "1:55 vidéo 1 minute 55 Réunion à l'Élysée : la menace russe s'intensifie en France",
+   "link": "https://www.franceinfo.fr/monde/russie/reunion-a-l-elysee-la-menace-russe-s-intensifie-en-france_8200682.html",
+   "summary": "Réunion à l'Élysée : la menace russe s'intensifie en France",
+   "image": "https://www.franceinfo.fr/pictures/o0zpqG1BMGw2CuL2NtwpqRDLTrs/0x115:1776x1114/432x243/filters:format(jpg)/2026/09/19/6aae7253503e8159020087.png",
+   "date": null,
+   "pubdate": "2026-09-19T15:55:53.333646+00:00"
+  },
+  {
+   "title": "À Saint-Pierre-et-Miquelon, un village entier contraint de déménager à cause du dérèglement climatique",
    "link": "https://www.franceinfo.fr/france/saint-pierre-et-miquelon/a-saint-pierre-et-miquelon-un-village-entier-contraint-de-demenager-a-cause-du-dereglement-climatique_8199557.html",
-   "summary": "À Saint-Pierre-et-Miquelon, un village entier contraint de déménager à cause du dérèglement climatique",
-   "image": "https://www.franceinfo.fr/pictures/gqjbXt-yC_U9A8u4bLQHSTOo6kk/68x0:4187x2832/432x297/filters:format(jpg)/2026/09/18/6aad88abd496d214467535.jpg",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/KoFDDqWW6dmXNx3f9D3_o0m6PYs/0x219:4256x2613/432x243/filters:format(jpg)/2026/09/18/6aad88abd496d214467535.jpg",
    "date": null,
    "pubdate": "2026-09-19T11:07:13.928614+00:00"
   },
@@ -76,22 +108,6 @@
    "pubdate": "2026-09-19T11:07:13.928614+00:00"
   },
   {
-   "title": "Eric Zemmour, président du parti d’extrême droite Reconquête, annonce qu'il sera candidat à l'élection présidentielle Le leader du parti d'extrême droite avait, ces dernières semaines, dissipé les doutes sur une nouvelle candidature à l'Elysée et fait savoir que ce serait bien lui qui porterait les couleurs de Reconquête, et non pas l'eurodéputée Sarah Knafo.",
-   "link": "https://www.franceinfo.fr/politique/eric-zemmour/eric-zemmour-president-du-parti-d-extreme-droite-reconquete-annonce-sa-candidature-a-l-election-presidentielle_8198141.html",
-   "summary": "Eric Zemmour, président du parti d’extrême droite Reconquête, annonce qu'il sera candidat à l'élection présidentielle",
-   "image": "https://www.franceinfo.fr/pictures/BQOPpHd2CfWmgoqJoRc8Wlecb6A/0x0:1024x576/432x243/filters:format(jpg)/2026/09/17/6aac5b1c78d83712963427.jpg",
-   "date": null,
-   "pubdate": "2026-09-19T11:07:13.928614+00:00"
-  },
-  {
-   "title": "\"J'ai signé un contrat d'avocate et j'ai exercé comme avocate\", assure Rachida Dati lors de son procès pour corruption Jeudi en fin d'après-midi, la maire du 7e arrondissement de Paris a commencé à répondre aux questions du tribunal, axées sur le contrat qu'elle a signé avec la filiale de Renault, en tant qu'avocate, et qui est au cœur des accusations de corruption.",
-   "link": "https://www.franceinfo.fr/politique/rachida-dati/j-ai-signe-un-contrat-d-avocate-et-j-ai-exerce-comme-avocate-assure-rachida-dati-lors-de-son-proces-pour-corruption_8197910.html",
-   "summary": "\"J'ai signé un contrat d'avocate et j'ai exercé comme avocate\", assure Rachida Dati lors de son procès pour corruption",
-   "image": "https://www.franceinfo.fr/pictures/LHu3PJp8ikpT4-xCQ7HsukDtECM/0x0:1974x1110/432x243/filters:format(jpg)/2026/09/17/6aac4023325f4697282012.jpg",
-   "date": null,
-   "pubdate": "2026-09-19T11:07:13.928614+00:00"
-  },
-  {
    "title": "Raphaël Glucksmann promet que la gauche peut \"transformer la vie des Français\"",
    "link": "https://www.franceinfo.fr/elections/presidentielle/raphael-glucksmann-promet-que-la-gauche-peut-transformer-la-vie-des-francais_8199911.html",
    "summary": "",
@@ -108,22 +124,6 @@
    "pubdate": "2026-09-18T20:57:47.237717+00:00"
   },
   {
-   "title": ": info radio france : info radio france Écarté du PS, Philippe Brun tente de \"rassembler des preuves de violences de la part de son ancienne collaboratrice\"",
-   "link": "https://www.franceinfo.fr/societe/justice/info-radio-france-ecarte-du-ps-philippe-brun-tente-de-rassembler-des-preuves-de-violences-de-la-part-de-son-ancienne-collaboratrice_8199776.html",
-   "summary": "Écarté du PS, Philippe Brun tente de \"rassembler des preuves de violences de la part de son ancienne collaboratrice\"",
-   "image": "https://www.franceinfo.fr/pictures/e3ezFWECj0-A2hfIlbn7nCM0PCY/432x243/filters:format(jpg)/2026/09/16/6aaa588d34c98365091941.jpg",
-   "date": null,
-   "pubdate": "2026-09-18T20:57:47.237717+00:00"
-  },
-  {
-   "title": "Le budget de l'Education nationale \"ne sera pas en baisse\" en 2027, assure le ministre Edouard Geffray",
-   "link": "https://www.franceinfo.fr/economie/budget/le-budget-de-l-education-nationale-ne-sera-pas-en-baisse-en-2027-assure-le-ministre-edouard-geffray_8199722.html",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/t6nOV0Eo7p2hCaJrXYVoVyuCJQU/0x0:1024x576/432x243/filters:format(jpg)/2026/09/18/6aad7737b9a44756028026.jpg",
-   "date": null,
-   "pubdate": "2026-09-18T20:57:47.237717+00:00"
-  },
-  {
    "title": ": Reportage 4:57 audio 4 minutes 57 : Reportage \"C'est le sauveur\", Ulrich Siegmund \"l’homme le plus dangereux d’Allemagne\", selon \"Der Spiegel\", aux portes d'une victoire historique",
    "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-c-est-le-sauveur-en-saxe-anhalt-ulrich-siegmund-l-homme-le-plus-dangereux-d-allemagne-selon-der-spiegel-aux-portes-du-pouvoir_8147219.html",
    "summary": "\"C'est le sauveur\", Ulrich Siegmund \"l’homme le plus dangereux d’Allemagne\", selon \"Der Spiegel\", aux portes d'une victoire historique",
@@ -132,26 +132,42 @@
    "pubdate": "2026-09-18T20:57:47.237717+00:00"
   },
   {
-   "title": "Face aux attaques \"hybrides\" russes, Emmanuel Macron promet un plan pour les \"infrastructures critiques\"",
-   "link": "https://www.franceinfo.fr/politique/emmanuel-macron/face-aux-attaques-hybrides-russes-emmanuel-macron-promet-un-plan-pour-les-infrastructures-critiques_8199287.html",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/uEwx_qIioIl3DOotTvQ8htSS5m8/0x12:1024x588/432x243/filters:format(jpg)/2026/09/18/6aad43bb0a75f250332664.jpg",
+   "title": ": info radio france Écarté du PS, Philippe Brun tente de \"rassembler des preuves de violences de la part de son ancienne collaboratrice\" Le député socialiste, qui s'apprêtait à être candidat à la primaire de l'espace social-démocrate, a été écarté de son parti mercredi, à cause d'accusations de \"violences\".",
+   "link": "https://www.franceinfo.fr/societe/justice/info-radio-france-ecarte-du-ps-philippe-brun-tente-de-rassembler-des-preuves-de-violences-de-la-part-de-son-ancienne-collaboratrice_8199776.html",
+   "summary": "Écarté du PS, Philippe Brun tente de \"rassembler des preuves de violences de la part de son ancienne collaboratrice\"",
+   "image": "https://www.franceinfo.fr/pictures/e3ezFWECj0-A2hfIlbn7nCM0PCY/432x243/filters:format(jpg)/2026/09/16/6aaa588d34c98365091941.jpg",
    "date": null,
-   "pubdate": "2026-09-18T16:29:36.923277+00:00"
+   "pubdate": "2026-09-18T20:57:47.237717+00:00"
   },
   {
-   "title": "Rima Hassan porte plainte contre Laurent Nuñez pour \"violation du secret de l'enquête\" devant la Cour de justice de la République",
-   "link": "https://www.franceinfo.fr/politique/la-france-insoumise/rima-hassan-porte-plainte-contre-laurent-nunez-pour-violation-du-secret-de-l-enquete-devant-la-cour-de-justice-de-la-republique_8199251.html",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/ZNUkxsHHuG1vHZCIvRF6fpCJtoQ/0x0:1024x576/432x243/filters:format(jpg)/2026/09/18/6aad3f2e5be84691174212.jpg",
+   "title": "Le budget de l'Education nationale \"ne sera pas en baisse\" en 2027, assure le ministre Edouard Geffray Fin août, le Premier ministre Sébastien Lecornu avait esquissé ses orientations budgétaires, affirmant que l'Education nationale ferait partie des ministères préservés.",
+   "link": "https://www.franceinfo.fr/economie/budget/le-budget-de-l-education-nationale-ne-sera-pas-en-baisse-en-2027-assure-le-ministre-edouard-geffray_8199722.html",
+   "summary": "Le budget de l'Education nationale \"ne sera pas en baisse\" en 2027, assure le ministre Edouard Geffray",
+   "image": "https://www.franceinfo.fr/pictures/t6nOV0Eo7p2hCaJrXYVoVyuCJQU/0x0:1024x576/432x243/filters:format(jpg)/2026/09/18/6aad7737b9a44756028026.jpg",
    "date": null,
-   "pubdate": "2026-09-18T16:29:36.923277+00:00"
+   "pubdate": "2026-09-18T20:57:47.237717+00:00"
   },
   {
    "title": "Soupçons de financement libyen : tout comprendre à l'affaire 29 contenus",
    "link": "https://www.franceinfo.fr/politique/affaire/financement-de-la-campagne-de-sarkozy/soupcons-de-financement-libyen-tout-comprendre-a-l-affaire/",
    "summary": "Soupçons de financement libyen : tout comprendre à l'affaire",
    "image": "https://www.franceinfo.fr/pictures/v8aRR1aSuiF4ZIj9DIPv2bzZJf8/432x297/filters:format(jpg)/2025/10/22/sarkozymontage-68f8fa8dd58da459326159.jpg",
+   "date": null,
+   "pubdate": "2026-09-18T16:29:36.923277+00:00"
+  },
+  {
+   "title": "Face aux attaques \"hybrides\" russes, Emmanuel Macron promet un plan pour les \"infrastructures critiques\" Après avoir reçu les candidats à sa succession à l'Elysée, le chef de l'Etat a dressé vendredi un sombre tableau des menaces qui visent la France, en particulier de la part de la Russie.",
+   "link": "https://www.franceinfo.fr/politique/emmanuel-macron/face-aux-attaques-hybrides-russes-emmanuel-macron-promet-un-plan-pour-les-infrastructures-critiques_8199287.html",
+   "summary": "Face aux attaques \"hybrides\" russes, Emmanuel Macron promet un plan pour les \"infrastructures critiques\"",
+   "image": "https://www.franceinfo.fr/pictures/uEwx_qIioIl3DOotTvQ8htSS5m8/0x12:1024x588/432x243/filters:format(jpg)/2026/09/18/6aad43bb0a75f250332664.jpg",
+   "date": null,
+   "pubdate": "2026-09-18T16:29:36.923277+00:00"
+  },
+  {
+   "title": "Rima Hassan porte plainte contre Laurent Nuñez pour \"violation du secret de l'enquête\" devant la Cour de justice de la République \"Complément d'enquête\" a révélé mercredi que le ministre de l'Intérieur en personne avait en partie contribué à la diffusion de l'information erronée selon laquelle de la drogue de synthèse avait été retrouvée dans les effets personnels de l'eurodéputée. Depuis, il s'en défend.",
+   "link": "https://www.franceinfo.fr/politique/la-france-insoumise/rima-hassan-porte-plainte-contre-laurent-nunez-pour-violation-du-secret-de-l-enquete-devant-la-cour-de-justice-de-la-republique_8199251.html",
+   "summary": "Rima Hassan porte plainte contre Laurent Nuñez pour \"violation du secret de l'enquête\" devant la Cour de justice de la République",
+   "image": "https://www.franceinfo.fr/pictures/ZNUkxsHHuG1vHZCIvRF6fpCJtoQ/0x0:1024x576/432x243/filters:format(jpg)/2026/09/18/6aad3f2e5be84691174212.jpg",
    "date": null,
    "pubdate": "2026-09-18T16:29:36.923277+00:00"
   },
@@ -258,22 +274,6 @@
    "image": "https://www.franceinfo.fr/pictures/X_-wrfhSa5cHPFDp3yYC-pd2Gwc/0x0:1024x576/432x243/filters:format(jpg)/2026/09/18/6aacc3ec9c46e522984228.jpg",
    "date": null,
    "pubdate": "2026-09-18T11:23:35.491514+00:00"
-  },
-  {
-   "title": "6:00 article 6 minutes \"Les socialistes la font bien !\" : la droite et le centre peuvent-ils encore organiser une primaire pour la présidentielle de 2027 ?",
-   "link": "https://www.franceinfo.fr/elections/presidentielle/les-socialistes-la-font-bien-la-droite-et-le-centre-peuvent-ils-encore-organiser-une-primaire-pour-la-presidentielle-de-2027_8171882.html",
-   "summary": "\"Les socialistes la font bien !\" : la droite et le centre peuvent-ils encore organiser une primaire pour la présidentielle de 2027 ?",
-   "image": "https://www.franceinfo.fr/pictures/5fUZH6GrNERGe4r4sXKwaeunXrU/0x0:3545x3545/100x100/filters:format(jpg)/2026/09/02/6a981ecec229f147572924.jpg",
-   "date": null,
-   "pubdate": "2026-09-18T04:50:25.534165+00:00"
-  },
-  {
-   "title": "3:00 article 3 minutes \"Je vous demande de vous arrêter\" : comment la phrase d'Edouard Balladur est devenue culte",
-   "link": "https://www.franceinfo.fr/politique/je-vous-demande-de-vous-arreter-comment-la-phrase-d-edouard-balladur-est-devenue-culte_8171597.html",
-   "summary": "\"Je vous demande de vous arrêter\" : comment la phrase d'Edouard Balladur est devenue culte",
-   "image": "https://www.franceinfo.fr/pictures/vFjOa3n5rZf7oOh8hNmg_76YnpQ/720x0:3568x2848/100x100/filters:format(jpg)/2026/09/01/6a965ae37d0eb915432123.jpg",
-   "date": null,
-   "pubdate": "2026-09-18T04:50:25.534165+00:00"
   }
  ]
 }

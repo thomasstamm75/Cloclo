@@ -1,5 +1,5 @@
 {
- "etag": "\"101930fa7df94b7d0a874c43d9c15f13-gzip\"",
+ "etag": "\"2163bfcf46e9e84e576336610242a67f-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/culture/jeux-video/affaires-de-pedocriminalite-paris-en-ligne-chez-les-mineurs-plaintes-deposees-on-vous-resume-les-polemiques-autour-du-jeu-en-ligne-roblox-qui-fete-ses-20-ans_8180441.html": "2026-09-10T04:50:42.320323+00:00",
@@ -12,32 +12,70 @@
   "https://www.franceinfo.fr/environnement/biodiversite/animaux/pourquoi-la-fondation-30-millions-d-amis-reclame-t-elle-l-interdiction-ferme-et-definitive-des-salons-du-chiot-et-du-chaton_8198567.html": "2026-09-18T16:29:34.282765+00:00",
   "https://www.franceinfo.fr/societe/armee-securite-defense/a-carcassonne-un-aumonier-militaire-appelle-les-gauchistes-a-se-calmer-lors-d-une-messe-le-ministere-des-armees-annonce-une-procedure-disciplinaire_8199026.html": "2026-09-18T16:29:34.282765+00:00",
   "https://www.franceinfo.fr/societe/justice/francis-heaulme/info-franceinfo-l-etat-de-sante-de-francis-heaulme-se-degrade-la-fille-de-jean-joseph-clement-que-le-tueur-en-serie-est-accuse-d-avoir-tue-reclame-l-acceleration-de-la-procedure_8198888.html": "2026-09-18T16:29:34.282765+00:00",
-  "https://www.franceinfo.fr/societe/harcelement-sexuel/le-maire-de-concarneau-mis-en-examen-pour-viol-et-agression-sexuelle-et-place-sous-controle-judiciaire_8199134.html": "2026-09-18T16:29:34.282765+00:00",
-  "https://www.franceinfo.fr/societe/violences-faites-aux-femmes/stephane-plaza-a-ete-condamne-en-appel-a-18-mois-d-emprisonnement-avec-sursis-pour-violences-conjugales_8199071.html": "2026-09-18T16:29:34.282765+00:00",
-  "https://www.franceinfo.fr/culture/musique/deux-ex-employees-de-julio-iglesias-reclament-a-nouveau-justice-en-espagne_8198912.html": "2026-09-18T16:29:34.282765+00:00",
   "https://www.franceinfo.fr/societe/education/en-cote-d-or-le-pere-d-une-collegienne-interpelle-apres-avoir-profere-des-menaces-contre-la-principale-de-l-etablissement_8199896.html": "2026-09-18T20:57:43.424584+00:00",
-  "https://www.franceinfo.fr/sante/c-est-la-plus-grande-victoire-de-ma-vie-bruno-a-perdu-100-kilos-en-un-an-il-raconte-son-parcours_8199836.html": "2026-09-18T20:57:43.424584+00:00",
-  "https://www.franceinfo.fr/sante/psycho-bien-etre/j-avais-le-sentiment-d-avoir-perdu-ma-fille-des-structures-aident-a-reparer-les-liens-entre-parents-et-ados_8199809.html": "2026-09-18T20:57:43.424584+00:00",
-  "https://www.franceinfo.fr/faits-divers/ca-fait-partie-de-notre-culture-paysanne-de-s-entraider-les-voisins-et-amis-de-manon-relandeau-introuvable-depuis-six-mois-se-relaient-pour-sauver-sa-ferme_8199785.html": "2026-09-18T20:57:43.424584+00:00",
   "https://www.franceinfo.fr/societe/justice/info-radio-france-ecarte-du-ps-philippe-brun-tente-de-rassembler-des-preuves-de-violences-de-la-part-de-son-ancienne-collaboratrice_8199776.html": "2026-09-18T20:57:43.424584+00:00",
   "https://www.franceinfo.fr/societe/justice/un-adolescent-de-15-ans-proche-de-l-ultradroite-mis-en-examen-pour-avoir-projete-une-attaque-contre-son-ancien-lycee_8199746.html": "2026-09-18T20:57:43.424584+00:00",
   "https://www.franceinfo.fr/economie/budget/le-budget-de-l-education-nationale-ne-sera-pas-en-baisse-en-2027-assure-le-ministre-edouard-geffray_8199722.html": "2026-09-18T20:57:43.424584+00:00",
   "https://www.franceinfo.fr/societe/armee-securite-defense/fabrication-de-drones-militaires-par-renault-la-cgt-organise-une-mobilisation-lundi-au-mans-contre-le-projet_8199662.html": "2026-09-18T20:57:43.424584+00:00",
   "https://www.franceinfo.fr/societe/justice/l-expulsion-en-urgence-absolue-de-l-influenceur-algerien-doualemn-annulee-par-le-tribunal-administratif-de-paris_8199575.html": "2026-09-18T20:57:43.424584+00:00",
   "https://www.franceinfo.fr/societe/armee-securite-defense/visite-du-pape-en-france-comment-la-france-entraine-son-systeme-de-lutte-anti-drones-dans-les-yvelines_8199947.html": "2026-09-18T23:21:02.489872+00:00",
-  "https://www.franceinfo.fr/societe/familles-royales/debut-de-tournee-avant-une-vente-historique-pour-la-revenge-dress-de-lady-diana_8199887.html": "2026-09-18T23:21:02.489872+00:00",
   "https://www.franceinfo.fr/environnement/crise-climatique/climat-transports-croissance-jean-marc-jancovici-lance-une-assemblee-citoyenne-et-en-appelle-a-l-intelligence-collective_8200553.html": "2026-09-19T11:07:11.598858+00:00",
   "https://www.franceinfo.fr/societe/harcelement-sexuel/des-fichiers-pedopornographiques-retrouves-chez-un-animateur-periscolaire-de-gironde-soupconne-d-agression-sexuelle-sur-une-enfant-de-4-ans_8200466.html": "2026-09-19T11:07:11.598858+00:00",
   "https://www.franceinfo.fr/replay-radio/les-experts-cinema/si-tu-penses-bien-geraldine-nakache-disseque-brillamment-une-relation-sous-emprise_8178059.html": "2026-09-19T11:07:11.598858+00:00",
-  "https://www.franceinfo.fr/replay-radio/l-il-de-julie/les-thinkfluencers-de-plus-en-plus-nombreux-sur-les-reseaux_8178044.html": "2026-09-19T11:07:11.598858+00:00"
+  "https://www.franceinfo.fr/replay-radio/l-il-de-julie/les-thinkfluencers-de-plus-en-plus-nombreux-sur-les-reseaux_8178044.html": "2026-09-19T11:07:11.598858+00:00",
+  "https://www.franceinfo.fr/replay-radio/l-empire-des-series/camarades-en-mai-1969-la-revolution-continue-a-la-fac-de-vincennes_8178080.html": "2026-09-19T15:55:50.658315+00:00",
+  "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux-junior/les-professeurs-doivent-ils-respecter-de-nouvelles-regles-vestimentaires_8178056.html": "2026-09-19T15:55:50.658315+00:00",
+  "https://www.franceinfo.fr/societe/familles-royales/la-robe-de-la-vengeance_8200760.html": "2026-09-19T15:55:50.658315+00:00",
+  "https://www.franceinfo.fr/monde/la-menace-russe-s-intensifie-en-france_8200754.html": "2026-09-19T15:55:50.658315+00:00",
+  "https://www.franceinfo.fr/culture/patrimoine/journees-du-patrimoine/a-lyon-les-journees-du-patrimoine-mettent-a-l-honneur-un-tunnel-de-prison-peint-par-des-detenus_8200442.html": "2026-09-19T15:55:50.658315+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "Climat, transports, croissance... Jean-Marc Jancovici lance une assemblée citoyenne et en appelle à \"l'intelligence collective\" L'objectif de cette initiative, baptisée \"Un commun accord\", est de faire plancher 157 citoyens sur des thématiques d'environnement et de société. Aujourd'hui",
+   "title": "\"Camarades\" : en mai 1969, la révolution continue à la fac de Vincennes Dans \"Camarades\", Benjamin Charbit et Dominique Bonnard reconstituent une université alternative utopique créée début 1969 à la va-vite par le gouvernement. Une série drôle sur une histoire surprenante. Aujourd'hui 2:30 audio 2 minutes 30",
+   "link": "https://www.franceinfo.fr/replay-radio/l-empire-des-series/camarades-en-mai-1969-la-revolution-continue-a-la-fac-de-vincennes_8178080.html",
+   "summary": "\"Camarades\" : en mai 1969, la révolution continue à la fac de Vincennes",
+   "image": "https://www.franceinfo.fr/pictures/HVPEpAJ4XdPkMvRetfANJ3oSj3o/69x0:698x432/432x297/filters:format(jpg)/2026/09/14/6aa7f4ac5d7e6118026909.jpg",
+   "date": null,
+   "pubdate": "2026-09-19T15:55:50.658315+00:00"
+  },
+  {
+   "title": "2:30 audio 2 minutes 30 Les professeurs doivent-ils respecter de nouvelles règles vestimentaires ?",
+   "link": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux-junior/les-professeurs-doivent-ils-respecter-de-nouvelles-regles-vestimentaires_8178056.html",
+   "summary": "Les professeurs doivent-ils respecter de nouvelles règles vestimentaires ?",
+   "image": "https://www.franceinfo.fr/pictures/NSbZlkAvbz398h1XGMjMaW7iRnQ/0x110:2121x1303/432x243/filters:format(jpg)/2026/09/16/6aaab717e87fd430181973.jpg",
+   "date": null,
+   "pubdate": "2026-09-19T15:55:50.658315+00:00"
+  },
+  {
+   "title": "2:04 vidéo 2 minutes 4 La robe de la vengeance",
+   "link": "https://www.franceinfo.fr/societe/familles-royales/la-robe-de-la-vengeance_8200760.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/kzLT4BYbcfRyUzFxgelBg2jJW1Q/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/19/6aae8c163ae39264029620.jpg",
+   "date": null,
+   "pubdate": "2026-09-19T15:55:50.658315+00:00"
+  },
+  {
+   "title": "1:52 vidéo 1 minute 52 La menace russe s'intensifie en France",
+   "link": "https://www.franceinfo.fr/monde/la-menace-russe-s-intensifie-en-france_8200754.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/4k5FyY8w2WKq4-IpHLp8FLR5o-s/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/19/6aae89a14f5fd984738543.jpg",
+   "date": null,
+   "pubdate": "2026-09-19T15:55:50.658315+00:00"
+  },
+  {
+   "title": "À Lyon, les Journées du patrimoine mettent à l'honneur un tunnel de prison peint par des détenus",
+   "link": "https://www.franceinfo.fr/culture/patrimoine/journees-du-patrimoine/a-lyon-les-journees-du-patrimoine-mettent-a-l-honneur-un-tunnel-de-prison-peint-par-des-detenus_8200442.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/PqC3ngst_DFl5eWqntXbB91JqY8/0x187:2000x1312/432x243/filters:format(jpg)/2026/09/19/6aae47aae56f0357572048.jpg",
+   "date": null,
+   "pubdate": "2026-09-19T15:55:50.658315+00:00"
+  },
+  {
+   "title": "Climat, transports, croissance... Jean-Marc Jancovici lance une assemblée citoyenne et en appelle à \"l'intelligence collective\"",
    "link": "https://www.franceinfo.fr/environnement/crise-climatique/climat-transports-croissance-jean-marc-jancovici-lance-une-assemblee-citoyenne-et-en-appelle-a-l-intelligence-collective_8200553.html",
-   "summary": "Climat, transports, croissance... Jean-Marc Jancovici lance une assemblée citoyenne et en appelle à \"l'intelligence collective\"",
-   "image": "https://www.franceinfo.fr/pictures/04qnwhHo2g7QG4g_8DMVy6FsY5U/787x370:4203x2718/432x297/filters:format(jpg)/2026/08/27/6a8fd70135ed2120041573.jpg",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/PA98NyQd5EHuwNej5htmWy24_4w/787x583:4203x2505/432x243/filters:format(jpg)/2026/08/27/6a8fd70135ed2120041573.jpg",
    "date": null,
    "pubdate": "2026-09-19T11:07:11.598858+00:00"
   },
@@ -74,42 +112,10 @@
    "pubdate": "2026-09-18T23:21:02.489872+00:00"
   },
   {
-   "title": "2:17 vidéo 2 minutes 17 Début de tournée avant une vente historique pour la \"Revenge dress\" de Lady Diana",
-   "link": "https://www.franceinfo.fr/societe/familles-royales/debut-de-tournee-avant-une-vente-historique-pour-la-revenge-dress-de-lady-diana_8199887.html",
-   "summary": "Début de tournée avant une vente historique pour la \"Revenge dress\" de Lady Diana",
-   "image": "https://www.franceinfo.fr/pictures/8Ac1xzOjOkYcpH5zaNceTCkdOwY/0x58:1267x770/432x243/filters:format(jpg)/2026/09/18/6aada77809286815291762.jpg",
-   "date": null,
-   "pubdate": "2026-09-18T23:21:02.489872+00:00"
-  },
-  {
-   "title": "En Côte-d'Or, le père d'une collégienne interpellé après avoir proféré des menaces contre la principale de l'établissement",
+   "title": "En Côte-d'Or, le père d'une collégienne interpellé après avoir proféré des menaces contre la principale de l'établissement L'homme a été placé sous contrôle judiciaire jusqu'à la date de son procès, prévu le 1er mars prochain.",
    "link": "https://www.franceinfo.fr/societe/education/en-cote-d-or-le-pere-d-une-collegienne-interpelle-apres-avoir-profere-des-menaces-contre-la-principale-de-l-etablissement_8199896.html",
-   "summary": "",
+   "summary": "En Côte-d'Or, le père d'une collégienne interpellé après avoir proféré des menaces contre la principale de l'établissement",
    "image": "https://www.franceinfo.fr/pictures/r0McupV9PMdYc0je2WPfDQ69fgc/432x243/filters:format(jpg)/2026/07/30/6a6b6ca8adaf1294085877.jpg",
-   "date": null,
-   "pubdate": "2026-09-18T20:57:43.424584+00:00"
-  },
-  {
-   "title": "3:03 vidéo 3 minutes 3 \"C'est la plus grande victoire de ma vie\" : Bruno a perdu 100 kilos en un an, il raconte son parcours",
-   "link": "https://www.franceinfo.fr/sante/c-est-la-plus-grande-victoire-de-ma-vie-bruno-a-perdu-100-kilos-en-un-an-il-raconte-son-parcours_8199836.html",
-   "summary": "\"C'est la plus grande victoire de ma vie\" : Bruno a perdu 100 kilos en un an, il raconte son parcours",
-   "image": "https://www.franceinfo.fr/pictures/zxTRxs6Pw4O76ajQ3kNyc6oJTOs/112x0:1088x549/432x243/filters:format(jpg)/2026/09/18/6aada0bfb5524111987681.jpg",
-   "date": null,
-   "pubdate": "2026-09-18T20:57:43.424584+00:00"
-  },
-  {
-   "title": "3:38 vidéo 3 minutes 38 \"J'avais le sentiment d'avoir perdu ma fille\" : des structures aident à réparer les liens entre parents et ados",
-   "link": "https://www.franceinfo.fr/sante/psycho-bien-etre/j-avais-le-sentiment-d-avoir-perdu-ma-fille-des-structures-aident-a-reparer-les-liens-entre-parents-et-ados_8199809.html",
-   "summary": "\"J'avais le sentiment d'avoir perdu ma fille\" : des structures aident à réparer les liens entre parents et ados",
-   "image": "https://www.franceinfo.fr/pictures/od7JM5Plz8YMyfg-QNdM23Cb-nM/62x0:1179x628/432x243/filters:format(jpg)/2026/09/18/6aad97074addc424842466.jpg",
-   "date": null,
-   "pubdate": "2026-09-18T20:57:43.424584+00:00"
-  },
-  {
-   "title": "4:10 vidéo 4 minutes 10 \"Ça fait partie de notre culture paysanne de s'entraider\" : les voisins et amis de Manon Relandeau, introuvable depuis six mois, se relaient pour sauver sa ferme",
-   "link": "https://www.franceinfo.fr/faits-divers/ca-fait-partie-de-notre-culture-paysanne-de-s-entraider-les-voisins-et-amis-de-manon-relandeau-introuvable-depuis-six-mois-se-relaient-pour-sauver-sa-ferme_8199785.html",
-   "summary": "\"Ça fait partie de notre culture paysanne de s'entraider\" : les voisins et amis de Manon Relandeau, introuvable depuis six mois, se relaient pour sauver sa ferme",
-   "image": "https://www.franceinfo.fr/pictures/oUqgoiGnUVq-uqq_po97oD8fxd4/52x0:1300x702/432x243/filters:format(jpg)/2026/09/18/6aad8f1eeb5d2974363231.jpg",
    "date": null,
    "pubdate": "2026-09-18T20:57:43.424584+00:00"
   },
@@ -182,30 +188,6 @@
    "link": "https://www.franceinfo.fr/societe/justice/francis-heaulme/info-franceinfo-l-etat-de-sante-de-francis-heaulme-se-degrade-la-fille-de-jean-joseph-clement-que-le-tueur-en-serie-est-accuse-d-avoir-tue-reclame-l-acceleration-de-la-procedure_8198888.html",
    "summary": "\"L'état de santé de Francis Heaulme se dégrade\" : la fille de Jean-Joseph Clément, que le tueur en série est accusé d'avoir tué, réclame l'accélération de la procédure",
    "image": "https://www.franceinfo.fr/pictures/11Vjt5Q6tsi2B5rPyzCdHZPeYA4/0x0:4800x2700/432x243/filters:format(jpg)/2026/09/18/6aad3c7e57f70297482929.jpg",
-   "date": null,
-   "pubdate": "2026-09-18T16:29:34.282765+00:00"
-  },
-  {
-   "title": "Le maire de Concarneau mis en examen pour viol et agression sexuelle et placé sous contrôle judiciaire Les faits dénoncés se seraient produits alors qu'il était encore candidat aux municipales. Une information judiciaire a été ouverte.",
-   "link": "https://www.franceinfo.fr/societe/harcelement-sexuel/le-maire-de-concarneau-mis-en-examen-pour-viol-et-agression-sexuelle-et-place-sous-controle-judiciaire_8199134.html",
-   "summary": "Le maire de Concarneau mis en examen pour viol et agression sexuelle et placé sous contrôle judiciaire",
-   "image": "https://www.franceinfo.fr/pictures/nvLFwxnstt1eY7vBI7A9Snov42I/432x243/filters:format(jpg)/2026/09/18/6aacd36defa1a783213703.jpg",
-   "date": null,
-   "pubdate": "2026-09-18T16:29:34.282765+00:00"
-  },
-  {
-   "title": "Stéphane Plaza se pourvoit en cassation après avoir été condamné en appel à une peine plus lourde pour violences conjugales L'agent immobilier a écopé de dix-huit mois de prison avec sursis en appel, soit six mois de plus qu'en première instance.",
-   "link": "https://www.franceinfo.fr/societe/violences-faites-aux-femmes/stephane-plaza-a-ete-condamne-en-appel-a-18-mois-d-emprisonnement-avec-sursis-pour-violences-conjugales_8199071.html",
-   "summary": "Stéphane Plaza se pourvoit en cassation après avoir été condamné en appel à une peine plus lourde pour violences conjugales",
-   "image": "https://www.franceinfo.fr/pictures/LfO6uRkRfIeKhEoEqn6nckNOkOs/0x18:1024x594/432x243/filters:format(jpg)/2026/09/18/6aad2d0ec6c3e696817022.jpg",
-   "date": null,
-   "pubdate": "2026-09-18T16:29:34.282765+00:00"
-  },
-  {
-   "title": "Deux ex-employées de Julio Iglesias réclament à nouveau justice en Espagne Elles avaient déjà porté plainte en janvier dernier contre l'artiste qu'elles accusent d'agression sexuelle. Mais la justice espagnole avait classé l'affaire s'estimant incompétente.",
-   "link": "https://www.franceinfo.fr/culture/musique/deux-ex-employees-de-julio-iglesias-reclament-a-nouveau-justice-en-espagne_8198912.html",
-   "summary": "Deux ex-employées de Julio Iglesias réclament à nouveau justice en Espagne",
-   "image": "https://www.franceinfo.fr/pictures/xNc3qotat1qm4MmFlrr9xGA1dTg/0x0:3510x1974/432x243/filters:format(jpg)/2026/09/18/6aad2827dcd19605037932.jpg",
    "date": null,
    "pubdate": "2026-09-18T16:29:34.282765+00:00"
   },
