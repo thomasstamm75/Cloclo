@@ -1,40 +1,128 @@
 {
- "etag": "\"4ee8b2f23388ad71daca618e2b7d09a8-gzip\"",
+ "etag": "\"af75eb24aa38b8d41920a168ef4c8b15-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-plus-de-1-000-cas-de-violences-sexuelles-depuis-le-debut-du-conflit-alerte-l-onu_8198969.html": "2026-09-18T11:23:38.116045+00:00",
   "https://www.franceinfo.fr/culture/patrimoine/archeologie/en-italie-une-fresque-et-des-mosaiques-antiques-exhumees-au-c-ur-de-rome_8198672.html": "2026-09-18T11:23:38.116045+00:00",
   "https://www.franceinfo.fr/culture/livres/le-mexique-expose-le-codex-azcatitlan-un-precieux-manuscrit-conserve-en-france-depuis-deux-siecles_8198714.html": "2026-09-18T11:23:38.116045+00:00",
-  "https://www.franceinfo.fr/sante/vaccins/la-vaccination-infantile-est-en-recul-dans-plusieurs-pays-d-europe-depuis-le-covid-19-selon-une-etude_8198696.html": "2026-09-18T11:23:38.116045+00:00",
-  "https://www.franceinfo.fr/replay-radio/le-monde-et-vous/face-a-la-flambee-des-prix-du-petrole-certains-pays-envisagent-de-revenir-a-la-semaine-de-quatre-jours_8191937.html": "2026-09-18T11:23:38.116045+00:00",
-  "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/des-photos-de-l-afp-montrent-donald-trump-en-train-de-regarder-un-panneau-semblant-evoquer-une-demolition-du-kennedy-center_8198657.html": "2026-09-18T11:23:38.116045+00:00",
-  "https://www.franceinfo.fr/replay-radio/ca-dit-quoi/emmanuel-macron-renonce-a-fort-boyard-canicule-et-crises-suicidaires-et-la-bo-de-gta-ca-dit-quoi-ce-18-septembre_8188964.html": "2026-09-18T11:23:38.116045+00:00",
-  "https://www.franceinfo.fr/replay-radio/le-brief-eco/l-espagne-ramene-sa-dette-publique-sous-les-100-du-pib-quand-la-france-paie-des-interets-au-prix-fort_8176151.html": "2026-09-18T11:23:38.116045+00:00",
-  "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/sur-les-champs-de-bataille-l-intelligence-artificielle-et-les-de-systemes-autonomes-tuent-deja_8176166.html": "2026-09-18T11:23:38.116045+00:00",
-  "https://www.franceinfo.fr/monde/europe/allemagne/reportage-election-regionale-dans-le-nord-est-de-l-allemagne-ou-l-afd-seduit-en-misant-sur-le-retour-d-un-partenariat-commercial-avec-la-russie_8197997.html": "2026-09-18T11:23:38.116045+00:00",
   "https://www.franceinfo.fr/replay-radio/salut-l-info/podcast-l-ecole-malgre-la-guerre-un-record-battu-pour-les-basketteuses-francaises-et-un-tresor-viking_8188970.html": "2026-09-18T16:29:40.439105+00:00",
   "https://www.franceinfo.fr/monde/espagne/en-espagne-plus-de-80-000-hectares-sont-irrigues-avec-de-l-eau-volee-selon-une-enquete-du-wwf_8199143.html": "2026-09-18T16:29:40.439105+00:00",
-  "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/visite-du-pape-leon-xiv-en-france-derniere-ligne-droite-pour-les-preparatifs-dans-les-paroisses_8199347.html": "2026-09-18T16:29:40.439105+00:00",
   "https://www.franceinfo.fr/monde/russie/reportage-le-gouvernement-ne-doit-pas-adapter-les-lois-qu-on-trouve-en-europe-les-russes-aux-urnes-pour-des-legislatives-en-pleine-guerre-en-ukraine_8199230.html": "2026-09-18T16:29:40.439105+00:00",
   "https://www.franceinfo.fr/politique/emmanuel-macron/face-aux-attaques-hybrides-russes-emmanuel-macron-promet-un-plan-pour-les-infrastructures-critiques_8199287.html": "2026-09-18T16:29:40.439105+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/ingerences-sabotages-tentatives-d-assassinat-la-menace-russe-va-t-elle-prendre-une-nouvelle-ampleur-en-europe_8199089.html": "2026-09-18T16:29:40.439105+00:00",
   "https://www.franceinfo.fr/economie/automobile/essence/prix-record-du-gazole-et-de-l-essence-visualisez-la-flambee-des-tarifs-a-la-pompe-depuis-le-debut-de-la-guerre-au-moyen-orient_8198840.html": "2026-09-18T16:29:40.439105+00:00",
   "https://www.franceinfo.fr/sports/foot/kylian-mbappe/eric-zemmour-accuse-kylian-mbappe-de-solidarite-islamique-avec-les-migrants-a-ceuta-ses-propos-suscitent-l-indignation-a-gauche_8199035.html": "2026-09-18T16:29:40.439105+00:00",
   "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-annonce-interdire-l-acces-de-la-maison-blanche-a-trois-medias-dont-la-chaine-americaine-cnn_8199869.html": "2026-09-18T20:57:50.547795+00:00",
-  "https://www.franceinfo.fr/monde/usa/les-photos-inedites-des-frappes-iraniennes-sur-des-bases-americaines_8199671.html": "2026-09-18T20:57:50.547795+00:00",
   "https://www.franceinfo.fr/monde/russie/la-tour-de-refroidissement-d-une-centrale-nucleaire-russe-frappee-par-un-drone_8199674.html": "2026-09-18T20:57:50.547795+00:00",
-  "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/ils-dormiront-a-l-eglise-pour-voir-le-pape_8199302.html": "2026-09-18T20:57:50.547795+00:00",
   "https://www.franceinfo.fr/monde/asie/taiwan/du-sommet-de-l-etat-au-quotidien-des-habitants-comment-taiwan-se-prepare-a-une-guerre-avec-la-chine_8181767.html": "2026-09-18T20:57:50.547795+00:00",
   "https://www.franceinfo.fr/monde/groenland/donald-trump-annonce-avoir-obtenu-un-controle-permanent-sur-la-securite-du-groenland_8199956.html": "2026-09-18T23:21:08.179384+00:00",
-  "https://www.franceinfo.fr/societe/armee-securite-defense/visite-du-pape-en-france-comment-la-france-entraine-son-systeme-de-lutte-anti-drones-dans-les-yvelines_8199947.html": "2026-09-18T23:21:08.179384+00:00",
   "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/un-an-de-donald-trump-au-pouvoir/": "2026-09-18T23:21:08.179384+00:00",
   "https://www.franceinfo.fr/grands-formats/de-san-francisco-a-los-angeles-les-richesses-menacees-de-la-pacific-coast-highway-la-route-du-pacifique_8185364.html": "2026-09-18T23:21:08.179384+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-il-y-a-70-de-bon-et-30-de-mauvais-en-chine-le-culte-de-mao-prend-de-l-ampleur-chez-les-jeunes_8161538.html": "2026-09-18T23:21:08.179384+00:00",
   "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/tout-comprendre-a-la-guerre-au-moyen-orient/": "2026-09-19T04:43:11.132276+00:00",
-  "https://www.franceinfo.fr/monde/groenland/le-groenland-au-c-ur-d-un-bras-de-fer-geopolitique/": "2026-09-19T04:43:11.132276+00:00"
+  "https://www.franceinfo.fr/monde/groenland/le-groenland-au-c-ur-d-un-bras-de-fer-geopolitique/": "2026-09-19T04:43:11.132276+00:00",
+  "https://www.franceinfo.fr/replay-magazine/france-2/nous-les-europeens/nous-les-europeens-affaires-criminelles-les-nouvelles-armes-des-enqueteurs_8172959.html": "2026-09-19T11:07:17.108881+00:00",
+  "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/presence-militaire-renforcee-chine-et-russie-ciblees-ce-que-l-on-sait-de-l-accord-de-securite-sur-le-groenland-annonce-par-donald-trump_8200412.html": "2026-09-19T11:07:17.108881+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/donald-trump-promulgue-une-loi-imposant-de-nouvelles-sanctions-contre-la-russie_8200640.html": "2026-09-19T11:07:17.108881+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/le-royaume-uni-constate-une-hausse-des-incidents-impliquant-des-drones-pres-de-sites-militaires-sur-fond-de-tension-avec-la-russie_8200484.html": "2026-09-19T11:07:17.108881+00:00",
+  "https://www.franceinfo.fr/monde/palestine/l-union-europeenne-exhorte-les-etats-unis-a-reconsiderer-leur-refus-de-visa-a-la-delegation-palestinienne-pour-l-assemblee-generale-de-l-onu_8200451.html": "2026-09-19T11:07:17.108881+00:00",
+  "https://www.franceinfo.fr/monde/conflit-israel-iran/le-gouvernement-iranien-execute-un-homme-accuse-d-avoir-transmis-a-israel-des-informations-sur-des-missiles_8200400.html": "2026-09-19T11:07:17.108881+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/le-gouvernement-denonce-la-mise-sous-tutelle-par-la-russie-de-filiales-russes-d-entreprises-francaises-dont-nestle-et-auchan_8200367.html": "2026-09-19T11:07:17.108881+00:00",
+  "https://www.franceinfo.fr/monde/russie/pologne-roumanie-allemagne-l-ombre-de-la-russie-plane-sur-l-europe_8200349.html": "2026-09-19T11:07:17.108881+00:00",
+  "https://www.franceinfo.fr/monde/russie/recit-on-menace-de-me-retrouver-pour-me-tuer-la-vie-sous-surveillance-du-realisateur-russe-pavel-talankin-pourchasse-par-moscou-six-mois-apres-son-oscar_8193587.html": "2026-09-19T11:07:17.108881+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/reportage-plus-de-huit-millions-de-livres-pour-enfants-partis-en-fumee-l-ukraine-face-a-une-penurie-de-manuels-scolaires-apres-des-frappes-russes_8192342.html": "2026-09-19T11:07:17.108881+00:00",
+  "https://www.franceinfo.fr/monde/usa/affaire-jeffrey-epstein/l-essentiel-des-revelations-sur-l-affaire-epstein/": "2026-09-19T11:07:17.108881+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "\"Nous, les Européens\". Affaires criminelles : les nouvelles armes des enquêteurs Grand reportage, invités et actualité européenne sont au sommaire de ce magazine d'information, présenté par Eléonore Gay et diffusé le dimanche à midi sur France 3 ainsi que le jeudi en fin de soirée sur France 2. 20 septembre 35:00 vidéo 35 minutes",
+   "link": "https://www.franceinfo.fr/replay-magazine/france-2/nous-les-europeens/nous-les-europeens-affaires-criminelles-les-nouvelles-armes-des-enqueteurs_8172959.html",
+   "summary": "\"Nous, les Européens\". Affaires criminelles : les nouvelles armes des enquêteurs",
+   "image": "https://www.franceinfo.fr/pictures/h-3_sSEA5UfvStm9bvL8scQVJCc/174x0:1745x1080/432x297/filters:format(jpg)/2026/09/16/6aaa9806e6543001031374.jpg",
+   "date": null,
+   "pubdate": "2026-09-19T11:07:17.108881+00:00"
+  },
+  {
+   "title": "Présence militaire renforcée, Chine et Russie ciblées… Ce que l'on sait de l'accord de sécurité sur le Groenland annoncé par Donald Trump",
+   "link": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/presence-militaire-renforcee-chine-et-russie-ciblees-ce-que-l-on-sait-de-l-accord-de-securite-sur-le-groenland-annonce-par-donald-trump_8200412.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/ny8b9ZZ-IbCTJOKIvc5wCBEjLzc/0x106:1024x682/432x243/filters:format(jpg)/2026/09/19/6aae4fc0d6fff548045711.jpg",
+   "date": null,
+   "pubdate": "2026-09-19T11:07:17.108881+00:00"
+  },
+  {
+   "title": "Donald Trump promulgue une loi imposant de nouvelles sanctions contre la Russie",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/donald-trump-promulgue-une-loi-imposant-de-nouvelles-sanctions-contre-la-russie_8200640.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/L87ie8KIwAY42c6f-JLuyCG1d8I/0x53:1024x629/432x243/filters:format(jpg)/2026/09/19/6aae645921fa0665222435.jpg",
+   "date": null,
+   "pubdate": "2026-09-19T11:07:17.108881+00:00"
+  },
+  {
+   "title": "Le Royaume-Uni constate une hausse des incidents impliquant des drones près de sites militaires, sur fond de tensions avec la Russie",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/le-royaume-uni-constate-une-hausse-des-incidents-impliquant-des-drones-pres-de-sites-militaires-sur-fond-de-tension-avec-la-russie_8200484.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/Fko9-2Kxq9U2iCN1fz52qdLx9yY/0x171:3300x2028/432x243/filters:format(jpg)/2026/09/19/6aae4edaa9a3e576113183.jpg",
+   "date": null,
+   "pubdate": "2026-09-19T11:07:17.108881+00:00"
+  },
+  {
+   "title": "L'Union européenne exhorte les Etats-Unis à reconsidérer leur refus de visa à la délégation palestinienne pour l'Assemblée générale de l'ONU",
+   "link": "https://www.franceinfo.fr/monde/palestine/l-union-europeenne-exhorte-les-etats-unis-a-reconsiderer-leur-refus-de-visa-a-la-delegation-palestinienne-pour-l-assemblee-generale-de-l-onu_8200451.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/koHTFZjYA8Snfxmc2Eep89O76Mg/0x46:512x334/432x243/filters:format(jpg)/2026/09/19/6aae439ab0fed187164260.jpg",
+   "date": null,
+   "pubdate": "2026-09-19T11:07:17.108881+00:00"
+  },
+  {
+   "title": "Le gouvernement iranien exécute un homme accusé d'avoir transmis à Israël des informations sur des missiles",
+   "link": "https://www.franceinfo.fr/monde/conflit-israel-iran/le-gouvernement-iranien-execute-un-homme-accuse-d-avoir-transmis-a-israel-des-informations-sur-des-missiles_8200400.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/SicsSG4iVPk-YPt2BEya8Nsd-eg/0x325:6240x3835/432x243/filters:format(jpg)/2026/09/19/6aae32904da46553851077.jpg",
+   "date": null,
+   "pubdate": "2026-09-19T11:07:17.108881+00:00"
+  },
+  {
+   "title": "Le gouvernement dénonce la mise sous tutelle par la Russie de filiales russes d'entreprises françaises, dont le groupe Auchan",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/le-gouvernement-denonce-la-mise-sous-tutelle-par-la-russie-de-filiales-russes-d-entreprises-francaises-dont-nestle-et-auchan_8200367.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/9CFeamihzWBGDzm_AkqaJwsAkPg/0x53:1024x629/432x243/filters:format(jpg)/2026/09/19/6aae2b3be0cd9588880803.jpg",
+   "date": null,
+   "pubdate": "2026-09-19T11:07:17.108881+00:00"
+  },
+  {
+   "title": "1:51 vidéo 1 minute 51 Pologne, Roumanie, Allemagne… L'ombre de la Russie plane sur l'Europe",
+   "link": "https://www.franceinfo.fr/monde/russie/pologne-roumanie-allemagne-l-ombre-de-la-russie-plane-sur-l-europe_8200349.html",
+   "summary": "Pologne, Roumanie, Allemagne… L'ombre de la Russie plane sur l'Europe",
+   "image": "https://www.franceinfo.fr/pictures/nnYtqsgLpxV7-KsqALyenHYgPnU/194x0:1470x718/432x243/filters:format(jpg)/2026/09/19/6aae22bb950e3434293174.jpg",
+   "date": null,
+   "pubdate": "2026-09-19T11:07:17.108881+00:00"
+  },
+  {
+   "title": ": Récit : Récit \"On menace de me retrouver pour me tuer\" : la vie sous surveillance du réalisateur russe Pavel Talankin, pourchassé par Moscou six mois après son Oscar",
+   "link": "https://www.franceinfo.fr/monde/russie/recit-on-menace-de-me-retrouver-pour-me-tuer-la-vie-sous-surveillance-du-realisateur-russe-pavel-talankin-pourchasse-par-moscou-six-mois-apres-son-oscar_8193587.html",
+   "summary": "\"On menace de me retrouver pour me tuer\" : la vie sous surveillance du réalisateur russe Pavel Talankin, pourchassé par Moscou six mois après son Oscar",
+   "image": "https://www.franceinfo.fr/pictures/nRSmoxwnA726tvgZsslXhSmzkv0/0x0:3840x2160/432x243/filters:format(jpg)/2026/09/18/6aad3beebf64f229669512.jpg",
+   "date": null,
+   "pubdate": "2026-09-19T11:07:17.108881+00:00"
+  },
+  {
+   "title": ": Reportage 2:00 article 2 minutes : Reportage \"Plus de huit millions de livres pour enfants\" partis en fumée : l'Ukraine face à une pénurie de manuels scolaires après des frappes russes",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/reportage-plus-de-huit-millions-de-livres-pour-enfants-partis-en-fumee-l-ukraine-face-a-une-penurie-de-manuels-scolaires-apres-des-frappes-russes_8192342.html",
+   "summary": "\"Plus de huit millions de livres pour enfants\" partis en fumée : l'Ukraine face à une pénurie de manuels scolaires après des frappes russes",
+   "image": "https://www.franceinfo.fr/pictures/FDQ95GjeajjrKBoHSZT8OG_Y2Ww/350x0:1250x900/100x100/filters:format(jpg)/2026/09/14/6aa8420659848131991942.jpg",
+   "date": null,
+   "pubdate": "2026-09-19T11:07:17.108881+00:00"
+  },
+  {
+   "title": "L'essentiel des révélations sur l'affaire Epstein 14 contenus",
+   "link": "https://www.franceinfo.fr/monde/usa/affaire-jeffrey-epstein/l-essentiel-des-revelations-sur-l-affaire-epstein/",
+   "summary": "L'essentiel des révélations sur l'affaire Epstein",
+   "image": "https://www.franceinfo.fr/pictures/btENVL4vmQDLNvnJ4uUtTATvN9k/432x297/filters:format(jpg)/2026/02/12/000-96rl2gk-1-698def9a11d8a867290796.jpg",
+   "date": null,
+   "pubdate": "2026-09-19T11:07:17.108881+00:00"
+  },
   {
    "title": "Tout comprendre à la guerre au Moyen-Orient 27 contenus",
    "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/tout-comprendre-a-la-guerre-au-moyen-orient/",
@@ -52,18 +140,10 @@
    "pubdate": "2026-09-19T04:43:11.132276+00:00"
   },
   {
-   "title": "Donald Trump annonce avoir obtenu un \"contrôle permanent\" sur la sécurité du Groenland Les Etats-Unis vont \"immédiatement lancer le processus de développement d'une importante présence militaire\" au Groenland, a annoncé le président américain. Aujourd'hui",
+   "title": "Donald Trump annonce avoir obtenu un \"contrôle permanent\" sur la sécurité du Groenland",
    "link": "https://www.franceinfo.fr/monde/groenland/donald-trump-annonce-avoir-obtenu-un-controle-permanent-sur-la-securite-du-groenland_8199956.html",
-   "summary": "Donald Trump annonce avoir obtenu un \"contrôle permanent\" sur la sécurité du Groenland",
-   "image": "https://www.franceinfo.fr/pictures/TiAkQtirKkeh5HKNxhPIhwHGRVY/26x0:1018x682/432x297/filters:format(jpg)/2026/09/19/6aadb64af2a2b534145118.jpg",
-   "date": null,
-   "pubdate": "2026-09-18T23:21:08.179384+00:00"
-  },
-  {
-   "title": "2:35 vidéo 2 minutes 35 Visite du pape Léon XIV : comment la France entraîne son système de lutte anti-drones dans les Yvelines",
-   "link": "https://www.franceinfo.fr/societe/armee-securite-defense/visite-du-pape-en-france-comment-la-france-entraine-son-systeme-de-lutte-anti-drones-dans-les-yvelines_8199947.html",
-   "summary": "Visite du pape Léon XIV : comment la France entraîne son système de lutte anti-drones dans les Yvelines",
-   "image": "https://www.franceinfo.fr/pictures/Tn9fv1YrAQwlj7BUeTDZ6VYnK-A/15x0:1433x798/432x243/filters:format(jpg)/2026/09/18/6aadb41fa1cb8057000470.jpg",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/1sELIu6FFUBg4z4KMoMNAkLslu4/0x80:1024x656/432x243/filters:format(jpg)/2026/09/19/6aadb64af2a2b534145118.jpg",
    "date": null,
    "pubdate": "2026-09-18T23:21:08.179384+00:00"
   },
@@ -92,38 +172,6 @@
    "pubdate": "2026-09-18T23:21:08.179384+00:00"
   },
   {
-   "title": "Donald Trump annonce interdire l'accès à la Maison Blanche à trois médias dont la chaîne américaine CNN",
-   "link": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-annonce-interdire-l-acces-de-la-maison-blanche-a-trois-medias-dont-la-chaine-americaine-cnn_8199869.html",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/VdQB7rXJNZHHj7Vv0v-Kt2fWeTg/0x106:1024x682/432x243/filters:format(jpg)/2026/09/18/6aada03baca90756015065.jpg",
-   "date": null,
-   "pubdate": "2026-09-18T20:57:50.547795+00:00"
-  },
-  {
-   "title": "1:14 vidéo 1 minute 14 Les photos inédites des frappes iraniennes sur des bases américaines",
-   "link": "https://www.franceinfo.fr/monde/usa/les-photos-inedites-des-frappes-iraniennes-sur-des-bases-americaines_8199671.html",
-   "summary": "Les photos inédites des frappes iraniennes sur des bases américaines",
-   "image": "https://www.franceinfo.fr/pictures/LdFd4KYW_VJPuis9agZ4iflC_ac/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/18/6aad6d277bfc5387080803.png",
-   "date": null,
-   "pubdate": "2026-09-18T20:57:50.547795+00:00"
-  },
-  {
-   "title": "La tour de refroidissement d'une centrale nucléaire russe touchée par un drone",
-   "link": "https://www.franceinfo.fr/monde/russie/la-tour-de-refroidissement-d-une-centrale-nucleaire-russe-frappee-par-un-drone_8199674.html",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/c1xS4BBJkg7wD0hH1T1-LZ_0rMk/0x0:1024x576/432x243/filters:format(jpg)/2026/09/18/6aad7135cbde4641660196.jpg",
-   "date": null,
-   "pubdate": "2026-09-18T20:57:50.547795+00:00"
-  },
-  {
-   "title": "1:32 vidéo 1 minute 32 Ils dormiront à l'église pour voir le Pape",
-   "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/ils-dormiront-a-l-eglise-pour-voir-le-pape_8199302.html",
-   "summary": "Ils dormiront à l'église pour voir le Pape",
-   "image": "https://www.franceinfo.fr/pictures/gcw79QjPOaUv32RMYDiuoNuajzM/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/18/6aad455bb01c6426860143.jpg",
-   "date": null,
-   "pubdate": "2026-09-18T20:57:50.547795+00:00"
-  },
-  {
    "title": "8:38 vidéo 8 minutes 38 Du sommet de l'État au quotidien des habitants, comment Taïwan se prépare à une guerre avec la Chine",
    "link": "https://www.franceinfo.fr/monde/asie/taiwan/du-sommet-de-l-etat-au-quotidien-des-habitants-comment-taiwan-se-prepare-a-une-guerre-avec-la-chine_8181767.html",
    "summary": "Du sommet de l'État au quotidien des habitants, comment Taïwan se prépare à une guerre avec la Chine",
@@ -132,7 +180,23 @@
    "pubdate": "2026-09-18T20:57:50.547795+00:00"
   },
   {
-   "title": ": Podcast 15:49 audio 15 minutes 49 : Podcast L’école malgré la guerre, un record battu pour les basketteuses françaises et un trésor viking",
+   "title": "Donald Trump annonce interdire l'accès à la Maison Blanche à trois médias dont la chaîne américaine CNN Pendant son premier mandat et depuis son retour au pouvoir début 2025, le républicain de 80 ans a de nombreuses fois attaqué des journalistes ou médias dont la couverture lui déplaît.",
+   "link": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-annonce-interdire-l-acces-de-la-maison-blanche-a-trois-medias-dont-la-chaine-americaine-cnn_8199869.html",
+   "summary": "Donald Trump annonce interdire l'accès à la Maison Blanche à trois médias dont la chaîne américaine CNN",
+   "image": "https://www.franceinfo.fr/pictures/VdQB7rXJNZHHj7Vv0v-Kt2fWeTg/0x106:1024x682/432x243/filters:format(jpg)/2026/09/18/6aada03baca90756015065.jpg",
+   "date": null,
+   "pubdate": "2026-09-18T20:57:50.547795+00:00"
+  },
+  {
+   "title": "La tour de refroidissement d'une centrale nucléaire russe touchée par un drone Le patron de l'Agence internationale de l'énergie atomique a réaffirmé que toute attaque contre une installation nucléaire était \"inacceptable\" et a appelé à une retenue maximale pour éviter le risque d'un accident nucléaire.",
+   "link": "https://www.franceinfo.fr/monde/russie/la-tour-de-refroidissement-d-une-centrale-nucleaire-russe-frappee-par-un-drone_8199674.html",
+   "summary": "La tour de refroidissement d'une centrale nucléaire russe touchée par un drone",
+   "image": "https://www.franceinfo.fr/pictures/c1xS4BBJkg7wD0hH1T1-LZ_0rMk/0x0:1024x576/432x243/filters:format(jpg)/2026/09/18/6aad7135cbde4641660196.jpg",
+   "date": null,
+   "pubdate": "2026-09-18T20:57:50.547795+00:00"
+  },
+  {
+   "title": ": Podcast 15:49 audio 15 minutes 49 L’école malgré la guerre, un record battu pour les basketteuses françaises et un trésor viking Les écoles touchées par la guerre, les Françaises qui battent un record en basket et un incroyable trésor viking : c'est l'actualité de la semaine du podcast pour enfants \"Salut l'info !\"",
    "link": "https://www.franceinfo.fr/replay-radio/salut-l-info/podcast-l-ecole-malgre-la-guerre-un-record-battu-pour-les-basketteuses-francaises-et-un-tresor-viking_8188970.html",
    "summary": "L’école malgré la guerre, un record battu pour les basketteuses françaises et un trésor viking",
    "image": "https://www.franceinfo.fr/pictures/ZLlmbwPNiMpotTM6zNFLk5CwxoI/0x1:1594x898/432x243/filters:format(jpg)/2026/09/18/6aacf6e6e98e6276499758.jpg",
@@ -140,23 +204,15 @@
    "pubdate": "2026-09-18T16:29:40.439105+00:00"
   },
   {
-   "title": "En Espagne, plus de 80 000 hectares sont irrigués avec de l'eau volée, selon une enquête du WWF",
+   "title": "En Espagne, plus de 80 000 hectares sont irrigués avec de l'eau volée, selon une enquête du WWF Ce phénomène, souvent impuni, menace des écosystèmes fragiles comme la lagune de Mar Menor ou le parc national de Doñana. Le média public espagnol RTVE revient sur les conclusions d'une étude publiée par le Fonds mondial pour la nature.",
    "link": "https://www.franceinfo.fr/monde/espagne/en-espagne-plus-de-80-000-hectares-sont-irrigues-avec-de-l-eau-volee-selon-une-enquete-du-wwf_8199143.html",
-   "summary": "",
+   "summary": "En Espagne, plus de 80 000 hectares sont irrigués avec de l'eau volée, selon une enquête du WWF",
    "image": "https://www.franceinfo.fr/pictures/xU5EQeyRIIz9-seFzUY7HgN6bEQ/0x0:4000x2250/432x243/filters:format(jpg)/2026/09/18/6aad345c66b72250373144.jpg",
    "date": null,
    "pubdate": "2026-09-18T16:29:40.439105+00:00"
   },
   {
-   "title": "2:09 vidéo 2 minutes 9 Visite du pape Léon XIV en France : dernière ligne droite pour les préparatifs dans les paroisses",
-   "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/visite-du-pape-leon-xiv-en-france-derniere-ligne-droite-pour-les-preparatifs-dans-les-paroisses_8199347.html",
-   "summary": "Visite du pape Léon XIV en France : dernière ligne droite pour les préparatifs dans les paroisses",
-   "image": "https://www.franceinfo.fr/pictures/y9JMPKEApDzv-1yHkTcVHW4IkJ4/85x0:1225x641/432x243/filters:format(jpg)/2026/09/18/6aad4f4dde5b2185791765.jpg",
-   "date": null,
-   "pubdate": "2026-09-18T16:29:40.439105+00:00"
-  },
-  {
-   "title": ": Reportage : Reportage \"Le gouvernement ne doit pas adapter les lois qu'on trouve en Europe\" : les Russes aux urnes pour des législatives, en pleine guerre en Ukraine",
+   "title": ": Reportage \"Le gouvernement ne doit pas adapter les lois qu'on trouve en Europe\" : les Russes aux urnes pour des législatives, en pleine guerre en Ukraine Si l'issue de ces législatives fait peu de doute, la participation et le score des partis alternatifs sera scruté par les analystes, dans un pays où l'expression de la dissidence est sévèrement réprimée par le pouvoir.",
    "link": "https://www.franceinfo.fr/monde/russie/reportage-le-gouvernement-ne-doit-pas-adapter-les-lois-qu-on-trouve-en-europe-les-russes-aux-urnes-pour-des-legislatives-en-pleine-guerre-en-ukraine_8199230.html",
    "summary": "\"Le gouvernement ne doit pas adapter les lois qu'on trouve en Europe\" : les Russes aux urnes pour des législatives, en pleine guerre en Ukraine",
    "image": "https://www.franceinfo.fr/pictures/Rr8vq-FbGdzpg-JvYCNABDBhdsY/0x287:5515x3389/432x243/filters:format(jpg)/2026/09/18/6aad42c03b5e0457145609.jpg",
@@ -216,62 +272,6 @@
    "link": "https://www.franceinfo.fr/culture/livres/le-mexique-expose-le-codex-azcatitlan-un-precieux-manuscrit-conserve-en-france-depuis-deux-siecles_8198714.html",
    "summary": "Le Mexique expose le \"Codex Azcatitlan\", un précieux manuscrit conservé en France depuis deux siècles",
    "image": "https://www.franceinfo.fr/pictures/MeX_-rZ0Ai_YKRY0_kDqrsTi1_I/0x495:7581x4760/432x243/filters:format(jpg)/2026/09/18/6aaceb551aa4a140612314.jpg",
-   "date": null,
-   "pubdate": "2026-09-18T11:23:38.116045+00:00"
-  },
-  {
-   "title": "La vaccination infantile est en recul dans plusieurs pays d'Europe depuis le Covid-19, selon une étude En France, la couverture vaccinale a augmenté pour quatre vaccins et diminué pour trois autres.",
-   "link": "https://www.franceinfo.fr/sante/vaccins/la-vaccination-infantile-est-en-recul-dans-plusieurs-pays-d-europe-depuis-le-covid-19-selon-une-etude_8198696.html",
-   "summary": "La vaccination infantile est en recul dans plusieurs pays d'Europe depuis le Covid-19, selon une étude",
-   "image": "https://www.franceinfo.fr/pictures/6CIBkFwpIEAkPuPZvFtaawB7TQ8/0x1:1024x577/432x243/filters:format(jpg)/2026/09/18/6aaceeb0e9940235682047.jpg",
-   "date": null,
-   "pubdate": "2026-09-18T11:23:38.116045+00:00"
-  },
-  {
-   "title": "2:45 audio 2 minutes 45 Face à la flambée des prix du pétrole, certains pays envisagent de revenir à la semaine de quatre jours Le Pakistan pourrait rétablir la semaine de quatre jours, déjà appliquée au printemps, en raison de la hausse des prix du pétrole et des perturbations des approvisionnements au Moyen-Orient. L'objectif n'est pas de réduire le temps de travail, mais les déplacements et donc la consommation de carburant.",
-   "link": "https://www.franceinfo.fr/replay-radio/le-monde-et-vous/face-a-la-flambee-des-prix-du-petrole-certains-pays-envisagent-de-revenir-a-la-semaine-de-quatre-jours_8191937.html",
-   "summary": "Face à la flambée des prix du pétrole, certains pays envisagent de revenir à la semaine de quatre jours",
-   "image": "https://www.franceinfo.fr/pictures/Hdxvtx3V-Dxne_feKYmr2dtURL0/0x44:7520x4274/432x243/filters:format(jpg)/2026/09/18/6aacdfdd749c1832413800.jpg",
-   "date": null,
-   "pubdate": "2026-09-18T11:23:38.116045+00:00"
-  },
-  {
-   "title": "Des photos de l'AFP montrent Donald Trump en train de regarder un panneau semblant évoquer une démolition du Kennedy Center Le président américain menace de condamner ce haut lieu culturel de Washington si son nom n'y est pas accolé.",
-   "link": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/des-photos-de-l-afp-montrent-donald-trump-en-train-de-regarder-un-panneau-semblant-evoquer-une-demolition-du-kennedy-center_8198657.html",
-   "summary": "Des photos de l'AFP montrent Donald Trump en train de regarder un panneau semblant évoquer une démolition du Kennedy Center",
-   "image": "https://www.franceinfo.fr/pictures/EU78tmDmHit66dEwfrx7zg79V2Y/0x32:1024x608/432x243/filters:format(jpg)/2026/09/18/6aacdaf442655729256189.jpg",
-   "date": null,
-   "pubdate": "2026-09-18T11:23:38.116045+00:00"
-  },
-  {
-   "title": ": Podcast 6:04 audio 6 minutes 4 Emmanuel Macron renonce à Fort Boyard, canicule et crises suicidaires et la BO de GTA : ça dit quoi ce 18 septembre ? Ce vendredi 18 septembre, Emmanuel Macron convoque tous les chefs de partis à l'Élysée pour une réunion sur la situation internationale, avec la chaleur de cet été les appels au 3114 ont augmenté et Rockstars Games continue de teaser GTA VI.",
-   "link": "https://www.franceinfo.fr/replay-radio/ca-dit-quoi/emmanuel-macron-renonce-a-fort-boyard-canicule-et-crises-suicidaires-et-la-bo-de-gta-ca-dit-quoi-ce-18-septembre_8188964.html",
-   "summary": "Emmanuel Macron renonce à Fort Boyard, canicule et crises suicidaires et la BO de GTA : ça dit quoi ce 18 septembre ?",
-   "image": "https://www.franceinfo.fr/pictures/M3VFY_KEIOV7QQ2wy_KqkAMW-5o/0x25:1024x601/432x243/filters:format(jpg)/2026/09/18/6aacc1a12ba81097643929.jpg",
-   "date": null,
-   "pubdate": "2026-09-18T11:23:38.116045+00:00"
-  },
-  {
-   "title": "2:55 audio 2 minutes 55 L’Espagne ramène sa dette publique sous les 100% du PIB quand la France paie des intérêts au prix fort La France est actuellement en pleine réflexion sur la préparation de son budget 2027, l’Espagne, elle, voit le montant de sa dette publique passer sous la barre des 100% du PIB (sa richesse nationale). Une première depuis six ans, au cœur de la pire époque du Covid.",
-   "link": "https://www.franceinfo.fr/replay-radio/le-brief-eco/l-espagne-ramene-sa-dette-publique-sous-les-100-du-pib-quand-la-france-paie-des-interets-au-prix-fort_8176151.html",
-   "summary": "L’Espagne ramène sa dette publique sous les 100% du PIB quand la France paie des intérêts au prix fort",
-   "image": "https://www.franceinfo.fr/pictures/3DMca9WnTtGZdXTscxDetvtToqs/0x0:1024x576/432x243/filters:format(jpg)/2026/09/18/6aacd0b1bcd76356344141.jpg",
-   "date": null,
-   "pubdate": "2026-09-18T11:23:38.116045+00:00"
-  },
-  {
-   "title": "2:46 audio 2 minutes 46 Sur les champs de bataille, l’intelligence artificielle et les systèmes autonomes tuent déjà Alors que les risques existentiels liés à l’IA alimentent les débats, son utilisation militaire est déjà une réalité. En Ukraine comme en Iran, les systèmes autonomes bouleversent la manière de faire la guerre.",
-   "link": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/sur-les-champs-de-bataille-l-intelligence-artificielle-et-les-de-systemes-autonomes-tuent-deja_8176166.html",
-   "summary": "Sur les champs de bataille, l’intelligence artificielle et les systèmes autonomes tuent déjà",
-   "image": "https://www.franceinfo.fr/pictures/A7-J9R6ZMHdcGRWg2nw0XvfKqVo/0x53:1024x629/432x243/filters:format(jpg)/2026/09/18/6aacca14c0c6b038233924.jpg",
-   "date": null,
-   "pubdate": "2026-09-18T11:23:38.116045+00:00"
-  },
-  {
-   "title": ": Reportage Election régionale dans le nord-est de l'Allemagne, où l'AfD séduit en misant sur le retour d'un partenariat commercial avec la Russie Les électeurs du Land de Mecklembourg-Poméranie-Occidentale sont appelés aux urnes dimanche. Le parti d'extrême droite propose notamment d'utiliser à nouveau le gaz russe, moins cher. C'est un argument de poids dans un contexte de hausse des prix du carburant.",
-   "link": "https://www.franceinfo.fr/monde/europe/allemagne/reportage-election-regionale-dans-le-nord-est-de-l-allemagne-ou-l-afd-seduit-en-misant-sur-le-retour-d-un-partenariat-commercial-avec-la-russie_8197997.html",
-   "summary": "Election régionale dans le nord-est de l'Allemagne, où l'AfD séduit en misant sur le retour d'un partenariat commercial avec la Russie",
-   "image": "https://www.franceinfo.fr/pictures/KZorDw2kJiHP4gI4cfMk9P_6VFI/180x0:1819x922/432x243/filters:format(jpg)/2026/09/17/6aac464e50bc0390597719.jpg",
    "date": null,
    "pubdate": "2026-09-18T11:23:38.116045+00:00"
   }
