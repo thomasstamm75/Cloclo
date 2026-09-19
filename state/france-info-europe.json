@@ -1,8 +1,7 @@
 {
- "etag": "\"1d936d71ceab5df517a06649b7f5e442-gzip\"",
+ "etag": "\"a358bdb65c271547c1880e38f36cc2c3-gzip\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/vos-questions-sur-l-effort-de-guerre-de-la-france/": "2026-09-14T23:53:58.993734+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/reportage-plus-de-huit-millions-de-livres-pour-enfants-partis-en-fumee-l-ukraine-face-a-une-penurie-de-manuels-scolaires-apres-des-frappes-russes_8192342.html": "2026-09-15T17:05:04.099353+00:00",
   "https://www.franceinfo.fr/monde/canada/nous-sommes-plus-forts-ensemble-le-canada-salue-l-idee-de-devenir-membre-associe-de-l-union-europeenne_8197148.html": "2026-09-17T11:48:55.432624+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/face-a-l-etat-des-finances-publiques-marine-le-pen-estime-que-la-france-ne-peut-plus-aider-l-ukraine-autant-qu-actuellement_8197058.html": "2026-09-17T11:48:55.432624+00:00",
@@ -31,10 +30,19 @@
   "https://www.franceinfo.fr/sports/foot/kylian-mbappe/eric-zemmour-accuse-kylian-mbappe-de-solidarite-islamique-avec-les-migrants-a-ceuta-ses-propos-suscitent-l-indignation-a-gauche_8199035.html": "2026-09-18T16:29:38.771248+00:00",
   "https://www.franceinfo.fr/monde/russie/la-tour-de-refroidissement-d-une-centrale-nucleaire-russe-frappee-par-un-drone_8199674.html": "2026-09-18T20:57:49.048748+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/je-ne-sais-pas-ce-qui-attend-nos-enfants-a-kiev-l-angoisse-de-la-rentree-sous-les-bombes-apres-un-ete-meurtrier_8144936.html": "2026-09-18T20:57:49.048748+00:00",
-  "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-c-est-le-sauveur-en-saxe-anhalt-ulrich-siegmund-l-homme-le-plus-dangereux-d-allemagne-selon-der-spiegel-aux-portes-du-pouvoir_8147219.html": "2026-09-18T23:21:06.607927+00:00"
+  "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-c-est-le-sauveur-en-saxe-anhalt-ulrich-siegmund-l-homme-le-plus-dangereux-d-allemagne-selon-der-spiegel-aux-portes-du-pouvoir_8147219.html": "2026-09-18T23:21:06.607927+00:00",
+  "https://www.franceinfo.fr/monde/europe/allemagne/il-y-a-une-extrapolation-du-declin-economique-comment-l-extreme-droite-allemande-est-arrivee-aux-portes-du-pouvoir-en-saxe-anhalt_8175638.html": "2026-09-19T04:43:09.539163+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "7:00 article 7 minutes \"Il y a une extrapolation du déclin économique\" : comment l'extrême droite allemande est arrivée aux portes du pouvoir en Saxe-Anhalt",
+   "link": "https://www.franceinfo.fr/monde/europe/allemagne/il-y-a-une-extrapolation-du-declin-economique-comment-l-extreme-droite-allemande-est-arrivee-aux-portes-du-pouvoir-en-saxe-anhalt_8175638.html",
+   "summary": "\"Il y a une extrapolation du déclin économique\" : comment l'extrême droite allemande est arrivée aux portes du pouvoir en Saxe-Anhalt",
+   "image": "https://www.franceinfo.fr/pictures/-nAiSgts3hDGmwBA52wjbLgKz5c/7x0:689x682/100x100/filters:format(jpg)/2026/09/03/6a99968962ca9292189034.jpg",
+   "date": null,
+   "pubdate": "2026-09-19T04:43:09.539163+00:00"
+  },
   {
    "title": ": Reportage 4:57 audio 4 minutes 57 : Reportage \"C'est le sauveur\", Ulrich Siegmund \"l’homme le plus dangereux d’Allemagne\", selon \"Der Spiegel\", aux portes d'une victoire historique",
    "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-c-est-le-sauveur-en-saxe-anhalt-ulrich-siegmund-l-homme-le-plus-dangereux-d-allemagne-selon-der-spiegel-aux-portes-du-pouvoir_8147219.html",
@@ -44,7 +52,7 @@
    "pubdate": "2026-09-18T23:21:06.607927+00:00"
   },
   {
-   "title": "La tour de refroidissement d'une centrale nucléaire russe touchée par un drone Le patron de l'Agence internationale de l'énergie atomique a réaffirmé que toute attaque contre une installation nucléaire était \"inacceptable\" et a appelé à une retenue maximale pour éviter le risque d'un accident nucléaire. Aujourd'hui",
+   "title": "La tour de refroidissement d'une centrale nucléaire russe touchée par un drone Le patron de l'Agence internationale de l'énergie atomique a réaffirmé que toute attaque contre une installation nucléaire était \"inacceptable\" et a appelé à une retenue maximale pour éviter le risque d'un accident nucléaire. 18 septembre",
    "link": "https://www.franceinfo.fr/monde/russie/la-tour-de-refroidissement-d-une-centrale-nucleaire-russe-frappee-par-un-drone_8199674.html",
    "summary": "La tour de refroidissement d'une centrale nucléaire russe touchée par un drone",
    "image": "https://www.franceinfo.fr/pictures/0S3XHehYzEF2Bzy9BO7ofQfbB4Y/32x0:1024x682/432x297/filters:format(jpg)/2026/09/18/6aad7135cbde4641660196.jpg",
@@ -266,14 +274,6 @@
    "image": "https://www.franceinfo.fr/pictures/FDQ95GjeajjrKBoHSZT8OG_Y2Ww/350x0:1250x900/100x100/filters:format(jpg)/2026/09/14/6aa8420659848131991942.jpg",
    "date": null,
    "pubdate": "2026-09-15T17:05:04.099353+00:00"
-  },
-  {
-   "title": "Vos questions sur l'effort de guerre de la France 6 contenus",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/vos-questions-sur-l-effort-de-guerre-de-la-france/",
-   "summary": "Vos questions sur l'effort de guerre de la France",
-   "image": "https://www.franceinfo.fr/pictures/ntZoU9VrwR_yrQmHdJn-AC2Tq7o/432x297/filters:format(jpg)/2025/04/01/effort-de-guerre-couverture-de-dossier-01-light-67eba0e5ca0a7848911582.jpg",
-   "date": null,
-   "pubdate": "2026-09-14T23:53:58.993734+00:00"
   }
  ]
 }

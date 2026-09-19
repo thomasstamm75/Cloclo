@@ -1,9 +1,7 @@
 {
- "etag": "\"4ce95f29b241715a44761b1acafd99ee-gzip\"",
+ "etag": "\"4ee8b2f23388ad71daca618e2b7d09a8-gzip\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/reportage-plus-de-huit-millions-de-livres-pour-enfants-partis-en-fumee-l-ukraine-face-a-une-penurie-de-manuels-scolaires-apres-des-frappes-russes_8192342.html": "2026-09-18T04:50:28.917127+00:00",
-  "https://www.franceinfo.fr/monde/usa/affaire-jeffrey-epstein/l-essentiel-des-revelations-sur-l-affaire-epstein/": "2026-09-18T04:50:28.917127+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-plus-de-1-000-cas-de-violences-sexuelles-depuis-le-debut-du-conflit-alerte-l-onu_8198969.html": "2026-09-18T11:23:38.116045+00:00",
   "https://www.franceinfo.fr/culture/patrimoine/archeologie/en-italie-une-fresque-et-des-mosaiques-antiques-exhumees-au-c-ur-de-rome_8198672.html": "2026-09-18T11:23:38.116045+00:00",
   "https://www.franceinfo.fr/culture/livres/le-mexique-expose-le-codex-azcatitlan-un-precieux-manuscrit-conserve-en-france-depuis-deux-siecles_8198714.html": "2026-09-18T11:23:38.116045+00:00",
@@ -31,10 +29,28 @@
   "https://www.franceinfo.fr/societe/armee-securite-defense/visite-du-pape-en-france-comment-la-france-entraine-son-systeme-de-lutte-anti-drones-dans-les-yvelines_8199947.html": "2026-09-18T23:21:08.179384+00:00",
   "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/un-an-de-donald-trump-au-pouvoir/": "2026-09-18T23:21:08.179384+00:00",
   "https://www.franceinfo.fr/grands-formats/de-san-francisco-a-los-angeles-les-richesses-menacees-de-la-pacific-coast-highway-la-route-du-pacifique_8185364.html": "2026-09-18T23:21:08.179384+00:00",
-  "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-il-y-a-70-de-bon-et-30-de-mauvais-en-chine-le-culte-de-mao-prend-de-l-ampleur-chez-les-jeunes_8161538.html": "2026-09-18T23:21:08.179384+00:00"
+  "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-il-y-a-70-de-bon-et-30-de-mauvais-en-chine-le-culte-de-mao-prend-de-l-ampleur-chez-les-jeunes_8161538.html": "2026-09-18T23:21:08.179384+00:00",
+  "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/tout-comprendre-a-la-guerre-au-moyen-orient/": "2026-09-19T04:43:11.132276+00:00",
+  "https://www.franceinfo.fr/monde/groenland/le-groenland-au-c-ur-d-un-bras-de-fer-geopolitique/": "2026-09-19T04:43:11.132276+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "Tout comprendre à la guerre au Moyen-Orient 27 contenus",
+   "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/tout-comprendre-a-la-guerre-au-moyen-orient/",
+   "summary": "Tout comprendre à la guerre au Moyen-Orient",
+   "image": "https://www.franceinfo.fr/pictures/1mjbL6KrEfhdf8kkM-fiwv8Aqs4/432x297/filters:format(jpg)/2026/03/01/075-nikoubazl-mourning260301-npgop-69a44a7350cd8738092334.jpg",
+   "date": null,
+   "pubdate": "2026-09-19T04:43:11.132276+00:00"
+  },
+  {
+   "title": "Le Groenland au cœur d'un bras de fer géopolitique 15 contenus",
+   "link": "https://www.franceinfo.fr/monde/groenland/le-groenland-au-c-ur-d-un-bras-de-fer-geopolitique/",
+   "summary": "Le Groenland au cœur d'un bras de fer géopolitique",
+   "image": "https://www.franceinfo.fr/pictures/MKq4Aviz_2Dt7XVuO__X2DAEw5M/432x297/filters:format(jpg)/2026/01/22/043-sw-js9nbczzm6o-697245bf34b52414921393.jpg",
+   "date": null,
+   "pubdate": "2026-09-19T04:43:11.132276+00:00"
+  },
   {
    "title": "Donald Trump annonce avoir obtenu un \"contrôle permanent\" sur la sécurité du Groenland Les Etats-Unis vont \"immédiatement lancer le processus de développement d'une importante présence militaire\" au Groenland, a annoncé le président américain. Aujourd'hui",
    "link": "https://www.franceinfo.fr/monde/groenland/donald-trump-annonce-avoir-obtenu-un-controle-permanent-sur-la-securite-du-groenland_8199956.html",
@@ -258,22 +274,6 @@
    "image": "https://www.franceinfo.fr/pictures/KZorDw2kJiHP4gI4cfMk9P_6VFI/180x0:1819x922/432x243/filters:format(jpg)/2026/09/17/6aac464e50bc0390597719.jpg",
    "date": null,
    "pubdate": "2026-09-18T11:23:38.116045+00:00"
-  },
-  {
-   "title": ": Reportage 2:00 article 2 minutes : Reportage \"Plus de huit millions de livres pour enfants\" partis en fumée : l'Ukraine face à une pénurie de manuels scolaires après des frappes russes",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/reportage-plus-de-huit-millions-de-livres-pour-enfants-partis-en-fumee-l-ukraine-face-a-une-penurie-de-manuels-scolaires-apres-des-frappes-russes_8192342.html",
-   "summary": "\"Plus de huit millions de livres pour enfants\" partis en fumée : l'Ukraine face à une pénurie de manuels scolaires après des frappes russes",
-   "image": "https://www.franceinfo.fr/pictures/FDQ95GjeajjrKBoHSZT8OG_Y2Ww/350x0:1250x900/100x100/filters:format(jpg)/2026/09/14/6aa8420659848131991942.jpg",
-   "date": null,
-   "pubdate": "2026-09-18T04:50:28.917127+00:00"
-  },
-  {
-   "title": "L'essentiel des révélations sur l'affaire Epstein 14 contenus",
-   "link": "https://www.franceinfo.fr/monde/usa/affaire-jeffrey-epstein/l-essentiel-des-revelations-sur-l-affaire-epstein/",
-   "summary": "L'essentiel des révélations sur l'affaire Epstein",
-   "image": "https://www.franceinfo.fr/pictures/btENVL4vmQDLNvnJ4uUtTATvN9k/432x297/filters:format(jpg)/2026/02/12/000-96rl2gk-1-698def9a11d8a867290796.jpg",
-   "date": null,
-   "pubdate": "2026-09-18T04:50:28.917127+00:00"
   }
  ]
 }
