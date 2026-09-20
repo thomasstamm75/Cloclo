@@ -1,9 +1,7 @@
 {
- "etag": "\"ece2f7be50c5c690d7fd0a9974cbb2fe-gzip\"",
+ "etag": "\"7c7ee7defc06ed4a28af9059750bedbf-gzip\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-plus-de-1-000-cas-de-violences-sexuelles-depuis-le-debut-du-conflit-alerte-l-onu_8198969.html": "2026-09-18T11:23:36.950385+00:00",
-  "https://www.franceinfo.fr/sante/vaccins/la-vaccination-infantile-est-en-recul-dans-plusieurs-pays-d-europe-depuis-le-covid-19-selon-une-etude_8198696.html": "2026-09-18T11:23:36.950385+00:00",
   "https://www.franceinfo.fr/replay-radio/salut-l-info/podcast-l-ecole-malgre-la-guerre-un-record-battu-pour-les-basketteuses-francaises-et-un-tresor-viking_8188970.html": "2026-09-18T16:29:38.771248+00:00",
   "https://www.franceinfo.fr/monde/russie/reportage-le-gouvernement-ne-doit-pas-adapter-les-lois-qu-on-trouve-en-europe-les-russes-aux-urnes-pour-des-legislatives-en-pleine-guerre-en-ukraine_8199230.html": "2026-09-18T16:29:38.771248+00:00",
   "https://www.franceinfo.fr/politique/emmanuel-macron/face-aux-attaques-hybrides-russes-emmanuel-macron-promet-un-plan-pour-les-infrastructures-critiques_8199287.html": "2026-09-18T16:29:38.771248+00:00",
@@ -23,7 +21,6 @@
   "https://www.franceinfo.fr/monde/europe/une-enquete-est-ouverte-apres-l-interruption-temporaire-du-trafic-a-l-aeroport-de-luxembourg-en-raison-de-drones_8200697.html": "2026-09-19T15:55:54.990773+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-russie-ne-peut-dicter-la-politique-de-la-france-par-la-menace-selon-marine-le-pen-et-jordan-bardella_8200694.html": "2026-09-19T15:55:54.990773+00:00",
   "https://www.franceinfo.fr/monde/canada/pourquoi-le-canada-veut-se-rapprocher-de-l-ue_8199599.html": "2026-09-19T20:46:48.684983+00:00",
-  "https://www.franceinfo.fr/replay-radio/le-monde-de-marie/claude-guibal-dans-le-monde-d-elodie_8199008.html": "2026-09-19T20:46:48.684983+00:00",
   "https://www.franceinfo.fr/monde/russie/auchan-nestle-on-vous-explique-la-prise-de-controle-par-la-russie-des-actifs-de-filiales-d-entreprises-europeennes_8200646.html": "2026-09-19T20:46:48.684983+00:00",
   "https://www.franceinfo.fr/monde/europe/migrants/dans-le-nord-six-chauffeurs-vtc-soupconnes-d-avoir-aide-des-migrants-a-traverser-la-manche-juges-en-novembre_8201108.html": "2026-09-19T23:11:42.684560+00:00",
   "https://www.franceinfo.fr/replay-jt/france-2/20-heures/auchan-leroy-merlin-les-entreprises-francaises-dans-le-viseur-de-moscou_8201012.html": "2026-09-19T23:11:42.684560+00:00",
@@ -31,15 +28,42 @@
   "https://www.franceinfo.fr/monde/europe/en-irlande-le-plus-grand-festival-de-celibataires-d-europe-mise-encore-sur-l-amour-en-dehors-des-applis_8201501.html": "2026-09-20T11:31:58.516601+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/moscou-visee-par-une-centaine-de-drones-en-pleines-legislatives_8201618.html": "2026-09-20T11:31:58.516601+00:00",
   "https://www.franceinfo.fr/monde/russie/en-russie-l-opposition-appelle-a-se-mobiliser-pour-le-dernier-jour-des-elections-legislatives_8201429.html": "2026-09-20T11:31:58.516601+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/les-russes-aux-urnes-pour-le-dernier-jour-des-legislatives-alors-que-moscou-fait-face-a-des-attaques-de-drones_8201453.html": "2026-09-20T11:31:58.516601+00:00"
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/les-russes-aux-urnes-pour-le-dernier-jour-des-legislatives-alors-que-moscou-fait-face-a-des-attaques-de-drones_8201453.html": "2026-09-20T11:31:58.516601+00:00",
+  "https://www.franceinfo.fr/replay-radio/france-info-junior/les-enfants-aussi-peuvent-voter-pour-les-futurs-billets-en-euros_8157866.html": "2026-09-20T16:12:45.235282+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-quatre-morts-dans-une-attaque-russe-dans-la-region-de-kiev-moscou-visee-par-des-drones_8201747.html": "2026-09-20T16:12:45.235282+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/reportage-plus-de-huit-millions-de-livres-pour-enfants-partis-en-fumee-l-ukraine-face-a-une-penurie-de-manuels-scolaires-apres-des-frappes-russes_8192342.html": "2026-09-20T16:12:45.235282+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "Le chancelier allemand Friedrich Merz fait face une nouvelle fois à des scrutins à haut risque lors d'élections locales Deux votes, à Berlin et dans la région de Mecklembourg-Poméranie-Occidentale, pourraient mettre en difficulté la CDU, le parti conservateur. Aujourd'hui",
+   "title": "Les enfants aussi peuvent voter pour les futurs billets en euros ! Jusqu'au 21 septembre, la Banque centrale européenne propose aux Européens de donner leur avis sur les illustrations des futurs billets en euros. Les enfants en parlent dans franceinfo junior avec Stéphanie Lange, directrice des activités fiduciaires à la Banque de France. Aujourd'hui 4:17 audio 4 minutes 17",
+   "link": "https://www.franceinfo.fr/replay-radio/france-info-junior/les-enfants-aussi-peuvent-voter-pour-les-futurs-billets-en-euros_8157866.html",
+   "summary": "Les enfants aussi peuvent voter pour les futurs billets en euros !",
+   "image": "https://www.franceinfo.fr/pictures/F2dUEW5_lRtIXYXpaG-m1xRNihc/109x0:3648x2430/432x297/filters:format(jpg)/2023/09/18/maxstockworld449226-6508adc771b90754954272.jpg",
+   "date": null,
+   "pubdate": "2026-09-20T16:12:45.235282+00:00"
+  },
+  {
+   "title": "Quatre morts dans une attaque russe dans la région de Kiev, Moscou visée par des drones",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-quatre-morts-dans-une-attaque-russe-dans-la-region-de-kiev-moscou-visee-par-des-drones_8201747.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/oWslkfveQZwWg4sAjUNC-1afh2E/0x251:4865x2987/432x243/filters:format(jpg)/2026/09/20/6aafc5cc06744449614521.jpg",
+   "date": null,
+   "pubdate": "2026-09-20T16:12:45.235282+00:00"
+  },
+  {
+   "title": ": Reportage 2:00 article 2 minutes : Reportage \"Plus de huit millions de livres pour enfants\" partis en fumée : l'Ukraine face à une pénurie de manuels scolaires après des frappes russes",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/reportage-plus-de-huit-millions-de-livres-pour-enfants-partis-en-fumee-l-ukraine-face-a-une-penurie-de-manuels-scolaires-apres-des-frappes-russes_8192342.html",
+   "summary": "\"Plus de huit millions de livres pour enfants\" partis en fumée : l'Ukraine face à une pénurie de manuels scolaires après des frappes russes",
+   "image": "https://www.franceinfo.fr/pictures/FDQ95GjeajjrKBoHSZT8OG_Y2Ww/350x0:1250x900/100x100/filters:format(jpg)/2026/09/14/6aa8420659848131991942.jpg",
+   "date": null,
+   "pubdate": "2026-09-20T16:12:45.235282+00:00"
+  },
+  {
+   "title": "Le chancelier allemand Friedrich Merz fait face une nouvelle fois à des scrutins à haut risque lors d'élections locales",
    "link": "https://www.franceinfo.fr/monde/europe/allemagne/le-chancelier-allemand-friedrich-merz-fait-face-une-nouvelle-fois-a-des-scrutins-a-haut-risque-lors-d-elections-locales_8201639.html",
-   "summary": "Le chancelier allemand Friedrich Merz fait face une nouvelle fois à des scrutins à haut risque lors d'élections locales",
-   "image": "https://www.franceinfo.fr/pictures/yKKtXpsbTHwdr3O7Odux8pRzwco/0x0:5433x3735/432x297/filters:format(jpg)/2026/09/20/6aafa703ed9e6286876972.jpg",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/uL5YWFgBBf2z3mHRvN9azdVsCjo/0x0:5433x3056/432x243/filters:format(jpg)/2026/09/20/6aafa703ed9e6286876972.jpg",
    "date": null,
    "pubdate": "2026-09-20T11:31:58.516601+00:00"
   },
@@ -100,17 +124,9 @@
    "pubdate": "2026-09-19T20:46:48.684983+00:00"
   },
   {
-   "title": "1:37 vidéo 1 minute 37 Claude Guibal dans Le monde d'Elodie",
-   "link": "https://www.franceinfo.fr/replay-radio/le-monde-de-marie/claude-guibal-dans-le-monde-d-elodie_8199008.html",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/assets/common/images/logos/placeholder-4e7f49f2.png",
-   "date": null,
-   "pubdate": "2026-09-19T20:46:48.684983+00:00"
-  },
-  {
-   "title": "Auchan, Nestlé… On vous explique la prise de contrôle par la Russie des actifs de filiales d'entreprises européennes",
+   "title": "Auchan, Nestlé… On vous explique la prise de contrôle par la Russie des actifs de filiales d'entreprises européennes Vladimir Poutine a placé jeudi plusieurs entreprises occidentales sous \"administration temporaire\", une mesure présentée par le Kremlin comme une riposte au soutien occidental à l'Ukraine.",
    "link": "https://www.franceinfo.fr/monde/russie/auchan-nestle-on-vous-explique-la-prise-de-controle-par-la-russie-des-actifs-de-filiales-d-entreprises-europeennes_8200646.html",
-   "summary": "",
+   "summary": "Auchan, Nestlé… On vous explique la prise de contrôle par la Russie des actifs de filiales d'entreprises européennes",
    "image": "https://www.franceinfo.fr/pictures/k9_QLjaj2DgyqZTcAuEH4gR3ekw/0x0:1024x576/432x243/filters:format(jpg)/2026/09/19/6aaea48fc35e4233544441.jpg",
    "date": null,
    "pubdate": "2026-09-19T20:46:48.684983+00:00"
@@ -148,7 +164,7 @@
    "pubdate": "2026-09-19T11:07:15.575559+00:00"
   },
   {
-   "title": "35:00 vidéo 35 minutes \"Nous, les Européens\". Affaires criminelles : les nouvelles armes des enquêteurs Grand reportage, invités et actualité européenne sont au sommaire de ce magazine d'information, présenté par Eléonore Gay et diffusé le dimanche à midi sur France 3 ainsi que le jeudi en fin de soirée sur France 2.",
+   "title": "28:29 vidéo 28 minutes 29 \"Nous, les Européens\". Affaires criminelles : les nouvelles armes des enquêteurs Grand reportage, invités et actualité européenne sont au sommaire de ce magazine d'information, présenté par Eléonore Gay et diffusé le dimanche à midi sur France 3 ainsi que le jeudi en fin de soirée sur France 2.",
    "link": "https://www.franceinfo.fr/replay-magazine/france-2/nous-les-europeens/nous-les-europeens-affaires-criminelles-les-nouvelles-armes-des-enqueteurs_8172959.html",
    "summary": "\"Nous, les Européens\". Affaires criminelles : les nouvelles armes des enquêteurs",
    "image": "https://www.franceinfo.fr/pictures/UdUJ62Uc8OAT8JJXQainN04PXM8/0x0:1920x1080/432x243/filters:format(jpg)/2026/09/16/6aaa9806e6543001031374.jpg",
@@ -258,22 +274,6 @@
    "image": "https://www.franceinfo.fr/pictures/aeGkwaoCsthy-l0MHv61qGc2XYM/0x191:1024x767/432x243/filters:format(jpg)/2026/09/18/6aad22775918f376379317.jpg",
    "date": null,
    "pubdate": "2026-09-18T16:29:38.771248+00:00"
-  },
-  {
-   "title": "Guerre en Ukraine : plus de 1 000 cas de violences sexuelles depuis le début du conflit, alerte l'ONU Sur l'ensemble des cas recensés, 89% ont été attribués au camp russe, notamment à des membres des forces armées, de l'administration pénitentiaire et des services de sécurité nationale et 11% aux Ukrainiens.",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-plus-de-1-000-cas-de-violences-sexuelles-depuis-le-debut-du-conflit-alerte-l-onu_8198969.html",
-   "summary": "Guerre en Ukraine : plus de 1 000 cas de violences sexuelles depuis le début du conflit, alerte l'ONU",
-   "image": "https://www.franceinfo.fr/pictures/oJB5ytuDh3QomZJ7N8MjtXstZmE/0x18:1024x594/432x243/filters:format(jpg)/2026/09/18/6aad1403b6a6f126031531.jpg",
-   "date": null,
-   "pubdate": "2026-09-18T11:23:36.950385+00:00"
-  },
-  {
-   "title": "La vaccination infantile est en recul dans plusieurs pays d'Europe depuis le Covid-19, selon une étude En France, la couverture vaccinale a augmenté pour quatre vaccins et diminué pour trois autres.",
-   "link": "https://www.franceinfo.fr/sante/vaccins/la-vaccination-infantile-est-en-recul-dans-plusieurs-pays-d-europe-depuis-le-covid-19-selon-une-etude_8198696.html",
-   "summary": "La vaccination infantile est en recul dans plusieurs pays d'Europe depuis le Covid-19, selon une étude",
-   "image": "https://www.franceinfo.fr/pictures/6CIBkFwpIEAkPuPZvFtaawB7TQ8/0x1:1024x577/432x243/filters:format(jpg)/2026/09/18/6aaceeb0e9940235682047.jpg",
-   "date": null,
-   "pubdate": "2026-09-18T11:23:36.950385+00:00"
   }
  ]
 }
