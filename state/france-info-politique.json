@@ -1,10 +1,8 @@
 {
- "etag": "\"557626f03b4ee48ff23b9ea9da381ff3-gzip\"",
+ "etag": "\"21f265b4e722b1595b6a82039951ba24-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/economie/automobile/essence/carburants-familles-rurales-reclame-le-prolongement-de-l-aide-aux-grands-rouleurs-son-doublement-et-son-elargissement_8198996.html": "2026-09-18T11:23:35.491514+00:00",
-  "https://www.franceinfo.fr/economie/transports/penurie-de-carburants/face-a-la-flambee-des-prix-des-carburants-l-aide-aux-gros-rouleurs-ne-s-arretera-pas-le-30-septembre-annonce-le-ministre-du-commerce_8198720.html": "2026-09-18T11:23:35.491514+00:00",
-  "https://www.franceinfo.fr/replay-radio/ca-dit-quoi/emmanuel-macron-renonce-a-fort-boyard-canicule-et-crises-suicidaires-et-la-bo-de-gta-ca-dit-quoi-ce-18-septembre_8188964.html": "2026-09-18T11:23:35.491514+00:00",
   "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/tout-comprendre-au-proces-des-assistants-parlementaires-fn/": "2026-09-18T11:23:35.491514+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-a-atlanta-les-republicains-craignent-la-fin-de-l-ere-trump-a-l-approche-des-elections-de-mi-mandat-les-democrates-revent-de-revanche_8145842.html": "2026-09-18T11:23:35.491514+00:00",
   "https://www.franceinfo.fr/politique/emmanuel-macron/face-aux-attaques-hybrides-russes-emmanuel-macron-promet-un-plan-pour-les-infrastructures-critiques_8199287.html": "2026-09-18T16:29:36.923277+00:00",
@@ -31,7 +29,9 @@
   "https://www.franceinfo.fr/politique/ps/philippe-brun-reclame-d-etre-reintegre-dans-la-primaire-de-la-gauche_8201006.html": "2026-09-19T20:46:47.295772+00:00",
   "https://www.franceinfo.fr/monde/russie/reunion-d-urgence-a-l-elysee-le-france-prepare-un-plan-pour-contrer-les-attaques-russes_8201009.html": "2026-09-19T20:46:47.295772+00:00",
   "https://www.franceinfo.fr/elections/presidentielle/les-socialistes-la-font-bien-la-droite-et-le-centre-peuvent-ils-encore-organiser-une-primaire-pour-la-presidentielle-de-2027_8171882.html": "2026-09-19T20:46:47.295772+00:00",
-  "https://www.franceinfo.fr/politique/je-vous-demande-de-vous-arreter-comment-la-phrase-d-edouard-balladur-est-devenue-culte_8171597.html": "2026-09-19T20:46:47.295772+00:00"
+  "https://www.franceinfo.fr/politique/je-vous-demande-de-vous-arreter-comment-la-phrase-d-edouard-balladur-est-devenue-culte_8171597.html": "2026-09-19T20:46:47.295772+00:00",
+  "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-pour-sebastien-lecornu-faire-adopter-le-budget-2027-ressemble-a-une-ascension-de-l-everest-en-tongs_8176172.html": "2026-09-20T04:59:27.094273+00:00",
+  "https://www.franceinfo.fr/une-information-transparente-franceinfo/transparence-quel-pluralisme-dans-l-heure-de-verite-sur-france-2_8195639.html": "2026-09-20T04:59:27.094273+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
@@ -44,7 +44,23 @@
    "pubdate": "2026-09-20T11:00:00+00:00"
   },
   {
-   "title": "Le député insoumis Sébastien Delogu annonce avoir remboursé la pension alimentaire qu'il ne payait plus Le député de Marseille avait été épinglé par Mediapart, qui avait révélé qu'il ne versait plus, depuis mars 2025, cette pension destinée à subvenir aux besoins de ses deux enfants d'une ex-compagne, qui a porté plainte. Aujourd'hui",
+   "title": ": Édito 2:50 audio 2 minutes 50 Pour Sébastien Lecornu, faire adopter le budget 2027 ressemble à une ascension de l’Everest en tongs Pour ramener le déficit à 5% du PIB en 2027, Sébastien Lecornu mise sur un effort budgétaire d’environ 54 milliards d’euros. Privé du probable soutien des socialistes, le Premier ministre pourrait désormais compter sur une abstention du RN, qui pose toutefois ses conditions.",
+   "link": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-pour-sebastien-lecornu-faire-adopter-le-budget-2027-ressemble-a-une-ascension-de-l-everest-en-tongs_8176172.html",
+   "summary": "Pour Sébastien Lecornu, faire adopter le budget 2027 ressemble à une ascension de l’Everest en tongs",
+   "image": "https://www.franceinfo.fr/pictures/sMfa3DoJve17u7P7a3M04BaK1Xw/0x53:1024x629/432x243/filters:format(jpg)/2026/09/18/6aacc52b65bfd134184568.jpg",
+   "date": null,
+   "pubdate": "2026-09-20T04:59:27.094273+00:00"
+  },
+  {
+   "title": ": Transparence Quel pluralisme dans \"L'Heure de Vérité\" sur France 2 ? Rarement une émission n'aura à ce point été attendue sur son pluralisme. \"L'Heure de Vérité\", émission historique, revient jeudi 24 septembre sur France 2. Principe : faire intervenir des journalistes ou intellectuels d'autres médias aux côtés des journalistes de France Télévisions. Quels marqueurs de pluralisme ? Éléments de réponse.",
+   "link": "https://www.franceinfo.fr/une-information-transparente-franceinfo/transparence-quel-pluralisme-dans-l-heure-de-verite-sur-france-2_8195639.html",
+   "summary": "Quel pluralisme dans \"L'Heure de Vérité\" sur France 2 ?",
+   "image": "https://www.franceinfo.fr/pictures/qmJ779bZamUzOLmdFuuUQ-8tUbk/0x328:6299x3872/432x243/filters:format(jpg)/2026/09/17/6aac25d0d7930584797054.jpg",
+   "date": null,
+   "pubdate": "2026-09-20T04:59:27.094273+00:00"
+  },
+  {
+   "title": "Le député insoumis Sébastien Delogu annonce avoir remboursé la pension alimentaire qu'il ne payait plus Le député de Marseille avait été épinglé par Mediapart, qui avait révélé qu'il ne versait plus, depuis mars 2025, cette pension destinée à subvenir aux besoins de ses deux enfants d'une ex-compagne, qui a porté plainte. 19 septembre",
    "link": "https://www.franceinfo.fr/politique/la-france-insoumise/le-depute-insoumis-sebastien-delogu-annonce-avoir-rembourse-la-pension-alimentaire-qu-il-ne-payait-plus_8201030.html",
    "summary": "Le député insoumis Sébastien Delogu annonce avoir remboursé la pension alimentaire qu'il ne payait plus",
    "image": "https://www.franceinfo.fr/pictures/5QQuKja6mrYhBT8kzAG-UbAA-4E/0x0:2564x1763/432x297/filters:format(jpg)/2026/09/19/6aaed7f83dcae309045763.jpg",
@@ -256,22 +272,6 @@
    "link": "https://www.franceinfo.fr/economie/automobile/essence/carburants-familles-rurales-reclame-le-prolongement-de-l-aide-aux-grands-rouleurs-son-doublement-et-son-elargissement_8198996.html",
    "summary": "Carburants : \"Familles rurales réclame le \"prolongement\" de l'aide aux grands rouleurs, son \"doublement\" et son \"élargissement\"",
    "image": "https://www.franceinfo.fr/pictures/q6R101t8suurjpfdAmDxFALpDWc/432x243/filters:format(jpg)/2026/09/18/6aacc0b3998ce955388084.jpg",
-   "date": null,
-   "pubdate": "2026-09-18T11:23:35.491514+00:00"
-  },
-  {
-   "title": "Face à la flambée des prix des carburants, l'aide aux \"gros rouleurs\" ne \"s'arrêtera pas le 30 septembre\", annonce le ministre du Commerce Maud Bregeon, la porte-parole du gouvernement, a de son côté annoncé \"un nouveau dispositif d'aide pour les Français les plus précaires qui travaillent\", à compter du 1er octobre.",
-   "link": "https://www.franceinfo.fr/economie/transports/penurie-de-carburants/face-a-la-flambee-des-prix-des-carburants-l-aide-aux-gros-rouleurs-ne-s-arretera-pas-le-30-septembre-annonce-le-ministre-du-commerce_8198720.html",
-   "summary": "Face à la flambée des prix des carburants, l'aide aux \"gros rouleurs\" ne \"s'arrêtera pas le 30 septembre\", annonce le ministre du Commerce",
-   "image": "https://www.franceinfo.fr/pictures/CPyMbMYwJ0P7lnsROOXrsS2ta3Y/0x0:1024x576/432x243/filters:format(jpg)/2026/09/18/6aacd18c29800407405656.jpg",
-   "date": null,
-   "pubdate": "2026-09-18T11:23:35.491514+00:00"
-  },
-  {
-   "title": ": Podcast 6:04 audio 6 minutes 4 Emmanuel Macron renonce à Fort Boyard, canicule et crises suicidaires et la BO de GTA : ça dit quoi ce 18 septembre ? Ce vendredi 18 septembre, Emmanuel Macron convoque tous les chefs de partis à l'Élysée pour une réunion sur la situation internationale, avec la chaleur de cet été les appels au 3114 ont augmenté et Rockstars Games continue de teaser GTA VI.",
-   "link": "https://www.franceinfo.fr/replay-radio/ca-dit-quoi/emmanuel-macron-renonce-a-fort-boyard-canicule-et-crises-suicidaires-et-la-bo-de-gta-ca-dit-quoi-ce-18-septembre_8188964.html",
-   "summary": "Emmanuel Macron renonce à Fort Boyard, canicule et crises suicidaires et la BO de GTA : ça dit quoi ce 18 septembre ?",
-   "image": "https://www.franceinfo.fr/pictures/M3VFY_KEIOV7QQ2wy_KqkAMW-5o/0x25:1024x601/432x243/filters:format(jpg)/2026/09/18/6aacc1a12ba81097643929.jpg",
    "date": null,
    "pubdate": "2026-09-18T11:23:35.491514+00:00"
   }
