@@ -5,8 +5,14 @@
     <link>https://www.jean-jaures.org/</link>
     <description>Flux fabriqué par Cloclo à partir de https://www.jean-jaures.org/</description>
     <language>fr</language>
-    <lastBuildDate>Sun, 20 Sep 2026 23:18:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 05:05:28 +0000</lastBuildDate>
     <atom:link href="https://thomasstamm75.github.io/Cloclo/fondation-jean-jaures.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Le livre et moi</title>
+      <link>https://www.jean-jaures.org/publication/le-livre-et-moi/</link>
+      <guid isPermaLink="true">https://www.jean-jaures.org/publication/le-livre-et-moi/</guid>
+      <pubDate>Mon, 21 Sep 2026 11:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Saxe-Anhalt : une analyse de la victoire de l’AfD</title>
       <link>https://www.jean-jaures.org/publication/saxe-anhalt-une-analyse-de-la-victoire-de-lafd/</link>
@@ -36,12 +42,6 @@
       <link>https://www.jean-jaures.org/publication/medias-et-extreme-droite-en-allemagne-et-en-france-quarante-ans-a-chercher-la-bonne-distance/</link>
       <guid isPermaLink="true">https://www.jean-jaures.org/publication/medias-et-extreme-droite-en-allemagne-et-en-france-quarante-ans-a-chercher-la-bonne-distance/</guid>
       <pubDate>Tue, 15 Sep 2026 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Enquête électorale 2026 : les enseignements de la vague de septembre</title>
-      <link>https://www.jean-jaures.org/publication/enquete-electorale-2026-les-enseignements-de-la-vague-de-septembre/</link>
-      <guid isPermaLink="true">https://www.jean-jaures.org/publication/enquete-electorale-2026-les-enseignements-de-la-vague-de-septembre/</guid>
-      <pubDate>Mon, 14 Sep 2026 11:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

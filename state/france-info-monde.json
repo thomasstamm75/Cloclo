@@ -1,12 +1,7 @@
 {
- "etag": "\"d40e4e1d644013d8f72c6b7c38e836d7-gzip\"",
+ "etag": "\"18837062b16f944a613c0a33b6d5f39c-gzip\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/tout-comprendre-a-la-guerre-au-moyen-orient/": "2026-09-19T04:43:11.132276+00:00",
-  "https://www.franceinfo.fr/monde/groenland/le-groenland-au-c-ur-d-un-bras-de-fer-geopolitique/": "2026-09-19T04:43:11.132276+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/reportage-plus-de-huit-millions-de-livres-pour-enfants-partis-en-fumee-l-ukraine-face-a-une-penurie-de-manuels-scolaires-apres-des-frappes-russes_8192342.html": "2026-09-19T11:07:17.108881+00:00",
-  "https://www.franceinfo.fr/monde/usa/affaire-jeffrey-epstein/l-essentiel-des-revelations-sur-l-affaire-epstein/": "2026-09-19T11:07:17.108881+00:00",
-  "https://www.franceinfo.fr/monde/europe/migrants/dans-le-nord-six-chauffeurs-vtc-soupconnes-d-avoir-aide-des-migrants-a-traverser-la-manche-juges-en-novembre_8201108.html": "2026-09-19T23:11:43.830513+00:00",
   "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/la-france-fille-ainee-de-l-eglise-avant-la-visite-du-pape-leon-xiv-itineraire-d-un-surnom-qui-n-est-plus-en-odeur-de-saintete_8183177.html": "2026-09-20T04:59:29.368969+00:00",
   "https://www.franceinfo.fr/grands-formats/de-san-francisco-a-los-angeles-les-richesses-menacees-de-la-pacific-coast-highway-la-route-du-pacifique_8185364.html": "2026-09-20T04:59:29.368969+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-il-y-a-70-de-bon-et-30-de-mauvais-en-chine-le-culte-de-mao-prend-de-l-ampleur-chez-les-jeunes_8161538.html": "2026-09-20T04:59:29.368969+00:00",
@@ -14,10 +9,8 @@
   "https://www.franceinfo.fr/monde/europe/en-irlande-le-plus-grand-festival-de-celibataires-d-europe-mise-encore-sur-l-amour-en-dehors-des-applis_8201501.html": "2026-09-20T11:32:00.596807+00:00",
   "https://www.franceinfo.fr/economie/medias/des-journalistes-de-cnn-et-d-autres-medias-empeches-d-acceder-a-la-maison-blanche-par-donald-trump_8201513.html": "2026-09-20T11:32:00.596807+00:00",
   "https://www.franceinfo.fr/monde/russie/en-russie-l-opposition-appelle-a-se-mobiliser-pour-le-dernier-jour-des-elections-legislatives_8201429.html": "2026-09-20T11:32:00.596807+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/les-russes-aux-urnes-pour-le-dernier-jour-des-legislatives-alors-que-moscou-fait-face-a-des-attaques-de-drones_8201453.html": "2026-09-20T11:32:00.596807+00:00",
   "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/un-an-de-donald-trump-au-pouvoir/": "2026-09-20T11:32:00.596807+00:00",
   "https://www.franceinfo.fr/replay-radio/ces-chansons-qui-font-l-actu/jeanne-et-la-memoire-armenienne-de-la-chanson-francaise_8157872.html": "2026-09-20T16:12:46.376237+00:00",
-  "https://www.franceinfo.fr/monde/russie/une-attaque-de-drones-massive-sur-moscou-une-raffinerie-touchee_8201798.html": "2026-09-20T16:12:46.376237+00:00",
   "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/face-aux-retards-de-paiement-notamment-americains-l-onu-s-impose-une-cure-d-austerite_8157869.html": "2026-09-20T16:12:46.376237+00:00",
   "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/l-iran-dit-avoir-fait-part-de-ses-conditions-aux-etats-unis-pour-rouvrir-le-detroit-d-ormuz_8201696.html": "2026-09-20T16:12:46.376237+00:00",
   "https://www.franceinfo.fr/monde/israel/un-colon-israelien-tue-en-cisjordanie-l-auteur-presume-arrete_8201771.html": "2026-09-20T16:12:46.376237+00:00",
@@ -31,15 +24,78 @@
   "https://www.franceinfo.fr/monde/canada/peche-securite-energie-la-france-et-le-canada-vont-travailler-a-un-rapprochement-assure-emmanuel-macron-depuis-saint-pierre-et-miquelon_8202101.html": "2026-09-20T20:53:53.486694+00:00",
   "https://www.franceinfo.fr/monde/russie/en-russie-le-parti-de-vladimir-poutine-remporte-les-legislatives-selon-un-sondage-realise-a-la-sortie-des-urnes-dans-un-scrutin-marque-par-la-repression-des-voix-dissidentes_8202113.html": "2026-09-20T20:53:53.486694+00:00",
   "https://www.franceinfo.fr/monde/europe/allemagne/le-chancelier-allemand-friedrich-merz-promet-de-poursuivre-les-reformes-en-depit-d-un-desastre-electoral-pour-son-parti-apres-la-forte-progression-de-l-afd_8202077.html": "2026-09-20T20:53:53.486694+00:00",
-  "https://www.franceinfo.fr/monde/europe/allemagne/le-parti-d-extreme-droite-afd-arrive-en-tete-dans-une-region-du-nord-est-de-l-allemagne-deux-semaines-apres-sa-victoire-historique-en-saxe-anhalt-d-apres-les-premieres-estimations_8202041.html": "2026-09-20T20:53:53.486694+00:00"
+  "https://www.franceinfo.fr/monde/europe/allemagne/le-parti-d-extreme-droite-afd-arrive-en-tete-dans-une-region-du-nord-est-de-l-allemagne-deux-semaines-apres-sa-victoire-historique-en-saxe-anhalt-d-apres-les-premieres-estimations_8202041.html": "2026-09-20T20:53:53.486694+00:00",
+  "https://www.franceinfo.fr/monde/usa/police-de-l-immigration-americaine/au-texas-un-homme-dans-un-etat-grave-apres-avoir-ete-blesse-par-balle-par-la-police-federale-americaine-de-l-immigration_8202479.html": "2026-09-21T05:04:03.911150+00:00",
+  "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/temoignages-on-ne-peut-pas-se-battre-a-mains-nues-contre-un-regime-arme-jusqu-aux-dents-des-iraniens-racontent-leur-quotidien-difficile-et-leurs-espoirs-decus_8180264.html": "2026-09-21T05:04:03.911150+00:00",
+  "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/ce-n-est-pas-acceptable-l-acces-a-l-hopital-l-hotel-dieu-restreint-pour-la-visite-du-pape-a-paris_8202185.html": "2026-09-21T05:04:03.911150+00:00",
+  "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/reportage-c-est-le-summum-de-la-fierte-la-confection-du-siege-du-pape-pour-sa-veillee-au-stade-de-france-confiee-a-de-jeunes-apprentis-d-auteuil_8201975.html": "2026-09-21T05:04:03.911150+00:00",
+  "https://www.franceinfo.fr/monde/usa/donald-trump-va-rencontrer-emmanuel-macron-a-new-york-lundi-soir-en-marge-de-l-assemblee-generale-des-nations-unies_8202458.html": "2026-09-21T05:04:03.911150+00:00",
+  "https://www.franceinfo.fr/monde/chine/face-a-la-guerre-au-moyen-orient-la-strategie-de-la-chine-a-t-elle-permis-de-limiter-la-hausse-des-prix-des-carburants_8197511.html": "2026-09-21T05:04:03.911150+00:00",
+  "https://www.franceinfo.fr/monde/vatican/pape-francois/de-paris-a-metz-en-passant-par-lourdes-voici-le-detail-du-programme-complet-de-la-visite-du-pape-leon-xiv-en-france_8196935.html": "2026-09-21T05:04:03.911150+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "Pas encore sorties, les mémoires du frère de Lady Di font déjà débat au Royaume-Uni C’est un livre qui n’est toujours pas sorti mais qui pourtant fait déjà beaucoup de bruit, notamment au Royaume-Uni. Charles Spencer le frère de la princesse Diana près de 30 ans après sa disparition va publier ses mémoires. Aujourd'hui 1:40 vidéo 1 minute 40",
+   "title": "Au Texas, un homme dans un état grave après avoir été blessé par balle par la police fédérale américaine de l'immigration La victime, un ressortissant vénézuélien de 28 ans livreur de profession, s'est fait tirer dessus par l'ICE à Austin, alors qu'il effectuait une livraison à domicile, selon son avocate, Kate Lincoln-Goldfinch. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/usa/police-de-l-immigration-americaine/au-texas-un-homme-dans-un-etat-grave-apres-avoir-ete-blesse-par-balle-par-la-police-federale-americaine-de-l-immigration_8202479.html",
+   "summary": "Au Texas, un homme dans un état grave après avoir été blessé par balle par la police fédérale américaine de l'immigration",
+   "image": "https://www.franceinfo.fr/pictures/4sau1OuYtVBO7l0ae_vSKCxL9Y0/16x0:1007x681/432x297/filters:format(jpg)/2026/09/21/6ab0b9a0261e9200106363.jpg",
+   "date": null,
+   "pubdate": "2026-09-21T05:04:03.911150+00:00"
+  },
+  {
+   "title": ": Témoignages 4:30 audio 4 minutes 30 : Témoignages \"On ne peut pas se battre à mains nues contre un régime armé jusqu'aux dents\" : des Iraniens racontent leur quotidien difficile et leurs espoirs déçus",
+   "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/temoignages-on-ne-peut-pas-se-battre-a-mains-nues-contre-un-regime-arme-jusqu-aux-dents-des-iraniens-racontent-leur-quotidien-difficile-et-leurs-espoirs-decus_8180264.html",
+   "summary": "\"On ne peut pas se battre à mains nues contre un régime armé jusqu'aux dents\" : des Iraniens racontent leur quotidien difficile et leurs espoirs déçus",
+   "image": "https://www.franceinfo.fr/pictures/XYKPjnZqyM0Kz1wcCm1YRcYb3Ng/0x116:3000x1803/432x243/filters:format(jpg)/2026/09/20/6aafe6dc2350d325275990.jpg",
+   "date": null,
+   "pubdate": "2026-09-21T05:04:03.911150+00:00"
+  },
+  {
+   "title": "\"Ce n'est pas acceptable\" : l'accès à l'hôpital l'Hôtel-Dieu restreint pour la visite du Pape à Paris",
+   "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/ce-n-est-pas-acceptable-l-acces-a-l-hopital-l-hotel-dieu-restreint-pour-la-visite-du-pape-a-paris_8202185.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/R-PLpaXh-7HtGC9VO4S6ANbGKv0/0x221:4252x2613/432x243/filters:format(jpg)/2026/09/20/6ab03fe24356d926063406.jpg",
+   "date": null,
+   "pubdate": "2026-09-21T05:04:03.911150+00:00"
+  },
+  {
+   "title": ": Reportage : Reportage \"C'est le summum de la fierté\" : la confection du siège du pape pour sa veillée au Stade de France confiée à de jeunes apprentis d'Auteuil",
+   "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/reportage-c-est-le-summum-de-la-fierte-la-confection-du-siege-du-pape-pour-sa-veillee-au-stade-de-france-confiee-a-de-jeunes-apprentis-d-auteuil_8201975.html",
+   "summary": "\"C'est le summum de la fierté\" : la confection du siège du pape pour sa veillée au Stade de France confiée à de jeunes apprentis d'Auteuil",
+   "image": "https://www.franceinfo.fr/pictures/Ojgkx0u3W_wg0g0mF9rDfFxMjnk/0x162:1600x1062/432x243/filters:format(jpg)/2026/09/20/6ab0119a39e7c522254405.jpg",
+   "date": null,
+   "pubdate": "2026-09-21T05:04:03.911150+00:00"
+  },
+  {
+   "title": "Donald Trump va rencontrer Emmanuel Macron à New York lundi soir en marge de l'Assemblée générale des Nations Unies",
+   "link": "https://www.franceinfo.fr/monde/usa/donald-trump-va-rencontrer-emmanuel-macron-a-new-york-lundi-soir-en-marge-de-l-assemblee-generale-des-nations-unies_8202458.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/9gy0nINmUXHF7_GpY_wfNy5Urek/0x49:1024x625/432x243/filters:format(jpg)/2026/09/21/6ab0b07eb5218577879174.jpg",
+   "date": null,
+   "pubdate": "2026-09-21T05:04:03.911150+00:00"
+  },
+  {
+   "title": "Face à la guerre au Moyen-Orient, la stratégie de la Chine a-t-elle permis de limiter la hausse des prix des carburants ?",
+   "link": "https://www.franceinfo.fr/monde/chine/face-a-la-guerre-au-moyen-orient-la-strategie-de-la-chine-a-t-elle-permis-de-limiter-la-hausse-des-prix-des-carburants_8197511.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/J-N-YE5gy8MbqgUB6Gb64kDzTmk/0x53:1024x629/432x243/filters:format(jpg)/2026/09/18/6aad4b6f15862581530879.jpg",
+   "date": null,
+   "pubdate": "2026-09-21T05:04:03.911150+00:00"
+  },
+  {
+   "title": "De Paris à Metz en passant par Lourdes, voici le détail du programme complet de la visite du pape Léon XIV en France",
+   "link": "https://www.franceinfo.fr/monde/vatican/pape-francois/de-paris-a-metz-en-passant-par-lourdes-voici-le-detail-du-programme-complet-de-la-visite-du-pape-leon-xiv-en-france_8196935.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/XK7g8VLQ2YZrvBzt4LBr1Av4dbs/0x0:1024x576/432x243/filters:format(jpg)/2026/09/17/6aaba9ae22566947750369.jpg",
+   "date": null,
+   "pubdate": "2026-09-21T05:04:03.911150+00:00"
+  },
+  {
+   "title": "1:40 vidéo 1 minute 40 Pas encore sorties, les mémoires du frère de Lady Di font déjà débat au Royaume-Uni",
    "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/pas-encore-sorties-les-memoires-du-frere-de-lady-di-font-deja-debat-au-royaume-uni_8202182.html",
    "summary": "Pas encore sorties, les mémoires du frère de Lady Di font déjà débat au Royaume-Uni",
-   "image": "https://www.franceinfo.fr/pictures/sTZ6PMhmY0WLsAaj8RyIxyEukqE/174x0:1745x1080/432x297/filters:format(jpg)/2026/09/20/6ab039714fe40101124228.jpg",
+   "image": "https://www.franceinfo.fr/pictures/jeHdXVh_RrtsCpKE7GwGtKCNVm8/0x0:1920x1080/432x243/filters:format(jpg)/2026/09/20/6ab039714fe40101124228.jpg",
    "date": null,
    "pubdate": "2026-09-20T20:53:53.486694+00:00"
   },
@@ -60,31 +116,31 @@
    "pubdate": "2026-09-20T20:53:53.486694+00:00"
   },
   {
-   "title": "En Russie, le parti de Vladimir Poutine remporte les législatives, selon un sondage réalisé à la sortie des urnes, dans un scrutin marqué par la répression des voix dissidentes",
+   "title": "En Russie, le parti de Vladimir Poutine remporte les législatives, selon les premiers résultats, dans un scrutin marqué par la répression des voix dissidentes Selon les résultats officiels après dépouillement des trois quarts des bulletins, le parti présidentiel, Russie unie, remporte 57,5% des voix.",
    "link": "https://www.franceinfo.fr/monde/russie/en-russie-le-parti-de-vladimir-poutine-remporte-les-legislatives-selon-un-sondage-realise-a-la-sortie-des-urnes-dans-un-scrutin-marque-par-la-repression-des-voix-dissidentes_8202113.html",
-   "summary": "",
+   "summary": "En Russie, le parti de Vladimir Poutine remporte les législatives, selon les premiers résultats, dans un scrutin marqué par la répression des voix dissidentes",
    "image": "https://www.franceinfo.fr/pictures/9Hfe9yjirhb5pdqnN5M2XnPE2qY/0x0:2839x1596/432x243/filters:format(jpg)/2026/09/20/6ab021e2b9743672306827.jpg",
    "date": null,
    "pubdate": "2026-09-20T20:53:53.486694+00:00"
   },
   {
-   "title": "Le chancelier allemand, Friedrich Merz, promet de poursuivre les réformes en dépit d'un \"désastre\" électoral pour son parti, après la forte progression de l'AfD",
+   "title": "Le chancelier allemand, Friedrich Merz, promet de poursuivre les réformes en dépit d'un \"désastre\" électoral pour son parti, après la forte progression de l'AfD Le parti d'extrême droite AfD s'est montré en forte progression, dimanche lors d'élections régionales à Berlin et dans la région du nord-est de Mecklembourg-Poméranie-Occidentale.",
    "link": "https://www.franceinfo.fr/monde/europe/allemagne/le-chancelier-allemand-friedrich-merz-promet-de-poursuivre-les-reformes-en-depit-d-un-desastre-electoral-pour-son-parti-apres-la-forte-progression-de-l-afd_8202077.html",
-   "summary": "",
+   "summary": "Le chancelier allemand, Friedrich Merz, promet de poursuivre les réformes en dépit d'un \"désastre\" électoral pour son parti, après la forte progression de l'AfD",
    "image": "https://www.franceinfo.fr/pictures/j2-u6Pidv88yGE-eG6_kjdLE-MQ/0x0:5888x3312/432x243/filters:format(jpg)/2026/09/20/6ab013fdd05a5168621153.jpg",
    "date": null,
    "pubdate": "2026-09-20T20:53:53.486694+00:00"
   },
   {
-   "title": "Le parti d'extrême droite AfD arrive en tête dans une région du nord-est de l'Allemagne, deux semaines après sa victoire historique en Saxe-Anhalt, d'après les premières estimations",
+   "title": "Le parti d'extrême droite AfD arrive en tête dans une région du nord-est de l'Allemagne, deux semaines après sa victoire historique en Saxe-Anhalt, d'après les premières estimations La CDU du chancelier Friedrich Merz a échoué à entrer au Parlement du Land de Mecklembourg-Poméranie occidentale, faute d'atteindre la barre éliminatoire des 5%, d'après des estimations de l'audiovisuel public allemand.",
    "link": "https://www.franceinfo.fr/monde/europe/allemagne/le-parti-d-extreme-droite-afd-arrive-en-tete-dans-une-region-du-nord-est-de-l-allemagne-deux-semaines-apres-sa-victoire-historique-en-saxe-anhalt-d-apres-les-premieres-estimations_8202041.html",
-   "summary": "",
+   "summary": "Le parti d'extrême droite AfD arrive en tête dans une région du nord-est de l'Allemagne, deux semaines après sa victoire historique en Saxe-Anhalt, d'après les premières estimations",
    "image": "https://www.franceinfo.fr/pictures/aSP2mTNRKjO7jKEf7qdN5v7ECG4/0x0:5392x3033/432x243/filters:format(jpg)/2026/09/20/6ab00b3e0307a136523010.jpg",
    "date": null,
    "pubdate": "2026-09-20T20:53:53.486694+00:00"
   },
   {
-   "title": "6:52 audio 6 minutes 52 Jeanne et la mémoire arménienne de la chanson française",
+   "title": "6:52 audio 6 minutes 52 Jeanne et la mémoire arménienne de la chanson française En ouverture de son premier album, la chanson \"Papiers d'Arménie\" fait entendre la voix des descendants des survivants du génocide arménien.",
    "link": "https://www.franceinfo.fr/replay-radio/ces-chansons-qui-font-l-actu/jeanne-et-la-memoire-armenienne-de-la-chanson-francaise_8157872.html",
    "summary": "Jeanne et la mémoire arménienne de la chanson française",
    "image": "https://www.franceinfo.fr/pictures/gjUOB8WQz8zAkodvK2DHOdfMjLs/0x360:6922x4254/432x243/filters:format(jpg)/2026/09/18/6aad4071e2da1855488792.jpg",
@@ -92,15 +148,7 @@
    "pubdate": "2026-09-20T16:12:46.376237+00:00"
   },
   {
-   "title": "1:36 vidéo 1 minute 36 Une attaque de drones massive sur Moscou, une raffinerie touchée",
-   "link": "https://www.franceinfo.fr/monde/russie/une-attaque-de-drones-massive-sur-moscou-une-raffinerie-touchee_8201798.html",
-   "summary": "Une attaque de drones massive sur Moscou, une raffinerie touchée",
-   "image": "https://www.franceinfo.fr/pictures/SuAzUpdKrKEgsWuhcLkJ8rtRTJM/0x33:724x440/432x243/filters:format(jpg)/2026/09/20/6aafd294ac366140835969.png",
-   "date": null,
-   "pubdate": "2026-09-20T16:12:46.376237+00:00"
-  },
-  {
-   "title": "2:53 audio 2 minutes 53 Face aux retards de paiement, notamment américains, l'ONU s'impose une cure d'austérité",
+   "title": "2:53 audio 2 minutes 53 Face aux retards de paiement, notamment américains, l'ONU s'impose une cure d'austérité A l'Assemblée générale de l'ONU à New-York se tient à partir de lundi la \"semaine de haut niveau\". Les dirigeants du monde entier vont se succéder à la tribune. Cette 81e session se tient dans un contexte budgétaire extrêmement tendu.",
    "link": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/face-aux-retards-de-paiement-notamment-americains-l-onu-s-impose-une-cure-d-austerite_8157869.html",
    "summary": "Face aux retards de paiement, notamment américains, l'ONU s'impose une cure d'austérité",
    "image": "https://www.franceinfo.fr/pictures/FMqvCotSPmt27dYy1t4_QtBvLv8/0x193:5000x3006/432x243/filters:format(jpg)/2026/04/19/69e497d031dbd251843924.jpg",
@@ -108,9 +156,9 @@
    "pubdate": "2026-09-20T16:12:46.376237+00:00"
   },
   {
-   "title": "L'Iran dit avoir fait part de ses conditions aux Etats-Unis pour rouvrir le détroit d'Ormuz",
+   "title": "L'Iran dit avoir fait part de ses conditions aux Etats-Unis pour rouvrir le détroit d'Ormuz Le régime de Téhéran réclame toujours la levée du blocus naval américain, le déblocage des fonds gelés et la fin de la guerre.",
    "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/l-iran-dit-avoir-fait-part-de-ses-conditions-aux-etats-unis-pour-rouvrir-le-detroit-d-ormuz_8201696.html",
-   "summary": "",
+   "summary": "L'Iran dit avoir fait part de ses conditions aux Etats-Unis pour rouvrir le détroit d'Ormuz",
    "image": "https://www.franceinfo.fr/pictures/0GOavlCxbzPRS3lXZsk4LgyoofE/0x0:3600x2025/432x243/filters:format(jpg)/2026/09/20/6aafb20c9680e163432940.jpg",
    "date": null,
    "pubdate": "2026-09-20T16:12:46.376237+00:00"
@@ -204,14 +252,6 @@
    "pubdate": "2026-09-20T11:32:00.596807+00:00"
   },
   {
-   "title": "Les Russes aux urnes pour le dernier jour des législatives, alors que Moscou fait face à des attaques de drones Selon le maire de la capitale russe, 1 600 drones ont été abattus par la défense anti-aérienne et une raffinerie a été endommagée.",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/les-russes-aux-urnes-pour-le-dernier-jour-des-legislatives-alors-que-moscou-fait-face-a-des-attaques-de-drones_8201453.html",
-   "summary": "Les Russes aux urnes pour le dernier jour des législatives, alors que Moscou fait face à des attaques de drones",
-   "image": "https://www.franceinfo.fr/pictures/7adv8ezR28dtX948-g3-p0DBIwE/0x53:1024x629/432x243/filters:format(jpg)/2026/09/20/6aaf7698efb1b203007293.jpg",
-   "date": null,
-   "pubdate": "2026-09-20T11:32:00.596807+00:00"
-  },
-  {
    "title": "8:00 article 8 minutes La France, \"fille aînée de l'Eglise\" ? Avant la visite du pape Léon XIV, itinéraire d'un surnom qui n'est plus en odeur de sainteté",
    "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/la-france-fille-ainee-de-l-eglise-avant-la-visite-du-pape-leon-xiv-itineraire-d-un-surnom-qui-n-est-plus-en-odeur-de-saintete_8183177.html",
    "summary": "La France, \"fille aînée de l'Eglise\" ? Avant la visite du pape Léon XIV, itinéraire d'un surnom qui n'est plus en odeur de sainteté",
@@ -234,46 +274,6 @@
    "image": "https://www.franceinfo.fr/pictures/w3Ocn6zpscSeecS3EEUW5jVWcR8/1032x0:5160x4128/100x100/filters:format(jpg)/2026/09/09/6aa0f3e422509555262109.jpg",
    "date": null,
    "pubdate": "2026-09-20T04:59:29.368969+00:00"
-  },
-  {
-   "title": "Dans le Nord, six chauffeurs VTC, soupçonnés d'avoir aidé des migrants à traverser la Manche, jugés en novembre Ces six chauffeurs ont été interpellés il y a une dizaine de jours, après un signalement effectué en mai dernier, indiquant que des VTC effectuaient de nombreux trajets vers les plages du littoral, notamment à Loon-Plage, afin d'y déposer des candidats à l'exil.",
-   "link": "https://www.franceinfo.fr/monde/europe/migrants/dans-le-nord-six-chauffeurs-vtc-soupconnes-d-avoir-aide-des-migrants-a-traverser-la-manche-juges-en-novembre_8201108.html",
-   "summary": "Dans le Nord, six chauffeurs VTC, soupçonnés d'avoir aidé des migrants à traverser la Manche, jugés en novembre",
-   "image": "https://www.franceinfo.fr/pictures/SF8rNSi_huUNm7jxtVzRMeCYIe8/0x516:4964x3309/432x243/filters:format(jpg)/2026/09/19/6aaef73b437e5636835206.jpg",
-   "date": null,
-   "pubdate": "2026-09-19T23:11:43.830513+00:00"
-  },
-  {
-   "title": "L'essentiel des révélations sur l'affaire Epstein 14 contenus",
-   "link": "https://www.franceinfo.fr/monde/usa/affaire-jeffrey-epstein/l-essentiel-des-revelations-sur-l-affaire-epstein/",
-   "summary": "L'essentiel des révélations sur l'affaire Epstein",
-   "image": "https://www.franceinfo.fr/pictures/btENVL4vmQDLNvnJ4uUtTATvN9k/432x297/filters:format(jpg)/2026/02/12/000-96rl2gk-1-698def9a11d8a867290796.jpg",
-   "date": null,
-   "pubdate": "2026-09-19T11:07:17.108881+00:00"
-  },
-  {
-   "title": ": Reportage 2:00 article 2 minutes : Reportage \"Plus de huit millions de livres pour enfants\" partis en fumée : l'Ukraine face à une pénurie de manuels scolaires après des frappes russes",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/reportage-plus-de-huit-millions-de-livres-pour-enfants-partis-en-fumee-l-ukraine-face-a-une-penurie-de-manuels-scolaires-apres-des-frappes-russes_8192342.html",
-   "summary": "\"Plus de huit millions de livres pour enfants\" partis en fumée : l'Ukraine face à une pénurie de manuels scolaires après des frappes russes",
-   "image": "https://www.franceinfo.fr/pictures/FDQ95GjeajjrKBoHSZT8OG_Y2Ww/350x0:1250x900/100x100/filters:format(jpg)/2026/09/14/6aa8420659848131991942.jpg",
-   "date": null,
-   "pubdate": "2026-09-19T11:07:17.108881+00:00"
-  },
-  {
-   "title": "Tout comprendre à la guerre au Moyen-Orient 27 contenus",
-   "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/tout-comprendre-a-la-guerre-au-moyen-orient/",
-   "summary": "Tout comprendre à la guerre au Moyen-Orient",
-   "image": "https://www.franceinfo.fr/pictures/1mjbL6KrEfhdf8kkM-fiwv8Aqs4/432x297/filters:format(jpg)/2026/03/01/075-nikoubazl-mourning260301-npgop-69a44a7350cd8738092334.jpg",
-   "date": null,
-   "pubdate": "2026-09-19T04:43:11.132276+00:00"
-  },
-  {
-   "title": "Le Groenland au cœur d'un bras de fer géopolitique 15 contenus",
-   "link": "https://www.franceinfo.fr/monde/groenland/le-groenland-au-c-ur-d-un-bras-de-fer-geopolitique/",
-   "summary": "Le Groenland au cœur d'un bras de fer géopolitique",
-   "image": "https://www.franceinfo.fr/pictures/MKq4Aviz_2Dt7XVuO__X2DAEw5M/432x297/filters:format(jpg)/2026/01/22/043-sw-js9nbczzm6o-697245bf34b52414921393.jpg",
-   "date": null,
-   "pubdate": "2026-09-19T04:43:11.132276+00:00"
   }
  ]
 }

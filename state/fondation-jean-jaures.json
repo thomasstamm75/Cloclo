@@ -1,16 +1,24 @@
 {
  "etag": "",
- "last_modified": "Sun, 20 Sep 2026 16:45:06 GMT",
+ "last_modified": "Mon, 21 Sep 2026 04:49:27 GMT",
  "first_seen": {
   "https://www.jean-jaures.org/publication/medias-et-extreme-droite-en-allemagne-et-en-france-quarante-ans-a-chercher-la-bonne-distance/": "2026-09-15T11:00:00+00:00",
   "https://www.jean-jaures.org/publication/venezuela-paradoxes-dun-tremblement-de-terre-destructeur-devidences/": "2026-09-15T11:00:00+00:00",
   "https://www.jean-jaures.org/publication/vers-une-economie-politique-duale/": "2026-09-16T11:00:00+00:00",
-  "https://www.jean-jaures.org/publication/enquete-electorale-2026-les-enseignements-de-la-vague-de-septembre/": "2026-09-14T11:00:00+00:00",
   "https://www.jean-jaures.org/publication/saxe-anhalt-une-analyse-de-la-victoire-de-lafd/": "2026-09-17T11:00:00+00:00",
-  "https://www.jean-jaures.org/publication/presidentielle-2027-de-limportance-de-ne-pas-occulter-les-sujets-de-fond-et-de-ne-pas-se-tromper-de-sujets/": "2026-09-17T11:00:00+00:00"
+  "https://www.jean-jaures.org/publication/presidentielle-2027-de-limportance-de-ne-pas-occulter-les-sujets-de-fond-et-de-ne-pas-se-tromper-de-sujets/": "2026-09-17T11:00:00+00:00",
+  "https://www.jean-jaures.org/publication/le-livre-et-moi/": "2026-09-21T11:00:00+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "Le livre et moi",
+   "link": "https://www.jean-jaures.org/publication/le-livre-et-moi/",
+   "summary": "",
+   "image": "",
+   "date": "2026-09-21T11:00:00+00:00",
+   "pubdate": "2026-09-21T11:00:00+00:00"
+  },
   {
    "title": "Saxe-Anhalt : une analyse de la victoire de l’AfD",
    "link": "https://www.jean-jaures.org/publication/saxe-anhalt-une-analyse-de-la-victoire-de-lafd/",
@@ -50,14 +58,6 @@
    "image": "",
    "date": "2026-09-15T11:00:00+00:00",
    "pubdate": "2026-09-15T11:00:00+00:00"
-  },
-  {
-   "title": "Enquête électorale 2026 : les enseignements de la vague de septembre",
-   "link": "https://www.jean-jaures.org/publication/enquete-electorale-2026-les-enseignements-de-la-vague-de-septembre/",
-   "summary": "",
-   "image": "",
-   "date": "2026-09-14T11:00:00+00:00",
-   "pubdate": "2026-09-14T11:00:00+00:00"
   }
  ]
 }
