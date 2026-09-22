@@ -1,12 +1,10 @@
 {
- "etag": "\"bd206edb7dee1a0ef914aa8d8a96723f-gzip\"",
+ "etag": "\"bd34a5b4d848c5a9567db8fbd07864c7-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/tout-comprendre-au-proces-des-assistants-parlementaires-fn/": "2026-09-20T16:12:44.106888+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-a-atlanta-les-republicains-craignent-la-fin-de-l-ere-trump-a-l-approche-des-elections-de-mi-mandat-les-democrates-revent-de-revanche_8145842.html": "2026-09-20T16:12:44.106888+00:00",
   "https://www.franceinfo.fr/politique/affaire/financement-de-la-campagne-de-sarkozy/soupcons-de-financement-libyen-tout-comprendre-a-l-affaire/": "2026-09-21T05:04:01.153592+00:00",
-  "https://www.franceinfo.fr/politique/rachida-dati/direct-l-interrogatoire-de-rachida-dati-lors-de-son-proces-pour-corruption-et-trafic-d-influence-se-poursuit-ce-lundi_8202833.html": "2026-09-21T12:56:27.064251+00:00",
-  "https://www.franceinfo.fr/politique/la-menace-de-guerre-hybride-par-la-russie-est-reelle-et-documentee-selon-le-ministre-de-l-interieur_8202788.html": "2026-09-21T12:56:27.064251+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-c-est-le-sauveur-en-saxe-anhalt-ulrich-siegmund-l-homme-le-plus-dangereux-d-allemagne-selon-der-spiegel-aux-portes-du-pouvoir_8147219.html": "2026-09-21T12:56:27.064251+00:00",
   "https://www.franceinfo.fr/politique/rachida-dati/je-n-ai-jamais-ete-en-situation-de-conflit-d-interets-a-son-proces-pour-corruption-l-ex-eurodeputee-rachida-dati-confrontee-aux-soupcons-de-lobbying-pour-renault_8203601.html": "2026-09-21T20:01:26.170450+00:00",
   "https://www.franceinfo.fr/replay-radio/les-informes-de-france-info/rencontre-macron-trump-l-extreme-droite-en-allemagne-les-informes-de-franceinfo-du-lundi-21-septembre-2026_8180273.html": "2026-09-21T11:00:00+00:00",
@@ -18,9 +16,6 @@
   "https://www.franceinfo.fr/politique/front-national/a-quoi-joue-le-rassemblement-national-sur-l-ukraine_8204498.html": "2026-09-22T11:46:14.309127+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-ex-president-russe-dmitri-medvedev-estime-que-le-rn-est-desormais-un-parti-russophobe-qui-soutient-les-nazis-en-ukraine_8204435.html": "2026-09-22T11:46:14.309127+00:00",
   "https://www.franceinfo.fr/replay-radio/les-informes-du-matin/les-informes-du-matin-du-mardi-22-septembre-2026_8182004.html": "2026-09-22T11:00:00+00:00",
-  "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/la-discussion-a-ete-tres-constructive-emmanuel-macron-salue-son-echange-avec-donald-trump_8204423.html": "2026-09-22T11:46:14.309127+00:00",
-  "https://www.franceinfo.fr/monde/onu/une-tres-bonne-discussion-que-sait-on-de-l-echange-entre-donald-trump-et-emmanuel-macron-la-veille-du-sommet-de-l-onu-a-new-york_8204345.html": "2026-09-22T11:46:14.309127+00:00",
-  "https://www.franceinfo.fr/economie/automobile/essence/100-euros-ca-a-dure-quoi-30-secondes-le-ras-le-bol-des-automobilistes-face-a-l-envolee-des-prix-a-la-pompe_8204327.html": "2026-09-22T11:46:14.309127+00:00",
   "https://www.franceinfo.fr/societe/harcelement-sexuel/les-deputes-renforcent-la-repression-des-violences-sexuelles-lors-de-l-examen-de-la-loi-integrale-en-commission_8204288.html": "2026-09-22T11:46:14.309127+00:00",
   "https://www.franceinfo.fr/elections/presidentielle/les-socialistes-la-font-bien-la-droite-et-le-centre-peuvent-ils-encore-organiser-une-primaire-pour-la-presidentielle-de-2027_8171882.html": "2026-09-22T11:46:14.309127+00:00",
   "https://www.franceinfo.fr/elections/presidentielle/le-depute-philippe-brun-depose-un-refere-pour-etre-reintegre-au-ps-et-a-la-primaire-apres-sa-suspension-pour-violences_8204246.html": "2026-09-22T11:46:14.309127+00:00",
@@ -31,15 +26,51 @@
   "https://www.franceinfo.fr/economie/automobile/essence/prix-des-carburants-le-gouvernement-va-proposer-une-regle-d-or-dans-le-budget-2027-pour-redistribuer-le-surplus-de-tva_8204171.html": "2026-09-22T11:46:14.309127+00:00",
   "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-a-quoi-joue-le-rassemblement-national-sur-l-ukraine_8182076.html": "2026-09-22T11:46:14.309127+00:00",
   "https://www.franceinfo.fr/monde/onu/direct-assemblee-generale-de-l-onu-le-president-iranien-promet-de-defendre-fermement-les-positions-de-son-pays_8204159.html": "2026-09-22T11:46:14.309127+00:00",
-  "https://www.franceinfo.fr/economie/automobile/essence/une-discussion-tres-constructive-emmanuel-macron-a-propose-plusieurs-initiatives-a-donald-trump-pour-lutter-contre-l-envolee-des-prix-du-petrole_8204108.html": "2026-09-22T11:46:14.309127+00:00"
+  "https://www.franceinfo.fr/economie/automobile/essence/une-discussion-tres-constructive-emmanuel-macron-a-propose-plusieurs-initiatives-a-donald-trump-pour-lutter-contre-l-envolee-des-prix-du-petrole_8204108.html": "2026-09-22T11:46:14.309127+00:00",
+  "https://www.franceinfo.fr/societe/harcelement-sexuel/l-opposition-municipale-a-concarneau-reclame-la-demission-du-maire-mis-en-examen-pour-viol-et-agression-sexuelle_8205059.html": "2026-09-22T17:01:10.917014+00:00",
+  "https://www.franceinfo.fr/economie/automobile/essence/c-est-l-etat-qui-va-faire-des-efforts-il-n-y-aura-pas-d-impot-en-plus-pour-financer-les-nouvelles-aides-aux-carburants-du-gouvernement-selon-le-ministre-du-travail_8205017.html": "2026-09-22T17:01:10.917014+00:00",
+  "https://www.franceinfo.fr/politique/front-national/budget-2027-si-le-gouvernement-ne-change-pas-sa-copie-on-censure-declare-thomas-menage_8204645.html": "2026-09-22T17:01:10.917014+00:00",
+  "https://www.franceinfo.fr/monde/onu/sommet-de-l-onu-il-faut-s-attendre-a-un-discours-tres-agressif-de-la-part-du-president-americain-a-l-encontre-de-ses-allies-historiques-previent-l-essayiste-romuald-sciora_8204429.html": "2026-09-22T17:01:10.917014+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "\"On essaie d'être prudents\" : les automobilistes s'adaptent dans l'attente de nouvelles aides carburant dévoilées ce mardi A qui profiteront les nouvelles aides dévoilées ce mardi 22 septembre à 17 heures par le gouvernement à Bercy ? Un nouveau dispositif très attendu par les Français, car avec un gasoil à plus de 2,40 euros, de nombreux ménages peinent à faire le plein. Aujourd'hui 1:51 vidéo 1 minute 51",
+   "title": "L'opposition municipale à Concarneau réclame la \"démission\" du maire, mis en examen pour viol et agression sexuelle Les huit élus d'opposition font valoir la \"protection de l'intérêt municipal\" afin de réclamer la démission de l'édile, mis en cause pour des faits qui remontent à sa campagne pour les municipales, avant son élection en mars 2026. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/societe/harcelement-sexuel/l-opposition-municipale-a-concarneau-reclame-la-demission-du-maire-mis-en-examen-pour-viol-et-agression-sexuelle_8205059.html",
+   "summary": "L'opposition municipale à Concarneau réclame la \"démission\" du maire, mis en examen pour viol et agression sexuelle",
+   "image": "https://www.franceinfo.fr/pictures/boQQeqxPdQYzzsI9rYtHJ-uD8s0/432x297/filters:format(jpg)/2026/09/18/6aacd36defa1a783213703.jpg",
+   "date": null,
+   "pubdate": "2026-09-22T17:01:10.917014+00:00"
+  },
+  {
+   "title": "\"C'est l'État qui va faire des efforts, il n'y aura pas d'impôt\" en plus pour financer les nouvelles aides aux carburants du gouvernement selon le ministre du Travail",
+   "link": "https://www.franceinfo.fr/economie/automobile/essence/c-est-l-etat-qui-va-faire-des-efforts-il-n-y-aura-pas-d-impot-en-plus-pour-financer-les-nouvelles-aides-aux-carburants-du-gouvernement-selon-le-ministre-du-travail_8205017.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/Ne5gMl5_GQrAL0o12wuwl0O9R9A/0x0:1280x720/432x243/filters:format(jpg)/2026/09/22/6ab2ab8633916618188288.jpg",
+   "date": null,
+   "pubdate": "2026-09-22T17:01:10.917014+00:00"
+  },
+  {
+   "title": "1:25 vidéo 1 minute 25 Budget : si la copie ne change pas, \"on censurera\"",
+   "link": "https://www.franceinfo.fr/politique/front-national/budget-2027-si-le-gouvernement-ne-change-pas-sa-copie-on-censure-declare-thomas-menage_8204645.html",
+   "summary": "Budget : si la copie ne change pas, \"on censurera\"",
+   "image": "https://www.franceinfo.fr/pictures/gTDOmeF_epK3uNO5Ai5d3yWVgP8/0x0:900x1600/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/22/6ab273de09aca239859030.jpg",
+   "date": null,
+   "pubdate": "2026-09-22T17:01:10.917014+00:00"
+  },
+  {
+   "title": "8:49 vidéo 8 minutes 49 Sommet de l'ONU : \"Il faut s'attendre à un discours très agressif de la part du président américain à l'encontre de ses alliés historiques\", prévient l'essayiste Romuald Sciora",
+   "link": "https://www.franceinfo.fr/monde/onu/sommet-de-l-onu-il-faut-s-attendre-a-un-discours-tres-agressif-de-la-part-du-president-americain-a-l-encontre-de-ses-allies-historiques-previent-l-essayiste-romuald-sciora_8204429.html",
+   "summary": "Sommet de l'ONU : \"Il faut s'attendre à un discours très agressif de la part du président américain à l'encontre de ses alliés historiques\", prévient l'essayiste Romuald Sciora",
+   "image": "https://www.franceinfo.fr/pictures/UMY4g5SBgqJ3CHWxPLV8WMbAiJg/0x12:1120x642/432x243/filters:format(jpg)/2026/09/22/6ab24cb3416b9920488399.jpg",
+   "date": null,
+   "pubdate": "2026-09-22T17:01:10.917014+00:00"
+  },
+  {
+   "title": "1:51 vidéo 1 minute 51 \"On essaie d'être prudents\" : les automobilistes s'adaptent dans l'attente de nouvelles aides carburant dévoilées ce mardi",
    "link": "https://www.franceinfo.fr/economie/automobile/essence/on-essaie-d-etre-prudents-les-automobilistes-s-adaptent-dans-l-attente-de-nouvelles-aides-carburant-devoilees-ce-mardi_8204603.html",
    "summary": "\"On essaie d'être prudents\" : les automobilistes s'adaptent dans l'attente de nouvelles aides carburant dévoilées ce mardi",
-   "image": "https://www.franceinfo.fr/pictures/DKtiJ0-dLFs5XWYsF0A89ar-Ylc/149x0:1149x688/432x297/filters:format(jpg)/2026/09/22/6ab26651307f7682586091.jpg",
+   "image": "https://www.franceinfo.fr/pictures/oqRRT2JHs3Bd0mGueBUMnEetPZo/37x0:1261x688/432x243/filters:format(jpg)/2026/09/22/6ab26651307f7682586091.jpg",
    "date": null,
    "pubdate": "2026-09-22T11:46:14.309127+00:00"
   },
@@ -55,7 +86,7 @@
    "title": "Emmanuel Macron n'assistera à aucune des messes du pape pendant sa visite en France",
    "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/emmanuel-macron-n-assistera-a-aucune-des-messes-du-pape-pendant-sa-visite-en-france_8204552.html",
    "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/Q9eNmrofEQvSwTE_cPRy3rmnCZg/0x53:1024x629/432x243/filters:format(jpg)/2026/09/22/6ab25a74a6350015680386.jpg",
+   "image": "https://www.franceinfo.fr/pictures/CxZy29vjgp7c7Q9O_gwmTai3Zow/0x0:1024x576/432x243/filters:format(jpg)/2026/09/22/6ab25a74a6350015680386.jpg",
    "date": null,
    "pubdate": "2026-09-22T11:46:14.309127+00:00"
   },
@@ -76,42 +107,18 @@
    "pubdate": "2026-09-22T11:46:14.309127+00:00"
   },
   {
-   "title": "1:25 vidéo 1 minute 25 \"La discussion a été très constructive\" : Emmanuel Macron salue son échange avec Donald Trump",
-   "link": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/la-discussion-a-ete-tres-constructive-emmanuel-macron-salue-son-echange-avec-donald-trump_8204423.html",
-   "summary": "\"La discussion a été très constructive\" : Emmanuel Macron salue son échange avec Donald Trump",
-   "image": "https://www.franceinfo.fr/pictures/dbXxorrcDo4HFuLlvzpz-8jCmsw/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/22/6ab24602c399d493654069.jpg",
-   "date": null,
-   "pubdate": "2026-09-22T11:46:14.309127+00:00"
-  },
-  {
-   "title": "1:08 vidéo 1 minute 8 Emmanuel Macron évoque \"une très bonne discussion\" avec Donald Trump à la veille du sommet de l'ONU à New York",
-   "link": "https://www.franceinfo.fr/monde/onu/une-tres-bonne-discussion-que-sait-on-de-l-echange-entre-donald-trump-et-emmanuel-macron-la-veille-du-sommet-de-l-onu-a-new-york_8204345.html",
-   "summary": "Emmanuel Macron évoque \"une très bonne discussion\" avec Donald Trump à la veille du sommet de l'ONU à New York",
-   "image": "https://www.franceinfo.fr/pictures/VRB6I_MkQMRN-MU9y43Zj2D_vfA/129x0:1206x606/432x243/filters:format(jpg)/2026/09/22/6ab23dac32ce2315044321.jpg",
-   "date": null,
-   "pubdate": "2026-09-22T11:46:14.309127+00:00"
-  },
-  {
-   "title": "1:12 vidéo 1 minute 12 \"100 euros, ça a duré quoi, 30 secondes ?\" : le ras-le-bol des automobilistes face à l'envolée des prix à la pompe",
-   "link": "https://www.franceinfo.fr/economie/automobile/essence/100-euros-ca-a-dure-quoi-30-secondes-le-ras-le-bol-des-automobilistes-face-a-l-envolee-des-prix-a-la-pompe_8204327.html",
-   "summary": "\"100 euros, ça a duré quoi, 30 secondes ?\" : le ras-le-bol des automobilistes face à l'envolée des prix à la pompe",
-   "image": "https://www.franceinfo.fr/pictures/i4hoj2Hj23Gm0Ib6zk312TWloUU/14x0:1414x788/432x243/filters:format(jpg)/2026/09/22/6ab23a5c9a25b586618240.jpg",
-   "date": null,
-   "pubdate": "2026-09-22T11:46:14.309127+00:00"
-  },
-  {
-   "title": "Les députés renforcent la répression des violences sexuelles lors de l'examen de la loi \"intégrale\" en commission",
-   "link": "https://www.franceinfo.fr/societe/harcelement-sexuel/les-deputes-renforcent-la-repression-des-violences-sexuelles-lors-de-l-examen-de-la-loi-integrale-en-commission_8204288.html",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/Y58m8r3cWJdEft4cQwdMRZzFeMo/0x39:1024x615/432x243/filters:format(jpg)/2026/09/22/6ab239b974eb5061314037.jpg",
-   "date": null,
-   "pubdate": "2026-09-22T11:46:14.309127+00:00"
-  },
-  {
    "title": "6:00 article 6 minutes \"Les socialistes la font bien !\" : la droite et le centre peuvent-ils encore organiser une primaire pour la présidentielle de 2027 ?",
    "link": "https://www.franceinfo.fr/elections/presidentielle/les-socialistes-la-font-bien-la-droite-et-le-centre-peuvent-ils-encore-organiser-une-primaire-pour-la-presidentielle-de-2027_8171882.html",
    "summary": "\"Les socialistes la font bien !\" : la droite et le centre peuvent-ils encore organiser une primaire pour la présidentielle de 2027 ?",
    "image": "https://www.franceinfo.fr/pictures/5fUZH6GrNERGe4r4sXKwaeunXrU/0x0:3545x3545/100x100/filters:format(jpg)/2026/09/02/6a981ecec229f147572924.jpg",
+   "date": null,
+   "pubdate": "2026-09-22T11:46:14.309127+00:00"
+  },
+  {
+   "title": "Les députés renforcent la répression des violences sexuelles lors de l'examen de la loi \"intégrale\" en commission Les peines seront par exemple portées à 30 ans de réclusion dans le cadre des viols sériels, ou lorsque le viol a entraîné la mort de la victime. Le texte arrive dans l'hémicycle le 1er octobre.",
+   "link": "https://www.franceinfo.fr/societe/harcelement-sexuel/les-deputes-renforcent-la-repression-des-violences-sexuelles-lors-de-l-examen-de-la-loi-integrale-en-commission_8204288.html",
+   "summary": "Les députés renforcent la répression des violences sexuelles lors de l'examen de la loi \"intégrale\" en commission",
+   "image": "https://www.franceinfo.fr/pictures/Y58m8r3cWJdEft4cQwdMRZzFeMo/0x39:1024x615/432x243/filters:format(jpg)/2026/09/22/6ab239b974eb5061314037.jpg",
    "date": null,
    "pubdate": "2026-09-22T11:46:14.309127+00:00"
   },
@@ -164,10 +171,10 @@
    "pubdate": "2026-09-22T11:46:14.309127+00:00"
   },
   {
-   "title": "• Direct Assemblée générale de l'ONU : en route pour New York, le président iranien promet de \"défendre fermement\" les positions de son pays Massoud Pezeshkian doit s'exprimer mercredi à la tribune de l'ONU. Il est le plus haut responsable iranien à se rendre sur le sol américain depuis le début de la guerre, déclenchée fin février par des frappes israélo-américaines.",
+   "title": "• Direct Assemblée générale de l'ONU : \"L'Amérique est de retour\", se félicite Donald Trump lors de son discours \"J'ai fait des Etats-Unis le pays le plus puissant du monde\", a lancé le président américain, au siège des Nations unies, à New York.",
    "link": "https://www.franceinfo.fr/monde/onu/direct-assemblee-generale-de-l-onu-le-president-iranien-promet-de-defendre-fermement-les-positions-de-son-pays_8204159.html",
-   "summary": "Assemblée générale de l'ONU : en route pour New York, le président iranien promet de \"défendre fermement\" les positions de son pays",
-   "image": "https://www.franceinfo.fr/pictures/3Fbrjxcp9W7edbj0OYXH5GRhMiM/0x0:1024x576/432x243/filters:format(jpg)/2026/09/22/6ab21b1cb2378872431208.jpg",
+   "summary": "Assemblée générale de l'ONU : \"L'Amérique est de retour\", se félicite Donald Trump lors de son discours",
+   "image": "https://www.franceinfo.fr/pictures/pGBka7XJkFfKOuETXabFSbw8D3E/0x53:1024x629/432x243/filters:format(jpg)/2026/09/22/6ab29185cf4ad323802049.jpg",
    "date": null,
    "pubdate": "2026-09-22T11:46:14.309127+00:00"
   },
@@ -224,22 +231,6 @@
    "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-c-est-le-sauveur-en-saxe-anhalt-ulrich-siegmund-l-homme-le-plus-dangereux-d-allemagne-selon-der-spiegel-aux-portes-du-pouvoir_8147219.html",
    "summary": "\"C'est le sauveur\", Ulrich Siegmund \"l’homme le plus dangereux d’Allemagne\", selon \"Der Spiegel\", aux portes d'une victoire historique",
    "image": "https://www.franceinfo.fr/pictures/VFg8d1outM3G4QXNVW4Z5Ox_n70/171x0:853x682/100x100/filters:format(jpg)/2026/09/04/6a9a5941c45a4796624614.jpg",
-   "date": null,
-   "pubdate": "2026-09-21T12:56:27.064251+00:00"
-  },
-  {
-   "title": "\"Il n'avait pas besoin de moi\" : à son procès pour corruption, Rachida Dati balaie tout lobbying pour le compte de Carlos Ghosn Elle est questionnée par le tribunal correctionnel de Paris, lundi après-midi, après un premier interrogatoire de trois heures jeudi soir, au cours duquel elle a martelé avoir \"exercé comme avocate\" pour le compte de Renault-Nissan, alors qu'elle est accusée d'avoir été rémunérée pour du lobbying.",
-   "link": "https://www.franceinfo.fr/politique/rachida-dati/direct-l-interrogatoire-de-rachida-dati-lors-de-son-proces-pour-corruption-et-trafic-d-influence-se-poursuit-ce-lundi_8202833.html",
-   "summary": "\"Il n'avait pas besoin de moi\" : à son procès pour corruption, Rachida Dati balaie tout lobbying pour le compte de Carlos Ghosn",
-   "image": "https://www.franceinfo.fr/pictures/oZAroJFbypi55bKmXohsbfV5OtE/0x0:1024x576/432x243/filters:format(jpg)/2026/09/21/6ab1007810619088237858.jpg",
-   "date": null,
-   "pubdate": "2026-09-21T12:56:27.064251+00:00"
-  },
-  {
-   "title": "La menace de guerre hybride par la Russie est \"réelle\" et \"documentée\", selon le ministre de l'Intérieur La France n'a constaté ni survol de drones en France et ni \"sabotage majeur\", a assuré Laurent Nuñez, mais a été la cible d'\"attaques cyber\".",
-   "link": "https://www.franceinfo.fr/politique/la-menace-de-guerre-hybride-par-la-russie-est-reelle-et-documentee-selon-le-ministre-de-l-interieur_8202788.html",
-   "summary": "La menace de guerre hybride par la Russie est \"réelle\" et \"documentée\", selon le ministre de l'Intérieur",
-   "image": "https://www.franceinfo.fr/pictures/nOa0yXXKwaORX_Xn5Ho-lzRXcaU/0x46:1024x622/432x243/filters:format(jpg)/2026/09/21/6ab0fee587318669033069.jpg",
    "date": null,
    "pubdate": "2026-09-21T12:56:27.064251+00:00"
   },
