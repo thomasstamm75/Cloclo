@@ -1,13 +1,13 @@
 {
  "etag": "",
- "last_modified": "Mon, 21 Sep 2026 17:31:22 GMT",
+ "last_modified": "Tue, 22 Sep 2026 05:05:15 GMT",
  "first_seen": {
-  "https://www.jean-jaures.org/publication/venezuela-paradoxes-dun-tremblement-de-terre-destructeur-devidences/": "2026-09-15T11:00:00+00:00",
   "https://www.jean-jaures.org/publication/vers-une-economie-politique-duale/": "2026-09-16T11:00:00+00:00",
   "https://www.jean-jaures.org/publication/saxe-anhalt-une-analyse-de-la-victoire-de-lafd/": "2026-09-17T11:00:00+00:00",
   "https://www.jean-jaures.org/publication/presidentielle-2027-de-limportance-de-ne-pas-occulter-les-sujets-de-fond-et-de-ne-pas-se-tromper-de-sujets/": "2026-09-17T11:00:00+00:00",
   "https://www.jean-jaures.org/publication/le-livre-et-moi/": "2026-09-21T11:00:00+00:00",
-  "https://www.jean-jaures.org/publication/les-imaginaires-territoriaux-vague-2/": "2026-09-21T11:00:00+00:00"
+  "https://www.jean-jaures.org/publication/les-imaginaires-territoriaux-vague-2/": "2026-09-21T11:00:00+00:00",
+  "https://www.jean-jaures.org/publication/bureaucratie-et-simplification-mirage-liberal-mensonges-populistes-et-realites-populaires/": "2026-09-17T11:00:00+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
@@ -36,6 +36,14 @@
    "pubdate": "2026-09-17T11:00:00+00:00"
   },
   {
+   "title": "Bureaucratie et simplification : mirage libéral, mensonges populistes et réalités populaires",
+   "link": "https://www.jean-jaures.org/publication/bureaucratie-et-simplification-mirage-liberal-mensonges-populistes-et-realites-populaires/",
+   "summary": "",
+   "image": "",
+   "date": "2026-09-17T11:00:00+00:00",
+   "pubdate": "2026-09-17T11:00:00+00:00"
+  },
+  {
    "title": "Présidentielle 2027 : de l’importance de ne pas occulter les sujets de fond, et de ne pas se tromper de sujet(s)",
    "link": "https://www.jean-jaures.org/publication/presidentielle-2027-de-limportance-de-ne-pas-occulter-les-sujets-de-fond-et-de-ne-pas-se-tromper-de-sujets/",
    "summary": "",
@@ -50,14 +58,6 @@
    "image": "",
    "date": "2026-09-16T11:00:00+00:00",
    "pubdate": "2026-09-16T11:00:00+00:00"
-  },
-  {
-   "title": "Venezuela : paradoxes d’un tremblement de terre destructeur d’évidences",
-   "link": "https://www.jean-jaures.org/publication/venezuela-paradoxes-dun-tremblement-de-terre-destructeur-devidences/",
-   "summary": "",
-   "image": "",
-   "date": "2026-09-15T11:00:00+00:00",
-   "pubdate": "2026-09-15T11:00:00+00:00"
   }
  ]
 }
