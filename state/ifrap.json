@@ -4,13 +4,37 @@
  "first_seen": {
   "https://www.tf1info.fr/replay-lci/videos/video-lci-live-du-vendredi-18-septembre-2026-2464995.html": "2026-09-18T16:47:00+00:00",
   "https://www.ifrap.org/lifrap-dans-les-medias/des-candidats-cul-par-dessus-dette": "2026-09-18T14:44:00+00:00",
-  "https://www.capital.fr/economie-politique/diviser-par-deux-l-indemnite-des-ministres-agnes-verdier-molinie-explique-sa-proposition-choc-et-symbolique-1530225": "2026-09-17T16:30:00+00:00",
-  "https://www.cnews.fr/emission/2026-09-17/la-matinale-emission-du-17092026-1920249": "2026-09-17T16:27:00+00:00",
-  "https://www.europe1.fr/emissions/ledito-eco/baisser-des-salaires-des-ministres-la-goutte-deau-1083404": "2026-09-17T08:26:00+00:00",
-  "https://www.lopinion.fr/economie/aides-sociales-aux-etrangers-ce-que-prevoit-le-gouvernement-ce-qui-se-fait-en-europe": "2026-09-19T09:01:00+00:00"
+  "https://www.lopinion.fr/economie/aides-sociales-aux-etrangers-ce-que-prevoit-le-gouvernement-ce-qui-se-fait-en-europe": "2026-09-19T09:01:00+00:00",
+  "https://www.europe1.fr/emissions/ledito-eco/economie-vous-avez-dit-54-milliards-1094372": "2026-09-22T10:33:00+00:00",
+  "https://www.bfmtv.com/replay-emissions/100-mabrouk/video-l-integrale-de-100-mabrouk-du-lundi-21-septembre-2026_VN-202609210904.html": "2026-09-21T18:23:00+00:00",
+  "https://www.conquerir.com/index.php/actualites-menu/88-actualites/659-tpe-pme-la-commande-publique-devient-plus-accessible": "2026-09-20T10:28:00+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "Economie : vous avez dit 54 milliards ?",
+   "link": "https://www.europe1.fr/emissions/ledito-eco/economie-vous-avez-dit-54-milliards-1094372",
+   "summary": "",
+   "image": "https://www.ifrap.org/sites/default/files/styles/100x/public/images/import/logo_europe1_6.jpg?itok=6FMdFcfZ",
+   "date": "2026-09-22T10:33:00+00:00",
+   "pubdate": "2026-09-22T10:33:00+00:00"
+  },
+  {
+   "title": "Carburant à 3 euros : où va votre argent ?",
+   "link": "https://www.bfmtv.com/replay-emissions/100-mabrouk/video-l-integrale-de-100-mabrouk-du-lundi-21-septembre-2026_VN-202609210904.html",
+   "summary": "",
+   "image": "https://www.ifrap.org/sites/default/files/styles/100x/public/images/2024-02/bfm_logo.png?itok=H-GCw7a5",
+   "date": "2026-09-21T18:23:00+00:00",
+   "pubdate": "2026-09-21T18:23:00+00:00"
+  },
+  {
+   "title": "TPE, PME : la commande publique devient plus accessible",
+   "link": "https://www.conquerir.com/index.php/actualites-menu/88-actualites/659-tpe-pme-la-commande-publique-devient-plus-accessible",
+   "summary": "",
+   "image": "https://www.ifrap.org/sites/default/files/styles/100x/public/images/2026-09/logo.png?itok=pg8nK3PC",
+   "date": "2026-09-20T10:28:00+00:00",
+   "pubdate": "2026-09-20T10:28:00+00:00"
+  },
   {
    "title": "Aides sociales aux étrangers : ce que prévoit le gouvernement, ce qui se fait en Europe",
    "link": "https://www.lopinion.fr/economie/aides-sociales-aux-etrangers-ce-que-prevoit-le-gouvernement-ce-qui-se-fait-en-europe",
@@ -34,30 +58,6 @@
    "image": "https://www.ifrap.org/sites/default/files/styles/100x/public/images/2026-09/470166135_890734626376836_1620008978306606296_n.jpg?itok=5pgHCF0V",
    "date": "2026-09-18T14:44:00+00:00",
    "pubdate": "2026-09-18T14:44:00+00:00"
-  },
-  {
-   "title": "Diviser par deux l'indemnité des ministres : Agnès Verdier-Molinié explique sa proposition choc",
-   "link": "https://www.capital.fr/economie-politique/diviser-par-deux-l-indemnite-des-ministres-agnes-verdier-molinie-explique-sa-proposition-choc-et-symbolique-1530225",
-   "summary": "",
-   "image": "https://www.ifrap.org/sites/default/files/styles/100x/public/images/2023-10/capital.jpg?itok=NAVpztHz",
-   "date": "2026-09-17T16:30:00+00:00",
-   "pubdate": "2026-09-17T16:30:00+00:00"
-  },
-  {
-   "title": "Diviser par deux les indemnités des ministres",
-   "link": "https://www.cnews.fr/emission/2026-09-17/la-matinale-emission-du-17092026-1920249",
-   "summary": "",
-   "image": "https://www.ifrap.org/sites/default/files/styles/100x/public/images/2025-01/images_nl_29.png?itok=gFuWqP5h",
-   "date": "2026-09-17T16:27:00+00:00",
-   "pubdate": "2026-09-17T16:27:00+00:00"
-  },
-  {
-   "title": "Baisse des salaires des ministres ? La goutte d’eau…",
-   "link": "https://www.europe1.fr/emissions/ledito-eco/baisser-des-salaires-des-ministres-la-goutte-deau-1083404",
-   "summary": "",
-   "image": "",
-   "date": "2026-09-17T08:26:00+00:00",
-   "pubdate": "2026-09-17T08:26:00+00:00"
   }
  ]
 }
