@@ -1,10 +1,9 @@
 {
- "etag": "\"d220b409e4bed63af5283894106943df-gzip\"",
+ "etag": "\"7af18df1aaa8a56bbc90879cb6529d32-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-c-est-le-sauveur-en-saxe-anhalt-ulrich-siegmund-l-homme-le-plus-dangereux-d-allemagne-selon-der-spiegel-aux-portes-du-pouvoir_8147219.html": "2026-09-18T23:21:06.607927+00:00",
   "https://www.franceinfo.fr/monde/europe/allemagne/il-y-a-une-extrapolation-du-declin-economique-comment-l-extreme-droite-allemande-est-arrivee-aux-portes-du-pouvoir-en-saxe-anhalt_8175638.html": "2026-09-19T04:43:09.539163+00:00",
-  "https://www.franceinfo.fr/replay-magazine/france-2/nous-les-europeens/nous-les-europeens-affaires-criminelles-les-nouvelles-armes-des-enqueteurs_8172959.html": "2026-09-19T11:07:15.575559+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/vos-questions-sur-l-effort-de-guerre-de-la-france/": "2026-09-19T11:07:15.575559+00:00",
   "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/americains-russes-chinois-et-europeens-les-grandes-puissances-s-interessent-de-plus-en-plus-au-grand-nord_8178077.html": "2026-09-19T15:55:54.990773+00:00",
   "https://www.franceinfo.fr/monde/europe/une-enquete-est-ouverte-apres-l-interruption-temporaire-du-trafic-a-l-aeroport-de-luxembourg-en-raison-de-drones_8200697.html": "2026-09-19T15:55:54.990773+00:00",
@@ -25,28 +24,37 @@
   "https://www.franceinfo.fr/replay-radio/les-informes-du-matin/les-informes-du-matin-du-lundi-21-septembre-2026_8180276.html": "2026-09-21T11:00:00+00:00",
   "https://www.franceinfo.fr/politique/la-menace-de-guerre-hybride-par-la-russie-est-reelle-et-documentee-selon-le-ministre-de-l-interieur_8202788.html": "2026-09-21T12:56:28.438218+00:00",
   "https://www.franceinfo.fr/monde/europe/allemagne/j-assume-cette-responsabilite-apres-les-recentes-defaites-electorales-quel-avenir-pour-le-chancelier-allemand-friedrich-merz_8202602.html": "2026-09-21T12:56:28.438218+00:00",
-  "https://www.franceinfo.fr/monde/russie/russie-les-demandes-d-aide-a-l-emigration-en-forte-hausse_8202605.html": "2026-09-21T12:56:28.438218+00:00",
   "https://www.franceinfo.fr/replay-radio/le-brief-eco/volkswagen-s-enfonce-dans-la-crise_8180249.html": "2026-09-21T12:56:28.438218+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/comment-les-russes-voient-ils-la-guerre-arriver-chez-eux_8203511.html": "2026-09-21T20:01:28.894388+00:00",
   "https://www.franceinfo.fr/replay-jt/france-2/20-heures/j-ai-peur-d-aller-me-coucher-parce-que-ca-vole-ca-frappe-sans-cesse-survivre-sous-les-drones-russes_8203631.html": "2026-09-21T20:01:28.894388+00:00",
   "https://www.franceinfo.fr/replay-radio/les-informes-de-france-info/rencontre-macron-trump-l-extreme-droite-en-allemagne-les-informes-de-franceinfo-du-lundi-21-septembre-2026_8180273.html": "2026-09-21T11:00:00+00:00",
   "https://www.franceinfo.fr/monde/europe/allemagne/une-crise-allemande-est-une-crise-europeenne-pourquoi-la-montee-de-l-afd-en-allemagne-inquiete-le-reste-de-l-ue_8202779.html": "2026-09-21T20:01:28.894388+00:00",
-  "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/je-ne-sais-pas-ce-qui-attend-nos-enfants-a-kiev-l-angoisse-de-la-rentree-sous-les-bombes-apres-un-ete-meurtrier_8144936.html": "2026-09-21T20:01:28.894388+00:00"
+  "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/je-ne-sais-pas-ce-qui-attend-nos-enfants-a-kiev-l-angoisse-de-la-rentree-sous-les-bombes-apres-un-ete-meurtrier_8144936.html": "2026-09-21T20:01:28.894388+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-pologne-souhaite-accueillir-15-000-soldats-americains-sur-son-territoire_8203427.html": "2026-09-22T00:10:14.242843+00:00",
+  "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/la-percee-de-l-extreme-droite-interroge-sur-la-disparition-de-la-droite-en-allemagne-apres-de-nouvelles-elections-regionales_8180252.html": "2026-09-07T00:10:14.238575+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "Comment les Russes voient-ils la guerre arriver chez eux ? Les attaques de drone n’ont jamais été aussi massives sur Moscou avec des dégâts considérables et des morts. Changent-elles pour autant l’opinion russe vis à vis de la guerre contre l’Ukraine ? Aujourd'hui 2:08 vidéo 2 minutes 8",
+   "title": "La Pologne souhaite accueillir 15 000 soldats américains sur son territoire La semaine dernière, le Premier ministre polonais Donald Tusk avait mis en garde contre des menaces \"hybrides\" de la part de la Russie visant les alliés de l'Ukraine. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-pologne-souhaite-accueillir-15-000-soldats-americains-sur-son-territoire_8203427.html",
+   "summary": "La Pologne souhaite accueillir 15 000 soldats américains sur son territoire",
+   "image": "https://www.franceinfo.fr/pictures/ArI7H0WeMHEctxFB9yiMSw28hEs/0x0:7272x5000/432x297/filters:format(jpg)/2026/09/21/6ab18d1b7cbc2080674179.jpg",
+   "date": null,
+   "pubdate": "2026-09-22T00:10:14.242843+00:00"
+  },
+  {
+   "title": "2:08 vidéo 2 minutes 8 Comment les Russes voient-ils la guerre arriver chez eux ?",
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/comment-les-russes-voient-ils-la-guerre-arriver-chez-eux_8203511.html",
    "summary": "Comment les Russes voient-ils la guerre arriver chez eux ?",
-   "image": "https://www.franceinfo.fr/pictures/qGqj74MnHWHWjsQaxA--fvRSo4Q/0x0:1080x1920/fit-in/432x297/filters:upscale():fill(blur):format(jpg)/2026/09/21/6ab1692beddf1965210961.png",
+   "image": "https://www.franceinfo.fr/pictures/hOdUVAwrkcJcUryO9zCquLBcrbc/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/21/6ab1692beddf1965210961.png",
    "date": null,
    "pubdate": "2026-09-21T20:01:28.894388+00:00"
   },
   {
-   "title": "5:21 vidéo 5 minutes 21 \"J'ai peur d'aller me coucher parce que ça vole, ça frappe sans cesse\" : survivre sous les drones russes",
+   "title": "5:21 vidéo 5 minutes 21 \"J'ai peur d'aller me coucher, ça frappe sans cesse\" : dans la ville ukrainienne de Kramatorsk, les habitants tentent de survivre sous les drones russes",
    "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/j-ai-peur-d-aller-me-coucher-parce-que-ca-vole-ca-frappe-sans-cesse-survivre-sous-les-drones-russes_8203631.html",
-   "summary": "\"J'ai peur d'aller me coucher parce que ça vole, ça frappe sans cesse\" : survivre sous les drones russes",
+   "summary": "\"J'ai peur d'aller me coucher, ça frappe sans cesse\" : dans la ville ukrainienne de Kramatorsk, les habitants tentent de survivre sous les drones russes",
    "image": "https://www.franceinfo.fr/pictures/mcnoNjvK1l-zGM_H4BOrhFaWYzs/0x0:1920x1080/432x243/filters:format(jpg)/2026/09/21/6ab18987406ca483808546.jpg",
    "date": null,
    "pubdate": "2026-09-21T20:01:28.894388+00:00"
@@ -96,14 +104,6 @@
    "link": "https://www.franceinfo.fr/monde/europe/allemagne/j-assume-cette-responsabilite-apres-les-recentes-defaites-electorales-quel-avenir-pour-le-chancelier-allemand-friedrich-merz_8202602.html",
    "summary": "",
    "image": "https://www.franceinfo.fr/pictures/TSRuT5Cx0nhmZ4bRRVQZagRosGU/0x252:4864x2988/432x243/filters:format(jpg)/2026/09/21/6ab0e41c48a1b561332383.jpg",
-   "date": null,
-   "pubdate": "2026-09-21T12:56:28.438218+00:00"
-  },
-  {
-   "title": "1:34 vidéo 1 minute 34 Russie : les demandes d'aide à l'émigration en forte hausse",
-   "link": "https://www.franceinfo.fr/monde/russie/russie-les-demandes-d-aide-a-l-emigration-en-forte-hausse_8202605.html",
-   "summary": "Russie : les demandes d'aide à l'émigration en forte hausse",
-   "image": "https://www.franceinfo.fr/pictures/QuLVoSGjp1vVpZ--4qav_AcQkSg/0x39:955x576/432x243/filters:format(jpg)/2026/09/21/6ab0d9efcd275297683613.jpg",
    "date": null,
    "pubdate": "2026-09-21T12:56:28.438218+00:00"
   },
@@ -252,14 +252,6 @@
    "pubdate": "2026-09-19T11:07:15.575559+00:00"
   },
   {
-   "title": "28:29 vidéo 28 minutes 29 \"Nous, les Européens\". Affaires criminelles : les nouvelles armes des enquêteurs Grand reportage, invités et actualité européenne sont au sommaire de ce magazine d'information, présenté par Eléonore Gay et diffusé le dimanche à midi sur France 3 ainsi que le jeudi en fin de soirée sur France 2.",
-   "link": "https://www.franceinfo.fr/replay-magazine/france-2/nous-les-europeens/nous-les-europeens-affaires-criminelles-les-nouvelles-armes-des-enqueteurs_8172959.html",
-   "summary": "\"Nous, les Européens\". Affaires criminelles : les nouvelles armes des enquêteurs",
-   "image": "https://www.franceinfo.fr/pictures/UdUJ62Uc8OAT8JJXQainN04PXM8/0x0:1920x1080/432x243/filters:format(jpg)/2026/09/16/6aaa9806e6543001031374.jpg",
-   "date": null,
-   "pubdate": "2026-09-19T11:07:15.575559+00:00"
-  },
-  {
    "title": "7:00 article 7 minutes \"Il y a une extrapolation du déclin économique\" : comment l'extrême droite allemande est arrivée aux portes du pouvoir en Saxe-Anhalt",
    "link": "https://www.franceinfo.fr/monde/europe/allemagne/il-y-a-une-extrapolation-du-declin-economique-comment-l-extreme-droite-allemande-est-arrivee-aux-portes-du-pouvoir-en-saxe-anhalt_8175638.html",
    "summary": "\"Il y a une extrapolation du déclin économique\" : comment l'extrême droite allemande est arrivée aux portes du pouvoir en Saxe-Anhalt",
@@ -274,6 +266,14 @@
    "image": "https://www.franceinfo.fr/pictures/VFg8d1outM3G4QXNVW4Z5Ox_n70/171x0:853x682/100x100/filters:format(jpg)/2026/09/04/6a9a5941c45a4796624614.jpg",
    "date": null,
    "pubdate": "2026-09-18T23:21:06.607927+00:00"
+  },
+  {
+   "title": "2:38 audio 2 minutes 38 La percée de l'extrême droite interroge sur la disparition de la droite en Allemagne après de nouvelles élections régionales Il y a 15 jours on parlait déjà de la victoire historique de l’extrême droite en Allemagne dans la région de Saxe-Anhalt. Dimanche, de nouvelles élections régionales ont eu lieu dans la région du Mecklembourg et l'AfD a encore marqué des points. Même cause, même effet avec une leçon différente à retenir.",
+   "link": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/la-percee-de-l-extreme-droite-interroge-sur-la-disparition-de-la-droite-en-allemagne-apres-de-nouvelles-elections-regionales_8180252.html",
+   "summary": "La percée de l'extrême droite interroge sur la disparition de la droite en Allemagne après de nouvelles élections régionales",
+   "image": "https://www.franceinfo.fr/pictures/-uCQG1bQdoanx1qZ2hAvwOqT81c/0x327:6000x3702/432x243/filters:format(jpg)/2026/09/21/6ab0c071ec5f0644484621.jpg",
+   "date": "2026-09-07T00:10:14.238575+00:00",
+   "pubdate": "2026-09-07T00:10:14.238575+00:00"
   }
  ]
 }
