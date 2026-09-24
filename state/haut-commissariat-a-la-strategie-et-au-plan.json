@@ -1,6 +1,6 @@
 {
- "etag": "W/\"1790202164\"",
- "last_modified": "Wed, 23 Sep 2026 22:22:44 GMT",
+ "etag": "W/\"1790240356\"",
+ "last_modified": "Thu, 24 Sep 2026 08:59:16 GMT",
  "first_seen": {
   "https://www.strategie-plan.gouv.fr/publications/hcfips-salaire-brut-salaire-net-evolutions-comparees-et-constats": "2026-06-16T11:00:00+00:00",
   "https://www.strategie-plan.gouv.fr/publications/hcaam-rapport-du-hcaam-trois-scenarios-pour-une-reforme-des-depassements-dhonoraires": "2026-06-09T11:00:00+00:00",
@@ -10,13 +10,21 @@
   "https://www.strategie-plan.gouv.fr/colloque-levaluation-socioeconomique-des-infrastructures-de-transport-au-dela-des-gains-de-temps": "2026-09-07T11:00:00+00:00",
   "https://www.strategie-plan.gouv.fr/conference-quels-nouveaux-moteurs-pour-la-productivite-francaise": "2026-09-08T11:00:00+00:00",
   "https://www.strategie-plan.gouv.fr/france-2035-france-2050-decouvrez-le-projet": "2026-09-10T11:00:00+00:00",
-  "https://www.strategie-plan.gouv.fr/publications/france-2035-france-2050-focus-demographie-et-societes-repenser-les-solidarites-dans": "2026-09-17T11:50:17.464406+00:00",
   "https://www.strategie-plan.gouv.fr/publications/france-2035-france-2050-focus-administration-et-services-publics-des-services-publics": "2026-09-22T11:47:37.584028+00:00",
   "https://www.strategie-plan.gouv.fr/publications/france-2035-france-2050-focus-democratie-construire-une-democratie-resiliente-face-aux": "2026-09-22T11:00:00+00:00",
-  "https://www.strategie-plan.gouv.fr/evenements/presentation-densemble-du-rapport-de-prospective-france-2035-france-2050": "2026-09-23T17:10:49.762592+00:00"
+  "https://www.strategie-plan.gouv.fr/evenements/presentation-densemble-du-rapport-de-prospective-france-2035-france-2050": "2026-09-23T17:10:49.762592+00:00",
+  "https://www.strategie-plan.gouv.fr/publications/quel-amenagement-du-territoire-francais-en-2050-un-plan-freycinet-pour-le-xxie-siecle": "2026-09-24T11:55:33.691000+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "Bienvenue sur le site du Haut-commissariat à la Stratégie et au Plan",
+   "link": "https://www.strategie-plan.gouv.fr/publications/quel-amenagement-du-territoire-francais-en-2050-un-plan-freycinet-pour-le-xxie-siecle",
+   "summary": "Le Haut-commissariat à la Stratégie et au Plan contribue à l’action publique par ses analyses et ses propositions. Il éclaire les choix collectifs sur les enjeux démographiques, économiques, sociaux, environnementaux, sanitaires, technologiques et culturels, dans un cadre national et européen.",
+   "image": "https://www.strategie-plan.gouv.fr/files/styles/ds_image_paragraphe/public/files/accueil-fstrat.png?itok=ZH0UHCYU",
+   "date": null,
+   "pubdate": "2026-09-24T11:55:33.691000+00:00"
+  },
   {
    "title": "Présentation d’ensemble du rapport de pr...",
    "link": "https://www.strategie-plan.gouv.fr/evenements/presentation-densemble-du-rapport-de-prospective-france-2035-france-2050",
@@ -26,12 +34,12 @@
    "pubdate": "2026-09-23T17:10:49.762592+00:00"
   },
   {
-   "title": "Bienvenue sur le site du Haut-commissariat à la Stratégie et au Plan",
+   "title": "France 2035, France 2050 - Focus Administration et services publics : des services publics renouvelés pour mieux faire société",
    "link": "https://www.strategie-plan.gouv.fr/publications/france-2035-france-2050-focus-administration-et-services-publics-des-services-publics",
-   "summary": "Le Haut-commissariat à la Stratégie et au Plan contribue à l’action publique par ses analyses et ses propositions. Il éclaire les choix collectifs sur les enjeux démographiques, économiques, sociaux, environnementaux, sanitaires, technologiques et culturels, dans un cadre national et européen.",
-   "image": "https://www.strategie-plan.gouv.fr/files/styles/ds_image_paragraphe/public/files/accueil-fstrat.png?itok=ZH0UHCYU",
-   "date": null,
-   "pubdate": "2026-09-22T11:47:37.584028+00:00"
+   "summary": "Haut-commissariat à la Stratégie et au Plan",
+   "image": "",
+   "date": "2026-09-22T11:00:00+00:00",
+   "pubdate": "2026-09-22T11:00:00+00:00"
   },
   {
    "title": "France 2035, France 2050 - Focus Démocratie : construire une démocratie résiliente face aux menaces",
@@ -40,14 +48,6 @@
    "image": "",
    "date": "2026-09-22T11:00:00+00:00",
    "pubdate": "2026-09-22T11:00:00+00:00"
-  },
-  {
-   "title": "France 2035, France 2050 - Focus Démographie et société(s) : repenser les solidarités dans une France vieillissante",
-   "link": "https://www.strategie-plan.gouv.fr/publications/france-2035-france-2050-focus-demographie-et-societes-repenser-les-solidarites-dans",
-   "summary": "Haut-commissariat à la Stratégie et au Plan",
-   "image": "",
-   "date": "2026-09-17T11:00:00+00:00",
-   "pubdate": "2026-09-17T11:00:00+00:00"
   },
   {
    "title": "« France 2035, France 2050 » - Découvrez le projet",
