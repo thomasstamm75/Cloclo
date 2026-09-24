@@ -1,5 +1,5 @@
 {
- "etag": "\"e8ea9ea3fec09a5e38d547d5e2ff9e35-gzip\"",
+ "etag": "\"1deb9f917d7c96c4d546f453c0f61670-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/tout-comprendre-au-proces-des-assistants-parlementaires-fn/": "2026-09-20T16:12:44.106888+00:00",
@@ -7,13 +7,10 @@
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-c-est-le-sauveur-en-saxe-anhalt-ulrich-siegmund-l-homme-le-plus-dangereux-d-allemagne-selon-der-spiegel-aux-portes-du-pouvoir_8147219.html": "2026-09-21T12:56:27.064251+00:00",
   "https://www.franceinfo.fr/politique/je-vous-demande-de-vous-arreter-comment-la-phrase-d-edouard-balladur-est-devenue-culte_8171597.html": "2026-09-22T05:05:24.157565+00:00",
   "https://www.franceinfo.fr/elections/presidentielle/les-socialistes-la-font-bien-la-droite-et-le-centre-peuvent-ils-encore-organiser-une-primaire-pour-la-presidentielle-de-2027_8171882.html": "2026-09-22T11:46:14.309127+00:00",
-  "https://www.franceinfo.fr/politique/bruno-retailleau/s-il-est-elu-bruno-retailleau-veut-instaurer-un-age-minimal-de-depart-a-la-retraite-a-63-ans-le-taux-plein-a-65_8205254.html": "2026-09-22T21:24:10.547463+00:00",
   "https://www.franceinfo.fr/economie/automobile/essence/c-est-presque-nous-pousser-a-descendre-dans-la-rue-la-federation-nationale-des-transporteurs-routiers-reagit-a-la-non-prolongation-des-aides-aux-carburants-pour-la-profession_8205701.html": "2026-09-23T04:50:44.425046+00:00",
   "https://www.franceinfo.fr/elections/senatoriales/creation-d-un-groupe-rn-arrivee-d-elus-insoumis-equilibres-dans-la-majorite-de-droite-et-du-centre-quels-sont-les-enjeux-des-elections-senatoriales_8193227.html": "2026-09-23T04:50:44.425046+00:00",
   "https://www.franceinfo.fr/economie/automobile/essence/aides-aux-carburants-on-n-en-garde-pas-sous-le-coude_8206292.html": "2026-09-23T11:45:48.223279+00:00",
   "https://www.franceinfo.fr/politique/front-national/le-travail-rend-libre-accuse-d-avoir-fait-echo-a-un-slogan-nazi-dans-un-discours-le-depute-rn-jean-philippe-tanguy-denonce-du-n-importe-quoi_8205998.html": "2026-09-23T11:45:48.223279+00:00",
-  "https://www.franceinfo.fr/economie/automobile/essence/aides-aux-carburants-la-responsabilite-c-est-celle-de-ne-pas-avoir-anticipe-depuis-dix-ans-certains-problemes-pointe-laure-salvaing-specialiste-de-l-opinion_8206136.html": "2026-09-23T11:45:48.223279+00:00",
-  "https://www.franceinfo.fr/elections/presidentielle/la-primaire-a-gauche-est-elle-maudite_8206133.html": "2026-09-23T11:45:48.223279+00:00",
   "https://www.franceinfo.fr/economie/budget/sebastien-lecornu-propose-aux-deputes-socialistes-de-batir-un-nouveau-compromis-sur-le-budget_8206019.html": "2026-09-23T11:45:48.223279+00:00",
   "https://www.franceinfo.fr/elections/presidentielle/la-justice-rejette-la-demande-de-reintegration-de-philippe-brun-exclu-de-la-primaire-socialiste-apres-des-accusations-de-violences_8206013.html": "2026-09-23T11:45:48.223279+00:00",
   "https://www.franceinfo.fr/economie/transports/prix-des-carburants/le-gouvernement-est-ouvert-a-discuter-avec-d-autres-secteurs-concernes-sur-les-aides-aux-carburants-assure-maud-bregeon_8205959.html": "2026-09-23T11:45:48.223279+00:00",
@@ -28,18 +25,35 @@
   "https://www.franceinfo.fr/economie/automobile/essence/aides-carburants-les-professionnels-et-particuliers-exclus-du-dispositif-reagissent_8206376.html": "2026-09-23T17:09:26.410771+00:00",
   "https://www.franceinfo.fr/economie/automobile/essence/aides-carburants-qui-sont-les-nouveaux-beneficiaires-du-dispositif-grands-rouleurs_8206352.html": "2026-09-23T17:09:26.410771+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-a-atlanta-les-republicains-craignent-la-fin-de-l-ere-trump-a-l-approche-des-elections-de-mi-mandat-les-democrates-revent-de-revanche_8145842.html": "2026-09-23T17:09:26.410771+00:00",
-  "https://www.franceinfo.fr/economie/budget/budget-2027-le-gouvernement-reconduit-les-allegements-de-prelevements-sur-les-bailleurs-sociaux_8205188.html": "2026-09-23T17:09:26.410771+00:00",
   "https://www.franceinfo.fr/politique/emmanuel-macron/le-hamas-n-a-jamais-sevi-en-cisjordanie-polemique-autour-du-discours-d-emmanuel-macron-a-l-onu_8206973.html": "2026-09-23T21:33:54.128591+00:00",
   "https://www.franceinfo.fr/politique/rachida-dati/ca-surprend-mais-j-avais-des-competences-a-son-proces-pour-corruption-et-trafic-d-influence-rachida-dati-poussee-dans-ses-retranchements_8206862.html": "2026-09-23T21:33:54.128591+00:00",
-  "https://www.franceinfo.fr/politique/jean-philippe-tanguy-accuse-d-avoir-utilise-un-slogan-nazi-une-formulation-maladroite-estime-aleksandar-nikolic-porte-parole-du-rn_8206871.html": "2026-09-23T21:33:54.128591+00:00"
+  "https://www.franceinfo.fr/politique/jean-philippe-tanguy-accuse-d-avoir-utilise-un-slogan-nazi-une-formulation-maladroite-estime-aleksandar-nikolic-porte-parole-du-rn_8206871.html": "2026-09-23T21:33:54.128591+00:00",
+  "https://www.franceinfo.fr/replay-magazine/franceinfo/a-suivre-avec-loic-de-la-mornais/a-suivre-loic-de-la-mornais-des-menaces-serieuses-de-blocage-par-les-exclus-des-aides-carburants_8207339.html": "2026-09-24T04:58:58.714662+00:00",
+  "https://www.franceinfo.fr/politique/emmanuel-macron/il-n-a-plus-de-ressort-dans-l-opinion-emmanuel-macron-peut-il-calmer-la-grogne-sociale-en-occupant-le-terrain-mediatique_8205935.html": "2026-09-24T04:58:58.714662+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "\"Le Hamas n'a jamais sévi en Cisjordanie\" : polémique autour du discours d'Emmanuel Macron à l'ONU À la tribune des Nations unies, le Président français a dénoncé, dans la soirée du mardi 22 septembre, les violences contre les Palestiniens. Mais il a aussi affirmé, à tort, que le Hamas n’avait “jamais sévi en Cisjordanie”. Le mouvement y a pourtant bien mené des attentats. Le gouvernement de Benjamin Natanyahou dénonce une “absurdité grotesque”. Aujourd'hui 1:40 vidéo 1 minute 40",
+   "title": "À suivre Loïc de la Mornais : des menaces sérieuses de blocage par les exclus des aides carburants ? Dans cette première partie, Loïc de la Mornais et ses invités se penchent sur la crise des carburants et sur la colère des oubliés du dispositif du gouvernement. Une séquence à retrouver dans l'émission \"À suivre Loïc de la Mornais\", diffusée entre 20h30 et 23h sur la chaîne info, canal 16. Aujourd'hui 26:26 vidéo 26 minutes 26",
+   "link": "https://www.franceinfo.fr/replay-magazine/franceinfo/a-suivre-avec-loic-de-la-mornais/a-suivre-loic-de-la-mornais-des-menaces-serieuses-de-blocage-par-les-exclus-des-aides-carburants_8207339.html",
+   "summary": "À suivre Loïc de la Mornais : des menaces sérieuses de blocage par les exclus des aides carburants ?",
+   "image": "https://www.franceinfo.fr/pictures/cox6M818e0_8HHusB4f8z6-3NlE/364x0:1180x561/432x297/filters:format(jpg)/2026/09/24/6ab4a77e9c9d7490192669.jpg",
+   "date": null,
+   "pubdate": "2026-09-24T04:58:58.714662+00:00"
+  },
+  {
+   "title": "\"Il n'a plus de ressort dans l'opinion\" : Emmanuel Macron peut-il calmer la grogne sociale en occupant le terrain médiatique ?",
+   "link": "https://www.franceinfo.fr/politique/emmanuel-macron/il-n-a-plus-de-ressort-dans-l-opinion-emmanuel-macron-peut-il-calmer-la-grogne-sociale-en-occupant-le-terrain-mediatique_8205935.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/PbaM8RBHjjYx8QEu8spdB3k3h40/0x152:2932x1801/432x243/filters:format(jpg)/2026/09/23/6ab3acdaa2362823521611.jpg",
+   "date": null,
+   "pubdate": "2026-09-24T04:58:58.714662+00:00"
+  },
+  {
+   "title": "1:40 vidéo 1 minute 40 \"Le Hamas n'a jamais sévi en Cisjordanie\" : polémique autour du discours d'Emmanuel Macron à l'ONU",
    "link": "https://www.franceinfo.fr/politique/emmanuel-macron/le-hamas-n-a-jamais-sevi-en-cisjordanie-polemique-autour-du-discours-d-emmanuel-macron-a-l-onu_8206973.html",
    "summary": "\"Le Hamas n'a jamais sévi en Cisjordanie\" : polémique autour du discours d'Emmanuel Macron à l'ONU",
-   "image": "https://www.franceinfo.fr/pictures/hin524XKGbWB3eY0ceXIJ53QT7c/0x32:1438x1021/432x297/filters:format(jpg)/2026/09/23/6ab42d9b95d20653909069.png",
+   "image": "https://www.franceinfo.fr/pictures/h4vYDKZLQqDXlejfsst37ufJz7c/0x122:1438x931/432x243/filters:format(jpg)/2026/09/23/6ab42d9b95d20653909069.png",
    "date": null,
    "pubdate": "2026-09-23T21:33:54.128591+00:00"
   },
@@ -92,14 +106,6 @@
    "pubdate": "2026-09-23T17:09:26.410771+00:00"
   },
   {
-   "title": "Budget 2027 : le gouvernement reconduit les allègements de prélèvements sur les bailleurs sociaux Dans une interview à \"Sud-Ouest\", Vincent Jeanbrun annonce \"baisser leurs prélèvements de 500 millions d'euros\".",
-   "link": "https://www.franceinfo.fr/economie/budget/budget-2027-le-gouvernement-reconduit-les-allegements-de-prelevements-sur-les-bailleurs-sociaux_8205188.html",
-   "summary": "Budget 2027 : le gouvernement reconduit les allègements de prélèvements sur les bailleurs sociaux",
-   "image": "https://www.franceinfo.fr/pictures/grMoQxnu4teH9Hq4Epfb6GHE6Os/0x0:6720x3780/432x243/filters:format(jpg)/2026/09/22/6ab2eef9bc90d072970679.jpg",
-   "date": null,
-   "pubdate": "2026-09-23T17:09:26.410771+00:00"
-  },
-  {
    "title": "1:21 vidéo 1 minute 21 Aides aux carburants : \"On n'en garde pas sous le coude\"",
    "link": "https://www.franceinfo.fr/economie/automobile/essence/aides-aux-carburants-on-n-en-garde-pas-sous-le-coude_8206292.html",
    "summary": "Aides aux carburants : \"On n'en garde pas sous le coude\"",
@@ -112,22 +118,6 @@
    "link": "https://www.franceinfo.fr/politique/front-national/le-travail-rend-libre-accuse-d-avoir-fait-echo-a-un-slogan-nazi-dans-un-discours-le-depute-rn-jean-philippe-tanguy-denonce-du-n-importe-quoi_8205998.html",
    "summary": "",
    "image": "https://www.franceinfo.fr/pictures/je_INbDFjuF2qQecdH0XmZ8VPhg/0x0:1024x576/432x243/filters:format(jpg)/2026/09/23/6ab3a788d1b2d194240008.jpg",
-   "date": null,
-   "pubdate": "2026-09-23T11:45:48.223279+00:00"
-  },
-  {
-   "title": "11:00 vidéo 11 minutes Aides aux carburants : \"La responsabilité, c'est celle de ne pas avoir anticipé depuis dix ans certains problèmes\", pointe Laure Salvaing, spécialiste de l'opinion",
-   "link": "https://www.franceinfo.fr/economie/automobile/essence/aides-aux-carburants-la-responsabilite-c-est-celle-de-ne-pas-avoir-anticipe-depuis-dix-ans-certains-problemes-pointe-laure-salvaing-specialiste-de-l-opinion_8206136.html",
-   "summary": "Aides aux carburants : \"La responsabilité, c'est celle de ne pas avoir anticipé depuis dix ans certains problèmes\", pointe Laure Salvaing, spécialiste de l'opinion",
-   "image": "https://www.franceinfo.fr/pictures/FGVk1nOzjtQs1xXrzOENXjTn0KA/4x0:1171x656/432x243/filters:format(jpg)/2026/09/23/6ab3a04e05997055710653.jpg",
-   "date": null,
-   "pubdate": "2026-09-23T11:45:48.223279+00:00"
-  },
-  {
-   "title": "1:49 vidéo 1 minute 49 La primaire à gauche est-elle maudite ?",
-   "link": "https://www.franceinfo.fr/elections/presidentielle/la-primaire-a-gauche-est-elle-maudite_8206133.html",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/_DO8PrRGXYkk6b6q9Q9S2LmpzeI/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/23/6ab397fcb3595661300045.jpg",
    "date": null,
    "pubdate": "2026-09-23T11:45:48.223279+00:00"
   },
@@ -204,7 +194,7 @@
    "pubdate": "2026-09-23T11:45:48.223279+00:00"
   },
   {
-   "title": "• Direct Assemblée générale de l'ONU : \"Nous allons ralentir autant que nécessaire\" pour \"nous assurer\" que l'IA \"est sûre\", promet le patron d'Anthropic L'intelligence artificielle et ses risques sont au programme, avec une réunion du conseil de sécurité des Nations unies sur le sujet, mercredi.",
+   "title": "Assemblée générale de l'ONU : \"Nous allons ralentir autant que nécessaire\" pour \"nous assurer\" que l'IA \"est sûre\", promet le patron d'Anthropic L'intelligence artificielle et ses risques sont au programme, avec une réunion du conseil de sécurité des Nations unies sur le sujet, mercredi.",
    "link": "https://www.franceinfo.fr/monde/onu/direct-assemblee-generale-de-l-onu-le-president-iranien-est-arrive-a-new-york-ou-il-doit-s-exprimer-a-la-tribune-des-nations-unies_8205794.html",
    "summary": "Assemblée générale de l'ONU : \"Nous allons ralentir autant que nécessaire\" pour \"nous assurer\" que l'IA \"est sûre\", promet le patron d'Anthropic",
    "image": "https://www.franceinfo.fr/pictures/P4ZxsdGAxjuG5Fq_P6U3bhPnPSs/0x365:7017x4312/432x243/filters:format(jpg)/2026/09/23/6ab4305797ef2691064132.jpg",
@@ -226,14 +216,6 @@
    "image": "https://www.franceinfo.fr/pictures/LiRxxtlQC2LxPkaaI40fC-0o-ws/0x73:1024x649/432x243/filters:format(jpg)/2026/09/22/6ab2afddc64c7230952071.jpg",
    "date": null,
    "pubdate": "2026-09-23T04:50:44.425046+00:00"
-  },
-  {
-   "title": "S'il est élu, Bruno Retailleau veut instaurer un âge minimal de départ à la retraite à 63 ans, et le taux plein à 65 ans Le candidat Les Républicains à la présidentielle a aussi proposé l'introduction d'une retraite par capitalisation \"pour les jeunes\".",
-   "link": "https://www.franceinfo.fr/politique/bruno-retailleau/s-il-est-elu-bruno-retailleau-veut-instaurer-un-age-minimal-de-depart-a-la-retraite-a-63-ans-le-taux-plein-a-65_8205254.html",
-   "summary": "S'il est élu, Bruno Retailleau veut instaurer un âge minimal de départ à la retraite à 63 ans, et le taux plein à 65 ans",
-   "image": "https://www.franceinfo.fr/pictures/gDRLpFC3X_MzVzyisXPqo_f-7lo/0x628:6028x4019/432x243/filters:format(jpg)/2026/09/22/6ab2e2ec16d62058836436.jpg",
-   "date": null,
-   "pubdate": "2026-09-22T21:24:10.547463+00:00"
   },
   {
    "title": "6:00 article 6 minutes \"Les socialistes la font bien !\" : la droite et le centre peuvent-ils encore organiser une primaire pour la présidentielle de 2027 ?",
