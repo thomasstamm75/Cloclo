@@ -1,8 +1,7 @@
 {
- "etag": "\"ebae53a3c2d3b0368f7e5f228e05757d-gzip\"",
+ "etag": "\"536fd3e4ffea6aabada3019d5638c1a4-gzip\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/reportage-plus-de-huit-millions-de-livres-pour-enfants-partis-en-fumee-l-ukraine-face-a-une-penurie-de-manuels-scolaires-apres-des-frappes-russes_8192342.html": "2026-09-20T16:12:45.235282+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/je-ne-sais-pas-ce-qui-attend-nos-enfants-a-kiev-l-angoisse-de-la-rentree-sous-les-bombes-apres-un-ete-meurtrier_8144936.html": "2026-09-21T20:01:28.894388+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-ukraine-des-frappes-russes-contre-les-infrastructures-de-transport-civil-font-deux-morts_8206307.html": "2026-09-23T11:45:49.602201+00:00",
   "https://www.franceinfo.fr/monde/l-azerbaidjan-accorde-une-grace-presidentielle-au-francais-martin-ryan-emprisonne-pour-espionnage_8206082.html": "2026-09-23T11:45:49.602201+00:00",
@@ -31,12 +30,21 @@
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-c-est-le-sauveur-en-saxe-anhalt-ulrich-siegmund-l-homme-le-plus-dangereux-d-allemagne-selon-der-spiegel-aux-portes-du-pouvoir_8147219.html": "2026-09-25T17:17:05.878379+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-des-frappes-font-huit-morts-a-kiev-et-odessa-un-couple-tue-cote-russe_8210252.html": "2026-09-25T21:38:56.497776+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-russie-ne-s-apprete-pas-a-attaquer-l-europe-mais-va-bien-reflechir-avant-de-reprendre-des-pourparlers-avec-l-ukraine-affirme-vladimir-poutine_8210183.html": "2026-09-25T21:38:56.497776+00:00",
-  "https://www.franceinfo.fr/monde/europe/allemagne/il-y-a-une-extrapolation-du-declin-economique-comment-l-extreme-droite-allemande-est-arrivee-aux-portes-du-pouvoir-en-saxe-anhalt_8175638.html": "2026-09-25T21:38:56.497776+00:00"
+  "https://www.franceinfo.fr/monde/europe/allemagne/il-y-a-une-extrapolation-du-declin-economique-comment-l-extreme-droite-allemande-est-arrivee-aux-portes-du-pouvoir-en-saxe-anhalt_8175638.html": "2026-09-25T21:38:56.497776+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/vos-questions-sur-l-effort-de-guerre-de-la-france/": "2026-09-26T05:07:01.845520+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "Guerre en Ukraine : des frappes font huit morts à Kiev et Odessa, un couple tué côté russe Dans la capitale, l'attaque contre un immeuble de bureaux a aussi fait 46 blessés. Aujourd'hui",
+   "title": "Vos questions sur l'effort de guerre de la France 6 contenus",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/vos-questions-sur-l-effort-de-guerre-de-la-france/",
+   "summary": "Vos questions sur l'effort de guerre de la France",
+   "image": "https://www.franceinfo.fr/pictures/ntZoU9VrwR_yrQmHdJn-AC2Tq7o/432x297/filters:format(jpg)/2025/04/01/effort-de-guerre-couverture-de-dossier-01-light-67eba0e5ca0a7848911582.jpg",
+   "date": null,
+   "pubdate": "2026-09-26T05:07:01.845520+00:00"
+  },
+  {
+   "title": "Guerre en Ukraine : des frappes font huit morts à Kiev et Odessa, un couple tué côté russe Dans la capitale, l'attaque contre un immeuble de bureaux a aussi fait 46 blessés. 25 septembre",
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-des-frappes-font-huit-morts-a-kiev-et-odessa-un-couple-tue-cote-russe_8210252.html",
    "summary": "Guerre en Ukraine : des frappes font huit morts à Kiev et Odessa, un couple tué côté russe",
    "image": "https://www.franceinfo.fr/pictures/PIc30T3bvyAQk45k3MBcMDHIhLU/132x0:3995x2656/432x297/filters:format(jpg)/2026/09/25/6ab6d1aecd6cf126888107.jpg",
@@ -266,14 +274,6 @@
    "image": "https://www.franceinfo.fr/pictures/07LcAYc2BL1tbPyni2IkoRuOcD4/1000x0:5000x4000/100x100/filters:format(jpg)/2026/08/31/6a950e984fe25063470033.jpg",
    "date": null,
    "pubdate": "2026-09-21T20:01:28.894388+00:00"
-  },
-  {
-   "title": ": Reportage 2:00 article 2 minutes : Reportage \"Plus de huit millions de livres pour enfants\" partis en fumée : l'Ukraine face à une pénurie de manuels scolaires après des frappes russes",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/reportage-plus-de-huit-millions-de-livres-pour-enfants-partis-en-fumee-l-ukraine-face-a-une-penurie-de-manuels-scolaires-apres-des-frappes-russes_8192342.html",
-   "summary": "\"Plus de huit millions de livres pour enfants\" partis en fumée : l'Ukraine face à une pénurie de manuels scolaires après des frappes russes",
-   "image": "https://www.franceinfo.fr/pictures/FDQ95GjeajjrKBoHSZT8OG_Y2Ww/350x0:1250x900/100x100/filters:format(jpg)/2026/09/14/6aa8420659848131991942.jpg",
-   "date": null,
-   "pubdate": "2026-09-20T16:12:45.235282+00:00"
   }
  ]
 }
