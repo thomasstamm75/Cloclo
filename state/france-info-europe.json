@@ -1,9 +1,7 @@
 {
- "etag": "\"0018c3b221880653da2b06b6bf43481f-gzip\"",
+ "etag": "\"7eea236fc11172aa0435c024528e299f-gzip\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/je-ne-sais-pas-ce-qui-attend-nos-enfants-a-kiev-l-angoisse-de-la-rentree-sous-les-bombes-apres-un-ete-meurtrier_8144936.html": "2026-09-21T20:01:28.894388+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/il-faut-rencontrer-les-personnes-avec-lesquelles-nous-sommes-en-desaccord-les-etats-unis-invitent-vladimir-poutine-au-sommet-du-g20-a-miami-en-decembre_8206622.html": "2026-09-23T17:09:28.006790+00:00",
   "https://www.franceinfo.fr/monde/russie/la-croix-rouge-n-a-plus-acces-aux-prisonniers-de-guerre-en-russie-depuis-2024_8206700.html": "2026-09-23T21:33:55.291642+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-ukraine-et-la-finlande-ont-signe-un-accord-de-cooperation-sur-les-drones_8206838.html": "2026-09-23T21:33:55.291642+00:00",
   "https://www.franceinfo.fr/politique/emmanuel-macron/il-n-a-plus-de-ressort-dans-l-opinion-emmanuel-macron-peut-il-calmer-la-grogne-sociale-en-occupant-le-terrain-mediatique_8205935.html": "2026-09-24T04:59:00.444895+00:00",
@@ -31,15 +29,33 @@
   "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/des-missiles-patriot-bientot-produits-en-ukraine_8210735.html": "2026-09-26T11:31:23.833452+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/reportage-plus-de-huit-millions-de-livres-pour-enfants-partis-en-fumee-l-ukraine-face-a-une-penurie-de-manuels-scolaires-apres-des-frappes-russes_8192342.html": "2026-09-26T11:31:23.833452+00:00",
   "https://www.franceinfo.fr/vrai-ou-fake/exportation-d-armes-et-de-gaz-en-hausse-les-etats-unis-sont-ils-les-grands-gagnants-de-la-guerre-en-ukraine_8211143.html": "2026-09-26T16:29:03.584562+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-russie-atteindra-ses-objectifs-en-ukraine-peu-importe-les-circonstances-assure-serguei-lavrov-a-la-tribune-de-l-onu_8211314.html": "2026-09-26T21:15:19.761051+00:00"
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-russie-atteindra-ses-objectifs-en-ukraine-peu-importe-les-circonstances-assure-serguei-lavrov-a-la-tribune-de-l-onu_8211314.html": "2026-09-26T21:15:19.761051+00:00",
+  "https://www.franceinfo.fr/monde/les-suisses-refusent-a-une-large-majorite-de-durcir-leur-neutralite-principe-indissociable-de-l-identite-du-pays_8212415.html": "2026-09-27T17:01:59.810202+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/une-attaque-de-drones-russes-en-france-fait-partie-des-possibilites-on-s-y-prepare-depuis-longtemps-assure-jean-noel-barrot_8212169.html": "2026-09-27T17:01:59.810202+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "La Russie atteindra ses objectifs en Ukraine \"peu importe les circonstances\", assure Sergueï Lavrov à la tribune de l'ONU Le chef de la diplomatie russe a également accusé l'Union européenne de faire \"tout ce qui est en son pouvoir pour contrecarrer les discussions de paix souhaitées par le gouvernement Trump\". 26 septembre",
+   "title": "Les Suisses refusent à une large majorité de durcir leur neutralité, principe indissociable de l'identité du pays Les électeurs suisses ont voté \"non\" à plus de 70%, dimanche. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/les-suisses-refusent-a-une-large-majorite-de-durcir-leur-neutralite-principe-indissociable-de-l-identite-du-pays_8212415.html",
+   "summary": "Les Suisses refusent à une large majorité de durcir leur neutralité, principe indissociable de l'identité du pays",
+   "image": "https://www.franceinfo.fr/pictures/lHjmwyvDW1KwLYlW5m2yRsLiJiY/0x63:1024x767/432x297/filters:format(jpg)/2026/09/27/6ab9490aac07a024533891.jpg",
+   "date": null,
+   "pubdate": "2026-09-27T17:01:59.810202+00:00"
+  },
+  {
+   "title": "Une attaque de drones russes en France \"fait partie des possibilités\", \"on s'y prépare depuis longtemps\", assure Jean-Noël Barrot",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/une-attaque-de-drones-russes-en-france-fait-partie-des-possibilites-on-s-y-prepare-depuis-longtemps-assure-jean-noel-barrot_8212169.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/zM4ZeWFMVIVtr4iFgptsZUjQemQ/0x32:520x324/432x243/filters:format(jpg)/2026/09/27/6ab91ad1b3063322984575.jpg",
+   "date": null,
+   "pubdate": "2026-09-27T17:01:59.810202+00:00"
+  },
+  {
+   "title": "La Russie atteindra ses objectifs en Ukraine \"peu importe les circonstances\", assure Sergueï Lavrov à la tribune de l'ONU",
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-russie-atteindra-ses-objectifs-en-ukraine-peu-importe-les-circonstances-assure-serguei-lavrov-a-la-tribune-de-l-onu_8211314.html",
-   "summary": "La Russie atteindra ses objectifs en Ukraine \"peu importe les circonstances\", assure Sergueï Lavrov à la tribune de l'ONU",
-   "image": "https://www.franceinfo.fr/pictures/mvVnvSOYP-cQD29uB3ewacO-7VA/32x0:1024x682/432x297/filters:format(jpg)/2026/09/26/6ab7f1ec4c280172128050.jpg",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/MmVry839BA6Hb38RMWGN29sxbLg/0x0:1024x576/432x243/filters:format(jpg)/2026/09/26/6ab7f1ec4c280172128050.jpg",
    "date": null,
    "pubdate": "2026-09-26T21:15:19.761051+00:00"
   },
@@ -124,17 +140,17 @@
    "pubdate": "2026-09-25T11:56:51.069417+00:00"
   },
   {
-   "title": "La Finlande et la Suède ont envoyé en urgence des avions pour intercepter jeudi des appareils russes survolant le golfe de Finlande",
+   "title": "La Finlande et la Suède ont envoyé en urgence des avions pour intercepter jeudi des appareils russes survolant le golfe de Finlande Les tensions autour de la mer Baltique se sont fortement accrues ces dernières années, et des avions de chasse nordiques sont régulièrement dépêchés pour intercepter des appareils russes.",
    "link": "https://www.franceinfo.fr/monde/russie/la-finlande-et-la-suede-ont-envoye-en-urgence-des-avions-pour-intercepter-des-appareils-russes-survolant-le-golfe-de-finlande_8209310.html",
-   "summary": "",
+   "summary": "La Finlande et la Suède ont envoyé en urgence des avions pour intercepter jeudi des appareils russes survolant le golfe de Finlande",
    "image": "https://www.franceinfo.fr/pictures/skKW9n1zh8u01VIuPpXcqmhJ5ac/0x50:1024x626/432x243/filters:format(jpg)/2026/09/25/6ab642a60159f776915500.jpg",
    "date": null,
    "pubdate": "2026-09-25T11:56:51.069417+00:00"
   },
   {
-   "title": "Un \"scénario crédible\" : que sait-on de la menace d'une nouvelle mobilisation militaire en Russie pour faire la guerre en Ukraine ?",
+   "title": "Un \"scénario crédible\" : que sait-on de la menace d'une nouvelle mobilisation militaire en Russie pour faire la guerre en Ukraine ? De nombreux signaux d'alerte concernant une nouvelle mobilisation militaire russe alimentent l'inquiétude générale. Emmanuel Macron a évoqué, dans l'interview qu'il a donnée jeudi soir, l'hypothèse de 300 000 hommes recrutés par Moscou.",
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/un-scenario-credible-que-sait-on-de-la-menace-d-une-nouvelle-mobilisation-militaire-en-russie-pour-faire-la-guerre-en-ukraine_8209079.html",
-   "summary": "",
+   "summary": "Un \"scénario crédible\" : que sait-on de la menace d'une nouvelle mobilisation militaire en Russie pour faire la guerre en Ukraine ?",
    "image": "https://www.franceinfo.fr/pictures/dIlpUnQKTeTJeosVjQGaTwL5N2M/0x2:1024x578/432x243/filters:format(jpg)/2026/09/25/6ab61f9d0f47c163469452.jpg",
    "date": null,
    "pubdate": "2026-09-25T11:56:51.069417+00:00"
@@ -258,22 +274,6 @@
    "image": "https://www.franceinfo.fr/pictures/Zs4JxYldfJb232j3dNh0EyQaHaI/0x0:3000x1687/432x243/filters:format(jpg)/2026/09/23/6ab41bbb6d4f8659264065.jpg",
    "date": null,
    "pubdate": "2026-09-23T21:33:55.291642+00:00"
-  },
-  {
-   "title": "\"Il faut rencontrer les personnes avec lesquelles nous sommes en désaccord\" : les Etats-Unis invitent Vladimir Poutine au sommet du G20 à Miami en décembre Marco Rubio a également déclaré qu'il pressait fermement Moscou et Kiev pour qu'ils cessent leurs attaques réciproques sur les infrastructures énergétiques.",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/il-faut-rencontrer-les-personnes-avec-lesquelles-nous-sommes-en-desaccord-les-etats-unis-invitent-vladimir-poutine-au-sommet-du-g20-a-miami-en-decembre_8206622.html",
-   "summary": "\"Il faut rencontrer les personnes avec lesquelles nous sommes en désaccord\" : les Etats-Unis invitent Vladimir Poutine au sommet du G20 à Miami en décembre",
-   "image": "https://www.franceinfo.fr/pictures/FuPiGsiaxQ16TF4E41Hn-2h4YMg/0x0:1024x576/432x243/filters:format(jpg)/2026/09/23/6ab3f1d4065ae722200161.jpg",
-   "date": null,
-   "pubdate": "2026-09-23T17:09:28.006790+00:00"
-  },
-  {
-   "title": "4:30 audio 4 minutes 30 \"Je ne sais pas ce qui attend nos enfants\" : à Kiev, l'angoisse de la rentrée sous les bombes après un été meurtrier",
-   "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/je-ne-sais-pas-ce-qui-attend-nos-enfants-a-kiev-l-angoisse-de-la-rentree-sous-les-bombes-apres-un-ete-meurtrier_8144936.html",
-   "summary": "\"Je ne sais pas ce qui attend nos enfants\" : à Kiev, l'angoisse de la rentrée sous les bombes après un été meurtrier",
-   "image": "https://www.franceinfo.fr/pictures/07LcAYc2BL1tbPyni2IkoRuOcD4/1000x0:5000x4000/100x100/filters:format(jpg)/2026/08/31/6a950e984fe25063470033.jpg",
-   "date": null,
-   "pubdate": "2026-09-21T20:01:28.894388+00:00"
   }
  ]
 }
