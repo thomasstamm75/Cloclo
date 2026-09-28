@@ -1,11 +1,9 @@
 {
- "etag": "\"bac81b5944580127c1f68fee44ac033c-gzip\"",
+ "etag": "\"73d93c9f2b33f873fb7e3bddab6351bf-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/monde/europe/une-attaque-au-couteau-fait-cinq-blesses-en-pologne-un-ressortissant-ukrainien-interpelle_8207891.html": "2026-09-24T11:54:11.923247+00:00",
   "https://www.franceinfo.fr/economie/automobile/essence/avec-des-pics-a-2-60-euros-le-litre-le-danemark-a-le-litre-d-essence-le-plus-cher-de-l-union-europeenne_8207693.html": "2026-09-24T11:54:11.923247+00:00",
-  "https://www.franceinfo.fr/monde/conflits-prix-de-carburants-l-ancien-ministre-de-la-defense-jean-yves-le-drian-predit-un-automne-de-tous-les-dangers_8207837.html": "2026-09-24T11:54:11.923247+00:00",
-  "https://www.franceinfo.fr/monde/russie/la-russie-continuera-de-nous-tester-l-intensification-de-la-guerre-hybride-menee-par-moscou-oblige-les-pays-europeens-a-reagir_8204696.html": "2026-09-24T11:54:11.923247+00:00",
   "https://www.franceinfo.fr/politique/emmanuel-macron/direct-interview-d-emmanuel-macron-sur-france-2-carburants-guerre-au-moyen-orient-menace-russe-le-chef-de-l-etat-s-exprime-a-20-heures_8207660.html": "2026-09-24T17:16:48.666216+00:00",
   "https://www.franceinfo.fr/monde/europe/le-latin-pourrait-il-devenir-la-langue-commune-de-l-europe-un-groupe-de-jeunes-europeens-en-est-convaincu_8207996.html": "2026-09-24T17:16:48.666216+00:00",
   "https://www.franceinfo.fr/politique/emmanuel-macron/vraie-menace-de-la-russie-taxes-sur-les-carburants-moyens-militaires-en-arabie-saoudite-ce-qu-il-faut-retenir-de-l-interview-d-emmanuel-macron-sur-france-2_8208521.html": "2026-09-24T21:34:52.195820+00:00",
@@ -21,9 +19,7 @@
   "https://www.franceinfo.fr/monde/europe/allemagne/il-y-a-une-extrapolation-du-declin-economique-comment-l-extreme-droite-allemande-est-arrivee-aux-portes-du-pouvoir-en-saxe-anhalt_8175638.html": "2026-09-25T21:38:56.497776+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/vos-questions-sur-l-effort-de-guerre-de-la-france/": "2026-09-26T05:07:01.845520+00:00",
   "https://www.franceinfo.fr/monde/europe/allemagne/en-allemagne-la-penurie-de-chauffeurs-routiers-fait-craindre-des-repercussions-sur-toute-la-chaine-d-approvisionnement-en-europe_8208620.html": "2026-09-26T11:31:23.833452+00:00",
-  "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/des-missiles-patriot-bientot-produits-en-ukraine_8210735.html": "2026-09-26T11:31:23.833452+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/reportage-plus-de-huit-millions-de-livres-pour-enfants-partis-en-fumee-l-ukraine-face-a-une-penurie-de-manuels-scolaires-apres-des-frappes-russes_8192342.html": "2026-09-26T11:31:23.833452+00:00",
-  "https://www.franceinfo.fr/vrai-ou-fake/exportation-d-armes-et-de-gaz-en-hausse-les-etats-unis-sont-ils-les-grands-gagnants-de-la-guerre-en-ukraine_8211143.html": "2026-09-26T16:29:03.584562+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-russie-atteindra-ses-objectifs-en-ukraine-peu-importe-les-circonstances-assure-serguei-lavrov-a-la-tribune-de-l-onu_8211314.html": "2026-09-26T21:15:19.761051+00:00",
   "https://www.franceinfo.fr/monde/les-suisses-refusent-a-une-large-majorite-de-durcir-leur-neutralite-principe-indissociable-de-l-identite-du-pays_8212415.html": "2026-09-27T17:01:59.810202+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/une-attaque-de-drones-russes-en-france-fait-partie-des-possibilites-on-s-y-prepare-depuis-longtemps-assure-jean-noel-barrot_8212169.html": "2026-09-27T17:01:59.810202+00:00",
@@ -31,15 +27,51 @@
   "https://www.franceinfo.fr/monde/europe/le-president-serbe-aleksandar-vucic-demissionne-des-elections-anticipees-a-venir_8212511.html": "2026-09-27T21:25:00.506015+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/des-frappes-russes-tuent-huit-personnes-en-ukraine_8212445.html": "2026-09-27T21:25:00.506015+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/je-ne-sais-pas-ce-qui-attend-nos-enfants-a-kiev-l-angoisse-de-la-rentree-sous-les-bombes-apres-un-ete-meurtrier_8144936.html": "2026-09-27T21:25:00.506015+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/combien-coute-l-aide-de-la-france-a-l-ukraine-remise-en-cause-par-marine-le-pen-et-le-rn_8209307.html": "2026-09-28T05:31:12.029788+00:00"
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/combien-coute-l-aide-de-la-france-a-l-ukraine-remise-en-cause-par-marine-le-pen-et-le-rn_8209307.html": "2026-09-28T05:31:12.029788+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-l-academie-des-sciences-a-kiev-frappee-par-un-drone-russe-une-femme-tuee_8213420.html": "2026-09-28T14:05:19.217410+00:00",
+  "https://www.franceinfo.fr/monde/europe/migrants/au-moins-trois-personnes-sont-mortes-lors-du-naufrage-d-une-embarcation-qui-tentait-une-traversee-clandestine-de-la-manche_8213108.html": "2026-09-28T14:05:19.217410+00:00",
+  "https://www.franceinfo.fr/replay-radio/le-brief-eco/malgre-la-crise-de-l-industrie-allemande-le-puissant-syndicat-ig-metall-reclame-5-de-hausse-des-salaires-dans-la-metallurgie_8191274.html": "2026-09-28T14:05:19.217410+00:00",
+  "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/guerre-en-ukraine-kiev-sous-le-feu-des-drones-russes_8212916.html": "2026-09-28T14:05:19.217410+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "Combien coûte l'aide de la France à l'Ukraine, remise en cause par Marine Le Pen et le RN ? Selon les estimations d'un institut allemand, Paris verse en moyenne environ 6 milliards d'euros à Kiev par an, soit moins de 1,5% des dépenses annuelles de l'Etat. Mais une part de l'effort français reste difficilement quantifiable. Aujourd'hui",
+   "title": "Guerre en Ukraine : l'Académie des sciences à Kiev frappée par un drone russe, une femme tuée Le site se trouve en plein centre de la capitale, dans un quartier d'ordinaire plus épargné que le reste de la ville par les drones russes, à proximité d'ambassades et de bâtiments gouvernementaux. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-l-academie-des-sciences-a-kiev-frappee-par-un-drone-russe-une-femme-tuee_8213420.html",
+   "summary": "Guerre en Ukraine : l'Académie des sciences à Kiev frappée par un drone russe, une femme tuée",
+   "image": "https://www.franceinfo.fr/pictures/5yPjjCJlEc9CZ3vVQ0CaVmEQgNM/113x0:7398x5008/432x297/filters:format(jpg)/2026/09/28/6aba6643972ff686777858.jpg",
+   "date": null,
+   "pubdate": "2026-09-28T14:05:19.217410+00:00"
+  },
+  {
+   "title": "Deux femmes et un enfant de 10 ans sont morts lors du naufrage d'une embarcation qui tentait une traversée clandestine de la Manche",
+   "link": "https://www.franceinfo.fr/monde/europe/migrants/au-moins-trois-personnes-sont-mortes-lors-du-naufrage-d-une-embarcation-qui-tentait-une-traversee-clandestine-de-la-manche_8213108.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/Q6bzu5_Kk5psDlYZxT3zpfbKccE/0x193:3711x2280/432x243/filters:format(jpg)/2026/09/28/6aba5a33c2733325350394.jpg",
+   "date": null,
+   "pubdate": "2026-09-28T14:05:19.217410+00:00"
+  },
+  {
+   "title": "2:36 audio 2 minutes 36 Malgré la crise de l’industrie allemande, le puissant syndicat IG Metall réclame 5% de hausse des salaires dans la métallurgie",
+   "link": "https://www.franceinfo.fr/replay-radio/le-brief-eco/malgre-la-crise-de-l-industrie-allemande-le-puissant-syndicat-ig-metall-reclame-5-de-hausse-des-salaires-dans-la-metallurgie_8191274.html",
+   "summary": "Malgré la crise de l’industrie allemande, le puissant syndicat IG Metall réclame 5% de hausse des salaires dans la métallurgie",
+   "image": "https://www.franceinfo.fr/pictures/wsX7GyRRLBkPdw833iopUy1PNwo/0x51:1024x627/432x243/filters:format(jpg)/2026/09/28/6aba0be61d407964760037.jpg",
+   "date": null,
+   "pubdate": "2026-09-28T14:05:19.217410+00:00"
+  },
+  {
+   "title": "1:29 vidéo 1 minute 29 Guerre en Ukraine : Kiev sous le feu des drones russes",
+   "link": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/guerre-en-ukraine-kiev-sous-le-feu-des-drones-russes_8212916.html",
+   "summary": "Guerre en Ukraine : Kiev sous le feu des drones russes",
+   "image": "https://www.franceinfo.fr/pictures/Snnm9TcJ-THWEl_oE-so8TegKQw/207x0:1527x742/432x243/filters:format(jpg)/2026/09/28/6aba080e9376c819083411.png",
+   "date": null,
+   "pubdate": "2026-09-28T14:05:19.217410+00:00"
+  },
+  {
+   "title": "Combien coûte l'aide de la France à l'Ukraine, remise en cause par Marine Le Pen et le RN ?",
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/combien-coute-l-aide-de-la-france-a-l-ukraine-remise-en-cause-par-marine-le-pen-et-le-rn_8209307.html",
-   "summary": "Combien coûte l'aide de la France à l'Ukraine, remise en cause par Marine Le Pen et le RN ?",
-   "image": "https://www.franceinfo.fr/pictures/_KDQB6sOderhI6-CIqRE4_Un0tE/0x0:7396x5084/432x297/filters:format(jpg)/2026/09/25/6ab68d7d71f58339080275.jpg",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/MRSrr36XDbO88AC4IvNjVoffVfc/0x347:7396x4508/432x243/filters:format(jpg)/2026/09/25/6ab68d7d71f58339080275.jpg",
    "date": null,
    "pubdate": "2026-09-28T05:31:12.029788+00:00"
   },
@@ -55,7 +87,7 @@
    "title": "Le président serbe Aleksandar Vucic démissionne, des élections anticipées à venir",
    "link": "https://www.franceinfo.fr/monde/europe/le-president-serbe-aleksandar-vucic-demissionne-des-elections-anticipees-a-venir_8212511.html",
    "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/wjzSYAJoy1qrbP6_ewMU_BmYOEQ/0x53:1024x629/432x243/filters:format(jpg)/2026/09/27/6ab964ca40d18332860078.jpg",
+   "image": "https://www.franceinfo.fr/pictures/j9EBEcBpU62aHA3dBFfXnCz9XjU/0x26:1024x602/432x243/filters:format(jpg)/2026/09/27/6ab964ca40d18332860078.jpg",
    "date": null,
    "pubdate": "2026-09-27T21:25:00.506015+00:00"
   },
@@ -92,42 +124,26 @@
    "pubdate": "2026-09-27T17:01:59.810202+00:00"
   },
   {
-   "title": "La Russie atteindra ses objectifs en Ukraine \"peu importe les circonstances\", assure Sergueï Lavrov à la tribune de l'ONU",
+   "title": "La Russie atteindra ses objectifs en Ukraine \"peu importe les circonstances\", assure Sergueï Lavrov à la tribune de l'ONU Le chef de la diplomatie russe a également accusé l'Union européenne de faire \"tout ce qui est en son pouvoir pour contrecarrer les discussions de paix souhaitées par le gouvernement Trump\".",
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-russie-atteindra-ses-objectifs-en-ukraine-peu-importe-les-circonstances-assure-serguei-lavrov-a-la-tribune-de-l-onu_8211314.html",
-   "summary": "",
+   "summary": "La Russie atteindra ses objectifs en Ukraine \"peu importe les circonstances\", assure Sergueï Lavrov à la tribune de l'ONU",
    "image": "https://www.franceinfo.fr/pictures/MmVry839BA6Hb38RMWGN29sxbLg/0x0:1024x576/432x243/filters:format(jpg)/2026/09/26/6ab7f1ec4c280172128050.jpg",
    "date": null,
    "pubdate": "2026-09-26T21:15:19.761051+00:00"
-  },
-  {
-   "title": "2:44 vidéo 2 minutes 44 Exportation d'armes et de gaz en hausse : les États-Unis sont-ils les grands gagnants de la guerre en Ukraine ?",
-   "link": "https://www.franceinfo.fr/vrai-ou-fake/exportation-d-armes-et-de-gaz-en-hausse-les-etats-unis-sont-ils-les-grands-gagnants-de-la-guerre-en-ukraine_8211143.html",
-   "summary": "Exportation d'armes et de gaz en hausse : les États-Unis sont-ils les grands gagnants de la guerre en Ukraine ?",
-   "image": "https://www.franceinfo.fr/pictures/sykHb6ivuGsctuAG6EsqhDLVnGk/0x10:1426x812/432x243/filters:format(jpg)/2026/09/26/6ab7ddf388181742956301.jpg",
-   "date": null,
-   "pubdate": "2026-09-26T16:29:03.584562+00:00"
-  },
-  {
-   "title": "En Allemagne, la pénurie de chauffeurs-routiers fait craindre des répercussions sur toute la chaîne d'approvisionnement en Europe",
-   "link": "https://www.franceinfo.fr/monde/europe/allemagne/en-allemagne-la-penurie-de-chauffeurs-routiers-fait-craindre-des-repercussions-sur-toute-la-chaine-d-approvisionnement-en-europe_8208620.html",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/U8CLu5_BNbiOOpYjCUz1eHTk8ZU/0x211:4123x2530/432x243/filters:format(jpg)/2026/09/24/6ab57f8ebe0a6126612618.jpg",
-   "date": null,
-   "pubdate": "2026-09-26T11:31:23.833452+00:00"
-  },
-  {
-   "title": "1:34 vidéo 1 minute 34 Des missiles Patriot bientôt produits en Ukraine ?",
-   "link": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/des-missiles-patriot-bientot-produits-en-ukraine_8210735.html",
-   "summary": "Des missiles Patriot bientôt produits en Ukraine ?",
-   "image": "https://www.franceinfo.fr/pictures/2G_elzkV3vo7FYCYl4Oha8Ba-gs/155x0:1207x592/432x243/filters:format(jpg)/2026/09/26/6ab756d497419942864209.jpg",
-   "date": null,
-   "pubdate": "2026-09-26T11:31:23.833452+00:00"
   },
   {
    "title": ": Reportage 2:00 article 2 minutes : Reportage \"Plus de huit millions de livres pour enfants\" partis en fumée : l'Ukraine face à une pénurie de manuels scolaires après des frappes russes",
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/reportage-plus-de-huit-millions-de-livres-pour-enfants-partis-en-fumee-l-ukraine-face-a-une-penurie-de-manuels-scolaires-apres-des-frappes-russes_8192342.html",
    "summary": "\"Plus de huit millions de livres pour enfants\" partis en fumée : l'Ukraine face à une pénurie de manuels scolaires après des frappes russes",
    "image": "https://www.franceinfo.fr/pictures/FDQ95GjeajjrKBoHSZT8OG_Y2Ww/350x0:1250x900/100x100/filters:format(jpg)/2026/09/14/6aa8420659848131991942.jpg",
+   "date": null,
+   "pubdate": "2026-09-26T11:31:23.833452+00:00"
+  },
+  {
+   "title": "En Allemagne, la pénurie de chauffeurs-routiers fait craindre des répercussions sur toute la chaîne d'approvisionnement en Europe Avec des conditions de travail difficiles, un prix à la pompe en hausse et des départs à la retraite non remplacés, ce sont jusqu'à 120 000 chauffeurs-routiers qui manquent sur les routes allemandes. Une pénurie qui peut impacter la chaîne d'approvisionnement européenne.",
+   "link": "https://www.franceinfo.fr/monde/europe/allemagne/en-allemagne-la-penurie-de-chauffeurs-routiers-fait-craindre-des-repercussions-sur-toute-la-chaine-d-approvisionnement-en-europe_8208620.html",
+   "summary": "En Allemagne, la pénurie de chauffeurs-routiers fait craindre des répercussions sur toute la chaîne d'approvisionnement en Europe",
+   "image": "https://www.franceinfo.fr/pictures/U8CLu5_BNbiOOpYjCUz1eHTk8ZU/0x211:4123x2530/432x243/filters:format(jpg)/2026/09/24/6ab57f8ebe0a6126612618.jpg",
    "date": null,
    "pubdate": "2026-09-26T11:31:23.833452+00:00"
   },
@@ -256,22 +272,6 @@
    "link": "https://www.franceinfo.fr/economie/automobile/essence/avec-des-pics-a-2-60-euros-le-litre-le-danemark-a-le-litre-d-essence-le-plus-cher-de-l-union-europeenne_8207693.html",
    "summary": "Avec des pics à 2,60 euros le litre, le Danemark a le litre d'essence le plus cher de l'Union européenne",
    "image": "https://www.franceinfo.fr/pictures/EIB1VNNprCv5LBWzwGDzP7MHDSQ/0x1032:6357x4608/432x243/filters:format(jpg)/2026/09/24/6ab4f067ca5b5966151155.jpg",
-   "date": null,
-   "pubdate": "2026-09-24T11:54:11.923247+00:00"
-  },
-  {
-   "title": "Conflits, prix de carburants... L'ancien ministre de la Défense Jean-Yves Le Drian prédit un \"automne de tous les dangers\" Jean-Yves Le Drian estime que le monde est dans une situation \"très grave\", qu'on n'a plus connue depuis la fin de la Seconde Guerre mondiale.",
-   "link": "https://www.franceinfo.fr/monde/conflits-prix-de-carburants-l-ancien-ministre-de-la-defense-jean-yves-le-drian-predit-un-automne-de-tous-les-dangers_8207837.html",
-   "summary": "Conflits, prix de carburants... L'ancien ministre de la Défense Jean-Yves Le Drian prédit un \"automne de tous les dangers\"",
-   "image": "https://www.franceinfo.fr/pictures/fXDeJ2Zd09sBWlgXnqYSQve5Yvg/0x0:1920x1080/432x243/filters:format(jpg)/2026/09/24/6ab4f6a75543b580379913.jpg",
-   "date": null,
-   "pubdate": "2026-09-24T11:54:11.923247+00:00"
-  },
-  {
-   "title": "\"La Russie continuera de nous tester\" : l'intensification de la guerre hybride menée par Moscou oblige les pays européens à réagir La Russie multiplie les opérations en Europe, allant de l'incursion de drones, aux cyberattaques et aux tentatives de sabotage. Un cap a été franchi en août avec la découverte de drones explosifs à l'aéroport de Leipzig, en Allemagne.",
-   "link": "https://www.franceinfo.fr/monde/russie/la-russie-continuera-de-nous-tester-l-intensification-de-la-guerre-hybride-menee-par-moscou-oblige-les-pays-europeens-a-reagir_8204696.html",
-   "summary": "\"La Russie continuera de nous tester\" : l'intensification de la guerre hybride menée par Moscou oblige les pays européens à réagir",
-   "image": "https://www.franceinfo.fr/pictures/ENHPRUw6t0FXBg0qeSTLS9UwSTc/0x351:4121x2669/432x243/filters:format(jpg)/2026/09/22/6ab285d9a1df4675856510.jpg",
    "date": null,
    "pubdate": "2026-09-24T11:54:11.923247+00:00"
   }
