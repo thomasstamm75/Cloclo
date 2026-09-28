@@ -1,11 +1,8 @@
 {
- "etag": "\"73d93c9f2b33f873fb7e3bddab6351bf-gzip\"",
+ "etag": "\"7a995c8ca736f9abcb424239ccdc9eb9-gzip\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.franceinfo.fr/monde/europe/une-attaque-au-couteau-fait-cinq-blesses-en-pologne-un-ressortissant-ukrainien-interpelle_8207891.html": "2026-09-24T11:54:11.923247+00:00",
-  "https://www.franceinfo.fr/economie/automobile/essence/avec-des-pics-a-2-60-euros-le-litre-le-danemark-a-le-litre-d-essence-le-plus-cher-de-l-union-europeenne_8207693.html": "2026-09-24T11:54:11.923247+00:00",
   "https://www.franceinfo.fr/politique/emmanuel-macron/direct-interview-d-emmanuel-macron-sur-france-2-carburants-guerre-au-moyen-orient-menace-russe-le-chef-de-l-etat-s-exprime-a-20-heures_8207660.html": "2026-09-24T17:16:48.666216+00:00",
-  "https://www.franceinfo.fr/monde/europe/le-latin-pourrait-il-devenir-la-langue-commune-de-l-europe-un-groupe-de-jeunes-europeens-en-est-convaincu_8207996.html": "2026-09-24T17:16:48.666216+00:00",
   "https://www.franceinfo.fr/politique/emmanuel-macron/vraie-menace-de-la-russie-taxes-sur-les-carburants-moyens-militaires-en-arabie-saoudite-ce-qu-il-faut-retenir-de-l-interview-d-emmanuel-macron-sur-france-2_8208521.html": "2026-09-24T21:34:52.195820+00:00",
   "https://www.franceinfo.fr/replay-radio/le-monde-d-elodie/je-suis-enfin-pret-a-aborder-les-grandes-questions-pierre-de-maere-se-devoile-avec-son-nouvel-album_8187494.html": "2026-09-25T11:00:00+00:00",
   "https://www.franceinfo.fr/monde/russie/le-kremlin-denonce-une-persecution-apres-les-sanctions-europeennes-contre-la-chroniqueuse-russe-xenia-fedorova_8209400.html": "2026-09-25T11:56:51.069417+00:00",
@@ -31,15 +28,42 @@
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-l-academie-des-sciences-a-kiev-frappee-par-un-drone-russe-une-femme-tuee_8213420.html": "2026-09-28T14:05:19.217410+00:00",
   "https://www.franceinfo.fr/monde/europe/migrants/au-moins-trois-personnes-sont-mortes-lors-du-naufrage-d-une-embarcation-qui-tentait-une-traversee-clandestine-de-la-manche_8213108.html": "2026-09-28T14:05:19.217410+00:00",
   "https://www.franceinfo.fr/replay-radio/le-brief-eco/malgre-la-crise-de-l-industrie-allemande-le-puissant-syndicat-ig-metall-reclame-5-de-hausse-des-salaires-dans-la-metallurgie_8191274.html": "2026-09-28T14:05:19.217410+00:00",
-  "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/guerre-en-ukraine-kiev-sous-le-feu-des-drones-russes_8212916.html": "2026-09-28T14:05:19.217410+00:00"
+  "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/guerre-en-ukraine-kiev-sous-le-feu-des-drones-russes_8212916.html": "2026-09-28T14:05:19.217410+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-ukraine-va-reporter-des-depenses-apres-plusieurs-retards-dans-l-aide-etrangere_8213987.html": "2026-09-28T21:16:00.427454+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/un-drone-russe-endommage-un-poste-frontiere-ukrainien-pres-de-la-pologne_8213897.html": "2026-09-28T21:16:00.427454+00:00",
+  "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/le-bilan-cache-de-la-canicule-en-europe-ce-que-la-surmortalite-nous-apprend-sur-l-ete-2026_8213501.html": "2026-09-28T21:16:00.427454+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "Guerre en Ukraine : l'Académie des sciences à Kiev frappée par un drone russe, une femme tuée Le site se trouve en plein centre de la capitale, dans un quartier d'ordinaire plus épargné que le reste de la ville par les drones russes, à proximité d'ambassades et de bâtiments gouvernementaux. Aujourd'hui",
+   "title": "L'Ukraine va reporter des dépenses après plusieurs retards dans l'aide étrangère \"Nous reportons les dépenses non prioritaires. Cela concerne les nouvelles constructions, les travaux de reconstruction ou les réparations majeures qui ne sont pas d'importance critique\", a précisé le Premier ministre ukrainien lundi. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-ukraine-va-reporter-des-depenses-apres-plusieurs-retards-dans-l-aide-etrangere_8213987.html",
+   "summary": "L'Ukraine va reporter des dépenses après plusieurs retards dans l'aide étrangère",
+   "image": "https://www.franceinfo.fr/pictures/8k_Fs7yVl9ws21cM0Fqz3MYnZaY/32x0:1024x682/432x297/filters:format(jpg)/2026/09/28/6abacc8d6f8af746349198.jpg",
+   "date": null,
+   "pubdate": "2026-09-28T21:16:00.427454+00:00"
+  },
+  {
+   "title": "Un drone russe endommage un poste-frontière ukrainien près de la Pologne",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/un-drone-russe-endommage-un-poste-frontiere-ukrainien-pres-de-la-pologne_8213897.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/XAMVyN6EqNtquzdjN90M4x7W_AE/0x0:1024x576/432x243/filters:format(jpg)/2026/09/28/6abaac344a206644645969.jpg",
+   "date": null,
+   "pubdate": "2026-09-28T21:16:00.427454+00:00"
+  },
+  {
+   "title": "Le bilan caché de la canicule en Europe : ce que la surmortalité nous apprend sur l'été 2026",
+   "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/le-bilan-cache-de-la-canicule-en-europe-ce-que-la-surmortalite-nous-apprend-sur-l-ete-2026_8213501.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/SjBkyxIqbvAv6_ZJfgKJqh5IKVE/0x0:2000x1125/432x243/filters:format(jpg)/2026/09/28/6aba6da79b3d7244715068.jpg",
+   "date": null,
+   "pubdate": "2026-09-28T21:16:00.427454+00:00"
+  },
+  {
+   "title": "Guerre en Ukraine : l'Académie des sciences à Kiev frappée par un drone russe, une femme tuée",
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-l-academie-des-sciences-a-kiev-frappee-par-un-drone-russe-une-femme-tuee_8213420.html",
-   "summary": "Guerre en Ukraine : l'Académie des sciences à Kiev frappée par un drone russe, une femme tuée",
-   "image": "https://www.franceinfo.fr/pictures/5yPjjCJlEc9CZ3vVQ0CaVmEQgNM/113x0:7398x5008/432x297/filters:format(jpg)/2026/09/28/6aba6643972ff686777858.jpg",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/auNoLNtdB4gWbOMV4DszKgeITTo/0x641:7512x4867/432x243/filters:format(jpg)/2026/09/28/6aba6643972ff686777858.jpg",
    "date": null,
    "pubdate": "2026-09-28T14:05:19.217410+00:00"
   },
@@ -92,14 +116,6 @@
    "pubdate": "2026-09-27T21:25:00.506015+00:00"
   },
   {
-   "title": "Des frappes russes tuent huit personnes en Ukraine",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/des-frappes-russes-tuent-huit-personnes-en-ukraine_8212445.html",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/96QHA6YltguDbNKfb9DDd8Cledk/0x106:1024x682/432x243/filters:format(jpg)/2026/09/27/6ab9564d06048496958556.jpg",
-   "date": null,
-   "pubdate": "2026-09-27T21:25:00.506015+00:00"
-  },
-  {
    "title": "4:30 audio 4 minutes 30 \"Je ne sais pas ce qui attend nos enfants\" : à Kiev, l'angoisse de la rentrée sous les bombes après un été meurtrier",
    "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/je-ne-sais-pas-ce-qui-attend-nos-enfants-a-kiev-l-angoisse-de-la-rentree-sous-les-bombes-apres-un-ete-meurtrier_8144936.html",
    "summary": "\"Je ne sais pas ce qui attend nos enfants\" : à Kiev, l'angoisse de la rentrée sous les bombes après un été meurtrier",
@@ -108,17 +124,25 @@
    "pubdate": "2026-09-27T21:25:00.506015+00:00"
   },
   {
-   "title": "Les Suisses refusent à une large majorité de durcir leur neutralité, principe indissociable de l'identité du pays",
+   "title": "Des frappes russes tuent huit personnes en Ukraine Deux personnes sont mortes à Soumy, deux dans Kiev et sa région, une à Odessa et trois à Zaporijjia.",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/des-frappes-russes-tuent-huit-personnes-en-ukraine_8212445.html",
+   "summary": "Des frappes russes tuent huit personnes en Ukraine",
+   "image": "https://www.franceinfo.fr/pictures/96QHA6YltguDbNKfb9DDd8Cledk/0x106:1024x682/432x243/filters:format(jpg)/2026/09/27/6ab9564d06048496958556.jpg",
+   "date": null,
+   "pubdate": "2026-09-27T21:25:00.506015+00:00"
+  },
+  {
+   "title": "Les Suisses refusent à une large majorité de durcir leur neutralité, principe indissociable de l'identité du pays Les électeurs suisses ont voté \"non\" à plus de 70%, dimanche.",
    "link": "https://www.franceinfo.fr/monde/les-suisses-refusent-a-une-large-majorite-de-durcir-leur-neutralite-principe-indissociable-de-l-identite-du-pays_8212415.html",
-   "summary": "",
+   "summary": "Les Suisses refusent à une large majorité de durcir leur neutralité, principe indissociable de l'identité du pays",
    "image": "https://www.franceinfo.fr/pictures/Kilq8oJZs4rK8o0zEHE343edxSQ/0x191:1024x767/432x243/filters:format(jpg)/2026/09/27/6ab9490aac07a024533891.jpg",
    "date": null,
    "pubdate": "2026-09-27T17:01:59.810202+00:00"
   },
   {
-   "title": "Une attaque de drones russes en France \"fait partie des possibilités\", \"on s'y prépare depuis longtemps\", assure Jean-Noël Barrot",
+   "title": "Une attaque de drones russes en France \"fait partie des possibilités\", \"on s'y prépare depuis longtemps\", assure Jean-Noël Barrot Le ministre des Affaires étrangères estime également que ces \"actes hostiles ont tendance à se multiplier ces dernières semaines et ces derniers mois\" de la part de la Russie.",
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/une-attaque-de-drones-russes-en-france-fait-partie-des-possibilites-on-s-y-prepare-depuis-longtemps-assure-jean-noel-barrot_8212169.html",
-   "summary": "",
+   "summary": "Une attaque de drones russes en France \"fait partie des possibilités\", \"on s'y prépare depuis longtemps\", assure Jean-Noël Barrot",
    "image": "https://www.franceinfo.fr/pictures/zM4ZeWFMVIVtr4iFgptsZUjQemQ/0x32:520x324/432x243/filters:format(jpg)/2026/09/27/6ab91ad1b3063322984575.jpg",
    "date": null,
    "pubdate": "2026-09-27T17:01:59.810202+00:00"
@@ -250,30 +274,6 @@
    "image": "https://www.franceinfo.fr/pictures/heLSAv7j7B9MqBEM7i6kQ1uNUPY/0x103:1514x955/432x243/filters:format(jpg)/2026/09/24/6ab56d3474abf933822259.jpg",
    "date": null,
    "pubdate": "2026-09-24T17:16:48.666216+00:00"
-  },
-  {
-   "title": "Le latin pourrait-il devenir la langue commune de l'Europe ? Un groupe de jeunes Européens en est convaincu Et si le latin devenait une langue officielle de l'Union européenne ? C'est le projet porté par Via Nova, une association fondée par quatre jeunes Européens, convaincus que la langue ancienne pourrait devenir un ciment culturel pour le Vieux continent. Le média public lituanien LRT leur a donné la parole.",
-   "link": "https://www.franceinfo.fr/monde/europe/le-latin-pourrait-il-devenir-la-langue-commune-de-l-europe-un-groupe-de-jeunes-europeens-en-est-convaincu_8207996.html",
-   "summary": "Le latin pourrait-il devenir la langue commune de l'Europe ? Un groupe de jeunes Européens en est convaincu",
-   "image": "https://www.franceinfo.fr/pictures/64ZQIiY5LoKF_Q1MVxXwQMvtSOc/0x285:5472x3363/432x243/filters:format(jpg)/2026/09/24/6ab51bc85859d316498385.jpg",
-   "date": null,
-   "pubdate": "2026-09-24T17:16:48.666216+00:00"
-  },
-  {
-   "title": "Une attaque au couteau fait un mort et cinq blessés en Pologne, un ressortissant ukrainien interpellé L'attaque s'est produite jeudi matin ans l'enceinte de l'abbaye de Jaroslaw, dans l'est de la Pologne.",
-   "link": "https://www.franceinfo.fr/monde/europe/une-attaque-au-couteau-fait-cinq-blesses-en-pologne-un-ressortissant-ukrainien-interpelle_8207891.html",
-   "summary": "Une attaque au couteau fait un mort et cinq blessés en Pologne, un ressortissant ukrainien interpellé",
-   "image": "https://www.franceinfo.fr/pictures/WvgFzIBqf8dyYmnREcRAjV5U8ZA/0x53:1024x629/432x243/filters:format(jpg)/2026/09/24/6ab4ff6a02644706194507.jpg",
-   "date": null,
-   "pubdate": "2026-09-24T11:54:11.923247+00:00"
-  },
-  {
-   "title": "Avec des pics à 2,60 euros le litre, le Danemark a le litre d'essence le plus cher de l'Union européenne Le pays scandinave impose une TVA de 25% sur l'essence dans le cadre de sa politique environnementale.",
-   "link": "https://www.franceinfo.fr/economie/automobile/essence/avec-des-pics-a-2-60-euros-le-litre-le-danemark-a-le-litre-d-essence-le-plus-cher-de-l-union-europeenne_8207693.html",
-   "summary": "Avec des pics à 2,60 euros le litre, le Danemark a le litre d'essence le plus cher de l'Union européenne",
-   "image": "https://www.franceinfo.fr/pictures/EIB1VNNprCv5LBWzwGDzP7MHDSQ/0x1032:6357x4608/432x243/filters:format(jpg)/2026/09/24/6ab4f067ca5b5966151155.jpg",
-   "date": null,
-   "pubdate": "2026-09-24T11:54:11.923247+00:00"
   }
  ]
 }

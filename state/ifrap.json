@@ -2,15 +2,23 @@
  "etag": "",
  "last_modified": "",
  "first_seen": {
-  "https://www.europe1.fr/emissions/ledito-eco/economie-vous-avez-dit-54-milliards-1094372": "2026-09-22T10:33:00+00:00",
   "https://www.ifrap.org/lifrap-dans-les-medias/le-chiffre-du-mois-la-france-emprunte-plus-cher-que-la-grece": "2026-09-25T11:43:00+00:00",
   "https://actu.fr/politique/pas-de-hausse-d-impots-promet-sebastien-lecornu-ils-vont-pourtant-bien-augmenter-et-ces-francais-vont-trinquer_64827249.html": "2026-09-24T11:23:00+00:00",
   "https://www.capital.fr/economie-politique/l-impot-sur-la-fortune-serpent-de-mer-bientot-de-retour-agnes-verdier-molinie-analyse-le-projet-de-la-cour-des-comptes-1530434": "2026-09-24T10:27:00+00:00",
   "https://www.cnews.fr/emission/2026-09-24/la-matinale-emission-du-24092026-1923734": "2026-09-24T09:42:00+00:00",
-  "https://www.europe1.fr/emissions/ledito-eco/la-cour-des-comptes-veut-ressusciter-lisf-1099700": "2026-09-24T09:00:00+00:00"
+  "https://www.europe1.fr/emissions/ledito-eco/la-cour-des-comptes-veut-ressusciter-lisf-1099700": "2026-09-24T09:00:00+00:00",
+  "https://www.lepoint.fr/economie/budget-2027-il-faut-aller-plus-loin-que-de-simples-mesures-de-gel-RUPPNNABLRCYNBNOQX4BEXMO4Y/": "2026-09-27T09:34:00+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "Budget 2027 : « Il faut aller plus loin que de simples mesures de gel »",
+   "link": "https://www.lepoint.fr/economie/budget-2027-il-faut-aller-plus-loin-que-de-simples-mesures-de-gel-RUPPNNABLRCYNBNOQX4BEXMO4Y/",
+   "summary": "",
+   "image": "https://www.ifrap.org/sites/default/files/styles/100x/public/images/2026-09/images_4.png?itok=hGGlWP8-",
+   "date": "2026-09-27T09:34:00+00:00",
+   "pubdate": "2026-09-27T09:34:00+00:00"
+  },
   {
    "title": "Le chiffre du mois : la France emprunte plus cher que la Grèce",
    "link": "https://www.ifrap.org/lifrap-dans-les-medias/le-chiffre-du-mois-la-france-emprunte-plus-cher-que-la-grece",
@@ -50,14 +58,6 @@
    "image": "https://www.ifrap.org/sites/default/files/styles/100x/public/images/import/logo_europe1_6.jpg?itok=6FMdFcfZ",
    "date": "2026-09-24T09:00:00+00:00",
    "pubdate": "2026-09-24T09:00:00+00:00"
-  },
-  {
-   "title": "Economie : vous avez dit 54 milliards ?",
-   "link": "https://www.europe1.fr/emissions/ledito-eco/economie-vous-avez-dit-54-milliards-1094372",
-   "summary": "",
-   "image": "https://www.ifrap.org/sites/default/files/styles/100x/public/images/import/logo_europe1_6.jpg?itok=6FMdFcfZ",
-   "date": "2026-09-22T10:33:00+00:00",
-   "pubdate": "2026-09-22T10:33:00+00:00"
   }
  ]
 }
