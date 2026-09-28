@@ -1,14 +1,11 @@
 {
- "etag": "\"3feaf6accf8dd423b753e9c7a5e62d0e-gzip\"",
+ "etag": "\"35213229c8e61c07c0d0ee10754b6ff0-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/politique/affaire/financement-de-la-campagne-de-sarkozy/soupcons-de-financement-libyen-tout-comprendre-a-l-affaire/": "2026-09-21T05:04:01.153592+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-c-est-le-sauveur-en-saxe-anhalt-ulrich-siegmund-l-homme-le-plus-dangereux-d-allemagne-selon-der-spiegel-aux-portes-du-pouvoir_8147219.html": "2026-09-21T12:56:27.064251+00:00",
   "https://www.franceinfo.fr/elections/presidentielle/les-socialistes-la-font-bien-la-droite-et-le-centre-peuvent-ils-encore-organiser-une-primaire-pour-la-presidentielle-de-2027_8171882.html": "2026-09-22T11:46:14.309127+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-a-atlanta-les-republicains-craignent-la-fin-de-l-ere-trump-a-l-approche-des-elections-de-mi-mandat-les-democrates-revent-de-revanche_8145842.html": "2026-09-23T17:09:26.410771+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/un-scenario-credible-que-sait-on-de-la-menace-d-une-nouvelle-mobilisation-militaire-en-russie-pour-faire-la-guerre-en-ukraine_8209079.html": "2026-09-25T11:56:49.855863+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/le-ministre-de-l-economie-roland-lescure-denonce-un-acte-hostile-de-la-russie-apres-la-recente-prise-de-controle-d-actifs-d-entreprises-francaises_8209187.html": "2026-09-25T11:56:49.855863+00:00",
-  "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/clemence-guette-demande-une-discussion-devant-le-parlement-avant-l-envoi-de-moyens-militaires-en-arabie-saoudite_8209133.html": "2026-09-25T11:56:49.855863+00:00",
   "https://www.franceinfo.fr/economie/budget/direct-bataille-du-budget-la-chasse-aux-milliards-regardez-le-documentaire-de-franceinfo-consacre-aux-discussions-budgetaires-qui-s-ouvrent_8209766.html": "2026-09-25T17:17:04.418354+00:00",
   "https://www.franceinfo.fr/replay-magazine/france-2/franc-jeu/franc-jeu-avec-jean-noel-barrot_8184017.html": "2026-09-25T17:17:04.418354+00:00",
   "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/l-opposition-denonce-une-prise-de-risque-d-emmanuel-macron-qui-veut-envoyer-des-militaires-en-arabie-saoudite_8209859.html": "2026-09-25T17:17:04.418354+00:00",
@@ -29,15 +26,60 @@
   "https://www.franceinfo.fr/elections/senatoriales/resultats-des-elections-senatoriales-2026-la-france-insoumise-fait-son-entree-au-senat-dix-ans-apres-sa-creation_8212526.html": "2026-09-27T21:24:59.160932+00:00",
   "https://www.franceinfo.fr/elections/senatoriales/la-droite-conserve-sa-majorite-le-rn-obtient-un-groupe-un-premier-elu-lfi-ce-qu-il-faut-retenir-des-resultats-des-elections-senatoriales-2026_8212337.html": "2026-09-27T21:24:59.160932+00:00",
   "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/aide-a-mourir-gpa-ia-relations-internationales-leon-xiv-mene-un-voyage-tres-politique-en-france_8212496.html": "2026-09-27T21:24:59.160932+00:00",
-  "https://www.franceinfo.fr/elections/senatoriales/resultats-des-elections-senatoriales-2026-le-rn-reussit-a-constituer-un-groupe-au-senat-pour-la-premiere-fois-de-son-histoire_8212448.html": "2026-09-27T21:24:59.160932+00:00"
+  "https://www.franceinfo.fr/elections/senatoriales/resultats-des-elections-senatoriales-2026-le-rn-reussit-a-constituer-un-groupe-au-senat-pour-la-premiere-fois-de-son-histoire_8212448.html": "2026-09-27T21:24:59.160932+00:00",
+  "https://www.franceinfo.fr/elections/senatoriales/direct-resultats-des-elections-senatoriales-le-rn-et-son-allie-de-l-udr-revendiquent-15-sieges-au-senat-une-victoire-historique-selon-marine-le-pen_8212865.html": "2026-09-28T05:31:10.906030+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/combien-coute-l-aide-de-la-france-a-l-ukraine-remise-en-cause-par-marine-le-pen-et-le-rn_8209307.html": "2026-09-28T05:31:10.906030+00:00",
+  "https://www.franceinfo.fr/economie/budget/comment-le-gouvernement-veut-augmenter-les-impots-dans-le-budget-2027-mais-sans-le-faire-de-maniere-generalisee_8211842.html": "2026-09-28T05:31:10.906030+00:00",
+  "https://www.franceinfo.fr/elections/senatoriales/cela-va-nous-permettre-de-rentrer-dans-le-jeu-institutionnel-ce-que-change-l-obtention-historique-par-le-rn-d-un-groupe-parlementaire-au-senat_8211950.html": "2026-09-28T05:31:10.906030+00:00",
+  "https://www.franceinfo.fr/politique/rachida-dati/direct-proces-de-rachida-dati-suivez-le-dernier-jour-d-audience-et-les-requisitions-du-parquet-national-financier_8209622.html": "2026-09-28T05:31:10.906030+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "Élections sénatoriales : le RN constitue un groupe, LFI fait son entrée Constitution d'un groupe RN, majorité des Républicains et des centristes, arrivée de LFI... Voici ce qu'il faut retenir des premiers résultats des élections sénatoriales de dimanche 27 septembre. A cette occasion, la moitié de la chambre haute a été renouvelée. Aujourd'hui 1:26 vidéo 1 minute 26",
+   "title": "• Direct Résultats des élections sénatoriales : le RN et son allié de l'UDR revendiquent 15 sièges au Sénat, une \"victoire historique\", selon Marine Le Pen La création d'un groupe RN sera synonyme de temps de parole accru, de moyens supplémentaires... et surtout de relais précieux pour la candidature de Marine Le Pen à l'Elysée. Aujourd'hui • Direct",
+   "link": "https://www.franceinfo.fr/elections/senatoriales/direct-resultats-des-elections-senatoriales-le-rn-et-son-allie-de-l-udr-revendiquent-15-sieges-au-senat-une-victoire-historique-selon-marine-le-pen_8212865.html",
+   "summary": "Résultats des élections sénatoriales : le RN et son allié de l'UDR revendiquent 15 sièges au Sénat, une \"victoire historique\", selon Marine Le Pen",
+   "image": "https://www.franceinfo.fr/pictures/3hyzgNw1mKzPoLbe1d8W2bEfkI8/76x0:4987x3376/432x297/filters:format(jpg)/2026/09/28/6ab9f26dcd62a696197271.jpg",
+   "date": null,
+   "pubdate": "2026-09-28T05:31:10.906030+00:00"
+  },
+  {
+   "title": "Combien coûte l'aide de la France à l'Ukraine, remise en cause par Marine Le Pen et le RN ?",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/combien-coute-l-aide-de-la-france-a-l-ukraine-remise-en-cause-par-marine-le-pen-et-le-rn_8209307.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/MRSrr36XDbO88AC4IvNjVoffVfc/0x347:7396x4508/432x243/filters:format(jpg)/2026/09/25/6ab68d7d71f58339080275.jpg",
+   "date": null,
+   "pubdate": "2026-09-28T05:31:10.906030+00:00"
+  },
+  {
+   "title": "Comment le gouvernement veut augmenter les impôts dans le budget 2027, mais sans le faire de manière généralisée",
+   "link": "https://www.franceinfo.fr/economie/budget/comment-le-gouvernement-veut-augmenter-les-impots-dans-le-budget-2027-mais-sans-le-faire-de-maniere-generalisee_8211842.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/mfQR-FX5L84daSVWJTEK16QOYAA/0x138:4309x2562/432x243/filters:format(jpg)/2026/09/27/6ab8e65e9bf85658826734.jpg",
+   "date": null,
+   "pubdate": "2026-09-28T05:31:10.906030+00:00"
+  },
+  {
+   "title": "\"Cela va nous permettre de rentrer dans le jeu institutionnel\" : ce que change l'obtention historique par le RN d'un groupe parlementaire au Sénat",
+   "link": "https://www.franceinfo.fr/elections/senatoriales/cela-va-nous-permettre-de-rentrer-dans-le-jeu-institutionnel-ce-que-change-l-obtention-historique-par-le-rn-d-un-groupe-parlementaire-au-senat_8211950.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/M14wQt9y6hqBc7IdqSr3DLlIejU/0x98:5080x2955/432x243/filters:format(jpg)/2026/09/27/6ab97a4a87d6d167071256.jpg",
+   "date": null,
+   "pubdate": "2026-09-28T05:31:10.906030+00:00"
+  },
+  {
+   "title": "• Direct • Direct Procès de Rachida Dati : suivez le dernier jour d'audience et les réquisitions du Parquet national financier",
+   "link": "https://www.franceinfo.fr/politique/rachida-dati/direct-proces-de-rachida-dati-suivez-le-dernier-jour-d-audience-et-les-requisitions-du-parquet-national-financier_8209622.html",
+   "summary": "Procès de Rachida Dati : suivez le dernier jour d'audience et les réquisitions du Parquet national financier",
+   "image": "https://www.franceinfo.fr/pictures/g-XIuN6HBDeegJzUnyFdItaUvaI/0x104:4731x2765/432x243/filters:format(jpg)/2026/09/25/6ab67ba1ed20f326891142.jpg",
+   "date": null,
+   "pubdate": "2026-09-28T05:31:10.906030+00:00"
+  },
+  {
+   "title": "1:26 vidéo 1 minute 26 Élections sénatoriales : le RN constitue un groupe, LFI fait son entrée",
    "link": "https://www.franceinfo.fr/elections/senatoriales/elections-senatoriales-le-rn-constitue-un-groupe-lfi-fait-son-entree_8212547.html",
    "summary": "Élections sénatoriales : le RN constitue un groupe, LFI fait son entrée",
-   "image": "https://www.franceinfo.fr/pictures/DK21cpNGyACHKOVHgycpu7bJ-2k/0x0:1080x1920/fit-in/432x297/filters:upscale():fill(blur):format(jpg)/2026/09/27/6ab974c104292824311271.jpg",
+   "image": "https://www.franceinfo.fr/pictures/d5lFw7Cu6YFyVEWF2MxLTJ-B2R0/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/27/6ab974c104292824311271.jpg",
    "date": null,
    "pubdate": "2026-09-27T21:24:59.160932+00:00"
   },
@@ -74,18 +116,18 @@
    "pubdate": "2026-09-27T21:24:59.160932+00:00"
   },
   {
-   "title": "\"On vient de deux univers différents\" : Maria Carolina de Bourbon des Deux-Siciles se confie pour la première fois sur sa relation avec Jordan Bardella",
-   "link": "https://www.franceinfo.fr/politique/jordan-bardella/on-vient-de-deux-univers-differents-maria-carolina-de-bourbon-des-deux-siciles-se-confie-pour-la-premiere-fois-sur-sa-relation-avec-jordan-bardella_8211857.html",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/-9Toxjfuxe1dfjtfEsso6t5abCY/0x0:3162x1778/432x243/filters:format(jpg)/2026/09/27/6ab8bf37c9514114622405.jpg",
-   "date": null,
-   "pubdate": "2026-09-27T12:09:49.377862+00:00"
-  },
-  {
    "title": ": Carte 1:00 article 1 minute : Carte Résultats des sénatoriales 2026 : découvrez les sénateurs élus ou réélus département par département",
    "link": "https://www.franceinfo.fr/elections/senatoriales/carte-resultats-des-senatoriales-2026-decouvrez-les-senateurs-elus-departement-par-departement_8102945.html",
    "summary": "Résultats des sénatoriales 2026 : découvrez les sénateurs élus ou réélus département par département",
    "image": "https://www.franceinfo.fr/pictures/DCiWXjAI6NGtNCVuvmUv-I9ntN4/840x0:3000x2160/100x100/filters:format(jpg)/2026/09/22/6ab24b5d4dc85613755247.jpg",
+   "date": null,
+   "pubdate": "2026-09-27T12:09:49.377862+00:00"
+  },
+  {
+   "title": "\"On vient de deux univers différents\" : Maria Carolina de Bourbon des Deux-Siciles se confie pour la première fois sur sa relation avec Jordan Bardella La descendante d'une richissime lignée aristocratique italienne a donné un entretien au \"Figaro Magazine\", dans lequel elle revient sur le retrait de la course à l'Elysée du président du RN.",
+   "link": "https://www.franceinfo.fr/politique/jordan-bardella/on-vient-de-deux-univers-differents-maria-carolina-de-bourbon-des-deux-siciles-se-confie-pour-la-premiere-fois-sur-sa-relation-avec-jordan-bardella_8211857.html",
+   "summary": "\"On vient de deux univers différents\" : Maria Carolina de Bourbon des Deux-Siciles se confie pour la première fois sur sa relation avec Jordan Bardella",
+   "image": "https://www.franceinfo.fr/pictures/-9Toxjfuxe1dfjtfEsso6t5abCY/0x0:3162x1778/432x243/filters:format(jpg)/2026/09/27/6ab8bf37c9514114622405.jpg",
    "date": null,
    "pubdate": "2026-09-27T12:09:49.377862+00:00"
   },
@@ -98,23 +140,23 @@
    "pubdate": "2026-09-27T11:00:00+00:00"
   },
   {
-   "title": "Elections sénatoriales : Gérard Larcher souhaite que le Sénat reste \"l'assemblée du débat apaisé, de la raison et de la réflexion\"",
+   "title": "Elections sénatoriales : Gérard Larcher souhaite que le Sénat reste \"l'assemblée du débat apaisé, de la raison et de la réflexion\" Le président LR de la chambre haute veut \"permettre à chaque groupe d'exercer pleinement ses droits\" au Sénat.",
    "link": "https://www.franceinfo.fr/elections/senatoriales/direct-elections-senatoriales-2026-suivez-le-vote-des-grands-electeurs-et-les-premiers-resultats-du-scrutin_8206589.html",
-   "summary": "",
+   "summary": "Elections sénatoriales : Gérard Larcher souhaite que le Sénat reste \"l'assemblée du débat apaisé, de la raison et de la réflexion\"",
    "image": "https://www.franceinfo.fr/pictures/yqRjyCgRSsLs4JahEErW61FuJVE/0x99:5408x3141/432x243/filters:format(jpg)/2026/09/27/6ab97236c7a8d979196548.jpg",
    "date": null,
    "pubdate": "2026-09-27T05:24:31.965193+00:00"
   },
   {
-   "title": "\"Tout est ouvert\" : en \"n'excluant rien\", Emmanuel Macron se positionne-t-il déjà pour la présidentielle de 2032 ?",
+   "title": "\"Tout est ouvert\" : en \"n'excluant rien\", Emmanuel Macron se positionne-t-il déjà pour la présidentielle de 2032 ? \"Il est assez inhabituel de revenir, mais nous verrons\", a lâché Emmanuel Macron devant des journalistes américains. Le chef de l'Etat, qui ne peut pas se représenter, pose-t-il déjà le premier jalon d'un retour en politique après le prochain quinquennat ? Dans son camp, certains sont déjà prêts à le soutenir.",
    "link": "https://www.franceinfo.fr/politique/emmanuel-macron/tout-est-ouvert-en-n-excluant-rien-emmanuel-macron-se-positionne-t-il-deja-pour-la-presidentielle-de-2032_8211044.html",
-   "summary": "",
+   "summary": "\"Tout est ouvert\" : en \"n'excluant rien\", Emmanuel Macron se positionne-t-il déjà pour la présidentielle de 2032 ?",
    "image": "https://www.franceinfo.fr/pictures/W_0nG7YD6OcMV9HDXSGjRbe49F8/0x0:1024x576/432x243/filters:format(jpg)/2026/09/26/6ab7cb9043af5425095156.jpg",
    "date": null,
    "pubdate": "2026-09-27T05:24:31.965193+00:00"
   },
   {
-   "title": "2:52 audio 2 minutes 52 Jérôme Niel dans \"Paolo\" : \"Je me retrouve dans ce personnage qui cherche sa place quelque part\"",
+   "title": "2:52 audio 2 minutes 52 Jérôme Niel dans \"Paolo\" : \"Je me retrouve dans ce personnage qui cherche sa place quelque part\" Dans \"Paolo\", Jérôme Niel incarne le séduisant et sympathique personnage principal qui cache bien son jeu. Un rôle à contre-emploi dans une série française dérangeante en 7 épisodes.",
    "link": "https://www.franceinfo.fr/replay-radio/l-empire-des-series/jerome-niel-dans-paolo-je-me-retrouve-dans-ce-personnage-qui-cherche-sa-place-quelque-part_8189102.html",
    "summary": "Jérôme Niel dans \"Paolo\" : \"Je me retrouve dans ce personnage qui cherche sa place quelque part\"",
    "image": "https://www.franceinfo.fr/pictures/tIB4RfFPjmalc_ggOz0Kh2x_3sI/34x0:1565x861/432x243/filters:format(jpg)/2026/09/24/6ab5478fbdf71332272860.jpeg",
@@ -122,9 +164,9 @@
    "pubdate": "2026-09-26T16:29:02.179880+00:00"
   },
   {
-   "title": "Marine Tondelier fait son retour en manifestation, mais pas en campagne \"à plein temps\", quelques jours après la naissance de son fils",
+   "title": "Marine Tondelier fait son retour en manifestation, mais pas en campagne \"à plein temps\", quelques jours après la naissance de son fils La candidate à la présidentielle a participé à l'une des marches pour le climat organisées un peu partout en France ce samedi.",
    "link": "https://www.franceinfo.fr/politique/marine-tondelier-fait-son-retour-en-manifestation-mais-pas-en-campagne-a-plein-temps-quelques-jours-apres-la-naissance-de-son-fils_8211029.html",
-   "summary": "",
+   "summary": "Marine Tondelier fait son retour en manifestation, mais pas en campagne \"à plein temps\", quelques jours après la naissance de son fils",
    "image": "https://www.franceinfo.fr/pictures/tfgoyZeixCE0cTFhbDWY2cN0iO8/0x297:5712x3510/432x243/filters:format(jpg)/2026/09/26/6ab7b122dd71f843961157.jpg",
    "date": null,
    "pubdate": "2026-09-26T16:29:02.179880+00:00"
@@ -200,30 +242,6 @@
    "image": "https://www.franceinfo.fr/pictures/fyo0tTWxvvv0jrhe41YsArf5vJ8/0x93:1024x669/432x243/filters:format(jpg)/2026/09/25/6ab69281cbe46316681329.jpg",
    "date": null,
    "pubdate": "2026-09-25T17:17:04.418354+00:00"
-  },
-  {
-   "title": "Un \"scénario crédible\" : que sait-on de la menace d'une nouvelle mobilisation militaire en Russie pour faire la guerre en Ukraine ? De nombreux signaux d'alerte concernant une nouvelle mobilisation militaire russe alimentent l'inquiétude générale. Emmanuel Macron a évoqué, dans l'interview qu'il a donnée jeudi soir, l'hypothèse de 300 000 hommes recrutés par Moscou.",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/un-scenario-credible-que-sait-on-de-la-menace-d-une-nouvelle-mobilisation-militaire-en-russie-pour-faire-la-guerre-en-ukraine_8209079.html",
-   "summary": "Un \"scénario crédible\" : que sait-on de la menace d'une nouvelle mobilisation militaire en Russie pour faire la guerre en Ukraine ?",
-   "image": "https://www.franceinfo.fr/pictures/dIlpUnQKTeTJeosVjQGaTwL5N2M/0x2:1024x578/432x243/filters:format(jpg)/2026/09/25/6ab61f9d0f47c163469452.jpg",
-   "date": null,
-   "pubdate": "2026-09-25T11:56:49.855863+00:00"
-  },
-  {
-   "title": "Le ministre de l'Economie Roland Lescure dénonce \"un acte hostile\" de la Russie après la prise de contrôle d'actifs d'entreprises françaises Les autorités russes ont placé la semaine dernière sous \"administration temporaire\" les actifs en Russie de la filiale russe d'Auchan et de l'ex-entité de Leroy Merlin, mais aussi ceux du suisse Nestlé, en invoquant leur appartenance à des pays \"inamicaux\" soutenant l'Ukraine.",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/le-ministre-de-l-economie-roland-lescure-denonce-un-acte-hostile-de-la-russie-apres-la-recente-prise-de-controle-d-actifs-d-entreprises-francaises_8209187.html",
-   "summary": "Le ministre de l'Economie Roland Lescure dénonce \"un acte hostile\" de la Russie après la prise de contrôle d'actifs d'entreprises françaises",
-   "image": "https://www.franceinfo.fr/pictures/pz2eEJ7DhJVL6D6Qef2CtoP2ki4/0x0:1024x576/432x243/filters:format(jpg)/2026/09/25/6ab620e30d071361448903.jpg",
-   "date": null,
-   "pubdate": "2026-09-25T11:56:49.855863+00:00"
-  },
-  {
-   "title": "Clémence Guetté demande \"une discussion devant le Parlement\" avant l'envoi de moyens militaires en Arabie saoudite \"L'envoi de troupes françaises dans une zone de guerre peut très rapidement faire de nous des cobelligérants\", s'inquiète la députée insoumise.",
-   "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/clemence-guette-demande-une-discussion-devant-le-parlement-avant-l-envoi-de-moyens-militaires-en-arabie-saoudite_8209133.html",
-   "summary": "Clémence Guetté demande \"une discussion devant le Parlement\" avant l'envoi de moyens militaires en Arabie saoudite",
-   "image": "https://www.franceinfo.fr/pictures/746PAJwn7uGL_vXLI6OJomnMW8U/0x0:1920x1080/432x243/filters:format(jpg)/2026/09/25/6ab615fa6bdd0090610629.jpg",
-   "date": null,
-   "pubdate": "2026-09-25T11:56:49.855863+00:00"
   },
   {
    "title": ": Reportage 4:58 audio 4 minutes 58 : Reportage À Atlanta, les républicains anticipent la défaite aux \"Midterms\" et \"la fin de l'ère Trump\", les démocrates rêvent de revanche",

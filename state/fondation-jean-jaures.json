@@ -1,19 +1,27 @@
 {
  "etag": "",
- "last_modified": "Sun, 27 Sep 2026 17:54:17 GMT",
+ "last_modified": "Mon, 28 Sep 2026 05:18:48 GMT",
  "first_seen": {
-  "https://www.jean-jaures.org/publication/les-imaginaires-territoriaux-vague-2/": "2026-09-21T11:00:00+00:00",
   "https://www.jean-jaures.org/publication/suede-letrange-victoire-de-la-gauche-aux-elections-legislatives-de-2026/": "2026-09-22T11:00:00+00:00",
   "https://www.jean-jaures.org/publication/marc-bloch-etait-il-socialiste/": "2026-09-23T11:00:00+00:00",
   "https://www.jean-jaures.org/publication/le-prix-dune-defaite-ukrainienne-pourquoi-soutenir-lukraine-releve-de-linteret-national-francais/": "2026-09-24T11:00:00+00:00",
   "https://www.jean-jaures.org/publication/un-plan-marshall-pour-la-justice/": "2026-09-24T11:00:00+00:00",
-  "https://www.jean-jaures.org/publication/penser-le-nouveau-statut-sociopolitique-des-fonctionnaires/": "2026-09-25T11:00:00+00:00"
+  "https://www.jean-jaures.org/publication/penser-le-nouveau-statut-sociopolitique-des-fonctionnaires/": "2026-09-25T11:00:00+00:00",
+  "https://www.jean-jaures.org/publication/defendons-la-democratie/": "2026-09-25T11:00:00+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
    "title": "Penser le nouveau statut sociopolitique des fonctionnaires",
    "link": "https://www.jean-jaures.org/publication/penser-le-nouveau-statut-sociopolitique-des-fonctionnaires/",
+   "summary": "",
+   "image": "",
+   "date": "2026-09-25T11:00:00+00:00",
+   "pubdate": "2026-09-25T11:00:00+00:00"
+  },
+  {
+   "title": "Défendons la démocratie",
+   "link": "https://www.jean-jaures.org/publication/defendons-la-democratie/",
    "summary": "",
    "image": "",
    "date": "2026-09-25T11:00:00+00:00",
@@ -50,14 +58,6 @@
    "image": "",
    "date": "2026-09-22T11:00:00+00:00",
    "pubdate": "2026-09-22T11:00:00+00:00"
-  },
-  {
-   "title": "Les imaginaires territoriaux – vague 2",
-   "link": "https://www.jean-jaures.org/publication/les-imaginaires-territoriaux-vague-2/",
-   "summary": "",
-   "image": "",
-   "date": "2026-09-21T11:00:00+00:00",
-   "pubdate": "2026-09-21T11:00:00+00:00"
   }
  ]
 }
