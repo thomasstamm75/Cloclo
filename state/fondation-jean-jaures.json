@@ -1,16 +1,32 @@
 {
  "etag": "",
- "last_modified": "Tue, 29 Sep 2026 09:17:19 GMT",
+ "last_modified": "Tue, 29 Sep 2026 15:46:05 GMT",
  "first_seen": {
-  "https://www.jean-jaures.org/publication/marc-bloch-etait-il-socialiste/": "2026-09-23T11:00:00+00:00",
   "https://www.jean-jaures.org/publication/le-prix-dune-defaite-ukrainienne-pourquoi-soutenir-lukraine-releve-de-linteret-national-francais/": "2026-09-24T11:00:00+00:00",
-  "https://www.jean-jaures.org/publication/un-plan-marshall-pour-la-justice/": "2026-09-24T11:00:00+00:00",
   "https://www.jean-jaures.org/publication/penser-le-nouveau-statut-sociopolitique-des-fonctionnaires/": "2026-09-25T11:00:00+00:00",
   "https://www.jean-jaures.org/publication/defendons-la-democratie/": "2026-09-25T11:00:00+00:00",
-  "https://www.jean-jaures.org/publication/reductions-historiques-de-laide-comment-lafrique-reagit-elle/": "2026-09-28T11:00:00+00:00"
+  "https://www.jean-jaures.org/publication/reductions-historiques-de-laide-comment-lafrique-reagit-elle/": "2026-09-28T11:00:00+00:00",
+  "https://www.jean-jaures.org/publication/reindustrialiser-par-les-competences-restaurer-un-grand-operateur-public-de-formation/": "2026-09-29T11:00:00+00:00",
+  "https://www.jean-jaures.org/publication/rentree-record-pour-bonjour-sur-tf1-pourquoi-les-medias-ont-raison-dinvestir-le-matin/": "2026-09-29T11:00:00+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "Réindustrialiser par les compétences : restaurer un grand opérateur public de formation",
+   "link": "https://www.jean-jaures.org/publication/reindustrialiser-par-les-competences-restaurer-un-grand-operateur-public-de-formation/",
+   "summary": "",
+   "image": "",
+   "date": "2026-09-29T11:00:00+00:00",
+   "pubdate": "2026-09-29T11:00:00+00:00"
+  },
+  {
+   "title": "Rentrée record pour « Bonjour ! » sur TF1 : pourquoi les médias ont raison d’investir le matin",
+   "link": "https://www.jean-jaures.org/publication/rentree-record-pour-bonjour-sur-tf1-pourquoi-les-medias-ont-raison-dinvestir-le-matin/",
+   "summary": "",
+   "image": "",
+   "date": "2026-09-29T11:00:00+00:00",
+   "pubdate": "2026-09-29T11:00:00+00:00"
+  },
   {
    "title": "Réductions historiques de l’aide : comment l’Afrique réagit-elle ?",
    "link": "https://www.jean-jaures.org/publication/reductions-historiques-de-laide-comment-lafrique-reagit-elle/",
@@ -42,22 +58,6 @@
    "image": "",
    "date": "2026-09-24T11:00:00+00:00",
    "pubdate": "2026-09-24T11:00:00+00:00"
-  },
-  {
-   "title": "Un plan Marshall pour la justice",
-   "link": "https://www.jean-jaures.org/publication/un-plan-marshall-pour-la-justice/",
-   "summary": "",
-   "image": "",
-   "date": "2026-09-24T11:00:00+00:00",
-   "pubdate": "2026-09-24T11:00:00+00:00"
-  },
-  {
-   "title": "Marc Bloch était-il socialiste ?",
-   "link": "https://www.jean-jaures.org/publication/marc-bloch-etait-il-socialiste/",
-   "summary": "",
-   "image": "",
-   "date": "2026-09-23T11:00:00+00:00",
-   "pubdate": "2026-09-23T11:00:00+00:00"
   }
  ]
 }
