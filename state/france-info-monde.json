@@ -1,5 +1,5 @@
 {
- "etag": "\"b6ebe8f5688b0736772ddbeeba4cfbb8-gzip\"",
+ "etag": "\"46ed2a3aa4595c46799d00357e00a1e7-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/leon-xiv-en-france-retrouvez-l-essentiel/": "2026-09-24T17:16:50.391493+00:00",
@@ -15,7 +15,6 @@
   "https://www.franceinfo.fr/replay-radio/les-informes-du-matin/les-informes-du-matin-du-lundi-28-septembre-2026_8191280.html": "2026-09-28T11:00:00+00:00",
   "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/au-japon-les-entreprises-creent-des-conges-grands-parentaux-pour-leurs-salaries-seniors_8191283.html": "2026-09-28T14:05:20.351389+00:00",
   "https://www.franceinfo.fr/monde/europe/migrants/au-moins-trois-personnes-sont-mortes-lors-du-naufrage-d-une-embarcation-qui-tentait-une-traversee-clandestine-de-la-manche_8213108.html": "2026-09-28T14:05:20.351389+00:00",
-  "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/pour-le-vice-president-du-rassemblement-national-sebastien-chenu-les-messages-de-leon-xiv-peuvent-etre-source-d-interrogation-pour-toute-la-classe-politique_8213042.html": "2026-09-28T14:05:20.351389+00:00",
   "https://www.franceinfo.fr/monde/russie/l-incendie-d-une-usine-de-feux-d-artifice-fait-14-morts-en-russie_8214023.html": "2026-09-28T21:16:02.022695+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-ukraine-va-reporter-des-depenses-apres-plusieurs-retards-dans-l-aide-etrangere_8213987.html": "2026-09-28T21:16:02.022695+00:00",
   "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/leon-xiv-en-france-retrouvez-l-essentiel/visite-du-pape-en-france-retour-sur-la-derniere-journee-du-sejour-francais-de-leon-xiv-ce-lundi-a-metz_8214002.html": "2026-09-28T21:16:02.022695+00:00",
@@ -23,21 +22,47 @@
   "https://www.franceinfo.fr/environnement/catastrophes-naturelles/glissements-de-terrain-meurtriers-au-nepal-un-glaciologue-explique-la-recrudescence-de-ces-phenomenes-spectaculaires_8213963.html": "2026-09-28T21:16:02.022695+00:00",
   "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/pour-l-historien-jean-francois-colosimo-leon-xiv-defend-l-etat-de-droit-et-un-monde-ou-on-peut-encore-se-parler_8213933.html": "2026-09-28T21:16:02.022695+00:00",
   "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/quand-je-vois-des-gens-se-confesser-sur-les-champs-elysees-mon-premier-reflexe-c-est-d-etre-inquiet-juge-jean-loup-adenor-redacteur-en-chef-adjoint-a-charlie-hebdo_8213915.html": "2026-09-28T21:16:02.022695+00:00",
-  "https://www.franceinfo.fr/monde/cuba/retour-sur-reportage-cuba-la-descente-aux-enfers_8213828.html": "2026-09-28T21:16:02.022695+00:00",
   "https://www.franceinfo.fr/replay-radio/les-informes-de-france-info/leon-xiv-reparti-qu-en-restera-t-il-les-informes-de-franceinfo-du-lundi-28-septembre-2026_8191310.html": "2026-09-28T11:00:00+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/un-drone-russe-endommage-un-poste-frontiere-ukrainien-pres-de-la-pologne_8213897.html": "2026-09-28T21:16:02.022695+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/mon-premier-reflexe-c-est-de-demander-a-l-ia-en-chine-l-intelligence-artificielle-est-deja-partout_8185526.html": "2026-09-28T21:16:02.022695+00:00",
   "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/videos-bains-de-foule-discours-politiques-et-messes-geantes-les-douze-sequences-a-retenir-de-la-visite-du-pape-en-france_8213057.html": "2026-09-28T21:16:02.022695+00:00",
   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/le-bilan-cache-de-la-canicule-en-europe-ce-que-la-surmortalite-nous-apprend-sur-l-ete-2026_8213501.html": "2026-09-28T21:16:02.022695+00:00",
-  "https://www.franceinfo.fr/monde/israel/reportage-gaza-appartient-a-la-terre-d-israel-a-la-frontiere-des-colons-israeliens-extremistes-reclament-leur-retour-dans-l-enclave_8213459.html": "2026-09-28T21:16:02.022695+00:00"
+  "https://www.franceinfo.fr/monde/israel/reportage-gaza-appartient-a-la-terre-d-israel-a-la-frontiere-des-colons-israeliens-extremistes-reclament-leur-retour-dans-l-enclave_8213459.html": "2026-09-28T21:16:02.022695+00:00",
+  "https://www.franceinfo.fr/monde/espagne/en-espagne-la-retraitee-expulsee-de-son-appartement-va-pouvoir-rentrer-chez-elle-apres-un-accord-avec-les-proprietaires-annonce-son-avocate_8214065.html": "2026-09-29T01:03:51.613854+00:00",
+  "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/le-pape-leon-xiv-nuance-le-caractere-systemique-des-violences-sexuelles-dans-l-eglise-apres-sa-visite-en-france_8214041.html": "2026-09-29T01:03:51.613854+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/un-mur-s-est-effondre-sur-moi-scenes-de-chaos-apres-une-frappe-meurtriere-en-plein-centre-ville-de-kiev_8214047.html": "2026-09-29T01:03:51.613854+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "L'incendie d'une usine de feux d'artifice fait 14 morts en Russie L'incendie s'est déclaré dans le village de Kubrinsk, à environ 100 kilomètres au nord de Moscou, selon l'agence de presse TASS. Aujourd'hui",
+   "title": "En Espagne, la retraitée expulsée de son appartement va pouvoir rentrer chez elle après un accord avec les propriétaires, annonce son avocate Beatriz Duro a précisé qu'il y avait eu \"de la bonne volonté des deux parties\" et que le loyer serait \"similaire à ce qu'elle payait auparavant\". 28 septembre",
+   "link": "https://www.franceinfo.fr/monde/espagne/en-espagne-la-retraitee-expulsee-de-son-appartement-va-pouvoir-rentrer-chez-elle-apres-un-accord-avec-les-proprietaires-annonce-son-avocate_8214065.html",
+   "summary": "En Espagne, la retraitée expulsée de son appartement va pouvoir rentrer chez elle après un accord avec les propriétaires, annonce son avocate",
+   "image": "https://www.franceinfo.fr/pictures/XfTxifizaCKgRXQ8WU-WgJzIYPA/18x0:964x650/432x297/filters:format(jpg)/2026/09/28/6abae0c15ca44351666511.jpg",
+   "date": null,
+   "pubdate": "2026-09-29T01:03:51.613854+00:00"
+  },
+  {
+   "title": "Le pape Léon XIV nuance le caractère systémique des violences sexuelles dans l'Eglise après sa visite en France",
+   "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/le-pape-leon-xiv-nuance-le-caractere-systemique-des-violences-sexuelles-dans-l-eglise-apres-sa-visite-en-france_8214041.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/ZRDCOMWLkrNdwlgqnquvd8FGhaA/0x0:1024x576/432x243/filters:format(jpg)/2026/09/28/6abada0ed036d909929593.jpg",
+   "date": null,
+   "pubdate": "2026-09-29T01:03:51.613854+00:00"
+  },
+  {
+   "title": "1:37 vidéo 1 minute 37 \"Un mur s'est effondré sur moi\" : scènes de chaos après une frappe meurtrière en plein centre-ville de Kiev",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/un-mur-s-est-effondre-sur-moi-scenes-de-chaos-apres-une-frappe-meurtriere-en-plein-centre-ville-de-kiev_8214047.html",
+   "summary": "\"Un mur s'est effondré sur moi\" : scènes de chaos après une frappe meurtrière en plein centre-ville de Kiev",
+   "image": "https://www.franceinfo.fr/pictures/aa5RMUg2qn1yHbBEPlwjYZiTWEM/0x5:1144x648/432x243/filters:format(jpg)/2026/09/28/6abad98f6172e572005660.jpg",
+   "date": null,
+   "pubdate": "2026-09-29T01:03:51.613854+00:00"
+  },
+  {
+   "title": "L'incendie d'une usine de feux d'artifice fait 14 morts en Russie",
    "link": "https://www.franceinfo.fr/monde/russie/l-incendie-d-une-usine-de-feux-d-artifice-fait-14-morts-en-russie_8214023.html",
-   "summary": "L'incendie d'une usine de feux d'artifice fait 14 morts en Russie",
-   "image": "https://www.franceinfo.fr/pictures/0sHvk5pDSxb_xRS55W8FiyARqUg/30x0:1024x683/432x297/filters:format(jpg)/2026/09/28/6abad2bc9986e030015262.jpg",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/KW1SPGGUlRbXtdVJT5JUma5IGM8/0x46:1024x622/432x243/filters:format(jpg)/2026/09/28/6abad2bc9986e030015262.jpg",
    "date": null,
    "pubdate": "2026-09-28T21:16:02.022695+00:00"
   },
@@ -90,26 +115,18 @@
    "pubdate": "2026-09-28T21:16:02.022695+00:00"
   },
   {
-   "title": "2:56 vidéo 2 minutes 56 Retour sur reportage : Cuba, la descente aux enfers",
-   "link": "https://www.franceinfo.fr/monde/cuba/retour-sur-reportage-cuba-la-descente-aux-enfers_8213828.html",
-   "summary": "Retour sur reportage : Cuba, la descente aux enfers",
-   "image": "https://www.franceinfo.fr/pictures/067WYeGgV_9L98YaZORqwt-XvFQ/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/28/6aba9c992e526831014142.png",
-   "date": null,
-   "pubdate": "2026-09-28T21:16:02.022695+00:00"
-  },
-  {
-   "title": "Un drone russe endommage un poste-frontière ukrainien près de la Pologne",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/un-drone-russe-endommage-un-poste-frontiere-ukrainien-pres-de-la-pologne_8213897.html",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/XAMVyN6EqNtquzdjN90M4x7W_AE/0x0:1024x576/432x243/filters:format(jpg)/2026/09/28/6abaac344a206644645969.jpg",
-   "date": null,
-   "pubdate": "2026-09-28T21:16:02.022695+00:00"
-  },
-  {
    "title": ": Reportage 4:32 audio 4 minutes 32 : Reportage \"Mon premier réflexe, c’est de demander à l’IA\" : en Chine, l’intelligence artificielle est déjà partout",
    "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/mon-premier-reflexe-c-est-de-demander-a-l-ia-en-chine-l-intelligence-artificielle-est-deja-partout_8185526.html",
    "summary": "\"Mon premier réflexe, c’est de demander à l’IA\" : en Chine, l’intelligence artificielle est déjà partout",
    "image": "https://www.franceinfo.fr/pictures/ZOr6hYH000V8EsXuxAcTUtBrghg/420x0:1500x1080/100x100/filters:format(jpg)/2026/09/24/6ab4c06804826937237488.jpg",
+   "date": null,
+   "pubdate": "2026-09-28T21:16:02.022695+00:00"
+  },
+  {
+   "title": "Un drone russe endommage un poste-frontière ukrainien près de la Pologne La frappe de drone n'a fait aucun blessé, selon les autorités.",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/un-drone-russe-endommage-un-poste-frontiere-ukrainien-pres-de-la-pologne_8213897.html",
+   "summary": "Un drone russe endommage un poste-frontière ukrainien près de la Pologne",
+   "image": "https://www.franceinfo.fr/pictures/XAMVyN6EqNtquzdjN90M4x7W_AE/0x0:1024x576/432x243/filters:format(jpg)/2026/09/28/6abaac344a206644645969.jpg",
    "date": null,
    "pubdate": "2026-09-28T21:16:02.022695+00:00"
   },
@@ -178,15 +195,7 @@
    "pubdate": "2026-09-28T14:05:20.351389+00:00"
   },
   {
-   "title": "Pour le vice-président du Rassemblement national, Sébastien Chenu, les messages de Léon XIV peuvent être \"source d’interrogation pour toute la classe politique\" Le député RN a toutefois opposé la \"parole spirituelle\" à la nécessité, quand on est aux responsabilités, de gérer \"l'organisation du temps et de la société\".",
-   "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/pour-le-vice-president-du-rassemblement-national-sebastien-chenu-les-messages-de-leon-xiv-peuvent-etre-source-d-interrogation-pour-toute-la-classe-politique_8213042.html",
-   "summary": "Pour le vice-président du Rassemblement national, Sébastien Chenu, les messages de Léon XIV peuvent être \"source d’interrogation pour toute la classe politique\"",
-   "image": "https://www.franceinfo.fr/pictures/YfDKr8jPcclX4IrCFEtE1xSVUIY/216x0:1200x553/432x243/filters:format(jpg)/2026/09/28/6aba22df6aa86136038113.jpg",
-   "date": null,
-   "pubdate": "2026-09-28T14:05:20.351389+00:00"
-  },
-  {
-   "title": "53:08 audio 53 minutes 8 Léon XIV reparti, qu'en restera-t-il ?... Les informés de franceinfo du lundi 28 septembre 2026",
+   "title": "53:08 audio 53 minutes 8 Léon XIV reparti, qu'en restera-t-il ?... Les informés de franceinfo du lundi 28 septembre 2026 Tous les soirs, les informés débattent de l'actualité autour d'Hadrien Bect.",
    "link": "https://www.franceinfo.fr/replay-radio/les-informes-de-france-info/leon-xiv-reparti-qu-en-restera-t-il-les-informes-de-franceinfo-du-lundi-28-septembre-2026_8191310.html",
    "summary": "Léon XIV reparti, qu'en restera-t-il ?... Les informés de franceinfo du lundi 28 septembre 2026",
    "image": "https://www.franceinfo.fr/pictures/Dgzd5zMyWVWRLV-B1mwYxqSR-gw/0x0:640x360/432x243/filters:format(jpg)/2026/09/28/6abaa81473682588536716.jpg",
