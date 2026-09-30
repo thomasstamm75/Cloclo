@@ -1,15 +1,11 @@
 {
- "etag": "\"84b67844e4e4f8811dd22bd59801d95c-gzip\"",
+ "etag": "\"6339e5486ba5262306de03021febd900-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-c-est-le-sauveur-en-saxe-anhalt-ulrich-siegmund-l-homme-le-plus-dangereux-d-allemagne-selon-der-spiegel-aux-portes-du-pouvoir_8147219.html": "2026-09-25T17:17:05.878379+00:00",
   "https://www.franceinfo.fr/monde/europe/allemagne/il-y-a-une-extrapolation-du-declin-economique-comment-l-extreme-droite-allemande-est-arrivee-aux-portes-du-pouvoir-en-saxe-anhalt_8175638.html": "2026-09-25T21:38:56.497776+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/vos-questions-sur-l-effort-de-guerre-de-la-france/": "2026-09-26T05:07:01.845520+00:00",
-  "https://www.franceinfo.fr/monde/europe/allemagne/en-allemagne-la-penurie-de-chauffeurs-routiers-fait-craindre-des-repercussions-sur-toute-la-chaine-d-approvisionnement-en-europe_8208620.html": "2026-09-26T11:31:23.833452+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/reportage-plus-de-huit-millions-de-livres-pour-enfants-partis-en-fumee-l-ukraine-face-a-une-penurie-de-manuels-scolaires-apres-des-frappes-russes_8192342.html": "2026-09-26T11:31:23.833452+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-russie-atteindra-ses-objectifs-en-ukraine-peu-importe-les-circonstances-assure-serguei-lavrov-a-la-tribune-de-l-onu_8211314.html": "2026-09-26T21:15:19.761051+00:00",
-  "https://www.franceinfo.fr/monde/les-suisses-refusent-a-une-large-majorite-de-durcir-leur-neutralite-principe-indissociable-de-l-identite-du-pays_8212415.html": "2026-09-27T17:01:59.810202+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/une-attaque-de-drones-russes-en-france-fait-partie-des-possibilites-on-s-y-prepare-depuis-longtemps-assure-jean-noel-barrot_8212169.html": "2026-09-27T17:01:59.810202+00:00",
   "https://www.franceinfo.fr/monde/europe/le-president-serbe-aleksandar-vucic-demissionne-des-elections-anticipees-a-venir_8212511.html": "2026-09-27T21:25:00.506015+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/des-frappes-russes-tuent-huit-personnes-en-ukraine_8212445.html": "2026-09-27T21:25:00.506015+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/je-ne-sais-pas-ce-qui-attend-nos-enfants-a-kiev-l-angoisse-de-la-rentree-sous-les-bombes-apres-un-ete-meurtrier_8144936.html": "2026-09-27T21:25:00.506015+00:00",
@@ -21,23 +17,74 @@
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/un-drone-russe-endommage-un-poste-frontiere-ukrainien-pres-de-la-pologne_8213897.html": "2026-09-28T21:16:00.427454+00:00",
   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/le-bilan-cache-de-la-canicule-en-europe-ce-que-la-surmortalite-nous-apprend-sur-l-ete-2026_8213501.html": "2026-09-28T21:16:00.427454+00:00",
   "https://www.franceinfo.fr/sante/vaccins/comment-l-ingerence-etrangere-en-europe-passe-aussi-par-la-desinformation-sur-la-sante-et-les-vaccins_8214602.html": "2026-09-29T18:07:18.027923+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/de-nouvelles-attaques-meurtrieres-en-ukraine-fortes-explosions-a-kiev_8215139.html": "2026-09-29T18:07:18.027923+00:00",
-  "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/en-italie-et-au-portugal-les-vendanges-se-font-de-nuit-pour-contrer-les-effets-de-la-chaleur_8215067.html": "2026-09-29T18:07:18.027923+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-une-nouvelle-nuit-de-bombardements-a-odessa-et-a-kiev_8215013.html": "2026-09-29T18:07:18.027923+00:00",
   "https://www.franceinfo.fr/monde/russie/l-estonie-accuse-la-russie-d-avoir-commandite-un-incendie-chez-un-fabricant-de-drones-une-dangereuse-fuite-en-avant-selon-emmanuel-macron_8214803.html": "2026-09-29T18:07:18.027923+00:00",
   "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/jordan-bardella-accuse-d-ecrits-antisemites-greve-dans-la-fonction-publique-budget-presidentielle-le-8h30-franceinfo-de-dominique-de-villepin_8192720.html": "2026-09-29T18:07:18.027923+00:00",
   "https://www.franceinfo.fr/monde/europe/en-espagne-emmanuel-macron-livre-ses-recettes-contre-la-montee-des-extremes-en-europe_8215454.html": "2026-09-29T22:20:54.308759+00:00",
   "https://www.franceinfo.fr/economie/crise/crise-de-la-dette/record-de-la-dette-publique-la-france-plus-mauvais-eleve-de-l-union-europeenne_8215406.html": "2026-09-29T22:20:54.308759+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/temoignages-il-n-y-a-plus-rien-a-olechky-ville-ukrainienne-occupee-par-les-russes-les-habitants-se-retrouvent-confrontes-a-la-famine_8213084.html": "2026-09-30T05:39:27.118041+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-la-russie-vise-des-sites-energetiques-a-kiev-et-tue-au-moins-quatre-personnes_8215995.html": "2026-09-30T12:42:55.779781+00:00"
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-la-russie-vise-des-sites-energetiques-a-kiev-et-tue-au-moins-quatre-personnes_8215995.html": "2026-09-30T12:42:55.779781+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-ce-que-l-on-sait-de-l-operation-vivaldi-menee-pour-desserrer-la-tenaille-russe-dans-le-donbass_8216113.html": "2026-09-30T20:05:30.825387+00:00",
+  "https://www.franceinfo.fr/societe/justice/la-remise-a-l-allemagne-d-un-militant-antifasciste-albanais-surnomme-gino-enterinee-par-la-cour-de-cassation_8216710.html": "2026-09-30T20:05:30.825387+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-qui-est-robert-brovdi-dont-la-tete-est-mise-a-prix-par-la-russie-pour-20-millions-de-dollars_8216446.html": "2026-09-30T20:05:30.825387+00:00",
+  "https://france3-regions.franceinfo.fr/hauts-de-france/pas-calais/calais/naufrage-de-31-migrants-dans-la-manche-jusqu-a-10-ans-de-prison-prononces-contre-des-passeurs-mus-par-l-appat-du-gain-3425814.html": "2026-09-30T20:05:30.825387+00:00",
+  "https://france3-regions.franceinfo.fr/hauts-de-france/nord-0/difficile-sur-le-plan-operationnel-l-accord-franco-britannique-d-echange-de-migrants-dit-du-un-pour-un-va-s-arreter-3425829.html": "2026-09-30T20:05:30.825387+00:00",
+  "https://www.franceinfo.fr/monde/europe/union-europeenne/la-commission-europeenne-presente-un-nouveau-plan-pour-lutter-contre-les-arrivees-massives-de-migrants-a-ses-frontieres-sa-reponse-a-la-crise-de-ceuta_8216416.html": "2026-09-30T20:05:30.825387+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "Guerre en Ukraine : la Russie vise des sites énergétiques à Kiev et tue au moins quatre personnes Depuis le début de l'été, Moscou mène des raids aériens quasi quotidiens, de jour comme de nuit, contre une série de cibles dans la capitale ukrainienne. Aujourd'hui",
+   "title": "Guerre en Ukraine : ce que l'on sait de l'opération \"Vivaldi\" menée pour desserrer la tenaille russe dans le Donbass L'armée ukrainienne aurait repris plus de 175 km2 dans le Donbass. Et la Russie aurait perdu près de 5 000 hommes lors de ces combats. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-ce-que-l-on-sait-de-l-operation-vivaldi-menee-pour-desserrer-la-tenaille-russe-dans-le-donbass_8216113.html",
+   "summary": "Guerre en Ukraine : ce que l'on sait de l'opération \"Vivaldi\" menée pour desserrer la tenaille russe dans le Donbass",
+   "image": "https://www.franceinfo.fr/pictures/6ShzjLqkA2aC3A1v3l-WLcQQ0nE/32x0:992x660/432x297/filters:format(jpg)/2026/09/30/6abd1fd2a393e250557616.jpg",
+   "date": null,
+   "pubdate": "2026-09-30T20:05:30.825387+00:00"
+  },
+  {
+   "title": "La remise à l'Allemagne d'un militant antifasciste albanais, surnommé \"Gino\", entérinée par la Cour de cassation",
+   "link": "https://www.franceinfo.fr/societe/justice/la-remise-a-l-allemagne-d-un-militant-antifasciste-albanais-surnomme-gino-enterinee-par-la-cour-de-cassation_8216710.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/eLoxDZIf6dJ31goLsUN1r7fQfgI/0x0:1024x576/432x243/filters:format(jpg)/2026/09/30/6abd330b43484664792160.jpg",
+   "date": null,
+   "pubdate": "2026-09-30T20:05:30.825387+00:00"
+  },
+  {
+   "title": "Guerre en Ukraine : qui est Robert Brovdi, dont la tête est mise à prix par la Russie pour 20 millions de dollars ?",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-qui-est-robert-brovdi-dont-la-tete-est-mise-a-prix-par-la-russie-pour-20-millions-de-dollars_8216446.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/cnL_61me0Nl0ljjnXaGKTf9wWTM/74x0:1946x1053/432x243/filters:format(jpg)/2026/09/30/6abd19157983a161588156.jpg",
+   "date": null,
+   "pubdate": "2026-09-30T20:05:30.825387+00:00"
+  },
+  {
+   "title": "Naufrage de 31 migrants dans la Manche : jusqu'à 10 ans de prison prononcés contre des passeurs \"mus par l'appât du gain\"",
+   "link": "https://france3-regions.franceinfo.fr/hauts-de-france/pas-calais/calais/naufrage-de-31-migrants-dans-la-manche-jusqu-a-10-ans-de-prison-prononces-contre-des-passeurs-mus-par-l-appat-du-gain-3425814.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/-cEIOxLPUW0kKfhbwrqYjm3GU3s/432x243/filters:format(jpg)/2026/09/30/6abd2457edcba220350161.jpg",
+   "date": null,
+   "pubdate": "2026-09-30T20:05:30.825387+00:00"
+  },
+  {
+   "title": "\"Difficile sur le plan opérationnel\", l'accord franco-britannique d'échange de migrants dit du \"un pour un\" va s'arrêter",
+   "link": "https://france3-regions.franceinfo.fr/hauts-de-france/nord-0/difficile-sur-le-plan-operationnel-l-accord-franco-britannique-d-echange-de-migrants-dit-du-un-pour-un-va-s-arreter-3425829.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/Gq2rtyqx9XGS09Th8I51ts4jzqI/432x243/filters:format(jpg)/2026/09/30/6abd1ecf1eb7b981005562.jpg",
+   "date": null,
+   "pubdate": "2026-09-30T20:05:30.825387+00:00"
+  },
+  {
+   "title": "La Commission européenne présente un nouveau plan pour lutter contre les arrivées massives de migrants à ses frontières, sa réponse à la crise de Ceuta",
+   "link": "https://www.franceinfo.fr/monde/europe/union-europeenne/la-commission-europeenne-presente-un-nouveau-plan-pour-lutter-contre-les-arrivees-massives-de-migrants-a-ses-frontieres-sa-reponse-a-la-crise-de-ceuta_8216416.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/mO6FOIziOdtNbwQZvBuLXhfoX98/0x104:2000x1229/432x243/filters:format(jpg)/2026/09/30/6abd067911713306951884.jpg",
+   "date": null,
+   "pubdate": "2026-09-30T20:05:30.825387+00:00"
+  },
+  {
+   "title": "Guerre en Ukraine : la Russie vise des sites énergétiques à Kiev et tue au moins quatre personnes",
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-la-russie-vise-des-sites-energetiques-a-kiev-et-tue-au-moins-quatre-personnes_8215995.html",
-   "summary": "Guerre en Ukraine : la Russie vise des sites énergétiques à Kiev et tue au moins quatre personnes",
-   "image": "https://www.franceinfo.fr/pictures/wNLPn_ILDbHJLQRGeDcZTd-Ivjo/64x0:4235x2867/432x297/filters:format(jpg)/2026/09/30/6abccc5ca2269456399042.jpg",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/ZBAM-OsEVzevWHN9Tk4--EpIdFA/0x224:4300x2642/432x243/filters:format(jpg)/2026/09/30/6abccc5ca2269456399042.jpg",
    "date": null,
    "pubdate": "2026-09-30T12:42:55.779781+00:00"
   },
@@ -66,52 +113,28 @@
    "pubdate": "2026-09-29T22:20:54.308759+00:00"
   },
   {
-   "title": "Comment l'ingérence étrangère en Europe passe aussi par la désinformation sur la santé et les vaccins",
+   "title": "Comment l'ingérence étrangère en Europe passe aussi par la désinformation sur la santé et les vaccins La désinformation étrangère alimente la méfiance envers la vaccination, sape la confiance dans la santé publique et contribue à la résurgence de la rougeole en Europe, où les taux de vaccination restent inférieurs aux objectifs mondiaux. La RTBF, le média public belge francophone, revient sur ce phénomène.",
    "link": "https://www.franceinfo.fr/sante/vaccins/comment-l-ingerence-etrangere-en-europe-passe-aussi-par-la-desinformation-sur-la-sante-et-les-vaccins_8214602.html",
-   "summary": "",
+   "summary": "Comment l'ingérence étrangère en Europe passe aussi par la désinformation sur la santé et les vaccins",
    "image": "https://www.franceinfo.fr/pictures/56xrsPgK9lNDSEQ2WhNytF-v7f0/0x109:1920x1189/432x243/filters:format(jpg)/2026/09/29/6abb7bf7d7070653594618.jpg",
    "date": null,
    "pubdate": "2026-09-29T18:07:18.027923+00:00"
   },
   {
-   "title": "1:21 vidéo 1 minute 21 De nouvelles attaques meurtrières en Ukraine, fortes explosions à Kiev",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/de-nouvelles-attaques-meurtrieres-en-ukraine-fortes-explosions-a-kiev_8215139.html",
-   "summary": "De nouvelles attaques meurtrières en Ukraine, fortes explosions à Kiev",
-   "image": "https://www.franceinfo.fr/pictures/DS-r-cafNOf8EU7koQ8ZqggDRng/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/29/6abbd3370b419709426640.jpg",
-   "date": null,
-   "pubdate": "2026-09-29T18:07:18.027923+00:00"
-  },
-  {
-   "title": "1:51 vidéo 1 minute 51 En Italie et au Portugal, les vendanges se font de nuit pour contrer les effets de la chaleur",
-   "link": "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/en-italie-et-au-portugal-les-vendanges-se-font-de-nuit-pour-contrer-les-effets-de-la-chaleur_8215067.html",
-   "summary": "En Italie et au Portugal, les vendanges se font de nuit pour contrer les effets de la chaleur",
-   "image": "https://www.franceinfo.fr/pictures/Y11N8Gw2Vxvoe5H_mkN3CoMMYPQ/0x53:840x525/432x243/filters:format(jpg)/2026/09/29/6abbd14602fb4262214168.jpg",
-   "date": null,
-   "pubdate": "2026-09-29T18:07:18.027923+00:00"
-  },
-  {
-   "title": "1:31 vidéo 1 minute 31 Guerre en Ukraine : une nouvelle nuit de bombardements à Odessa et à Kiev",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-une-nouvelle-nuit-de-bombardements-a-odessa-et-a-kiev_8215013.html",
-   "summary": "Guerre en Ukraine : une nouvelle nuit de bombardements à Odessa et à Kiev",
-   "image": "https://www.franceinfo.fr/pictures/MO3_JHQbbZm6U7Ty7iDYEcMLQKY/340x0:1561x687/432x243/filters:format(jpg)/2026/09/29/6abbc1e7ae5c3689356346.jpg",
-   "date": null,
-   "pubdate": "2026-09-29T18:07:18.027923+00:00"
-  },
-  {
-   "title": "L'Estonie accuse la Russie d'être à l'origine d'un incendie chez un fabricant de drones",
+   "title": "L'Estonie accuse la Russie d'être à l'origine d'un incendie chez un fabricant de drones Emmanuel Macron, qui s'est alarmé d'une \"dangereuse fuite en avant\", a dénoncé \"la multiplication de ces actes hostiles\". Mais le Kremlin a rejeté toute responsabilité dans cet incendie, parlant de \"déclarations infondées\".",
    "link": "https://www.franceinfo.fr/monde/russie/l-estonie-accuse-la-russie-d-avoir-commandite-un-incendie-chez-un-fabricant-de-drones-une-dangereuse-fuite-en-avant-selon-emmanuel-macron_8214803.html",
-   "summary": "",
+   "summary": "L'Estonie accuse la Russie d'être à l'origine d'un incendie chez un fabricant de drones",
    "image": "https://www.franceinfo.fr/pictures/IO7Ew07QPVwubqR0OPO1oqNnCOw/0x18:1024x594/432x243/filters:format(jpg)/2026/09/29/6abba1c396598734234392.jpg",
    "date": null,
    "pubdate": "2026-09-29T18:07:18.027923+00:00"
   },
   {
-   "title": "24:25 audio 24 minutes 25 Jordan Bardella accusé d'écrits antisémites, grève dans la fonction publique, budget, présidentielle... Le \"8h30 franceinfo\" de Dominique de Villepin",
+   "title": "24:25 audio 24 minutes 25 Jordan Bardella accusé d'écrits antisémites, grève dans la fonction publique, budget, présidentielle... Le \"8h30 franceinfo\" de Dominique de Villepin L'ancien Premier ministre Dominique de Villepin, est l'invité du 8h30 franceinfo\" mardi 29 septembre 2026.",
    "link": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/jordan-bardella-accuse-d-ecrits-antisemites-greve-dans-la-fonction-publique-budget-presidentielle-le-8h30-franceinfo-de-dominique-de-villepin_8192720.html",
    "summary": "Jordan Bardella accusé d'écrits antisémites, grève dans la fonction publique, budget, présidentielle... Le \"8h30 franceinfo\" de Dominique de Villepin",
    "image": "https://www.franceinfo.fr/pictures/NvsGKZjpM-clsscTl20UA8XCElk/257x0:1175x516/432x243/filters:format(jpg)/2026/09/29/6abb8a4c99c4a173419691.jpg",
-   "date": null,
-   "pubdate": "2026-09-29T18:07:18.027923+00:00"
+   "date": "2026-09-29T11:00:00+00:00",
+   "pubdate": "2026-09-29T11:00:00+00:00"
   },
   {
    "title": "L'Ukraine va reporter des dépenses après plusieurs retards dans l'aide étrangère \"Nous reportons les dépenses non prioritaires. Cela concerne les nouvelles constructions, les travaux de reconstruction ou les réparations majeures qui ne sont pas d'importance critique\", a précisé le Premier ministre ukrainien lundi.",
@@ -194,42 +217,10 @@
    "pubdate": "2026-09-27T21:25:00.506015+00:00"
   },
   {
-   "title": "Les Suisses refusent à une large majorité de durcir leur neutralité, principe indissociable de l'identité du pays Les électeurs suisses ont voté \"non\" à plus de 70%, dimanche.",
-   "link": "https://www.franceinfo.fr/monde/les-suisses-refusent-a-une-large-majorite-de-durcir-leur-neutralite-principe-indissociable-de-l-identite-du-pays_8212415.html",
-   "summary": "Les Suisses refusent à une large majorité de durcir leur neutralité, principe indissociable de l'identité du pays",
-   "image": "https://www.franceinfo.fr/pictures/Kilq8oJZs4rK8o0zEHE343edxSQ/0x191:1024x767/432x243/filters:format(jpg)/2026/09/27/6ab9490aac07a024533891.jpg",
-   "date": null,
-   "pubdate": "2026-09-27T17:01:59.810202+00:00"
-  },
-  {
-   "title": "Une attaque de drones russes en France \"fait partie des possibilités\", \"on s'y prépare depuis longtemps\", assure Jean-Noël Barrot Le ministre des Affaires étrangères estime également que ces \"actes hostiles ont tendance à se multiplier ces dernières semaines et ces derniers mois\" de la part de la Russie.",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/une-attaque-de-drones-russes-en-france-fait-partie-des-possibilites-on-s-y-prepare-depuis-longtemps-assure-jean-noel-barrot_8212169.html",
-   "summary": "Une attaque de drones russes en France \"fait partie des possibilités\", \"on s'y prépare depuis longtemps\", assure Jean-Noël Barrot",
-   "image": "https://www.franceinfo.fr/pictures/zM4ZeWFMVIVtr4iFgptsZUjQemQ/0x32:520x324/432x243/filters:format(jpg)/2026/09/27/6ab91ad1b3063322984575.jpg",
-   "date": null,
-   "pubdate": "2026-09-27T17:01:59.810202+00:00"
-  },
-  {
-   "title": "La Russie atteindra ses objectifs en Ukraine \"peu importe les circonstances\", assure Sergueï Lavrov à la tribune de l'ONU Le chef de la diplomatie russe a également accusé l'Union européenne de faire \"tout ce qui est en son pouvoir pour contrecarrer les discussions de paix souhaitées par le gouvernement Trump\".",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-russie-atteindra-ses-objectifs-en-ukraine-peu-importe-les-circonstances-assure-serguei-lavrov-a-la-tribune-de-l-onu_8211314.html",
-   "summary": "La Russie atteindra ses objectifs en Ukraine \"peu importe les circonstances\", assure Sergueï Lavrov à la tribune de l'ONU",
-   "image": "https://www.franceinfo.fr/pictures/MmVry839BA6Hb38RMWGN29sxbLg/0x0:1024x576/432x243/filters:format(jpg)/2026/09/26/6ab7f1ec4c280172128050.jpg",
-   "date": null,
-   "pubdate": "2026-09-26T21:15:19.761051+00:00"
-  },
-  {
    "title": ": Reportage 2:00 article 2 minutes : Reportage \"Plus de huit millions de livres pour enfants\" partis en fumée : l'Ukraine face à une pénurie de manuels scolaires après des frappes russes",
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/reportage-plus-de-huit-millions-de-livres-pour-enfants-partis-en-fumee-l-ukraine-face-a-une-penurie-de-manuels-scolaires-apres-des-frappes-russes_8192342.html",
    "summary": "\"Plus de huit millions de livres pour enfants\" partis en fumée : l'Ukraine face à une pénurie de manuels scolaires après des frappes russes",
    "image": "https://www.franceinfo.fr/pictures/FDQ95GjeajjrKBoHSZT8OG_Y2Ww/350x0:1250x900/100x100/filters:format(jpg)/2026/09/14/6aa8420659848131991942.jpg",
-   "date": null,
-   "pubdate": "2026-09-26T11:31:23.833452+00:00"
-  },
-  {
-   "title": "En Allemagne, la pénurie de chauffeurs-routiers fait craindre des répercussions sur toute la chaîne d'approvisionnement en Europe Avec des conditions de travail difficiles, un prix à la pompe en hausse et des départs à la retraite non remplacés, ce sont jusqu'à 120 000 chauffeurs-routiers qui manquent sur les routes allemandes. Une pénurie qui peut impacter la chaîne d'approvisionnement européenne.",
-   "link": "https://www.franceinfo.fr/monde/europe/allemagne/en-allemagne-la-penurie-de-chauffeurs-routiers-fait-craindre-des-repercussions-sur-toute-la-chaine-d-approvisionnement-en-europe_8208620.html",
-   "summary": "En Allemagne, la pénurie de chauffeurs-routiers fait craindre des répercussions sur toute la chaîne d'approvisionnement en Europe",
-   "image": "https://www.franceinfo.fr/pictures/U8CLu5_BNbiOOpYjCUz1eHTk8ZU/0x211:4123x2530/432x243/filters:format(jpg)/2026/09/24/6ab57f8ebe0a6126612618.jpg",
    "date": null,
    "pubdate": "2026-09-26T11:31:23.833452+00:00"
   },

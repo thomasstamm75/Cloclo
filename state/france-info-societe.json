@@ -1,116 +1,234 @@
 {
- "etag": "\"ead1fe1baacce684bdfe2c4f422811cf-gzip\"",
+ "etag": "\"029b1d50c2b9ce9a1d2d512c6e882310-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/economie/crise/crise-de-la-dette/efforts-avenir-et-depenses-quelles-sont-les-attentes-des-francais-vis-a-vis-de-la-dette_8215412.html": "2026-09-29T22:20:50.891853+00:00",
-  "https://www.franceinfo.fr/societe/pedocriminalite/enquete-il-avait-le-numero-de-mes-parents-sur-discord-des-adolescents-sous-emprise-forces-a-se-denuder-ou-s-automutiler_8214980.html": "2026-09-30T05:39:23.531465+00:00",
   "https://www.franceinfo.fr/sante/temoignages-l-impression-d-avoir-une-bombe-a-retardement-en-moi-quatre-patients-racontent-leur-calvaire-apres-la-pose-d-une-prothese-de-hernie_8214686.html": "2026-09-30T05:39:23.531465+00:00",
-  "https://www.franceinfo.fr/societe/education/lille-bordeaux-lyon-de-nouvelles-tensions-devant-les-lycees-bloques_8216389.html": "2026-09-30T12:42:51.129867+00:00",
   "https://www.franceinfo.fr/societe/education/parcoursup/parcoursup/manifestations-des-lyceens/blocage-des-lycees-un-mineur-presente-a-la-justice-pour-des-violences-sans-incapacite-sur-un-policier-a-ivry-sur-seine_8216368.html": "2026-09-30T12:42:51.129867+00:00",
-  "https://www.franceinfo.fr/societe/education/scolarite/guide-parents/college/des-matieres-fecales-dans-l-eau-de-ce-college_8216332.html": "2026-09-30T12:42:51.129867+00:00",
   "https://www.franceinfo.fr/societe/drogue/il-s-est-presente-spontanement-au-commissariat-un-jeune-homme-mis-en-examen-dans-l-enquete-sur-les-menaces-contre-le-maire-d-ales_8216287.html": "2026-09-30T12:42:51.129867+00:00",
   "https://www.franceinfo.fr/elections/municipales/le-tribunal-annule-les-municipales-a-noisy-le-sec-pour-des-declarations-de-candidatures-non-conformes_8216311.html": "2026-09-30T12:42:51.129867+00:00",
   "https://www.franceinfo.fr/politique/jordan-bardella/on-dirait-qu-il-joue-un-double-jeu-dans-la-communaute-juive-peu-de-soutien-pour-jordan-bardella-apres-les-propos-antisemites-reveles-par-mediapart_8216086.html": "2026-09-30T12:42:51.129867+00:00",
-  "https://www.franceinfo.fr/societe/education/scolarite/guide-parents/lycee/un-ado-blesse-apres-le-tir-d-un-policier_8216323.html": "2026-09-30T12:42:51.129867+00:00",
   "https://www.franceinfo.fr/societe/drogue/ouicem-kattoursi-l-un-des-plus-gros-narcotrafiquants-francais-va-etre-extrade-prochainement-vers-la-france_8216284.html": "2026-09-30T12:42:51.129867+00:00",
   "https://www.franceinfo.fr/faits-divers/des-soupcons-de-tir-de-lbd-au-visage-d-un-lyceen-a-tours-les-videos-des-cameras-pietons-vont-etre-analysees_8216266.html": "2026-09-30T12:42:51.129867+00:00",
   "https://www.franceinfo.fr/societe/seconde-guerre-mondiale/la-justice-reconnait-comme-crime-contre-l-humanite-les-rafles-menees-en-1943-a-marseille_8216224.html": "2026-09-30T12:42:51.129867+00:00",
   "https://www.franceinfo.fr/societe/education/parcoursup/parcoursup/manifestations-des-lyceens/l-union-etudiante-et-l-union-syndicale-lyceenne-appellent-a-une-grande-manifestation-nationale-le-6-octobre_8216203.html": "2026-09-30T12:42:51.129867+00:00",
-  "https://www.franceinfo.fr/societe/harcelement-sexuel/pourquoi-la-reouverture-d-une-enquete-pour-un-viol-collectif-presume-dans-une-prestigieuse-universite-suscite-une-avalanche-de-reactions-aux-etats-unis_8215316.html": "2026-09-30T12:42:51.129867+00:00",
-  "https://www.franceinfo.fr/societe/harcelement-sexuel/plus-de-360-temoignages-de-violences-sexuelles-dans-les-ecoles-catholiques-lasalliennes-dans-une-soixantaine-d-etablissements_8216116.html": "2026-09-30T12:42:51.129867+00:00",
-  "https://www.franceinfo.fr/societe/education/parcoursup/parcoursup/manifestations-des-lyceens/blocages-des-lycees-le-point-sur-la-mobilisation-mercredi-en-fin-de-matinee_8216045.html": "2026-09-30T12:42:51.129867+00:00",
-  "https://www.franceinfo.fr/politique/jordan-bardella/ou-mediapart-manipule-l-opinion-publique-ou-mediapart-se-fait-enfumer-reagit-sebastien-chenu-apres-les-accusations-d-antisemitisme-contre-jordan-bardella_8216024.html": "2026-09-30T12:42:51.129867+00:00",
-  "https://www.franceinfo.fr/replay-radio/l-il-de-constance/du-lit-royal-au-sleep-divorce-la-chambre-a-part-fait-son-grand-retour_8194583.html": "2026-09-30T12:42:51.129867+00:00",
-  "https://www.franceinfo.fr/societe/education/parcoursup/parcoursup/manifestations-des-lyceens/le-depute-rn-sebastien-chenu-condamne-la-violence-des-blocus-de-lycees-et-leur-instrumentalisation-par-la-france-insoumise_8215916.html": "2026-09-30T12:42:51.129867+00:00",
-  "https://www.franceinfo.fr/replay-radio/histoire-du-jour/les-couples-de-femmes-se-repartissent-mieux-les-taches-domestiques-que-les-couples-heterosexuels_8215736.html": "2026-09-30T12:42:51.129867+00:00",
-  "https://www.franceinfo.fr/societe/education/scolarite/guide-parents/lycee/le-ministre-de-l-education-nationale-s-inquiete-de-la-violence-lors-des-blocages-de-lycees-tout-en-jugeant-des-revendications-legitimes_8215943.html": "2026-09-30T12:42:51.129867+00:00",
-  "https://www.franceinfo.fr/societe/education/il-faut-entendre-leurs-revendications-mais-certainement-pas-en-appelant-a-la-violence-reagit-yael-braun-pivet-aux-blocus-de-lyceens_8215919.html": "2026-09-30T12:42:51.129867+00:00",
-  "https://www.franceinfo.fr/politique/jordan-bardella/le-rn-a-change-en-surface-il-a-refait-la-facade-commente-francois-ruffin-apres-des-ecrits-antisemites-attribues-a-jordan-bardella-par-mediapart_8215892.html": "2026-09-30T12:42:51.129867+00:00",
-  "https://www.franceinfo.fr/replay-radio/ca-dit-quoi/violences-sur-discord-ia-ethique-et-une-femme-a-la-tete-du-gouvernement-marocain-ca-dit-quoi-ce-30-septembre_8207045.html": "2026-09-30T12:42:51.129867+00:00",
-  "https://www.franceinfo.fr/politique/jordan-bardella/si-les-faits-sont-averes-c-est-extremement-grave-pointe-yael-braun-pivet-apres-des-ecrits-antisemites-attribues-a-jordan-bardella_8215874.html": "2026-09-30T12:42:51.129867+00:00",
-  "https://www.franceinfo.fr/societe/harcelement/le-chef-d-orchestre-francais-frederic-chaslin-cite-dans-les-fichiers-epstein-mis-hors-de-cause-dans-une-affaire-de-harcelement-sexuel_8215853.html": "2026-09-30T12:42:51.129867+00:00",
-  "https://www.franceinfo.fr/politique/jordan-bardella/reportage-les-coups-bas-vont-pleuvoir-de-partout-a-la-seyne-sur-mer-les-electeurs-rn-prennent-la-defense-de-jordan-bardella_8215817.html": "2026-09-30T12:42:51.129867+00:00",
-  "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-au-rn-derriere-l-unite-de-facade-la-nuit-des-petits-couteaux_8194580.html": "2026-09-30T12:42:51.129867+00:00",
-  "https://www.franceinfo.fr/une-information-transparente-franceinfo/transparence-visite-du-pape-comment-une-pluie-de-remerciements-pas-tous-spontanes-s-est-abattue-sur-le-mediateur_8213972.html": "2026-09-30T12:42:51.129867+00:00"
+  "https://www.franceinfo.fr/societe/education/le-blocage-des-lycees-se-poursuit-partout-en-france-des-universites-pourraient-rejoindre-le-mouvement_8216944.html": "2026-09-30T20:05:26.193735+00:00",
+  "https://www.franceinfo.fr/faits-divers/un-professeur-de-l-universite-de-bordeaux-suspendu-apres-avoir-consulte-un-contenu-a-caractere-pornographique-en-plein-cours_8216953.html": "2026-09-30T20:05:26.193735+00:00",
+  "https://www.franceinfo.fr/replay-magazine/franceinfo/avant-le-20h/par-rapport-a-l-antisemitisme-je-sais-parfaitement-ou-j-habite-a-priori-monsieur-bardella-assez-peu-reagit-le-senateur-lr-max-brisson-apres-les-lecons-du-chef-du-rn_8216887.html": "2026-09-30T20:05:26.193735+00:00",
+  "https://www.franceinfo.fr/societe/education/parcoursup/parcoursup/manifestations-des-lyceens/les-lyceens-attendent-des-reponses-politiques-defend-le-depute-lfi-louis-boyard_8216860.html": "2026-09-30T20:05:26.193735+00:00",
+  "https://www.franceinfo.fr/societe/education/blocages-de-lycees-le-prefet-de-police-saisit-la-justice-contre-bally-bagayoko-pour-provocation-a-commettre-un-delit_8216851.html": "2026-09-30T20:05:26.193735+00:00",
+  "https://www.franceinfo.fr/replay-radio/la-question-des-informes/impunite-des-crimes-sexuels-en-serie-faut-il-creer-un-parquet-national-dedie_8216725.html": "2026-09-30T20:05:26.193735+00:00",
+  "https://www.franceinfo.fr/societe/antisemitisme/rafles-a-marseille-en-1943-c-est-la-collaboration-dans-ce-qu-elle-a-de-plus-flagrant-estime-un-historien_8216833.html": "2026-09-30T20:05:26.193735+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-ce-que-l-on-sait-de-l-operation-vivaldi-menee-pour-desserrer-la-tenaille-russe-dans-le-donbass_8216113.html": "2026-09-30T20:05:26.193735+00:00",
+  "https://www.franceinfo.fr/societe/education/on-constate-une-extension-du-mouvement-laurent-nunez-annonce-l-interpellation-de-625-personnes-apres-une-nouvelle-journee-de-mobilisation-des-lyceens_8216743.html": "2026-09-30T20:05:26.193735+00:00",
+  "https://www.franceinfo.fr/societe/justice/la-remise-a-l-allemagne-d-un-militant-antifasciste-albanais-surnomme-gino-enterinee-par-la-cour-de-cassation_8216710.html": "2026-09-30T20:05:26.193735+00:00",
+  "https://www.franceinfo.fr/societe/nos-jours-heureux/": "2026-09-30T20:05:26.193735+00:00",
+  "https://www.franceinfo.fr/societe/euthanasie/comprendre-les-debats-sur-la-fin-de-vie/": "2026-09-30T20:05:26.193735+00:00",
+  "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/on-minimise-la-dimension-systemique-pourquoi-la-rencontre-du-pape-leon-xiv-avec-sept-victimes-de-violences-sexuelles-provoque-des-crispations_8195732.html": "2026-09-30T20:05:26.193735+00:00",
+  "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/la-joie-des-catholiques-est-aussi-la-notre-comment-les-autres-cultes-vont-s-associer-a-la-visite-du-pape-en-france_8203265.html": "2026-09-30T20:05:26.193735+00:00",
+  "https://www.franceinfo.fr/culture/cinema/sorties-de-films/grand-entretien-sandrine-bonnaire-dans-le-film-le-monde-a-l-endroit-consacre-aux-personnes-victimes-de-violences-sexuelles-dans-l-enfance-j-ai-accepte-pour-faire-entendre-une-parole-qui-pour-certains-est-enfouie_8208254.html": "2026-09-30T20:05:26.193735+00:00",
+  "https://www.franceinfo.fr/societe/education/parcoursup/parcoursup/manifestations-des-lyceens/info-franceinfo-la-fage-premiere-organisation-etudiante-appelle-a-rejoindre-le-mouvement-des-lyceens-et-des-etudiants_8216566.html": "2026-09-30T20:05:26.193735+00:00",
+  "https://www.franceinfo.fr/politique/la-france-insoumise/gabriel-attal-eric-ciotti-raphael-glucksmann-bally-bagayoko-accuse-par-ses-adversaires-politiques-de-mettre-de-l-huile-sur-le-feu_8216404.html": "2026-09-30T20:05:26.193735+00:00",
+  "https://la1ere.franceinfo.fr/ary-chalus-le-president-de-la-region-guadeloupe-condamne-a-cinq-ans-d-ineligibilite-pour-detournement-de-fonds-publics-1743483.html": "2026-09-30T20:05:26.193735+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "Lille, Bordeaux, Lyon... De nouvelles tensions devant les lycées bloqués Alors que plusieurs lycées restent bloqués à Lille (Nord), Bordeaux (Gironde) ou Lyon (Rhône), de nouvelles tensions ont éclaté entre élèves et forces de l’ordre. Incendies, affrontements et interpellations se multiplient, sur fond de revendications concernant les conditions d’études et le manque de moyens dans les établissements. Aujourd'hui 1:41 vidéo 1 minute 41",
-   "link": "https://www.franceinfo.fr/societe/education/lille-bordeaux-lyon-de-nouvelles-tensions-devant-les-lycees-bloques_8216389.html",
-   "summary": "Lille, Bordeaux, Lyon... De nouvelles tensions devant les lycées bloqués",
-   "image": "https://www.franceinfo.fr/pictures/t8_Zmqm4ZQ4I9Y8-IrGb4XdWjhc/311x0:1441x777/432x297/filters:format(jpg)/2026/09/30/6abd000811b69696643099.jpg",
+   "title": "Le blocage des lycées se poursuit partout en France, des universités pourraient rejoindre le mouvement Au total, 356 lycées ont été bloqués à travers la France mercredi 30 septembre. Des universités, qui demandent également plus de moyens, envisagent de rejoindre le mouvement. Un appel à la mobilisation générale a été lancé pour le 1er octobre. Aujourd'hui 2:12 vidéo 2 minutes 12",
+   "link": "https://www.franceinfo.fr/societe/education/le-blocage-des-lycees-se-poursuit-partout-en-france-des-universites-pourraient-rejoindre-le-mouvement_8216944.html",
+   "summary": "Le blocage des lycées se poursuit partout en France, des universités pourraient rejoindre le mouvement",
+   "image": "https://www.franceinfo.fr/pictures/7tn49SE6vJNLKWHJLefoxxF1Axw/118x0:1384x871/432x297/filters:format(jpg)/2026/09/30/6abd678282a69743366430.jpg",
    "date": null,
-   "pubdate": "2026-09-30T12:42:51.129867+00:00"
+   "pubdate": "2026-09-30T20:05:26.193735+00:00"
   },
   {
-   "title": "Blocage des lycées : un mineur présenté à la justice pour des violences sans incapacité sur un policier à Ivry-sur-Seine",
-   "link": "https://www.franceinfo.fr/societe/education/parcoursup/parcoursup/manifestations-des-lyceens/blocage-des-lycees-un-mineur-presente-a-la-justice-pour-des-violences-sans-incapacite-sur-un-policier-a-ivry-sur-seine_8216368.html",
+   "title": "Un professeur de l'université de Bordeaux suspendu après avoir consulté un contenu à caractère pornographique en plein cours",
+   "link": "https://www.franceinfo.fr/faits-divers/un-professeur-de-l-universite-de-bordeaux-suspendu-apres-avoir-consulte-un-contenu-a-caractere-pornographique-en-plein-cours_8216953.html",
    "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/AF-bQB-4-WI4bEtXg1-Ub9yeTJQ/0x141:7477x4347/432x243/filters:format(jpg)/2026/09/30/6abd67ec8f884545330191.jpg",
+   "date": null,
+   "pubdate": "2026-09-30T20:05:26.193735+00:00"
+  },
+  {
+   "title": "19:13 vidéo 19 minutes 13 \"Par rapport à l'antisémitisme, je sais parfaitement où j'habite. A priori, Monsieur Bardella, assez peu\", réagit le sénateur LR Max Brisson après les \"leçons\" du chef du RN",
+   "link": "https://www.franceinfo.fr/replay-magazine/franceinfo/avant-le-20h/par-rapport-a-l-antisemitisme-je-sais-parfaitement-ou-j-habite-a-priori-monsieur-bardella-assez-peu-reagit-le-senateur-lr-max-brisson-apres-les-lecons-du-chef-du-rn_8216887.html",
+   "summary": "\"Par rapport à l'antisémitisme, je sais parfaitement où j'habite. A priori, Monsieur Bardella, assez peu\", réagit le sénateur LR Max Brisson après les \"leçons\" du chef du RN",
+   "image": "https://www.franceinfo.fr/pictures/dqxCuG-ostLdjw43MpSI_xfqFUU/13x0:1204x670/432x243/filters:format(jpg)/2026/09/30/6abd51d2a9233400546589.jpg",
+   "date": null,
+   "pubdate": "2026-09-30T20:05:26.193735+00:00"
+  },
+  {
+   "title": "Les lycéens \"attendent des réponses politiques\", défend le député LFI Louis Boyard",
+   "link": "https://www.franceinfo.fr/societe/education/parcoursup/parcoursup/manifestations-des-lyceens/les-lyceens-attendent-des-reponses-politiques-defend-le-depute-lfi-louis-boyard_8216860.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/TndVgy7KzOiHVvKmx5Z1RfyPvyE/0x0:6000x3375/432x243/filters:format(jpg)/2026/09/30/6abd459560c78587117318.jpg",
+   "date": null,
+   "pubdate": "2026-09-30T20:05:26.193735+00:00"
+  },
+  {
+   "title": "Blocages de lycées : le préfet de police saisit la justice contre Bally Bagayoko pour \"provocation à commettre un délit\"",
+   "link": "https://www.franceinfo.fr/societe/education/blocages-de-lycees-le-prefet-de-police-saisit-la-justice-contre-bally-bagayoko-pour-provocation-a-commettre-un-delit_8216851.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/sRUENseG22wSdRK5zyH1vO9Ew60/0x312:6000x3687/432x243/filters:format(jpg)/2026/09/30/6abd42f55d46f512640006.jpg",
+   "date": null,
+   "pubdate": "2026-09-30T20:05:26.193735+00:00"
+  },
+  {
+   "title": "7:49 audio 7 minutes 49 Impunité des crimes sexuels en série : faut-il créer un parquet national dédié ?",
+   "link": "https://www.franceinfo.fr/replay-radio/la-question-des-informes/impunite-des-crimes-sexuels-en-serie-faut-il-creer-un-parquet-national-dedie_8216725.html",
+   "summary": "Impunité des crimes sexuels en série : faut-il créer un parquet national dédié ?",
+   "image": "https://www.franceinfo.fr/pictures/GOi_eiEDI_A6tSfkLpNDszBHnFI/0x0:4176x2349/432x243/filters:format(jpg)/2026/09/30/6abd42be3c7c4679742810.jpg",
+   "date": null,
+   "pubdate": "2026-09-30T20:05:26.193735+00:00"
+  },
+  {
+   "title": ": Entretien 5:36 audio 5 minutes 36 : Entretien Rafles à Marseille en 1943 : \"C'est la collaboration dans ce qu'elle a de plus flagrant\", estime un historien",
+   "link": "https://www.franceinfo.fr/societe/antisemitisme/rafles-a-marseille-en-1943-c-est-la-collaboration-dans-ce-qu-elle-a-de-plus-flagrant-estime-un-historien_8216833.html",
+   "summary": "Rafles à Marseille en 1943 : \"C'est la collaboration dans ce qu'elle a de plus flagrant\", estime un historien",
+   "image": "https://www.franceinfo.fr/pictures/GBg4nHD7d5esRqFXdgQvRTOQeTA/0x260:5000x3072/432x243/filters:format(jpg)/2026/09/30/6abd403477294859154907.jpg",
+   "date": null,
+   "pubdate": "2026-09-30T20:05:26.193735+00:00"
+  },
+  {
+   "title": "Guerre en Ukraine : ce que l'on sait de l'opération \"Vivaldi\" menée pour desserrer la tenaille russe dans le Donbass",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-ce-que-l-on-sait-de-l-operation-vivaldi-menee-pour-desserrer-la-tenaille-russe-dans-le-donbass_8216113.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/HdnA0uMDQLObAjVEyv9f_01Dd7I/0x42:1024x618/432x243/filters:format(jpg)/2026/09/30/6abd1fd2a393e250557616.jpg",
+   "date": null,
+   "pubdate": "2026-09-30T20:05:26.193735+00:00"
+  },
+  {
+   "title": "Alors que la mobilisation du mouvement lycéen s'étend, le gouvernement tente d'y répondre par le lancement d' une \"plateforme de concertation\"",
+   "link": "https://www.franceinfo.fr/societe/education/on-constate-une-extension-du-mouvement-laurent-nunez-annonce-l-interpellation-de-625-personnes-apres-une-nouvelle-journee-de-mobilisation-des-lyceens_8216743.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/CBLWwmqu9UED6Hjc55d_YdDfl2Q/0x0:5296x2979/432x243/filters:format(jpg)/2026/09/30/6abd38864d181628804031.jpg",
+   "date": null,
+   "pubdate": "2026-09-30T20:05:26.193735+00:00"
+  },
+  {
+   "title": "La remise à l'Allemagne d'un militant antifasciste albanais, surnommé \"Gino\", entérinée par la Cour de cassation",
+   "link": "https://www.franceinfo.fr/societe/justice/la-remise-a-l-allemagne-d-un-militant-antifasciste-albanais-surnomme-gino-enterinee-par-la-cour-de-cassation_8216710.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/eLoxDZIf6dJ31goLsUN1r7fQfgI/0x0:1024x576/432x243/filters:format(jpg)/2026/09/30/6abd330b43484664792160.jpg",
+   "date": null,
+   "pubdate": "2026-09-30T20:05:26.193735+00:00"
+  },
+  {
+   "title": "Nos jours heureux 5 contenus",
+   "link": "https://www.franceinfo.fr/societe/nos-jours-heureux/",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/70hxXkCD_HnVl93vv3dfs138KJQ/432x297/filters:format(jpg)/2026/07/30/6a6b142e19c9c745704318.jpg",
+   "date": null,
+   "pubdate": "2026-09-30T20:05:26.193735+00:00"
+  },
+  {
+   "title": "Comprendre les débats sur la fin de vie 15 contenus",
+   "link": "https://www.franceinfo.fr/societe/euthanasie/comprendre-les-debats-sur-la-fin-de-vie/",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/gZwL6mlJ39yMRDzurzn4EQx_sgw/432x297/filters:format(jpg)/2025/05/27/illustration-aide-a-mourir-68357ca797624128014806.jpg",
+   "date": null,
+   "pubdate": "2026-09-30T20:05:26.193735+00:00"
+  },
+  {
+   "title": "5:00 article 5 minutes \"On minimise la dimension systémique\" : pourquoi la rencontre du pape Léon XIV avec sept victimes de violences sexuelles provoque des crispations",
+   "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/on-minimise-la-dimension-systemique-pourquoi-la-rencontre-du-pape-leon-xiv-avec-sept-victimes-de-violences-sexuelles-provoque-des-crispations_8195732.html",
+   "summary": "\"On minimise la dimension systémique\" : pourquoi la rencontre du pape Léon XIV avec sept victimes de violences sexuelles provoque des crispations",
+   "image": "https://www.franceinfo.fr/pictures/vsfmHY04LI40ZetDn6W2U19ti_E/840x0:3000x2160/100x100/filters:format(jpg)/2026/09/25/6ab6494f5ce4b156799017.jpg",
+   "date": null,
+   "pubdate": "2026-09-30T20:05:26.193735+00:00"
+  },
+  {
+   "title": "7:00 article 7 minutes \"La joie des catholiques est aussi la nôtre\" : comment les autres cultes vont s'associer à la visite du pape en France",
+   "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/la-joie-des-catholiques-est-aussi-la-notre-comment-les-autres-cultes-vont-s-associer-a-la-visite-du-pape-en-france_8203265.html",
+   "summary": "\"La joie des catholiques est aussi la nôtre\" : comment les autres cultes vont s'associer à la visite du pape en France",
+   "image": "https://www.franceinfo.fr/pictures/qEEZSZnnc_mSYbKHZvMZl1ZyPAY/840x0:3000x2160/100x100/filters:format(jpg)/2026/09/23/6ab3f507b72af210016300.jpg",
+   "date": null,
+   "pubdate": "2026-09-30T20:05:26.193735+00:00"
+  },
+  {
+   "title": ": Grand entretien Sandrine Bonnaire dans le film \"Le Monde à l'endroit\" consacré aux personnes victimes de violences sexuelles dans l'enfance : \"J'ai accepté pour faire entendre une parole qui, pour certains, est enfouie\" Elle habite nos écrans depuis plus de quatre décennies et ses apparitions au théâtre, jusqu'ici rares, ne sont pas passées inaperçues. Et quand Sandrine Bonnaire quitte ses habits de comédienne, c'est toujours pour exprimer une parole essentielle comme elle le fait depuis des années, entre autres, sur les violences dont sont victimes les femmes. Rencontre dans les hauteurs de Paris pour une conversation à bâtons rompus.",
+   "link": "https://www.franceinfo.fr/culture/cinema/sorties-de-films/grand-entretien-sandrine-bonnaire-dans-le-film-le-monde-a-l-endroit-consacre-aux-personnes-victimes-de-violences-sexuelles-dans-l-enfance-j-ai-accepte-pour-faire-entendre-une-parole-qui-pour-certains-est-enfouie_8208254.html",
+   "summary": "Sandrine Bonnaire dans le film \"Le Monde à l'endroit\" consacré aux personnes victimes de violences sexuelles dans l'enfance : \"J'ai accepté pour faire entendre une parole qui, pour certains, est enfouie\"",
+   "image": "https://www.franceinfo.fr/pictures/vu61HhQzaMmbcgdZlFKSsGlpB4g/0x53:1024x629/432x243/filters:format(jpg)/2026/09/30/6abcd0cb03398252491286.jpg",
+   "date": null,
+   "pubdate": "2026-09-30T20:05:26.193735+00:00"
+  },
+  {
+   "title": ": Info franceinfo La Fage, première organisation étudiante, appelle à rejoindre le mouvement des lycéens et des étudiants La Fédération des associations générales étudiantes (Fage) se mobilisera jeudi, pour \"des financements à la hauteur pour les lycées comme pour les universités\".",
+   "link": "https://www.franceinfo.fr/societe/education/parcoursup/parcoursup/manifestations-des-lyceens/info-franceinfo-la-fage-premiere-organisation-etudiante-appelle-a-rejoindre-le-mouvement-des-lyceens-et-des-etudiants_8216566.html",
+   "summary": "La Fage, première organisation étudiante, appelle à rejoindre le mouvement des lycéens et des étudiants",
+   "image": "https://www.franceinfo.fr/pictures/7UDb2aj-E2vXuTfi99_hTkl_pGw/0x0:4252x2391/432x243/filters:format(jpg)/2026/09/30/6abd20646b2e1438473193.jpg",
+   "date": null,
+   "pubdate": "2026-09-30T20:05:26.193735+00:00"
+  },
+  {
+   "title": "Gabriel Attal, Éric Ciotti, Raphaël Glucksmann... Bally Bagayoko accusé par ses adversaires politiques de mettre de l'huile sur le feu Les propos du maire LFI de Saint-Denis, Bally Bagayoko, font polémique, en pleine contestation lycéenne. Devant un lycée bloqué de sa ville, l'élu insoumis affirme que \"la violence peut être légitime\" dans certains cas.",
+   "link": "https://www.franceinfo.fr/politique/la-france-insoumise/gabriel-attal-eric-ciotti-raphael-glucksmann-bally-bagayoko-accuse-par-ses-adversaires-politiques-de-mettre-de-l-huile-sur-le-feu_8216404.html",
+   "summary": "Gabriel Attal, Éric Ciotti, Raphaël Glucksmann... Bally Bagayoko accusé par ses adversaires politiques de mettre de l'huile sur le feu",
+   "image": "https://www.franceinfo.fr/pictures/zwYNUAO2Ckm9AX1PHuax_CwWj5M/0x0:5000x2812/432x243/filters:format(jpg)/2026/09/30/6abd0f89e0e74287658596.jpg",
+   "date": null,
+   "pubdate": "2026-09-30T20:05:26.193735+00:00"
+  },
+  {
+   "title": "Ary Chalus, le président de la région Guadeloupe, condamné à cinq ans d'inéligibilité pour détournement de fonds publics Le tribunal correctionnel de Paris a condamné Ary Chalus à deux ans de prison avec sursis, 100 000 euros d'amende et une peine d’inéligibilité de cinq ans pour détournement de fonds publics. S'il renonce à faire appel, il devra quitter son mandat à la présidence de la région Guadeloupe.",
+   "link": "https://la1ere.franceinfo.fr/ary-chalus-le-president-de-la-region-guadeloupe-condamne-a-cinq-ans-d-ineligibilite-pour-detournement-de-fonds-publics-1743483.html",
+   "summary": "Ary Chalus, le président de la région Guadeloupe, condamné à cinq ans d'inéligibilité pour détournement de fonds publics",
+   "image": "https://www.franceinfo.fr/pictures/apMAu8ZMXMuoktit4DqXCEB4cbA/432x243/filters:format(jpg)/2026/09/30/6abcfe7e6039f395012304.png",
+   "date": null,
+   "pubdate": "2026-09-30T20:05:26.193735+00:00"
+  },
+  {
+   "title": "Blocage des lycées : un mineur présenté à la justice pour des violences sans incapacité sur un policier à Ivry-sur-Seine Le jeune homme a mis en joue des policiers avec un pistolet à billes, avant d'être interpellé.",
+   "link": "https://www.franceinfo.fr/societe/education/parcoursup/parcoursup/manifestations-des-lyceens/blocage-des-lycees-un-mineur-presente-a-la-justice-pour-des-violences-sans-incapacite-sur-un-policier-a-ivry-sur-seine_8216368.html",
+   "summary": "Blocage des lycées : un mineur présenté à la justice pour des violences sans incapacité sur un policier à Ivry-sur-Seine",
    "image": "https://www.franceinfo.fr/pictures/QIhD_DV7oQbMt_gjg7q8at5BtM8/0x255:4903x3013/432x243/filters:format(jpg)/2026/02/11/maxnewsfrfive030652-698cf15e81656384031969.jpg",
    "date": null,
    "pubdate": "2026-09-30T12:42:51.129867+00:00"
   },
   {
-   "title": "1:06 vidéo 1 minute 6 Des matières fécales dans l’eau de ce collège",
-   "link": "https://www.franceinfo.fr/societe/education/scolarite/guide-parents/college/des-matieres-fecales-dans-l-eau-de-ce-college_8216332.html",
-   "summary": "Des matières fécales dans l’eau de ce collège",
-   "image": "https://www.franceinfo.fr/pictures/AZnJs3n1D5z2-ucbkrbarGkaJA4/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/30/6abcf11cd6b54042915286.jpg",
-   "date": null,
-   "pubdate": "2026-09-30T12:42:51.129867+00:00"
-  },
-  {
-   "title": "\"Il s'est présenté spontanément au commissariat\" : un jeune homme mis en examen dans l'enquête sur les menaces contre le maire d'Alès",
+   "title": "\"Il s'est présenté spontanément au commissariat\" : un jeune homme mis en examen dans l'enquête sur les menaces contre le maire d'Alès L'homme, âgé de 20 ans, né dans le Gard, est notamment poursuivi pour association de malfaiteurs criminelle en bande organisée. Il est placé en détention provisoire.",
    "link": "https://www.franceinfo.fr/societe/drogue/il-s-est-presente-spontanement-au-commissariat-un-jeune-homme-mis-en-examen-dans-l-enquete-sur-les-menaces-contre-le-maire-d-ales_8216287.html",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/DqfCk-E_7Jy6awZIT7c1JC7Kwro/0x53:1024x629/432x243/filters:format(jpg)/2026/09/30/6abcf34d390f3960036417.jpg",
+   "summary": "\"Il s'est présenté spontanément au commissariat\" : un jeune homme mis en examen dans l'enquête sur les menaces contre le maire d'Alès",
+   "image": "https://www.franceinfo.fr/pictures/i6SnBWW8GjorVSEHrWuznxqq22w/0x0:1024x576/432x243/filters:format(jpg)/2026/09/30/6abcf34d390f3960036417.jpg",
    "date": null,
    "pubdate": "2026-09-30T12:42:51.129867+00:00"
   },
   {
-   "title": "Le tribunal annule les municipales à Noisy-le-Sec pour des déclarations de candidatures non conformes",
+   "title": "Le tribunal annule les municipales à Noisy-le-Sec pour des déclarations de candidatures non conformes La justice évoque le fait que plusieurs candidats de la liste arrivée en deuxième position n'ont pas signé eux-mêmes leur formulaire.",
    "link": "https://www.franceinfo.fr/elections/municipales/le-tribunal-annule-les-municipales-a-noisy-le-sec-pour-des-declarations-de-candidatures-non-conformes_8216311.html",
-   "summary": "",
+   "summary": "Le tribunal annule les municipales à Noisy-le-Sec pour des déclarations de candidatures non conformes",
    "image": "https://www.franceinfo.fr/pictures/a4Htx-aTjEitzdW91bMTfgRSIQQ/0x0:1024x576/432x243/filters:format(jpg)/2026/09/30/6abcf1c00955f780325500.jpg",
    "date": null,
    "pubdate": "2026-09-30T12:42:51.129867+00:00"
   },
   {
-   "title": "\"On dirait qu'il joue un double jeu\" : dans la communauté juive, peu de soutien pour Jordan Bardella après les propos antisémites révélés par Mediapart",
+   "title": "\"On dirait qu'il joue un double jeu\" : dans la communauté juive, peu de soutien pour Jordan Bardella après les propos antisémites révélés par Mediapart Au sein de la communauté juive, les récentes révélations suscitent des réactions contrastées entre la colère et le scepticisme quant à la véracité des faits. Aussi, les personnes interrogées ne sont pas surprises que l’affaire concerne le Rassemblement national.",
    "link": "https://www.franceinfo.fr/politique/jordan-bardella/on-dirait-qu-il-joue-un-double-jeu-dans-la-communaute-juive-peu-de-soutien-pour-jordan-bardella-apres-les-propos-antisemites-reveles-par-mediapart_8216086.html",
-   "summary": "",
+   "summary": "\"On dirait qu'il joue un double jeu\" : dans la communauté juive, peu de soutien pour Jordan Bardella après les propos antisémites révélés par Mediapart",
    "image": "https://www.franceinfo.fr/pictures/h20LiZsjyNwvilYuQp3QWJLZzO4/0x294:3502x2262/432x243/filters:format(jpg)/2018/11/27/phpwGwIBB.jpg",
    "date": null,
    "pubdate": "2026-09-30T12:42:51.129867+00:00"
   },
   {
-   "title": "1:01 vidéo 1 minute 1 Un ado blessé après le tir d’un policier",
-   "link": "https://www.franceinfo.fr/societe/education/scolarite/guide-parents/lycee/un-ado-blesse-apres-le-tir-d-un-policier_8216323.html",
-   "summary": "Un ado blessé après le tir d’un policier",
-   "image": "https://www.franceinfo.fr/pictures/3NVYR23R4GOD9i3JjffEbOGfOI0/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/30/6abcefe3920ad940275954.jpg",
-   "date": null,
-   "pubdate": "2026-09-30T12:42:51.129867+00:00"
-  },
-  {
-   "title": "Ouicem Kattoursi, l’un des plus gros narcotrafiquants français, va être extradé prochainement vers la France",
+   "title": "Ouicem Kattoursi, l’un des plus gros narcotrafiquants français, va être extradé prochainement vers la France Les enquêteurs espèrent notamment retracer le rôle précis de Ouicem Kattoursi dans les circuits d’importation de cocaïne en France. Ils le comparent aux \"vieux chefs mafieux qui dirigent par la parole\".",
    "link": "https://www.franceinfo.fr/societe/drogue/ouicem-kattoursi-l-un-des-plus-gros-narcotrafiquants-francais-va-etre-extrade-prochainement-vers-la-france_8216284.html",
-   "summary": "",
+   "summary": "Ouicem Kattoursi, l’un des plus gros narcotrafiquants français, va être extradé prochainement vers la France",
    "image": "https://www.franceinfo.fr/pictures/EWNRV2Bq0JW2Fc3uQYBjmdheGOA/0x53:1024x629/432x243/filters:format(jpg)/2026/06/24/6a3b67aa0dea8077438645.jpg",
    "date": null,
    "pubdate": "2026-09-30T12:42:51.129867+00:00"
   },
   {
-   "title": "Des soupçons de tir de LBD au visage d’un lycéen à Tours, l'IGPN saisie",
+   "title": "Des soupçons de tir de LBD au visage d’un lycéen à Tours, l'IGPN saisie Le lycéen participait au blocage de son établissement quand il a été grièvement blessé au visage. Des témoins parlent d'un tir policier de LBD.",
    "link": "https://www.franceinfo.fr/faits-divers/des-soupcons-de-tir-de-lbd-au-visage-d-un-lyceen-a-tours-les-videos-des-cameras-pietons-vont-etre-analysees_8216266.html",
-   "summary": "",
+   "summary": "Des soupçons de tir de LBD au visage d’un lycéen à Tours, l'IGPN saisie",
    "image": "https://www.franceinfo.fr/pictures/znFy8-Edma7EG6HADUA02ZO27dQ/0x53:1024x629/432x243/filters:format(jpg)/2026/09/30/6abce8422e9f7785125618.jpg",
    "date": null,
    "pubdate": "2026-09-30T12:42:51.129867+00:00"
   },
   {
-   "title": "La justice reconnaît comme \"crime contre l'humanité\" les rafles menées en 1943 à Marseille",
+   "title": "La justice reconnaît comme \"crime contre l'humanité\" les rafles menées en 1943 à Marseille L'enquête judiciaire ouverte en 2019 n'a toutefois pas permis d'identifier des responsables encore vivants impliqués dans ces opérations, a expliqué le procureur national antiterroriste.",
    "link": "https://www.franceinfo.fr/societe/seconde-guerre-mondiale/la-justice-reconnait-comme-crime-contre-l-humanite-les-rafles-menees-en-1943-a-marseille_8216224.html",
-   "summary": "",
+   "summary": "La justice reconnaît comme \"crime contre l'humanité\" les rafles menées en 1943 à Marseille",
    "image": "https://www.franceinfo.fr/pictures/ZdAV-UkUW3YPRoSTIDxoO_JjCzw/0x147:5808x3414/432x243/filters:format(jpg)/2026/09/30/6abce472f042f701805561.jpg",
    "date": null,
    "pubdate": "2026-09-30T12:42:51.129867+00:00"
@@ -124,146 +242,10 @@
    "pubdate": "2026-09-30T12:42:51.129867+00:00"
   },
   {
-   "title": "Pourquoi la réouverture de l'enquête sur un viol collectif dans une prestigieuse université suscite une vague d'indignation aux Etats-Unis La justice américaine a rouvert lundi une enquête sur un viol collectif au sein de l'université privée de Cornell, après le dépôt d'une nouvelle plainte. L'affaire, qui à l'époque n'avait pas entraîné de poursuites, suscite l'indignation dans le pays. La plaignante affirme avoir été droguée et violée par sept membres d'un groupe étudiant lors d'une soirée.",
-   "link": "https://www.franceinfo.fr/societe/harcelement-sexuel/pourquoi-la-reouverture-d-une-enquete-pour-un-viol-collectif-presume-dans-une-prestigieuse-universite-suscite-une-avalanche-de-reactions-aux-etats-unis_8215316.html",
-   "summary": "Pourquoi la réouverture de l'enquête sur un viol collectif dans une prestigieuse université suscite une vague d'indignation aux Etats-Unis",
-   "image": "https://www.franceinfo.fr/pictures/3FKZFZZlPwkm-YK1w_tyfYlSkQg/0x16:3000x1704/432x243/filters:format(jpg)/2026/09/29/6abc0691b5a20745780287.jpg",
-   "date": null,
-   "pubdate": "2026-09-30T12:42:51.129867+00:00"
-  },
-  {
-   "title": "Plus de 360 témoignages de violences sexuelles dans les écoles catholiques lasalliennes dans une soixantaine d’établissements Des \"actes odieux\" qui se sont déroulés \"de 1960 à nos jours\", détaille Philippe Chemineau, président de l'association Mémoire vérité et reconnaissance. Des faits récents ont également été rapportés.",
-   "link": "https://www.franceinfo.fr/societe/harcelement-sexuel/plus-de-360-temoignages-de-violences-sexuelles-dans-les-ecoles-catholiques-lasalliennes-dans-une-soixantaine-d-etablissements_8216116.html",
-   "summary": "Plus de 360 témoignages de violences sexuelles dans les écoles catholiques lasalliennes dans une soixantaine d’établissements",
-   "image": "https://www.franceinfo.fr/pictures/99VItJlb0qTnAgc1tWgvien4G9M/0x92:1117x721/432x243/filters:format(jpg)/2026/02/04/capture-d-ecran-2026-02-04-102631-69831116bec11187099149.png",
-   "date": null,
-   "pubdate": "2026-09-30T12:42:51.129867+00:00"
-  },
-  {
-   "title": "Blocages des lycées : le point sur la mobilisation mercredi à la mi-journée A Dijon, Grenoble, Amiens, Marseille et Aix-en-Provence... Les lycéens ne désarment pas et réclament notamment des professeurs. \"7% des heures de cours ne sont pas assurées\", a confirmé sur RTL le ministre de l'Education.",
-   "link": "https://www.franceinfo.fr/societe/education/parcoursup/parcoursup/manifestations-des-lyceens/blocages-des-lycees-le-point-sur-la-mobilisation-mercredi-en-fin-de-matinee_8216045.html",
-   "summary": "Blocages des lycées : le point sur la mobilisation mercredi à la mi-journée",
-   "image": "https://www.franceinfo.fr/pictures/c4z4MfG5E-uCDe123WzniX8CwR0/0x535:5712x3748/432x243/filters:format(jpg)/2026/09/30/6abcd0d5bda86693752333.jpg",
-   "date": null,
-   "pubdate": "2026-09-30T12:42:51.129867+00:00"
-  },
-  {
-   "title": "\"Ou Mediapart manipule l'opinion publique ou Mediapart se fait enfumer\", réagit Sébastien Chenu après les accusations d'antisémitisme contre Jordan Bardella \"Dans les deux cas, cette perturbation de la campagne électorale aura des suites judiciaires\", confirme le député RN.",
-   "link": "https://www.franceinfo.fr/politique/jordan-bardella/ou-mediapart-manipule-l-opinion-publique-ou-mediapart-se-fait-enfumer-reagit-sebastien-chenu-apres-les-accusations-d-antisemitisme-contre-jordan-bardella_8216024.html",
-   "summary": "\"Ou Mediapart manipule l'opinion publique ou Mediapart se fait enfumer\", réagit Sébastien Chenu après les accusations d'antisémitisme contre Jordan Bardella",
-   "image": "https://www.franceinfo.fr/pictures/3cn7SUPrlrkXumIjUZuDvgp0JGM/0x0:1664x936/432x243/filters:format(jpg)/2026/09/30/6abccb9ae049c143861922.jpg",
-   "date": null,
-   "pubdate": "2026-09-30T12:42:51.129867+00:00"
-  },
-  {
-   "title": "2:42 audio 2 minutes 42 Du lit royal au \"sleep divorce\", la chambre à part fait son grand retour Longtemps synonyme de crise conjugale, la chambre à part revient en force, portée par les millennials et l'obsession de l'optimisation du sommeil.",
-   "link": "https://www.franceinfo.fr/replay-radio/l-il-de-constance/du-lit-royal-au-sleep-divorce-la-chambre-a-part-fait-son-grand-retour_8194583.html",
-   "summary": "Du lit royal au \"sleep divorce\", la chambre à part fait son grand retour",
-   "image": "https://www.franceinfo.fr/pictures/4I4ObOc51HvnVBoD0w2dHbGH7CU/0x0:6720x3778/432x243/filters:format(jpg)/2024/09/25/sommeil-66f3a28594a7b108537202.jpg",
-   "date": null,
-   "pubdate": "2026-09-30T12:42:51.129867+00:00"
-  },
-  {
-   "title": "Le député RN Sébastien Chenu condamne \"la violence\" des blocus de lycées et leur \"instrumentalisation par La France insoumise\" \"Si un élu RN avait dit comme le maire LFI Bally Bagayoko que 'la violence peut être légitime', vous seriez en édition spéciale\", observe Sébastien Chenu.",
-   "link": "https://www.franceinfo.fr/societe/education/parcoursup/parcoursup/manifestations-des-lyceens/le-depute-rn-sebastien-chenu-condamne-la-violence-des-blocus-de-lycees-et-leur-instrumentalisation-par-la-france-insoumise_8215916.html",
-   "summary": "Le député RN Sébastien Chenu condamne \"la violence\" des blocus de lycées et leur \"instrumentalisation par La France insoumise\"",
-   "image": "https://www.franceinfo.fr/pictures/2CYCKrGvfSBtLTBbhYTIdIkNffE/0x100:1024x676/432x243/filters:format(jpg)/2026/09/30/6abcc44d3cebf522883045.jpg",
-   "date": null,
-   "pubdate": "2026-09-30T12:42:51.129867+00:00"
-  },
-  {
-   "title": "2:28 audio 2 minutes 28 Les couples de femmes se répartissent mieux les tâches domestiques que les couples hétérosexuels L'INED (Institut national d'études démographiques) publie, mercredi, une étude qui montre que la répartition des tâches domestiques est plus égalitaire chez les couples de lesbiennes que chez les couples hétérosexuels. Chez les couples d'hommes, la situation est plus contrastée.",
-   "link": "https://www.franceinfo.fr/replay-radio/histoire-du-jour/les-couples-de-femmes-se-repartissent-mieux-les-taches-domestiques-que-les-couples-heterosexuels_8215736.html",
-   "summary": "Les couples de femmes se répartissent mieux les tâches domestiques que les couples hétérosexuels",
-   "image": "https://www.franceinfo.fr/pictures/A17EsfowM49TGUUXNjEStfNzHpk/0x0:4793x2696/432x243/filters:format(jpg)/2026/09/30/6abcc1c82c780042414423.jpg",
-   "date": null,
-   "pubdate": "2026-09-30T12:42:51.129867+00:00"
-  },
-  {
-   "title": "Le ministre de l'Education nationale s'inquiète de la violence lors des blocages de lycées, tout en jugeant des revendications \"légitimes\" \"Depuis le début de la mobilisation, nous en sommes à 76 personnes qui ont été blessées (...), soit des élèves, soit des personnels\", a affirmé Édouard Geffray.",
-   "link": "https://www.franceinfo.fr/societe/education/scolarite/guide-parents/lycee/le-ministre-de-l-education-nationale-s-inquiete-de-la-violence-lors-des-blocages-de-lycees-tout-en-jugeant-des-revendications-legitimes_8215943.html",
-   "summary": "Le ministre de l'Education nationale s'inquiète de la violence lors des blocages de lycées, tout en jugeant des revendications \"légitimes\"",
-   "image": "https://www.franceinfo.fr/pictures/OpmuPz6rH5a4kxrOoL-XaJlQEpk/0x289:5563x3419/432x243/filters:format(jpg)/2026/09/30/6abcc11930f01226176303.jpg",
-   "date": null,
-   "pubdate": "2026-09-30T12:42:51.129867+00:00"
-  },
-  {
-   "title": "\"Il faut entendre leurs revendications, mais certainement pas en appelant à la violence\", réagit Yaël Braun-Pivet, aux blocus de lycéens La présidente de l'Assemblée nationale déplore également le soutien affichés par certains \"élus de la République\" alors que plus de 440 lycéens ont été interpellés.",
-   "link": "https://www.franceinfo.fr/societe/education/il-faut-entendre-leurs-revendications-mais-certainement-pas-en-appelant-a-la-violence-reagit-yael-braun-pivet-aux-blocus-de-lyceens_8215919.html",
-   "summary": "\"Il faut entendre leurs revendications, mais certainement pas en appelant à la violence\", réagit Yaël Braun-Pivet, aux blocus de lycéens",
-   "image": "https://www.franceinfo.fr/pictures/YnAu3qAHkoiCRgbAZ5ZvMUqi-eU/97x0:1097x562/432x243/filters:format(jpg)/2026/09/30/6abcba6581c6a896281678.jpg",
-   "date": null,
-   "pubdate": "2026-09-30T12:42:51.129867+00:00"
-  },
-  {
-   "title": "\"Le RN a changé en surface, il a refait la façade\", commente François Ruffin, après des écrits antisémites attribués à Jordan Bardella par Mediapart François Ruffin rappelle que ce parti \"a été fondé par des Waffen-SS\" et fustige \"toute une culture politique\".",
-   "link": "https://www.franceinfo.fr/politique/jordan-bardella/le-rn-a-change-en-surface-il-a-refait-la-facade-commente-francois-ruffin-apres-des-ecrits-antisemites-attribues-a-jordan-bardella-par-mediapart_8215892.html",
-   "summary": "\"Le RN a changé en surface, il a refait la façade\", commente François Ruffin, après des écrits antisémites attribués à Jordan Bardella par Mediapart",
-   "image": "https://www.franceinfo.fr/pictures/9ufJJcgzgxavV9gwhVeuPIv2H-0/0x0:1024x576/432x243/filters:format(jpg)/2026/09/30/6abcb59394ea4827873456.jpg",
-   "date": null,
-   "pubdate": "2026-09-30T12:42:51.129867+00:00"
-  },
-  {
-   "title": ": Podcast 6:04 audio 6 minutes 4 Violences sur Discord, IA \"éthique\" et une femme à la tête du gouvernement marocain : ça dit quoi ce 30 septembre ? Ce mercredi 30 septembre, l'association E-Enfance alerte sur l'augmentation des violences faites aux enfants sur Discord, en Suisse une entreprise a développé une IA éthique et le roi du Maroc a appelé Fatima Ezzahra El Mansouri à former un gouvernement.",
-   "link": "https://www.franceinfo.fr/replay-radio/ca-dit-quoi/violences-sur-discord-ia-ethique-et-une-femme-a-la-tete-du-gouvernement-marocain-ca-dit-quoi-ce-30-septembre_8207045.html",
-   "summary": "Violences sur Discord, IA \"éthique\" et une femme à la tête du gouvernement marocain : ça dit quoi ce 30 septembre ?",
-   "image": "https://www.franceinfo.fr/pictures/MGy5U5ucHcA1WtmPX_wRqHErqTA/0x26:1436x834/432x243/filters:format(jpg)/2026/09/30/6abcb312b501b048252936.png",
-   "date": null,
-   "pubdate": "2026-09-30T12:42:51.129867+00:00"
-  },
-  {
-   "title": "\"Si les faits sont avérés, c'est extrêmement grave\", pointe Yaël Braun-Pivet, après des écrits antisémites attribués à Jordan Bardella \"La République a le droit de savoir\", revendique la présidente de l'Assemblée nationale.",
-   "link": "https://www.franceinfo.fr/politique/jordan-bardella/si-les-faits-sont-averes-c-est-extremement-grave-pointe-yael-braun-pivet-apres-des-ecrits-antisemites-attribues-a-jordan-bardella_8215874.html",
-   "summary": "\"Si les faits sont avérés, c'est extrêmement grave\", pointe Yaël Braun-Pivet, après des écrits antisémites attribués à Jordan Bardella",
-   "image": "https://www.franceinfo.fr/pictures/Ehp5Xzf1ZXfgkAtCfXiVdL8ih-0/156x0:1148x557/432x243/filters:format(jpg)/2026/09/30/6abcb1c1098a2507879004.jpg",
-   "date": null,
-   "pubdate": "2026-09-30T12:42:51.129867+00:00"
-  },
-  {
-   "title": "Le chef d'orchestre français Frédéric Chaslin, cité dans les fichiers Epstein, mis hors de cause dans une affaire de harcèlement sexuel Il était accusé par la soprano Amelia Feuer. Selon les avocats du chef d'orchestre, \"les enquêteurs ont considéré que les faits n'étaient pas caractérisés\".",
-   "link": "https://www.franceinfo.fr/societe/harcelement/le-chef-d-orchestre-francais-frederic-chaslin-cite-dans-les-fichiers-epstein-mis-hors-de-cause-dans-une-affaire-de-harcelement-sexuel_8215853.html",
-   "summary": "Le chef d'orchestre français Frédéric Chaslin, cité dans les fichiers Epstein, mis hors de cause dans une affaire de harcèlement sexuel",
-   "image": "https://www.franceinfo.fr/pictures/V1MBUeSuVcdmNjMnP2iHCkZP3Qo/0x0:1024x576/432x243/filters:format(jpg)/2026/09/30/6abcb008d555e020409768.jpg",
-   "date": null,
-   "pubdate": "2026-09-30T12:42:51.129867+00:00"
-  },
-  {
-   "title": ": Reportage \"Les coups bas vont pleuvoir de partout\" : à La Seyne-sur-Mer, les électeurs RN prennent la défense de Jordan Bardella Selon les révélations de Mediapart, le président du Rassemblement national a tenu des propos antisémites et complotistes. Dans cette commune du Var, gérée par le RN depuis les dernières élections municipales, les électeurs le soutiennent.",
-   "link": "https://www.franceinfo.fr/politique/jordan-bardella/reportage-les-coups-bas-vont-pleuvoir-de-partout-a-la-seyne-sur-mer-les-electeurs-rn-prennent-la-defense-de-jordan-bardella_8215817.html",
-   "summary": "\"Les coups bas vont pleuvoir de partout\" : à La Seyne-sur-Mer, les électeurs RN prennent la défense de Jordan Bardella",
-   "image": "https://www.franceinfo.fr/pictures/1V0o_LSmSjOo3AkQ1P7tV33P96c/0x53:1024x629/432x243/filters:format(jpg)/2026/09/30/6abcafb227670911912802.jpg",
-   "date": null,
-   "pubdate": "2026-09-30T12:42:51.129867+00:00"
-  },
-  {
-   "title": ": Édito 2:52 audio 2 minutes 52 Au RN, derrière l’unité de façade, la nuit des petits couteaux Le RN fait bloc autour de Jordan Bardella face aux accusations de Mediapart. Mais derrière l’unité affichée, la guerre des clans entre bardellistes et proches de Marine Le Pen fait rage.",
-   "link": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-au-rn-derriere-l-unite-de-facade-la-nuit-des-petits-couteaux_8194580.html",
-   "summary": "Au RN, derrière l’unité de façade, la nuit des petits couteaux",
-   "image": "https://www.franceinfo.fr/pictures/s0ik_by4N9slPDx3EN2r2XOGh58/0x53:1024x629/432x243/filters:format(jpg)/2026/09/30/6abc9ccc14dd3653367530.jpg",
-   "date": null,
-   "pubdate": "2026-09-30T12:42:51.129867+00:00"
-  },
-  {
-   "title": ": Transparence Visite du pape : comment une pluie de remerciements pas tous spontanés s’est abattue sur le médiateur Un nombre sans précédent de messages de remerciements est parvenu à l’équipe du médiateur à propos de la couverture de la visite du pape Léon XIV en France. Mais une majorité d’entre eux ont été influencés par une infox.",
-   "link": "https://www.franceinfo.fr/une-information-transparente-franceinfo/transparence-visite-du-pape-comment-une-pluie-de-remerciements-pas-tous-spontanes-s-est-abattue-sur-le-mediateur_8213972.html",
-   "summary": "Visite du pape : comment une pluie de remerciements pas tous spontanés s’est abattue sur le médiateur",
-   "image": "https://www.franceinfo.fr/pictures/Zs-a69Q6cO4S8ZbSUoDFAq-EcGU/432x243/filters:format(jpg)/2026/09/28/6abaa50325057403107238.jpg",
-   "date": null,
-   "pubdate": "2026-09-30T12:42:51.129867+00:00"
-  },
-  {
    "title": ": Témoignages 9:00 article 9 minutes : Témoignages \"L'impression d'avoir une bombe à retardement en moi\" : quatre patients racontent leur calvaire après la pose d'une prothèse de hernie",
    "link": "https://www.franceinfo.fr/sante/temoignages-l-impression-d-avoir-une-bombe-a-retardement-en-moi-quatre-patients-racontent-leur-calvaire-apres-la-pose-d-une-prothese-de-hernie_8214686.html",
    "summary": "\"L'impression d'avoir une bombe à retardement en moi\" : quatre patients racontent leur calvaire après la pose d'une prothèse de hernie",
    "image": "https://www.franceinfo.fr/pictures/PAneXPYNXn_jN96qiZhPOwgjjWY/0x0:2059x2059/100x100/filters:format(jpg)/2026/09/29/6abbc1aa4bae9382254321.jpg",
-   "date": null,
-   "pubdate": "2026-09-30T05:39:23.531465+00:00"
-  },
-  {
-   "title": ": Enquête \"Maintenant, tu es à moi, tu ne parles plus à personne\" : sur Discord, des adolescents sous emprise forcés à se dénuder ou s'automutiler L'association e-Enfance constate une \"explosion\" des signalements pour des faits de violences visant des mineurs sur Discord. franceinfo a eu accès à des enregistrements d'enfants victimes de harcèlement et d'extorsion sexuelle.",
-   "link": "https://www.franceinfo.fr/societe/pedocriminalite/enquete-il-avait-le-numero-de-mes-parents-sur-discord-des-adolescents-sous-emprise-forces-a-se-denuder-ou-s-automutiler_8214980.html",
-   "summary": "\"Maintenant, tu es à moi, tu ne parles plus à personne\" : sur Discord, des adolescents sous emprise forcés à se dénuder ou s'automutiler",
-   "image": "https://www.franceinfo.fr/assets/common/images/logos/placeholder-4e7f49f2.png",
    "date": null,
    "pubdate": "2026-09-30T05:39:23.531465+00:00"
   },
