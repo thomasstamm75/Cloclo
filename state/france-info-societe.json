@@ -1,11 +1,9 @@
 {
- "etag": "\"0a9423169905e2885dae8b5a6298fc08-gzip\"",
+ "etag": "\"5ca3778f0df469c6ee78baee3d669744-gzip\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.franceinfo.fr/faits-divers/info-franceinfo-tu-vas-le-faire-sinon-le-chirurgien-des-stars-sydney-ohana-mis-en-examen-dans-cinq-nouvelles-affaires-de-violences-sexuelles_8202926.html": "2026-09-22T05:05:21.282948+00:00",
   "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/la-joie-des-catholiques-est-aussi-la-notre-comment-les-autres-cultes-vont-s-associer-a-la-visite-du-pape-en-france_8203265.html": "2026-09-24T04:58:55.185461+00:00",
   "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/on-minimise-la-dimension-systemique-pourquoi-la-rencontre-du-pape-leon-xiv-avec-sept-victimes-de-violences-sexuelles-provoque-des-crispations_8195732.html": "2026-09-27T05:24:29.480541+00:00",
-  "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/jordan-bardella-accuse-d-ecrits-antisemites-greve-dans-la-fonction-publique-budget-presidentielle-le-8h30-franceinfo-de-dominique-de-villepin_8192720.html": "2026-09-29T11:00:00+00:00",
   "https://www.franceinfo.fr/societe/nos-jours-heureux/": "2026-09-29T09:55:37.627918+00:00",
   "https://www.franceinfo.fr/societe/euthanasie/comprendre-les-debats-sur-la-fin-de-vie/": "2026-09-29T09:55:37.627918+00:00",
   "https://www.franceinfo.fr/replay-magazine/franceinfo/avant-le-20h/propos-antisemites-attribues-a-jordan-bardella-c-est-une-deflagration-colossale-dans-cette-campagne-reagit-celine-geraud-porte-parole-de-gabriel-attal_8215337.html": "2026-09-29T18:07:13.784348+00:00",
@@ -20,22 +18,39 @@
   "https://www.franceinfo.fr/economie/budget/une-enquete-pour-violation-du-secret-professionnel-sur-des-fuites-dans-la-presse-sur-la-preparation-du-budget-2027_8214845.html": "2026-09-29T18:07:13.784348+00:00",
   "https://www.franceinfo.fr/culture/cinema/sorties-de-films/le-monde-a-l-endroit-le-protocole-de-la-psychiatre-muriel-salmona-pour-reparer-les-victimes-de-violences-sexuelles-dans-leur-enfance-se-devoile-devant-la-camera-de-sylvie-meyer_8207870.html": "2026-09-29T18:07:13.784348+00:00",
   "https://www.franceinfo.fr/replay-radio/les-informes-du-matin/les-informes-du-matin-du-mardi-29-septembre-2026_8192747.html": "2026-09-29T11:00:00+00:00",
-  "https://www.franceinfo.fr/replay-radio/histoire-du-jour/classes-volontariat-droit-d-opposition-des-parents-pour-reperer-les-abus-sexuels-chez-les-enfants-un-questionnaire-bientot-distribue-dans-les-ecoles_8214314.html": "2026-09-29T18:07:13.784348+00:00",
   "https://www.franceinfo.fr/societe/drogue/facades-rafalees-paillassons-incendies-ces-methodes-d-intimidation-des-narcotrafiquants-qui-mettent-en-danger-la-vie-des-habitants_8215463.html": "2026-09-29T22:20:50.891853+00:00",
   "https://www.franceinfo.fr/societe/education/scolarite/guide-parents/college/on-a-une-eau-constituee-de-matieres-fecales-en-seine-saint-denis-l-eau-de-ce-college-est-contaminee_8215457.html": "2026-09-29T22:20:50.891853+00:00",
   "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/edouard-philippe-marine-tondelier-francois-ruffin-parmi-les-nombreux-concernes-par-la-fuite-de-donnees-personnelles-en-ligne_8215367.html": "2026-09-29T22:20:50.891853+00:00",
   "https://www.franceinfo.fr/societe/education/blocage-des-lycees-laurent-nunez-ministre-de-l-interieur-annonce-440-interpellations-dans-la-journee-de-mardi_8215373.html": "2026-09-29T22:20:50.891853+00:00",
   "https://www.franceinfo.fr/societe/education/scolarite/guide-parents/lycee/des-lycees-bloques-partout-en-france-des-interventions-policieres-parfois-musclees_8215361.html": "2026-09-29T22:20:50.891853+00:00",
   "https://www.franceinfo.fr/societe/education/blocus-des-lycees-le-ministre-de-l-education-nationale-edouard-geffray-denonce-des-violences-inqualifiables_8215349.html": "2026-09-29T22:20:50.891853+00:00",
-  "https://www.franceinfo.fr/economie/crise/crise-de-la-dette/efforts-avenir-et-depenses-quelles-sont-les-attentes-des-francais-vis-a-vis-de-la-dette_8215412.html": "2026-09-29T22:20:50.891853+00:00"
+  "https://www.franceinfo.fr/economie/crise/crise-de-la-dette/efforts-avenir-et-depenses-quelles-sont-les-attentes-des-francais-vis-a-vis-de-la-dette_8215412.html": "2026-09-29T22:20:50.891853+00:00",
+  "https://www.franceinfo.fr/societe/pedocriminalite/enquete-il-avait-le-numero-de-mes-parents-sur-discord-des-adolescents-sous-emprise-forces-a-se-denuder-ou-s-automutiler_8214980.html": "2026-09-30T05:39:23.531465+00:00",
+  "https://www.franceinfo.fr/sante/temoignages-l-impression-d-avoir-une-bombe-a-retardement-en-moi-quatre-patients-racontent-leur-calvaire-apres-la-pose-d-une-prothese-de-hernie_8214686.html": "2026-09-30T05:39:23.531465+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "Façades rafalées, paillassons incendiés… Ces méthodes d'intimidation des narcotrafiquants qui mettent en danger la vie des habitants Des tirs sur des habitations, des façades criblées de balles… Pour imposer leur loi, des réseaux de narcotrafiquants sèment la peur jusque chez les riverains. Enquête sur ces attaques, qui sont parfois filmées et diffusées sur les réseaux sociaux. Des démonstrations de force pour contrôler le trafic local, au risque de tuer un habitant. Aujourd'hui 3:23 vidéo 3 minutes 23",
+   "title": ": Enquête \"Il avait le numéro de mes parents\" : sur Discord, des adolescents sous emprise forcés à se dénuder ou s'automutiler L'association e-Enfance constate une \"explosion\" des signalements pour des faits de violences visant des mineurs sur Discord. franceinfo a eu accès à des enregistrements d'enfants victimes de harcèlement et d'extorsion sexuelle. Aujourd'hui : Enquête",
+   "link": "https://www.franceinfo.fr/societe/pedocriminalite/enquete-il-avait-le-numero-de-mes-parents-sur-discord-des-adolescents-sous-emprise-forces-a-se-denuder-ou-s-automutiler_8214980.html",
+   "summary": "\"Il avait le numéro de mes parents\" : sur Discord, des adolescents sous emprise forcés à se dénuder ou s'automutiler",
+   "image": "https://www.franceinfo.fr/pictures/kgiYMTJ0_-s9BKjSHQngmcda6s4/16x0:1008x682/432x297/filters:format(jpg)/2026/02/25/000-33ac8zj-699eef31a29cf899051159.jpg",
+   "date": null,
+   "pubdate": "2026-09-30T05:39:23.531465+00:00"
+  },
+  {
+   "title": ": Témoignages 9:00 article 9 minutes : Témoignages \"L'impression d'avoir une bombe à retardement en moi\" : quatre patients racontent leur calvaire après la pose d'une prothèse de hernie",
+   "link": "https://www.franceinfo.fr/sante/temoignages-l-impression-d-avoir-une-bombe-a-retardement-en-moi-quatre-patients-racontent-leur-calvaire-apres-la-pose-d-une-prothese-de-hernie_8214686.html",
+   "summary": "\"L'impression d'avoir une bombe à retardement en moi\" : quatre patients racontent leur calvaire après la pose d'une prothèse de hernie",
+   "image": "https://www.franceinfo.fr/pictures/PAneXPYNXn_jN96qiZhPOwgjjWY/0x0:2059x2059/100x100/filters:format(jpg)/2026/09/29/6abbc1aa4bae9382254321.jpg",
+   "date": null,
+   "pubdate": "2026-09-30T05:39:23.531465+00:00"
+  },
+  {
+   "title": "3:23 vidéo 3 minutes 23 Façades rafalées, paillassons incendiés… Ces méthodes d'intimidation des narcotrafiquants qui mettent en danger la vie des habitants",
    "link": "https://www.franceinfo.fr/societe/drogue/facades-rafalees-paillassons-incendies-ces-methodes-d-intimidation-des-narcotrafiquants-qui-mettent-en-danger-la-vie-des-habitants_8215463.html",
    "summary": "Façades rafalées, paillassons incendiés… Ces méthodes d'intimidation des narcotrafiquants qui mettent en danger la vie des habitants",
-   "image": "https://www.franceinfo.fr/pictures/3xEgBQcfT9zwPcdQxuWiVr8OkMA/132x0:1098x664/432x297/filters:format(jpg)/2026/09/29/6abc2c704446b891981211.jpg",
+   "image": "https://www.franceinfo.fr/pictures/Ug1NY5BzEPCAraj_vzZqXnaADtI/25x0:1205x664/432x243/filters:format(jpg)/2026/09/29/6abc2c704446b891981211.jpg",
    "date": null,
    "pubdate": "2026-09-29T22:20:50.891853+00:00"
   },
@@ -112,9 +127,9 @@
    "pubdate": "2026-09-29T18:07:13.784348+00:00"
   },
   {
-   "title": "Le maire de Saint-Denis Bally Bagayoko, accusé d'avoir allumé un feu de poubelle devant un lycée bloqué sur la base d'une vidéo tronquée, dénonce des \"mensonges\"",
+   "title": "Le maire de Saint-Denis Bally Bagayoko, accusé d'avoir allumé un feu de poubelle devant un lycée bloqué sur la base d'une vidéo tronquée, dénonce des \"mensonges\" Sur des images devenues virales, on voit l'élu s'écarter d'une poubelle enflammée, acclamé par les lycéens devant un établissement en Seine-Saint-Denis. Des vidéos plus longues dévoilées par \"Libération\" et \"L'Humanité\" mardi le montrent éloignant l'objet de la grille d'un lycée.",
    "link": "https://www.franceinfo.fr/societe/education/blocus-des-lycees-le-maire-de-saint-denis-bally-bagayoko-dement-avoir-allume-un-feu-de-poubelle-et-denonce-des-mensonges_8215214.html",
-   "summary": "",
+   "summary": "Le maire de Saint-Denis Bally Bagayoko, accusé d'avoir allumé un feu de poubelle devant un lycée bloqué sur la base d'une vidéo tronquée, dénonce des \"mensonges\"",
    "image": "https://www.franceinfo.fr/pictures/6zbx1MOM-oQI_R6exp1aIHbb8TI/0x39:1024x615/432x243/filters:format(jpg)/2026/09/29/6abbe284dd8f6974334550.jpg",
    "date": null,
    "pubdate": "2026-09-29T18:07:13.784348+00:00"
@@ -176,26 +191,10 @@
    "pubdate": "2026-09-29T18:07:13.784348+00:00"
   },
   {
-   "title": "3:07 audio 3 minutes 7 Classes, volontariat, droit d'opposition des parents... Pour repérer les abus sexuels chez les enfants, un questionnaire bientôt distribué dans les écoles Porté par le ministre de l'Éducation nationale, ce questionnaire doit permettre de libérer la parole de la maternelle au lycée. Retravaillé trois fois, il sera soumis à validation jeudi 1er octobre.",
-   "link": "https://www.franceinfo.fr/replay-radio/histoire-du-jour/classes-volontariat-droit-d-opposition-des-parents-pour-reperer-les-abus-sexuels-chez-les-enfants-un-questionnaire-bientot-distribue-dans-les-ecoles_8214314.html",
-   "summary": "Classes, volontariat, droit d'opposition des parents... Pour repérer les abus sexuels chez les enfants, un questionnaire bientôt distribué dans les écoles",
-   "image": "https://www.franceinfo.fr/pictures/3ehEpNOpWMsEpRg_PFU_A4Vt40k/0x245:4724x2903/432x243/filters:format(jpg)/2026/09/29/6abb8da0d175d751922378.jpg",
-   "date": null,
-   "pubdate": "2026-09-29T18:07:13.784348+00:00"
-  },
-  {
    "title": "22:21 audio 22 minutes 21 Les informés du matin du mardi 29 septembre 2026 Tous les jours, les informés débattent de l'actualité autour d'Agathe Lambret et de Renaud Dély.",
    "link": "https://www.franceinfo.fr/replay-radio/les-informes-du-matin/les-informes-du-matin-du-mardi-29-septembre-2026_8192747.html",
    "summary": "Les informés du matin du mardi 29 septembre 2026",
    "image": "https://www.franceinfo.fr/pictures/H6U75UFeuGtuDa2Z5J1PUsaTPYk/0x306:3264x2142/432x243/filters:format(jpg)/2021/01/14/php9m4FvP.jpg",
-   "date": "2026-09-29T11:00:00+00:00",
-   "pubdate": "2026-09-29T11:00:00+00:00"
-  },
-  {
-   "title": "24:25 audio 24 minutes 25 Jordan Bardella accusé d'écrits antisémites, grève dans la fonction publique, budget, présidentielle... Le \"8h30 franceinfo\" de Dominique de Villepin L'ancien Premier ministre Dominique de Villepin, est l'invité du 8h30 franceinfo\" mardi 29 septembre 2026.",
-   "link": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/jordan-bardella-accuse-d-ecrits-antisemites-greve-dans-la-fonction-publique-budget-presidentielle-le-8h30-franceinfo-de-dominique-de-villepin_8192720.html",
-   "summary": "Jordan Bardella accusé d'écrits antisémites, grève dans la fonction publique, budget, présidentielle... Le \"8h30 franceinfo\" de Dominique de Villepin",
-   "image": "https://www.franceinfo.fr/pictures/NvsGKZjpM-clsscTl20UA8XCElk/257x0:1175x516/432x243/filters:format(jpg)/2026/09/29/6abb8a4c99c4a173419691.jpg",
    "date": "2026-09-29T11:00:00+00:00",
    "pubdate": "2026-09-29T11:00:00+00:00"
   },
@@ -230,14 +229,6 @@
    "image": "https://www.franceinfo.fr/pictures/qEEZSZnnc_mSYbKHZvMZl1ZyPAY/840x0:3000x2160/100x100/filters:format(jpg)/2026/09/23/6ab3f507b72af210016300.jpg",
    "date": null,
    "pubdate": "2026-09-24T04:58:55.185461+00:00"
-  },
-  {
-   "title": ": Info franceinfo 21:00 article 21 minutes : Info franceinfo \"Tu vas le faire, sinon…\" : le chirurgien des stars Sydney Ohana mis en cause dans cinq nouvelles affaires de violences sexuelles",
-   "link": "https://www.franceinfo.fr/faits-divers/info-franceinfo-tu-vas-le-faire-sinon-le-chirurgien-des-stars-sydney-ohana-mis-en-examen-dans-cinq-nouvelles-affaires-de-violences-sexuelles_8202926.html",
-   "summary": "\"Tu vas le faire, sinon…\" : le chirurgien des stars Sydney Ohana mis en cause dans cinq nouvelles affaires de violences sexuelles",
-   "image": "https://www.franceinfo.fr/pictures/bFwc7WUzF97sVLdz19OTw8--iwg/716x0:3584x2868/100x100/filters:format(jpg)/2026/09/21/6ab159c6d80aa555801758.jpg",
-   "date": null,
-   "pubdate": "2026-09-22T05:05:21.282948+00:00"
   }
  ]
 }
