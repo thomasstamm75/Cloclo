@@ -1,16 +1,24 @@
 {
  "etag": "",
- "last_modified": "Wed, 30 Sep 2026 04:49:26 GMT",
+ "last_modified": "Wed, 30 Sep 2026 12:28:06 GMT",
  "first_seen": {
-  "https://www.jean-jaures.org/publication/le-prix-dune-defaite-ukrainienne-pourquoi-soutenir-lukraine-releve-de-linteret-national-francais/": "2026-09-24T11:00:00+00:00",
   "https://www.jean-jaures.org/publication/penser-le-nouveau-statut-sociopolitique-des-fonctionnaires/": "2026-09-25T11:00:00+00:00",
   "https://www.jean-jaures.org/publication/defendons-la-democratie/": "2026-09-25T11:00:00+00:00",
   "https://www.jean-jaures.org/publication/reductions-historiques-de-laide-comment-lafrique-reagit-elle/": "2026-09-28T11:00:00+00:00",
   "https://www.jean-jaures.org/publication/reindustrialiser-par-les-competences-restaurer-un-grand-operateur-public-de-formation/": "2026-09-29T11:00:00+00:00",
-  "https://www.jean-jaures.org/publication/rentree-record-pour-bonjour-sur-tf1-pourquoi-les-medias-ont-raison-dinvestir-le-matin/": "2026-09-29T11:00:00+00:00"
+  "https://www.jean-jaures.org/publication/rentree-record-pour-bonjour-sur-tf1-pourquoi-les-medias-ont-raison-dinvestir-le-matin/": "2026-09-29T11:00:00+00:00",
+  "https://www.jean-jaures.org/publication/apres-le-feu-pour-une-doctrine-francaise-de-securite-alimentaire-face-aux-crises-systemiques/": "2026-09-30T11:00:00+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "Après le feu. Pour une doctrine française de sécurité alimentaire face aux crises systémiques",
+   "link": "https://www.jean-jaures.org/publication/apres-le-feu-pour-une-doctrine-francaise-de-securite-alimentaire-face-aux-crises-systemiques/",
+   "summary": "",
+   "image": "",
+   "date": "2026-09-30T11:00:00+00:00",
+   "pubdate": "2026-09-30T11:00:00+00:00"
+  },
   {
    "title": "Réindustrialiser par les compétences : restaurer un grand opérateur public de formation",
    "link": "https://www.jean-jaures.org/publication/reindustrialiser-par-les-competences-restaurer-un-grand-operateur-public-de-formation/",
@@ -50,14 +58,6 @@
    "image": "",
    "date": "2026-09-25T11:00:00+00:00",
    "pubdate": "2026-09-25T11:00:00+00:00"
-  },
-  {
-   "title": "Le prix d’une défaite ukrainienne : pourquoi soutenir l’Ukraine relève de l’intérêt national français",
-   "link": "https://www.jean-jaures.org/publication/le-prix-dune-defaite-ukrainienne-pourquoi-soutenir-lukraine-releve-de-linteret-national-francais/",
-   "summary": "",
-   "image": "",
-   "date": "2026-09-24T11:00:00+00:00",
-   "pubdate": "2026-09-24T11:00:00+00:00"
   }
  ]
 }

@@ -1,29 +1,45 @@
 {
- "etag": "W/\"1790731673\"",
- "last_modified": "Wed, 30 Sep 2026 01:27:53 GMT",
+ "etag": "W/\"1790771851\"",
+ "last_modified": "Wed, 30 Sep 2026 12:37:31 GMT",
  "first_seen": {
   "https://www.strategie-plan.gouv.fr/publications/hcfips-salaire-brut-salaire-net-evolutions-comparees-et-constats": "2026-06-16T11:00:00+00:00",
   "https://www.strategie-plan.gouv.fr/publications/hcaam-rapport-du-hcaam-trois-scenarios-pour-une-reforme-des-depassements-dhonoraires": "2026-06-09T11:00:00+00:00",
   "https://www.strategie-plan.gouv.fr/publications/hcfea-aider-les-parents-aider-les-enfants-grandir": "2026-05-07T11:00:00+00:00",
   "https://www.strategie-plan.gouv.fr/publications/hcfips-colloque-lois-de-financement-de-la-securite-sociale-30-ans-et-apres": "2026-05-06T11:00:00+00:00",
   "https://www.strategie-plan.gouv.fr/evenements/evenements-climatiques-extremes-tirer-les-lecons-de-lete-2026-pour-mieux-preparer": "2026-09-04T06:36:30.944044+00:00",
-  "https://www.strategie-plan.gouv.fr/colloque-levaluation-socioeconomique-des-infrastructures-de-transport-au-dela-des-gains-de-temps": "2026-09-07T11:00:00+00:00",
   "https://www.strategie-plan.gouv.fr/conference-quels-nouveaux-moteurs-pour-la-productivite-francaise": "2026-09-08T11:00:00+00:00",
   "https://www.strategie-plan.gouv.fr/france-2035-france-2050-decouvrez-le-projet": "2026-09-10T11:00:00+00:00",
   "https://www.strategie-plan.gouv.fr/publications/france-2035-france-2050-focus-administration-et-services-publics-des-services-publics": "2026-09-22T11:47:37.584028+00:00",
-  "https://www.strategie-plan.gouv.fr/publications/france-2035-france-2050-focus-democratie-construire-une-democratie-resiliente-face-aux": "2026-09-22T11:00:00+00:00",
   "https://www.strategie-plan.gouv.fr/evenements/presentation-densemble-du-rapport-de-prospective-france-2035-france-2050": "2026-09-23T17:10:49.762592+00:00",
-  "https://www.strategie-plan.gouv.fr/publications/quel-amenagement-du-territoire-francais-en-2050-un-plan-freycinet-pour-le-xxie-siecle": "2026-09-24T11:55:33.691000+00:00"
+  "https://www.strategie-plan.gouv.fr/publications/quel-amenagement-du-territoire-francais-en-2050-un-plan-freycinet-pour-le-xxie-siecle": "2026-09-24T11:55:33.691000+00:00",
+  "https://www.strategie-plan.gouv.fr/publications/pour-un-pacte-de-confiance-energetique-reussir-la-transition-energetique-en-redonnant": "2026-09-30T12:44:17.880144+00:00",
+  "https://www.strategie-plan.gouv.fr/webconference-evenements-climatiques-extremes-tirer-les-lecons-de-lete-2026-pour-mieux-preparer": "2026-09-30T11:00:00+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
    "title": "Bienvenue sur le site du Haut-commissariat à la Stratégie et au Plan",
-   "link": "https://www.strategie-plan.gouv.fr/publications/quel-amenagement-du-territoire-francais-en-2050-un-plan-freycinet-pour-le-xxie-siecle",
+   "link": "https://www.strategie-plan.gouv.fr/publications/pour-un-pacte-de-confiance-energetique-reussir-la-transition-energetique-en-redonnant",
    "summary": "Le Haut-commissariat à la Stratégie et au Plan contribue à l’action publique par ses analyses et ses propositions. Il éclaire les choix collectifs sur les enjeux démographiques, économiques, sociaux, environnementaux, sanitaires, technologiques et culturels, dans un cadre national et européen.",
    "image": "https://www.strategie-plan.gouv.fr/files/styles/ds_image_paragraphe/public/files/accueil-fstrat.png?itok=ZH0UHCYU",
    "date": null,
-   "pubdate": "2026-09-24T11:55:33.691000+00:00"
+   "pubdate": "2026-09-30T12:44:17.880144+00:00"
+  },
+  {
+   "title": "Webconférence | Événements climatiques extrêmes : tirer les leçons de l’été 2026 pour mieux préparer l’avenir",
+   "link": "https://www.strategie-plan.gouv.fr/webconference-evenements-climatiques-extremes-tirer-les-lecons-de-lete-2026-pour-mieux-preparer",
+   "summary": "",
+   "image": "https://www.strategie-plan.gouv.fr/files/styles/ds_image_paragraphe/public/files/%C3%89v%C3%A9nement/HCSP_PPT-BILAN%20DE%20L%27ETE_VDEF.png?itok=fKGAXQju",
+   "date": "2026-09-30T11:00:00+00:00",
+   "pubdate": "2026-09-30T11:00:00+00:00"
+  },
+  {
+   "title": "Quel aménagement du territoire français en 2050 ? Un plan Freycinet pour le XXIe siècle",
+   "link": "https://www.strategie-plan.gouv.fr/publications/quel-amenagement-du-territoire-francais-en-2050-un-plan-freycinet-pour-le-xxie-siecle",
+   "summary": "Haut-commissariat à la Stratégie et au Plan",
+   "image": "",
+   "date": "2026-09-24T11:00:00+00:00",
+   "pubdate": "2026-09-24T11:00:00+00:00"
   },
   {
    "title": "Présentation d’ensemble du rapport de pr...",
@@ -36,14 +52,6 @@
   {
    "title": "France 2035, France 2050 - Focus Administration et services publics : des services publics renouvelés pour mieux faire société",
    "link": "https://www.strategie-plan.gouv.fr/publications/france-2035-france-2050-focus-administration-et-services-publics-des-services-publics",
-   "summary": "Haut-commissariat à la Stratégie et au Plan",
-   "image": "",
-   "date": "2026-09-22T11:00:00+00:00",
-   "pubdate": "2026-09-22T11:00:00+00:00"
-  },
-  {
-   "title": "France 2035, France 2050 - Focus Démocratie : construire une démocratie résiliente face aux menaces",
-   "link": "https://www.strategie-plan.gouv.fr/publications/france-2035-france-2050-focus-democratie-construire-une-democratie-resiliente-face-aux",
    "summary": "Haut-commissariat à la Stratégie et au Plan",
    "image": "",
    "date": "2026-09-22T11:00:00+00:00",
@@ -64,14 +72,6 @@
    "image": "https://www.strategie-plan.gouv.fr/files/styles/ds_image_paragraphe/public/files/%C3%89v%C3%A9nement/HCSP_PPT-PRODUCTIVITE.png?itok=TuQc6EOl",
    "date": "2026-09-08T11:00:00+00:00",
    "pubdate": "2026-09-08T11:00:00+00:00"
-  },
-  {
-   "title": "Colloque | L’évaluation socioéconomique des infrastructures de transport : au-delà des gains de temps",
-   "link": "https://www.strategie-plan.gouv.fr/colloque-levaluation-socioeconomique-des-infrastructures-de-transport-au-dela-des-gains-de-temps",
-   "summary": "",
-   "image": "https://www.strategie-plan.gouv.fr/files/styles/ds_image_paragraphe/public/files/%C3%89v%C3%A9nement/Colloque%20ESE%20-%202026-09.png?itok=JxNCFWqs",
-   "date": "2026-09-07T11:00:00+00:00",
-   "pubdate": "2026-09-07T11:00:00+00:00"
   },
   {
    "title": "Événements climatiques extrêmes : tirer ...",
