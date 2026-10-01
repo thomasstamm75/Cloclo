@@ -1,5 +1,5 @@
 {
- "etag": "\"ffb435c9c22907346dee89db28808643-gzip\"",
+ "etag": "\"f17e426c038de4d51824a3d5454864fd-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/tout-comprendre-au-proces-des-assistants-parlementaires-fn/": "2026-09-25T21:38:55.188932+00:00",
@@ -18,9 +18,6 @@
   "https://www.franceinfo.fr/societe/education/scolarite/guide-parents/lycee/le-ministre-de-l-education-nationale-s-inquiete-de-la-violence-lors-des-blocages-de-lycees-tout-en-jugeant-des-revendications-legitimes_8215943.html": "2026-09-30T12:42:54.142844+00:00",
   "https://www.franceinfo.fr/politique/jordan-bardella/le-rn-a-change-en-surface-il-a-refait-la-facade-commente-francois-ruffin-apres-des-ecrits-antisemites-attribues-a-jordan-bardella-par-mediapart_8215892.html": "2026-09-30T12:42:54.142844+00:00",
   "https://www.franceinfo.fr/politique/jordan-bardella/si-les-faits-sont-averes-c-est-extremement-grave-pointe-yael-braun-pivet-apres-des-ecrits-antisemites-attribues-a-jordan-bardella_8215874.html": "2026-09-30T12:42:54.142844+00:00",
-  "https://www.franceinfo.fr/politique/jordan-bardella/reportage-les-coups-bas-vont-pleuvoir-de-partout-a-la-seyne-sur-mer-les-electeurs-rn-prennent-la-defense-de-jordan-bardella_8215817.html": "2026-09-30T12:42:54.142844+00:00",
-  "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/la-desinformation-russe-explose-avec-850-de-faux-reportages-en-plus-en-un-an-selon-newsguard_8194607.html": "2026-09-30T12:42:54.142844+00:00",
-  "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-au-rn-derriere-l-unite-de-facade-la-nuit-des-petits-couteaux_8194580.html": "2026-09-30T12:42:54.142844+00:00",
   "https://www.franceinfo.fr/politique/robert-menard/une-amende-de-7-500-euros-a-ete-requise-contre-robert-menard-qui-avait-refuse-de-marier-un-homme-algerien-sous-oqtf_8216959.html": "2026-09-30T20:05:29.613482+00:00",
   "https://www.franceinfo.fr/replay-magazine/franceinfo/avant-le-20h/par-rapport-a-l-antisemitisme-je-sais-parfaitement-ou-j-habite-a-priori-monsieur-bardella-assez-peu-reagit-le-senateur-lr-max-brisson-apres-les-lecons-du-chef-du-rn_8216887.html": "2026-09-30T20:05:29.613482+00:00",
   "https://www.franceinfo.fr/societe/education/parcoursup/parcoursup/manifestations-des-lyceens/les-lyceens-attendent-des-reponses-politiques-defend-le-depute-lfi-louis-boyard_8216860.html": "2026-09-30T20:05:29.613482+00:00",
@@ -29,17 +26,51 @@
   "https://www.franceinfo.fr/faits-divers/justice-proces/refus-de-marier-un-algerien-sous-oqtf-ca-aurait-ete-un-chinois-j-aurais-fait-exactement-la-meme-chose-assure-robert-menard_8216521.html": "2026-09-30T20:05:29.613482+00:00",
   "https://www.franceinfo.fr/politique/je-n-ai-jamais-cru-que-jordan-bardella-etait-un-rempart-pour-la-communaute-juive-explique-yael-braun-pivet_8216488.html": "2026-09-30T20:05:29.613482+00:00",
   "https://www.franceinfo.fr/politique/la-france-insoumise/gabriel-attal-eric-ciotti-raphael-glucksmann-bally-bagayoko-accuse-par-ses-adversaires-politiques-de-mettre-de-l-huile-sur-le-feu_8216404.html": "2026-09-30T20:05:29.613482+00:00",
-  "https://www.franceinfo.fr/politique/ecrits-antisemites-attribues-a-jordan-bardella-emmanuel-macron-les-juge-gravissimes-et-inacceptables_8216485.html": "2026-09-30T20:05:29.613482+00:00",
-  "https://www.franceinfo.fr/societe/education/video-blocages-des-lycees-en-aucun-cas-des-responsables-politiques-ne-sauraient-legitimer-une-violence-declare-emmanuel-macron_8216425.html": "2026-09-30T20:05:29.613482+00:00",
-  "https://la1ere.franceinfo.fr/ary-chalus-le-president-de-la-region-guadeloupe-condamne-a-cinq-ans-d-ineligibilite-pour-detournement-de-fonds-publics-1743483.html": "2026-09-30T20:05:29.613482+00:00"
+  "https://la1ere.franceinfo.fr/ary-chalus-le-president-de-la-region-guadeloupe-condamne-a-cinq-ans-d-ineligibilite-pour-detournement-de-fonds-publics-1743483.html": "2026-09-30T20:05:29.613482+00:00",
+  "https://www.franceinfo.fr/politique/jordan-bardella/les-francais-seront-juges-jordan-bardella-s-explique-sur-son-compte-instagram-et-charge-une-nouvelle-fois-mediapart_8217010.html": "2026-10-01T00:36:07.347069+00:00",
+  "https://www.franceinfo.fr/monde/argentine/en-argentine-pourquoi-les-iles-malouines-sont-elles-devenues-le-nouveau-cheval-de-bataille-de-javier-milei_8217016.html": "2026-10-01T00:36:07.347069+00:00",
+  "https://www.franceinfo.fr/economie/budget/les-plus-petites-pensions-doivent-etre-integralement-protegees-retraites-credits-d-impot-le-ministre-david-amiel-devoile-une-partie-des-derniers-arbitrages-du-budget-2027_8216983.html": "2026-10-01T00:36:07.347069+00:00",
+  "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-a-atlanta-les-republicains-craignent-la-fin-de-l-ere-trump-a-l-approche-des-elections-de-mi-mandat-les-democrates-revent-de-revanche_8145842.html": "2026-10-01T00:36:07.347069+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "Une amende de 7 500 euros a été requise contre Robert Ménard qui avait refusé de marier un homme algérien sous OQTF Ses réquisitions sont loin du maximum que prévoit la loi alors que le maire de Béziers assume toujours sa décision. Aujourd'hui",
+   "title": "\"Les Français seront juges\" : Jordan Bardella s'explique sur son compte Instagram et charge une nouvelle fois Mediapart Il dénonce un \"traitement déloyal, injuste et mensonger\", et traite les journalistes du média en ligne de \"militants d'extrême gauche\". 30 septembre",
+   "link": "https://www.franceinfo.fr/politique/jordan-bardella/les-francais-seront-juges-jordan-bardella-s-explique-sur-son-compte-instagram-et-charge-une-nouvelle-fois-mediapart_8217010.html",
+   "summary": "\"Les Français seront juges\" : Jordan Bardella s'explique sur son compte Instagram et charge une nouvelle fois Mediapart",
+   "image": "https://www.franceinfo.fr/pictures/7TeTbfHtrFF-HukdNV_mgdXJPzo/16x0:1008x682/432x297/filters:format(jpg)/2026/09/30/6abd7a48b5a94657862506.jpg",
+   "date": null,
+   "pubdate": "2026-10-01T00:36:07.347069+00:00"
+  },
+  {
+   "title": "2:12 vidéo 2 minutes 12 En Argentine, pourquoi les îles Malouines sont-elles devenues le nouveau cheval de bataille de Javier Milei ?",
+   "link": "https://www.franceinfo.fr/monde/argentine/en-argentine-pourquoi-les-iles-malouines-sont-elles-devenues-le-nouveau-cheval-de-bataille-de-javier-milei_8217016.html",
+   "summary": "En Argentine, pourquoi les îles Malouines sont-elles devenues le nouveau cheval de bataille de Javier Milei ?",
+   "image": "https://www.franceinfo.fr/pictures/3PHA0xDWFat3cGtJjwRiJ-AU5Wc/10x0:1203x671/432x243/filters:format(jpg)/2026/09/30/6abd7a00337ee367610700.jpg",
+   "date": null,
+   "pubdate": "2026-10-01T00:36:07.347069+00:00"
+  },
+  {
+   "title": "2:09 vidéo 2 minutes 9 \"Les plus petites pensions doivent être intégralement protégées\" : retraites, crédits d'impôt… Le ministre David Amiel dévoile une partie des derniers arbitrages du budget 2027",
+   "link": "https://www.franceinfo.fr/economie/budget/les-plus-petites-pensions-doivent-etre-integralement-protegees-retraites-credits-d-impot-le-ministre-david-amiel-devoile-une-partie-des-derniers-arbitrages-du-budget-2027_8216983.html",
+   "summary": "\"Les plus petites pensions doivent être intégralement protégées\" : retraites, crédits d'impôt… Le ministre David Amiel dévoile une partie des derniers arbitrages du budget 2027",
+   "image": "https://www.franceinfo.fr/pictures/h99XEtBqInsAK7On04t5b0yKhPs/55x0:1195x641/432x243/filters:format(jpg)/2026/09/30/6abd7256a7081492815547.jpg",
+   "date": null,
+   "pubdate": "2026-10-01T00:36:07.347069+00:00"
+  },
+  {
+   "title": ": Reportage 4:58 audio 4 minutes 58 : Reportage À Atlanta, les républicains anticipent la défaite aux \"Midterms\" et \"la fin de l'ère Trump\", les démocrates rêvent de revanche",
+   "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-a-atlanta-les-republicains-craignent-la-fin-de-l-ere-trump-a-l-approche-des-elections-de-mi-mandat-les-democrates-revent-de-revanche_8145842.html",
+   "summary": "À Atlanta, les républicains anticipent la défaite aux \"Midterms\" et \"la fin de l'ère Trump\", les démocrates rêvent de revanche",
+   "image": "https://www.franceinfo.fr/pictures/ThZEHM_mXqdURdVGiap0tEo05iw/270x0:1169x899/100x100/filters:format(jpg)/2026/09/02/6a9887d380725266921772.jpg",
+   "date": null,
+   "pubdate": "2026-10-01T00:36:07.347069+00:00"
+  },
+  {
+   "title": "Une amende de 7 500 euros a été requise contre Robert Ménard qui avait refusé de marier un homme algérien sous OQTF",
    "link": "https://www.franceinfo.fr/politique/robert-menard/une-amende-de-7-500-euros-a-ete-requise-contre-robert-menard-qui-avait-refuse-de-marier-un-homme-algerien-sous-oqtf_8216959.html",
-   "summary": "Une amende de 7 500 euros a été requise contre Robert Ménard qui avait refusé de marier un homme algérien sous OQTF",
-   "image": "https://www.franceinfo.fr/assets/common/images/logos/placeholder-4e7f49f2.png",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/89cRvqfD31iJn42X0zk8KO3aBlI/0x392:7530x4627/432x243/filters:format(jpg)/2026/09/30/6abd6ceb4b4df509643301.jpg",
    "date": null,
    "pubdate": "2026-09-30T20:05:29.613482+00:00"
   },
@@ -92,26 +123,10 @@
    "pubdate": "2026-09-30T20:05:29.613482+00:00"
   },
   {
-   "title": "Gabriel Attal, Éric Ciotti, Raphaël Glucksmann... Bally Bagayoko accusé par ses adversaires politiques de mettre de l'huile sur le feu",
+   "title": "Gabriel Attal, Éric Ciotti, Raphaël Glucksmann... Bally Bagayoko accusé par ses adversaires politiques de mettre de l'huile sur le feu Les propos du maire LFI de Saint-Denis, Bally Bagayoko, font polémique, en pleine contestation lycéenne. Devant un lycée bloqué de sa ville, l'élu insoumis affirme que \"la violence peut être légitime\" dans certains cas.",
    "link": "https://www.franceinfo.fr/politique/la-france-insoumise/gabriel-attal-eric-ciotti-raphael-glucksmann-bally-bagayoko-accuse-par-ses-adversaires-politiques-de-mettre-de-l-huile-sur-le-feu_8216404.html",
-   "summary": "",
+   "summary": "Gabriel Attal, Éric Ciotti, Raphaël Glucksmann... Bally Bagayoko accusé par ses adversaires politiques de mettre de l'huile sur le feu",
    "image": "https://www.franceinfo.fr/pictures/zwYNUAO2Ckm9AX1PHuax_CwWj5M/0x0:5000x2812/432x243/filters:format(jpg)/2026/09/30/6abd0f89e0e74287658596.jpg",
-   "date": null,
-   "pubdate": "2026-09-30T20:05:29.613482+00:00"
-  },
-  {
-   "title": "0:50 vidéo 50 secondes Ecrits antisémites attribués à Jordan Bardella : Emmanuel Macron les juge \"gravissimes et inacceptables\"",
-   "link": "https://www.franceinfo.fr/politique/ecrits-antisemites-attribues-a-jordan-bardella-emmanuel-macron-les-juge-gravissimes-et-inacceptables_8216485.html",
-   "summary": "Ecrits antisémites attribués à Jordan Bardella : Emmanuel Macron les juge \"gravissimes et inacceptables\"",
-   "image": "https://www.franceinfo.fr/pictures/6uqVREwt2mE6-Q0nsPFhtgKrRYw/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/30/6abd1335c8d9e086977423.jpg",
-   "date": null,
-   "pubdate": "2026-09-30T20:05:29.613482+00:00"
-  },
-  {
-   "title": ": Vidéo 2:39 vidéo 2 minutes 39 : Vidéo Blocages des lycées : \"En aucun cas des responsables politiques ne sauraient légitimer une violence\", déclare Emmanuel Macron",
-   "link": "https://www.franceinfo.fr/societe/education/video-blocages-des-lycees-en-aucun-cas-des-responsables-politiques-ne-sauraient-legitimer-une-violence-declare-emmanuel-macron_8216425.html",
-   "summary": "Blocages des lycées : \"En aucun cas des responsables politiques ne sauraient légitimer une violence\", déclare Emmanuel Macron",
-   "image": "https://www.franceinfo.fr/pictures/5YYtY9FajHRAuQOPojJJIqch0u8/0x53:1024x629/432x243/filters:format(jpg)/2026/09/30/6abd12f81faa2810440487.jpg",
    "date": null,
    "pubdate": "2026-09-30T20:05:29.613482+00:00"
   },
@@ -200,30 +215,6 @@
    "link": "https://www.franceinfo.fr/politique/jordan-bardella/si-les-faits-sont-averes-c-est-extremement-grave-pointe-yael-braun-pivet-apres-des-ecrits-antisemites-attribues-a-jordan-bardella_8215874.html",
    "summary": "\"Si les faits sont avérés, c'est extrêmement grave\", pointe Yaël Braun-Pivet, après des écrits antisémites attribués à Jordan Bardella",
    "image": "https://www.franceinfo.fr/pictures/Ehp5Xzf1ZXfgkAtCfXiVdL8ih-0/156x0:1148x557/432x243/filters:format(jpg)/2026/09/30/6abcb1c1098a2507879004.jpg",
-   "date": null,
-   "pubdate": "2026-09-30T12:42:54.142844+00:00"
-  },
-  {
-   "title": ": Reportage \"Les coups bas vont pleuvoir de partout\" : à La Seyne-sur-Mer, les électeurs RN prennent la défense de Jordan Bardella Selon les révélations de Mediapart, le président du Rassemblement national a tenu des propos antisémites et complotistes. Dans cette commune du Var, gérée par le RN depuis les dernières élections municipales, les électeurs le soutiennent.",
-   "link": "https://www.franceinfo.fr/politique/jordan-bardella/reportage-les-coups-bas-vont-pleuvoir-de-partout-a-la-seyne-sur-mer-les-electeurs-rn-prennent-la-defense-de-jordan-bardella_8215817.html",
-   "summary": "\"Les coups bas vont pleuvoir de partout\" : à La Seyne-sur-Mer, les électeurs RN prennent la défense de Jordan Bardella",
-   "image": "https://www.franceinfo.fr/pictures/1V0o_LSmSjOo3AkQ1P7tV33P96c/0x53:1024x629/432x243/filters:format(jpg)/2026/09/30/6abcafb227670911912802.jpg",
-   "date": null,
-   "pubdate": "2026-09-30T12:42:54.142844+00:00"
-  },
-  {
-   "title": "2:15 audio 2 minutes 15 La désinformation russe explose avec 850% de faux reportages en plus en un an, selon Newsguard L'organisation Newsguard note une explosion des faux reportages qui détournent l'identité de médias de confiance en un an, passant d'une quarantaine au premier semestre 2025 à plus de 420 au premier semestre 2026.",
-   "link": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/la-desinformation-russe-explose-avec-850-de-faux-reportages-en-plus-en-un-an-selon-newsguard_8194607.html",
-   "summary": "La désinformation russe explose avec 850% de faux reportages en plus en un an, selon Newsguard",
-   "image": "https://www.franceinfo.fr/pictures/dYIiOs4fGNvEkLvXBfYuKFWfURU/0x53:1024x629/432x243/filters:format(jpg)/2026/09/30/6abca90d2c5f0184999643.jpg",
-   "date": null,
-   "pubdate": "2026-09-30T12:42:54.142844+00:00"
-  },
-  {
-   "title": ": Édito 2:52 audio 2 minutes 52 Au RN, derrière l’unité de façade, la nuit des petits couteaux Le RN fait bloc autour de Jordan Bardella face aux accusations de Mediapart. Mais derrière l’unité affichée, la guerre des clans entre bardellistes et proches de Marine Le Pen fait rage.",
-   "link": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-au-rn-derriere-l-unite-de-facade-la-nuit-des-petits-couteaux_8194580.html",
-   "summary": "Au RN, derrière l’unité de façade, la nuit des petits couteaux",
-   "image": "https://www.franceinfo.fr/pictures/s0ik_by4N9slPDx3EN2r2XOGh58/0x53:1024x629/432x243/filters:format(jpg)/2026/09/30/6abc9ccc14dd3653367530.jpg",
    "date": null,
    "pubdate": "2026-09-30T12:42:54.142844+00:00"
   },
