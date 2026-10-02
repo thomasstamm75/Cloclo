@@ -1,16 +1,32 @@
 {
  "etag": "",
- "last_modified": "Thu, 01 Oct 2026 22:22:09 GMT",
+ "last_modified": "Fri, 02 Oct 2026 09:35:25 GMT",
  "first_seen": {
-  "https://www.jean-jaures.org/publication/penser-le-nouveau-statut-sociopolitique-des-fonctionnaires/": "2026-09-25T11:00:00+00:00",
-  "https://www.jean-jaures.org/publication/reductions-historiques-de-laide-comment-lafrique-reagit-elle/": "2026-09-28T11:00:00+00:00",
   "https://www.jean-jaures.org/publication/reindustrialiser-par-les-competences-restaurer-un-grand-operateur-public-de-formation/": "2026-09-29T11:00:00+00:00",
   "https://www.jean-jaures.org/publication/rentree-record-pour-bonjour-sur-tf1-pourquoi-les-medias-ont-raison-dinvestir-le-matin/": "2026-09-29T11:00:00+00:00",
   "https://www.jean-jaures.org/publication/apres-le-feu-pour-une-doctrine-francaise-de-securite-alimentaire-face-aux-crises-systemiques/": "2026-09-30T11:00:00+00:00",
-  "https://www.jean-jaures.org/publication/ce-que-lintelligence-artificielle-dit-de-la-campagne-presidentielle/": "2026-09-28T11:00:00+00:00"
+  "https://www.jean-jaures.org/publication/ce-que-lintelligence-artificielle-dit-de-la-campagne-presidentielle/": "2026-09-28T11:00:00+00:00",
+  "https://www.jean-jaures.org/publication/prix-des-carburants-tensions-internationales-changement-climatique-conditions-denseignement-a-qui-profitent-les-crises-actuelles/": "2026-10-02T11:00:00+00:00",
+  "https://www.jean-jaures.org/publication/evangelismes-et-droites-en-amerique-latine-du-temple-aux-urnes/": "2026-10-02T11:00:00+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "Prix des carburants, tensions internationales, changement climatique, conditions d’enseignement… : à qui profitent les crises actuelles ?",
+   "link": "https://www.jean-jaures.org/publication/prix-des-carburants-tensions-internationales-changement-climatique-conditions-denseignement-a-qui-profitent-les-crises-actuelles/",
+   "summary": "",
+   "image": "",
+   "date": "2026-10-02T11:00:00+00:00",
+   "pubdate": "2026-10-02T11:00:00+00:00"
+  },
+  {
+   "title": "Évangélismes et droites en Amérique latine. Du temple aux urnes",
+   "link": "https://www.jean-jaures.org/publication/evangelismes-et-droites-en-amerique-latine-du-temple-aux-urnes/",
+   "summary": "",
+   "image": "",
+   "date": "2026-10-02T11:00:00+00:00",
+   "pubdate": "2026-10-02T11:00:00+00:00"
+  },
   {
    "title": "Après le feu. Pour une doctrine française de sécurité alimentaire face aux crises systémiques",
    "link": "https://www.jean-jaures.org/publication/apres-le-feu-pour-une-doctrine-francaise-de-securite-alimentaire-face-aux-crises-systemiques/",
@@ -42,22 +58,6 @@
    "image": "",
    "date": "2026-09-28T11:00:00+00:00",
    "pubdate": "2026-09-28T11:00:00+00:00"
-  },
-  {
-   "title": "Réductions historiques de l’aide : comment l’Afrique réagit-elle ?",
-   "link": "https://www.jean-jaures.org/publication/reductions-historiques-de-laide-comment-lafrique-reagit-elle/",
-   "summary": "",
-   "image": "",
-   "date": "2026-09-28T11:00:00+00:00",
-   "pubdate": "2026-09-28T11:00:00+00:00"
-  },
-  {
-   "title": "Penser le nouveau statut sociopolitique des fonctionnaires",
-   "link": "https://www.jean-jaures.org/publication/penser-le-nouveau-statut-sociopolitique-des-fonctionnaires/",
-   "summary": "",
-   "image": "",
-   "date": "2026-09-25T11:00:00+00:00",
-   "pubdate": "2026-09-25T11:00:00+00:00"
   }
  ]
 }
