@@ -1,13 +1,11 @@
 {
- "etag": "\"9537baa6a92d0a98e8172d3ce6bb9340-gzip\"",
+ "etag": "\"65655eb32b4b6967b0a655cba7109d80-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-c-est-le-sauveur-en-saxe-anhalt-ulrich-siegmund-l-homme-le-plus-dangereux-d-allemagne-selon-der-spiegel-aux-portes-du-pouvoir_8147219.html": "2026-09-25T17:17:05.878379+00:00",
   "https://www.franceinfo.fr/monde/europe/allemagne/il-y-a-une-extrapolation-du-declin-economique-comment-l-extreme-droite-allemande-est-arrivee-aux-portes-du-pouvoir-en-saxe-anhalt_8175638.html": "2026-09-25T21:38:56.497776+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/vos-questions-sur-l-effort-de-guerre-de-la-france/": "2026-09-26T05:07:01.845520+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/reportage-plus-de-huit-millions-de-livres-pour-enfants-partis-en-fumee-l-ukraine-face-a-une-penurie-de-manuels-scolaires-apres-des-frappes-russes_8192342.html": "2026-09-26T11:31:23.833452+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/je-ne-sais-pas-ce-qui-attend-nos-enfants-a-kiev-l-angoisse-de-la-rentree-sous-les-bombes-apres-un-ete-meurtrier_8144936.html": "2026-09-27T21:25:00.506015+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-ukraine-va-reporter-des-depenses-apres-plusieurs-retards-dans-l-aide-etrangere_8213987.html": "2026-09-28T21:16:00.427454+00:00",
   "https://www.franceinfo.fr/sante/vaccins/comment-l-ingerence-etrangere-en-europe-passe-aussi-par-la-desinformation-sur-la-sante-et-les-vaccins_8214602.html": "2026-09-29T18:07:18.027923+00:00",
   "https://www.franceinfo.fr/monde/russie/l-estonie-accuse-la-russie-d-avoir-commandite-un-incendie-chez-un-fabricant-de-drones-une-dangereuse-fuite-en-avant-selon-emmanuel-macron_8214803.html": "2026-09-29T18:07:18.027923+00:00",
   "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/jordan-bardella-accuse-d-ecrits-antisemites-greve-dans-la-fonction-publique-budget-presidentielle-le-8h30-franceinfo-de-dominique-de-villepin_8192720.html": "2026-09-29T18:07:18.027923+00:00",
@@ -20,8 +18,6 @@
   "https://france3-regions.franceinfo.fr/hauts-de-france/pas-calais/calais/naufrage-de-31-migrants-dans-la-manche-jusqu-a-10-ans-de-prison-prononces-contre-des-passeurs-mus-par-l-appat-du-gain-3425814.html": "2026-09-30T20:05:30.825387+00:00",
   "https://france3-regions.franceinfo.fr/hauts-de-france/nord-0/difficile-sur-le-plan-operationnel-l-accord-franco-britannique-d-echange-de-migrants-dit-du-un-pour-un-va-s-arreter-3425829.html": "2026-09-30T20:05:30.825387+00:00",
   "https://www.franceinfo.fr/monde/europe/union-europeenne/la-commission-europeenne-presente-un-nouveau-plan-pour-lutter-contre-les-arrivees-massives-de-migrants-a-ses-frontieres-sa-reponse-a-la-crise-de-ceuta_8216416.html": "2026-09-30T20:05:30.825387+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/il-y-a-des-gens-qui-meurent-tout-simplement-de-faim-oleshky-une-ville-ukrainienne-au-bord-de-la-famine_8216992.html": "2026-10-01T00:36:08.595558+00:00",
-  "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/brexit-et-si-le-royaume-uni-revenait-dans-l-union-europeenne_8217730.html": "2026-10-01T10:14:44.619482+00:00",
   "https://www.franceinfo.fr/environnement/pollution/pfas/polluants-eternels-100-des-personnes-issues-de-neuf-pays-europeens-testees-positives-au-tfa-alertent-les-eurodeputes-ecologistes_8216995.html": "2026-10-01T10:14:44.619482+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/une-ville-ukrainienne-au-bord-de-la-famine_8218201.html": "2026-10-01T18:27:42.280082+00:00",
   "https://www.franceinfo.fr/monde/europe/migrants/crise-des-migrants-a-ceuta/le-ministere-de-la-defense-espagnol-va-enqueter-sur-d-eventuels-mauvais-traitements-des-migrants-a-ceuta_8218309.html": "2026-10-01T18:27:42.280082+00:00",
@@ -29,15 +25,51 @@
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-ukraine-un-pont-de-kiev-et-l-institut-de-recherche-nucleaire-frappes-par-des-drones-russes_8218267.html": "2026-10-01T18:27:42.280082+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/kiev-et-bruxelles-ont-trouve-un-accord-sur-les-modalites-du-financement-de-l-ukraine-pour-2026_8218864.html": "2026-10-02T09:52:13.760455+00:00",
   "https://www.franceinfo.fr/monde/europe/allemagne/en-allemagne-un-mois-apres-la-victoire-de-l-afd-une-ville-interdit-l-installation-de-paves-dedies-aux-victimes-du-nazisme_8218765.html": "2026-10-02T09:52:13.760455+00:00",
-  "https://www.franceinfo.fr/economie/transports/prix-des-carburants/les-etats-unis-exhortent-les-europeens-a-mettre-sur-le-marche-leurs-stocks-de-diesel-pour-faire-baisser-le-prix-des-carburants_8219194.html": "2026-10-02T09:52:13.760455+00:00"
+  "https://www.franceinfo.fr/economie/transports/prix-des-carburants/les-etats-unis-exhortent-les-europeens-a-mettre-sur-le-marche-leurs-stocks-de-diesel-pour-faire-baisser-le-prix-des-carburants_8219194.html": "2026-10-02T09:52:13.760455+00:00",
+  "https://www.franceinfo.fr/monde/espagne/dans-une-espagne-en-proie-a-une-crise-du-logement-la-jeunesse-est-prise-dans-un-piege-locatif_8219851.html": "2026-10-02T17:54:13.968038+00:00",
+  "https://www.franceinfo.fr/sports/foot/ligue-des-nations/pas-assez-blanche-pas-assez-allemande-la-nouvelle-mannschaft-face-a-une-vague-de-commentaires-racistes_8219920.html": "2026-10-02T17:54:13.968038+00:00",
+  "https://www.franceinfo.fr/environnement/crise-climatique/l-ete-2026-est-le-plus-chaud-jamais-enregistre-en-europe-de-l-ouest-selon-l-institut-copernicus_8219773.html": "2026-10-02T17:54:13.968038+00:00",
+  "https://www.franceinfo.fr/monde/europe/l-union-europeenne-s-oppose-categoriquement-a-une-interdiction-d-exportation-du-gazole-des-etats-unis_8219767.html": "2026-10-02T17:54:13.968038+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "Kiev et Bruxelles ont trouvé un accord sur les modalités du financement de l'Ukraine pour 2026 L'Ukraine et l'Union européenne ont trouvé jeudi un accord de principe sur la manière de répondre aux besoins financiers supplémentaires de Kiev pour 2026, aux termes duquel Bruxelles ne compte pas s'engager pour de nouveaux montants. Aujourd'hui",
+   "title": "Dans une Espagne en proie à une crise du logement, la jeunesse est prise dans un \"piège locatif\" A Madrid, la Puerta del Sol est occupée par des manifestants qui y ont installé des tentes pour dénoncer la crise du logement. En dix ans, le prix moyen du mètre carré à la location a presque doublé. Dans cet article, le média public espagnol RTVE analyse les chiffres. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/espagne/dans-une-espagne-en-proie-a-une-crise-du-logement-la-jeunesse-est-prise-dans-un-piege-locatif_8219851.html",
+   "summary": "Dans une Espagne en proie à une crise du logement, la jeunesse est prise dans un \"piège locatif\"",
+   "image": "https://www.franceinfo.fr/pictures/YIttaDf9xa2zJRryLNwDncVncXY/53x0:3446x2333/432x297/filters:format(jpg)/2026/10/02/6abfc427cf59f792921356.jpg",
+   "date": null,
+   "pubdate": "2026-10-02T17:54:13.968038+00:00"
+  },
+  {
+   "title": "\"Pas assez blanche\", \"pas assez allemande\"... La nouvelle Mannschaft face à une vague de commentaires racistes",
+   "link": "https://www.franceinfo.fr/sports/foot/ligue-des-nations/pas-assez-blanche-pas-assez-allemande-la-nouvelle-mannschaft-face-a-une-vague-de-commentaires-racistes_8219920.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/QOvcoYCMl8WY2K9xyb5ISoZ5PSg/0x301:5028x3130/432x243/filters:format(jpg)/2026/10/02/6abfc0359c498744555564.jpg",
+   "date": null,
+   "pubdate": "2026-10-02T17:54:13.968038+00:00"
+  },
+  {
+   "title": "L'été 2026 est le plus chaud jamais enregistré en Europe de l'Ouest, selon l'institut Copernicus",
+   "link": "https://www.franceinfo.fr/environnement/crise-climatique/l-ete-2026-est-le-plus-chaud-jamais-enregistre-en-europe-de-l-ouest-selon-l-institut-copernicus_8219773.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/xSskD25qdMsRSVWQPgAohJzD0sc/0x0:1024x576/432x243/filters:format(jpg)/2026/10/02/6abfb0aec429f374590030.jpg",
+   "date": null,
+   "pubdate": "2026-10-02T17:54:13.968038+00:00"
+  },
+  {
+   "title": "L'Union européenne s'oppose \"catégoriquement\" à une interdiction des exportations américaines de gazole",
+   "link": "https://www.franceinfo.fr/monde/europe/l-union-europeenne-s-oppose-categoriquement-a-une-interdiction-d-exportation-du-gazole-des-etats-unis_8219767.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/6550xUy01v07jQl7_foSZ8hMmmc/0x25:1024x601/432x243/filters:format(jpg)/2026/10/02/6abfa457b0291330820525.jpg",
+   "date": null,
+   "pubdate": "2026-10-02T17:54:13.968038+00:00"
+  },
+  {
+   "title": "Kiev et Bruxelles ont trouvé un accord sur les modalités du financement de l'Ukraine pour 2026",
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/kiev-et-bruxelles-ont-trouve-un-accord-sur-les-modalites-du-financement-de-l-ukraine-pour-2026_8218864.html",
-   "summary": "Kiev et Bruxelles ont trouvé un accord sur les modalités du financement de l'Ukraine pour 2026",
-   "image": "https://www.franceinfo.fr/pictures/UAFtV65bH06hcMRwn2j3tBdRwCw/182x0:5727x3812/432x297/filters:format(jpg)/2026/10/01/6abec87b6b7ee351865524.jpg",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/uSJKIlG96BG7Rmc4O9Q-mXyOA1o/0x243:5910x3568/432x243/filters:format(jpg)/2026/10/01/6abec87b6b7ee351865524.jpg",
    "date": null,
    "pubdate": "2026-10-02T09:52:13.760455+00:00"
   },
@@ -82,36 +114,20 @@
    "pubdate": "2026-10-01T18:27:42.280082+00:00"
   },
   {
-   "title": "En Ukraine, un pont de Kiev et l'institut de recherche nucléaire frappés par des drones russes",
+   "title": "En Ukraine, un pont de Kiev et l'institut de recherche nucléaire frappés par des drones russes Le bombardement de ce pont, l'un des principaux de la capitale ukrainienne, intervient alors que la Russie a accentué, ces derniers jours, ses attaques meurtrières contre des infrastructures civiles à Kiev et dans ses environs.",
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-ukraine-un-pont-de-kiev-et-l-institut-de-recherche-nucleaire-frappes-par-des-drones-russes_8218267.html",
-   "summary": "",
+   "summary": "En Ukraine, un pont de Kiev et l'institut de recherche nucléaire frappés par des drones russes",
    "image": "https://www.franceinfo.fr/pictures/ZX5hLexzPqQA9z5qrsolYhVP5HQ/0x106:1024x682/432x243/filters:format(jpg)/2026/10/01/6abe4f7d0c172050504213.jpg",
    "date": null,
    "pubdate": "2026-10-01T18:27:42.280082+00:00"
   },
   {
-   "title": "1:57 vidéo 1 minute 57 Brexit : et si le Royaume-Uni revenait dans l'Union européenne ?",
-   "link": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/brexit-et-si-le-royaume-uni-revenait-dans-l-union-europeenne_8217730.html",
-   "summary": "Brexit : et si le Royaume-Uni revenait dans l'Union européenne ?",
-   "image": "https://www.franceinfo.fr/pictures/EbuWZ1lE6RTQu8JTrchkwqPpZvQ/170x0:1471x732/432x243/filters:format(jpg)/2026/10/01/6abdf1a0475ea071734607.png",
-   "date": null,
-   "pubdate": "2026-10-01T10:14:44.619482+00:00"
-  },
-  {
-   "title": "Polluants éternels : 100% des personnes issues de neuf pays européens, testées positives au TFA, alertent les eurodéputés écologistes",
+   "title": "Polluants éternels : 100% des personnes issues de neuf pays européens, testées positives au TFA, alertent les eurodéputés écologistes Ce tout petit PFAS, que l'on retrouve dans l'eau et les cultures agricoles, est extrêmement stable et donc particulièrement persistant dans l'environnement.",
    "link": "https://www.franceinfo.fr/environnement/pollution/pfas/polluants-eternels-100-des-personnes-issues-de-neuf-pays-europeens-testees-positives-au-tfa-alertent-les-eurodeputes-ecologistes_8216995.html",
-   "summary": "",
+   "summary": "Polluants éternels : 100% des personnes issues de neuf pays européens, testées positives au TFA, alertent les eurodéputés écologistes",
    "image": "https://www.franceinfo.fr/pictures/Ml0lccK7WIUaHpdOF-AoUcZJEEU/0x520:5000x3333/432x243/filters:format(jpg)/2026/09/30/6abd74e48d423574244513.jpg",
    "date": null,
    "pubdate": "2026-10-01T10:14:44.619482+00:00"
-  },
-  {
-   "title": "3:01 vidéo 3 minutes 1 \"Il y a des gens qui meurent tout simplement de faim\" : Olechky, une ville ukrainienne au bord de la famine",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/il-y-a-des-gens-qui-meurent-tout-simplement-de-faim-oleshky-une-ville-ukrainienne-au-bord-de-la-famine_8216992.html",
-   "summary": "\"Il y a des gens qui meurent tout simplement de faim\" : Olechky, une ville ukrainienne au bord de la famine",
-   "image": "https://www.franceinfo.fr/pictures/0nTwPUBOqEEOMFNDj5WUtpdKT4c/0x42:1496x884/432x243/filters:format(jpg)/2026/09/30/6abd759cbdb2c949015154.jpg",
-   "date": null,
-   "pubdate": "2026-10-01T00:36:08.595558+00:00"
   },
   {
    "title": "Guerre en Ukraine : ce que l'on sait de l'opération \"Vivaldi\" menée pour desserrer la tenaille russe dans le Donbass L'armée ukrainienne aurait repris plus de 175 km2 dans le Donbass. Et la Russie aurait perdu près de 5 000 hommes lors de ces combats.",
@@ -210,14 +226,6 @@
    "pubdate": "2026-09-29T11:00:00+00:00"
   },
   {
-   "title": "L'Ukraine va reporter des dépenses après plusieurs retards dans l'aide étrangère \"Nous reportons les dépenses non prioritaires. Cela concerne les nouvelles constructions, les travaux de reconstruction ou les réparations majeures qui ne sont pas d'importance critique\", a précisé le Premier ministre ukrainien lundi.",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-ukraine-va-reporter-des-depenses-apres-plusieurs-retards-dans-l-aide-etrangere_8213987.html",
-   "summary": "L'Ukraine va reporter des dépenses après plusieurs retards dans l'aide étrangère",
-   "image": "https://www.franceinfo.fr/pictures/ZO1DnaT683Avhfwmd8A6tZ1UFRs/0x18:1024x594/432x243/filters:format(jpg)/2026/09/28/6abacc8d6f8af746349198.jpg",
-   "date": null,
-   "pubdate": "2026-09-28T21:16:00.427454+00:00"
-  },
-  {
    "title": "4:30 audio 4 minutes 30 \"Je ne sais pas ce qui attend nos enfants\" : à Kiev, l'angoisse de la rentrée sous les bombes après un été meurtrier",
    "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/je-ne-sais-pas-ce-qui-attend-nos-enfants-a-kiev-l-angoisse-de-la-rentree-sous-les-bombes-apres-un-ete-meurtrier_8144936.html",
    "summary": "\"Je ne sais pas ce qui attend nos enfants\" : à Kiev, l'angoisse de la rentrée sous les bombes après un été meurtrier",
@@ -232,14 +240,6 @@
    "image": "https://www.franceinfo.fr/pictures/FDQ95GjeajjrKBoHSZT8OG_Y2Ww/350x0:1250x900/100x100/filters:format(jpg)/2026/09/14/6aa8420659848131991942.jpg",
    "date": null,
    "pubdate": "2026-09-26T11:31:23.833452+00:00"
-  },
-  {
-   "title": "Vos questions sur l'effort de guerre de la France 6 contenus",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/vos-questions-sur-l-effort-de-guerre-de-la-france/",
-   "summary": "Vos questions sur l'effort de guerre de la France",
-   "image": "https://www.franceinfo.fr/pictures/ntZoU9VrwR_yrQmHdJn-AC2Tq7o/432x297/filters:format(jpg)/2025/04/01/effort-de-guerre-couverture-de-dossier-01-light-67eba0e5ca0a7848911582.jpg",
-   "date": null,
-   "pubdate": "2026-09-26T05:07:01.845520+00:00"
   },
   {
    "title": "7:00 article 7 minutes \"Il y a une extrapolation du déclin économique\" : comment l'extrême droite allemande est arrivée aux portes du pouvoir en Saxe-Anhalt",
