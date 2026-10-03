@@ -1,46 +1,210 @@
 {
- "etag": "\"cd9efced19fa23c24b8bae134036f0fd-gzip\"",
+ "etag": "\"c54e447c200d831f89c263625fd9f86b-gzip\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.franceinfo.fr/economie/crise/crise-de-la-dette/efforts-avenir-et-depenses-quelles-sont-les-attentes-des-francais-vis-a-vis-de-la-dette_8215412.html": "2026-09-29T22:20:50.891853+00:00",
   "https://www.franceinfo.fr/sante/temoignages-l-impression-d-avoir-une-bombe-a-retardement-en-moi-quatre-patients-racontent-leur-calvaire-apres-la-pose-d-une-prothese-de-hernie_8214686.html": "2026-09-30T05:39:23.531465+00:00",
   "https://www.franceinfo.fr/societe/nos-jours-heureux/": "2026-09-30T20:05:26.193735+00:00",
   "https://www.franceinfo.fr/societe/euthanasie/comprendre-les-debats-sur-la-fin-de-vie/": "2026-09-30T20:05:26.193735+00:00",
   "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/on-minimise-la-dimension-systemique-pourquoi-la-rencontre-du-pape-leon-xiv-avec-sept-victimes-de-violences-sexuelles-provoque-des-crispations_8195732.html": "2026-09-30T20:05:26.193735+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/temoignages-ce-n-est-pas-de-la-vengeance-c-est-de-la-justice-370-victimes-de-violences-dans-des-ecoles-lasalliennes-poursuivent-la-congregation_8196386.html": "2026-10-01T10:14:39.045286+00:00",
-  "https://www.franceinfo.fr/replay-magazine/france-2/nous-les-europeens/nous-les-europeens-protection-de-l-enfance-l-espagne-se-mobilise_8194532.html": "2026-10-02T17:54:09.862551+00:00",
-  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/appliquer-la-loi-du-casseur-payeur-pour-les-degats-en-marge-des-mobilisations-lyceennes-comme-le-veut-laurent-wauquiez-est-il-si-simple_8219986.html": "2026-10-02T17:54:09.862551+00:00",
-  "https://france3-regions.franceinfo.fr/centre-val-de-loire/loiret/orleans/t-as-beau-etre-elu-t-es-une-merde-comme-les-autres-en-marge-des-blocages-des-lycees-des-policiers-prennent-a-partie-des-elus-locaux-3427041.html": "2026-10-02T17:54:09.862551+00:00",
-  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-des-lyceens-et-etudiants-les-promesses-en-l-air-ce-n-est-plus-possible-selon-la-presidente-de-la-fage_8220067.html": "2026-10-02T17:54:09.862551+00:00",
-  "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/marseille/verification-blocage-des-lycees-une-femme-a-t-elle-ete-brulee-au-visage-a-marseille-par-un-emeutier-3427068.html": "2026-10-02T17:54:09.862551+00:00",
-  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/blocage-des-lycees-une-mobilisation-hors-de-controle_8220469.html": "2026-10-02T22:18:56.180857+00:00",
   "https://www.franceinfo.fr/societe/education/blocage-des-lycees/les-heurts-se-multiplient-aux-abords-de-lycees-plus-de-5-000-interpellations-depuis-lundi-dont-1-700-pour-la-seule-journee-de-vendredi_8220466.html": "2026-10-02T22:18:56.180857+00:00",
   "https://www.franceinfo.fr/societe/education/blocage-des-lycees/on-a-la-boule-au-ventre-concede-le-secretaire-national-du-principal-syndicat-des-chefs-d-etablissement_8220436.html": "2026-10-02T22:18:56.180857+00:00",
-  "https://www.franceinfo.fr/societe/drogue/pays-bas-16-francais-interpelles-apres-une-operation-commando-contre-un-baron-de-la-drogue_8220412.html": "2026-10-02T22:18:56.180857+00:00",
   "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-des-lyceens-que-le-gouvernement-renonce-a-ce-plan-d-economies-le-pire-de-l-histoire-de-la-ve-republique-dit-fo-enseignement_8220403.html": "2026-10-02T22:18:56.180857+00:00",
-  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/apres-les-degats-engendres-par-le-blocage-des-lycees-gerald-darmanin-milite-pour-que-les-parents-des-casseurs-paient_8220388.html": "2026-10-02T22:18:56.180857+00:00",
-  "https://www.franceinfo.fr/societe/education/scolarite/guide-parents/lycee/locaux-delabres-professeurs-non-remplaces-les-revendications-des-lyceens-correspondent-elles-aux-chiffres_8220391.html": "2026-10-02T22:18:56.180857+00:00",
-  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/ca-decredibilise-totalement-la-cause-face-aux-violences-des-lyceens-veulent-faire-entendre-leurs-revendications-de-facon-pacifique_8220385.html": "2026-10-02T22:18:56.180857+00:00",
-  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/le-jeune-homme-blesse-a-tours-lors-d-un-blocage-de-lycee-a-perdu-l-usage-d-un-il_8220382.html": "2026-10-02T22:18:56.180857+00:00",
-  "https://www.franceinfo.fr/societe/mobilisation-des-pompiers/laurent-nunez-promet-un-milliard-d-euros-supplementaire-sur-cinq-ans-pour-les-pompiers_8220361.html": "2026-10-02T22:18:56.180857+00:00",
-  "https://www.franceinfo.fr/economie/budget/budget-de-la-securite-sociale-18-organisations-dont-amnesty-international-et-le-secours-catholique-denoncent-une-preference-nationale-deguisee_8220316.html": "2026-10-02T22:18:56.180857+00:00",
-  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/edouard-geffray-annonce-un-plan-d-action-pour-accelerer-les-remplacements-des-professeurs_8220190.html": "2026-10-02T22:18:56.180857+00:00",
   "https://www.franceinfo.fr/societe/education/blocage-des-lycees/lyceens-blesses-au-lbd-gazage-arrestations-massives-le-maintien-de-l-ordre-est-il-adapte-a-des-manifestants-mineurs_8219671.html": "2026-10-03T05:24:22.747652+00:00",
   "https://www.franceinfo.fr/societe/education/blocage-des-lycees/temoignages-quand-il-pleut-de-l-eau-tombe-sur-nous-des-eleves-et-des-professeurs-decrivent-l-insalubrite-de-leurs-lycees_8219407.html": "2026-10-03T05:24:22.747652+00:00",
-  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/un-policier-roue-de-coups-en-marge-d-une-manifestation-lyceenne_8220091.html": "2026-10-03T05:24:22.747652+00:00"
+  "https://www.franceinfo.fr/societe/securite-routiere/la-suspension-temporaire-du-permis-de-conduire-en-cas-d-utilisation-du-telephone-portable-au-volant-est-generalisee-dans-toute-la-france-annonce-le-gouvernement_8221162.html": "2026-10-03T11:45:35.220117+00:00",
+  "https://www.franceinfo.fr/societe/education/scolarite/guide-parents/college/blocage-des-lycees-un-college-de-metz-incendie-dans-la-nuit_8221156.html": "2026-10-03T11:45:35.220117+00:00",
+  "https://www.franceinfo.fr/politique/lycees-bloques-aleksandar-nikolic-justifie-les-interventions-policieres_8221102.html": "2026-10-03T11:45:35.220117+00:00",
+  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/un-mineur-de-15-ans-interpelle-apres-l-agression-d-une-femme-avec-un-spray-inflammable-en-marge-du-mouvement-lyceen-a-marseille_8221051.html": "2026-10-03T11:45:35.220117+00:00",
+  "https://www.franceinfo.fr/sports/aucune-colere-ne-justifie-cela-mais-je-refuse-qu-on-fasse-le-proces-de-toute-une-generation-teddy-riner-apporte-son-soutien-au-mouvement-lyceen_8220955.html": "2026-10-03T11:45:35.220117+00:00",
+  "https://www.franceinfo.fr/societe/prisons/la-surpopulation-carcerale-atteint-un-nouveau-record-en-france-avec-90-020-detenus-au-1er-septembre_8220991.html": "2026-10-03T11:45:35.220117+00:00",
+  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/face-a-la-mobilisation-des-lyceens-le-plan-d-action-pour-remplacer-les-enseignants-est-une-premiere-etape-mais-ce-qui-manque-c-est-de-rendre-ce-metier-attractif-estime-la-peep_8221021.html": "2026-10-03T11:45:35.220117+00:00",
+  "https://www.franceinfo.fr/replay-radio/les-debats-de-l-eco/discussion-budgetaire-election-presidentielle-2027-quel-programme-pour-la-jeunesse_8200097.html": "2026-10-03T11:45:35.220117+00:00",
+  "https://www.franceinfo.fr/economie/c-est-la-folie-comment-un-stylo-legami-vendu-3-50-euros-se-revend-jusqu-a-400-euros-sur-vinted_8216260.html": "2026-10-03T11:45:35.220117+00:00",
+  "https://www.franceinfo.fr/replay-magazine/france-2/affaires-sensibles/video-affaires-sensibles-le-combat-d-un-fils-pour-l-honneur-du-juge-renaud-dit-le-sherif-assassine-en-1975_8216506.html": "2026-10-03T11:45:35.220117+00:00",
+  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-blocage-des-lycees-les-lyceens-ont-evidemment-le-droit-de-manifester-et-nous-avons-au-gouvernement-le-devoir-de-les-entendre-assure-le-ministre-de-l-action-et-des-comptes-publics-david-amiel_8220925.html": "2026-10-03T11:45:35.220117+00:00",
+  "https://www.franceinfo.fr/sports/foot/operation-grands-stades-les-equipes-de-football-feminin-investissent-les-stades-de-ligue-1-pour-aller-chercher-de-nouveaux-spectateurs_8220883.html": "2026-10-03T11:45:35.220117+00:00",
+  "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/mouvement-de-blocage-des-lycees-accusations-d-antisemitisme-visant-jordan-bardella-le-8h30-franceinfo-d-aleksandar-nikolic_8200130.html": "2026-10-03T11:45:35.220117+00:00",
+  "https://www.franceinfo.fr/faits-divers/incendie/un-incendie-dans-un-college-a-metz-en-marge-de-la-mobilisation-lyceenne_8220889.html": "2026-10-03T11:45:35.220117+00:00",
+  "https://www.franceinfo.fr/replay-radio/l-il-de-julie/le-pigeon-cette-icone-digitale_8200094.html": "2026-10-03T11:45:35.220117+00:00",
+  "https://www.franceinfo.fr/replay-radio/c-est-mon-boulot/le-compte-personnel-de-formation-mis-a-contribution-dans-le-budget-2027_8200100.html": "2026-10-03T11:45:35.220117+00:00",
+  "https://www.franceinfo.fr/replay-radio/portraits-d-actu/christa-pike-une-jeunesse-dechiree-un-meurtre-barbare-une-execution-ratee_8200031.html": "2026-10-03T11:45:35.220117+00:00",
+  "https://www.franceinfo.fr/replay-radio/les-experts-cinema/notre-salut-un-tres-grand-film-sur-un-collabo-ordinaire_8200127.html": "2026-10-03T11:45:35.220117+00:00",
+  "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-confrontes-a-la-baisse-de-leur-frequentation-des-hippodromes-de-region-sont-menaces-de-fermeture_8200112.html": "2026-10-03T11:45:35.220117+00:00",
+  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/la-suite-depend-de-ce-que-l-etat-fera-a-aubervilliers-des-lyceens-veulent-structurer-le-mouvement-de-blocage-des-etablissements_8220841.html": "2026-10-03T11:45:35.220117+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "Lycéens blessés au LBD, gazage, arrestations massives... Le maintien de l'ordre est-il adapté à des manifestants mineurs ? Les accusations de violences policières se multiplient depuis le début du mouvement lycéen, même si des blessés sont aussi à déplorer du côté des forces de l'ordre. Avec 170 jeunes blessés, selon un dernier bilan donné jeudi soir, cette mobilisation relance le débat sur la réponse à apporter face aux très jeunes manifestants. Aujourd'hui",
+   "title": "La suspension temporaire du permis de conduire en cas d'utilisation du téléphone portable au volant est généralisée dans toute la France, annonce le gouvernement La durée de cette suspension du permis sera décidée par la préfecture et pourra aller jusqu'à six mois. Les amendes et retrait de points restent en vigueur. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/societe/securite-routiere/la-suspension-temporaire-du-permis-de-conduire-en-cas-d-utilisation-du-telephone-portable-au-volant-est-generalisee-dans-toute-la-france-annonce-le-gouvernement_8221162.html",
+   "summary": "La suspension temporaire du permis de conduire en cas d'utilisation du téléphone portable au volant est généralisée dans toute la France, annonce le gouvernement",
+   "image": "https://www.franceinfo.fr/pictures/qyKxVIaf0oH2BEPaXwk-2ThmseU/0x252:4032x3024/432x297/filters:format(jpg)/2026/10/03/6ac0ea67866b6729845668.jpg",
+   "date": null,
+   "pubdate": "2026-10-03T11:45:35.220117+00:00"
+  },
+  {
+   "title": "2:00 vidéo 2 minutes Blocage des lycées : un collège de Metz incendié dans la nuit",
+   "link": "https://www.franceinfo.fr/societe/education/scolarite/guide-parents/college/blocage-des-lycees-un-college-de-metz-incendie-dans-la-nuit_8221156.html",
+   "summary": "Blocage des lycées : un collège de Metz incendié dans la nuit",
+   "image": "https://www.franceinfo.fr/pictures/vE68j4ohz3tMHMFAlPfwbIlabgg/0x4:1520x859/432x243/filters:format(jpg)/2026/10/03/6ac0e8f99fe33311694679.jpg",
+   "date": null,
+   "pubdate": "2026-10-03T11:45:35.220117+00:00"
+  },
+  {
+   "title": "1:13 vidéo 1 minute 13 Lycées bloqués : Aleksandar Nikolic justifie les interventions policières",
+   "link": "https://www.franceinfo.fr/politique/lycees-bloques-aleksandar-nikolic-justifie-les-interventions-policieres_8221102.html",
+   "summary": "Lycées bloqués : Aleksandar Nikolic justifie les interventions policières",
+   "image": "https://www.franceinfo.fr/pictures/UmGT5eijpy2mahtyXIyWf13GvOo/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/03/6ac0d6650148e960272566.jpg",
+   "date": null,
+   "pubdate": "2026-10-03T11:45:35.220117+00:00"
+  },
+  {
+   "title": "Un mineur de 15 ans interpellé après l'agression d'une femme avec un spray inflammable, en marge du mouvement lycéen à Marseille",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/un-mineur-de-15-ans-interpelle-apres-l-agression-d-une-femme-avec-un-spray-inflammable-en-marge-du-mouvement-lyceen-a-marseille_8221051.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/UBhPzoMhCWg6yPjb80uxfxt2zRE/0x302:5808x3569/432x243/filters:format(jpg)/2026/10/03/6ac0d1bd4e56b637682537.jpg",
+   "date": null,
+   "pubdate": "2026-10-03T11:45:35.220117+00:00"
+  },
+  {
+   "title": "\"Aucune colère ne justifie cela, mais je refuse qu’on fasse le procès de toute une génération\" : Teddy Riner apporte son soutien au mouvement lycéen",
+   "link": "https://www.franceinfo.fr/sports/aucune-colere-ne-justifie-cela-mais-je-refuse-qu-on-fasse-le-proces-de-toute-une-generation-teddy-riner-apporte-son-soutien-au-mouvement-lyceen_8220955.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/L3ZOIrN1QLUDt7AP0bWzpJxRMNQ/0x0:4896x2754/432x243/filters:format(jpg)/2026/10/03/6ac0bfb1f1ec9441224923.jpg",
+   "date": null,
+   "pubdate": "2026-10-03T11:45:35.220117+00:00"
+  },
+  {
+   "title": "La surpopulation carcérale atteint un nouveau record en France, avec 90 020 détenus au 1er septembre",
+   "link": "https://www.franceinfo.fr/societe/prisons/la-surpopulation-carcerale-atteint-un-nouveau-record-en-france-avec-90-020-detenus-au-1er-septembre_8220991.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/LfbcDfRx3Toqyu9vQOnkn_Le4GY/0x0:1024x576/432x243/filters:format(jpg)/2026/10/03/6ac0cbaa6b608779597122.jpg",
+   "date": null,
+   "pubdate": "2026-10-03T11:45:35.220117+00:00"
+  },
+  {
+   "title": "Face à la mobilisation des lycéens, le plan d'action pour remplacer les enseignants est \"une première étape\", mais \"ce qui manque, c'est de rendre ce métier attractif\", estime la Peep",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/face-a-la-mobilisation-des-lyceens-le-plan-d-action-pour-remplacer-les-enseignants-est-une-premiere-etape-mais-ce-qui-manque-c-est-de-rendre-ce-metier-attractif-estime-la-peep_8221021.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/NSl9VqV3INq3fkZyGyyEXe5946g/0x0:7622x4287/432x243/filters:format(jpg)/2026/10/03/6ac0c96594921449551609.jpg",
+   "date": null,
+   "pubdate": "2026-10-03T11:45:35.220117+00:00"
+  },
+  {
+   "title": "18:55 audio 18 minutes 55 Discussion budgétaire, élection présidentielle 2027... Quel programme pour la jeunesse ?",
+   "link": "https://www.franceinfo.fr/replay-radio/les-debats-de-l-eco/discussion-budgetaire-election-presidentielle-2027-quel-programme-pour-la-jeunesse_8200097.html",
+   "summary": "Discussion budgétaire, élection présidentielle 2027... Quel programme pour la jeunesse ?",
+   "image": "https://www.franceinfo.fr/pictures/hQ1uj1U_saiL6-ziOknlkdpbMoc/0x29:2500x1436/432x243/filters:format(jpg)/2026/10/02/6abf5978b242b653839422.jpg",
+   "date": null,
+   "pubdate": "2026-10-03T11:45:35.220117+00:00"
+  },
+  {
+   "title": "\"C'est la folie\" : comment un stylo Legami vendu 3,50 euros se revend jusqu'à 500 euros sur Vinted",
+   "link": "https://www.franceinfo.fr/economie/c-est-la-folie-comment-un-stylo-legami-vendu-3-50-euros-se-revend-jusqu-a-400-euros-sur-vinted_8216260.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/iK6sjF6DP4XTSjSAsHG42IhTlro/0x480:5120x3360/432x243/filters:format(jpg)/2026/10/01/6abe0d263d134787447822.jpg",
+   "date": null,
+   "pubdate": "2026-10-03T11:45:35.220117+00:00"
+  },
+  {
+   "title": ": Vidéo 5:46 vidéo 5 minutes 46 : Vidéo \"Affaires sensibles\" : le combat d’un fils pour l’honneur du juge Renaud, dit \"le Shérif\", assassiné en 1975",
+   "link": "https://www.franceinfo.fr/replay-magazine/france-2/affaires-sensibles/video-affaires-sensibles-le-combat-d-un-fils-pour-l-honneur-du-juge-renaud-dit-le-sherif-assassine-en-1975_8216506.html",
+   "summary": "\"Affaires sensibles\" : le combat d’un fils pour l’honneur du juge Renaud, dit \"le Shérif\", assassiné en 1975",
+   "image": "https://www.franceinfo.fr/pictures/nXd-i4dbwap1uRM-GEiPtcmnWus/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/02/6abf980a66b76475047788.jpg",
+   "date": null,
+   "pubdate": "2026-10-03T11:45:35.220117+00:00"
+  },
+  {
+   "title": "• Direct Blocage des lycées : plus de 800 interpellations en Ile-de-France depuis le début du mouvement, dont 85% de mineurs Le ministre de l'Intérieur Laurent Nuñez, avait annoncé 1 747 interpellations en France pour la seule journée de vendredi et plus de 5 000 depuis lundi.",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-blocage-des-lycees-les-lyceens-ont-evidemment-le-droit-de-manifester-et-nous-avons-au-gouvernement-le-devoir-de-les-entendre-assure-le-ministre-de-l-action-et-des-comptes-publics-david-amiel_8220925.html",
+   "summary": "Blocage des lycées : plus de 800 interpellations en Ile-de-France depuis le début du mouvement, dont 85% de mineurs",
+   "image": "https://www.franceinfo.fr/pictures/s7hkAiTdsCACHYYHwrAoD4SqRgo/0x59:1024x635/432x243/filters:format(jpg)/2026/10/03/6ac0c109930c4636894548.jpg",
+   "date": null,
+   "pubdate": "2026-10-03T11:45:35.220117+00:00"
+  },
+  {
+   "title": "\"Opération grands stades\" : les équipes de football féminin investissent les stades de Ligue 1 pour \"aller chercher de nouveaux spectateurs\" L'opération, qui se déroulera deux fois cette saison, vise à donner davantage de visibilité au football féminin et à attirer un nouveau public dans les tribunes.",
+   "link": "https://www.franceinfo.fr/sports/foot/operation-grands-stades-les-equipes-de-football-feminin-investissent-les-stades-de-ligue-1-pour-aller-chercher-de-nouveaux-spectateurs_8220883.html",
+   "summary": "\"Opération grands stades\" : les équipes de football féminin investissent les stades de Ligue 1 pour \"aller chercher de nouveaux spectateurs\"",
+   "image": "https://www.franceinfo.fr/pictures/jFJaoNPedtul5xkbNcG3Dga-uyQ/0x208:4000x2458/432x243/filters:format(jpg)/2026/10/03/6ac0a449259c6092352396.jpg",
+   "date": null,
+   "pubdate": "2026-10-03T11:45:35.220117+00:00"
+  },
+  {
+   "title": "19:58 audio 19 minutes 58 Mouvement de blocage des lycées, accusations d'antisémitisme visant Jordan Bardella... Le \"8h30 franceinfo\" d'Aleksandar Nikolic Le député européen et porte-parole du Rassemblement national était l'invité de franceinfo samedi. Il répondait aux questions de Camille Girerd et Benjamin Fontaine.",
+   "link": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/mouvement-de-blocage-des-lycees-accusations-d-antisemitisme-visant-jordan-bardella-le-8h30-franceinfo-d-aleksandar-nikolic_8200130.html",
+   "summary": "Mouvement de blocage des lycées, accusations d'antisémitisme visant Jordan Bardella... Le \"8h30 franceinfo\" d'Aleksandar Nikolic",
+   "image": "https://www.franceinfo.fr/pictures/1GR47qabcpCHqiXVk2w5_QD8X4k/0x0:1280x720/432x243/filters:format(jpg)/2026/10/03/6ac0b170473c3219051132.jpg",
+   "date": null,
+   "pubdate": "2026-10-03T11:45:35.220117+00:00"
+  },
+  {
+   "title": "Un incendie dans un collège à Metz, en marge de la mobilisation lycéenne Ce sont d'abord des voitures du personnel qui ont brûlé vendredi soir, les flammes se sont ensuite propagées à un bâtiment de l'établissement.",
+   "link": "https://www.franceinfo.fr/faits-divers/incendie/un-incendie-dans-un-college-a-metz-en-marge-de-la-mobilisation-lyceenne_8220889.html",
+   "summary": "Un incendie dans un collège à Metz, en marge de la mobilisation lycéenne",
+   "image": "https://www.franceinfo.fr/pictures/-vQtajiVebSfZBv1jDfWTsdvCJ4/0x19:1213x702/432x243/filters:format(jpg)/2026/10/03/6ac0a297e0bc4523128105.jpg",
+   "date": null,
+   "pubdate": "2026-10-03T11:45:35.220117+00:00"
+  },
+  {
+   "title": "2:20 audio 2 minutes 20 Le pigeon, cette icône digitale On sait à quel point les animaux \"mignons\" font l’unanimité sur les réseaux sociaux : les chats, les chiens ou même les loutres. Il est un qui semble assez inattendu : le pigeon. Il est partout en ligne et voici pourquoi il est devenu une vraie star sur Internet.",
+   "link": "https://www.franceinfo.fr/replay-radio/l-il-de-julie/le-pigeon-cette-icone-digitale_8200094.html",
+   "summary": "On sait à quel point les animaux \"mignons\" font l’unanimité sur les réseaux sociaux : les chats, les chiens ou même les loutres. Il est un qui semble assez inattendu : le pigeon. Il est partout en ligne et voici pourquoi il est devenu une vraie star sur Internet.",
+   "image": "https://www.franceinfo.fr/pictures/1DpawZk8HiQsheylJzOQ8HMEO-E/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/02/6abf6426edd3d752167031.jpg",
+   "date": null,
+   "pubdate": "2026-10-03T11:45:35.220117+00:00"
+  },
+  {
+   "title": "2:35 audio 2 minutes 35 Le compte personnel de formation mis à contribution dans le budget 2027 Utiliser son Compte personnel de formation va devenir de plus en plus compliqué. Dans bien des cas, certains actifs devront mettre nettement plus la main au porte-monnaie qu'aujourd'hui, s'ils choisissent une formation jugée non prioritaire pour l'économie.",
+   "link": "https://www.franceinfo.fr/replay-radio/c-est-mon-boulot/le-compte-personnel-de-formation-mis-a-contribution-dans-le-budget-2027_8200100.html",
+   "summary": "Le compte personnel de formation mis à contribution dans le budget 2027",
+   "image": "https://www.franceinfo.fr/pictures/bb1hkPCcJUgQdVkm5kUHun_cs8g/0x142:2070x1306/432x243/filters:format(jpg)/2026/10/01/6abe463aba7aa307132003.jpg",
+   "date": null,
+   "pubdate": "2026-10-03T11:45:35.220117+00:00"
+  },
+  {
+   "title": "4:56 audio 4 minutes 56 Christa Pike : une jeunesse déchirée, un meurtre barbare, une exécution ratée Christa Pike devait être exécutée mercredi dernier dans le Tennessee – la première femme depuis 200 ans dans cet État du sud. Mais à 50 ans, elle a survécu au protocole d'injection létale. Le gouverneur du Tennessee lui avait refusé sa clémence en début de semaine.",
+   "link": "https://www.franceinfo.fr/replay-radio/portraits-d-actu/christa-pike-une-jeunesse-dechiree-un-meurtre-barbare-une-execution-ratee_8200031.html",
+   "summary": "Christa Pike : une jeunesse déchirée, un meurtre barbare, une exécution ratée",
+   "image": "https://www.franceinfo.fr/pictures/m-OX6r0Pav4ukB-xJgBf-zzwvTY/0x123:1500x966/432x243/filters:format(jpg)/2026/10/02/6abfe55f3349f304127812.jpg",
+   "date": null,
+   "pubdate": "2026-10-03T11:45:35.220117+00:00"
+  },
+  {
+   "title": "6:53 audio 6 minutes 53 \"Notre salut\" : Un très grand film sur un collabo ordinaire Dans Les Experts Cinéma cette semaine, Thierry Fiorile et Matteu Maestracci évoquent les films \"Notre salut\" d'Emmanuel Marre et \"Mémoire de fille\" de Judith Godrèche.",
+   "link": "https://www.franceinfo.fr/replay-radio/les-experts-cinema/notre-salut-un-tres-grand-film-sur-un-collabo-ordinaire_8200127.html",
+   "summary": "\"Notre salut\" : Un très grand film sur un collabo ordinaire",
+   "image": "https://www.franceinfo.fr/pictures/ZiJTa6Ii-TZhFs__AuKQQKegijI/0x0:1200x675/432x243/filters:format(jpg)/2026/10/01/6abe2525720d3231354812.jpg",
+   "date": null,
+   "pubdate": "2026-10-03T11:45:35.220117+00:00"
+  },
+  {
+   "title": ": Reportage 5:06 audio 5 minutes 6 \"C'est ici que se créent les vocations\" : dans les petits hippodromes de province, la colère face à la menace de fermeture En 20 ans, les paris hippiques ont baissé de 50%. Toute la filière est en danger car ils représentent 90% de son financement. France Galop, qui s'occupe de la gestion des hippodromes, annonce dans son plan de sauvetage vouloir en fermer certains.",
+   "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-confrontes-a-la-baisse-de-leur-frequentation-des-hippodromes-de-region-sont-menaces-de-fermeture_8200112.html",
+   "summary": "\"C'est ici que se créent les vocations\" : dans les petits hippodromes de province, la colère face à la menace de fermeture",
+   "image": "https://www.franceinfo.fr/pictures/wpInv1prDuxZxfuuQ-Dv0KhkYnA/0x375:4000x2625/432x243/filters:format(jpg)/2026/10/02/6abf8e19569ee510090049.jpg",
+   "date": null,
+   "pubdate": "2026-10-03T11:45:35.220117+00:00"
+  },
+  {
+   "title": "\"La suite dépend de ce que l'État fera\" : à Aubervilliers, des lycéens veulent \"structurer\" le mouvement de blocage des établissements Les lycéens ont bien l'intention de continuer à se mobiliser dans les prochains jours, se structurer et se rassembler avec d’autres lycées de Seine-Saint-Denis.",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/la-suite-depend-de-ce-que-l-etat-fera-a-aubervilliers-des-lyceens-veulent-structurer-le-mouvement-de-blocage-des-etablissements_8220841.html",
+   "summary": "\"La suite dépend de ce que l'État fera\" : à Aubervilliers, des lycéens veulent \"structurer\" le mouvement de blocage des établissements",
+   "image": "https://www.franceinfo.fr/pictures/_DQJwrqUMV0HqkOESCyO_zjCe-4/0x394:7586x4662/432x243/filters:format(jpg)/2026/10/03/6ac0936caaca8692347196.jpg",
+   "date": null,
+   "pubdate": "2026-10-03T11:45:35.220117+00:00"
+  },
+  {
+   "title": "Lycéens blessés au LBD, gazage, arrestations massives... Le maintien de l'ordre est-il adapté à des manifestants mineurs ? Les accusations de violences policières se multiplient depuis le début du mouvement lycéen, même si des blessés sont aussi à déplorer du côté des forces de l'ordre. Avec 170 jeunes blessés, selon un dernier bilan donné jeudi soir, cette mobilisation relance le débat sur la réponse à apporter face aux très jeunes manifestants.",
    "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/lyceens-blesses-au-lbd-gazage-arrestations-massives-le-maintien-de-l-ordre-est-il-adapte-a-des-manifestants-mineurs_8219671.html",
    "summary": "Lycéens blessés au LBD, gazage, arrestations massives... Le maintien de l'ordre est-il adapté à des manifestants mineurs ?",
-   "image": "https://www.franceinfo.fr/pictures/R-Tbp8OR7skPVeqxNL8n2yOgJbs/26x0:1018x682/432x297/filters:format(jpg)/2026/10/02/6abfd2cce5cab152633179.jpg",
+   "image": "https://www.franceinfo.fr/pictures/4UbWym8mz1GBtwzcNvH-JDde26g/0x5:1024x581/432x243/filters:format(jpg)/2026/10/02/6abfd2cce5cab152633179.jpg",
    "date": null,
    "pubdate": "2026-10-03T05:24:22.747652+00:00"
   },
   {
-   "title": ": Témoignages : Témoignages \"Quand il pleut, de l'eau tombe sur nous\" : des élèves et des professeurs décrivent l'insalubrité de leurs lycées",
+   "title": ": Témoignages \"Quand il pleut, de l'eau tombe sur nous\" : des élèves et des professeurs décrivent l'insalubrité de leurs lycées Les lycéens se mobilisent depuis plus d'une semaine partout en France pour dénoncer leurs conditions d'études. Certains se plaignent de la vétusté de leur établissement scolaire. Un constat partagé avec les professeurs.",
    "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/temoignages-quand-il-pleut-de-l-eau-tombe-sur-nous-des-eleves-et-des-professeurs-decrivent-l-insalubrite-de-leurs-lycees_8219407.html",
    "summary": "\"Quand il pleut, de l'eau tombe sur nous\" : des élèves et des professeurs décrivent l'insalubrité de leurs lycées",
    "image": "https://www.franceinfo.fr/pictures/Qi6DHg_dSb_3dLxIaIDGUyEHS4s/0x321:6185x3801/432x243/filters:format(jpg)/2026/10/02/6abfa18e74ee6624255427.jpg",
@@ -48,148 +212,28 @@
    "pubdate": "2026-10-03T05:24:22.747652+00:00"
   },
   {
-   "title": "0:55 vidéo 55 secondes Un policier \"roué de coups\" en marge d'une manifestation lycéenne Un commandant de police a été \"roué de coups\" par un groupe d'individus, vendredi 2 octobre, en marge d'une manifestation lycéenne à Belfort. Un jeune de 17 ans a été interpellé et placé en garde à vue.",
-   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/un-policier-roue-de-coups-en-marge-d-une-manifestation-lyceenne_8220091.html",
-   "summary": "Un policier \"roué de coups\" en marge d'une manifestation lycéenne",
-   "image": "https://www.franceinfo.fr/pictures/JAwUxmaqHneynVDkro7hRSasvX0/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/02/6abfd006ddf89701241452.png",
-   "date": null,
-   "pubdate": "2026-10-03T05:24:22.747652+00:00"
-  },
-  {
-   "title": "1:14 vidéo 1 minute 14 Blocage des lycées : une mobilisation hors de contrôle ?",
-   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/blocage-des-lycees-une-mobilisation-hors-de-controle_8220469.html",
-   "summary": "Blocage des lycées : une mobilisation hors de contrôle ?",
-   "image": "https://www.franceinfo.fr/pictures/ecCmUAb1mc9k7UYN95MVHa31gGw/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/02/6ac0241b2acd2182950195.png",
-   "date": null,
-   "pubdate": "2026-10-02T22:18:56.180857+00:00"
-  },
-  {
-   "title": "Les heurts se multiplient aux abords de lycées, plus de 5 000 interpellations depuis lundi, dont 1 700 pour la seule journée de vendredi",
+   "title": "Les heurts se multiplient aux abords de lycées, plus de 5 000 interpellations depuis lundi, dont 1 700 pour la seule journée de vendredi La CGT et la Ligue des Droits de l'homme ont saisi le Défenseur des droits pour protester contre la gestion du maintien de l'ordre face aux lycéens.",
    "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/les-heurts-se-multiplient-aux-abords-de-lycees-plus-de-5-000-interpellations-depuis-lundi-dont-1-700-pour-la-seule-journee-de-vendredi_8220466.html",
-   "summary": "",
+   "summary": "Les heurts se multiplient aux abords de lycées, plus de 5 000 interpellations depuis lundi, dont 1 700 pour la seule journée de vendredi",
    "image": "https://www.franceinfo.fr/pictures/wo7GLOZAk-TeWkp_t3Z7h9fSQQ8/0x313:6018x3698/432x243/filters:format(jpg)/2026/10/02/6ac0237f8a729558456357.jpg",
    "date": null,
    "pubdate": "2026-10-02T22:18:56.180857+00:00"
   },
   {
-   "title": "\"On a la boule au ventre\", concède le secrétaire national du principal syndicat des chefs d'établissement",
+   "title": "\"On a la boule au ventre\", concède le secrétaire national du principal syndicat des chefs d'établissement \"Jeudi, 40 collègues [proviseurs] ont été blessés, agressés, c'est quand même très important\", rappelle Olivier Beaufrère, également proviseur dans l'Essonne.",
    "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/on-a-la-boule-au-ventre-concede-le-secretaire-national-du-principal-syndicat-des-chefs-d-etablissement_8220436.html",
-   "summary": "",
+   "summary": "\"On a la boule au ventre\", concède le secrétaire national du principal syndicat des chefs d'établissement",
    "image": "https://www.franceinfo.fr/pictures/p6rii8h6H1U7dx2XP7m8rdcozrk/0x336:4300x2755/432x243/filters:format(jpg)/2026/10/02/6ac018562cf04362755568.jpg",
    "date": null,
    "pubdate": "2026-10-02T22:18:56.180857+00:00"
   },
   {
-   "title": "2:33 vidéo 2 minutes 33 Pays-Bas : 16 Français interpellés après une opération commando contre un baron de la drogue",
-   "link": "https://www.franceinfo.fr/societe/drogue/pays-bas-16-francais-interpelles-apres-une-operation-commando-contre-un-baron-de-la-drogue_8220412.html",
-   "summary": "Pays-Bas : 16 Français interpellés après une opération commando contre un baron de la drogue",
-   "image": "https://www.franceinfo.fr/pictures/cx_zBn1xhyU06yIbqqMcKf52IrI/0x0:1471x827/432x243/filters:format(jpg)/2026/10/02/6ac015087ef23941853409.jpg",
-   "date": null,
-   "pubdate": "2026-10-02T22:18:56.180857+00:00"
-  },
-  {
-   "title": "Mobilisation des lycéens : \"Que le gouvernement renonce à ce plan d'économies, le pire de l'histoire de la Ve République\", dit FO enseignement",
+   "title": "Mobilisation des lycéens : \"Que le gouvernement renonce à ce plan d'économies, le pire de l'histoire de la Ve République\", dit FO enseignement \"En annonçant, en pleine mobilisation, 1 588 nouvelles suppressions de postes d'enseignants pour la rentrée prochaine, le gouvernement porte la responsabilité de la situation\", juge Clément Poullet, secrétaire général du syndicat.",
    "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-des-lyceens-que-le-gouvernement-renonce-a-ce-plan-d-economies-le-pire-de-l-histoire-de-la-ve-republique-dit-fo-enseignement_8220403.html",
-   "summary": "",
+   "summary": "Mobilisation des lycéens : \"Que le gouvernement renonce à ce plan d'économies, le pire de l'histoire de la Ve République\", dit FO enseignement",
    "image": "https://www.franceinfo.fr/pictures/nK2OpJAUylr8yDh2Mz4VZUawXWQ/0x176:3000x1863/432x243/filters:format(jpg)/2026/10/02/6ac0122f11033456223080.jpg",
    "date": null,
    "pubdate": "2026-10-02T22:18:56.180857+00:00"
-  },
-  {
-   "title": "1:52 vidéo 1 minute 52 Après les dégâts engendrés par le blocage des lycées, Gérald Darmanin milite pour que les parents des casseurs paient",
-   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/apres-les-degats-engendres-par-le-blocage-des-lycees-gerald-darmanin-milite-pour-que-les-parents-des-casseurs-paient_8220388.html",
-   "summary": "Après les dégâts engendrés par le blocage des lycées, Gérald Darmanin milite pour que les parents des casseurs paient",
-   "image": "https://www.franceinfo.fr/pictures/dU4jZnaLYUi-BGq2cntsa7dzQ5o/0x0:1514x851/432x243/filters:format(jpg)/2026/10/02/6ac0104f7c384505782290.jpg",
-   "date": null,
-   "pubdate": "2026-10-02T22:18:56.180857+00:00"
-  },
-  {
-   "title": "2:25 vidéo 2 minutes 25 Locaux délabrés, professeurs non remplacés… Les revendications des lycéens correspondent-elles aux chiffres ?",
-   "link": "https://www.franceinfo.fr/societe/education/scolarite/guide-parents/lycee/locaux-delabres-professeurs-non-remplaces-les-revendications-des-lyceens-correspondent-elles-aux-chiffres_8220391.html",
-   "summary": "Locaux délabrés, professeurs non remplacés… Les revendications des lycéens correspondent-elles aux chiffres ?",
-   "image": "https://www.franceinfo.fr/pictures/SNuNCurx9-l7d_2BuPK231h7Oi4/60x0:1112x592/432x243/filters:format(jpg)/2026/10/02/6ac00f2e6e7e7377576643.jpg",
-   "date": null,
-   "pubdate": "2026-10-02T22:18:56.180857+00:00"
-  },
-  {
-   "title": "1:58 vidéo 1 minute 58 \"Ça décrédibilise totalement la cause\" : face aux violences, des lycéens veulent faire entendre leurs revendications de façon pacifique",
-   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/ca-decredibilise-totalement-la-cause-face-aux-violences-des-lyceens-veulent-faire-entendre-leurs-revendications-de-facon-pacifique_8220385.html",
-   "summary": "\"Ça décrédibilise totalement la cause\" : face aux violences, des lycéens veulent faire entendre leurs revendications de façon pacifique",
-   "image": "https://www.franceinfo.fr/pictures/V4ggpOR6Hx7g0t0UjuoYgDnrhyE/0x0:1475x829/432x243/filters:format(jpg)/2026/10/02/6ac00b7d101a5377061040.jpg",
-   "date": null,
-   "pubdate": "2026-10-02T22:18:56.180857+00:00"
-  },
-  {
-   "title": "Le jeune homme, blessé à Tours lors d'un blocage de lycée, a perdu l'usage d'un œil Il a été entendu par l'IGPN, \"la police des polices\", qui mène une enquête.",
-   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/le-jeune-homme-blesse-a-tours-lors-d-un-blocage-de-lycee-a-perdu-l-usage-d-un-il_8220382.html",
-   "summary": "Le jeune homme, blessé à Tours lors d'un blocage de lycée, a perdu l'usage d'un œil",
-   "image": "https://www.franceinfo.fr/pictures/znFy8-Edma7EG6HADUA02ZO27dQ/0x53:1024x629/432x243/filters:format(jpg)/2026/09/30/6abce8422e9f7785125618.jpg",
-   "date": null,
-   "pubdate": "2026-10-02T22:18:56.180857+00:00"
-  },
-  {
-   "title": "Laurent Nuñez promet un milliard d'euros supplémentaire sur cinq ans pour les pompiers Le ministre de l'Intérieur promet de doubler le nombre d'hélicoptères et d'avions légers pour la saison des feux en 2027.",
-   "link": "https://www.franceinfo.fr/societe/mobilisation-des-pompiers/laurent-nunez-promet-un-milliard-d-euros-supplementaire-sur-cinq-ans-pour-les-pompiers_8220361.html",
-   "summary": "Laurent Nuñez promet un milliard d'euros supplémentaire sur cinq ans pour les pompiers",
-   "image": "https://www.franceinfo.fr/pictures/SD_Mrk-qtRU2fslGCahckHEd9Gg/0x260:5000x3072/432x243/filters:format(jpg)/2026/10/02/6ac003d3c814f512636444.jpg",
-   "date": null,
-   "pubdate": "2026-10-02T22:18:56.180857+00:00"
-  },
-  {
-   "title": "Budget de la Sécurité sociale : 18 organisations, dont Amnesty international et le Secours catholique, dénoncent une \"préférence nationale déguisée\" L'article 37 du projet de loi de financement de la sécurité sociale (PLFSS) pour 2027 vise à restreindre l'accès aux prestations familiales pour les personnes étrangères en exigeant une condition d'un an de résidence régulière en France.",
-   "link": "https://www.franceinfo.fr/economie/budget/budget-de-la-securite-sociale-18-organisations-dont-amnesty-international-et-le-secours-catholique-denoncent-une-preference-nationale-deguisee_8220316.html",
-   "summary": "Budget de la Sécurité sociale : 18 organisations, dont Amnesty international et le Secours catholique, dénoncent une \"préférence nationale déguisée\"",
-   "image": "https://www.franceinfo.fr/pictures/ot4XNgcaWmnTwl9xokGHNb_nQS0/0x520:5000x3333/432x243/filters:format(jpg)/2026/10/02/6abff5bf2e5c5125297366.jpg",
-   "date": null,
-   "pubdate": "2026-10-02T22:18:56.180857+00:00"
-  },
-  {
-   "title": "En réponse à la mobilisation des lycéens, Edouard Geffray annonce un \"plan d'action\" pour accélérer les remplacements des professeurs L'Union syndicale lycéenne appelle à continuer le mouvement et donne rendez-vous mardi pour une nouvelle grande journée de mobilisation.",
-   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/edouard-geffray-annonce-un-plan-d-action-pour-accelerer-les-remplacements-des-professeurs_8220190.html",
-   "summary": "En réponse à la mobilisation des lycéens, Edouard Geffray annonce un \"plan d'action\" pour accélérer les remplacements des professeurs",
-   "image": "https://www.franceinfo.fr/pictures/4IZqmLPexYgbkpz2Tu7j4omnCg8/0x0:6704x3771/432x243/filters:format(jpg)/2026/10/02/6abfef47ec093258615734.jpg",
-   "date": null,
-   "pubdate": "2026-10-02T22:18:56.180857+00:00"
-  },
-  {
-   "title": "30:00 vidéo 30 minutes \"Nous, les Européens\". Protection de l’enfance : l’Espagne se mobilise Grand reportage, invités et actualité européenne sont au sommaire de ce magazine d'information, présenté par Eléonore Gay et diffusé le dimanche à midi sur France 3 ainsi que le jeudi en fin de soirée sur France 2.",
-   "link": "https://www.franceinfo.fr/replay-magazine/france-2/nous-les-europeens/nous-les-europeens-protection-de-l-enfance-l-espagne-se-mobilise_8194532.html",
-   "summary": "\"Nous, les Européens\". Protection de l’enfance : l’Espagne se mobilise",
-   "image": "https://www.franceinfo.fr/pictures/P-oA0qdL0Kk8yhscp8TU69_pFjQ/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/02/6abfe3b8f2784679059550.jpg",
-   "date": null,
-   "pubdate": "2026-10-02T17:54:09.862551+00:00"
-  },
-  {
-   "title": "Appliquer la loi du \"casseur payeur\" pour les dégâts en marge des mobilisations lycéennes comme le veut Laurent Wauquiez est-il si simple ? Façades de lycées et véhicules incendiés... Après les débordements récents, le patron des députés LR veut que les responsables des dégâts paient. Mais dans les faits, cette loi est rarement appliquée.",
-   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/appliquer-la-loi-du-casseur-payeur-pour-les-degats-en-marge-des-mobilisations-lyceennes-comme-le-veut-laurent-wauquiez-est-il-si-simple_8219986.html",
-   "summary": "Appliquer la loi du \"casseur payeur\" pour les dégâts en marge des mobilisations lycéennes comme le veut Laurent Wauquiez est-il si simple ?",
-   "image": "https://www.franceinfo.fr/pictures/D2vlyd_2dscdhtz5xVwaFoewy6M/0x0:5300x2981/432x243/filters:format(jpg)/2026/10/02/6abfd0e0d6471220524723.jpg",
-   "date": null,
-   "pubdate": "2026-10-02T17:54:09.862551+00:00"
-  },
-  {
-   "title": "\"T'as beau être élu, t'es une merde comme les autres\" : en marge des blocages des lycées, des policiers prennent à partie des élus locaux À Tours et Orléans, être élu ne protègerait-t-il plus d'être pris à partie, chargé et matraqué ? Un maire, un conseiller municipal et un député en ont fais les frais, alors qu'ils se rendaient sur des lieux de blocage pour jouer leur rôle traditionnel de médiation entre manifestants et forces de l'ordre.",
-   "link": "https://france3-regions.franceinfo.fr/centre-val-de-loire/loiret/orleans/t-as-beau-etre-elu-t-es-une-merde-comme-les-autres-en-marge-des-blocages-des-lycees-des-policiers-prennent-a-partie-des-elus-locaux-3427041.html",
-   "summary": "\"T'as beau être élu, t'es une merde comme les autres\" : en marge des blocages des lycées, des policiers prennent à partie des élus locaux",
-   "image": "https://www.franceinfo.fr/pictures/IoVJzau1U1wjaBTxC_-dayyoDZg/432x243/filters:format(jpg)/2026/10/02/6abfd053479c3733686899.jpg",
-   "date": null,
-   "pubdate": "2026-10-02T17:54:09.862551+00:00"
-  },
-  {
-   "title": "Mobilisation des lycéens et étudiants : \"Les promesses en l'air, ce n'est plus possible\", selon la présidente de la Fage Une journée d'action des lycéens et des étudiants, à laquelle s'associe la Fage, première organisation étudiante, est prévue le mardi 6 octobre.",
-   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-des-lyceens-et-etudiants-les-promesses-en-l-air-ce-n-est-plus-possible-selon-la-presidente-de-la-fage_8220067.html",
-   "summary": "Mobilisation des lycéens et étudiants : \"Les promesses en l'air, ce n'est plus possible\", selon la présidente de la Fage",
-   "image": "https://www.franceinfo.fr/pictures/K3Qjfxj0RiIevCiD21j2e23q2Zc/0x520:5000x3333/432x243/filters:format(jpg)/2026/10/02/6abfcd16b454f100262701.jpg",
-   "date": null,
-   "pubdate": "2026-10-02T17:54:09.862551+00:00"
-  },
-  {
-   "title": "VÉRIFICATION. Blocage des lycées : une femme a-t-elle été brûlée au visage à Marseille par un émeutier ? C'est une vidéo qui circule sur les réseaux sociaux. On y voit une femme qui est brûlée par les flammes d'un chalumeau artisanal. Le visage est visé délibérément. Cette vidéo a bien été filmée à Marseille ce 1er octobre, dans le 7 ème arrondissement, en pleine manifestation de lycéens.",
-   "link": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/marseille/verification-blocage-des-lycees-une-femme-a-t-elle-ete-brulee-au-visage-a-marseille-par-un-emeutier-3427068.html",
-   "summary": "VÉRIFICATION. Blocage des lycées : une femme a-t-elle été brûlée au visage à Marseille par un émeutier ?",
-   "image": "https://www.franceinfo.fr/pictures/zSgimSOOFKtuiyRQeOlAbnwYWfw/432x243/filters:format(jpg)/2026/10/02/6abfca4ca7088735977797.jpg",
-   "date": null,
-   "pubdate": "2026-10-02T17:54:09.862551+00:00"
   },
   {
    "title": ": Témoignages 5:01 audio 5 minutes 1 : Témoignages \"Ce n'est pas de la vengeance, c'est de la justice\" : 370 victimes de violences dans des écoles lasalliennes poursuivent la congrégation",
@@ -230,14 +274,6 @@
    "image": "https://www.franceinfo.fr/pictures/PAneXPYNXn_jN96qiZhPOwgjjWY/0x0:2059x2059/100x100/filters:format(jpg)/2026/09/29/6abbc1aa4bae9382254321.jpg",
    "date": null,
    "pubdate": "2026-09-30T05:39:23.531465+00:00"
-  },
-  {
-   "title": "6:35 vidéo 6 minutes 35 Efforts, avenir et dépenses… Quelles sont les attentes des Français vis-à-vis de la dette ?",
-   "link": "https://www.franceinfo.fr/economie/crise/crise-de-la-dette/efforts-avenir-et-depenses-quelles-sont-les-attentes-des-francais-vis-a-vis-de-la-dette_8215412.html",
-   "summary": "Efforts, avenir et dépenses… Quelles sont les attentes des Français vis-à-vis de la dette ?",
-   "image": "https://www.franceinfo.fr/pictures/_2Jjf-klk9Pw6ZSow0TOANQqWnc/321x0:964x643/100x100/filters:format(jpg)/2026/09/29/6abc1907435c4162237234.jpg",
-   "date": null,
-   "pubdate": "2026-09-29T22:20:50.891853+00:00"
   }
  ]
 }
