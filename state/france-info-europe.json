@@ -1,8 +1,7 @@
 {
- "etag": "\"60c49376d5d98004ffdc7f0c9c6044cd-gzip\"",
+ "etag": "\"a6eaff28e3407e0033a10b7b5157cb35-gzip\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.franceinfo.fr/monde/europe/allemagne/il-y-a-une-extrapolation-du-declin-economique-comment-l-extreme-droite-allemande-est-arrivee-aux-portes-du-pouvoir-en-saxe-anhalt_8175638.html": "2026-09-25T21:38:56.497776+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/reportage-plus-de-huit-millions-de-livres-pour-enfants-partis-en-fumee-l-ukraine-face-a-une-penurie-de-manuels-scolaires-apres-des-frappes-russes_8192342.html": "2026-09-26T11:31:23.833452+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/je-ne-sais-pas-ce-qui-attend-nos-enfants-a-kiev-l-angoisse-de-la-rentree-sous-les-bombes-apres-un-ete-meurtrier_8144936.html": "2026-09-27T21:25:00.506015+00:00",
   "https://www.franceinfo.fr/sante/vaccins/comment-l-ingerence-etrangere-en-europe-passe-aussi-par-la-desinformation-sur-la-sante-et-les-vaccins_8214602.html": "2026-09-29T18:07:18.027923+00:00",
@@ -31,12 +30,21 @@
   "https://www.franceinfo.fr/monde/europe/la-grande-bretagne-et-l-ue/plus-de-la-moitie-des-britanniques-sont-favorables-a-un-retour-du-royaume-uni-dans-l-union-europeenne-selon-un-sondage_8221126.html": "2026-10-03T11:45:40.062211+00:00",
   "https://www.franceinfo.fr/monde/espagne/les-inondations-en-espagne-font-un-mort_8221150.html": "2026-10-03T11:45:40.062211+00:00",
   "https://www.franceinfo.fr/monde/europe/allemagne/en-allemagne-une-journee-de-l-unite-qui-ne-masque-pas-les-disparites-entre-l-est-et-l-ouest-36-ans-apres-la-reunification_8220964.html": "2026-10-03T11:45:40.062211+00:00",
-  "https://www.franceinfo.fr/monde/europe/la-guerre-en-ukraine-s-immisce-dans-les-elections-legislatives-en-lettonie_8220853.html": "2026-10-03T11:45:40.062211+00:00"
+  "https://www.franceinfo.fr/monde/europe/la-guerre-en-ukraine-s-immisce-dans-les-elections-legislatives-en-lettonie_8220853.html": "2026-10-03T11:45:40.062211+00:00",
+  "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-c-est-le-sauveur-en-saxe-anhalt-ulrich-siegmund-l-homme-le-plus-dangereux-d-allemagne-selon-der-spiegel-aux-portes-du-pouvoir_8147219.html": "2026-10-03T16:28:06.078707+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "Plus de la moitié des Britanniques sont favorables à un retour du Royaume-Uni dans l'Union européenne, selon un sondage Le Premier ministre Andy Burnham a évoqué cette possibilité lors d'un discours au congrès annuel du Parti travailliste. Les différents scénarios où Londres et Bruxelles renforcent leurs relations sont soutenus par une majorité des Britanniques sondés. Aujourd'hui",
+   "title": ": Reportage 4:57 audio 4 minutes 57 : Reportage \"C'est le sauveur\", Ulrich Siegmund \"l’homme le plus dangereux d’Allemagne\", selon \"Der Spiegel\", aux portes d'une victoire historique",
+   "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-c-est-le-sauveur-en-saxe-anhalt-ulrich-siegmund-l-homme-le-plus-dangereux-d-allemagne-selon-der-spiegel-aux-portes-du-pouvoir_8147219.html",
+   "summary": "\"C'est le sauveur\", Ulrich Siegmund \"l’homme le plus dangereux d’Allemagne\", selon \"Der Spiegel\", aux portes d'une victoire historique",
+   "image": "https://www.franceinfo.fr/pictures/VFg8d1outM3G4QXNVW4Z5Ox_n70/171x0:853x682/100x100/filters:format(jpg)/2026/09/04/6a9a5941c45a4796624614.jpg",
+   "date": null,
+   "pubdate": "2026-10-03T16:28:06.078707+00:00"
+  },
+  {
+   "title": "Plus de la moitié des Britanniques sont favorables à un retour du Royaume-Uni dans l'Union européenne, selon un sondage Le Premier ministre, Andy Burnham, a évoqué cette possibilité lors d'un discours au congrès annuel du Parti travailliste. Différents scénarios, où Londres et Bruxelles renforcent leurs relations, sont soutenus par une majorité des Britanniques sondés. Aujourd'hui",
    "link": "https://www.franceinfo.fr/monde/europe/la-grande-bretagne-et-l-ue/plus-de-la-moitie-des-britanniques-sont-favorables-a-un-retour-du-royaume-uni-dans-l-union-europeenne-selon-un-sondage_8221126.html",
    "summary": "Plus de la moitié des Britanniques sont favorables à un retour du Royaume-Uni dans l'Union européenne, selon un sondage",
    "image": "https://www.franceinfo.fr/pictures/MD3XpWNAV9BiObV4itwkJhagBXQ/5x0:997x682/432x297/filters:format(jpg)/2026/10/03/6ac0e4b06bc22064818017.jpg",
@@ -44,9 +52,9 @@
    "pubdate": "2026-10-03T11:45:40.062211+00:00"
   },
   {
-   "title": "1:23 vidéo 1 minute 23 Les inondations en Espagne font un mort",
+   "title": "1:23 vidéo 1 minute 23 Espagne : les inondations dans le sud-est du pays font un mort",
    "link": "https://www.franceinfo.fr/monde/espagne/les-inondations-en-espagne-font-un-mort_8221150.html",
-   "summary": "",
+   "summary": "Espagne : les inondations dans le sud-est du pays font un mort",
    "image": "https://www.franceinfo.fr/pictures/rcvzbIgnj0vWCxdNIKAAXnUJNjo/0x5:1504x851/432x243/filters:format(jpg)/2026/10/03/6ac0e534c3329433554692.jpg",
    "date": null,
    "pubdate": "2026-10-03T11:45:40.062211+00:00"
@@ -266,14 +274,6 @@
    "image": "https://www.franceinfo.fr/pictures/FDQ95GjeajjrKBoHSZT8OG_Y2Ww/350x0:1250x900/100x100/filters:format(jpg)/2026/09/14/6aa8420659848131991942.jpg",
    "date": null,
    "pubdate": "2026-09-26T11:31:23.833452+00:00"
-  },
-  {
-   "title": "7:00 article 7 minutes \"Il y a une extrapolation du déclin économique\" : comment l'extrême droite allemande est arrivée aux portes du pouvoir en Saxe-Anhalt",
-   "link": "https://www.franceinfo.fr/monde/europe/allemagne/il-y-a-une-extrapolation-du-declin-economique-comment-l-extreme-droite-allemande-est-arrivee-aux-portes-du-pouvoir-en-saxe-anhalt_8175638.html",
-   "summary": "\"Il y a une extrapolation du déclin économique\" : comment l'extrême droite allemande est arrivée aux portes du pouvoir en Saxe-Anhalt",
-   "image": "https://www.franceinfo.fr/pictures/-nAiSgts3hDGmwBA52wjbLgKz5c/7x0:689x682/100x100/filters:format(jpg)/2026/09/03/6a99968962ca9292189034.jpg",
-   "date": null,
-   "pubdate": "2026-09-25T21:38:56.497776+00:00"
   }
  ]
 }
