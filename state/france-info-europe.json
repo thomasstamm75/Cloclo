@@ -1,14 +1,9 @@
 {
- "etag": "\"a656a1c39ea9cbfc98491126a535b648-gzip\"",
+ "etag": "\"5c6566ed2e34fec14adbc9b6b8fa801a-gzip\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-la-russie-vise-des-sites-energetiques-a-kiev-et-tue-au-moins-quatre-personnes_8215995.html": "2026-09-30T12:42:55.779781+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-ce-que-l-on-sait-de-l-operation-vivaldi-menee-pour-desserrer-la-tenaille-russe-dans-le-donbass_8216113.html": "2026-09-30T20:05:30.825387+00:00",
   "https://www.franceinfo.fr/societe/justice/la-remise-a-l-allemagne-d-un-militant-antifasciste-albanais-surnomme-gino-enterinee-par-la-cour-de-cassation_8216710.html": "2026-09-30T20:05:30.825387+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-qui-est-robert-brovdi-dont-la-tete-est-mise-a-prix-par-la-russie-pour-20-millions-de-dollars_8216446.html": "2026-09-30T20:05:30.825387+00:00",
-  "https://france3-regions.franceinfo.fr/hauts-de-france/pas-calais/calais/naufrage-de-31-migrants-dans-la-manche-jusqu-a-10-ans-de-prison-prononces-contre-des-passeurs-mus-par-l-appat-du-gain-3425814.html": "2026-09-30T20:05:30.825387+00:00",
-  "https://france3-regions.franceinfo.fr/hauts-de-france/nord-0/difficile-sur-le-plan-operationnel-l-accord-franco-britannique-d-echange-de-migrants-dit-du-un-pour-un-va-s-arreter-3425829.html": "2026-09-30T20:05:30.825387+00:00",
-  "https://www.franceinfo.fr/monde/europe/union-europeenne/la-commission-europeenne-presente-un-nouveau-plan-pour-lutter-contre-les-arrivees-massives-de-migrants-a-ses-frontieres-sa-reponse-a-la-crise-de-ceuta_8216416.html": "2026-09-30T20:05:30.825387+00:00",
   "https://www.franceinfo.fr/environnement/pollution/pfas/polluants-eternels-100-des-personnes-issues-de-neuf-pays-europeens-testees-positives-au-tfa-alertent-les-eurodeputes-ecologistes_8216995.html": "2026-10-01T10:14:44.619482+00:00",
   "https://www.franceinfo.fr/monde/europe/migrants/crise-des-migrants-a-ceuta/le-ministere-de-la-defense-espagnol-va-enqueter-sur-d-eventuels-mauvais-traitements-des-migrants-a-ceuta_8218309.html": "2026-10-01T18:27:42.280082+00:00",
   "https://www.franceinfo.fr/monde/europe/le-premier-ministre-de-la-finlande-n-ecarte-pas-une-piste-etrangere-apres-des-intrusions-repetees-chez-des-elus_8218306.html": "2026-10-01T18:27:42.280082+00:00",
@@ -31,15 +26,60 @@
   "https://www.franceinfo.fr/monde/europe/allemagne/il-y-a-une-extrapolation-du-declin-economique-comment-l-extreme-droite-allemande-est-arrivee-aux-portes-du-pouvoir-en-saxe-anhalt_8175638.html": "2026-10-03T21:23:34.118772+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/le-chancelier-allemand-friedrich-merz-realise-une-visite-surprise-a-kiev_8221903.html": "2026-10-04T06:00:24.201664+00:00",
   "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/une-frappe-russe-touche-un-nouveau-pont-majeur-de-kiev_8221894.html": "2026-10-04T06:00:24.201664+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/reportage-plus-de-huit-millions-de-livres-pour-enfants-partis-en-fumee-l-ukraine-face-a-une-penurie-de-manuels-scolaires-apres-des-frappes-russes_8192342.html": "2026-10-04T06:00:24.201664+00:00"
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/reportage-plus-de-huit-millions-de-livres-pour-enfants-partis-en-fumee-l-ukraine-face-a-une-penurie-de-manuels-scolaires-apres-des-frappes-russes_8192342.html": "2026-10-04T06:00:24.201664+00:00",
+  "https://www.franceinfo.fr/monde/espagne/pluies-torrentielles-et-meurtrieres-en-espagne_8222218.html": "2026-10-04T12:28:31.676548+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-russie-va-intensifier-ses-frappes-sur-l-ukraine-en-reponse-a-des-declarations-de-volodymyr-zelensky-qui-veut-intensifier-les-represailles-contre-les-raffineries-russes_8222170.html": "2026-10-04T12:28:31.676548+00:00",
+  "https://www.franceinfo.fr/replay-radio/livre-actu/des-enfants-gates-les-europeens-la-guerre-et-la-paix-un-appel-a-la-mobilisation-du-continent_8179229.html": "2026-10-04T12:28:31.676548+00:00",
+  "https://www.franceinfo.fr/monde/europe/le-parti-pro-europeen-et-pro-ukrainien-liste-unie-arrive-en-tete-des-legislatives-en-lettonie-selon-des-resultats-partiels_8221912.html": "2026-10-04T12:28:31.676548+00:00",
+  "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/je-ne-sais-pas-ce-qui-attend-nos-enfants-a-kiev-l-angoisse-de-la-rentree-sous-les-bombes-apres-un-ete-meurtrier_8144936.html": "2026-10-04T12:28:31.676548+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "Le chancelier allemand Friedrich Merz réalise une visite surprise à Kiev \"Je me suis rendu à Kiev aujourd’hui car l’Ukraine a besoin de tout notre soutien dans les semaines à venir\", a déclaré le chancelier allemand. Moscou continue à bombarder des infrastructures essentielles à travers l'Ukraine. Aujourd'hui",
+   "title": "Pluies torrentielles et meurtrières en Espagne L'Espagne est, une nouvelle fois, touchée de plein fouet par les inondations. Dans la région de Barcelone, deux personnes sont décédées et les habitants sont en état d'alerte. Aujourd'hui 1:23 vidéo 1 minute 23",
+   "link": "https://www.franceinfo.fr/monde/espagne/pluies-torrentielles-et-meurtrieres-en-espagne_8222218.html",
+   "summary": "Pluies torrentielles et meurtrières en Espagne",
+   "image": "https://www.franceinfo.fr/pictures/qqWETpsBmZIf9uYwJafwlL7PGhU/124x0:1336x833/432x297/filters:format(jpg)/2026/10/04/6ac244e7783b3077718371.jpg",
+   "date": null,
+   "pubdate": "2026-10-04T12:28:31.676548+00:00"
+  },
+  {
+   "title": "La Russie va \"intensifier\" ses frappes sur l'Ukraine en réponse à des déclarations de Volodymyr Zelensky, qui veut renforcer les attaques contre les raffineries russes",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-russie-va-intensifier-ses-frappes-sur-l-ukraine-en-reponse-a-des-declarations-de-volodymyr-zelensky-qui-veut-intensifier-les-represailles-contre-les-raffineries-russes_8222170.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/Ab6GslZbYdszdzg1exXcWjtwpcU/0x164:1024x740/432x243/filters:format(jpg)/2026/10/04/6ac22f989aab7346929797.jpg",
+   "date": null,
+   "pubdate": "2026-10-04T12:28:31.676548+00:00"
+  },
+  {
+   "title": "2:43 audio 2 minutes 43 \"Des enfants gâtés. Les Européens, la guerre et la paix\", un appel à la mobilisation du continent",
+   "link": "https://www.franceinfo.fr/replay-radio/livre-actu/des-enfants-gates-les-europeens-la-guerre-et-la-paix-un-appel-a-la-mobilisation-du-continent_8179229.html",
+   "summary": "\"Des enfants gâtés. Les Européens, la guerre et la paix\", un appel à la mobilisation du continent",
+   "image": "https://www.franceinfo.fr/pictures/KTsGBbbeUytub1vT41aVWj3tkho/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/01/6abe03f40d6ab865841026.jpg",
+   "date": null,
+   "pubdate": "2026-10-04T12:28:31.676548+00:00"
+  },
+  {
+   "title": "Le parti pro-européen et pro-ukrainien Liste unie arrive en tête des législatives en Lettonie",
+   "link": "https://www.franceinfo.fr/monde/europe/le-parti-pro-europeen-et-pro-ukrainien-liste-unie-arrive-en-tete-des-legislatives-en-lettonie-selon-des-resultats-partiels_8221912.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/ISALRfEwNkew0y8vFGBoW_NYj8M/0x53:1024x629/432x243/filters:format(jpg)/2026/10/04/6ac2410ff07f3833066992.jpg",
+   "date": null,
+   "pubdate": "2026-10-04T12:28:31.676548+00:00"
+  },
+  {
+   "title": "4:30 audio 4 minutes 30 \"Je ne sais pas ce qui attend nos enfants\" : à Kiev, l'angoisse de la rentrée sous les bombes après un été meurtrier",
+   "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/je-ne-sais-pas-ce-qui-attend-nos-enfants-a-kiev-l-angoisse-de-la-rentree-sous-les-bombes-apres-un-ete-meurtrier_8144936.html",
+   "summary": "\"Je ne sais pas ce qui attend nos enfants\" : à Kiev, l'angoisse de la rentrée sous les bombes après un été meurtrier",
+   "image": "https://www.franceinfo.fr/pictures/07LcAYc2BL1tbPyni2IkoRuOcD4/1000x0:5000x4000/100x100/filters:format(jpg)/2026/08/31/6a950e984fe25063470033.jpg",
+   "date": null,
+   "pubdate": "2026-10-04T12:28:31.676548+00:00"
+  },
+  {
+   "title": "Un pont de Kiev attaqué par un drone russe pendant la visite surprise du chancelier allemand, Friedrich Merz, dans la capitale ukrainienne",
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/le-chancelier-allemand-friedrich-merz-realise-une-visite-surprise-a-kiev_8221903.html",
-   "summary": "Le chancelier allemand Friedrich Merz réalise une visite surprise à Kiev",
-   "image": "https://www.franceinfo.fr/pictures/HL3osN1Hh_jQ8z702UGCA0sVWdg/0x0:992x682/432x297/filters:format(jpg)/2026/10/04/6ac1e23b043b8461653017.jpg",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/odKjospCoqaqHymLHR8pg1dczKA/0x0:1024x576/432x243/filters:format(jpg)/2026/10/04/6ac1e23b043b8461653017.jpg",
    "date": null,
    "pubdate": "2026-10-04T06:00:24.201664+00:00"
   },
@@ -108,20 +148,12 @@
    "pubdate": "2026-10-03T11:45:40.062211+00:00"
   },
   {
-   "title": "La guerre en Ukraine s'immisce dans les élections législatives en Lettonie",
+   "title": "La guerre en Ukraine s'immisce dans les élections législatives en Lettonie Les citoyens lettons sont appelés aux urnes samedi pour renouveler les cent députés de la Saiema, la chambre unique du Parlement. Parmi les enjeux majeurs de cette élection : la sécurité. La Lettonie partage sa frontière avec la Russie et la Biélorussie.",
    "link": "https://www.franceinfo.fr/monde/europe/la-guerre-en-ukraine-s-immisce-dans-les-elections-legislatives-en-lettonie_8220853.html",
-   "summary": "",
+   "summary": "La guerre en Ukraine s'immisce dans les élections législatives en Lettonie",
    "image": "https://www.franceinfo.fr/pictures/AX1KJkpM_4sdlRnKiWGrHUPxBks/1190x417:6870x3612/432x243/filters:format(jpg)/2026/10/03/6ac09df9c90cc753506161.jpg",
    "date": null,
    "pubdate": "2026-10-03T11:45:40.062211+00:00"
-  },
-  {
-   "title": "En Ukraine, un autre pont important de Kiev touché par une frappe russe",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-ukraine-un-nouveau-grand-pont-de-kiev-touche-par-une-frappe-russe_8220826.html",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/Gn1_SfRgdDF-eQX1-PeqYh1TDoY/0x5:1024x581/432x243/filters:format(jpg)/2026/10/03/6ac08f7c37f65546490983.jpg",
-   "date": null,
-   "pubdate": "2026-10-03T05:24:28.250584+00:00"
   },
   {
    "title": "Vos questions sur l'effort de guerre de la France 6 contenus",
@@ -132,17 +164,25 @@
    "pubdate": "2026-10-03T05:24:28.250584+00:00"
   },
   {
-   "title": "Dans une Espagne en proie à une crise du logement, la jeunesse est prise dans un \"piège locatif\"",
+   "title": "En Ukraine, un autre pont important de Kiev touché par une frappe russe Après le pont Sud, c'est le pont Nord de Kiev qui a été visé samedi. Selon le maire, la surface de la route et les câbles des trolleybus ont été endommagés.",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-ukraine-un-nouveau-grand-pont-de-kiev-touche-par-une-frappe-russe_8220826.html",
+   "summary": "En Ukraine, un autre pont important de Kiev touché par une frappe russe",
+   "image": "https://www.franceinfo.fr/pictures/Gn1_SfRgdDF-eQX1-PeqYh1TDoY/0x5:1024x581/432x243/filters:format(jpg)/2026/10/03/6ac08f7c37f65546490983.jpg",
+   "date": null,
+   "pubdate": "2026-10-03T05:24:28.250584+00:00"
+  },
+  {
+   "title": "Dans une Espagne en proie à une crise du logement, la jeunesse est prise dans un \"piège locatif\" A Madrid, la Puerta del Sol est occupée par des manifestants qui y ont installé des tentes pour dénoncer la crise du logement. En dix ans, le prix moyen du mètre carré à la location a presque doublé. Dans cet article, le média public espagnol RTVE analyse les chiffres.",
    "link": "https://www.franceinfo.fr/monde/espagne/dans-une-espagne-en-proie-a-une-crise-du-logement-la-jeunesse-est-prise-dans-un-piege-locatif_8219851.html",
-   "summary": "",
+   "summary": "Dans une Espagne en proie à une crise du logement, la jeunesse est prise dans un \"piège locatif\"",
    "image": "https://www.franceinfo.fr/pictures/FUv074st5VL04eC99hw9YuQ3kiM/0x182:3500x2150/432x243/filters:format(jpg)/2026/10/02/6abfc427cf59f792921356.jpg",
    "date": null,
    "pubdate": "2026-10-02T17:54:13.968038+00:00"
   },
   {
-   "title": "\"Pas assez blanche\", \"pas assez allemande\"... La nouvelle Mannschaft face à une vague de commentaires racistes",
+   "title": "\"Pas assez blanche\", \"pas assez allemande\"... La nouvelle Mannschaft face à une vague de commentaires racistes L'Allemagne s'est imposée 2 à 0 face à la Serbie, jeudi soir, pour la première victoire de l'ère Jürgen Klopp, le nouvel entraîneur de l'équipe de foot nationale. Mais sa nouvelle équipe est aussi la cible d'une vague de commentaires racistes sur les réseaux sociaux.",
    "link": "https://www.franceinfo.fr/sports/foot/ligue-des-nations/pas-assez-blanche-pas-assez-allemande-la-nouvelle-mannschaft-face-a-une-vague-de-commentaires-racistes_8219920.html",
-   "summary": "",
+   "summary": "\"Pas assez blanche\", \"pas assez allemande\"... La nouvelle Mannschaft face à une vague de commentaires racistes",
    "image": "https://www.franceinfo.fr/pictures/QOvcoYCMl8WY2K9xyb5ISoZ5PSg/0x301:5028x3130/432x243/filters:format(jpg)/2026/10/02/6abfc0359c498744555564.jpg",
    "date": null,
    "pubdate": "2026-10-02T17:54:13.968038+00:00"
@@ -234,46 +274,6 @@
    "image": "https://www.franceinfo.fr/pictures/eLoxDZIf6dJ31goLsUN1r7fQfgI/0x0:1024x576/432x243/filters:format(jpg)/2026/09/30/6abd330b43484664792160.jpg",
    "date": null,
    "pubdate": "2026-09-30T20:05:30.825387+00:00"
-  },
-  {
-   "title": "Guerre en Ukraine : qui est Robert Brovdi, dont la tête est mise à prix par la Russie pour 20 millions de dollars ? Plus connu sous le nom de \"Madyar\", \"le Hongrois\", ce commandant dirige l’unité de drone sans pilote de l’armée ukrainienne considérée comme l’une des plus meurtrières.",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-qui-est-robert-brovdi-dont-la-tete-est-mise-a-prix-par-la-russie-pour-20-millions-de-dollars_8216446.html",
-   "summary": "Guerre en Ukraine : qui est Robert Brovdi, dont la tête est mise à prix par la Russie pour 20 millions de dollars ?",
-   "image": "https://www.franceinfo.fr/pictures/cnL_61me0Nl0ljjnXaGKTf9wWTM/74x0:1946x1053/432x243/filters:format(jpg)/2026/09/30/6abd19157983a161588156.jpg",
-   "date": null,
-   "pubdate": "2026-09-30T20:05:30.825387+00:00"
-  },
-  {
-   "title": "Naufrage de 31 migrants dans la Manche : jusqu'à 10 ans de prison prononcés contre des passeurs \"mus par l'appât du gain\" Cinq ans après le naufrage le plus meurtrier de la Manche, le tribunal correctionnel de Paris a condamné 13 des 14 passeurs jugés, à des peines de six mois avec sursis à dix ans ferme. Le cerveau du réseau, absent au délibéré, écope de la peine maximale. L'instruction visant les agents du CROSS impliqués le soir du drame se poursuit.",
-   "link": "https://france3-regions.franceinfo.fr/hauts-de-france/pas-calais/calais/naufrage-de-31-migrants-dans-la-manche-jusqu-a-10-ans-de-prison-prononces-contre-des-passeurs-mus-par-l-appat-du-gain-3425814.html",
-   "summary": "Naufrage de 31 migrants dans la Manche : jusqu'à 10 ans de prison prononcés contre des passeurs \"mus par l'appât du gain\"",
-   "image": "https://www.franceinfo.fr/pictures/-cEIOxLPUW0kKfhbwrqYjm3GU3s/432x243/filters:format(jpg)/2026/09/30/6abd2457edcba220350161.jpg",
-   "date": null,
-   "pubdate": "2026-09-30T20:05:30.825387+00:00"
-  },
-  {
-   "title": "\"Difficile sur le plan opérationnel\", l'accord franco-britannique d'échange de migrants dit du \"un pour un\" va s'arrêter L'accord franco-britannique d'échange de migrants dit du \"un pour un\" conclu à l'été 2025 est sur le point d'être enterré faute d'avoir atteint ses objectifs, alors que 22 personnes sont mortes en tentant de traverser la Manche depuis le début de l'année.",
-   "link": "https://france3-regions.franceinfo.fr/hauts-de-france/nord-0/difficile-sur-le-plan-operationnel-l-accord-franco-britannique-d-echange-de-migrants-dit-du-un-pour-un-va-s-arreter-3425829.html",
-   "summary": "\"Difficile sur le plan opérationnel\", l'accord franco-britannique d'échange de migrants dit du \"un pour un\" va s'arrêter",
-   "image": "https://www.franceinfo.fr/pictures/Gq2rtyqx9XGS09Th8I51ts4jzqI/432x243/filters:format(jpg)/2026/09/30/6abd1ecf1eb7b981005562.jpg",
-   "date": null,
-   "pubdate": "2026-09-30T20:05:30.825387+00:00"
-  },
-  {
-   "title": "La Commission européenne présente un nouveau plan pour lutter contre les arrivées massives de migrants à ses frontières, sa réponse à la crise de Ceuta Ce plan en cinq points, qui regroupe des mesures dont certaines étaient déjà proposées, vise à renforcer la surveillance des entrées en Europe et les interventions d'urgence. Le média public grec ERT détaille ces propositions/",
-   "link": "https://www.franceinfo.fr/monde/europe/union-europeenne/la-commission-europeenne-presente-un-nouveau-plan-pour-lutter-contre-les-arrivees-massives-de-migrants-a-ses-frontieres-sa-reponse-a-la-crise-de-ceuta_8216416.html",
-   "summary": "La Commission européenne présente un nouveau plan pour lutter contre les arrivées massives de migrants à ses frontières, sa réponse à la crise de Ceuta",
-   "image": "https://www.franceinfo.fr/pictures/mO6FOIziOdtNbwQZvBuLXhfoX98/0x104:2000x1229/432x243/filters:format(jpg)/2026/09/30/6abd067911713306951884.jpg",
-   "date": null,
-   "pubdate": "2026-09-30T20:05:30.825387+00:00"
-  },
-  {
-   "title": "Guerre en Ukraine : la Russie vise des sites énergétiques à Kiev et tue au moins quatre personnes Depuis le début de l'été, Moscou mène des raids aériens quasi quotidiens, de jour comme de nuit, contre une série de cibles dans la capitale ukrainienne.",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-la-russie-vise-des-sites-energetiques-a-kiev-et-tue-au-moins-quatre-personnes_8215995.html",
-   "summary": "Guerre en Ukraine : la Russie vise des sites énergétiques à Kiev et tue au moins quatre personnes",
-   "image": "https://www.franceinfo.fr/pictures/ZBAM-OsEVzevWHN9Tk4--EpIdFA/0x224:4300x2642/432x243/filters:format(jpg)/2026/09/30/6abccc5ca2269456399042.jpg",
-   "date": null,
-   "pubdate": "2026-09-30T12:42:55.779781+00:00"
   }
  ]
 }

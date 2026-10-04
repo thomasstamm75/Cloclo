@@ -1,71 +1,135 @@
 {
- "etag": "\"213f48ceb9f990996bf44990a7f3ae10-gzip\"",
+ "etag": "\"620bc14918a6d757b6698fc15794a819-gzip\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/on-minimise-la-dimension-systemique-pourquoi-la-rencontre-du-pape-leon-xiv-avec-sept-victimes-de-violences-sexuelles-provoque-des-crispations_8195732.html": "2026-10-02T00:51:04.129662+00:00",
   "https://www.franceinfo.fr/enquetes-franceinfo/enquete-comment-avant-le-7-octobre-benyamin-netanyahou-a-laisse-le-qatar-envoyer-de-l-argent-a-gaza_8218762.html": "2026-10-02T09:52:15.631529+00:00",
   "https://www.franceinfo.fr/enquetes-franceinfo/enquete-apres-le-7-octobre-comment-le-qatar-a-penetre-les-cercles-les-plus-proches-du-pouvoir-israelien-pour-tenter-de-diluer-sa-responsabilite_8218780.html": "2026-10-02T09:52:15.631529+00:00",
-  "https://www.franceinfo.fr/sante/maladie/ebola/en-republique-du-congo-l-epidemie-d-ebola-franchit-le-cap-des-4-000-morts_8220169.html": "2026-10-02T17:54:16.015408+00:00",
-  "https://www.franceinfo.fr/replay-magazine/france-2/nous-les-europeens/nous-les-europeens-protection-de-l-enfance-l-espagne-se-mobilise_8194532.html": "2026-10-02T17:54:16.015408+00:00",
-  "https://www.franceinfo.fr/monde/espagne/en-espagne-les-deputes-rejettent-les-textes-sur-le-logement_8220139.html": "2026-10-02T17:54:16.015408+00:00",
-  "https://www.franceinfo.fr/monde/royaume-uni/un-britannique-inculpe-pour-preparation-d-acte-de-terrorisme-contre-le-leader-d-extreme-droite-nigel-farage_8220346.html": "2026-10-02T22:19:00.665172+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-ukraine-un-nouveau-grand-pont-de-kiev-touche-par-une-frappe-russe_8220826.html": "2026-10-03T05:24:30.496545+00:00",
   "https://www.franceinfo.fr/monde/europe/la-grande-bretagne-et-l-ue/plus-de-la-moitie-des-britanniques-sont-favorables-a-un-retour-du-royaume-uni-dans-l-union-europeenne-selon-un-sondage_8221126.html": "2026-10-03T11:45:42.171619+00:00",
   "https://www.franceinfo.fr/monde/europe/allemagne/en-allemagne-une-journee-de-l-unite-qui-ne-masque-pas-les-disparites-entre-l-est-et-l-ouest-36-ans-apres-la-reunification_8220964.html": "2026-10-03T11:45:42.171619+00:00",
   "https://www.franceinfo.fr/monde/usa/l-agence-sanitaire-americaine-devoile-les-conclusions-de-son-enquete-sur-l-epidemie-de-diarrhee-explosive-qui-a-touche-les-etats-unis-durant-l-ete_8220886.html": "2026-10-03T11:45:42.171619+00:00",
   "https://www.franceinfo.fr/replay-radio/portraits-d-actu/christa-pike-une-jeunesse-dechiree-un-meurtre-barbare-une-execution-ratee_8200031.html": "2026-10-03T11:45:42.171619+00:00",
   "https://www.franceinfo.fr/monde/europe/la-guerre-en-ukraine-s-immisce-dans-les-elections-legislatives-en-lettonie_8220853.html": "2026-10-03T11:45:42.171619+00:00",
-  "https://www.franceinfo.fr/monde/iran/crise-dans-le-detroit-d-ormuz/deux-nouvelles-attaques-ont-vise-des-petroliers-dans-le-detroit-d-ormuz_8220850.html": "2026-10-03T11:45:42.171619+00:00",
-  "https://www.franceinfo.fr/monde/coree-du-nord/la-coree-du-nord-lance-un-nouveau-missile-balistique-selon-seoul_8220829.html": "2026-10-03T11:45:42.171619+00:00",
   "https://www.franceinfo.fr/monde/usa/le-directeur-de-l-administration-penitentiaire-du-tennessee-demissionne-apres-l-echec-de-l-execution-de-la-condamnee-a-mort-christa-pike-annonce-le-gouverneur-d-etat_8221396.html": "2026-10-03T16:28:07.171369+00:00",
   "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/au-maroc-la-nouvelle-cheffe-du-gouvernement-au-defi-de-la-crise-sociale_8200106.html": "2026-10-03T16:28:07.171369+00:00",
   "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/a-gaza-cinq-morts-dans-une-frappe-aerienne-israelienne-nocturne_8221312.html": "2026-10-03T16:28:07.171369+00:00",
   "https://www.franceinfo.fr/monde/espagne/a-madrid-une-manifestation-pour-le-droit-au-logement-rassemble-entre-70-000-et-500-000-personnes_8221219.html": "2026-10-03T16:28:07.171369+00:00",
-  "https://www.franceinfo.fr/internet/intelligence-artificielle/aux-etats-unis-la-revolte-contre-des-cameras-de-videosurveillance-utilisant-l-ia_8221564.html": "2026-10-03T21:23:35.945421+00:00",
   "https://www.franceinfo.fr/monde/espagne/reportage-des-membres-de-ma-famille-vont-etre-expulses-a-madrid-des-milliers-de-personnes-manifestent-leur-colere-face-a-la-crise-du-logement-qui-touche-l-ensemble-du-pays_8221552.html": "2026-10-03T21:23:35.945421+00:00",
   "https://www.franceinfo.fr/faits-divers/benyamin-netanyahou-invite-en-israel-le-pilote-indien-qui-a-participe-a-sauver-les-passagers-du-vol-flydubai_8221510.html": "2026-10-03T21:23:35.945421+00:00",
-  "https://www.franceinfo.fr/monde/espagne/je-n-ai-jamais-vu-autant-d-eau-les-inondations-en-espagne-font-de-serieux-degats_8221513.html": "2026-10-03T21:23:35.945421+00:00",
   "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/tout-comprendre-a-la-guerre-au-moyen-orient/": "2026-10-03T21:23:35.945421+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/le-chancelier-allemand-friedrich-merz-realise-une-visite-surprise-a-kiev_8221903.html": "2026-10-04T06:00:26.376308+00:00",
-  "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/une-frappe-russe-touche-un-nouveau-pont-majeur-de-kiev_8221894.html": "2026-10-04T06:00:26.376308+00:00",
   "https://www.franceinfo.fr/monde/bresil/maintien-a-gauche-ou-retour-de-l-extreme-droite-scandales-craintes-d-ingerences-au-bresil-une-election-presidentielle-sous-haute-tension_8216027.html": "2026-10-04T06:00:26.376308+00:00",
-  "https://www.franceinfo.fr/monde/en-inde-des-chiens-entraines-a-detecter-des-cancers-a-l-aide-de-l-ia_8219686.html": "2026-10-04T06:00:26.376308+00:00",
   "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/leon-xiv-en-france-retrouvez-l-essentiel/": "2026-10-04T06:00:26.376308+00:00",
-  "https://www.franceinfo.fr/monde/usa/affaire-jeffrey-epstein/l-essentiel-des-revelations-sur-l-affaire-epstein/": "2026-10-04T06:00:26.376308+00:00"
+  "https://www.franceinfo.fr/monde/usa/affaire-jeffrey-epstein/l-essentiel-des-revelations-sur-l-affaire-epstein/": "2026-10-04T06:00:26.376308+00:00",
+  "https://www.franceinfo.fr/monde/espagne/pluies-torrentielles-et-meurtrieres-en-espagne_8222218.html": "2026-10-04T12:28:33.294515+00:00",
+  "https://www.franceinfo.fr/replay-radio/l-invite-culture/david-djaiz-le-xxe-siecle-est-le-siecle-du-pacte-faustien-entre-la-science-et-la-technologie_8217961.html": "2026-10-04T12:28:33.294515+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-russie-va-intensifier-ses-frappes-sur-l-ukraine-en-reponse-a-des-declarations-de-volodymyr-zelensky-qui-veut-intensifier-les-represailles-contre-les-raffineries-russes_8222170.html": "2026-10-04T12:28:33.294515+00:00",
+  "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/des-pluies-torrentielles-en-espagne-font-deux-morts-dans-la-province-de-barcelone-en-etat-d-alerte_8222065.html": "2026-10-04T12:28:33.294515+00:00",
+  "https://www.franceinfo.fr/societe/harcelement-sexuel/viol-en-reunion-d-une-etudiante-a-l-universite-americaine-cornell-le-president-de-l-etablissement-annonce-une-enquete-externe_8221993.html": "2026-10-04T12:28:33.294515+00:00",
+  "https://www.franceinfo.fr/monde/bresil/personne-ne-dort-plus-on-est-super-anxieux-au-bresil-les-partisans-de-lula-comme-les-pro-bolsonaro-retiennent-leur-souffle_8221936.html": "2026-10-04T12:28:33.294515+00:00",
+  "https://www.franceinfo.fr/monde/proche-orient/yemen/l-armee-du-yemen-bombarde-la-capitale-sanaa-tenue-par-les-houthis-qui-revendiquent-une-attaque-contre-un-site-de-saudi-aramco-a-riyad_8221960.html": "2026-10-04T12:28:33.294515+00:00",
+  "https://www.franceinfo.fr/replay-radio/livre-actu/des-enfants-gates-les-europeens-la-guerre-et-la-paix-un-appel-a-la-mobilisation-du-continent_8179229.html": "2026-10-04T12:28:33.294515+00:00",
+  "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/une-femme-de-102-meurt-lors-de-fortes-inondations-dans-le-sud-est-de-l-espagne_8221948.html": "2026-10-04T12:28:33.294515+00:00",
+  "https://www.franceinfo.fr/monde/europe/le-parti-pro-europeen-et-pro-ukrainien-liste-unie-arrive-en-tete-des-legislatives-en-lettonie-selon-des-resultats-partiels_8221912.html": "2026-10-04T12:28:33.294515+00:00",
+  "https://www.franceinfo.fr/monde/groenland/le-groenland-au-c-ur-d-un-bras-de-fer-geopolitique/": "2026-10-04T12:28:33.294515+00:00",
+  "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/temoignages-c-est-un-beau-symbole-a-saint-denis-dans-le-lycee-catholique-jean-baptiste-de-la-salle-la-visite-du-pape-rassemble-au-dela-des-religions_8187491.html": "2026-10-04T12:28:33.294515+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "Le chancelier allemand Friedrich Merz réalise une visite surprise à Kiev \"Je me suis rendu à Kiev aujourd’hui car l’Ukraine a besoin de tout notre soutien dans les semaines à venir\", a déclaré le chancelier allemand. Moscou continue à bombarder des infrastructures essentielles à travers l'Ukraine. Aujourd'hui",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/le-chancelier-allemand-friedrich-merz-realise-une-visite-surprise-a-kiev_8221903.html",
-   "summary": "Le chancelier allemand Friedrich Merz réalise une visite surprise à Kiev",
-   "image": "https://www.franceinfo.fr/pictures/HL3osN1Hh_jQ8z702UGCA0sVWdg/0x0:992x682/432x297/filters:format(jpg)/2026/10/04/6ac1e23b043b8461653017.jpg",
+   "title": "Pluies torrentielles et meurtrières en Espagne L'Espagne est, une nouvelle fois, touchée de plein fouet par les inondations. Dans la région de Barcelone, deux personnes sont décédées et les habitants sont en état d'alerte. Aujourd'hui 1:23 vidéo 1 minute 23",
+   "link": "https://www.franceinfo.fr/monde/espagne/pluies-torrentielles-et-meurtrieres-en-espagne_8222218.html",
+   "summary": "Pluies torrentielles et meurtrières en Espagne",
+   "image": "https://www.franceinfo.fr/pictures/qqWETpsBmZIf9uYwJafwlL7PGhU/124x0:1336x833/432x297/filters:format(jpg)/2026/10/04/6ac244e7783b3077718371.jpg",
    "date": null,
-   "pubdate": "2026-10-04T06:00:26.376308+00:00"
+   "pubdate": "2026-10-04T12:28:33.294515+00:00"
   },
   {
-   "title": "1:26 vidéo 1 minute 26 Une frappe russe touche un nouveau pont majeur de Kiev",
-   "link": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/une-frappe-russe-touche-un-nouveau-pont-majeur-de-kiev_8221894.html",
-   "summary": "Une frappe russe touche un nouveau pont majeur de Kiev",
-   "image": "https://www.franceinfo.fr/pictures/O09yaaJ-x_w-iBFOjl33EMSuq-o/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/04/6ac1e313a647d269251217.jpg",
+   "title": "7:00 audio 7 minutes David Djaiz : \"Le XXe siècle est le siècle du pacte faustien entre la science et la technologie\"",
+   "link": "https://www.franceinfo.fr/replay-radio/l-invite-culture/david-djaiz-le-xxe-siecle-est-le-siecle-du-pacte-faustien-entre-la-science-et-la-technologie_8217961.html",
+   "summary": "David Djaiz : \"Le XXe siècle est le siècle du pacte faustien entre la science et la technologie\"",
+   "image": "https://www.franceinfo.fr/pictures/a5xyYZSsDyXNx26GuKrPT7famzo/0x312:6000x3687/432x243/filters:format(jpg)/2026/10/02/6abfbf2c0e9f4554885158.jpg",
    "date": null,
-   "pubdate": "2026-10-04T06:00:26.376308+00:00"
+   "pubdate": "2026-10-04T12:28:33.294515+00:00"
   },
   {
-   "title": "Maintien à gauche ou retour de l'extrême droite, scandales, craintes d'ingérences… Au Brésil, une élection présidentielle sous haute tension",
-   "link": "https://www.franceinfo.fr/monde/bresil/maintien-a-gauche-ou-retour-de-l-extreme-droite-scandales-craintes-d-ingerences-au-bresil-une-election-presidentielle-sous-haute-tension_8216027.html",
+   "title": "La Russie va \"intensifier\" ses frappes sur l'Ukraine en réponse à des déclarations de Volodymyr Zelensky, qui veut renforcer les attaques contre les raffineries russes",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-russie-va-intensifier-ses-frappes-sur-l-ukraine-en-reponse-a-des-declarations-de-volodymyr-zelensky-qui-veut-intensifier-les-represailles-contre-les-raffineries-russes_8222170.html",
    "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/_4aln2Ow2gTZJgSlc4Jb6ns7KDw/0x0:1024x576/432x243/filters:format(jpg)/2026/09/30/6abd09fed9524701890225.jpg",
+   "image": "https://www.franceinfo.fr/pictures/Ab6GslZbYdszdzg1exXcWjtwpcU/0x164:1024x740/432x243/filters:format(jpg)/2026/10/04/6ac22f989aab7346929797.jpg",
    "date": null,
-   "pubdate": "2026-10-04T06:00:26.376308+00:00"
+   "pubdate": "2026-10-04T12:28:33.294515+00:00"
   },
   {
-   "title": "1:46 vidéo 1 minute 46 En Inde, des chiens entraînés à détecter des cancers à l’aide de l’IA",
-   "link": "https://www.franceinfo.fr/monde/en-inde-des-chiens-entraines-a-detecter-des-cancers-a-l-aide-de-l-ia_8219686.html",
-   "summary": "En Inde, des chiens entraînés à détecter des cancers à l’aide de l’IA",
-   "image": "https://www.franceinfo.fr/pictures/GMD9AvHOKfaoap2RGVprhmmNv-Q/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/02/6abf8d3796ce6427001379.jpg",
+   "title": "Des pluies torrentielles en Espagne font deux morts dans la province de Barcelone, en état d'alerte",
+   "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/des-pluies-torrentielles-en-espagne-font-deux-morts-dans-la-province-de-barcelone-en-etat-d-alerte_8222065.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/NjW3h3YOVq76J-FAxrAfmQ5deoQ/0x12:1024x588/432x243/filters:format(jpg)/2026/10/04/6ac21a9b9726e180565344.jpg",
    "date": null,
-   "pubdate": "2026-10-04T06:00:26.376308+00:00"
+   "pubdate": "2026-10-04T12:28:33.294515+00:00"
+  },
+  {
+   "title": "Viol en réunion d'une étudiante à Cornell : le président de l''université américaine annonce une enquête externe",
+   "link": "https://www.franceinfo.fr/societe/harcelement-sexuel/viol-en-reunion-d-une-etudiante-a-l-universite-americaine-cornell-le-president-de-l-etablissement-annonce-une-enquete-externe_8221993.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/bE4FqOsn5gL_mdSyeLSelQ1GQEU/0x12:1024x588/432x243/filters:format(jpg)/2026/10/04/6ac21831bece1099138210.jpg",
+   "date": null,
+   "pubdate": "2026-10-04T12:28:33.294515+00:00"
+  },
+  {
+   "title": "\"Personne ne dort plus, on est super anxieux !\" : au Brésil, les partisans de Lula comme les pro-Bolsonaro retiennent leur souffle",
+   "link": "https://www.franceinfo.fr/monde/bresil/personne-ne-dort-plus-on-est-super-anxieux-au-bresil-les-partisans-de-lula-comme-les-pro-bolsonaro-retiennent-leur-souffle_8221936.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/5qNAIAmnm6m95VWntw91JpAOlrU/0x358:6883x4230/432x243/filters:format(jpg)/2026/10/04/6ac1f2e940699994398286.jpg",
+   "date": null,
+   "pubdate": "2026-10-04T12:28:33.294515+00:00"
+  },
+  {
+   "title": "L'armée du Yémen bombarde la capitale, Sanaa, tenue par les houthis",
+   "link": "https://www.franceinfo.fr/monde/proche-orient/yemen/l-armee-du-yemen-bombarde-la-capitale-sanaa-tenue-par-les-houthis-qui-revendiquent-une-attaque-contre-un-site-de-saudi-aramco-a-riyad_8221960.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/dNgZjfQWyxig7JiMZDQ3KupNCYQ/0x53:1024x629/432x243/filters:format(jpg)/2026/10/04/6ac1fd4ab05da032609292.jpg",
+   "date": null,
+   "pubdate": "2026-10-04T12:28:33.294515+00:00"
+  },
+  {
+   "title": "2:43 audio 2 minutes 43 \"Des enfants gâtés. Les Européens, la guerre et la paix\", un appel à la mobilisation du continent",
+   "link": "https://www.franceinfo.fr/replay-radio/livre-actu/des-enfants-gates-les-europeens-la-guerre-et-la-paix-un-appel-a-la-mobilisation-du-continent_8179229.html",
+   "summary": "\"Des enfants gâtés. Les Européens, la guerre et la paix\", un appel à la mobilisation du continent",
+   "image": "https://www.franceinfo.fr/pictures/KTsGBbbeUytub1vT41aVWj3tkho/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/01/6abe03f40d6ab865841026.jpg",
+   "date": null,
+   "pubdate": "2026-10-04T12:28:33.294515+00:00"
+  },
+  {
+   "title": "1:32 vidéo 1 minute 32 Une femme de 102 meurt lors de fortes inondations dans le sud-est de l'Espagne",
+   "link": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/une-femme-de-102-meurt-lors-de-fortes-inondations-dans-le-sud-est-de-l-espagne_8221948.html",
+   "summary": "Une femme de 102 meurt lors de fortes inondations dans le sud-est de l'Espagne",
+   "image": "https://www.franceinfo.fr/pictures/Szw82kayS-bqVO8eTm6CggviPjU/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/04/6ac1f42510279129840034.jpg",
+   "date": null,
+   "pubdate": "2026-10-04T12:28:33.294515+00:00"
+  },
+  {
+   "title": "Le parti pro-européen et pro-ukrainien Liste unie arrive en tête des législatives en Lettonie",
+   "link": "https://www.franceinfo.fr/monde/europe/le-parti-pro-europeen-et-pro-ukrainien-liste-unie-arrive-en-tete-des-legislatives-en-lettonie-selon-des-resultats-partiels_8221912.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/ISALRfEwNkew0y8vFGBoW_NYj8M/0x53:1024x629/432x243/filters:format(jpg)/2026/10/04/6ac2410ff07f3833066992.jpg",
+   "date": null,
+   "pubdate": "2026-10-04T12:28:33.294515+00:00"
+  },
+  {
+   "title": "Le Groenland au cœur d'un bras de fer géopolitique 15 contenus",
+   "link": "https://www.franceinfo.fr/monde/groenland/le-groenland-au-c-ur-d-un-bras-de-fer-geopolitique/",
+   "summary": "Le Groenland au cœur d'un bras de fer géopolitique",
+   "image": "https://www.franceinfo.fr/pictures/MKq4Aviz_2Dt7XVuO__X2DAEw5M/432x297/filters:format(jpg)/2026/01/22/043-sw-js9nbczzm6o-697245bf34b52414921393.jpg",
+   "date": null,
+   "pubdate": "2026-10-04T12:28:33.294515+00:00"
+  },
+  {
+   "title": ": Témoignages 5:05 audio 5 minutes 5 : Témoignages \"C'est un beau symbole\" : à Saint-Denis, dans le lycée catholique Jean-Baptiste de La Salle, la visite du pape rassemble au-delà des religions",
+   "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/temoignages-c-est-un-beau-symbole-a-saint-denis-dans-le-lycee-catholique-jean-baptiste-de-la-salle-la-visite-du-pape-rassemble-au-dela-des-religions_8187491.html",
+   "summary": "\"C'est un beau symbole\" : à Saint-Denis, dans le lycée catholique Jean-Baptiste de La Salle, la visite du pape rassemble au-delà des religions",
+   "image": "https://www.franceinfo.fr/pictures/H0MSeF_zqX6J3osbk4Z2mzpDdl0/500x0:3500x3000/100x100/filters:format(jpg)/2026/09/25/6ab62c9cc624f464544033.jpg",
+   "date": null,
+   "pubdate": "2026-10-04T12:28:33.294515+00:00"
   },
   {
    "title": "Léon XIV en France : l'essentiel de la visite du pape 14 contenus",
@@ -84,36 +148,20 @@
    "pubdate": "2026-10-04T06:00:26.376308+00:00"
   },
   {
-   "title": "3:18 vidéo 3 minutes 18 Aux États-Unis, la révolte contre des caméras de vidéosurveillance utilisant l'IA",
-   "link": "https://www.franceinfo.fr/internet/intelligence-artificielle/aux-etats-unis-la-revolte-contre-des-cameras-de-videosurveillance-utilisant-l-ia_8221564.html",
-   "summary": "Aux États-Unis, la révolte contre des caméras de vidéosurveillance utilisant l'IA",
-   "image": "https://www.franceinfo.fr/pictures/ZRR0FVzgoHE3eJ8QBD_9rIjDEDI/0x55:1468x880/432x243/filters:format(jpg)/2026/10/03/6ac15d1f8ab54056592167.png",
+   "title": "Un pont de Kiev attaqué par un drone russe pendant la visite surprise du chancelier allemand, Friedrich Merz, dans la capitale ukrainienne \"Je me suis rendu à Kiev aujourd'hui car l'Ukraine a besoin de tout notre soutien dans les semaines à venir\", a déclaré le chancelier allemand. Moscou continue de bombarder des infrastructures essentielles à travers le pays.",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/le-chancelier-allemand-friedrich-merz-realise-une-visite-surprise-a-kiev_8221903.html",
+   "summary": "Un pont de Kiev attaqué par un drone russe pendant la visite surprise du chancelier allemand, Friedrich Merz, dans la capitale ukrainienne",
+   "image": "https://www.franceinfo.fr/pictures/odKjospCoqaqHymLHR8pg1dczKA/0x0:1024x576/432x243/filters:format(jpg)/2026/10/04/6ac1e23b043b8461653017.jpg",
    "date": null,
-   "pubdate": "2026-10-03T21:23:35.945421+00:00"
+   "pubdate": "2026-10-04T06:00:26.376308+00:00"
   },
   {
-   "title": ": Reportage : Reportage \"Des membres de ma famille vont être expulsés\" : à Madrid, des milliers de personnes manifestent leur colère face à la crise du logement qui touche l'Espagne",
-   "link": "https://www.franceinfo.fr/monde/espagne/reportage-des-membres-de-ma-famille-vont-etre-expulses-a-madrid-des-milliers-de-personnes-manifestent-leur-colere-face-a-la-crise-du-logement-qui-touche-l-ensemble-du-pays_8221552.html",
-   "summary": "\"Des membres de ma famille vont être expulsés\" : à Madrid, des milliers de personnes manifestent leur colère face à la crise du logement qui touche l'Espagne",
-   "image": "https://www.franceinfo.fr/pictures/uxj07akmIiBIdR9JWuSCzhGy2TY/0x48:4000x2298/432x243/filters:format(jpg)/2026/10/03/6ac15be91a669654471143.jpg",
+   "title": "Maintien à gauche ou retour de l'extrême droite, scandales, craintes d'ingérences… Au Brésil, une élection présidentielle sous haute tension Le premier tour du scrutin se tient dimanche au Brésil, avant un potentiel second tour le 25 octobre. Le président sortant, Lula, y affronte l'élu d'extrême droite Flavio Bolsonaro, fils de l'ancien président.",
+   "link": "https://www.franceinfo.fr/monde/bresil/maintien-a-gauche-ou-retour-de-l-extreme-droite-scandales-craintes-d-ingerences-au-bresil-une-election-presidentielle-sous-haute-tension_8216027.html",
+   "summary": "Maintien à gauche ou retour de l'extrême droite, scandales, craintes d'ingérences… Au Brésil, une élection présidentielle sous haute tension",
+   "image": "https://www.franceinfo.fr/pictures/_4aln2Ow2gTZJgSlc4Jb6ns7KDw/0x0:1024x576/432x243/filters:format(jpg)/2026/09/30/6abd09fed9524701890225.jpg",
    "date": null,
-   "pubdate": "2026-10-03T21:23:35.945421+00:00"
-  },
-  {
-   "title": "Benyamin Nétanyahou invite en Israël le pilote indien qui a participé à sauver les passagers du vol flydubai",
-   "link": "https://www.franceinfo.fr/faits-divers/benyamin-netanyahou-invite-en-israel-le-pilote-indien-qui-a-participe-a-sauver-les-passagers-du-vol-flydubai_8221510.html",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/KesGAPTsGJ2iI5SAqYxqig0PMdE/0x0:1024x576/432x243/filters:format(jpg)/2026/10/03/6ac14d3b9cb0f967709744.jpg",
-   "date": null,
-   "pubdate": "2026-10-03T21:23:35.945421+00:00"
-  },
-  {
-   "title": "1:32 vidéo 1 minute 32 \"Je n'ai jamais vu autant d'eau\" : les inondations en Espagne font de sérieux dégâts",
-   "link": "https://www.franceinfo.fr/monde/espagne/je-n-ai-jamais-vu-autant-d-eau-les-inondations-en-espagne-font-de-serieux-degats_8221513.html",
-   "summary": "\"Je n'ai jamais vu autant d'eau\" : les inondations en Espagne font de sérieux dégâts",
-   "image": "https://www.franceinfo.fr/pictures/vMQcPi8C-U98HwI4502Oa35i3FE/107x0:1428x743/432x243/filters:format(jpg)/2026/10/03/6ac14c4259955738220763.jpg",
-   "date": null,
-   "pubdate": "2026-10-03T21:23:35.945421+00:00"
+   "pubdate": "2026-10-04T06:00:26.376308+00:00"
   },
   {
    "title": "Tout comprendre à la guerre au Moyen-Orient 27 contenus",
@@ -124,15 +172,31 @@
    "pubdate": "2026-10-03T21:23:35.945421+00:00"
   },
   {
-   "title": "Le directeur de l'administration pénitentiaire du Tennessee démissionne après l'échec de l'exécution de la condamnée à mort Christa Pike, annonce le gouverneur de l'Etat",
+   "title": ": Reportage \"Des membres de ma famille vont être expulsés\" : à Madrid, des milliers de personnes manifestent leur colère face à la crise du logement qui touche l'Espagne Depuis 2015, le prix des loyers a presque doublé dans la capitale espagnole et les salaires n'ont été augmentés que de 30%. La colère grimpe dans le pays samedi, 24h après que le gouvernement n'a pas validé deux décrets sur le logement.",
+   "link": "https://www.franceinfo.fr/monde/espagne/reportage-des-membres-de-ma-famille-vont-etre-expulses-a-madrid-des-milliers-de-personnes-manifestent-leur-colere-face-a-la-crise-du-logement-qui-touche-l-ensemble-du-pays_8221552.html",
+   "summary": "\"Des membres de ma famille vont être expulsés\" : à Madrid, des milliers de personnes manifestent leur colère face à la crise du logement qui touche l'Espagne",
+   "image": "https://www.franceinfo.fr/pictures/uxj07akmIiBIdR9JWuSCzhGy2TY/0x48:4000x2298/432x243/filters:format(jpg)/2026/10/03/6ac15be91a669654471143.jpg",
+   "date": null,
+   "pubdate": "2026-10-03T21:23:35.945421+00:00"
+  },
+  {
+   "title": "Benyamin Nétanyahou invite en Israël le pilote indien qui a participé à sauver les passagers du vol flydubai Le pilote de l'avion, Smit Machchhar, salué de toutes parts comme un \"héros\", a déverrouillé la porte du cockpit bien que blessé, permettant ainsi de contrecarrer l'attaque et de sauver les 174 personnes à bord?",
+   "link": "https://www.franceinfo.fr/faits-divers/benyamin-netanyahou-invite-en-israel-le-pilote-indien-qui-a-participe-a-sauver-les-passagers-du-vol-flydubai_8221510.html",
+   "summary": "Benyamin Nétanyahou invite en Israël le pilote indien qui a participé à sauver les passagers du vol flydubai",
+   "image": "https://www.franceinfo.fr/pictures/KesGAPTsGJ2iI5SAqYxqig0PMdE/0x0:1024x576/432x243/filters:format(jpg)/2026/10/03/6ac14d3b9cb0f967709744.jpg",
+   "date": null,
+   "pubdate": "2026-10-03T21:23:35.945421+00:00"
+  },
+  {
+   "title": "Le directeur de l'administration pénitentiaire du Tennessee démissionne après l'échec de l'exécution de la condamnée à mort Christa Pike, annonce le gouverneur de l'Etat Mercredi, cette femme de 50 ans détenue dans une prison du Tennessee a reçu deux injections létales auxquelles elle a survécu.",
    "link": "https://www.franceinfo.fr/monde/usa/le-directeur-de-l-administration-penitentiaire-du-tennessee-demissionne-apres-l-echec-de-l-execution-de-la-condamnee-a-mort-christa-pike-annonce-le-gouverneur-d-etat_8221396.html",
-   "summary": "",
+   "summary": "Le directeur de l'administration pénitentiaire du Tennessee démissionne après l'échec de l'exécution de la condamnée à mort Christa Pike, annonce le gouverneur de l'Etat",
    "image": "https://www.franceinfo.fr/pictures/PAf7-_TN-TPe0m0ugWrxiYHwjL8/0x0:1024x576/432x243/filters:format(jpg)/2026/10/03/6ac128806d8b6820374614.jpg",
    "date": null,
    "pubdate": "2026-10-03T16:28:07.171369+00:00"
   },
   {
-   "title": "3:00 audio 3 minutes Au Maroc, la nouvelle cheffe du gouvernement au défi de la crise sociale",
+   "title": "3:00 audio 3 minutes Au Maroc, la nouvelle cheffe du gouvernement au défi de la crise sociale De nombreux chantiers l'attendent sur fond de crise sociale, entre des promesses de campagne loin d'être toutes réalisables et l'absence de majorité absolue au sein de la Chambre des Représentants.",
    "link": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/au-maroc-la-nouvelle-cheffe-du-gouvernement-au-defi-de-la-crise-sociale_8200106.html",
    "summary": "Au Maroc, la nouvelle cheffe du gouvernement au défi de la crise sociale",
    "image": "https://www.franceinfo.fr/pictures/UOe7cI087Godb8JatKUrYYDhUKs/0x282:3586x2299/432x243/filters:format(jpg)/2026/10/03/6ac1081d9ca3d730193322.jpg",
@@ -140,9 +204,9 @@
    "pubdate": "2026-10-03T16:28:07.171369+00:00"
   },
   {
-   "title": "Cinq Palestiniens tués dans une frappe aérienne israélienne à Gaza, affirment la défense civile et un hôpital Les cinq victimes étaient deux femmes et leurs filles respectives, ainsi qu'un jeune homme, a affirmé un responsable du complexe médical al-Chifa.",
+   "title": "Cinq Palestiniens tués dans une frappe aérienne israélienne à Gaza, l'armée affirme avoir visé un dirigeant du Hamas Les cinq victimes étaient deux femmes et leurs filles respectives, ainsi qu'un jeune homme, a affirmé un responsable du complexe médical al-Chifa.",
    "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/a-gaza-cinq-morts-dans-une-frappe-aerienne-israelienne-nocturne_8221312.html",
-   "summary": "Cinq Palestiniens tués dans une frappe aérienne israélienne à Gaza, affirment la défense civile et un hôpital",
+   "summary": "Cinq Palestiniens tués dans une frappe aérienne israélienne à Gaza, l'armée affirme avoir visé un dirigeant du Hamas",
    "image": "https://www.franceinfo.fr/pictures/PCdCMQRo3nDN7nr9AA4y8WA2zxM/0x53:1024x629/432x243/filters:format(jpg)/2026/10/03/6ac117301f191223172615.jpg",
    "date": null,
    "pubdate": "2026-10-03T16:28:07.171369+00:00"
@@ -196,62 +260,6 @@
    "pubdate": "2026-10-03T11:45:42.171619+00:00"
   },
   {
-   "title": "Deux nouvelles attaques ont visé des pétroliers dans le détroit d'Ormuz Les deux navires ont été touchés par des \"projectiles non identifiés\", détaille l'agence de sécurité UKMTO.",
-   "link": "https://www.franceinfo.fr/monde/iran/crise-dans-le-detroit-d-ormuz/deux-nouvelles-attaques-ont-vise-des-petroliers-dans-le-detroit-d-ormuz_8220850.html",
-   "summary": "Deux nouvelles attaques ont visé des pétroliers dans le détroit d'Ormuz",
-   "image": "https://www.franceinfo.fr/pictures/Hvw5UKhaRiW7g5JXUeBKqFzFDVw/0x87:1024x663/432x243/filters:format(jpg)/2026/10/03/6ac09934a2824019922742.jpg",
-   "date": null,
-   "pubdate": "2026-10-03T11:45:42.171619+00:00"
-  },
-  {
-   "title": "La Corée du Nord a lancé un nouveau missile balistique, selon Séoul Le projectile s'est écrasé en mer, selon l'armée sud-coréenne. Ce nouveau tir intervient en plein regain de tension entre les deux pays.",
-   "link": "https://www.franceinfo.fr/monde/coree-du-nord/la-coree-du-nord-lance-un-nouveau-missile-balistique-selon-seoul_8220829.html",
-   "summary": "La Corée du Nord a lancé un nouveau missile balistique, selon Séoul",
-   "image": "https://www.franceinfo.fr/pictures/gRI1I4YNw54zDkhBadsgREsHkfk/0x0:1024x576/432x243/filters:format(jpg)/2026/10/03/6ac093d19c7d5523907174.jpg",
-   "date": null,
-   "pubdate": "2026-10-03T11:45:42.171619+00:00"
-  },
-  {
-   "title": "En Ukraine, un autre pont important de Kiev touché par une frappe russe Après le pont Sud, c'est le pont Nord de Kiev qui a été visé samedi. Selon le maire, la surface de la route et les câbles des trolleybus ont été endommagés.",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-ukraine-un-nouveau-grand-pont-de-kiev-touche-par-une-frappe-russe_8220826.html",
-   "summary": "En Ukraine, un autre pont important de Kiev touché par une frappe russe",
-   "image": "https://www.franceinfo.fr/pictures/Gn1_SfRgdDF-eQX1-PeqYh1TDoY/0x5:1024x581/432x243/filters:format(jpg)/2026/10/03/6ac08f7c37f65546490983.jpg",
-   "date": null,
-   "pubdate": "2026-10-03T05:24:30.496545+00:00"
-  },
-  {
-   "title": "Un Britannique inculpé pour préparation d'actes de terrorisme, notamment contre le leader d'extrême droite Nigel Farage Cet homme est déjà poursuivi pour le meurtre d'une ancienne députée.",
-   "link": "https://www.franceinfo.fr/monde/royaume-uni/un-britannique-inculpe-pour-preparation-d-acte-de-terrorisme-contre-le-leader-d-extreme-droite-nigel-farage_8220346.html",
-   "summary": "Un Britannique inculpé pour préparation d'actes de terrorisme, notamment contre le leader d'extrême droite Nigel Farage",
-   "image": "https://www.franceinfo.fr/pictures/HkCuQAblYjVv6sToBov6Po44no0/0x0:5000x2812/432x243/filters:format(jpg)/2026/10/02/6abfff193b4d1952994680.jpg",
-   "date": null,
-   "pubdate": "2026-10-02T22:19:00.665172+00:00"
-  },
-  {
-   "title": "En République du Congo, l'épidémie d'Ebola franchit le cap des 4 000 morts Jean-Noël Barrot se rend dans le pays pour marquer le soutien de la France aux autorités locales.",
-   "link": "https://www.franceinfo.fr/sante/maladie/ebola/en-republique-du-congo-l-epidemie-d-ebola-franchit-le-cap-des-4-000-morts_8220169.html",
-   "summary": "En République du Congo, l'épidémie d'Ebola franchit le cap des 4 000 morts",
-   "image": "https://www.franceinfo.fr/pictures/0Dv0wTBSkUyIm80mSTlYDRIW_Yk/0x300:5760x3540/432x243/filters:format(jpg)/2026/10/02/6abfe670170b7614597532.jpg",
-   "date": null,
-   "pubdate": "2026-10-02T17:54:16.015408+00:00"
-  },
-  {
-   "title": "30:00 vidéo 30 minutes \"Nous, les Européens\". Protection de l’enfance : l’Espagne se mobilise Grand reportage, invités et actualité européenne sont au sommaire de ce magazine d'information, présenté par Eléonore Gay et diffusé le dimanche à midi sur France 3 ainsi que le jeudi en fin de soirée sur France 2.",
-   "link": "https://www.franceinfo.fr/replay-magazine/france-2/nous-les-europeens/nous-les-europeens-protection-de-l-enfance-l-espagne-se-mobilise_8194532.html",
-   "summary": "\"Nous, les Européens\". Protection de l’enfance : l’Espagne se mobilise",
-   "image": "https://www.franceinfo.fr/pictures/P-oA0qdL0Kk8yhscp8TU69_pFjQ/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/02/6abfe3b8f2784679059550.jpg",
-   "date": null,
-   "pubdate": "2026-10-02T17:54:16.015408+00:00"
-  },
-  {
-   "title": "En Espagne, les députés rejettent des textes sur le logement proposés par le gouvernement en réponse à un mouvement de contestation Ce rejet est un camouflet pour le Premier ministre socialiste, Pedro Sánchez, et ouvre la voie à un durcissement de la contestation.",
-   "link": "https://www.franceinfo.fr/monde/espagne/en-espagne-les-deputes-rejettent-les-textes-sur-le-logement_8220139.html",
-   "summary": "En Espagne, les députés rejettent des textes sur le logement proposés par le gouvernement en réponse à un mouvement de contestation",
-   "image": "https://www.franceinfo.fr/pictures/CSezDI6loK_IM-Q9tcqqmMCDFCs/0x79:1024x655/432x243/filters:format(jpg)/2026/10/02/6abfd5a9bb5a9746183543.jpg",
-   "date": null,
-   "pubdate": "2026-10-02T17:54:16.015408+00:00"
-  },
-  {
    "title": ": Enquête 19:00 article 19 minutes : Enquête Après le 7-Octobre, comment le Qatar a pénétré les cercles les plus proches du pouvoir israélien pour tenter de diluer sa responsabilité",
    "link": "https://www.franceinfo.fr/enquetes-franceinfo/enquete-apres-le-7-octobre-comment-le-qatar-a-penetre-les-cercles-les-plus-proches-du-pouvoir-israelien-pour-tenter-de-diluer-sa-responsabilite_8218780.html",
    "summary": "Après le 7-Octobre, comment le Qatar a pénétré les cercles les plus proches du pouvoir israélien pour tenter de diluer sa responsabilité",
@@ -266,14 +274,6 @@
    "image": "https://www.franceinfo.fr/pictures/ZApMwrfJwXAHNQHUKD6rKmgHSzU/840x0:1920x1080/100x100/filters:format(jpg)/2026/10/01/6abea752a7834427504823.jpg",
    "date": null,
    "pubdate": "2026-10-02T09:52:15.631529+00:00"
-  },
-  {
-   "title": "5:00 article 5 minutes \"On minimise la dimension systémique\" : pourquoi la rencontre du pape Léon XIV avec sept victimes de violences sexuelles provoque des crispations",
-   "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/on-minimise-la-dimension-systemique-pourquoi-la-rencontre-du-pape-leon-xiv-avec-sept-victimes-de-violences-sexuelles-provoque-des-crispations_8195732.html",
-   "summary": "\"On minimise la dimension systémique\" : pourquoi la rencontre du pape Léon XIV avec sept victimes de violences sexuelles provoque des crispations",
-   "image": "https://www.franceinfo.fr/pictures/vsfmHY04LI40ZetDn6W2U19ti_E/840x0:3000x2160/100x100/filters:format(jpg)/2026/09/25/6ab6494f5ce4b156799017.jpg",
-   "date": null,
-   "pubdate": "2026-10-02T00:51:04.129662+00:00"
   }
  ]
 }
