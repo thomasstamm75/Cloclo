@@ -1,17 +1,13 @@
 {
- "etag": "\"bd423455f18a462b45c7511f2eb5c0f5-gzip\"",
+ "etag": "\"213f48ceb9f990996bf44990a7f3ae10-gzip\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.franceinfo.fr/monde/groenland/le-groenland-au-c-ur-d-un-bras-de-fer-geopolitique/": "2026-10-01T10:14:46.267012+00:00",
-  "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/temoignages-c-est-un-beau-symbole-a-saint-denis-dans-le-lycee-catholique-jean-baptiste-de-la-salle-la-visite-du-pape-rassemble-au-dela-des-religions_8187491.html": "2026-10-01T10:14:46.267012+00:00",
   "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/on-minimise-la-dimension-systemique-pourquoi-la-rencontre-du-pape-leon-xiv-avec-sept-victimes-de-violences-sexuelles-provoque-des-crispations_8195732.html": "2026-10-02T00:51:04.129662+00:00",
   "https://www.franceinfo.fr/enquetes-franceinfo/enquete-comment-avant-le-7-octobre-benyamin-netanyahou-a-laisse-le-qatar-envoyer-de-l-argent-a-gaza_8218762.html": "2026-10-02T09:52:15.631529+00:00",
   "https://www.franceinfo.fr/enquetes-franceinfo/enquete-apres-le-7-octobre-comment-le-qatar-a-penetre-les-cercles-les-plus-proches-du-pouvoir-israelien-pour-tenter-de-diluer-sa-responsabilite_8218780.html": "2026-10-02T09:52:15.631529+00:00",
   "https://www.franceinfo.fr/sante/maladie/ebola/en-republique-du-congo-l-epidemie-d-ebola-franchit-le-cap-des-4-000-morts_8220169.html": "2026-10-02T17:54:16.015408+00:00",
   "https://www.franceinfo.fr/replay-magazine/france-2/nous-les-europeens/nous-les-europeens-protection-de-l-enfance-l-espagne-se-mobilise_8194532.html": "2026-10-02T17:54:16.015408+00:00",
   "https://www.franceinfo.fr/monde/espagne/en-espagne-les-deputes-rejettent-les-textes-sur-le-logement_8220139.html": "2026-10-02T17:54:16.015408+00:00",
-  "https://www.franceinfo.fr/monde/espagne/dans-une-espagne-en-proie-a-une-crise-du-logement-la-jeunesse-est-prise-dans-un-piege-locatif_8219851.html": "2026-10-02T17:54:16.015408+00:00",
-  "https://www.franceinfo.fr/sports/foot/ligue-des-nations/pas-assez-blanche-pas-assez-allemande-la-nouvelle-mannschaft-face-a-une-vague-de-commentaires-racistes_8219920.html": "2026-10-02T17:54:16.015408+00:00",
   "https://www.franceinfo.fr/monde/royaume-uni/un-britannique-inculpe-pour-preparation-d-acte-de-terrorisme-contre-le-leader-d-extreme-droite-nigel-farage_8220346.html": "2026-10-02T22:19:00.665172+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-ukraine-un-nouveau-grand-pont-de-kiev-touche-par-une-frappe-russe_8220826.html": "2026-10-03T05:24:30.496545+00:00",
   "https://www.franceinfo.fr/monde/europe/la-grande-bretagne-et-l-ue/plus-de-la-moitie-des-britanniques-sont-favorables-a-un-retour-du-royaume-uni-dans-l-union-europeenne-selon-un-sondage_8221126.html": "2026-10-03T11:45:42.171619+00:00",
@@ -25,21 +21,73 @@
   "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/au-maroc-la-nouvelle-cheffe-du-gouvernement-au-defi-de-la-crise-sociale_8200106.html": "2026-10-03T16:28:07.171369+00:00",
   "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/a-gaza-cinq-morts-dans-une-frappe-aerienne-israelienne-nocturne_8221312.html": "2026-10-03T16:28:07.171369+00:00",
   "https://www.franceinfo.fr/monde/espagne/a-madrid-une-manifestation-pour-le-droit-au-logement-rassemble-entre-70-000-et-500-000-personnes_8221219.html": "2026-10-03T16:28:07.171369+00:00",
-  "https://www.franceinfo.fr/monde/asie/un-jeune-conducteur-de-18-ans-conduisait-de-maniere-imprudente-une-voiture-fonce-dans-une-foule-de-supporters-du-rugby-en-australie_8221225.html": "2026-10-03T16:28:07.171369+00:00",
-  "https://www.franceinfo.fr/monde/italie/je-suis-sans-voix-le-jardin-des-reves-en-toscane-fascine-les-visiteurs_8221207.html": "2026-10-03T16:28:07.171369+00:00",
   "https://www.franceinfo.fr/internet/intelligence-artificielle/aux-etats-unis-la-revolte-contre-des-cameras-de-videosurveillance-utilisant-l-ia_8221564.html": "2026-10-03T21:23:35.945421+00:00",
   "https://www.franceinfo.fr/monde/espagne/reportage-des-membres-de-ma-famille-vont-etre-expulses-a-madrid-des-milliers-de-personnes-manifestent-leur-colere-face-a-la-crise-du-logement-qui-touche-l-ensemble-du-pays_8221552.html": "2026-10-03T21:23:35.945421+00:00",
   "https://www.franceinfo.fr/faits-divers/benyamin-netanyahou-invite-en-israel-le-pilote-indien-qui-a-participe-a-sauver-les-passagers-du-vol-flydubai_8221510.html": "2026-10-03T21:23:35.945421+00:00",
   "https://www.franceinfo.fr/monde/espagne/je-n-ai-jamais-vu-autant-d-eau-les-inondations-en-espagne-font-de-serieux-degats_8221513.html": "2026-10-03T21:23:35.945421+00:00",
-  "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/tout-comprendre-a-la-guerre-au-moyen-orient/": "2026-10-03T21:23:35.945421+00:00"
+  "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/tout-comprendre-a-la-guerre-au-moyen-orient/": "2026-10-03T21:23:35.945421+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/le-chancelier-allemand-friedrich-merz-realise-une-visite-surprise-a-kiev_8221903.html": "2026-10-04T06:00:26.376308+00:00",
+  "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/une-frappe-russe-touche-un-nouveau-pont-majeur-de-kiev_8221894.html": "2026-10-04T06:00:26.376308+00:00",
+  "https://www.franceinfo.fr/monde/bresil/maintien-a-gauche-ou-retour-de-l-extreme-droite-scandales-craintes-d-ingerences-au-bresil-une-election-presidentielle-sous-haute-tension_8216027.html": "2026-10-04T06:00:26.376308+00:00",
+  "https://www.franceinfo.fr/monde/en-inde-des-chiens-entraines-a-detecter-des-cancers-a-l-aide-de-l-ia_8219686.html": "2026-10-04T06:00:26.376308+00:00",
+  "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/leon-xiv-en-france-retrouvez-l-essentiel/": "2026-10-04T06:00:26.376308+00:00",
+  "https://www.franceinfo.fr/monde/usa/affaire-jeffrey-epstein/l-essentiel-des-revelations-sur-l-affaire-epstein/": "2026-10-04T06:00:26.376308+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "Aux États-Unis, la révolte contre des caméras de vidéosurveillance utilisant l'IA Aux États-Unis, de nombreuses caméras de surveillance sont la cible de dégradations attaquées à la disqueuse, parfois même à l’explosif : les boîtiers noirs de l’entreprise Flock, utilisant l’intelligence artificielle. Certains militants estiment qu'elles portent atteinte à la vie privée. Aujourd'hui 3:18 vidéo 3 minutes 18",
+   "title": "Le chancelier allemand Friedrich Merz réalise une visite surprise à Kiev \"Je me suis rendu à Kiev aujourd’hui car l’Ukraine a besoin de tout notre soutien dans les semaines à venir\", a déclaré le chancelier allemand. Moscou continue à bombarder des infrastructures essentielles à travers l'Ukraine. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/le-chancelier-allemand-friedrich-merz-realise-une-visite-surprise-a-kiev_8221903.html",
+   "summary": "Le chancelier allemand Friedrich Merz réalise une visite surprise à Kiev",
+   "image": "https://www.franceinfo.fr/pictures/HL3osN1Hh_jQ8z702UGCA0sVWdg/0x0:992x682/432x297/filters:format(jpg)/2026/10/04/6ac1e23b043b8461653017.jpg",
+   "date": null,
+   "pubdate": "2026-10-04T06:00:26.376308+00:00"
+  },
+  {
+   "title": "1:26 vidéo 1 minute 26 Une frappe russe touche un nouveau pont majeur de Kiev",
+   "link": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/une-frappe-russe-touche-un-nouveau-pont-majeur-de-kiev_8221894.html",
+   "summary": "Une frappe russe touche un nouveau pont majeur de Kiev",
+   "image": "https://www.franceinfo.fr/pictures/O09yaaJ-x_w-iBFOjl33EMSuq-o/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/04/6ac1e313a647d269251217.jpg",
+   "date": null,
+   "pubdate": "2026-10-04T06:00:26.376308+00:00"
+  },
+  {
+   "title": "Maintien à gauche ou retour de l'extrême droite, scandales, craintes d'ingérences… Au Brésil, une élection présidentielle sous haute tension",
+   "link": "https://www.franceinfo.fr/monde/bresil/maintien-a-gauche-ou-retour-de-l-extreme-droite-scandales-craintes-d-ingerences-au-bresil-une-election-presidentielle-sous-haute-tension_8216027.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/_4aln2Ow2gTZJgSlc4Jb6ns7KDw/0x0:1024x576/432x243/filters:format(jpg)/2026/09/30/6abd09fed9524701890225.jpg",
+   "date": null,
+   "pubdate": "2026-10-04T06:00:26.376308+00:00"
+  },
+  {
+   "title": "1:46 vidéo 1 minute 46 En Inde, des chiens entraînés à détecter des cancers à l’aide de l’IA",
+   "link": "https://www.franceinfo.fr/monde/en-inde-des-chiens-entraines-a-detecter-des-cancers-a-l-aide-de-l-ia_8219686.html",
+   "summary": "En Inde, des chiens entraînés à détecter des cancers à l’aide de l’IA",
+   "image": "https://www.franceinfo.fr/pictures/GMD9AvHOKfaoap2RGVprhmmNv-Q/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/02/6abf8d3796ce6427001379.jpg",
+   "date": null,
+   "pubdate": "2026-10-04T06:00:26.376308+00:00"
+  },
+  {
+   "title": "Léon XIV en France : l'essentiel de la visite du pape 14 contenus",
+   "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/leon-xiv-en-france-retrouvez-l-essentiel/",
+   "summary": "Léon XIV en France : l'essentiel de la visite du pape",
+   "image": "https://www.franceinfo.fr/pictures/bgiweXyFgu0BUNMikE3oBZK0JG4/432x297/filters:format(jpg)/2026/09/24/6ab4f4233a728679965697.jpg",
+   "date": null,
+   "pubdate": "2026-10-04T06:00:26.376308+00:00"
+  },
+  {
+   "title": "L'essentiel des révélations sur l'affaire Epstein 14 contenus",
+   "link": "https://www.franceinfo.fr/monde/usa/affaire-jeffrey-epstein/l-essentiel-des-revelations-sur-l-affaire-epstein/",
+   "summary": "L'essentiel des révélations sur l'affaire Epstein",
+   "image": "https://www.franceinfo.fr/pictures/btENVL4vmQDLNvnJ4uUtTATvN9k/432x297/filters:format(jpg)/2026/02/12/000-96rl2gk-1-698def9a11d8a867290796.jpg",
+   "date": null,
+   "pubdate": "2026-10-04T06:00:26.376308+00:00"
+  },
+  {
+   "title": "3:18 vidéo 3 minutes 18 Aux États-Unis, la révolte contre des caméras de vidéosurveillance utilisant l'IA",
    "link": "https://www.franceinfo.fr/internet/intelligence-artificielle/aux-etats-unis-la-revolte-contre-des-cameras-de-videosurveillance-utilisant-l-ia_8221564.html",
    "summary": "Aux États-Unis, la révolte contre des caméras de vidéosurveillance utilisant l'IA",
-   "image": "https://www.franceinfo.fr/pictures/5a3jdXVPyjSH4lk-8jFT3zUEvRg/53x0:1414x936/432x297/filters:format(jpg)/2026/10/03/6ac15d1f8ab54056592167.png",
+   "image": "https://www.franceinfo.fr/pictures/ZRR0FVzgoHE3eJ8QBD_9rIjDEDI/0x55:1468x880/432x243/filters:format(jpg)/2026/10/03/6ac15d1f8ab54056592167.png",
    "date": null,
    "pubdate": "2026-10-03T21:23:35.945421+00:00"
   },
@@ -92,34 +140,18 @@
    "pubdate": "2026-10-03T16:28:07.171369+00:00"
   },
   {
-   "title": "Cinq Palestiniens tués dans une frappe aérienne israélienne à Gaza, affirment la défense civile et un hôpital",
+   "title": "Cinq Palestiniens tués dans une frappe aérienne israélienne à Gaza, affirment la défense civile et un hôpital Les cinq victimes étaient deux femmes et leurs filles respectives, ainsi qu'un jeune homme, a affirmé un responsable du complexe médical al-Chifa.",
    "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/a-gaza-cinq-morts-dans-une-frappe-aerienne-israelienne-nocturne_8221312.html",
-   "summary": "",
+   "summary": "Cinq Palestiniens tués dans une frappe aérienne israélienne à Gaza, affirment la défense civile et un hôpital",
    "image": "https://www.franceinfo.fr/pictures/PCdCMQRo3nDN7nr9AA4y8WA2zxM/0x53:1024x629/432x243/filters:format(jpg)/2026/10/03/6ac117301f191223172615.jpg",
    "date": null,
    "pubdate": "2026-10-03T16:28:07.171369+00:00"
   },
   {
-   "title": "A Madrid, une manifestation pour le droit au logement rassemble entre 70 000 et 500 000 personnes",
+   "title": "A Madrid, une manifestation pour le droit au logement rassemble entre 70 000 et 500 000 personnes Vendredi, le rejet des textes portés par le gouvernement, qui prévoyaient notamment de suspendre jusqu'en 2030 les expulsions de personnes vulnérables, a relancé les interrogations sur d'éventuelles législatives anticipées.",
    "link": "https://www.franceinfo.fr/monde/espagne/a-madrid-une-manifestation-pour-le-droit-au-logement-rassemble-entre-70-000-et-500-000-personnes_8221219.html",
-   "summary": "",
+   "summary": "A Madrid, une manifestation pour le droit au logement rassemble entre 70 000 et 500 000 personnes",
    "image": "https://www.franceinfo.fr/pictures/cf4Ve-y_N1JyYuT55rxLHa124bY/0x106:1024x682/432x243/filters:format(jpg)/2026/10/03/6ac1055e5602b932351108.jpg",
-   "date": null,
-   "pubdate": "2026-10-03T16:28:07.171369+00:00"
-  },
-  {
-   "title": "1:01 vidéo 1 minute 1 \"Un jeune conducteur conduisait de manière imprudente\" : une voiture fonce dans une foule de supporters en Australie",
-   "link": "https://www.franceinfo.fr/monde/asie/un-jeune-conducteur-de-18-ans-conduisait-de-maniere-imprudente-une-voiture-fonce-dans-une-foule-de-supporters-du-rugby-en-australie_8221225.html",
-   "summary": "\"Un jeune conducteur conduisait de manière imprudente\" : une voiture fonce dans une foule de supporters en Australie",
-   "image": "https://www.franceinfo.fr/pictures/zb0JpdyLz0LkvsKUKeXpjNrxnAc/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/03/6ac0fe76deb19087331617.jpg",
-   "date": null,
-   "pubdate": "2026-10-03T16:28:07.171369+00:00"
-  },
-  {
-   "title": "3:02 vidéo 3 minutes 2 \"Je suis sans voix\" : le jardin des rêves en Toscane fascine les visiteurs",
-   "link": "https://www.franceinfo.fr/monde/italie/je-suis-sans-voix-le-jardin-des-reves-en-toscane-fascine-les-visiteurs_8221207.html",
-   "summary": "\"Je suis sans voix\" : le jardin des rêves en Toscane fascine les visiteurs",
-   "image": "https://www.franceinfo.fr/pictures/r1c4CFI1w9Nuv2wNYHnuSnDsxhk/0x0:1486x836/432x243/filters:format(jpg)/2026/10/03/6ac0fda1339c2562236205.jpg",
    "date": null,
    "pubdate": "2026-10-03T16:28:07.171369+00:00"
   },
@@ -220,22 +252,6 @@
    "pubdate": "2026-10-02T17:54:16.015408+00:00"
   },
   {
-   "title": "Dans une Espagne en proie à une crise du logement, la jeunesse est prise dans un \"piège locatif\" A Madrid, la Puerta del Sol est occupée par des manifestants qui y ont installé des tentes pour dénoncer la crise du logement. En dix ans, le prix moyen du mètre carré à la location a presque doublé. Dans cet article, le média public espagnol RTVE analyse les chiffres.",
-   "link": "https://www.franceinfo.fr/monde/espagne/dans-une-espagne-en-proie-a-une-crise-du-logement-la-jeunesse-est-prise-dans-un-piege-locatif_8219851.html",
-   "summary": "Dans une Espagne en proie à une crise du logement, la jeunesse est prise dans un \"piège locatif\"",
-   "image": "https://www.franceinfo.fr/pictures/FUv074st5VL04eC99hw9YuQ3kiM/0x182:3500x2150/432x243/filters:format(jpg)/2026/10/02/6abfc427cf59f792921356.jpg",
-   "date": null,
-   "pubdate": "2026-10-02T17:54:16.015408+00:00"
-  },
-  {
-   "title": "\"Pas assez blanche\", \"pas assez allemande\"... La nouvelle Mannschaft face à une vague de commentaires racistes L'Allemagne s'est imposée 2 à 0 face à la Serbie, jeudi soir, pour la première victoire de l'ère Jürgen Klopp, le nouvel entraîneur de l'équipe de foot nationale. Mais sa nouvelle équipe est aussi la cible d'une vague de commentaires racistes sur les réseaux sociaux.",
-   "link": "https://www.franceinfo.fr/sports/foot/ligue-des-nations/pas-assez-blanche-pas-assez-allemande-la-nouvelle-mannschaft-face-a-une-vague-de-commentaires-racistes_8219920.html",
-   "summary": "\"Pas assez blanche\", \"pas assez allemande\"... La nouvelle Mannschaft face à une vague de commentaires racistes",
-   "image": "https://www.franceinfo.fr/pictures/QOvcoYCMl8WY2K9xyb5ISoZ5PSg/0x301:5028x3130/432x243/filters:format(jpg)/2026/10/02/6abfc0359c498744555564.jpg",
-   "date": null,
-   "pubdate": "2026-10-02T17:54:16.015408+00:00"
-  },
-  {
    "title": ": Enquête 19:00 article 19 minutes : Enquête Après le 7-Octobre, comment le Qatar a pénétré les cercles les plus proches du pouvoir israélien pour tenter de diluer sa responsabilité",
    "link": "https://www.franceinfo.fr/enquetes-franceinfo/enquete-apres-le-7-octobre-comment-le-qatar-a-penetre-les-cercles-les-plus-proches-du-pouvoir-israelien-pour-tenter-de-diluer-sa-responsabilite_8218780.html",
    "summary": "Après le 7-Octobre, comment le Qatar a pénétré les cercles les plus proches du pouvoir israélien pour tenter de diluer sa responsabilité",
@@ -258,22 +274,6 @@
    "image": "https://www.franceinfo.fr/pictures/vsfmHY04LI40ZetDn6W2U19ti_E/840x0:3000x2160/100x100/filters:format(jpg)/2026/09/25/6ab6494f5ce4b156799017.jpg",
    "date": null,
    "pubdate": "2026-10-02T00:51:04.129662+00:00"
-  },
-  {
-   "title": "Le Groenland au cœur d'un bras de fer géopolitique 15 contenus",
-   "link": "https://www.franceinfo.fr/monde/groenland/le-groenland-au-c-ur-d-un-bras-de-fer-geopolitique/",
-   "summary": "Le Groenland au cœur d'un bras de fer géopolitique",
-   "image": "https://www.franceinfo.fr/pictures/MKq4Aviz_2Dt7XVuO__X2DAEw5M/432x297/filters:format(jpg)/2026/01/22/043-sw-js9nbczzm6o-697245bf34b52414921393.jpg",
-   "date": null,
-   "pubdate": "2026-10-01T10:14:46.267012+00:00"
-  },
-  {
-   "title": ": Témoignages 5:05 audio 5 minutes 5 : Témoignages \"C'est un beau symbole\" : à Saint-Denis, dans le lycée catholique Jean-Baptiste de La Salle, la visite du pape rassemble au-delà des religions",
-   "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/temoignages-c-est-un-beau-symbole-a-saint-denis-dans-le-lycee-catholique-jean-baptiste-de-la-salle-la-visite-du-pape-rassemble-au-dela-des-religions_8187491.html",
-   "summary": "\"C'est un beau symbole\" : à Saint-Denis, dans le lycée catholique Jean-Baptiste de La Salle, la visite du pape rassemble au-delà des religions",
-   "image": "https://www.franceinfo.fr/pictures/H0MSeF_zqX6J3osbk4Z2mzpDdl0/500x0:3500x3000/100x100/filters:format(jpg)/2026/09/25/6ab62c9cc624f464544033.jpg",
-   "date": null,
-   "pubdate": "2026-10-01T10:14:46.267012+00:00"
   }
  ]
 }
