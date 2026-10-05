@@ -1,95 +1,207 @@
 {
- "etag": "\"f38385ae63f041987f303ae44e82ba56-gzip\"",
+ "etag": "\"84dbf6f2959d790126978d5dda25ff97-gzip\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/tout-comprendre-a-la-guerre-au-moyen-orient/": "2026-10-03T21:23:35.945421+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/le-chancelier-allemand-friedrich-merz-realise-une-visite-surprise-a-kiev_8221903.html": "2026-10-04T06:00:26.376308+00:00",
-  "https://www.franceinfo.fr/monde/bresil/maintien-a-gauche-ou-retour-de-l-extreme-droite-scandales-craintes-d-ingerences-au-bresil-une-election-presidentielle-sous-haute-tension_8216027.html": "2026-10-04T06:00:26.376308+00:00",
   "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/leon-xiv-en-france-retrouvez-l-essentiel/": "2026-10-04T06:00:26.376308+00:00",
-  "https://www.franceinfo.fr/monde/usa/affaire-jeffrey-epstein/l-essentiel-des-revelations-sur-l-affaire-epstein/": "2026-10-04T06:00:26.376308+00:00",
-  "https://www.franceinfo.fr/replay-radio/l-invite-culture/david-djaiz-le-xxe-siecle-est-le-siecle-du-pacte-faustien-entre-la-science-et-la-technologie_8217961.html": "2026-10-04T12:28:33.294515+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-russie-va-intensifier-ses-frappes-sur-l-ukraine-en-reponse-a-des-declarations-de-volodymyr-zelensky-qui-veut-intensifier-les-represailles-contre-les-raffineries-russes_8222170.html": "2026-10-04T12:28:33.294515+00:00",
-  "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/des-pluies-torrentielles-en-espagne-font-deux-morts-dans-la-province-de-barcelone-en-etat-d-alerte_8222065.html": "2026-10-04T12:28:33.294515+00:00",
-  "https://www.franceinfo.fr/societe/harcelement-sexuel/viol-en-reunion-d-une-etudiante-a-l-universite-americaine-cornell-le-president-de-l-etablissement-annonce-une-enquete-externe_8221993.html": "2026-10-04T12:28:33.294515+00:00",
-  "https://www.franceinfo.fr/monde/bresil/personne-ne-dort-plus-on-est-super-anxieux-au-bresil-les-partisans-de-lula-comme-les-pro-bolsonaro-retiennent-leur-souffle_8221936.html": "2026-10-04T12:28:33.294515+00:00",
-  "https://www.franceinfo.fr/monde/proche-orient/yemen/l-armee-du-yemen-bombarde-la-capitale-sanaa-tenue-par-les-houthis-qui-revendiquent-une-attaque-contre-un-site-de-saudi-aramco-a-riyad_8221960.html": "2026-10-04T12:28:33.294515+00:00",
-  "https://www.franceinfo.fr/replay-radio/livre-actu/des-enfants-gates-les-europeens-la-guerre-et-la-paix-un-appel-a-la-mobilisation-du-continent_8179229.html": "2026-10-04T12:28:33.294515+00:00",
-  "https://www.franceinfo.fr/monde/europe/le-parti-pro-europeen-et-pro-ukrainien-liste-unie-arrive-en-tete-des-legislatives-en-lettonie-selon-des-resultats-partiels_8221912.html": "2026-10-04T12:28:33.294515+00:00",
   "https://www.franceinfo.fr/monde/groenland/le-groenland-au-c-ur-d-un-bras-de-fer-geopolitique/": "2026-10-04T12:28:33.294515+00:00",
   "https://www.franceinfo.fr/monde/usa/christa-pike-la-condamnee-qui-a-survecu-a-deux-injections-letales-dans-le-tennessee-est-dans-un-etat-critique-selon-son-avocat_8222488.html": "2026-10-04T18:39:48.591316+00:00",
   "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/au-royaume-uni-une-reforme-du-droit-syndical-qui-fait-peur-aux-entreprises_8179241.html": "2026-10-04T18:39:48.591316+00:00",
-  "https://www.franceinfo.fr/monde/italie/en-italie-un-incendie-dans-un-camping-sur-le-lac-de-garde-fait-au-moins-un-blesse_8222350.html": "2026-10-04T18:39:48.591316+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/ma-maria-etait-une-civile-elle-n-avait-pas-d-arme-entre-les-mains-le-temoignage-d-un-militaire-ukrainien-endeuille_8222320.html": "2026-10-04T18:39:48.591316+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/washington-veut-organiser-des-pourparlers-trilateraux-avec-russes-et-ukrainiens-fin-octobre-annonce-volodymyr-zelensky_8222308.html": "2026-10-04T18:39:48.591316+00:00",
-  "https://www.franceinfo.fr/culture/livres/l-ecrivain-et-ancien-ministre-senegalais-cheikh-hamidou-kane-est-mort-a-98-ans_8222221.html": "2026-10-04T18:39:48.591316+00:00",
   "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/on-minimise-la-dimension-systemique-pourquoi-la-rencontre-du-pape-leon-xiv-avec-sept-victimes-de-violences-sexuelles-provoque-des-crispations_8195732.html": "2026-10-04T18:39:48.591316+00:00",
   "https://www.franceinfo.fr/monde/bresil/au-bresil-le-vote-pour-le-premier-tour-de-la-presidentielle-est-cloture-le-pays-suspendu-au-resultat-du-match-entre-lula-et-flavio-bolsonaro_8222623.html": "2026-10-04T23:58:48.741967+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/c-est-dur-de-comprendre-leur-trajectoire-et-de-les-abattre-en-ukraine-les-ravages-des-drones-a-reaction-russes_8222590.html": "2026-10-04T23:58:48.741967+00:00",
-  "https://www.franceinfo.fr/monde/espagne/espagne-les-inondations-font-plusieurs-morts-pres-de-barcelone_8222545.html": "2026-10-04T23:58:48.741967+00:00",
   "https://www.franceinfo.fr/monde/israel/benyamin-netanyahou-ordonne-un-examen-des-mesures-de-securite-sur-les-vols-internationaux-vers-israel_8222542.html": "2026-10-04T23:58:48.741967+00:00",
   "https://www.franceinfo.fr/enquetes-franceinfo/enquete-apres-le-7-octobre-comment-le-qatar-a-penetre-les-cercles-les-plus-proches-du-pouvoir-israelien-pour-tenter-de-diluer-sa-responsabilite_8218780.html": "2026-10-04T23:58:48.741967+00:00",
   "https://www.franceinfo.fr/enquetes-franceinfo/enquete-comment-avant-le-7-octobre-benyamin-netanyahou-a-laisse-le-qatar-envoyer-de-l-argent-a-gaza_8218762.html": "2026-10-04T23:58:48.741967+00:00",
   "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/une-annonce-de-nouveaux-pourparlers-de-paix-entre-russes-et-ukrainiens-sous-l-egide-americaine-le-petit-coup-de-pouce-de-zelensky-a-trump-avant-les-elections-de-mi-mandat_8202308.html": "2026-10-05T05:49:28.021997+00:00",
   "https://www.franceinfo.fr/monde/bresil/presidentielle-au-bresil-le-conservateur-flavio-bolsonaro-cree-la-surprise-et-devance-lula-au-premier-tour_8222773.html": "2026-10-05T05:49:28.021997+00:00",
-  "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/temoignages-simulacres-d-execution-tortures-physiques-un-ancien-prisonnier-ukrainien-en-russie-raconte-les-sevices-subis-apres-sa-capture-dans-le-donbass_8202320.html": "2026-10-05T05:49:28.021997+00:00"
+  "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/temoignages-simulacres-d-execution-tortures-physiques-un-ancien-prisonnier-ukrainien-en-russie-raconte-les-sevices-subis-apres-sa-capture-dans-le-donbass_8202320.html": "2026-10-05T05:49:28.021997+00:00",
+  "https://www.franceinfo.fr/decouverte/c-est-vraiment-spectaculaire-capraia-le-petit-paradis-italien-a-une-heure-de-la-corse_8223484.html": "2026-10-05T14:50:50.760065+00:00",
+  "https://www.franceinfo.fr/monde/afrique/nigeria/au-nigeria-un-avion-de-l-armee-de-l-air-se-crash-avec-32-personnes-a-bord_8223520.html": "2026-10-05T14:50:50.760065+00:00",
+  "https://www.franceinfo.fr/monde/israel/le-hamas-n-aura-plus-jamais-aucun-pouvoir-a-gaza-previent-benyamin-netanyahou-lors-des-commemorations-du-7-octobre_8223376.html": "2026-10-05T14:50:50.760065+00:00",
+  "https://www.franceinfo.fr/monde/bresil/bresil-flavio-bolsonaro-en-tete-au-premier-tour-de-l-election-presidentielle_8223448.html": "2026-10-05T14:50:50.760065+00:00",
+  "https://www.franceinfo.fr/monde/europe/un-incendie-fait-deux-morts-sur-un-navire-en-mer-noire-au-large-de-la-roumanie-volodymyr-zelensky-accuse-la-russie-d-une-frappe-horrible_8223445.html": "2026-10-05T14:50:50.760065+00:00",
+  "https://www.franceinfo.fr/sports/un-shot-d-adrenaline-aux-pays-bas-les-pratiquants-du-fierljeppen-doivent-sauter-au-dessus-de-l-eau-avec-une-perche_8223427.html": "2026-10-05T14:50:50.760065+00:00",
+  "https://www.franceinfo.fr/monde/russie/la-situation-est-sous-controle-apres-l-apparition-d-un-cas-suppose-de-peste-en-russie-assure-le-gouverneur-d-irkoutsk_8223370.html": "2026-10-05T14:50:50.760065+00:00",
+  "https://www.franceinfo.fr/monde/europe/allemagne/menace-la-plus-directe-la-plus-large-et-la-plus-concrete-le-renseignement-allemand-constate-une-escalade-de-la-guerre-de-l-ombre-russe_8223241.html": "2026-10-05T14:50:50.760065+00:00",
+  "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/au-japon-les-conducteurs-seniors-doivent-passer-des-tests-pour-garder-leur-permis_8202302.html": "2026-10-05T14:50:50.760065+00:00",
+  "https://www.franceinfo.fr/monde/proche-orient/yemen/au-yemen-la-coalition-dirigee-par-ryad-annonce-rejoindre-l-offensive-du-gouvernement-contre-les-houthis_8223235.html": "2026-10-05T14:50:50.760065+00:00",
+  "https://www.franceinfo.fr/societe/violences-faites-aux-femmes/c-est-une-veritable-bouee-de-sauvetage-au-royaume-uni-le-controle-coercitif-est-puni-depuis-dix-ans_8223100.html": "2026-10-05T14:50:50.760065+00:00",
+  "https://www.franceinfo.fr/monde/prix-nobel/le-nobel-de-medecine-2026-decerne-aux-chercheurs-karl-deisseroth-peter-hegemann-et-georg-nagel-pour-avoir-pose-les-fondements-d-une-nouvelle-ere-en-neurosciences_8223166.html": "2026-10-05T14:50:50.760065+00:00",
+  "https://www.franceinfo.fr/replay-radio/l-il-de-constance/un-bar-lesbien-des-masques-et-une-ecole-de-clown-l-article-qui-a-rendu-l-amerique-folle_8202311.html": "2026-10-05T14:50:50.760065+00:00",
+  "https://france3-regions.franceinfo.fr/hauts-de-france/pas-calais/berck/deux-migrants-decedent-lors-d-une-tentative-de-traversee-de-la-manche-deux-femmes-transportees-en-urgence-relative-3427953.html": "2026-10-05T11:00:00+00:00",
+  "https://www.franceinfo.fr/monde/espagne/fragilise-par-le-rejet-de-ses-mesures-sur-le-logement-le-premier-ministre-espagnol-pedro-sanchez-convoque-des-elections-anticipees-le-29-novembre_8222983.html": "2026-10-05T14:50:50.760065+00:00",
+  "https://www.franceinfo.fr/replay-radio/le-monde-et-vous/l-argentine-met-sa-nationalite-a-prix-350-000-dollars-pour-devenir-citoyen_8214893.html": "2026-10-05T14:50:50.760065+00:00",
+  "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/la-france-est-elle-dependante-du-diesel-americain_8202293.html": "2026-10-05T14:50:50.760065+00:00",
+  "https://www.franceinfo.fr/monde/royaume-uni/les-etats-unis-retirent-tous-leurs-bombardiers-de-la-base-britannique-de-fairford-apres-la-recente-alerte-qui-a-conduit-a-l-ouverture-d-une-enquete-antiterroriste_8222920.html": "2026-10-05T14:50:50.760065+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "Une annonce de nouveaux pourparlers de paix entre Russes et Ukrainiens sous l'égide américaine, le petit coup de pouce de Zelensky à Trump, avant les élections de mi-mandat Le président ukrainien Volodymyr Zelensky a annoncé dimanche une possible reprise des pourparlers entre Russes, Ukrainiens et Américains début octobre. Mais il y a peu de chance pour que la fin du conflit en résulte. Aujourd'hui 2:30 audio 2 minutes 30",
-   "link": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/une-annonce-de-nouveaux-pourparlers-de-paix-entre-russes-et-ukrainiens-sous-l-egide-americaine-le-petit-coup-de-pouce-de-zelensky-a-trump-avant-les-elections-de-mi-mandat_8202308.html",
-   "summary": "Une annonce de nouveaux pourparlers de paix entre Russes et Ukrainiens sous l'égide américaine, le petit coup de pouce de Zelensky à Trump, avant les élections de mi-mandat",
-   "image": "https://www.franceinfo.fr/pictures/wy68XefmtvFMexyMe-EmADi5q5M/0x0:992x682/432x297/filters:format(jpg)/2026/10/05/6ac334c2c9456967247716.jpg",
+   "title": "\"C'est vraiment spectaculaire\" : Capraia, le petit paradis italien à une heure de la Corse Au large du Cap Corse, une petite île italienne offre un dépaysement total. Avec ses eaux turquoise, ses paysages préservés et son atmosphère familiale, Capraia attire les touristes qui cherchent une destination loin des foules. Aujourd'hui 4:42 vidéo 4 minutes 42",
+   "link": "https://www.franceinfo.fr/decouverte/c-est-vraiment-spectaculaire-capraia-le-petit-paradis-italien-a-une-heure-de-la-corse_8223484.html",
+   "summary": "\"C'est vraiment spectaculaire\" : Capraia, le petit paradis italien à une heure de la Corse",
+   "image": "https://www.franceinfo.fr/pictures/vx_wUP8hk15qj6dKnJn5deslLLA/174x0:1745x1080/432x297/filters:format(jpg)/2026/10/05/6ac3b10009b4d208342060.jpg",
+   "date": null,
+   "pubdate": "2026-10-05T14:50:50.760065+00:00"
+  },
+  {
+   "title": "Au Nigeria, un avion de l'armée de l'air se crash avec 32 personnes à bord",
+   "link": "https://www.franceinfo.fr/monde/afrique/nigeria/au-nigeria-un-avion-de-l-armee-de-l-air-se-crash-avec-32-personnes-a-bord_8223520.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/TsutghjbaxJRZYTp6VXtDxdBvrA/0x39:1024x615/432x243/filters:format(jpg)/2026/10/05/6ac3b12474b46896058035.jpg",
+   "date": null,
+   "pubdate": "2026-10-05T14:50:50.760065+00:00"
+  },
+  {
+   "title": "Le Hamas n'aura plus jamais \"aucun pouvoir\" à Gaza, prévient Benyamin Nétanyahou lors des commémorations du 7-Octobre",
+   "link": "https://www.franceinfo.fr/monde/israel/le-hamas-n-aura-plus-jamais-aucun-pouvoir-a-gaza-previent-benyamin-netanyahou-lors-des-commemorations-du-7-octobre_8223376.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/jXL-rdF_9HWnsUuq9EK7_BvRjAM/0x0:3765x2117/432x243/filters:format(jpg)/2026/10/05/6ac3a9734ed51957120623.jpg",
+   "date": null,
+   "pubdate": "2026-10-05T14:50:50.760065+00:00"
+  },
+  {
+   "title": "1:36 vidéo 1 minute 36 Brésil : Flavio Bolsonaro en tête au premier tour de l'élection présidentielle",
+   "link": "https://www.franceinfo.fr/monde/bresil/bresil-flavio-bolsonaro-en-tete-au-premier-tour-de-l-election-presidentielle_8223448.html",
+   "summary": "Brésil : Flavio Bolsonaro en tête au premier tour de l'élection présidentielle",
+   "image": "https://www.franceinfo.fr/pictures/V_TsAF18i6uDK_iEBZz59MQgxMc/0x143:1452x960/432x243/filters:format(jpg)/2026/10/05/6ac3a3b06c2f2910958556.png",
+   "date": null,
+   "pubdate": "2026-10-05T14:50:50.760065+00:00"
+  },
+  {
+   "title": "Un incendie fait deux morts sur un navire en mer Noire, au large de la Roumanie, Volodymyr Zelensky accuse la Russie d'être à l'origine d'une \"frappe horrible\"",
+   "link": "https://www.franceinfo.fr/monde/europe/un-incendie-fait-deux-morts-sur-un-navire-en-mer-noire-au-large-de-la-roumanie-volodymyr-zelensky-accuse-la-russie-d-une-frappe-horrible_8223445.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/VYdwsqjUwT_yBNnEL3Ql8ZDPKP4/0x578:5378x3604/432x243/filters:format(jpg)/2026/10/05/6ac3a5dfd13ac903879314.jpg",
+   "date": null,
+   "pubdate": "2026-10-05T14:50:50.760065+00:00"
+  },
+  {
+   "title": "1:58 vidéo 1 minute 58 \"Un shot d'adrénaline\" : aux Pays-Bas, les pratiquants du fierljeppen doivent sauter au-dessus de l'eau avec une perche",
+   "link": "https://www.franceinfo.fr/sports/un-shot-d-adrenaline-aux-pays-bas-les-pratiquants-du-fierljeppen-doivent-sauter-au-dessus-de-l-eau-avec-une-perche_8223427.html",
+   "summary": "\"Un shot d'adrénaline\" : aux Pays-Bas, les pratiquants du fierljeppen doivent sauter au-dessus de l'eau avec une perche",
+   "image": "https://www.franceinfo.fr/pictures/n3SF-VyJaAuLuk0vF8UL4ImVrxU/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/05/6ac3a00934eb8667857537.jpg",
+   "date": null,
+   "pubdate": "2026-10-05T14:50:50.760065+00:00"
+  },
+  {
+   "title": "Les autorités russes assurent que la \"situation est sous contrôle\" après l'apparition d'un cas supposé de peste dans la région sibérienne d'Irkoutsk",
+   "link": "https://www.franceinfo.fr/monde/russie/la-situation-est-sous-controle-apres-l-apparition-d-un-cas-suppose-de-peste-en-russie-assure-le-gouverneur-d-irkoutsk_8223370.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/IS3EZEOwc81D3bJRaUJJsl9SMRo/0x52:1000x614/432x243/filters:format(jpg)/2026/10/05/6ac39a2037ad5126675174.jpg",
+   "date": null,
+   "pubdate": "2026-10-05T14:50:50.760065+00:00"
+  },
+  {
+   "title": "\"Menace la plus directe, la plus large et la plus concrète\" : le renseignement allemand constate une \"escalade\" de la \"guerre de l'ombre\" russe",
+   "link": "https://www.franceinfo.fr/monde/europe/allemagne/menace-la-plus-directe-la-plus-large-et-la-plus-concrete-le-renseignement-allemand-constate-une-escalade-de-la-guerre-de-l-ombre-russe_8223241.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/q7vfpl3mITWRKyLEFFFNI1fjqp4/0x0:6000x3375/432x243/filters:format(jpg)/2026/10/05/6ac38097dbb24583911645.jpg",
+   "date": null,
+   "pubdate": "2026-10-05T14:50:50.760065+00:00"
+  },
+  {
+   "title": "2:33 audio 2 minutes 33 Au Japon, les conducteurs seniors doivent passer des tests pour garder leur permis",
+   "link": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/au-japon-les-conducteurs-seniors-doivent-passer-des-tests-pour-garder-leur-permis_8202302.html",
+   "summary": "Au Japon, les conducteurs seniors doivent passer des tests pour garder leur permis",
+   "image": "https://www.franceinfo.fr/pictures/bhYgH8_P-8tNMBIXKO7T1xlimuw/0x231:6460x3864/432x243/filters:format(jpg)/2026/10/05/6ac34b53397f0334105044.jpg",
+   "date": null,
+   "pubdate": "2026-10-05T14:50:50.760065+00:00"
+  },
+  {
+   "title": "Au Yémen, la coalition dirigée par l'Arabie saoudite annonce rejoindre l'offensive du gouvernement contre les houthis Le chef du Conseil présidentiel yéménite avait annoncé dimanche le lancement d'une offensive visant à reprendre l'ensemble du territoire aux mains des rebelles pro-iraniens.",
+   "link": "https://www.franceinfo.fr/monde/proche-orient/yemen/au-yemen-la-coalition-dirigee-par-ryad-annonce-rejoindre-l-offensive-du-gouvernement-contre-les-houthis_8223235.html",
+   "summary": "Au Yémen, la coalition dirigée par l'Arabie saoudite annonce rejoindre l'offensive du gouvernement contre les houthis",
+   "image": "https://www.franceinfo.fr/pictures/mw89lPu0MMljGtQuqp8MvFyjwss/0x119:2288x1406/432x243/filters:format(jpg)/2026/10/05/6ac37c90c10a6751265324.jpg",
+   "date": null,
+   "pubdate": "2026-10-05T14:50:50.760065+00:00"
+  },
+  {
+   "title": "Le contrôle coercitif, une notion examinée en France dans le cadre du projet de loi intégrale, mais déjà en vigueur depuis dix ans au Royaume-Uni L'Assemblée nationale continue l'examen de la loi intégrale contre les violences sexistes et sexuelles, et se penche plus précisément lundi sur la notion de contrôle coercitif. Elle existe au Royaume-Uni depuis 2015 mais son efficacité reste limitée.",
+   "link": "https://www.franceinfo.fr/societe/violences-faites-aux-femmes/c-est-une-veritable-bouee-de-sauvetage-au-royaume-uni-le-controle-coercitif-est-puni-depuis-dix-ans_8223100.html",
+   "summary": "Le contrôle coercitif, une notion examinée en France dans le cadre du projet de loi intégrale, mais déjà en vigueur depuis dix ans au Royaume-Uni",
+   "image": "https://www.franceinfo.fr/pictures/uXvH7sZ3oTxT6aDgxuH4_7puIPc/0x268:5190x3188/432x243/filters:format(jpg)/2026/10/05/6ac369a297a71034496266.jpg",
+   "date": null,
+   "pubdate": "2026-10-05T14:50:50.760065+00:00"
+  },
+  {
+   "title": "Le prix Nobel de médecine 2026 décerné aux chercheurs Karl Deisseroth, Peter Hegemann et Georg Nagel, pour avoir posé \"les fondements d'une nouvelle ère en neurosciences\" Leurs découvertes concernent les canaux ioniques activés par la lumière et l'optogénétique. Cette méthode \"permet de démontrer comment les cellules nerveuses façonnent les souvenirs, les émotions et les comportements dans le cerveau vivant\".",
+   "link": "https://www.franceinfo.fr/monde/prix-nobel/le-nobel-de-medecine-2026-decerne-aux-chercheurs-karl-deisseroth-peter-hegemann-et-georg-nagel-pour-avoir-pose-les-fondements-d-une-nouvelle-ere-en-neurosciences_8223166.html",
+   "summary": "Le prix Nobel de médecine 2026 décerné aux chercheurs Karl Deisseroth, Peter Hegemann et Georg Nagel, pour avoir posé \"les fondements d'une nouvelle ère en neurosciences\"",
+   "image": "https://www.franceinfo.fr/pictures/VxWSEHWW9gTjKHApnGPz6nUdtIg/0x38:859x521/432x243/filters:format(jpg)/2026/10/05/6ac370353dd9a843958041.jpg",
+   "date": null,
+   "pubdate": "2026-10-05T14:50:50.760065+00:00"
+  },
+  {
+   "title": "2:43 audio 2 minutes 43 Un bar lesbien, des masques et une école de clown : l'article qui a rendu l'Amérique folle Dans une petite ville du Massachusetts, un bar lesbien assouplit son obligation de masque anti-Covid un soir par semaine pour éviter la faillite. Raconté par le \"Boston Globe\", ce drama local est devenu l'un des articles les plus lus de l'histoire du journal. La raison ? Il est un reflet parfait de l'Amérique post-Covid.",
+   "link": "https://www.franceinfo.fr/replay-radio/l-il-de-constance/un-bar-lesbien-des-masques-et-une-ecole-de-clown-l-article-qui-a-rendu-l-amerique-folle_8202311.html",
+   "summary": "Un bar lesbien, des masques et une école de clown : l'article qui a rendu l'Amérique folle",
+   "image": "https://www.franceinfo.fr/pictures/NXY7-Rrkm0024NiZ4B5m-_2C37s/34x0:1372x753/432x243/filters:format(jpg)/2026/10/05/6ac3428eda2ac872816555.png",
+   "date": null,
+   "pubdate": "2026-10-05T14:50:50.760065+00:00"
+  },
+  {
+   "title": "Fragilisé par le rejet de ses mesures sur le logement, le Premier ministre espagnol, Pedro Sanchez, convoque des élections anticipées le 29 novembre Portés par le gouvernement, ces deux décrets prévoyaient notamment de suspendre jusqu'en 2030 les expulsions de personnes vulnérables.",
+   "link": "https://www.franceinfo.fr/monde/espagne/fragilise-par-le-rejet-de-ses-mesures-sur-le-logement-le-premier-ministre-espagnol-pedro-sanchez-convoque-des-elections-anticipees-le-29-novembre_8222983.html",
+   "summary": "Fragilisé par le rejet de ses mesures sur le logement, le Premier ministre espagnol, Pedro Sanchez, convoque des élections anticipées le 29 novembre",
+   "image": "https://www.franceinfo.fr/pictures/ZuioOFKY6fgoo2ETO4i-a-tNwWo/0x53:1024x629/432x243/filters:format(jpg)/2026/10/05/6ac34dca12a47359113149.jpg",
+   "date": null,
+   "pubdate": "2026-10-05T14:50:50.760065+00:00"
+  },
+  {
+   "title": "2:27 audio 2 minutes 27 L’Argentine met sa nationalité à prix : 350 000 dollars pour devenir citoyen Le gouvernement argentin va permettre à des étrangers d'obtenir la citoyenneté en échange d'une contribution d'au moins 350 000 dollars. Un dispositif destiné à attirer les capitaux étrangers, qui va plus loin que ceux proposés en France ou aux États-Unis.",
+   "link": "https://www.franceinfo.fr/replay-radio/le-monde-et-vous/l-argentine-met-sa-nationalite-a-prix-350-000-dollars-pour-devenir-citoyen_8214893.html",
+   "summary": "L’Argentine met sa nationalité à prix : 350 000 dollars pour devenir citoyen",
+   "image": "https://www.franceinfo.fr/pictures/APJ92-eSWrFiVvhj_uHWMU9YnAs/0x192:3436x2124/432x243/filters:format(jpg)/2024/11/17/000-364x2fh-6739ba7451e09840452168.jpg",
+   "date": null,
+   "pubdate": "2026-10-05T14:50:50.760065+00:00"
+  },
+  {
+   "title": "1:30 audio 1 minute 30 La France est-elle dépendante du diesel américain ? Donald Trump a menacé de suspendre les exportations de diesel américain vers les pays européens, s'ils ne piochaient pas dans leurs stocks stratégiques. Il a finalement retiré sa menace, provoquant un soulagement en France.",
+   "link": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/la-france-est-elle-dependante-du-diesel-americain_8202293.html",
+   "summary": "La France est-elle dépendante du diesel américain ?",
+   "image": "https://www.franceinfo.fr/pictures/_GYVGrkq-iyo4F0Frho5VpdAj5s/0x106:1024x682/432x243/filters:format(jpg)/2026/10/05/6ac33bd5ce080111419753.jpg",
+   "date": null,
+   "pubdate": "2026-10-05T14:50:50.760065+00:00"
+  },
+  {
+   "title": "Les Etats-Unis retirent tous leurs bombardiers de la base britannique de Fairford, après la récente alerte qui a conduit à l'ouverture d'une enquête antiterroriste Six personnes soupçonnées d'infractions liées aux explosifs avaient été arrêtées fin septembre. Le Premier ministre britannique dit suspecter une implication de l'Iran.",
+   "link": "https://www.franceinfo.fr/monde/royaume-uni/les-etats-unis-retirent-tous-leurs-bombardiers-de-la-base-britannique-de-fairford-apres-la-recente-alerte-qui-a-conduit-a-l-ouverture-d-une-enquete-antiterroriste_8222920.html",
+   "summary": "Les Etats-Unis retirent tous leurs bombardiers de la base britannique de Fairford, après la récente alerte qui a conduit à l'ouverture d'une enquête antiterroriste",
+   "image": "https://www.franceinfo.fr/pictures/rp4MV-c6BmChIPulz-pehZE_6eM/0x53:1024x629/432x243/filters:format(jpg)/2026/10/05/6ac33bfd0bc7c946012286.jpg",
+   "date": null,
+   "pubdate": "2026-10-05T14:50:50.760065+00:00"
+  },
+  {
+   "title": "Deux migrants décèdent lors d'une tentative de traversée de la Manche, deux femmes transportées en urgence relative Deux hommes sont décédés lors d'une tentative de traversée de la Manche dans la nuit du dimanche 4 au lundi 5 octobre 2026, à Berck (Pas-de-Calais). Deux femmes victimes de brûlures ont également été prises en charge par les secours. Au total, 405 exilés ont été recueillis par les secours dans la matinée sur les côtes du Pas-de-Calais.",
+   "link": "https://france3-regions.franceinfo.fr/hauts-de-france/pas-calais/berck/deux-migrants-decedent-lors-d-une-tentative-de-traversee-de-la-manche-deux-femmes-transportees-en-urgence-relative-3427953.html",
+   "summary": "Deux migrants décèdent lors d'une tentative de traversée de la Manche, deux femmes transportées en urgence relative",
+   "image": "https://www.franceinfo.fr/pictures/pwNzuAxHMoquk3wLBDBtrXtvJR0/432x243/filters:format(jpg)/2026/10/05/6ac357118b279736133255.jpg",
+   "date": "2026-10-05T11:00:00+00:00",
+   "pubdate": "2026-10-05T11:00:00+00:00"
+  },
+  {
+   "title": "Simulacres d'exécution, tortures physiques... Un ancien prisonnier ukrainien en Russie raconte les sévices subis après sa capture dans le Donbass",
+   "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/temoignages-simulacres-d-execution-tortures-physiques-un-ancien-prisonnier-ukrainien-en-russie-raconte-les-sevices-subis-apres-sa-capture-dans-le-donbass_8202320.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/7_bzE0ign68h05W1IZk3LYJo598/0x113:4588x2694/432x243/filters:format(jpg)/2026/10/04/6ac2473171e26537594128.jpg",
    "date": null,
    "pubdate": "2026-10-05T05:49:28.021997+00:00"
   },
   {
-   "title": "Au Brésil, le conservateur Flavio Bolsonaro crée la surprise et devance Lula au premier tour de la présidentielle",
+   "title": "2:42 audio 2 minutes 42 Nouveaux pourparlers de paix entre Russes et Ukrainiens sous l'égide américaine, le petit coup de pouce de Zelensky à Trump, avant les élections de mi-mandat Le président ukrainien Volodymyr Zelensky a annoncé dimanche une possible reprise des pourparlers entre Russes, Ukrainiens et Américains début octobre. Mais il y a peu de chance pour que la fin du conflit en résulte.",
+   "link": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/une-annonce-de-nouveaux-pourparlers-de-paix-entre-russes-et-ukrainiens-sous-l-egide-americaine-le-petit-coup-de-pouce-de-zelensky-a-trump-avant-les-elections-de-mi-mandat_8202308.html",
+   "summary": "Nouveaux pourparlers de paix entre Russes et Ukrainiens sous l'égide américaine, le petit coup de pouce de Zelensky à Trump, avant les élections de mi-mandat",
+   "image": "https://www.franceinfo.fr/pictures/pmqlaZBXYD6uN9wXJ0WVOs4C9es/0x0:1024x576/432x243/filters:format(jpg)/2026/10/05/6ac334c2c9456967247716.jpg",
+   "date": null,
+   "pubdate": "2026-10-05T05:49:28.021997+00:00"
+  },
+  {
+   "title": "Au Brésil, le candidat d'extrême droite Flavio Bolsonaro crée la surprise et devance Lula au premier tour de la présidentielle Le fils de l'ancien chef d'Etat a recueilli plus de 47% des suffrages, contre près de 45% pour le président sortant. Les deux hommes s'affronteront au second tour le 25 octobre.",
    "link": "https://www.franceinfo.fr/monde/bresil/presidentielle-au-bresil-le-conservateur-flavio-bolsonaro-cree-la-surprise-et-devance-lula-au-premier-tour_8222773.html",
-   "summary": "",
+   "summary": "Au Brésil, le candidat d'extrême droite Flavio Bolsonaro crée la surprise et devance Lula au premier tour de la présidentielle",
    "image": "https://www.franceinfo.fr/pictures/S6jtMAeBkn9_nAmF82RySX2yhTA/0x0:1024x576/432x243/filters:format(jpg)/2026/10/05/6ac31fc2ca9e0650778510.jpg",
    "date": null,
    "pubdate": "2026-10-05T05:49:28.021997+00:00"
-  },
-  {
-   "title": ": Témoignages 4:57 audio 4 minutes 57 : Témoignages Simulacres d'exécution, tortures physiques... Un ancien prisonnier ukrainien en Russie raconte les sévices subis après sa capture dans le Donbass",
-   "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/temoignages-simulacres-d-execution-tortures-physiques-un-ancien-prisonnier-ukrainien-en-russie-raconte-les-sevices-subis-apres-sa-capture-dans-le-donbass_8202320.html",
-   "summary": "Simulacres d'exécution, tortures physiques... Un ancien prisonnier ukrainien en Russie raconte les sévices subis après sa capture dans le Donbass",
-   "image": "https://www.franceinfo.fr/pictures/2f5cbtrT9CRvkEupDevmU2LuA7E/890x0:3698x2808/100x100/filters:format(jpg)/2026/10/04/6ac2473171e26537594128.jpg",
-   "date": null,
-   "pubdate": "2026-10-05T05:49:28.021997+00:00"
-  },
-  {
-   "title": "Au Brésil, le vote pour le premier tour de la présidentielle est clos, le pays suspendu au résultat du match entre Lula et Flavio Bolsonaro",
-   "link": "https://www.franceinfo.fr/monde/bresil/au-bresil-le-vote-pour-le-premier-tour-de-la-presidentielle-est-cloture-le-pays-suspendu-au-resultat-du-match-entre-lula-et-flavio-bolsonaro_8222623.html",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/bwjlCPJ_mhfacNn7KB8PRWEJKkk/0x0:1024x576/432x243/filters:format(jpg)/2026/10/05/6ac2cdb9cd36e263661924.jpg",
-   "date": null,
-   "pubdate": "2026-10-04T23:58:48.741967+00:00"
-  },
-  {
-   "title": "2:51 vidéo 2 minutes 51 \"C'est dur de comprendre leur trajectoire et de les abattre\" : en Ukraine, les ravages des drones à réaction russes",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/c-est-dur-de-comprendre-leur-trajectoire-et-de-les-abattre-en-ukraine-les-ravages-des-drones-a-reaction-russes_8222590.html",
-   "summary": "\"C'est dur de comprendre leur trajectoire et de les abattre\" : en Ukraine, les ravages des drones à réaction russes",
-   "image": "https://www.franceinfo.fr/pictures/oO_4XU99OIkOxVePnHjeDTjXhp4/0x62:1466x887/432x243/filters:format(jpg)/2026/10/04/6ac2a937255dc478446181.png",
-   "date": null,
-   "pubdate": "2026-10-04T23:58:48.741967+00:00"
-  },
-  {
-   "title": "1:40 vidéo 1 minute 40 Espagne : les inondations font plusieurs morts près de Barcelone",
-   "link": "https://www.franceinfo.fr/monde/espagne/espagne-les-inondations-font-plusieurs-morts-pres-de-barcelone_8222545.html",
-   "summary": "Espagne : les inondations font plusieurs morts près de Barcelone",
-   "image": "https://www.franceinfo.fr/pictures/5lovzE9aC-VJqiW1iA2kD1Nyeu0/0x5:1461x827/432x243/filters:format(jpg)/2026/10/04/6ac29db0235b9125447326.jpg",
-   "date": null,
-   "pubdate": "2026-10-04T23:58:48.741967+00:00"
-  },
-  {
-   "title": "Benyamin Nétanyahou ordonne un examen des mesures de sécurité sur les vols internationaux vers Israël",
-   "link": "https://www.franceinfo.fr/monde/israel/benyamin-netanyahou-ordonne-un-examen-des-mesures-de-securite-sur-les-vols-internationaux-vers-israel_8222542.html",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/adUttDbQYHGNefZR5VJ24knbcQc/0x53:1024x629/432x243/filters:format(jpg)/2026/10/04/6ac29d8f496c8044382323.jpg",
-   "date": null,
-   "pubdate": "2026-10-04T23:58:48.741967+00:00"
   },
   {
    "title": ": Enquête 19:00 article 19 minutes : Enquête Après le 7-Octobre, comment le Qatar a pénétré les cercles les plus proches du pouvoir israélien pour tenter de diluer sa responsabilité",
@@ -108,36 +220,20 @@
    "pubdate": "2026-10-04T23:58:48.741967+00:00"
   },
   {
-   "title": "Christa Pike, condamnée à mort qui a survécu à deux injections létales dans le Tennessee, est dans un état critique, selon son avocat",
-   "link": "https://www.franceinfo.fr/monde/usa/christa-pike-la-condamnee-qui-a-survecu-a-deux-injections-letales-dans-le-tennessee-est-dans-un-etat-critique-selon-son-avocat_8222488.html",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/E5kxLnkjdwgCqxDm2Fi-eZYiKws/0x13:1200x688/432x243/filters:format(jpg)/2026/10/01/6abde854cdccc668703444.jpg",
+   "title": "Au Brésil, le vote pour le premier tour de la présidentielle est clos, le pays suspendu au résultat du match entre Lula et Flavio Bolsonaro Le premier tour de l'élection opposant notamment le président brésilien sortant de gauche Lula et son rival d'extrême droite Flavio Bolsonaro s'est achevé dimanche.",
+   "link": "https://www.franceinfo.fr/monde/bresil/au-bresil-le-vote-pour-le-premier-tour-de-la-presidentielle-est-cloture-le-pays-suspendu-au-resultat-du-match-entre-lula-et-flavio-bolsonaro_8222623.html",
+   "summary": "Au Brésil, le vote pour le premier tour de la présidentielle est clos, le pays suspendu au résultat du match entre Lula et Flavio Bolsonaro",
+   "image": "https://www.franceinfo.fr/pictures/bwjlCPJ_mhfacNn7KB8PRWEJKkk/0x0:1024x576/432x243/filters:format(jpg)/2026/10/05/6ac2cdb9cd36e263661924.jpg",
    "date": null,
-   "pubdate": "2026-10-04T18:39:48.591316+00:00"
+   "pubdate": "2026-10-04T23:58:48.741967+00:00"
   },
   {
-   "title": "2:57 audio 2 minutes 57 Au Royaume-Uni, une réforme du droit syndical qui fait peur aux entreprises",
-   "link": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/au-royaume-uni-une-reforme-du-droit-syndical-qui-fait-peur-aux-entreprises_8179241.html",
-   "summary": "Au Royaume-Uni, une réforme du droit syndical qui fait peur aux entreprises",
-   "image": "https://www.franceinfo.fr/pictures/kDyfXEKTzvuyIqppWdQrbBPJ9O4/0x259:2500x1666/432x243/filters:format(jpg)/2026/10/04/6ac275bddaef0990599563.jpg",
+   "title": "Benyamin Nétanyahou ordonne un examen des mesures de sécurité sur les vols internationaux vers Israël Un avion de flydubai à destination de Tel-Aviv a dû effectuer mercredi un atterrissage d'urgence en Arabie saoudite, après une apparente tentative de crash du copilote de l'avion qui transportait 174 personnes, dont 166 Israéliens.",
+   "link": "https://www.franceinfo.fr/monde/israel/benyamin-netanyahou-ordonne-un-examen-des-mesures-de-securite-sur-les-vols-internationaux-vers-israel_8222542.html",
+   "summary": "Benyamin Nétanyahou ordonne un examen des mesures de sécurité sur les vols internationaux vers Israël",
+   "image": "https://www.franceinfo.fr/pictures/adUttDbQYHGNefZR5VJ24knbcQc/0x53:1024x629/432x243/filters:format(jpg)/2026/10/04/6ac29d8f496c8044382323.jpg",
    "date": null,
-   "pubdate": "2026-10-04T18:39:48.591316+00:00"
-  },
-  {
-   "title": "En Italie, un incendie dans un camping sur le lac de Garde fait au moins un blessé",
-   "link": "https://www.franceinfo.fr/monde/italie/en-italie-un-incendie-dans-un-camping-sur-le-lac-de-garde-fait-au-moins-un-blesse_8222350.html",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/9Y-btc060KrQR44oEI1H-0M4aOA/0x0:1024x576/432x243/filters:format(jpg)/2026/10/04/6ac26b734e9fe372186168.jpg",
-   "date": null,
-   "pubdate": "2026-10-04T18:39:48.591316+00:00"
-  },
-  {
-   "title": "3:11 vidéo 3 minutes 11 \"Ma Maria était une civile, elle n'avait pas d'arme entre les mains\" : le témoignage d'un militaire ukrainien endeuillé",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/ma-maria-etait-une-civile-elle-n-avait-pas-d-arme-entre-les-mains-le-temoignage-d-un-militaire-ukrainien-endeuille_8222320.html",
-   "summary": "\"Ma Maria était une civile, elle n'avait pas d'arme entre les mains\" : le témoignage d'un militaire ukrainien endeuillé",
-   "image": "https://www.franceinfo.fr/pictures/KP0ZdeGMKIgUvlE8UpLP88vk3sM/0x97:1286x820/432x243/filters:format(jpg)/2026/10/04/6ac25d44ad280439389573.png",
-   "date": null,
-   "pubdate": "2026-10-04T18:39:48.591316+00:00"
+   "pubdate": "2026-10-04T23:58:48.741967+00:00"
   },
   {
    "title": "5:00 article 5 minutes \"On minimise la dimension systémique\" : pourquoi la rencontre du pape Léon XIV avec sept victimes de violences sexuelles provoque des crispations",
@@ -148,18 +244,18 @@
    "pubdate": "2026-10-04T18:39:48.591316+00:00"
   },
   {
-   "title": "Les Etats-Unis veulent organiser des pourparlers trilatéraux avec la Russie et l'Ukraine fin octobre, annonce Volodymyr Zelensky Les échanges entre Washington, Moscou et Kiev se multiplient et relancent l'espoir d'une reprise des négociations, même si la guerre se poursuit. La capitale ukrainienne fait face à une recrudescence des attaques russes ces derniers jours.",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/washington-veut-organiser-des-pourparlers-trilateraux-avec-russes-et-ukrainiens-fin-octobre-annonce-volodymyr-zelensky_8222308.html",
-   "summary": "Les Etats-Unis veulent organiser des pourparlers trilatéraux avec la Russie et l'Ukraine fin octobre, annonce Volodymyr Zelensky",
-   "image": "https://www.franceinfo.fr/pictures/tJtYpVkoz0Et9RPDpQfVD5JJiac/0x0:1024x576/432x243/filters:format(jpg)/2026/10/04/6ac2595453d01735154282.jpg",
+   "title": "Christa Pike, condamnée à mort qui a survécu à deux injections létales dans le Tennessee, est dans un état critique, selon son avocat Stephen Ferrell a précisé ne pas avoir pu rendre visite à sa cliente à l'hôpital, où les médecins tentent toujours de retirer de son organisme les deux doses de barbiturique qui lui ont été administrées.",
+   "link": "https://www.franceinfo.fr/monde/usa/christa-pike-la-condamnee-qui-a-survecu-a-deux-injections-letales-dans-le-tennessee-est-dans-un-etat-critique-selon-son-avocat_8222488.html",
+   "summary": "Christa Pike, condamnée à mort qui a survécu à deux injections létales dans le Tennessee, est dans un état critique, selon son avocat",
+   "image": "https://www.franceinfo.fr/pictures/E5kxLnkjdwgCqxDm2Fi-eZYiKws/0x13:1200x688/432x243/filters:format(jpg)/2026/10/01/6abde854cdccc668703444.jpg",
    "date": null,
    "pubdate": "2026-10-04T18:39:48.591316+00:00"
   },
   {
-   "title": "L'écrivain et ancien ministre sénégalais Cheikh Hamidou Kane est mort à 98 ans Cette figure de la littérature africaine francophone était surtout connue pour \"L’Aventure ambiguë\", publié en 1961, devenu un classique.",
-   "link": "https://www.franceinfo.fr/culture/livres/l-ecrivain-et-ancien-ministre-senegalais-cheikh-hamidou-kane-est-mort-a-98-ans_8222221.html",
-   "summary": "L'écrivain et ancien ministre sénégalais Cheikh Hamidou Kane est mort à 98 ans",
-   "image": "https://www.franceinfo.fr/pictures/Nmh1EiquX_Cd7WhyF09Q0Xh8mfo/120x0:2021x1069/432x243/filters:format(jpg)/2026/10/04/6ac245813f421965506623.jpg",
+   "title": "2:57 audio 2 minutes 57 Au Royaume-Uni, une réforme du droit syndical qui fait peur aux entreprises Une réforme votée sous le gouvernement Starmer entre en vigueur le 30 octobre. Elle permet aux syndicats, même non reconnus, d'accéder aux locaux des entreprises, pour organiser des réunions avec les salariés. Les employeurs s'en inquiètent.",
+   "link": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/au-royaume-uni-une-reforme-du-droit-syndical-qui-fait-peur-aux-entreprises_8179241.html",
+   "summary": "Au Royaume-Uni, une réforme du droit syndical qui fait peur aux entreprises",
+   "image": "https://www.franceinfo.fr/pictures/kDyfXEKTzvuyIqppWdQrbBPJ9O4/0x259:2500x1666/432x243/filters:format(jpg)/2026/10/04/6ac275bddaef0990599563.jpg",
    "date": null,
    "pubdate": "2026-10-04T18:39:48.591316+00:00"
   },
@@ -172,108 +268,12 @@
    "pubdate": "2026-10-04T12:28:33.294515+00:00"
   },
   {
-   "title": "6:55 audio 6 minutes 55 David Djaiz : \"Le XXe siècle est le siècle du pacte faustien entre la science et la technologie\" Dans \"La Méthode\", David Djaiz raconte de façon glaçante l'extermination des chiens de rue par le régime turc au début du XXe siècle. C'est aussi l'occasion pour cet essayiste – qui se lance pour la première fois dans le roman – d'une réflexion vertigineuse sur la science et la morale.",
-   "link": "https://www.franceinfo.fr/replay-radio/l-invite-culture/david-djaiz-le-xxe-siecle-est-le-siecle-du-pacte-faustien-entre-la-science-et-la-technologie_8217961.html",
-   "summary": "David Djaiz : \"Le XXe siècle est le siècle du pacte faustien entre la science et la technologie\"",
-   "image": "https://www.franceinfo.fr/pictures/a5xyYZSsDyXNx26GuKrPT7famzo/0x312:6000x3687/432x243/filters:format(jpg)/2026/10/02/6abfbf2c0e9f4554885158.jpg",
-   "date": null,
-   "pubdate": "2026-10-04T12:28:33.294515+00:00"
-  },
-  {
-   "title": "Moscou entend \"intensifier\" ses frappes sur l'Ukraine après que Volodymyr Zelensky a dit vouloir renforcer les attaques contre les raffineries russes Volodymyr Zelensky a promis d'accroître les attaques de Kiev contre les raffineries de la Russie, qui bombarde quotidiennement des infrastructures énergétiques et civiles de l'Ukraine.",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-russie-va-intensifier-ses-frappes-sur-l-ukraine-en-reponse-a-des-declarations-de-volodymyr-zelensky-qui-veut-intensifier-les-represailles-contre-les-raffineries-russes_8222170.html",
-   "summary": "Moscou entend \"intensifier\" ses frappes sur l'Ukraine après que Volodymyr Zelensky a dit vouloir renforcer les attaques contre les raffineries russes",
-   "image": "https://www.franceinfo.fr/pictures/xOTyW8Jj6m9kzJut7MSCh4xMbZU/0x141:1024x717/432x243/filters:format(jpg)/2026/10/04/6ac22f989aab7346929797.jpg",
-   "date": null,
-   "pubdate": "2026-10-04T12:28:33.294515+00:00"
-  },
-  {
-   "title": "Des pluies torrentielles en Espagne font deux morts dans la province de Barcelone, placée en état d'alerte Au moins une personne est également portée disparue, selon les pompiers. L'événement météorologique doit prendre fin dimanche.",
-   "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/des-pluies-torrentielles-en-espagne-font-deux-morts-dans-la-province-de-barcelone-en-etat-d-alerte_8222065.html",
-   "summary": "Des pluies torrentielles en Espagne font deux morts dans la province de Barcelone, placée en état d'alerte",
-   "image": "https://www.franceinfo.fr/pictures/NjW3h3YOVq76J-FAxrAfmQ5deoQ/0x12:1024x588/432x243/filters:format(jpg)/2026/10/04/6ac21a9b9726e180565344.jpg",
-   "date": null,
-   "pubdate": "2026-10-04T12:28:33.294515+00:00"
-  },
-  {
-   "title": "Viol en réunion d'une étudiante à Cornell : le président de l''université américaine annonce une enquête externe Une jeune femme avait déclaré en 2024 avoir été violée par sept étudiants, mais sa plainte n'avait pas été suivie de poursuites. L'affaire est perçue comme un symbole de la culture masculiniste régnant dans les fraternités.",
-   "link": "https://www.franceinfo.fr/societe/harcelement-sexuel/viol-en-reunion-d-une-etudiante-a-l-universite-americaine-cornell-le-president-de-l-etablissement-annonce-une-enquete-externe_8221993.html",
-   "summary": "Viol en réunion d'une étudiante à Cornell : le président de l''université américaine annonce une enquête externe",
-   "image": "https://www.franceinfo.fr/pictures/bE4FqOsn5gL_mdSyeLSelQ1GQEU/0x12:1024x588/432x243/filters:format(jpg)/2026/10/04/6ac21831bece1099138210.jpg",
-   "date": null,
-   "pubdate": "2026-10-04T12:28:33.294515+00:00"
-  },
-  {
-   "title": "\"Personne ne dort plus, on est super anxieux !\" : au Brésil, les partisans de Lula comme les pro-Bolsonaro retiennent leur souffle Les Brésiliens votent ce dimanche pour une présidentielle très incertaine entre Lula et Flávio Bolsonaro. À Rio de Janeiro, les électeurs des deux camps affichent leurs espoirs et leurs inquiétudes.",
-   "link": "https://www.franceinfo.fr/monde/bresil/personne-ne-dort-plus-on-est-super-anxieux-au-bresil-les-partisans-de-lula-comme-les-pro-bolsonaro-retiennent-leur-souffle_8221936.html",
-   "summary": "\"Personne ne dort plus, on est super anxieux !\" : au Brésil, les partisans de Lula comme les pro-Bolsonaro retiennent leur souffle",
-   "image": "https://www.franceinfo.fr/pictures/5qNAIAmnm6m95VWntw91JpAOlrU/0x358:6883x4230/432x243/filters:format(jpg)/2026/10/04/6ac1f2e940699994398286.jpg",
-   "date": null,
-   "pubdate": "2026-10-04T12:28:33.294515+00:00"
-  },
-  {
-   "title": "L'armée du Yémen bombarde la capitale, Sanaa, tenue par les houthis De leur côté, les houthis affirment avoir \"mené une opération militaire d'envergure, utilisant plusieurs missiles balistiques et drones pour viser Aramco dans la capitale de l'ennemi saoudien\".",
-   "link": "https://www.franceinfo.fr/monde/proche-orient/yemen/l-armee-du-yemen-bombarde-la-capitale-sanaa-tenue-par-les-houthis-qui-revendiquent-une-attaque-contre-un-site-de-saudi-aramco-a-riyad_8221960.html",
-   "summary": "L'armée du Yémen bombarde la capitale, Sanaa, tenue par les houthis",
-   "image": "https://www.franceinfo.fr/pictures/dNgZjfQWyxig7JiMZDQ3KupNCYQ/0x53:1024x629/432x243/filters:format(jpg)/2026/10/04/6ac1fd4ab05da032609292.jpg",
-   "date": null,
-   "pubdate": "2026-10-04T12:28:33.294515+00:00"
-  },
-  {
-   "title": "2:43 audio 2 minutes 43 \"Des enfants gâtés. Les Européens, la guerre et la paix\", un appel à la mobilisation du continent Cette semaine, une journaliste interroge la capacité de l'Union européenne à affronter une guerre absente de son territoire depuis 80 ans.",
-   "link": "https://www.franceinfo.fr/replay-radio/livre-actu/des-enfants-gates-les-europeens-la-guerre-et-la-paix-un-appel-a-la-mobilisation-du-continent_8179229.html",
-   "summary": "\"Des enfants gâtés. Les Européens, la guerre et la paix\", un appel à la mobilisation du continent",
-   "image": "https://www.franceinfo.fr/pictures/KTsGBbbeUytub1vT41aVWj3tkho/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/01/6abe03f40d6ab865841026.jpg",
-   "date": null,
-   "pubdate": "2026-10-04T12:28:33.294515+00:00"
-  },
-  {
-   "title": "Le parti pro-européen et pro-ukrainien Liste unie arrive en tête des législatives en Lettonie Les partis populistes ont dans le même temps réalisé une bonne performance, cumulant une trentaine de sièges sur 100 au sein de l'unique chambre du Parlement.",
-   "link": "https://www.franceinfo.fr/monde/europe/le-parti-pro-europeen-et-pro-ukrainien-liste-unie-arrive-en-tete-des-legislatives-en-lettonie-selon-des-resultats-partiels_8221912.html",
-   "summary": "Le parti pro-européen et pro-ukrainien Liste unie arrive en tête des législatives en Lettonie",
-   "image": "https://www.franceinfo.fr/pictures/ISALRfEwNkew0y8vFGBoW_NYj8M/0x53:1024x629/432x243/filters:format(jpg)/2026/10/04/6ac2410ff07f3833066992.jpg",
-   "date": null,
-   "pubdate": "2026-10-04T12:28:33.294515+00:00"
-  },
-  {
    "title": "Léon XIV en France : l'essentiel de la visite du pape 14 contenus",
    "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/leon-xiv-en-france-retrouvez-l-essentiel/",
    "summary": "Léon XIV en France : l'essentiel de la visite du pape",
    "image": "https://www.franceinfo.fr/pictures/bgiweXyFgu0BUNMikE3oBZK0JG4/432x297/filters:format(jpg)/2026/09/24/6ab4f4233a728679965697.jpg",
    "date": null,
    "pubdate": "2026-10-04T06:00:26.376308+00:00"
-  },
-  {
-   "title": "L'essentiel des révélations sur l'affaire Epstein 14 contenus",
-   "link": "https://www.franceinfo.fr/monde/usa/affaire-jeffrey-epstein/l-essentiel-des-revelations-sur-l-affaire-epstein/",
-   "summary": "L'essentiel des révélations sur l'affaire Epstein",
-   "image": "https://www.franceinfo.fr/pictures/btENVL4vmQDLNvnJ4uUtTATvN9k/432x297/filters:format(jpg)/2026/02/12/000-96rl2gk-1-698def9a11d8a867290796.jpg",
-   "date": null,
-   "pubdate": "2026-10-04T06:00:26.376308+00:00"
-  },
-  {
-   "title": "Un pont de Kiev attaqué par un drone russe pendant la visite surprise du chancelier allemand, Friedrich Merz, dans la capitale ukrainienne \"Je me suis rendu à Kiev aujourd'hui car l'Ukraine a besoin de tout notre soutien dans les semaines à venir\", a déclaré le chancelier allemand. Moscou continue de bombarder des infrastructures essentielles à travers le pays.",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/le-chancelier-allemand-friedrich-merz-realise-une-visite-surprise-a-kiev_8221903.html",
-   "summary": "Un pont de Kiev attaqué par un drone russe pendant la visite surprise du chancelier allemand, Friedrich Merz, dans la capitale ukrainienne",
-   "image": "https://www.franceinfo.fr/pictures/odKjospCoqaqHymLHR8pg1dczKA/0x0:1024x576/432x243/filters:format(jpg)/2026/10/04/6ac1e23b043b8461653017.jpg",
-   "date": null,
-   "pubdate": "2026-10-04T06:00:26.376308+00:00"
-  },
-  {
-   "title": "Maintien à gauche ou retour de l'extrême droite, scandales, craintes d'ingérences… Au Brésil, une élection présidentielle sous haute tension Le premier tour du scrutin se tient dimanche au Brésil, avant un potentiel second tour le 25 octobre. Le président sortant, Lula, y affronte l'élu d'extrême droite Flavio Bolsonaro, fils de l'ancien président.",
-   "link": "https://www.franceinfo.fr/monde/bresil/maintien-a-gauche-ou-retour-de-l-extreme-droite-scandales-craintes-d-ingerences-au-bresil-une-election-presidentielle-sous-haute-tension_8216027.html",
-   "summary": "Maintien à gauche ou retour de l'extrême droite, scandales, craintes d'ingérences… Au Brésil, une élection présidentielle sous haute tension",
-   "image": "https://www.franceinfo.fr/pictures/_4aln2Ow2gTZJgSlc4Jb6ns7KDw/0x0:1024x576/432x243/filters:format(jpg)/2026/09/30/6abd09fed9524701890225.jpg",
-   "date": null,
-   "pubdate": "2026-10-04T06:00:26.376308+00:00"
-  },
-  {
-   "title": "Tout comprendre à la guerre au Moyen-Orient 27 contenus",
-   "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/tout-comprendre-a-la-guerre-au-moyen-orient/",
-   "summary": "Tout comprendre à la guerre au Moyen-Orient",
-   "image": "https://www.franceinfo.fr/pictures/1mjbL6KrEfhdf8kkM-fiwv8Aqs4/432x297/filters:format(jpg)/2026/03/01/075-nikoubazl-mourning260301-npgop-69a44a7350cd8738092334.jpg",
-   "date": null,
-   "pubdate": "2026-10-03T21:23:35.945421+00:00"
   }
  ]
 }

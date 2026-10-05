@@ -1,16 +1,32 @@
 {
  "etag": "",
- "last_modified": "Mon, 05 Oct 2026 04:57:00 GMT",
+ "last_modified": "Mon, 05 Oct 2026 14:46:35 GMT",
  "first_seen": {
   "https://www.jean-jaures.org/publication/reindustrialiser-par-les-competences-restaurer-un-grand-operateur-public-de-formation/": "2026-09-29T11:00:00+00:00",
-  "https://www.jean-jaures.org/publication/rentree-record-pour-bonjour-sur-tf1-pourquoi-les-medias-ont-raison-dinvestir-le-matin/": "2026-09-29T11:00:00+00:00",
   "https://www.jean-jaures.org/publication/apres-le-feu-pour-une-doctrine-francaise-de-securite-alimentaire-face-aux-crises-systemiques/": "2026-09-30T11:00:00+00:00",
-  "https://www.jean-jaures.org/publication/ce-que-lintelligence-artificielle-dit-de-la-campagne-presidentielle/": "2026-09-28T11:00:00+00:00",
   "https://www.jean-jaures.org/publication/prix-des-carburants-tensions-internationales-changement-climatique-conditions-denseignement-a-qui-profitent-les-crises-actuelles/": "2026-10-02T11:00:00+00:00",
-  "https://www.jean-jaures.org/publication/evangelismes-et-droites-en-amerique-latine-du-temple-aux-urnes/": "2026-10-02T11:00:00+00:00"
+  "https://www.jean-jaures.org/publication/evangelismes-et-droites-en-amerique-latine-du-temple-aux-urnes/": "2026-10-02T11:00:00+00:00",
+  "https://www.jean-jaures.org/publication/presidentielle-2027-lintelligence-artificielle-va-t-elle-faire-lelection/": "2026-10-05T11:00:00+00:00",
+  "https://www.jean-jaures.org/publication/le-maroc-a-vote-une-premiere-femme-a-la-tete-du-gouvernement-un-pays-a-deux-vitesses/": "2026-10-05T11:00:00+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "Présidentielle 2027 : l’intelligence artificielle va-t-elle faire l’élection ?",
+   "link": "https://www.jean-jaures.org/publication/presidentielle-2027-lintelligence-artificielle-va-t-elle-faire-lelection/",
+   "summary": "",
+   "image": "",
+   "date": "2026-10-05T11:00:00+00:00",
+   "pubdate": "2026-10-05T11:00:00+00:00"
+  },
+  {
+   "title": "Le Maroc a voté : une première femme à la tête du gouvernement, un pays à « deux vitesses »",
+   "link": "https://www.jean-jaures.org/publication/le-maroc-a-vote-une-premiere-femme-a-la-tete-du-gouvernement-un-pays-a-deux-vitesses/",
+   "summary": "",
+   "image": "",
+   "date": "2026-10-05T11:00:00+00:00",
+   "pubdate": "2026-10-05T11:00:00+00:00"
+  },
   {
    "title": "Prix des carburants, tensions internationales, changement climatique, conditions d’enseignement… : à qui profitent les crises actuelles ?",
    "link": "https://www.jean-jaures.org/publication/prix-des-carburants-tensions-internationales-changement-climatique-conditions-denseignement-a-qui-profitent-les-crises-actuelles/",
@@ -42,22 +58,6 @@
    "image": "",
    "date": "2026-09-29T11:00:00+00:00",
    "pubdate": "2026-09-29T11:00:00+00:00"
-  },
-  {
-   "title": "Rentrée record pour « Bonjour ! » sur TF1 : pourquoi les médias ont raison d’investir le matin",
-   "link": "https://www.jean-jaures.org/publication/rentree-record-pour-bonjour-sur-tf1-pourquoi-les-medias-ont-raison-dinvestir-le-matin/",
-   "summary": "",
-   "image": "",
-   "date": "2026-09-29T11:00:00+00:00",
-   "pubdate": "2026-09-29T11:00:00+00:00"
-  },
-  {
-   "title": "Ce que l’intelligence artificielle dit de la campagne présidentielle",
-   "link": "https://www.jean-jaures.org/publication/ce-que-lintelligence-artificielle-dit-de-la-campagne-presidentielle/",
-   "summary": "",
-   "image": "",
-   "date": "2026-09-28T11:00:00+00:00",
-   "pubdate": "2026-09-28T11:00:00+00:00"
   }
  ]
 }
