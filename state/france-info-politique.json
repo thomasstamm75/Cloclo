@@ -1,5 +1,5 @@
 {
- "etag": "\"b24d11f5504a05f5ad37119a5fb0ea7e-gzip\"",
+ "etag": "\"b0795c4221ac6f744f67af6e621d7a33-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/tout-comprendre-au-proces-des-assistants-parlementaires-fn/": "2026-09-25T21:38:55.188932+00:00",
@@ -9,9 +9,6 @@
   "https://www.franceinfo.fr/economie/crise/crise-de-la-dette/efforts-avenir-et-depenses-quelles-sont-les-attentes-des-francais-vis-a-vis-de-la-dette_8215412.html": "2026-09-29T22:20:53.182752+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-a-atlanta-les-republicains-craignent-la-fin-de-l-ere-trump-a-l-approche-des-elections-de-mi-mandat-les-democrates-revent-de-revanche_8145842.html": "2026-10-01T00:36:07.347069+00:00",
   "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-des-lyceens-que-le-gouvernement-renonce-a-ce-plan-d-economies-le-pire-de-l-histoire-de-la-ve-republique-dit-fo-enseignement_8220403.html": "2026-10-02T22:18:58.467831+00:00",
-  "https://www.franceinfo.fr/economie/budget/budget-de-la-securite-sociale-18-organisations-dont-amnesty-international-et-le-secours-catholique-denoncent-une-preference-nationale-deguisee_8220316.html": "2026-10-02T22:18:58.467831+00:00",
-  "https://www.franceinfo.fr/economie/budget/le-contexte-mondial-est-defavorable-et-nous-coute-previent-le-gouvernement-au-sujet-des-consequences-d-une-absence-de-budget-en-2027_8220277.html": "2026-10-02T22:18:58.467831+00:00",
-  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/edouard-geffray-annonce-un-plan-d-action-pour-accelerer-les-remplacements-des-professeurs_8220190.html": "2026-10-02T22:18:58.467831+00:00",
   "https://www.franceinfo.fr/replay-magazine/france-2/franc-jeu/franc-jeu-avec-edouard-geffray-et-manuel-bompard_8194514.html": "2026-10-03T11:45:38.254098+00:00",
   "https://www.franceinfo.fr/monde/europe/allemagne/en-allemagne-une-journee-de-l-unite-qui-ne-masque-pas-les-disparites-entre-l-est-et-l-ouest-36-ans-apres-la-reunification_8220964.html": "2026-10-03T11:45:38.254098+00:00",
   "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/mouvement-de-blocage-des-lycees-accusations-d-antisemitisme-visant-jordan-bardella-le-8h30-franceinfo-d-aleksandar-nikolic_8200130.html": "2026-10-03T11:45:38.254098+00:00",
@@ -19,7 +16,6 @@
   "https://www.franceinfo.fr/societe/lgbt/a-la-marche-des-fiertes-a-paris-l-extreme-droite-et-ses-allies-objectifs-ne-sont-pas-les-bienvenus-avertit-l-organisateur-de-l-evenement_8221180.html": "2026-10-03T16:28:04.976268+00:00",
   "https://www.franceinfo.fr/societe/education/blocage-des-lycees/face-aux-degradations-liees-a-la-mobilisation-des-lyceens-le-gouvernement-avance-l-examen-du-projet-de-loi-casseur-payeur_8221528.html": "2026-10-03T21:23:32.658919+00:00",
   "https://www.franceinfo.fr/politique/jordan-bardella/marine-le-pen-maintient-totalement-sa-confiance-a-jordan-bardella-a-qui-mediapart-attribue-des-ecrits-antisemites_8221537.html": "2026-10-03T21:23:32.658919+00:00",
-  "https://www.franceinfo.fr/politique/jordan-bardella/jordan-bardella-le-probleme-n-est-plus-les-propos-en-eux-memes-mais-le-potentiel-mensonge-estime-l-editorialiste-jean-sebastien-ferjou_8221483.html": "2026-10-03T21:23:32.658919+00:00",
   "https://www.franceinfo.fr/politique/jean-luc-melenchon-et-segolene-royal-s-insurgent-des-propos-de-raphael-glucksmann-tenus-dans-une-conversation-diffusee-par-le-media_8221423.html": "2026-10-03T21:23:32.658919+00:00",
   "https://www.franceinfo.fr/societe/education/blocage-des-lycees/pourquoi-lfi-est-elle-accusee-par-le-gouvernement-d-etre-a-l-origine-du-mouvement-lyceen-et-de-l-instrumentaliser_8221240.html": "2026-10-03T21:23:32.658919+00:00",
   "https://www.franceinfo.fr/politique/jordan-bardella/une-base-d-extreme-droite-avec-aussi-des-gens-racises-qu-est-ce-que-la-generation-alain-soral-a-laquelle-jordan-bardella-est-accuse-d-avoir-appartenu_8219485.html": "2026-10-04T06:00:22.022225+00:00",
@@ -28,15 +24,51 @@
   "https://www.franceinfo.fr/politique/jordan-bardella/j-ai-totalement-confiance-en-jordan-marine-le-pen-fait-front-avec-jordan-bardella-a-qui-mediapart-attribue-des-ecrits-antisemites_8222050.html": "2026-10-04T12:28:30.546992+00:00",
   "https://www.franceinfo.fr/politique/valerie-pecresse/colere-des-lyceens-il-y-a-une-logique-d-emeute-urbaine-estime-valerie-pecresse_8222467.html": "2026-10-04T18:39:45.690289+00:00",
   "https://www.franceinfo.fr/societe/education/blocage-des-lycees/je-n-ai-jamais-cache-mes-engagements-nathanael-combary-visage-de-la-mobilisation-lyceenne-defend-sa-legitimite-apres-les-accusations-de-jean-luc-melenchon_8222146.html": "2026-10-04T18:39:45.690289+00:00",
-  "https://www.franceinfo.fr/monde/bresil/bresil-une-presidentielle-sous-haute-tension_8222233.html": "2026-10-04T18:39:45.690289+00:00"
+  "https://www.franceinfo.fr/monde/bresil/bresil-une-presidentielle-sous-haute-tension_8222233.html": "2026-10-04T18:39:45.690289+00:00",
+  "https://www.franceinfo.fr/politique/ps/primaire-a-gauche/invectives-retraites-soutien-aux-lyceens-ce-qu-il-faut-retenir-du-dernier-debat-de-la-primaire-socialiste_8222563.html": "2026-10-04T23:58:45.435928+00:00",
+  "https://www.franceinfo.fr/politique/ps/primaire-a-gauche/segolene-royal-denonce-une-agression-a-connotation-sexuelle-apres-que-raphael-glucksmann-l-a-accuse-d-avoir-fait-la-danse-du-ventre-aupres-d-emmanuel-macron_8222578.html": "2026-10-04T23:58:45.435928+00:00",
+  "https://www.franceinfo.fr/economie/greve/colere-des-lyceens-le-projet-de-loi-casseur-payeur-est-il-applicable_8222587.html": "2026-10-04T23:58:45.435928+00:00",
+  "https://www.franceinfo.fr/elections/presidentielle/meme-pas-en-reve-le-camp-de-raphael-glucksmann-rejette-la-main-tendue-par-gabriel-attal_8222443.html": "2026-10-04T23:58:45.435928+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "Colère des lycéens : \"Il y a une logique d'émeute urbaine\", estime Valérie Pécresse Dimanche 4 octobre, Valérie Pécresse était l'invitée du \"Grand Enjeu\" sur franceinfo. La Présidente du Conseil régional d'Île-de-France est revenue sur les manifestations des lycéens partout en France et sur les heurts survenus en marge de cette protestation. Aujourd'hui 47:35 vidéo 47 minutes 35",
+   "title": "Invectives, retraites, soutien aux lycéens... Ce qu'il faut retenir du dernier débat de la primaire socialiste Les cinq candidats de la primaire socialiste se sont affrontés dimanche, durant près de trois heures, lors du troisième et dernier débat télévisé avant le scrutin qui devra désigner le représentant de la social-démocratie lors de la présidentielle de 2027. 4 octobre",
+   "link": "https://www.franceinfo.fr/politique/ps/primaire-a-gauche/invectives-retraites-soutien-aux-lyceens-ce-qu-il-faut-retenir-du-dernier-debat-de-la-primaire-socialiste_8222563.html",
+   "summary": "Invectives, retraites, soutien aux lycéens... Ce qu'il faut retenir du dernier débat de la primaire socialiste",
+   "image": "https://www.franceinfo.fr/pictures/TukTQXfmZHfGR_mPWFQfuA1evKY/0x0:992x682/432x297/filters:format(jpg)/2026/10/04/6ac2c8feeb90a090752080.jpg",
+   "date": null,
+   "pubdate": "2026-10-04T23:58:45.435928+00:00"
+  },
+  {
+   "title": "Ségolène Royal dénonce \"une agression à connotation sexuelle\" après que Raphaël Glucksmann l'a accusé d'avoir fait \"la danse du ventre\" auprès d'Emmanuel Macron",
+   "link": "https://www.franceinfo.fr/politique/ps/primaire-a-gauche/segolene-royal-denonce-une-agression-a-connotation-sexuelle-apres-que-raphael-glucksmann-l-a-accuse-d-avoir-fait-la-danse-du-ventre-aupres-d-emmanuel-macron_8222578.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/Gg7e38PALfs5_Ce5CoLJHLNQDRM/0x53:1024x629/432x243/filters:format(jpg)/2026/10/04/6ac2ad069c7c1499342557.jpg",
+   "date": null,
+   "pubdate": "2026-10-04T23:58:45.435928+00:00"
+  },
+  {
+   "title": "1:51 vidéo 1 minute 51 Colère des lycéens : le projet de loi \"casseur-payeur\" est-il applicable ?",
+   "link": "https://www.franceinfo.fr/economie/greve/colere-des-lyceens-le-projet-de-loi-casseur-payeur-est-il-applicable_8222587.html",
+   "summary": "Colère des lycéens : le projet de loi \"casseur-payeur\" est-il applicable ?",
+   "image": "https://www.franceinfo.fr/pictures/sKMmfPy_wEi1owyHHvDeDmALuMY/0x10:1445x822/432x243/filters:format(jpg)/2026/10/04/6ac2aaadafdb4861804682.jpg",
+   "date": null,
+   "pubdate": "2026-10-04T23:58:45.435928+00:00"
+  },
+  {
+   "title": "\"Même pas en rêve\" : le camp de Raphaël Glucksmann rejette la main tendue par Gabriel Attal",
+   "link": "https://www.franceinfo.fr/elections/presidentielle/meme-pas-en-reve-le-camp-de-raphael-glucksmann-rejette-la-main-tendue-par-gabriel-attal_8222443.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/6-n_ZR4dU05u4jUcW-1A_W1B1bU/0x0:1024x576/432x243/filters:format(jpg)/2026/10/04/6ac24bd19a4ae399442651.jpg",
+   "date": null,
+   "pubdate": "2026-10-04T23:58:45.435928+00:00"
+  },
+  {
+   "title": "47:35 vidéo 47 minutes 35 Colère des lycéens : \"Il y a une logique d'émeute urbaine\", estime Valérie Pécresse",
    "link": "https://www.franceinfo.fr/politique/valerie-pecresse/colere-des-lyceens-il-y-a-une-logique-d-emeute-urbaine-estime-valerie-pecresse_8222467.html",
    "summary": "Colère des lycéens : \"Il y a une logique d'émeute urbaine\", estime Valérie Pécresse",
-   "image": "https://www.franceinfo.fr/pictures/vUb2zRmODu48b7QgfpTykLbUmX4/195x0:1341x788/432x297/filters:format(jpg)/2026/10/04/6ac2835cb29d0365679231.jpg",
+   "image": "https://www.franceinfo.fr/pictures/5yoVRKzuz-cNlKBlsXL9FpS8YPE/68x0:1468x788/432x243/filters:format(jpg)/2026/10/04/6ac2835cb29d0365679231.jpg",
    "date": null,
    "pubdate": "2026-10-04T18:39:45.690289+00:00"
   },
@@ -57,10 +89,10 @@
    "pubdate": "2026-10-04T18:39:45.690289+00:00"
   },
   {
-   "title": "• Direct • Direct \"Même pas en rêve\" : le camp de Raphaël Glucksmann rejette la main tendue par Gabriel Attal",
+   "title": "Présidentielle 2027 : les cinq candidats de la primaire socialiste se sont affrontés à l'occasion d'un dernier débat télévisé avant le scrutin",
    "link": "https://www.franceinfo.fr/politique/direct-presidentielle-les-candidats-a-la-primaire-ps-place-publique-se-preparent-a-leur-dernier-debat-avant-le-scrutin-qui-les-departagera_8222140.html",
-   "summary": "\"Même pas en rêve\" : le camp de Raphaël Glucksmann rejette la main tendue par Gabriel Attal",
-   "image": "https://www.franceinfo.fr/pictures/6-n_ZR4dU05u4jUcW-1A_W1B1bU/0x0:1024x576/432x243/filters:format(jpg)/2026/10/04/6ac24bd19a4ae399442651.jpg",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/CuxqC6ihDf8Ku1fHpi-IxnjHeh4/0x45:6498x3700/432x243/filters:format(jpg)/2026/09/24/6ab4c8d879bcf307547408.jpg",
    "date": null,
    "pubdate": "2026-10-04T12:28:30.546992+00:00"
   },
@@ -89,34 +121,26 @@
    "pubdate": "2026-10-04T11:00:00+00:00"
   },
   {
-   "title": "\"Une base d'extrême droite, avec aussi des gens racisés\" : qu'est-ce que la \"génération Alain Soral\", à laquelle Jordan Bardella est accusé d'avoir appartenu ?",
+   "title": "\"Une base d'extrême droite, avec aussi des gens racisés\" : qu'est-ce que la \"génération Alain Soral\", à laquelle Jordan Bardella est accusé d'avoir appartenu ? Le nom de l'idéologue franco-suisse est réapparu dans la foulée de l'enquête de Mediapart sur les propos antisémites que le patron du RN est accusé d'avoir tenus. Avec sa chaîne YouTube et son site Egalité et Réconciliation, Alain Soral a été un influenceur d'extrême droite de premier plan dans les années 2010, notamment auprès de la jeunesse.",
    "link": "https://www.franceinfo.fr/politique/jordan-bardella/une-base-d-extreme-droite-avec-aussi-des-gens-racises-qu-est-ce-que-la-generation-alain-soral-a-laquelle-jordan-bardella-est-accuse-d-avoir-appartenu_8219485.html",
-   "summary": "",
+   "summary": "\"Une base d'extrême droite, avec aussi des gens racisés\" : qu'est-ce que la \"génération Alain Soral\", à laquelle Jordan Bardella est accusé d'avoir appartenu ?",
    "image": "https://www.franceinfo.fr/pictures/z_D7q894BCsBgZFeYHEyabjmajQ/0x0:3840x2160/432x243/filters:format(jpg)/2026/10/02/6abf71085f5c6572167141.jpg",
    "date": null,
    "pubdate": "2026-10-04T06:00:22.022225+00:00"
   },
   {
-   "title": "Face aux dégradations liées à la mobilisation des lycéens, le gouvernement avance l'examen du projet de loi \"casseur-payeur\"",
+   "title": "Face aux dégradations liées à la mobilisation des lycéens, le gouvernement avance l'examen du projet de loi \"casseur-payeur\" Le texte est désormais inscrit à l'ordre du jour du Sénat en octobre, même si le Conseil d'Etat a déjà émis des réserves, estimant qu'un individu ne peut être tenu responsable de faits qu'il n'a pas lui-même commis.",
    "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/face-aux-degradations-liees-a-la-mobilisation-des-lyceens-le-gouvernement-avance-l-examen-du-projet-de-loi-casseur-payeur_8221528.html",
-   "summary": "",
+   "summary": "Face aux dégradations liées à la mobilisation des lycéens, le gouvernement avance l'examen du projet de loi \"casseur-payeur\"",
    "image": "https://www.franceinfo.fr/pictures/8ciywww6aEwsVqhR3zGLdVXoy20/0x0:4300x2418/432x243/filters:format(jpg)/2026/09/15/6aa996458b965429314097.jpg",
    "date": null,
    "pubdate": "2026-10-03T21:23:32.658919+00:00"
   },
   {
-   "title": "Marine Le Pen maintient \"totalement\" sa \"confiance\" à Jordan Bardella, à qui Mediapart attribue des écrits antisémites",
+   "title": "Marine Le Pen maintient \"totalement\" sa \"confiance\" à Jordan Bardella, à qui Mediapart attribue des écrits antisémites Il s'agit de la première réaction publique de la cheffe de file du Rassemblement national, après que Mediapart, à l'origine de ces révélations, a publié jeudi des éléments d'authentification de ces messages.",
    "link": "https://www.franceinfo.fr/politique/jordan-bardella/marine-le-pen-maintient-totalement-sa-confiance-a-jordan-bardella-a-qui-mediapart-attribue-des-ecrits-antisemites_8221537.html",
-   "summary": "",
+   "summary": "Marine Le Pen maintient \"totalement\" sa \"confiance\" à Jordan Bardella, à qui Mediapart attribue des écrits antisémites",
    "image": "https://www.franceinfo.fr/pictures/0VqRqskpP-ODriGFYIZRwwuYIh4/0x0:1024x576/432x243/filters:format(jpg)/2026/10/03/6ac15467b0081106133378.jpg",
-   "date": null,
-   "pubdate": "2026-10-03T21:23:32.658919+00:00"
-  },
-  {
-   "title": "23:12 vidéo 23 minutes 12 Jordan Bardella : \"Le problème n'est plus les propos en eux-mêmes, mais le potentiel mensonge\", estime l'éditorialiste Jean-Sébastien Ferjou",
-   "link": "https://www.franceinfo.fr/politique/jordan-bardella/jordan-bardella-le-probleme-n-est-plus-les-propos-en-eux-memes-mais-le-potentiel-mensonge-estime-l-editorialiste-jean-sebastien-ferjou_8221483.html",
-   "summary": "Jordan Bardella : \"Le problème n'est plus les propos en eux-mêmes, mais le potentiel mensonge\", estime l'éditorialiste Jean-Sébastien Ferjou",
-   "image": "https://www.franceinfo.fr/pictures/nt93GA0HJ0MBqcW_5hYVC7g0dPg/245x0:1527x721/432x243/filters:format(jpg)/2026/10/03/6ac13a92e1408715532975.jpg",
    "date": null,
    "pubdate": "2026-10-03T21:23:32.658919+00:00"
   },
@@ -173,30 +197,6 @@
    "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-des-lyceens-que-le-gouvernement-renonce-a-ce-plan-d-economies-le-pire-de-l-histoire-de-la-ve-republique-dit-fo-enseignement_8220403.html",
    "summary": "Mobilisation des lycéens : \"Que le gouvernement renonce à ce plan d'économies, le pire de l'histoire de la Ve République\", dit FO enseignement",
    "image": "https://www.franceinfo.fr/pictures/nK2OpJAUylr8yDh2Mz4VZUawXWQ/0x176:3000x1863/432x243/filters:format(jpg)/2026/10/02/6ac0122f11033456223080.jpg",
-   "date": null,
-   "pubdate": "2026-10-02T22:18:58.467831+00:00"
-  },
-  {
-   "title": "Budget de la Sécurité sociale : 18 organisations, dont Amnesty international et le Secours catholique, dénoncent une \"préférence nationale déguisée\" L'article 37 du projet de loi de financement de la sécurité sociale (PLFSS) pour 2027 vise à restreindre l'accès aux prestations familiales pour les personnes étrangères en exigeant une condition d'un an de résidence régulière en France.",
-   "link": "https://www.franceinfo.fr/economie/budget/budget-de-la-securite-sociale-18-organisations-dont-amnesty-international-et-le-secours-catholique-denoncent-une-preference-nationale-deguisee_8220316.html",
-   "summary": "Budget de la Sécurité sociale : 18 organisations, dont Amnesty international et le Secours catholique, dénoncent une \"préférence nationale déguisée\"",
-   "image": "https://www.franceinfo.fr/pictures/ot4XNgcaWmnTwl9xokGHNb_nQS0/0x520:5000x3333/432x243/filters:format(jpg)/2026/10/02/6abff5bf2e5c5125297366.jpg",
-   "date": null,
-   "pubdate": "2026-10-02T22:18:58.467831+00:00"
-  },
-  {
-   "title": "\"Le contexte mondial est défavorable et nous coûte\", prévient le gouvernement au sujet des conséquences d'une absence de budget en 2027 Matignon s'est inquiété vendredi des conséquences de l'absence de budget pour 2027. L'entourage du Premier ministre pointe notamment la hausse des taux auxquels la France emprunte et appelle les parlementaires à faire \"avancer le texte budgétaire\".",
-   "link": "https://www.franceinfo.fr/economie/budget/le-contexte-mondial-est-defavorable-et-nous-coute-previent-le-gouvernement-au-sujet-des-consequences-d-une-absence-de-budget-en-2027_8220277.html",
-   "summary": "\"Le contexte mondial est défavorable et nous coûte\", prévient le gouvernement au sujet des conséquences d'une absence de budget en 2027",
-   "image": "https://www.franceinfo.fr/pictures/yKJ0c83VQYwVTvCA3oQH_36_O_g/0x0:7065x3974/432x243/filters:format(jpg)/2026/10/02/6abff00f5a323553798428.jpg",
-   "date": null,
-   "pubdate": "2026-10-02T22:18:58.467831+00:00"
-  },
-  {
-   "title": "En réponse à la mobilisation des lycéens, Edouard Geffray annonce un \"plan d'action\" pour accélérer les remplacements des professeurs L'Union syndicale lycéenne appelle à continuer le mouvement et donne rendez-vous mardi pour une nouvelle grande journée de mobilisation.",
-   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/edouard-geffray-annonce-un-plan-d-action-pour-accelerer-les-remplacements-des-professeurs_8220190.html",
-   "summary": "En réponse à la mobilisation des lycéens, Edouard Geffray annonce un \"plan d'action\" pour accélérer les remplacements des professeurs",
-   "image": "https://www.franceinfo.fr/pictures/4IZqmLPexYgbkpz2Tu7j4omnCg8/0x0:6704x3771/432x243/filters:format(jpg)/2026/10/02/6abfef47ec093258615734.jpg",
    "date": null,
    "pubdate": "2026-10-02T22:18:58.467831+00:00"
   },
