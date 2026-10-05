@@ -1,11 +1,10 @@
 {
- "etag": "\"12d4enm\"",
+ "etag": "W/\"xzpnzl\"",
  "last_modified": "",
  "first_seen": {
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/russie-et-inde-renforcent-leurs-liens-sur-l-energie-et-la-defense-8269390": "2026-09-11T14:06:06.074777+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/en-allemagne-le-changement-climatique-menace-les-sapins-de-noel-8238013": "2026-09-11T14:06:06.074777+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/espace-un-marche-en-pleine-expansion-industrielle-8558510": "2026-09-11T14:06:06.074777+00:00",
-  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/quand-l-hopital-public-fait-des-dettes-sociales-et-fiscales-7029155": "2026-09-08T11:00:00+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/cooperatives-agricoles-la-course-a-l-agrandissement-6788764": "2026-09-15T11:00:00+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/l-ue-a-la-recherche-de-nouvelles-ressources-propres-4198620": "2026-09-16T11:45:45.409269+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/lutte-contre-les-fraudes-en-ligne-les-gafam-mises-a-contribution-3686534": "2026-09-17T11:50:19.042649+00:00",
@@ -18,10 +17,19 @@
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/data-centers-la-course-aux-profits-4977394": "2026-09-28T14:06:42.174410+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/sanctions-contre-l-iran-la-turquie-dans-le-viseur-de-washington-9211881": "2026-09-30T05:40:50.028586+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/choose-outre-mer-peut-on-attirer-les-investisseurs-sans-repondre-aux-difficultes-structurelles-5312544": "2026-10-01T10:16:07.737272+00:00",
-  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/bresil-a-la-veille-des-elections-la-question-du-surendettement-qui-a-augmente-sous-lula-5269473": "2026-10-02T09:53:37.264996+00:00"
+  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/bresil-a-la-veille-des-elections-la-question-du-surendettement-qui-a-augmente-sous-lula-5269473": "2026-10-02T09:53:37.264996+00:00",
+  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/budget-combien-vont-rapporter-les-repentis-fiscaux-5849784": "2026-10-05T05:50:49.453334+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "BudgetÂ : combien vont rapporter les repentis fiscauxÂ ?",
+   "link": "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/budget-combien-vont-rapporter-les-repentis-fiscaux-5849784",
+   "summary": "Le gouvernement prÃ©voit la crÃ©ation d'un mÃ©canisme de rÃ©gularisation fiscale sur le modÃ¨le des guichets qui avaient Ã©tÃ© ouverts en 2009, puis entre 2013 et 2017 pour les fraudeurs repentis. Or, il est dÃ©jÃ possible de s'auto-dÃ©noncer au fisc. Pourquoi un nouveau guichet, et combien en attendreÂ ?",
+   "image": "https://www.radiofrance.fr/pikapi/images/ecf0ffb3-35da-4680-97ce-c29a7a145a47/2048",
+   "date": null,
+   "pubdate": "2026-10-05T05:50:49.453334+00:00"
+  },
   {
    "title": "BrÃ©silÂ : Ã la veille des Ã©lections, la question du surendettement qui a augmentÃ© sous Lula",
    "link": "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/bresil-a-la-veille-des-elections-la-question-du-surendettement-qui-a-augmente-sous-lula-5269473",
@@ -149,14 +157,6 @@
    "image": "https://www.radiofrance.fr/pikapi/images/c5e082fe-a6ac-49c6-829a-2068b9bf297b/2048",
    "date": null,
    "pubdate": "2026-09-11T14:06:06.074777+00:00"
-  },
-  {
-   "title": "Quand l'hÃ´pital public fait des dettes sociales et fiscales",
-   "link": "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/quand-l-hopital-public-fait-des-dettes-sociales-et-fiscales-7029155",
-   "summary": "Ne pas payer les taxes et les cotisations sur les salaires, c'est l'ultime recours d'un nombre grandissant d'Ã©tablissements hospitaliers. En cause, des dÃ©cisions imposÃ©es de l'extÃ©rieur et jamais compensÃ©es financiÃ¨rement. Une situation gravissime.",
-   "image": "https://www.radiofrance.fr/pikapi/images/27a1bbed-ca2e-42e4-bad2-dcfe3df69b5b/2048",
-   "date": "2026-09-08T11:00:00+00:00",
-   "pubdate": "2026-09-08T11:00:00+00:00"
   }
  ]
 }

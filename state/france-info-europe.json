@@ -1,8 +1,7 @@
 {
- "etag": "\"4248e69020fe9e7c18b5277750f6864a-gzip\"",
+ "etag": "\"61a74f27cd8c3bc5883ac6f2391ad15d-gzip\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.franceinfo.fr/environnement/pollution/pfas/polluants-eternels-100-des-personnes-issues-de-neuf-pays-europeens-testees-positives-au-tfa-alertent-les-eurodeputes-ecologistes_8216995.html": "2026-10-01T10:14:44.619482+00:00",
   "https://www.franceinfo.fr/monde/europe/migrants/crise-des-migrants-a-ceuta/le-ministere-de-la-defense-espagnol-va-enqueter-sur-d-eventuels-mauvais-traitements-des-migrants-a-ceuta_8218309.html": "2026-10-01T18:27:42.280082+00:00",
   "https://www.franceinfo.fr/monde/europe/le-premier-ministre-de-la-finlande-n-ecarte-pas-une-piste-etrangere-apres-des-intrusions-repetees-chez-des-elus_8218306.html": "2026-10-01T18:27:42.280082+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-ukraine-un-pont-de-kiev-et-l-institut-de-recherche-nucleaire-frappes-par-des-drones-russes_8218267.html": "2026-10-01T18:27:42.280082+00:00",
@@ -21,25 +20,41 @@
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-c-est-le-sauveur-en-saxe-anhalt-ulrich-siegmund-l-homme-le-plus-dangereux-d-allemagne-selon-der-spiegel-aux-portes-du-pouvoir_8147219.html": "2026-10-03T16:28:06.078707+00:00",
   "https://www.franceinfo.fr/monde/europe/allemagne/il-y-a-une-extrapolation-du-declin-economique-comment-l-extreme-droite-allemande-est-arrivee-aux-portes-du-pouvoir-en-saxe-anhalt_8175638.html": "2026-10-03T21:23:34.118772+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/le-chancelier-allemand-friedrich-merz-realise-une-visite-surprise-a-kiev_8221903.html": "2026-10-04T06:00:24.201664+00:00",
-  "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/une-frappe-russe-touche-un-nouveau-pont-majeur-de-kiev_8221894.html": "2026-10-04T06:00:24.201664+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/reportage-plus-de-huit-millions-de-livres-pour-enfants-partis-en-fumee-l-ukraine-face-a-une-penurie-de-manuels-scolaires-apres-des-frappes-russes_8192342.html": "2026-10-04T06:00:24.201664+00:00",
   "https://www.franceinfo.fr/monde/espagne/pluies-torrentielles-et-meurtrieres-en-espagne_8222218.html": "2026-10-04T12:28:31.676548+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-russie-va-intensifier-ses-frappes-sur-l-ukraine-en-reponse-a-des-declarations-de-volodymyr-zelensky-qui-veut-intensifier-les-represailles-contre-les-raffineries-russes_8222170.html": "2026-10-04T12:28:31.676548+00:00",
   "https://www.franceinfo.fr/replay-radio/livre-actu/des-enfants-gates-les-europeens-la-guerre-et-la-paix-un-appel-a-la-mobilisation-du-continent_8179229.html": "2026-10-04T12:28:31.676548+00:00",
   "https://www.franceinfo.fr/monde/europe/le-parti-pro-europeen-et-pro-ukrainien-liste-unie-arrive-en-tete-des-legislatives-en-lettonie-selon-des-resultats-partiels_8221912.html": "2026-10-04T12:28:31.676548+00:00",
-  "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/je-ne-sais-pas-ce-qui-attend-nos-enfants-a-kiev-l-angoisse-de-la-rentree-sous-les-bombes-apres-un-ete-meurtrier_8144936.html": "2026-10-04T12:28:31.676548+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/ma-maria-etait-une-civile-elle-n-avait-pas-d-arme-entre-les-mains-le-temoignage-d-un-militaire-ukrainien-endeuille_8222320.html": "2026-10-04T18:39:47.263460+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/washington-veut-organiser-des-pourparlers-trilateraux-avec-russes-et-ukrainiens-fin-octobre-annonce-volodymyr-zelensky_8222308.html": "2026-10-04T18:39:47.263460+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/c-est-dur-de-comprendre-leur-trajectoire-et-de-les-abattre-en-ukraine-les-ravages-des-drones-a-reaction-russes_8222590.html": "2026-10-04T23:58:46.977746+00:00",
-  "https://www.franceinfo.fr/monde/espagne/espagne-les-inondations-font-plusieurs-morts-pres-de-barcelone_8222545.html": "2026-10-04T23:58:46.977746+00:00"
+  "https://www.franceinfo.fr/monde/espagne/espagne-les-inondations-font-plusieurs-morts-pres-de-barcelone_8222545.html": "2026-10-04T23:58:46.977746+00:00",
+  "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/une-annonce-de-nouveaux-pourparlers-de-paix-entre-russes-et-ukrainiens-sous-l-egide-americaine-le-petit-coup-de-pouce-de-zelensky-a-trump-avant-les-elections-de-mi-mandat_8202308.html": "2026-10-05T05:49:25.883984+00:00",
+  "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/temoignages-simulacres-d-execution-tortures-physiques-un-ancien-prisonnier-ukrainien-en-russie-raconte-les-sevices-subis-apres-sa-capture-dans-le-donbass_8202320.html": "2026-10-05T05:49:25.883984+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "\"C'est dur de comprendre leur trajectoire et de les abattre\" : en Ukraine, les ravages des drones à réaction russes En Ukraine, Kiev n’en finit plus d’être la cible de frappes russes. À chaque attaque désormais, de nouveaux drones à réaction sont à l’origine des impacts. Trois fois plus rapides, ils sont de plus en plus difficiles à intercepter. Aujourd'hui 2:51 vidéo 2 minutes 51",
+   "title": "Une annonce de nouveaux pourparlers de paix entre Russes et Ukrainiens sous l'égide américaine, le petit coup de pouce de Zelensky à Trump, avant les élections de mi-mandat Le président ukrainien Volodymyr Zelensky a annoncé dimanche une possible reprise des pourparlers entre Russes, Ukrainiens et Américains début octobre. Mais il y a peu de chance pour que la fin du conflit en résulte. Aujourd'hui 2:30 audio 2 minutes 30",
+   "link": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/une-annonce-de-nouveaux-pourparlers-de-paix-entre-russes-et-ukrainiens-sous-l-egide-americaine-le-petit-coup-de-pouce-de-zelensky-a-trump-avant-les-elections-de-mi-mandat_8202308.html",
+   "summary": "Une annonce de nouveaux pourparlers de paix entre Russes et Ukrainiens sous l'égide américaine, le petit coup de pouce de Zelensky à Trump, avant les élections de mi-mandat",
+   "image": "https://www.franceinfo.fr/pictures/wy68XefmtvFMexyMe-EmADi5q5M/0x0:992x682/432x297/filters:format(jpg)/2026/10/05/6ac334c2c9456967247716.jpg",
+   "date": null,
+   "pubdate": "2026-10-05T05:49:25.883984+00:00"
+  },
+  {
+   "title": ": Témoignages 4:57 audio 4 minutes 57 : Témoignages Simulacres d'exécution, tortures physiques... Un ancien prisonnier ukrainien en Russie raconte les sévices subis après sa capture dans le Donbass",
+   "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/temoignages-simulacres-d-execution-tortures-physiques-un-ancien-prisonnier-ukrainien-en-russie-raconte-les-sevices-subis-apres-sa-capture-dans-le-donbass_8202320.html",
+   "summary": "Simulacres d'exécution, tortures physiques... Un ancien prisonnier ukrainien en Russie raconte les sévices subis après sa capture dans le Donbass",
+   "image": "https://www.franceinfo.fr/pictures/2f5cbtrT9CRvkEupDevmU2LuA7E/890x0:3698x2808/100x100/filters:format(jpg)/2026/10/04/6ac2473171e26537594128.jpg",
+   "date": null,
+   "pubdate": "2026-10-05T05:49:25.883984+00:00"
+  },
+  {
+   "title": "2:51 vidéo 2 minutes 51 \"C'est dur de comprendre leur trajectoire et de les abattre\" : en Ukraine, les ravages des drones à réaction russes",
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/c-est-dur-de-comprendre-leur-trajectoire-et-de-les-abattre-en-ukraine-les-ravages-des-drones-a-reaction-russes_8222590.html",
    "summary": "\"C'est dur de comprendre leur trajectoire et de les abattre\" : en Ukraine, les ravages des drones à réaction russes",
-   "image": "https://www.franceinfo.fr/pictures/P0AGydG655GEomD-3Cz41B35_rc/42x0:1423x950/432x297/filters:format(jpg)/2026/10/04/6ac2a937255dc478446181.png",
+   "image": "https://www.franceinfo.fr/pictures/oO_4XU99OIkOxVePnHjeDTjXhp4/0x62:1466x887/432x243/filters:format(jpg)/2026/10/04/6ac2a937255dc478446181.png",
    "date": null,
    "pubdate": "2026-10-04T23:58:46.977746+00:00"
   },
@@ -100,26 +115,10 @@
    "pubdate": "2026-10-04T12:28:31.676548+00:00"
   },
   {
-   "title": "4:30 audio 4 minutes 30 \"Je ne sais pas ce qui attend nos enfants\" : à Kiev, l'angoisse de la rentrée sous les bombes après un été meurtrier",
-   "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/je-ne-sais-pas-ce-qui-attend-nos-enfants-a-kiev-l-angoisse-de-la-rentree-sous-les-bombes-apres-un-ete-meurtrier_8144936.html",
-   "summary": "\"Je ne sais pas ce qui attend nos enfants\" : à Kiev, l'angoisse de la rentrée sous les bombes après un été meurtrier",
-   "image": "https://www.franceinfo.fr/pictures/07LcAYc2BL1tbPyni2IkoRuOcD4/1000x0:5000x4000/100x100/filters:format(jpg)/2026/08/31/6a950e984fe25063470033.jpg",
-   "date": null,
-   "pubdate": "2026-10-04T12:28:31.676548+00:00"
-  },
-  {
    "title": "Un pont de Kiev attaqué par un drone russe pendant la visite surprise du chancelier allemand, Friedrich Merz, dans la capitale ukrainienne",
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/le-chancelier-allemand-friedrich-merz-realise-une-visite-surprise-a-kiev_8221903.html",
    "summary": "",
    "image": "https://www.franceinfo.fr/pictures/odKjospCoqaqHymLHR8pg1dczKA/0x0:1024x576/432x243/filters:format(jpg)/2026/10/04/6ac1e23b043b8461653017.jpg",
-   "date": null,
-   "pubdate": "2026-10-04T06:00:24.201664+00:00"
-  },
-  {
-   "title": "1:26 vidéo 1 minute 26 Une frappe russe touche un nouveau pont majeur de Kiev",
-   "link": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/une-frappe-russe-touche-un-nouveau-pont-majeur-de-kiev_8221894.html",
-   "summary": "Une frappe russe touche un nouveau pont majeur de Kiev",
-   "image": "https://www.franceinfo.fr/pictures/O09yaaJ-x_w-iBFOjl33EMSuq-o/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/04/6ac1e313a647d269251217.jpg",
    "date": null,
    "pubdate": "2026-10-04T06:00:24.201664+00:00"
   },
@@ -266,14 +265,6 @@
    "image": "https://www.franceinfo.fr/pictures/ZX5hLexzPqQA9z5qrsolYhVP5HQ/0x106:1024x682/432x243/filters:format(jpg)/2026/10/01/6abe4f7d0c172050504213.jpg",
    "date": null,
    "pubdate": "2026-10-01T18:27:42.280082+00:00"
-  },
-  {
-   "title": "Polluants éternels : 100% des personnes issues de neuf pays européens, testées positives au TFA, alertent les eurodéputés écologistes Ce tout petit PFAS, que l'on retrouve dans l'eau et les cultures agricoles, est extrêmement stable et donc particulièrement persistant dans l'environnement.",
-   "link": "https://www.franceinfo.fr/environnement/pollution/pfas/polluants-eternels-100-des-personnes-issues-de-neuf-pays-europeens-testees-positives-au-tfa-alertent-les-eurodeputes-ecologistes_8216995.html",
-   "summary": "Polluants éternels : 100% des personnes issues de neuf pays européens, testées positives au TFA, alertent les eurodéputés écologistes",
-   "image": "https://www.franceinfo.fr/pictures/Ml0lccK7WIUaHpdOF-AoUcZJEEU/0x520:5000x3333/432x243/filters:format(jpg)/2026/09/30/6abd74e48d423574244513.jpg",
-   "date": null,
-   "pubdate": "2026-10-01T10:14:44.619482+00:00"
   }
  ]
 }
