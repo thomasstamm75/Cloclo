@@ -1,13 +1,8 @@
 {
- "etag": "\"377fa608d934ae535d17f9caee64cbe0-gzip\"",
+ "etag": "\"2305048bae3e9257e0262abe0af03b9a-gzip\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.franceinfo.fr/monde/espagne/dans-une-espagne-en-proie-a-une-crise-du-logement-la-jeunesse-est-prise-dans-un-piege-locatif_8219851.html": "2026-10-02T17:54:13.968038+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-ukraine-un-nouveau-grand-pont-de-kiev-touche-par-une-frappe-russe_8220826.html": "2026-10-03T05:24:28.250584+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/vos-questions-sur-l-effort-de-guerre-de-la-france/": "2026-10-03T05:24:28.250584+00:00",
-  "https://www.franceinfo.fr/monde/europe/la-grande-bretagne-et-l-ue/plus-de-la-moitie-des-britanniques-sont-favorables-a-un-retour-du-royaume-uni-dans-l-union-europeenne-selon-un-sondage_8221126.html": "2026-10-03T11:45:40.062211+00:00",
-  "https://www.franceinfo.fr/monde/europe/allemagne/en-allemagne-une-journee-de-l-unite-qui-ne-masque-pas-les-disparites-entre-l-est-et-l-ouest-36-ans-apres-la-reunification_8220964.html": "2026-10-03T11:45:40.062211+00:00",
-  "https://www.franceinfo.fr/monde/europe/la-guerre-en-ukraine-s-immisce-dans-les-elections-legislatives-en-lettonie_8220853.html": "2026-10-03T11:45:40.062211+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-c-est-le-sauveur-en-saxe-anhalt-ulrich-siegmund-l-homme-le-plus-dangereux-d-allemagne-selon-der-spiegel-aux-portes-du-pouvoir_8147219.html": "2026-10-03T16:28:06.078707+00:00",
   "https://www.franceinfo.fr/monde/europe/allemagne/il-y-a-une-extrapolation-du-declin-economique-comment-l-extreme-droite-allemande-est-arrivee-aux-portes-du-pouvoir-en-saxe-anhalt_8175638.html": "2026-10-03T21:23:34.118772+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/le-chancelier-allemand-friedrich-merz-realise-une-visite-surprise-a-kiev_8221903.html": "2026-10-04T06:00:24.201664+00:00",
@@ -23,18 +18,89 @@
   "https://france3-regions.franceinfo.fr/hauts-de-france/pas-calais/berck/deux-migrants-decedent-lors-d-une-tentative-de-traversee-de-la-manche-deux-femmes-transportees-en-urgence-relative-3427953.html": "2026-10-05T14:50:49.627436+00:00",
   "https://www.franceinfo.fr/economie/l-euro-devisse-et-c-est-en-partie-a-cause-de-la-france_8223544.html": "2026-10-05T22:03:37.426612+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-des-frappes-russes-de-bombes-guidees-font-au-moins-cinq-morts-a-kharkiv_8223856.html": "2026-10-05T22:03:37.426612+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/drones-a-reaction-la-nouvelle-menace-russe_8223790.html": "2026-10-05T22:03:37.426612+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-ukraine-annonce-l-utilisation-des-mitrailleuses-robotisees-pilotees-par-l-ia-contre-des-drones-russes_8223652.html": "2026-10-05T22:03:37.426612+00:00",
   "https://www.franceinfo.fr/monde/europe/belgique/des-lyceens-et-etudiants-manifestent-aussi-en-belgique-francophone-pour-soutenir-les-enseignants-et-denoncer-des-frais-en-hausse_8223364.html": "2026-10-05T22:03:37.426612+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/moscou-visee-par-650-drones-dans-la-nuit-de-lundi-a-mardi-selon-le-maire-de-la-capitale-russe_8224516.html": "2026-10-06T06:28:44.445663+00:00"
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/moscou-visee-par-650-drones-dans-la-nuit-de-lundi-a-mardi-selon-le-maire-de-la-capitale-russe_8224516.html": "2026-10-06T06:28:44.445663+00:00",
+  "https://www.franceinfo.fr/monde/europe/de-ses-paysages-celtiques-a-ses-saveurs-de-la-cote-l-ile-de-skye-est-un-morceau-d-ecosse-a-l-etat-brut_8225353.html": "2026-10-06T16:00:08.542440+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-ukraine-des-filets-anti-drones-installes-pour-la-premiere-fois-sur-un-pont-a-kiev-apres-les-attaques-russes_8225221.html": "2026-10-06T16:00:08.542440+00:00",
+  "https://www.franceinfo.fr/monde/europe/union-europeenne/deux-navires-frappes-par-des-drones-en-mer-noire-au-large-de-la-bulgarie-ursula-der-leyen-juge-les-attaques-contre-des-navires-civils-inacceptables_8225158.html": "2026-10-06T16:00:08.542440+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/ils-nous-compliquent-enormement-la-vie-en-ukraine-les-difficultes-de-la-defense-anti-aerienne-face-aux-nouveaux-drones-russes_8225170.html": "2026-10-06T16:00:08.542440+00:00",
+  "https://www.franceinfo.fr/monde/europe/union-europeenne/le-parlement-europeen-prend-extremement-au-serieux-la-polemique-entourant-rima-hassan-accusee-d-avoir-renverse-des-drapeaux-europeen-et-israelien_8225038.html": "2026-10-06T16:00:08.542440+00:00",
+  "https://www.franceinfo.fr/monde/europe/allemagne/en-allemagne-l-afd-accede-a-la-presidence-d-un-parlement-regional-une-premiere-pour-l-extreme-droite-depuis-1945_8225005.html": "2026-10-06T16:00:08.542440+00:00",
+  "https://www.franceinfo.fr/monde/europe/allemagne/apres-la-victoire-de-l-afd-en-saxe-anhalt-autorites-et-specialistes-allemands-s-inquietent-de-voir-un-gouvernement-d-extreme-droite-diriger-cette-region_8224672.html": "2026-10-06T16:00:08.542440+00:00",
+  "https://www.franceinfo.fr/monde/europe/allemagne/en-allemagne-un-ancien-chef-du-renseignement-exterieur-arrete-pour-espionnage_8224831.html": "2026-10-06T16:00:08.542440+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "Moscou visée par \"650 drones\" ukrainiens dans la nuit de lundi à mardi, selon le maire L'attaque a tué un homme de 20 ans dans un village de la périphérie de Moscou, a précisé le gouverneur régional, Andreï Vorobiev. Aujourd'hui",
+   "title": "De ses paysages celtiques à ses saveurs de la côte, l'île de Skye est un morceau d'Écosse à l'état brut Le \"13 Heures découverte\" vous emmène sur l’île de Skye. Reliée au nord-ouest de l'Écosse par un pont et surnommée \"l'île des Brumes\", elle est particulièrement prisée pour ses paysages grandioses, ses formations rocheuses et ses landes baignées de légendes celtiques. Aujourd'hui 5:06 vidéo 5 minutes 6",
+   "link": "https://www.franceinfo.fr/monde/europe/de-ses-paysages-celtiques-a-ses-saveurs-de-la-cote-l-ile-de-skye-est-un-morceau-d-ecosse-a-l-etat-brut_8225353.html",
+   "summary": "De ses paysages celtiques à ses saveurs de la côte, l'île de Skye est un morceau d'Écosse à l'état brut",
+   "image": "https://www.franceinfo.fr/pictures/74V3e1Bc7oTlignhiee-I-ljV6M/152x0:1250x755/432x297/filters:format(jpg)/2026/10/06/6ac50f210f21f490414732.jpg",
+   "date": null,
+   "pubdate": "2026-10-06T16:00:08.542440+00:00"
+  },
+  {
+   "title": "En Ukraine, des filets antidrones installés pour la première fois sur un pont à Kiev après plusieurs attaques russes",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-ukraine-des-filets-anti-drones-installes-pour-la-premiere-fois-sur-un-pont-a-kiev-apres-les-attaques-russes_8225221.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/5TJu180g-qp3Sf1X2HCLkLyg9xw/0x149:3846x2312/432x243/filters:format(jpg)/2026/10/06/6ac50c6576840027855119.jpg",
+   "date": null,
+   "pubdate": "2026-10-06T16:00:08.542440+00:00"
+  },
+  {
+   "title": "Deux navires frappés par des drones au large de la Bulgarie, un équipage porté disparu",
+   "link": "https://www.franceinfo.fr/monde/europe/union-europeenne/deux-navires-frappes-par-des-drones-en-mer-noire-au-large-de-la-bulgarie-ursula-der-leyen-juge-les-attaques-contre-des-navires-civils-inacceptables_8225158.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/YQbdgo-BVcIIZU05EFRaK6u2FB0/0x348:5939x3689/432x243/filters:format(jpg)/2026/10/06/6ac4f24c481da940226141.jpg",
+   "date": null,
+   "pubdate": "2026-10-06T16:00:08.542440+00:00"
+  },
+  {
+   "title": "\"Ils nous compliquent énormément la vie\" : en Ukraine, les difficultés de la défense anti-aérienne face aux nouveaux drones russes",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/ils-nous-compliquent-enormement-la-vie-en-ukraine-les-difficultes-de-la-defense-anti-aerienne-face-aux-nouveaux-drones-russes_8225170.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/IjMuJUB83dmpgBqRM9_H8l7gpvg/0x272:6000x3647/432x243/filters:format(jpg)/2026/10/06/6ac4efa590883678962918.jpg",
+   "date": null,
+   "pubdate": "2026-10-06T16:00:08.542440+00:00"
+  },
+  {
+   "title": "Rima Hassan accusée d'avoir renversé des drapeaux israélien et européen exposés en commémoration du 7-Octobre au Parlement européen, qui dit prendre l'affaire \"extrêmement au sérieux\"",
+   "link": "https://www.franceinfo.fr/monde/europe/union-europeenne/le-parlement-europeen-prend-extremement-au-serieux-la-polemique-entourant-rima-hassan-accusee-d-avoir-renverse-des-drapeaux-europeen-et-israelien_8225038.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/lPfQLeAwzk84n4yi2GUfRGEjbx8/0x0:3071x1727/432x243/filters:format(jpg)/2026/10/06/6ac4dd110115b274249700.jpg",
+   "date": null,
+   "pubdate": "2026-10-06T16:00:08.542440+00:00"
+  },
+  {
+   "title": "En Allemagne, l'AfD accède à la présidence d'un Parlement régional, une première pour l'extrême droite depuis 1945",
+   "link": "https://www.franceinfo.fr/monde/europe/allemagne/en-allemagne-l-afd-accede-a-la-presidence-d-un-parlement-regional-une-premiere-pour-l-extreme-droite-depuis-1945_8225005.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/Tq2IUcRGRSNwj2egdyCL_nfsris/0x0:3586x2017/432x243/filters:format(jpg)/2026/10/06/6ac4d5ef0bf7e688727486.jpg",
+   "date": null,
+   "pubdate": "2026-10-06T16:00:08.542440+00:00"
+  },
+  {
+   "title": "Après la victoire de l'AfD en Saxe-Anhalt, autorités et spécialistes allemands s'inquiètent de voir un gouvernement d'extrême droite diriger cette région",
+   "link": "https://www.franceinfo.fr/monde/europe/allemagne/apres-la-victoire-de-l-afd-en-saxe-anhalt-autorites-et-specialistes-allemands-s-inquietent-de-voir-un-gouvernement-d-extreme-droite-diriger-cette-region_8224672.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/E1V-TxQbG_siq0nHyv6bqEm07w4/0x987:5974x4348/432x243/filters:format(jpg)/2026/10/06/6ac4aef13d4d5773668458.jpg",
+   "date": null,
+   "pubdate": "2026-10-06T16:00:08.542440+00:00"
+  },
+  {
+   "title": "En Allemagne, un ancien chef du renseignement extérieur arrêté pour espionnage",
+   "link": "https://www.franceinfo.fr/monde/europe/allemagne/en-allemagne-un-ancien-chef-du-renseignement-exterieur-arrete-pour-espionnage_8224831.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/I3FF4tNOaHZ27EEvSRsbPRCZQHE/0x132:1024x708/432x243/filters:format(jpg)/2026/10/06/6ac4bf6750336742258546.jpg",
+   "date": null,
+   "pubdate": "2026-10-06T16:00:08.542440+00:00"
+  },
+  {
+   "title": "Moscou visée par \"650 drones\" ukrainiens dans la nuit de lundi à mardi, selon le maire",
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/moscou-visee-par-650-drones-dans-la-nuit-de-lundi-a-mardi-selon-le-maire-de-la-capitale-russe_8224516.html",
-   "summary": "Moscou visée par \"650 drones\" ukrainiens dans la nuit de lundi à mardi, selon le maire",
-   "image": "https://www.franceinfo.fr/pictures/nv7qTXN9e3u9UluB0P6ycHhsziQ/16x0:1008x682/432x297/filters:format(jpg)/2026/10/06/6ac48d6be63d1319485462.jpg",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/kwvwbMO5hP9EysLjZNK4ZEz7PU4/0x53:1024x629/432x243/filters:format(jpg)/2026/10/06/6ac48d6be63d1319485462.jpg",
    "date": null,
    "pubdate": "2026-10-06T06:28:44.445663+00:00"
   },
@@ -47,66 +113,58 @@
    "pubdate": "2026-10-05T22:03:37.426612+00:00"
   },
   {
-   "title": "Guerre en Ukraine : des frappes russes de bombes guidées font au moins cinq morts à Kharkiv",
+   "title": "Guerre en Ukraine : des frappes russes de bombes guidées font au moins cinq morts à Kharkiv Au moins trente blessés sont également hospitalisés, \"dont trois dans un état critique\", a rapporté lundi le gouverneur de la région.",
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-des-frappes-russes-de-bombes-guidees-font-au-moins-cinq-morts-a-kharkiv_8223856.html",
-   "summary": "",
+   "summary": "Guerre en Ukraine : des frappes russes de bombes guidées font au moins cinq morts à Kharkiv",
    "image": "https://www.franceinfo.fr/pictures/dJ3UAv5nF9n3pdPotpdOc_Bv2YA/0x0:1024x576/432x243/filters:format(jpg)/2026/10/05/6ac3e24678281550776302.jpg",
    "date": null,
    "pubdate": "2026-10-05T22:03:37.426612+00:00"
   },
   {
-   "title": "2:51 vidéo 2 minutes 51 Drones à réaction, la nouvelle menace russe",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/drones-a-reaction-la-nouvelle-menace-russe_8223790.html",
-   "summary": "Drones à réaction, la nouvelle menace russe",
-   "image": "https://www.franceinfo.fr/pictures/lxOAeeOUdLHzSnx4PDClmBWZiRE/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/05/6ac3d29619f10641426185.jpg",
-   "date": null,
-   "pubdate": "2026-10-05T22:03:37.426612+00:00"
-  },
-  {
-   "title": "L'Ukraine a utilisé des mitrailleuses robotisées pilotées par l'IA contre des drones russes",
+   "title": "L'Ukraine a utilisé des mitrailleuses robotisées pilotées par l'IA contre des drones russes Des journalistes ont vu à Kiev ces nouveaux matériels, qui combinent une mitrailleuse et une tourelle automatique bardée de capteurs.",
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-ukraine-annonce-l-utilisation-des-mitrailleuses-robotisees-pilotees-par-l-ia-contre-des-drones-russes_8223652.html",
-   "summary": "",
+   "summary": "L'Ukraine a utilisé des mitrailleuses robotisées pilotées par l'IA contre des drones russes",
    "image": "https://www.franceinfo.fr/pictures/0b911txiQOR4sqVTD4NWcEYUYzo/0x312:6000x3687/432x243/filters:format(jpg)/2026/10/05/6ac3c8e64274c896383759.jpg",
    "date": null,
    "pubdate": "2026-10-05T22:03:37.426612+00:00"
   },
   {
-   "title": "Des lycéens et étudiants manifestent aussi en Belgique francophone, pour soutenir les enseignants et dénoncer des frais en hausse",
+   "title": "Des lycéens et étudiants manifestent aussi en Belgique francophone, pour soutenir les enseignants et dénoncer des frais en hausse Réformes de l'enseignement, hausse des frais d'inscription… La colère gagne les lycées belges, avec une manifestation spontanée d'élèves jeudi à Liège contre le gouvernement de la Fédération Wallonie-Bruxelles. Le média public belge francophone, la RTBF, revient sur ce mouvement.",
    "link": "https://www.franceinfo.fr/monde/europe/belgique/des-lyceens-et-etudiants-manifestent-aussi-en-belgique-francophone-pour-soutenir-les-enseignants-et-denoncer-des-frais-en-hausse_8223364.html",
-   "summary": "",
+   "summary": "Des lycéens et étudiants manifestent aussi en Belgique francophone, pour soutenir les enseignants et dénoncer des frais en hausse",
    "image": "https://www.franceinfo.fr/pictures/wEEKaPqvEJhtgxQgIoSOTSGjPU0/0x62:1200x737/432x243/filters:format(jpg)/2026/10/05/6ac39527ce788197855364.jpg",
    "date": null,
    "pubdate": "2026-10-05T22:03:37.426612+00:00"
   },
   {
-   "title": "Un incendie fait deux morts sur un navire en mer Noire, au large de la Roumanie, Volodymyr Zelensky accuse la Russie d'être à l'origine d'une \"frappe horrible\"",
+   "title": "Un incendie fait deux morts sur un navire en mer Noire, au large de la Roumanie, Volodymyr Zelensky accuse la Russie d'être à l'origine d'une \"frappe horrible\" Le président ukrainien a fait état de frappes de deux drones russes sur le navire turc. Les autorités roumaines n'ont pas confirmé.",
    "link": "https://www.franceinfo.fr/monde/europe/un-incendie-fait-deux-morts-sur-un-navire-en-mer-noire-au-large-de-la-roumanie-volodymyr-zelensky-accuse-la-russie-d-une-frappe-horrible_8223445.html",
-   "summary": "",
+   "summary": "Un incendie fait deux morts sur un navire en mer Noire, au large de la Roumanie, Volodymyr Zelensky accuse la Russie d'être à l'origine d'une \"frappe horrible\"",
    "image": "https://www.franceinfo.fr/pictures/VYdwsqjUwT_yBNnEL3Ql8ZDPKP4/0x578:5378x3604/432x243/filters:format(jpg)/2026/10/05/6ac3a5dfd13ac903879314.jpg",
    "date": null,
    "pubdate": "2026-10-05T14:50:49.627436+00:00"
   },
   {
-   "title": "\"Menace la plus directe, la plus large et la plus concrète\" : le renseignement allemand constate une \"escalade\" de la \"guerre de l'ombre\" russe",
+   "title": "\"Menace la plus directe, la plus large et la plus concrète\" : le renseignement allemand constate une \"escalade\" de la \"guerre de l'ombre\" russe Membre de l'Otan, l'Allemagne est le premier soutien de l'Ukraine et est devenue, selon le gouvernement, la cible privilégiée d'actions hostiles russes.",
    "link": "https://www.franceinfo.fr/monde/europe/allemagne/menace-la-plus-directe-la-plus-large-et-la-plus-concrete-le-renseignement-allemand-constate-une-escalade-de-la-guerre-de-l-ombre-russe_8223241.html",
-   "summary": "",
+   "summary": "\"Menace la plus directe, la plus large et la plus concrète\" : le renseignement allemand constate une \"escalade\" de la \"guerre de l'ombre\" russe",
    "image": "https://www.franceinfo.fr/pictures/q7vfpl3mITWRKyLEFFFNI1fjqp4/0x0:6000x3375/432x243/filters:format(jpg)/2026/10/05/6ac38097dbb24583911645.jpg",
    "date": null,
    "pubdate": "2026-10-05T14:50:49.627436+00:00"
   },
   {
-   "title": "Deux migrants décèdent lors d'une tentative de traversée de la Manche, deux femmes transportées en urgence relative",
+   "title": "Deux migrants décèdent lors d'une tentative de traversée de la Manche, deux femmes transportées en urgence relative Deux hommes sont décédés lors d'une tentative de traversée de la Manche dans la nuit du dimanche 4 au lundi 5 octobre 2026, à Berck (Pas-de-Calais). Deux femmes victimes de brûlures ont également été prises en charge par les secours. Au total, 405 exilés ont été recueillis par les secours dans la matinée sur les côtes du Pas-de-Calais.",
    "link": "https://france3-regions.franceinfo.fr/hauts-de-france/pas-calais/berck/deux-migrants-decedent-lors-d-une-tentative-de-traversee-de-la-manche-deux-femmes-transportees-en-urgence-relative-3427953.html",
-   "summary": "",
+   "summary": "Deux migrants décèdent lors d'une tentative de traversée de la Manche, deux femmes transportées en urgence relative",
    "image": "https://www.franceinfo.fr/pictures/pwNzuAxHMoquk3wLBDBtrXtvJR0/432x243/filters:format(jpg)/2026/10/05/6ac357118b279736133255.jpg",
-   "date": null,
-   "pubdate": "2026-10-05T14:50:49.627436+00:00"
+   "date": "2026-10-05T11:00:00+00:00",
+   "pubdate": "2026-10-05T11:00:00+00:00"
   },
   {
-   "title": "Simulacres d'exécution, tortures physiques... Un ancien prisonnier ukrainien en Russie raconte les sévices subis après sa capture dans le Donbass",
+   "title": ": Témoignages 4:57 audio 4 minutes 57 : Témoignages Simulacres d'exécution, tortures physiques... Un ancien prisonnier ukrainien en Russie raconte les sévices subis après sa capture dans le Donbass",
    "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/temoignages-simulacres-d-execution-tortures-physiques-un-ancien-prisonnier-ukrainien-en-russie-raconte-les-sevices-subis-apres-sa-capture-dans-le-donbass_8202320.html",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/7_bzE0ign68h05W1IZk3LYJo598/0x113:4588x2694/432x243/filters:format(jpg)/2026/10/04/6ac2473171e26537594128.jpg",
+   "summary": "Simulacres d'exécution, tortures physiques... Un ancien prisonnier ukrainien en Russie raconte les sévices subis après sa capture dans le Donbass",
+   "image": "https://www.franceinfo.fr/pictures/2f5cbtrT9CRvkEupDevmU2LuA7E/890x0:3698x2808/100x100/filters:format(jpg)/2026/10/04/6ac2473171e26537594128.jpg",
    "date": null,
    "pubdate": "2026-10-05T05:49:25.883984+00:00"
   },
@@ -183,52 +241,12 @@
    "pubdate": "2026-10-03T16:28:06.078707+00:00"
   },
   {
-   "title": "Plus de la moitié des Britanniques sont favorables à un retour du Royaume-Uni dans l'Union européenne, selon un sondage Le Premier ministre, Andy Burnham, a évoqué cette possibilité lors d'un discours au congrès annuel du Parti travailliste. Différents scénarios, où Londres et Bruxelles renforcent leurs relations, sont soutenus par une majorité des Britanniques sondés.",
-   "link": "https://www.franceinfo.fr/monde/europe/la-grande-bretagne-et-l-ue/plus-de-la-moitie-des-britanniques-sont-favorables-a-un-retour-du-royaume-uni-dans-l-union-europeenne-selon-un-sondage_8221126.html",
-   "summary": "Plus de la moitié des Britanniques sont favorables à un retour du Royaume-Uni dans l'Union européenne, selon un sondage",
-   "image": "https://www.franceinfo.fr/pictures/DhDcHat2ntw8O0SJP_L6rO3qLKY/0x100:1024x676/432x243/filters:format(jpg)/2026/10/03/6ac0e4b06bc22064818017.jpg",
-   "date": null,
-   "pubdate": "2026-10-03T11:45:40.062211+00:00"
-  },
-  {
-   "title": "En Allemagne, une \"journée de l'Unité\" qui ne masque pas les disparités entre l'Est et l'Ouest, 36 ans après la réunification La sous-représentation dans les postes à responsabilité, les écarts de patrimoine et le sentiment de partir avec moins d’atouts nourrissent le discours électoral de l'AfD.",
-   "link": "https://www.franceinfo.fr/monde/europe/allemagne/en-allemagne-une-journee-de-l-unite-qui-ne-masque-pas-les-disparites-entre-l-est-et-l-ouest-36-ans-apres-la-reunification_8220964.html",
-   "summary": "En Allemagne, une \"journée de l'Unité\" qui ne masque pas les disparités entre l'Est et l'Ouest, 36 ans après la réunification",
-   "image": "https://www.franceinfo.fr/pictures/-BA1q5YYAfyk3GJvajo_rh4LQUg/0x126:2500x1532/432x243/filters:format(jpg)/2026/10/03/6ac0c353277c6072538003.jpg",
-   "date": null,
-   "pubdate": "2026-10-03T11:45:40.062211+00:00"
-  },
-  {
-   "title": "La guerre en Ukraine s'immisce dans les élections législatives en Lettonie Les citoyens lettons sont appelés aux urnes samedi pour renouveler les cent députés de la Saiema, la chambre unique du Parlement. Parmi les enjeux majeurs de cette élection : la sécurité. La Lettonie partage sa frontière avec la Russie et la Biélorussie.",
-   "link": "https://www.franceinfo.fr/monde/europe/la-guerre-en-ukraine-s-immisce-dans-les-elections-legislatives-en-lettonie_8220853.html",
-   "summary": "La guerre en Ukraine s'immisce dans les élections législatives en Lettonie",
-   "image": "https://www.franceinfo.fr/pictures/AX1KJkpM_4sdlRnKiWGrHUPxBks/1190x417:6870x3612/432x243/filters:format(jpg)/2026/10/03/6ac09df9c90cc753506161.jpg",
-   "date": null,
-   "pubdate": "2026-10-03T11:45:40.062211+00:00"
-  },
-  {
    "title": "Vos questions sur l'effort de guerre de la France 6 contenus",
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/vos-questions-sur-l-effort-de-guerre-de-la-france/",
    "summary": "Vos questions sur l'effort de guerre de la France",
    "image": "https://www.franceinfo.fr/pictures/ntZoU9VrwR_yrQmHdJn-AC2Tq7o/432x297/filters:format(jpg)/2025/04/01/effort-de-guerre-couverture-de-dossier-01-light-67eba0e5ca0a7848911582.jpg",
    "date": null,
    "pubdate": "2026-10-03T05:24:28.250584+00:00"
-  },
-  {
-   "title": "En Ukraine, un autre pont important de Kiev touché par une frappe russe Après le pont Sud, c'est le pont Nord de Kiev qui a été visé samedi. Selon le maire, la surface de la route et les câbles des trolleybus ont été endommagés.",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-ukraine-un-nouveau-grand-pont-de-kiev-touche-par-une-frappe-russe_8220826.html",
-   "summary": "En Ukraine, un autre pont important de Kiev touché par une frappe russe",
-   "image": "https://www.franceinfo.fr/pictures/Gn1_SfRgdDF-eQX1-PeqYh1TDoY/0x5:1024x581/432x243/filters:format(jpg)/2026/10/03/6ac08f7c37f65546490983.jpg",
-   "date": null,
-   "pubdate": "2026-10-03T05:24:28.250584+00:00"
-  },
-  {
-   "title": "Dans une Espagne en proie à une crise du logement, la jeunesse est prise dans un \"piège locatif\" A Madrid, la Puerta del Sol est occupée par des manifestants qui y ont installé des tentes pour dénoncer la crise du logement. En dix ans, le prix moyen du mètre carré à la location a presque doublé. Dans cet article, le média public espagnol RTVE analyse les chiffres.",
-   "link": "https://www.franceinfo.fr/monde/espagne/dans-une-espagne-en-proie-a-une-crise-du-logement-la-jeunesse-est-prise-dans-un-piege-locatif_8219851.html",
-   "summary": "Dans une Espagne en proie à une crise du logement, la jeunesse est prise dans un \"piège locatif\"",
-   "image": "https://www.franceinfo.fr/pictures/FUv074st5VL04eC99hw9YuQ3kiM/0x182:3500x2150/432x243/filters:format(jpg)/2026/10/02/6abfc427cf59f792921356.jpg",
-   "date": null,
-   "pubdate": "2026-10-02T17:54:13.968038+00:00"
   }
  ]
 }

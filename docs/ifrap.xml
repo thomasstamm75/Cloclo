@@ -5,13 +5,21 @@
     <link>https://www.ifrap.org/</link>
     <description>Flux fabriqué par Cloclo à partir de https://www.ifrap.org/</description>
     <language>fr</language>
-    <lastBuildDate>Tue, 06 Oct 2026 06:28:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 15:59:57 +0000</lastBuildDate>
     <atom:link href="https://thomasstamm75.github.io/Cloclo/ifrap.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La signature de la France en question</title>
+      <link>https://www.europe1.fr/emissions/ledito-eco/la-signature-de-la-france-en-question-1126055</link>
+      <guid isPermaLink="true">https://www.europe1.fr/emissions/ledito-eco/la-signature-de-la-france-en-question-1126055</guid>
+      <pubDate>Tue, 06 Oct 2026 09:27:00 +0000</pubDate>
+      <description>&lt;img src="https://www.ifrap.org/sites/default/files/styles/100x/public/images/import/logo_europe1_6.jpg?itok=6FMdFcfZ" alt=""/&gt;</description>
+    </item>
     <item>
       <title>Le coût réel des aides sociales et les effets de désincitation au travail engendrés par leur cumul</title>
       <link>https://www.ifrap.org/lifrap-dans-les-medias/le-cout-reel-des-aides-sociales-et-les-effets-de-desincitation-au-travail-engendres-par-leur-cumul</link>
       <guid isPermaLink="true">https://www.ifrap.org/lifrap-dans-les-medias/le-cout-reel-des-aides-sociales-et-les-effets-de-desincitation-au-travail-engendres-par-leur-cumul</guid>
       <pubDate>Mon, 05 Oct 2026 10:48:00 +0000</pubDate>
+      <description>&lt;img src="https://www.ifrap.org/sites/default/files/styles/100x/public/images/2026-10/images_6.png?itok=5AHb-8a0" alt=""/&gt;</description>
     </item>
     <item>
       <title>Le fléau du taux d'emprunt de la dette français</title>
@@ -39,12 +47,6 @@
       <guid isPermaLink="true">https://www.capital.fr/economie-politique/deficit-public-agnes-verdier-molinie-propose-une-regle-dor-constitutionnelle-pour-redresser-les-comptes-1530660</guid>
       <pubDate>Thu, 01 Oct 2026 22:18:00 +0000</pubDate>
       <description>&lt;img src="https://www.ifrap.org/sites/default/files/styles/100x/public/images/2023-10/capital.jpg?itok=NAVpztHz" alt=""/&gt;</description>
-    </item>
-    <item>
-      <title>Budget 2027 : pas moins de 17 milliards de hausses d'impôts</title>
-      <link>https://www.sudradio.fr/emission/le-coup-de-show-de-philippe-david-24</link>
-      <guid isPermaLink="true">https://www.sudradio.fr/emission/le-coup-de-show-de-philippe-david-24</guid>
-      <pubDate>Thu, 01 Oct 2026 19:13:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -1,6 +1,6 @@
 {
- "etag": "W/\"1791250295\"",
- "last_modified": "Tue, 06 Oct 2026 01:31:35 GMT",
+ "etag": "W/\"1791301611\"",
+ "last_modified": "Tue, 06 Oct 2026 15:46:51 GMT",
  "first_seen": {
   "https://www.strategie-plan.gouv.fr/publications/hcfips-salaire-brut-salaire-net-evolutions-comparees-et-constats": "2026-06-16T11:00:00+00:00",
   "https://www.strategie-plan.gouv.fr/publications/hcaam-rapport-du-hcaam-trois-scenarios-pour-une-reforme-des-depassements-dhonoraires": "2026-06-09T11:00:00+00:00",
@@ -9,20 +9,28 @@
   "https://www.strategie-plan.gouv.fr/conference-quels-nouveaux-moteurs-pour-la-productivite-francaise": "2026-09-08T11:00:00+00:00",
   "https://www.strategie-plan.gouv.fr/france-2035-france-2050-decouvrez-le-projet": "2026-09-10T11:00:00+00:00",
   "https://www.strategie-plan.gouv.fr/evenements/presentation-densemble-du-rapport-de-prospective-france-2035-france-2050": "2026-09-23T17:10:49.762592+00:00",
-  "https://www.strategie-plan.gouv.fr/publications/pour-un-pacte-de-confiance-energetique-reussir-la-transition-energetique-en-redonnant": "2026-09-30T12:44:17.880144+00:00",
   "https://www.strategie-plan.gouv.fr/webconference-evenements-climatiques-extremes-tirer-les-lecons-de-lete-2026-pour-mieux-preparer": "2026-09-30T11:00:00+00:00",
   "https://www.strategie-plan.gouv.fr/publications/reformer-les-retraites-pour-redonner-confiance": "2026-10-01T10:16:06.258986+00:00",
-  "https://www.strategie-plan.gouv.fr/publications/finances-publiques-lhorizon-2050-retrouver-des-marges-de-manoeuvre-pour-preparer": "2026-10-02T17:55:35.893617+00:00"
+  "https://www.strategie-plan.gouv.fr/publications/finances-publiques-lhorizon-2050-retrouver-des-marges-de-manoeuvre-pour-preparer": "2026-10-02T17:55:35.893617+00:00",
+  "https://www.strategie-plan.gouv.fr/publications/france-2035-france-2050-focus-modes-et-lieux-de-vie-proteger-les-liens-amenager-les": "2026-10-06T16:01:30.201045+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
    "title": "Bienvenue sur le site du Haut-commissariat à la Stratégie et au Plan",
-   "link": "https://www.strategie-plan.gouv.fr/publications/finances-publiques-lhorizon-2050-retrouver-des-marges-de-manoeuvre-pour-preparer",
+   "link": "https://www.strategie-plan.gouv.fr/publications/france-2035-france-2050-focus-modes-et-lieux-de-vie-proteger-les-liens-amenager-les",
    "summary": "Le Haut-commissariat à la Stratégie et au Plan contribue à l’action publique par ses analyses et ses propositions. Il éclaire les choix collectifs sur les enjeux démographiques, économiques, sociaux, environnementaux, sanitaires, technologiques et culturels, dans un cadre national et européen.",
    "image": "https://www.strategie-plan.gouv.fr/files/styles/ds_image_paragraphe/public/files/accueil-fstrat.png?itok=ZH0UHCYU",
    "date": null,
-   "pubdate": "2026-10-02T17:55:35.893617+00:00"
+   "pubdate": "2026-10-06T16:01:30.201045+00:00"
+  },
+  {
+   "title": "Finances publiques à l’horizon 2050 : retrouver des marges de manœuvre pour préparer l’avenir",
+   "link": "https://www.strategie-plan.gouv.fr/publications/finances-publiques-lhorizon-2050-retrouver-des-marges-de-manoeuvre-pour-preparer",
+   "summary": "Haut-commissariat à la Stratégie et au Plan",
+   "image": "",
+   "date": "2026-10-02T11:00:00+00:00",
+   "pubdate": "2026-10-02T11:00:00+00:00"
   },
   {
    "title": "Réformer les retraites pour redonner confiance",
@@ -31,14 +39,6 @@
    "image": "",
    "date": "2026-10-01T11:00:00+00:00",
    "pubdate": "2026-10-01T11:00:00+00:00"
-  },
-  {
-   "title": "Pour un pacte de confiance énergétique. Réussir la transition énergétique en redonnant de la visibilité aux Français",
-   "link": "https://www.strategie-plan.gouv.fr/publications/pour-un-pacte-de-confiance-energetique-reussir-la-transition-energetique-en-redonnant",
-   "summary": "Haut-commissariat à la Stratégie et au Plan",
-   "image": "",
-   "date": "2026-09-30T11:00:00+00:00",
-   "pubdate": "2026-09-30T11:00:00+00:00"
   },
   {
    "title": "Webconférence | Événements climatiques extrêmes : tirer les leçons de l’été 2026 pour mieux préparer l’avenir",
