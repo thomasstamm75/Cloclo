@@ -1,20 +1,36 @@
 {
- "etag": "W/\"1791336716\"",
- "last_modified": "Wed, 07 Oct 2026 01:31:56 GMT",
+ "etag": "W/\"1791379242\"",
+ "last_modified": "Wed, 07 Oct 2026 13:20:42 GMT",
  "first_seen": {
   "https://www.strategie-plan.gouv.fr/publications/hcfips-salaire-brut-salaire-net-evolutions-comparees-et-constats": "2026-06-16T11:00:00+00:00",
-  "https://www.strategie-plan.gouv.fr/publications/hcaam-rapport-du-hcaam-trois-scenarios-pour-une-reforme-des-depassements-dhonoraires": "2026-06-09T11:00:00+00:00",
-  "https://www.strategie-plan.gouv.fr/publications/hcfea-aider-les-parents-aider-les-enfants-grandir": "2026-05-07T11:00:00+00:00",
   "https://www.strategie-plan.gouv.fr/publications/hcfips-colloque-lois-de-financement-de-la-securite-sociale-30-ans-et-apres": "2026-05-06T11:00:00+00:00",
-  "https://www.strategie-plan.gouv.fr/conference-quels-nouveaux-moteurs-pour-la-productivite-francaise": "2026-09-08T11:00:00+00:00",
   "https://www.strategie-plan.gouv.fr/france-2035-france-2050-decouvrez-le-projet": "2026-09-10T11:00:00+00:00",
   "https://www.strategie-plan.gouv.fr/webconference-evenements-climatiques-extremes-tirer-les-lecons-de-lete-2026-pour-mieux-preparer": "2026-09-30T11:00:00+00:00",
   "https://www.strategie-plan.gouv.fr/publications/reformer-les-retraites-pour-redonner-confiance": "2026-10-01T10:16:06.258986+00:00",
   "https://www.strategie-plan.gouv.fr/publications/finances-publiques-lhorizon-2050-retrouver-des-marges-de-manoeuvre-pour-preparer": "2026-10-02T17:55:35.893617+00:00",
-  "https://www.strategie-plan.gouv.fr/publications/france-2035-france-2050-focus-modes-et-lieux-de-vie-proteger-les-liens-amenager-les": "2026-10-06T16:01:30.201045+00:00"
+  "https://www.strategie-plan.gouv.fr/publications/france-2035-france-2050-focus-modes-et-lieux-de-vie-proteger-les-liens-amenager-les": "2026-10-06T16:01:30.201045+00:00",
+  "https://www.strategie-plan.gouv.fr/conference-presentation-densemble-du-rapport-de-prospective-france-2035-france-2050": "2026-10-06T11:00:00+00:00",
+  "https://www.strategie-plan.gouv.fr/publications/hcaam-appel-doffres-organisation-dateliers-prospectifs-sur-les-scenarios-de": "2026-10-07T11:00:00+00:00",
+  "https://www.strategie-plan.gouv.fr/publications/hcfea-colloque-anniversaire-des-10-ans-du-hcfea-les-solidarites-lheure-des-grandes": "2026-10-07T11:00:00+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "HCAAM | Appel d’offres : organisation d’ateliers prospectifs sur les scénarios de déploiement de l’IA en santé",
+   "link": "https://www.strategie-plan.gouv.fr/publications/hcaam-appel-doffres-organisation-dateliers-prospectifs-sur-les-scenarios-de",
+   "summary": "Haut Conseil pour l’avenir de l’assurance maladie",
+   "image": "",
+   "date": "2026-10-07T11:00:00+00:00",
+   "pubdate": "2026-10-07T11:00:00+00:00"
+  },
+  {
+   "title": "HCFEA | Colloque anniversaire des 10 ans du HCFEA - Les solidarités à l'heure des grandes transitions",
+   "link": "https://www.strategie-plan.gouv.fr/publications/hcfea-colloque-anniversaire-des-10-ans-du-hcfea-les-solidarites-lheure-des-grandes",
+   "summary": "Haut Conseil de la famille, de l’enfance et de l’âge",
+   "image": "",
+   "date": "2026-10-07T11:00:00+00:00",
+   "pubdate": "2026-10-07T11:00:00+00:00"
+  },
   {
    "title": "Bienvenue sur le site du Haut-commissariat à la Stratégie et au Plan",
    "link": "https://www.strategie-plan.gouv.fr/publications/france-2035-france-2050-focus-modes-et-lieux-de-vie-proteger-les-liens-amenager-les",
@@ -22,6 +38,14 @@
    "image": "https://www.strategie-plan.gouv.fr/files/styles/ds_image_paragraphe/public/files/accueil-fstrat.png?itok=ZH0UHCYU",
    "date": null,
    "pubdate": "2026-10-06T16:01:30.201045+00:00"
+  },
+  {
+   "title": "Conférence | Présentation d’ensemble du rapport de prospective « France 2035, France 2050 »",
+   "link": "https://www.strategie-plan.gouv.fr/conference-presentation-densemble-du-rapport-de-prospective-france-2035-france-2050",
+   "summary": "",
+   "image": "https://www.strategie-plan.gouv.fr/files/styles/ds_image_paragraphe/public/files/France%202035-2050/Logo/Logo%20F35-50%20recadr%C3%A9.png?itok=Vt9D7xXv",
+   "date": "2026-10-06T11:00:00+00:00",
+   "pubdate": "2026-10-06T11:00:00+00:00"
   },
   {
    "title": "Finances publiques à l’horizon 2050 : retrouver des marges de manœuvre pour préparer l’avenir",
@@ -56,36 +80,12 @@
    "pubdate": "2026-09-10T11:00:00+00:00"
   },
   {
-   "title": "Conférence | Quels nouveaux moteurs pour la productivité française ?",
-   "link": "https://www.strategie-plan.gouv.fr/conference-quels-nouveaux-moteurs-pour-la-productivite-francaise",
-   "summary": "",
-   "image": "https://www.strategie-plan.gouv.fr/files/styles/ds_image_paragraphe/public/files/%C3%89v%C3%A9nement/HCSP_PPT-PRODUCTIVITE.png?itok=TuQc6EOl",
-   "date": "2026-09-08T11:00:00+00:00",
-   "pubdate": "2026-09-08T11:00:00+00:00"
-  },
-  {
    "title": "HCFiPS | Salaire brut, salaire net - Évolutions comparées et constats",
    "link": "https://www.strategie-plan.gouv.fr/publications/hcfips-salaire-brut-salaire-net-evolutions-comparees-et-constats",
    "summary": "Haut Conseil du financement de la protection sociale",
    "image": "",
    "date": "2026-06-16T11:00:00+00:00",
    "pubdate": "2026-06-16T11:00:00+00:00"
-  },
-  {
-   "title": "HCAAM | Rapport du Hcaam - Trois scénarios pour une réforme des dépassements d’honoraires des médecins",
-   "link": "https://www.strategie-plan.gouv.fr/publications/hcaam-rapport-du-hcaam-trois-scenarios-pour-une-reforme-des-depassements-dhonoraires",
-   "summary": "Haut Conseil pour l’avenir de l’assurance maladie",
-   "image": "",
-   "date": "2026-06-09T11:00:00+00:00",
-   "pubdate": "2026-06-09T11:00:00+00:00"
-  },
-  {
-   "title": "HCFEA | Aider les parents à aider les enfants à grandir",
-   "link": "https://www.strategie-plan.gouv.fr/publications/hcfea-aider-les-parents-aider-les-enfants-grandir",
-   "summary": "Haut Conseil de la famille, de l’enfance et de l’âge",
-   "image": "",
-   "date": "2026-05-07T11:00:00+00:00",
-   "pubdate": "2026-05-07T11:00:00+00:00"
   },
   {
    "title": "HCFiPS | Colloque : Lois de financement de la Sécurité sociale : 30 ans, et après ?",

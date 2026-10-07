@@ -5,8 +5,14 @@
     <link>https://www.jean-jaures.org/</link>
     <description>Flux fabriqué par Cloclo à partir de https://www.jean-jaures.org/</description>
     <language>fr</language>
-    <lastBuildDate>Wed, 07 Oct 2026 06:09:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 13:34:18 +0000</lastBuildDate>
     <atom:link href="https://thomasstamm75.github.io/Cloclo/fondation-jean-jaures.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Familles monoparentales : l’isolement au-delà de la précarité</title>
+      <link>https://www.jean-jaures.org/publication/familles-monoparentales-lisolement-au-dela-de-la-precarite/</link>
+      <guid isPermaLink="true">https://www.jean-jaures.org/publication/familles-monoparentales-lisolement-au-dela-de-la-precarite/</guid>
+      <pubDate>Wed, 07 Oct 2026 11:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>L’intelligence artificielle dans les services publics : une accélération technologique sans véritable cap politique</title>
       <link>https://www.jean-jaures.org/publication/lintelligence-artificielle-dans-les-services-publics-une-acceleration-technologique-sans-veritable-cap-politique/</link>
@@ -32,16 +38,10 @@
       <pubDate>Fri, 02 Oct 2026 11:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Évangélismes et droites en Amérique latine. Du temple aux urnes</title>
-      <link>https://www.jean-jaures.org/publication/evangelismes-et-droites-en-amerique-latine-du-temple-aux-urnes/</link>
-      <guid isPermaLink="true">https://www.jean-jaures.org/publication/evangelismes-et-droites-en-amerique-latine-du-temple-aux-urnes/</guid>
+      <title>Pour une révolution budgétaire. Rebâtir un État émancipateur</title>
+      <link>https://www.jean-jaures.org/publication/pour-une-revolution-budgetaire-rebatir-un-etat-emancipateur/</link>
+      <guid isPermaLink="true">https://www.jean-jaures.org/publication/pour-une-revolution-budgetaire-rebatir-un-etat-emancipateur/</guid>
       <pubDate>Fri, 02 Oct 2026 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Après le feu. Pour une doctrine française de sécurité alimentaire face aux crises systémiques</title>
-      <link>https://www.jean-jaures.org/publication/apres-le-feu-pour-une-doctrine-francaise-de-securite-alimentaire-face-aux-crises-systemiques/</link>
-      <guid isPermaLink="true">https://www.jean-jaures.org/publication/apres-le-feu-pour-une-doctrine-francaise-de-securite-alimentaire-face-aux-crises-systemiques/</guid>
-      <pubDate>Wed, 30 Sep 2026 11:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
