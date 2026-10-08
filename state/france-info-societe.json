@@ -1,5 +1,5 @@
 {
- "etag": "\"6238ed809494b18d781a7207d4c8e6cb-gzip\"",
+ "etag": "\"dbc60ad9661e3cb88eb0412dad640219-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/societe/nos-jours-heureux/": "2026-09-30T20:05:26.193735+00:00",
@@ -16,7 +16,6 @@
   "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-des-lyceens-moins-de-blocages-mais-toujours-des-tensions-a-l-aube-d-une-nouvelle-journee-de-manifestations_8227411.html": "2026-10-07T20:39:44.500600+00:00",
   "https://www.franceinfo.fr/replay-radio/la-question-des-informes/mobilisations-lyceennes-le-maintien-de-l-ordre-est-il-disproportionne_8217856.html": "2026-10-07T20:39:44.500600+00:00",
   "https://www.franceinfo.fr/societe/education/blocage-des-lycees/une-enquete-a-ete-ouverte-pour-violences-volontaires-apres-qu-un-lyceen-a-ete-blesse-a-la-tete-lors-d-une-charge-de-crs-a-marseille_8227387.html": "2026-10-07T20:39:44.500600+00:00",
-  "https://www.franceinfo.fr/faits-divers/police/mobilisation-des-lyceens-l-usage-des-grenades-assourdissantes-par-les-forces-de-l-ordre-temporairement-suspendu_8227363.html": "2026-10-07T20:39:44.500600+00:00",
   "https://www.franceinfo.fr/societe/euthanasie/comprendre-les-debats-sur-la-fin-de-vie/": "2026-10-07T20:39:44.500600+00:00",
   "https://www.franceinfo.fr/replay-radio/les-informes-de-france-info/lycees-carburant-agriculteurs-le-gouvernement-face-aux-crises-les-informes-de-franceinfo-du-mercredi-7-octobre-2026_8205401.html": "2026-10-07T11:00:00+00:00",
   "https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/lycees-gazole-electricite-budget-ce-qu-il-faut-retenir-de-l-allocution-du-premier-ministre-sebastien-lecornu_8227297.html": "2026-10-07T20:39:44.500600+00:00",
@@ -28,16 +27,41 @@
   "https://www.franceinfo.fr/societe/education/blocage-des-lycees/emmanuel-macron-a-demande-a-laurent-nunez-la-suspension-des-grenades-assourdissantes_8227060.html": "2026-10-07T20:39:44.500600+00:00",
   "https://www.franceinfo.fr/societe/education/blocage-des-lycees/trois-nouveaux-suspects-en-garde-a-vue-apres-l-agression-d-un-policier-a-belfort_8226988.html": "2026-10-07T20:39:44.500600+00:00",
   "https://www.franceinfo.fr/societe/education/blocage-des-lycees/reportage-ils-sont-dans-le-bla-bla-plutot-que-dans-l-action-a-lens-la-colere-des-lyceens-ne-retombe-pas-apres-que-l-un-d-eux-a-eu-la-main-arrachee_8226862.html": "2026-10-07T20:39:44.500600+00:00",
-  "https://www.franceinfo.fr/societe/justice/deux-personnes-interpellees-en-france-soupconnees-d-administrer-une-plateforme-vendant-des-contenus-intimes-voles-a-plus-de-17-000-femmes_8226976.html": "2026-10-07T20:39:44.500600+00:00",
-  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/reportage-nous-serons-la-en-2027-et-nous-irons-voter-devant-sciences-po-des-etudiants-se-joignent-a-la-colere-des-lyceens_8226799.html": "2026-10-07T20:39:44.500600+00:00"
+  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/marseille-un-lyceen-blesse-a-la-tete-lors-d-une-charge-de-crs-une-enquete-ouverte_8227507.html": "2026-10-08T01:03:09.513719+00:00",
+  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-des-lyceens-le-snes-fsu-denonce-la-copie-blanche-de-sebastien-lecornu-qui-joue-la-strategie-du-pourrissement_8227486.html": "2026-10-08T01:03:09.513719+00:00",
+  "https://www.franceinfo.fr/societe/accidents-fuites-de-gaz-aide-aux-personnes-agees-48-heures-avec-les-pompiers-de-l-isere_8227447.html": "2026-10-08T01:03:09.513719+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "\"On fait notre scolarité en France pour après ne pas être pris\" : qui sont les naufragés de Parcoursup ? Parcoursup, qui laisse certains jeunes sans solution malgré de bons résultats, cristallise une partie de la colère des lycéens. C’est le cas d'une bachelière rencontrée par France Télévisions, qui travaille désormais dans un restaurant. D’autres ont choisi de partir étudier en Belgique, faute de place dans la filière qu’ils souhaitaient en France. Aujourd'hui 2:08 vidéo 2 minutes 8",
+   "title": "Marseille : un lycéen blessé à la tête lors d'une charge de CRS, une enquête ouverte Une enquête a été ouverte après qu'un lycéen de 17 ans a été blessé à la tête lors d'une charge de CRS devant son établissement à Marseille, mercredi 7 octobre. L'adolescent est ressorti de l'hôpital avec six points de suture au crâne. Selon la préfecture de police, les CRS étaient intervenus pour \"libérer la voie publique\" et permettre aux autres élèves d'entrer dans le lycée. L'enquête a été confiée à l'IGPN. 7 octobre 0:25 vidéo 25 secondes",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/marseille-un-lyceen-blesse-a-la-tete-lors-d-une-charge-de-crs-une-enquete-ouverte_8227507.html",
+   "summary": "Marseille : un lycéen blessé à la tête lors d'une charge de CRS, une enquête ouverte",
+   "image": "https://www.franceinfo.fr/pictures/4OG2ZoB9nMF7_i3cnF-cL4y2rBw/0x0:1080x1920/fit-in/432x297/filters:upscale():fill(blur):format(jpg)/2026/10/07/6ac6b94519e43922129807.jpg",
+   "date": null,
+   "pubdate": "2026-10-08T01:03:09.513719+00:00"
+  },
+  {
+   "title": "Mobilisation des lycéens : le Snes-FSU dénonce la \"copie blanche\" de Sébastien Lecornu, qui joue la \"stratégie du pourrissement\"",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-des-lyceens-le-snes-fsu-denonce-la-copie-blanche-de-sebastien-lecornu-qui-joue-la-strategie-du-pourrissement_8227486.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/BaVD8HX2a5aKUVnx2tV9u6mzSXo/0x5:1024x581/432x243/filters:format(jpg)/2026/10/07/6ac6b1e1a1838451229270.jpg",
+   "date": null,
+   "pubdate": "2026-10-08T01:03:09.513719+00:00"
+  },
+  {
+   "title": "17:53 vidéo 17 minutes 53 Accidents, fuites de gaz, aide aux personnes âgées... 48 heures avec les pompiers de l'Isère",
+   "link": "https://www.franceinfo.fr/societe/accidents-fuites-de-gaz-aide-aux-personnes-agees-48-heures-avec-les-pompiers-de-l-isere_8227447.html",
+   "summary": "Accidents, fuites de gaz, aide aux personnes âgées... 48 heures avec les pompiers de l'Isère",
+   "image": "https://www.franceinfo.fr/pictures/jqV71rf8H_VRdrKhjb77d82VPCM/0x86:1616x995/432x243/filters:format(jpg)/2026/10/07/6ac6ae1c9dec4669749891.png",
+   "date": null,
+   "pubdate": "2026-10-08T01:03:09.513719+00:00"
+  },
+  {
+   "title": "2:08 vidéo 2 minutes 8 \"On fait notre scolarité en France pour après ne pas être pris\" : qui sont les naufragés de Parcoursup ?",
    "link": "https://www.franceinfo.fr/societe/education/parcoursup/parcoursup/on-fait-notre-scolarite-en-france-pour-apres-ne-pas-etre-pris-qui-sont-les-naufrages-de-parcoursup_8227441.html",
    "summary": "\"On fait notre scolarité en France pour après ne pas être pris\" : qui sont les naufragés de Parcoursup ?",
-   "image": "https://www.franceinfo.fr/pictures/hwaP8Z6yKi7Ml-NtIyMLKVzqkSs/18x0:1537x1044/432x297/filters:format(jpg)/2026/10/07/6ac6a26393854431922886.png",
+   "image": "https://www.franceinfo.fr/pictures/53BZM4PxBDuX5oJ9j46m9AkRtDw/0x84:1556x959/432x243/filters:format(jpg)/2026/10/07/6ac6a26393854431922886.png",
    "date": null,
    "pubdate": "2026-10-07T20:39:44.500600+00:00"
   },
@@ -90,7 +114,15 @@
    "pubdate": "2026-10-07T20:39:44.500600+00:00"
   },
   {
-   "title": "8:45 audio 8 minutes 45 Mobilisations lycéennes : le maintien de l'ordre est-il disproportionné ?",
+   "title": "Comprendre les débats sur la fin de vie 15 contenus",
+   "link": "https://www.franceinfo.fr/societe/euthanasie/comprendre-les-debats-sur-la-fin-de-vie/",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/gZwL6mlJ39yMRDzurzn4EQx_sgw/432x297/filters:format(jpg)/2025/05/27/illustration-aide-a-mourir-68357ca797624128014806.jpg",
+   "date": null,
+   "pubdate": "2026-10-07T20:39:44.500600+00:00"
+  },
+  {
+   "title": "8:45 audio 8 minutes 45 Mobilisations lycéennes : le maintien de l'ordre est-il disproportionné ? Driss Aït Youssef, docteur en droit public, directeur de l’institut Léonard de Vinci, spécialiste des questions de sécurité et de renseignement était l'invité de franceinfo mercredi.",
    "link": "https://www.franceinfo.fr/replay-radio/la-question-des-informes/mobilisations-lyceennes-le-maintien-de-l-ordre-est-il-disproportionne_8217856.html",
    "summary": "Mobilisations lycéennes : le maintien de l'ordre est-il disproportionné ?",
    "image": "https://www.franceinfo.fr/pictures/aO0_6fkBBsyoqK20VpTBiUyaIWs/0x190:3648x2242/432x243/filters:format(jpg)/2026/10/06/6ac49363c0e0b159340434.jpg",
@@ -98,26 +130,10 @@
    "pubdate": "2026-10-07T20:39:44.500600+00:00"
   },
   {
-   "title": "Une enquête a été ouverte pour \"violences volontaires\" après qu'un lycéen a été blessé à la tête lors d'une charge de CRS à Marseille",
+   "title": "Une enquête a été ouverte pour \"violences volontaires\" après qu'un lycéen a été blessé à la tête lors d'une charge de CRS à Marseille L'adolescent blessé lors d'un blocage devant le lycée Marie-Curie, situé dans un quartier central de la ville, a été transporté à l'hôpital. Il est ressorti avec six points de suture sur le crâne, selon les informations de franceinfo.",
    "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/une-enquete-a-ete-ouverte-pour-violences-volontaires-apres-qu-un-lyceen-a-ete-blesse-a-la-tete-lors-d-une-charge-de-crs-a-marseille_8227387.html",
-   "summary": "",
+   "summary": "Une enquête a été ouverte pour \"violences volontaires\" après qu'un lycéen a été blessé à la tête lors d'une charge de CRS à Marseille",
    "image": "https://www.franceinfo.fr/pictures/rHZRWiXB5cWNpWsUWmOyohR0spQ/0x358:4200x2721/432x243/filters:format(jpg)/2026/10/07/6ac69540c6928242570686.jpg",
-   "date": null,
-   "pubdate": "2026-10-07T20:39:44.500600+00:00"
-  },
-  {
-   "title": "1:55 vidéo 1 minute 55 Mobilisation des lycéens : l'usage des grenades assourdissantes par les forces de l'ordre temporairement suspendu ?",
-   "link": "https://www.franceinfo.fr/faits-divers/police/mobilisation-des-lyceens-l-usage-des-grenades-assourdissantes-par-les-forces-de-l-ordre-temporairement-suspendu_8227363.html",
-   "summary": "Mobilisation des lycéens : l'usage des grenades assourdissantes par les forces de l'ordre temporairement suspendu ?",
-   "image": "https://www.franceinfo.fr/pictures/ZOdwGrBIqh6inW3gb1lXgX7NEWo/0x117:1412x912/432x243/filters:format(jpg)/2026/10/07/6ac6957a962f5561414927.png",
-   "date": null,
-   "pubdate": "2026-10-07T20:39:44.500600+00:00"
-  },
-  {
-   "title": "Comprendre les débats sur la fin de vie 15 contenus",
-   "link": "https://www.franceinfo.fr/societe/euthanasie/comprendre-les-debats-sur-la-fin-de-vie/",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/gZwL6mlJ39yMRDzurzn4EQx_sgw/432x297/filters:format(jpg)/2025/05/27/illustration-aide-a-mourir-68357ca797624128014806.jpg",
    "date": null,
    "pubdate": "2026-10-07T20:39:44.500600+00:00"
   },
@@ -146,7 +162,7 @@
    "pubdate": "2026-10-07T20:39:44.500600+00:00"
   },
   {
-   "title": "• Direct Allocution de Sébastien Lecornu : \"La stratégie du gouvernement est claire, gagner du temps\" face à la mobilisation des lycéens, considère Marine Tondelier Dans une de prise de parole depuis Matignon mercredi soir, le chef du gouvernement a fait plusieurs annonces, concernant les lycéens, mais aussi les carburants, la crise agricole ou encore, les débats sur le budget.",
+   "title": "Allocution de Sébastien Lecornu : \"La stratégie du gouvernement est claire, gagner du temps\" face à la mobilisation des lycéens, considère Marine Tondelier Dans une de prise de parole depuis Matignon mercredi soir, le chef du gouvernement a fait plusieurs annonces, concernant les lycéens, mais aussi les carburants, la crise agricole ou encore, les débats sur le budget.",
    "link": "https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/direct-lycees-carburants-budget-suivez-l-allocution-du-premier-ministre-sebastien-lecornu_8227246.html",
    "summary": "Allocution de Sébastien Lecornu : \"La stratégie du gouvernement est claire, gagner du temps\" face à la mobilisation des lycéens, considère Marine Tondelier",
    "image": "https://www.franceinfo.fr/pictures/YFt3rzLRy5mqpo70D-vIHndGJj0/0x25:1024x601/432x243/filters:format(jpg)/2026/10/07/6ac68cc1c66b4942526528.jpg",
@@ -190,22 +206,6 @@
    "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/reportage-ils-sont-dans-le-bla-bla-plutot-que-dans-l-action-a-lens-la-colere-des-lyceens-ne-retombe-pas-apres-que-l-un-d-eux-a-eu-la-main-arrachee_8226862.html",
    "summary": "\"Ils sont dans le bla-bla, plutôt que dans l'action\" : à Lens, la colère des lycéens ne retombe pas après que l'un d'eux a eu la main arrachée",
    "image": "https://www.franceinfo.fr/pictures/xhmrFl_yFvv5sUM2ms8mFQIDuR8/0x312:6000x3687/432x243/filters:format(jpg)/2026/10/07/6ac648791422c470245409.jpg",
-   "date": null,
-   "pubdate": "2026-10-07T20:39:44.500600+00:00"
-  },
-  {
-   "title": "Deux personnes interpellées en France, soupçonnées d'administrer une plateforme vendant des contenus intimes volés à plus de 17 000 femmes Des mineures comptent parmi les victimes. Selon le parquet, \"les utilisateurs du site étaient incités, contre récompense en monnaie virtuelle, à fournir des informations d’identification de chaque victime\".",
-   "link": "https://www.franceinfo.fr/societe/justice/deux-personnes-interpellees-en-france-soupconnees-d-administrer-une-plateforme-vendant-des-contenus-intimes-voles-a-plus-de-17-000-femmes_8226976.html",
-   "summary": "Deux personnes interpellées en France, soupçonnées d'administrer une plateforme vendant des contenus intimes volés à plus de 17 000 femmes",
-   "image": "https://www.franceinfo.fr/pictures/6B2F0VmsB_dT6KUZiMByOXzf9ko/0x52:1024x628/432x243/filters:format(jpg)/2026/10/07/6ac651fdb62ea552138336.jpg",
-   "date": null,
-   "pubdate": "2026-10-07T20:39:44.500600+00:00"
-  },
-  {
-   "title": ": Reportage \"Nous serons là en 2027 et nous irons voter\" : devant Sciences Po, des étudiants se joignent à la colère des lycéens Le campus de Sciences Po est bloqué par des étudiants mercredi à Paris. Ils s'insèrent ainsi dans le mouvement qui a rassemblé plusieurs centaines de milliers de personnes dans la rue mardi.",
-   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/reportage-nous-serons-la-en-2027-et-nous-irons-voter-devant-sciences-po-des-etudiants-se-joignent-a-la-colere-des-lyceens_8226799.html",
-   "summary": "\"Nous serons là en 2027 et nous irons voter\" : devant Sciences Po, des étudiants se joignent à la colère des lycéens",
-   "image": "https://www.franceinfo.fr/pictures/cmZ4gf8EjxgeV3xnb5TcJUttck4/0x342:6120x3785/432x243/filters:format(jpg)/2026/10/07/6ac63a86aa29c103801321.jpg",
    "date": null,
    "pubdate": "2026-10-07T20:39:44.500600+00:00"
   },
