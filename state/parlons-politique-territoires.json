@@ -2,8 +2,6 @@
  "etag": "",
  "last_modified": "",
  "first_seen": {
-  "https://www.parlons-politique.fr/politique-locale/senatoriales-dans-le-doubs-six-listes-cherchent-a-convaincre-les-elus-qui-choisiront-les-trois-futurs-senateurs_27835/": "2026-09-25T11:56:46.096502+00:00",
-  "https://www.parlons-politique.fr/politique-locale/senatoriales-dans-la-vienne-cinq-candidats-pour-deux-sieges-un-scrutin-qui-se-joue-entre-elus-locaux_27833/": "2026-09-27T11:00:00+00:00",
   "https://www.parlons-politique.fr/politique-locale/elections-senatoriales-2026-deux-reelections-sans-second-tour-ce-que-le-vote-des-elus-locaux-change-pour-les-citoyens_27931/": "2026-09-27T17:01:54.676971+00:00",
   "https://www.parlons-politique.fr/ephemerides/le-30-septembre-1681-strasbourg-capitule-devant-louis-xiv-entre-souverainete-francaise-et-libertes-locales_27965/": "1681-09-30T11:00:00+00:00",
   "https://www.parlons-politique.fr/politique-locale/a-la-seyne-sur-mer-pourquoi-les-electeurs-rn-restent-fideles-a-bardella-malgre-les-accusations-antisemites_28184/": "2026-09-30T12:42:48.968303+00:00",
@@ -13,10 +11,28 @@
   "https://www.parlons-politique.fr/politique-locale/a-saint-denis-les-lyceens-propulsent-bally-bagayoko-au-coeur-du-debat-sur-lavenir-de-la-gauche-francaise_28426/": "2026-10-02T17:54:08.590017+00:00",
   "https://www.parlons-politique.fr/politique-locale/charges-policieres-contre-des-elus-quand-la-mediation-locale-devient-impossible-devant-les-lycees-bloques_28440/": "2026-10-02T22:18:54.024521+00:00",
   "https://www.parlons-politique.fr/ephemerides/le-4-octobre-1898-paris-lance-le-metro-ce-chantier-public-qui-va-bouleverser-la-vie-quotidienne_28349/": "1898-10-04T11:00:00+00:00",
-  "https://www.parlons-politique.fr/politique-locale/a-saint-denis-la-demande-de-revocation-du-maire-ouvre-un-debat-sur-le-soutien-aux-lyceens-mobilises_28828/": "2026-10-07T06:07:25.719561+00:00"
+  "https://www.parlons-politique.fr/politique-locale/a-saint-denis-la-demande-de-revocation-du-maire-ouvre-un-debat-sur-le-soutien-aux-lyceens-mobilises_28828/": "2026-10-07T06:07:25.719561+00:00",
+  "https://www.parlons-politique.fr/politique-locale/le-jumelage-entre-saint-etienne-et-wuppertal-peut-il-depasser-les-visites-officielles-et-profiter-a-davantage-dhabitants_28952/": "2026-10-19T11:00:00+00:00",
+  "https://www.parlons-politique.fr/politique-locale/en-vendee-le-recours-de-stephane-ibarra-met-a-lepreuve-la-validite-du-troisieme-siege-senatorial-de-la-droite_28942/": "2026-10-08T18:53:12.711860+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "Le jumelage entre Saint-Étienne et Wuppertal peut-il dépasser les visites officielles et profiter à davantage d’habitants ?",
+   "link": "https://www.parlons-politique.fr/politique-locale/le-jumelage-entre-saint-etienne-et-wuppertal-peut-il-depasser-les-visites-officielles-et-profiter-a-davantage-dhabitants_28952/",
+   "summary": "La maire de Wuppertal sera à Saint-Étienne du 16 au 19 octobre 2026 pour discuter de l’avenir du jumelage et découvrir plusieurs…",
+   "image": "https://www.parlons-politique.fr/wp-content/uploads/2026/10/concert-jumelage-eglise-600x400.webp",
+   "date": "2026-10-19T11:00:00+00:00",
+   "pubdate": "2026-10-19T11:00:00+00:00"
+  },
+  {
+   "title": "En Vendée, le recours de Stéphane Ibarra met à l’épreuve la validité du troisième siège sénatorial de la droite",
+   "link": "https://www.parlons-politique.fr/politique-locale/en-vendee-le-recours-de-stephane-ibarra-met-a-lepreuve-la-validite-du-troisieme-siege-senatorial-de-la-droite_28942/",
+   "summary": "Stéphane Ibarra conteste les conditions des sénatoriales en Vendée, où la liste de Bruno Retailleau a remporté les trois sièges. Le Conseil…",
+   "image": "https://www.parlons-politique.fr/wp-content/uploads/2026/10/documents-campagne-vendee-600x400.webp",
+   "date": null,
+   "pubdate": "2026-10-08T18:53:12.711860+00:00"
+  },
   {
    "title": "À Saint-Denis, la demande de révocation du maire ouvre un débat sur le soutien aux lycéens mobilisés",
    "link": "https://www.parlons-politique.fr/politique-locale/a-saint-denis-la-demande-de-revocation-du-maire-ouvre-un-debat-sur-le-soutien-aux-lyceens-mobilises_28828/",
@@ -80,22 +96,6 @@
    "image": "https://www.parlons-politique.fr/wp-content/uploads/2026/09/senatoriales-vide-600x400.webp",
    "date": null,
    "pubdate": "2026-09-27T17:01:54.676971+00:00"
-  },
-  {
-   "title": "Sénatoriales dans la Vienne : cinq candidats pour deux sièges, un scrutin qui se joue entre élus locaux",
-   "link": "https://www.parlons-politique.fr/politique-locale/senatoriales-dans-la-vienne-cinq-candidats-pour-deux-sieges-un-scrutin-qui-se-joue-entre-elus-locaux_27833/",
-   "summary": "Dans la Vienne, cinq candidats se disputent deux sièges de sénateur le 27 septembre 2026. Le scrutin majoritaire mobilisera 1 202 grands…",
-   "image": "https://www.parlons-politique.fr/wp-content/uploads/2026/09/salle-conseil-municipal-2-600x400.webp",
-   "date": "2026-09-27T11:00:00+00:00",
-   "pubdate": "2026-09-27T11:00:00+00:00"
-  },
-  {
-   "title": "Sénatoriales dans le Doubs : six listes cherchent à convaincre les élus qui choisiront les trois futurs sénateurs",
-   "link": "https://www.parlons-politique.fr/politique-locale/senatoriales-dans-le-doubs-six-listes-cherchent-a-convaincre-les-elus-qui-choisiront-les-trois-futurs-senateurs_27835/",
-   "summary": "Six listes se disputent trois sièges au Sénat dans le Doubs. Le scrutin, indirect et proportionnel, dépendra du vote des grands électeurs,…",
-   "image": "https://www.parlons-politique.fr/wp-content/uploads/2026/09/salle-conseil-municipal-3-600x400.webp",
-   "date": null,
-   "pubdate": "2026-09-25T11:56:46.096502+00:00"
   },
   {
    "title": "Le 4 octobre 1898 : Paris lance le métro, ce chantier public qui va bouleverser la vie quotidienne",
