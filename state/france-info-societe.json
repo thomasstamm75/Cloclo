@@ -1,117 +1,213 @@
 {
- "etag": "\"dbc60ad9661e3cb88eb0412dad640219-gzip\"",
+ "etag": "\"48e89e726f6cf2037ead8434d6db768f-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/societe/nos-jours-heureux/": "2026-09-30T20:05:26.193735+00:00",
-  "https://www.franceinfo.fr/economie/pouvoir-achat/je-regarde-d-abord-le-prix-et-apres-mes-envies-mere-de-famille-retraitee-etudiant-ils-vivent-a-l-euro-pres_8224021.html": "2026-10-05T22:03:33.095631+00:00",
   "https://www.franceinfo.fr/sante/handicap/temoignages-ce-que-j-attends-du-prochain-president-six-proches-aidants-devoilent-six-mesures-qui-pourraient-changer-leur-vie_8188307.html": "2026-10-06T06:28:41.003749+00:00",
   "https://www.franceinfo.fr/culture/bd/c-est-un-peu-comme-une-grande-s-ur-comment-une-generation-lou-s-est-formee-en-vingt-ans_8225596.html": "2026-10-07T06:07:27.892075+00:00",
   "https://www.franceinfo.fr/monde/usa/midterms-2018/son-cote-imprevisible-me-rend-nerveux-ces-republicains-qui-pris-a-la-gorge-par-l-inflation-envisagent-de-donner-une-lecon-a-donald-trump-aux-midterms_8225785.html": "2026-10-07T13:32:30.099281+00:00",
-  "https://www.franceinfo.fr/societe/education/parcoursup/parcoursup/on-fait-notre-scolarite-en-france-pour-apres-ne-pas-etre-pris-qui-sont-les-naufrages-de-parcoursup_8227441.html": "2026-10-07T20:39:44.500600+00:00",
   "https://www.franceinfo.fr/societe/education/blocage-des-lycees/sebastien-lecornu-n-a-pas-pris-l-ampleur-des-attentes-de-la-jeunesse-souligne-le-depute-ps-arthur-delaporte-apres-l-allocution-du-premier-ministre_8227459.html": "2026-10-07T20:39:44.500600+00:00",
-  "https://www.franceinfo.fr/monde/proche-orient/attaques-du-7-octobre/parfois-je-me-refais-le-film-dans-la-tete-ces-enfants-rescapes-du-7-octobre-qui-grandissent-avec-le-traumatisme_8227444.html": "2026-10-07T20:39:44.500600+00:00",
-  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/les-grenades-assourdissantes-vraiment-suspendues_8227405.html": "2026-10-07T20:39:44.500600+00:00",
-  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/il-y-a-sans-doute-un-effet-de-groupe-et-la-volonte-de-montrer-aux-autres-qu-on-est-capable-de-quel-est-le-profil-des-jeunes-interpelles_8227426.html": "2026-10-07T20:39:44.500600+00:00",
-  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/le-premier-ministre-cherche-a-gagner-du-temps-jusqu-aux-vacances-scolaires-estime-un-representant-du-syndicat-renouveau-lyceen_8227438.html": "2026-10-07T20:39:44.500600+00:00",
-  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-des-lyceens-moins-de-blocages-mais-toujours-des-tensions-a-l-aube-d-une-nouvelle-journee-de-manifestations_8227411.html": "2026-10-07T20:39:44.500600+00:00",
-  "https://www.franceinfo.fr/replay-radio/la-question-des-informes/mobilisations-lyceennes-le-maintien-de-l-ordre-est-il-disproportionne_8217856.html": "2026-10-07T20:39:44.500600+00:00",
-  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/une-enquete-a-ete-ouverte-pour-violences-volontaires-apres-qu-un-lyceen-a-ete-blesse-a-la-tete-lors-d-une-charge-de-crs-a-marseille_8227387.html": "2026-10-07T20:39:44.500600+00:00",
   "https://www.franceinfo.fr/societe/euthanasie/comprendre-les-debats-sur-la-fin-de-vie/": "2026-10-07T20:39:44.500600+00:00",
-  "https://www.franceinfo.fr/replay-radio/les-informes-de-france-info/lycees-carburant-agriculteurs-le-gouvernement-face-aux-crises-les-informes-de-franceinfo-du-mercredi-7-octobre-2026_8205401.html": "2026-10-07T11:00:00+00:00",
-  "https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/lycees-gazole-electricite-budget-ce-qu-il-faut-retenir-de-l-allocution-du-premier-ministre-sebastien-lecornu_8227297.html": "2026-10-07T20:39:44.500600+00:00",
-  "https://www.franceinfo.fr/faits-divers/un-parent-d-eleve-place-en-garde-a-vue-en-gironde-pour-avoir-menace-de-mort-l-institutrice-de-son-fils_8227285.html": "2026-10-07T20:39:44.500600+00:00",
-  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/un-lyceen-de-17-ans-va-porter-plainte-apres-avoir-ete-blesse-a-la-tete-lors-d-une-charge-de-crs-devant-son-etablissement-a-marseille_8227264.html": "2026-10-07T20:39:44.500600+00:00",
-  "https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/direct-lycees-carburants-budget-suivez-l-allocution-du-premier-ministre-sebastien-lecornu_8227246.html": "2026-10-07T20:39:44.500600+00:00",
-  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/on-ne-peut-rien-obtenir-par-la-violence-estime-le-syndicat-etudiant-uni-qui-appelle-a-lever-les-blocages_8227171.html": "2026-10-07T20:39:44.500600+00:00",
-  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/info-franceinfo-adolescent-ampute-d-une-main-a-lens-une-video-montre-la-victime-se-pencher-vers-la-grenade-assourdissante_8227006.html": "2026-10-07T20:39:44.500600+00:00",
-  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/emmanuel-macron-a-demande-a-laurent-nunez-la-suspension-des-grenades-assourdissantes_8227060.html": "2026-10-07T20:39:44.500600+00:00",
-  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/trois-nouveaux-suspects-en-garde-a-vue-apres-l-agression-d-un-policier-a-belfort_8226988.html": "2026-10-07T20:39:44.500600+00:00",
-  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/reportage-ils-sont-dans-le-bla-bla-plutot-que-dans-l-action-a-lens-la-colere-des-lyceens-ne-retombe-pas-apres-que-l-un-d-eux-a-eu-la-main-arrachee_8226862.html": "2026-10-07T20:39:44.500600+00:00",
-  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/marseille-un-lyceen-blesse-a-la-tete-lors-d-une-charge-de-crs-une-enquete-ouverte_8227507.html": "2026-10-08T01:03:09.513719+00:00",
   "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-des-lyceens-le-snes-fsu-denonce-la-copie-blanche-de-sebastien-lecornu-qui-joue-la-strategie-du-pourrissement_8227486.html": "2026-10-08T01:03:09.513719+00:00",
-  "https://www.franceinfo.fr/societe/accidents-fuites-de-gaz-aide-aux-personnes-agees-48-heures-avec-les-pompiers-de-l-isere_8227447.html": "2026-10-08T01:03:09.513719+00:00"
+  "https://www.franceinfo.fr/une-information-transparente-franceinfo/transparence-dans-quelles-conditions-le-journal-de-13-heures-de-france-2-a-t-il-diffuse-une-image-de-pancarte-insultante-a-l-egard-du-president-de-la-republique-et-de-son-epouse_8227024.html": "2026-10-08T10:41:51.164453+00:00",
+  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/on-n-arretera-pas-tant-qu-on-n-aura-pas-des-reponses-sebastien-lecornu-n-a-pas-convaincu-les-lyceens_8228293.html": "2026-10-08T10:41:51.164453+00:00",
+  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/les-forces-de-l-ordre-font-reculer-un-blocus-de-lyceen-a-paris_8228230.html": "2026-10-08T10:41:51.164453+00:00",
+  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/plus-de-6-000-jeunes-interpelles-qui-sont-ils_8228212.html": "2026-10-08T10:41:51.164453+00:00",
+  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/ca-me-touche-enormement-c-est-tres-hugolien-reagit-l-acteur-vincent-lindon-a-propos-des-mobilisations-lyceennes_8228179.html": "2026-10-08T10:41:51.164453+00:00",
+  "https://www.franceinfo.fr/monde/afghanistan/la-france-ouvre-un-dialogue-avec-les-talibans-sur-les-questions-migratoires_8227978.html": "2026-10-08T10:41:51.164453+00:00",
+  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/on-a-cree-de-l-angoisse-et-des-injustices-reconnait-la-ministre-deleguee-a-l-enseignement-concernant-la-mobilisation-des-lyceens_8228062.html": "2026-10-08T10:41:51.164453+00:00",
+  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/apres-les-annonces-du-gouvernement-la-mobilisation-continue-chez-les-lyceens_8228050.html": "2026-10-08T10:41:51.164453+00:00",
+  "https://www.franceinfo.fr/replay-jt/franceinfo/6h30-9h30/7-heures/mobilisation-lyceenne-les-policiers-ne-sont-pas-accueillis-avec-des-bouquets-de-fleurs-declare-jean-didier-berger-ministre-delegue-aupres-du-ministre-de-l-interieur_8227996.html": "2026-10-08T10:41:51.164453+00:00",
+  "https://www.franceinfo.fr/replay-radio/les-informes-du-matin/les-informes-du-matin-du-jeudi-08-octobre-2026_8207138.html": "2026-10-08T11:00:00+00:00",
+  "https://www.franceinfo.fr/politique/jordan-bardella/il-montre-qu-il-connait-les-codes-des-tweets-du-jeune-jordan-bardella-font-ressurgir-l-ambiance-soralienne-de-ses-debuts-en-politique_8226601.html": "2026-10-08T10:41:51.164453+00:00",
+  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/non-on-n-a-pas-un-armement-disproportionne-en-france-assure-maud-bregeon-concernant-le-maintien-de-l-ordre-pendant-les-mobilisations-lyceennes_8227900.html": "2026-10-08T10:41:51.164453+00:00",
+  "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/colere-lyceenne-deblocage-de-stocks-strategiques-de-gazole-budget-2027-le-8h30-franceinfo-de-maud-bregeon_8207165.html": "2026-10-08T10:41:51.164453+00:00",
+  "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/est-il-possible-legalement-d-expulser-de-son-logement-social-la-famille-d-un-lyceen-casseur-comme-le-demande-eric-ciotti_8207156.html": "2026-10-08T10:41:51.164453+00:00",
+  "https://www.franceinfo.fr/replay-radio/ca-dit-quoi/podcast-un-discours-vide-l-espagne-pleure-maricarmen-et-qui-a-gagne-la-can-ca-dit-quoi-ce-8-octobre_8218882.html": "2026-10-08T10:41:51.164453+00:00",
+  "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-diluer-la-crise-lyceenne-dans-celle-des-carburants-sebastien-lecornu-et-la-communication-experimentale_8207141.html": "2026-10-08T10:41:51.164453+00:00",
+  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-des-lyceens-comment-le-mouvement-s-organise-sur-discord-pour-preparer-les-blocages-et-perturber-les-cours-en-ligne_8226913.html": "2026-10-08T10:41:51.164453+00:00",
+  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-des-lyceens-les-lyceens-et-les-etudiants-de-nouveau-appeles-a-manifester-partout-en-france-jeudi_8227783.html": "2026-10-08T10:41:51.164453+00:00",
+  "https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/les-annonces-de-sebastien-lecornu-sur-la-crise-des-lycees-et-les-prix-des-carburants-ne-convainquent-pas-les-oppositions_8227378.html": "2026-10-08T10:41:51.164453+00:00",
+  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/celui-qui-a-le-plus-d-allure-gagne-c-est-quoi-les-battles-d-aura-ces-duels-qui-se-multiplient-dans-les-manifestations-lyceennes_8226778.html": "2026-10-08T10:41:51.164453+00:00",
+  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/gaz-lacrymogene-grenades-lbd-dans-quel-cadre-les-armes-intermediaires-sont-elles-utilisees-pour-le-maintien-de-l-ordre-par-les-policiers-et-gendarmes_8224891.html": "2026-10-08T10:41:51.164453+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "Marseille : un lycéen blessé à la tête lors d'une charge de CRS, une enquête ouverte Une enquête a été ouverte après qu'un lycéen de 17 ans a été blessé à la tête lors d'une charge de CRS devant son établissement à Marseille, mercredi 7 octobre. L'adolescent est ressorti de l'hôpital avec six points de suture au crâne. Selon la préfecture de police, les CRS étaient intervenus pour \"libérer la voie publique\" et permettre aux autres élèves d'entrer dans le lycée. L'enquête a été confiée à l'IGPN. 7 octobre 0:25 vidéo 25 secondes",
-   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/marseille-un-lyceen-blesse-a-la-tete-lors-d-une-charge-de-crs-une-enquete-ouverte_8227507.html",
-   "summary": "Marseille : un lycéen blessé à la tête lors d'une charge de CRS, une enquête ouverte",
-   "image": "https://www.franceinfo.fr/pictures/4OG2ZoB9nMF7_i3cnF-cL4y2rBw/0x0:1080x1920/fit-in/432x297/filters:upscale():fill(blur):format(jpg)/2026/10/07/6ac6b94519e43922129807.jpg",
-   "date": null,
-   "pubdate": "2026-10-08T01:03:09.513719+00:00"
+   "title": "20:01 audio 20 minutes 1 Les informés du matin du jeudi 08 octobre 2026",
+   "link": "https://www.franceinfo.fr/replay-radio/les-informes-du-matin/les-informes-du-matin-du-jeudi-08-octobre-2026_8207138.html",
+   "summary": "Les informés du matin du jeudi 08 octobre 2026",
+   "image": "https://www.franceinfo.fr/pictures/TKWb09bmk3TJazMzKgqtt36pV4Q/0x292:5616x3451/432x243/filters:format(jpg)/2026/07/08/6a4e52a5b634b233317025.jpg",
+   "date": "2026-10-08T11:00:00+00:00",
+   "pubdate": "2026-10-08T11:00:00+00:00"
   },
   {
-   "title": "Mobilisation des lycéens : le Snes-FSU dénonce la \"copie blanche\" de Sébastien Lecornu, qui joue la \"stratégie du pourrissement\"",
-   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-des-lyceens-le-snes-fsu-denonce-la-copie-blanche-de-sebastien-lecornu-qui-joue-la-strategie-du-pourrissement_8227486.html",
+   "title": ": Transparence Dans quelles conditions le journal de 13 heures de France 2 a-t-il diffusé une image de pancarte insultante à l'égard du président de la République et de son épouse ? Il s'agit d'une image fugace derrière le présentateur du \"13 Heures\", Julian Bugier. Elle dure à peine une seconde. Un média numérique, contempteur régulier de France Télévisions, a jugé bon de la diffuser sous forme d'image arrêtée. Le médiateur revient sur cette erreur opportunément exploitée. Aujourd'hui : Transparence",
+   "link": "https://www.franceinfo.fr/une-information-transparente-franceinfo/transparence-dans-quelles-conditions-le-journal-de-13-heures-de-france-2-a-t-il-diffuse-une-image-de-pancarte-insultante-a-l-egard-du-president-de-la-republique-et-de-son-epouse_8227024.html",
+   "summary": "Dans quelles conditions le journal de 13 heures de France 2 a-t-il diffusé une image de pancarte insultante à l'égard du président de la République et de son épouse ?",
+   "image": "https://www.franceinfo.fr/pictures/StJW-8tdM-6rLo45mpOknBzaE1k/235x0:2315x1430/432x297/filters:format(jpg)/2026/10/08/6ac766e382b2c826072849.png",
+   "date": null,
+   "pubdate": "2026-10-08T10:41:51.164453+00:00"
+  },
+  {
+   "title": "2:05 vidéo 2 minutes 5 \"On n'arrêtera pas, tant qu'on n'aura pas des réponses\" : Sébastien Lecornu n'a pas convaincu les lycéens",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/on-n-arretera-pas-tant-qu-on-n-aura-pas-des-reponses-sebastien-lecornu-n-a-pas-convaincu-les-lyceens_8228293.html",
+   "summary": "\"On n'arrêtera pas, tant qu'on n'aura pas des réponses\" : Sébastien Lecornu n'a pas convaincu les lycéens",
+   "image": "https://www.franceinfo.fr/pictures/dRVI14POVDVwNKeeitcLTibsXBA/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/08/6ac770a232595984249323.jpg",
+   "date": null,
+   "pubdate": "2026-10-08T10:41:51.164453+00:00"
+  },
+  {
+   "title": "0:31 vidéo 31 secondes Les forces de l'ordre font reculer un blocus de lycéen à Paris",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/les-forces-de-l-ordre-font-reculer-un-blocus-de-lyceen-a-paris_8228230.html",
+   "summary": "Les forces de l'ordre font reculer un blocus de lycéen à Paris",
+   "image": "https://www.franceinfo.fr/pictures/Rtx4p7XZSHjobWlOgN3CPfMb5dM/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/08/6ac76aa747c86509811731.png",
+   "date": null,
+   "pubdate": "2026-10-08T10:41:51.164453+00:00"
+  },
+  {
+   "title": "1:10 vidéo 1 minute 10 Plus de 6 000 jeunes interpellés : qui sont-ils ?",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/plus-de-6-000-jeunes-interpelles-qui-sont-ils_8228212.html",
+   "summary": "Plus de 6 000 jeunes interpellés : qui sont-ils ?",
+   "image": "https://www.franceinfo.fr/pictures/kukqxMClYa-5CozTX5FJZUJ1BD0/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/08/6ac766db0ce4c752159328.jpg",
+   "date": null,
+   "pubdate": "2026-10-08T10:41:51.164453+00:00"
+  },
+  {
+   "title": "\"Ça me touche énormément, [...] c'est très hugolien\", réagit l'acteur Vincent Lindon à propos des mobilisations lycéennes",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/ca-me-touche-enormement-c-est-tres-hugolien-reagit-l-acteur-vincent-lindon-a-propos-des-mobilisations-lyceennes_8228179.html",
    "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/RDE7PBtOW-GpMjtPbhc6BeJMwG0/0x362:4608x2954/432x243/filters:format(jpg)/2024/05/14/000-32hk2dd-66431c1545e90710838604.jpg",
+   "date": null,
+   "pubdate": "2026-10-08T10:41:51.164453+00:00"
+  },
+  {
+   "title": "La France ouvre un \"dialogue\" avec les talibans sur les questions migratoires",
+   "link": "https://www.franceinfo.fr/monde/afghanistan/la-france-ouvre-un-dialogue-avec-les-talibans-sur-les-questions-migratoires_8227978.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/uIXmxwz6DkWxCb1TBW9VMFU26Dc/0x68:768x499/432x243/filters:format(jpg)/2018/05/07/phpuALcXL_1.jpg",
+   "date": null,
+   "pubdate": "2026-10-08T10:41:51.164453+00:00"
+  },
+  {
+   "title": "La ministre déléguée à l'Enseignement prône \"des mesures territorialisées\" sur Parcoursup, en réponse à la mobilisation des lycéens",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/on-a-cree-de-l-angoisse-et-des-injustices-reconnait-la-ministre-deleguee-a-l-enseignement-concernant-la-mobilisation-des-lyceens_8228062.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/n2_uM3zClIQXRC2V8Z08sdWd-Rk/0x0:1920x1080/432x243/filters:format(jpg)/2026/04/22/69e923365fe5f898738176.png",
+   "date": null,
+   "pubdate": "2026-10-08T10:41:51.164453+00:00"
+  },
+  {
+   "title": "1:01 vidéo 1 minute 1 Après les annonces du gouvernement, la mobilisation continue chez les lycéens",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/apres-les-annonces-du-gouvernement-la-mobilisation-continue-chez-les-lyceens_8228050.html",
+   "summary": "Après les annonces du gouvernement, la mobilisation continue chez les lycéens",
+   "image": "https://www.franceinfo.fr/pictures/-klgLrUyypb6CfyOT0Ot3PD95_o/3x0:837x469/432x243/filters:format(jpg)/2026/10/08/6ac75488cb536888737845.jpg",
+   "date": null,
+   "pubdate": "2026-10-08T10:41:51.164453+00:00"
+  },
+  {
+   "title": "10:54 vidéo 10 minutes 54 Mobilisation lycéenne : \"Les policiers ne sont pas accueillis avec des bouquets de fleurs\", déclare Jean-Didier Berger, ministre délégué auprès du ministre de l'Intérieur",
+   "link": "https://www.franceinfo.fr/replay-jt/franceinfo/6h30-9h30/7-heures/mobilisation-lyceenne-les-policiers-ne-sont-pas-accueillis-avec-des-bouquets-de-fleurs-declare-jean-didier-berger-ministre-delegue-aupres-du-ministre-de-l-interieur_8227996.html",
+   "summary": "Mobilisation lycéenne : \"Les policiers ne sont pas accueillis avec des bouquets de fleurs\", déclare Jean-Didier Berger, ministre délégué auprès du ministre de l'Intérieur",
+   "image": "https://www.franceinfo.fr/pictures/ODLzhGEiEomhPturSEJyHmoiLAA/0x24:968x568/432x243/filters:format(jpg)/2026/10/08/6ac750281337b836706984.jpg",
+   "date": null,
+   "pubdate": "2026-10-08T10:41:51.164453+00:00"
+  },
+  {
+   "title": ": Enquête franceinfo 10:00 article 10 minutes : Enquête franceinfo \"Il montre qu'il connaît les codes\" : des tweets du jeune Jordan Bardella font ressurgir \"l'ambiance soralienne\" de ses débuts en politique",
+   "link": "https://www.franceinfo.fr/politique/jordan-bardella/il-montre-qu-il-connait-les-codes-des-tweets-du-jeune-jordan-bardella-font-ressurgir-l-ambiance-soralienne-de-ses-debuts-en-politique_8226601.html",
+   "summary": "\"Il montre qu'il connaît les codes\" : des tweets du jeune Jordan Bardella font ressurgir \"l'ambiance soralienne\" de ses débuts en politique",
+   "image": "https://www.franceinfo.fr/pictures/gTNu5ElFZad5C8I3yj_eG7aT-CU/603x0:4763x4160/100x100/filters:format(jpg)/2026/10/07/6ac6421796d9b632587530.png",
+   "date": null,
+   "pubdate": "2026-10-08T10:41:51.164453+00:00"
+  },
+  {
+   "title": "\"Non, on n'a pas un armement disproportionné en France\", assure Maud Bregeon concernant le maintien de l'ordre pendant les mobilisations lycéennes La porte-parole du gouvernement défend le travail \"absolument remarquable\" des policiers et des gendarmes, au moment où l'utilisation de la grenade assourdissante a été suspendue après qu'un adolescent a eu la main arrachée à Lens.",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/non-on-n-a-pas-un-armement-disproportionne-en-france-assure-maud-bregeon-concernant-le-maintien-de-l-ordre-pendant-les-mobilisations-lyceennes_8227900.html",
+   "summary": "\"Non, on n'a pas un armement disproportionné en France\", assure Maud Bregeon concernant le maintien de l'ordre pendant les mobilisations lycéennes",
+   "image": "https://www.franceinfo.fr/pictures/CQfCIY1Sl2YwW5v-hcGV29kN9uE/160x2:1170x570/432x243/filters:format(jpg)/2026/10/08/6ac73b4380566525088824.jpg",
+   "date": null,
+   "pubdate": "2026-10-08T10:41:51.164453+00:00"
+  },
+  {
+   "title": "22:41 audio 22 minutes 41 Colère lycéenne, déblocage de stocks stratégiques de gazole, budget 2027... Le \"8h30 franceinfo\" de Maud Bregeon Maud Bregeon, porte-parole du gouvernement et ministre déléguée chargée de l'Énergie, est l'invitée du \"8h30 franceinfo\".",
+   "link": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/colere-lyceenne-deblocage-de-stocks-strategiques-de-gazole-budget-2027-le-8h30-franceinfo-de-maud-bregeon_8207165.html",
+   "summary": "Colère lycéenne, déblocage de stocks stratégiques de gazole, budget 2027... Le \"8h30 franceinfo\" de Maud Bregeon",
+   "image": "https://www.franceinfo.fr/pictures/WDP-O1Vg3qx-wfIM1Jq3boCHDt4/209x0:1157x532/432x243/filters:format(jpg)/2026/10/08/6ac73e8505049088181746.jpg",
+   "date": null,
+   "pubdate": "2026-10-08T10:41:51.164453+00:00"
+  },
+  {
+   "title": "2:03 audio 2 minutes 3 Est-il possible légalement d'expulser de son logement social la famille d'un lycéen casseur, comme le demande Éric Ciotti ? Le député UDR estime que la famille d'un lycéen qui vandalise son établissement scolaire au cours d'un blocage devrait être expulsée de son logement social si elle en a un. En réalité, une telle mesure n'est pas possible légalement.",
+   "link": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/est-il-possible-legalement-d-expulser-de-son-logement-social-la-famille-d-un-lyceen-casseur-comme-le-demande-eric-ciotti_8207156.html",
+   "summary": "Est-il possible légalement d'expulser de son logement social la famille d'un lycéen casseur, comme le demande Éric Ciotti ?",
+   "image": "https://www.franceinfo.fr/pictures/v-J7goiEZ4FrP53FRGFWNDM6190/1095x341:1810x743/432x243/filters:format(jpg)/2026/10/08/6ac73a0a8133f501765233.jpg",
+   "date": null,
+   "pubdate": "2026-10-08T10:41:51.164453+00:00"
+  },
+  {
+   "title": ": Podcast 5:59 audio 5 minutes 59 Un discours vide, l'Espagne pleure Maricarmen et qui a gagné la CAN ? Ça dit quoi ce 8 octobre ? Sébastien Lecornu n'a fait aucune annonce sur la mobilisation lycéenne, celle qui est devenue le visage de la crise du logement en Espagne est morte et le Tribunal administratif du sport se penche sur la finale de la CAN 2026.",
+   "link": "https://www.franceinfo.fr/replay-radio/ca-dit-quoi/podcast-un-discours-vide-l-espagne-pleure-maricarmen-et-qui-a-gagne-la-can-ca-dit-quoi-ce-8-octobre_8218882.html",
+   "summary": "Un discours vide, l'Espagne pleure Maricarmen et qui a gagné la CAN ? Ça dit quoi ce 8 octobre ?",
+   "image": "https://www.franceinfo.fr/pictures/CeU8e-m7S0Ojq0DMM_KakSFIhH0/51x0:1437x780/432x243/filters:format(jpg)/2026/09/28/6aba74ab2df79180716192.jpg",
+   "date": null,
+   "pubdate": "2026-10-08T10:41:51.164453+00:00"
+  },
+  {
+   "title": ": Édito 2:48 audio 2 minutes 48 Diluer la crise lycéenne dans celle des carburants : Sébastien Lecornu et la communication expérimentale Attendu sur la révolte lycéenne et les autres crises qui pourraient s'agréger, le Premier ministre, Sébastien Lecornu, a concentré sa réponse sur la colère sociale, mercredi soir à la télévision. Il a surtout annoncé des mesures susceptibles d'alléger la pression sur les prix des carburants et de l'électricité.",
+   "link": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-diluer-la-crise-lyceenne-dans-celle-des-carburants-sebastien-lecornu-et-la-communication-experimentale_8207141.html",
+   "summary": "Diluer la crise lycéenne dans celle des carburants : Sébastien Lecornu et la communication expérimentale",
+   "image": "https://www.franceinfo.fr/pictures/jh6oh9ObVlHApOOY0-sAxqZcGR8/0x0:1024x576/432x243/filters:format(jpg)/2026/10/08/6ac737200ff96977108400.jpg",
+   "date": null,
+   "pubdate": "2026-10-08T10:41:51.164453+00:00"
+  },
+  {
+   "title": "Mobilisation des lycéens : comment le mouvement s'organise sur Discord pour préparer les blocages et perturber les cours en ligne La mobilisation des lycéens, qui dure désormais depuis 15 jours devant les établissements scolaires, tisse aussi sa toile sur les réseaux sociaux. Sur Discord, des groupes de discussion ont été créés pour relayer les appels à la mobilisation et pour organiser les intrusions dans les cours à distance.",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-des-lyceens-comment-le-mouvement-s-organise-sur-discord-pour-preparer-les-blocages-et-perturber-les-cours-en-ligne_8226913.html",
+   "summary": "Mobilisation des lycéens : comment le mouvement s'organise sur Discord pour préparer les blocages et perturber les cours en ligne",
+   "image": "https://www.franceinfo.fr/pictures/reD0mL8tL3zVZ6CDdR8QlqWs1N8/0x53:1024x629/432x243/filters:format(jpg)/2026/08/18/6a83f86fa5b88976943639.jpg",
+   "date": null,
+   "pubdate": "2026-10-08T10:41:51.164453+00:00"
+  },
+  {
+   "title": "• Direct Mobilisation des lycéens : les premiers cortèges de \"l'acte 4\" s'élancent à Marseille, Lyon ou Nantes Les organisations syndicales, lycéennes et étudiantes appellent à une nouvelle journée de blocage et de manifestations.",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-des-lyceens-les-lyceens-et-les-etudiants-de-nouveau-appeles-a-manifester-partout-en-france-jeudi_8227783.html",
+   "summary": "Mobilisation des lycéens : les premiers cortèges de \"l'acte 4\" s'élancent à Marseille, Lyon ou Nantes",
+   "image": "https://www.franceinfo.fr/pictures/PAcsmoPXjLZWW6gQPxwbOaqIgxI/0x53:1024x629/432x243/filters:format(jpg)/2026/10/08/6ac7610806b60626296938.jpg",
+   "date": null,
+   "pubdate": "2026-10-08T10:41:51.164453+00:00"
+  },
+  {
+   "title": "Les annonces de Sébastien Lecornu sur la crise des lycées et les prix des carburants ne convainquent pas les oppositions Le Premier ministre tente de répondre aux deux crises du moment. Mais les annonces, qu'il a faites mercredi soir, sont loin de faire l'unanimité.",
+   "link": "https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/les-annonces-de-sebastien-lecornu-sur-la-crise-des-lycees-et-les-prix-des-carburants-ne-convainquent-pas-les-oppositions_8227378.html",
+   "summary": "Les annonces de Sébastien Lecornu sur la crise des lycées et les prix des carburants ne convainquent pas les oppositions",
+   "image": "https://www.franceinfo.fr/pictures/q0JdlZjuvX0eQurp9TvCGhYAIbQ/0x0:7541x4241/432x243/filters:format(jpg)/2026/10/07/6ac695fd123eb852872848.jpg",
+   "date": null,
+   "pubdate": "2026-10-08T10:41:51.164453+00:00"
+  },
+  {
+   "title": "\"Celui qui a le plus d'allure gagne\" : c'est quoi les \"battles d'aura\", ces duels qui se multiplient dans les manifestations lycéennes ? Nées sur les réseaux sociaux, ces confrontations mêlant poses de mangas, références sportives et mèmes internet ont gagné les cours de récréation à la rentrée. Ces derniers jours, elles ont également été remarquées dans les blocages et manifestations des lycéens.",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/celui-qui-a-le-plus-d-allure-gagne-c-est-quoi-les-battles-d-aura-ces-duels-qui-se-multiplient-dans-les-manifestations-lyceennes_8226778.html",
+   "summary": "\"Celui qui a le plus d'allure gagne\" : c'est quoi les \"battles d'aura\", ces duels qui se multiplient dans les manifestations lycéennes ?",
+   "image": "https://www.franceinfo.fr/pictures/veHmPO_DgD1Y5iP44BaOLGIHarQ/0x0:6000x3375/432x243/filters:format(jpg)/2026/10/07/6ac661750d68c357865494.jpg",
+   "date": null,
+   "pubdate": "2026-10-08T10:41:51.164453+00:00"
+  },
+  {
+   "title": "Gaz lacrymogène, grenades, LBD… Dans quel cadre les armes intermédiaires sont-elles utilisées pour le maintien de l'ordre par les policiers et gendarmes ? Lundi, un jeune de 15 ans a eu la main arrachée par l'explosion d'une grenade policière. En réaction, le ministre de l'Intérieur a annoncé la suspension de l'utilisation des grenades assourdissantes \"pour le mouvement lycéen\". Cette décision interroge plus largement sur l'utilisation des armes dites de force intermédiaire.",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/gaz-lacrymogene-grenades-lbd-dans-quel-cadre-les-armes-intermediaires-sont-elles-utilisees-pour-le-maintien-de-l-ordre-par-les-policiers-et-gendarmes_8224891.html",
+   "summary": "Gaz lacrymogène, grenades, LBD… Dans quel cadre les armes intermédiaires sont-elles utilisées pour le maintien de l'ordre par les policiers et gendarmes ?",
+   "image": "https://www.franceinfo.fr/pictures/6uGcgIRDT_9qjBOHRKfOEK5KNYg/0x0:1024x576/432x243/filters:format(jpg)/2026/10/07/6ac639962dfe8972388009.jpg",
+   "date": null,
+   "pubdate": "2026-10-08T10:41:51.164453+00:00"
+  },
+  {
+   "title": "Mobilisation des lycéens : le Snes-FSU dénonce la \"copie blanche\" de Sébastien Lecornu, qui joue la \"stratégie du pourrissement\" \"Sébastien Lecornu essaye clairement de gagner du temps\", regrette Sophie Vénétitay, secrétaire générale du Snes-FSU, premier syndicat d'enseignants du secondaire, mercredi sur franceinfo.",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-des-lyceens-le-snes-fsu-denonce-la-copie-blanche-de-sebastien-lecornu-qui-joue-la-strategie-du-pourrissement_8227486.html",
+   "summary": "Mobilisation des lycéens : le Snes-FSU dénonce la \"copie blanche\" de Sébastien Lecornu, qui joue la \"stratégie du pourrissement\"",
    "image": "https://www.franceinfo.fr/pictures/BaVD8HX2a5aKUVnx2tV9u6mzSXo/0x5:1024x581/432x243/filters:format(jpg)/2026/10/07/6ac6b1e1a1838451229270.jpg",
    "date": null,
    "pubdate": "2026-10-08T01:03:09.513719+00:00"
-  },
-  {
-   "title": "17:53 vidéo 17 minutes 53 Accidents, fuites de gaz, aide aux personnes âgées... 48 heures avec les pompiers de l'Isère",
-   "link": "https://www.franceinfo.fr/societe/accidents-fuites-de-gaz-aide-aux-personnes-agees-48-heures-avec-les-pompiers-de-l-isere_8227447.html",
-   "summary": "Accidents, fuites de gaz, aide aux personnes âgées... 48 heures avec les pompiers de l'Isère",
-   "image": "https://www.franceinfo.fr/pictures/jqV71rf8H_VRdrKhjb77d82VPCM/0x86:1616x995/432x243/filters:format(jpg)/2026/10/07/6ac6ae1c9dec4669749891.png",
-   "date": null,
-   "pubdate": "2026-10-08T01:03:09.513719+00:00"
-  },
-  {
-   "title": "2:08 vidéo 2 minutes 8 \"On fait notre scolarité en France pour après ne pas être pris\" : qui sont les naufragés de Parcoursup ?",
-   "link": "https://www.franceinfo.fr/societe/education/parcoursup/parcoursup/on-fait-notre-scolarite-en-france-pour-apres-ne-pas-etre-pris-qui-sont-les-naufrages-de-parcoursup_8227441.html",
-   "summary": "\"On fait notre scolarité en France pour après ne pas être pris\" : qui sont les naufragés de Parcoursup ?",
-   "image": "https://www.franceinfo.fr/pictures/53BZM4PxBDuX5oJ9j46m9AkRtDw/0x84:1556x959/432x243/filters:format(jpg)/2026/10/07/6ac6a26393854431922886.png",
-   "date": null,
-   "pubdate": "2026-10-07T20:39:44.500600+00:00"
-  },
-  {
-   "title": "Sébastien Lecornu \"n'a pas pris l'ampleur des attentes de la jeunesse\", souligne le député PS Arthur Delaporte, après l'allocution du Premier ministre",
-   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/sebastien-lecornu-n-a-pas-pris-l-ampleur-des-attentes-de-la-jeunesse-souligne-le-depute-ps-arthur-delaporte-apres-l-allocution-du-premier-ministre_8227459.html",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/rI3Gk9LlRnh3TwrqtOylg4dYgqw/0x0:1024x576/432x243/filters:format(jpg)/2026/10/07/6ac6aa237b57b425748329.jpg",
-   "date": null,
-   "pubdate": "2026-10-07T20:39:44.500600+00:00"
-  },
-  {
-   "title": "3:23 vidéo 3 minutes 23 \"Parfois, je me refais le film dans la tête…\" : ces enfants rescapés du 7-Octobre qui grandissent avec le traumatisme",
-   "link": "https://www.franceinfo.fr/monde/proche-orient/attaques-du-7-octobre/parfois-je-me-refais-le-film-dans-la-tete-ces-enfants-rescapes-du-7-octobre-qui-grandissent-avec-le-traumatisme_8227444.html",
-   "summary": "\"Parfois, je me refais le film dans la tête…\" : ces enfants rescapés du 7-Octobre qui grandissent avec le traumatisme",
-   "image": "https://www.franceinfo.fr/pictures/0NWEBU7KiDBnwjdovWlwljRAFMI/130x0:1184x593/432x243/filters:format(jpg)/2026/10/07/6ac6a568d7504013741436.jpg",
-   "date": null,
-   "pubdate": "2026-10-07T20:39:44.500600+00:00"
-  },
-  {
-   "title": "1:57 vidéo 1 minute 57 Les grenades assourdissantes vraiment suspendues ?",
-   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/les-grenades-assourdissantes-vraiment-suspendues_8227405.html",
-   "summary": "Les grenades assourdissantes vraiment suspendues ?",
-   "image": "https://www.franceinfo.fr/pictures/zgVR53es6IypDhSjwL-Pj8EDR8g/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/07/6ac698c300078760013916.jpg",
-   "date": null,
-   "pubdate": "2026-10-07T20:39:44.500600+00:00"
-  },
-  {
-   "title": "1:39 vidéo 1 minute 39 \"Il y a sans doute (...) un effet de groupe et la volonté de montrer aux autres qu'on est capable de\" : quel est le profil des jeunes interpellés ?",
-   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/il-y-a-sans-doute-un-effet-de-groupe-et-la-volonte-de-montrer-aux-autres-qu-on-est-capable-de-quel-est-le-profil-des-jeunes-interpelles_8227426.html",
-   "summary": "\"Il y a sans doute (...) un effet de groupe et la volonté de montrer aux autres qu'on est capable de\" : quel est le profil des jeunes interpellés ?",
-   "image": "https://www.franceinfo.fr/pictures/Y_CimeTt9A-cP9JSaQwM20NiaO4/0x82:1534x945/432x243/filters:format(jpg)/2026/10/07/6ac6a030c2172470314553.png",
-   "date": null,
-   "pubdate": "2026-10-07T20:39:44.500600+00:00"
-  },
-  {
-   "title": "\"Le Premier ministre cherche à gagner du temps jusqu'aux vacances scolaires\", estime un représentant du syndicat Renouveau lycéen",
-   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/le-premier-ministre-cherche-a-gagner-du-temps-jusqu-aux-vacances-scolaires-estime-un-representant-du-syndicat-renouveau-lyceen_8227438.html",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/ooQFeF0EnRHVvOk3JR6hIPMS5N0/0x625:6000x4000/432x243/filters:format(jpg)/2026/10/07/6ac6a1a779ff5746942396.jpg",
-   "date": null,
-   "pubdate": "2026-10-07T20:39:44.500600+00:00"
-  },
-  {
-   "title": "2:34 vidéo 2 minutes 34 Mobilisation des lycéens : moins de blocages mais toujours des tensions, à l'aube d'une nouvelle journée de manifestations",
-   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-des-lyceens-moins-de-blocages-mais-toujours-des-tensions-a-l-aube-d-une-nouvelle-journee-de-manifestations_8227411.html",
-   "summary": "Mobilisation des lycéens : moins de blocages mais toujours des tensions, à l'aube d'une nouvelle journée de manifestations",
-   "image": "https://www.franceinfo.fr/pictures/Ag3Uq2UTUtBEPDaZAdWK_kaBJ44/0x118:1414x913/432x243/filters:format(jpg)/2026/10/07/6ac69be383df7784636478.png",
-   "date": null,
-   "pubdate": "2026-10-07T20:39:44.500600+00:00"
   },
   {
    "title": "Comprendre les débats sur la fin de vie 15 contenus",
@@ -122,90 +218,10 @@
    "pubdate": "2026-10-07T20:39:44.500600+00:00"
   },
   {
-   "title": "8:45 audio 8 minutes 45 Mobilisations lycéennes : le maintien de l'ordre est-il disproportionné ? Driss Aït Youssef, docteur en droit public, directeur de l’institut Léonard de Vinci, spécialiste des questions de sécurité et de renseignement était l'invité de franceinfo mercredi.",
-   "link": "https://www.franceinfo.fr/replay-radio/la-question-des-informes/mobilisations-lyceennes-le-maintien-de-l-ordre-est-il-disproportionne_8217856.html",
-   "summary": "Mobilisations lycéennes : le maintien de l'ordre est-il disproportionné ?",
-   "image": "https://www.franceinfo.fr/pictures/aO0_6fkBBsyoqK20VpTBiUyaIWs/0x190:3648x2242/432x243/filters:format(jpg)/2026/10/06/6ac49363c0e0b159340434.jpg",
-   "date": null,
-   "pubdate": "2026-10-07T20:39:44.500600+00:00"
-  },
-  {
-   "title": "Une enquête a été ouverte pour \"violences volontaires\" après qu'un lycéen a été blessé à la tête lors d'une charge de CRS à Marseille L'adolescent blessé lors d'un blocage devant le lycée Marie-Curie, situé dans un quartier central de la ville, a été transporté à l'hôpital. Il est ressorti avec six points de suture sur le crâne, selon les informations de franceinfo.",
-   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/une-enquete-a-ete-ouverte-pour-violences-volontaires-apres-qu-un-lyceen-a-ete-blesse-a-la-tete-lors-d-une-charge-de-crs-a-marseille_8227387.html",
-   "summary": "Une enquête a été ouverte pour \"violences volontaires\" après qu'un lycéen a été blessé à la tête lors d'une charge de CRS à Marseille",
-   "image": "https://www.franceinfo.fr/pictures/rHZRWiXB5cWNpWsUWmOyohR0spQ/0x358:4200x2721/432x243/filters:format(jpg)/2026/10/07/6ac69540c6928242570686.jpg",
-   "date": null,
-   "pubdate": "2026-10-07T20:39:44.500600+00:00"
-  },
-  {
-   "title": "Lycées, gazole, électricité, budget... Ce qu'il faut retenir de l'allocution du Premier ministre, Sébastien Lecornu Le chef du gouvernement a notamment promis d'annoncer de \"premières décisions\" à la fin du mois d'octobre afin de répondre à la mobilisation des lycéens.",
-   "link": "https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/lycees-gazole-electricite-budget-ce-qu-il-faut-retenir-de-l-allocution-du-premier-ministre-sebastien-lecornu_8227297.html",
-   "summary": "Lycées, gazole, électricité, budget... Ce qu'il faut retenir de l'allocution du Premier ministre, Sébastien Lecornu",
-   "image": "https://www.franceinfo.fr/pictures/mmXMwc87OJCOB-bpW3Ofd4rVJvs/0x5:1024x581/432x243/filters:format(jpg)/2026/10/07/6ac67e954451c943450267.jpg",
-   "date": null,
-   "pubdate": "2026-10-07T20:39:44.500600+00:00"
-  },
-  {
-   "title": "Un parent d'élève placé en garde à vue en Gironde pour avoir menacé de mort l'institutrice de son fils Les faits ont eu lieu au sein de l'école élémentaire Maurice Ravel de Talence, lundi matin, selon le maire de la ville. Le père de l'élève a notamment menacé l'enseignante de décapitation.",
-   "link": "https://www.franceinfo.fr/faits-divers/un-parent-d-eleve-place-en-garde-a-vue-en-gironde-pour-avoir-menace-de-mort-l-institutrice-de-son-fils_8227285.html",
-   "summary": "Un parent d'élève placé en garde à vue en Gironde pour avoir menacé de mort l'institutrice de son fils",
-   "image": "https://www.franceinfo.fr/pictures/Ga6LQzQsawuJxkH9iwQANqx_Wlc/0x29:5464x3103/432x243/filters:format(jpg)/2026/10/07/6ac67cb5bdf6f889696683.jpg",
-   "date": null,
-   "pubdate": "2026-10-07T20:39:44.500600+00:00"
-  },
-  {
-   "title": "Un lycéen va porter plainte après avoir été blessé à la tête lors d'une charge de CRS devant son établissement, à Marseille, une enquête ouverte Une enquête a été ouverte pour \"violences volontaires\", indique le parquet mercredi. Enzo, élève en terminale, est ressorti de l'hôpital avec six points de suture sur le crâne. Les faits se sont déroulés le matin devant le lycée Marie-Curie, où des lycéens bloquaient l'entrée de leur établissement.",
-   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/un-lyceen-de-17-ans-va-porter-plainte-apres-avoir-ete-blesse-a-la-tete-lors-d-une-charge-de-crs-devant-son-etablissement-a-marseille_8227264.html",
-   "summary": "Un lycéen va porter plainte après avoir été blessé à la tête lors d'une charge de CRS devant son établissement, à Marseille, une enquête ouverte",
-   "image": "https://www.franceinfo.fr/pictures/Ge_lHbQAcu7Q_BhLdfGGEBHxhZU/0x437:4200x2800/432x243/filters:format(jpg)/2026/10/07/6ac6788d4a6de618539476.jpg",
-   "date": null,
-   "pubdate": "2026-10-07T20:39:44.500600+00:00"
-  },
-  {
-   "title": "Allocution de Sébastien Lecornu : \"La stratégie du gouvernement est claire, gagner du temps\" face à la mobilisation des lycéens, considère Marine Tondelier Dans une de prise de parole depuis Matignon mercredi soir, le chef du gouvernement a fait plusieurs annonces, concernant les lycéens, mais aussi les carburants, la crise agricole ou encore, les débats sur le budget.",
-   "link": "https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/direct-lycees-carburants-budget-suivez-l-allocution-du-premier-ministre-sebastien-lecornu_8227246.html",
-   "summary": "Allocution de Sébastien Lecornu : \"La stratégie du gouvernement est claire, gagner du temps\" face à la mobilisation des lycéens, considère Marine Tondelier",
-   "image": "https://www.franceinfo.fr/pictures/YFt3rzLRy5mqpo70D-vIHndGJj0/0x25:1024x601/432x243/filters:format(jpg)/2026/10/07/6ac68cc1c66b4942526528.jpg",
-   "date": null,
-   "pubdate": "2026-10-07T20:39:44.500600+00:00"
-  },
-  {
-   "title": "\"On ne peut rien obtenir par la violence\", estime le syndicat étudiant Uni, qui appelle à lever les blocages \"Nous pensons que les blocages ne permettent pas de faire avancer les revendications et qu'il faut garantir l'accès aux cours pour les étudiants qui veulent travailler\", ajoute Rubens Strachan, délégué national du syndicat étudiant Uni, invité mercredi sur franceinfo.",
-   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/on-ne-peut-rien-obtenir-par-la-violence-estime-le-syndicat-etudiant-uni-qui-appelle-a-lever-les-blocages_8227171.html",
-   "summary": "\"On ne peut rien obtenir par la violence\", estime le syndicat étudiant Uni, qui appelle à lever les blocages",
-   "image": "https://www.franceinfo.fr/pictures/E2Gqe4VZCagMsaeLm56RVs2okPg/0x0:6192x3483/432x243/filters:format(jpg)/2026/10/07/6ac66f5f8b15f106685706.jpg",
-   "date": null,
-   "pubdate": "2026-10-07T20:39:44.500600+00:00"
-  },
-  {
-   "title": "Adolescent amputé d'une main à Lens : une vidéo montre la victime se pencher vers la grenade assourdissante D'après les informations de franceinfo, ces images ne sont pas encore en possession des enquêteurs de l'IGPN, la police des polices, chargée des investigations.",
-   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/info-franceinfo-adolescent-ampute-d-une-main-a-lens-une-video-montre-la-victime-se-pencher-vers-la-grenade-assourdissante_8227006.html",
-   "summary": "Adolescent amputé d'une main à Lens : une vidéo montre la victime se pencher vers la grenade assourdissante",
-   "image": "https://www.franceinfo.fr/pictures/F1MGdx7weZHew69DNYxsRWKZj0Q/432x243/filters:format(jpg)/2026/09/07/6a9ec84585c8f821944240.jpg",
-   "date": null,
-   "pubdate": "2026-10-07T20:39:44.500600+00:00"
-  },
-  {
-   "title": "La suspension des grenades assourdissantes annoncée par Laurent Nuñez était une demande d'Emmanuel Macron Cette suspension doit durer \"le temps que les circonstances de la blessure du jeune homme, à Lens, soient établies\", a souligné de son côté le directeur général de la Police nationale auprès de franceinfo.",
-   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/emmanuel-macron-a-demande-a-laurent-nunez-la-suspension-des-grenades-assourdissantes_8227060.html",
-   "summary": "La suspension des grenades assourdissantes annoncée par Laurent Nuñez était une demande d'Emmanuel Macron",
-   "image": "https://www.franceinfo.fr/pictures/9HQ5bLhj_zAhrsHrsSkrtGAo6zQ/0x0:1024x576/432x243/filters:format(jpg)/2026/10/07/6ac65f020d65b951031359.jpg",
-   "date": null,
-   "pubdate": "2026-10-07T20:39:44.500600+00:00"
-  },
-  {
-   "title": "Trois nouveaux suspects en garde à vue après l'agression d'un policier à Belfort Ces trois jeunes, âgés de 16 et 17 ans, \"sont suspectés d'avoir participé directement aux violences sur le commandant de police\" roué de coups vendredi, a précisé à l'AFP le procureur de Belfort.",
-   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/trois-nouveaux-suspects-en-garde-a-vue-apres-l-agression-d-un-policier-a-belfort_8226988.html",
-   "summary": "Trois nouveaux suspects en garde à vue après l'agression d'un policier à Belfort",
-   "image": "https://www.franceinfo.fr/pictures/7WIapZpRFyfGQhxRebYeBe79F1A/0x0:1024x576/432x243/filters:format(jpg)/2026/10/07/6ac6586a626ac779393254.jpg",
-   "date": null,
-   "pubdate": "2026-10-07T20:39:44.500600+00:00"
-  },
-  {
-   "title": ": Reportage \"Ils sont dans le bla-bla, plutôt que dans l'action\" : à Lens, la colère des lycéens ne retombe pas après que l'un d'eux a eu la main arrachée Le ministre de l'Intérieur vient d'annoncer la suspension des grenades assourdissantes lors des mobilisations lycéennes, deux jours après qu'un adolescent de 15 ans a eu la main arrachée. Mais la colère reste vive chez les lycéens que franceinfo a rencontrés à Lens.",
-   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/reportage-ils-sont-dans-le-bla-bla-plutot-que-dans-l-action-a-lens-la-colere-des-lyceens-ne-retombe-pas-apres-que-l-un-d-eux-a-eu-la-main-arrachee_8226862.html",
-   "summary": "\"Ils sont dans le bla-bla, plutôt que dans l'action\" : à Lens, la colère des lycéens ne retombe pas après que l'un d'eux a eu la main arrachée",
-   "image": "https://www.franceinfo.fr/pictures/xhmrFl_yFvv5sUM2ms8mFQIDuR8/0x312:6000x3687/432x243/filters:format(jpg)/2026/10/07/6ac648791422c470245409.jpg",
+   "title": "Sébastien Lecornu \"n'a pas pris l'ampleur des attentes de la jeunesse\", souligne le député PS Arthur Delaporte, après l'allocution du Premier ministre \"C'était une intervention assez froide et assez sidérante\", déplore le député socialiste du Calvados, mercredi sur franceinfo.",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/sebastien-lecornu-n-a-pas-pris-l-ampleur-des-attentes-de-la-jeunesse-souligne-le-depute-ps-arthur-delaporte-apres-l-allocution-du-premier-ministre_8227459.html",
+   "summary": "Sébastien Lecornu \"n'a pas pris l'ampleur des attentes de la jeunesse\", souligne le député PS Arthur Delaporte, après l'allocution du Premier ministre",
+   "image": "https://www.franceinfo.fr/pictures/rI3Gk9LlRnh3TwrqtOylg4dYgqw/0x0:1024x576/432x243/filters:format(jpg)/2026/10/07/6ac6aa237b57b425748329.jpg",
    "date": null,
    "pubdate": "2026-10-07T20:39:44.500600+00:00"
   },
@@ -216,14 +232,6 @@
    "image": "https://www.franceinfo.fr/pictures/3NAx_aFLPkSsafRoLkjzSxmLS8k/213x0:907x694/100x100/filters:format(jpg)/2026/10/06/6ac55844ee2b8682653125.jpg",
    "date": null,
    "pubdate": "2026-10-07T13:32:30.099281+00:00"
-  },
-  {
-   "title": "52:00 audio 52 minutes Lycées, carburant, agriculteurs, le gouvernement face aux crises... Les informés de franceinfo du mercredi 7 octobre 2026 Tous les soirs, les informés débattent de l'actualité autour d'Hadrien Bect.",
-   "link": "https://www.franceinfo.fr/replay-radio/les-informes-de-france-info/lycees-carburant-agriculteurs-le-gouvernement-face-aux-crises-les-informes-de-franceinfo-du-mercredi-7-octobre-2026_8205401.html",
-   "summary": "Lycées, carburant, agriculteurs, le gouvernement face aux crises... Les informés de franceinfo du mercredi 7 octobre 2026",
-   "image": "https://www.franceinfo.fr/pictures/_lB0qImpi_tVnZZtTKtd_Y5tJ8Y/202x0:1717x852/432x243/filters:format(jpg)/2026/10/07/6ac6946896870003090145.png",
-   "date": "2026-10-07T11:00:00+00:00",
-   "pubdate": "2026-10-07T11:00:00+00:00"
   },
   {
    "title": "9:00 article 9 minutes \"C'est un peu comme une grande sœur\" : comment une \"génération Lou\" s'est formée en vingt ans ?",
@@ -240,14 +248,6 @@
    "image": "https://www.franceinfo.fr/pictures/onsWlg3ljs33X60KbYoy4i4pysA/70x0:646x576/100x100/filters:format(jpg)/2026/10/05/6ac3cd488b276919765476.jpg",
    "date": null,
    "pubdate": "2026-10-06T06:28:41.003749+00:00"
-  },
-  {
-   "title": ": Vidéo 8:14 vidéo 8 minutes 14 : Vidéo \"C'est un sentiment d'avoir descendu d'une classe ou deux\" : ces Français vivent à l'euro près et se serrent de plus en plus la ceinture",
-   "link": "https://www.franceinfo.fr/economie/pouvoir-achat/je-regarde-d-abord-le-prix-et-apres-mes-envies-mere-de-famille-retraitee-etudiant-ils-vivent-a-l-euro-pres_8224021.html",
-   "summary": "\"C'est un sentiment d'avoir descendu d'une classe ou deux\" : ces Français vivent à l'euro près et se serrent de plus en plus la ceinture",
-   "image": "https://www.franceinfo.fr/pictures/DXGIegTYYp2NUn-5UucU9jG4w4k/274x0:971x697/100x100/filters:format(jpg)/2026/10/05/6ac41122bf62e112639077.jpg",
-   "date": null,
-   "pubdate": "2026-10-05T22:03:33.095631+00:00"
   },
   {
    "title": "Nos jours heureux 5 contenus",

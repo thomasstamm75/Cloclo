@@ -1,8 +1,7 @@
 {
- "etag": "\"cq8rvk\"",
+ "etag": "\"1s8qxkm\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/russie-et-inde-renforcent-leurs-liens-sur-l-energie-et-la-defense-8269390": "2026-09-11T14:06:06.074777+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/cooperatives-agricoles-la-course-a-l-agrandissement-6788764": "2026-09-15T11:00:00+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/l-ue-a-la-recherche-de-nouvelles-ressources-propres-4198620": "2026-09-16T11:45:45.409269+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/lutte-contre-les-fraudes-en-ligne-les-gafam-mises-a-contribution-3686534": "2026-09-17T11:50:19.042649+00:00",
@@ -18,10 +17,19 @@
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/bresil-a-la-veille-des-elections-la-question-du-surendettement-qui-a-augmente-sous-lula-5269473": "2026-10-02T09:53:37.264996+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/budget-combien-vont-rapporter-les-repentis-fiscaux-5849784": "2026-10-05T05:50:49.453334+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/pour-se-financer-les-musees-publics-ont-des-nouvelles-idees-2449799": "2026-10-06T06:30:07.053472+00:00",
-  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/le-journal-de-l-eco-du-mercredi-07-octobre-2026-9594607": "2026-10-07T11:00:00+00:00"
+  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/le-journal-de-l-eco-du-mercredi-07-octobre-2026-9594607": "2026-10-07T11:00:00+00:00",
+  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/crise-petroliere-quelle-marge-pour-taxer-les-profits-des-raffineurs-1629158": "2026-10-08T10:43:19.512955+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "Crise pÃ©troliÃ¨reÂ : quelle marge pour taxer les profits des raffineursÂ ?",
+   "link": "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/crise-petroliere-quelle-marge-pour-taxer-les-profits-des-raffineurs-1629158",
+   "summary": "La flambÃ©e des prix des carburants Ã la pompe en France ne s'explique pas seulement par le blocage du dÃ©troit d'Ormuz et les difficultÃ©s Ã exporter le pÃ©trole brut du Moyen-Orient. Le manque de capacitÃ© de raffinage Ã l'Ã©chelle mondiale fait aussi monter les prix... et les profits des raffineurs.",
+   "image": "https://www.radiofrance.fr/pikapi/images/1294646c-9a33-4123-8b7a-2205a4c613b0/2048",
+   "date": null,
+   "pubdate": "2026-10-08T10:43:19.512955+00:00"
+  },
   {
    "title": "Royaume-UniÂ : les syndicats veulent reconquÃ©rir les entreprises",
    "link": "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/le-journal-de-l-eco-du-mercredi-07-octobre-2026-9594607",
@@ -149,14 +157,6 @@
    "image": "https://www.radiofrance.fr/pikapi/images/32aa26dd-6443-42ef-9abc-5997ca69808d/2048",
    "date": "2026-09-15T11:00:00+00:00",
    "pubdate": "2026-09-15T11:00:00+00:00"
-  },
-  {
-   "title": "Russie et Inde renforcent leurs liens sur lâÃ©nergie et la dÃ©fense",
-   "link": "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/russie-et-inde-renforcent-leurs-liens-sur-l-energie-et-la-defense-8269390",
-   "summary": "FrappÃ©e par des perturbations dans ses raffineries, la Russie importe dÃ©sormais de lâessence raffinÃ©e en Inde, Ã qui elle vend massivement son brut. Ce paradoxe illustre le partenariat stratÃ©gique indo-russe, qui sâÃ©tend aussi Ã la dÃ©fense avec le missile BrahMos, sur fond de rivalitÃ© avec la Chine.",
-   "image": "https://www.radiofrance.fr/pikapi/images/e38f14a5-ee50-4b98-94eb-975df3b81e8f/2048",
-   "date": null,
-   "pubdate": "2026-09-11T14:06:06.074777+00:00"
   }
  ]
 }
