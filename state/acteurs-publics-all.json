@@ -2,13 +2,21 @@
  "etag": "",
  "last_modified": "",
  "first_seen": {
-  "https://acteurspublics.fr/evenement/lafterwork-acteurs-publics-solutions-du-22-septembre-2026/": "2026-09-22T11:00:00+00:00",
   "https://acteurspublics.fr/evenement/quelles-sont-les-attentes-des-professionnels-de-la-commande-publique-en-2026/": "2026-09-24T11:00:00+00:00",
   "https://acteurspublics.fr/evenement/lafterwork-acteurs-publics-solutions-du-6-octobre-2026/": "2026-10-06T11:00:00+00:00",
-  "https://acteurspublics.fr/evenement/etudes-superieures-la-voie-selective-de-la-marine-nationale/": "2026-10-07T11:00:00+00:00"
+  "https://acteurspublics.fr/evenement/etudes-superieures-la-voie-selective-de-la-marine-nationale/": "2026-10-07T11:00:00+00:00",
+  "https://acteurspublics.fr/evenement/transformer-sans-tout-reconstruire-comment-lia-et-lorchestration-agentique-accelerent-laction-publique/": "2026-10-08T11:00:00+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "8 octobre 2026 Transformer sans tout reconstruire. Comment l’IA et l’orchestration agentique accélèrent l’action publique ? Acteurs publics Solutions X UIPath",
+   "link": "https://acteurspublics.fr/evenement/transformer-sans-tout-reconstruire-comment-lia-et-lorchestration-agentique-accelerent-laction-publique/",
+   "summary": "Transformer sans tout reconstruire. Comment l’IA et l’orchestration agentique accélèrent l’action publique ?",
+   "image": "",
+   "date": "2026-10-08T11:00:00+00:00",
+   "pubdate": "2026-10-08T11:00:00+00:00"
+  },
   {
    "title": "7 octobre 2026 Études supérieures : la voie sélective de la Marine nationale Acteurs publics Solutions X Marine Nationale",
    "link": "https://acteurspublics.fr/evenement/etudes-superieures-la-voie-selective-de-la-marine-nationale/",
@@ -32,14 +40,6 @@
    "image": "",
    "date": "2026-09-24T11:00:00+00:00",
    "pubdate": "2026-09-24T11:00:00+00:00"
-  },
-  {
-   "title": "22 septembre 2026 L’Afterwork Acteurs publics Solutions du 22 septembre 2026",
-   "link": "https://acteurspublics.fr/evenement/lafterwork-acteurs-publics-solutions-du-22-septembre-2026/",
-   "summary": "L’Afterwork Acteurs publics Solutions du 22 septembre 2026",
-   "image": "",
-   "date": "2026-09-22T11:00:00+00:00",
-   "pubdate": "2026-09-22T11:00:00+00:00"
   }
  ]
 }
