@@ -1,16 +1,24 @@
 {
  "etag": "",
- "last_modified": "Thu, 08 Oct 2026 19:22:54 GMT",
+ "last_modified": "Fri, 09 Oct 2026 10:35:25 GMT",
  "first_seen": {
   "https://www.jean-jaures.org/publication/presidentielle-2027-lintelligence-artificielle-va-t-elle-faire-lelection/": "2026-10-05T11:00:00+00:00",
-  "https://www.jean-jaures.org/publication/le-maroc-a-vote-une-premiere-femme-a-la-tete-du-gouvernement-un-pays-a-deux-vitesses/": "2026-10-05T11:00:00+00:00",
   "https://www.jean-jaures.org/publication/lintelligence-artificielle-dans-les-services-publics-une-acceleration-technologique-sans-veritable-cap-politique/": "2026-10-06T11:00:00+00:00",
   "https://www.jean-jaures.org/publication/familles-monoparentales-lisolement-au-dela-de-la-precarite/": "2026-10-07T11:00:00+00:00",
   "https://www.jean-jaures.org/publication/le-calendrier-de-la-fin-dannee-2026/": "2026-10-08T11:00:00+00:00",
-  "https://www.jean-jaures.org/publication/gerrymandering-aux-etats-unis-la-mecanique-legale-du-vol-electoral/": "2026-10-08T11:00:00+00:00"
+  "https://www.jean-jaures.org/publication/gerrymandering-aux-etats-unis-la-mecanique-legale-du-vol-electoral/": "2026-10-08T11:00:00+00:00",
+  "https://www.jean-jaures.org/publication/lirlande-seuil-vertical-de-leurope-atlantique/": "2026-10-09T11:00:00+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "L’Irlande, seuil vertical de l’Europe atlantique",
+   "link": "https://www.jean-jaures.org/publication/lirlande-seuil-vertical-de-leurope-atlantique/",
+   "summary": "",
+   "image": "",
+   "date": "2026-10-09T11:00:00+00:00",
+   "pubdate": "2026-10-09T11:00:00+00:00"
+  },
   {
    "title": "Le calendrier de la fin d’année 2026",
    "link": "https://www.jean-jaures.org/publication/le-calendrier-de-la-fin-dannee-2026/",
@@ -46,14 +54,6 @@
   {
    "title": "Présidentielle 2027 : l’intelligence artificielle va-t-elle faire l’élection ?",
    "link": "https://www.jean-jaures.org/publication/presidentielle-2027-lintelligence-artificielle-va-t-elle-faire-lelection/",
-   "summary": "",
-   "image": "",
-   "date": "2026-10-05T11:00:00+00:00",
-   "pubdate": "2026-10-05T11:00:00+00:00"
-  },
-  {
-   "title": "Le Maroc a voté : une première femme à la tête du gouvernement, un pays à « deux vitesses »",
-   "link": "https://www.jean-jaures.org/publication/le-maroc-a-vote-une-premiere-femme-a-la-tete-du-gouvernement-un-pays-a-deux-vitesses/",
    "summary": "",
    "image": "",
    "date": "2026-10-05T11:00:00+00:00",

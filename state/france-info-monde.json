@@ -1,95 +1,181 @@
 {
- "etag": "\"0bb22d02d5369fc41cf565070184eec5-gzip\"",
+ "etag": "\"49f9bce7fcb3b193d5b702737a2dcff1-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/monde/usa/midterms-2018/son-cote-imprevisible-me-rend-nerveux-ces-republicains-qui-pris-a-la-gorge-par-l-inflation-envisagent-de-donner-une-lecon-a-donald-trump-aux-midterms_8225785.html": "2026-10-07T13:32:53.199453+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/au-moins-12-morts-dans-une-frappe-russe-sur-un-bus-a-kramatorsk-dans-l-est-de-l-ukraine_8228089.html": "2026-10-08T10:41:57.308123+00:00",
-  "https://www.franceinfo.fr/monde/afghanistan/la-france-ouvre-un-dialogue-avec-les-talibans-sur-les-questions-migratoires_8227978.html": "2026-10-08T10:41:57.308123+00:00",
-  "https://www.franceinfo.fr/replay-radio/le-monde-et-vous/pour-fabriquer-nos-voitures-electriques-l-europe-veut-reveiller-une-vieille-mine-au-groenland_8214884.html": "2026-10-08T10:41:57.308123+00:00",
-  "https://www.franceinfo.fr/economie/transports/greve-a-air-france/air-france-dement-transporter-des-armes-vers-israel-apres-les-accusations-de-plusieurs-syndicats_8227951.html": "2026-10-08T10:41:57.308123+00:00",
   "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/donald-trump-exclut-d-attaquer-l-iran-avant-les-elections-de-mi-mandat_8228968.html": "2026-10-08T18:53:21.107125+00:00",
   "https://www.franceinfo.fr/monde/russie/apres-des-soupcons-de-peste-en-russie-aucune-pathologie-infectieuse-detectee-a-la-suite-de-l-analyse-de-tous-les-cas-contacts_8228794.html": "2026-10-08T18:53:21.107125+00:00",
   "https://www.franceinfo.fr/faits-divers/franchement-mefie-toi-rima-hassan-porte-plainte-pour-menace-de-mort-apres-la-diffusion-d-une-video-dans-laquelle-un-internaute-l-interpelle-en-tenant-un-fusil-a-pompe_8228866.html": "2026-10-08T18:53:21.107125+00:00",
-  "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-surprend-avec-un-costume-bon-marche_8228620.html": "2026-10-08T18:53:21.107125+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/crimee/pourquoi-la-russie-a-renforce-la-securite-du-pont-de-crimee-et-pourquoi-est-il-si-important-pour-moscou_8228509.html": "2026-10-08T18:53:21.107125+00:00",
-  "https://www.franceinfo.fr/monde/italie/sacre-bazar-ou-revolution-les-deputes-italiens-approuvent-une-reforme-electorale-controversee-poussee-par-giorgia-meloni_8228410.html": "2026-10-08T18:53:21.107125+00:00",
-  "https://www.franceinfo.fr/monde/israel/israel-ferme-le-consulat-britannique-a-jerusalem-apres-des-sanctions-de-londres-contre-les-colons-l-autorite-palestinienne-denonce-une-mesure-illegale_8228587.html": "2026-10-08T18:53:21.107125+00:00",
-  "https://www.franceinfo.fr/monde/proche-orient/yemen/de-nouveau-cible-par-les-houthis-du-yemen-l-aeroport-de-ryad-avertit-les-passagers-de-possibles-perturbations_8228533.html": "2026-10-08T18:53:21.107125+00:00",
-  "https://www.franceinfo.fr/monde/turquie/le-parti-des-travailleurs-du-kurdistan-dit-avoir-retire-ses-combattants-de-turquie-et-lui-reproche-son-inaction_8228467.html": "2026-10-08T18:53:21.107125+00:00",
-  "https://www.franceinfo.fr/monde/europe/allemagne/il-n-y-a-pas-de-repas-gratuit-l-allemagne-plaide-pour-des-finances-publiques-saines-en-europe-et-craint-l-endettement-de-la-france_8228437.html": "2026-10-08T18:53:21.107125+00:00",
-  "https://www.franceinfo.fr/replay-radio/histoire-du-jour/grand-oublie-des-nobel-le-francais-henri-kagan-recoit-le-prix-de-chimie-a-95-ans_8227828.html": "2026-10-08T18:53:21.107125+00:00",
-  "https://www.franceinfo.fr/economie/automobile/essence/le-prix-moyen-du-gazole-a-la-pompe-entame-une-premiere-baisse-dans-l-ue-apres-un-mois-de-records-la-france-toujours-tres-haut_8228257.html": "2026-10-08T18:53:21.107125+00:00",
-  "https://www.franceinfo.fr/monde/prix-nobel/le-prix-nobel-de-litterature-2026-est-attribue-a-l-autrice-canadienne-anne-carson_8228320.html": "2026-10-08T18:53:21.107125+00:00",
-  "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/aux-etats-unis-une-matinale-radio-co-presentee-par-une-ia-cartonne_8207162.html": "2026-10-08T18:53:21.107125+00:00",
   "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/sept-personnes-dont-un-enfant-tuees-a-gaza-par-des-tirs-israeliens-selon-la-defense-civile_8229076.html": "2026-10-09T01:15:29.035592+00:00",
-  "https://www.franceinfo.fr/economie/entreprises/on-est-confrontes-aux-etats-unis-de-donald-trump-comment-une-pme-francaise-s-est-elle-retrouvee-sur-la-liste-noire-americaine_8229016.html": "2026-10-09T01:15:29.035592+00:00",
-  "https://www.franceinfo.fr/monde/proche-orient/tensions-entre-l-arabie-saoudite-et-l-iran/arabie-saoudite-riyad-touchee-par-des-fragments-de-missiles-apres-une-attaque-des-houthis_8229043.html": "2026-10-09T01:15:29.035592+00:00",
-  "https://www.franceinfo.fr/sports/elles-ont-triche-au-marathon-de-berlin_8228974.html": "2026-10-09T01:15:29.035592+00:00",
-  "https://www.franceinfo.fr/monde/espagne/on-doit-poursuivre-la-lutte-emotion-a-madrid-apres-le-deces-de-maricarmen-abascal-devenue-le-visage-de-la-crise-du-logement_8229010.html": "2026-10-09T01:15:29.035592+00:00",
-  "https://www.franceinfo.fr/monde/israel/un-israelien-inculpe-pour-avoir-voulu-attaquer-des-palestiniens_8227240.html": "2026-10-09T01:15:29.035592+00:00",
   "https://www.franceinfo.fr/monde/prix-nobel/anne-carson-prix-nobel-de-litterature-est-une-ecrivaine-qui-fait-surgir-en-nous-des-emotions-tres-vives-et-tres-palpables-salue-son-editrice_8228980.html": "2026-10-09T01:15:29.035592+00:00",
   "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/tout-comprendre-a-la-guerre-au-moyen-orient/": "2026-10-09T01:15:29.035592+00:00",
   "https://www.franceinfo.fr/monde/groenland/le-groenland-au-c-ur-d-un-bras-de-fer-geopolitique/": "2026-10-09T01:15:29.035592+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/temoignages-simulacres-d-execution-tortures-physiques-un-ancien-prisonnier-ukrainien-en-russie-raconte-les-sevices-subis-apres-sa-capture-dans-le-donbass_8202320.html": "2026-10-09T01:15:29.035592+00:00",
-  "https://www.franceinfo.fr/enquetes-franceinfo/enquete-apres-le-7-octobre-comment-le-qatar-a-penetre-les-cercles-les-plus-proches-du-pouvoir-israelien-pour-tenter-de-diluer-sa-responsabilite_8218780.html": "2026-10-09T01:15:29.035592+00:00"
+  "https://www.franceinfo.fr/enquetes-franceinfo/enquete-apres-le-7-octobre-comment-le-qatar-a-penetre-les-cercles-les-plus-proches-du-pouvoir-israelien-pour-tenter-de-diluer-sa-responsabilite_8218780.html": "2026-10-09T01:15:29.035592+00:00",
+  "https://www.franceinfo.fr/monde/palestine/gaza/reportage-a-gaza-un-camp-de-deplaces-reserve-aux-veuves-et-a-leurs-enfants_8229760.html": "2026-10-09T10:41:01.489438+00:00",
+  "https://www.franceinfo.fr/monde/europe/relations-franco-allemandes/malheureusement-les-allemands-ont-decide-de-quitter-le-projet-du-futur-char-franco-allemand-indique-le-chef-d-etat-major-des-armees-francaises_8229835.html": "2026-10-09T10:41:01.489438+00:00",
+  "https://www.franceinfo.fr/replay-magazine/france-2/nous-les-europeens/nous-les-europeens-finlande-la-defense-l-affaire-de-tous_8205437.html": "2026-10-09T10:41:01.489438+00:00",
+  "https://www.franceinfo.fr/monde/prix-nobel/le-prix-nobel-de-la-paix-est-decerne-a-la-sud-africaine-navanethem-navi-pillay-pour-ses-efforts-en-faveur-de-la-promotion-de-la-paix-et-du-droit-international_8229787.html": "2026-10-09T10:41:01.489438+00:00",
+  "https://www.franceinfo.fr/monde/usa/l-armee-americaine-diffusera-en-direct-l-execution-de-l-auteur-d-une-tuerie-sur-une-base-militaire_8229712.html": "2026-10-09T10:41:01.489438+00:00",
+  "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/marquer-des-points-pour-des-taches-menageres-un-maire-japonais-veut-lutter-contre-le-manque-d-implication-des-hommes_8208803.html": "2026-10-09T10:41:01.489438+00:00",
+  "https://www.franceinfo.fr/monde/usa/un-homme-blesse-par-balle-lors-d-une-operation-de-la-police-de-l-immigration-ice-a-new-york-un-enfant-se-trouvait-a-l-arriere-du-vehicule_8229661.html": "2026-10-09T10:41:01.489438+00:00",
+  "https://www.franceinfo.fr/monde/prix-nobel/je-le-merite-largement-donald-trump-toujours-en-quete-du-prix-nobel-de-la-paix_8229649.html": "2026-10-09T10:41:01.489438+00:00",
+  "https://www.franceinfo.fr/replay-radio/le-monde-et-vous/donald-trump-veut-faire-payer-jusqu-a-100-000-dollars-pour-permettre-aux-etudiants-etrangers-de-travailler-aux-etats-unis_8214881.html": "2026-10-09T10:41:01.489438+00:00",
+  "https://www.franceinfo.fr/monde/russie/restons-calme-la-peste-c-est-traitable-tempere-la-directrice-generale-de-l-institut-pasteur-a-propos-des-soupcons-de-peste-en-russie_8229604.html": "2026-10-09T10:41:01.489438+00:00",
+  "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/ils-deblaient-a-la-main-trois-ans-apres-le-debut-de-la-guerre-a-gaza-les-palestiniens-toujours-contraints-de-vivre-dans-les-ruines-et-le-denuement_8219863.html": "2026-10-09T10:41:01.489438+00:00",
+  "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/leon-xiv-en-france-retrouvez-l-essentiel/": "2026-10-09T10:41:01.489438+00:00",
+  "https://www.franceinfo.fr/monde/usa/affaire-jeffrey-epstein/l-essentiel-des-revelations-sur-l-affaire-epstein/": "2026-10-09T10:41:01.489438+00:00",
+  "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/kiev-en-mode-survie-face-a-l-intensification-des-bombardements-russes_8208797.html": "2026-10-09T10:41:01.489438+00:00",
+  "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/c-est-une-lutte-quotidienne-pour-toutes-les-populations-a-gaza-dans-un-territoire-sans-perspective-alerte-medecins-sans-frontieres_8229502.html": "2026-10-09T10:41:01.489438+00:00",
+  "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/apres-onze-mois-de-mission-les-6-000-membres-d-equipages-du-porte-avions-americain-abraham-lincoln-de-retour-sur-terre_8229457.html": "2026-10-09T10:41:01.489438+00:00",
+  "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/nous-avons-des-discussions-productives-donald-trump-trump-exclut-d-attaquer-l-iran-avant-les-elections-de-mi-mandat_8229433.html": "2026-10-09T10:41:01.489438+00:00",
+  "https://www.franceinfo.fr/sante/des-images-detournees-et-generees-par-ia-alimentent-les-soupcons-de-peste-en-russie_8228785.html": "2026-10-09T10:41:01.489438+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "Sept personnes, dont un enfant, tuées à Gaza par des tirs israéliens, selon la défense civile L'armée israélienne a assuré que trois des victimes étaient des \"agents militaires\". 8 octobre",
-   "link": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/sept-personnes-dont-un-enfant-tuees-a-gaza-par-des-tirs-israeliens-selon-la-defense-civile_8229076.html",
-   "summary": "Sept personnes, dont un enfant, tuées à Gaza par des tirs israéliens, selon la défense civile",
-   "image": "https://www.franceinfo.fr/pictures/MrM2RA-kS7vUhU2iv4AKaeQdVBI/16x0:1008x682/432x297/filters:format(jpg)/2026/10/08/6ac80fe395b7f506028003.jpg",
+   "title": ": Reportage À Gaza, un camp de déplacés réservé aux veuves et à leurs enfants Depuis le début de l'opération israélienne à Gaza, une femme sur quatre a été séparée de son mari, selon l'ONU. Ces femmes, qui se retrouvent sans protection, se sont rassemblées pour veiller sur elles et leurs enfants. Aujourd'hui : Reportage",
+   "link": "https://www.franceinfo.fr/monde/palestine/gaza/reportage-a-gaza-un-camp-de-deplaces-reserve-aux-veuves-et-a-leurs-enfants_8229760.html",
+   "summary": "À Gaza, un camp de déplacés réservé aux veuves et à leurs enfants",
+   "image": "https://www.franceinfo.fr/pictures/fciMgg0rVJJhVmx7RekqukABn1U/82x0:5389x3648/432x297/filters:format(jpg)/2026/10/09/6ac8b56b6ccff468843879.jpg",
    "date": null,
-   "pubdate": "2026-10-09T01:15:29.035592+00:00"
+   "pubdate": "2026-10-09T10:41:01.489438+00:00"
   },
   {
-   "title": "3:33 vidéo 3 minutes 33 \"On est confrontés aux États-Unis de Donald Trump\" : comment une PME française s'est-elle retrouvée sur la liste noire américaine ?",
-   "link": "https://www.franceinfo.fr/economie/entreprises/on-est-confrontes-aux-etats-unis-de-donald-trump-comment-une-pme-francaise-s-est-elle-retrouvee-sur-la-liste-noire-americaine_8229016.html",
-   "summary": "\"On est confrontés aux États-Unis de Donald Trump\" : comment une PME française s'est-elle retrouvée sur la liste noire américaine ?",
-   "image": "https://www.franceinfo.fr/pictures/n0msFmD1yn5_RJcSPJqrHRl-d7Q/79x0:1304x689/432x243/filters:format(jpg)/2026/10/08/6ac7f47521eae234966640.jpg",
-   "date": null,
-   "pubdate": "2026-10-09T01:15:29.035592+00:00"
-  },
-  {
-   "title": "1:28 vidéo 1 minute 28 Arabie saoudite : Riyad touchée par des \"fragments de missiles\" après une attaque des Houthis",
-   "link": "https://www.franceinfo.fr/monde/proche-orient/tensions-entre-l-arabie-saoudite-et-l-iran/arabie-saoudite-riyad-touchee-par-des-fragments-de-missiles-apres-une-attaque-des-houthis_8229043.html",
-   "summary": "Arabie saoudite : Riyad touchée par des \"fragments de missiles\" après une attaque des Houthis",
-   "image": "https://www.franceinfo.fr/pictures/BncuZds6VN212OU3OohA1PNXtG8/0x9:1467x834/432x243/filters:format(jpg)/2026/10/08/6ac7fa06a349d914887633.jpg",
-   "date": null,
-   "pubdate": "2026-10-09T01:15:29.035592+00:00"
-  },
-  {
-   "title": "1:22 vidéo 1 minute 22 Elles ont triché au marathon de Berlin",
-   "link": "https://www.franceinfo.fr/sports/elles-ont-triche-au-marathon-de-berlin_8228974.html",
+   "title": "\"Malheureusement, les Allemands ont décidé de quitter le projet\" du futur char franco-allemand, indique le chef d'état-major des armées françaises",
+   "link": "https://www.franceinfo.fr/monde/europe/relations-franco-allemandes/malheureusement-les-allemands-ont-decide-de-quitter-le-projet-du-futur-char-franco-allemand-indique-le-chef-d-etat-major-des-armees-francaises_8229835.html",
    "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/S2l3Jx7U1hF4u3z9x9TTRzxdY6k/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/08/6ac7e0a08e1e6058979332.png",
+   "image": "https://www.franceinfo.fr/pictures/d3rEf_jMioxH1sOt0ZmqLBwabk0/0x382:2040x1530/432x243/filters:format(jpg)/2025/11/10/whatsapp-image-2025-11-10-at-11-51-57-1-6911ef0d512e7412116392.jpg",
    "date": null,
-   "pubdate": "2026-10-09T01:15:29.035592+00:00"
+   "pubdate": "2026-10-09T10:41:01.489438+00:00"
   },
   {
-   "title": "1:52 vidéo 1 minute 52 \"On doit poursuivre la lutte\" : à Madrid, les habitants rendent hommage à Maricarmen, qui s'est éteinte après avoir été expulsée de son logement",
-   "link": "https://www.franceinfo.fr/monde/espagne/on-doit-poursuivre-la-lutte-emotion-a-madrid-apres-le-deces-de-maricarmen-abascal-devenue-le-visage-de-la-crise-du-logement_8229010.html",
-   "summary": "\"On doit poursuivre la lutte\" : à Madrid, les habitants rendent hommage à Maricarmen, qui s'est éteinte après avoir été expulsée de son logement",
-   "image": "https://www.franceinfo.fr/pictures/9QLQ_8_W5HO9P3GQvwe_Ls5aAD0/43x0:842x449/432x243/filters:format(jpg)/2026/10/08/6ac7f112e9f1b171488059.jpg",
+   "title": "30:00 vidéo 30 minutes \"Nous, les Européens\". Finlande : la défense, l’affaire de tous",
+   "link": "https://www.franceinfo.fr/replay-magazine/france-2/nous-les-europeens/nous-les-europeens-finlande-la-defense-l-affaire-de-tous_8205437.html",
+   "summary": "\"Nous, les Européens\". Finlande : la défense, l’affaire de tous",
+   "image": "https://www.franceinfo.fr/pictures/OCCNcCFNPXTZriNhoYPqdBzPjjI/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/07/6ac6539b05595231646548.jpg",
    "date": null,
-   "pubdate": "2026-10-09T01:15:29.035592+00:00"
+   "pubdate": "2026-10-09T10:41:01.489438+00:00"
   },
   {
-   "title": "1:35 vidéo 1 minute 35 Un Israélien inculpé pour avoir voulu attaquer des Palestiniens",
-   "link": "https://www.franceinfo.fr/monde/israel/un-israelien-inculpe-pour-avoir-voulu-attaquer-des-palestiniens_8227240.html",
-   "summary": "Un Israélien inculpé pour avoir voulu attaquer des Palestiniens",
-   "image": "https://www.franceinfo.fr/pictures/IusAYaRlNDDFy2uRlxJOQdyrsJg/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/08/6ac7823191d74627972420.png",
-   "date": null,
-   "pubdate": "2026-10-09T01:15:29.035592+00:00"
-  },
-  {
-   "title": "Anne Carson, prix Nobel de littérature, est \"une écrivaine qui fait surgir en nous des émotions très vives et très palpables\", salue son éditrice",
-   "link": "https://www.franceinfo.fr/monde/prix-nobel/anne-carson-prix-nobel-de-litterature-est-une-ecrivaine-qui-fait-surgir-en-nous-des-emotions-tres-vives-et-tres-palpables-salue-son-editrice_8228980.html",
+   "title": "Le prix Nobel de la paix est décerné à la Sud-Africaine Navanethem \"Navi\" Pillay, \"pour ses efforts en faveur de la promotion de la paix et du droit international\"",
+   "link": "https://www.franceinfo.fr/monde/prix-nobel/le-prix-nobel-de-la-paix-est-decerne-a-la-sud-africaine-navanethem-navi-pillay-pour-ses-efforts-en-faveur-de-la-promotion-de-la-paix-et-du-droit-international_8229787.html",
    "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/9-GvN_GARPsGRnk1dvcCjyuIIO4/0x0:1024x576/432x243/filters:format(jpg)/2026/10/08/6ac7e742c597d034551911.jpg",
+   "image": "https://www.franceinfo.fr/pictures/1Z0E5fr18XmNM5uKk_-fXFcprzA/0x93:4989x2899/432x243/filters:format(jpg)/2026/10/09/6ac8af1f88b9a932472735.jpg",
    "date": null,
-   "pubdate": "2026-10-09T01:15:29.035592+00:00"
+   "pubdate": "2026-10-09T10:41:01.489438+00:00"
+  },
+  {
+   "title": "L'armée américaine diffusera en direct l'exécution de l'auteur d'une tuerie sur une base militaire",
+   "link": "https://www.franceinfo.fr/monde/usa/l-armee-americaine-diffusera-en-direct-l-execution-de-l-auteur-d-une-tuerie-sur-une-base-militaire_8229712.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/janjINbQrQTM0-Fi_Ac57OkBJiM/0x0:4286x2410/432x243/filters:format(jpg)/2026/10/09/6ac8a683b4ccb439707641.jpg",
+   "date": null,
+   "pubdate": "2026-10-09T10:41:01.489438+00:00"
+  },
+  {
+   "title": "2:46 audio 2 minutes 46 Marquer des points pour des tâches ménagères : un maire japonais veut lutter contre le manque d'implication des hommes",
+   "link": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/marquer-des-points-pour-des-taches-menageres-un-maire-japonais-veut-lutter-contre-le-manque-d-implication-des-hommes_8208803.html",
+   "summary": "Marquer des points pour des tâches ménagères : un maire japonais veut lutter contre le manque d'implication des hommes",
+   "image": "https://www.franceinfo.fr/pictures/0urYFDSylbDCvq8xHixecevWApA/0x0:1024x576/432x243/filters:format(jpg)/2026/10/09/6ac8a050f3456307605037.jpg",
+   "date": null,
+   "pubdate": "2026-10-09T10:41:01.489438+00:00"
+  },
+  {
+   "title": "A New York, la police de l'immigration blesse par balle le conducteur d'une voiture, avec un enfant à l'arrière",
+   "link": "https://www.franceinfo.fr/monde/usa/un-homme-blesse-par-balle-lors-d-une-operation-de-la-police-de-l-immigration-ice-a-new-york-un-enfant-se-trouvait-a-l-arriere-du-vehicule_8229661.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/jw1bR5tREbwguZ6IMh6j7pJwmqU/0x53:1024x629/432x243/filters:format(jpg)/2026/10/09/6ac89e153d40b859547573.jpg",
+   "date": null,
+   "pubdate": "2026-10-09T10:41:01.489438+00:00"
+  },
+  {
+   "title": "1:17 vidéo 1 minute 17 \"Je le mérite largement\" : Donald Trump toujours en quête du prix Nobel de la paix",
+   "link": "https://www.franceinfo.fr/monde/prix-nobel/je-le-merite-largement-donald-trump-toujours-en-quete-du-prix-nobel-de-la-paix_8229649.html",
+   "summary": "\"Je le mérite largement\" : Donald Trump toujours en quête du prix Nobel de la paix",
+   "image": "https://www.franceinfo.fr/pictures/-eHD5P_CDlG0MBLSq47cqhgmXXA/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/09/6ac8985d915d0778931904.jpg",
+   "date": null,
+   "pubdate": "2026-10-09T10:41:01.489438+00:00"
+  },
+  {
+   "title": "2:43 audio 2 minutes 43 Donald Trump veut faire payer jusqu'à 100 000 dollars pour permettre aux étudiants étrangers de travailler aux États-Unis",
+   "link": "https://www.franceinfo.fr/replay-radio/le-monde-et-vous/donald-trump-veut-faire-payer-jusqu-a-100-000-dollars-pour-permettre-aux-etudiants-etrangers-de-travailler-aux-etats-unis_8214881.html",
+   "summary": "Donald Trump veut faire payer jusqu'à 100 000 dollars pour permettre aux étudiants étrangers de travailler aux États-Unis",
+   "image": "https://www.franceinfo.fr/pictures/AtessVMxZwfCyhlVmcXj47i_Fks/0x0:1024x576/432x243/filters:format(jpg)/2026/10/09/6ac8980c76dd7971952698.jpg",
+   "date": null,
+   "pubdate": "2026-10-09T10:41:01.489438+00:00"
+  },
+  {
+   "title": "\"Restons calme, la peste, c'est traitable\", tempère la directrice générale de l'Institut Pasteur à propos des soupçons de peste en Russie",
+   "link": "https://www.franceinfo.fr/monde/russie/restons-calme-la-peste-c-est-traitable-tempere-la-directrice-generale-de-l-institut-pasteur-a-propos-des-soupcons-de-peste-en-russie_8229604.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/nbpprshzDnOdl22mNhgHEGjhS_8/0x224:4300x2643/432x243/filters:format(jpg)/2024/11/28/maxstockfr202119-674812ee9283f167832706.jpg",
+   "date": null,
+   "pubdate": "2026-10-09T10:41:01.489438+00:00"
+  },
+  {
+   "title": "8:00 article 8 minutes \"Ils déblaient à la main\" : trois ans après le début de la guerre à Gaza, les Palestiniens toujours contraints de vivre dans les ruines et le dénuement",
+   "link": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/ils-deblaient-a-la-main-trois-ans-apres-le-debut-de-la-guerre-a-gaza-les-palestiniens-toujours-contraints-de-vivre-dans-les-ruines-et-le-denuement_8219863.html",
+   "summary": "\"Ils déblaient à la main\" : trois ans après le début de la guerre à Gaza, les Palestiniens toujours contraints de vivre dans les ruines et le dénuement",
+   "image": "https://www.franceinfo.fr/pictures/oo5XSG4Vkm9Zg_3NGhyEH8SPdI0/160x0:842x682/100x100/filters:format(jpg)/2026/10/06/6ac4bc9065149963114867.jpg",
+   "date": null,
+   "pubdate": "2026-10-09T10:41:01.489438+00:00"
+  },
+  {
+   "title": "Léon XIV en France : l'essentiel de la visite du pape 15 contenus",
+   "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/leon-xiv-en-france-retrouvez-l-essentiel/",
+   "summary": "Léon XIV en France : l'essentiel de la visite du pape",
+   "image": "https://www.franceinfo.fr/pictures/bgiweXyFgu0BUNMikE3oBZK0JG4/432x297/filters:format(jpg)/2026/09/24/6ab4f4233a728679965697.jpg",
+   "date": null,
+   "pubdate": "2026-10-09T10:41:01.489438+00:00"
+  },
+  {
+   "title": "L'essentiel des révélations sur l'affaire Epstein 14 contenus",
+   "link": "https://www.franceinfo.fr/monde/usa/affaire-jeffrey-epstein/l-essentiel-des-revelations-sur-l-affaire-epstein/",
+   "summary": "L'essentiel des révélations sur l'affaire Epstein",
+   "image": "https://www.franceinfo.fr/pictures/btENVL4vmQDLNvnJ4uUtTATvN9k/432x297/filters:format(jpg)/2026/02/12/000-96rl2gk-1-698def9a11d8a867290796.jpg",
+   "date": null,
+   "pubdate": "2026-10-09T10:41:01.489438+00:00"
+  },
+  {
+   "title": "2:15 audio 2 minutes 15 Kiev en mode \"survie\" face à l'intensification des bombardements russes Depuis un peu plus d'un an, la Russie accentue sa stratégie d'usure en bombardant de plus en plus les civils. Jeudi, 30 passagers de deux bus ont été tués à Kramatorsk. Et la capitale ukrainienne, Kiev, n'est plus épargnée.",
+   "link": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/kiev-en-mode-survie-face-a-l-intensification-des-bombardements-russes_8208797.html",
+   "summary": "Kiev en mode \"survie\" face à l'intensification des bombardements russes",
+   "image": "https://www.franceinfo.fr/pictures/M93T2SXCh5ngdUWc_CfpL0hliaM/137x302:3199x2024/432x243/filters:format(jpg)/2026/10/09/6ac875e0ae713537429608.jpg",
+   "date": null,
+   "pubdate": "2026-10-09T10:41:01.489438+00:00"
+  },
+  {
+   "title": "\"C'est une lutte quotidienne pour toutes les populations\" à Gaza dans un territoire \"sans perspective\", alerte Médecins sans frontières Coordinatrice d'urgence à Médecins sans frontières, Amande Bazerolle dresse un an après la mise en place d'un fragile cessez-le-feu ainsi que trois ans après le début des représailles de l'armée israélienne après les attaques du 7-Octobre.",
+   "link": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/c-est-une-lutte-quotidienne-pour-toutes-les-populations-a-gaza-dans-un-territoire-sans-perspective-alerte-medecins-sans-frontieres_8229502.html",
+   "summary": "\"C'est une lutte quotidienne pour toutes les populations\" à Gaza dans un territoire \"sans perspective\", alerte Médecins sans frontières",
+   "image": "https://www.franceinfo.fr/pictures/QfSeqdB87VEUUuxVAeV6Y-Ile4g/0x261:5033x3093/432x243/filters:format(jpg)/2026/01/10/000-89h38cq-6962622856410839584595.jpg",
+   "date": null,
+   "pubdate": "2026-10-09T10:41:01.489438+00:00"
+  },
+  {
+   "title": "Après onze mois de mission, les 6 000 membres d'équipage du porte-avions américain \"Abraham Lincoln\" de retour aux Etats-Unis L'USS \"Abraham Lincoln\" avait quitté sa base en novembre 2025 pour une mission en mer de Chine méridionale. Mais il a été redirigé vers le Moyen-Orient quand les Etats-Unis et Israël ont lancé la guerre contre l'Iran.",
+   "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/apres-onze-mois-de-mission-les-6-000-membres-d-equipages-du-porte-avions-americain-abraham-lincoln-de-retour-sur-terre_8229457.html",
+   "summary": "Après onze mois de mission, les 6 000 membres d'équipage du porte-avions américain \"Abraham Lincoln\" de retour aux Etats-Unis",
+   "image": "https://www.franceinfo.fr/pictures/vpfg8b7_SA_MNbC3rrjJtmdYclM/0x40:1024x616/432x243/filters:format(jpg)/2026/10/09/6ac875fd36806887915188.jpg",
+   "date": null,
+   "pubdate": "2026-10-09T10:41:01.489438+00:00"
+  },
+  {
+   "title": "\"Nous avons des discussions productives\" : Donald Trump exclut d'attaquer l'Iran avant les élections de mi-mandat Cette mise au point arrive alors que plusieurs médias américains évoquent justement de nouvelles frappes américaines avant les \"midterms\".",
+   "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/nous-avons-des-discussions-productives-donald-trump-trump-exclut-d-attaquer-l-iran-avant-les-elections-de-mi-mandat_8229433.html",
+   "summary": "\"Nous avons des discussions productives\" : Donald Trump exclut d'attaquer l'Iran avant les élections de mi-mandat",
+   "image": "https://www.franceinfo.fr/pictures/rj6ssJQNaDPOIcZyTy7Vgy2JnBo/0x0:1024x576/432x243/filters:format(jpg)/2026/10/09/6ac86ecad9516644569878.jpg",
+   "date": null,
+   "pubdate": "2026-10-09T10:41:01.489438+00:00"
+  },
+  {
+   "title": "1:11 vidéo 1 minute 11 Des images détournées et générées par IA alimentent les soupçons de peste en Russie Entre des photos générées par Intelligence Artificielle, ou des vidéos sorties de leur contexte... le décès en Sibérie de Daria Chipilova, une laborantine de 28 ans alimente de nombreuses rumeurs en ligne. Nos équipes ont vérifié les images pour démêler le vrai du faux.",
+   "link": "https://www.franceinfo.fr/sante/des-images-detournees-et-generees-par-ia-alimentent-les-soupcons-de-peste-en-russie_8228785.html",
+   "summary": "Des images détournées et générées par IA alimentent les soupçons de peste en Russie",
+   "image": "https://www.franceinfo.fr/pictures/mH7c7P4x_Yrv81tv7O96Uh0pLUs/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/08/6ac7c01d5a7e0380453800.jpg",
+   "date": null,
+   "pubdate": "2026-10-09T10:41:01.489438+00:00"
   },
   {
    "title": "Tout comprendre à la guerre au Moyen-Orient 27 contenus",
@@ -124,148 +210,44 @@
    "pubdate": "2026-10-09T01:15:29.035592+00:00"
   },
   {
-   "title": "Donald Trump exclut d'attaquer l'Iran avant les élections de mi-mandat aux Etats-Unis",
+   "title": "Sept personnes, dont un enfant, tuées dans la bande de Gaza par l'armée israélienne L'armée israélienne a assuré que trois des victimes étaient des \"agents militaires\", et a affirmé qu'elle vérifiait les informations concernant les quatre autres victimes, dont une femme et un enfant tués dans le bombardement d'un immeuble résidentiel.",
+   "link": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/sept-personnes-dont-un-enfant-tuees-a-gaza-par-des-tirs-israeliens-selon-la-defense-civile_8229076.html",
+   "summary": "Sept personnes, dont un enfant, tuées dans la bande de Gaza par l'armée israélienne",
+   "image": "https://www.franceinfo.fr/pictures/0Z54C-0xdi0wXkPpaf14B6HNE1Q/0x53:1024x629/432x243/filters:format(jpg)/2026/10/08/6ac80fe395b7f506028003.jpg",
+   "date": null,
+   "pubdate": "2026-10-09T01:15:29.035592+00:00"
+  },
+  {
+   "title": "Anne Carson, prix Nobel de littérature, est \"une écrivaine qui fait surgir en nous des émotions très vives et très palpables\", salue son éditrice \"J'aime la façon dont elle s'empare des mythes, les dissèque\" et \"les réécrit\", développe Claire Stavaux, directrice des éditions de l'Arche, auprès de France Inter, jeudi.",
+   "link": "https://www.franceinfo.fr/monde/prix-nobel/anne-carson-prix-nobel-de-litterature-est-une-ecrivaine-qui-fait-surgir-en-nous-des-emotions-tres-vives-et-tres-palpables-salue-son-editrice_8228980.html",
+   "summary": "Anne Carson, prix Nobel de littérature, est \"une écrivaine qui fait surgir en nous des émotions très vives et très palpables\", salue son éditrice",
+   "image": "https://www.franceinfo.fr/pictures/9-GvN_GARPsGRnk1dvcCjyuIIO4/0x0:1024x576/432x243/filters:format(jpg)/2026/10/08/6ac7e742c597d034551911.jpg",
+   "date": null,
+   "pubdate": "2026-10-09T01:15:29.035592+00:00"
+  },
+  {
+   "title": "Donald Trump exclut d'attaquer l'Iran avant les élections de mi-mandat aux Etats-Unis Cette déclaration survient après que les cours du pétrole ont grimpé jeudi en raison d'informations de presse évoquant justement de nouvelles frappes avant ce scrutin décisif pour le président américain.",
    "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/donald-trump-exclut-d-attaquer-l-iran-avant-les-elections-de-mi-mandat_8228968.html",
-   "summary": "",
+   "summary": "Donald Trump exclut d'attaquer l'Iran avant les élections de mi-mandat aux Etats-Unis",
    "image": "https://www.franceinfo.fr/pictures/dRt57huH_dbwW3koJ5bPs7kpRjM/0x106:1024x682/432x243/filters:format(jpg)/2026/10/08/6ac7e08ee3ed4394191767.jpg",
    "date": null,
    "pubdate": "2026-10-08T18:53:21.107125+00:00"
   },
   {
-   "title": "Après des soupçons de peste, les autorités russes affirment qu'\"aucune pathologie infectieuse\" n'a été détectée lors de l'analyse des cas contacts",
+   "title": "Après des soupçons de peste, les autorités russes affirment qu'\"aucune pathologie infectieuse\" n'a été détectée lors de l'analyse des cas contacts Les Etats-Unis, l'Union européenne et l'Organisation mondiale de la santé ont exhorté ces derniers jours les autorités russes à fournir davantage d'informations sur la mort d'une laborantine travaillant sur la peste.",
    "link": "https://www.franceinfo.fr/monde/russie/apres-des-soupcons-de-peste-en-russie-aucune-pathologie-infectieuse-detectee-a-la-suite-de-l-analyse-de-tous-les-cas-contacts_8228794.html",
-   "summary": "",
+   "summary": "Après des soupçons de peste, les autorités russes affirment qu'\"aucune pathologie infectieuse\" n'a été détectée lors de l'analyse des cas contacts",
    "image": "https://www.franceinfo.fr/pictures/w8hL1t4FnFBQ0IG50LpYa_ocpIA/0x106:1024x682/432x243/filters:format(jpg)/2026/10/08/6ac7da34bc23e843080057.jpg",
    "date": null,
    "pubdate": "2026-10-08T18:53:21.107125+00:00"
   },
   {
-   "title": "\"Franchement, méfie-toi\" : Rima Hassan porte plainte pour menace de mort après la diffusion d'une vidéo dans laquelle un internaute l'interpelle en tenant un fusil à pompe",
+   "title": "\"Franchement, méfie-toi\" : Rima Hassan porte plainte pour menace de mort après la diffusion d'une vidéo dans laquelle un internaute l'interpelle en tenant un fusil à pompe L'eurodéputée LFI est accusée d'avoir renversé, lundi, des drapeaux israélien et européen lors d'une exposition au Parlement de Strasbourg consacrée au 7-Octobre. Dans une vidéo publiée sur Instagram, un internaute avec un drapeau d'Israël sur l'épaule interpelle l'élue une arme à la main.",
    "link": "https://www.franceinfo.fr/faits-divers/franchement-mefie-toi-rima-hassan-porte-plainte-pour-menace-de-mort-apres-la-diffusion-d-une-video-dans-laquelle-un-internaute-l-interpelle-en-tenant-un-fusil-a-pompe_8228866.html",
-   "summary": "",
+   "summary": "\"Franchement, méfie-toi\" : Rima Hassan porte plainte pour menace de mort après la diffusion d'une vidéo dans laquelle un internaute l'interpelle en tenant un fusil à pompe",
    "image": "https://www.franceinfo.fr/pictures/nNI_H2FO_y_Lt_UqRkhyouYPE7s/0x0:1024x576/432x243/filters:format(jpg)/2026/10/08/6ac7cce3c868f528347174.jpg",
    "date": null,
    "pubdate": "2026-10-08T18:53:21.107125+00:00"
-  },
-  {
-   "title": "Donald Trump surprend avec un costume \"bon marché\" Lors d'un meeting dans le Nebraska, le 5 octobre, le président américain - et millionnaire - a laissé apparaître l'étiquette de sa veste de costume. Il s'agit d'un ensemble de la marque grand public Jos. A. Bank, probablement fabriqué en Asie. Et ça n'a pas échappé à la presse américaine.",
-   "link": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-surprend-avec-un-costume-bon-marche_8228620.html",
-   "summary": "Donald Trump surprend avec un costume \"bon marché\"",
-   "image": "https://www.franceinfo.fr/pictures/Kcn54_9QburEiC8HYult4EETvxg/0x53:1024x629/432x243/filters:format(jpg)/2026/10/08/6ac7b6b029055525181713.jpg",
-   "date": null,
-   "pubdate": "2026-10-08T18:53:21.107125+00:00"
-  },
-  {
-   "title": "Pourquoi la Russie a-t-elle renforcé la sécurité du pont de Crimée, et pourquoi est-il si important pour Moscou ? Visé par trois attaques depuis le début de la guerre en Ukraine, cet ouvrage a connu un renforcement sécuritaire sans précédent, devenant une des infrastructures les plus protégées par la Russie. Suspilne, le média public ukrainien, a interrogé un expert militaire sur l’évolution de la situation autour de ce passage stratégique.",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/crimee/pourquoi-la-russie-a-renforce-la-securite-du-pont-de-crimee-et-pourquoi-est-il-si-important-pour-moscou_8228509.html",
-   "summary": "Pourquoi la Russie a-t-elle renforcé la sécurité du pont de Crimée, et pourquoi est-il si important pour Moscou ?",
-   "image": "https://www.franceinfo.fr/pictures/iHTWyrvpJjmjSJIFybSTu_Ko1Ws/0x67:1894x1132/432x243/filters:format(jpg)/2026/10/08/6ac79d33d252c015274579.jpg",
-   "date": null,
-   "pubdate": "2026-10-08T18:53:21.107125+00:00"
-  },
-  {
-   "title": "\"Sacré bazar\" ou \"révolution\" ? Les députés italiens approuvent une réforme électorale controversée, poussée par Giorgia Meloni La loi transforme le code électoral italien. Toute alliance dépassant les 42% des voix récoltera désormais une prime de sièges.",
-   "link": "https://www.franceinfo.fr/monde/italie/sacre-bazar-ou-revolution-les-deputes-italiens-approuvent-une-reforme-electorale-controversee-poussee-par-giorgia-meloni_8228410.html",
-   "summary": "\"Sacré bazar\" ou \"révolution\" ? Les députés italiens approuvent une réforme électorale controversée, poussée par Giorgia Meloni",
-   "image": "https://www.franceinfo.fr/pictures/uWw3RypP11_L2x0JPUnkmjcQ230/0x56:1024x632/432x243/filters:format(jpg)/2026/10/08/6ac7b413cd96c935425269.jpg",
-   "date": null,
-   "pubdate": "2026-10-08T18:53:21.107125+00:00"
-  },
-  {
-   "title": "Israël ferme le consulat britannique à Jérusalem après des sanctions de Londres contre les colons Plusieurs diplomates sont cependant autorisés à rester sur place, après des négociations entre le Royaume-Uni et Israël.",
-   "link": "https://www.franceinfo.fr/monde/israel/israel-ferme-le-consulat-britannique-a-jerusalem-apres-des-sanctions-de-londres-contre-les-colons-l-autorite-palestinienne-denonce-une-mesure-illegale_8228587.html",
-   "summary": "Israël ferme le consulat britannique à Jérusalem après des sanctions de Londres contre les colons",
-   "image": "https://www.franceinfo.fr/pictures/8w-l-SmqTHsqxVKugs7Kt2NKahw/0x101:1024x677/432x243/filters:format(jpg)/2026/10/08/6ac7ad1ac1067715930736.jpg",
-   "date": null,
-   "pubdate": "2026-10-08T18:53:21.107125+00:00"
-  },
-  {
-   "title": "En Arabie saoudite, l'aéroport de Riyad de nouveau ciblé par les houthis, de possibles perturbations pour les passagers Les explosions se sont multipliées cette semaine jusqu'au cœur de la capitale saoudienne.",
-   "link": "https://www.franceinfo.fr/monde/proche-orient/yemen/de-nouveau-cible-par-les-houthis-du-yemen-l-aeroport-de-ryad-avertit-les-passagers-de-possibles-perturbations_8228533.html",
-   "summary": "En Arabie saoudite, l'aéroport de Riyad de nouveau ciblé par les houthis, de possibles perturbations pour les passagers",
-   "image": "https://www.franceinfo.fr/pictures/X3UjBv-L5minx1_EaifDMPrrMjQ/0x0:4000x2250/432x243/filters:format(jpg)/2026/10/08/6ac7a338b755a092931693.jpg",
-   "date": null,
-   "pubdate": "2026-10-08T18:53:21.107125+00:00"
-  },
-  {
-   "title": "Le parti kurde PKK dit avoir retiré ses combattants de Turquie et reproche à Ankara son inaction dans le processus de paix Le PKK juge que le gouvernement truc laisse traîner le dossier, deux mois après l'adoption par le Parlement turc d'une loi historique ouvrant la voie à la réintégration de ses militants armés.",
-   "link": "https://www.franceinfo.fr/monde/turquie/le-parti-des-travailleurs-du-kurdistan-dit-avoir-retire-ses-combattants-de-turquie-et-lui-reproche-son-inaction_8228467.html",
-   "summary": "Le parti kurde PKK dit avoir retiré ses combattants de Turquie et reproche à Ankara son inaction dans le processus de paix",
-   "image": "https://www.franceinfo.fr/pictures/sfk9KzsIpQzXlnM1dIv0svdvZuM/0x60:4992x2868/432x243/filters:format(jpg)/2026/10/08/6ac7a00d79a60934953952.jpg",
-   "date": null,
-   "pubdate": "2026-10-08T18:53:21.107125+00:00"
-  },
-  {
-   "title": "\"Il n'y a pas de repas gratuit\" : l'Allemagne plaide pour des finances publiques saines en Europe et craint l'endettement de la France La ministre de l'Economie allemande, Katherina Reiche, a aussi évoqué les finances publiques de son propre pays, qui s'endette massivement depuis un an pour financer la modernisation de son armée et de ses infrastructures.",
-   "link": "https://www.franceinfo.fr/monde/europe/allemagne/il-n-y-a-pas-de-repas-gratuit-l-allemagne-plaide-pour-des-finances-publiques-saines-en-europe-et-craint-l-endettement-de-la-france_8228437.html",
-   "summary": "\"Il n'y a pas de repas gratuit\" : l'Allemagne plaide pour des finances publiques saines en Europe et craint l'endettement de la France",
-   "image": "https://www.franceinfo.fr/pictures/grpwURez4hXzjK3optyYmuqKmfk/0x0:5061x2846/432x243/filters:format(jpg)/2026/10/08/6ac79622ce79f666175088.jpg",
-   "date": null,
-   "pubdate": "2026-10-08T18:53:21.107125+00:00"
-  },
-  {
-   "title": "3:05 audio 3 minutes 5 Grand oublié des Nobel, le Français Henri Kagan reçoit le prix de chimie à 95 ans Le chimiste a été récompensé, mercredi, avec le Japonais Kenso Soai pour leurs travaux sur la catalyse asymétrique qui ont permis de produire plus efficacement des médicaments.",
-   "link": "https://www.franceinfo.fr/replay-radio/histoire-du-jour/grand-oublie-des-nobel-le-francais-henri-kagan-recoit-le-prix-de-chimie-a-95-ans_8227828.html",
-   "summary": "Grand oublié des Nobel, le Français Henri Kagan reçoit le prix de chimie à 95 ans",
-   "image": "https://www.franceinfo.fr/pictures/hyffVKzavdwbl_Ff_Sf2U6pKLi0/0x113:1024x689/432x243/filters:format(jpg)/2026/10/08/6ac7872791fad935497718.jpg",
-   "date": null,
-   "pubdate": "2026-10-08T18:53:21.107125+00:00"
-  },
-  {
-   "title": "Le prix moyen du gazole à la pompe entame une première baisse dans l'UE après un mois de records, la France toujours très haut En France, le gazole, dont le prix reflue lentement depuis plusieurs jours, s'affichait jeudi matin à un peu plus de 2,35 euros le litre en moyenne.",
-   "link": "https://www.franceinfo.fr/economie/automobile/essence/le-prix-moyen-du-gazole-a-la-pompe-entame-une-premiere-baisse-dans-l-ue-apres-un-mois-de-records-la-france-toujours-tres-haut_8228257.html",
-   "summary": "Le prix moyen du gazole à la pompe entame une première baisse dans l'UE après un mois de records, la France toujours très haut",
-   "image": "https://www.franceinfo.fr/pictures/wDDf2HdGrx4E7nv_xqLMjqSdg5I/0x508:4928x3280/432x243/filters:format(jpg)/2026/10/08/6ac77dd10aea1694156180.jpg",
-   "date": null,
-   "pubdate": "2026-10-08T18:53:21.107125+00:00"
-  },
-  {
-   "title": "Le prix Nobel de littérature 2026 est attribué à l'autrice canadienne Anne Carson L'écrivaine succède à l'auteur hongrois Laszlo Krasznahorkai et devient la 19e femme à décrocher la prestigieuse récompense.",
-   "link": "https://www.franceinfo.fr/monde/prix-nobel/le-prix-nobel-de-litterature-2026-est-attribue-a-l-autrice-canadienne-anne-carson_8228320.html",
-   "summary": "Le prix Nobel de littérature 2026 est attribué à l'autrice canadienne Anne Carson",
-   "image": "https://www.franceinfo.fr/pictures/QK7POCSAIaCgKuSY51lGE1gfmG4/0x370:4904x3129/432x243/filters:format(jpg)/2026/10/08/6ac78343380bc052056464.jpg",
-   "date": null,
-   "pubdate": "2026-10-08T18:53:21.107125+00:00"
-  },
-  {
-   "title": "2:33 audio 2 minutes 33 Aux États-Unis, une matinale radio co-présentée par une IA cartonne Depuis l'arrivée de l'animateur virtuel Coyotec, les audiences radio ont augmenté chez les hommes de 25 à 54 ans.",
-   "link": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/aux-etats-unis-une-matinale-radio-co-presentee-par-une-ia-cartonne_8207162.html",
-   "summary": "Aux États-Unis, une matinale radio co-présentée par une IA cartonne",
-   "image": "https://www.franceinfo.fr/pictures/j_wo0F-Tp3jWW5J1SUENtgc56FY/0x231:4500x2762/432x243/filters:format(jpg)/2026/10/08/6ac75b3e34ee1393420958.jpg",
-   "date": null,
-   "pubdate": "2026-10-08T18:53:21.107125+00:00"
-  },
-  {
-   "title": "Au moins 30 morts dans une frappe russe sur deux bus à Kramatorsk, dans l'est de l'Ukraine, Volodymyr Zelensky promet \"une réponse ferme\" \"Les Russes ont une fois de plus frappé (...) des gens qui vaquaient simplement à leurs occupations\", a réagi le chef de l'administration militaire de la ville de Kramatorsk.",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/au-moins-12-morts-dans-une-frappe-russe-sur-un-bus-a-kramatorsk-dans-l-est-de-l-ukraine_8228089.html",
-   "summary": "Au moins 30 morts dans une frappe russe sur deux bus à Kramatorsk, dans l'est de l'Ukraine, Volodymyr Zelensky promet \"une réponse ferme\"",
-   "image": "https://www.franceinfo.fr/pictures/h-ZE5UbCQ9pBuXMI9UgfWntVmwE/0x307:3000x1995/432x243/filters:format(jpg)/2026/10/08/6ac7893e7cc20680970734.jpg",
-   "date": null,
-   "pubdate": "2026-10-08T10:41:57.308123+00:00"
-  },
-  {
-   "title": "La France ouvre un \"dialogue\" avec les talibans sur les questions migratoires Six ans après la prise du pouvoir des talibans en Afghanistan, la France ouvre \"un dialogue technique\" avec le pays. Un scandale selon l'association France Terre d'asile.",
-   "link": "https://www.franceinfo.fr/monde/afghanistan/la-france-ouvre-un-dialogue-avec-les-talibans-sur-les-questions-migratoires_8227978.html",
-   "summary": "La France ouvre un \"dialogue\" avec les talibans sur les questions migratoires",
-   "image": "https://www.franceinfo.fr/pictures/uIXmxwz6DkWxCb1TBW9VMFU26Dc/0x68:768x499/432x243/filters:format(jpg)/2018/05/07/phpuALcXL_1.jpg",
-   "date": null,
-   "pubdate": "2026-10-08T10:41:57.308123+00:00"
-  },
-  {
-   "title": "2:17 audio 2 minutes 17 Pour fabriquer nos voitures électriques, l'Europe veut réveiller une vieille mine au Groenland Une ancienne mine de graphite pourrait reprendre du service au Groenland dès 2027. Soutenu par Bruxelles, le projet doit permettre à l'Europe de sécuriser son approvisionnement en un minerai indispensable aux batteries des voitures électriques et à l'industrie de défense.",
-   "link": "https://www.franceinfo.fr/replay-radio/le-monde-et-vous/pour-fabriquer-nos-voitures-electriques-l-europe-veut-reveiller-une-vieille-mine-au-groenland_8214884.html",
-   "summary": "Pour fabriquer nos voitures électriques, l'Europe veut réveiller une vieille mine au Groenland",
-   "image": "https://www.franceinfo.fr/pictures/KwD8D3Y5_-IjfIEL4wGmThlY4QI/432x243/filters:format(jpg)/2026/07/31/6a6c1dd5938a1368933067.jpg",
-   "date": null,
-   "pubdate": "2026-10-08T10:41:57.308123+00:00"
-  },
-  {
-   "title": "Air France dément transporter des armes vers Israël, après les accusations de plusieurs syndicats \"Air France n'a pas de réservation pour ce type de marchandise sur ses vols\", assure jeudi la compagnie française.",
-   "link": "https://www.franceinfo.fr/economie/transports/greve-a-air-france/air-france-dement-transporter-des-armes-vers-israel-apres-les-accusations-de-plusieurs-syndicats_8227951.html",
-   "summary": "Air France dément transporter des armes vers Israël, après les accusations de plusieurs syndicats",
-   "image": "https://www.franceinfo.fr/pictures/_Sm_0z4JjOfRtgsuOmezagILyMg/0x278:5357x3292/432x243/filters:format(jpg)/2026/10/08/6ac73d1dcfb08444814538.jpg",
-   "date": null,
-   "pubdate": "2026-10-08T10:41:57.308123+00:00"
   },
   {
    "title": ": Vidéo 5:37 vidéo 5 minutes 37 : Vidéo \"Son côté imprévisible me rend nerveux\" : ces républicains qui, pris à la gorge par l'inflation, envisagent de sanctionner Donald Trump aux Midterms",
