@@ -1,8 +1,7 @@
 {
- "etag": "\"1ocqmen\"",
+ "etag": "\"m5fo59\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/pas-d-emission-pour-cause-de-greve-6032568": "2026-09-14T19:53:21.935402+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/ia-est-elle-une-ideologie-7438886": "2026-09-15T11:00:00+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/l-argent-a-t-il-totalement-corrompu-la-democratie-americaine-1053994": "2026-09-16T17:06:22.815862+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/l-etat-a-t-il-encore-les-moyens-d-affronter-la-crise-qui-vient-9854243": "2026-09-17T17:06:41.278420+00:00",
@@ -20,14 +19,23 @@
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/mobilisations-lyceennes-a-qui-profite-le-chaos-3436710": "2026-10-05T22:05:02.273913+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/les-luttes-peuvent-elles-converger-6069246": "2026-10-06T22:42:35.614973+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/les-violences-des-policiers-doctrine-ou-pratique-isolee-1289611": "2026-10-07T11:00:00+00:00",
-  "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/bresil-derriere-le-succes-de-bolsonaro-celui-de-trump-9697008": "2026-10-08T18:54:43.746341+00:00"
+  "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/bresil-derriere-le-succes-de-bolsonaro-celui-de-trump-9697008": "2026-10-08T18:54:43.746341+00:00",
+  "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/peut-on-encore-faire-une-histoire-commune-9924900": "2026-10-09T11:00:00+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
+   "title": "Peut-on encore faire une histoire communeÂ ?",
+   "link": "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/peut-on-encore-faire-une-histoire-commune-9924900",
+   "summary": "Entre mÃ©moire coloniale, identitÃ© nationale et fractures du dÃ©bat public, peut-on encore construire un rÃ©cit communÂ ? Les historiens Pascal Blanchard et Jean-Yves Mollier croisent leurs regards sur les enjeux de transmission de lâhistoire aujourdâhui.",
+   "image": "https://www.radiofrance.fr/pikapi/images/45fc3a0b-d0fa-4bf2-abf0-42db5b84890a/2048",
+   "date": "2026-10-09T11:00:00+00:00",
+   "pubdate": "2026-10-09T11:00:00+00:00"
+  },
+  {
    "title": "BrÃ©silÂ : derriÃ¨re le succÃ¨s de Bolsonaro, celui de TrumpÂ ?",
    "link": "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/bresil-derriere-le-succes-de-bolsonaro-celui-de-trump-9697008",
-   "summary": "Le score de Flavio Bolsonaro au premier tour de la prÃ©sidentielle brÃ©silienne relance le dÃ©bat sur le retour de lâextrÃªme droite au BrÃ©sil. Au-delÃ des difficultÃ©s de la gauche, certains pointent lâinfluence de Washington. DerriÃ¨re Bolsonaro, l'ombre de TrumpÂ ?",
+   "summary": "Le score de Flavio Bolsonaro au premier tour de l'Ã©lection prÃ©sidentielle brÃ©silienne relance le dÃ©bat sur le retour de lâextrÃªme droite au BrÃ©sil. Au-delÃ des difficultÃ©s de la gauche et du parti du prÃ©sident Lula, certains observateurs pointent lâinfluence de Washington.",
    "image": "https://www.radiofrance.fr/pikapi/images/1e9b4d7b-a0e0-4dea-93e7-87f70d1e899d/2048",
    "date": null,
    "pubdate": "2026-10-08T18:54:43.746341+00:00"
@@ -167,14 +175,6 @@
    "image": "https://www.radiofrance.fr/pikapi/images/b374e5f1-1145-418a-b361-8be4b967a876/2048",
    "date": "2026-09-15T11:00:00+00:00",
    "pubdate": "2026-09-15T11:00:00+00:00"
-  },
-  {
-   "title": "Pas d'Ã©mission pour cause de grÃ¨ve",
-   "link": "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/pas-d-emission-pour-cause-de-greve-6032568",
-   "summary": "En raison dâun appel Ã la grÃ¨ve dÃ©posÃ© par lâensemble des organisations syndicales reprÃ©sentatives de Radio France demandant le retrait de lâantenne de France Inter dâun Ã©dito politique assurÃ© par le Directeur adjoint de Valeurs Actuelles, nous ne pouvons diffuser lâintÃ©gralitÃ© de nos programmes.",
-   "image": "https://www.radiofrance.fr/pikapi/images/38b3be29-f7bc-45fb-87bf-18d60da66c03/2048",
-   "date": null,
-   "pubdate": "2026-09-14T19:53:21.935402+00:00"
   }
  ]
 }

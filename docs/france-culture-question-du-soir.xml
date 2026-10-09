@@ -5,14 +5,21 @@
     <link>https://www.radiofrance.fr/franceculture/podcasts/le-temps-du-debat</link>
     <description>Flux fabriqué par Cloclo à partir de https://www.radiofrance.fr/franceculture/podcasts/le-temps-du-debat</description>
     <language>fr</language>
-    <lastBuildDate>Fri, 09 Oct 2026 10:42:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 18:25:18 +0000</lastBuildDate>
     <atom:link href="https://thomasstamm75.github.io/Cloclo/france-culture-question-du-soir.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Peut-on encore faire une histoire communeÂ ?</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/peut-on-encore-faire-une-histoire-commune-9924900</link>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/peut-on-encore-faire-une-histoire-commune-9924900</guid>
+      <pubDate>Fri, 09 Oct 2026 11:00:00 +0000</pubDate>
+      <description>&lt;img src="https://www.radiofrance.fr/pikapi/images/45fc3a0b-d0fa-4bf2-abf0-42db5b84890a/2048" alt=""/&gt;&lt;p&gt;Entre mÃ©moire coloniale, identitÃ© nationale et fractures du dÃ©bat public, peut-on encore construire un rÃ©cit communÂ ? Les historiens Pascal Blanchard et Jean-Yves Mollier croisent leurs regards sur les enjeux de transmission de lâhistoire aujourdâhui.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>BrÃ©silÂ : derriÃ¨re le succÃ¨s de Bolsonaro, celui de TrumpÂ ?</title>
       <link>https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/bresil-derriere-le-succes-de-bolsonaro-celui-de-trump-9697008</link>
       <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/bresil-derriere-le-succes-de-bolsonaro-celui-de-trump-9697008</guid>
       <pubDate>Thu, 08 Oct 2026 18:54:43 +0000</pubDate>
-      <description>&lt;img src="https://www.radiofrance.fr/pikapi/images/1e9b4d7b-a0e0-4dea-93e7-87f70d1e899d/2048" alt=""/&gt;&lt;p&gt;Le score de Flavio Bolsonaro au premier tour de la prÃ©sidentielle brÃ©silienne relance le dÃ©bat sur le retour de lâextrÃªme droite au BrÃ©sil. Au-delÃ des difficultÃ©s de la gauche, certains pointent lâinfluence de Washington. DerriÃ¨re Bolsonaro, l'ombre de TrumpÂ ?&lt;/p&gt;</description>
+      <description>&lt;img src="https://www.radiofrance.fr/pikapi/images/1e9b4d7b-a0e0-4dea-93e7-87f70d1e899d/2048" alt=""/&gt;&lt;p&gt;Le score de Flavio Bolsonaro au premier tour de l'Ã©lection prÃ©sidentielle brÃ©silienne relance le dÃ©bat sur le retour de lâextrÃªme droite au BrÃ©sil. Au-delÃ des difficultÃ©s de la gauche et du parti du prÃ©sident Lula, certains observateurs pointent lâinfluence de Washington.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Violences urbaines ou violences policiÃ¨resÂ : qui imposera son rÃ©citÂ ?</title>
@@ -132,13 +139,6 @@
       <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/ia-est-elle-une-ideologie-7438886</guid>
       <pubDate>Tue, 15 Sep 2026 11:00:00 +0000</pubDate>
       <description>&lt;img src="https://www.radiofrance.fr/pikapi/images/b374e5f1-1145-418a-b361-8be4b967a876/2048" alt=""/&gt;&lt;p&gt;L'IA inquiÃ¨te, et tel un rouleau compresseur, elle progresse sans que nous puissions lâarrÃªter ou la freiner. Simple outil technologique au service de lâhomme, pour certains experts, n'est-elle pas en train de devenir autre chose qu'un outilÂ ? Une idÃ©ologie qui ne dit pas son nomÂ ?&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Pas d'Ã©mission pour cause de grÃ¨ve</title>
-      <link>https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/pas-d-emission-pour-cause-de-greve-6032568</link>
-      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/pas-d-emission-pour-cause-de-greve-6032568</guid>
-      <pubDate>Mon, 14 Sep 2026 19:53:21 +0000</pubDate>
-      <description>&lt;img src="https://www.radiofrance.fr/pikapi/images/38b3be29-f7bc-45fb-87bf-18d60da66c03/2048" alt=""/&gt;&lt;p&gt;En raison dâun appel Ã la grÃ¨ve dÃ©posÃ© par lâensemble des organisations syndicales reprÃ©sentatives de Radio France demandant le retrait de lâantenne de France Inter dâun Ã©dito politique assurÃ© par le Directeur adjoint de Valeurs Actuelles, nous ne pouvons diffuser lâintÃ©gralitÃ© de nos programmes.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
