@@ -2,7 +2,6 @@
  "etag": "",
  "last_modified": "",
  "first_seen": {
-  "https://www.parlons-politique.fr/politique-locale/elections-senatoriales-2026-deux-reelections-sans-second-tour-ce-que-le-vote-des-elus-locaux-change-pour-les-citoyens_27931/": "2026-09-27T17:01:54.676971+00:00",
   "https://www.parlons-politique.fr/ephemerides/le-30-septembre-1681-strasbourg-capitule-devant-louis-xiv-entre-souverainete-francaise-et-libertes-locales_27965/": "1681-09-30T11:00:00+00:00",
   "https://www.parlons-politique.fr/politique-locale/a-la-seyne-sur-mer-pourquoi-les-electeurs-rn-restent-fideles-a-bardella-malgre-les-accusations-antisemites_28184/": "2026-09-30T12:42:48.968303+00:00",
   "https://www.parlons-politique.fr/politique-locale/a-grenay-le-slogan-dun-elu-rn-embarrasse-la-mairie-et-interroge-la-place-des-symboles-racistes-dans-la-vie-publique_28204/": "2026-09-30T20:05:24.354189+00:00",
@@ -13,7 +12,8 @@
   "https://www.parlons-politique.fr/ephemerides/le-4-octobre-1898-paris-lance-le-metro-ce-chantier-public-qui-va-bouleverser-la-vie-quotidienne_28349/": "1898-10-04T11:00:00+00:00",
   "https://www.parlons-politique.fr/politique-locale/a-saint-denis-la-demande-de-revocation-du-maire-ouvre-un-debat-sur-le-soutien-aux-lyceens-mobilises_28828/": "2026-10-07T06:07:25.719561+00:00",
   "https://www.parlons-politique.fr/politique-locale/le-jumelage-entre-saint-etienne-et-wuppertal-peut-il-depasser-les-visites-officielles-et-profiter-a-davantage-dhabitants_28952/": "2026-10-19T11:00:00+00:00",
-  "https://www.parlons-politique.fr/politique-locale/en-vendee-le-recours-de-stephane-ibarra-met-a-lepreuve-la-validite-du-troisieme-siege-senatorial-de-la-droite_28942/": "2026-10-08T18:53:12.711860+00:00"
+  "https://www.parlons-politique.fr/politique-locale/en-vendee-le-recours-de-stephane-ibarra-met-a-lepreuve-la-validite-du-troisieme-siege-senatorial-de-la-droite_28942/": "2026-10-08T18:53:12.711860+00:00",
+  "https://www.parlons-politique.fr/politique-locale/a-saint-denis-labstention-de-la-majorite-interroge-sur-les-moyens-concrets-de-lutter-contre-lexcision_29120/": "2026-10-10T17:22:19.274322+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
@@ -24,6 +24,14 @@
    "image": "https://www.parlons-politique.fr/wp-content/uploads/2026/10/concert-jumelage-eglise-600x400.webp",
    "date": "2026-10-19T11:00:00+00:00",
    "pubdate": "2026-10-19T11:00:00+00:00"
+  },
+  {
+   "title": "À Saint-Denis, l’abstention de la majorité interroge sur les moyens concrets de lutter contre l’excision",
+   "link": "https://www.parlons-politique.fr/politique-locale/a-saint-denis-labstention-de-la-majorite-interroge-sur-les-moyens-concrets-de-lutter-contre-lexcision_29120/",
+   "summary": "À Saint-Denis, Bally Bagayoko justifie l’abstention de sa majorité par les incertitudes entourant une loi contre les violences sexuelles. Le scrutin relance…",
+   "image": "https://www.parlons-politique.fr/wp-content/uploads/2026/10/salle-conseil-municipal-1-600x400.webp",
+   "date": null,
+   "pubdate": "2026-10-10T17:22:19.274322+00:00"
   },
   {
    "title": "En Vendée, le recours de Stéphane Ibarra met à l’épreuve la validité du troisième siège sénatorial de la droite",
@@ -88,14 +96,6 @@
    "image": "https://www.parlons-politique.fr/wp-content/uploads/2026/09/port-seyne-sur-mer-600x400.webp",
    "date": null,
    "pubdate": "2026-09-30T12:42:48.968303+00:00"
-  },
-  {
-   "title": "Élections sénatoriales 2026 : deux réélections sans second tour, ce que le vote des élus locaux change pour les citoyens",
-   "link": "https://www.parlons-politique.fr/politique-locale/elections-senatoriales-2026-deux-reelections-sans-second-tour-ce-que-le-vote-des-elus-locaux-change-pour-les-citoyens_27931/",
-   "summary": "Jean-Michel Arnaud et Jean-Yves Roux conservent leur siège dès le premier tour dans les deux départements alpins. Ces résultats illustrent le poids…",
-   "image": "https://www.parlons-politique.fr/wp-content/uploads/2026/09/senatoriales-vide-600x400.webp",
-   "date": null,
-   "pubdate": "2026-09-27T17:01:54.676971+00:00"
   },
   {
    "title": "Le 4 octobre 1898 : Paris lance le métro, ce chantier public qui va bouleverser la vie quotidienne",
