@@ -1,5 +1,5 @@
 {
- "etag": "\"5633c8243fa799c33243d11bfec60a59-gzip\"",
+ "etag": "\"74cb8253eb2192bfc409b8eee73d3e35-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/vos-questions-sur-l-effort-de-guerre-de-la-france/": "2026-10-03T05:24:28.250584+00:00",
@@ -7,8 +7,6 @@
   "https://www.franceinfo.fr/monde/europe/allemagne/il-y-a-une-extrapolation-du-declin-economique-comment-l-extreme-droite-allemande-est-arrivee-aux-portes-du-pouvoir-en-saxe-anhalt_8175638.html": "2026-10-03T21:23:34.118772+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/reportage-plus-de-huit-millions-de-livres-pour-enfants-partis-en-fumee-l-ukraine-face-a-une-penurie-de-manuels-scolaires-apres-des-frappes-russes_8192342.html": "2026-10-04T06:00:24.201664+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/temoignages-simulacres-d-execution-tortures-physiques-un-ancien-prisonnier-ukrainien-en-russie-raconte-les-sevices-subis-apres-sa-capture-dans-le-donbass_8202320.html": "2026-10-05T05:49:25.883984+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-ukraine-des-filets-anti-drones-installes-pour-la-premiere-fois-sur-un-pont-a-kiev-apres-les-attaques-russes_8225221.html": "2026-10-06T16:00:08.542440+00:00",
-  "https://www.franceinfo.fr/monde/europe/union-europeenne/deux-navires-frappes-par-des-drones-en-mer-noire-au-large-de-la-bulgarie-ursula-der-leyen-juge-les-attaques-contre-des-navires-civils-inacceptables_8225158.html": "2026-10-06T16:00:08.542440+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-arme-identifie-la-cible-en-une-fraction-de-seconde-comment-les-nouvelles-mitrailleuses-ia-de-kiev-traquent-les-drones-russes_8225494.html": "2026-10-06T22:41:10.900995+00:00",
   "https://www.franceinfo.fr/monde/espagne/avec-des-elections-anticipees-en-novembre-l-espagne-va-ouvrir-un-cycle-electoral-en-europe-qui-pourrait-changer-le-rapport-de-force-au-sein-de-l-ue_8225182.html": "2026-10-06T22:41:10.900995+00:00",
   "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/face-a-la-chine-le-couple-franco-allemand-pousse-l-europe-a-accelerer-sa-riposte-commerciale_8205413.html": "2026-10-07T06:07:33.037476+00:00",
@@ -20,7 +18,6 @@
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/crimee/pourquoi-la-russie-a-renforce-la-securite-du-pont-de-crimee-et-pourquoi-est-il-si-important-pour-moscou_8228509.html": "2026-10-08T18:53:19.914779+00:00",
   "https://www.franceinfo.fr/monde/europe/allemagne/il-n-y-a-pas-de-repas-gratuit-l-allemagne-plaide-pour-des-finances-publiques-saines-en-europe-et-craint-l-endettement-de-la-france_8228437.html": "2026-10-08T18:53:19.914779+00:00",
   "https://www.franceinfo.fr/economie/automobile/essence/le-prix-moyen-du-gazole-a-la-pompe-entame-une-premiere-baisse-dans-l-ue-apres-un-mois-de-records-la-france-toujours-tres-haut_8228257.html": "2026-10-08T18:53:19.914779+00:00",
-  "https://www.franceinfo.fr/sports/elles-ont-triche-au-marathon-de-berlin_8228974.html": "2026-10-09T01:15:27.358952+00:00",
   "https://www.franceinfo.fr/monde/europe/relations-franco-allemandes/malheureusement-les-allemands-ont-decide-de-quitter-le-projet-du-futur-char-franco-allemand-indique-le-chef-d-etat-major-des-armees-francaises_8229835.html": "2026-10-09T10:41:00.343149+00:00",
   "https://www.franceinfo.fr/replay-magazine/france-2/nous-les-europeens/nous-les-europeens-finlande-la-defense-l-affaire-de-tous_8205437.html": "2026-10-09T10:41:00.343149+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/ukraine-une-attaque-russe-sur-deux-bus-fait-au-moins-30-morts-a-kramatorsk_8229529.html": "2026-10-09T10:41:00.343149+00:00",
@@ -29,15 +26,33 @@
   "https://www.franceinfo.fr/monde/europe/belgique/plusieurs-dizaines-de-milliers-de-personnes-manifestent-a-bruxelles-contre-la-rigueur-budgetaire-le-cortege-emaille-de-violences-et-de-degradations_8230279.html": "2026-10-09T18:23:54.273107+00:00",
   "https://www.franceinfo.fr/monde/europe/union-europeenne/une-grande-journee-pour-l-europe-l-ue-s-accorde-sur-la-creation-d-un-super-gendarme-boursier-europeen_8230078.html": "2026-10-09T18:23:54.273107+00:00",
   "https://www.franceinfo.fr/societe/armee-securite-defense/paris-et-berlin-assurent-que-le-projet-mgcs-du-futur-char-franco-allemand-est-bien-maintenu_8230096.html": "2026-10-09T18:23:54.273107+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/les-recentes-frappes-russes-en-ukraine-ont-cause-des-dommages-considerables-au-reseau-electrique-previent-volodymyr-zelensky_8230069.html": "2026-10-09T18:23:54.273107+00:00"
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/les-recentes-frappes-russes-en-ukraine-ont-cause-des-dommages-considerables-au-reseau-electrique-previent-volodymyr-zelensky_8230069.html": "2026-10-09T18:23:54.273107+00:00",
+  "https://www.franceinfo.fr/monde/europe/allemagne/l-extreme-droite-allemande-lorgne-sur-l-alsace-et-la-lorraine_8230633.html": "2026-10-10T00:56:54.956652+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/des-discussions-debutent-entre-les-etats-unis-et-l-ukraine-les-europeens-convies_8230672.html": "2026-10-10T00:56:54.956652+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "La Chine accepte de contenir ses exportations de véhicules hybrides vers l'UE, annonce le commissaire au Commerce européen Le commissaire européen était en Chine pour poursuivre un dialogue entamé il y a quelques mois par l'Union européenne. Aujourd'hui",
+   "title": "L'extrême droite allemande lorgne l'Alsace et la Lorraine L'AfD rêve de reprendre l'Alsace et la Lorraine. Dans un tweet, un membre du parti d'extrême droite, l'Afd a publié une carte de l'Allemagne incluant l'Alsace et la Moselle. Un rêve de \"Grande Allemagne\" qui a déchainé les réactions indignées de part et d'autre de la frontière. Aujourd'hui 1:40 vidéo 1 minute 40",
+   "link": "https://www.franceinfo.fr/monde/europe/allemagne/l-extreme-droite-allemande-lorgne-sur-l-alsace-et-la-lorraine_8230633.html",
+   "summary": "L'extrême droite allemande lorgne l'Alsace et la Lorraine",
+   "image": "https://www.franceinfo.fr/pictures/hNvyreAknigHMVsWTg-uwoCh2tg/0x0:1080x1920/fit-in/432x297/filters:upscale():fill(blur):format(jpg)/2026/10/09/6ac921be5330a416912848.png",
+   "date": null,
+   "pubdate": "2026-10-10T00:56:54.956652+00:00"
+  },
+  {
+   "title": "Des discussions débutent entre les Etats-Unis et l'Ukraine, les Européens conviés",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/des-discussions-debutent-entre-les-etats-unis-et-l-ukraine-les-europeens-convies_8230672.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/XsaFwDVqUKRK69Adoexnt2noxlQ/0x66:1024x642/432x243/filters:format(jpg)/2026/10/09/6ac9307be4410016705302.jpg",
+   "date": null,
+   "pubdate": "2026-10-10T00:56:54.956652+00:00"
+  },
+  {
+   "title": "La Chine accepte de contenir ses exportations de véhicules hybrides vers l'UE, annonce le commissaire au Commerce européen",
    "link": "https://www.franceinfo.fr/monde/europe/union-europeenne/la-chine-accepte-de-contenir-ses-exportations-de-vehicules-hybrides-vers-l-ue-annonce-le-commissaire-europeen-au-commerce_8230396.html",
-   "summary": "La Chine accepte de contenir ses exportations de véhicules hybrides vers l'UE, annonce le commissaire au Commerce européen",
-   "image": "https://www.franceinfo.fr/pictures/M3hWGmdSUodllYxRYyyNqaR7Z0w/26x0:1018x682/432x297/filters:format(jpg)/2026/10/09/6ac9097b57bb3534678120.jpg",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/9NfQrtp4jyNYFyKJje6JSrgCb78/0x106:1024x682/432x243/filters:format(jpg)/2026/10/09/6ac9097b57bb3534678120.jpg",
    "date": null,
    "pubdate": "2026-10-09T18:23:54.273107+00:00"
   },
@@ -98,20 +113,12 @@
    "pubdate": "2026-10-09T10:41:00.343149+00:00"
   },
   {
-   "title": "2:15 audio 2 minutes 15 Kiev en mode \"survie\" face à l'intensification des bombardements russes",
+   "title": "2:15 audio 2 minutes 15 Kiev en mode \"survie\" face à l'intensification des bombardements russes Depuis un peu plus d'un an, la Russie accentue sa stratégie d'usure en bombardant de plus en plus les civils. Jeudi, 30 passagers de deux bus ont été tués à Kramatorsk. Et la capitale ukrainienne, Kiev, n'est plus épargnée.",
    "link": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/kiev-en-mode-survie-face-a-l-intensification-des-bombardements-russes_8208797.html",
    "summary": "Kiev en mode \"survie\" face à l'intensification des bombardements russes",
    "image": "https://www.franceinfo.fr/pictures/M93T2SXCh5ngdUWc_CfpL0hliaM/137x302:3199x2024/432x243/filters:format(jpg)/2026/10/09/6ac875e0ae713537429608.jpg",
    "date": null,
    "pubdate": "2026-10-09T10:41:00.343149+00:00"
-  },
-  {
-   "title": "1:22 vidéo 1 minute 22 Elles ont triché au marathon de Berlin",
-   "link": "https://www.franceinfo.fr/sports/elles-ont-triche-au-marathon-de-berlin_8228974.html",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/S2l3Jx7U1hF4u3z9x9TTRzxdY6k/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/08/6ac7e0a08e1e6058979332.png",
-   "date": null,
-   "pubdate": "2026-10-09T01:15:27.358952+00:00"
   },
   {
    "title": "Pourquoi la Russie a-t-elle renforcé la sécurité du pont de Crimée, et pourquoi est-il si important pour Moscou ? Visé par trois attaques depuis le début de la guerre en Ukraine, cet ouvrage a connu un renforcement sécuritaire sans précédent, devenant une des infrastructures les plus protégées par la Russie. Suspilne, le média public ukrainien, a interrogé un expert militaire sur l’évolution de la situation autour de ce passage stratégique.",
@@ -200,22 +207,6 @@
    "image": "https://www.franceinfo.fr/pictures/4XFv5RsMJCLJWv6okSzxfJwhUi8/0x0:1200x675/432x243/filters:format(jpg)/2026/10/06/6ac4f00b9ae14674264584.jpg",
    "date": null,
    "pubdate": "2026-10-06T22:41:10.900995+00:00"
-  },
-  {
-   "title": "En Ukraine, des filets antidrones installés pour la première fois sur un pont à Kiev après plusieurs attaques russes Largement utilisés dans l'est et le sud de l'Ukraine, près de la ligne de front, ce dispositif à protéger les axes de circulation.",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-ukraine-des-filets-anti-drones-installes-pour-la-premiere-fois-sur-un-pont-a-kiev-apres-les-attaques-russes_8225221.html",
-   "summary": "En Ukraine, des filets antidrones installés pour la première fois sur un pont à Kiev après plusieurs attaques russes",
-   "image": "https://www.franceinfo.fr/pictures/5TJu180g-qp3Sf1X2HCLkLyg9xw/0x149:3846x2312/432x243/filters:format(jpg)/2026/10/06/6ac50c6576840027855119.jpg",
-   "date": null,
-   "pubdate": "2026-10-06T16:00:08.542440+00:00"
-  },
-  {
-   "title": "Deux navires frappés par des drones au large de la Bulgarie, un équipage porté disparu Mardi, la présidente de la Commission européenne, Ursula von der Leyen, a condamné les attaques \"inacceptables\" visant des navires civils en mer Noire.",
-   "link": "https://www.franceinfo.fr/monde/europe/union-europeenne/deux-navires-frappes-par-des-drones-en-mer-noire-au-large-de-la-bulgarie-ursula-der-leyen-juge-les-attaques-contre-des-navires-civils-inacceptables_8225158.html",
-   "summary": "Deux navires frappés par des drones au large de la Bulgarie, un équipage porté disparu",
-   "image": "https://www.franceinfo.fr/pictures/YQbdgo-BVcIIZU05EFRaK6u2FB0/0x348:5939x3689/432x243/filters:format(jpg)/2026/10/06/6ac4f24c481da940226141.jpg",
-   "date": null,
-   "pubdate": "2026-10-06T16:00:08.542440+00:00"
   },
   {
    "title": ": Témoignages 4:57 audio 4 minutes 57 : Témoignages Simulacres d'exécution, tortures physiques... Un ancien prisonnier ukrainien en Russie raconte les sévices subis après sa capture dans le Donbass",
