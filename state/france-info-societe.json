@@ -1,117 +1,153 @@
 {
- "etag": "\"d96574f7da6b7bb9f47ffb3969a70663-gzip\"",
+ "etag": "\"20a50397a891cbcf416e73b406178630-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/societe/nos-jours-heureux/": "2026-09-30T20:05:26.193735+00:00",
   "https://www.franceinfo.fr/culture/bd/c-est-un-peu-comme-une-grande-s-ur-comment-une-generation-lou-s-est-formee-en-vingt-ans_8225596.html": "2026-10-07T06:07:27.892075+00:00",
-  "https://www.franceinfo.fr/monde/usa/midterms-2018/son-cote-imprevisible-me-rend-nerveux-ces-republicains-qui-pris-a-la-gorge-par-l-inflation-envisagent-de-donner-une-lecon-a-donald-trump-aux-midterms_8225785.html": "2026-10-07T13:32:30.099281+00:00",
   "https://www.franceinfo.fr/societe/euthanasie/comprendre-les-debats-sur-la-fin-de-vie/": "2026-10-07T20:39:44.500600+00:00",
   "https://www.franceinfo.fr/politique/jordan-bardella/il-montre-qu-il-connait-les-codes-des-tweets-du-jeune-jordan-bardella-font-ressurgir-l-ambiance-soralienne-de-ses-debuts-en-politique_8226601.html": "2026-10-08T10:41:51.164453+00:00",
   "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-lyceens-en-colere-anatomie-d-une-lutte-regardez-le-documentaire-de-franceinfo-qui-revient-sur-trois-semaines-de-mobilisation-de-la-jeunesse_8230564.html": "2026-10-09T18:23:50.631605+00:00",
-  "https://www.franceinfo.fr/societe/harcelement-sexuel/au-dernier-jour-d-examen-de-la-loi-integrale-le-rassemblement-national-fait-tomber-plusieurs-mesures_8230735.html": "2026-10-10T00:56:50.123818+00:00",
-  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/vingt-quatre-enquetes-ouvertes-par-l-igpn-la-police-des-polices-depuis-le-debut-du-mouvement-des-lyceens_8230753.html": "2026-10-10T00:56:50.123818+00:00",
-  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/l-ancienne-ministre-najat-vallaud-belkacem-propose-la-mise-en-place-d-un-conclave-de-l-education_8230771.html": "2026-10-10T00:56:50.123818+00:00",
-  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/non-le-mouvement-ne-s-essouffle-pas-estime-le-representant-federal-de-l-union-syndicale-lyceenne-a-paris_8230747.html": "2026-10-10T00:56:50.123818+00:00",
-  "https://www.franceinfo.fr/societe/harcelement-sexuel/le-chef-du-samu-du-pas-de-calais-condamne-pour-agression-sexuelle-sa-defense-annonce-qu-il-va-faire-appel_8230711.html": "2026-10-10T00:56:50.123818+00:00",
   "https://www.franceinfo.fr/societe/education/blocage-des-lycees/c-est-gentil-pour-les-generations-d-apres-des-collegiens-parfois-touches-par-les-blocages-d-etablissements-mais-qui-se-sentent-concernes-par-le-mouvement-lyceen_8231329.html": "2026-10-10T09:56:55.762726+00:00",
   "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/mobilisation-des-lyceens-les-casseurs-doivent-payer-affirme-andrea-kotarac-porte-parole-du-rn_8210420.html": "2026-10-10T09:56:55.762726+00:00",
-  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/temoignage-on-est-des-pions-qu-ils-placent-ou-ils-veulent-apres-les-annonces-du-ministre-de-l-education-nationale-une-professeure-de-maths-affectee-en-lettres-modernes-dans-un-lycee_8231176.html": "2026-10-10T09:56:55.762726+00:00",
-  "https://www.franceinfo.fr/replay-radio/portraits-d-actu/laurent-nunez-ferme-et-rond-a-la-fois_8210426.html": "2026-10-10T09:56:55.762726+00:00",
-  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/indemnisations-par-les-parents-stages-sur-les-droits-et-devoirs-du-manifestant-quelles-suites-judiciaires-pour-les-mineurs-poursuivis-lors-du-mouvement-lyceen_8228563.html": "2026-10-10T09:56:55.762726+00:00",
   "https://www.franceinfo.fr/societe/justice/christa-pike-qui-a-survecu-a-son-execution-dans-le-tennessee-est-de-retour-en-prison_8231827.html": "2026-10-10T17:22:20.630063+00:00",
   "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux-junior/mobilisation-des-lyceens-le-vrai-ou-faux-junior-verifie-deux-videos-de-violences-en-marge-des-blocages_8210414.html": "2026-10-10T17:22:20.630063+00:00",
-  "https://www.franceinfo.fr/replay-magazine/franceinfo/vrai-ou-fake-l-emission/mobilisation-des-lyceens-les-representants-syndicaux-des-eleves-sont-ils-engages-politiquement_8231686.html": "2026-10-10T17:22:20.630063+00:00",
   "https://www.franceinfo.fr/replay-radio/l-info-de-l-histoire/peine-de-mort-plutot-celebrer-son-abolition_8210444.html": "2026-10-10T17:22:20.630063+00:00",
   "https://www.franceinfo.fr/replay-radio/le-rendez-vous-du-mediateur/la-mobilisation-lyceenne-donner-la-parole-a-tous-les-protagonistes_8210411.html": "2026-10-10T17:22:20.630063+00:00",
   "https://www.franceinfo.fr/monde/prix-nobel/la-prix-nobel-de-la-paix-navi-pillay-juge-les-sanctions-americaines-contre-la-cour-penale-internationale-inacceptables_8231680.html": "2026-10-10T17:22:20.630063+00:00",
   "https://www.franceinfo.fr/societe/education/un-batiment-de-l-universite-de-nantes-evacue-par-la-police-apres-plusieurs-jours-d-occupation-par-des-manifestants_8231527.html": "2026-10-10T17:22:20.630063+00:00",
-  "https://www.franceinfo.fr/replay-jt/france-2/20-heures/haute-saone-des-riverains-desempares-face-aux-multiples-degradations-d-un-radar-juge-indispensable-sur-une-route-fortement-accidentee_8231932.html": "2026-10-10T21:49:33.038504+00:00",
-  "https://www.franceinfo.fr/replay-jt/france-2/20-heures/chauffeurs-routiers-quand-les-ecrans-provoquent-des-accidents-mortels_8231890.html": "2026-10-10T21:49:33.038504+00:00",
-  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mouvement-des-lyceens-on-a-mis-plus-de-jeunes-en-garde-a-vue-que-tous-les-gilets-jaunes-en-une-annee-lance-catherine-tricot-directrice-de-la-revue-regards_8231872.html": "2026-10-10T21:49:33.038504+00:00",
   "https://www.franceinfo.fr/societe/education/blocage-des-lycees/l-adolescent-a-la-main-arrachee-conteste-formellement-avoir-ramasse-la-grenade-en-marge-du-blocage-de-son-lycee-selon-son-avocate_8231887.html": "2026-10-10T21:49:33.038504+00:00",
-  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/au-c-ur-des-enquetes-de-la-police-des-polices_8231881.html": "2026-10-10T21:49:33.038504+00:00",
-  "https://www.franceinfo.fr/societe/harcelement-sexuel/zazie-y-a-plus-d-saisons_8229976.html": "2026-10-10T21:49:33.038504+00:00",
-  "https://www.franceinfo.fr/economie/automobile/essence/temoignages-je-ne-fais-plus-rien-je-vis-un-nouveau-confinement-comment-la-hausse-des-prix-des-carburants-chamboule-le-quotidien-des-automobilistes_8213087.html": "2026-10-11T05:55:20.955591+00:00"
+  "https://www.franceinfo.fr/economie/automobile/essence/temoignages-je-ne-fais-plus-rien-je-vis-un-nouveau-confinement-comment-la-hausse-des-prix-des-carburants-chamboule-le-quotidien-des-automobilistes_8213087.html": "2026-10-11T05:55:20.955591+00:00",
+  "https://www.franceinfo.fr/faits-divers/justice-proces/le-ministere-de-l-interieur-a-lance-une-procedure-de-dissolution-contre-l-association-d-extreme-droite-egalite-et-reconciliation-de-l-essayiste-alain-soral_8232643.html": "2026-10-11T12:59:27.110656+00:00",
+  "https://www.franceinfo.fr/replay-jt/france-2/13-heures/tueurs-a-gages-chauffeurs-donneurs-d-ordres-ou-logisticiens-vaste-coup-de-filet-a-dijon-contre-le-narcotrafic_8232640.html": "2026-10-11T12:59:27.110656+00:00",
+  "https://www.franceinfo.fr/societe/education/violences-dans-le-periscolaire/une-nouvelle-plainte-collective-deposee-dans-le-scandale-du-periscolaire-a-paris-pour-combattre-l-impunite-de-tous-les-responsables-de-l-administration-de-la-ville_8232583.html": "2026-10-11T12:59:27.110656+00:00",
+  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-des-lycees-la-macronie-assume-de-pietiner-l-etat-de-droit-denonce-la-deputee-du-groupe-ecologiste-et-social-clementine-autain_8232445.html": "2026-10-11T12:59:27.110656+00:00",
+  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/d-importantes-degradations-a-l-universite-de-nantes-apres-une-occupation_8232460.html": "2026-10-11T12:59:27.110656+00:00",
+  "https://www.franceinfo.fr/elections/presidentielle/sur-fond-de-colere-lyceenne-gabriel-attal-et-jean-luc-melenchon-poursuivent-leur-duel-a-distance_8232382.html": "2026-10-11T12:59:27.110656+00:00",
+  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/la-macronie-assume-de-pietiner-l-etat-de-droit-denonce-clementine-autain-a-propos-des-interventions-policieres-lors-des-manifestations-lyceennes_8232427.html": "2026-10-11T12:59:27.110656+00:00",
+  "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/mouvement-des-lyceens-et-reponse-policiere-loi-integrale-contre-les-violences-sexistes-et-sexuelles-le-8h30-franceinfo-de-clementine-autain_8190242.html": "2026-10-11T12:59:27.110656+00:00",
+  "https://www.franceinfo.fr/replay-magazine/france-2/nous-les-europeens/video-finlande-un-modele-de-defense-totale-qui-mobilise-toute-la-population-en-cas-d-attaque-russe_8227003.html": "2026-10-11T12:59:27.110656+00:00",
+  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/reportage-on-essaye-vraiment-de-trouver-des-solutions-pour-continuer-a-paris-des-lyceens-preparent-la-suite-du-mouvement_8232283.html": "2026-10-11T12:59:27.110656+00:00",
+  "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-un-moment-pour-le-blocus-un-autre-pour-les-cours-en-marge-des-mobilisations-les-lyceens-tentent-de-limiter-le-retard-pris-sur-les-programmes_8201624.html": "2026-10-11T12:59:27.110656+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": ": Témoignages \"Je ne fais plus rien, je vis un nouveau confinement\" : comment la hausse des prix des carburants chamboule le quotidien des automobilistes Du changement de véhicule à la réduction des trajets au strict nécessaire, des Français dépendants de la voiture multiplient les stratégies pour limiter les effets de la crise des carburants sur leurs finances. Aujourd'hui : Témoignages",
+   "title": "Le ministère de l'Intérieur a lancé une procédure de dissolution contre l'association d'extrême droite Egalité et Réconciliation de l'essayiste Alain Soral Celle-ci pourrait être prononcée à l'issue d'un échange contradictoire actuellement \"en cours\", a fait savoir Beauvau. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/faits-divers/justice-proces/le-ministere-de-l-interieur-a-lance-une-procedure-de-dissolution-contre-l-association-d-extreme-droite-egalite-et-reconciliation-de-l-essayiste-alain-soral_8232643.html",
+   "summary": "Le ministère de l'Intérieur a lancé une procédure de dissolution contre l'association d'extrême droite Egalité et Réconciliation de l'essayiste Alain Soral",
+   "image": "https://www.franceinfo.fr/pictures/YkuJgHrgvBWKoJgb1YHGgR7wOF8/76x0:4924x3333/432x297/filters:format(jpg)/2026/10/11/6acb79eecdb4d294063738.jpg",
+   "date": null,
+   "pubdate": "2026-10-11T12:59:27.110656+00:00"
+  },
+  {
+   "title": "1:37 vidéo 1 minute 37 \"Tueurs à gages, chauffeurs, donneurs d'ordres ou logisticiens\" : vaste coup de filet à Dijon contre le narcotrafic",
+   "link": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/tueurs-a-gages-chauffeurs-donneurs-d-ordres-ou-logisticiens-vaste-coup-de-filet-a-dijon-contre-le-narcotrafic_8232640.html",
+   "summary": "\"Tueurs à gages, chauffeurs, donneurs d'ordres ou logisticiens\" : vaste coup de filet à Dijon contre le narcotrafic",
+   "image": "https://www.franceinfo.fr/pictures/O7rwRqboZSfE5NvOYSAUAvj1xsk/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/11/6acb7867b6f6e528894657.jpg",
+   "date": null,
+   "pubdate": "2026-10-11T12:59:27.110656+00:00"
+  },
+  {
+   "title": "Une nouvelle plainte collective déposée dans le scandale du périscolaire à Paris, pour \"combattre l'impunité de tous les responsables\"",
+   "link": "https://www.franceinfo.fr/societe/education/violences-dans-le-periscolaire/une-nouvelle-plainte-collective-deposee-dans-le-scandale-du-periscolaire-a-paris-pour-combattre-l-impunite-de-tous-les-responsables-de-l-administration-de-la-ville_8232583.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/SPl7trbZFSrAwnYD9USYJIRLjiA/0x192:4252x2584/432x243/filters:format(jpg)/2026/07/03/6a47e12920794141920740.jpg",
+   "date": null,
+   "pubdate": "2026-10-11T12:59:27.110656+00:00"
+  },
+  {
+   "title": "1:15 vidéo 1 minute 15 Mobilisation des lycées : \"La Macronie assume de piétiner l'État de droit\", dénonce la députée du groupe Ecologiste et social Clémentine Autain",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-des-lycees-la-macronie-assume-de-pietiner-l-etat-de-droit-denonce-la-deputee-du-groupe-ecologiste-et-social-clementine-autain_8232445.html",
+   "summary": "Mobilisation des lycées : \"La Macronie assume de piétiner l'État de droit\", dénonce la députée du groupe Ecologiste et social Clémentine Autain",
+   "image": "https://www.franceinfo.fr/pictures/gjbpvmVvY0PzA8orU1j5Vr8IJEo/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/11/6acb4f56540d5543323359.jpg",
+   "date": null,
+   "pubdate": "2026-10-11T12:59:27.110656+00:00"
+  },
+  {
+   "title": "1:20 vidéo 1 minute 20 D'importantes dégradations à l’université de Nantes après une occupation",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/d-importantes-degradations-a-l-universite-de-nantes-apres-une-occupation_8232460.html",
+   "summary": "D'importantes dégradations à l’université de Nantes après une occupation",
+   "image": "https://www.franceinfo.fr/pictures/KdB8MwoTnkOxA78QIu82kLj0aEo/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/11/6acb51d07915d272096425.jpg",
+   "date": null,
+   "pubdate": "2026-10-11T12:59:27.110656+00:00"
+  },
+  {
+   "title": "Sur fond de colère lycéenne, Gabriel Attal et Jean-Luc Mélenchon poursuivent leur duel à distance",
+   "link": "https://www.franceinfo.fr/elections/presidentielle/sur-fond-de-colere-lyceenne-gabriel-attal-et-jean-luc-melenchon-poursuivent-leur-duel-a-distance_8232382.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/0kH2mOhtZ_lfyq88Xv8d05CMfjU/0x312:6000x3687/432x243/filters:format(jpg)/2026/10/11/6acb3e6dc338f848804040.jpg",
+   "date": null,
+   "pubdate": "2026-10-11T12:59:27.110656+00:00"
+  },
+  {
+   "title": "\"La Macronie assume de piétiner l'État de droit\", dénonce Clémentine Autain à propos des interventions policières lors des manifestations lycéennes",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/la-macronie-assume-de-pietiner-l-etat-de-droit-denonce-clementine-autain-a-propos-des-interventions-policieres-lors-des-manifestations-lyceennes_8232427.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/aF2z9E4oDCBE06z_HWf7VwlUK64/0x0:1600x900/432x243/filters:format(jpg)/2026/10/11/6acb4b8b834b1902882625.jpg",
+   "date": null,
+   "pubdate": "2026-10-11T12:59:27.110656+00:00"
+  },
+  {
+   "title": "19:46 audio 19 minutes 46 Mouvement des lycéens et réponse policière, loi \"intégrale\" contre les violences sexistes et sexuelles... Le \"8h30 franceinfo\" de Clémentine Autain",
+   "link": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/mouvement-des-lyceens-et-reponse-policiere-loi-integrale-contre-les-violences-sexistes-et-sexuelles-le-8h30-franceinfo-de-clementine-autain_8190242.html",
+   "summary": "Mouvement des lycéens et réponse policière, loi \"intégrale\" contre les violences sexistes et sexuelles... Le \"8h30 franceinfo\" de Clémentine Autain",
+   "image": "https://www.franceinfo.fr/pictures/1lwO8O_hKOAJsQN0Wg8VRs5zlv8/0x0:1600x900/432x243/filters:format(jpg)/2026/10/11/6acb3f3065f51247425417.jpg",
+   "date": null,
+   "pubdate": "2026-10-11T12:59:27.110656+00:00"
+  },
+  {
+   "title": ": Vidéo 5:02 vidéo 5 minutes 2 : Vidéo Finlande : un modèle de \"défense totale\" qui mobilise toute la population en cas d'attaque russe",
+   "link": "https://www.franceinfo.fr/replay-magazine/france-2/nous-les-europeens/video-finlande-un-modele-de-defense-totale-qui-mobilise-toute-la-population-en-cas-d-attaque-russe_8227003.html",
+   "summary": "Finlande : un modèle de \"défense totale\" qui mobilise toute la population en cas d'attaque russe",
+   "image": "https://www.franceinfo.fr/pictures/kH5gr7Q3OR3jEKuB1PKbzS0leTY/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/08/6ac767014c40e464302725.jpg",
+   "date": null,
+   "pubdate": "2026-10-11T12:59:27.110656+00:00"
+  },
+  {
+   "title": ": Reportage : Reportage \"On essaye vraiment de trouver des solutions pour continuer\" : à Paris, des lycéens préparent la suite du mouvement",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/reportage-on-essaye-vraiment-de-trouver-des-solutions-pour-continuer-a-paris-des-lyceens-preparent-la-suite-du-mouvement_8232283.html",
+   "summary": "\"On essaye vraiment de trouver des solutions pour continuer\" : à Paris, des lycéens préparent la suite du mouvement",
+   "image": "https://www.franceinfo.fr/pictures/x4HttcijU07n4LQYOn1uDJx2ZC4/0x215:4128x2537/432x243/filters:format(jpg)/2026/10/11/6acb292c6076f482844151.jpg",
+   "date": null,
+   "pubdate": "2026-10-11T12:59:27.110656+00:00"
+  },
+  {
+   "title": ": Reportage 3:53 audio 3 minutes 53 : Reportage \"Un moment pour le blocus, un autre pour les cours\" : en marge des mobilisations, les lycéens tentent de limiter le retard pris sur les programmes",
+   "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-un-moment-pour-le-blocus-un-autre-pour-les-cours-en-marge-des-mobilisations-les-lyceens-tentent-de-limiter-le-retard-pris-sur-les-programmes_8201624.html",
+   "summary": "\"Un moment pour le blocus, un autre pour les cours\" : en marge des mobilisations, les lycéens tentent de limiter le retard pris sur les programmes",
+   "image": "https://www.franceinfo.fr/pictures/ThE8EGdGvFHPETfxrMpoMDOrhFM/299x0:3755x3456/100x100/filters:format(jpg)/2026/10/11/6acb27829947f243157298.jpg",
+   "date": null,
+   "pubdate": "2026-10-11T12:59:27.110656+00:00"
+  },
+  {
+   "title": ": Témoignages \"Je ne fais plus rien, je vis un nouveau confinement\" : comment la hausse des prix des carburants chamboule le quotidien des automobilistes Du changement de véhicule à la réduction des trajets au strict nécessaire, des Français dépendants de la voiture multiplient les stratégies pour limiter les effets de la crise des carburants sur leurs finances.",
    "link": "https://www.franceinfo.fr/economie/automobile/essence/temoignages-je-ne-fais-plus-rien-je-vis-un-nouveau-confinement-comment-la-hausse-des-prix-des-carburants-chamboule-le-quotidien-des-automobilistes_8213087.html",
    "summary": "\"Je ne fais plus rien, je vis un nouveau confinement\" : comment la hausse des prix des carburants chamboule le quotidien des automobilistes",
-   "image": "https://www.franceinfo.fr/pictures/wH2w32zBMVfCu9Th7D5UPiLyl2I/5x0:997x682/432x297/filters:format(jpg)/2026/10/01/6abd899d1c8f1903409273.jpg",
+   "image": "https://www.franceinfo.fr/pictures/LVdYU7gYErpuMltvknvfXhTDSHc/0x0:1024x576/432x243/filters:format(jpg)/2026/10/01/6abd899d1c8f1903409273.jpg",
    "date": null,
    "pubdate": "2026-10-11T05:55:20.955591+00:00"
   },
   {
-   "title": "2:03 vidéo 2 minutes 3 Haute-Saône : des riverains désemparés face aux multiples dégradations d'un radar jugé indispensable sur une route fortement accidentée",
-   "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/haute-saone-des-riverains-desempares-face-aux-multiples-degradations-d-un-radar-juge-indispensable-sur-une-route-fortement-accidentee_8231932.html",
-   "summary": "Haute-Saône : des riverains désemparés face aux multiples dégradations d'un radar jugé indispensable sur une route fortement accidentée",
-   "image": "https://www.franceinfo.fr/pictures/7S9yRvQDytHl_EcxllM_f4XCejE/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/10/6aca9185dd970109229415.jpg",
-   "date": null,
-   "pubdate": "2026-10-10T21:49:33.038504+00:00"
-  },
-  {
-   "title": "3:12 vidéo 3 minutes 12 Chauffeurs routiers : quand les écrans provoquent des accidents mortels",
-   "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/chauffeurs-routiers-quand-les-ecrans-provoquent-des-accidents-mortels_8231890.html",
-   "summary": "Chauffeurs routiers : quand les écrans provoquent des accidents mortels",
-   "image": "https://www.franceinfo.fr/pictures/EvYLvUYMpL1Tm2uAJRMyIht-zu4/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/10/6aca8ca27f223846612930.jpg",
-   "date": null,
-   "pubdate": "2026-10-10T21:49:33.038504+00:00"
-  },
-  {
-   "title": "24:09 vidéo 24 minutes 9 Mouvement des lycéens : \"On a mis plus de jeunes en garde à vue que tous les gilets jaunes en une année\", lance Catherine Tricot, directrice de la revue Regards",
-   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mouvement-des-lyceens-on-a-mis-plus-de-jeunes-en-garde-a-vue-que-tous-les-gilets-jaunes-en-une-annee-lance-catherine-tricot-directrice-de-la-revue-regards_8231872.html",
-   "summary": "Mouvement des lycéens : \"On a mis plus de jeunes en garde à vue que tous les gilets jaunes en une année\", lance Catherine Tricot, directrice de la revue Regards",
-   "image": "https://www.franceinfo.fr/pictures/HX2qa6sK1KK8GyCNQjiEkUA06gI/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/10/6aca7a2358d84277516270.jpg",
-   "date": null,
-   "pubdate": "2026-10-10T21:49:33.038504+00:00"
-  },
-  {
-   "title": "L'adolescent à la main arrachée \"conteste formellement\" avoir ramassé la grenade en marge du blocage de son lycée, selon son avocate",
+   "title": "L'adolescent à la main arrachée \"conteste formellement\" avoir ramassé la grenade en marge du blocage de son lycée, selon son avocate L'adolescent réfute l'un des premiers éléments de l'enquête du parquet de Béthune. Ce dernier a affirmé vendredi que le jeune garçon aurait lui-même ramassé l'engin explosif.",
    "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/l-adolescent-a-la-main-arrachee-conteste-formellement-avoir-ramasse-la-grenade-en-marge-du-blocage-de-son-lycee-selon-son-avocate_8231887.html",
-   "summary": "",
+   "summary": "L'adolescent à la main arrachée \"conteste formellement\" avoir ramassé la grenade en marge du blocage de son lycée, selon son avocate",
    "image": "https://www.franceinfo.fr/pictures/3E4EQ--8TTrxRmr8HOISMPiScZY/0x29:5469x3105/432x243/filters:format(jpg)/2026/10/06/6ac499ba5d7ce558565779.jpg",
    "date": null,
    "pubdate": "2026-10-10T21:49:33.038504+00:00"
   },
   {
-   "title": "2:08 vidéo 2 minutes 8 Au cœur des enquêtes de la police des polices",
-   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/au-c-ur-des-enquetes-de-la-police-des-polices_8231881.html",
-   "summary": "Au cœur des enquêtes de la police des polices",
-   "image": "https://www.franceinfo.fr/pictures/shtf0o3_fkE1nqgGm87Pnoo_dvg/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/10/6aca7fd21b131527776468.png",
-   "date": null,
-   "pubdate": "2026-10-10T21:49:33.038504+00:00"
-  },
-  {
-   "title": "1:59 vidéo 1 minute 59 Zazie \"Y'a plus d'saisons\"",
-   "link": "https://www.franceinfo.fr/societe/harcelement-sexuel/zazie-y-a-plus-d-saisons_8229976.html",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/u5lsM3aHlQ_tWl0m_TSoiNJUC5I/0x0:900x1600/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/09/6ac8c30f49dc9857582943.jpg",
-   "date": null,
-   "pubdate": "2026-10-10T21:49:33.038504+00:00"
-  },
-  {
-   "title": "Christa Pike, qui a survécu à son exécution dans le Tennessee, est de retour en prison",
+   "title": "Christa Pike, qui a survécu à son exécution dans le Tennessee, est de retour en prison Selon son avocat, elle n'est pas encore rétablie sur le plan mental alors qu'elle a avalé deux doses d'un puissant barbiturique.",
    "link": "https://www.franceinfo.fr/societe/justice/christa-pike-qui-a-survecu-a-son-execution-dans-le-tennessee-est-de-retour-en-prison_8231827.html",
-   "summary": "",
+   "summary": "Christa Pike, qui a survécu à son exécution dans le Tennessee, est de retour en prison",
    "image": "https://www.franceinfo.fr/pictures/E5kxLnkjdwgCqxDm2Fi-eZYiKws/0x13:1200x688/432x243/filters:format(jpg)/2026/10/01/6abde854cdccc668703444.jpg",
    "date": null,
    "pubdate": "2026-10-10T17:22:20.630063+00:00"
   },
   {
-   "title": "2:42 audio 2 minutes 42 Mobilisation des lycéens : le vrai ou faux junior vérifie deux vidéos de violences en marge des blocages",
+   "title": "2:42 audio 2 minutes 42 Mobilisation des lycéens : le vrai ou faux junior vérifie deux vidéos de violences en marge des blocages L'une concerne un lycéen qui a eu la main arrachée à Lens, l'autre des accusations de noyade à Belfort. Les collégiens s'interrogent sur la véracité de ces images.",
    "link": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux-junior/mobilisation-des-lyceens-le-vrai-ou-faux-junior-verifie-deux-videos-de-violences-en-marge-des-blocages_8210414.html",
    "summary": "Mobilisation des lycéens : le vrai ou faux junior vérifie deux vidéos de violences en marge des blocages",
    "image": "https://www.franceinfo.fr/pictures/8qJusf1a9DOnL9tXtmkwT3_SWHE/0x250:4800x2950/432x243/filters:format(jpg)/2026/10/08/6ac7c00229ffd741245949.jpg",
-   "date": null,
-   "pubdate": "2026-10-10T17:22:20.630063+00:00"
-  },
-  {
-   "title": "2:33 vidéo 2 minutes 33 Mobilisation des lycéens : les représentants syndicaux des élèves sont-ils engagés politiquement ?",
-   "link": "https://www.franceinfo.fr/replay-magazine/franceinfo/vrai-ou-fake-l-emission/mobilisation-des-lyceens-les-representants-syndicaux-des-eleves-sont-ils-engages-politiquement_8231686.html",
-   "summary": "Mobilisation des lycéens : les représentants syndicaux des élèves sont-ils engagés politiquement ?",
-   "image": "https://www.franceinfo.fr/pictures/gPF6INLFI2-5PrVWfVMYrcEA3KI/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/10/6aca5e24d3038605299015.jpg",
    "date": null,
    "pubdate": "2026-10-10T17:22:20.630063+00:00"
   },
@@ -156,76 +192,12 @@
    "pubdate": "2026-10-10T09:56:55.762726+00:00"
   },
   {
-   "title": "18:51 audio 18 minutes 51 Mobilisation des lycéens : \"Les casseurs doivent payer\", affirme Andréa Kotarac, porte-parole du RN Andréa Kotarac, porte-parole du Rassemblement national, président du groupe RN à la Région Auvergne Rhône-Alpes, était l'invité du \"8h30 franceinfo\" samedi. Il répondait aux questions de Camille Girerd et Benjamin Fontaine.",
+   "title": "18:51 audio 18 minutes 51 Mobilisation des lycéens, affaire Bardella... Le \"8h30 franceinfo\" d'Andréa Kotarac, porte-parole du RN Andréa Kotarac, porte-parole du Rassemblement national, président du groupe RN à la Région Auvergne Rhône-Alpes, était l'invité du \"8h30 franceinfo\" samedi. Il répondait aux questions de Camille Girerd et Benjamin Fontaine.",
    "link": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/mobilisation-des-lyceens-les-casseurs-doivent-payer-affirme-andrea-kotarac-porte-parole-du-rn_8210420.html",
-   "summary": "Mobilisation des lycéens : \"Les casseurs doivent payer\", affirme Andréa Kotarac, porte-parole du RN",
+   "summary": "Mobilisation des lycéens, affaire Bardella... Le \"8h30 franceinfo\" d'Andréa Kotarac, porte-parole du RN",
    "image": "https://www.franceinfo.fr/pictures/rAm327Q6ffaFBhhyOGV5ENvWO8c/0x0:1600x900/432x243/filters:format(jpg)/2026/10/10/6ac9f966d3f12430805324.jpg",
    "date": null,
    "pubdate": "2026-10-10T09:56:55.762726+00:00"
-  },
-  {
-   "title": ": Témoignage \"On est des pions qu'ils placent où ils veulent\" : après les annonces du ministre de l'Education nationale, une professeure de maths affectée en lettres modernes dans un lycée Pour répondre aux difficultés dans les lycées, plus de 3 000 professeurs remplaçants doivent être déployés dans les prochains jours. Parmi eux, Agathe dénonce une affectation inadaptée à sa formation.",
-   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/temoignage-on-est-des-pions-qu-ils-placent-ou-ils-veulent-apres-les-annonces-du-ministre-de-l-education-nationale-une-professeure-de-maths-affectee-en-lettres-modernes-dans-un-lycee_8231176.html",
-   "summary": "\"On est des pions qu'ils placent où ils veulent\" : après les annonces du ministre de l'Education nationale, une professeure de maths affectée en lettres modernes dans un lycée",
-   "image": "https://www.franceinfo.fr/pictures/0HMHCtJhrdOwGc1kkOcHTzc02es/0x312:6000x3687/432x243/filters:format(jpg)/2026/10/10/6ac9d7dc698df097539117.jpg",
-   "date": null,
-   "pubdate": "2026-10-10T09:56:55.762726+00:00"
-  },
-  {
-   "title": "4:37 audio 4 minutes 37 Laurent Nuñez : ferme et rond à la fois Avec la mobilisation des lycéennes et des lycéens, Il est l'un des membres du gouvernement parmi les plus en vue. Laurent Nuñez est une figure politique incontournable de la semaine, face à la gestion de la crise lycéenne.",
-   "link": "https://www.franceinfo.fr/replay-radio/portraits-d-actu/laurent-nunez-ferme-et-rond-a-la-fois_8210426.html",
-   "summary": "Avec la mobilisation des lycéennes et des lycéens, Il est l'un des membres du gouvernement parmi les plus en vue. Laurent Nuñez est une figure politique incontournable de la semaine, face à la gestion de la crise lycéenne.",
-   "image": "https://www.franceinfo.fr/pictures/mVtG7EVJnQsuEL8On1idMyVQyEg/0x208:4006x2462/432x243/filters:format(jpg)/2026/10/09/6ac8b8a866686324896431.jpg",
-   "date": null,
-   "pubdate": "2026-10-10T09:56:55.762726+00:00"
-  },
-  {
-   "title": "Indemnisations par les parents, stages sur \"les droits et devoirs du manifestant\"... Quelles suites judiciaires pour les mineurs poursuivis lors du mouvement lycéen ? Depuis le début de la mobilisation lycéenne, les forces de l'ordre ont procédé à des milliers d'interpellations d'adolescents. Selon le ministère de la Justice, environ un sur trois fait l'objet de poursuites après sa garde à vue, en suivant des procédures spécifiques aux mineurs.",
-   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/indemnisations-par-les-parents-stages-sur-les-droits-et-devoirs-du-manifestant-quelles-suites-judiciaires-pour-les-mineurs-poursuivis-lors-du-mouvement-lyceen_8228563.html",
-   "summary": "Indemnisations par les parents, stages sur \"les droits et devoirs du manifestant\"... Quelles suites judiciaires pour les mineurs poursuivis lors du mouvement lycéen ?",
-   "image": "https://www.franceinfo.fr/pictures/gcqXqkGolEt7U8_toaSDbZRtl_Q/0x24:4576x2598/432x243/filters:format(jpg)/2026/10/09/6ac8f49e25055849120021.jpg",
-   "date": null,
-   "pubdate": "2026-10-10T09:56:55.762726+00:00"
-  },
-  {
-   "title": "Au dernier jour d'examen de la loi \"intégrale\" contre les violences sexistes et sexuelles, deux mesures emblématiques rejetées à l'intiative du Rassemblement national Ces votes ont suscité les critiques de la coalition féministe et enfantiste à l'origine du texte, celle-ci dénonçant un \"recul\" sur \"les droits au travail et la protection des femmes étrangères\".",
-   "link": "https://www.franceinfo.fr/societe/harcelement-sexuel/au-dernier-jour-d-examen-de-la-loi-integrale-le-rassemblement-national-fait-tomber-plusieurs-mesures_8230735.html",
-   "summary": "Au dernier jour d'examen de la loi \"intégrale\" contre les violences sexistes et sexuelles, deux mesures emblématiques rejetées à l'intiative du Rassemblement national",
-   "image": "https://www.franceinfo.fr/pictures/WPlUb_N5LOW3iq5ud4vIqfXYbFU/0x53:1024x629/432x243/filters:format(jpg)/2026/10/09/6ac962090ca4b972130269.jpg",
-   "date": null,
-   "pubdate": "2026-10-10T00:56:50.123818+00:00"
-  },
-  {
-   "title": "Vingt-quatre enquêtes ouvertes par l'IGPN, la \"police des polices\", depuis le début du mouvement des lycéens Une des dernières enquêtes en date concerne un coup de genou d'un policier dans le visage d'un manifestant, jeudi, lors de la manifestation place de la Bastille à Paris.",
-   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/vingt-quatre-enquetes-ouvertes-par-l-igpn-la-police-des-polices-depuis-le-debut-du-mouvement-des-lyceens_8230753.html",
-   "summary": "Vingt-quatre enquêtes ouvertes par l'IGPN, la \"police des polices\", depuis le début du mouvement des lycéens",
-   "image": "https://www.franceinfo.fr/pictures/Iwfk8esC8p-nukxD03qYbb0PMT8/0x100:1024x676/432x243/filters:format(jpg)/2026/10/09/6ac94b48afeeb496420904.jpg",
-   "date": null,
-   "pubdate": "2026-10-10T00:56:50.123818+00:00"
-  },
-  {
-   "title": "L'ancienne ministre Najat Vallaud-Belkacem propose la mise en place d'un \"conclave de l'éducation\" L'ancienne ministre socialiste de l'Education nationale propose, vendredi sur franceinfo, de réunir \"les représentants des organisations lycéennes, les représentants des enseignants, les représentants des collectivités locales et ceux des parents\".",
-   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/l-ancienne-ministre-najat-vallaud-belkacem-propose-la-mise-en-place-d-un-conclave-de-l-education_8230771.html",
-   "summary": "L'ancienne ministre Najat Vallaud-Belkacem propose la mise en place d'un \"conclave de l'éducation\"",
-   "image": "https://www.franceinfo.fr/pictures/A8XLwI-9vxHWrxqMfu6GEbU8xeI/0x0:4200x2362/432x243/filters:format(jpg)/2026/10/09/6ac94989f33b3795745780.jpg",
-   "date": null,
-   "pubdate": "2026-10-10T00:56:50.123818+00:00"
-  },
-  {
-   "title": "\"Non\", le mouvement ne s'essouffle pas, estime le représentant fédéral de l'Union syndicale lycéenne à Paris Philémon Jouglet-Marcus, représentant fédéral de l'USL à Paris, assure, vendredi sur franceinfo, que \"la motivation est toujours présente\" et dit attendre \"une très très grosse mobilisation mardi\".",
-   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/non-le-mouvement-ne-s-essouffle-pas-estime-le-representant-federal-de-l-union-syndicale-lyceenne-a-paris_8230747.html",
-   "summary": "\"Non\", le mouvement ne s'essouffle pas, estime le représentant fédéral de l'Union syndicale lycéenne à Paris",
-   "image": "https://www.franceinfo.fr/pictures/7nvNzWUJPTggOp3Gd5VvpwxOVAg/0x53:1024x629/432x243/filters:format(jpg)/2026/10/09/6ac9472e43e08168224972.jpg",
-   "date": null,
-   "pubdate": "2026-10-10T00:56:50.123818+00:00"
-  },
-  {
-   "title": "Le chef du Samu du Pas-de-Calais condamné pour agression sexuelle, sa défense annonce qu'il va faire appel Il est accusé d'avoir, lors d'un congrès à Paris, embrassé de force sa collègue, la référente de la cellule d'urgence médico-psychologique du Samu 62, en \"lui attrapant fermement les épaules\", précise ICI Nord.",
-   "link": "https://www.franceinfo.fr/societe/harcelement-sexuel/le-chef-du-samu-du-pas-de-calais-condamne-pour-agression-sexuelle-sa-defense-annonce-qu-il-va-faire-appel_8230711.html",
-   "summary": "Le chef du Samu du Pas-de-Calais condamné pour agression sexuelle, sa défense annonce qu'il va faire appel",
-   "image": "https://www.franceinfo.fr/pictures/oQAMUXYDjwor52ylKTPp4iWiUOA/0x0:1024x576/432x243/filters:format(jpg)/2026/10/09/6ac93e2642d22247030511.jpg",
-   "date": null,
-   "pubdate": "2026-10-10T00:56:50.123818+00:00"
   },
   {
    "title": ": Replay 50:00 vidéo 50 minutes : Replay \"Lycéens en colère : anatomie d'une lutte\" : regardez le documentaire de franceinfo qui revient sur trois semaines de mobilisation de la jeunesse",
@@ -250,14 +222,6 @@
    "image": "https://www.franceinfo.fr/pictures/gZwL6mlJ39yMRDzurzn4EQx_sgw/432x297/filters:format(jpg)/2025/05/27/illustration-aide-a-mourir-68357ca797624128014806.jpg",
    "date": null,
    "pubdate": "2026-10-07T20:39:44.500600+00:00"
-  },
-  {
-   "title": ": Vidéo 5:37 vidéo 5 minutes 37 : Vidéo \"Son côté imprévisible me rend nerveux\" : ces républicains qui, pris à la gorge par l'inflation, envisagent de sanctionner Donald Trump aux Midterms",
-   "link": "https://www.franceinfo.fr/monde/usa/midterms-2018/son-cote-imprevisible-me-rend-nerveux-ces-republicains-qui-pris-a-la-gorge-par-l-inflation-envisagent-de-donner-une-lecon-a-donald-trump-aux-midterms_8225785.html",
-   "summary": "\"Son côté imprévisible me rend nerveux\" : ces républicains qui, pris à la gorge par l'inflation, envisagent de sanctionner Donald Trump aux Midterms",
-   "image": "https://www.franceinfo.fr/pictures/3NAx_aFLPkSsafRoLkjzSxmLS8k/213x0:907x694/100x100/filters:format(jpg)/2026/10/06/6ac55844ee2b8682653125.jpg",
-   "date": null,
-   "pubdate": "2026-10-07T13:32:30.099281+00:00"
   },
   {
    "title": "9:00 article 9 minutes \"C'est un peu comme une grande sœur\" : comment une \"génération Lou\" s'est formée en vingt ans ?",

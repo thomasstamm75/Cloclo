@@ -1,13 +1,9 @@
 {
- "etag": "\"2fe6c920b8ff451648f99437d0d66c81-gzip\"",
+ "etag": "\"2372ec0448db5e1bbfc7ae2a482101ee-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/monde/usa/midterms-2018/son-cote-imprevisible-me-rend-nerveux-ces-republicains-qui-pris-a-la-gorge-par-l-inflation-envisagent-de-donner-une-lecon-a-donald-trump-aux-midterms_8225785.html": "2026-10-10T00:56:56.433138+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/temoignages-simulacres-d-execution-tortures-physiques-un-ancien-prisonnier-ukrainien-en-russie-raconte-les-sevices-subis-apres-sa-capture-dans-le-donbass_8202320.html": "2026-10-10T00:56:56.433138+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-au-moins-12-morts-dont-trois-enfants-dans-des-frappes-russes-lancees-sur-zaporijjia_8231440.html": "2026-10-10T09:57:01.399173+00:00",
-  "https://www.franceinfo.fr/monde/europe/l-irlande-propose-des-coupes-de-140-milliards-d-euros-dans-le-budget-de-l-ue_8231422.html": "2026-10-10T09:57:01.399173+00:00",
-  "https://www.franceinfo.fr/faits-divers/en-pologne-plusieurs-dizaines-d-etablissements-scolaires-fermes-vendredi-dans-la-crainte-d-une-journee-sanglante_8231311.html": "2026-10-10T09:57:01.399173+00:00",
-  "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/plus-de-1-400-palestiniens-ont-ete-tues-dans-des-operations-israeliennes-depuis-le-debut-du-cessez-le-feu-dans-la-bande-de-gaza_8213186.html": "2026-10-10T09:57:01.399173+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-il-y-a-un-sentiment-de-desespoir-qui-monte-chez-tout-le-monde-un-an-apres-le-cessez-le-feu-a-gaza-le-processus-de-paix-est-au-point-mort_8210456.html": "2026-10-10T09:57:01.399173+00:00",
   "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/tout-comprendre-a-la-guerre-au-moyen-orient/": "2026-10-10T09:57:01.399173+00:00",
   "https://www.franceinfo.fr/monde/groenland/le-groenland-au-c-ur-d-un-bras-de-fer-geopolitique/": "2026-10-10T09:57:01.399173+00:00",
@@ -15,49 +11,123 @@
   "https://www.franceinfo.fr/societe/justice/christa-pike-qui-a-survecu-a-son-execution-dans-le-tennessee-est-de-retour-en-prison_8231827.html": "2026-10-10T17:22:26.471232+00:00",
   "https://www.franceinfo.fr/monde/inde/reportage-un-gouvernement-de-voleurs-et-d-escrocs-en-inde-des-millions-d-electeurs-radies-manifestent-leur-colere-et-font-face-a-une-vague-d-arrestations_8231749.html": "2026-10-10T17:22:26.471232+00:00",
   "https://www.franceinfo.fr/monde/proche-orient/yemen/l-ambassade-americaine-a-ryad-dit-etre-au-courant-d-attaques-visant-l-aeroport_8231764.html": "2026-10-10T17:22:26.471232+00:00",
-  "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/taiwan-celebre-sa-fete-nationale-et-engrange-des-profits-records-grace-au-developpement-de-l-ia_8210435.html": "2026-10-10T17:22:26.471232+00:00",
-  "https://www.franceinfo.fr/replay-radio/l-empire-des-series/portobello-recit-d-une-erreur-judiciaire-historique-en-italie_8210450.html": "2026-10-10T17:22:26.471232+00:00",
-  "https://www.franceinfo.fr/monde/prix-nobel/la-prix-nobel-de-la-paix-navi-pillay-juge-les-sanctions-americaines-contre-la-cour-penale-internationale-inacceptables_8231680.html": "2026-10-10T17:22:26.471232+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/des-millions-de-barils-un-effet-incertain-sur-les-prix-l-ukraine-en-colere-quatre-questions-sur-l-accord-sur-le-diesel-russe-entre-donald-trump-et-vladimir-poutine_8231458.html": "2026-10-10T17:22:26.471232+00:00",
-  "https://www.franceinfo.fr/sports/foot/serie-a/en-italie-des-buts-plus-nombreux-depuis-la-reprise-du-championnat-italien-pourtant-repute-defensif_8231566.html": "2026-10-10T17:22:26.471232+00:00",
-  "https://www.franceinfo.fr/monde/palestine/le-president-palestinien-reporte-l-organisation-de-pres-d-un-an-des-elections-legislatives-a-septembre-2027_8231596.html": "2026-10-10T17:22:26.471232+00:00",
-  "https://www.franceinfo.fr/environnement/catastrophes-naturelles/ouragan-seisme-le-continent-americain-frappe-de-plein-fouet_8231944.html": "2026-10-10T21:49:40.228684+00:00",
-  "https://www.franceinfo.fr/monde/russie/la-vie-sous-surveillance-du-realisateur-russe-pavel-talankin_8230654.html": "2026-10-10T21:49:40.228684+00:00",
   "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-estime-qu-il-est-temps-pour-l-ukraine-d-avoir-un-nouveau-president_8231941.html": "2026-10-10T21:49:40.228684+00:00",
   "https://www.franceinfo.fr/replay-jt/france-2/20-heures/donald-trump-est-il-en-train-de-lacher-volodymyr-zelensky_8231905.html": "2026-10-10T21:49:40.228684+00:00",
   "https://www.franceinfo.fr/replay-jt/france-2/20-heures/tremblement-de-terre-ouragan-coulee-de-boue-le-continent-americain-touche-par-plusieurs-catastrophes-naturelles_8231896.html": "2026-10-10T21:49:40.228684+00:00",
   "https://www.franceinfo.fr/faits-divers/un-homme-grievement-blesse-apres-l-attaque-d-un-tigre-dans-un-zoo-britannique_8231878.html": "2026-10-10T21:49:40.228684+00:00",
   "https://www.franceinfo.fr/monde/proche-orient/yemen/en-arabie-saoudite-au-moins-douze-morts-dans-une-attaque-contre-l-aeroport-de-ryad-imputee-aux-houthis_8232244.html": "2026-10-11T05:55:26.596664+00:00",
-  "https://www.franceinfo.fr/monde/usa/video-nous-sommes-dans-une-sorte-de-dystopie-a-minneapolis-l-operation-de-la-police-de-l-immigration-vire-a-la-chasse-a-l-homme_8195114.html": "2026-10-11T05:55:26.596664+00:00",
-  "https://www.franceinfo.fr/monde/europe/allemagne/un-portrait-d-angela-merkel-affole-berlin_8230030.html": "2026-10-11T05:55:26.596664+00:00",
   "https://www.franceinfo.fr/monde/usa/affaire-jeffrey-epstein/l-essentiel-des-revelations-sur-l-affaire-epstein/": "2026-10-11T05:55:26.596664+00:00",
-  "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/ils-deblaient-a-la-main-trois-ans-apres-le-debut-de-la-guerre-a-gaza-les-palestiniens-toujours-contraints-de-vivre-dans-les-ruines-et-le-denuement_8219863.html": "2026-10-11T05:55:26.596664+00:00"
+  "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/ils-deblaient-a-la-main-trois-ans-apres-le-debut-de-la-guerre-a-gaza-les-palestiniens-toujours-contraints-de-vivre-dans-les-ruines-et-le-denuement_8219863.html": "2026-10-11T05:55:26.596664+00:00",
+  "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/le-pape-leon-xiv-annonce-qu-il-va-etre-opere-d-un-nodule-au-poumon_8232658.html": "2026-10-11T12:59:31.705719+00:00",
+  "https://www.franceinfo.fr/replay-jt/france-2/13-heures/andouille-de-guemene-ce-savoir-faire-menace-par-les-normes-europeennes_8232649.html": "2026-10-11T12:59:31.705719+00:00",
+  "https://www.franceinfo.fr/replay-jt/france-2/13-heures/une-attaque-contre-l-aeroport-de-riyad-en-arabie-saoudite-fait-au-moins-12-morts_8232619.html": "2026-10-11T12:59:31.705719+00:00",
+  "https://www.franceinfo.fr/monde/europe/en-pologne-une-reunion-d-urgence-apres-de-possibles-tentatives-d-assassinat-contre-le-premier-ministre-et-le-ministre-de-la-defense_8232595.html": "2026-10-11T12:59:31.705719+00:00",
+  "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/le-pape-leon-xiv-annonce-qu-il-va-etre-opere-d-un-nodule-au-poumon-dans-les-prochains-jours_8232562.html": "2026-10-11T12:59:31.705719+00:00",
+  "https://www.franceinfo.fr/culture/a-rome-une-exposition-met-en-lumiere-le-peintre-pontormo-maitre-oublie-de-la-renaissance_8231974.html": "2026-10-11T12:59:31.705719+00:00",
+  "https://www.franceinfo.fr/culture/cinema/documentaires/que-revele-naza-le-documentaire-qui-fait-scandale-en-israel-et-qui-arrive-au-cinema-en-france_8217937.html": "2026-10-11T12:59:31.705719+00:00",
+  "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/attaque-meurtriere-a-l-aeroport-de-riyad_8232469.html": "2026-10-11T12:59:31.705719+00:00",
+  "https://www.franceinfo.fr/monde/coree-du-sud/un-porte-conteneurs-sud-coreen-a-acheve-avec-succes-un-voyage-d-essai-vers-l-europe-via-l-arctique_8232442.html": "2026-10-11T12:59:31.705719+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-russie-plusieurs-services-du-geant-de-la-tech-yandex-ont-ete-affectes-par-une-attaque-de-drone_8232406.html": "2026-10-11T12:59:31.705719+00:00",
+  "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/leon-xiv-en-france-retrouvez-l-essentiel/": "2026-10-11T12:59:31.705719+00:00",
+  "https://www.franceinfo.fr/replay-radio/livre-actu/de-la-virilite-en-amerique-d-amy-green-aux-origines-du-masculinisme-americain_8190230.html": "2026-10-11T12:59:31.705719+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "En Arabie saoudite, au moins douze morts dans une attaque contre l'aéroport de Ryad imputée aux houthis Il s'agit de l'attaque la plus meurtrière depuis plus de dix ans commise dans le royaume. \"Ce qui s'est passé n'est pas inacceptable\", a réagi Donald Trump. Aujourd'hui",
-   "link": "https://www.franceinfo.fr/monde/proche-orient/yemen/en-arabie-saoudite-au-moins-douze-morts-dans-une-attaque-contre-l-aeroport-de-ryad-imputee-aux-houthis_8232244.html",
-   "summary": "En Arabie saoudite, au moins douze morts dans une attaque contre l'aéroport de Ryad imputée aux houthis",
-   "image": "https://www.franceinfo.fr/pictures/xflHDa3MjsBlZTp6LPxpr4Qw9-w/46x0:3034x2054/432x297/filters:format(jpg)/2026/10/11/6acb1cd63eb60555342511.jpg",
+   "title": "Le pape Léon XIV annonce qu’il va être opéré d’un nodule au poumon Le pape Léon XIV, 71 ans, a annoncé dimanche 11 octobre qu'il allait être opéré \"dans les prochains jours\" d'un nodule au poumon, détecté \"à un stade précoce\". Selon le Vatican, son hospitalisation devrait durer environ une semaine. Aujourd'hui 0:41 vidéo 41 secondes",
+   "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/le-pape-leon-xiv-annonce-qu-il-va-etre-opere-d-un-nodule-au-poumon_8232658.html",
+   "summary": "Le pape Léon XIV annonce qu’il va être opéré d’un nodule au poumon",
+   "image": "https://www.franceinfo.fr/pictures/5nuG6JxtkOuHUscv_715w10Vv-s/0x0:1080x1920/fit-in/432x297/filters:upscale():fill(blur):format(jpg)/2026/10/11/6acb815faa734616650008.jpg",
    "date": null,
-   "pubdate": "2026-10-11T05:55:26.596664+00:00"
+   "pubdate": "2026-10-11T12:59:31.705719+00:00"
   },
   {
-   "title": ": Vidéo 3:30 vidéo 3 minutes 30 : Vidéo \"Nous sommes dans une sorte de dystopie\" : à Minneapolis, l'opération de la police de l'immigration vire à la chasse à l'homme",
-   "link": "https://www.franceinfo.fr/monde/usa/video-nous-sommes-dans-une-sorte-de-dystopie-a-minneapolis-l-operation-de-la-police-de-l-immigration-vire-a-la-chasse-a-l-homme_8195114.html",
-   "summary": "\"Nous sommes dans une sorte de dystopie\" : à Minneapolis, l'opération de la police de l'immigration vire à la chasse à l'homme",
-   "image": "https://www.franceinfo.fr/pictures/F8v2WA275tqrsv54Y5QT1X2zubo/0x53:1024x629/432x243/filters:format(jpg)/2026/09/17/6aac0d7b5157b448564657.jpg",
+   "title": "1:42 vidéo 1 minute 42 Andouille de Guémené : ce savoir-faire menacé par les normes européennes",
+   "link": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/andouille-de-guemene-ce-savoir-faire-menace-par-les-normes-europeennes_8232649.html",
+   "summary": "Andouille de Guémené : ce savoir-faire menacé par les normes européennes",
+   "image": "https://www.franceinfo.fr/pictures/Itsz_uJ0nfpSmif3TISYf1NPfRU/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/11/6acb7f349eacb450567828.jpg",
    "date": null,
-   "pubdate": "2026-10-11T05:55:26.596664+00:00"
+   "pubdate": "2026-10-11T12:59:31.705719+00:00"
   },
   {
-   "title": "2:45 vidéo 2 minutes 45 Un portrait d’Angela Merkel affole Berlin",
-   "link": "https://www.franceinfo.fr/monde/europe/allemagne/un-portrait-d-angela-merkel-affole-berlin_8230030.html",
-   "summary": "Un portrait d’Angela Merkel affole Berlin",
-   "image": "https://www.franceinfo.fr/pictures/k-q9f2NLVmJsw35t_yctxc9YHiU/0x0:900x1600/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/09/6ac8cae933701353608808.jpg",
+   "title": "1:42 vidéo 1 minute 42 Une attaque contre l'aéroport de Riyad en Arabie saoudite fait au moins 12 morts",
+   "link": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/une-attaque-contre-l-aeroport-de-riyad-en-arabie-saoudite-fait-au-moins-12-morts_8232619.html",
+   "summary": "Une attaque contre l'aéroport de Riyad en Arabie saoudite fait au moins 12 morts",
+   "image": "https://www.franceinfo.fr/pictures/wlvLy5gvk9y9Y2qHcK3Ky5qCIQs/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/11/6acb7201584a9083541611.jpg",
    "date": null,
-   "pubdate": "2026-10-11T05:55:26.596664+00:00"
+   "pubdate": "2026-10-11T12:59:31.705719+00:00"
+  },
+  {
+   "title": "En Pologne, une réunion d'urgence après de \"possibles tentatives d'assassinat\" contre le Premier ministre et le ministre de la Défense",
+   "link": "https://www.franceinfo.fr/monde/europe/en-pologne-une-reunion-d-urgence-apres-de-possibles-tentatives-d-assassinat-contre-le-premier-ministre-et-le-ministre-de-la-defense_8232595.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/07YdNWq5VBmYEb1UDJjEj62PL1s/0x18:1024x594/432x243/filters:format(jpg)/2026/10/11/6acb68e885072245498431.jpg",
+   "date": null,
+   "pubdate": "2026-10-11T12:59:31.705719+00:00"
+  },
+  {
+   "title": "Le pape Léon XIV annonce qu'il va être opéré d'un nodule au poumon \"dans les prochains jours\"",
+   "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/le-pape-leon-xiv-annonce-qu-il-va-etre-opere-d-un-nodule-au-poumon-dans-les-prochains-jours_8232562.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/woqWDOb8bNxXaTckqj5pDwdJ6ag/0x219:4186x2574/432x243/filters:format(jpg)/2026/10/11/6acb638eb0c0b748305625.jpg",
+   "date": null,
+   "pubdate": "2026-10-11T12:59:31.705719+00:00"
+  },
+  {
+   "title": "À Rome, une exposition met en lumière le peintre Pontormo, maître oublié de la Renaissance",
+   "link": "https://www.franceinfo.fr/culture/a-rome-une-exposition-met-en-lumiere-le-peintre-pontormo-maitre-oublie-de-la-renaissance_8231974.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/gJ3nh4ZpWEURhaJrBIKtsK1z4k4/0x0:1530x861/432x243/filters:format(jpg)/2026/10/10/6acaa9f1cfde8980844093.jpg",
+   "date": null,
+   "pubdate": "2026-10-11T12:59:31.705719+00:00"
+  },
+  {
+   "title": "Que révèle \"Naza\", le documentaire qui fait scandale en Israël, et qui arrive au cinéma en France ?",
+   "link": "https://www.franceinfo.fr/culture/cinema/documentaires/que-revele-naza-le-documentaire-qui-fait-scandale-en-israel-et-qui-arrive-au-cinema-en-france_8217937.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/zZHMF0QRE7IisTAX1NAXQFZtgxk/0x0:1280x720/432x243/filters:format(jpg)/2026/10/01/6abe1a789852e891743842.jpg",
+   "date": null,
+   "pubdate": "2026-10-11T12:59:31.705719+00:00"
+  },
+  {
+   "title": "1:14 vidéo 1 minute 14 Attaque meurtrière à l’aéroport de Riyad",
+   "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/attaque-meurtriere-a-l-aeroport-de-riyad_8232469.html",
+   "summary": "Attaque meurtrière à l’aéroport de Riyad",
+   "image": "https://www.franceinfo.fr/pictures/_8FuRQZN4VTgf2rVPyTVUQ_0dhE/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/11/6acb52b57ae9c755143728.jpg",
+   "date": null,
+   "pubdate": "2026-10-11T12:59:31.705719+00:00"
+  },
+  {
+   "title": "Un porte-conteneurs sud-coréen a achevé avec succès un voyage d'essai vers l'Europe via l'Arctique",
+   "link": "https://www.franceinfo.fr/monde/coree-du-sud/un-porte-conteneurs-sud-coreen-a-acheve-avec-succes-un-voyage-d-essai-vers-l-europe-via-l-arctique_8232442.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/v1YNE3J77O-8HZGpis16MtkplFw/0x319:4000x2569/432x243/filters:format(jpg)/2026/10/11/6acb51b58af39871413816.jpg",
+   "date": null,
+   "pubdate": "2026-10-11T12:59:31.705719+00:00"
+  },
+  {
+   "title": "En Russie, plusieurs services du géant de la tech Yandex ont été affectés par une attaque de drone",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-russie-plusieurs-services-du-geant-de-la-tech-yandex-ont-ete-affectes-par-une-attaque-de-drone_8232406.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/Xok4GNGFhyVmC6T7rRR4XFRKm4w/0x202:3883x2386/432x243/filters:format(jpg)/2026/10/11/6acb48ed29429642824383.jpg",
+   "date": null,
+   "pubdate": "2026-10-11T12:59:31.705719+00:00"
+  },
+  {
+   "title": "Léon XIV en France : l'essentiel de la visite du pape 15 contenus",
+   "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/leon-xiv-en-france-retrouvez-l-essentiel/",
+   "summary": "Léon XIV en France : l'essentiel de la visite du pape",
+   "image": "https://www.franceinfo.fr/pictures/bgiweXyFgu0BUNMikE3oBZK0JG4/432x297/filters:format(jpg)/2026/09/24/6ab4f4233a728679965697.jpg",
+   "date": null,
+   "pubdate": "2026-10-11T12:59:31.705719+00:00"
+  },
+  {
+   "title": "2:40 audio 2 minutes 40 \"De la virilité en Amérique\" d'Amy Green, aux origines du masculinisme américain. Cette semaine, une politologue franco-américaine se demande pourquoi de nombreux hommes américains adhèrent au masculinisme politique professé par Donald Trump.",
+   "link": "https://www.franceinfo.fr/replay-radio/livre-actu/de-la-virilite-en-amerique-d-amy-green-aux-origines-du-masculinisme-americain_8190230.html",
+   "summary": "\"De la virilité en Amérique\" d'Amy Green, aux origines du masculinisme américain.",
+   "image": "https://www.franceinfo.fr/pictures/_ulPWY1dmteAGVUn-37n63UN4Xo/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/08/6ac73c32e38b6131192867.jpg",
+   "date": null,
+   "pubdate": "2026-10-11T12:59:31.705719+00:00"
   },
   {
    "title": "L'essentiel des révélations sur l'affaire Epstein 14 contenus",
@@ -76,23 +146,15 @@
    "pubdate": "2026-10-11T05:55:26.596664+00:00"
   },
   {
-   "title": "2:05 vidéo 2 minutes 5 Ouragan, séisme : le continent américain frappé de plein fouet",
-   "link": "https://www.franceinfo.fr/environnement/catastrophes-naturelles/ouragan-seisme-le-continent-americain-frappe-de-plein-fouet_8231944.html",
-   "summary": "Ouragan, séisme : le continent américain frappé de plein fouet",
-   "image": "https://www.franceinfo.fr/pictures/gmjeAhDNszxTn4cSpEUvaAlw1a4/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/10/6aca95743d5ca421984936.jpg",
+   "title": "Au moins douze morts et plus de 300 blessés, dont une Française, dans une attaque contre l'aéroport de Riyad imputée aux houthis Il s'agit de l'attaque la plus meurtrière depuis plus de dix ans commise en Arabie saoudite. \"Ce qui s'est passé n'est pas inacceptable\", a réagi Donald Trump.",
+   "link": "https://www.franceinfo.fr/monde/proche-orient/yemen/en-arabie-saoudite-au-moins-douze-morts-dans-une-attaque-contre-l-aeroport-de-ryad-imputee-aux-houthis_8232244.html",
+   "summary": "Au moins douze morts et plus de 300 blessés, dont une Française, dans une attaque contre l'aéroport de Riyad imputée aux houthis",
+   "image": "https://www.franceinfo.fr/pictures/kP-7u4yD9LVeX8JdO_zEyVVfTvo/0x160:3081x1893/432x243/filters:format(jpg)/2026/10/11/6acb1cd63eb60555342511.jpg",
    "date": null,
-   "pubdate": "2026-10-10T21:49:40.228684+00:00"
+   "pubdate": "2026-10-11T05:55:26.596664+00:00"
   },
   {
-   "title": "2:29 vidéo 2 minutes 29 La vie sous surveillance du réalisateur russe Pavel Talankin",
-   "link": "https://www.franceinfo.fr/monde/russie/la-vie-sous-surveillance-du-realisateur-russe-pavel-talankin_8230654.html",
-   "summary": "La vie sous surveillance du réalisateur russe Pavel Talankin",
-   "image": "https://www.franceinfo.fr/pictures/Hu7syf4GU3qVq1e6ZkT0JbjEnZU/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/09/6ac92638449ed157331872.png",
-   "date": null,
-   "pubdate": "2026-10-10T21:49:40.228684+00:00"
-  },
-  {
-   "title": "0:42 vidéo 42 secondes Donald Trump estime qu’il est \"temps pour l’Ukraine d’avoir un nouveau président\"",
+   "title": "0:42 vidéo 42 secondes Donald Trump estime qu’il est \"temps pour l’Ukraine d’avoir un nouveau président\" \"Je pense qu'il est temps pour l'Ukraine d'avoir un nouveau président.\" Donald Trump s'en prend à Volodymyr Zelensky, lui reprochant notamment les frappes ukrainiennes contre les raffineries russes, qui aggraveraient, selon lui, la pénurie mondiale de diesel.",
    "link": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-estime-qu-il-est-temps-pour-l-ukraine-d-avoir-un-nouveau-president_8231941.html",
    "summary": "Donald Trump estime qu’il est \"temps pour l’Ukraine d’avoir un nouveau président\"",
    "image": "https://www.franceinfo.fr/pictures/xvFzt6ham0Y-qj62ryuO5iiuS9c/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/10/6aca952cb1b86870989046.jpg",
@@ -100,7 +162,7 @@
    "pubdate": "2026-10-10T21:49:40.228684+00:00"
   },
   {
-   "title": "1:41 vidéo 1 minute 41 Donald Trump est-il en train de lâcher Volodymyr Zelensky ?",
+   "title": "1:41 vidéo 1 minute 41 Donald Trump est-il en train de lâcher Volodymyr Zelensky ? Un accord surprise d’importation de gasoil russe est intervenu entre Vladimir Poutine et Donald Trump, levant ainsi les sanctions qui pèsent sur Moscou. Volodymyr Zelensky a fait part de son indignation. Donald Trump a répondu ce samedi 10 octobre en affirmant qu’à ses yeux, il est temps que l’Ukraine change de président.",
    "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/donald-trump-est-il-en-train-de-lacher-volodymyr-zelensky_8231905.html",
    "summary": "Donald Trump est-il en train de lâcher Volodymyr Zelensky ?",
    "image": "https://www.franceinfo.fr/pictures/phJ4ctcgR4MEzoMRmdQOIaRa4GY/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/10/6aca882ff3121414375478.jpg",
@@ -108,7 +170,7 @@
    "pubdate": "2026-10-10T21:49:40.228684+00:00"
   },
   {
-   "title": "2:03 vidéo 2 minutes 3 Tremblement de terre, ouragan, coulée de boue : le continent américain touché par plusieurs catastrophes naturelles",
+   "title": "2:03 vidéo 2 minutes 3 Tremblement de terre, ouragan, coulée de boue : le continent américain touché par plusieurs catastrophes naturelles Depuis vendredi 9 octobre, le continent américain est frappé par plusieurs catastrophes naturelles. Un ouragan circule entre le Mexique et les États-Unis. Un tremblement de terre a eu lieu au Panama, tandis qu’une coulée de boue a déferlé à Santiago au Chili.",
    "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/tremblement-de-terre-ouragan-coulee-de-boue-le-continent-americain-touche-par-plusieurs-catastrophes-naturelles_8231896.html",
    "summary": "Tremblement de terre, ouragan, coulée de boue : le continent américain touché par plusieurs catastrophes naturelles",
    "image": "https://www.franceinfo.fr/pictures/kSflO6INmOpm3zrWLHa6uE3HXLc/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/10/6aca860deabdb421356828.jpg",
@@ -116,18 +178,18 @@
    "pubdate": "2026-10-10T21:49:40.228684+00:00"
   },
   {
-   "title": "Un homme meurt après l'attaque d'un tigre dans un zoo britannique",
+   "title": "Un homme meurt après l'attaque d'un tigre dans un zoo britannique Le parc animalier a été évacué et le site restera fermé tout le week-end.",
    "link": "https://www.franceinfo.fr/faits-divers/un-homme-grievement-blesse-apres-l-attaque-d-un-tigre-dans-un-zoo-britannique_8231878.html",
-   "summary": "",
+   "summary": "Un homme meurt après l'attaque d'un tigre dans un zoo britannique",
    "image": "https://www.franceinfo.fr/pictures/K8-Tt2O0O3z63LG9Dt6hKnabWGk/0x290:5568x3422/432x243/filters:format(jpg)/2026/10/10/6aca7df246817236777748.jpg",
    "date": null,
    "pubdate": "2026-10-10T21:49:40.228684+00:00"
   },
   {
-   "title": "Donald Trump affirme \"qu'il est temps pour l'Ukraine d'avoir un nouveau président\" pour parvenir \"à un accord\" avec la Russie",
+   "title": "\"Il est temps pour l'Ukraine d'avoir un nouveau président\" : Donald Trump appelle au remplacement de Volodymyr Zelensky pour parvenir \"à un accord\" avec la Russie Le président américain reproche à son homologue ukainien d'être responsable de la pénurie mondiale de diesel en frappant les raffineries russes.",
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/donald-trump-affirme-qu-il-est-temps-pour-l-ukraine-d-avoir-un-nouveau-president-pour-parvenir-a-un-accord-avec-la-russie_8231842.html",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/QU9J0IvYZrES8VhCQ28VFptHHMU/0x0:4475x2517/432x243/filters:format(jpg)/2026/10/10/6aca6ff52bf68987260490.jpg",
+   "summary": "\"Il est temps pour l'Ukraine d'avoir un nouveau président\" : Donald Trump appelle au remplacement de Volodymyr Zelensky pour parvenir \"à un accord\" avec la Russie",
+   "image": "https://www.franceinfo.fr/pictures/Wd0bo0WN2ciILN0pRqGKIQunALw/0x24:4475x2542/432x243/filters:format(jpg)/2026/10/10/6aca6ff52bf68987260490.jpg",
    "date": null,
    "pubdate": "2026-10-10T17:22:26.471232+00:00"
   },
@@ -156,54 +218,6 @@
    "pubdate": "2026-10-10T17:22:26.471232+00:00"
   },
   {
-   "title": "2:48 audio 2 minutes 48 Taiwan célèbre sa fête nationale et engrange des profits records grâce au développement de l'IA Les salariés taiwanais de la tech exigent de profiter eux aussi de cet accroissement de revenus, comme leurs collègues sud-coréens l'ont obtenu.",
-   "link": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/taiwan-celebre-sa-fete-nationale-et-engrange-des-profits-records-grace-au-developpement-de-l-ia_8210435.html",
-   "summary": "Taiwan célèbre sa fête nationale et engrange des profits records grâce au développement de l'IA",
-   "image": "https://www.franceinfo.fr/pictures/iD_NICR6j0jeJAmEynm411MFZjE/0x0:3944x2218/432x243/filters:format(jpg)/2026/10/10/6aca50aa7e887074421464.jpg",
-   "date": null,
-   "pubdate": "2026-10-10T17:22:26.471232+00:00"
-  },
-  {
-   "title": "3:08 audio 3 minutes 8 \"Portobello\" : récit d'une erreur judiciaire historique en Italie En 1983, le Michel Drucker italien est arrêté pour trafic de drogue. Il a été dénoncé par un repenti de la Nouvelle Camora. Une erreur judiciaire terrible, racontée avec force par Marco Bellochio.",
-   "link": "https://www.franceinfo.fr/replay-radio/l-empire-des-series/portobello-recit-d-une-erreur-judiciaire-historique-en-italie_8210450.html",
-   "summary": "\"Portobello\" : récit d'une erreur judiciaire historique en Italie",
-   "image": "https://www.franceinfo.fr/pictures/u0NKaQ7sGGiw59VFln8HGU3v77s/0x0:1280x720/432x243/filters:format(jpg)/2026/10/09/6ac8fba05aabc300737808.jpg",
-   "date": null,
-   "pubdate": "2026-10-10T17:22:26.471232+00:00"
-  },
-  {
-   "title": "La prix Nobel de la paix Navi Pillay juge les sanctions américaines contre la Cour pénale internationale \"inacceptables\" Washington a annoncé vendredi des sanctions sans précédent contre la CPI, dont elle ne reconnaît pas l'autorité et qui menace, selon la Maison Blanche, \"la souveraineté américaine\".",
-   "link": "https://www.franceinfo.fr/monde/prix-nobel/la-prix-nobel-de-la-paix-navi-pillay-juge-les-sanctions-americaines-contre-la-cour-penale-internationale-inacceptables_8231680.html",
-   "summary": "La prix Nobel de la paix Navi Pillay juge les sanctions américaines contre la Cour pénale internationale \"inacceptables\"",
-   "image": "https://www.franceinfo.fr/pictures/pI8r_OAt10zo44xNb7By3HZxYWA/0x0:4400x2475/432x243/filters:format(jpg)/2026/10/10/6aca4aa9b12cd734560751.jpg",
-   "date": null,
-   "pubdate": "2026-10-10T17:22:26.471232+00:00"
-  },
-  {
-   "title": "Des millions de barils, un effet incertain sur les prix, l'Ukraine en colère... Quatre questions sur l'accord sur le diesel russe entre Donald Trump et Vladimir Poutine Le président américain a annoncé vendredi que les Etats-Unis allaient acheter du diesel produit par la Russie, pour la première fois depuis le début de la guerre en Ukraine, revenant sur les sanctions visant l'économie russe.",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/des-millions-de-barils-un-effet-incertain-sur-les-prix-l-ukraine-en-colere-quatre-questions-sur-l-accord-sur-le-diesel-russe-entre-donald-trump-et-vladimir-poutine_8231458.html",
-   "summary": "Des millions de barils, un effet incertain sur les prix, l'Ukraine en colère... Quatre questions sur l'accord sur le diesel russe entre Donald Trump et Vladimir Poutine",
-   "image": "https://www.franceinfo.fr/pictures/XmSsIHl6zuMB5mIVN9DnlL1Dmxk/0x0:1024x576/432x243/filters:format(jpg)/2026/10/10/6aca1020d6f56937475512.jpg",
-   "date": null,
-   "pubdate": "2026-10-10T17:22:26.471232+00:00"
-  },
-  {
-   "title": "En Italie, des buts plus nombreux depuis la reprise du championnat italien, pourtant réputé défensif Alors que le football italien était pointé du doigt pour son manque de rythme après un printemps noir, le championnat affiche un début de saison spectaculaire, avec déjà 145 buts inscrits.",
-   "link": "https://www.franceinfo.fr/sports/foot/serie-a/en-italie-des-buts-plus-nombreux-depuis-la-reprise-du-championnat-italien-pourtant-repute-defensif_8231566.html",
-   "summary": "En Italie, des buts plus nombreux depuis la reprise du championnat italien, pourtant réputé défensif",
-   "image": "https://www.franceinfo.fr/pictures/zIeORFoNeNhuqxRIf6JJmQDIp_I/0x171:4165x2514/432x243/filters:format(jpg)/2026/10/10/6aca21e3a2fe3105664555.jpg",
-   "date": null,
-   "pubdate": "2026-10-10T17:22:26.471232+00:00"
-  },
-  {
-   "title": "Le président palestinien reporte l'organisation de près d'un an des élections législatives, à septembre 2027 L'organisation d'élections était une des demandes de la communauté internationale en échange de la reconnaissance d'un État palestinien",
-   "link": "https://www.franceinfo.fr/monde/palestine/le-president-palestinien-reporte-l-organisation-de-pres-d-un-an-des-elections-legislatives-a-septembre-2027_8231596.html",
-   "summary": "Le président palestinien reporte l'organisation de près d'un an des élections législatives, à septembre 2027",
-   "image": "https://www.franceinfo.fr/pictures/IEFDd_To5Or-4FIaXqHBEKkmq9k/0x224:4300x2642/432x243/filters:format(jpg)/2026/10/10/6aca2dd23c4d6541796872.jpg",
-   "date": null,
-   "pubdate": "2026-10-10T17:22:26.471232+00:00"
-  },
-  {
    "title": ": Témoignages 4:20 audio 4 minutes 20 : Témoignages \"Il y a un sentiment de désespoir qui monte chez tout le monde\" : un an après le cessez-le-feu à Gaza, le processus de paix est au point mort",
    "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-il-y-a-un-sentiment-de-desespoir-qui-monte-chez-tout-le-monde-un-an-apres-le-cessez-le-feu-a-gaza-le-processus-de-paix-est-au-point-mort_8210456.html",
    "summary": "\"Il y a un sentiment de désespoir qui monte chez tout le monde\" : un an après le cessez-le-feu à Gaza, le processus de paix est au point mort",
@@ -224,38 +238,6 @@
    "link": "https://www.franceinfo.fr/monde/groenland/le-groenland-au-c-ur-d-un-bras-de-fer-geopolitique/",
    "summary": "Le Groenland au cœur d'un bras de fer géopolitique",
    "image": "https://www.franceinfo.fr/pictures/MKq4Aviz_2Dt7XVuO__X2DAEw5M/432x297/filters:format(jpg)/2026/01/22/043-sw-js9nbczzm6o-697245bf34b52414921393.jpg",
-   "date": null,
-   "pubdate": "2026-10-10T09:57:01.399173+00:00"
-  },
-  {
-   "title": "Guerre en Ukraine : au moins 15 morts, dont trois enfants, dans des frappes russes sur Zaporijjia Cinq bombes aériennes guidées ont été lâchées sur des quartiers résidentiels, a commenté la police nationale ukrainienne.",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-au-moins-12-morts-dont-trois-enfants-dans-des-frappes-russes-lancees-sur-zaporijjia_8231440.html",
-   "summary": "Guerre en Ukraine : au moins 15 morts, dont trois enfants, dans des frappes russes sur Zaporijjia",
-   "image": "https://www.franceinfo.fr/pictures/r2Uqg5i4FRYaXnCyNN8sYQLTHfk/0x582:5593x3729/432x243/filters:format(jpg)/2026/10/10/6aca07a7965e6493404376.jpg",
-   "date": null,
-   "pubdate": "2026-10-10T09:57:01.399173+00:00"
-  },
-  {
-   "title": "L'Irlande propose des coupes de 140 milliards d'euros dans le budget de l'Union européenne Le pays, qui assure la présidence tournante de l'UE, cherche à débloquer les discussions entre les Etats-membres, qui défendent des positions parfois éloignées.",
-   "link": "https://www.franceinfo.fr/monde/europe/l-irlande-propose-des-coupes-de-140-milliards-d-euros-dans-le-budget-de-l-ue_8231422.html",
-   "summary": "L'Irlande propose des coupes de 140 milliards d'euros dans le budget de l'Union européenne",
-   "image": "https://www.franceinfo.fr/pictures/0JxkgqjQBZpZ8WNAm-C-OaPCbl0/0x260:5000x3072/432x243/filters:format(jpg)/2026/10/10/6aca0a5bcbcef815935914.jpg",
-   "date": null,
-   "pubdate": "2026-10-10T09:57:01.399173+00:00"
-  },
-  {
-   "title": "En Pologne, plusieurs dizaines d'établissements scolaires sont restés fermés vendredi dans la crainte d'une \"journée sanglante\" Cette semaine, deux attaques au couteau perpétrées par des élèves ont fait un mort et douze blessés dans deux écoles polonaises.",
-   "link": "https://www.franceinfo.fr/faits-divers/en-pologne-plusieurs-dizaines-d-etablissements-scolaires-fermes-vendredi-dans-la-crainte-d-une-journee-sanglante_8231311.html",
-   "summary": "En Pologne, plusieurs dizaines d'établissements scolaires sont restés fermés vendredi dans la crainte d'une \"journée sanglante\"",
-   "image": "https://www.franceinfo.fr/pictures/hcEs2J8VpmltRrhzITLJED-JGIA/0x237:7411x4406/432x243/filters:format(jpg)/2026/10/10/6ac9ef418ad40706819074.jpg",
-   "date": null,
-   "pubdate": "2026-10-10T09:57:01.399173+00:00"
-  },
-  {
-   "title": "Plus de 1 400 Palestiniens ont été tués dans des opérations israéliennes depuis le début du cessez-le-feu dans la bande de Gaza Malgré l'entrée en vigueur de la trêve avec le Hamas, les opérations militaires se poursuivent dans l'enclave palestinienne et continuent d'y coûter des vies, selon des données rassemblées par l'OMS.",
-   "link": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/plus-de-1-400-palestiniens-ont-ete-tues-dans-des-operations-israeliennes-depuis-le-debut-du-cessez-le-feu-dans-la-bande-de-gaza_8213186.html",
-   "summary": "Plus de 1 400 Palestiniens ont été tués dans des opérations israéliennes depuis le début du cessez-le-feu dans la bande de Gaza",
-   "image": "https://www.franceinfo.fr/pictures/DvnPcgzmpeb8AnS6fQ-Pv0khcTY/0x0:1024x576/432x243/filters:format(jpg)/2026/09/28/6aba66811c163605113586.jpg",
    "date": null,
    "pubdate": "2026-10-10T09:57:01.399173+00:00"
   },
