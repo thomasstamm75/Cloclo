@@ -1,8 +1,7 @@
 {
- "etag": "\"1b7ykhp\"",
+ "etag": "\"b1atdm\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/ia-est-elle-une-ideologie-7438886": "2026-09-15T11:00:00+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/l-argent-a-t-il-totalement-corrompu-la-democratie-americaine-1053994": "2026-09-16T17:06:22.815862+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/l-etat-a-t-il-encore-les-moyens-d-affronter-la-crise-qui-vient-9854243": "2026-09-17T17:06:41.278420+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/le-canada-peut-il-s-emanciper-des-etats-unis-2866788": "2026-09-18T11:00:00+00:00",
@@ -20,10 +19,19 @@
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/les-luttes-peuvent-elles-converger-6069246": "2026-10-06T22:42:35.614973+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/les-violences-des-policiers-doctrine-ou-pratique-isolee-1289611": "2026-10-07T11:00:00+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/bresil-derriere-le-succes-de-bolsonaro-celui-de-trump-9697008": "2026-10-08T18:54:43.746341+00:00",
-  "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/peut-on-encore-faire-une-histoire-commune-9924900": "2026-10-09T11:00:00+00:00"
+  "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/peut-on-encore-faire-une-histoire-commune-9924900": "2026-10-09T11:00:00+00:00",
+  "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/lvmh-sur-les-champs-elysees-peut-on-privatiser-la-ville-7456257": "2026-10-12T11:00:00+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "LVMH sur les Champs-ÃlysÃ©esÂ : peut-on privatiser la villeÂ ?",
+   "link": "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/lvmh-sur-les-champs-elysees-peut-on-privatiser-la-ville-7456257",
+   "summary": "Deux rues aujourdâhui, un quartier demainÂ ? En confiant Ã LVMH le rÃ©amÃ©nagement des rues Bassano et GalilÃ©e, la ville de Paris ouvre un dÃ©bat explosif sur la privatisation de lâespace public et lâÃ©volution de la gouvernance urbaine.",
+   "image": "https://www.radiofrance.fr/pikapi/images/9d5625d7-0944-408d-892a-9f50f5e66860/2048",
+   "date": "2026-10-12T11:00:00+00:00",
+   "pubdate": "2026-10-12T11:00:00+00:00"
+  },
   {
    "title": "Peut-on encore faire une histoire communeÂ ?",
    "link": "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/peut-on-encore-faire-une-histoire-commune-9924900",
@@ -167,14 +175,6 @@
    "image": "https://www.radiofrance.fr/pikapi/images/1cb9485c-8e3b-45d8-9d30-9420ef62e801/2048",
    "date": null,
    "pubdate": "2026-09-16T17:06:22.815862+00:00"
-  },
-  {
-   "title": "IA est-elle une idÃ©ologieÂ ?",
-   "link": "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/ia-est-elle-une-ideologie-7438886",
-   "summary": "L'IA inquiÃ¨te, et tel un rouleau compresseur, elle progresse sans que nous puissions lâarrÃªter ou la freiner. Simple outil technologique au service de lâhomme, pour certains experts, n'est-elle pas en train de devenir autre chose qu'un outilÂ ? Une idÃ©ologie qui ne dit pas son nomÂ ?",
-   "image": "https://www.radiofrance.fr/pikapi/images/b374e5f1-1145-418a-b361-8be4b967a876/2048",
-   "date": "2026-09-15T11:00:00+00:00",
-   "pubdate": "2026-09-15T11:00:00+00:00"
   }
  ]
 }
