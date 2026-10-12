@@ -1,16 +1,24 @@
 {
  "etag": "",
- "last_modified": "Sun, 11 Oct 2026 13:10:41 GMT",
+ "last_modified": "Mon, 12 Oct 2026 10:26:58 GMT",
  "first_seen": {
-  "https://www.jean-jaures.org/publication/familles-monoparentales-lisolement-au-dela-de-la-precarite/": "2026-10-07T11:00:00+00:00",
   "https://www.jean-jaures.org/publication/le-calendrier-de-la-fin-dannee-2026/": "2026-10-08T11:00:00+00:00",
   "https://www.jean-jaures.org/publication/gerrymandering-aux-etats-unis-la-mecanique-legale-du-vol-electoral/": "2026-10-08T11:00:00+00:00",
   "https://www.jean-jaures.org/publication/lirlande-seuil-vertical-de-leurope-atlantique/": "2026-10-09T11:00:00+00:00",
   "https://www.jean-jaures.org/publication/pouvoir-dachat-et-carburant-les-jt-machines-a-frustrer/": "2026-10-09T11:00:00+00:00",
-  "https://www.jean-jaures.org/publication/le-steward-ownership-choisir-la-coherence-entre-mission-et-propriete-de-lentreprise/": "2026-10-09T11:00:00+00:00"
+  "https://www.jean-jaures.org/publication/le-steward-ownership-choisir-la-coherence-entre-mission-et-propriete-de-lentreprise/": "2026-10-09T11:00:00+00:00",
+  "https://www.jean-jaures.org/publication/la-charge-de-la-dette-premier-poste-des-depenses-de-letat/": "2026-10-12T11:00:00+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "La charge de la dette, premier poste des dépenses de l’État",
+   "link": "https://www.jean-jaures.org/publication/la-charge-de-la-dette-premier-poste-des-depenses-de-letat/",
+   "summary": "",
+   "image": "",
+   "date": "2026-10-12T11:00:00+00:00",
+   "pubdate": "2026-10-12T11:00:00+00:00"
+  },
   {
    "title": "Le « Steward Ownership » : choisir la cohérence entre mission et propriété de l’entreprise",
    "link": "https://www.jean-jaures.org/publication/le-steward-ownership-choisir-la-coherence-entre-mission-et-propriete-de-lentreprise/",
@@ -50,14 +58,6 @@
    "image": "",
    "date": "2026-10-08T11:00:00+00:00",
    "pubdate": "2026-10-08T11:00:00+00:00"
-  },
-  {
-   "title": "Familles monoparentales : l’isolement au-delà de la précarité",
-   "link": "https://www.jean-jaures.org/publication/familles-monoparentales-lisolement-au-dela-de-la-precarite/",
-   "summary": "",
-   "image": "",
-   "date": "2026-10-07T11:00:00+00:00",
-   "pubdate": "2026-10-07T11:00:00+00:00"
   }
  ]
 }

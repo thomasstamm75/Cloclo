@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Cour des comptes</title>
+    <link>https://www.ccomptes.fr/fr</link>
+    <description>Flux fabriqué par Cloclo à partir de https://www.ccomptes.fr/fr</description>
+    <language>fr</language>
+    <lastBuildDate>Mon, 12 Oct 2026 10:59:54 +0000</lastBuildDate>
+    <atom:link href="https://thomasstamm75.github.io/Cloclo/cour-des-comptes.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Trois nominations à la Cour des comptes</title>
+      <link>https://www.ccomptes.fr/fr/communiques-presse/trois-nominations-la-cour-des-comptes-0</link>
+      <guid isPermaLink="true">https://www.ccomptes.fr/fr/communiques-presse/trois-nominations-la-cour-des-comptes-0</guid>
+      <pubDate>Mon, 12 Oct 2026 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Qu’en dit la Cour ? Une nouvelle porte d’entrée vers nos travaux</title>
+      <link>https://www.ccomptes.fr/fr/actualites/quen-dit-la-cour-une-nouvelle-porte-dentree-vers-nos-travaux</link>
+      <guid isPermaLink="true">https://www.ccomptes.fr/fr/actualites/quen-dit-la-cour-une-nouvelle-porte-dentree-vers-nos-travaux</guid>
+      <pubDate>Mon, 12 Oct 2026 10:59:54 +0000</pubDate>
+      <description>&lt;p&gt;La Cour des comptes et les chambres régionales et territoriales des comptes produisent et publient une quantité considérable d’informations utiles aux citoyens. Mais accéder à une information précise suppose encore souvent de savoir où chercher, quels rapports consulter et comment naviguer dans des documents parfois longs et spécialisés.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Retour en images sur la Nuit du droit 2026</title>
+      <link>https://www.ccomptes.fr/fr/actualites/retour-en-images-sur-la-nuit-du-droit-2026</link>
+      <guid isPermaLink="true">https://www.ccomptes.fr/fr/actualites/retour-en-images-sur-la-nuit-du-droit-2026</guid>
+      <pubDate>Wed, 07 Oct 2026 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Renforcer l’accès des citoyens aux travaux des juridictions financières</title>
+      <link>https://www.ccomptes.fr/fr/communiques-presse/renforcer-lacces-des-citoyens-aux-travaux-des-juridictions-financieres</link>
+      <guid isPermaLink="true">https://www.ccomptes.fr/fr/communiques-presse/renforcer-lacces-des-citoyens-aux-travaux-des-juridictions-financieres</guid>
+      <pubDate>Mon, 21 Sep 2026 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Retour sur les Rencontres de l’évaluation 2026</title>
+      <link>https://www.ccomptes.fr/fr/actualites/retour-sur-les-rencontres-de-levaluation-2026</link>
+      <guid isPermaLink="true">https://www.ccomptes.fr/fr/actualites/retour-sur-les-rencontres-de-levaluation-2026</guid>
+      <pubDate>Tue, 30 Jun 2026 11:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

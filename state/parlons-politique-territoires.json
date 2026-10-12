@@ -2,9 +2,7 @@
  "etag": "",
  "last_modified": "",
  "first_seen": {
-  "https://www.parlons-politique.fr/politique-locale/a-grenay-le-slogan-dun-elu-rn-embarrasse-la-mairie-et-interroge-la-place-des-symboles-racistes-dans-la-vie-publique_28204/": "2026-09-30T20:05:24.354189+00:00",
   "https://www.parlons-politique.fr/politique-locale/a-beziers-le-refus-dun-mariage-sous-oqtf-revele-les-limites-du-pouvoir-des-maires-face-au-droit-des-citoyens_28258/": "2026-10-01T10:14:36.548058+00:00",
-  "https://www.parlons-politique.fr/politique-locale/a-saint-denis-le-soutien-du-maire-aux-lyceens-mobilises-ouvre-un-bras-de-fer-inedit-avec-la-justice-et-la-region_28244/": "2026-10-01T10:14:36.548058+00:00",
   "https://www.parlons-politique.fr/politique-locale/a-saint-denis-les-lyceens-propulsent-bally-bagayoko-au-coeur-du-debat-sur-lavenir-de-la-gauche-francaise_28426/": "2026-10-02T17:54:08.590017+00:00",
   "https://www.parlons-politique.fr/politique-locale/charges-policieres-contre-des-elus-quand-la-mediation-locale-devient-impossible-devant-les-lycees-bloques_28440/": "2026-10-02T22:18:54.024521+00:00",
   "https://www.parlons-politique.fr/ephemerides/le-4-octobre-1898-paris-lance-le-metro-ce-chantier-public-qui-va-bouleverser-la-vie-quotidienne_28349/": "1898-10-04T11:00:00+00:00",
@@ -13,7 +11,9 @@
   "https://www.parlons-politique.fr/politique-locale/en-vendee-le-recours-de-stephane-ibarra-met-a-lepreuve-la-validite-du-troisieme-siege-senatorial-de-la-droite_28942/": "2026-10-08T18:53:12.711860+00:00",
   "https://www.parlons-politique.fr/politique-locale/a-saint-denis-labstention-de-la-majorite-interroge-sur-les-moyens-concrets-de-lutter-contre-lexcision_29120/": "2026-10-10T17:22:19.274322+00:00",
   "https://www.parlons-politique.fr/ephemerides/le-11-octobre-1795-paris-divise-en-douze-municipalites-une-capitale-tenue-a-distance-du-pouvoir-local_28989/": "1795-10-11T11:00:00+00:00",
-  "https://www.parlons-politique.fr/politique-locale/aide-aux-communes-rurales-les-criteres-decideront-si-les-50-millions-changent-vraiment-le-quotidien-des-villages_29149/": "2026-10-11T19:35:23.621941+00:00"
+  "https://www.parlons-politique.fr/politique-locale/aide-aux-communes-rurales-les-criteres-decideront-si-les-50-millions-changent-vraiment-le-quotidien-des-villages_29149/": "2026-10-11T19:35:23.621941+00:00",
+  "https://www.parlons-politique.fr/politique-locale/a-avignon-le-rejet-du-recours-renvoie-desormais-majorite-et-opposition-a-leurs-responsabilites-locales-devant-les-habitants_29218/": "2026-10-12T10:59:42.861413+00:00",
+  "https://www.parlons-politique.fr/ephemerides/le-12-octobre-1793-la-convention-veut-effacer-lyon-une-ville-rebelle-face-au-pouvoir-et-au-recit-national_29050/": "1793-10-12T11:00:00+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
@@ -24,6 +24,14 @@
    "image": "https://www.parlons-politique.fr/wp-content/uploads/2026/10/concert-jumelage-eglise-600x400.webp",
    "date": "2026-10-19T11:00:00+00:00",
    "pubdate": "2026-10-19T11:00:00+00:00"
+  },
+  {
+   "title": "À Avignon, le rejet du recours renvoie désormais majorité et opposition à leurs responsabilités locales devant les habitants",
+   "link": "https://www.parlons-politique.fr/politique-locale/a-avignon-le-rejet-du-recours-renvoie-desormais-majorite-et-opposition-a-leurs-responsabilites-locales-devant-les-habitants_29218/",
+   "summary": "Le tribunal administratif de Nîmes rejette la demande d’annulation portée par David Fournier après les municipales d’Avignon. Le scrutin reste acquis à…",
+   "image": "https://www.parlons-politique.fr/wp-content/uploads/2026/10/salle-conseil-municipal-2-600x400.webp",
+   "date": null,
+   "pubdate": "2026-10-12T10:59:42.861413+00:00"
   },
   {
    "title": "Aide aux communes rurales : les critères décideront si les 50 millions changent vraiment le quotidien des villages",
@@ -82,22 +90,6 @@
    "pubdate": "2026-10-01T10:14:36.548058+00:00"
   },
   {
-   "title": "À Saint-Denis, le soutien du maire aux lycéens mobilisés ouvre un bras de fer inédit avec la justice et la Région",
-   "link": "https://www.parlons-politique.fr/politique-locale/a-saint-denis-le-soutien-du-maire-aux-lyceens-mobilises-ouvre-un-bras-de-fer-inedit-avec-la-justice-et-la-region_28244/",
-   "summary": "Le préfet de police a signalé Bally Bagayoko à la justice après ses propos sur la violence lors des blocages de lycées.…",
-   "image": "https://www.parlons-politique.fr/wp-content/uploads/2026/10/lycee-bloque-saint-denis-600x400.webp",
-   "date": null,
-   "pubdate": "2026-10-01T10:14:36.548058+00:00"
-  },
-  {
-   "title": "À Grenay, le slogan d’un élu RN embarrasse la mairie et interroge la place des symboles racistes dans la vie publique",
-   "link": "https://www.parlons-politique.fr/politique-locale/a-grenay-le-slogan-dun-elu-rn-embarrasse-la-mairie-et-interroge-la-place-des-symboles-racistes-dans-la-vie-publique_28204/",
-   "summary": "À Grenay, un adjoint RN a porté un tee-shirt marqué « White Lives Matter » lors d’une réunion avec des associations. L’opposition…",
-   "image": "https://www.parlons-politique.fr/wp-content/uploads/2026/09/tee-shirt-rn-grenay-600x400.webp",
-   "date": null,
-   "pubdate": "2026-09-30T20:05:24.354189+00:00"
-  },
-  {
    "title": "Le 4 octobre 1898 : Paris lance le métro, ce chantier public qui va bouleverser la vie quotidienne",
    "link": "https://www.parlons-politique.fr/ephemerides/le-4-octobre-1898-paris-lance-le-metro-ce-chantier-public-qui-va-bouleverser-la-vie-quotidienne_28349/",
    "summary": "Avant de devenir un symbole de la capitale, le métropolitain fut un choix politique longtemps disputé. Son histoire éclaire une question toujours…",
@@ -112,6 +104,14 @@
    "image": "https://www.parlons-politique.fr/wp-content/uploads/2026/10/municipalites-de-paris-1795-600x400.webp",
    "date": "1795-10-11T11:00:00+00:00",
    "pubdate": "1795-10-11T11:00:00+00:00"
+  },
+  {
+   "title": "Le 12 octobre 1793 : la Convention veut effacer Lyon, une ville rebelle face au pouvoir et au récit national",
+   "link": "https://www.parlons-politique.fr/ephemerides/le-12-octobre-1793-la-convention-veut-effacer-lyon-une-ville-rebelle-face-au-pouvoir-et-au-recit-national_29050/",
+   "summary": "Punir une rébellion peut aussi passer par l’effacement d’un nom et la destruction d’un décor urbain. Le sort réservé à Lyon éclaire…",
+   "image": "https://www.parlons-politique.fr/wp-content/uploads/2026/10/destruction-de-lyon-1793-600x400.webp",
+   "date": "1793-10-12T11:00:00+00:00",
+   "pubdate": "1793-10-12T11:00:00+00:00"
   }
  ]
 }

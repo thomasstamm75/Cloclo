@@ -1,8 +1,7 @@
 {
- "etag": "\"ug4wsq\"",
+ "etag": "\"1lj6t14\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/cooperatives-agricoles-la-course-a-l-agrandissement-6788764": "2026-09-15T11:00:00+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/l-ue-a-la-recherche-de-nouvelles-ressources-propres-4198620": "2026-09-16T11:45:45.409269+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/lutte-contre-les-fraudes-en-ligne-les-gafam-mises-a-contribution-3686534": "2026-09-17T11:50:19.042649+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/ormuz-une-onde-de-choc-mondiale-sur-les-marches-de-l-energie-2532544": "2026-09-18T11:24:59.509854+00:00",
@@ -19,10 +18,19 @@
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/pour-se-financer-les-musees-publics-ont-des-nouvelles-idees-2449799": "2026-10-06T06:30:07.053472+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/le-journal-de-l-eco-du-mercredi-07-octobre-2026-9594607": "2026-10-07T11:00:00+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/crise-petroliere-quelle-marge-pour-taxer-les-profits-des-raffineurs-1629158": "2026-10-08T10:43:19.512955+00:00",
-  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/les-start-up-epargnees-dans-le-projet-de-budget-2027-du-gouvernement-5421691": "2026-10-09T10:42:24.062501+00:00"
+  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/les-start-up-epargnees-dans-le-projet-de-budget-2027-du-gouvernement-5421691": "2026-10-09T10:42:24.062501+00:00",
+  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/dette-la-france-au-bord-du-defaut-7190305": "2026-10-12T11:00:00+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "DetteÂ : la France au bord du dÃ©fautÂ ?",
+   "link": "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/dette-la-france-au-bord-du-defaut-7190305",
+   "summary": "La France sera-t-elle l'Ã©picentre d'une nouvelle crise de la dette dans la zone euro et au-delÃ Â ? La presse et les marchÃ©s s'interrogent. Pourtant, la hausse des taux d'intÃ©rÃªt des dettes publiques est un phÃ©nomÃ¨ne mondial. Pourquoi est-ce plus inquiÃ©tant pour la FranceÂ ?",
+   "image": "https://www.radiofrance.fr/pikapi/images/57fdf758-93eb-44f0-8103-82fd10f6b04d/2048",
+   "date": "2026-10-12T11:00:00+00:00",
+   "pubdate": "2026-10-12T11:00:00+00:00"
+  },
   {
    "title": "Les start-up Ã©pargnÃ©es dans le projet de budget 2027 du gouvernement",
    "link": "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/les-start-up-epargnees-dans-le-projet-de-budget-2027-du-gouvernement-5421691",
@@ -158,14 +166,6 @@
    "image": "https://www.radiofrance.fr/pikapi/images/a85cddb6-91bc-4174-abee-a2e538f23396/2048",
    "date": null,
    "pubdate": "2026-09-16T11:45:45.409269+00:00"
-  },
-  {
-   "title": "CoopÃ©ratives agricolesÂ : la course Ã l'agrandissement",
-   "link": "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/cooperatives-agricoles-la-course-a-l-agrandissement-6788764",
-   "summary": "Rapprochements et fusions restructurent le monde des coopÃ©ratives agricoles, en crÃ©ant de grands groupes pesant plusieurs milliards dâeuros de chiffre dâaffaires.",
-   "image": "https://www.radiofrance.fr/pikapi/images/32aa26dd-6443-42ef-9abc-5997ca69808d/2048",
-   "date": "2026-09-15T11:00:00+00:00",
-   "pubdate": "2026-09-15T11:00:00+00:00"
   }
  ]
 }
