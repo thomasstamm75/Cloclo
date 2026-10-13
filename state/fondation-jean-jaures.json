@@ -1,16 +1,32 @@
 {
  "etag": "",
- "last_modified": "Mon, 12 Oct 2026 15:48:24 GMT",
+ "last_modified": "Tue, 13 Oct 2026 16:57:34 GMT",
  "first_seen": {
-  "https://www.jean-jaures.org/publication/le-calendrier-de-la-fin-dannee-2026/": "2026-10-08T11:00:00+00:00",
-  "https://www.jean-jaures.org/publication/lirlande-seuil-vertical-de-leurope-atlantique/": "2026-10-09T11:00:00+00:00",
   "https://www.jean-jaures.org/publication/pouvoir-dachat-et-carburant-les-jt-machines-a-frustrer/": "2026-10-09T11:00:00+00:00",
   "https://www.jean-jaures.org/publication/le-steward-ownership-choisir-la-coherence-entre-mission-et-propriete-de-lentreprise/": "2026-10-09T11:00:00+00:00",
   "https://www.jean-jaures.org/publication/la-charge-de-la-dette-premier-poste-des-depenses-de-letat/": "2026-10-12T11:00:00+00:00",
-  "https://www.jean-jaures.org/publication/la-mutualisation-et-la-cooperation-comme-alternative-a-la-finance/": "2026-10-12T11:00:00+00:00"
+  "https://www.jean-jaures.org/publication/la-mutualisation-et-la-cooperation-comme-alternative-a-la-finance/": "2026-10-12T11:00:00+00:00",
+  "https://www.jean-jaures.org/publication/berlin-une-coalition-a-gauche-toute/": "2026-10-13T11:00:00+00:00",
+  "https://www.jean-jaures.org/publication/quand-letat-contraint-france-musique-a-jouer-une-fausse-note/": "2026-10-13T11:00:00+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "Berlin : une coalition à gauche toute ?",
+   "link": "https://www.jean-jaures.org/publication/berlin-une-coalition-a-gauche-toute/",
+   "summary": "",
+   "image": "",
+   "date": "2026-10-13T11:00:00+00:00",
+   "pubdate": "2026-10-13T11:00:00+00:00"
+  },
+  {
+   "title": "Quand l’État contraint France Musique à jouer une fausse note",
+   "link": "https://www.jean-jaures.org/publication/quand-letat-contraint-france-musique-a-jouer-une-fausse-note/",
+   "summary": "",
+   "image": "",
+   "date": "2026-10-13T11:00:00+00:00",
+   "pubdate": "2026-10-13T11:00:00+00:00"
+  },
   {
    "title": "La mutualisation et la coopération comme alternative à la finance",
    "link": "https://www.jean-jaures.org/publication/la-mutualisation-et-la-cooperation-comme-alternative-a-la-finance/",
@@ -42,22 +58,6 @@
    "image": "",
    "date": "2026-10-09T11:00:00+00:00",
    "pubdate": "2026-10-09T11:00:00+00:00"
-  },
-  {
-   "title": "L’Irlande, seuil vertical de l’Europe atlantique",
-   "link": "https://www.jean-jaures.org/publication/lirlande-seuil-vertical-de-leurope-atlantique/",
-   "summary": "",
-   "image": "",
-   "date": "2026-10-09T11:00:00+00:00",
-   "pubdate": "2026-10-09T11:00:00+00:00"
-  },
-  {
-   "title": "Le calendrier de la fin d’année 2026",
-   "link": "https://www.jean-jaures.org/publication/le-calendrier-de-la-fin-dannee-2026/",
-   "summary": "",
-   "image": "",
-   "date": "2026-10-08T11:00:00+00:00",
-   "pubdate": "2026-10-08T11:00:00+00:00"
   }
  ]
 }

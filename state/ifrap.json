@@ -4,13 +4,29 @@
  "first_seen": {
   "https://www.francesoir.fr/societe-economie/dette-francaise-les-investisseurs-etrangers-commencent-vendre-la-france-emprunte": "2026-10-08T14:04:00+00:00",
   "https://www.lefigaro.fr/conjoncture/budget-2027-remuneration-des-ministres-depenses-de-matignon-comment-le-gouvernement-veut-reduire-son-propre-train-de-vie-20261008": "2026-10-08T13:57:00+00:00",
-  "https://www.economiematin.fr/absenteisme-defi-couteux-secteur-prive-public": "2026-10-08T13:50:00+00:00",
-  "https://www.capital.fr/economie-politique/ca-fait-deux-ans-qu-ils-nous-font-le-coup-agnes-verdier-molinie-sur-les-effectifs-publics-1530818": "2026-10-08T13:44:00+00:00",
   "https://www.sudradio.fr/programme/le-grand-matin-samedi": "2026-10-10T09:21:00+00:00",
-  "https://www.tijd.be/politiek-economie/europa/algemeen/op-straat-met-de-franse-jeugdrevolte-ze-beloofden-ons-een-toekomst-maar-eigenlijk-hebben-we-niets/10694734.html": "2026-10-09T16:26:00+00:00"
+  "https://www.tijd.be/politiek-economie/europa/algemeen/op-straat-met-de-franse-jeugdrevolte-ze-beloofden-ons-een-toekomst-maar-eigenlijk-hebben-we-niets/10694734.html": "2026-10-09T16:26:00+00:00",
+  "https://www.sudouest.fr/economie/mon-argent/se-dirige-t-on-vers-un-plafonnement-des-aides-sociales-a-1-500-euros-par-mois-31035922.php": "2026-10-13T15:08:00+00:00",
+  "https://www.europe1.fr/emissions/ledito-eco/un-prelevement-exceptionnel-sur-les-actifs-en-desherences-1144055": "2026-10-13T10:49:00+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "Se dirige-t-on vers un plafonnement des aides sociales à 1 500 euros par mois ?",
+   "link": "https://www.sudouest.fr/economie/mon-argent/se-dirige-t-on-vers-un-plafonnement-des-aides-sociales-a-1-500-euros-par-mois-31035922.php",
+   "summary": "",
+   "image": "",
+   "date": "2026-10-13T15:08:00+00:00",
+   "pubdate": "2026-10-13T15:08:00+00:00"
+  },
+  {
+   "title": "Un prélèvement exceptionnel sur les actifs en déshérences",
+   "link": "https://www.europe1.fr/emissions/ledito-eco/un-prelevement-exceptionnel-sur-les-actifs-en-desherences-1144055",
+   "summary": "",
+   "image": "https://www.ifrap.org/sites/default/files/styles/100x/public/images/import/logo_europe1_6.jpg?itok=6FMdFcfZ",
+   "date": "2026-10-13T10:49:00+00:00",
+   "pubdate": "2026-10-13T10:49:00+00:00"
+  },
   {
    "title": "Professeurs non mobilisés, 8000 agents supplémentaires pour l'Etat en 2027...",
    "link": "https://www.sudradio.fr/programme/le-grand-matin-samedi",
@@ -42,22 +58,6 @@
    "image": "",
    "date": "2026-10-08T13:57:00+00:00",
    "pubdate": "2026-10-08T13:57:00+00:00"
-  },
-  {
-   "title": "L’absentéisme atteint 4,95 % dans le privé en 2025",
-   "link": "https://www.economiematin.fr/absenteisme-defi-couteux-secteur-prive-public",
-   "summary": "",
-   "image": "",
-   "date": "2026-10-08T13:50:00+00:00",
-   "pubdate": "2026-10-08T13:50:00+00:00"
-  },
-  {
-   "title": "« Ça fait deux ans qu'ils nous font le coup », Agnès Verdier-Molinié sur les effectifs publics",
-   "link": "https://www.capital.fr/economie-politique/ca-fait-deux-ans-qu-ils-nous-font-le-coup-agnes-verdier-molinie-sur-les-effectifs-publics-1530818",
-   "summary": "",
-   "image": "https://www.ifrap.org/sites/default/files/styles/100x/public/images/2023-10/capital.jpg?itok=NAVpztHz",
-   "date": "2026-10-08T13:44:00+00:00",
-   "pubdate": "2026-10-08T13:44:00+00:00"
   }
  ]
 }

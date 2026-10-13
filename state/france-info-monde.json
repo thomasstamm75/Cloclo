@@ -1,119 +1,215 @@
 {
- "etag": "\"1a27e15d24113c319a76806e1bb0f7d2-gzip\"",
+ "etag": "\"fd5414feb4dd1740b1f9f29cf38fc64b-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/leon-xiv-en-france-retrouvez-l-essentiel/": "2026-10-11T12:59:31.705719+00:00",
-  "https://www.franceinfo.fr/monde/afrique/republique-democratique-du-congo/l-ex-president-de-la-republique-democratique-du-congo-et-le-groupe-arme-m23-s-unissent-dans-un-mouvement-politico-militaire_8234542.html": "2026-10-12T21:18:31.114165+00:00",
-  "https://www.franceinfo.fr/monde/russie/un-navire-soupconne-de-faire-partie-de-la-flotte-fantome-russe-arraisonne-au-sud-de-la-reunion-pour-transport-de-carburants-illicite_8234503.html": "2026-10-12T21:18:31.114165+00:00",
-  "https://www.franceinfo.fr/replay-radio/les-informes-de-france-info/tirs-dans-un-college-que-s-est-il-passe-a-aubagne-les-informes-de-franceinfo-du-lundi-12-octobre-2026_8212688.html": "2026-10-12T11:00:00+00:00",
-  "https://www.franceinfo.fr/monde/europe/union-europeenne/l-union-europeenne-prete-a-ouvrir-de-nouveaux-chapitres-de-negociation-en-vue-de-l-adhesion-de-l-ukraine_8234392.html": "2026-10-12T21:18:31.114165+00:00",
-  "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/l-arabie-saoudite-reconnait-etre-mise-a-l-epreuve-par-les-frappes-des-houthis_8234299.html": "2026-10-12T21:18:31.114165+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/les-frappes-de-drones-ukrainiennes-sur-des-data-centers-en-russie-ont-elles-donne-un-serieux-coup-a-la-desinformation-pro-russe_8234284.html": "2026-10-12T21:18:31.114165+00:00",
   "https://www.franceinfo.fr/monde/usa/midterms-2018/son-cote-imprevisible-me-rend-nerveux-ces-republicains-qui-pris-a-la-gorge-par-l-inflation-envisagent-de-donner-une-lecon-a-donald-trump-aux-midterms_8225785.html": "2026-10-12T21:18:31.114165+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/temoignages-simulacres-d-execution-tortures-physiques-un-ancien-prisonnier-ukrainien-en-russie-raconte-les-sevices-subis-apres-sa-capture-dans-le-donbass_8202320.html": "2026-10-12T21:18:31.114165+00:00",
-  "https://www.franceinfo.fr/monde/proche-orient/yemen/cinq-questions-sur-les-frappes-des-houthis-du-yemen-a-riyad-et-dans-le-reste-de-l-arabie-saoudite-qui-mettent-le-royaume-en-difficulte_8233591.html": "2026-10-12T21:18:31.114165+00:00",
-  "https://www.franceinfo.fr/monde/royaume-uni/l-incident-pres-d-une-base-militaire-au-royaume-uni-a-ete-presque-certainement-dirige-par-les-gardiens-de-la-revolution-iraniens-selon-andy-burnham_8234194.html": "2026-10-12T21:18:31.114165+00:00",
-  "https://www.franceinfo.fr/monde/europe/union-europeenne/le-sommet-entre-l-union-europeenne-et-le-royaume-uni-se-tiendra-le-20-novembre-a-bruxelles_8234140.html": "2026-10-12T21:18:31.114165+00:00",
-  "https://www.franceinfo.fr/monde/israel/un-adolescent-tue-dans-une-explosion-dans-le-nord-d-israel-lors-d-une-sortie-scolaire-selon-le-ministre-de-la-defense_8234074.html": "2026-10-12T21:18:31.114165+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-otan-previent-la-russie-que-toute-attaque-sera-totalement-vaine_8234011.html": "2026-10-12T21:18:31.114165+00:00",
   "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/la-propagation-de-la-fumee-toxique-des-incendies-en-indonesie-entraine-des-fermetures-d-ecoles-en-malaisie-et-des-annulations-de-vols_8234884.html": "2026-10-13T06:51:36.566312+00:00",
   "https://www.franceinfo.fr/monde/afrique/soudan/le-risque-de-famine-s-accroit-au-soudan-en-raison-des-conflits-et-de-la-secheresse-alerte-l-onu_8234890.html": "2026-10-13T06:51:36.566312+00:00",
-  "https://www.franceinfo.fr/replay-magazine/franceinfo/a-suivre-avec-loic-de-la-mornais/chronique-culture-naza-le-documentaire-choc-fait-debat_8235052.html": "2026-10-13T06:51:36.566312+00:00",
-  "https://www.franceinfo.fr/monde/palestine/gaza/le-documentaire-sur-gaza-qui-secoue-israel_8234518.html": "2026-10-13T06:51:36.566312+00:00",
-  "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/menace-russe-l-otan-montre-les-muscles_8235037.html": "2026-10-13T06:51:36.566312+00:00",
-  "https://www.franceinfo.fr/replay-magazine/franceinfo/a-suivre-avec-loic-de-la-mornais/a-suivre-avec-alban-mikoczy-le-quart-d-heure-americain-du-lundi-12-octobre_8235034.html": "2026-10-13T06:51:36.566312+00:00",
   "https://www.franceinfo.fr/monde/usa/police-de-l-immigration-americaine/un-mexicain-renverse-volontairement-par-des-agents-de-l-ice-la-police-americaine-de-l-immigration-selon-son-avocate_8234854.html": "2026-10-13T06:51:36.566312+00:00",
-  "https://www.franceinfo.fr/replay-magazine/franceinfo/a-suivre-avec-loic-de-la-mornais/a-suivre-avec-alban-mikoczy-ukraine-pourquoi-trump-lache-zelensky_8235028.html": "2026-10-13T06:51:36.566312+00:00",
-  "https://www.franceinfo.fr/monde/usa/c-est-une-affaire-parmi-beaucoup-d-autres-comment-les-accusations-de-viols-a-cornell-mettent-en-lumiere-les-exces-des-fraternites-dans-les-universites-americaines_8234185.html": "2026-10-13T06:51:36.566312+00:00",
-  "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/dix-ans-apres-le-brexit-le-breturn_8214152.html": "2026-10-13T06:51:36.566312+00:00",
   "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/tout-comprendre-a-la-guerre-au-moyen-orient/": "2026-10-13T06:51:36.566312+00:00",
   "https://www.franceinfo.fr/monde/groenland/le-groenland-au-c-ur-d-un-bras-de-fer-geopolitique/": "2026-10-13T06:51:36.566312+00:00",
-  "https://www.franceinfo.fr/economie/automobile/byd-xpeng-lynk-co-omoda-jaecoo-les-marques-chinoises-debarquent-en-force-au-salon-de-l-automobile_8234431.html": "2026-10-13T06:51:36.566312+00:00",
-  "https://www.franceinfo.fr/monde/russie/la-russie-dit-avoir-livre-pour-320-milliards-de-dollars-d-hydrocarbures-a-l-europe-depuis-2022_8234869.html": "2026-10-13T06:51:36.566312+00:00",
-  "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/au-mexique-la-tempete-rachel-et-l-ouragan-simon-ont-fait-cinq-morts-cinq-autres-personnes-toujours-portees-disparues_8234857.html": "2026-10-13T06:51:36.566312+00:00",
-  "https://www.franceinfo.fr/monde/russie/la-democratie-doit-etre-protegee-chaque-minute-de-chaque-jour-declare-l-opposant-russe-vladimir-kara-mourza_8234467.html": "2026-10-13T06:51:36.566312+00:00"
+  "https://www.franceinfo.fr/monde/usa/aux-etats-unis-le-domicile-de-l-elue-democrate-ilhan-omar-perquisitionne-sur-fond-d-attaques-repetees-de-donald-trump_8235844.html": "2026-10-13T16:59:12.273963+00:00",
+  "https://www.franceinfo.fr/monde/royaume-uni/on-m-a-notamment-traite-de-singe-au-royaume-uni-les-soignants-des-hopitaux-publics-sont-de-plus-en-plus-souvent-victimes-de-racisme_8235601.html": "2026-10-13T16:59:12.273963+00:00",
+  "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/leon-xiv-hospitalise-a-l-hopital-des-papes_8235829.html": "2026-10-13T16:59:12.273963+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/une-menace-supplementaire-quatre-questions-sur-les-frappes-contre-deux-nouveaux-navires-en-mer-noire-pres-des-cotes-bulgares_8235199.html": "2026-10-13T16:59:12.273963+00:00",
+  "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-demande-la-demission-de-l-ambassadrice-des-etats-unis-en-grece-apres-plusieurs-revelations-compromettantes_8235682.html": "2026-10-13T16:59:12.273963+00:00",
+  "https://www.franceinfo.fr/monde/proche-orient/tensions-entre-l-arabie-saoudite-et-l-iran/apres-la-serie-d-attaques-des-houthis-du-yemen-a-riyad-l-arabie-saoudite-semble-delaissee-par-ses-allies_8235625.html": "2026-10-13T16:59:12.273963+00:00",
+  "https://www.franceinfo.fr/monde/moyen-orient/des-ordres-d-evacuations-emis-en-arabie-saoudite-et-au-yemen-apres-les-frappes-houthies-sur-le-royaume_8235616.html": "2026-10-13T16:59:12.273963+00:00",
+  "https://www.franceinfo.fr/monde/russie/un-navire-de-la-flotte-fantome-russe-arraisonne_8235592.html": "2026-10-13T16:59:12.273963+00:00",
+  "https://www.franceinfo.fr/monde/russie/la-france-intercepte-un-petrolier-soupconne-d-appartenir-a-la-flotte-fantome-russe-au-large-de-la-reunion_8235562.html": "2026-10-13T16:59:12.273963+00:00",
+  "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/le-pape-leon-xiv-est-hospitalise-dans-un-hopital-de-rome-pour-etre-opere-du-poumon_8235520.html": "2026-10-13T16:59:12.273963+00:00",
+  "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-il-y-a-un-sentiment-de-desespoir-qui-monte-chez-tout-le-monde-un-an-apres-le-cessez-le-feu-a-gaza-le-processus-de-paix-est-au-point-mort_8210456.html": "2026-10-13T16:59:12.273963+00:00",
+  "https://www.franceinfo.fr/monde/usa/affaire-jeffrey-epstein/l-essentiel-des-revelations-sur-l-affaire-epstein/": "2026-10-13T16:59:12.273963+00:00",
+  "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/ils-deblaient-a-la-main-trois-ans-apres-le-debut-de-la-guerre-a-gaza-les-palestiniens-toujours-contraints-de-vivre-dans-les-ruines-et-le-denuement_8219863.html": "2026-10-13T16:59:12.273963+00:00",
+  "https://www.franceinfo.fr/monde/europe/migrants/crise-des-migrants-a-ceuta/le-roi-d-espagne-felipe-vi-accueilli-par-une-foule-enthousiaste-a-ceuta-pour-une-visite-diplomatiquement-sensible_8235499.html": "2026-10-13T16:59:12.273963+00:00",
+  "https://www.franceinfo.fr/sports/auto-moto/formule-1/la-formule-1-fait-son-retour-en-afrique-avec-un-grand-prix-au-rwanda-annonce-au-debut-des-annees-2030_8235358.html": "2026-10-13T16:59:12.273963+00:00",
+  "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/aux-etats-unis-des-adolescents-vendent-des-armes-aux-cartels-mexicains_8214170.html": "2026-10-13T16:59:12.273963+00:00",
+  "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/le-comite-international-de-la-croix-rouge-alerte-sur-l-urgence-d-une-desescalade-au-moyen-orient_8235250.html": "2026-10-13T16:59:12.273963+00:00",
+  "https://www.franceinfo.fr/culture/cinema/tom-cruise/la-satire-ecolo-digger-de-alejandro-inarritu-avec-tom-cruise-s-achemine-vers-un-flop-couteux_8235169.html": "2026-10-13T16:59:12.273963+00:00",
+  "https://www.franceinfo.fr/societe/lgbt/la-hongrie-adopte-une-premiere-loi-supprimant-des-dispositions-anti-lgbt-de-l-ere-viktor-orban_8235211.html": "2026-10-13T16:59:12.273963+00:00",
+  "https://www.franceinfo.fr/monde/europe/union-europeenne/deux-nouveaux-navires-ont-ete-frappes-en-mer-noire-pres-des-cotes-bulgares_8235118.html": "2026-10-13T16:59:12.273963+00:00",
+  "https://www.franceinfo.fr/monde/usa/midterms-2018/elon-musk-a-depense-276-millions-de-dollars-pour-soutenir-les-republicains-lors-de-la-campagne-des-elections-de-mi-mandat-selon-plusieurs-medias_8234872.html": "2026-10-13T16:59:12.273963+00:00",
+  "https://www.franceinfo.fr/replay-radio/le-monde-et-vous/au-japon-meme-les-volcans-ont-un-peage-la-nouvelle-strategie-face-au-surtourisme_8214875.html": "2026-10-13T16:59:12.273963+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "La propagation de la fumée toxique des incendies en Indonésie entraîne des fermetures d'écoles en Malaisie et des annulations de vols Depuis des mois, l'Indonésie lutte contre des incendies qui ont ravagé de vastes étendues de forêts et de tourbières. Aujourd'hui",
-   "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/la-propagation-de-la-fumee-toxique-des-incendies-en-indonesie-entraine-des-fermetures-d-ecoles-en-malaisie-et-des-annulations-de-vols_8234884.html",
-   "summary": "La propagation de la fumée toxique des incendies en Indonésie entraîne des fermetures d'écoles en Malaisie et des annulations de vols",
-   "image": "https://www.franceinfo.fr/pictures/QYj8sju3qhOSpAYG6gSE1EuBIC8/0x0:3863x2656/432x297/filters:format(jpg)/2026/10/13/6acdce5505bd0344562431.jpg",
+   "title": "Aux États-Unis, le domicile de l'élue démocrate Ilhan Omar perquisitionné, sur fond d'attaques répétées de Donald Trump La députée démocrate Ilhan Omar se voit l'objet d'une enquête fédérale, depuis lundi. Le président américain nie toute implication mais, quelques heures plus tard, dans l'Ohio, il s'en est pris de nouveau à l'élue et à ses origines somaliennes. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/usa/aux-etats-unis-le-domicile-de-l-elue-democrate-ilhan-omar-perquisitionne-sur-fond-d-attaques-repetees-de-donald-trump_8235844.html",
+   "summary": "Aux États-Unis, le domicile de l'élue démocrate Ilhan Omar perquisitionné, sur fond d'attaques répétées de Donald Trump",
+   "image": "https://www.franceinfo.fr/pictures/Lm9fNhmbm7UAPSzj-IbDd4IXon8/16x0:1008x682/432x297/filters:format(jpg)/2026/10/13/6ace5ac98d3ff763735821.jpg",
    "date": null,
-   "pubdate": "2026-10-13T06:51:36.566312+00:00"
+   "pubdate": "2026-10-13T16:59:12.273963+00:00"
   },
   {
-   "title": "Le risque de famine s'accroît au Soudan en raison des conflits et de la sécheresse, alerte l'ONU",
-   "link": "https://www.franceinfo.fr/monde/afrique/soudan/le-risque-de-famine-s-accroit-au-soudan-en-raison-des-conflits-et-de-la-secheresse-alerte-l-onu_8234890.html",
+   "title": "\"On m’a notamment traité de singe\" : au Royaume-Uni, les soignants des hôpitaux publics sont de plus en plus souvent victimes de racisme",
+   "link": "https://www.franceinfo.fr/monde/royaume-uni/on-m-a-notamment-traite-de-singe-au-royaume-uni-les-soignants-des-hopitaux-publics-sont-de-plus-en-plus-souvent-victimes-de-racisme_8235601.html",
    "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/0cBFDTaFX06z44ZCMlEbNosNcyY/0x0:5184x2916/432x243/filters:format(jpg)/2026/10/13/6acdc594d878f889699792.jpg",
+   "image": "https://www.franceinfo.fr/pictures/5JuChSjYtMrZZgC3RryM1s3sELA/0x96:2884x1719/432x243/filters:format(jpg)/2026/10/13/6ace3be9dfa3f575700865.jpg",
    "date": null,
-   "pubdate": "2026-10-13T06:51:36.566312+00:00"
+   "pubdate": "2026-10-13T16:59:12.273963+00:00"
   },
   {
-   "title": "6:22 vidéo 6 minutes 22 Chronique culture : “Naza” le documentaire choc fait débat",
-   "link": "https://www.franceinfo.fr/replay-magazine/franceinfo/a-suivre-avec-loic-de-la-mornais/chronique-culture-naza-le-documentaire-choc-fait-debat_8235052.html",
-   "summary": "Chronique culture : “Naza” le documentaire choc fait débat",
-   "image": "https://www.franceinfo.fr/pictures/sRjlkak-jEt3C39BGfhSHK_5fSc/0x2:1090x616/432x243/filters:format(jpg)/2026/10/13/6acdc8ddcdb5d387031379.jpg",
+   "title": "1:28 vidéo 1 minute 28 Léon XIV hospitalisé à \"l'hôpital des papes\"",
+   "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/leon-xiv-hospitalise-a-l-hopital-des-papes_8235829.html",
+   "summary": "Léon XIV hospitalisé à \"l'hôpital des papes\"",
+   "image": "https://www.franceinfo.fr/pictures/dEsILyvS70dmloNh0tecImjgF-Q/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/13/6ace507078854834967385.png",
    "date": null,
-   "pubdate": "2026-10-13T06:51:36.566312+00:00"
+   "pubdate": "2026-10-13T16:59:12.273963+00:00"
   },
   {
-   "title": "1:50 vidéo 1 minute 50 Le documentaire sur Gaza qui secoue Israël",
-   "link": "https://www.franceinfo.fr/monde/palestine/gaza/le-documentaire-sur-gaza-qui-secoue-israel_8234518.html",
-   "summary": "Le documentaire sur Gaza qui secoue Israël",
-   "image": "https://www.franceinfo.fr/pictures/oibzEw7KNvmKfpdy9BLcMJ_3N6w/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/12/6acd3aff5cfa9472188376.jpg",
-   "date": null,
-   "pubdate": "2026-10-13T06:51:36.566312+00:00"
-  },
-  {
-   "title": "1:42 vidéo 1 minute 42 Menace russe : l'Otan montre les muscles",
-   "link": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/menace-russe-l-otan-montre-les-muscles_8235037.html",
-   "summary": "Menace russe : l'Otan montre les muscles",
-   "image": "https://www.franceinfo.fr/pictures/u5VZUlMab692YLkiCH0fLAOqMh0/184x0:1481x730/432x243/filters:format(jpg)/2026/10/13/6acdc3e82275a449866498.png",
-   "date": null,
-   "pubdate": "2026-10-13T06:51:36.566312+00:00"
-  },
-  {
-   "title": "18:33 vidéo 18 minutes 33 A suivre avec Alban Mikoczy : le quart d'heure américain du lundi 12 octobre",
-   "link": "https://www.franceinfo.fr/replay-magazine/franceinfo/a-suivre-avec-loic-de-la-mornais/a-suivre-avec-alban-mikoczy-le-quart-d-heure-americain-du-lundi-12-octobre_8235034.html",
-   "summary": "A suivre avec Alban Mikoczy : le quart d'heure américain du lundi 12 octobre",
-   "image": "https://www.franceinfo.fr/pictures/0U9rBgxD-GguyMs8cf54-AR9ItI/191x0:849x370/432x243/filters:format(jpg)/2026/10/13/6acdc263cdc96622533241.jpg",
-   "date": null,
-   "pubdate": "2026-10-13T06:51:36.566312+00:00"
-  },
-  {
-   "title": "Un Mexicain renversé volontairement par des agents de l'ICE, la police américaine de l'immigration, selon son avocate",
-   "link": "https://www.franceinfo.fr/monde/usa/police-de-l-immigration-americaine/un-mexicain-renverse-volontairement-par-des-agents-de-l-ice-la-police-americaine-de-l-immigration-selon-son-avocate_8234854.html",
+   "title": "\"Une menace supplémentaire\" : quatre questions sur les frappes contre deux nouveaux navires en mer Noire, près des côtes bulgares",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/une-menace-supplementaire-quatre-questions-sur-les-frappes-contre-deux-nouveaux-navires-en-mer-noire-pres-des-cotes-bulgares_8235199.html",
    "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/-I20JF4oOa4H5sR81BYCeo_EzlE/0x0:4913x2763/432x243/filters:format(jpg)/2026/10/13/6acdc1dfe8171012396685.jpg",
+   "image": "https://www.franceinfo.fr/pictures/bJkdirj_PvE_SKBPt1nMUbJCJLU/0x0:6000x3375/432x243/filters:format(jpg)/2026/10/13/6ace20499b9b2918664132.jpg",
    "date": null,
-   "pubdate": "2026-10-13T06:51:36.566312+00:00"
+   "pubdate": "2026-10-13T16:59:12.273963+00:00"
   },
   {
-   "title": "26:15 vidéo 26 minutes 15 A suivre avec Alban Mikoczy : Ukraine : pourquoi Trump Lâche Zelensky ?",
-   "link": "https://www.franceinfo.fr/replay-magazine/franceinfo/a-suivre-avec-loic-de-la-mornais/a-suivre-avec-alban-mikoczy-ukraine-pourquoi-trump-lache-zelensky_8235028.html",
-   "summary": "A suivre avec Alban Mikoczy : Ukraine : pourquoi Trump Lâche Zelensky ?",
-   "image": "https://www.franceinfo.fr/pictures/8dMQK2u3ll_iICkSu0EB47VjNCI/13x0:1068x593/432x243/filters:format(jpg)/2026/10/13/6acdc1c1a8df1347487492.jpg",
-   "date": null,
-   "pubdate": "2026-10-13T06:51:36.566312+00:00"
-  },
-  {
-   "title": ": Reportage : Reportage \"C'est une affaire parmi beaucoup d'autres\" : comment les accusations de viols à Cornell mettent en lumière les excès des fraternités dans les universités américaines",
-   "link": "https://www.franceinfo.fr/monde/usa/c-est-une-affaire-parmi-beaucoup-d-autres-comment-les-accusations-de-viols-a-cornell-mettent-en-lumiere-les-exces-des-fraternites-dans-les-universites-americaines_8234185.html",
-   "summary": "\"C'est une affaire parmi beaucoup d'autres\" : comment les accusations de viols à Cornell mettent en lumière les excès des fraternités dans les universités américaines",
-   "image": "https://www.franceinfo.fr/pictures/W_hSpyfYZaiMMG_r4WZBjiH_mBo/0x333:5685x3531/432x243/filters:format(jpg)/2026/10/12/6acd3b0ca532a296786764.jpg",
-   "date": null,
-   "pubdate": "2026-10-13T06:51:36.566312+00:00"
-  },
-  {
-   "title": "2:58 audio 2 minutes 58 Dix ans après le Brexit, le Breturn ?",
-   "link": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/dix-ans-apres-le-brexit-le-breturn_8214152.html",
+   "title": "Donald Trump demande la démission de l'ambassadrice des Etats-Unis en Grèce après plusieurs révélations compromettantes",
+   "link": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-demande-la-demission-de-l-ambassadrice-des-etats-unis-en-grece-apres-plusieurs-revelations-compromettantes_8235682.html",
    "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/4SYe7BfvBgBfA5NQHr9-d6F5gdM/0x0:1024x576/432x243/filters:format(jpg)/2026/10/13/6acdba080756e836204602.jpg",
+   "image": "https://www.franceinfo.fr/pictures/qwQxAFwA60fNCNWDwtIt0jr7phc/0x46:1024x622/432x243/filters:format(jpg)/2026/10/13/6ace40d944cf8462723329.jpg",
    "date": null,
-   "pubdate": "2026-10-13T06:51:36.566312+00:00"
+   "pubdate": "2026-10-13T16:59:12.273963+00:00"
+  },
+  {
+   "title": "Après la série d'attaques des houthis du Yémen à Riyad, l'Arabie saoudite semble délaissée par ses alliés",
+   "link": "https://www.franceinfo.fr/monde/proche-orient/tensions-entre-l-arabie-saoudite-et-l-iran/apres-la-serie-d-attaques-des-houthis-du-yemen-a-riyad-l-arabie-saoudite-semble-delaissee-par-ses-allies_8235625.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/K_rNiwdGcNshX3NBkA5kEOUeHxQ/0x715:6867x4578/432x243/filters:format(jpg)/2026/10/13/6ace3f245c0e6148233768.jpg",
+   "date": null,
+   "pubdate": "2026-10-13T16:59:12.273963+00:00"
+  },
+  {
+   "title": "Des ordres d'évacuation émis en Arabie saoudite et au Yémen après les frappes des houthis sur le royaume",
+   "link": "https://www.franceinfo.fr/monde/moyen-orient/des-ordres-d-evacuations-emis-en-arabie-saoudite-et-au-yemen-apres-les-frappes-houthies-sur-le-royaume_8235616.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/jKtvvYvgyJPLZDG6vb7-OOw9SwY/0x93:1024x669/432x243/filters:format(jpg)/2026/10/13/6ace31151cd0f209759230.jpg",
+   "date": null,
+   "pubdate": "2026-10-13T16:59:12.273963+00:00"
+  },
+  {
+   "title": "1:44 vidéo 1 minute 44 Un navire de la \"flotte fantôme\" russe arraisonné",
+   "link": "https://www.franceinfo.fr/monde/russie/un-navire-de-la-flotte-fantome-russe-arraisonne_8235592.html",
+   "summary": "Un navire de la \"flotte fantôme\" russe arraisonné",
+   "image": "https://www.franceinfo.fr/pictures/P-IpMYwBZngminHoUI7GywMxsaU/0x3:602x1073/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/13/6ace293f3eaea586903276.png",
+   "date": null,
+   "pubdate": "2026-10-13T16:59:12.273963+00:00"
+  },
+  {
+   "title": "1:43 vidéo 1 minute 43 La France intercepte un pétrolier soupçonné d'appartenir à la flotte fantôme russe au large de La Réunion",
+   "link": "https://www.franceinfo.fr/monde/russie/la-france-intercepte-un-petrolier-soupconne-d-appartenir-a-la-flotte-fantome-russe-au-large-de-la-reunion_8235562.html",
+   "summary": "La France intercepte un pétrolier soupçonné d'appartenir à la flotte fantôme russe au large de La Réunion",
+   "image": "https://www.franceinfo.fr/pictures/TqDR88cDZzpP1lWe-_Fz9tB80uo/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/13/6ace28810728c711580733.jpg",
+   "date": null,
+   "pubdate": "2026-10-13T16:59:12.273963+00:00"
+  },
+  {
+   "title": "Le pape Léon XIV hospitalisé à Rome pour être opéré du poumon",
+   "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/le-pape-leon-xiv-est-hospitalise-dans-un-hopital-de-rome-pour-etre-opere-du-poumon_8235520.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/46S41vL1r_KBjteFFNfKO0EPZ0g/0x0:6830x3841/432x243/filters:format(jpg)/2026/10/13/6ace1b02e6251600905676.jpg",
+   "date": null,
+   "pubdate": "2026-10-13T16:59:12.273963+00:00"
+  },
+  {
+   "title": ": Témoignages 4:20 audio 4 minutes 20 : Témoignages \"Il y a un sentiment de désespoir qui monte chez tout le monde\" : un an après le cessez-le-feu à Gaza, le processus de paix est au point mort",
+   "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-il-y-a-un-sentiment-de-desespoir-qui-monte-chez-tout-le-monde-un-an-apres-le-cessez-le-feu-a-gaza-le-processus-de-paix-est-au-point-mort_8210456.html",
+   "summary": "\"Il y a un sentiment de désespoir qui monte chez tout le monde\" : un an après le cessez-le-feu à Gaza, le processus de paix est au point mort",
+   "image": "https://www.franceinfo.fr/pictures/tsxtVJjfFkt7Hqmq3MeMXc3BaWg/1000x0:5000x4000/100x100/filters:format(jpg)/2026/10/09/6ac9388aa6eb2825054120.jpg",
+   "date": null,
+   "pubdate": "2026-10-13T16:59:12.273963+00:00"
+  },
+  {
+   "title": "L'essentiel des révélations sur l'affaire Epstein 14 contenus",
+   "link": "https://www.franceinfo.fr/monde/usa/affaire-jeffrey-epstein/l-essentiel-des-revelations-sur-l-affaire-epstein/",
+   "summary": "L'essentiel des révélations sur l'affaire Epstein",
+   "image": "https://www.franceinfo.fr/pictures/btENVL4vmQDLNvnJ4uUtTATvN9k/432x297/filters:format(jpg)/2026/02/12/000-96rl2gk-1-698def9a11d8a867290796.jpg",
+   "date": null,
+   "pubdate": "2026-10-13T16:59:12.273963+00:00"
+  },
+  {
+   "title": "8:00 article 8 minutes \"Ils déblaient à la main\" : trois ans après le début de la guerre à Gaza, les Palestiniens toujours contraints de vivre dans les ruines et le dénuement",
+   "link": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/ils-deblaient-a-la-main-trois-ans-apres-le-debut-de-la-guerre-a-gaza-les-palestiniens-toujours-contraints-de-vivre-dans-les-ruines-et-le-denuement_8219863.html",
+   "summary": "\"Ils déblaient à la main\" : trois ans après le début de la guerre à Gaza, les Palestiniens toujours contraints de vivre dans les ruines et le dénuement",
+   "image": "https://www.franceinfo.fr/pictures/oo5XSG4Vkm9Zg_3NGhyEH8SPdI0/160x0:842x682/100x100/filters:format(jpg)/2026/10/06/6ac4bc9065149963114867.jpg",
+   "date": null,
+   "pubdate": "2026-10-13T16:59:12.273963+00:00"
+  },
+  {
+   "title": "Le roi d'Espagne Felipe VI accueilli par une foule enthousiaste à Ceuta pour une visite diplomatiquement sensible Le souverain espagnol est en visite sur ce territoire, dont la souveraineté est revendiquée par le Maroc, deux mois et demi après l'afflux massif de migrants dans cette enclave espagnole du nord de l'Afrique.",
+   "link": "https://www.franceinfo.fr/monde/europe/migrants/crise-des-migrants-a-ceuta/le-roi-d-espagne-felipe-vi-accueilli-par-une-foule-enthousiaste-a-ceuta-pour-une-visite-diplomatiquement-sensible_8235499.html",
+   "summary": "Le roi d'Espagne Felipe VI accueilli par une foule enthousiaste à Ceuta pour une visite diplomatiquement sensible",
+   "image": "https://www.franceinfo.fr/pictures/upJBH_nMOVppNiyoAIw4qg1tCj0/0x54:1024x630/432x243/filters:format(jpg)/2026/10/13/6ace193438275856460548.jpg",
+   "date": null,
+   "pubdate": "2026-10-13T16:59:12.273963+00:00"
+  },
+  {
+   "title": "La Formule 1 fait son retour en Afrique avec un Grand Prix au Rwanda annoncé \"au début des années 2030\" La Formule 1 n’avait plus couru sur le continent africain depuis 1993, et va désormais tenir une course au Rwanda pendant au moins 10 ans.",
+   "link": "https://www.franceinfo.fr/sports/auto-moto/formule-1/la-formule-1-fait-son-retour-en-afrique-avec-un-grand-prix-au-rwanda-annonce-au-debut-des-annees-2030_8235358.html",
+   "summary": "La Formule 1 fait son retour en Afrique avec un Grand Prix au Rwanda annoncé \"au début des années 2030\"",
+   "image": "https://www.franceinfo.fr/pictures/s1JWzpDu3n8PBhJWsmrGtMafeck/0x0:3938x2215/432x243/filters:format(jpg)/2026/10/13/6ace0176ec12a166773652.jpg",
+   "date": null,
+   "pubdate": "2026-10-13T16:59:12.273963+00:00"
+  },
+  {
+   "title": "2:22 audio 2 minutes 22 Aux États-Unis, des adolescents vendent des armes aux cartels mexicains En Arizona, à la frontière avec le Mexique, des jeunes gagnent beaucoup d'argent en vendant des armes aux cartels de la drogue.",
+   "link": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/aux-etats-unis-des-adolescents-vendent-des-armes-aux-cartels-mexicains_8214170.html",
+   "summary": "Aux États-Unis, des adolescents vendent des armes aux cartels mexicains",
+   "image": "https://www.franceinfo.fr/pictures/szN924AIvCxizfIKkEvdJ3z9KUs/0x319:6135x3770/432x243/filters:format(jpg)/2026/10/13/6acdf4a7e0f7b110838794.jpg",
+   "date": null,
+   "pubdate": "2026-10-13T16:59:12.273963+00:00"
+  },
+  {
+   "title": "Le Comité international de la Croix-Rouge alerte sur l'urgence d'une \"désescalade\" au Moyen-Orient Une intensification des hostilités serait \"désastreuse\" pour des dizaines de millions de personnes, a déclaré la présidente du CICR, Mirjana Spoljaric.",
+   "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/le-comite-international-de-la-croix-rouge-alerte-sur-l-urgence-d-une-desescalade-au-moyen-orient_8235250.html",
+   "summary": "Le Comité international de la Croix-Rouge alerte sur l'urgence d'une \"désescalade\" au Moyen-Orient",
+   "image": "https://www.franceinfo.fr/pictures/CsWoD8WoHzkiC_hPJ839Gw6tNy8/0x0:4135x2325/432x243/filters:format(jpg)/2026/10/13/6acdf7b78ddb0232228044.jpg",
+   "date": null,
+   "pubdate": "2026-10-13T16:59:12.273963+00:00"
+  },
+  {
+   "title": "La satire écolo \"Digger\" d'Alejandro Iñarritu avec Tom Cruise s'achemine vers un flop coûteux Boudé par le public, le film risque d'écorner l'aura de Tom Cruise, considéré jusqu'ici comme un des derniers acteurs capable de remplir les salles de cinéma sur son seul nom.",
+   "link": "https://www.franceinfo.fr/culture/cinema/tom-cruise/la-satire-ecolo-digger-de-alejandro-inarritu-avec-tom-cruise-s-achemine-vers-un-flop-couteux_8235169.html",
+   "summary": "La satire écolo \"Digger\" d'Alejandro Iñarritu avec Tom Cruise s'achemine vers un flop coûteux",
+   "image": "https://www.franceinfo.fr/pictures/HzZXMitfWqySWepWNtvApTTG5bg/0x167:1600x1067/432x243/filters:format(jpg)/2026/10/13/6acde41b2ea16763579521.jpeg",
+   "date": null,
+   "pubdate": "2026-10-13T16:59:12.273963+00:00"
+  },
+  {
+   "title": "La Hongrie adopte une première loi supprimant des dispositions anti-LGBT+ de l'ère Viktor Orban C'est la première abolition significative des restrictions imposées par Viktor Orban à la communauté LGBT+ depuis l'arrivée au pouvoir de Peter Magyar.",
+   "link": "https://www.franceinfo.fr/societe/lgbt/la-hongrie-adopte-une-premiere-loi-supprimant-des-dispositions-anti-lgbt-de-l-ere-viktor-orban_8235211.html",
+   "summary": "La Hongrie adopte une première loi supprimant des dispositions anti-LGBT+ de l'ère Viktor Orban",
+   "image": "https://www.franceinfo.fr/pictures/XwPEtyrALZhBKe6losiSLAP9d34/0x441:6913x4330/432x243/filters:format(jpg)/2026/10/13/6acded552a571827949873.jpg",
+   "date": null,
+   "pubdate": "2026-10-13T16:59:12.273963+00:00"
+  },
+  {
+   "title": "Deux nouveaux navires ont été frappés en mer Noire près des côtes bulgares La semaine dernière, deux navires marchands avaient déjà été frappés par des drones dans la zone économique exclusive de la Bulgarie en mer Noire.",
+   "link": "https://www.franceinfo.fr/monde/europe/union-europeenne/deux-nouveaux-navires-ont-ete-frappes-en-mer-noire-pres-des-cotes-bulgares_8235118.html",
+   "summary": "Deux nouveaux navires ont été frappés en mer Noire près des côtes bulgares",
+   "image": "https://www.franceinfo.fr/pictures/Z4gOskhUdV9SCmkwmIecd3IdqwM/0x112:6000x3487/432x243/filters:format(jpg)/2026/10/13/6acde3b593cb1397439056.jpg",
+   "date": null,
+   "pubdate": "2026-10-13T16:59:12.273963+00:00"
+  },
+  {
+   "title": "Elon Musk a dépensé 276 millions de dollars pour soutenir les candidats républicains lors des élections de mi-mandat aux Etats-Unis En 2024, le patron de Tesla et SpaceX avait déjà soutenu Donald Trump en dépendant 290 millions de dollars pour sa campagne.",
+   "link": "https://www.franceinfo.fr/monde/usa/midterms-2018/elon-musk-a-depense-276-millions-de-dollars-pour-soutenir-les-republicains-lors-de-la-campagne-des-elections-de-mi-mandat-selon-plusieurs-medias_8234872.html",
+   "summary": "Elon Musk a dépensé 276 millions de dollars pour soutenir les candidats républicains lors des élections de mi-mandat aux Etats-Unis",
+   "image": "https://www.franceinfo.fr/pictures/7I0m_aA0ih7P1ja8FEf9VZfsas4/0x0:4641x2610/432x243/filters:format(jpg)/2026/10/13/6acdd6b96189d286516866.jpg",
+   "date": null,
+   "pubdate": "2026-10-13T16:59:12.273963+00:00"
+  },
+  {
+   "title": "2:32 audio 2 minutes 32 Au Japon, même les volcans ont un péage : la nouvelle stratégie face au surtourisme Au Japon, gravir le mont Fuji coûte désormais une vingtaine d'euros et les taxes de séjour augmentent à Kyoto. Pourtant, la fréquentation du célèbre volcan a progressé de 17% en un an. Une stratégie qui permet aux autorités de mieux encadrer les visiteurs et de financer les infrastructures, sans nécessairement réduire leur nombre.",
+   "link": "https://www.franceinfo.fr/replay-radio/le-monde-et-vous/au-japon-meme-les-volcans-ont-un-peage-la-nouvelle-strategie-face-au-surtourisme_8214875.html",
+   "summary": "Au Japon, même les volcans ont un péage : la nouvelle stratégie face au surtourisme",
+   "image": "https://www.franceinfo.fr/pictures/S9d4zSq9jCLvgfYmuZGGJl3kL4s/0x624:6000x3997/432x243/filters:format(jpg)/2025/01/16/080-hl-apasquini-2630172-6788b2af1a25a249152653.jpg",
+   "date": null,
+   "pubdate": "2026-10-13T16:59:12.273963+00:00"
   },
   {
    "title": "Tout comprendre à la guerre au Moyen-Orient 27 contenus",
@@ -132,34 +228,26 @@
    "pubdate": "2026-10-13T06:51:36.566312+00:00"
   },
   {
-   "title": "BYD, Xpeng, Lynk&Co, Omoda&Jaecoo… Les marques chinoises débarquent en force au Salon de l'automobile Pour cette 91e édition du Mondial de l'auto de Paris, qui débute mardi, 60 constructeurs sont présents, dont les Français Renault, Peugeot et Citroën, avec sa future 2CV électrique. Mais le salon accueille aussi une vingtaine de marques chinoises, un nombre record.",
-   "link": "https://www.franceinfo.fr/economie/automobile/byd-xpeng-lynk-co-omoda-jaecoo-les-marques-chinoises-debarquent-en-force-au-salon-de-l-automobile_8234431.html",
-   "summary": "BYD, Xpeng, Lynk&Co, Omoda&Jaecoo… Les marques chinoises débarquent en force au Salon de l'automobile",
-   "image": "https://www.franceinfo.fr/pictures/W1UqNMd9S6SDLVLcAZNgfRlG0zI/0x53:1024x629/432x243/filters:format(jpg)/2026/10/12/6acd3385b7534142651828.jpg",
+   "title": "La propagation de la fumée toxique des incendies en Indonésie entraîne des fermetures d'écoles en Malaisie et des annulations de vols Depuis des mois, l'Indonésie lutte contre des incendies qui ont ravagé de vastes étendues de forêts et de tourbières.",
+   "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/la-propagation-de-la-fumee-toxique-des-incendies-en-indonesie-entraine-des-fermetures-d-ecoles-en-malaisie-et-des-annulations-de-vols_8234884.html",
+   "summary": "La propagation de la fumée toxique des incendies en Indonésie entraîne des fermetures d'écoles en Malaisie et des annulations de vols",
+   "image": "https://www.franceinfo.fr/pictures/YmaV2YFDskamtj0AGAThgy2o5LM/0x313:3984x2554/432x243/filters:format(jpg)/2026/10/13/6acdce5505bd0344562431.jpg",
    "date": null,
    "pubdate": "2026-10-13T06:51:36.566312+00:00"
   },
   {
-   "title": "La Russie dit avoir livré pour 320 milliards de dollars d'hydrocarbures à l'Europe depuis 2022 Malgré les sanctions adoptées en raison du conflit en Ukraine, de nombreux pays, dont la France, continuent de s'approvisionner auprès de la Russie en hydrocarbures, notamment en gaz naturel liquéfié.",
-   "link": "https://www.franceinfo.fr/monde/russie/la-russie-dit-avoir-livre-pour-320-milliards-de-dollars-d-hydrocarbures-a-l-europe-depuis-2022_8234869.html",
-   "summary": "La Russie dit avoir livré pour 320 milliards de dollars d'hydrocarbures à l'Europe depuis 2022",
-   "image": "https://www.franceinfo.fr/pictures/sHE25WIBdRW7dEfRGN32BfMs5F8/0x0:5071x2852/432x243/filters:format(jpg)/2026/10/13/6acdb7017cda4554350325.jpg",
+   "title": "Le risque de famine s'accroît au Soudan en raison des conflits et de la sécheresse, alerte l'ONU \"Bien que les signes d'une détérioration catastrophique se multiplient, les efforts d'intervention humanitaire sont de plus en plus limités en raison d'un sous-financement critique\", ajoutent les experts.",
+   "link": "https://www.franceinfo.fr/monde/afrique/soudan/le-risque-de-famine-s-accroit-au-soudan-en-raison-des-conflits-et-de-la-secheresse-alerte-l-onu_8234890.html",
+   "summary": "Le risque de famine s'accroît au Soudan en raison des conflits et de la sécheresse, alerte l'ONU",
+   "image": "https://www.franceinfo.fr/pictures/0cBFDTaFX06z44ZCMlEbNosNcyY/0x0:5184x2916/432x243/filters:format(jpg)/2026/10/13/6acdc594d878f889699792.jpg",
    "date": null,
    "pubdate": "2026-10-13T06:51:36.566312+00:00"
   },
   {
-   "title": "Au Mexique, la tempête Rachel et l'ouragan Simon ont fait cinq morts, cinq autres personnes toujours portées disparues Ouragans et tempêtes se trouvent renforcés par le phénomène El Niño, attendu particulièrement puissant cette année.",
-   "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/au-mexique-la-tempete-rachel-et-l-ouragan-simon-ont-fait-cinq-morts-cinq-autres-personnes-toujours-portees-disparues_8234857.html",
-   "summary": "Au Mexique, la tempête Rachel et l'ouragan Simon ont fait cinq morts, cinq autres personnes toujours portées disparues",
-   "image": "https://www.franceinfo.fr/pictures/G4VYIuMpmxo904FngvcFBoa_iD4/0x243:3335x2118/432x243/filters:format(jpg)/2026/10/13/6acdb19b8cab6742704751.jpg",
-   "date": null,
-   "pubdate": "2026-10-13T06:51:36.566312+00:00"
-  },
-  {
-   "title": "\"La démocratie doit être protégée chaque minute de chaque jour\", déclare l'opposant russe Vladimir Kara-Mourza Il est \"très important que les politiques, ici en France comme dans les autres pays démocratiques, se souviennent toujours de cette menace qui vient du régime actuel au Kremlin\", martèle l'opposant auprès de la rédaction internationale de Radio France.",
-   "link": "https://www.franceinfo.fr/monde/russie/la-democratie-doit-etre-protegee-chaque-minute-de-chaque-jour-declare-l-opposant-russe-vladimir-kara-mourza_8234467.html",
-   "summary": "\"La démocratie doit être protégée chaque minute de chaque jour\", déclare l'opposant russe Vladimir Kara-Mourza",
-   "image": "https://www.franceinfo.fr/pictures/JIvoCFCBmFHUjvWMLHXDjruEiiY/0x266:5863x3564/432x243/filters:format(jpg)/2026/10/12/6acd31c2bb4b1707428130.jpg",
+   "title": "Un Mexicain renversé volontairement par des agents de l'ICE, la police américaine de l'immigration, selon son avocate Des responsables de la police de l'immigration ont affirmé que l'homme \"courait devant un véhicule de l'ICE\" et avait été \"percuté\".",
+   "link": "https://www.franceinfo.fr/monde/usa/police-de-l-immigration-americaine/un-mexicain-renverse-volontairement-par-des-agents-de-l-ice-la-police-americaine-de-l-immigration-selon-son-avocate_8234854.html",
+   "summary": "Un Mexicain renversé volontairement par des agents de l'ICE, la police américaine de l'immigration, selon son avocate",
+   "image": "https://www.franceinfo.fr/pictures/-I20JF4oOa4H5sR81BYCeo_EzlE/0x0:4913x2763/432x243/filters:format(jpg)/2026/10/13/6acdc1dfe8171012396685.jpg",
    "date": null,
    "pubdate": "2026-10-13T06:51:36.566312+00:00"
   },
@@ -178,94 +266,6 @@
    "image": "https://www.franceinfo.fr/pictures/2f5cbtrT9CRvkEupDevmU2LuA7E/890x0:3698x2808/100x100/filters:format(jpg)/2026/10/04/6ac2473171e26537594128.jpg",
    "date": null,
    "pubdate": "2026-10-12T21:18:31.114165+00:00"
-  },
-  {
-   "title": "L'ex-président de la République démocratique du Congo et le groupe armé M23 s'unissent dans un mouvement politico-militaire L'annonce d'une union entre l'ex-président Joseph Kabila et le M23 intervient dans un contexte politique incertain en RDC.",
-   "link": "https://www.franceinfo.fr/monde/afrique/republique-democratique-du-congo/l-ex-president-de-la-republique-democratique-du-congo-et-le-groupe-arme-m23-s-unissent-dans-un-mouvement-politico-militaire_8234542.html",
-   "summary": "L'ex-président de la République démocratique du Congo et le groupe armé M23 s'unissent dans un mouvement politico-militaire",
-   "image": "https://www.franceinfo.fr/pictures/8zPjpUx6Dz4b-SaPbMXuH7qaEEs/0x106:1024x682/432x243/filters:format(jpg)/2026/10/12/6acd47f865377752648022.jpg",
-   "date": null,
-   "pubdate": "2026-10-12T21:18:31.114165+00:00"
-  },
-  {
-   "title": "Un navire soupçonné de faire partie de la \"flotte fantôme\" russe arraisonné au sud de La Réunion pour \"transport de carburants\" illicite Ce navire est également \"suspecté de naviguer sous un faux pavillon\", a annoncé lundi Emmanuel Macron.",
-   "link": "https://www.franceinfo.fr/monde/russie/un-navire-soupconne-de-faire-partie-de-la-flotte-fantome-russe-arraisonne-au-sud-de-la-reunion-pour-transport-de-carburants-illicite_8234503.html",
-   "summary": "Un navire soupçonné de faire partie de la \"flotte fantôme\" russe arraisonné au sud de La Réunion pour \"transport de carburants\" illicite",
-   "image": "https://www.franceinfo.fr/pictures/nrRlWr2by42DLHbfRMgt79yAcJY/0x0:1024x576/432x243/filters:format(jpg)/2026/10/12/6acd3ae513cf5430714388.jpg",
-   "date": null,
-   "pubdate": "2026-10-12T21:18:31.114165+00:00"
-  },
-  {
-   "title": "L'Union européenne prête à ouvrir de nouveaux chapitres de négociation en vue de l'adhésion de l'Ukraine L'adoption lundi d'une loi renforçant les droits linguistiques des minorités nationales dans l'éducation, une réforme réclamée par la Hongrie, a permis cette nouvelle étape.",
-   "link": "https://www.franceinfo.fr/monde/europe/union-europeenne/l-union-europeenne-prete-a-ouvrir-de-nouveaux-chapitres-de-negociation-en-vue-de-l-adhesion-de-l-ukraine_8234392.html",
-   "summary": "L'Union européenne prête à ouvrir de nouveaux chapitres de négociation en vue de l'adhésion de l'Ukraine",
-   "image": "https://www.franceinfo.fr/pictures/bodwFjfHUMNIBu3VKGRsctfN1iY/0x0:1024x576/432x243/filters:format(jpg)/2026/10/12/6acd24a2760a9025783463.jpg",
-   "date": null,
-   "pubdate": "2026-10-12T21:18:31.114165+00:00"
-  },
-  {
-   "title": "L'Arabie saoudite reconnaît être \"mise à l'épreuve\" par les frappes des houthis L'aéroport de la capitale saoudienne a de nouveau été ciblé dimanche, nouvel épisode d'une série d'attaques répétées après celle qui a fait treize morts samedi.",
-   "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/l-arabie-saoudite-reconnait-etre-mise-a-l-epreuve-par-les-frappes-des-houthis_8234299.html",
-   "summary": "L'Arabie saoudite reconnaît être \"mise à l'épreuve\" par les frappes des houthis",
-   "image": "https://www.franceinfo.fr/pictures/qTtgzdclqbXp86eXlwsyNfbv9qw/0x0:1024x576/432x243/filters:format(jpg)/2026/10/12/6acd0f746614a448140145.jpg",
-   "date": null,
-   "pubdate": "2026-10-12T21:18:31.114165+00:00"
-  },
-  {
-   "title": "Les frappes de drones ukrainiennes sur des data centers en Russie ont-elles donné un sérieux coup à la désinformation pro-russe ? Trois centres de données de Yandex, le \"Google russe\", ont été visés par Kiev en l'espace de quatre jours. Mais est-ce que cela a vraiment réduit le pouvoir de nuisance des désinformateurs pro-Kremlin comme l'affirme le président ukrainien ?",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/les-frappes-de-drones-ukrainiennes-sur-des-data-centers-en-russie-ont-elles-donne-un-serieux-coup-a-la-desinformation-pro-russe_8234284.html",
-   "summary": "Les frappes de drones ukrainiennes sur des data centers en Russie ont-elles donné un sérieux coup à la désinformation pro-russe ?",
-   "image": "https://www.franceinfo.fr/pictures/83F6oXX6su_jy82vGwLkztKcMe8/0x0:4773x2684/432x243/filters:format(jpg)/2026/10/12/6acd0a9e948e4371237438.jpg",
-   "date": null,
-   "pubdate": "2026-10-12T21:18:31.114165+00:00"
-  },
-  {
-   "title": "Cinq questions sur les frappes des houthis du Yémen à Riyad et dans le reste de l'Arabie saoudite, qui mettent le royaume en difficulté Les opérations sont toujours suspendues à l'aéroport international de Riyad, lundi, après une série de frappes imputées à ce groupe de rebelles yéménites alliés à l'Iran.",
-   "link": "https://www.franceinfo.fr/monde/proche-orient/yemen/cinq-questions-sur-les-frappes-des-houthis-du-yemen-a-riyad-et-dans-le-reste-de-l-arabie-saoudite-qui-mettent-le-royaume-en-difficulte_8233591.html",
-   "summary": "Cinq questions sur les frappes des houthis du Yémen à Riyad et dans le reste de l'Arabie saoudite, qui mettent le royaume en difficulté",
-   "image": "https://www.franceinfo.fr/pictures/RRwdnS-fRSGcCMvPU3XPNoRtrS4/0x614:5901x3934/432x243/filters:format(jpg)/2026/10/12/6acccfc0cf047952431547.jpg",
-   "date": null,
-   "pubdate": "2026-10-12T21:18:31.114165+00:00"
-  },
-  {
-   "title": "L'incident près d'une base militaire au Royaume-Uni a été \"presque certainement dirigé\" par les Gardiens de la Révolution iraniens, selon le Premier ministre britannique \"Nous ne tolérerons pas ces menaces sur notre sol\", a également déclaré lundi Andy Burnham au sujet de l'incident qui a eu lieu fin septembre.",
-   "link": "https://www.franceinfo.fr/monde/royaume-uni/l-incident-pres-d-une-base-militaire-au-royaume-uni-a-ete-presque-certainement-dirige-par-les-gardiens-de-la-revolution-iraniens-selon-andy-burnham_8234194.html",
-   "summary": "L'incident près d'une base militaire au Royaume-Uni a été \"presque certainement dirigé\" par les Gardiens de la Révolution iraniens, selon le Premier ministre britannique",
-   "image": "https://www.franceinfo.fr/pictures/FBbyAZ8I-AtgY6-rgadWCfMf88Y/0x53:1024x629/432x243/filters:format(jpg)/2026/10/12/6acd017db6879457452237.jpg",
-   "date": null,
-   "pubdate": "2026-10-12T21:18:31.114165+00:00"
-  },
-  {
-   "title": "Le sommet sur la coopération entre l'Union européenne et le Royaume-Uni se tiendra le 20 novembre à Bruxelles Ce nouveau sommet sera l'occasion de \"renforcer davantage le partenariat stratégique\" entre les 27 et le Royaume-Uni, affirme le Conseil européen dans un communiqué publié lundi.",
-   "link": "https://www.franceinfo.fr/monde/europe/union-europeenne/le-sommet-entre-l-union-europeenne-et-le-royaume-uni-se-tiendra-le-20-novembre-a-bruxelles_8234140.html",
-   "summary": "Le sommet sur la coopération entre l'Union européenne et le Royaume-Uni se tiendra le 20 novembre à Bruxelles",
-   "image": "https://www.franceinfo.fr/pictures/_Mh6-3vVOkoAZ2FMwGDIGZaEbeE/0x53:1024x629/432x243/filters:format(jpg)/2026/10/12/6accfbc9879bb002038359.jpg",
-   "date": null,
-   "pubdate": "2026-10-12T21:18:31.114165+00:00"
-  },
-  {
-   "title": "Un adolescent tué et une vingtaine d'autres blessés dans une explosion dans le nord d'Israël lors d'une sortie scolaire Selon la police et des médias israéliens, un groupe d'étudiants et d'enseignants d'un lycée religieux, qui effectuaient une randonnée à proximité de Néot-Mordechaï, ont été pris dans la déflagration d'une munition non explosée qui se trouvait sur leur parcours.",
-   "link": "https://www.franceinfo.fr/monde/israel/un-adolescent-tue-dans-une-explosion-dans-le-nord-d-israel-lors-d-une-sortie-scolaire-selon-le-ministre-de-la-defense_8234074.html",
-   "summary": "Un adolescent tué et une vingtaine d'autres blessés dans une explosion dans le nord d'Israël lors d'une sortie scolaire",
-   "image": "https://www.franceinfo.fr/pictures/BPCeTu8M57mQeLwcS_4NzHo7dEU/0x136:3000x1823/432x243/filters:format(jpg)/2026/10/12/6accf4e07bc84256957159.jpg",
-   "date": null,
-   "pubdate": "2026-10-12T21:18:31.114165+00:00"
-  },
-  {
-   "title": "Le chef militaire de l'Otan prévient la Russie que toute attaque sera \"totalement vaine\" \"Si quelqu'un est assez insensé pour nous attaquer, nous nous battrons\", a déclaré lundi le général américain Alexus Grynkewich lors d'un forum sur la défense en Pologne.",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-otan-previent-la-russie-que-toute-attaque-sera-totalement-vaine_8234011.html",
-   "summary": "Le chef militaire de l'Otan prévient la Russie que toute attaque sera \"totalement vaine\"",
-   "image": "https://www.franceinfo.fr/pictures/LCaEmG1-OEH0BZXOnUy77YfLBEo/0x53:1024x629/432x243/filters:format(jpg)/2026/10/12/6acceaad2f447435475684.jpg",
-   "date": null,
-   "pubdate": "2026-10-12T21:18:31.114165+00:00"
-  },
-  {
-   "title": "52:01 audio 52 minutes 1 Tirs dans un collège, que s'est-il passé à Aubagne ? Les informés de franceinfo du lundi 12 octobre 2026 Tous les soirs, les informés débattent de l'actualité autour d'Hadrien Bect.",
-   "link": "https://www.franceinfo.fr/replay-radio/les-informes-de-france-info/tirs-dans-un-college-que-s-est-il-passe-a-aubagne-les-informes-de-franceinfo-du-lundi-12-octobre-2026_8212688.html",
-   "summary": "Tirs dans un collège, que s'est-il passé à Aubagne ? Les informés de franceinfo du lundi 12 octobre 2026",
-   "image": "https://www.franceinfo.fr/pictures/Nhg4Pqz9rXXPozeubJDvMdX9YBk/210x74:1069x557/432x243/filters:format(jpg)/2026/10/12/6acd248d84056241347647.png",
-   "date": "2026-10-12T11:00:00+00:00",
-   "pubdate": "2026-10-12T11:00:00+00:00"
   },
   {
    "title": "Léon XIV en France : l'essentiel de la visite du pape 15 contenus",
