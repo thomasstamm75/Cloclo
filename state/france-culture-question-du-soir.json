@@ -1,8 +1,7 @@
 {
- "etag": "\"p6pp6m\"",
+ "etag": "\"1abg0yz\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/l-etat-a-t-il-encore-les-moyens-d-affronter-la-crise-qui-vient-9854243": "2026-09-17T17:06:41.278420+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/le-canada-peut-il-s-emanciper-des-etats-unis-2866788": "2026-09-18T11:00:00+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/les-francais-sont-ils-aussi-divises-qu-on-le-dit-5245168": "2026-09-21T11:00:00+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/faut-il-defendre-l-heritage-au-nom-de-l-interet-general-1735940": "2026-09-22T17:02:37.893577+00:00",
@@ -20,10 +19,19 @@
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/bresil-derriere-le-succes-de-bolsonaro-celui-de-trump-9697008": "2026-10-08T18:54:43.746341+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/peut-on-encore-faire-une-histoire-commune-9924900": "2026-10-09T11:00:00+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/lvmh-sur-les-champs-elysees-peut-on-privatiser-la-ville-7456257": "2026-10-12T11:00:00+00:00",
-  "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/trump-a-t-il-sauve-poutine-3268912": "2026-10-13T16:59:23.968521+00:00"
+  "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/trump-a-t-il-sauve-poutine-3268912": "2026-10-13T16:59:23.968521+00:00",
+  "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/faut-il-supprimer-parcoursup-8683880": "2026-10-14T17:17:57.294392+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "Faut-il supprimer ParcoursupÂ ?",
+   "link": "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/faut-il-supprimer-parcoursup-8683880",
+   "summary": "Huit ans aprÃ¨s sa crÃ©ation, Parcoursup cristallise la colÃ¨re des lycÃ©ens. AccusÃ©e dâopacitÃ© et de renforcer les inÃ©galitÃ©s, la plateforme relance un dÃ©bat de fondÂ : faut-il rÃ©former lâoutil ou sâattaquer aux difficultÃ©s structurelles de lâenseignement supÃ©rieur quâil met en lumiÃ¨reÂ ?",
+   "image": "https://www.radiofrance.fr/pikapi/images/b09e98ec-6c4f-4ef0-b972-c84808c5e15c/2048",
+   "date": null,
+   "pubdate": "2026-10-14T17:17:57.294392+00:00"
+  },
   {
    "title": "Accord sur le dieselÂ : Trump cherche-t-il Ã sauver PoutineÂ ?",
    "link": "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/trump-a-t-il-sauve-poutine-3268912",
@@ -167,14 +175,6 @@
    "image": "https://www.radiofrance.fr/pikapi/images/e8f9b07b-2a22-4266-92ca-6b2190411ada/2048",
    "date": "2026-09-18T11:00:00+00:00",
    "pubdate": "2026-09-18T11:00:00+00:00"
-  },
-  {
-   "title": "LâÃtat a-t-il encore les moyens dâaffronter la crise qui vientÂ ?",
-   "link": "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/l-etat-a-t-il-encore-les-moyens-d-affronter-la-crise-qui-vient-9854243",
-   "summary": "Selon un rÃ©cent sondage, 46Â % des FranÃ§ais doivent se restreindre pour finir le mois. Face Ã un Ãtat confrontÃ© Ã une dette record, Ã la nÃ©cessitÃ© de rÃ©duire son dÃ©ficit et Ã l'instabilitÃ© internationale, dispose-t-il encore des moyens d'affronter la crise Ã venirÂ ?",
-   "image": "https://www.radiofrance.fr/pikapi/images/13e72199-9f8d-4de4-be8c-6f7aa60f5fda/2048",
-   "date": null,
-   "pubdate": "2026-09-17T17:06:41.278420+00:00"
   }
  ]
 }
