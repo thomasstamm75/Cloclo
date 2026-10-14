@@ -1,6 +1,6 @@
 {
- "etag": "",
- "last_modified": "",
+ "etag": "W/\"1791979257\"",
+ "last_modified": "Wed, 14 Oct 2026 12:00:57 GMT",
  "first_seen": {
   "https://www.ccomptes.fr/fr/publications/les-unites-mixtes-de-recherche-umr": "2026-10-08T11:00:00+00:00",
   "https://www.ccomptes.fr/fr/publications/lagence-nationale-de-la-recherche-anr-une-trajectoire-budgetaire-devenue-insoutenable": "2026-10-08T11:00:00+00:00",
@@ -10,11 +10,27 @@
   "https://www.ccomptes.fr/fr/publications/le-dispositif-du-medecin-traitant": "2026-09-30T11:00:00+00:00",
   "https://www.ccomptes.fr/fr/publications/lunion-departementale-des-associations-familiales-des-bouches-du-rhone": "2026-09-28T11:00:00+00:00",
   "https://www.ccomptes.fr/fr/publications/la-caisse-dallocations-familiales-des-bouches-du-rhone": "2026-09-28T11:00:00+00:00",
-  "https://www.ccomptes.fr/fr/publications/lintelligence-artificielle-et-le-ministere-de-la-culture-bilan-detape-et-defis": "2026-09-24T11:00:00+00:00",
-  "https://www.ccomptes.fr/fr/publications/les-retraites-des-fonctionnaires-de-letat": "2026-09-22T11:00:00+00:00"
+  "https://www.ccomptes.fr/fr/publications/lencadrement-des-loyers": "2026-10-14T11:00:00+00:00",
+  "https://www.ccomptes.fr/fr/publications/le-troisieme-cycle-des-etudes-de-medecine": "2026-10-14T11:00:00+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "L'encadrement des loyers",
+   "link": "https://www.ccomptes.fr/fr/publications/lencadrement-des-loyers",
+   "summary": "Dans les grandes agglomérations, où la demande de logements reste forte face à une offre insuffisante, quels constats peut-on dresser de l’expérimentation sur l’encadrement des loyers ? À la demande de la commission des finances de l’Assemblée nationale, la Cour des comptes a examiné la mise en...",
+   "image": "https://www.ccomptes.fr/sites/default/files/styles/teaser_182x98/public/2024-08/Faut-il-taxer-davantage-les-loyers-des-meubles-182x98.jpg?itok=LcUZeNIm",
+   "date": "2026-10-14T11:00:00+00:00",
+   "pubdate": "2026-10-14T11:00:00+00:00"
+  },
+  {
+   "title": "Le troisième cycle des études de médecine",
+   "link": "https://www.ccomptes.fr/fr/publications/le-troisieme-cycle-des-etudes-de-medecine",
+   "summary": "La Cour des comptes a réalisé, à la demande de la commission des affaires sociales du Sénat, une enquête portant sur « le troisième cycle des études de médecine ». Menée par une formation interchambres de la Cour, elle a donné lieu à plus d’une centaine d’entretiens avec des représentants de l’ensem...",
+   "image": "https://www.ccomptes.fr/sites/default/files/styles/teaser_182x98/public/2024-12/Acces-aux-Etudes-de-sante-182x98.jpg?itok=3XiHKASM",
+   "date": "2026-10-14T11:00:00+00:00",
+   "pubdate": "2026-10-14T11:00:00+00:00"
+  },
   {
    "title": "Les unités mixtes de recherche (UMR)",
    "link": "https://www.ccomptes.fr/fr/publications/les-unites-mixtes-de-recherche-umr",
@@ -78,22 +94,6 @@
    "image": "https://www.ccomptes.fr/sites/default/files/styles/teaser_182x98/public/2024-09/La-caisse-dallocations-familiales-du-Nord-182x98.jpg?itok=LkzxjQdr",
    "date": "2026-09-28T11:00:00+00:00",
    "pubdate": "2026-09-28T11:00:00+00:00"
-  },
-  {
-   "title": "L’intelligence artificielle et le ministère de la Culture : bilan d'étape et défis",
-   "link": "https://www.ccomptes.fr/fr/publications/lintelligence-artificielle-et-le-ministere-de-la-culture-bilan-detape-et-defis",
-   "summary": "Alors que l’intelligence artificielle générative transforme profondément les conditions de production, de diffusion et de valorisation des œuvres culturelles et audiovisuelles, le ministère de la Culture a engagé une démarche visant à structurer l’appropriation de ces technologies par ses services e...",
-   "image": "https://www.ccomptes.fr/sites/default/files/styles/teaser_182x98/public/2026-08/Intelligence-artificielle-et-le-ministre-de-la-culture-182x98.jpg?itok=VpnX7aT5",
-   "date": "2026-09-24T11:00:00+00:00",
-   "pubdate": "2026-09-24T11:00:00+00:00"
-  },
-  {
-   "title": "Les retraites des fonctionnaires de l'État",
-   "link": "https://www.ccomptes.fr/fr/publications/les-retraites-des-fonctionnaires-de-letat",
-   "summary": "Saisie par la commission des finances de l’Assemblée nationale, la Cour des comptes lui remet un rapport sur les retraites des fonctionnaires civils et militaires de l’État. En 2025, leur régime de retraite a versé 65,1 Md€ de prestations à 2 millions de pensionnés de droit propre. Depuis 2003, ses ...",
-   "image": "https://www.ccomptes.fr/sites/default/files/styles/teaser_182x98/public/2026-09/Allongement-vie-professionnelle-agents-dans-fonction-publique-Etat-vieillissante-182x98.jpg?itok=1SMjIxU5",
-   "date": "2026-09-22T11:00:00+00:00",
-   "pubdate": "2026-09-22T11:00:00+00:00"
   }
  ]
 }

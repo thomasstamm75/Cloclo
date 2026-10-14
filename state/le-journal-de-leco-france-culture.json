@@ -1,8 +1,7 @@
 {
- "etag": "\"1xvd4wh\"",
+ "etag": "\"19hp2p1\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/lutte-contre-les-fraudes-en-ligne-les-gafam-mises-a-contribution-3686534": "2026-09-17T11:50:19.042649+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/ormuz-une-onde-de-choc-mondiale-sur-les-marches-de-l-energie-2532544": "2026-09-18T11:24:59.509854+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/ecoles-d-ingenieurs-publiques-les-frais-de-scolarite-vont-ils-exploser-1960156": "2026-09-21T12:57:55.223810+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/spectacle-vivant-des-subventions-vitales-pour-la-perennite-du-secteur-7494863": "2026-09-22T11:47:39.343042+00:00",
@@ -19,10 +18,19 @@
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/crise-petroliere-quelle-marge-pour-taxer-les-profits-des-raffineurs-1629158": "2026-10-08T10:43:19.512955+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/les-start-up-epargnees-dans-le-projet-de-budget-2027-du-gouvernement-5421691": "2026-10-09T10:42:24.062501+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/dette-la-france-au-bord-du-defaut-7190305": "2026-10-12T11:00:00+00:00",
-  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/japon-le-miracle-de-la-dette-publique-est-il-en-train-de-prendre-fin-9094977": "2026-10-13T06:51:44.989836+00:00"
+  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/japon-le-miracle-de-la-dette-publique-est-il-en-train-de-prendre-fin-9094977": "2026-10-13T06:51:44.989836+00:00",
+  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/etats-unis-le-seuil-de-40-000-milliards-de-dollars-de-dette-depasse-plus-vite-que-prevu-1435794": "2026-10-14T12:01:27.356488+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "Le prix de la dette 3/5Â Â· Ãtats-UnisÂ : le seuil de 40 000 milliards de dollars de dette dÃ©passÃ© plus vite que prÃ©vu",
+   "link": "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/etats-unis-le-seuil-de-40-000-milliards-de-dollars-de-dette-depasse-plus-vite-que-prevu-1435794",
+   "summary": "C'est le pays oÃ¹ la dette publique est la plus Ã©levÃ©e du Globe en valeurÂ : les Ãtats-Unis. La dette publique de la premiÃ¨re puissance mondiale a franchi cet Ã©tÃ© le seuil des 40 000 milliards de dollars. Avec pour principale explicationÂ : lâinflation.",
+   "image": "https://www.radiofrance.fr/pikapi/images/0bac8513-92b5-4c8c-ade9-acf35ece2505/2048",
+   "date": null,
+   "pubdate": "2026-10-14T12:01:27.356488+00:00"
+  },
   {
    "title": "Le prix de la dette 2/5Â Â· JaponÂ : le miracle de la dette publique est-il en train de prendre finÂ ?",
    "link": "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/japon-le-miracle-de-la-dette-publique-est-il-en-train-de-prendre-fin-9094977",
@@ -158,14 +166,6 @@
    "image": "https://www.radiofrance.fr/pikapi/images/9c8c16f8-f20f-42b9-9254-e1d7128006f8/2048",
    "date": null,
    "pubdate": "2026-09-18T11:24:59.509854+00:00"
-  },
-  {
-   "title": "Lutte contre les fraudes en ligneÂ : les Gafam mises Ã contribution",
-   "link": "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/lutte-contre-les-fraudes-en-ligne-les-gafam-mises-a-contribution-3686534",
-   "summary": "Elles ont coÃ»tÃ© Ã leurs victimes 516 millions d'euros au total l'an dernier, en hausse de 34Â % sur un an. Les fraudes par manipulation n'en finissent pas de se multiplier, et elles partent souvent des plateformes numÃ©riques. Les gÃ©ants du web sont donc sommÃ©s de participer Ã la lutte.",
-   "image": "https://www.radiofrance.fr/pikapi/images/63f47b4c-ced2-4440-ba0d-89b4e8920b06/2048",
-   "date": null,
-   "pubdate": "2026-09-17T11:50:19.042649+00:00"
   }
  ]
 }
