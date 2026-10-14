@@ -1,5 +1,5 @@
 {
- "etag": "\"c8f43180d900334ebc896e998313614a-gzip\"",
+ "etag": "\"5661ef4d02988b73a9253a68a299b1ca-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/elections/presidentielle/portraits-qui-sont-les-candidats-declares-a-l-election-presidentielle-de-2027_8208032.html": "2026-10-08T10:41:53.979908+00:00",
@@ -11,7 +11,6 @@
   "https://www.franceinfo.fr/politique/ps/primaire-a-gauche/l-union-ne-doit-pas-se-limiter-aux-seuls-socialistes-plaide-francois-hollande-apres-la-primaire-sociale-democrate_8234887.html": "2026-10-13T06:51:33.135442+00:00",
   "https://www.franceinfo.fr/economie/budget/horizons-propose-un-budget-alternatif-avec-10-milliards-d-economies-supplementaires_8234875.html": "2026-10-13T06:51:33.135442+00:00",
   "https://www.franceinfo.fr/societe/harcelement-sexuel/infraction-sur-l-inceste-juridictions-specialisees-quelles-sont-les-mesures-retenues-par-l-assemblee-nationale-dans-la-proposition-de-loi-integrale-contre-les-violences-sexuelles_8233648.html": "2026-10-13T06:51:33.135442+00:00",
-  "https://www.franceinfo.fr/elections/presidentielle/les-emmerdes-commencent-les-huit-defis-que-raphael-glucksmann-va-devoir-relever-apres-sa-victoire-a-la-primaire-de-la-gauche_8234041.html": "2026-10-13T06:51:33.135442+00:00",
   "https://www.franceinfo.fr/societe/harcelement-sexuel/le-collectif-noustoutes-appelle-les-parlementaires-a-voter-contre-la-proposition-de-loi-dite-integrale-contre-les-violences-sexuelles-et-sexistes_8235919.html": "2026-10-13T16:59:09.200696+00:00",
   "https://www.franceinfo.fr/politique/rachida-dati/le-conseil-superieur-de-la-magistrature-rend-un-avis-defavorable-a-la-reintegration-de-rachida-dati-dans-la-magistrature_8235529.html": "2026-10-13T16:59:09.200696+00:00",
   "https://www.franceinfo.fr/economie/budget/le-gouvernement-estime-a-166-milliards-d-euros-les-aides-publiques-apportees-aux-entreprises-en-2024_8235373.html": "2026-10-13T16:59:09.200696+00:00",
@@ -25,18 +24,44 @@
   "https://www.franceinfo.fr/economie/retraite/retraites-quelle-revalorisation-pour-les-pensions-du-secteur-prive_8236852.html": "2026-10-14T12:01:15.506420+00:00",
   "https://www.franceinfo.fr/une-information-transparente-franceinfo/transparence-depuis-son-retrait-du-20-heures-lea-salame-est-elle-payee-a-ne-rien-faire_8236741.html": "2026-10-14T12:01:15.506420+00:00",
   "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/l-invite-politique-du-mercredi-14-octobre-2026_8207213.html": "2026-10-14T12:01:15.506420+00:00",
-  "https://www.franceinfo.fr/politique/loi-sur-les-violences-sexistes-et-sexuelles-il-n-y-a-aucune-mesure-de-prevention-pour-enrayer-la-fabrique-des-agresseurs-regrette-mathilde-panot_8236762.html": "2026-10-14T12:01:15.506420+00:00",
   "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-ps-et-rn-en-roles-inverses-sur-le-budget_8215601.html": "2026-10-14T12:01:15.506420+00:00",
   "https://www.franceinfo.fr/politique/la-justice-rejette-le-recours-de-francois-piquemal-lfi-contre-l-election-aux-municipales-de-jean-luc-moudenc_8237542.html": "2026-10-14T17:17:42.851843+00:00",
-  "https://www.franceinfo.fr/elections/presidentielle/la-campagne-presidentielle-va-t-elle-plomber-les-discussions-budgetaires_8237191.html": "2026-10-14T17:17:42.851843+00:00"
+  "https://www.franceinfo.fr/elections/presidentielle/la-campagne-presidentielle-va-t-elle-plomber-les-discussions-budgetaires_8237191.html": "2026-10-14T17:17:42.851843+00:00",
+  "https://www.franceinfo.fr/politique/un-cordon-sanitaire-autour-de-lfi-en-vue-de-2027-les-analyses-d-antoine-oberdoff-et-gilles-finchelstein_8237731.html": "2026-10-14T21:46:14.979548+00:00",
+  "https://www.franceinfo.fr/economie/budget/pouvoir-faire-avancer-un-certain-nombre-de-nos-propositions-gaetan-dussausaye-detaille-la-position-du-rn-sur-le-budget-2027_8237647.html": "2026-10-14T21:46:14.979548+00:00",
+  "https://www.franceinfo.fr/elections/presidentielle/marine-tondelier-reprend-sa-campagne-apres-quatre-semaines-de-conge-maternite-et-appelle-a-lacher-la-grappe-aux-femmes_8237659.html": "2026-10-14T21:46:14.979548+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "La justice rejette le recours de François Piquemal (LFI) contre l'élection aux municipales de Jean-Luc Moudenc L'ancien candidat insoumis aux municipales 2026 a déposé un recours en raison d'ingérences numériques étrangères constatées lors du scrutin, visant notamment LFI. Le tribunal a jugé que ces \"attaques\" avaient été \"d'une faible visibilité\" contre François Piquemal, sans preuve d'une réelle incidence sur le résultat du scrutin. Aujourd'hui",
+   "title": "Un \"cordon sanitaire\" autour de LFI en vue de 2027 ? Les analyses d'Antoine Oberdoff et Gilles Finchelstein Antoine Oberdoff, journaliste politique à l'Opinion, et Gilles Finchelstein, secrétaire général de la Fondation Jean Jaurès, sont les invités de l'émission \"C Ce Soir\" du 14 octobre. Ils s'interrogent sur l'existence d'un possible cordon sanitaire autour de LFI en vue de 2027. Aujourd'hui 2:13 vidéo 2 minutes 13",
+   "link": "https://www.franceinfo.fr/politique/un-cordon-sanitaire-autour-de-lfi-en-vue-de-2027-les-analyses-d-antoine-oberdoff-et-gilles-finchelstein_8237731.html",
+   "summary": "Un \"cordon sanitaire\" autour de LFI en vue de 2027 ? Les analyses d'Antoine Oberdoff et Gilles Finchelstein",
+   "image": "https://www.franceinfo.fr/pictures/EeODwDXVUGqsPr6RqGR2htqRp0M/0x0:1080x1920/fit-in/432x297/filters:upscale():fill(blur):format(jpg)/2026/10/14/6acfd62a31efa019974076.png",
+   "date": null,
+   "pubdate": "2026-10-14T21:46:14.979548+00:00"
+  },
+  {
+   "title": "20:47 vidéo 20 minutes 47 \"Pouvoir faire avancer un certain nombre de nos propositions\" : Gaëtan Dussausaye détaille la position du RN sur le budget 2027",
+   "link": "https://www.franceinfo.fr/economie/budget/pouvoir-faire-avancer-un-certain-nombre-de-nos-propositions-gaetan-dussausaye-detaille-la-position-du-rn-sur-le-budget-2027_8237647.html",
+   "summary": "\"Pouvoir faire avancer un certain nombre de nos propositions\" : Gaëtan Dussausaye détaille la position du RN sur le budget 2027",
+   "image": "https://www.franceinfo.fr/pictures/X2X-8S47RJYqiCF-82T2_ffsBY0/0x52:1174x713/432x243/filters:format(jpg)/2026/10/14/6acfc3b47b5e5950264557.jpg",
+   "date": null,
+   "pubdate": "2026-10-14T21:46:14.979548+00:00"
+  },
+  {
+   "title": "Présidentielle 2027 : Marine Tondelier reprend sa campagne après quatre semaines de congé maternité, et appelle à \"lâcher la grappe aux femmes\"",
+   "link": "https://www.franceinfo.fr/elections/presidentielle/marine-tondelier-reprend-sa-campagne-apres-quatre-semaines-de-conge-maternite-et-appelle-a-lacher-la-grappe-aux-femmes_8237659.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/CbKUCtjcpg0AAFL9tNw2_UXpSXg/0x80:1024x656/432x243/filters:format(jpg)/2026/10/14/6acfc8cbec2e7733366282.jpg",
+   "date": null,
+   "pubdate": "2026-10-14T21:46:14.979548+00:00"
+  },
+  {
+   "title": "La justice rejette le recours de François Piquemal (LFI) contre l'élection aux municipales de Jean-Luc Moudenc",
    "link": "https://www.franceinfo.fr/politique/la-justice-rejette-le-recours-de-francois-piquemal-lfi-contre-l-election-aux-municipales-de-jean-luc-moudenc_8237542.html",
-   "summary": "La justice rejette le recours de François Piquemal (LFI) contre l'élection aux municipales de Jean-Luc Moudenc",
-   "image": "https://www.franceinfo.fr/pictures/O5ISSFiKWW-UZKKhKTppk8uRMAw/432x297/filters:format(jpg)/2026/08/21/6a87cd760acd8974671133.jpg",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/IDmvQqvUmFlT5YIQqR-YmQRLsVU/432x243/filters:format(jpg)/2026/08/21/6a87cd760acd8974671133.jpg",
    "date": null,
    "pubdate": "2026-10-14T17:17:42.851843+00:00"
   },
@@ -89,26 +114,10 @@
    "pubdate": "2026-10-14T12:01:15.506420+00:00"
   },
   {
-   "title": ": Transparence : Transparence Depuis son retrait du \"20 Heures\", Léa Salamé est-elle \"payée à ne rien faire\" ?",
-   "link": "https://www.franceinfo.fr/une-information-transparente-franceinfo/transparence-depuis-son-retrait-du-20-heures-lea-salame-est-elle-payee-a-ne-rien-faire_8236741.html",
-   "summary": "Depuis son retrait du \"20 Heures\", Léa Salamé est-elle \"payée à ne rien faire\" ?",
-   "image": "https://www.franceinfo.fr/pictures/OY1yZb9w5SgfAZZLqdau_QLFbhI/0x232:4480x2752/432x243/filters:format(jpg)/2026/08/21/6a8812b63ad6f385392637.jpg",
-   "date": null,
-   "pubdate": "2026-10-14T12:01:15.506420+00:00"
-  },
-  {
-   "title": "11:09 vidéo 11 minutes 9 Contre-budget de Jean-Luc Mélenchon : \"On est environ à 108 milliards de recettes pour 80 milliards de dépenses\", précise Clémence Guetté",
+   "title": "11:09 vidéo 11 minutes 9 Contre-budget de Jean-Luc Mélenchon : \"On est environ à 108 milliards de recettes pour 80 milliards de dépenses\", précise Clémence Guetté En amont de la présentation d'un contre-budget en conférence de presse par le chef de file de La France insoumise ce mercredi, la députée LFI et vice-présidente de l'Assemblée nationale, Clémence Guetté, livre sur franceinfo quelques chiffres de ce plan pour remettre de l'ordre dans les comptes publics.",
    "link": "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/l-invite-politique-du-mercredi-14-octobre-2026_8207213.html",
    "summary": "Contre-budget de Jean-Luc Mélenchon : \"On est environ à 108 milliards de recettes pour 80 milliards de dépenses\", précise Clémence Guetté",
    "image": "https://www.franceinfo.fr/pictures/EJI08cSYChKHt0AasYyTJNxzou4/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/14/6acf3f1c79bed338092449.jpg",
-   "date": null,
-   "pubdate": "2026-10-14T12:01:15.506420+00:00"
-  },
-  {
-   "title": "7:53 vidéo 7 minutes 53 Loi sur les violences sexistes et sexuelles : \"Il n'y a aucune mesure de prévention pour enrayer la fabrique des agresseurs\", regrette Mathilde Panot",
-   "link": "https://www.franceinfo.fr/politique/loi-sur-les-violences-sexistes-et-sexuelles-il-n-y-a-aucune-mesure-de-prevention-pour-enrayer-la-fabrique-des-agresseurs-regrette-mathilde-panot_8236762.html",
-   "summary": "Loi sur les violences sexistes et sexuelles : \"Il n'y a aucune mesure de prévention pour enrayer la fabrique des agresseurs\", regrette Mathilde Panot",
-   "image": "https://www.franceinfo.fr/pictures/sd_624Cc_Szy-4OT-XzpbYzS8Y0/0x21:1292x748/432x243/filters:format(jpg)/2026/10/14/6acf2a29b9c71839194011.jpg",
    "date": null,
    "pubdate": "2026-10-14T12:01:15.506420+00:00"
   },
@@ -193,14 +202,6 @@
    "pubdate": "2026-10-13T06:51:33.135442+00:00"
   },
   {
-   "title": "\"Les emmerdes commencent\" : les huit défis que Raphaël Glucksmann va devoir relever après sa victoire à la primaire de la gauche Désigné dès le premier tour d'un scrutin qu'il voulait initialement éviter, le candidat de Place publique et, désormais, du Parti socialiste doit maintenant rassembler un camp divisé s'il veut rester dans la course à l'Elysée.",
-   "link": "https://www.franceinfo.fr/elections/presidentielle/les-emmerdes-commencent-les-huit-defis-que-raphael-glucksmann-va-devoir-relever-apres-sa-victoire-a-la-primaire-de-la-gauche_8234041.html",
-   "summary": "\"Les emmerdes commencent\" : les huit défis que Raphaël Glucksmann va devoir relever après sa victoire à la primaire de la gauche",
-   "image": "https://www.franceinfo.fr/pictures/W2wXBcURrSGYGz-IEEBasx6mX3I/2041x867:5583x2859/432x243/filters:format(jpg)/2026/10/12/6accf3dc445e7190078475.jpg",
-   "date": null,
-   "pubdate": "2026-10-13T06:51:33.135442+00:00"
-  },
-  {
    "title": ": Replay 50:00 vidéo 50 minutes : Replay \"Lycéens en colère : anatomie d'une lutte\" : regardez le documentaire de franceinfo qui revient sur trois semaines de mobilisation de la jeunesse",
    "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-lyceens-en-colere-anatomie-d-une-lutte-regardez-le-documentaire-de-franceinfo-qui-revient-sur-trois-semaines-de-mobilisation-de-la-jeunesse_8230564.html",
    "summary": "\"Lycéens en colère : anatomie d'une lutte\" : regardez le documentaire de franceinfo qui revient sur trois semaines de mobilisation de la jeunesse",
@@ -247,6 +248,14 @@
    "image": "https://www.franceinfo.fr/pictures/gTNu5ElFZad5C8I3yj_eG7aT-CU/603x0:4763x4160/100x100/filters:format(jpg)/2026/10/07/6ac6421796d9b632587530.png",
    "date": null,
    "pubdate": "2026-10-08T10:41:53.979908+00:00"
+  },
+  {
+   "title": ": Transparence Depuis son retrait du \"20 Heures\", Léa Salamé est-elle \"payée à ne rien faire\" ? Depuis que Léa Salamé a annoncé son retrait du journal de 20h le 24 août 2026, conséquence de la candidature à la présidentielle de son conjoint Raphaël Glucksmann, le sujet anime les réseaux sociaux. Léa Salamé a-t-elle conservé son salaire ? Que fait-elle exactement à France Télévisions ? Le médiateur vous répond.",
+   "link": "https://www.franceinfo.fr/une-information-transparente-franceinfo/transparence-depuis-son-retrait-du-20-heures-lea-salame-est-elle-payee-a-ne-rien-faire_8236741.html",
+   "summary": "Depuis son retrait du \"20 Heures\", Léa Salamé est-elle \"payée à ne rien faire\" ?",
+   "image": "https://www.franceinfo.fr/pictures/OY1yZb9w5SgfAZZLqdau_QLFbhI/0x232:4480x2752/432x243/filters:format(jpg)/2026/08/21/6a8812b63ad6f385392637.jpg",
+   "date": "2026-08-24T11:00:00+00:00",
+   "pubdate": "2026-08-24T11:00:00+00:00"
   }
  ]
 }
