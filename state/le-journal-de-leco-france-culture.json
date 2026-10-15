@@ -1,8 +1,7 @@
 {
- "etag": "\"19hp2p1\"",
+ "etag": "\"1bnm8\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/ormuz-une-onde-de-choc-mondiale-sur-les-marches-de-l-energie-2532544": "2026-09-18T11:24:59.509854+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/ecoles-d-ingenieurs-publiques-les-frais-de-scolarite-vont-ils-exploser-1960156": "2026-09-21T12:57:55.223810+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/spectacle-vivant-des-subventions-vitales-pour-la-perennite-du-secteur-7494863": "2026-09-22T11:47:39.343042+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/en-chine-le-logo-louis-vuitton-ne-suffit-plus-3030905": "2026-09-23T11:47:12.276737+00:00",
@@ -19,10 +18,19 @@
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/les-start-up-epargnees-dans-le-projet-de-budget-2027-du-gouvernement-5421691": "2026-10-09T10:42:24.062501+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/dette-la-france-au-bord-du-defaut-7190305": "2026-10-12T11:00:00+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/japon-le-miracle-de-la-dette-publique-est-il-en-train-de-prendre-fin-9094977": "2026-10-13T06:51:44.989836+00:00",
-  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/etats-unis-le-seuil-de-40-000-milliards-de-dollars-de-dette-depasse-plus-vite-que-prevu-1435794": "2026-10-14T12:01:27.356488+00:00"
+  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/etats-unis-le-seuil-de-40-000-milliards-de-dollars-de-dette-depasse-plus-vite-que-prevu-1435794": "2026-10-14T12:01:27.356488+00:00",
+  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/senegal-pourquoi-le-fmi-exige-que-le-pays-restructure-sa-dette-9664100": "2026-10-15T11:38:27.123781+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "Le prix de la dette 4/5Â Â· SÃ©nÃ©galÂ : pourquoi le FMI exige que le pays restructure sa dette",
+   "link": "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/senegal-pourquoi-le-fmi-exige-que-le-pays-restructure-sa-dette-9664100",
+   "summary": "Deux ans aprÃ¨s la dÃ©couverte dâune dette cachÃ©e, le SÃ©nÃ©gal a obtenu un accord de principe avec le FMIÂ : 2,2 milliards de dollars, Ã condition de renÃ©gocier sa dette extÃ©rieure. Un plan qui dÃ©pend dÃ©sormais de ses crÃ©anciers.",
+   "image": "https://www.radiofrance.fr/pikapi/images/7ad09d3a-c5c5-43f9-bd32-bfb191f35aea/2048",
+   "date": null,
+   "pubdate": "2026-10-15T11:38:27.123781+00:00"
+  },
   {
    "title": "Le prix de la dette 3/5Â Â· Ãtats-UnisÂ : le seuil de 40 000 milliards de dollars de dette dÃ©passÃ© plus vite que prÃ©vu",
    "link": "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/etats-unis-le-seuil-de-40-000-milliards-de-dollars-de-dette-depasse-plus-vite-que-prevu-1435794",
@@ -158,14 +166,6 @@
    "image": "https://www.radiofrance.fr/pikapi/images/22835ac5-1d03-4c2f-a322-e5c5859ac721/2048",
    "date": null,
    "pubdate": "2026-09-21T12:57:55.223810+00:00"
-  },
-  {
-   "title": "Ormuz, une onde de choc mondiale sur les marchÃ©s de l'Ã©nergie",
-   "link": "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/ormuz-une-onde-de-choc-mondiale-sur-les-marches-de-l-energie-2532544",
-   "summary": "Les prix du gaz ont bondi sur les marchÃ©s de gros europÃ©ens Ã 81 euros le MWh cette semaine, un plus haut depuis 2023 et plus du double dâavant la guerre en Iran. Le conflit au Moyen-Orient dÃ©stabilise tous les marchÃ©s de l'Ã©nergie, plongeant dans l'incertitude entreprises et mÃ©nages.",
-   "image": "https://www.radiofrance.fr/pikapi/images/9c8c16f8-f20f-42b9-9254-e1d7128006f8/2048",
-   "date": null,
-   "pubdate": "2026-09-18T11:24:59.509854+00:00"
   }
  ]
 }
