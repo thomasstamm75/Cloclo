@@ -1,16 +1,24 @@
 {
  "etag": "",
- "last_modified": "Fri, 16 Oct 2026 11:15:16 GMT",
+ "last_modified": "Fri, 16 Oct 2026 14:06:21 GMT",
  "first_seen": {
   "https://www.jean-jaures.org/publication/berlin-une-coalition-a-gauche-toute/": "2026-10-13T11:00:00+00:00",
   "https://www.jean-jaures.org/publication/quand-letat-contraint-france-musique-a-jouer-une-fausse-note/": "2026-10-13T11:00:00+00:00",
   "https://www.jean-jaures.org/publication/les-apostats-renoncer-a-lislam/": "2026-10-14T11:00:00+00:00",
   "https://www.jean-jaures.org/publication/que-se-passerait-il-au-sein-de-letat-si-lextreme-droite-arrivait-au-pouvoir-en-france/": "2026-10-14T11:00:00+00:00",
-  "https://www.jean-jaures.org/publication/des-elections-senatoriales-un-avant-gout-de-la-recomposition-a-venir-a-laune-de-la-presidentielle/": "2026-10-12T11:00:00+00:00",
-  "https://www.jean-jaures.org/publication/france-mexique-ce-que-la-diplomatie-oublie-la-culture-le-retient/": "2026-10-15T11:00:00+00:00"
+  "https://www.jean-jaures.org/publication/france-mexique-ce-que-la-diplomatie-oublie-la-culture-le-retient/": "2026-10-15T11:00:00+00:00",
+  "https://www.jean-jaures.org/publication/colere-lyceenne-tf1-le-mauvais-eleve-des-jt/": "2026-10-16T11:00:00+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "Colère lycéenne : TF1, le mauvais élève des JT",
+   "link": "https://www.jean-jaures.org/publication/colere-lyceenne-tf1-le-mauvais-eleve-des-jt/",
+   "summary": "",
+   "image": "",
+   "date": "2026-10-16T11:00:00+00:00",
+   "pubdate": "2026-10-16T11:00:00+00:00"
+  },
   {
    "title": "France-Mexique : ce que la diplomatie oublie, la culture le retient",
    "link": "https://www.jean-jaures.org/publication/france-mexique-ce-que-la-diplomatie-oublie-la-culture-le-retient/",
@@ -50,14 +58,6 @@
    "image": "",
    "date": "2026-10-13T11:00:00+00:00",
    "pubdate": "2026-10-13T11:00:00+00:00"
-  },
-  {
-   "title": "Des élections sénatoriales : un avant-goût de la recomposition à venir à l’aune de la présidentielle ?",
-   "link": "https://www.jean-jaures.org/publication/des-elections-senatoriales-un-avant-gout-de-la-recomposition-a-venir-a-laune-de-la-presidentielle/",
-   "summary": "",
-   "image": "",
-   "date": "2026-10-12T11:00:00+00:00",
-   "pubdate": "2026-10-12T11:00:00+00:00"
   }
  ]
 }

@@ -1,27 +1,22 @@
 {
- "etag": "\"f1a6f886edcc2cbb5f9c1d610f8d9b27-gzip\"",
+ "etag": "\"db61f82f23f09937cc82401b5b4347b7-gzip\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-il-y-a-un-sentiment-de-desespoir-qui-monte-chez-tout-le-monde-un-an-apres-le-cessez-le-feu-a-gaza-le-processus-de-paix-est-au-point-mort_8210456.html": "2026-10-13T16:59:12.273963+00:00",
   "https://www.franceinfo.fr/monde/usa/affaire-jeffrey-epstein/l-essentiel-des-revelations-sur-l-affaire-epstein/": "2026-10-13T16:59:12.273963+00:00",
-  "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/ils-deblaient-a-la-main-trois-ans-apres-le-debut-de-la-guerre-a-gaza-les-palestiniens-toujours-contraints-de-vivre-dans-les-ruines-et-le-denuement_8219863.html": "2026-10-13T16:59:12.273963+00:00",
   "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/leon-xiv-en-france-retrouvez-l-essentiel/": "2026-10-14T05:00:04.705633+00:00",
   "https://www.franceinfo.fr/monde/groenland/le-groenland-au-c-ur-d-un-bras-de-fer-geopolitique/": "2026-10-14T12:01:17.837145+00:00",
   "https://www.franceinfo.fr/monde/russie/enquete-franceinfo-on-l-appelait-poutine-girl-comment-la-france-verrouille-les-demandes-de-visas-diplomatiques-russes-pour-limiter-les-risques-d-espionnage_8204495.html": "2026-10-15T04:48:46.025087+00:00",
   "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/tout-comprendre-a-la-guerre-au-moyen-orient/": "2026-10-15T04:48:46.025087+00:00",
   "https://www.franceinfo.fr/monde/israel/en-israel-la-participation-des-ultra-orthodoxes-a-l-effort-de-guerre-au-c-ur-des-debats-avant-les-elections-legislatives_8239039.html": "2026-10-16T04:39:02.246727+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/donald-trump-juge-que-la-reprise-par-l-ukraine-des-frappes-sur-les-raffineries-russes-est-une-honte_8239546.html": "2026-10-16T04:39:02.246727+00:00",
-  "https://www.franceinfo.fr/monde/usa/un-tireur-fait-plusieurs-victimes-dans-une-ecole-primaire-de-l-oregon-aux-etats-unis_8239228.html": "2026-10-16T04:39:02.246727+00:00",
   "https://www.franceinfo.fr/politique/marine-le-pen/nous-ne-pouvons-plus-financierement-aider-l-ukraine-affirme-laure-lavalette-porte-parole-du-rassemblement-national_8240248.html": "2026-10-16T11:32:11.826524+00:00",
   "https://www.franceinfo.fr/replay-radio/le-monde-d-elodie/tokio-hotel-signe-un-retour-aux-sources-avec-encore-on-voulait-faire-quelque-chose-qui-rappelle-nos-debuts_8219026.html": "2026-10-16T11:32:11.826524+00:00",
-  "https://www.franceinfo.fr/economie/automobile/essence/prime-grands-rouleurs-qui-est-desormais-concerne-par-le-versement-de-l-aide-aux-carburants-versee-des-ce-vendredi_8239975.html": "2026-10-16T11:32:11.826524+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/le-rn-critique-la-condescendance-de-volodymyr-zelensky-apres-les-echanges-sur-le-financement-de-l-ukraine_8239885.html": "2026-10-16T11:32:11.826524+00:00",
   "https://www.franceinfo.fr/replay-radio/les-informes-du-matin/les-informes-du-matin-du-vendredi-16-octobre-2026_8219002.html": "2026-10-16T11:00:00+00:00",
   "https://www.franceinfo.fr/monde/asie/quatre-hommes-sont-morts-en-luttant-contre-les-incendies-dans-un-parc-national-indonesien_8239774.html": "2026-10-16T11:32:11.826524+00:00",
   "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/en-coree-du-sud-la-solitude-devient-tendance-sur-les-reseaux-sociaux_8219005.html": "2026-10-16T11:32:11.826524+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/reportage-nous-n-avons-nulle-part-ou-mettre-nos-enfants-en-securite-a-kiev-l-inquietude-des-ukrainiens-face-au-manque-d-abris-antiaeriens_8239864.html": "2026-10-16T11:32:11.826524+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/ce-n-est-pas-le-moment-de-cesser-d-aider-l-ukraine-previent-l-union-europeenne_8239888.html": "2026-10-16T11:32:11.826524+00:00",
-  "https://www.franceinfo.fr/monde/usa/donald-trump-renonce-a-diffuser-une-execution-en-direct_8239900.html": "2026-10-16T11:32:11.826524+00:00",
   "https://www.franceinfo.fr/replay-magazine/france-2/envoye-special/video-vous-devenez-fou-cecile-kohler-et-jacques-paris-racontent-la-torture-blanche-la-methode-du-regime-iranien-pour-briser-votre-esprit_8236993.html": "2026-10-16T11:32:11.826524+00:00",
   "https://www.franceinfo.fr/monde/royaume-uni/reportage-ca-va-etre-la-guerre-civile-au-royaume-uni-la-contestation-contre-les-migrants-prend-une-tournure-de-plus-en-plus-radicale_8237749.html": "2026-10-16T11:32:11.826524+00:00",
   "https://www.franceinfo.fr/monde/usa/fusillades-aux-etats-unis/ce-qui-s-est-passe-ne-devrait-jamais-arriver-ce-que-l-on-sait-de-la-fusillade-qui-a-fait-quatre-morts-dans-une-ecole-primaire-de-l-oregon_8239759.html": "2026-10-16T11:32:11.826524+00:00",
@@ -29,15 +24,86 @@
   "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/manifestation-du-17-octobre-aide-a-l-ukraine-le-8h30-franceinfo-de-laure-lavalette_8219029.html": "2026-10-16T11:00:00+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/c-est-evidemment-essentiel-que-tous-les-pays-europeens-s-engagent-a-soutenir-kiev-pointe-le-comite-de-l-aide-medicale-en-ukraine_8239831.html": "2026-10-16T11:32:11.826524+00:00",
   "https://www.franceinfo.fr/replay-radio/le-monde-et-vous/face-a-l-essor-de-l-ozempic-et-du-wegovy-l-espagne-mise-sur-ses-traditions-culinaires-pour-lutter-contre-l-obesite_8218990.html": "2026-10-16T11:32:11.826524+00:00",
-  "https://www.franceinfo.fr/monde/de-tiktok-aux-cotes-anglaises-le-nouveau-front-anti-migrant_8239006.html": "2026-10-16T11:32:11.826524+00:00"
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-les-stocks-de-missiles-patriot-presque-epuises-la-defense-aerienne-de-kiev-en-difficulte_8240479.html": "2026-10-16T16:44:17.140177+00:00",
+  "https://www.franceinfo.fr/monde/royaume-uni/mariage-d-harry-et-meghan/meghan-et-harry-de-retour-au-royaume-uni-une-premiere-apparition-publique-a-nottingham_8240437.html": "2026-10-16T16:44:17.140177+00:00",
+  "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/ca-devient-extremement-complique-de-trouver-des-volontaires-pour-aller-dans-le-detroit-d-ormuz-selon-la-cgt-des-officiers-de-la-marine-marchande_8240488.html": "2026-10-16T16:44:17.140177+00:00",
+  "https://www.franceinfo.fr/monde/iran/crise-dans-le-detroit-d-ormuz/dans-le-detroit-d-ormuz-les-attaques-contre-les-navires-s-intensifient-le-trafic-petrolier-ralentit_8240362.html": "2026-10-16T16:44:17.140177+00:00",
+  "https://www.franceinfo.fr/monde/europe/belgique/je-vis-ca-comme-une-humiliation-une-injustice-en-belgique-les-beneficiaires-des-minimas-sociaux-sont-desormais-plus-nombreux-que-les-chomeurs_8240377.html": "2026-10-16T16:44:17.140177+00:00",
+  "https://www.franceinfo.fr/replay-jt/france-2/13-heures/etats-unis-une-fusillade-dans-l-oregon-fait-au-moins-4-morts-dans-une-ecole_8240383.html": "2026-10-16T16:44:17.140177+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-volodymyr-zelensky-reclame-a-l-union-europeenne-70-milliards-d-euros-supplementaires-en-2027_8240332.html": "2026-10-16T16:44:17.140177+00:00",
+  "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/les-examens-confirment-une-amelioration-constante-de-la-sante-du-pape-leon-xiv-annonce-le-vatican_8240311.html": "2026-10-16T16:44:17.140177+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "\"Nous ne pouvons plus financièrement aider l'Ukraine\", affirme Laure Lavalette, porte-parole du Rassemblement national Laure Lavalette, députée RN du Var et porte-parole du Rassemblement national. Aujourd'hui 1:02 vidéo 1 minute 2",
+   "title": "Guerre en Ukraine : les stocks de missiles Patriot presque épuisés, la défense aérienne de Kiev en difficulté Volodymyr Zelensky s'affaire à Bruxelles pour renforcer le soutien européen, vendredi. Parallèlement, des médias américains indiquent que l'Ukraine est à cours de défense aérienne. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-les-stocks-de-missiles-patriot-presque-epuises-la-defense-aerienne-de-kiev-en-difficulte_8240479.html",
+   "summary": "Guerre en Ukraine : les stocks de missiles Patriot presque épuisés, la défense aérienne de Kiev en difficulté",
+   "image": "https://www.franceinfo.fr/pictures/ZIAKiGwu2gYlbAPHzK9kFWvAkVk/0x8:1024x712/432x297/filters:format(jpg)/2026/10/16/6ad23ab7d9fc2628175927.jpg",
+   "date": null,
+   "pubdate": "2026-10-16T16:44:17.140177+00:00"
+  },
+  {
+   "title": "1:51 vidéo 1 minute 51 Meghan et Harry de retour au Royaume-Uni, une première apparition publique à Nottingham",
+   "link": "https://www.franceinfo.fr/monde/royaume-uni/mariage-d-harry-et-meghan/meghan-et-harry-de-retour-au-royaume-uni-une-premiere-apparition-publique-a-nottingham_8240437.html",
+   "summary": "Meghan et Harry de retour au Royaume-Uni, une première apparition publique à Nottingham",
+   "image": "https://www.franceinfo.fr/pictures/zCspcmWWLU18aWEtvLGFeAkhPzw/0x97:1302x830/432x243/filters:format(jpg)/2026/10/16/6ad231f3a1c48831396739.png",
+   "date": null,
+   "pubdate": "2026-10-16T16:44:17.140177+00:00"
+  },
+  {
+   "title": "\"Ça devient extrêmement compliqué de trouver des volontaires\" pour aller dans le détroit d'Ormuz, selon la CGT des officiers de la marine marchande",
+   "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/ca-devient-extremement-complique-de-trouver-des-volontaires-pour-aller-dans-le-detroit-d-ormuz-selon-la-cgt-des-officiers-de-la-marine-marchande_8240488.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/8Tt100IeITwaQQ2zAfAH9mhhazs/0x156:3000x1844/432x243/filters:format(jpg)/2026/07/13/6a547d4a02d76184289292.jpg",
+   "date": null,
+   "pubdate": "2026-10-16T16:44:17.140177+00:00"
+  },
+  {
+   "title": "Dans le détroit d'Ormuz, les attaques contre les navires s'intensifient, le trafic pétrolier ralentit",
+   "link": "https://www.franceinfo.fr/monde/iran/crise-dans-le-detroit-d-ormuz/dans-le-detroit-d-ormuz-les-attaques-contre-les-navires-s-intensifient-le-trafic-petrolier-ralentit_8240362.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/SfuJ5AoH0dnATYS5WOD8IVEcke4/0x53:1024x629/432x243/filters:format(jpg)/2026/10/16/6ad232ce97084903576979.jpg",
+   "date": null,
+   "pubdate": "2026-10-16T16:44:17.140177+00:00"
+  },
+  {
+   "title": "\"Je vis ça comme une humiliation, une injustice\" : en Belgique, les bénéficiaires des minimas sociaux sont désormais plus nombreux que les chômeurs",
+   "link": "https://www.franceinfo.fr/monde/europe/belgique/je-vis-ca-comme-une-humiliation-une-injustice-en-belgique-les-beneficiaires-des-minimas-sociaux-sont-desormais-plus-nombreux-que-les-chomeurs_8240377.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/XU8Hd6-WVKn6CTxHT45BM4cGtjM/0x388:7467x4589/432x243/filters:format(jpg)/2026/10/16/6ad22b2de69d9902499123.jpg",
+   "date": null,
+   "pubdate": "2026-10-16T16:44:17.140177+00:00"
+  },
+  {
+   "title": "1:37 vidéo 1 minute 37 États-Unis : une fusillade dans l'Oregon fait au moins quatre morts dans une école",
+   "link": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/etats-unis-une-fusillade-dans-l-oregon-fait-au-moins-4-morts-dans-une-ecole_8240383.html",
+   "summary": "États-Unis : une fusillade dans l'Oregon fait au moins quatre morts dans une école",
+   "image": "https://www.franceinfo.fr/pictures/NnWRkvrisXCn8GUte1wJF1Wc_14/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/16/6ad228340fd90072187213.jpg",
+   "date": null,
+   "pubdate": "2026-10-16T16:44:17.140177+00:00"
+  },
+  {
+   "title": "Guerre en Ukraine : Volodymyr Zelensky demande à l'Union européenne 70 milliards d'euros d'aide supplémentaires en 2027",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-volodymyr-zelensky-reclame-a-l-union-europeenne-70-milliards-d-euros-supplementaires-en-2027_8240332.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/qUBQGG9BYEQUm0aAKTwOUbktfWQ/0x93:1024x669/432x243/filters:format(jpg)/2026/10/16/6ad21f8ede439391699946.jpg",
+   "date": null,
+   "pubdate": "2026-10-16T16:44:17.140177+00:00"
+  },
+  {
+   "title": "Les examens de santé du pape Léon XIV confirment une \"amélioration constante\" après son opération d'un nodule cancéreux, annonce le Vatican",
+   "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/les-examens-confirment-une-amelioration-constante-de-la-sante-du-pape-leon-xiv-annonce-le-vatican_8240311.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/SsDOtrbkj1LvNeZwUhadDp6W-K4/0x206:1200x881/432x243/filters:format(jpg)/2026/10/16/6ad219a4ba52e208694646.jpg",
+   "date": null,
+   "pubdate": "2026-10-16T16:44:17.140177+00:00"
+  },
+  {
+   "title": "1:02 vidéo 1 minute 2 \"Nous ne pouvons plus financièrement aider l'Ukraine\", affirme Laure Lavalette, porte-parole du Rassemblement national",
    "link": "https://www.franceinfo.fr/politique/marine-le-pen/nous-ne-pouvons-plus-financierement-aider-l-ukraine-affirme-laure-lavalette-porte-parole-du-rassemblement-national_8240248.html",
    "summary": "\"Nous ne pouvons plus financièrement aider l'Ukraine\", affirme Laure Lavalette, porte-parole du Rassemblement national",
-   "image": "https://www.franceinfo.fr/pictures/5d7y2_a52Fucz2k6OGWfD3o_JaY/0x0:900x1600/fit-in/432x297/filters:upscale():fill(blur):format(jpg)/2026/10/16/6ad20901d1439521341649.jpg",
+   "image": "https://www.franceinfo.fr/pictures/La23Od5wPJvZAFeVXU0VUKO6wLE/0x0:900x1600/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/16/6ad20901d1439521341649.jpg",
    "date": null,
    "pubdate": "2026-10-16T11:32:11.826524+00:00"
   },
@@ -50,31 +116,31 @@
    "pubdate": "2026-10-16T11:32:11.826524+00:00"
   },
   {
-   "title": "1:12 vidéo 1 minute 12 Prime grands rouleurs : qui est désormais concerné par le versement de l'aide aux carburants, versée dès ce vendredi ?",
-   "link": "https://www.franceinfo.fr/economie/automobile/essence/prime-grands-rouleurs-qui-est-desormais-concerne-par-le-versement-de-l-aide-aux-carburants-versee-des-ce-vendredi_8239975.html",
-   "summary": "Prime grands rouleurs : qui est désormais concerné par le versement de l'aide aux carburants, versée dès ce vendredi ?",
-   "image": "https://www.franceinfo.fr/pictures/RcU1XPyBTlKof5yrOKBbmlxyDBQ/122x0:1237x627/432x243/filters:format(jpg)/2026/10/16/6ad1edbdd0c10782608114.jpg",
+   "title": "5:30 vidéo 5 minutes 30 DOCUMENT FRANCETV. \"Vous devenez fou\" : Cécile Kohler et Jacques Paris racontent la \"torture blanche\", la méthode du régime iranien pour \"briser votre esprit\"",
+   "link": "https://www.franceinfo.fr/replay-magazine/france-2/envoye-special/video-vous-devenez-fou-cecile-kohler-et-jacques-paris-racontent-la-torture-blanche-la-methode-du-regime-iranien-pour-briser-votre-esprit_8236993.html",
+   "summary": "DOCUMENT FRANCETV. \"Vous devenez fou\" : Cécile Kohler et Jacques Paris racontent la \"torture blanche\", la méthode du régime iranien pour \"briser votre esprit\"",
+   "image": "https://www.franceinfo.fr/pictures/dWA5G68ZwJprnFwRyjHteu6fx4M/420x0:1500x1080/100x100/filters:format(jpg)/2026/10/15/6ad0e2db68fc9731235357.jpg",
    "date": null,
    "pubdate": "2026-10-16T11:32:11.826524+00:00"
   },
   {
-   "title": "Le RN critique la \"condescendance\" de Volodymyr Zelensky après des échanges avec Marine Le Pen sur les aides à l'Ukraine",
+   "title": "Le RN critique la \"condescendance\" de Volodymyr Zelensky après des échanges avec Marine Le Pen sur les aides à l'Ukraine \"Madame Le Pen ne maîtrise pas bien certains détails\", a déclaré le président ukrainien, en réponse à la candidate d'extrême droite à la présidentielle, qui entend mettre fin à l'aide financière de la France si elle est élue.",
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/le-rn-critique-la-condescendance-de-volodymyr-zelensky-apres-les-echanges-sur-le-financement-de-l-ukraine_8239885.html",
-   "summary": "",
+   "summary": "Le RN critique la \"condescendance\" de Volodymyr Zelensky après des échanges avec Marine Le Pen sur les aides à l'Ukraine",
    "image": "https://www.franceinfo.fr/pictures/-rOGHfzd3U6VDpDGcII_oZqzrqU/0x0:6336x3564/432x243/filters:format(jpg)/2026/10/16/6ad1ebb7defa7139608344.jpg",
    "date": null,
    "pubdate": "2026-10-16T11:32:11.826524+00:00"
   },
   {
-   "title": "Quatre hommes sont morts en luttant contre les incendies dans un parc national indonésien",
+   "title": "Quatre hommes sont morts en luttant contre les incendies dans un parc national indonésien Dans le pays, les feux ont déjà dévoré des forêts et tourbières à Bornéo, Sumatra et en Papouasie.",
    "link": "https://www.franceinfo.fr/monde/asie/quatre-hommes-sont-morts-en-luttant-contre-les-incendies-dans-un-parc-national-indonesien_8239774.html",
-   "summary": "",
+   "summary": "Quatre hommes sont morts en luttant contre les incendies dans un parc national indonésien",
    "image": "https://www.franceinfo.fr/pictures/y_bk9Vs_15j_0qgze9hUkvtjJxM/0x625:6000x4000/432x243/filters:format(jpg)/2026/10/16/6ad1e8f615119563148332.jpg",
    "date": null,
    "pubdate": "2026-10-16T11:32:11.826524+00:00"
   },
   {
-   "title": "2:34 audio 2 minutes 34 En Corée du Sud, la solitude devient tendance sur les réseaux sociaux",
+   "title": "2:34 audio 2 minutes 34 En Corée du Sud, la solitude devient tendance sur les réseaux sociaux Les influenceurs de la vie en solo sont de plus en plus nombreux en Corée du Sud. Ils documentent leur quotidien de célibataires heureux et attirent un nombre croissant d'abonnés qui s'identifient à leur mode de vie.",
    "link": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/en-coree-du-sud-la-solitude-devient-tendance-sur-les-reseaux-sociaux_8219005.html",
    "summary": "En Corée du Sud, la solitude devient tendance sur les réseaux sociaux",
    "image": "https://www.franceinfo.fr/pictures/BWlq8L1KbZH3_58Q0Ak_FA4rKSU/0x110:2121x1303/432x243/filters:format(jpg)/2026/10/16/6ad1dce781f6e024946349.jpg",
@@ -82,7 +148,7 @@
    "pubdate": "2026-10-16T11:32:11.826524+00:00"
   },
   {
-   "title": ": Reportage : Reportage \"Nous n'avons nulle part où mettre nos enfants en sécurité\" : à Kiev, l'inquiétude des Ukrainiens face au manque d'abris antiaériens",
+   "title": ": Reportage \"Nous n'avons nulle part où mettre nos enfants en sécurité\" : à Kiev, l'inquiétude des Ukrainiens face au manque d'abris antiaériens Les frappes russes s'intensifient sur Kiev, sur fond de tensions avec Washington. Vétustes, mal aménagés ou inexistants, la capitale ukrainienne manque d'abris antiaériens adaptés pour protéger sa population.",
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/reportage-nous-n-avons-nulle-part-ou-mettre-nos-enfants-en-securite-a-kiev-l-inquietude-des-ukrainiens-face-au-manque-d-abris-antiaeriens_8239864.html",
    "summary": "\"Nous n'avons nulle part où mettre nos enfants en sécurité\" : à Kiev, l'inquiétude des Ukrainiens face au manque d'abris antiaériens",
    "image": "https://www.franceinfo.fr/pictures/MpatnUC9M6OrjiMekFfBUgRkNYM/0x315:6048x3717/432x243/filters:format(jpg)/2026/10/16/6ad1e1029632b942543566.jpg",
@@ -90,26 +156,10 @@
    "pubdate": "2026-10-16T11:32:11.826524+00:00"
   },
   {
-   "title": "\"Vous pouvez compter sur nous\" : l'UE réaffirme son soutien à l'Ukraine après les attaques de Donald Trump contre Volodymyr Zelensky",
+   "title": "\"Vous pouvez compter sur nous\" : l'UE réaffirme son soutien à l'Ukraine après les attaques de Donald Trump contre Volodymyr Zelensky Le président ukrainien est en visite à Bruxelles pour un sommet des Vingt-Sept.",
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/ce-n-est-pas-le-moment-de-cesser-d-aider-l-ukraine-previent-l-union-europeenne_8239888.html",
-   "summary": "",
+   "summary": "\"Vous pouvez compter sur nous\" : l'UE réaffirme son soutien à l'Ukraine après les attaques de Donald Trump contre Volodymyr Zelensky",
    "image": "https://www.franceinfo.fr/pictures/C1M8wObD4d6LgGQanWK2rnSfZmU/0x0:4128x2322/432x243/filters:format(jpg)/2026/10/16/6ad1df88c9d0e684303129.jpg",
-   "date": null,
-   "pubdate": "2026-10-16T11:32:11.826524+00:00"
-  },
-  {
-   "title": "1:11 vidéo 1 minute 11 Donald Trump renonce à diffuser une exécution en direct",
-   "link": "https://www.franceinfo.fr/monde/usa/donald-trump-renonce-a-diffuser-une-execution-en-direct_8239900.html",
-   "summary": "Donald Trump renonce à diffuser une exécution en direct",
-   "image": "https://www.franceinfo.fr/pictures/bU2i9TTPz6A4FmKvnYrGpt6MKU8/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/16/6ad1df4a712dc312561721.png",
-   "date": null,
-   "pubdate": "2026-10-16T11:32:11.826524+00:00"
-  },
-  {
-   "title": "5:30 vidéo 5 minutes 30 DOCUMENT FRANCETV. \"Vous devenez fou\" : Cécile Kohler et Jacques Paris racontent la \"torture blanche\", la méthode du régime iranien pour \"briser votre esprit\"",
-   "link": "https://www.franceinfo.fr/replay-magazine/france-2/envoye-special/video-vous-devenez-fou-cecile-kohler-et-jacques-paris-racontent-la-torture-blanche-la-methode-du-regime-iranien-pour-briser-votre-esprit_8236993.html",
-   "summary": "DOCUMENT FRANCETV. \"Vous devenez fou\" : Cécile Kohler et Jacques Paris racontent la \"torture blanche\", la méthode du régime iranien pour \"briser votre esprit\"",
-   "image": "https://www.franceinfo.fr/pictures/dWA5G68ZwJprnFwRyjHteu6fx4M/420x0:1500x1080/100x100/filters:format(jpg)/2026/10/15/6ad0e2db68fc9731235357.jpg",
    "date": null,
    "pubdate": "2026-10-16T11:32:11.826524+00:00"
   },
@@ -154,15 +204,7 @@
    "pubdate": "2026-10-16T11:32:11.826524+00:00"
   },
   {
-   "title": "2:04 vidéo 2 minutes 4 De TikTok aux côtes anglaises, le nouveau front anti-migrant De TikTok aux falaises de Douvres, une nouvelle génération de militants opposés à l’immigration transforme la contestation en activisme de terrain. De Belfast à la côte sud de l’Angleterre, plusieurs groupes se sont structurés ou développés depuis l’été 2025. Qui sont-ils ? Comment s’organisent-ils ? Et que révèle cette mobilisation sur le débat autour de l’immigration au Royaume-Uni ?",
-   "link": "https://www.franceinfo.fr/monde/de-tiktok-aux-cotes-anglaises-le-nouveau-front-anti-migrant_8239006.html",
-   "summary": "De TikTok aux côtes anglaises, le nouveau front anti-migrant",
-   "image": "https://www.franceinfo.fr/pictures/tadNxnzg-M_QQi4MgiqzggS0Prw/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/15/6ad0f177e2c58649379658.jpg",
-   "date": null,
-   "pubdate": "2026-10-16T11:32:11.826524+00:00"
-  },
-  {
-   "title": "20:25 audio 20 minutes 25 Les informés du matin du vendredi 16 octobre 2026",
+   "title": "20:25 audio 20 minutes 25 Les informés du matin du vendredi 16 octobre 2026 Les informés débattent de l'actualité autour de Benjamin Recouvreur et Paul Barcelonne.",
    "link": "https://www.franceinfo.fr/replay-radio/les-informes-du-matin/les-informes-du-matin-du-vendredi-16-octobre-2026_8219002.html",
    "summary": "Les informés du matin du vendredi 16 octobre 2026",
    "image": "https://www.franceinfo.fr/pictures/tIEelbHfxM8C69D7JxqJ-Paxd0c/0x157:3264x1991/432x243/filters:format(jpg)/2021/09/06/phpZF0eJ2.jpg",
@@ -190,14 +232,6 @@
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/donald-trump-juge-que-la-reprise-par-l-ukraine-des-frappes-sur-les-raffineries-russes-est-une-honte_8239546.html",
    "summary": "Donald Trump juge que la reprise par l'Ukraine des frappes sur les raffineries russes est une \"honte\"",
    "image": "https://www.franceinfo.fr/pictures/Uol2wjigObnSpHUcEsyR_vaKKcc/0x0:7497x4217/432x243/filters:format(jpg)/2026/10/16/6ad1a6c0b0e11045179643.jpg",
-   "date": null,
-   "pubdate": "2026-10-16T04:39:02.246727+00:00"
-  },
-  {
-   "title": "Aux Etats-Unis, un adolescent de 16 ans tue trois enfants et un enseignant dans une école primaire de l'Oregon Le tireur a été abattu par un passant armé qu'il l'a vu \"pénétrer dans l'école\" et l'a \"poursuivi à l'intérieur\", a raconté le chef de la police de la ville de Bend.",
-   "link": "https://www.franceinfo.fr/monde/usa/un-tireur-fait-plusieurs-victimes-dans-une-ecole-primaire-de-l-oregon-aux-etats-unis_8239228.html",
-   "summary": "Aux Etats-Unis, un adolescent de 16 ans tue trois enfants et un enseignant dans une école primaire de l'Oregon",
-   "image": "https://www.franceinfo.fr/pictures/DUnpgiilyAvueJiJeRkYhV5RnRk/0x793:8021x5305/432x243/filters:format(jpg)/2026/10/16/6ad1c8ba08066516471835.jpg",
    "date": null,
    "pubdate": "2026-10-16T04:39:02.246727+00:00"
   },
@@ -238,22 +272,6 @@
    "link": "https://www.franceinfo.fr/monde/usa/affaire-jeffrey-epstein/l-essentiel-des-revelations-sur-l-affaire-epstein/",
    "summary": "L'essentiel des révélations sur l'affaire Epstein",
    "image": "https://www.franceinfo.fr/pictures/btENVL4vmQDLNvnJ4uUtTATvN9k/432x297/filters:format(jpg)/2026/02/12/000-96rl2gk-1-698def9a11d8a867290796.jpg",
-   "date": null,
-   "pubdate": "2026-10-13T16:59:12.273963+00:00"
-  },
-  {
-   "title": ": Témoignages 4:20 audio 4 minutes 20 : Témoignages \"Il y a un sentiment de désespoir qui monte chez tout le monde\" : un an après le cessez-le-feu à Gaza, le processus de paix est au point mort",
-   "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-il-y-a-un-sentiment-de-desespoir-qui-monte-chez-tout-le-monde-un-an-apres-le-cessez-le-feu-a-gaza-le-processus-de-paix-est-au-point-mort_8210456.html",
-   "summary": "\"Il y a un sentiment de désespoir qui monte chez tout le monde\" : un an après le cessez-le-feu à Gaza, le processus de paix est au point mort",
-   "image": "https://www.franceinfo.fr/pictures/tsxtVJjfFkt7Hqmq3MeMXc3BaWg/1000x0:5000x4000/100x100/filters:format(jpg)/2026/10/09/6ac9388aa6eb2825054120.jpg",
-   "date": null,
-   "pubdate": "2026-10-13T16:59:12.273963+00:00"
-  },
-  {
-   "title": "8:00 article 8 minutes \"Ils déblaient à la main\" : trois ans après le début de la guerre à Gaza, les Palestiniens toujours contraints de vivre dans les ruines et le dénuement",
-   "link": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/ils-deblaient-a-la-main-trois-ans-apres-le-debut-de-la-guerre-a-gaza-les-palestiniens-toujours-contraints-de-vivre-dans-les-ruines-et-le-denuement_8219863.html",
-   "summary": "\"Ils déblaient à la main\" : trois ans après le début de la guerre à Gaza, les Palestiniens toujours contraints de vivre dans les ruines et le dénuement",
-   "image": "https://www.franceinfo.fr/pictures/oo5XSG4Vkm9Zg_3NGhyEH8SPdI0/160x0:842x682/100x100/filters:format(jpg)/2026/10/06/6ac4bc9065149963114867.jpg",
    "date": null,
    "pubdate": "2026-10-13T16:59:12.273963+00:00"
   }
