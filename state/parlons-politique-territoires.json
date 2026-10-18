@@ -2,8 +2,6 @@
  "etag": "",
  "last_modified": "",
  "first_seen": {
-  "https://www.parlons-politique.fr/politique-locale/le-jumelage-entre-saint-etienne-et-wuppertal-peut-il-depasser-les-visites-officielles-et-profiter-a-davantage-dhabitants_28952/": "2026-10-19T11:00:00+00:00",
-  "https://www.parlons-politique.fr/politique-locale/en-vendee-le-recours-de-stephane-ibarra-met-a-lepreuve-la-validite-du-troisieme-siege-senatorial-de-la-droite_28942/": "2026-10-08T18:53:12.711860+00:00",
   "https://www.parlons-politique.fr/politique-locale/a-saint-denis-labstention-de-la-majorite-interroge-sur-les-moyens-concrets-de-lutter-contre-lexcision_29120/": "2026-10-10T17:22:19.274322+00:00",
   "https://www.parlons-politique.fr/ephemerides/le-11-octobre-1795-paris-divise-en-douze-municipalites-une-capitale-tenue-a-distance-du-pouvoir-local_28989/": "1795-10-11T11:00:00+00:00",
   "https://www.parlons-politique.fr/politique-locale/aide-aux-communes-rurales-les-criteres-decideront-si-les-50-millions-changent-vraiment-le-quotidien-des-villages_29149/": "2026-10-11T19:35:23.621941+00:00",
@@ -13,17 +11,27 @@
   "https://www.parlons-politique.fr/politique-locale/a-montpellier-un-salarie-de-la-mairie-peut-il-sieger-au-conseil-municipal-la-justice-tranche-sur-leligibilite-des-elus_29286/": "2026-10-13T16:59:04.088826+00:00",
   "https://www.parlons-politique.fr/politique-locale/budget-des-departements-les-choix-de-letat-peseront-sur-les-aides-sociales-et-les-services-de-proximite_29450/": "2026-10-15T21:29:09.150465+00:00",
   "https://www.parlons-politique.fr/politique-locale/dans-les-pays-de-la-loire-les-economies-de-christelle-morancais-interrogent-le-prix-paye-par-les-acteurs-locaux_29454/": "2026-10-16T11:32:02.811425+00:00",
-  "https://www.parlons-politique.fr/politique-locale/budget-des-departements-les-economies-de-letat-menacent-elles-les-aides-et-les-services-pres-de-chez-vous_29543/": "2026-10-18T11:16:42.430225+00:00"
+  "https://www.parlons-politique.fr/politique-locale/budget-des-departements-les-economies-de-letat-menacent-elles-les-aides-et-les-services-pres-de-chez-vous_29543/": "2026-10-18T11:16:42.430225+00:00",
+  "https://www.parlons-politique.fr/politique-locale/apres-les-degradations-du-17-octobre-les-maires-veulent-proteger-les-services-publics-sans-etouffer-la-contestation_29575/": "2026-10-18T15:56:25.818287+00:00",
+  "https://www.parlons-politique.fr/politique-locale/apres-les-pillages-a-paris-les-moyens-policiers-en-debat-pour-proteger-les-habitants-sans-restreindre-le-droit-de-manifester_29569/": "2026-10-18T15:56:25.818287+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "Le jumelage entre Saint-Étienne et Wuppertal peut-il dépasser les visites officielles et profiter à davantage d’habitants ?",
-   "link": "https://www.parlons-politique.fr/politique-locale/le-jumelage-entre-saint-etienne-et-wuppertal-peut-il-depasser-les-visites-officielles-et-profiter-a-davantage-dhabitants_28952/",
-   "summary": "La maire de Wuppertal sera à Saint-Étienne du 16 au 19 octobre 2026 pour discuter de l’avenir du jumelage et découvrir plusieurs…",
-   "image": "https://www.parlons-politique.fr/wp-content/uploads/2026/10/concert-jumelage-eglise-600x400.webp",
-   "date": "2026-10-19T11:00:00+00:00",
-   "pubdate": "2026-10-19T11:00:00+00:00"
+   "title": "Après les dégradations du 17 octobre, les maires veulent protéger les services publics sans étouffer la contestation",
+   "link": "https://www.parlons-politique.fr/politique-locale/apres-les-degradations-du-17-octobre-les-maires-veulent-proteger-les-services-publics-sans-etouffer-la-contestation_29575/",
+   "summary": "L’Association des maires de France appelle élus et habitants à se rassembler devant les mairies après les violences du 17 octobre. L’enjeu…",
+   "image": "https://www.parlons-politique.fr/wp-content/uploads/2026/10/entree-mairie-degradee-600x400.webp",
+   "date": null,
+   "pubdate": "2026-10-18T15:56:25.818287+00:00"
+  },
+  {
+   "title": "Après les pillages à Paris, les moyens policiers en débat pour protéger les habitants sans restreindre le droit de manifester",
+   "link": "https://www.parlons-politique.fr/politique-locale/apres-les-pillages-a-paris-les-moyens-policiers-en-debat-pour-proteger-les-habitants-sans-restreindre-le-droit-de-manifester_29569/",
+   "summary": "Après les violences du 17 octobre, Lamia El Aaraje dénonce un manque de moyens policiers à Paris. Les 855 interpellations annoncées relancent…",
+   "image": "https://www.parlons-politique.fr/wp-content/uploads/2026/10/entree-mairie-paris-600x400.webp",
+   "date": null,
+   "pubdate": "2026-10-18T15:56:25.818287+00:00"
   },
   {
    "title": "Budget des départements : les économies de l’État menacent-elles les aides et les services près de chez vous ?",
@@ -88,14 +96,6 @@
    "image": "https://www.parlons-politique.fr/wp-content/uploads/2026/10/salle-conseil-municipal-1-600x400.webp",
    "date": null,
    "pubdate": "2026-10-10T17:22:19.274322+00:00"
-  },
-  {
-   "title": "En Vendée, le recours de Stéphane Ibarra met à l’épreuve la validité du troisième siège sénatorial de la droite",
-   "link": "https://www.parlons-politique.fr/politique-locale/en-vendee-le-recours-de-stephane-ibarra-met-a-lepreuve-la-validite-du-troisieme-siege-senatorial-de-la-droite_28942/",
-   "summary": "Stéphane Ibarra conteste les conditions des sénatoriales en Vendée, où la liste de Bruno Retailleau a remporté les trois sièges. Le Conseil…",
-   "image": "https://www.parlons-politique.fr/wp-content/uploads/2026/10/documents-campagne-vendee-600x400.webp",
-   "date": null,
-   "pubdate": "2026-10-08T18:53:12.711860+00:00"
   },
   {
    "title": "Le 11 octobre 1795 : Paris divisé en douze municipalités, une capitale tenue à distance du pouvoir local",
