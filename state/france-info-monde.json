@@ -1,5 +1,5 @@
 {
- "etag": "\"50097d796401beaf62391aac943fbee9-gzip\"",
+ "etag": "\"85769c4125ab39d45d070c2d7ef2ff90-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/replay-magazine/france-2/envoye-special/video-vous-devenez-fou-cecile-kohler-et-jacques-paris-racontent-la-torture-blanche-la-methode-du-regime-iranien-pour-briser-votre-esprit_8236993.html": "2026-10-16T11:32:11.826524+00:00",
@@ -27,12 +27,48 @@
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-ukraine-des-habitants-de-kiev-defilent-pour-reclamer-la-demission-du-maire-denoncant-une-gestion-totalement-irresponsable_8241928.html": "2026-10-17T20:40:59.474059+00:00",
   "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/l-inde-malgre-une-situation-politique-troublee-devrait-s-imposer-en-2027-comme-la-quatrieme-economie-mondiale_8220598.html": "2026-10-17T20:40:59.474059+00:00",
   "https://www.franceinfo.fr/monde/israel/des-colons-israeliens-attaquent-un-convoi-diplomatique-europeen-en-cisjordanie-et-frappent-un-maire-francais_8241916.html": "2026-10-17T20:40:59.474059+00:00",
-  "https://www.franceinfo.fr/monde/iran/deux-petroliers-ont-pris-feu-apres-avoir-heurte-des-mines-dans-le-detroit-d-ormuz-annonce-l-iran_8241904.html": "2026-10-17T20:40:59.474059+00:00"
+  "https://www.franceinfo.fr/monde/iran/deux-petroliers-ont-pris-feu-apres-avoir-heurte-des-mines-dans-le-detroit-d-ormuz-annonce-l-iran_8241904.html": "2026-10-17T20:40:59.474059+00:00",
+  "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/leon-xiv-en-france-retrouvez-l-essentiel/": "2026-10-18T04:41:37.812725+00:00",
+  "https://www.franceinfo.fr/monde/usa/affaire-jeffrey-epstein/l-essentiel-des-revelations-sur-l-affaire-epstein/": "2026-10-18T04:41:37.812725+00:00",
+  "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/tout-comprendre-a-la-guerre-au-moyen-orient/": "2026-10-18T04:41:37.812725+00:00",
+  "https://www.franceinfo.fr/monde/groenland/le-groenland-au-c-ur-d-un-bras-de-fer-geopolitique/": "2026-10-18T04:41:37.812725+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "\"Nous, les Européens\". L'art de vivre à l'italienne Grand reportage, invités et actualité européenne sont au sommaire de ce magazine d'information, présenté par Eléonore Gay et diffusé le dimanche à midi sur France 3 ainsi que le jeudi en fin de soirée sur France 2. 18 octobre 30:00 vidéo 30 minutes",
+   "title": "Léon XIV en France : l'essentiel de la visite du pape 15 contenus",
+   "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/leon-xiv-en-france-retrouvez-l-essentiel/",
+   "summary": "Léon XIV en France : l'essentiel de la visite du pape",
+   "image": "https://www.franceinfo.fr/pictures/bgiweXyFgu0BUNMikE3oBZK0JG4/432x297/filters:format(jpg)/2026/09/24/6ab4f4233a728679965697.jpg",
+   "date": null,
+   "pubdate": "2026-10-18T04:41:37.812725+00:00"
+  },
+  {
+   "title": "L'essentiel des révélations sur l'affaire Epstein 14 contenus",
+   "link": "https://www.franceinfo.fr/monde/usa/affaire-jeffrey-epstein/l-essentiel-des-revelations-sur-l-affaire-epstein/",
+   "summary": "L'essentiel des révélations sur l'affaire Epstein",
+   "image": "https://www.franceinfo.fr/pictures/btENVL4vmQDLNvnJ4uUtTATvN9k/432x297/filters:format(jpg)/2026/02/12/000-96rl2gk-1-698def9a11d8a867290796.jpg",
+   "date": null,
+   "pubdate": "2026-10-18T04:41:37.812725+00:00"
+  },
+  {
+   "title": "Tout comprendre à la guerre au Moyen-Orient 27 contenus",
+   "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/tout-comprendre-a-la-guerre-au-moyen-orient/",
+   "summary": "Tout comprendre à la guerre au Moyen-Orient",
+   "image": "https://www.franceinfo.fr/pictures/1mjbL6KrEfhdf8kkM-fiwv8Aqs4/432x297/filters:format(jpg)/2026/03/01/075-nikoubazl-mourning260301-npgop-69a44a7350cd8738092334.jpg",
+   "date": null,
+   "pubdate": "2026-10-18T04:41:37.812725+00:00"
+  },
+  {
+   "title": "Le Groenland au cœur d'un bras de fer géopolitique 15 contenus",
+   "link": "https://www.franceinfo.fr/monde/groenland/le-groenland-au-c-ur-d-un-bras-de-fer-geopolitique/",
+   "summary": "Le Groenland au cœur d'un bras de fer géopolitique",
+   "image": "https://www.franceinfo.fr/pictures/MKq4Aviz_2Dt7XVuO__X2DAEw5M/432x297/filters:format(jpg)/2026/01/22/043-sw-js9nbczzm6o-697245bf34b52414921393.jpg",
+   "date": null,
+   "pubdate": "2026-10-18T04:41:37.812725+00:00"
+  },
+  {
+   "title": "\"Nous, les Européens\". L'art de vivre à l'italienne Grand reportage, invités et actualité européenne sont au sommaire de ce magazine d'information, présenté par Eléonore Gay et diffusé le dimanche à midi sur France 3 ainsi que le jeudi en fin de soirée sur France 2. Aujourd'hui 30:00 vidéo 30 minutes",
    "link": "https://www.franceinfo.fr/replay-magazine/france-2/nous-les-europeens/nous-les-europeens-l-art-de-vivre-a-l-italienne_8217424.html",
    "summary": "\"Nous, les Européens\". L'art de vivre à l'italienne",
    "image": "https://www.franceinfo.fr/pictures/6wi3eRsqcQm8c79PQjOe-zeNRss/174x0:1745x1080/432x297/filters:format(jpg)/2025/09/04/image-9-68b95d761e1d5312378794.jpg",
