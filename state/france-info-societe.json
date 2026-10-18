@@ -1,5 +1,5 @@
 {
- "etag": "\"e62fd38a7416e22e22ea37dd91568b85-gzip\"",
+ "etag": "\"219d0057627f5ec6041dd582460ac0b1-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-un-moment-pour-le-blocus-un-autre-pour-les-cours-en-marge-des-mobilisations-les-lyceens-tentent-de-limiter-le-retard-pris-sur-les-programmes_8201624.html": "2026-10-11T12:59:27.110656+00:00",
@@ -10,7 +10,6 @@
   "https://www.franceinfo.fr/societe/euthanasie/comprendre-les-debats-sur-la-fin-de-vie/": "2026-10-17T10:51:54.861517+00:00",
   "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/les-grandes-arteres-commercantes-de-marseille-devalisees-a-80-le-17-octobre-selon-la-presidente-de-l-association-des-commercants-du-centre-ville_8242900.html": "2026-10-18T15:56:28.669320+00:00",
   "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/emmanuel-macron-s-adressera-aux-francais-ce-dimanche-a-20-heures-apres-les-violences-en-marge-de-la-mobilisation-du-17-octobre_8242876.html": "2026-10-18T15:56:28.669320+00:00",
-  "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/j-invite-chacun-a-venir-nous-aider-a-paris-lyon-et-limoges-des-riverains-se-mobilisent-pour-remettre-les-rues-en-etat-apres-les-manifestations-du-17-octobre_8242858.html": "2026-10-18T15:56:28.669320+00:00",
   "https://www.franceinfo.fr/replay-jt/france-2/20-heures/les-images-du-17-octobre-ont-fait-le-tour-du-monde_8243245.html": "2026-10-18T20:51:14.146243+00:00",
   "https://www.franceinfo.fr/replay-jt/france-2/20-heures/la-mobilisation-du-17-octobre-une-crise-politique-a-6-mois-de-la-presidentielle_8243230.html": "2026-10-18T20:51:14.146243+00:00",
   "https://www.franceinfo.fr/replay-jt/france-2/20-heures/violences-et-pillages-du-17-octobre-un-sentiment-de-gachis-pour-les-manifestants_8243212.html": "2026-10-18T20:51:14.146243+00:00",
@@ -20,22 +19,39 @@
   "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/si-c-est-la-seule-solution-pour-se-faire-entendre-je-les-encouragerai-les-24-heures-qui-ont-bouleverse-la-france_8243191.html": "2026-10-18T20:51:14.146243+00:00",
   "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/la-presidente-du-conseil-departemental-de-la-creuse-tient-emmanuel-macron-pour-responsable-de-ce-qui-se-passe-dans-notre-pays_8243152.html": "2026-10-18T20:51:14.146243+00:00",
   "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/mobilisation-du-17-octobre-tension-maximale-dans-les-centres-villes-des-grandes-villes-francaises_8243167.html": "2026-10-18T20:51:14.146243+00:00",
-  "https://www.franceinfo.fr/replay-jt/france-2/20-heures/les-maires-en-premiere-ligne-face-aux-degradations-du-17-octobre_8243185.html": "2026-10-18T20:51:14.146243+00:00",
   "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/de-nouveaux-heurts-et-des-magasins-pilles-a-paris-lyon-et-marseille-au-lendemain-de-la-manifestation-du-17-octobre_8243173.html": "2026-10-18T20:51:14.146243+00:00",
   "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/on-a-sous-evalue-le-nombre-de-casseurs-le-maintien-de-l-ordre-sous-le-feu-des-critiques-apres-les-violences-en-marge-de-la-mobilisation-du-17-octobre_8242750.html": "2026-10-18T20:51:14.146243+00:00",
   "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/sept-mille-personnes-se-sont-rassemblees-a-limoges-pour-une-marche-apres-l-incendie-de-l-hotel-de-ville-en-marge-de-la-mobilisation-du-17-octobre_8243089.html": "2026-10-18T20:51:14.146243+00:00",
   "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/plus-de-30-000-pilleurs-denombres-a-marseille-en-marge-de-la-manifestation-du-17-octobre-selon-la-prefecture-de-police-des-bouches-du-rhone_8243068.html": "2026-10-18T20:51:14.146243+00:00",
   "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/on-estime-a-une-cinquantaine-le-nombre-de-commerces-serieusement-impactes-par-la-mobilisation-du-17-octobre-a-bordeaux-annonce-le-president-de-la-cci_8243071.html": "2026-10-18T20:51:14.146243+00:00",
   "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/a-mulhouse-l-igpn-saisie-apres-qu-une-manifestante-mineure-a-perdu-l-usage-d-un-il_8242996.html": "2026-10-18T20:51:14.146243+00:00",
-  "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/l-association-des-maires-de-france-appelle-au-rassemblement-devant-les-mairies-lundi-midi-apres-les-violences-en-marge-de-la-mobilisation-du-17-octobre_8242981.html": "2026-10-18T20:51:14.146243+00:00"
+  "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/l-association-des-maires-de-france-appelle-au-rassemblement-devant-les-mairies-lundi-midi-apres-les-violences-en-marge-de-la-mobilisation-du-17-octobre_8242981.html": "2026-10-18T20:51:14.146243+00:00",
+  "https://www.franceinfo.fr/replay-jt/france-2/20-heures/immersion-au-c-ur-de-cette-journee-du-samedi-17-octobre-dans-la-capitale_8243251.html": "2026-10-18T23:19:00.987946+00:00",
+  "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/mobilisation-du-17-octobre-le-gouvernement-plus-que-jamais-sous-le-feu-des-critiques_8242816.html": "2026-10-18T23:19:00.987946+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "Les images du 17 octobre ont fait le tour du monde À Paris, Bordeaux, Lyon ou Marseille, des touristes étrangers se sont parfois retrouvés happés ou spectateurs des évènements du samedi 17 octobre. Les images ont fait le tour du monde avec les correspondants présents en France. Aujourd'hui 2:03 vidéo 2 minutes 3",
+   "title": "Immersion au cœur de cette journée du samedi 17 octobre dans la capitale Une équipe de France Télévisions était samedi 17 octobre en immersion au cœur de cette journée de mobilisation. Elle a assisté à cette bascule dans la violence désinhibée au cœur de la capitale. Aujourd'hui 11:30 vidéo 11 minutes 30",
+   "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/immersion-au-c-ur-de-cette-journee-du-samedi-17-octobre-dans-la-capitale_8243251.html",
+   "summary": "Immersion au cœur de cette journée du samedi 17 octobre dans la capitale",
+   "image": "https://www.franceinfo.fr/pictures/pE3YLPI5w0RxyXG4GqPluK6PAvw/174x0:1745x1080/432x297/filters:format(jpg)/2026/10/18/6ad53010d471c158107572.jpg",
+   "date": null,
+   "pubdate": "2026-10-18T23:19:00.987946+00:00"
+  },
+  {
+   "title": "1:49 vidéo 1 minute 49 Mobilisation du 17 octobre : le gouvernement plus que jamais sous le feu des critiques Les réactions politiques s'enchaînent, au lendemain de la mobilisation du samedi 17 octobre : Marine Tondelier, notamment, appelle à la démission du ministre de l'Intérieur, Laurent Nuñez. Le gouvernement, sous le feu des critiques, fait quant à lui porter la responsabilité à la France Insoumise.",
+   "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/mobilisation-du-17-octobre-le-gouvernement-plus-que-jamais-sous-le-feu-des-critiques_8242816.html",
+   "summary": "Mobilisation du 17 octobre : le gouvernement plus que jamais sous le feu des critiques",
+   "image": "https://www.franceinfo.fr/pictures/IbaKGj6A1YvE89bCzpyKyFBGYlQ/0x106:1474x935/432x243/filters:format(jpg)/2026/10/18/6ad4b9cef0d60301407473.png",
+   "date": null,
+   "pubdate": "2026-10-18T23:19:00.987946+00:00"
+  },
+  {
+   "title": "2:03 vidéo 2 minutes 3 Les images du 17 octobre ont fait le tour du monde",
    "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/les-images-du-17-octobre-ont-fait-le-tour-du-monde_8243245.html",
    "summary": "Les images du 17 octobre ont fait le tour du monde",
-   "image": "https://www.franceinfo.fr/pictures/8735rezSCE_RmT11KpqGlIF51tw/174x0:1745x1080/432x297/filters:format(jpg)/2026/10/18/6ad52c06111e5200255808.jpg",
+   "image": "https://www.franceinfo.fr/pictures/LEX1fxyUz9TknoyuOSSOn-Rp0K0/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/18/6ad52c06111e5200255808.jpg",
    "date": null,
    "pubdate": "2026-10-18T20:51:14.146243+00:00"
   },
@@ -100,14 +116,6 @@
    "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/mobilisation-du-17-octobre-tension-maximale-dans-les-centres-villes-des-grandes-villes-francaises_8243167.html",
    "summary": "Mobilisation du 17 octobre : tension maximale dans les centres-villes des grandes villes françaises",
    "image": "https://www.franceinfo.fr/pictures/YpdKbCLkPaBGcYYGq8QNiJAkCh4/0x70:1744x1051/432x243/filters:format(jpg)/2026/10/18/6ad50eb579261974118098.png",
-   "date": null,
-   "pubdate": "2026-10-18T20:51:14.146243+00:00"
-  },
-  {
-   "title": "2:17 vidéo 2 minutes 17 Les maires en première ligne face aux dégradations du 17 octobre",
-   "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/les-maires-en-premiere-ligne-face-aux-degradations-du-17-octobre_8243185.html",
-   "summary": "Les maires en première ligne face aux dégradations du 17 octobre",
-   "image": "https://www.franceinfo.fr/pictures/hadxA4YYHiWGie3UBM7ov39jAHo/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/18/6ad516abbba59564701525.jpg",
    "date": null,
    "pubdate": "2026-10-18T20:51:14.146243+00:00"
   },
@@ -180,14 +188,6 @@
    "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/emmanuel-macron-s-adressera-aux-francais-ce-dimanche-a-20-heures-apres-les-violences-en-marge-de-la-mobilisation-du-17-octobre_8242876.html",
    "summary": "Emmanuel Macron s'adressera aux Français ce dimanche à 20 heures, après les violences en marge de la mobilisation du 17 octobre",
    "image": "https://www.franceinfo.fr/pictures/bpLvL9dHgnkcmXHkAqa6ysPabEo/0x0:8100x4556/432x243/filters:format(jpg)/2026/10/18/6ad4a5420e6de080331716.jpg",
-   "date": null,
-   "pubdate": "2026-10-18T15:56:28.669320+00:00"
-  },
-  {
-   "title": "\"J'invite chacun à venir nous aider !\" : à Paris, Lyon et Limoges, des riverains se mobilisent pour remettre les rues en état après les violences du 17 octobre Des habitants ont notamment contribué à ramasser les déchets éparpillés place de la République, à Paris, selon des photos publiées par le maire de la capitale.",
-   "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/j-invite-chacun-a-venir-nous-aider-a-paris-lyon-et-limoges-des-riverains-se-mobilisent-pour-remettre-les-rues-en-etat-apres-les-manifestations-du-17-octobre_8242858.html",
-   "summary": "\"J'invite chacun à venir nous aider !\" : à Paris, Lyon et Limoges, des riverains se mobilisent pour remettre les rues en état après les violences du 17 octobre",
-   "image": "https://www.franceinfo.fr/pictures/ygRXpdFkTDtDXpp_rKbmpD3wP68/0x463:5892x3778/432x243/filters:format(jpg)/2026/10/18/6ad4ca8cdfa54556306837.jpg",
    "date": null,
    "pubdate": "2026-10-18T15:56:28.669320+00:00"
   },
