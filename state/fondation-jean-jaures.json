@@ -1,16 +1,32 @@
 {
  "etag": "",
- "last_modified": "Sun, 18 Oct 2026 14:45:57 GMT",
+ "last_modified": "Mon, 19 Oct 2026 12:04:22 GMT",
  "first_seen": {
-  "https://www.jean-jaures.org/publication/berlin-une-coalition-a-gauche-toute/": "2026-10-13T11:00:00+00:00",
-  "https://www.jean-jaures.org/publication/quand-letat-contraint-france-musique-a-jouer-une-fausse-note/": "2026-10-13T11:00:00+00:00",
   "https://www.jean-jaures.org/publication/les-apostats-renoncer-a-lislam/": "2026-10-14T11:00:00+00:00",
   "https://www.jean-jaures.org/publication/que-se-passerait-il-au-sein-de-letat-si-lextreme-droite-arrivait-au-pouvoir-en-france/": "2026-10-14T11:00:00+00:00",
   "https://www.jean-jaures.org/publication/france-mexique-ce-que-la-diplomatie-oublie-la-culture-le-retient/": "2026-10-15T11:00:00+00:00",
-  "https://www.jean-jaures.org/publication/colere-lyceenne-tf1-le-mauvais-eleve-des-jt/": "2026-10-16T11:00:00+00:00"
+  "https://www.jean-jaures.org/publication/colere-lyceenne-tf1-le-mauvais-eleve-des-jt/": "2026-10-16T11:00:00+00:00",
+  "https://www.jean-jaures.org/publication/preoccupees-mais-insouciantes-lambiguite-des-gauches-face-a-lantisemitisme/": "2026-10-19T11:00:00+00:00",
+  "https://www.jean-jaures.org/publication/lantisemitisme-et-la-nouvelle-maison/": "2026-10-19T11:00:00+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "Préoccupées mais insouciantes : l’ambiguïté des gauches face à l’antisémitisme",
+   "link": "https://www.jean-jaures.org/publication/preoccupees-mais-insouciantes-lambiguite-des-gauches-face-a-lantisemitisme/",
+   "summary": "",
+   "image": "",
+   "date": "2026-10-19T11:00:00+00:00",
+   "pubdate": "2026-10-19T11:00:00+00:00"
+  },
+  {
+   "title": "L’antisémitisme et la nouvelle maison",
+   "link": "https://www.jean-jaures.org/publication/lantisemitisme-et-la-nouvelle-maison/",
+   "summary": "",
+   "image": "",
+   "date": "2026-10-19T11:00:00+00:00",
+   "pubdate": "2026-10-19T11:00:00+00:00"
+  },
   {
    "title": "Colère lycéenne : TF1, le mauvais élève des JT",
    "link": "https://www.jean-jaures.org/publication/colere-lyceenne-tf1-le-mauvais-eleve-des-jt/",
@@ -42,22 +58,6 @@
    "image": "",
    "date": "2026-10-14T11:00:00+00:00",
    "pubdate": "2026-10-14T11:00:00+00:00"
-  },
-  {
-   "title": "Berlin : une coalition à gauche toute ?",
-   "link": "https://www.jean-jaures.org/publication/berlin-une-coalition-a-gauche-toute/",
-   "summary": "",
-   "image": "",
-   "date": "2026-10-13T11:00:00+00:00",
-   "pubdate": "2026-10-13T11:00:00+00:00"
-  },
-  {
-   "title": "Quand l’État contraint France Musique à jouer une fausse note",
-   "link": "https://www.jean-jaures.org/publication/quand-letat-contraint-france-musique-a-jouer-une-fausse-note/",
-   "summary": "",
-   "image": "",
-   "date": "2026-10-13T11:00:00+00:00",
-   "pubdate": "2026-10-13T11:00:00+00:00"
   }
  ]
 }

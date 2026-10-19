@@ -1,18 +1,8 @@
 {
- "etag": "\"f23e325f3e6975418e79dbd053f038a3-gzip\"",
+ "etag": "\"250c17451d5354d11562b5b685821378-gzip\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.franceinfo.fr/monde/vatican/le-pape-leon-xiv-a-ete-juge-apte-a-sortir-de-l-hopital-apres-son-operation-et-de-nouvelles-analyses_8241640.html": "2026-10-17T10:52:01.933601+00:00",
-  "https://www.franceinfo.fr/replay-radio/les-experts-cinema/minotaure-histoire-intime-dans-une-russie-en-deliquescence_8220637.html": "2026-10-17T10:52:01.933601+00:00",
-  "https://www.franceinfo.fr/monde/usa/midterms-2018/au-texas-un-stylo-a-1-000-dollars-embarrasse-les-republicains-et-complique-encore-les-elections-de-mi-mandat-pour-le-camp-trump_8237524.html": "2026-10-17T10:52:01.933601+00:00",
-  "https://www.franceinfo.fr/monde/moyen-orient/un-tanker-a-ete-touche-par-un-projectile-au-large-de-l-arabie-saoudite-dans-le-golfe_8241490.html": "2026-10-17T10:52:01.933601+00:00",
-  "https://www.franceinfo.fr/monde/russie/enquete-franceinfo-on-l-appelait-poutine-girl-comment-la-france-verrouille-les-demandes-de-visas-diplomatiques-russes-pour-limiter-les-risques-d-espionnage_8204495.html": "2026-10-17T10:52:01.933601+00:00",
   "https://www.franceinfo.fr/replay-magazine/france-2/nous-les-europeens/nous-les-europeens-l-art-de-vivre-a-l-italienne_8217424.html": "2026-10-17T20:40:59.474059+00:00",
-  "https://www.franceinfo.fr/monde/europe/la-roumanie-a-abattu-deux-drones-dans-son-espace-aerien-au-dessus-de-la-mer-noire_8242027.html": "2026-10-17T20:40:59.474059+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-ukraine-des-habitants-de-kiev-defilent-pour-reclamer-la-demission-du-maire-denoncant-une-gestion-totalement-irresponsable_8241928.html": "2026-10-17T20:40:59.474059+00:00",
-  "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/l-inde-malgre-une-situation-politique-troublee-devrait-s-imposer-en-2027-comme-la-quatrieme-economie-mondiale_8220598.html": "2026-10-17T20:40:59.474059+00:00",
-  "https://www.franceinfo.fr/monde/israel/des-colons-israeliens-attaquent-un-convoi-diplomatique-europeen-en-cisjordanie-et-frappent-un-maire-francais_8241916.html": "2026-10-17T20:40:59.474059+00:00",
-  "https://www.franceinfo.fr/monde/iran/deux-petroliers-ont-pris-feu-apres-avoir-heurte-des-mines-dans-le-detroit-d-ormuz-annonce-l-iran_8241904.html": "2026-10-17T20:40:59.474059+00:00",
   "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/leon-xiv-en-france-retrouvez-l-essentiel/": "2026-10-18T04:41:37.812725+00:00",
   "https://www.franceinfo.fr/monde/usa/affaire-jeffrey-epstein/l-essentiel-des-revelations-sur-l-affaire-epstein/": "2026-10-18T04:41:37.812725+00:00",
   "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/tout-comprendre-a-la-guerre-au-moyen-orient/": "2026-10-18T04:41:37.812725+00:00",
@@ -21,35 +11,157 @@
   "https://www.franceinfo.fr/economie/greve/les-progressistes-occidentaux-ont-importe-le-tiers-monde-le-vice-president-americain-jd-vance-pointe-le-role-de-l-immigration-dans-les-violences-lors-des-manifestations-du-17-octobre_8242465.html": "2026-10-18T11:16:49.963458+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/quelle-est-l-importance-de-la-france-et-de-l-europe-pour-le-renseignement-militaire-transmis-a-l-ukraine_8238481.html": "2026-10-18T11:16:49.963458+00:00",
   "https://www.franceinfo.fr/monde/asie/des-dizaines-d-orang-outans-ont-ete-sauves-des-incendies-en-indonesie-selon-plusieurs-ong_8242822.html": "2026-10-18T15:56:36.083712+00:00",
-  "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/je-l-ai-trouve-fort-on-ne-dirait-pas-qu-il-sort-de-l-hopital-le-pape-de-retour-au-vatican-apres-son-operation_8242825.html": "2026-10-18T15:56:36.083712+00:00",
   "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/j-ai-vraiment-ressenti-votre-soutien-merci-le-pape-leon-xiv-s-adresse-a-la-foule-pour-la-premiere-fois-depuis-son-operation_8242744.html": "2026-10-18T15:56:36.083712+00:00",
-  "https://www.franceinfo.fr/replay-jt/france-2/20-heures/les-images-du-17-octobre-ont-fait-le-tour-du-monde_8243245.html": "2026-10-18T20:51:40.373778+00:00",
-  "https://www.franceinfo.fr/monde/europe/une-nouvelle-doyenne-de-l-humanite-en-albanie_8240839.html": "2026-10-18T20:51:40.373778+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/volodymyr-zelensky-s-entretient-avec-des-emissaires-de-donald-trump-pour-apaiser-les-tensions-avec-washington-et-annonce-la-reprise-du-partage-de-renseignements_8243200.html": "2026-10-18T20:51:40.373778+00:00",
-  "https://www.franceinfo.fr/societe/armee-securite-defense/en-finlande-la-defense-est-l-affaire-de-tous_8240827.html": "2026-10-18T20:51:40.373778+00:00",
-  "https://www.franceinfo.fr/monde/israel/donald-trump-apporte-son-soutien-plein-et-entier-a-benyamin-netanyahou-avant-les-elections-en-israel_8243020.html": "2026-10-18T20:51:40.373778+00:00",
-  "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/donald-trump-et-jd-vance-instrumentalisent-les-violences-du-17-octobre-en-france-pour-nourrir-leur-campagne_8233135.html": "2026-10-19T04:49:50.802819+00:00",
   "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-accuse-volodymyr-zelensky-de-ne-pas-vouloir-mettre-fin-a-la-guerre-avec-la-russie_8243452.html": "2026-10-19T04:49:50.802819+00:00",
   "https://www.franceinfo.fr/replay-magazine/france-2/envoye-special/video-vous-devenez-fou-cecile-kohler-et-jacques-paris-racontent-la-torture-blanche-la-methode-du-regime-iranien-pour-briser-votre-esprit_8236993.html": "2026-10-19T04:49:50.802819+00:00",
-  "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/ils-deblaient-a-la-main-trois-ans-apres-le-debut-de-la-guerre-a-gaza-les-palestiniens-toujours-contraints-de-vivre-dans-les-ruines-et-le-denuement_8219863.html": "2026-10-19T04:49:50.802819+00:00"
+  "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/ils-deblaient-a-la-main-trois-ans-apres-le-debut-de-la-guerre-a-gaza-les-palestiniens-toujours-contraints-de-vivre-dans-les-ruines-et-le-denuement_8219863.html": "2026-10-19T04:49:50.802819+00:00",
+  "https://www.franceinfo.fr/monde/israel/des-experts-de-l-onu-appellent-a-la-protection-des-agriculteurs-palestiniens-en-cisjordanie_8244025.html": "2026-10-19T13:29:11.762331+00:00",
+  "https://www.franceinfo.fr/monde/bresil/clown-corrompu-debat-houleux-entre-lula-et-flavio-bolsonaro_8244034.html": "2026-10-19T13:29:11.762331+00:00",
+  "https://www.franceinfo.fr/monde/asie/en-indonesie-pres-de-deux-millions-d-hectares-de-forets-ont-brules-en-2026-entre-janvier-et-septembre_8243989.html": "2026-10-19T13:29:11.762331+00:00",
+  "https://www.franceinfo.fr/monde/grece/en-grece-au-moins-12-migrants-meurent-lors-de-deux-accidents-en-mer-egee_8243614.html": "2026-10-19T13:29:11.762331+00:00",
+  "https://www.franceinfo.fr/monde/asie/une-deputee-australienne-gravement-blessee-lors-d-une-attaque-un-suspect-interpelle_8243767.html": "2026-10-19T13:29:11.762331+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-ukraine-n-a-recu-aucun-avertissement-avant-des-frappes-nocturnes-russes-qui-ont-fait-trois-morts-annonce-volodymyr-zelensky_8243722.html": "2026-10-19T13:29:11.762331+00:00",
+  "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/en-europe-des-mouvements-sociaux-similaires-a-la-france_8243728.html": "2026-10-19T13:29:11.762331+00:00",
+  "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/les-images-des-violences-du-17-octobre-en-france-font-le-tour-des-medias-asiatiques_8222728.html": "2026-10-19T13:29:11.762331+00:00",
+  "https://www.franceinfo.fr/monde/italie/la-ville-de-milan-theatre-de-violences-urbaines-et-de-pillages-en-marge-de-manifestations-contre-la-vie-chere-samedi-et-dimanche_8243644.html": "2026-10-19T13:29:11.762331+00:00",
+  "https://www.franceinfo.fr/monde/palestine/en-cisjordanie-occupee-la-police-israelienne-annonce-dix-arrestations-apres-des-violences-de-colons-contre-un-convoi-de-diplomates-europeens_8243569.html": "2026-10-19T13:29:11.762331+00:00",
+  "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-il-y-a-un-sentiment-de-desespoir-qui-monte-chez-tout-le-monde-un-an-apres-le-cessez-le-feu-a-gaza-le-processus-de-paix-est-au-point-mort_8210456.html": "2026-10-19T13:29:11.762331+00:00",
+  "https://www.franceinfo.fr/replay-radio/le-monde-et-vous/italie-belgique-grece-albanie-la-colere-de-la-jeunesse-francaise-fait-elle-des-emules-en-europe_8222713.html": "2026-10-19T13:29:11.762331+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/le-secretaire-d-etat-americain-marco-rubio-affirme-qu-il-n-y-a-eu-aucune-pause-dans-le-partage-de-renseignements-avec-kiev_8243575.html": "2026-10-19T13:29:11.762331+00:00",
+  "https://www.franceinfo.fr/monde/afrique/mali/au-mali-human-rights-watch-accuse-l-armee-et-les-insurges-de-violations-du-droit-de-la-guerre_8243482.html": "2026-10-19T13:29:11.762331+00:00",
+  "https://www.franceinfo.fr/monde/bresil/clown-corrompu-lula-et-flavio-bolsonaro-s-echarpent-lors-de-leur-premier-debat-a-une-semaine-du-second-tour-de-la-presidentielle_8243407.html": "2026-10-19T13:29:11.762331+00:00",
+  "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/donald-trump-et-jd-vance-instrumentalisent-les-violences-du-17-octobre-en-france-pour-nourrir-leur-campagne_8222731.html": "2026-10-19T13:29:11.762331+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "Donald Trump et JD Vance instrumentalisent les violences du 17 octobre en France pour nourrir leur campagne Donald Trump et JD Vance attribuent les violences du 17 octobre en France à l’immigration et s’en servent dans la campagne américaine. Une lecture pourtant très éloignée de celle des grands médias américains. 26 octobre 2:30 audio 2 minutes 30",
-   "link": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/donald-trump-et-jd-vance-instrumentalisent-les-violences-du-17-octobre-en-france-pour-nourrir-leur-campagne_8233135.html",
-   "summary": "Donald Trump et JD Vance instrumentalisent les violences du 17 octobre en France pour nourrir leur campagne",
-   "image": "https://www.franceinfo.fr/pictures/dFsqAmu37E460i-C_Ce6tHsiSx8/16x0:1008x682/432x297/filters:format(jpg)/2026/10/19/6ad59fbce3849453115884.jpg",
+   "title": "Des experts de l'ONU appellent à la protection des agriculteurs palestiniens en Cisjordanie Les violences commises par des colons israéliens contre les Palestiniens en Cisjordanie se sont fortement intensifiées ces derniers mois, avec une nouvelle recrudescence à l'occasion de la récolte des olives. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/israel/des-experts-de-l-onu-appellent-a-la-protection-des-agriculteurs-palestiniens-en-cisjordanie_8244025.html",
+   "summary": "Des experts de l'ONU appellent à la protection des agriculteurs palestiniens en Cisjordanie",
+   "image": "https://www.franceinfo.fr/pictures/WLyCcO6wkCDtwk6AkwC8EGs-wYU/0x0:992x682/432x297/filters:format(jpg)/2026/10/19/6ad615fc7aa26334959917.jpg",
    "date": null,
-   "pubdate": "2026-10-19T04:49:50.802819+00:00"
+   "pubdate": "2026-10-19T13:29:11.762331+00:00"
   },
   {
-   "title": "Donald Trump accuse Volodymyr Zelensky de \"ne pas vouloir mettre fin\" à la guerre avec la Russie",
-   "link": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-accuse-volodymyr-zelensky-de-ne-pas-vouloir-mettre-fin-a-la-guerre-avec-la-russie_8243452.html",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/8xYimPCdwADhHa5J6R2htMZjWGo/0x0:5391x3032/432x243/filters:format(jpg)/2026/10/19/6ad59f2d07bbb239546257.jpg",
+   "title": "1:42 vidéo 1 minute 42 \"Clown\", \"corrompu\" : débat houleux entre Lula et Flavio Bolsonaro",
+   "link": "https://www.franceinfo.fr/monde/bresil/clown-corrompu-debat-houleux-entre-lula-et-flavio-bolsonaro_8244034.html",
+   "summary": "\"Clown\", \"corrompu\" : débat houleux entre Lula et Flavio Bolsonaro",
+   "image": "https://www.franceinfo.fr/pictures/4fzcFI5smhl-yaVKGLAwgJY81Us/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/19/6ad613be93e82724347851.jpg",
    "date": null,
-   "pubdate": "2026-10-19T04:49:50.802819+00:00"
+   "pubdate": "2026-10-19T13:29:11.762331+00:00"
+  },
+  {
+   "title": "En Indonésie, près de deux millions d'hectares de forêts ont brûlé depuis le début de l'année",
+   "link": "https://www.franceinfo.fr/monde/asie/en-indonesie-pres-de-deux-millions-d-hectares-de-forets-ont-brules-en-2026-entre-janvier-et-septembre_8243989.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/7BgdTGM2QwoSvNPRc0MA_JWr1iM/0x59:1024x635/432x243/filters:format(jpg)/2026/10/19/6ad60f5818c88128657386.jpg",
+   "date": null,
+   "pubdate": "2026-10-19T13:29:11.762331+00:00"
+  },
+  {
+   "title": "En Grèce, au moins 12 migrants meurent lors de deux accidents en mer Egée",
+   "link": "https://www.franceinfo.fr/monde/grece/en-grece-au-moins-12-migrants-meurent-lors-de-deux-accidents-en-mer-egee_8243614.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/5Fyg3pbujq8X-Daq3065V08gSPE/0x443:4252x2835/432x243/filters:format(jpg)/2026/10/19/6ad5e96420d3b569766459.jpg",
+   "date": null,
+   "pubdate": "2026-10-19T13:29:11.762331+00:00"
+  },
+  {
+   "title": "Une députée australienne gravement blessée lors d'une attaque, un suspect interpellé",
+   "link": "https://www.franceinfo.fr/monde/asie/une-deputee-australienne-gravement-blessee-lors-d-une-attaque-un-suspect-interpelle_8243767.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/-kefBhtTAKE4oe2L84KHLUxqvIs/0x0:7407x4166/432x243/filters:format(jpg)/2026/10/19/6ad5e76e1d5dc803163742.jpg",
+   "date": null,
+   "pubdate": "2026-10-19T13:29:11.762331+00:00"
+  },
+  {
+   "title": "L'Ukraine n'a reçu \"aucun avertissement\" avant des frappes nocturnes russes qui ont fait trois morts lundi, annonce Volodymyr Zelensky",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-ukraine-n-a-recu-aucun-avertissement-avant-des-frappes-nocturnes-russes-qui-ont-fait-trois-morts-annonce-volodymyr-zelensky_8243722.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/77dA8IphpnrNXQFGFzVy0ruQ2UM/0x0:4250x2390/432x243/filters:format(jpg)/2026/10/19/6ad5e2e9c279a116657136.jpg",
+   "date": null,
+   "pubdate": "2026-10-19T13:29:11.762331+00:00"
+  },
+  {
+   "title": "1:22 vidéo 1 minute 22 En Europe, des mouvements sociaux similaires à la France",
+   "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/en-europe-des-mouvements-sociaux-similaires-a-la-france_8243728.html",
+   "summary": "En Europe, des mouvements sociaux similaires à la France",
+   "image": "https://www.franceinfo.fr/pictures/-zuTb8SmHRsnY9YYQW0661nVz8k/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/19/6ad5e0d6a8924142067378.png",
+   "date": null,
+   "pubdate": "2026-10-19T13:29:11.762331+00:00"
+  },
+  {
+   "title": "3:07 audio 3 minutes 7 Les images des violences du 17 octobre en France font le tour des médias asiatiques",
+   "link": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/les-images-des-violences-du-17-octobre-en-france-font-le-tour-des-medias-asiatiques_8222728.html",
+   "summary": "Les images des violences du 17 octobre en France font le tour des médias asiatiques",
+   "image": "https://www.franceinfo.fr/pictures/QWgkizsdYRdxB9oPhWYj7Qz0Rp8/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/19/6ad5ddf9eaece318147068.jpg",
+   "date": null,
+   "pubdate": "2026-10-19T13:29:11.762331+00:00"
+  },
+  {
+   "title": "La ville de Milan théâtre de violences urbaines et de pillages en marge de manifestations contre la vie chère samedi et dimanche",
+   "link": "https://www.franceinfo.fr/monde/italie/la-ville-de-milan-theatre-de-violences-urbaines-et-de-pillages-en-marge-de-manifestations-contre-la-vie-chere-samedi-et-dimanche_8243644.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/U7lsX8Eh1INb3V7IuWgov3T1fu0/0x312:6000x3687/432x243/filters:format(jpg)/2026/10/19/6ad5d8ed73242504181349.jpg",
+   "date": null,
+   "pubdate": "2026-10-19T13:29:11.762331+00:00"
+  },
+  {
+   "title": "En Cisjordanie occupée, la police israélienne annonce dix arrestations après des violences de colons contre un convoi de diplomates européens",
+   "link": "https://www.franceinfo.fr/monde/palestine/en-cisjordanie-occupee-la-police-israelienne-annonce-dix-arrestations-apres-des-violences-de-colons-contre-un-convoi-de-diplomates-europeens_8243569.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/SJ1rBuAFz_UNAQeufpjCWYzfxqk/0x106:1024x682/432x243/filters:format(jpg)/2026/10/19/6ad5cb84e28de722954989.jpg",
+   "date": null,
+   "pubdate": "2026-10-19T13:29:11.762331+00:00"
+  },
+  {
+   "title": ": Témoignages 4:20 audio 4 minutes 20 : Témoignages \"Il y a un sentiment de désespoir qui monte chez tout le monde\" : un an après le cessez-le-feu à Gaza, le processus de paix est au point mort",
+   "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-il-y-a-un-sentiment-de-desespoir-qui-monte-chez-tout-le-monde-un-an-apres-le-cessez-le-feu-a-gaza-le-processus-de-paix-est-au-point-mort_8210456.html",
+   "summary": "\"Il y a un sentiment de désespoir qui monte chez tout le monde\" : un an après le cessez-le-feu à Gaza, le processus de paix est au point mort",
+   "image": "https://www.franceinfo.fr/pictures/tsxtVJjfFkt7Hqmq3MeMXc3BaWg/1000x0:5000x4000/100x100/filters:format(jpg)/2026/10/09/6ac9388aa6eb2825054120.jpg",
+   "date": null,
+   "pubdate": "2026-10-19T13:29:11.762331+00:00"
+  },
+  {
+   "title": "2:30 audio 2 minutes 30 Italie, Belgique, Grèce, Albanie... La colère de la jeunesse française fait-elle des émules en Europe ? Des manifestations contre la vie chère ont dégénéré ce week-end en Italie et en Belgique. En Grèce, des étudiants dénoncent également leurs difficultés à se loger. En Albanie, un mouvement de contestation né au printemps est émané de violences. Ces mobilisations, aux origines différentes, présentent des points communs avec la vague de violence qui traverse actuellement la France.",
+   "link": "https://www.franceinfo.fr/replay-radio/le-monde-et-vous/italie-belgique-grece-albanie-la-colere-de-la-jeunesse-francaise-fait-elle-des-emules-en-europe_8222713.html",
+   "summary": "Italie, Belgique, Grèce, Albanie... La colère de la jeunesse française fait-elle des émules en Europe ?",
+   "image": "https://www.franceinfo.fr/pictures/Pci3WTDxhpjwHjUXUDdjyqSH_yk/0x0:3997x2248/432x243/filters:format(jpg)/2026/10/18/6ad4ec5c7c79c403202277.jpg",
+   "date": null,
+   "pubdate": "2026-10-19T13:29:11.762331+00:00"
+  },
+  {
+   "title": "Le chef de la diplomatie américaine affirme qu'il n'y a eu \"aucune pause\" dans le partage de renseignements avec l'Ukraine De son côté, Donald Trump a accusé dimanche son homologue ukrainien de \"ne pas vouloir mettre fin\" à la guerre avec la Russie, sur fond de regain de tensions entre Washington et Kiev.",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/le-secretaire-d-etat-americain-marco-rubio-affirme-qu-il-n-y-a-eu-aucune-pause-dans-le-partage-de-renseignements-avec-kiev_8243575.html",
+   "summary": "Le chef de la diplomatie américaine affirme qu'il n'y a eu \"aucune pause\" dans le partage de renseignements avec l'Ukraine",
+   "image": "https://www.franceinfo.fr/pictures/o78BU3n_rGx9vFyRTqQb_u_Joug/0x0:5130x2885/432x243/filters:format(jpg)/2026/10/19/6ad5bb59304a2656157512.jpg",
+   "date": null,
+   "pubdate": "2026-10-19T13:29:11.762331+00:00"
+  },
+  {
+   "title": "Au Mali, Human Rights Watch accuse l'armée et les insurgés de violations du droit de la guerre La junte qui dirige le pays depuis deux coups d'Etat en 2020 et 2021 s'est tournée vers la Russie pour l'épauler dans sa lutte antijihadiste.",
+   "link": "https://www.franceinfo.fr/monde/afrique/mali/au-mali-human-rights-watch-accuse-l-armee-et-les-insurges-de-violations-du-droit-de-la-guerre_8243482.html",
+   "summary": "Au Mali, Human Rights Watch accuse l'armée et les insurgés de violations du droit de la guerre",
+   "image": "https://www.franceinfo.fr/pictures/iicwI1hMmjpbwAEiD4MwZlzLYqQ/0x0:5568x3132/432x243/filters:format(jpg)/2026/10/19/6ad5ad4630fc9840250601.jpg",
+   "date": null,
+   "pubdate": "2026-10-19T13:29:11.762331+00:00"
+  },
+  {
+   "title": "\"Clown\", \"corrompu\" : Lula et Flavio Bolsonaro s'écharpent lors de leur premier débat, à une semaine du second tour de la présidentielle Le président sortant et le fils de l'ancien chef d'Etat Jair Bolsonaro se sont affrontés une première fois, dans le studio de la chaîne de télévision Band à Sao Paulo.",
+   "link": "https://www.franceinfo.fr/monde/bresil/clown-corrompu-lula-et-flavio-bolsonaro-s-echarpent-lors-de-leur-premier-debat-a-une-semaine-du-second-tour-de-la-presidentielle_8243407.html",
+   "summary": "\"Clown\", \"corrompu\" : Lula et Flavio Bolsonaro s'écharpent lors de leur premier débat, à une semaine du second tour de la présidentielle",
+   "image": "https://www.franceinfo.fr/pictures/pO2MKa1BenrnT0tJ9jAoc5F34Is/0x0:3000x1687/432x243/filters:format(jpg)/2026/10/19/6ad5a3c5238b8169940000.jpg",
+   "date": null,
+   "pubdate": "2026-10-19T13:29:11.762331+00:00"
+  },
+  {
+   "title": "2:47 audio 2 minutes 47 Donald Trump et JD Vance instrumentalisent les violences du 17 octobre en France pour nourrir leur campagne Donald Trump et JD Vance attribuent les violences du 17 octobre en France à l’immigration et s’en servent dans la campagne américaine. Une lecture pourtant très éloignée de celle des grands médias américains.",
+   "link": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/donald-trump-et-jd-vance-instrumentalisent-les-violences-du-17-octobre-en-france-pour-nourrir-leur-campagne_8222731.html",
+   "summary": "Donald Trump et JD Vance instrumentalisent les violences du 17 octobre en France pour nourrir leur campagne",
+   "image": "https://www.franceinfo.fr/pictures/YDJHVftHhTv1udYDLIv6X9c04j4/0x53:1024x629/432x243/filters:format(jpg)/2026/10/19/6ad59fbce3849453115884.jpg",
+   "date": null,
+   "pubdate": "2026-10-19T13:29:11.762331+00:00"
   },
   {
    "title": "5:30 vidéo 5 minutes 30 DOCUMENT FRANCETV. \"Vous devenez fou\" : Cécile Kohler et Jacques Paris racontent la \"torture blanche\", la méthode du régime iranien pour \"briser votre esprit\"",
@@ -68,65 +180,33 @@
    "pubdate": "2026-10-19T04:49:50.802819+00:00"
   },
   {
-   "title": "2:03 vidéo 2 minutes 3 Les images du 17 octobre ont fait le tour du monde",
-   "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/les-images-du-17-octobre-ont-fait-le-tour-du-monde_8243245.html",
-   "summary": "Les images du 17 octobre ont fait le tour du monde",
-   "image": "https://www.franceinfo.fr/pictures/LEX1fxyUz9TknoyuOSSOn-Rp0K0/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/18/6ad52c06111e5200255808.jpg",
+   "title": "Donald Trump accuse Volodymyr Zelensky de \"ne pas vouloir mettre fin\" à la guerre avec la Russie Le président républicain estime que les attaques ukrainiennes contre les raffineries russes d'être responsables de la flambée des prix du gazole à la pompe.",
+   "link": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-accuse-volodymyr-zelensky-de-ne-pas-vouloir-mettre-fin-a-la-guerre-avec-la-russie_8243452.html",
+   "summary": "Donald Trump accuse Volodymyr Zelensky de \"ne pas vouloir mettre fin\" à la guerre avec la Russie",
+   "image": "https://www.franceinfo.fr/pictures/8xYimPCdwADhHa5J6R2htMZjWGo/0x0:5391x3032/432x243/filters:format(jpg)/2026/10/19/6ad59f2d07bbb239546257.jpg",
    "date": null,
-   "pubdate": "2026-10-18T20:51:40.373778+00:00"
+   "pubdate": "2026-10-19T04:49:50.802819+00:00"
   },
   {
-   "title": "1:57 vidéo 1 minute 57 Une nouvelle doyenne de l'humanité en Albanie ?",
-   "link": "https://www.franceinfo.fr/monde/europe/une-nouvelle-doyenne-de-l-humanite-en-albanie_8240839.html",
-   "summary": "Une nouvelle doyenne de l'humanité en Albanie ?",
-   "image": "https://www.franceinfo.fr/pictures/qglNQuM4OBdY67tgFr3pqI-pS1I/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/16/6ad25cc03140f199626476.png",
-   "date": null,
-   "pubdate": "2026-10-18T20:51:40.373778+00:00"
-  },
-  {
-   "title": "Volodymyr Zelensky s'entretient avec des émissaires de Donald Trump pour apaiser les tensions avec Washington et annonce la reprise du partage de renseignements",
+   "title": "Volodymyr Zelensky s'est entretenu avec des émissaires de Donald Trump pour apaiser les tensions avec Washington Volodymyr Zelensky a précisé avoir discuté de la livraison de systèmes de défense antiaérienne américains Patriot, les Ukrainiens peinant actuellement à contrer les missiles russes.",
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/volodymyr-zelensky-s-entretient-avec-des-emissaires-de-donald-trump-pour-apaiser-les-tensions-avec-washington-et-annonce-la-reprise-du-partage-de-renseignements_8243200.html",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/U1wJgxuY9LST1HUifIn5z7tcmSE/0x222:4250x2612/432x243/filters:format(jpg)/2026/10/18/6ad51b76c9b8a703472622.jpg",
+   "summary": "Volodymyr Zelensky s'est entretenu avec des émissaires de Donald Trump pour apaiser les tensions avec Washington",
+   "image": "https://www.franceinfo.fr/pictures/xKfdvkhPpWXTpwDuC6GkwhTqNOg/0x0:4250x2390/432x243/filters:format(jpg)/2026/10/18/6ad51b76c9b8a703472622.jpg",
    "date": null,
    "pubdate": "2026-10-18T20:51:40.373778+00:00"
   },
   {
-   "title": "1:51 vidéo 1 minute 51 En Finlande, la défense est l'affaire de tous",
-   "link": "https://www.franceinfo.fr/societe/armee-securite-defense/en-finlande-la-defense-est-l-affaire-de-tous_8240827.html",
-   "summary": "En Finlande, la défense est l'affaire de tous",
-   "image": "https://www.franceinfo.fr/pictures/IjTY0JW05mPv_ESPpFRx1lX_92A/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/16/6ad25b9359f6d149997763.jpg",
-   "date": null,
-   "pubdate": "2026-10-18T20:51:40.373778+00:00"
-  },
-  {
-   "title": "Donald Trump apporte son \"soutien plein et entier\" à Benyamin Nétanyahou avant les élections en Israël",
-   "link": "https://www.franceinfo.fr/monde/israel/donald-trump-apporte-son-soutien-plein-et-entier-a-benyamin-netanyahou-avant-les-elections-en-israel_8243020.html",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/DBxXkpNSTNS0wEOCp79OReM8_Ng/0x600:6400x4200/432x243/filters:format(jpg)/2026/10/18/6ad4f19213dc1196638411.jpg",
-   "date": null,
-   "pubdate": "2026-10-18T20:51:40.373778+00:00"
-  },
-  {
-   "title": "Des dizaines d'orangs-outangs ont été sauvés des incendies en Indonésie, selon plusieurs ONG",
+   "title": "Des dizaines d'orangs-outangs ont été sauvés des incendies en Indonésie, selon plusieurs ONG Ces feux sont à l'origine d'une pollution de l'air par des fumées toxiques qui dure depuis des mois et a entraîné une forte recrudescence des troubles respiratoires chez les humains comme chez les animaux.",
    "link": "https://www.franceinfo.fr/monde/asie/des-dizaines-d-orang-outans-ont-ete-sauves-des-incendies-en-indonesie-selon-plusieurs-ong_8242822.html",
-   "summary": "",
+   "summary": "Des dizaines d'orangs-outangs ont été sauvés des incendies en Indonésie, selon plusieurs ONG",
    "image": "https://www.franceinfo.fr/pictures/9vDnv3XVKnHUfZZapxCD-_20mSo/0x260:3984x2501/432x243/filters:format(jpg)/2026/10/18/6ad4d42ddea53578578125.jpg",
    "date": null,
    "pubdate": "2026-10-18T15:56:36.083712+00:00"
   },
   {
-   "title": "1:18 vidéo 1 minute 18 \"Je l'ai trouvé fort, on ne dirait pas qu'il sort de l'hôpital\" : le pape de retour au Vatican après son opération",
-   "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/je-l-ai-trouve-fort-on-ne-dirait-pas-qu-il-sort-de-l-hopital-le-pape-de-retour-au-vatican-apres-son-operation_8242825.html",
-   "summary": "\"Je l'ai trouvé fort, on ne dirait pas qu'il sort de l'hôpital\" : le pape de retour au Vatican après son opération",
-   "image": "https://www.franceinfo.fr/pictures/IhK5k_f9gBj1nF313zRB4XZ3NmY/0x126:1394x911/432x243/filters:format(jpg)/2026/10/18/6ad4bc4abe9e5473666812.png",
-   "date": null,
-   "pubdate": "2026-10-18T15:56:36.083712+00:00"
-  },
-  {
-   "title": "\"J'ai vraiment ressenti votre soutien, merci\" : le pape Léon XIV s'adresse à la foule pour la première fois depuis son opération",
+   "title": "\"J'ai vraiment ressenti votre soutien, merci\" : le pape Léon XIV s'adresse à la foule pour la première fois depuis son opération Sorti de l'hôpital samedi, le souverain pontife est apparu place Saint-Pierre pour la prière de l'Angélus, dimanche.",
    "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/j-ai-vraiment-ressenti-votre-soutien-merci-le-pape-leon-xiv-s-adresse-a-la-foule-pour-la-premiere-fois-depuis-son-operation_8242744.html",
-   "summary": "",
+   "summary": "\"J'ai vraiment ressenti votre soutien, merci\" : le pape Léon XIV s'adresse à la foule pour la première fois depuis son opération",
    "image": "https://www.franceinfo.fr/pictures/y2zbWsg7qq2q6p_0V0Li16WfATU/0x53:1024x629/432x243/filters:format(jpg)/2026/10/18/6ad4aa8d51fcb583574963.jpg",
    "date": null,
    "pubdate": "2026-10-18T15:56:36.083712+00:00"
@@ -194,86 +274,6 @@
    "image": "https://www.franceinfo.fr/pictures/lM5yUgm8DqxyBpVjpKBrDbCAPIA/0x0:1920x1080/432x243/filters:format(jpg)/2025/09/04/image-9-68b95d761e1d5312378794.jpg",
    "date": null,
    "pubdate": "2026-10-17T20:40:59.474059+00:00"
-  },
-  {
-   "title": "La Roumanie a abattu deux drones dans son espace aérien au-dessus de la mer Noire Cet espace constitue une artère maritime essentielle pour l'exportation mondiale de céréales, de ressources énergétiques et de matières premières industrielles.",
-   "link": "https://www.franceinfo.fr/monde/europe/la-roumanie-a-abattu-deux-drones-dans-son-espace-aerien-au-dessus-de-la-mer-noire_8242027.html",
-   "summary": "La Roumanie a abattu deux drones dans son espace aérien au-dessus de la mer Noire",
-   "image": "https://www.franceinfo.fr/pictures/SKHgj2YAJP2TkOYCaLWrIbfSbnE/0x555:6785x4372/432x243/filters:format(jpg)/2026/10/17/6ad3c71ab5006513421383.jpg",
-   "date": null,
-   "pubdate": "2026-10-17T20:40:59.474059+00:00"
-  },
-  {
-   "title": "En Ukraine, des habitants de Kiev défilent pour réclamer la démission du maire, dénonçant \"une gestion totalement irresponsable\" Absence d'abris antiaériens, coupures d'eau ou de chauffage à l'approche de l'hiver... De nombreux résidents de la capitale ukrainienne ont protesté samedi contre une \"mauvaise gestion\" de la ville, dans un contexte d'intensification des bombardements russes.",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-ukraine-des-habitants-de-kiev-defilent-pour-reclamer-la-demission-du-maire-denoncant-une-gestion-totalement-irresponsable_8241928.html",
-   "summary": "En Ukraine, des habitants de Kiev défilent pour réclamer la démission du maire, dénonçant \"une gestion totalement irresponsable\"",
-   "image": "https://www.franceinfo.fr/pictures/X-prgz7dDt4ngjtG48uwWOCkDFk/0x630:7768x5000/432x243/filters:format(jpg)/2026/10/17/6ad3a70944d39819625813.jpg",
-   "date": null,
-   "pubdate": "2026-10-17T20:40:59.474059+00:00"
-  },
-  {
-   "title": "2:58 audio 2 minutes 58 L'Inde, malgré une situation politique troublée, devrait s'imposer en 2027 comme la quatrième économie mondiale Le PIB indien dépasserait l’année prochaine celui du Japon et du Royaume-Uni, d’après les prévisions du Fonds monétaire international.",
-   "link": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/l-inde-malgre-une-situation-politique-troublee-devrait-s-imposer-en-2027-comme-la-quatrieme-economie-mondiale_8220598.html",
-   "summary": "L'Inde, malgré une situation politique troublée, devrait s'imposer en 2027 comme la quatrième économie mondiale",
-   "image": "https://www.franceinfo.fr/pictures/RdCU48QpagZELA6eCS9ZgJRHiFg/0x206:8120x4774/432x243/filters:format(jpg)/2026/10/17/6ad38275adb42726388335.jpg",
-   "date": null,
-   "pubdate": "2026-10-17T20:40:59.474059+00:00"
-  },
-  {
-   "title": "Des colons israéliens attaquent un convoi diplomatique européen en Cisjordanie et violentent un maire français, le quai d'Orsay dénonce une \"agression gravissime\" \"Je pense que si les colons agissent comme ça, il y a une tolérance du gouvernement israélien\", a affirmé Bernard Baudoux, l'édile communiste d'Aulnoye-Aymeries (Nord), après avoir été frappé.",
-   "link": "https://www.franceinfo.fr/monde/israel/des-colons-israeliens-attaquent-un-convoi-diplomatique-europeen-en-cisjordanie-et-frappent-un-maire-francais_8241916.html",
-   "summary": "Des colons israéliens attaquent un convoi diplomatique européen en Cisjordanie et violentent un maire français, le quai d'Orsay dénonce une \"agression gravissime\"",
-   "image": "https://www.franceinfo.fr/pictures/pKD5wK0nDvk778UcSLgDH09fYp4/0x312:6000x3687/432x243/filters:format(jpg)/2026/10/17/6ad3a029247b1578783551.jpg",
-   "date": null,
-   "pubdate": "2026-10-17T20:40:59.474059+00:00"
-  },
-  {
-   "title": "Deux pétroliers ont pris feu après avoir heurté des mines dans le détroit d'Ormuz, annonce l'Iran L'Iran revendique le contrôle de cette stratégique voie maritime et prend régulièrement pour cible des navires qui s'y aventurent sans son autorisation.",
-   "link": "https://www.franceinfo.fr/monde/iran/deux-petroliers-ont-pris-feu-apres-avoir-heurte-des-mines-dans-le-detroit-d-ormuz-annonce-l-iran_8241904.html",
-   "summary": "Deux pétroliers ont pris feu après avoir heurté des mines dans le détroit d'Ormuz, annonce l'Iran",
-   "image": "https://www.franceinfo.fr/pictures/lg8zcZGk9PcPEz38-4NwJMjgaME/0x178:5568x3310/432x243/filters:format(jpg)/2026/10/17/6ad39cb582a33338284091.jpg",
-   "date": null,
-   "pubdate": "2026-10-17T20:40:59.474059+00:00"
-  },
-  {
-   "title": ": Enquête franceinfo 7:00 article 7 minutes : Enquête franceinfo \"On l'appelait 'Poutine Girl'\" : comment la France verrouille les demandes de visas diplomatiques russes pour limiter les risques d'espionnage",
-   "link": "https://www.franceinfo.fr/monde/russie/enquete-franceinfo-on-l-appelait-poutine-girl-comment-la-france-verrouille-les-demandes-de-visas-diplomatiques-russes-pour-limiter-les-risques-d-espionnage_8204495.html",
-   "summary": "\"On l'appelait 'Poutine Girl'\" : comment la France verrouille les demandes de visas diplomatiques russes pour limiter les risques d'espionnage",
-   "image": "https://www.franceinfo.fr/pictures/A2h_E5mcyVZ6lfsJdOFeBuwq-9I/456x0:2616x2160/100x100/filters:format(jpg)/2026/10/13/6acdf7b4ac2f8834592008.jpg",
-   "date": null,
-   "pubdate": "2026-10-17T10:52:01.933601+00:00"
-  },
-  {
-   "title": "Le pape Léon XIV a été \"jugé apte à sortir\" de l'hôpital, après son opération du poumon et de nouvelles analyses Il a été opéré mardi d'un nodule cancéreux au poumon droit à l'hôpital Gemelli de Rome.",
-   "link": "https://www.franceinfo.fr/monde/vatican/le-pape-leon-xiv-a-ete-juge-apte-a-sortir-de-l-hopital-apres-son-operation-et-de-nouvelles-analyses_8241640.html",
-   "summary": "Le pape Léon XIV a été \"jugé apte à sortir\" de l'hôpital, après son opération du poumon et de nouvelles analyses",
-   "image": "https://www.franceinfo.fr/pictures/K-oYi5xTtQJkZcbq377bORKFVlg/0x0:7087x3986/432x243/filters:format(jpg)/2026/10/17/6ad34718594e2344429069.jpg",
-   "date": null,
-   "pubdate": "2026-10-17T10:52:01.933601+00:00"
-  },
-  {
-   "title": "6:49 audio 6 minutes 49 \"Minotaure\" : histoire intime dans une Russie en déliquescence Dans \"Les Experts Cinéma\" cette semaine, Thierry Fiorile et Matteu Maestracci évoquent les films \"Minotaure\" d'Andreï Zviaguintsev et \"Le Corset\" de Louis Clichy.",
-   "link": "https://www.franceinfo.fr/replay-radio/les-experts-cinema/minotaure-histoire-intime-dans-une-russie-en-deliquescence_8220637.html",
-   "summary": "\"Minotaure\" : histoire intime dans une Russie en déliquescence",
-   "image": "https://www.franceinfo.fr/pictures/JqXQjQTqksey_mqy5Q6X-sJCSI4/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/14/6acf8af32b774380758924.jpg",
-   "date": null,
-   "pubdate": "2026-10-17T10:52:01.933601+00:00"
-  },
-  {
-   "title": "Au Texas, un stylo à 1 000 dollars embarrasse les Républicains et complique encore les élections de mi-mandat pour le camp Trump Quatorze ans après les faits, l'affaire du stylo de luxe pris par Ken Paxton fait de l'ombre à la campagne du candidat républicain pour un poste de sénateur au Texas, au coude-à-coude avec son adversaire démocrate, James Talarico.",
-   "link": "https://www.franceinfo.fr/monde/usa/midterms-2018/au-texas-un-stylo-a-1-000-dollars-embarrasse-les-republicains-et-complique-encore-les-elections-de-mi-mandat-pour-le-camp-trump_8237524.html",
-   "summary": "Au Texas, un stylo à 1 000 dollars embarrasse les Républicains et complique encore les élections de mi-mandat pour le camp Trump",
-   "image": "https://www.franceinfo.fr/pictures/yxtJa_BycpWdIFflvYLA24zK_wI/0x0:1820x1023/432x243/filters:format(jpg)/2026/10/16/6ad240bb7c2d7626185297.jpeg",
-   "date": null,
-   "pubdate": "2026-10-17T10:52:01.933601+00:00"
-  },
-  {
-   "title": "Deux tankers ont été touchés au large de l'Arabie saoudite dans le Golfe, selon une agence de sécurité Les incidents se sont produits à des centaines de kilomètres du détroit d'Ormuz.",
-   "link": "https://www.franceinfo.fr/monde/moyen-orient/un-tanker-a-ete-touche-par-un-projectile-au-large-de-l-arabie-saoudite-dans-le-golfe_8241490.html",
-   "summary": "Deux tankers ont été touchés au large de l'Arabie saoudite dans le Golfe, selon une agence de sécurité",
-   "image": "https://www.franceinfo.fr/pictures/GTFpR_uyeu_ptCsrmIYfgM3mfyw/0x328:6300x3871/432x243/filters:format(jpg)/2026/10/17/6ad32403ad1a8237001943.jpg",
-   "date": null,
-   "pubdate": "2026-10-17T10:52:01.933601+00:00"
   }
  ]
 }
