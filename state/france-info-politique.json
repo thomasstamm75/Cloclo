@@ -1,14 +1,9 @@
 {
- "etag": "\"8e77893c112fb160ee400e747e32b280-gzip\"",
+ "etag": "\"b899b583c342da4b757bd2b8fe094f3e-gzip\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/mouvement-des-lyceens-retour-des-gilets-jaunes-succes-de-lfi-aupres-des-jeunes-le-8h30-franceinfo-de-jerome-fourquet_8220640.html": "2026-10-17T10:51:57.580592+00:00",
-  "https://www.franceinfo.fr/economie/greve/manifestations-du-17-octobre-jean-luc-melenchon-salue-des-dizaines-de-milliers-de-gens-calmement-mobilises-jordan-bardella-denonce-les-professionnels-du-chaos_8241847.html": "2026-10-17T15:41:04.111063+00:00",
-  "https://www.franceinfo.fr/economie/greve/nous-ne-nous-laisserons-pas-intimider-previent-sebastien-lecornu-denoncant-les-violences-en-marge-des-manifestations-du-17-octobre_8242030.html": "2026-10-17T20:40:57.225517+00:00",
   "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/le-gouvernement-a-ete-tres-clairement-defaillant-estime-le-porte-parole-du-rn-laurent-jacobelli-au-lendemain-des-violences-du-17-octobre_8242687.html": "2026-10-18T11:16:47.554058+00:00",
   "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/la-presidente-de-l-assemblee-nationale-envisage-la-creation-d-une-commission-d-enquete-a-la-suite-des-violences-en-marge-de-la-mobilisation-du-17-octobre_8242657.html": "2026-10-18T11:16:47.554058+00:00",
-  "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/le-gouvernement-est-principalement-responsable-de-ce-qui-est-en-train-d-arriver-denonce-eric-coquerel-au-lendemain-des-violences-du-17-octobre_8242570.html": "2026-10-18T11:16:47.554058+00:00",
-  "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/il-y-a-eu-clairement-un-manque-de-moyens-policiers-deplore-la-premiere-adjointe-au-maire-de-paris-apres-les-scenes-de-pillages-et-d-affrontements-samedi_8242543.html": "2026-10-18T11:16:47.554058+00:00",
   "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/emmanuel-macron-s-adressera-aux-francais-ce-dimanche-a-20-heures-apres-les-violences-en-marge-de-la-mobilisation-du-17-octobre_8242876.html": "2026-10-18T15:56:32.824353+00:00",
   "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/la-mairie-sera-reconstruite-ecrit-sebastien-lecornu-au-maire-de-limoges-au-lendemain-de-l-incendie-qui-a-detruit-l-hotel-de-ville_8242864.html": "2026-10-18T15:56:32.824353+00:00",
   "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/il-n-y-a-pas-de-gagnant-de-la-journee-de-samedi-il-n-y-a-que-des-perdants-souligne-marine-tondelier-apres-les-violences-dans-plusieurs-villes-de-france_8242846.html": "2026-10-18T15:56:32.824353+00:00",
@@ -16,7 +11,6 @@
   "https://www.franceinfo.fr/economie/greve/laurent-nunez-etait-completement-depasse-les-appels-a-demission-du-ministre-de-l-interieur-se-multiplient-apres-les-violences-du-17-octobre_8242828.html": "2026-10-18T15:56:32.824353+00:00",
   "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/au-lendemain-des-violences-du-17-octobre-les-camps-politiques-se-rejettent-la-responsabilite-du-chaos_8242525.html": "2026-10-18T15:56:32.824353+00:00",
   "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/rien-ne-le-justifie-rien-ne-l-explique-rien-ne-l-excuse-ce-qu-il-faut-retenir-de-l-allocution-d-emmanuel-macron-apres-les-violences-du-17-octobre_8243143.html": "2026-10-18T20:51:17.086087+00:00",
-  "https://www.franceinfo.fr/economie/greve/direct-mobilisation-du-17-octobre-1-200-personnes-ont-ete-interpellees-selon-le-premier-ministre-qui-pointe-des-degres-de-violence-inacceptables_8242435.html": "2026-10-18T20:51:17.086087+00:00",
   "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-lyceens-en-colere-anatomie-d-une-lutte-regardez-le-documentaire-de-franceinfo-qui-revient-sur-trois-semaines-de-mobilisation-de-la-jeunesse_8230564.html": "2026-10-18T23:19:04.319604+00:00",
   "https://www.franceinfo.fr/elections/presidentielle/portraits-qui-sont-les-candidats-declares-a-l-election-presidentielle-de-2027_8208032.html": "2026-10-18T23:19:04.319604+00:00",
   "https://www.franceinfo.fr/politique/jordan-bardella/il-montre-qu-il-connait-les-codes-des-tweets-du-jeune-jordan-bardella-font-ressurgir-l-ambiance-soralienne-de-ses-debuts-en-politique_8226601.html": "2026-10-18T23:19:04.319604+00:00",
@@ -29,17 +23,79 @@
   "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/qu-est-ce-que-la-crs-8-cette-unite-de-police-creee-pour-etre-capable-d-intervenir-en-15-minutes-lors-de-violences-urbaines_8222719.html": "2026-10-19T13:29:09.134697+00:00",
   "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/il-est-irresponsable-de-prendre-la-parole-pour-ne-rien-dire-l-allocution-d-emmanuel-macron-est-jugee-severement-par-les-oppositions_8243530.html": "2026-10-19T13:29:09.134697+00:00",
   "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-apres-les-violences-du-17-octobre-les-candidats-a-la-presidentielle-dansent-sur-le-volcan-de-la-crise_8222734.html": "2026-10-19T13:29:09.134697+00:00",
-  "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/de-la-colere-et-de-la-honte-emmanuel-macron-sort-de-son-silence-apres-le-17-octobre_8243509.html": "2026-10-19T13:29:09.134697+00:00",
   "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/apres-les-violences-du-17-octobre-une-facture-de-plusieurs-centaines-de-millions-d-euros-appelee-a-s-alourdir_8222740.html": "2026-10-19T13:29:09.134697+00:00",
-  "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/donald-trump-et-jd-vance-instrumentalisent-les-violences-du-17-octobre-en-france-pour-nourrir-leur-campagne_8222731.html": "2026-10-19T13:29:09.134697+00:00"
+  "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/donald-trump-et-jd-vance-instrumentalisent-les-violences-du-17-octobre-en-france-pour-nourrir-leur-campagne_8222731.html": "2026-10-19T13:29:09.134697+00:00",
+  "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/la-question-de-l-interdiction-de-lfi-peut-etre-posee-estime-le-president-du-senat-apres-les-violences-liees-au-17-octobre_8244622.html": "2026-10-19T20:37:12.634195+00:00",
+  "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/manifestations-du-17-octobre-comment-expliquer-la-perte-de-controle-des-forces-de-l-ordre-face-aux-debordements_8244625.html": "2026-10-19T20:37:12.634195+00:00",
+  "https://www.franceinfo.fr/societe/justice/manifestations-du-17-octobre-comment-vont-etre-indemnises-les-commercants-touches-par-les-degradations_8244577.html": "2026-10-19T20:37:12.634195+00:00",
+  "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/violences-du-17-octobre-ce-qu-il-faut-c-est-un-etat-d-urgence-social-estime-francois-piquemal-depute-lfi-de-haute-garonne_8244487.html": "2026-10-19T20:37:12.634195+00:00",
+  "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/manifestations-du-17-octobre-quelles-nouvelles-methodes-d-action-pour-les-forces-de-l-ordre-apres-la-perte-de-controle-reconnue-par-le-ministre_8244055.html": "2026-10-19T20:37:12.634195+00:00",
+  "https://www.franceinfo.fr/politique/affaire/financement-de-la-campagne-de-sarkozy/soupcons-de-financement-libyen-tout-comprendre-a-l-affaire/": "2026-10-19T20:37:12.634195+00:00",
+  "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/tout-comprendre-au-proces-des-assistants-parlementaires-fn/": "2026-10-19T20:37:12.634195+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "Sébastien Lecornu demande des \"couvre-feux partiels et localisés\" Face à un \"désordre organisé de manière inédite\", le Premier ministre, Sébastien Lecornu, a promis \"une réponse pénale massive\" ainsi des \"couvre-feux partiels et localisés\" dans certains centres-villes, lundi à l'issue d'une nouvelle cellule interministérielle de crise. Aujourd'hui 1:06 vidéo 1 minute 6",
+   "title": "La question de l’interdiction de LFI \"peut être posée\", estime le président du Sénat, après les violences liées au 17 octobre La France insoumise \"tient une grande part de responsabilité dans le discours de haine\", assure le président du Sénat, dans les colonnes du \"Figaro\". Aujourd'hui",
+   "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/la-question-de-l-interdiction-de-lfi-peut-etre-posee-estime-le-president-du-senat-apres-les-violences-liees-au-17-octobre_8244622.html",
+   "summary": "La question de l’interdiction de LFI \"peut être posée\", estime le président du Sénat, après les violences liées au 17 octobre",
+   "image": "https://www.franceinfo.fr/pictures/V_uV3eOcUXRUPlvjNIkFm57WpSo/32x0:1024x682/432x297/filters:format(jpg)/2026/10/19/6ad6753300915031622700.jpg",
+   "date": null,
+   "pubdate": "2026-10-19T20:37:12.634195+00:00"
+  },
+  {
+   "title": "2:27 vidéo 2 minutes 27 Manifestations du 17 octobre : comment expliquer la \"perte de contrôle\" des forces de l'ordre face aux débordements ?",
+   "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/manifestations-du-17-octobre-comment-expliquer-la-perte-de-controle-des-forces-de-l-ordre-face-aux-debordements_8244625.html",
+   "summary": "Manifestations du 17 octobre : comment expliquer la \"perte de contrôle\" des forces de l'ordre face aux débordements ?",
+   "image": "https://www.franceinfo.fr/pictures/cJQpV2cYOYVHqA3rVrieswf2YQY/87x0:1135x589/432x243/filters:format(jpg)/2026/10/19/6ad677d0eb084180815047.jpg",
+   "date": null,
+   "pubdate": "2026-10-19T20:37:12.634195+00:00"
+  },
+  {
+   "title": "2:21 vidéo 2 minutes 21 Manifestations du 17 octobre : comment vont être indemnisés les commerçants touchés par les dégradations ?",
+   "link": "https://www.franceinfo.fr/societe/justice/manifestations-du-17-octobre-comment-vont-etre-indemnises-les-commercants-touches-par-les-degradations_8244577.html",
+   "summary": "Manifestations du 17 octobre : comment vont être indemnisés les commerçants touchés par les dégradations ?",
+   "image": "https://www.franceinfo.fr/pictures/HgmRexl6m-zuMJo8lpyssgvkV88/101x0:1268x656/432x243/filters:format(jpg)/2026/10/19/6ad66fe9b711f136348124.jpg",
+   "date": null,
+   "pubdate": "2026-10-19T20:37:12.634195+00:00"
+  },
+  {
+   "title": "21:12 vidéo 21 minutes 12 Violences du 17 octobre : \"Ce qu'il faut, c'est un état d'urgence social\", estime François Piquemal, député LFI de Haute-Garonne",
+   "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/violences-du-17-octobre-ce-qu-il-faut-c-est-un-etat-d-urgence-social-estime-francois-piquemal-depute-lfi-de-haute-garonne_8244487.html",
+   "summary": "Violences du 17 octobre : \"Ce qu'il faut, c'est un état d'urgence social\", estime François Piquemal, député LFI de Haute-Garonne",
+   "image": "https://www.franceinfo.fr/pictures/2Db6Dl6khdq_JQhxKvDpEfjh-AQ/28x0:1220x671/432x243/filters:format(jpg)/2026/10/19/6ad65c3020127061621409.jpg",
+   "date": null,
+   "pubdate": "2026-10-19T20:37:12.634195+00:00"
+  },
+  {
+   "title": "1:35 vidéo 1 minute 35 Manifestations du 17 octobre : quelles nouvelles méthodes d'action pour les forces de l'ordre après la \"perte de contrôle\" reconnue par le ministre ?",
+   "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/manifestations-du-17-octobre-quelles-nouvelles-methodes-d-action-pour-les-forces-de-l-ordre-apres-la-perte-de-controle-reconnue-par-le-ministre_8244055.html",
+   "summary": "Manifestations du 17 octobre : quelles nouvelles méthodes d'action pour les forces de l'ordre après la \"perte de contrôle\" reconnue par le ministre ?",
+   "image": "https://www.franceinfo.fr/pictures/-n7Ajx17lvmSoOSEj2inQ509rjY/40x0:1069x579/432x243/filters:format(jpg)/2026/10/19/6ad620f5e829b457161856.jpg",
+   "date": null,
+   "pubdate": "2026-10-19T20:37:12.634195+00:00"
+  },
+  {
+   "title": "Soupçons de financement libyen : tout comprendre à l'affaire 29 contenus",
+   "link": "https://www.franceinfo.fr/politique/affaire/financement-de-la-campagne-de-sarkozy/soupcons-de-financement-libyen-tout-comprendre-a-l-affaire/",
+   "summary": "Soupçons de financement libyen : tout comprendre à l'affaire",
+   "image": "https://www.franceinfo.fr/pictures/v8aRR1aSuiF4ZIj9DIPv2bzZJf8/432x297/filters:format(jpg)/2025/10/22/sarkozymontage-68f8fa8dd58da459326159.jpg",
+   "date": null,
+   "pubdate": "2026-10-19T20:37:12.634195+00:00"
+  },
+  {
+   "title": "Tout comprendre au procès des assistants parlementaires FN 20 contenus",
+   "link": "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/tout-comprendre-au-proces-des-assistants-parlementaires-fn/",
+   "summary": "Tout comprendre au procès des assistants parlementaires FN",
+   "image": "https://www.franceinfo.fr/pictures/iHJ4ZCCHTABB8-X6GO7CrL-9zcI/432x297/filters:format(jpg)/2026/01/28/marine-le-pen-a-son-proces-en-appel-697a50d594f91234092099.jpg",
+   "date": null,
+   "pubdate": "2026-10-19T20:37:12.634195+00:00"
+  },
+  {
+   "title": "1:06 vidéo 1 minute 6 Sébastien Lecornu demande des \"couvre-feux partiels et localisés\"",
    "link": "https://www.franceinfo.fr/politique/sebastien-lecornu-demande-des-couvre-feux-partiels-et-localises_8244028.html",
    "summary": "Sébastien Lecornu demande des \"couvre-feux partiels et localisés\"",
-   "image": "https://www.franceinfo.fr/pictures/-G2Mq7qKFqEuDYV__vdzHI73lVY/0x0:1080x1920/fit-in/432x297/filters:upscale():fill(blur):format(jpg)/2026/10/19/6ad6121ba2db3770431703.jpg",
+   "image": "https://www.franceinfo.fr/pictures/Ejchkb5SUCYrgMQKPcN6JSSrw48/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/19/6ad6121ba2db3770431703.jpg",
    "date": null,
    "pubdate": "2026-10-19T13:29:09.134697+00:00"
   },
@@ -76,15 +132,15 @@
    "pubdate": "2026-10-19T13:29:09.134697+00:00"
   },
   {
-   "title": "\"Il est irresponsable de prendre la parole pour ne rien dire\" : l'allocution d'Emmanuel Macron jugée sévèrement par les oppositions",
+   "title": "\"Il est irresponsable de prendre la parole pour ne rien dire\" : l'allocution d'Emmanuel Macron jugée sévèrement par les oppositions Le président de la République a pris la parole dimanche soir, après un week-end de manifestations accompagnées de violences et de pillages. De la gauche à l'extrême droite, son discours a été jugé insuffisant.",
    "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/il-est-irresponsable-de-prendre-la-parole-pour-ne-rien-dire-l-allocution-d-emmanuel-macron-est-jugee-severement-par-les-oppositions_8243530.html",
-   "summary": "",
+   "summary": "\"Il est irresponsable de prendre la parole pour ne rien dire\" : l'allocution d'Emmanuel Macron jugée sévèrement par les oppositions",
    "image": "https://www.franceinfo.fr/pictures/K9Ui0zKxSmLA0JJWTubEWDYg3ds/0x52:1024x628/432x243/filters:format(jpg)/2026/10/19/6ad5b38adf8fd811435485.jpg",
    "date": null,
    "pubdate": "2026-10-19T13:29:09.134697+00:00"
   },
   {
-   "title": ": Édito 2:45 audio 2 minutes 45 : Édito Après les violences du 17 octobre, les candidats à la présidentielle dansent sur le volcan de la crise",
+   "title": ": Édito 2:45 audio 2 minutes 45 Après les violences du 17 octobre, les candidats à la présidentielle dansent sur le volcan de la crise Après les violences du 17 octobre, Emmanuel Macron appelle les forces politiques à la responsabilité dans un pays en pleine tension sociale. L’exécutif redoute que la crise ne se transforme en bataille électorale à six mois de la présidentielle.",
    "link": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-apres-les-violences-du-17-octobre-les-candidats-a-la-presidentielle-dansent-sur-le-volcan-de-la-crise_8222734.html",
    "summary": "Après les violences du 17 octobre, les candidats à la présidentielle dansent sur le volcan de la crise",
    "image": "https://www.franceinfo.fr/pictures/58SC-SyIXoHUbUT4xPiHyYUpOYc/0x0:1024x576/432x243/filters:format(jpg)/2026/10/19/6ad5b0bccf00b632555199.jpg",
@@ -92,15 +148,7 @@
    "pubdate": "2026-10-19T13:29:09.134697+00:00"
   },
   {
-   "title": "2:11 vidéo 2 minutes 11 \"De la colère et de la honte\" : Emmanuel Macron sort de son silence après le 17 octobre",
-   "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/de-la-colere-et-de-la-honte-emmanuel-macron-sort-de-son-silence-apres-le-17-octobre_8243509.html",
-   "summary": "\"De la colère et de la honte\" : Emmanuel Macron sort de son silence après le 17 octobre",
-   "image": "https://www.franceinfo.fr/pictures/i1N4ibgJ1SUXvY_ia0LiG4Q6AXM/310x0:1724x795/432x243/filters:format(jpg)/2026/10/19/6ad5b4f8d9380763470455.jpg",
-   "date": null,
-   "pubdate": "2026-10-19T13:29:09.134697+00:00"
-  },
-  {
-   "title": "2:27 audio 2 minutes 27 Après les violences du 17 octobre, une facture de plusieurs centaines de millions d’euros appelée à s’alourdir",
+   "title": "2:27 audio 2 minutes 27 Après les violences du 17 octobre, une facture de plusieurs centaines de millions d’euros appelée à s’alourdir Commerces pillés, bâtiments publics incendiés, mobilier urbain dégradé : la facture des violences s’annonce très lourde. Entre assurances, État et collectivités, elle finira aussi par peser sur les citoyens.",
    "link": "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/apres-les-violences-du-17-octobre-une-facture-de-plusieurs-centaines-de-millions-d-euros-appelee-a-s-alourdir_8222740.html",
    "summary": "Après les violences du 17 octobre, une facture de plusieurs centaines de millions d’euros appelée à s’alourdir",
    "image": "https://www.franceinfo.fr/pictures/pc887-MAsXDc3kJKtNR07bJP9Qo/0x261:5000x3073/432x243/filters:format(jpg)/2026/10/19/6ad5a52fa062d393504806.jpg",
@@ -108,7 +156,7 @@
    "pubdate": "2026-10-19T13:29:09.134697+00:00"
   },
   {
-   "title": "2:47 audio 2 minutes 47 Donald Trump et JD Vance instrumentalisent les violences du 17 octobre en France pour nourrir leur campagne",
+   "title": "2:47 audio 2 minutes 47 Donald Trump et JD Vance instrumentalisent les violences du 17 octobre en France pour nourrir leur campagne Donald Trump et JD Vance attribuent les violences du 17 octobre en France à l’immigration et s’en servent dans la campagne américaine. Une lecture pourtant très éloignée de celle des grands médias américains.",
    "link": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/donald-trump-et-jd-vance-instrumentalisent-les-violences-du-17-octobre-en-france-pour-nourrir-leur-campagne_8222731.html",
    "summary": "Donald Trump et JD Vance instrumentalisent les violences du 17 octobre en France pour nourrir leur campagne",
    "image": "https://www.franceinfo.fr/pictures/YDJHVftHhTv1udYDLIv6X9c04j4/0x53:1024x629/432x243/filters:format(jpg)/2026/10/19/6ad59fbce3849453115884.jpg",
@@ -160,14 +208,6 @@
    "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/rien-ne-le-justifie-rien-ne-l-explique-rien-ne-l-excuse-ce-qu-il-faut-retenir-de-l-allocution-d-emmanuel-macron-apres-les-violences-du-17-octobre_8243143.html",
    "summary": "\"Rien ne le justifie, rien ne l'explique, rien ne l'excuse\" : ce qu'il faut retenir de l'allocution d'Emmanuel Macron après les violences du 17 octobre",
    "image": "https://www.franceinfo.fr/pictures/SW8F078a7gBrSS-nX5_2jatq5vc/0x0:5540x3116/432x243/filters:format(jpg)/2026/10/18/6ad510eb38dda370384119.jpg",
-   "date": null,
-   "pubdate": "2026-10-18T20:51:17.086087+00:00"
-  },
-  {
-   "title": "Mobilisation du 17 octobre : le Premier ministre réunira \"dans les prochains jours\" partis politiques, syndicats et représentants des lycéens et des étudiants, annonce Emmanuel Macron \"Comment des Français peuvent faire cela à la France ?\", s'est interrogé le président de la République lors d'une allocution, après les violences qui ont émaillé les manifestations, samedi.",
-   "link": "https://www.franceinfo.fr/economie/greve/direct-mobilisation-du-17-octobre-1-200-personnes-ont-ete-interpellees-selon-le-premier-ministre-qui-pointe-des-degres-de-violence-inacceptables_8242435.html",
-   "summary": "Mobilisation du 17 octobre : le Premier ministre réunira \"dans les prochains jours\" partis politiques, syndicats et représentants des lycéens et des étudiants, annonce Emmanuel Macron",
-   "image": "https://www.franceinfo.fr/pictures/ykeGakx_sMaT_8Zw47pzy6qz5Uw/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/18/6ad50a589239e603998299.jpg",
    "date": null,
    "pubdate": "2026-10-18T20:51:17.086087+00:00"
   },
@@ -234,46 +274,6 @@
    "image": "https://www.franceinfo.fr/pictures/EcrfTdl1i8PhQi4X_wNkzXaxoK0/0x106:1024x682/432x243/filters:format(jpg)/2026/10/18/6ad4962f883bb419723581.jpg",
    "date": null,
    "pubdate": "2026-10-18T11:16:47.554058+00:00"
-  },
-  {
-   "title": "Le gouvernement est \"principalement responsable de ce qui est en train d’arriver\", dénonce Éric Coquerel au lendemain des violences du 17 octobre Le député LFI de Seine-Saint-Denis souligne que les insoumis n'étaient samedi que \"dans les rassemblements pacifiques\" et considère que le gouvernement \"ne comprend pas la situation qu'il a lui-même déclenchée.\"",
-   "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/le-gouvernement-est-principalement-responsable-de-ce-qui-est-en-train-d-arriver-denonce-eric-coquerel-au-lendemain-des-violences-du-17-octobre_8242570.html",
-   "summary": "Le gouvernement est \"principalement responsable de ce qui est en train d’arriver\", dénonce Éric Coquerel au lendemain des violences du 17 octobre",
-   "image": "https://www.franceinfo.fr/pictures/waBl63dsr_qkZTcJlXHPJOCOPfA/165x0:1165x562/432x243/filters:format(jpg)/2026/10/02/6abf52fa8f7d4643067930.jpg",
-   "date": null,
-   "pubdate": "2026-10-18T11:16:47.554058+00:00"
-  },
-  {
-   "title": "\"Il y a eu clairement un manque de moyens policiers\", déplore la première adjointe au maire de Paris, après les scènes de pillages et d'affrontements samedi La préfecture de police de Paris annonce l'arrestation de 855 personnes samedi dans la capitale, un \"chiffre record\".",
-   "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/il-y-a-eu-clairement-un-manque-de-moyens-policiers-deplore-la-premiere-adjointe-au-maire-de-paris-apres-les-scenes-de-pillages-et-d-affrontements-samedi_8242543.html",
-   "summary": "\"Il y a eu clairement un manque de moyens policiers\", déplore la première adjointe au maire de Paris, après les scènes de pillages et d'affrontements samedi",
-   "image": "https://www.franceinfo.fr/pictures/3Sdlt777GOLvvYQFIrPkl7VEqRM/0x0:1516x852/432x243/filters:format(jpg)/2026/10/18/6ad478d6bd7d8474033722.jpg",
-   "date": null,
-   "pubdate": "2026-10-18T11:16:47.554058+00:00"
-  },
-  {
-   "title": "\"Nous ne nous laisserons pas intimider\", prévient Sébastien Lecornu, dénonçant les violences en marge des manifestations du 17 octobre Le Premier ministre a apporté \"tout\" son soutien aux forces de l'ordre \"qui ont affronté une violence d'une extrême intensité\".",
-   "link": "https://www.franceinfo.fr/economie/greve/nous-ne-nous-laisserons-pas-intimider-previent-sebastien-lecornu-denoncant-les-violences-en-marge-des-manifestations-du-17-octobre_8242030.html",
-   "summary": "\"Nous ne nous laisserons pas intimider\", prévient Sébastien Lecornu, dénonçant les violences en marge des manifestations du 17 octobre",
-   "image": "https://www.franceinfo.fr/pictures/jod6Ruqd5sNiZi5TKBRZzc1JLCQ/0x435:4176x2784/432x243/filters:format(jpg)/2026/10/17/6ad3afa141b58998985343.jpg",
-   "date": null,
-   "pubdate": "2026-10-17T20:40:57.225517+00:00"
-  },
-  {
-   "title": "Jean-Luc Mélenchon salue \"des dizaines de milliers de gens calmement mobilisés\" pour les manifestations du 17 octobre, Jordan Bardella dénonce \"les professionnels du chaos\" La patronne des Ecologistes et candidate à la présidentielle Marine Tondelier a, de son côté, appelé le gouvernement à \"revoir\" sa doctrine du maintien de l'ordre, qui met en danger \"manifestants et policiers\".",
-   "link": "https://www.franceinfo.fr/economie/greve/manifestations-du-17-octobre-jean-luc-melenchon-salue-des-dizaines-de-milliers-de-gens-calmement-mobilises-jordan-bardella-denonce-les-professionnels-du-chaos_8241847.html",
-   "summary": "Jean-Luc Mélenchon salue \"des dizaines de milliers de gens calmement mobilisés\" pour les manifestations du 17 octobre, Jordan Bardella dénonce \"les professionnels du chaos\"",
-   "image": "https://www.franceinfo.fr/pictures/m_lG8hzrUqQrJIVrMBuXFGgYOXs/0x272:6000x3647/432x243/filters:format(jpg)/2026/10/17/6ad3815ea7b1d930181221.jpg",
-   "date": null,
-   "pubdate": "2026-10-17T15:41:04.111063+00:00"
-  },
-  {
-   "title": "19:53 audio 19 minutes 53 Mouvement des lycéens, retour des gilets jaunes, succès de LFI auprès des jeunes... Le \"8h30 franceinfo\" de Jérôme Fourquet Le directeur du département Opinion et stratégies d’entreprise de l'Ifop répondait aux questions de Camille Girerd et Benjamin Recouvreur.",
-   "link": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/mouvement-des-lyceens-retour-des-gilets-jaunes-succes-de-lfi-aupres-des-jeunes-le-8h30-franceinfo-de-jerome-fourquet_8220640.html",
-   "summary": "Mouvement des lycéens, retour des gilets jaunes, succès de LFI auprès des jeunes... Le \"8h30 franceinfo\" de Jérôme Fourquet",
-   "image": "https://www.franceinfo.fr/pictures/JnFPIdl1-NDsBQQzk0a7-blT7AU/0x0:1600x900/432x243/filters:format(jpg)/2026/10/17/6ad327b7201c7154080028.jpg",
-   "date": null,
-   "pubdate": "2026-10-17T10:51:57.580592+00:00"
   }
  ]
 }

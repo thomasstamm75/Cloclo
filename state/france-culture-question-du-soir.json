@@ -1,8 +1,7 @@
 {
- "etag": "\"155mdmf\"",
+ "etag": "\"qdri3d\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/faut-il-defendre-l-heritage-au-nom-de-l-interet-general-1735940": "2026-09-22T17:02:37.893577+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/la-chine-est-elle-la-grande-gagnante-des-crises-mondiales-5336727": "2026-09-23T11:00:00+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/primaire-les-socialistes-ont-ils-encore-quelque-chose-a-dire-9465168": "2026-09-24T17:18:13.948579+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/la-jeunesse-catholique-est-elle-plus-conservatrice-que-le-pape-6075830": "2026-09-25T11:00:00+00:00",
@@ -20,10 +19,19 @@
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/trump-a-t-il-sauve-poutine-3268912": "2026-10-13T16:59:23.968521+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/faut-il-supprimer-parcoursup-8683880": "2026-10-14T17:17:57.294392+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/le-made-in-europe-peut-il-sauver-l-industrie-europeenne-5438299": "2026-10-15T11:00:00+00:00",
-  "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/glucksmann-candidat-de-la-gauche-la-social-democratie-fait-elle-rever-6421240": "2026-10-16T16:44:29.073698+00:00"
+  "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/glucksmann-candidat-de-la-gauche-la-social-democratie-fait-elle-rever-6421240": "2026-10-16T16:44:29.073698+00:00",
+  "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/la-violence-nuit-elle-au-mouvement-social-3848565": "2026-10-19T20:37:25.488771+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "La violence nuit-elle au mouvement socialÂ ?",
+   "link": "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/la-violence-nuit-elle-au-mouvement-social-3848565",
+   "summary": "AprÃ¨s une mobilisation massive contre la vie chÃ¨re, la journÃ©e du 17 octobre a Ã©tÃ© marquÃ©e par des violences et dÃ©gradations inÃ©dites. Comment comprendre ces dÃ©bordementsÂ ? Affaiblissement du mouvement social, expression de la colÃ¨re populaire ou symptÃ´me dâune crise dÃ©mocratique plus profondeÂ ?",
+   "image": "https://www.radiofrance.fr/pikapi/images/30f81e4e-6b0e-414c-8d3a-39dfd499a193/2048",
+   "date": null,
+   "pubdate": "2026-10-19T20:37:25.488771+00:00"
+  },
   {
    "title": "Glucksmann candidat de la gaucheÂ : la social-dÃ©mocratie fait-elle rÃªverÂ ?",
    "link": "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/glucksmann-candidat-de-la-gauche-la-social-democratie-fait-elle-rever-6421240",
@@ -167,14 +175,6 @@
    "image": "https://www.radiofrance.fr/pikapi/images/0bf0c94b-125c-4a58-9509-0568a7bb6d6b/2048",
    "date": "2026-09-23T11:00:00+00:00",
    "pubdate": "2026-09-23T11:00:00+00:00"
-  },
-  {
-   "title": "Faut-il rÃ©former l'hÃ©ritage au nom de l'intÃ©rÃªt gÃ©nÃ©ralÂ ?",
-   "link": "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/faut-il-defendre-l-heritage-au-nom-de-l-interet-general-1735940",
-   "summary": "Ã lâheure oÃ¹ 9 000 milliards dâeuros doivent Ãªtre transmis dâici 2040, lâhÃ©ritage sâimpose au cÅur du dÃ©bat politique et budgÃ©taire. FiscalitÃ©, donations, pacte DutreilÂ : faut-il rÃ©former le modÃ¨le franÃ§ais de l'hÃ©ritage pour soutenir la croissance ou rÃ©duire les inÃ©galitÃ©sÂ ?",
-   "image": "https://www.radiofrance.fr/pikapi/images/89905014-a47a-414a-bd40-d167b77dfaa5/2048",
-   "date": null,
-   "pubdate": "2026-09-22T17:02:37.893577+00:00"
   }
  ]
 }
