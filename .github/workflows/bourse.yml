@@ -1,0 +1,73 @@
+name: Veille bourse
+
+# Rapport envoyé vers 7h30, heure de Paris, du lundi au vendredi.
+# GitHub planifie en UTC : 5h15 UTC en heure d'été, 6h15 UTC en heure d'hiver.
+# L'étape « Verifier l'heure » ne garde que le créneau qui correspond à la saison.
+on:
+  schedule:
+    - cron: "15 5 * * 1-5"
+    - cron: "15 6 * * 1-5"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: bourse
+  cancel-in-progress: false
+
+jobs:
+  veille:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Verifier l'heure
+        id: heure
+        run: |
+          DECALAGE=$(TZ=Europe/Paris date +%z)
+          LANCER=oui
+          if [ "${{ github.event_name }}" = "schedule" ]; then
+            case "${{ github.event.schedule }}" in
+              "15 5 * * 1-5") [ "$DECALAGE" = "+0200" ] || LANCER=non ;;
+              "15 6 * * 1-5") [ "$DECALAGE" = "+0100" ] || LANCER=non ;;
+            esac
+          fi
+          echo "Decalage Paris $DECALAGE, lancement : $LANCER"
+          echo "lancer=$LANCER" >> "$GITHUB_OUTPUT"
+
+      - uses: actions/checkout@v4
+        if: steps.heure.outputs.lancer == 'oui'
+
+      - uses: actions/setup-python@v5
+        if: steps.heure.outputs.lancer == 'oui'
+        with:
+          python-version: "3.12"
+
+      - name: Installer les dependances
+        if: steps.heure.outputs.lancer == 'oui'
+        run: pip install --quiet anthropic yfinance feedparser requests pyyaml
+
+      - name: Produire et envoyer le rapport
+        if: steps.heure.outputs.lancer == 'oui'
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          DESTINATAIRE: ${{ secrets.DESTINATAIRE }}
+        run: python3 bourse/veille.py
+
+      - name: Enregistrer le journal des signaux
+        if: steps.heure.outputs.lancer == 'oui'
+        run: |
+          git config user.name "cloclo-bot"
+          git config user.email "cloclo-bot@users.noreply.github.com"
+          git add bourse/journal.jsonl 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "Journal inchange."
+          else
+            git commit -m "Journal bourse du $(TZ=Europe/Paris date +%d/%m/%Y)"
+            for i in 1 2 3; do
+              git pull --rebase --quiet && git push && break
+              sleep $((i * 5))
+            done
+          fi

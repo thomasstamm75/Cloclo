@@ -1,0 +1,125 @@
+# Veille boursière quotidienne
+#
+# univers : actions suivies, code Yahoo Finance puis nom affiché.
+# Suffixes : .PA Paris, .DE Francfort, .AS Amsterdam, .MI Milan,
+# .MC Madrid, .BR Bruxelles, .HE Helsinki, .ST Stockholm.
+#
+# reperes : indices et matières premières donnés au modèle comme contexte.
+#
+# flux : flux RSS lus chaque matin.
+#
+# recherches_google_news : requêtes Google News, utiles pour les avis
+# d'analystes (relèvements et abaissements de recommandation).
+
+univers:
+  # Euro Stoxx 50
+  ADS.DE: Adidas
+  ADYEN.AS: Adyen
+  AD.AS: Ahold Delhaize
+  AI.PA: Air Liquide
+  AIR.PA: Airbus
+  ALV.DE: Allianz
+  ABI.BR: AB InBev
+  ARGX.BR: argenx
+  ASML.AS: ASML
+  CS.PA: AXA
+  BAS.DE: BASF
+  BAYN.DE: Bayer
+  BBVA.MC: BBVA
+  SAN.MC: Banco Santander
+  BMW.DE: BMW
+  BNP.PA: BNP Paribas
+  DB1.DE: Deutsche Börse
+  DBK.DE: Deutsche Bank
+  DHL.DE: DHL Group
+  DTE.DE: Deutsche Telekom
+  ENEL.MI: Enel
+  ENI.MI: Eni
+  EL.PA: EssilorLuxottica
+  RACE.MI: Ferrari
+  IBE.MC: Iberdrola
+  ITX.MC: Inditex
+  IFX.DE: Infineon
+  INGA.AS: ING
+  ISP.MI: Intesa Sanpaolo
+  OR.PA: L'Oréal
+  MC.PA: LVMH
+  MBG.DE: Mercedes-Benz
+  MUV2.DE: Munich Re
+  NOKIA.HE: Nokia
+  PRX.AS: Prosus
+  RMS.PA: Hermès
+  RHM.DE: Rheinmetall
+  SAF.PA: Safran
+  SAN.PA: Sanofi
+  SAP.DE: SAP
+  SU.PA: Schneider Electric
+  SIE.DE: Siemens
+  ENR.DE: Siemens Energy
+  STLAM.MI: Stellantis
+  TTE.PA: TotalEnergies
+  UCG.MI: UniCredit
+  DG.PA: Vinci
+  VOW3.DE: Volkswagen
+  WKL.AS: Wolters Kluwer
+  # Compléments CAC 40 et défense européenne
+  ACA.PA: Crédit Agricole
+  GLE.PA: Société Générale
+  ORA.PA: Orange
+  ENGI.PA: Engie
+  VIE.PA: Veolia
+  CAP.PA: Capgemini
+  DSY.PA: Dassault Systèmes
+  STMPA.PA: STMicroelectronics
+  HO.PA: Thales
+  AM.PA: Dassault Aviation
+  LDO.MI: Leonardo
+  SAAB-B.ST: Saab
+  KER.PA: Kering
+  RI.PA: Pernod Ricard
+  BN.PA: Danone
+  SGO.PA: Saint-Gobain
+  ML.PA: Michelin
+  RNO.PA: Renault
+  AF.PA: Air France-KLM
+  CA.PA: Carrefour
+  PUB.PA: Publicis
+  ENX.PA: Euronext
+
+reperes:
+  ^STOXX50E: Euro Stoxx 50
+  ^FCHI: CAC 40
+  ^GDAXI: DAX
+  BZ=F: Pétrole Brent
+  GC=F: Or
+  EURUSD=X: Euro en dollars
+
+indice_reference: ^STOXX50E
+
+flux:
+  - nom: Les Echos Marchés
+    url: https://services.lesechos.fr/rss/les-echos-finance-marches.xml
+  - nom: Les Echos Monde
+    url: https://services.lesechos.fr/rss/les-echos-monde.xml
+  - nom: Le Monde Économie
+    url: https://www.lemonde.fr/economie/rss_full.xml
+  - nom: Le Monde International
+    url: https://www.lemonde.fr/international/rss_full.xml
+  - nom: Boursorama
+    url: https://www.boursorama.com/rss/actualites/economie
+  - nom: Investing.com France
+    url: https://fr.investing.com/rss/news.rss
+  - nom: BCE communiqués
+    url: https://www.ecb.europa.eu/rss/press.html
+  - nom: CNBC Europe
+    url: https://www.cnbc.com/id/19794221/device/rss/rss.html
+  - nom: BBC Business
+    url: https://feeds.bbci.co.uk/news/business/rss.xml
+
+recherches_google_news:
+  - relève sa recommandation action
+  - abaisse sa recommandation action
+  - objectif de cours relevé
+  - achat d'actions dirigeant AMF
+  - Euro Stoxx 50 marchés européens
+  - géopolitique marchés pétrole
