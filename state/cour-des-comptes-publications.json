@@ -1,6 +1,6 @@
 {
- "etag": "W/\"1792505134\"",
- "last_modified": "Tue, 20 Oct 2026 14:05:34 GMT",
+ "etag": "W/\"1792523577\"",
+ "last_modified": "Tue, 20 Oct 2026 19:12:57 GMT",
  "first_seen": {
   "https://www.ccomptes.fr/fr/publications/les-unites-mixtes-de-recherche-umr": "2026-10-08T11:00:00+00:00",
   "https://www.ccomptes.fr/fr/publications/lagence-nationale-de-la-recherche-anr-une-trajectoire-budgetaire-devenue-insoutenable": "2026-10-08T11:00:00+00:00",
@@ -8,13 +8,21 @@
   "https://www.ccomptes.fr/fr/publications/les-relations-financieres-entre-letat-et-la-caisse-des-depots-et-consignations": "2026-10-05T11:00:00+00:00",
   "https://www.ccomptes.fr/fr/publications/lagence-de-linnovation-de-defense": "2026-10-01T11:00:00+00:00",
   "https://www.ccomptes.fr/fr/publications/le-dispositif-du-medecin-traitant": "2026-09-30T11:00:00+00:00",
-  "https://www.ccomptes.fr/fr/publications/lunion-departementale-des-associations-familiales-des-bouches-du-rhone": "2026-09-28T11:00:00+00:00",
   "https://www.ccomptes.fr/fr/publications/lencadrement-des-loyers": "2026-10-14T11:00:00+00:00",
   "https://www.ccomptes.fr/fr/publications/le-troisieme-cycle-des-etudes-de-medecine": "2026-10-14T11:00:00+00:00",
-  "https://www.ccomptes.fr/fr/publications/commune-de-grand-champ-morbihan-1": "2026-10-16T11:00:00+00:00"
+  "https://www.ccomptes.fr/fr/publications/commune-de-grand-champ-morbihan-1": "2026-10-16T11:00:00+00:00",
+  "https://www.ccomptes.fr/fr/publications/la-situation-financiere-de-la-securite-sociale-un-redressement-imperatif-en-2027": "2026-10-20T11:00:00+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "La situation financière de la sécurité sociale : un redressement impératif en 2027",
+   "link": "https://www.ccomptes.fr/fr/publications/la-situation-financiere-de-la-securite-sociale-un-redressement-imperatif-en-2027",
+   "summary": "À l’occasion de l’examen parlementaire du projet de loi de financement de la sécurité sociale (PLFSS) pour 2027, et à la demande de la commission des affaires sociales de l’Assemblée nationale, la Cour a conduit une analyse sur les enjeux financiers liés à la sécurité sociale , qui actualise celle p...",
+   "image": "https://www.ccomptes.fr/sites/default/files/styles/teaser_182x98/public/2026-09/Situation-financiere-de-la-securite-sociale-182x98.jpg?itok=wuUPfKJr",
+   "date": "2026-10-20T11:00:00+00:00",
+   "pubdate": "2026-10-20T11:00:00+00:00"
+  },
   {
    "title": "Commune de Grand-Champ (Morbihan)",
    "link": "https://www.ccomptes.fr/fr/publications/commune-de-grand-champ-morbihan-1",
@@ -86,14 +94,6 @@
    "image": "https://www.ccomptes.fr/sites/default/files/styles/teaser_182x98/public/2026-08/Role-du-medecin-traitant-182x98.jpg?itok=uLKq5u9N",
    "date": "2026-09-30T11:00:00+00:00",
    "pubdate": "2026-09-30T11:00:00+00:00"
-  },
-  {
-   "title": "L’Union départementale des associations familiales des Bouches-du-Rhône",
-   "link": "https://www.ccomptes.fr/fr/publications/lunion-departementale-des-associations-familiales-des-bouches-du-rhone",
-   "summary": "La Cour a procédé à un contrôle de suivi portant sur les comptes et la gestion de l’Union départementale des associations familiales des Bouches-du-Rhône publiées en 2023. Cette association, qui représente les associations familiales du département, est également chargée de deux missions pour lesque...",
-   "image": "https://www.ccomptes.fr/sites/default/files/styles/teaser_182x98/public/2026-09/UDAF-Bouches-du-Rhone-182x98.jpg?itok=ro6JwFgW",
-   "date": "2026-09-28T11:00:00+00:00",
-   "pubdate": "2026-09-28T11:00:00+00:00"
   }
  ]
 }

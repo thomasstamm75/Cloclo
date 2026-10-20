@@ -1,8 +1,7 @@
 {
- "etag": "\"qdri3d\"",
+ "etag": "\"u8t15v\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/la-chine-est-elle-la-grande-gagnante-des-crises-mondiales-5336727": "2026-09-23T11:00:00+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/primaire-les-socialistes-ont-ils-encore-quelque-chose-a-dire-9465168": "2026-09-24T17:18:13.948579+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/la-jeunesse-catholique-est-elle-plus-conservatrice-que-le-pape-6075830": "2026-09-25T11:00:00+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/affaire-thelyson-orelien-avant-de-tous-nous-tuer-l-ia-va-t-elle-d-abord-nous-diviser-7201314": "2026-09-28T11:00:00+00:00",
@@ -20,7 +19,8 @@
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/faut-il-supprimer-parcoursup-8683880": "2026-10-14T17:17:57.294392+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/le-made-in-europe-peut-il-sauver-l-industrie-europeenne-5438299": "2026-10-15T11:00:00+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/glucksmann-candidat-de-la-gauche-la-social-democratie-fait-elle-rever-6421240": "2026-10-16T16:44:29.073698+00:00",
-  "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/la-violence-nuit-elle-au-mouvement-social-3848565": "2026-10-19T20:37:25.488771+00:00"
+  "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/la-violence-nuit-elle-au-mouvement-social-3848565": "2026-10-19T20:37:25.488771+00:00",
+  "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/questions-du-soir-le-debat-emission-du-mardi-20-octobre-2026-7533340": "2026-10-17T11:00:00+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
@@ -31,6 +31,14 @@
    "image": "https://www.radiofrance.fr/pikapi/images/30f81e4e-6b0e-414c-8d3a-39dfd499a193/2048",
    "date": null,
    "pubdate": "2026-10-19T20:37:25.488771+00:00"
+  },
+  {
+   "title": "La justice est-elle le bon instrument pour rÃ©pondre aux violencesÂ ?",
+   "link": "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/questions-du-soir-le-debat-emission-du-mardi-20-octobre-2026-7533340",
+   "summary": "AprÃ¨s les violences et les pillages survenus en marge des manifestations du 17 octobre 2026, le gouvernement durcit le ton et multiplie les annonces rÃ©pressives. Face aux demandes de fermetÃ©, la justice peut-elle apaiser la colÃ¨re sociale ou est-elle devenue un levier politiqueÂ ?",
+   "image": "https://www.radiofrance.fr/pikapi/images/ebde49ef-baf5-4676-b8dc-49e8444eaa25/2048",
+   "date": "2026-10-17T11:00:00+00:00",
+   "pubdate": "2026-10-17T11:00:00+00:00"
   },
   {
    "title": "Glucksmann candidat de la gaucheÂ : la social-dÃ©mocratie fait-elle rÃªverÂ ?",
@@ -167,14 +175,6 @@
    "image": "https://www.radiofrance.fr/pikapi/images/3f87d526-37e7-4bf7-a970-8c4782ce06ed/2048",
    "date": null,
    "pubdate": "2026-09-24T17:18:13.948579+00:00"
-  },
-  {
-   "title": "La Chine est-elle la grande gagnante des crises mondialesÂ ?",
-   "link": "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/la-chine-est-elle-la-grande-gagnante-des-crises-mondiales-5336727",
-   "summary": "Le 23 septembre 2026 s'ouvre Ã Washington le sommet sino-amÃ©ricain. Les dirigeants des deux superpuissances se retrouvent pour la 3e fois en moins d'un an. Quels sujets y seront abordÃ©s et que peut-il en ressortirÂ ? On en dÃ©bat avec nos invitÃ©s.",
-   "image": "https://www.radiofrance.fr/pikapi/images/0bf0c94b-125c-4a58-9509-0568a7bb6d6b/2048",
-   "date": "2026-09-23T11:00:00+00:00",
-   "pubdate": "2026-09-23T11:00:00+00:00"
   }
  ]
 }
