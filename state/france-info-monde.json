@@ -1,18 +1,15 @@
 {
- "etag": "\"feb97d987a12b3be71122695148d4735-gzip\"",
+ "etag": "\"9729966a334fd80a9f63676b968338af-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/leon-xiv-en-france-retrouvez-l-essentiel/": "2026-10-20T00:24:57.935010+00:00",
   "https://www.franceinfo.fr/monde/usa/affaire-jeffrey-epstein/l-essentiel-des-revelations-sur-l-affaire-epstein/": "2026-10-20T00:24:57.935010+00:00",
   "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/tout-comprendre-a-la-guerre-au-moyen-orient/": "2026-10-20T00:24:57.935010+00:00",
   "https://www.franceinfo.fr/monde/groenland/le-groenland-au-c-ur-d-un-bras-de-fer-geopolitique/": "2026-10-20T00:24:57.935010+00:00",
-  "https://www.franceinfo.fr/replay-radio/histoire-du-jour/la-joueuse-de-tennis-ukrainienne-elina-svitolina-explique-pourquoi-elle-se-separe-de-gael-monfils_8245090.html": "2026-10-20T08:39:04.789196+00:00",
   "https://www.franceinfo.fr/replay-magazine/france-2/envoye-special/video-vous-devenez-fou-cecile-kohler-et-jacques-paris-racontent-la-torture-blanche-la-methode-du-regime-iranien-pour-briser-votre-esprit_8236993.html": "2026-10-20T08:39:04.789196+00:00",
   "https://www.franceinfo.fr/monde/europe/belgique/face-au-tri-eprouvant-de-parcoursup-des-milliers-d-etudiants-francais-s-exilent-en-belgique-pour-leurs-etudes-superieures_8245636.html": "2026-10-20T14:21:17.543136+00:00",
   "https://www.franceinfo.fr/monde/israel/nous-sommes-les-faiseurs-de-rois-le-vote-des-arabes-israeliens-sera-t-il-determinant-lors-des-elections-legislatives_8244580.html": "2026-10-20T14:21:17.543136+00:00",
   "https://www.franceinfo.fr/monde/proche-orient/tensions-entre-l-arabie-saoudite-et-l-iran/le-royaume-uni-va-deployer-des-avions-de-combat-pour-soutenir-l-arabie-saoudite-face-aux-frappes-des-houthis_8245582.html": "2026-10-20T14:21:17.543136+00:00",
-  "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/a-new-york-zohran-mamdani-mise-sur-les-technologies-quantiques-pour-faire-fructifier-l-argent-public_8224159.html": "2026-10-20T14:21:17.543136+00:00",
-  "https://www.franceinfo.fr/monde/europe/union-europeenne/avec-ses-attaques-en-mer-noire-la-russie-pourrait-declencher-une-crise-alimentaire-mondiale-denonce-l-ue_8245333.html": "2026-10-20T14:21:17.543136+00:00",
   "https://www.franceinfo.fr/monde/italie/en-italie-des-militaires-vont-etre-deployes-a-milan-apres-les-recents-affrontements-annonce-la-premiere-ministre-giorgia-meloni_8246125.html": "2026-10-20T19:20:07.604979+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-un-combattant-blesse-evacue-du-champ-de-bataille-par-un-drone-aerien-une-premiere_8245759.html": "2026-10-20T19:20:07.604979+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/il-faut-que-zelensky-ait-la-volonte-de-mettre-fin-a-cette-guerre-donald-trump-durcit-encore-le-ton-contre-l-ukraine_8246233.html": "2026-10-20T23:56:40.089496+00:00",
@@ -26,20 +23,62 @@
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-ukraine-la-russie-frappe-de-nouveau-le-secteur-energetique-et-le-reseau-ferroviaire-faisant-au-moins-4-morts_8246995.html": "2026-10-21T11:59:01.041316+00:00",
   "https://www.franceinfo.fr/replay-radio/le-monde-et-vous/du-portugal-a-l-espagne-la-crise-du-logement-alimente-une-vague-de-manifestations_8226037.html": "2026-10-21T11:59:01.041316+00:00",
   "https://www.franceinfo.fr/monde/asie/en-australie-la-deputee-helen-haines-victime-d-une-attaque-a-perdu-ses-deux-jambes-annonce-son-mari_8246887.html": "2026-10-21T11:59:01.041316+00:00",
-  "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/feux-en-indonesie-la-region-sous-un-nuage-toxique_8246875.html": "2026-10-21T11:59:01.041316+00:00",
-  "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/pouvoir-d-achat-la-colere-gagne-l-italie_8246845.html": "2026-10-21T11:59:01.041316+00:00",
-  "https://www.franceinfo.fr/replay-magazine/franceinfo/a-suivre-avec-loic-de-la-mornais/a-suivre-avec-loic-de-la-mornais-le-quart-d-heure-americain-du-mercredi-21-octobre_8246824.html": "2026-10-21T11:59:01.041316+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/le-secretaire-d-etat-americain-marco-rubio-juge-les-pourparlers-d-oslo-sur-la-guerre-en-ukraine-positifs-au-moment-ou-un-emissaire-americain-se-rend-a-moscou_8246815.html": "2026-10-21T11:59:01.041316+00:00",
   "https://www.franceinfo.fr/monde/russie/enquete-franceinfo-on-l-appelait-poutine-girl-comment-la-france-verrouille-les-demandes-de-visas-diplomatiques-russes-pour-limiter-les-risques-d-espionnage_8204495.html": "2026-10-21T11:59:01.041316+00:00",
-  "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/un-satellite-militaire-russe-traque-un-satellite-europeen-qui-fournit-des-renseignements-a-l-ukraine_8226073.html": "2026-10-21T11:59:01.041316+00:00"
+  "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/un-satellite-militaire-russe-traque-un-satellite-europeen-qui-fournit-des-renseignements-a-l-ukraine_8226073.html": "2026-10-21T11:59:01.041316+00:00",
+  "https://www.franceinfo.fr/monde/usa/donald-trump-apporte-un-soutien-a-marine-le-pen_8247688.html": "2026-10-21T17:18:15.157812+00:00",
+  "https://www.franceinfo.fr/economie/industrie/arcelormittal-lance-la-construction-d-un-four-electrique-pour-diviser-par-trois-les-emissions-de-co2_8247433.html": "2026-10-21T17:18:15.157812+00:00",
+  "https://www.franceinfo.fr/culture/livres/une-ecrivaine-pas-une-terroriste-pres-de-160-personnalites-apportent-leur-soutien-a-sally-rooney-dont-les-livres-sont-interdits-au-royaume-uni_8247343.html": "2026-10-21T17:18:15.157812+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/le-president-ukrainien-volodymyr-zelensky-appelle-a-un-gel-du-front-avant-des-discussions_8247382.html": "2026-10-21T17:18:15.157812+00:00",
+  "https://www.franceinfo.fr/monde/usa/il-est-important-d-etre-prepares-a-n-importe-quelle-situation-en-georgie-des-associations-sont-deployees-autour-des-bureaux-de-vote-pour-rassurer-les-electeurs_8246083.html": "2026-10-21T17:18:15.157812+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "De nouveaux billets mis en vente pour voir la Tapisserie de Bayeux à Londres, malgré les couacs de l'exposition L'été dernier, 100 000 billets étaient partis en quelques heures lors de la première vente. Mais décrocher le précieux sésame ne garantit pas une visite tranquille. Depuis son ouverture, l’exposition star du British Museum accumule les problèmes d'organisation. Aujourd'hui",
+   "title": "Donald Trump apporte un soutien à Marine Le Pen Interrogé sur un éventuel soutien à Marine Le Pen, candidate d'extrême droite à la présidentielle, Donald Trump répond qu'il ne \"la connaît pas\", mais qu'elle est \"la voix conservatrice\" en France. Notre chroniqueur Jean-Mathieu Pernin revient sur cette déclaration. Aujourd'hui 2:01 vidéo 2 minutes 1",
+   "link": "https://www.franceinfo.fr/monde/usa/donald-trump-apporte-un-soutien-a-marine-le-pen_8247688.html",
+   "summary": "Donald Trump apporte un soutien à Marine Le Pen",
+   "image": "https://www.franceinfo.fr/pictures/Ur4QTk4CyRyaC-1YCfxEK6nFHfA/0x0:1080x1920/fit-in/432x297/filters:upscale():fill(blur):format(jpg)/2026/10/21/6ad8e5e9a6261691199459.jpg",
+   "date": null,
+   "pubdate": "2026-10-21T17:18:15.157812+00:00"
+  },
+  {
+   "title": "ArcelorMittal lance la construction d'un four électrique pour diviser par trois les émissions de CO2",
+   "link": "https://www.franceinfo.fr/economie/industrie/arcelormittal-lance-la-construction-d-un-four-electrique-pour-diviser-par-trois-les-emissions-de-co2_8247433.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/ckhcLxwKLvbLHonOtKP2cNSWqRc/0x0:1715x965/432x243/filters:format(jpg)/2026/10/21/6ad8da3306e60393659135.jpg",
+   "date": null,
+   "pubdate": "2026-10-21T17:18:15.157812+00:00"
+  },
+  {
+   "title": "\"Une écrivaine, pas une terroriste\" : des personnalités, dont Annie Ernaux et Anne Carson, apportent leur soutien à Sally Rooney, dont la vente des livres est interdite au Royaume-Uni",
+   "link": "https://www.franceinfo.fr/culture/livres/une-ecrivaine-pas-une-terroriste-pres-de-160-personnalites-apportent-leur-soutien-a-sally-rooney-dont-les-livres-sont-interdits-au-royaume-uni_8247343.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/7-bK5OA_n_VCyjgXJasWgNgN2uk/0x705:8256x5349/432x243/filters:format(jpg)/2026/10/21/6ad8bd1cb451a497455072.jpg",
+   "date": null,
+   "pubdate": "2026-10-21T17:18:15.157812+00:00"
+  },
+  {
+   "title": "Volodymyr Zelensky appelle à \"un gel\" du front avant des discussions entre l'Ukraine et la Russie",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/le-president-ukrainien-volodymyr-zelensky-appelle-a-un-gel-du-front-avant-des-discussions_8247382.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/Oyt_E2SqaLkFhCl4t5YREVyDka8/0x80:1024x656/432x243/filters:format(jpg)/2026/10/21/6ad8bcd987543698210640.jpg",
+   "date": null,
+   "pubdate": "2026-10-21T17:18:15.157812+00:00"
+  },
+  {
+   "title": ": Reportage : Reportage \"Il est important d'être préparés à n'importe quelle situation\" : en Géorgie, des associations sont déployées autour des bureaux de vote pour rassurer les électeurs",
+   "link": "https://www.franceinfo.fr/monde/usa/il-est-important-d-etre-prepares-a-n-importe-quelle-situation-en-georgie-des-associations-sont-deployees-autour-des-bureaux-de-vote-pour-rassurer-les-electeurs_8246083.html",
+   "summary": "\"Il est important d'être préparés à n'importe quelle situation\" : en Géorgie, des associations sont déployées autour des bureaux de vote pour rassurer les électeurs",
+   "image": "https://www.franceinfo.fr/pictures/xTLjfYpOWmle6g9dv0Q-5869tpg/0x53:1024x629/432x243/filters:format(jpg)/2026/10/20/6ad7ac676bcc0903070973.jpg",
+   "date": null,
+   "pubdate": "2026-10-21T17:18:15.157812+00:00"
+  },
+  {
+   "title": "De nouveaux billets mis en vente pour voir la Tapisserie de Bayeux à Londres, malgré les couacs de l'exposition",
    "link": "https://www.franceinfo.fr/culture/patrimoine/de-nouveaux-billets-mis-en-vente-pour-voir-la-tapisserie-de-bayeux-a-londres-malgre-les-couacs-de-l-exposition_8245684.html",
-   "summary": "De nouveaux billets mis en vente pour voir la Tapisserie de Bayeux à Londres, malgré les couacs de l'exposition",
-   "image": "https://www.franceinfo.fr/pictures/Qu2f8Rri4yXv2MGTuFlVyLz_KsU/16x0:1008x682/432x297/filters:format(jpg)/2026/10/20/6ad771a2de7ca270634328.jpg",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/HSuG8JMVLsKdX8L54I-ac9Otp8Y/0x53:1024x629/432x243/filters:format(jpg)/2026/10/20/6ad771a2de7ca270634328.jpg",
    "date": null,
    "pubdate": "2026-10-21T11:59:01.041316+00:00"
   },
@@ -76,50 +115,26 @@
    "pubdate": "2026-10-21T11:59:01.041316+00:00"
   },
   {
-   "title": "En Australie, la députée Helen Haines, victime d'une attaque, a perdu ses deux jambes, annonce son mari",
+   "title": ": Enquête franceinfo 7:00 article 7 minutes : Enquête franceinfo \"On l'appelait 'Poutine Girl'\" : comment la France verrouille les demandes de visas diplomatiques russes pour limiter les risques d'espionnage",
+   "link": "https://www.franceinfo.fr/monde/russie/enquete-franceinfo-on-l-appelait-poutine-girl-comment-la-france-verrouille-les-demandes-de-visas-diplomatiques-russes-pour-limiter-les-risques-d-espionnage_8204495.html",
+   "summary": "\"On l'appelait 'Poutine Girl'\" : comment la France verrouille les demandes de visas diplomatiques russes pour limiter les risques d'espionnage",
+   "image": "https://www.franceinfo.fr/pictures/A2h_E5mcyVZ6lfsJdOFeBuwq-9I/456x0:2616x2160/100x100/filters:format(jpg)/2026/10/13/6acdf7b4ac2f8834592008.jpg",
+   "date": null,
+   "pubdate": "2026-10-21T11:59:01.041316+00:00"
+  },
+  {
+   "title": "En Australie, la députée Helen Haines, victime d'une attaque, a perdu ses deux jambes, annonce son mari L'homme suspecté d'avoir percuté volontairement la députée indépendante de 65 ans a été présenté au tribunal mercredi.",
    "link": "https://www.franceinfo.fr/monde/asie/en-australie-la-deputee-helen-haines-victime-d-une-attaque-a-perdu-ses-deux-jambes-annonce-son-mari_8246887.html",
-   "summary": "",
+   "summary": "En Australie, la députée Helen Haines, victime d'une attaque, a perdu ses deux jambes, annonce son mari",
    "image": "https://www.franceinfo.fr/pictures/-kefBhtTAKE4oe2L84KHLUxqvIs/0x0:7407x4166/432x243/filters:format(jpg)/2026/10/19/6ad5e76e1d5dc803163742.jpg",
    "date": null,
    "pubdate": "2026-10-21T11:59:01.041316+00:00"
   },
   {
-   "title": "1:54 vidéo 1 minute 54 Feux en Indonésie : la région sous un nuage toxique",
-   "link": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/feux-en-indonesie-la-region-sous-un-nuage-toxique_8246875.html",
-   "summary": "Feux en Indonésie : la région sous un nuage toxique",
-   "image": "https://www.franceinfo.fr/pictures/nxBzLKOWAh1igK7UrQd91wemVD0/171x0:1331x652/432x243/filters:format(jpg)/2026/10/21/6ad859d1e9e44141489873.jpg",
-   "date": null,
-   "pubdate": "2026-10-21T11:59:01.041316+00:00"
-  },
-  {
-   "title": "1:32 vidéo 1 minute 32 Pouvoir d'achat : la colère gagne l'Italie",
-   "link": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/pouvoir-d-achat-la-colere-gagne-l-italie_8246845.html",
-   "summary": "Pouvoir d'achat : la colère gagne l'Italie",
-   "image": "https://www.franceinfo.fr/pictures/xoip-ltmYWkohdnu59NWenIgWuU/173x0:1306x637/432x243/filters:format(jpg)/2026/10/21/6ad8555b146f1655340011.jpg",
-   "date": null,
-   "pubdate": "2026-10-21T11:59:01.041316+00:00"
-  },
-  {
-   "title": "18:12 vidéo 18 minutes 12 À suivre avec Loïc de la Mornais : le quart d'heure américain du mercredi 21 octobre",
-   "link": "https://www.franceinfo.fr/replay-magazine/franceinfo/a-suivre-avec-loic-de-la-mornais/a-suivre-avec-loic-de-la-mornais-le-quart-d-heure-americain-du-mercredi-21-octobre_8246824.html",
-   "summary": "À suivre avec Loïc de la Mornais : le quart d'heure américain du mercredi 21 octobre",
-   "image": "https://www.franceinfo.fr/pictures/dLI-9czYfpLr4Yz80-8OimQ1mMk/0x114:1558x991/432x243/filters:format(jpg)/2026/10/21/6ad853300568f888714622.png",
-   "date": null,
-   "pubdate": "2026-10-21T11:59:01.041316+00:00"
-  },
-  {
-   "title": "Le secrétaire d'Etat américain Marco Rubio juge les pourparlers d'Oslo sur la guerre en Ukraine \"positifs\" au moment où un émissaire américain se rend à Moscou",
+   "title": "Le secrétaire d'Etat américain Marco Rubio juge les pourparlers d'Oslo sur la guerre en Ukraine \"positifs\" au moment où un émissaire américain se rend à Moscou Un émissaire américain est attendu à Saint-Pétersbourg pour des pourparlers avec le président russe, Vladimir Poutine.",
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/le-secretaire-d-etat-americain-marco-rubio-juge-les-pourparlers-d-oslo-sur-la-guerre-en-ukraine-positifs-au-moment-ou-un-emissaire-americain-se-rend-a-moscou_8246815.html",
-   "summary": "",
+   "summary": "Le secrétaire d'Etat américain Marco Rubio juge les pourparlers d'Oslo sur la guerre en Ukraine \"positifs\" au moment où un émissaire américain se rend à Moscou",
    "image": "https://www.franceinfo.fr/pictures/9wDjCgfdjJ9jARgkz6WP_cnl-y4/0x0:5500x3093/432x243/filters:format(jpg)/2026/10/21/6ad852ea2ef4c215382286.jpg",
-   "date": null,
-   "pubdate": "2026-10-21T11:59:01.041316+00:00"
-  },
-  {
-   "title": ": Enquête franceinfo 7:00 article 7 minutes : Enquête franceinfo \"On l'appelait 'Poutine Girl'\" : comment la France verrouille les demandes de visas diplomatiques russes pour limiter les risques d'espionnage",
-   "link": "https://www.franceinfo.fr/monde/russie/enquete-franceinfo-on-l-appelait-poutine-girl-comment-la-france-verrouille-les-demandes-de-visas-diplomatiques-russes-pour-limiter-les-risques-d-espionnage_8204495.html",
-   "summary": "\"On l'appelait 'Poutine Girl'\" : comment la France verrouille les demandes de visas diplomatiques russes pour limiter les risques d'espionnage",
-   "image": "https://www.franceinfo.fr/pictures/A2h_E5mcyVZ6lfsJdOFeBuwq-9I/456x0:2616x2160/100x100/filters:format(jpg)/2026/10/13/6acdf7b4ac2f8834592008.jpg",
    "date": null,
    "pubdate": "2026-10-21T11:59:01.041316+00:00"
   },
@@ -212,34 +227,10 @@
    "pubdate": "2026-10-20T14:21:17.543136+00:00"
   },
   {
-   "title": "2:35 audio 2 minutes 35 À New York, Zohran Mamdani mise sur les technologies quantiques pour faire fructifier l'argent public La mairie de New York investit 29 millions de dollars dans un futur laboratoire de recherches quantiques. Avec l'espoir de créer des emplois, de stimuler l'innovation et de générer des revenus pour les habitants. Un pari qui reste risqué.",
-   "link": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/a-new-york-zohran-mamdani-mise-sur-les-technologies-quantiques-pour-faire-fructifier-l-argent-public_8224159.html",
-   "summary": "À New York, Zohran Mamdani mise sur les technologies quantiques pour faire fructifier l'argent public",
-   "image": "https://www.franceinfo.fr/pictures/UrQskPLOCp6fPg7ohVvfIqKAXAo/0x77:1024x653/432x243/filters:format(jpg)/2026/10/20/6ad7357bde31b770136898.jpg",
-   "date": null,
-   "pubdate": "2026-10-20T14:21:17.543136+00:00"
-  },
-  {
-   "title": "Avec ses attaques de drone en mer Noire, la Russie pourrait déclencher une crise alimentaire mondiale, dénonce l'UE La mer Noire constitue une artère maritime essentielle pour l'exportation mondiale de céréales, de ressources énergétiques et de matières premières pour l'industrie.",
-   "link": "https://www.franceinfo.fr/monde/europe/union-europeenne/avec-ses-attaques-en-mer-noire-la-russie-pourrait-declencher-une-crise-alimentaire-mondiale-denonce-l-ue_8245333.html",
-   "summary": "Avec ses attaques de drone en mer Noire, la Russie pourrait déclencher une crise alimentaire mondiale, dénonce l'UE",
-   "image": "https://www.franceinfo.fr/pictures/n08knCRN3RfqbjJ01udCJXZs-24/0x427:4104x2736/432x243/filters:format(jpg)/2026/10/20/6ad72fe4f2e0c342970767.jpg",
-   "date": null,
-   "pubdate": "2026-10-20T14:21:17.543136+00:00"
-  },
-  {
    "title": "5:30 vidéo 5 minutes 30 DOCUMENT FRANCETV. \"Vous devenez fou\" : Cécile Kohler et Jacques Paris racontent la \"torture blanche\", la méthode du régime iranien pour \"briser votre esprit\"",
    "link": "https://www.franceinfo.fr/replay-magazine/france-2/envoye-special/video-vous-devenez-fou-cecile-kohler-et-jacques-paris-racontent-la-torture-blanche-la-methode-du-regime-iranien-pour-briser-votre-esprit_8236993.html",
    "summary": "DOCUMENT FRANCETV. \"Vous devenez fou\" : Cécile Kohler et Jacques Paris racontent la \"torture blanche\", la méthode du régime iranien pour \"briser votre esprit\"",
    "image": "https://www.franceinfo.fr/pictures/dWA5G68ZwJprnFwRyjHteu6fx4M/420x0:1500x1080/100x100/filters:format(jpg)/2026/10/15/6ad0e2db68fc9731235357.jpg",
-   "date": null,
-   "pubdate": "2026-10-20T08:39:04.789196+00:00"
-  },
-  {
-   "title": "2:49 audio 2 minutes 49 La joueuse de tennis ukrainienne Elina Svitolina explique pourquoi elle se sépare de Gaël Monfils La joueuse ukrainienne Elina Svitolina annonce la fin de son mariage avec Gaël Monfils après huit ans de vie commune. Dans un long message, elle évoque la guerre en Ukraine qui l'habite, ses \"nuits blanches\" et ses difficultés à \"se retrouver\".",
-   "link": "https://www.franceinfo.fr/replay-radio/histoire-du-jour/la-joueuse-de-tennis-ukrainienne-elina-svitolina-explique-pourquoi-elle-se-separe-de-gael-monfils_8245090.html",
-   "summary": "La joueuse de tennis ukrainienne Elina Svitolina explique pourquoi elle se sépare de Gaël Monfils",
-   "image": "https://www.franceinfo.fr/pictures/1M6nOn3GYU2PVwZnPdvhcUxvs4U/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/20/6ad71dbda95cd397899942.jpg",
    "date": null,
    "pubdate": "2026-10-20T08:39:04.789196+00:00"
   },

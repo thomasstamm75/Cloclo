@@ -5,8 +5,14 @@
     <link>https://www.ccomptes.fr/fr</link>
     <description>Flux fabriqué par Cloclo à partir de https://www.ccomptes.fr/fr</description>
     <language>fr</language>
-    <lastBuildDate>Wed, 21 Oct 2026 11:59:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 17:18:22 +0000</lastBuildDate>
     <atom:link href="https://thomasstamm75.github.io/Cloclo/cour-des-comptes.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Technologies quantiques : la Cour des comptes et son homologue allemand présentent leurs travaux communs à l'ambassade d'Allemagne</title>
+      <link>https://www.ccomptes.fr/fr/actualites/technologies-quantiques-la-cour-des-comptes-et-son-homologue-allemand-presentent-leurs</link>
+      <guid isPermaLink="true">https://www.ccomptes.fr/fr/actualites/technologies-quantiques-la-cour-des-comptes-et-son-homologue-allemand-presentent-leurs</guid>
+      <pubDate>Wed, 21 Oct 2026 11:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Trois nominations à la Cour des comptes</title>
       <link>https://www.ccomptes.fr/fr/communiques-presse/trois-nominations-la-cour-des-comptes-0</link>
@@ -31,12 +37,6 @@
       <link>https://www.ccomptes.fr/fr/communiques-presse/renforcer-lacces-des-citoyens-aux-travaux-des-juridictions-financieres</link>
       <guid isPermaLink="true">https://www.ccomptes.fr/fr/communiques-presse/renforcer-lacces-des-citoyens-aux-travaux-des-juridictions-financieres</guid>
       <pubDate>Mon, 21 Sep 2026 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Retour sur les Rencontres de l’évaluation 2026</title>
-      <link>https://www.ccomptes.fr/fr/actualites/retour-sur-les-rencontres-de-levaluation-2026</link>
-      <guid isPermaLink="true">https://www.ccomptes.fr/fr/actualites/retour-sur-les-rencontres-de-levaluation-2026</guid>
-      <pubDate>Tue, 30 Jun 2026 11:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
