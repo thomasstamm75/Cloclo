@@ -1,8 +1,7 @@
 {
- "etag": "\"a6uv14\"",
+ "etag": "\"1kcx2av\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/la-beaute-n-a-plus-de-prix-ni-de-frontieres-5315294": "2026-09-24T11:55:35.332281+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/le-benelux-locomotive-des-sanctions-europeennes-contre-israel-8985492": "2026-09-25T11:58:14.730623+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/data-centers-la-course-aux-profits-4977394": "2026-09-28T14:06:42.174410+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/sanctions-contre-l-iran-la-turquie-dans-le-viseur-de-washington-9211881": "2026-09-30T05:40:50.028586+00:00",
@@ -19,10 +18,19 @@
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/senegal-pourquoi-le-fmi-exige-que-le-pays-restructure-sa-dette-9664100": "2026-10-15T11:38:27.123781+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/grece-une-dette-qui-recule-mais-une-precarite-qui-persiste-2812209": "2026-10-16T11:32:21.494398+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/reforme-du-lycee-la-promesse-de-l-emploi-a-t-elle-ete-tenue-4792528": "2026-10-19T13:29:21.119779+00:00",
-  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/l-entreprenariat-par-necessite-2795523": "2026-10-20T08:39:13.495148+00:00"
+  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/l-entreprenariat-par-necessite-2795523": "2026-10-20T08:39:13.495148+00:00",
+  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/en-thailande-le-gouvernement-paie-l-addition-8024973": "2026-10-21T11:59:09.791764+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "En ThaÃ¯lande, le gouvernement paie l'addition",
+   "link": "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/en-thailande-le-gouvernement-paie-l-addition-8024973",
+   "summary": "Face Ã l'inflation, le gouvernement thaÃ¯landais cherche Ã soulager le porte monnaie des mÃ©nages en payant directement une partie de leurs factures chez les commerÃ§ants. 26 millions de personnes soit les deux tiers de la population active. Une mesure populiste qui ne grÃ¨ve pas encore le budget.",
+   "image": "https://www.radiofrance.fr/pikapi/images/dde19536-ebb3-4272-b7b2-ae43c3d16c23/2048",
+   "date": null,
+   "pubdate": "2026-10-21T11:59:09.791764+00:00"
+  },
   {
    "title": "L'entreprenariat par nÃ©cessitÃ©",
    "link": "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/l-entreprenariat-par-necessite-2795523",
@@ -158,14 +166,6 @@
    "image": "https://www.radiofrance.fr/pikapi/images/3e112fad-5502-46e3-94bb-d47ee70f5b49/2048",
    "date": null,
    "pubdate": "2026-09-25T11:58:14.730623+00:00"
-  },
-  {
-   "title": "La beautÃ© n'a plus de prix ni de frontiÃ¨res",
-   "link": "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/la-beaute-n-a-plus-de-prix-ni-de-frontieres-5315294",
-   "summary": "PortÃ© par les rÃ©seaux sociaux, le tourisme mÃ©dical esthÃ©tique est aujourd'hui un marchÃ© mondial estimÃ© Ã prÃ¨s de 9 milliards de dollars et promis Ã une croissance Ã deux chiffres d'ici 2037. S'il est un gain pour les pays de destination, il est souvent un coÃ»t pour les pays d'origine des patients.",
-   "image": "https://www.radiofrance.fr/pikapi/images/bdbb9e2d-b5a0-45df-886d-5d75789c39c9/2048",
-   "date": null,
-   "pubdate": "2026-09-24T11:55:35.332281+00:00"
   }
  ]
 }

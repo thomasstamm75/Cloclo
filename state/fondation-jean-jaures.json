@@ -1,43 +1,17 @@
 {
  "etag": "",
- "last_modified": "Tue, 20 Oct 2026 18:38:24 GMT",
+ "last_modified": "Wed, 21 Oct 2026 11:40:25 GMT",
  "first_seen": {
   "https://www.jean-jaures.org/publication/les-apostats-renoncer-a-lislam/": "2026-10-14T11:00:00+00:00",
-  "https://www.jean-jaures.org/publication/que-se-passerait-il-au-sein-de-letat-si-lextreme-droite-arrivait-au-pouvoir-en-france/": "2026-10-14T11:00:00+00:00",
-  "https://www.jean-jaures.org/publication/france-mexique-ce-que-la-diplomatie-oublie-la-culture-le-retient/": "2026-10-15T11:00:00+00:00",
-  "https://www.jean-jaures.org/publication/colere-lyceenne-tf1-le-mauvais-eleve-des-jt/": "2026-10-16T11:00:00+00:00",
-  "https://www.jean-jaures.org/publication/preoccupees-mais-insouciantes-lambiguite-des-gauches-face-a-lantisemitisme/": "2026-10-19T11:00:00+00:00",
-  "https://www.jean-jaures.org/publication/lantisemitisme-et-la-nouvelle-maison/": "2026-10-19T11:00:00+00:00"
+  "https://www.jean-jaures.org/publication/de-jordan-a-lamer-quand-le-poison-de-lantisemitisme-infuse-aussi-les-milieux-de-gauche/": "2026-10-15T11:00:00+00:00",
+  "https://www.jean-jaures.org/publication/faire-de-la-cooperation-une-force-politique-reflexions-sur-la-puissance-politique-de-la-cooperation-anglaise/": "2026-10-07T11:00:00+00:00",
+  "https://www.jean-jaures.org/publication/invisibiliser-polariser-desinformer-la-crise-environnementale-selon-cnews/": "2026-10-05T11:00:00+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "Préoccupées mais insouciantes : l’ambiguïté des gauches face à l’antisémitisme",
-   "link": "https://www.jean-jaures.org/publication/preoccupees-mais-insouciantes-lambiguite-des-gauches-face-a-lantisemitisme/",
-   "summary": "",
-   "image": "",
-   "date": "2026-10-19T11:00:00+00:00",
-   "pubdate": "2026-10-19T11:00:00+00:00"
-  },
-  {
-   "title": "L’antisémitisme et la nouvelle maison",
-   "link": "https://www.jean-jaures.org/publication/lantisemitisme-et-la-nouvelle-maison/",
-   "summary": "",
-   "image": "",
-   "date": "2026-10-19T11:00:00+00:00",
-   "pubdate": "2026-10-19T11:00:00+00:00"
-  },
-  {
-   "title": "Colère lycéenne : TF1, le mauvais élève des JT",
-   "link": "https://www.jean-jaures.org/publication/colere-lyceenne-tf1-le-mauvais-eleve-des-jt/",
-   "summary": "",
-   "image": "",
-   "date": "2026-10-16T11:00:00+00:00",
-   "pubdate": "2026-10-16T11:00:00+00:00"
-  },
-  {
-   "title": "France-Mexique : ce que la diplomatie oublie, la culture le retient",
-   "link": "https://www.jean-jaures.org/publication/france-mexique-ce-que-la-diplomatie-oublie-la-culture-le-retient/",
+   "title": "De Jordan à l’amer… Quand le poison de l’antisémitisme infuse aussi les milieux de gauche",
+   "link": "https://www.jean-jaures.org/publication/de-jordan-a-lamer-quand-le-poison-de-lantisemitisme-infuse-aussi-les-milieux-de-gauche/",
    "summary": "",
    "image": "",
    "date": "2026-10-15T11:00:00+00:00",
@@ -52,12 +26,20 @@
    "pubdate": "2026-10-14T11:00:00+00:00"
   },
   {
-   "title": "Que se passerait-il au sein de l’État si l’extrême droite arrivait au pouvoir en France ?",
-   "link": "https://www.jean-jaures.org/publication/que-se-passerait-il-au-sein-de-letat-si-lextreme-droite-arrivait-au-pouvoir-en-france/",
+   "title": "Faire de la coopération une force politique ? Réflexions sur la puissance politique de la coopération anglaise",
+   "link": "https://www.jean-jaures.org/publication/faire-de-la-cooperation-une-force-politique-reflexions-sur-la-puissance-politique-de-la-cooperation-anglaise/",
    "summary": "",
    "image": "",
-   "date": "2026-10-14T11:00:00+00:00",
-   "pubdate": "2026-10-14T11:00:00+00:00"
+   "date": "2026-10-07T11:00:00+00:00",
+   "pubdate": "2026-10-07T11:00:00+00:00"
+  },
+  {
+   "title": "Invisibiliser, polariser, désinformer : la crise environnementale selon CNews",
+   "link": "https://www.jean-jaures.org/publication/invisibiliser-polariser-desinformer-la-crise-environnementale-selon-cnews/",
+   "summary": "",
+   "image": "",
+   "date": "2026-10-05T11:00:00+00:00",
+   "pubdate": "2026-10-05T11:00:00+00:00"
   }
  ]
 }
