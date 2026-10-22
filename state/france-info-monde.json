@@ -1,10 +1,9 @@
 {
- "etag": "\"f93727273c2de9c3805cd0bb5c64b569-gzip\"",
+ "etag": "\"fdba19423c42fb1cd8d7f0303998f1b3-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/leon-xiv-en-france-retrouvez-l-essentiel/": "2026-10-20T00:24:57.935010+00:00",
   "https://www.franceinfo.fr/monde/usa/affaire-jeffrey-epstein/l-essentiel-des-revelations-sur-l-affaire-epstein/": "2026-10-20T00:24:57.935010+00:00",
-  "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/tout-comprendre-a-la-guerre-au-moyen-orient/": "2026-10-20T00:24:57.935010+00:00",
   "https://www.franceinfo.fr/replay-magazine/france-2/envoye-special/video-vous-devenez-fou-cecile-kohler-et-jacques-paris-racontent-la-torture-blanche-la-methode-du-regime-iranien-pour-briser-votre-esprit_8236993.html": "2026-10-20T08:39:04.789196+00:00",
   "https://www.franceinfo.fr/monde/italie/en-italie-des-militaires-vont-etre-deployes-a-milan-apres-les-recents-affrontements-annonce-la-premiere-ministre-giorgia-meloni_8246125.html": "2026-10-20T19:20:07.604979+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/il-faut-que-zelensky-ait-la-volonte-de-mettre-fin-a-cette-guerre-donald-trump-durcit-encore-le-ton-contre-l-ukraine_8246233.html": "2026-10-20T23:56:40.089496+00:00",
@@ -31,12 +30,21 @@
   "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/quand-trump-fait-campagne-sur-le-dos-de-la-france_8247919.html": "2026-10-21T21:47:50.511830+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-russie-et-l-ukraine-pretes-a-de-prochaines-negociations-a-trois-avec-les-americains_8247862.html": "2026-10-21T21:47:50.511830+00:00",
   "https://www.franceinfo.fr/monde/italie/pillages-en-italie-g-meloni-envoie-l-armee-et-veut-faire-payer-les-parents_8247703.html": "2026-10-21T21:47:50.511830+00:00",
-  "https://www.franceinfo.fr/monde/bresil/bresil-une-campagne-sous-influence-americaine_8247760.html": "2026-10-21T21:47:50.511830+00:00"
+  "https://www.franceinfo.fr/monde/bresil/bresil-une-campagne-sous-influence-americaine_8247760.html": "2026-10-21T21:47:50.511830+00:00",
+  "https://www.franceinfo.fr/monde/groenland/le-groenland-au-c-ur-d-un-bras-de-fer-geopolitique/": "2026-10-22T04:57:45.124708+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "Chypre, derrière les plages paradisiaques, une île coupée en deux Divisée depuis 1974, Chypre porte encore les traces de l'invasion turque. Entre plages paradisiaques et ligne de démarcation, l'île reste marquée par un conflit qui a bouleversé la vie de milliers de Chypriotes. Aujourd'hui 17:11 vidéo 17 minutes 11",
+   "title": "Le Groenland au cœur d'un bras de fer géopolitique 15 contenus",
+   "link": "https://www.franceinfo.fr/monde/groenland/le-groenland-au-c-ur-d-un-bras-de-fer-geopolitique/",
+   "summary": "Le Groenland au cœur d'un bras de fer géopolitique",
+   "image": "https://www.franceinfo.fr/pictures/MKq4Aviz_2Dt7XVuO__X2DAEw5M/432x297/filters:format(jpg)/2026/01/22/043-sw-js9nbczzm6o-697245bf34b52414921393.jpg",
+   "date": null,
+   "pubdate": "2026-10-22T04:57:45.124708+00:00"
+  },
+  {
+   "title": "Chypre, derrière les plages paradisiaques, une île coupée en deux Divisée depuis 1974, Chypre porte encore les traces de l'invasion turque. Entre plages paradisiaques et ligne de démarcation, l'île reste marquée par un conflit qui a bouleversé la vie de milliers de Chypriotes. 21 octobre 17:11 vidéo 17 minutes 11",
    "link": "https://www.franceinfo.fr/monde/chypre/chypre-derriere-les-plages-paradisiaques-une-ile-coupee-en-deux_8248003.html",
    "summary": "Chypre, derrière les plages paradisiaques, une île coupée en deux",
    "image": "https://www.franceinfo.fr/pictures/Css0VdPIPmALwkMy0aw0jSLqza0/18x0:790x531/432x297/filters:format(jpg)/2026/10/21/6ad92a341cc43779154530.jpg",
@@ -264,14 +272,6 @@
    "link": "https://www.franceinfo.fr/monde/usa/affaire-jeffrey-epstein/l-essentiel-des-revelations-sur-l-affaire-epstein/",
    "summary": "L'essentiel des révélations sur l'affaire Epstein",
    "image": "https://www.franceinfo.fr/pictures/btENVL4vmQDLNvnJ4uUtTATvN9k/432x297/filters:format(jpg)/2026/02/12/000-96rl2gk-1-698def9a11d8a867290796.jpg",
-   "date": null,
-   "pubdate": "2026-10-20T00:24:57.935010+00:00"
-  },
-  {
-   "title": "Tout comprendre à la guerre au Moyen-Orient 27 contenus",
-   "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/tout-comprendre-a-la-guerre-au-moyen-orient/",
-   "summary": "Tout comprendre à la guerre au Moyen-Orient",
-   "image": "https://www.franceinfo.fr/pictures/1mjbL6KrEfhdf8kkM-fiwv8Aqs4/432x297/filters:format(jpg)/2026/03/01/075-nikoubazl-mourning260301-npgop-69a44a7350cd8738092334.jpg",
    "date": null,
    "pubdate": "2026-10-20T00:24:57.935010+00:00"
   }

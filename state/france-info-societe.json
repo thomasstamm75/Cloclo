@@ -1,11 +1,9 @@
 {
- "etag": "\"260a46bca0ef148a0b981c7d78f3fd04-gzip\"",
+ "etag": "\"3be4985d9139f9be7302278f3049127b-gzip\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/il-faut-etre-la-pour-montrer-que-le-peuple-est-fatigue-a-saint-avold-les-anciens-gilets-jaunes-ressortent-leurs-banderoles_8220628.html": "2026-10-17T10:51:54.861517+00:00",
   "https://www.franceinfo.fr/societe/nos-jours-heureux/": "2026-10-17T10:51:54.861517+00:00",
   "https://www.franceinfo.fr/societe/euthanasie/comprendre-les-debats-sur-la-fin-de-vie/": "2026-10-17T10:51:54.861517+00:00",
-  "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/temoignages-je-n-ai-plus-confiance-en-la-securite-de-mon-pays-le-desarroi-des-commercants-parisiens-apres-les-violences-du-17-octobre_8224135.html": "2026-10-20T08:38:58.290646+00:00",
   "https://www.franceinfo.fr/monde/bresil/avant-on-parlait-de-politique-entre-nous-on-a-arrete-immersion-dans-un-bresil-divise-avant-le-second-tour-de-la-presidentielle_8246164.html": "2026-10-20T23:56:33.367484+00:00",
   "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/sebastien-lecornu-recevra-jeudi-apres-midi-les-maires-de-paris-marseille-et-lyon-apres-les-violences-du-17-octobre_8247742.html": "2026-10-21T17:18:09.199393+00:00",
   "https://www.franceinfo.fr/faits-divers/justice-proces/manque-d-hygiene-dechets-bouteilles-d-urine-les-conditions-de-detention-des-mineurs-au-depot-du-tribunal-de-bobigny-denoncees-par-des-avocats_8247628.html": "2026-10-21T17:18:09.199393+00:00",
@@ -13,32 +11,95 @@
   "https://www.franceinfo.fr/replay-radio/la-question-des-informes/l-image-de-la-france-a-l-etranger-a-t-elle-souffert-des-violences-du-17-octobre_8225998.html": "2026-10-21T17:18:09.199393+00:00",
   "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/couvre-feu-a-paris-les-arretes-sont-impossibles-a-contester-devant-un-juge-denonce-un-avocat_8247727.html": "2026-10-21T17:18:09.199393+00:00",
   "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/bouc-emissaire-scandale-d-etat-on-vous-raconte-le-bras-de-fer-entre-le-gouvernement-et-lfi-au-sujet-des-violences-du-17octobre_8247475.html": "2026-10-21T17:18:09.199393+00:00",
-  "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/la-prefecture-de-police-interdit-la-manifestation-des-lyceens-et-etudiants-franciliens-prevue-jeudi-a-paris_8247574.html": "2026-10-21T17:18:09.199393+00:00",
-  "https://www.franceinfo.fr/societe/harcelement-sexuel/un-homme-mis-en-examen-pour-viols-et-agression-sexuelle-sur-trois-jeunes-femmes-handicapees-en-seine-maritime_8247562.html": "2026-10-21T17:18:09.199393+00:00",
-  "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/on-va-reprendre-le-flambeau-des-gilets-jaunes-sur-internet-la-mobilisation-du-24-octobre-se-prepare-deja_8245618.html": "2026-10-21T17:18:09.199393+00:00",
-  "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/mobilisation-lyceenne-on-a-l-impression-qu-ils-se-moquent-tous-de-nous-qu-ils-nous-meprisent-lance-le-president-de-l-organisation-les-lyceens_8247526.html": "2026-10-21T17:18:09.199393+00:00",
-  "https://www.franceinfo.fr/economie/transports/trafic/vacances-la-circulation-sera-difficile-ce-vendredi-dans-le-sens-des-departs-comme-des-retours-elle-sera-fluide-samedi-et-dimanche_8247481.html": "2026-10-21T17:18:09.199393+00:00",
   "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-s-appuie-sur-les-violences-en-france-pour-mobiliser-son-electorat_8247985.html": "2026-10-21T21:47:44.101029+00:00",
   "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/emmanuel-macron-presidera-un-conseil-de-securite-jeudi-matin-en-presence-de-sebastien-lecornu-et-des-services-de-renseignement-annonce-l-elysee_8247982.html": "2026-10-21T21:47:44.101029+00:00",
   "https://www.franceinfo.fr/environnement/biodiversite/c-est-un-pompier-volontaire-permanent-ces-agriculteurs-qui-ont-appris-a-voir-le-renard-comme-un-allie_8247949.html": "2026-10-21T21:47:44.101029+00:00",
   "https://www.franceinfo.fr/societe/education/blocage-des-lycees/auxiliaire-de-vie-eleve-enseignant-ils-retourneront-manifester-samedi-24-octobre_8247922.html": "2026-10-21T21:47:44.101029+00:00",
   "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/les-rassemblements-et-les-manifestations-interdits-dans-plusieurs-secteurs-de-paris-jeudi-entre-8-heures-et-20-heures-annonce-la-prefecture-de-police_8247910.html": "2026-10-21T21:47:44.101029+00:00",
   "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/violences-du-17-octobre-un-adolescent-blesse-a-l-il-a-dijon-inspection-generale-de-la-gendarmerie-nationale-saisie_8247853.html": "2026-10-21T21:47:44.101029+00:00",
-  "https://www.franceinfo.fr/societe/armee-securite-defense/survol-de-sites-militaires-par-des-drones-inconnus-a-toulon-une-enquete-ouverte-pour-identifier-la-provenance-des-engins-reperes-lors-d-un-exercice_8247871.html": "2026-10-21T21:47:44.101029+00:00",
-  "https://www.franceinfo.fr/monde/italie/pillages-en-italie-g-meloni-envoie-l-armee-et-veut-faire-payer-les-parents_8247703.html": "2026-10-21T21:47:44.101029+00:00",
-  "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/la-violence-ce-sont-les-jeunes-qui-rentrent-au-lycee-avec-un-il-en-moins-des-dents-en-moins-ou-une-main-explosee-soumaya-sarre-presidente-de-la-federation-lyceenne-des-quartiers-flq_8247832.html": "2026-10-21T21:47:44.101029+00:00",
-  "https://www.franceinfo.fr/internet/drones/des-drones-inconnus-survolent-une-base-militaire_8247865.html": "2026-10-21T21:47:44.101029+00:00",
   "https://www.franceinfo.fr/economie/emploi/metiers/restauration-hotellerie-sports-loisirs/l-idee-c-etait-d-aider-des-artisans-dans-un-monde-qui-est-assez-complique-les-reseaux-sociaux-la-nouvelle-recette-pour-sauver-les-restaurants-en-perte-de-vitesse_8247991.html": "2026-10-21T21:47:44.101029+00:00",
   "https://www.franceinfo.fr/replay-radio/les-informes-de-france-info/apres-le-17-octobre-la-greve-generale-les-informes-du-21-octobre-2026_8226049.html": "2026-10-21T11:00:00+00:00",
-  "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/pillages-du-17-octobre-ce-qui-a-fait-le-plus-mal-c-est-le-sentiment-d-abandon-selon-le-copresident-de-l-association-des-commercants-bordelais_8247841.html": "2026-10-21T21:47:44.101029+00:00"
+  "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/pillages-du-17-octobre-ce-qui-a-fait-le-plus-mal-c-est-le-sentiment-d-abandon-selon-le-copresident-de-l-association-des-commercants-bordelais_8247841.html": "2026-10-21T21:47:44.101029+00:00",
+  "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/info-franceinfo-le-prefet-de-police-de-paris-conseille-aux-commercants-de-renforcer-leur-securite-et-d-adapter-leurs-horaires-avant-les-prochaines-manifestations_8247901.html": "2026-10-22T04:57:40.172544+00:00",
+  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/on-ne-va-pas-attendre-les-annonces-du-ministre-lundi-malgre-les-vacances-scolaires-des-lyceens-et-des-etudiants-continuent-a-manifester-jeudi_8247889.html": "2026-10-22T04:57:40.172544+00:00",
+  "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/temoignage-on-n-est-pas-entraine-pour-ca-et-on-n-a-pas-envie-d-y-aller-des-policiers-non-specialises-s-inquietent-de-leur-requisition-pour-samedi_8247856.html": "2026-10-22T04:57:40.172544+00:00",
+  "https://www.franceinfo.fr/economie/greve/italie-espagne-portugal-dans-toute-l-europe-les-mobilisations-se-multiplient-portees-par-la-jeunesse-en-colere-et-la-lutte-contre-la-vie-chere_8245369.html": "2026-10-22T04:57:40.172544+00:00",
+  "https://www.franceinfo.fr/france/outremer/manifestations-contre-la-vie-chere-mouvement-lyceen-actions-violentes-quelle-est-la-situation-dans-les-departements-d-outre-mer-en-pleine-colere-sociale_8247013.html": "2026-10-22T04:57:40.172544+00:00",
+  "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/les-conditions-de-detention-des-mineurs-au-depot-du-tribunal-de-bobigny-denoncees-par-des-avocats_8248039.html": "2026-10-22T04:57:40.172544+00:00",
+  "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/bon-courage-a-ceux-qui-arrivent-l-election-presidentielle-permettra-t-elle-vraiment-de-sortir-de-la-crise-politique-et-sociale-qui-secoue-le-pays_8245624.html": "2026-10-22T04:57:40.172544+00:00",
+  "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/est-il-possible-d-interdire-un-parti-politique-comme-le-proposent-gerard-larcher-et-bruno-retailleau-pour-la-france-insoumise_8245717.html": "2026-10-22T04:57:40.172544+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "Donald Trump s'appuie sur les violences en France pour mobiliser son électorat À deux semaines des élections de mi-mandat, Donald Trump multiplie les références aux violences en France pour dénoncer l'immigration et critiquer Emmanuel Macron. La Maison-Blanche relaie également des images des débordements. Mais aux États-Unis, le pouvoir d'achat reste la principale préoccupation des électeurs. Aujourd'hui 1:56 vidéo 1 minute 56",
+   "title": ": Info franceinfo Le préfet de police de Paris conseille aux commerçants de \"renforcer leur sécurité\" et \"d'adapter leurs horaires\" avant les prochaines manifestations Dans un courrier que franceinfo a pu consulter, Patrice Faure recommande aux commerçants de faire appel à \"des agents de sécurité privée\" ou encore d'adapter leurs horaires, avant les prochaines manifestations prévues dans la capitale. Aujourd'hui : Info franceinfo",
+   "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/info-franceinfo-le-prefet-de-police-de-paris-conseille-aux-commercants-de-renforcer-leur-securite-et-d-adapter-leurs-horaires-avant-les-prochaines-manifestations_8247901.html",
+   "summary": "Le préfet de police de Paris conseille aux commerçants de \"renforcer leur sécurité\" et \"d'adapter leurs horaires\" avant les prochaines manifestations",
+   "image": "https://www.franceinfo.fr/pictures/_tIjaiUEDyFnfduoiG-qTxcn1f4/432x297/filters:format(jpg)/2026/10/19/6ad6562b54876697724014.jpg",
+   "date": null,
+   "pubdate": "2026-10-22T04:57:40.172544+00:00"
+  },
+  {
+   "title": "\"On ne va pas attendre les annonces du ministre lundi\" : malgré les vacances scolaires, des lycéens et des étudiants continuent à manifester jeudi",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/on-ne-va-pas-attendre-les-annonces-du-ministre-lundi-malgre-les-vacances-scolaires-des-lyceens-et-des-etudiants-continuent-a-manifester-jeudi_8247889.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/kloGaSf-ICD4txKjSx0uWRInms0/0x411:7901x4855/432x243/filters:format(jpg)/2026/10/22/6ad9942c75aca737809230.jpg",
+   "date": null,
+   "pubdate": "2026-10-22T04:57:40.172544+00:00"
+  },
+  {
+   "title": ": Témoignage : Témoignage \"On n'est pas entraîné pour ça et on n'a pas envie d'y aller\" : des policiers non spécialisés s'inquiètent de leur réquisition pour samedi",
+   "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/temoignage-on-n-est-pas-entraine-pour-ca-et-on-n-a-pas-envie-d-y-aller-des-policiers-non-specialises-s-inquietent-de-leur-requisition-pour-samedi_8247856.html",
+   "summary": "\"On n'est pas entraîné pour ça et on n'a pas envie d'y aller\" : des policiers non spécialisés s'inquiètent de leur réquisition pour samedi",
+   "image": "https://www.franceinfo.fr/pictures/-kPDlccYDG4BxSpetnlLuslmG2s/0x0:1024x576/432x243/filters:format(jpg)/2026/10/22/6ad98f649e05b647119543.jpg",
+   "date": null,
+   "pubdate": "2026-10-22T04:57:40.172544+00:00"
+  },
+  {
+   "title": "Italie, Espagne, Portugal… Dans toute l'Europe, les mobilisations se multiplient, portées par la jeunesse en colère et la lutte contre la vie chère",
+   "link": "https://www.franceinfo.fr/economie/greve/italie-espagne-portugal-dans-toute-l-europe-les-mobilisations-se-multiplient-portees-par-la-jeunesse-en-colere-et-la-lutte-contre-la-vie-chere_8245369.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/Ebonq3Ygjn2x8e9OInpy7EoxWNg/0x246:6000x3621/432x243/filters:format(jpg)/2026/10/21/6ad87e2a08d62562489342.jpg",
+   "date": null,
+   "pubdate": "2026-10-22T04:57:40.172544+00:00"
+  },
+  {
+   "title": "Manifestations contre la vie chère, mouvement lycéen, actions violentes… Quelle est la situation dans les départements d'outre-mer, en pleine colère sociale ?",
+   "link": "https://www.franceinfo.fr/france/outremer/manifestations-contre-la-vie-chere-mouvement-lyceen-actions-violentes-quelle-est-la-situation-dans-les-departements-d-outre-mer-en-pleine-colere-sociale_8247013.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/_6BjvSkiW-Nko181jx-Ia8warj0/0x33:1024x609/432x243/filters:format(jpg)/2026/10/21/6ad8c6b37aaca652628718.jpg",
+   "date": null,
+   "pubdate": "2026-10-22T04:57:40.172544+00:00"
+  },
+  {
+   "title": "1:00 vidéo 1 minute Les conditions de détention des mineurs au dépôt du tribunal de Bobigny dénoncées par des avocats",
+   "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/les-conditions-de-detention-des-mineurs-au-depot-du-tribunal-de-bobigny-denoncees-par-des-avocats_8248039.html",
+   "summary": "Les conditions de détention des mineurs au dépôt du tribunal de Bobigny dénoncées par des avocats",
+   "image": "https://www.franceinfo.fr/pictures/rRvR_ZASHBamn4qhjq7m6aLbyvo/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/21/6ad93335b28cb845442147.png",
+   "date": null,
+   "pubdate": "2026-10-22T04:57:40.172544+00:00"
+  },
+  {
+   "title": "6:00 article 6 minutes \"Bon courage à ceux qui arrivent\" : l'élection présidentielle permettra-t-elle vraiment de sortir de la crise politique et sociale qui secoue le pays ?",
+   "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/bon-courage-a-ceux-qui-arrivent-l-election-presidentielle-permettra-t-elle-vraiment-de-sortir-de-la-crise-politique-et-sociale-qui-secoue-le-pays_8245624.html",
+   "summary": "\"Bon courage à ceux qui arrivent\" : l'élection présidentielle permettra-t-elle vraiment de sortir de la crise politique et sociale qui secoue le pays ?",
+   "image": "https://www.franceinfo.fr/pictures/N7O5QoLEsQpseRgJuvk-HceYsQo/629x0:3148x2519/100x100/filters:format(jpg)/2026/10/20/6ad783d4703a2085671736.jpg",
+   "date": null,
+   "pubdate": "2026-10-22T04:57:40.172544+00:00"
+  },
+  {
+   "title": "5:00 article 5 minutes Cinq questions sur la possibilité d'interdire un parti politique, comme le proposent Gérard Larcher et Bruno Retailleau pour LFI",
+   "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/est-il-possible-d-interdire-un-parti-politique-comme-le-proposent-gerard-larcher-et-bruno-retailleau-pour-la-france-insoumise_8245717.html",
+   "summary": "Cinq questions sur la possibilité d'interdire un parti politique, comme le proposent Gérard Larcher et Bruno Retailleau pour LFI",
+   "image": "https://www.franceinfo.fr/pictures/1kseOvwW7MwmxadggOfEVgDEcqw/420x0:1500x1080/100x100/filters:format(jpg)/2026/10/20/6ad7920c35710085888515.png",
+   "date": null,
+   "pubdate": "2026-10-22T04:57:40.172544+00:00"
+  },
+  {
+   "title": "1:56 vidéo 1 minute 56 Donald Trump s'appuie sur les violences en France pour mobiliser son électorat",
    "link": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-s-appuie-sur-les-violences-en-france-pour-mobiliser-son-electorat_8247985.html",
    "summary": "Donald Trump s'appuie sur les violences en France pour mobiliser son électorat",
-   "image": "https://www.franceinfo.fr/pictures/zcVOSnpWMVo_u4th-sCxqrBqiC8/26x0:811x540/432x297/filters:format(jpg)/2026/10/21/6ad9241d27f69268096334.jpg",
+   "image": "https://www.franceinfo.fr/pictures/RLnwkcxJIEUJYo7_3Pys1VHyqnE/0x34:838x505/432x243/filters:format(jpg)/2026/10/21/6ad9241d27f69268096334.jpg",
    "date": null,
    "pubdate": "2026-10-21T21:47:44.101029+00:00"
   },
@@ -67,58 +128,26 @@
    "pubdate": "2026-10-21T21:47:44.101029+00:00"
   },
   {
-   "title": "Les rassemblements et les manifestations interdits dans plusieurs secteurs de Paris, jeudi entre 8 heures et 20 heures, annonce la préfecture de police",
+   "title": "3:16 vidéo 3 minutes 16 \"L'idée, c'était d'aider des artisans dans un monde qui est assez compliqué\" : les réseaux sociaux, la nouvelle recette pour sauver les restaurants en perte de vitesse ?",
+   "link": "https://www.franceinfo.fr/economie/emploi/metiers/restauration-hotellerie-sports-loisirs/l-idee-c-etait-d-aider-des-artisans-dans-un-monde-qui-est-assez-complique-les-reseaux-sociaux-la-nouvelle-recette-pour-sauver-les-restaurants-en-perte-de-vitesse_8247991.html",
+   "summary": "\"L'idée, c'était d'aider des artisans dans un monde qui est assez compliqué\" : les réseaux sociaux, la nouvelle recette pour sauver les restaurants en perte de vitesse ?",
+   "image": "https://www.franceinfo.fr/pictures/ccseCMSrrNRsxAISDdEXVQXAzfI/269x0:866x597/100x100/filters:format(jpg)/2026/10/21/6ad929d728ce9927735131.jpg",
+   "date": null,
+   "pubdate": "2026-10-21T21:47:44.101029+00:00"
+  },
+  {
+   "title": "Les rassemblements et les manifestations interdits dans plusieurs secteurs de Paris, jeudi entre 8 heures et 20 heures, annonce la préfecture de police Sont notamment concernés les Champs-Elysées, Châtelet-les Halles, la place de la Bastille, ainsi que la plupart des gares.",
    "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/les-rassemblements-et-les-manifestations-interdits-dans-plusieurs-secteurs-de-paris-jeudi-entre-8-heures-et-20-heures-annonce-la-prefecture-de-police_8247910.html",
-   "summary": "",
+   "summary": "Les rassemblements et les manifestations interdits dans plusieurs secteurs de Paris, jeudi entre 8 heures et 20 heures, annonce la préfecture de police",
    "image": "https://www.franceinfo.fr/pictures/UiBc99chwCTTo3qq9MIZg8rmlBc/0x97:1024x673/432x243/filters:format(jpg)/2026/10/21/6ad91485edc20772288441.jpg",
    "date": null,
    "pubdate": "2026-10-21T21:47:44.101029+00:00"
   },
   {
-   "title": "Violences du 17 octobre : un adolescent blessé à l'œil à Dijon, l'Inspection générale de la gendarmerie nationale saisie",
+   "title": "Violences du 17 octobre : un adolescent blessé à l'œil à Dijon, l'Inspection générale de la gendarmerie nationale saisie Le lycéen a été blessé à l'œil en marge de la manifestation du samedi 17 octobre place Darcy à Dijon, selon les informations d'ICI Bourgogne. Une plainte a été déposée.",
    "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/violences-du-17-octobre-un-adolescent-blesse-a-l-il-a-dijon-inspection-generale-de-la-gendarmerie-nationale-saisie_8247853.html",
-   "summary": "",
+   "summary": "Violences du 17 octobre : un adolescent blessé à l'œil à Dijon, l'Inspection générale de la gendarmerie nationale saisie",
    "image": "https://www.franceinfo.fr/pictures/JcuQhFVgBEbp1zeGujDnr-tTi58/0x171:3200x1971/432x243/filters:format(jpg)/2024/04/10/000-par3163363-6616a349c3dbb548879028.jpg",
-   "date": null,
-   "pubdate": "2026-10-21T21:47:44.101029+00:00"
-  },
-  {
-   "title": "1:55 vidéo 1 minute 55 Survol de sites militaires par des drones inconnus à Toulon : une enquête ouverte pour identifier la provenance des engins, repérés lors d'un exercice",
-   "link": "https://www.franceinfo.fr/societe/armee-securite-defense/survol-de-sites-militaires-par-des-drones-inconnus-a-toulon-une-enquete-ouverte-pour-identifier-la-provenance-des-engins-reperes-lors-d-un-exercice_8247871.html",
-   "summary": "Survol de sites militaires par des drones inconnus à Toulon : une enquête ouverte pour identifier la provenance des engins, repérés lors d'un exercice",
-   "image": "https://www.franceinfo.fr/pictures/Q1_3GnQOivGE4QMGY6YbCXI3omU/0x14:1280x734/432x243/filters:format(jpg)/2026/10/21/6ad90db173bda411334994.jpg",
-   "date": null,
-   "pubdate": "2026-10-21T21:47:44.101029+00:00"
-  },
-  {
-   "title": "1:08 vidéo 1 minute 8 Pillages en Italie : G. Meloni envoie l'armée et veut faire payer les parents",
-   "link": "https://www.franceinfo.fr/monde/italie/pillages-en-italie-g-meloni-envoie-l-armee-et-veut-faire-payer-les-parents_8247703.html",
-   "summary": "Pillages en Italie : G. Meloni envoie l'armée et veut faire payer les parents",
-   "image": "https://www.franceinfo.fr/pictures/offU1BHQMZcsTjSO48KMdCNO5FQ/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/21/6ad8e85f5cad3218523468.png",
-   "date": null,
-   "pubdate": "2026-10-21T21:47:44.101029+00:00"
-  },
-  {
-   "title": "1:33 vidéo 1 minute 33 \"La violence ce sont les jeunes qui rentrent au lycée avec un œil en moins, des dents en moins ou une main explosée\" : Soumaya Sarré, présidente de la Fédération Lycéenne des Quartiers (FLQ)",
-   "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/la-violence-ce-sont-les-jeunes-qui-rentrent-au-lycee-avec-un-il-en-moins-des-dents-en-moins-ou-une-main-explosee-soumaya-sarre-presidente-de-la-federation-lyceenne-des-quartiers-flq_8247832.html",
-   "summary": "\"La violence ce sont les jeunes qui rentrent au lycée avec un œil en moins, des dents en moins ou une main explosée\" : Soumaya Sarré, présidente de la Fédération Lycéenne des Quartiers (FLQ)",
-   "image": "https://www.franceinfo.fr/pictures/qOgQWKVk2bGoZRjk3zpazuqd_Po/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/21/6ad9023f578e6305947083.png",
-   "date": null,
-   "pubdate": "2026-10-21T21:47:44.101029+00:00"
-  },
-  {
-   "title": "1:59 vidéo 1 minute 59 Des drones inconnus survolent une base militaire",
-   "link": "https://www.franceinfo.fr/internet/drones/des-drones-inconnus-survolent-une-base-militaire_8247865.html",
-   "summary": "Des drones inconnus survolent une base militaire",
-   "image": "https://www.franceinfo.fr/pictures/OZEt83Pm5mESQx3RJ17Ln8fWnkg/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/21/6ad90958e843a043293891.jpg",
-   "date": null,
-   "pubdate": "2026-10-21T21:47:44.101029+00:00"
-  },
-  {
-   "title": "3:16 vidéo 3 minutes 16 \"L'idée, c'était d'aider des artisans dans un monde qui est assez compliqué\" : les réseaux sociaux, la nouvelle recette pour sauver les restaurants en perte de vitesse ?",
-   "link": "https://www.franceinfo.fr/economie/emploi/metiers/restauration-hotellerie-sports-loisirs/l-idee-c-etait-d-aider-des-artisans-dans-un-monde-qui-est-assez-complique-les-reseaux-sociaux-la-nouvelle-recette-pour-sauver-les-restaurants-en-perte-de-vitesse_8247991.html",
-   "summary": "\"L'idée, c'était d'aider des artisans dans un monde qui est assez compliqué\" : les réseaux sociaux, la nouvelle recette pour sauver les restaurants en perte de vitesse ?",
-   "image": "https://www.franceinfo.fr/pictures/ccseCMSrrNRsxAISDdEXVQXAzfI/269x0:866x597/100x100/filters:format(jpg)/2026/10/21/6ad929d728ce9927735131.jpg",
    "date": null,
    "pubdate": "2026-10-21T21:47:44.101029+00:00"
   },
@@ -179,46 +208,6 @@
    "pubdate": "2026-10-21T17:18:09.199393+00:00"
   },
   {
-   "title": "La préfecture de police interdit la manifestation des lycéens et étudiants franciliens prévue jeudi à Paris Elle pointe \"l'incapacité de l’organisateur à éviter des exactions lors des rassemblements de voies publiques des 13 et 17 octobre\".",
-   "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/la-prefecture-de-police-interdit-la-manifestation-des-lyceens-et-etudiants-franciliens-prevue-jeudi-a-paris_8247574.html",
-   "summary": "La préfecture de police interdit la manifestation des lycéens et étudiants franciliens prévue jeudi à Paris",
-   "image": "https://www.franceinfo.fr/pictures/Vbhuv0z81myw_2lfTJ7XdK64YpQ/0x0:1024x576/432x243/filters:format(jpg)/2026/10/21/6ad8e36c7da31368119292.jpg",
-   "date": null,
-   "pubdate": "2026-10-21T17:18:09.199393+00:00"
-  },
-  {
-   "title": "Un homme mis en examen pour viols et agression sexuelle sur trois jeunes femmes handicapées en Seine-Maritime Cet employé d'un l'établissement public médico-social d'Yvetot d'avoir violé et agressé sexuellement trois femmes atteintes de déficiences intellectuelles.",
-   "link": "https://www.franceinfo.fr/societe/harcelement-sexuel/un-homme-mis-en-examen-pour-viols-et-agression-sexuelle-sur-trois-jeunes-femmes-handicapees-en-seine-maritime_8247562.html",
-   "summary": "Un homme mis en examen pour viols et agression sexuelle sur trois jeunes femmes handicapées en Seine-Maritime",
-   "image": "https://www.franceinfo.fr/pictures/wNH8Mt2PQTnn6nqCbm9vRFo3v-8/432x243/filters:format(jpg)/2026/10/15/6ad0cc75db698653702188.jpg",
-   "date": null,
-   "pubdate": "2026-10-21T17:18:09.199393+00:00"
-  },
-  {
-   "title": "\"On va reprendre le flambeau des gilets jaunes\" : sur internet, la mobilisation du 24 octobre se prépare déjà Des publications appelant à de nouvelles manifestations contre la vie chère, samedi, sont massivement partagées sur Tiktok et X depuis une première mobilisation le 17 octobre.",
-   "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/on-va-reprendre-le-flambeau-des-gilets-jaunes-sur-internet-la-mobilisation-du-24-octobre-se-prepare-deja_8245618.html",
-   "summary": "\"On va reprendre le flambeau des gilets jaunes\" : sur internet, la mobilisation du 24 octobre se prépare déjà",
-   "image": "https://www.franceinfo.fr/pictures/LCU3lwRhueBFyvcBeD4oCu3OfoE/0x279:5392x3312/432x243/filters:format(jpg)/2026/10/20/6ad784b7611cb267443376.jpg",
-   "date": null,
-   "pubdate": "2026-10-21T17:18:09.199393+00:00"
-  },
-  {
-   "title": "Mobilisation lycéenne : \"On a l'impression qu'ils se moquent tous de nous, qu'ils nous méprisent\", lance le président de l'organisation Les Lycéens ! Les organisations lycéennes demandent à être reçues par le Premier ministre et déplorent les violences survenues samedi en marge de la mobilisation.",
-   "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/mobilisation-lyceenne-on-a-l-impression-qu-ils-se-moquent-tous-de-nous-qu-ils-nous-meprisent-lance-le-president-de-l-organisation-les-lyceens_8247526.html",
-   "summary": "Mobilisation lycéenne : \"On a l'impression qu'ils se moquent tous de nous, qu'ils nous méprisent\", lance le président de l'organisation Les Lycéens !",
-   "image": "https://www.franceinfo.fr/pictures/WLCT-nndvHDCMI4CVIWUdcymhdc/432x243/filters:format(jpg)/2026/10/19/6ad63e8e7e512186877490.png",
-   "date": null,
-   "pubdate": "2026-10-21T17:18:09.199393+00:00"
-  },
-  {
-   "title": "Vacances : la circulation sera difficile ce vendredi dans le sens des départs comme des retours, elle sera fluide samedi et dimanche Bison Futé classe la journée de vendredi en orange dans le sens des départs et des retours dans toute la France.",
-   "link": "https://www.franceinfo.fr/economie/transports/trafic/vacances-la-circulation-sera-difficile-ce-vendredi-dans-le-sens-des-departs-comme-des-retours-elle-sera-fluide-samedi-et-dimanche_8247481.html",
-   "summary": "Vacances : la circulation sera difficile ce vendredi dans le sens des départs comme des retours, elle sera fluide samedi et dimanche",
-   "image": "https://www.franceinfo.fr/pictures/i5d6SeBsLJqITmunzRF_moncR3Q/0x128:2040x1276/432x243/filters:format(jpg)/2022/12/23/63a5afaeb3bfd_maxnewsworld082729.jpg",
-   "date": null,
-   "pubdate": "2026-10-21T17:18:09.199393+00:00"
-  },
-  {
    "title": "52:33 audio 52 minutes 33 Après le 17 octobre, la grève générale ? Les Informés du 21 octobre 2026 Tous les soirs, les informés débattent de l'actualité, cette semaine autour de Thomas Séchier.",
    "link": "https://www.franceinfo.fr/replay-radio/les-informes-de-france-info/apres-le-17-octobre-la-greve-generale-les-informes-du-21-octobre-2026_8226049.html",
    "summary": "Après le 17 octobre, la grève générale ? Les Informés du 21 octobre 2026",
@@ -235,14 +224,6 @@
    "pubdate": "2026-10-20T23:56:33.367484+00:00"
   },
   {
-   "title": ": Témoignages 4:35 audio 4 minutes 35 : Témoignages \"Je n'ai plus confiance en la sécurité de mon pays\" : le désarroi des commerçants parisiens après les violences du 17 octobre",
-   "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/temoignages-je-n-ai-plus-confiance-en-la-securite-de-mon-pays-le-desarroi-des-commercants-parisiens-apres-les-violences-du-17-octobre_8224135.html",
-   "summary": "\"Je n'ai plus confiance en la sécurité de mon pays\" : le désarroi des commerçants parisiens après les violences du 17 octobre",
-   "image": "https://www.franceinfo.fr/pictures/2dI-KtKgXo2H-bukFF-VO4OkVpE/787x0:4212x3425/100x100/filters:format(jpg)/2026/10/20/6ad70229db635423625373.jpg",
-   "date": null,
-   "pubdate": "2026-10-20T08:38:58.290646+00:00"
-  },
-  {
    "title": "Nos jours heureux 5 contenus",
    "link": "https://www.franceinfo.fr/societe/nos-jours-heureux/",
    "summary": "",
@@ -255,14 +236,6 @@
    "link": "https://www.franceinfo.fr/societe/euthanasie/comprendre-les-debats-sur-la-fin-de-vie/",
    "summary": "",
    "image": "https://www.franceinfo.fr/pictures/gZwL6mlJ39yMRDzurzn4EQx_sgw/432x297/filters:format(jpg)/2025/05/27/illustration-aide-a-mourir-68357ca797624128014806.jpg",
-   "date": null,
-   "pubdate": "2026-10-17T10:51:54.861517+00:00"
-  },
-  {
-   "title": ": Témoignages 4:31 audio 4 minutes 31 : Témoignages \"Il faut être là pour montrer que le peuple est fatigué\" : à Saint-Avold, les anciens gilets jaunes ressortent leurs banderoles",
-   "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/il-faut-etre-la-pour-montrer-que-le-peuple-est-fatigue-a-saint-avold-les-anciens-gilets-jaunes-ressortent-leurs-banderoles_8220628.html",
-   "summary": "\"Il faut être là pour montrer que le peuple est fatigué\" : à Saint-Avold, les anciens gilets jaunes ressortent leurs banderoles",
-   "image": "https://www.franceinfo.fr/pictures/zS0Jw1WLSNCUCd9jlpCsf_d15J0/420x0:1500x1080/100x100/filters:format(jpg)/2026/10/17/6ad3126a8dc95138961922.jpg",
    "date": null,
    "pubdate": "2026-10-17T10:51:54.861517+00:00"
   }
