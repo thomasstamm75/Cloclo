@@ -1,45 +1,63 @@
 {
  "etag": "",
- "last_modified": "Wed, 21 Oct 2026 11:40:25 GMT",
+ "last_modified": "Thu, 22 Oct 2026 09:35:07 GMT",
  "first_seen": {
-  "https://www.jean-jaures.org/publication/les-apostats-renoncer-a-lislam/": "2026-10-14T11:00:00+00:00",
-  "https://www.jean-jaures.org/publication/de-jordan-a-lamer-quand-le-poison-de-lantisemitisme-infuse-aussi-les-milieux-de-gauche/": "2026-10-15T11:00:00+00:00",
-  "https://www.jean-jaures.org/publication/faire-de-la-cooperation-une-force-politique-reflexions-sur-la-puissance-politique-de-la-cooperation-anglaise/": "2026-10-07T11:00:00+00:00",
-  "https://www.jean-jaures.org/publication/invisibiliser-polariser-desinformer-la-crise-environnementale-selon-cnews/": "2026-10-05T11:00:00+00:00"
+  "https://www.jean-jaures.org/publication/mexique-les-defis-politiques-economiques-et-securitaires-de-claudia-sheinbaum-face-aux-enjeux-internes-et-externes/": "2026-10-22T11:00:00+00:00",
+  "https://www.jean-jaures.org/publication/a-qui-appartiennent-les-biens-culturels-restitues-en-afrique/": "2026-10-22T11:00:00+00:00",
+  "https://www.jean-jaures.org/publication/17-octobre-anatomie-dune-attention-nationale-face-au-chaos/": "2026-10-21T11:00:00+00:00",
+  "https://www.jean-jaures.org/publication/le-retour-des-idees-politiques/": "2026-10-21T11:00:00+00:00",
+  "https://www.jean-jaures.org/publication/preoccupees-mais-insouciantes-lambiguite-des-gauches-face-a-lantisemitisme/": "2026-10-19T11:00:00+00:00",
+  "https://www.jean-jaures.org/publication/lantisemitisme-et-la-nouvelle-maison/": "2026-10-19T11:00:00+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "De Jordan à l’amer… Quand le poison de l’antisémitisme infuse aussi les milieux de gauche",
-   "link": "https://www.jean-jaures.org/publication/de-jordan-a-lamer-quand-le-poison-de-lantisemitisme-infuse-aussi-les-milieux-de-gauche/",
+   "title": "Mexique : les défis politiques, économiques et sécuritaires de Claudia Sheinbaum face aux enjeux internes et externes",
+   "link": "https://www.jean-jaures.org/publication/mexique-les-defis-politiques-economiques-et-securitaires-de-claudia-sheinbaum-face-aux-enjeux-internes-et-externes/",
    "summary": "",
    "image": "",
-   "date": "2026-10-15T11:00:00+00:00",
-   "pubdate": "2026-10-15T11:00:00+00:00"
+   "date": "2026-10-22T11:00:00+00:00",
+   "pubdate": "2026-10-22T11:00:00+00:00"
   },
   {
-   "title": "Les apostats. Renoncer à l’islam",
-   "link": "https://www.jean-jaures.org/publication/les-apostats-renoncer-a-lislam/",
+   "title": "À qui appartiennent les biens culturels restitués en Afrique ?",
+   "link": "https://www.jean-jaures.org/publication/a-qui-appartiennent-les-biens-culturels-restitues-en-afrique/",
    "summary": "",
    "image": "",
-   "date": "2026-10-14T11:00:00+00:00",
-   "pubdate": "2026-10-14T11:00:00+00:00"
+   "date": "2026-10-22T11:00:00+00:00",
+   "pubdate": "2026-10-22T11:00:00+00:00"
   },
   {
-   "title": "Faire de la coopération une force politique ? Réflexions sur la puissance politique de la coopération anglaise",
-   "link": "https://www.jean-jaures.org/publication/faire-de-la-cooperation-une-force-politique-reflexions-sur-la-puissance-politique-de-la-cooperation-anglaise/",
+   "title": "17-Octobre : anatomie d’une attention nationale face au chaos",
+   "link": "https://www.jean-jaures.org/publication/17-octobre-anatomie-dune-attention-nationale-face-au-chaos/",
    "summary": "",
    "image": "",
-   "date": "2026-10-07T11:00:00+00:00",
-   "pubdate": "2026-10-07T11:00:00+00:00"
+   "date": "2026-10-21T11:00:00+00:00",
+   "pubdate": "2026-10-21T11:00:00+00:00"
   },
   {
-   "title": "Invisibiliser, polariser, désinformer : la crise environnementale selon CNews",
-   "link": "https://www.jean-jaures.org/publication/invisibiliser-polariser-desinformer-la-crise-environnementale-selon-cnews/",
+   "title": "Le retour des idées politiques",
+   "link": "https://www.jean-jaures.org/publication/le-retour-des-idees-politiques/",
    "summary": "",
    "image": "",
-   "date": "2026-10-05T11:00:00+00:00",
-   "pubdate": "2026-10-05T11:00:00+00:00"
+   "date": "2026-10-21T11:00:00+00:00",
+   "pubdate": "2026-10-21T11:00:00+00:00"
+  },
+  {
+   "title": "Préoccupées mais insouciantes : l’ambiguïté des gauches face à l’antisémitisme",
+   "link": "https://www.jean-jaures.org/publication/preoccupees-mais-insouciantes-lambiguite-des-gauches-face-a-lantisemitisme/",
+   "summary": "",
+   "image": "",
+   "date": "2026-10-19T11:00:00+00:00",
+   "pubdate": "2026-10-19T11:00:00+00:00"
+  },
+  {
+   "title": "L’antisémitisme et la nouvelle maison",
+   "link": "https://www.jean-jaures.org/publication/lantisemitisme-et-la-nouvelle-maison/",
+   "summary": "",
+   "image": "",
+   "date": "2026-10-19T11:00:00+00:00",
+   "pubdate": "2026-10-19T11:00:00+00:00"
   }
  ]
 }
