@@ -1,8 +1,7 @@
 {
- "etag": "\"073732360cddfbf60e326849b7449bf1-gzip\"",
+ "etag": "\"8a865a3e499059b2d5c2bcc847ecdd9f-gzip\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-un-combattant-blesse-evacue-du-champ-de-bataille-par-un-drone-aerien-une-premiere_8245759.html": "2026-10-20T19:20:06.479136+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/il-faut-que-zelensky-ait-la-volonte-de-mettre-fin-a-cette-guerre-donald-trump-durcit-encore-le-ton-contre-l-ukraine_8246233.html": "2026-10-20T23:56:38.249791+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-ukraine-la-russie-frappe-de-nouveau-le-secteur-energetique-et-le-reseau-ferroviaire-faisant-au-moins-4-morts_8246995.html": "2026-10-21T11:58:59.842679+00:00",
   "https://www.franceinfo.fr/replay-radio/le-monde-et-vous/du-portugal-a-l-espagne-la-crise-du-logement-alimente-une-vague-de-manifestations_8226037.html": "2026-10-21T11:58:59.842679+00:00",
@@ -31,15 +30,24 @@
   "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/comment-vladimir-poutine-a-reussi-a-retourner-donald-trump_8229241.html": "2026-10-23T11:46:28.457225+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/donald-trump-affirme-qu-elon-musk-a-relance-son-reseau-satellitaire-starlink-pour-l-ukraine-crucial-pour-intercepter-les-drones-russes_8250100.html": "2026-10-23T11:46:28.457225+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/ne-pas-laisser-paraitre-leur-peur-a-kiev-les-ecoles-vivent-au-rythme-des-attaques-russes_8250178.html": "2026-10-23T11:46:28.457225+00:00",
-  "https://www.franceinfo.fr/monde/europe/albanie-des-deputes-en-viennent-aux-mains-les-manifestations-se-poursuivent_8250160.html": "2026-10-23T11:46:28.457225+00:00"
+  "https://www.franceinfo.fr/monde/europe/albanie-des-deputes-en-viennent-aux-mains-les-manifestations-se-poursuivent_8250160.html": "2026-10-23T11:46:28.457225+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/melania-trump-affirme-avoir-obtenu-une-treve-entre-russes-et-ukrainiens-a-olechky_8251402.html": "2026-10-23T21:28:56.763941+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "Un mort et trois disparus à bord d'un navire \"en détresse\" en mer Noire, nouvel incident dans la région Des drones ont touché plusieurs navires marchands en mer Noire, au large de la Roumanie et de la Bulgarie, au cours des trois dernières semaines. Aujourd'hui",
+   "title": "Melania Trump affirme avoir obtenu une trêve entre Russes et Ukrainiens à Olechky Le cessez-le-feu dans la ville située près du fleuve Dniepr, qui forme la ligne de front entre troupes ukrainiennes et russes, doit entrer en vigueur le 29 octobre, a déclaré la Première dame dans un communiqué. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/melania-trump-affirme-avoir-obtenu-une-treve-entre-russes-et-ukrainiens-a-olechky_8251402.html",
+   "summary": "Melania Trump affirme avoir obtenu une trêve entre Russes et Ukrainiens à Olechky",
+   "image": "https://www.franceinfo.fr/pictures/-jzcNgqQzo6umL6C2Msw2Pw6HBY/16x0:1008x682/432x297/filters:format(jpg)/2026/10/23/6adbb171e23e7778663083.jpg",
+   "date": null,
+   "pubdate": "2026-10-23T21:28:56.763941+00:00"
+  },
+  {
+   "title": "Un mort et trois disparus à bord d'un navire \"en détresse\" en mer Noire, nouvel incident dans la région",
    "link": "https://www.franceinfo.fr/monde/europe/un-mort-et-trois-disparus-a-bord-d-un-navire-en-detresse-en-mer-noire-nouvel-incident-dans-la-region_8250601.html",
-   "summary": "Un mort et trois disparus à bord d'un navire \"en détresse\" en mer Noire, nouvel incident dans la région",
-   "image": "https://www.franceinfo.fr/pictures/A_ecHnophYWmAiwNEuW4jYwF1nc/6x0:6034x4144/432x297/filters:format(jpg)/2026/10/23/6adb2e024fb46942594020.jpg",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/Idz546zwyXiNDFnIDVQ_4ak-MUQ/0x1:6034x3396/432x243/filters:format(jpg)/2026/10/23/6adb2e024fb46942594020.jpg",
    "date": null,
    "pubdate": "2026-10-23T11:46:28.457225+00:00"
   },
@@ -108,7 +116,7 @@
    "pubdate": "2026-10-22T21:42:03.662500+00:00"
   },
   {
-   "title": "30:00 vidéo 30 minutes \"Nous, les Européens\". Forêts primaires, les derniers sanctuaires",
+   "title": "30:00 vidéo 30 minutes \"Nous, les Européens\". Forêts primaires, les derniers sanctuaires Grand reportage, invités et actualité européenne sont au sommaire de ce magazine d'information, présenté par Eléonore Gay et diffusé le dimanche à midi sur France 3 ainsi que le jeudi en fin de soirée sur France 2.",
    "link": "https://www.franceinfo.fr/replay-magazine/france-2/nous-les-europeens/nous-les-europeens-forets-primaires-les-derniers-sanctuaires_8227624.html",
    "summary": "\"Nous, les Européens\". Forêts primaires, les derniers sanctuaires",
    "image": "https://www.franceinfo.fr/pictures/b_9u4GaNKwYst7KJM28nMKywN8s/0x0:1920x1080/432x243/filters:format(jpg)/2025/06/03/image-9-683f011a28325654717116.jpg",
@@ -266,14 +274,6 @@
    "image": "https://www.franceinfo.fr/pictures/U7M0GRVcpKlihasDxtFXSJnptkY/0x0:1024x576/432x243/filters:format(jpg)/2026/10/20/6ad7c8c6ebadb061920000.jpg",
    "date": null,
    "pubdate": "2026-10-20T23:56:38.249791+00:00"
-  },
-  {
-   "title": "Un drone aérien utilisé pour évacuer un soldat blessé en Ukraine, une première selon Kiev L'armée ukrainienne a diffusé les images de l'évacuation d'un soldat blessé grâce à un drone aérien. Cette opération, menée par la 92e brigade, a permis de secourir un combattant isolé en zone de combat depuis plusieurs jours.",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-un-combattant-blesse-evacue-du-champ-de-bataille-par-un-drone-aerien-une-premiere_8245759.html",
-   "summary": "Un drone aérien utilisé pour évacuer un soldat blessé en Ukraine, une première selon Kiev",
-   "image": "https://www.franceinfo.fr/pictures/r4Da_2z2OIHFAXea6FhtG-1Z-Ks/0x0:800x450/432x243/filters:format(jpg)/2026/10/20/6ad77c6e290fe964779585.jpg",
-   "date": null,
-   "pubdate": "2026-10-20T19:20:06.479136+00:00"
   }
  ]
 }
