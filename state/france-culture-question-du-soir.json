@@ -1,8 +1,7 @@
 {
- "etag": "\"uigo9i\"",
+ "etag": "\"5ikg9p\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/affaire-thelyson-orelien-avant-de-tous-nous-tuer-l-ia-va-t-elle-d-abord-nous-diviser-7201314": "2026-09-28T11:00:00+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/antisemitismes-au-rn-le-retour-du-refoule-1619510": "2026-09-29T11:00:00+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/faut-il-detruire-les-data-centers-5516642": "2026-09-30T20:06:55.647904+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/javier-milei-a-paris-qu-est-ce-que-le-liberal-conservatisme-a-la-francaise-4074047": "2026-10-01T18:29:06.788878+00:00",
@@ -20,7 +19,8 @@
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/la-violence-nuit-elle-au-mouvement-social-3848565": "2026-10-19T20:37:25.488771+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/questions-du-soir-le-debat-emission-du-mardi-20-octobre-2026-7533340": "2026-10-17T11:00:00+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/le-dialogue-avec-la-jeunesse-est-il-rompu-1650906": "2026-10-21T17:18:27.511303+00:00",
-  "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/l-ukraine-peut-elle-combattre-sans-les-etats-unis-1368171": "2026-10-22T17:16:26.076810+00:00"
+  "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/l-ukraine-peut-elle-combattre-sans-les-etats-unis-1368171": "2026-10-22T17:16:26.076810+00:00",
+  "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/peut-on-faire-une-genealogie-de-la-violence-5914534": "2026-10-17T11:00:00+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
@@ -47,6 +47,14 @@
    "image": "https://www.radiofrance.fr/pikapi/images/30f81e4e-6b0e-414c-8d3a-39dfd499a193/2048",
    "date": null,
    "pubdate": "2026-10-19T20:37:25.488771+00:00"
+  },
+  {
+   "title": "Peut-on faire une gÃ©nÃ©alogie de la violenceÂ ?",
+   "link": "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/peut-on-faire-une-genealogie-de-la-violence-5914534",
+   "summary": "Depuis les pillages du 17 octobre 2026 lors des manifestations contre la vie chÃ¨re, le mot \"violence\" sâest imposÃ© au cÅur du dÃ©bat public. Comment la dÃ©finir, lâexpliquer et la combattreÂ ? Nos deux invitÃ©es, GisÃ¨le Sapiro et Cynthia Salloum, en dÃ©battent.",
+   "image": "https://www.radiofrance.fr/pikapi/images/a58d8373-f53a-4abd-ba12-9c8f22be2df2/2048",
+   "date": "2026-10-17T11:00:00+00:00",
+   "pubdate": "2026-10-17T11:00:00+00:00"
   },
   {
    "title": "La justice est-elle le bon instrument pour rÃ©pondre aux violencesÂ ?",
@@ -167,14 +175,6 @@
    "image": "https://www.radiofrance.fr/pikapi/images/3cb79bdf-e29f-4773-99b9-6c9676e4b4dc/2048",
    "date": "2026-09-29T11:00:00+00:00",
    "pubdate": "2026-09-29T11:00:00+00:00"
-  },
-  {
-   "title": "IA dans la littÃ©rature, le dÃ©but de la finÂ ?",
-   "link": "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/affaire-thelyson-orelien-avant-de-tous-nous-tuer-l-ia-va-t-elle-d-abord-nous-diviser-7201314",
-   "summary": "Que fait la rÃ©volution de l'intelligence artificielle Ã notre sociÃ©tÃ© et Ã notre rapport aux autresÂ ? Ne sommes-nous que des spectateurs d'un combat entre IAÂ ? On en dÃ©bat avec nos invitÃ©s.",
-   "image": "https://www.radiofrance.fr/pikapi/images/754f0ed7-3c48-4815-a5de-773787a550b1/2048",
-   "date": "2026-09-28T11:00:00+00:00",
-   "pubdate": "2026-09-28T11:00:00+00:00"
   }
  ]
 }
