@@ -1,9 +1,7 @@
 {
- "etag": "\"79bbde4c24c24b8419e2632f6faf6b19-gzip\"",
+ "etag": "\"232de5b22ef3cfd82a1eba157ec073ad-gzip\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.franceinfo.fr/monde/europe/belgique/face-au-tri-eprouvant-de-parcoursup-des-milliers-d-etudiants-francais-s-exilent-en-belgique-pour-leurs-etudes-superieures_8245636.html": "2026-10-20T14:21:15.959022+00:00",
-  "https://www.franceinfo.fr/monde/europe/union-europeenne/avec-ses-attaques-en-mer-noire-la-russie-pourrait-declencher-une-crise-alimentaire-mondiale-denonce-l-ue_8245333.html": "2026-10-20T14:21:15.959022+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-un-combattant-blesse-evacue-du-champ-de-bataille-par-un-drone-aerien-une-premiere_8245759.html": "2026-10-20T19:20:06.479136+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/il-faut-que-zelensky-ait-la-volonte-de-mettre-fin-a-cette-guerre-donald-trump-durcit-encore-le-ton-contre-l-ukraine_8246233.html": "2026-10-20T23:56:38.249791+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-ukraine-la-russie-frappe-de-nouveau-le-secteur-energetique-et-le-reseau-ferroviaire-faisant-au-moins-4-morts_8246995.html": "2026-10-21T11:58:59.842679+00:00",
@@ -23,39 +21,81 @@
   "https://www.franceinfo.fr/replay-radio/le-brief-eco/l-europe-multiplie-les-brevets-mais-peine-a-transformer-ses-decouvertes-en-succes-commerciaux_8227633.html": "2026-10-22T12:00:42.677473+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/des-attaques-reciproques-de-la-russie-et-de-l-ukraine-apres-des-pourparlers-russo-americains-font-plusieurs-blesses-a-kiev-et-moscou_8248372.html": "2026-10-22T12:00:42.677473+00:00",
   "https://www.franceinfo.fr/monde/europe/les-deputes-polonais-approuvent-la-depenalisation-partielle-de-l-avortement-actuellement-passible-de-trois-ans-de-prison_8249098.html": "2026-10-22T17:16:13.139057+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-ukraine-des-frappes-russes-font-sept-nouvelles-victimes-et-des-dizaines-de-blesses-malgre-les-pourparlers_8249089.html": "2026-10-22T17:16:13.139057+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-armee-ukrainienne-sauve-un-soldat-isole-du-front-grace-a-un-drone_8249005.html": "2026-10-22T17:16:13.139057+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/vos-questions-sur-l-effort-de-guerre-de-la-france/": "2026-10-22T17:16:13.139057+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/vladimir-poutine-se-dit-pret-a-negocier-un-accord-final-avec-l-ukraine-pas-une-treve-courte_8249647.html": "2026-10-22T21:42:03.662500+00:00",
   "https://www.franceinfo.fr/replay-magazine/france-2/nous-les-europeens/nous-les-europeens-forets-primaires-les-derniers-sanctuaires_8227624.html": "2026-10-22T21:42:03.662500+00:00",
-  "https://www.franceinfo.fr/monde/europe/des-deputes-albanais-se-battent-en-plein-hemicycle-en-raison-des-manifestations_8249572.html": "2026-10-22T21:42:03.662500+00:00",
   "https://www.franceinfo.fr/monde/russie/carte-survols-de-drones-incendies-des-medias-europeens-recensent-plus-de-50-actions-imputees-a-la-russie-sur-le-continent-depuis-avril_8240515.html": "2026-10-23T04:59:28.695537+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/une-decision-politique-a-ete-prise-pour-ralentir-le-soutien-l-ukraine-accuse-washington-de-retarder-la-livraison-de-missiles_8245024.html": "2026-10-23T04:59:28.695537+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-ukraine-six-morts-dont-trois-enfants-dans-une-frappe-russe-dans-un-parc-pres-de-kharkiv_8244463.html": "2026-10-23T04:59:28.695537+00:00"
+  "https://www.franceinfo.fr/monde/europe/un-mort-et-trois-disparus-a-bord-d-un-navire-en-detresse-en-mer-noire-nouvel-incident-dans-la-region_8250601.html": "2026-10-23T11:46:28.457225+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-ukraine-une-adolescente-accusee-d-avoir-empoisonne-des-soldats-pour-le-compte-de-la-russie_8250382.html": "2026-10-23T11:46:28.457225+00:00",
+  "https://www.franceinfo.fr/replay-radio/le-monde-et-vous/inspiree-par-les-manifestations-en-france-la-generation-z-allemande-appelle-a-descendre-dans-la-rue_8229229.html": "2026-10-23T11:46:28.457225+00:00",
+  "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/comment-vladimir-poutine-a-reussi-a-retourner-donald-trump_8229241.html": "2026-10-23T11:46:28.457225+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/donald-trump-affirme-qu-elon-musk-a-relance-son-reseau-satellitaire-starlink-pour-l-ukraine-crucial-pour-intercepter-les-drones-russes_8250100.html": "2026-10-23T11:46:28.457225+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/ne-pas-laisser-paraitre-leur-peur-a-kiev-les-ecoles-vivent-au-rythme-des-attaques-russes_8250178.html": "2026-10-23T11:46:28.457225+00:00",
+  "https://www.franceinfo.fr/monde/europe/albanie-des-deputes-en-viennent-aux-mains-les-manifestations-se-poursuivent_8250160.html": "2026-10-23T11:46:28.457225+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": ": Carte Survols de drones, incendies... Des médias européens recensent plus de 50 actions imputées à la Russie sur le continent depuis avril Le réseau des médias audiovisuels publics européens a élaboré une carte commune des incidents liés à la \"guerre hybride\" de la Russie sur les six derniers mois, qui s'étendent jusqu'à l'Europe de l'Ouest même si les pays proches de l'Ukraine sont les plus touchés. Aujourd'hui : Carte",
+   "title": "Un mort et trois disparus à bord d'un navire \"en détresse\" en mer Noire, nouvel incident dans la région Des drones ont touché plusieurs navires marchands en mer Noire, au large de la Roumanie et de la Bulgarie, au cours des trois dernières semaines. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/europe/un-mort-et-trois-disparus-a-bord-d-un-navire-en-detresse-en-mer-noire-nouvel-incident-dans-la-region_8250601.html",
+   "summary": "Un mort et trois disparus à bord d'un navire \"en détresse\" en mer Noire, nouvel incident dans la région",
+   "image": "https://www.franceinfo.fr/pictures/A_ecHnophYWmAiwNEuW4jYwF1nc/6x0:6034x4144/432x297/filters:format(jpg)/2026/10/23/6adb2e024fb46942594020.jpg",
+   "date": null,
+   "pubdate": "2026-10-23T11:46:28.457225+00:00"
+  },
+  {
+   "title": "En Ukraine, une adolescente accusée d'avoir empoisonné des soldats pour le compte de la Russie",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-ukraine-une-adolescente-accusee-d-avoir-empoisonne-des-soldats-pour-le-compte-de-la-russie_8250382.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/H_MabjruIWrXegsLLUVs9wXFv_E/0x486:5455x3555/432x243/filters:format(jpg)/2026/10/23/6adb1f353b009405496863.jpg",
+   "date": null,
+   "pubdate": "2026-10-23T11:46:28.457225+00:00"
+  },
+  {
+   "title": "2:37 audio 2 minutes 37 Inspirée par les manifestations en France, la génération Z allemande appelle à descendre dans la rue",
+   "link": "https://www.franceinfo.fr/replay-radio/le-monde-et-vous/inspiree-par-les-manifestations-en-france-la-generation-z-allemande-appelle-a-descendre-dans-la-rue_8229229.html",
+   "summary": "Inspirée par les manifestations en France, la génération Z allemande appelle à descendre dans la rue",
+   "image": "https://www.franceinfo.fr/pictures/4SJ3LqYtl2IJPJxGv0L-dXGxmu0/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/23/6adb116716f74066955511.jpg",
+   "date": null,
+   "pubdate": "2026-10-23T11:46:28.457225+00:00"
+  },
+  {
+   "title": "2:55 audio 2 minutes 55 Comment Vladimir Poutine a réussi à \"retourner\" Donald Trump",
+   "link": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/comment-vladimir-poutine-a-reussi-a-retourner-donald-trump_8229241.html",
+   "summary": "Comment Vladimir Poutine a réussi à \"retourner\" Donald Trump",
+   "image": "https://www.franceinfo.fr/pictures/hnyW_XNxZQUrcQyR64Iw1c9egN4/0x428:8192x5036/432x243/filters:format(jpg)/2026/10/23/6adaf31495d45889142518.jpg",
+   "date": null,
+   "pubdate": "2026-10-23T11:46:28.457225+00:00"
+  },
+  {
+   "title": "Donald Trump affirme qu'Elon Musk a relancé son réseau satellitaire Starlink pour l'Ukraine, crucial pour intercepter les drones russes",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/donald-trump-affirme-qu-elon-musk-a-relance-son-reseau-satellitaire-starlink-pour-l-ukraine-crucial-pour-intercepter-les-drones-russes_8250100.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/4xtiQaEQvmXBoHqjvkLVmtsRk-k/0x0:4506x2534/432x243/filters:format(jpg)/2026/10/23/6adaf35bed53e739479569.jpg",
+   "date": null,
+   "pubdate": "2026-10-23T11:46:28.457225+00:00"
+  },
+  {
+   "title": "1:59 vidéo 1 minute 59 “Ne pas laisser paraître leur peur” : à Kiev, les écoles vivent au rythme des attaques russes",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/ne-pas-laisser-paraitre-leur-peur-a-kiev-les-ecoles-vivent-au-rythme-des-attaques-russes_8250178.html",
+   "summary": "“Ne pas laisser paraître leur peur” : à Kiev, les écoles vivent au rythme des attaques russes",
+   "image": "https://www.franceinfo.fr/pictures/JEr8CMj2IVZowkVrCWgMrxC4j-U/198x0:1707x849/432x243/filters:format(jpg)/2026/10/23/6adaf112f159e942852270.jpg",
+   "date": null,
+   "pubdate": "2026-10-23T11:46:28.457225+00:00"
+  },
+  {
+   "title": "1:40 vidéo 1 minute 40 Albanie : des députés en viennent aux mains, les manifestations se poursuivent",
+   "link": "https://www.franceinfo.fr/monde/europe/albanie-des-deputes-en-viennent-aux-mains-les-manifestations-se-poursuivent_8250160.html",
+   "summary": "Albanie : des députés en viennent aux mains, les manifestations se poursuivent",
+   "image": "https://www.franceinfo.fr/pictures/37mo6NrWWbKagOkPge2-GTJ4L1I/191x0:1701x849/432x243/filters:format(jpg)/2026/10/23/6adaed764a97f489465587.jpg",
+   "date": null,
+   "pubdate": "2026-10-23T11:46:28.457225+00:00"
+  },
+  {
+   "title": ": Carte : Carte Survols de drones, incendies... Des médias européens recensent plus de 50 actions imputées à la Russie sur le continent depuis avril",
    "link": "https://www.franceinfo.fr/monde/russie/carte-survols-de-drones-incendies-des-medias-europeens-recensent-plus-de-50-actions-imputees-a-la-russie-sur-le-continent-depuis-avril_8240515.html",
    "summary": "Survols de drones, incendies... Des médias européens recensent plus de 50 actions imputées à la Russie sur le continent depuis avril",
-   "image": "https://www.franceinfo.fr/pictures/WqjLxTj4b1rPisILy9tX2Zg-FOU/0x89:5665x3984/432x297/filters:format(jpg)/2026/10/22/6ada1cb37fb11634146389.jpg",
-   "date": null,
-   "pubdate": "2026-10-23T04:59:28.695537+00:00"
-  },
-  {
-   "title": "\"Une décision politique a été prise pour ralentir le soutien\" : l'Ukraine accuse Washington de retarder la livraison de missiles Devant des sénateurs américains, Volodymyr Zelensky a assuré que \"le Pentagone retard[ait] la livraison de missiles déjà payés\" par les Européens pour l'Ukraine.",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/une-decision-politique-a-ete-prise-pour-ralentir-le-soutien-l-ukraine-accuse-washington-de-retarder-la-livraison-de-missiles_8245024.html",
-   "summary": "\"Une décision politique a été prise pour ralentir le soutien\" : l'Ukraine accuse Washington de retarder la livraison de missiles",
-   "image": "https://www.franceinfo.fr/pictures/FUq5J9C_FjR5PFH4BXJ0pLrXRdI/0x0:2967x1668/432x243/filters:format(jpg)/2026/10/20/6ad6ec36baab1003569372.jpg",
-   "date": null,
-   "pubdate": "2026-10-23T04:59:28.695537+00:00"
-  },
-  {
-   "title": "En Ukraine, six morts dont trois enfants dans une frappe russe dans un parc près de Kharkiv Cette frappe a visé le site \"à un moment où il y avait beaucoup de monde, notamment des familles avec des enfants\", a dénoncé la police régionale.",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-ukraine-six-morts-dont-trois-enfants-dans-une-frappe-russe-dans-un-parc-pres-de-kharkiv_8244463.html",
-   "summary": "En Ukraine, six morts dont trois enfants dans une frappe russe dans un parc près de Kharkiv",
-   "image": "https://www.franceinfo.fr/pictures/1BuP9rBsAT4bS66dNlCfrXdym0o/0x95:1024x671/432x243/filters:format(jpg)/2026/10/19/6ad66b6f036eb643386279.jpg",
+   "image": "https://www.franceinfo.fr/pictures/uT7gxr249oYlE1VKHwU21kX_LYQ/0x677:5665x3864/432x243/filters:format(jpg)/2026/10/22/6ada1cb37fb11634146389.jpg",
    "date": null,
    "pubdate": "2026-10-23T04:59:28.695537+00:00"
   },
@@ -76,38 +116,6 @@
    "pubdate": "2026-10-22T21:42:03.662500+00:00"
   },
   {
-   "title": "0:41 vidéo 41 secondes Des députés albanais se battent en plein hémicycle en raison des manifestations",
-   "link": "https://www.franceinfo.fr/monde/europe/des-deputes-albanais-se-battent-en-plein-hemicycle-en-raison-des-manifestations_8249572.html",
-   "summary": "Des députés albanais se battent en plein hémicycle en raison des manifestations",
-   "image": "https://www.franceinfo.fr/pictures/tl2t5TM6OeSn0hWUWyRXFPGyWSA/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/22/6ada59f49a282532431569.jpg",
-   "date": null,
-   "pubdate": "2026-10-22T21:42:03.662500+00:00"
-  },
-  {
-   "title": "Les députés polonais approuvent la dépénalisation partielle de l'avortement, actuellement passible de trois ans de prison",
-   "link": "https://www.franceinfo.fr/monde/europe/les-deputes-polonais-approuvent-la-depenalisation-partielle-de-l-avortement-actuellement-passible-de-trois-ans-de-prison_8249098.html",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/sFPzzaI0fzzQMYXBdKFatOpiPyI/0x62:1200x737/432x243/filters:format(jpg)/2026/10/22/6ada12f5e530c039256034.jpg",
-   "date": null,
-   "pubdate": "2026-10-22T17:16:13.139057+00:00"
-  },
-  {
-   "title": "1:33 vidéo 1 minute 33 En Ukraine, des frappes russes font sept nouvelles victimes et des dizaines de blessés malgré les pourparlers",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-ukraine-des-frappes-russes-font-sept-nouvelles-victimes-et-des-dizaines-de-blesses-malgre-les-pourparlers_8249089.html",
-   "summary": "En Ukraine, des frappes russes font sept nouvelles victimes et des dizaines de blessés malgré les pourparlers",
-   "image": "https://www.franceinfo.fr/pictures/evJGHhlabFsdmL86L1ZtB5ty79o/84x0:1426x755/432x243/filters:format(jpg)/2026/10/22/6ada14e70aefb625203745.jpg",
-   "date": null,
-   "pubdate": "2026-10-22T17:16:13.139057+00:00"
-  },
-  {
-   "title": "0:56 vidéo 56 secondes L'armée ukrainienne sauve un soldat isolé du front grâce à un drone",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-armee-ukrainienne-sauve-un-soldat-isole-du-front-grace-a-un-drone_8249005.html",
-   "summary": "L'armée ukrainienne sauve un soldat isolé du front grâce à un drone",
-   "image": "https://www.franceinfo.fr/pictures/XEqaNZ0bLzVNx5BM-fEpdMAsKfM/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/22/6ad9fe2fb86f3894368737.png",
-   "date": null,
-   "pubdate": "2026-10-22T17:16:13.139057+00:00"
-  },
-  {
    "title": "Vos questions sur l'effort de guerre de la France 6 contenus",
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/vos-questions-sur-l-effort-de-guerre-de-la-france/",
    "summary": "Vos questions sur l'effort de guerre de la France",
@@ -116,25 +124,33 @@
    "pubdate": "2026-10-22T17:16:13.139057+00:00"
   },
   {
-   "title": "Pierre Moscovici démissionne de la Cour des comptes européenne, moins d'un an après sa nomination",
+   "title": "Les députés polonais approuvent la dépénalisation partielle de l'avortement, actuellement passible de trois ans de prison La chambre basse du parlement polonais a approuvé mardi ce projet de loi et un second texte rétablissant les malformations graves du fœtus parmi les rares motifs légaux d'IVG. Mais le parcours de ces textes n'est pas terminé. Le média public polonais Polskie Radio revient sur cette décision.",
+   "link": "https://www.franceinfo.fr/monde/europe/les-deputes-polonais-approuvent-la-depenalisation-partielle-de-l-avortement-actuellement-passible-de-trois-ans-de-prison_8249098.html",
+   "summary": "Les députés polonais approuvent la dépénalisation partielle de l'avortement, actuellement passible de trois ans de prison",
+   "image": "https://www.franceinfo.fr/pictures/sFPzzaI0fzzQMYXBdKFatOpiPyI/0x62:1200x737/432x243/filters:format(jpg)/2026/10/22/6ada12f5e530c039256034.jpg",
+   "date": null,
+   "pubdate": "2026-10-22T17:16:13.139057+00:00"
+  },
+  {
+   "title": "Pierre Moscovici démissionne de la Cour des comptes européenne, moins d'un an après sa nomination \"Concilier ma vie familiale (…) et la vie à Luxembourg est vraiment trop compliqué. Dans ces conditions, j'ai estimé qu'il était plus raisonnable de ne pas poursuivre ce mandat\", a confié l'ex-ministre français au \"Point\".",
    "link": "https://www.franceinfo.fr/monde/europe/pierre-moscovici-demissionne-de-la-cour-des-comptes-europeenne-moins-d-un-an-apres-sa-nomination_8248972.html",
-   "summary": "",
+   "summary": "Pierre Moscovici démissionne de la Cour des comptes européenne, moins d'un an après sa nomination",
    "image": "https://www.franceinfo.fr/pictures/D--APjpkp5zLGiln-id6XV9Fvsw/0x0:1024x576/432x243/filters:format(jpg)/2026/10/22/6ad9f8aab17ba821767931.jpg",
    "date": null,
    "pubdate": "2026-10-22T12:00:42.677473+00:00"
   },
   {
-   "title": "\"Beaucoup n'ont plus les moyens d'étudier\" : en Grèce, les jeunes descendent aussi dans la rue contre la vie chère",
+   "title": "\"Beaucoup n'ont plus les moyens d'étudier\" : en Grèce, les jeunes descendent aussi dans la rue contre la vie chère Les mobilisations du mois d'octobre se poursuivent en France et dans toute l'Europe, les jeunes Grecs se joignent au mouvement. Ils sont eux aussi descendus dans la rue pour protester contre la vie chère et apportent leur soutien aux étudiants français.",
    "link": "https://www.franceinfo.fr/monde/grece/beaucoup-n-ont-plus-les-moyens-d-etudier-en-grece-les-jeunes-descendent-aussi-dans-la-rue-contre-la-vie-chere_8248579.html",
-   "summary": "",
+   "summary": "\"Beaucoup n'ont plus les moyens d'étudier\" : en Grèce, les jeunes descendent aussi dans la rue contre la vie chère",
    "image": "https://www.franceinfo.fr/pictures/GN8i9GwVDPWLEshATvRxv3gLDkQ/0x311:6048x3713/432x243/filters:format(jpg)/2026/10/22/6ad9c329cf851784425523.jpg",
    "date": null,
    "pubdate": "2026-10-22T12:00:42.677473+00:00"
   },
   {
-   "title": "Le prix Sakharov 2026 du Parlement européen est attribué à la Cour pénale internationale",
+   "title": "Le prix Sakharov 2026 du Parlement européen est attribué à la Cour pénale internationale La CPI est régulièrement attaquée par Donald Trump. Les Etats-Unis lui ont même imposé des sanctions début octobre.",
    "link": "https://www.franceinfo.fr/monde/europe/union-europeenne/le-prix-sakharov-2026-du-parlement-europeen-est-attribue-a-la-cour-penale-internationale_8248783.html",
-   "summary": "",
+   "summary": "Le prix Sakharov 2026 du Parlement européen est attribué à la Cour pénale internationale",
    "image": "https://www.franceinfo.fr/pictures/wm2ZjI2BTlAhVNTs8Q3hSNBwQDA/0x0:4724x2657/432x243/filters:format(jpg)/2026/10/22/6ad9dd79dc1be526599318.jpg",
    "date": null,
    "pubdate": "2026-10-22T12:00:42.677473+00:00"
@@ -258,22 +274,6 @@
    "image": "https://www.franceinfo.fr/pictures/r4Da_2z2OIHFAXea6FhtG-1Z-Ks/0x0:800x450/432x243/filters:format(jpg)/2026/10/20/6ad77c6e290fe964779585.jpg",
    "date": null,
    "pubdate": "2026-10-20T19:20:06.479136+00:00"
-  },
-  {
-   "title": "Face au tri éprouvant de Parcoursup, des milliers d'étudiants français s'exilent en Belgique pour leurs études supérieures Le système Parcoursup est critiqué pour son processus de sélection opaque, stressant et discriminant, poussant de nombreux étudiants à chercher des alternatives. S’inscrire dans une université belge, sans sélection stricte à l’entrée, en est une. Ce phénomène représente toutefois une charge financière pour la Fédération Wallonie-Bruxelles, comme l'explique cet article de la RTBF.",
-   "link": "https://www.franceinfo.fr/monde/europe/belgique/face-au-tri-eprouvant-de-parcoursup-des-milliers-d-etudiants-francais-s-exilent-en-belgique-pour-leurs-etudes-superieures_8245636.html",
-   "summary": "Face au tri éprouvant de Parcoursup, des milliers d'étudiants français s'exilent en Belgique pour leurs études supérieures",
-   "image": "https://www.franceinfo.fr/pictures/lDxMcvt4m4sVTx0yKyA-WEM7GA8/0x62:1200x737/432x243/filters:format(jpg)/2026/10/20/6ad7665cef386005158922.jpg",
-   "date": null,
-   "pubdate": "2026-10-20T14:21:15.959022+00:00"
-  },
-  {
-   "title": "Avec ses attaques de drone en mer Noire, la Russie pourrait déclencher une crise alimentaire mondiale, dénonce l'UE La mer Noire constitue une artère maritime essentielle pour l'exportation mondiale de céréales, de ressources énergétiques et de matières premières pour l'industrie.",
-   "link": "https://www.franceinfo.fr/monde/europe/union-europeenne/avec-ses-attaques-en-mer-noire-la-russie-pourrait-declencher-une-crise-alimentaire-mondiale-denonce-l-ue_8245333.html",
-   "summary": "Avec ses attaques de drone en mer Noire, la Russie pourrait déclencher une crise alimentaire mondiale, dénonce l'UE",
-   "image": "https://www.franceinfo.fr/pictures/n08knCRN3RfqbjJ01udCJXZs-24/0x427:4104x2736/432x243/filters:format(jpg)/2026/10/20/6ad72fe4f2e0c342970767.jpg",
-   "date": null,
-   "pubdate": "2026-10-20T14:21:15.959022+00:00"
   }
  ]
 }

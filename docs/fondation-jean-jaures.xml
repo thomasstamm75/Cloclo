@@ -5,8 +5,20 @@
     <link>https://www.jean-jaures.org/</link>
     <description>Flux fabriqué par Cloclo à partir de https://www.jean-jaures.org/</description>
     <language>fr</language>
-    <lastBuildDate>Fri, 23 Oct 2026 04:59:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 11:46:41 +0000</lastBuildDate>
     <atom:link href="https://thomasstamm75.github.io/Cloclo/fondation-jean-jaures.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quatre pays face à la fatigue informationnelle</title>
+      <link>https://www.jean-jaures.org/publication/quatre-pays-face-a-la-fatigue-informationnelle/</link>
+      <guid isPermaLink="true">https://www.jean-jaures.org/publication/quatre-pays-face-a-la-fatigue-informationnelle/</guid>
+      <pubDate>Fri, 23 Oct 2026 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>2027 : une campagne sous fatigue informationnelle</title>
+      <link>https://www.jean-jaures.org/publication/2027-une-campagne-sous-fatigue-informationnelle/</link>
+      <guid isPermaLink="true">https://www.jean-jaures.org/publication/2027-une-campagne-sous-fatigue-informationnelle/</guid>
+      <pubDate>Fri, 23 Oct 2026 11:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Mexique : les défis politiques, économiques et sécuritaires de Claudia Sheinbaum face aux enjeux internes et externes</title>
       <link>https://www.jean-jaures.org/publication/mexique-les-defis-politiques-economiques-et-securitaires-de-claudia-sheinbaum-face-aux-enjeux-internes-et-externes/</link>
@@ -30,18 +42,6 @@
       <link>https://www.jean-jaures.org/publication/le-retour-des-idees-politiques/</link>
       <guid isPermaLink="true">https://www.jean-jaures.org/publication/le-retour-des-idees-politiques/</guid>
       <pubDate>Wed, 21 Oct 2026 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Préoccupées mais insouciantes : l’ambiguïté des gauches face à l’antisémitisme</title>
-      <link>https://www.jean-jaures.org/publication/preoccupees-mais-insouciantes-lambiguite-des-gauches-face-a-lantisemitisme/</link>
-      <guid isPermaLink="true">https://www.jean-jaures.org/publication/preoccupees-mais-insouciantes-lambiguite-des-gauches-face-a-lantisemitisme/</guid>
-      <pubDate>Mon, 19 Oct 2026 11:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>L’antisémitisme et la nouvelle maison</title>
-      <link>https://www.jean-jaures.org/publication/lantisemitisme-et-la-nouvelle-maison/</link>
-      <guid isPermaLink="true">https://www.jean-jaures.org/publication/lantisemitisme-et-la-nouvelle-maison/</guid>
-      <pubDate>Mon, 19 Oct 2026 11:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

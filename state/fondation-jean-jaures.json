@@ -1,16 +1,32 @@
 {
  "etag": "",
- "last_modified": "Fri, 23 Oct 2026 04:15:40 GMT",
+ "last_modified": "Fri, 23 Oct 2026 08:26:07 GMT",
  "first_seen": {
   "https://www.jean-jaures.org/publication/mexique-les-defis-politiques-economiques-et-securitaires-de-claudia-sheinbaum-face-aux-enjeux-internes-et-externes/": "2026-10-22T11:00:00+00:00",
   "https://www.jean-jaures.org/publication/a-qui-appartiennent-les-biens-culturels-restitues-en-afrique/": "2026-10-22T11:00:00+00:00",
   "https://www.jean-jaures.org/publication/17-octobre-anatomie-dune-attention-nationale-face-au-chaos/": "2026-10-21T11:00:00+00:00",
   "https://www.jean-jaures.org/publication/le-retour-des-idees-politiques/": "2026-10-21T11:00:00+00:00",
-  "https://www.jean-jaures.org/publication/preoccupees-mais-insouciantes-lambiguite-des-gauches-face-a-lantisemitisme/": "2026-10-19T11:00:00+00:00",
-  "https://www.jean-jaures.org/publication/lantisemitisme-et-la-nouvelle-maison/": "2026-10-19T11:00:00+00:00"
+  "https://www.jean-jaures.org/publication/quatre-pays-face-a-la-fatigue-informationnelle/": "2026-10-23T11:00:00+00:00",
+  "https://www.jean-jaures.org/publication/2027-une-campagne-sous-fatigue-informationnelle/": "2026-10-23T11:00:00+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "Quatre pays face à la fatigue informationnelle",
+   "link": "https://www.jean-jaures.org/publication/quatre-pays-face-a-la-fatigue-informationnelle/",
+   "summary": "",
+   "image": "",
+   "date": "2026-10-23T11:00:00+00:00",
+   "pubdate": "2026-10-23T11:00:00+00:00"
+  },
+  {
+   "title": "2027 : une campagne sous fatigue informationnelle",
+   "link": "https://www.jean-jaures.org/publication/2027-une-campagne-sous-fatigue-informationnelle/",
+   "summary": "",
+   "image": "",
+   "date": "2026-10-23T11:00:00+00:00",
+   "pubdate": "2026-10-23T11:00:00+00:00"
+  },
   {
    "title": "Mexique : les défis politiques, économiques et sécuritaires de Claudia Sheinbaum face aux enjeux internes et externes",
    "link": "https://www.jean-jaures.org/publication/mexique-les-defis-politiques-economiques-et-securitaires-de-claudia-sheinbaum-face-aux-enjeux-internes-et-externes/",
@@ -42,22 +58,6 @@
    "image": "",
    "date": "2026-10-21T11:00:00+00:00",
    "pubdate": "2026-10-21T11:00:00+00:00"
-  },
-  {
-   "title": "Préoccupées mais insouciantes : l’ambiguïté des gauches face à l’antisémitisme",
-   "link": "https://www.jean-jaures.org/publication/preoccupees-mais-insouciantes-lambiguite-des-gauches-face-a-lantisemitisme/",
-   "summary": "",
-   "image": "",
-   "date": "2026-10-19T11:00:00+00:00",
-   "pubdate": "2026-10-19T11:00:00+00:00"
-  },
-  {
-   "title": "L’antisémitisme et la nouvelle maison",
-   "link": "https://www.jean-jaures.org/publication/lantisemitisme-et-la-nouvelle-maison/",
-   "summary": "",
-   "image": "",
-   "date": "2026-10-19T11:00:00+00:00",
-   "pubdate": "2026-10-19T11:00:00+00:00"
   }
  ]
 }

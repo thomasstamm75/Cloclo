@@ -1,8 +1,7 @@
 {
- "etag": "\"1xk28on\"",
+ "etag": "\"1a8tpd1\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/data-centers-la-course-aux-profits-4977394": "2026-09-28T14:06:42.174410+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/sanctions-contre-l-iran-la-turquie-dans-le-viseur-de-washington-9211881": "2026-09-30T05:40:50.028586+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/choose-outre-mer-peut-on-attirer-les-investisseurs-sans-repondre-aux-difficultes-structurelles-5312544": "2026-10-01T10:16:07.737272+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/bresil-a-la-veille-des-elections-la-question-du-surendettement-qui-a-augmente-sous-lula-5269473": "2026-10-02T09:53:37.264996+00:00",
@@ -19,10 +18,19 @@
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/reforme-du-lycee-la-promesse-de-l-emploi-a-t-elle-ete-tenue-4792528": "2026-10-19T13:29:21.119779+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/l-entreprenariat-par-necessite-2795523": "2026-10-20T08:39:13.495148+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/en-thailande-le-gouvernement-paie-l-addition-8024973": "2026-10-21T11:59:09.791764+00:00",
-  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/pekin-traque-les-milliards-des-grandes-fortunes-chinoises-a-l-etranger-4732139": "2026-10-22T12:00:53.779488+00:00"
+  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/pekin-traque-les-milliards-des-grandes-fortunes-chinoises-a-l-etranger-4732139": "2026-10-22T12:00:53.779488+00:00",
+  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/bientot-une-agence-de-notation-africaine-9756036": "2026-10-23T11:46:37.660008+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "BientÃ´t une agence de notation africaine",
+   "link": "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/bientot-une-agence-de-notation-africaine-9756036",
+   "summary": "Les pays africains veulent redÃ©finir les rÃ¨gles du jeu en matiÃ¨re de notation de crÃ©dit. LâUnion africaine, lâorganisme qui rassemble les pays du continent, a lancÃ© au dÃ©but du mois d'octobre Ã Port-Louis, sur lâÃ®le Maurice, une agence de notation propre Ã lâAfrique. Un dÃ©fi.",
+   "image": "https://www.radiofrance.fr/pikapi/images/25c57c9a-16d1-45cb-a36d-e2d277a93d84/2048",
+   "date": null,
+   "pubdate": "2026-10-23T11:46:37.660008+00:00"
+  },
   {
    "title": "PÃ©kin traque les milliards des grandes fortunes chinoises Ã l'Ã©tranger",
    "link": "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/pekin-traque-les-milliards-des-grandes-fortunes-chinoises-a-l-etranger-4732139",
@@ -158,14 +166,6 @@
    "image": "https://www.radiofrance.fr/pikapi/images/aee22070-8fcd-43a4-b627-4be4bfc09236/2048",
    "date": null,
    "pubdate": "2026-09-30T05:40:50.028586+00:00"
-  },
-  {
-   "title": "Data centersÂ : la course aux profits",
-   "link": "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/data-centers-la-course-aux-profits-4977394",
-   "summary": "La vague des data centers qui dÃ©ferle en France inquiÃ¨te les riverains, certains Ã©lus et nombre d'associations de dÃ©fense de l'environnement. Alors que 215 milliards d'euros d'investissements sont attendus d'ici 2035, il est encore difficile de savoir avec prÃ©cision Ã qui ils profiteront.",
-   "image": "https://www.radiofrance.fr/pikapi/images/14928c7e-6483-46c0-8d93-a60823c5f178/2048",
-   "date": null,
-   "pubdate": "2026-09-28T14:06:42.174410+00:00"
   }
  ]
 }
