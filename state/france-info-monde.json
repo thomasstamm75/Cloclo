@@ -1,5 +1,5 @@
 {
- "etag": "\"212b4e87abdea1af5a216aa68669e243-gzip\"",
+ "etag": "\"ab34e1fe341218f7ea811f2f2a4b382a-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/leon-xiv-en-france-retrouvez-l-essentiel/": "2026-10-20T00:24:57.935010+00:00",
@@ -18,7 +18,6 @@
   "https://www.franceinfo.fr/replay-radio/histoire-du-jour/le-burkina-faso-remplace-les-concours-de-beaute-par-un-concours-scientifique-feminin_8248390.html": "2026-10-22T12:00:44.479356+00:00",
   "https://www.franceinfo.fr/replay-radio/le-monde-et-vous/qui-casse-paie-en-italie-giorgia-meloni-veut-presenter-la-facture-aux-parents-des-casseurs_8227630.html": "2026-10-22T12:00:44.479356+00:00",
   "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/tout-comprendre-a-la-guerre-au-moyen-orient/": "2026-10-22T12:00:44.479356+00:00",
-  "https://www.franceinfo.fr/replay-radio/le-brief-eco/l-europe-multiplie-les-brevets-mais-peine-a-transformer-ses-decouvertes-en-succes-commerciaux_8227633.html": "2026-10-22T12:00:44.479356+00:00",
   "https://www.franceinfo.fr/economie/greve/17-octobre-une-ong-pointe-une-ingerence-russe-sur-les-reseaux-sociaux-avant-et-apres-la-mobilisation_8249086.html": "2026-10-22T17:16:14.272624+00:00",
   "https://www.franceinfo.fr/monde/europe/les-deputes-polonais-approuvent-la-depenalisation-partielle-de-l-avortement-actuellement-passible-de-trois-ans-de-prison_8249098.html": "2026-10-22T17:16:14.272624+00:00",
   "https://www.franceinfo.fr/sante/maladie/ebola/l-afrique-fait-face-a-une-situation-de-flambee-d-ebola-plus-complexe-apres-un-premier-cas-au-nigeria_8249044.html": "2026-10-22T17:16:14.272624+00:00",
@@ -30,16 +29,33 @@
   "https://www.franceinfo.fr/monde/bresil/le-fils-bolsonaro-va-t-il-remporter-la-presidentielle_8249257.html": "2026-10-22T21:42:05.984256+00:00",
   "https://www.franceinfo.fr/replay-magazine/france-2/nous-les-europeens/nous-les-europeens-forets-primaires-les-derniers-sanctuaires_8227624.html": "2026-10-22T21:42:05.984256+00:00",
   "https://www.franceinfo.fr/monde/palestine/cisjordanie-occupee-recolte-d-olives-sous-tres-haute-tension_8249365.html": "2026-10-22T21:42:05.984256+00:00",
-  "https://www.franceinfo.fr/monde/europe/des-deputes-albanais-se-battent-en-plein-hemicycle-en-raison-des-manifestations_8249572.html": "2026-10-22T21:42:05.984256+00:00",
-  "https://www.franceinfo.fr/monde/chine/le-tibet-secoue-par-un-seisme-de-magnitude-7-des-effondrements-de-maisons-signales_8249449.html": "2026-10-22T21:42:05.984256+00:00"
+  "https://www.franceinfo.fr/monde/chine/le-tibet-secoue-par-un-seisme-de-magnitude-7-des-effondrements-de-maisons-signales_8249449.html": "2026-10-22T21:42:05.984256+00:00",
+  "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/etats-unis-russie-israel-comment-des-dirigeants-etrangers-instrumentalisent-la-mobilisation-et-les-violences-du-17-octobre-a-des-fins-politiques_8247268.html": "2026-10-23T04:59:29.817444+00:00",
+  "https://www.franceinfo.fr/monde/russie/carte-survols-de-drones-incendies-des-medias-europeens-recensent-plus-de-50-actions-imputees-a-la-russie-sur-le-continent-depuis-avril_8240515.html": "2026-10-23T04:59:29.817444+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": ": Vidéo Israël : les soldats de la Torah À l’approche des législatives en Israël, le service militaire obligatoire des ultraorthodoxes est au cœur d'un conflit qui divise la société. “Envoyé spécial” a enquêté auprès de familles qui consacrent leur vie à la religion, et auprès de ceux qui réclament un effort partagé. Aujourd'hui : Vidéo 22:33 vidéo 22 minutes 33",
+   "title": "Etats-Unis, Russie, Israël... Comment des dirigeants étrangers instrumentalisent la mobilisation et les violences du 17 octobre à des fins politiques Plusieurs chefs d'Etat et de gouvernement ont profité des images en provenance de France pour appuyer des rhétoriques xénophobes, anti-immigration ou ultrasécuritaires. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/etats-unis-russie-israel-comment-des-dirigeants-etrangers-instrumentalisent-la-mobilisation-et-les-violences-du-17-octobre-a-des-fins-politiques_8247268.html",
+   "summary": "Etats-Unis, Russie, Israël... Comment des dirigeants étrangers instrumentalisent la mobilisation et les violences du 17 octobre à des fins politiques",
+   "image": "https://www.franceinfo.fr/pictures/HhQALiT4Xc8novHgH4P0jyGPBso/32x0:1024x682/432x297/filters:format(jpg)/2026/10/22/6ada0fad1cedc193129875.jpg",
+   "date": null,
+   "pubdate": "2026-10-23T04:59:29.817444+00:00"
+  },
+  {
+   "title": ": Carte : Carte Survols de drones, incendies... Des médias européens recensent plus de 50 actions imputées à la Russie sur le continent depuis avril",
+   "link": "https://www.franceinfo.fr/monde/russie/carte-survols-de-drones-incendies-des-medias-europeens-recensent-plus-de-50-actions-imputees-a-la-russie-sur-le-continent-depuis-avril_8240515.html",
+   "summary": "Survols de drones, incendies... Des médias européens recensent plus de 50 actions imputées à la Russie sur le continent depuis avril",
+   "image": "https://www.franceinfo.fr/pictures/uT7gxr249oYlE1VKHwU21kX_LYQ/0x677:5665x3864/432x243/filters:format(jpg)/2026/10/22/6ada1cb37fb11634146389.jpg",
+   "date": null,
+   "pubdate": "2026-10-23T04:59:29.817444+00:00"
+  },
+  {
+   "title": ": Vidéo 22:33 vidéo 22 minutes 33 : Vidéo Israël : les soldats de la Torah",
    "link": "https://www.franceinfo.fr/replay-magazine/france-2/envoye-special/video-israel-les-soldats-de-la-torah_8245378.html",
-   "summary": "À l’approche des législatives en Israël, le service militaire obligatoire des ultraorthodoxes est au cœur d'un conflit qui divise la société. “Envoyé spécial” a enquêté auprès de familles qui consacrent leur vie à la religion, et auprès de ceux qui réclament un effort partagé.",
-   "image": "https://www.franceinfo.fr/pictures/F59CZTFzOeJuwuDfSsvCjJEq670/174x0:1745x1080/432x297/filters:format(jpg)/2026/10/22/6ada7ff8519b7081445018.jpg",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/SHYDJT212W2wZ5SQqg3i-GmnNFI/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/22/6ada7ff8519b7081445018.jpg",
    "date": null,
    "pubdate": "2026-10-22T21:42:05.984256+00:00"
   },
@@ -100,17 +116,9 @@
    "pubdate": "2026-10-22T21:42:05.984256+00:00"
   },
   {
-   "title": "0:41 vidéo 41 secondes Des députés albanais se battent en plein hémicycle en raison des manifestations",
-   "link": "https://www.franceinfo.fr/monde/europe/des-deputes-albanais-se-battent-en-plein-hemicycle-en-raison-des-manifestations_8249572.html",
-   "summary": "Des députés albanais se battent en plein hémicycle en raison des manifestations",
-   "image": "https://www.franceinfo.fr/pictures/tl2t5TM6OeSn0hWUWyRXFPGyWSA/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/22/6ada59f49a282532431569.jpg",
-   "date": null,
-   "pubdate": "2026-10-22T21:42:05.984256+00:00"
-  },
-  {
-   "title": "Au moins 16 morts au Tibet après un séisme de magnitude 7",
+   "title": "Au moins 16 morts au Tibet après un séisme de magnitude 7 Plus de 300 maisons se sont effondrées à la suite du tremblement de terre, a précisé l'agence de presse officielle chinoise Xinhua.",
    "link": "https://www.franceinfo.fr/monde/chine/le-tibet-secoue-par-un-seisme-de-magnitude-7-des-effondrements-de-maisons-signales_8249449.html",
-   "summary": "",
+   "summary": "Au moins 16 morts au Tibet après un séisme de magnitude 7",
    "image": "https://www.franceinfo.fr/pictures/kaeC8QsV5jX0YkdUFZ2wMjpI2Sw/0x59:1024x635/432x243/filters:format(jpg)/2026/10/22/6ada5569d8830107412925.jpg",
    "date": null,
    "pubdate": "2026-10-22T21:42:05.984256+00:00"
@@ -208,14 +216,6 @@
    "link": "https://www.franceinfo.fr/replay-radio/le-monde-et-vous/qui-casse-paie-en-italie-giorgia-meloni-veut-presenter-la-facture-aux-parents-des-casseurs_8227630.html",
    "summary": "\"Qui casse paie\" : en Italie, Giorgia Meloni veut présenter la facture aux parents des casseurs",
    "image": "https://www.franceinfo.fr/pictures/U7lsX8Eh1INb3V7IuWgov3T1fu0/0x312:6000x3687/432x243/filters:format(jpg)/2026/10/19/6ad5d8ed73242504181349.jpg",
-   "date": null,
-   "pubdate": "2026-10-22T12:00:44.479356+00:00"
-  },
-  {
-   "title": "2:35 audio 2 minutes 35 L’Europe multiplie les brevets, mais peine à transformer ses découvertes en succès commerciaux C’est un constat plutôt alarmant dans le contexte de forte concurrence économique internationale, mis en avant par le dernier rapport publié par l’Office européen des brevets.",
-   "link": "https://www.franceinfo.fr/replay-radio/le-brief-eco/l-europe-multiplie-les-brevets-mais-peine-a-transformer-ses-decouvertes-en-succes-commerciaux_8227633.html",
-   "summary": "L’Europe multiplie les brevets, mais peine à transformer ses découvertes en succès commerciaux",
-   "image": "https://www.franceinfo.fr/pictures/048rXfhsqpNsFAONKFcgl76A-fE/0x313:6000x3688/432x243/filters:format(jpg)/2026/10/22/6ad9a0b25e088864268688.jpg",
    "date": null,
    "pubdate": "2026-10-22T12:00:44.479356+00:00"
   },
