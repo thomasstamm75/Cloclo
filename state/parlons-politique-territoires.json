@@ -2,8 +2,6 @@
  "etag": "",
  "last_modified": "",
  "first_seen": {
-  "https://www.parlons-politique.fr/politique-locale/qui-pesera-sur-les-services-du-vaucluse-apres-le-depart-de-dominique-santoni-le-vote-du-conseil-departemental-est-fixe-au-2-novembre_29883/": "2026-10-21T17:18:07.215968+00:00",
-  "https://www.parlons-politique.fr/politique-locale/a-carpentras-le-depart-dune-elue-pose-la-question-de-la-place-de-lopposition-dans-les-decisions-locales_29877/": "2026-10-21T17:18:07.215968+00:00",
   "https://www.parlons-politique.fr/politique-locale/apres-lincendie-de-la-mairie-de-limoges-les-habitants-attendent-des-services-accessibles-et-un-financement-clair_29914/": "2026-10-21T21:47:41.959872+00:00",
   "https://www.parlons-politique.fr/politique-locale/a-orleans-les-restrictions-pour-le-congres-du-rn-placent-les-habitants-au-coeur-dun-week-end-sous-tension_29940/": "2026-10-22T12:00:35.232267+00:00",
   "https://www.parlons-politique.fr/politique-locale/apres-les-violences-urbaines-les-maires-de-trois-grandes-villes-attendent-de-letat-des-reponses-verifiables_29928/": "2026-10-22T12:00:35.232267+00:00",
@@ -13,10 +11,28 @@
   "https://www.parlons-politique.fr/politique-locale/le-tarif-unique-du-navigo-a-facilite-les-trajets-franciliens-mais-son-financement-reste-un-enjeu-pour-les-usagers_30006/": "2026-10-23T11:46:23.647229+00:00",
   "https://www.parlons-politique.fr/politique-locale/apres-lincendie-dun-parc-qui-doit-payer-les-degats-les-familles-la-mairie-ou-les-contribuables-de-neuilly-sur-marne_30058/": "2026-10-23T21:28:48.539480+00:00",
   "https://www.parlons-politique.fr/politique-locale/apres-lincendie-de-la-mairie-de-limoges-la-promesse-dun-financement-sans-cout-communal-reste-a-chiffrer_30072/": "2026-10-24T04:44:29.823833+00:00",
-  "https://www.parlons-politique.fr/politique-locale/apres-lincendie-de-limoges-pourquoi-les-accusations-contre-le-plateau-de-millevaches-inquietent-les-habitants_30081/": "2026-10-24T11:11:06.955077+00:00"
+  "https://www.parlons-politique.fr/politique-locale/apres-lincendie-de-limoges-pourquoi-les-accusations-contre-le-plateau-de-millevaches-inquietent-les-habitants_30081/": "2026-10-24T11:11:06.955077+00:00",
+  "https://www.parlons-politique.fr/politique-locale/a-orleans-les-restrictions-liees-au-congres-du-rn-bouleversent-le-quotidien-des-habitants-bien-au-dela-des-manifestants_30109/": "2026-10-24T16:01:55.791225+00:00",
+  "https://www.parlons-politique.fr/politique-locale/a-limoges-la-reconstruction-de-la-mairie-promet-de-proteger-les-finances-locales-mais-les-modalites-de-laide-restent-a-preciser_30105/": "2026-10-24T16:01:55.791225+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "À Orléans, les restrictions liées au congrès du RN bouleversent le quotidien des habitants bien au-delà des manifestants",
+   "link": "https://www.parlons-politique.fr/politique-locale/a-orleans-les-restrictions-liees-au-congres-du-rn-bouleversent-le-quotidien-des-habitants-bien-au-dela-des-manifestants_30109/",
+   "summary": "La manifestation contre le RN a rassemblé 11 000 personnes selon les autorités et 26 000 selon les organisateurs. Pendant le congrès,…",
+   "image": "https://www.parlons-politique.fr/wp-content/uploads/2026/10/arret-tramway-vide-600x400.webp",
+   "date": null,
+   "pubdate": "2026-10-24T16:01:55.791225+00:00"
+  },
+  {
+   "title": "À Limoges, la reconstruction de la mairie promet de protéger les finances locales, mais les modalités de l’aide restent à préciser",
+   "link": "https://www.parlons-politique.fr/politique-locale/a-limoges-la-reconstruction-de-la-mairie-promet-de-proteger-les-finances-locales-mais-les-modalites-de-laide-restent-a-preciser_30105/",
+   "summary": "Sébastien Lecornu promet que l’État financera la reconstruction de la mairie de Limoges sans contribution communale. Le classement patrimonial et une procédure…",
+   "image": "https://www.parlons-politique.fr/wp-content/uploads/2026/10/mairie-limoges-lendemain-incendie-degats-toiture-600x400.webp",
+   "date": null,
+   "pubdate": "2026-10-24T16:01:55.791225+00:00"
+  },
   {
    "title": "Après l’incendie de Limoges, pourquoi les accusations contre le plateau de Millevaches inquiètent les habitants",
    "link": "https://www.parlons-politique.fr/politique-locale/apres-lincendie-de-limoges-pourquoi-les-accusations-contre-le-plateau-de-millevaches-inquietent-les-habitants_30081/",
@@ -29,7 +45,7 @@
    "title": "Après l’incendie de la mairie de Limoges, la promesse d’un financement sans coût communal reste à chiffrer",
    "link": "https://www.parlons-politique.fr/politique-locale/apres-lincendie-de-la-mairie-de-limoges-la-promesse-dun-financement-sans-cout-communal-reste-a-chiffrer_30072/",
    "summary": "Sébastien Lecornu promet que la reconstruction de l’hôtel de ville de Limoges ne pèsera pas sur le budget communal. Mais le coût…",
-   "image": "https://www.parlons-politique.fr/wp-content/uploads/2026/10/vestiges-mairie-incendie-600x400.webp",
+   "image": "https://www.parlons-politique.fr/wp-content/uploads/2026/10/mairie-limoges-incendie-barriere-gants-chantier-600x400.webp",
    "date": null,
    "pubdate": "2026-10-24T04:44:29.823833+00:00"
   },
@@ -96,22 +112,6 @@
    "image": "https://www.parlons-politique.fr/wp-content/uploads/2026/10/accueil-mairie-bibliotheque-600x400.webp",
    "date": null,
    "pubdate": "2026-10-21T21:47:41.959872+00:00"
-  },
-  {
-   "title": "Qui pèsera sur les services du Vaucluse après le départ de Dominique Santoni ? Le vote du conseil départemental est fixé au 2 novembre",
-   "link": "https://www.parlons-politique.fr/politique-locale/qui-pesera-sur-les-services-du-vaucluse-apres-le-depart-de-dominique-santoni-le-vote-du-conseil-departemental-est-fixe-au-2-novembre_29883/",
-   "summary": "Après l’élection de Dominique Santoni au Sénat, les conseillers départementaux du Vaucluse choisiront son successeur le 2 novembre. Christian Mounier est pressenti,…",
-   "image": "https://www.parlons-politique.fr/wp-content/uploads/2026/10/salle-deliberations-departement-600x400.webp",
-   "date": null,
-   "pubdate": "2026-10-21T17:18:07.215968+00:00"
-  },
-  {
-   "title": "À Carpentras, le départ d’une élue pose la question de la place de l’opposition dans les décisions locales",
-   "link": "https://www.parlons-politique.fr/politique-locale/a-carpentras-le-depart-dune-elue-pose-la-question-de-la-place-de-lopposition-dans-les-decisions-locales_29877/",
-   "summary": "Après sept mois au conseil municipal, Pauline Cittadini démissionne, évoquant son isolement et des désaccords avec les contraintes du mandat. Son siège…",
-   "image": "https://www.parlons-politique.fr/wp-content/uploads/2026/10/salle-conseil-municipal-6-600x400.webp",
-   "date": null,
-   "pubdate": "2026-10-21T17:18:07.215968+00:00"
   }
  ]
 }

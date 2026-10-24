@@ -1,5 +1,5 @@
 {
- "etag": "\"991f58e618ed8204b703e3a417064de0-gzip\"",
+ "etag": "\"53f2f16f96f23ff667430b986eb6559e-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/bon-courage-a-ceux-qui-arrivent-l-election-presidentielle-permettra-t-elle-vraiment-de-sortir-de-la-crise-politique-et-sociale-qui-secoue-le-pays_8245624.html": "2026-10-22T04:57:40.172544+00:00",
@@ -7,13 +7,10 @@
   "https://www.franceinfo.fr/societe/nos-jours-heureux/": "2026-10-23T04:59:25.203971+00:00",
   "https://www.franceinfo.fr/societe/euthanasie/comprendre-les-debats-sur-la-fin-de-vie/": "2026-10-23T04:59:25.203971+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/si-on-arrete-maintenant-on-a-perdu-et-ils-ont-gagne-a-la-veille-d-une-nouvelle-journee-de-mobilisation-des-etudiants-plus-determines-que-jamais_8229265.html": "2026-10-23T11:46:24.983620+00:00",
-  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/emmanuel-macron-a-reconnu-aupres-des-representants-lyceens-le-besoin-d-une-refonte-en-profondeur-de-parcoursup_8251462.html": "2026-10-23T21:28:51.049514+00:00",
   "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/l-etat-sera-la-pour-reconstruire-la-mairie-de-limoges-a-l-identique-promet-sebastien-lecornu_8251528.html": "2026-10-24T04:44:31.098749+00:00",
   "https://www.franceinfo.fr/societe/changement-d-heure/la-france-passe-a-l-heure-d-hiver-dans-la-nuit-de-samedi-a-dimanche_8252164.html": "2026-10-24T11:11:08.227161+00:00",
   "https://www.franceinfo.fr/societe/manifestations/avignon-cherbourg-gueret-le-point-sur-les-manifestations-du-24-octobre-en-regions_8252155.html": "2026-10-24T11:11:08.227161+00:00",
-  "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/le-fait-d-interdire-des-manifestations-est-un-aveu-d-echec-estime-othman-nasrou_8252128.html": "2026-10-24T11:11:08.227161+00:00",
   "https://www.franceinfo.fr/societe/manifestations/incendie-de-la-mairie-de-limoges-les-deux-suspects-mis-en-examen-et-places-en-detention-provisoire_8252050.html": "2026-10-24T11:11:08.227161+00:00",
-  "https://www.franceinfo.fr/replay-magazine/france-2/nous-les-europeens/en-finlande-une-usine-de-drones-tactiques-dans-un-conteneur_8251177.html": "2026-10-24T11:11:08.227161+00:00",
   "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/attaque-raciste-dans-les-yvelines-presence-de-l-ultradroite-en-france-mobilisation-du-24-octobre-le-8h30-franceinfo-d-othman-nasrou_8230948.html": "2026-10-24T11:11:08.227161+00:00",
   "https://www.franceinfo.fr/societe/manifestations/manifestations-du-24-octobre-suivez-en-direct-cette-nouvelle-journee-de-mobilisation-sous-tres-haute-securite_8251987.html": "2026-10-24T11:11:08.227161+00:00",
   "https://www.franceinfo.fr/replay-radio/portraits-d-actu/amine-kessaci-figure-de-la-lutte-contre-le-narcotrafic-a-marseille_8230936.html": "2026-10-24T11:11:08.227161+00:00",
@@ -29,15 +26,60 @@
   "https://www.franceinfo.fr/replay-jt/france-2/13-heures/mobilisation-du-24-octobre-le-bras-de-fer-sur-les-parcours-des-manifestations_8252221.html": "2026-10-24T12:06:31.333053+00:00",
   "https://www.franceinfo.fr/societe/manifestations/les-gilets-jaunes-appellent-a-une-nouvelle-mobilisation-le-31-octobre-et-denoncent-une-derive-autoritaire_8252203.html": "2026-10-24T12:06:31.333053+00:00",
   "https://www.franceinfo.fr/replay-jt/france-2/13-heures/ca-commence-a-etre-banalise-l-emotion-et-la-colere-apres-l-attaque-terroriste-a-trappes_8252197.html": "2026-10-24T12:06:31.333053+00:00",
-  "https://www.franceinfo.fr/replay-jt/france-2/13-heures/mobilisation-des-lyceens-malgre-les-promesses-d-emmanuel-macron-les-syndicats-appellent-a-poursuivre-le-mouvement_8252236.html": "2026-10-24T12:48:32.078693+00:00"
+  "https://www.franceinfo.fr/replay-jt/france-2/13-heures/mobilisation-des-lyceens-malgre-les-promesses-d-emmanuel-macron-les-syndicats-appellent-a-poursuivre-le-mouvement_8252236.html": "2026-10-24T12:48:32.078693+00:00",
+  "https://www.franceinfo.fr/replay-radio/ces-chansons-qui-font-l-actu/florent-marchet-une-chanson-dans-la-grande-precarite_8230954.html": "2026-10-24T16:01:57.485128+00:00",
+  "https://www.franceinfo.fr/sante/nos-journees-ne-durent-pas-vraiment-24-heures_8251159.html": "2026-10-24T16:01:57.485128+00:00",
+  "https://www.franceinfo.fr/societe/manifestations/mobilisation-du-24-octobre-premiers-heurts-a-limoges-en-marge-d-un-cortege-non-declare_8252311.html": "2026-10-24T16:01:57.485128+00:00",
+  "https://www.franceinfo.fr/culture/cinema/l-identification-c-est-ca-la-force-du-film-recit-d-une-projection-speciale-de-papa-ou-t-es-le-documentaire-sur-l-aide-sociale-a-l-enfance-du-streamer-nicolas-trouve_8247466.html": "2026-10-24T16:01:57.485128+00:00",
+  "https://www.franceinfo.fr/societe/manifestations/manifestations-du-17-octobre-une-enquete-de-l-igpn-ouverte-concernant-un-photographe-blesse-par-une-grenade-policiere_8252251.html": "2026-10-24T16:01:57.485128+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "Mobilisation des lycéens : malgré les promesses d’Emmanuel Macron, les syndicats appellent à poursuivre le mouvement Dans les cortèges samedi 24 octobre, les lycéens ne décolèrent pas. La veille pour la première fois, ils ont été reçus par Emmanuel Macron. Le chef de l’État promet une refonte de Parcoursup et des engagements dès lundi 26 octobre. Insuffisant pour les syndicats qui appellent à poursuivre le mouvement. Aujourd'hui 1:27 vidéo 1 minute 27",
+   "title": "Florent Marchet : une chanson dans la grande précarité \"Mobil home\", qui donne son titre à son nouvel album, explore la vie d'une femme qui se débat dans la pauvreté et la solitude. Aujourd'hui 4:30 audio 4 minutes 30",
+   "link": "https://www.franceinfo.fr/replay-radio/ces-chansons-qui-font-l-actu/florent-marchet-une-chanson-dans-la-grande-precarite_8230954.html",
+   "summary": "Florent Marchet : une chanson dans la grande précarité",
+   "image": "https://www.franceinfo.fr/pictures/rpbHPEQQLdlMwrcvdyJeClQA8Dw/76x0:4924x3333/432x297/filters:format(jpg)/2026/10/23/6adaf90240b2b897917859.jpg",
+   "date": null,
+   "pubdate": "2026-10-24T16:01:57.485128+00:00"
+  },
+  {
+   "title": "2:36 vidéo 2 minutes 36 Nos journées ne durent pas vraiment 24 heures !",
+   "link": "https://www.franceinfo.fr/sante/nos-journees-ne-durent-pas-vraiment-24-heures_8251159.html",
+   "summary": "Nos journées ne durent pas vraiment 24 heures !",
+   "image": "https://www.franceinfo.fr/pictures/Qa2p6HqPZs3QPg2XRqIZJWjmbTA/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/23/6adb81ce13d19896625880.png",
+   "date": null,
+   "pubdate": "2026-10-24T16:01:57.485128+00:00"
+  },
+  {
+   "title": "0:56 vidéo 56 secondes Mobilisation du 24 octobre : premiers heurts à Limoges en marge d'un cortège non déclaré",
+   "link": "https://www.franceinfo.fr/societe/manifestations/mobilisation-du-24-octobre-premiers-heurts-a-limoges-en-marge-d-un-cortege-non-declare_8252311.html",
+   "summary": "Mobilisation du 24 octobre : premiers heurts à Limoges en marge d'un cortège non déclaré",
+   "image": "https://www.franceinfo.fr/pictures/BolMbbFpUCx_ztCY9W2CMdUTX7Y/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/24/6adcc87b50ad4415034082.png",
+   "date": null,
+   "pubdate": "2026-10-24T16:01:57.485128+00:00"
+  },
+  {
+   "title": "\"L'identification, c'est ça, la force du film\" : récit d'une projection spéciale de \"Papa où t'es ?\", le documentaire sur l'Aide sociale à l'enfance et le parcours du streamer Nicolas Trouvé",
+   "link": "https://www.franceinfo.fr/culture/cinema/l-identification-c-est-ca-la-force-du-film-recit-d-une-projection-speciale-de-papa-ou-t-es-le-documentaire-sur-l-aide-sociale-a-l-enfance-du-streamer-nicolas-trouve_8247466.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/Nu5p9miRmL1KNIITPmb24Drrkt8/0x0:1024x576/432x243/filters:format(jpg)/2026/10/23/6adb0fc18a66c717102861.jpg",
+   "date": null,
+   "pubdate": "2026-10-24T16:01:57.485128+00:00"
+  },
+  {
+   "title": "Une enquête de l'IGPN ouverte concernant un photographe blessé à Paris par une grenade policière lors d'une manifestation du 17 octobre",
+   "link": "https://www.franceinfo.fr/societe/manifestations/manifestations-du-17-octobre-une-enquete-de-l-igpn-ouverte-concernant-un-photographe-blesse-par-une-grenade-policiere_8252251.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/5INadt-CLyuF-EcApO9sJ4B2UVY/0x106:1024x682/432x243/filters:format(jpg)/2026/10/24/6adca6f615e00657749913.jpg",
+   "date": null,
+   "pubdate": "2026-10-24T16:01:57.485128+00:00"
+  },
+  {
+   "title": "1:27 vidéo 1 minute 27 Mobilisation des lycéens : malgré les promesses d’Emmanuel Macron, les syndicats appellent à poursuivre le mouvement",
    "link": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/mobilisation-des-lyceens-malgre-les-promesses-d-emmanuel-macron-les-syndicats-appellent-a-poursuivre-le-mouvement_8252236.html",
    "summary": "Mobilisation des lycéens : malgré les promesses d’Emmanuel Macron, les syndicats appellent à poursuivre le mouvement",
-   "image": "https://www.franceinfo.fr/pictures/lGDDim1Zlbi6pQlF0P6w31BNBhc/174x0:1745x1080/432x297/filters:format(jpg)/2026/10/24/6adc9ef018966139605519.jpg",
+   "image": "https://www.franceinfo.fr/pictures/fxkTfcW3Wk95gN3Wf7oI6NnLHKo/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/24/6adc9ef018966139605519.jpg",
    "date": null,
    "pubdate": "2026-10-24T12:48:32.078693+00:00"
   },
@@ -66,58 +108,42 @@
    "pubdate": "2026-10-24T12:06:31.333053+00:00"
   },
   {
-   "title": "2:05 vidéo 2 minutes 5 \"Ça commence à être banalisé\" : l'émotion et la colère après l'attaque terroriste à Trappes",
+   "title": "2:05 vidéo 2 minutes 5 \"Ils ont tiré sur ma petite voisine, une enfant de 12 ans\" : l'émotion et la colère après l'attaque terroriste à Trappes",
    "link": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/ca-commence-a-etre-banalise-l-emotion-et-la-colere-apres-l-attaque-terroriste-a-trappes_8252197.html",
-   "summary": "\"Ça commence à être banalisé\" : l'émotion et la colère après l'attaque terroriste à Trappes",
+   "summary": "\"Ils ont tiré sur ma petite voisine, une enfant de 12 ans\" : l'émotion et la colère après l'attaque terroriste à Trappes",
    "image": "https://www.franceinfo.fr/pictures/iZ9Hbr9v-Kbxbw3AMN6mcw-PbjI/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/24/6adc95acc009a227222882.jpg",
    "date": null,
    "pubdate": "2026-10-24T12:06:31.333053+00:00"
-  },
-  {
-   "title": "La France passe à l'heure d'hiver dans la nuit de samedi à dimanche",
-   "link": "https://www.franceinfo.fr/societe/changement-d-heure/la-france-passe-a-l-heure-d-hiver-dans-la-nuit-de-samedi-a-dimanche_8252164.html",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/egQnb2dCM505AU20bJLNSZSFDME/0x106:1024x682/432x243/filters:format(jpg)/2026/10/24/6adc918334c10515203186.jpg",
-   "date": null,
-   "pubdate": "2026-10-24T11:11:08.227161+00:00"
-  },
-  {
-   "title": "Avignon, Cherbourg, Guéret... Le point sur les manifestations du 24 octobre en régions",
-   "link": "https://www.franceinfo.fr/societe/manifestations/avignon-cherbourg-gueret-le-point-sur-les-manifestations-du-24-octobre-en-regions_8252155.html",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/lgFXJnoS7xDrPxqKiLH1ud9KYEA/0x0:1200x675/432x243/filters:format(jpg)/2026/10/24/6adc87c43e712692910488.jpeg",
-   "date": null,
-   "pubdate": "2026-10-24T11:11:08.227161+00:00"
-  },
-  {
-   "title": "0:59 vidéo 59 secondes \"Le fait d'interdire des manifestations est un aveu d'échec\" estime Othman Nasrou",
-   "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/le-fait-d-interdire-des-manifestations-est-un-aveu-d-echec-estime-othman-nasrou_8252128.html",
-   "summary": "\"Le fait d'interdire des manifestations est un aveu d'échec\" estime Othman Nasrou",
-   "image": "https://www.franceinfo.fr/pictures/xIfJ1-AbxuM0gcAKdpfn0ece6aA/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/24/6adc7e8ae7374380642911.png",
-   "date": null,
-   "pubdate": "2026-10-24T11:11:08.227161+00:00"
-  },
-  {
-   "title": "Incendie de la mairie de Limoges : les deux suspects mis en examen et placés en détention provisoire",
-   "link": "https://www.franceinfo.fr/societe/manifestations/incendie-de-la-mairie-de-limoges-les-deux-suspects-mis-en-examen-et-places-en-detention-provisoire_8252050.html",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/f-oAeoUKkMucCMfiOuQRb72FTVg/0x12:1024x588/432x243/filters:format(jpg)/2026/10/24/6adc6e15a671a186025261.jpg",
-   "date": null,
-   "pubdate": "2026-10-24T11:11:08.227161+00:00"
-  },
-  {
-   "title": "2:48 vidéo 2 minutes 48 En Finlande, une usine de drones tactiques dans un conteneur",
-   "link": "https://www.franceinfo.fr/replay-magazine/france-2/nous-les-europeens/en-finlande-une-usine-de-drones-tactiques-dans-un-conteneur_8251177.html",
-   "summary": "En Finlande, une usine de drones tactiques dans un conteneur",
-   "image": "https://www.franceinfo.fr/pictures/kkPiJUMZgNSHVOUdlpemu4tlNUE/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/23/6adb8437308ed145208917.jpg",
-   "date": null,
-   "pubdate": "2026-10-24T11:11:08.227161+00:00"
   },
   {
    "title": ": Vrai ou faux 8:00 article 8 minutes : Vrai ou faux Existe-t-il vraiment des \"policiers casseurs\", en civil et infiltrés dans les manifestations, qui commettent des dégradations ?",
    "link": "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-existe-t-il-vraiment-des-policiers-casseurs-en-civil-et-infiltres-dans-les-manifestations-qui-commettent-des-degradations_8250637.html",
    "summary": "Existe-t-il vraiment des \"policiers casseurs\", en civil et infiltrés dans les manifestations, qui commettent des dégradations ?",
    "image": "https://www.franceinfo.fr/pictures/tCGmZSEo9YqRP_hX6WV7RSNp0XU/999x0:3703x2704/100x100/filters:format(jpg)/2026/10/23/6adb88cc4b034571088531.jpg",
+   "date": null,
+   "pubdate": "2026-10-24T11:11:08.227161+00:00"
+  },
+  {
+   "title": "La France passe à l'heure d'hiver dans la nuit de samedi à dimanche Il faudra penser à reculer vos montres d’une heure dans la nuit pour ne pas être surpris dimanche matin et ainsi bénéficier d'une heure de sommeil en plus.",
+   "link": "https://www.franceinfo.fr/societe/changement-d-heure/la-france-passe-a-l-heure-d-hiver-dans-la-nuit-de-samedi-a-dimanche_8252164.html",
+   "summary": "La France passe à l'heure d'hiver dans la nuit de samedi à dimanche",
+   "image": "https://www.franceinfo.fr/pictures/egQnb2dCM505AU20bJLNSZSFDME/0x106:1024x682/432x243/filters:format(jpg)/2026/10/24/6adc918334c10515203186.jpg",
+   "date": null,
+   "pubdate": "2026-10-24T11:11:08.227161+00:00"
+  },
+  {
+   "title": "Caen, Rennes, Perpignan, Toulouse... Le point sur les manifestations du 24 octobre en régions De nombreux rassemblements et défilés sont prévus samedi, une semaine après la première journée de mobilisation contre la vie chère. La plupart se déroulent dans le calme, des tensions sont signalées à Lyon, Nice ou encore Nantes.",
+   "link": "https://www.franceinfo.fr/societe/manifestations/avignon-cherbourg-gueret-le-point-sur-les-manifestations-du-24-octobre-en-regions_8252155.html",
+   "summary": "Caen, Rennes, Perpignan, Toulouse... Le point sur les manifestations du 24 octobre en régions",
+   "image": "https://www.franceinfo.fr/pictures/c0be-WepJR_st2M5-7aXhWSlA6A/0x5:1200x680/432x243/filters:format(jpg)/2026/10/24/6adcc266d2f04932418586.jpeg",
+   "date": null,
+   "pubdate": "2026-10-24T11:11:08.227161+00:00"
+  },
+  {
+   "title": "Incendie de la mairie de Limoges : les deux suspects mis en examen et placés en détention provisoire Vendredi, le parquet a annoncé l'ouverture d'une information judiciaire notamment pour \"tentative d’homicide sur personne dépositaire de l’autorité publique\" et \"destruction en bande organisée du bien d’autrui par moyen dangereux pour les personnes\".",
+   "link": "https://www.franceinfo.fr/societe/manifestations/incendie-de-la-mairie-de-limoges-les-deux-suspects-mis-en-examen-et-places-en-detention-provisoire_8252050.html",
+   "summary": "Incendie de la mairie de Limoges : les deux suspects mis en examen et placés en détention provisoire",
+   "image": "https://www.franceinfo.fr/pictures/f-oAeoUKkMucCMfiOuQRb72FTVg/0x12:1024x588/432x243/filters:format(jpg)/2026/10/24/6adc6e15a671a186025261.jpg",
    "date": null,
    "pubdate": "2026-10-24T11:11:08.227161+00:00"
   },
@@ -130,10 +156,10 @@
    "pubdate": "2026-10-24T11:11:08.227161+00:00"
   },
   {
-   "title": "• Direct Manifestations du 24 octobre : le cortège parisien s'élance de la porte d'Italie, 135 interpellations \"sur l'ensemble du territoire national\" à 13 heures A quelques heures du départ de la manifestation dans la capitale, le tribunal administratif a rejeté le recours des organisateurs, qui souhaitaient le maintien du défilé entre les places de la Bastille et de la Nation.",
+   "title": "• Direct Manifestations du 24 octobre : de première tensions éclatent dans plusieurs grandes villes, les mobilisations sans heurts dans une grande partie de la France Plusieurs dizaines de milliers de personnes défilent ce samedi à travers la France, à l'occasion d'une nouvelle journée de mobilisation contre la vie chère. Si des heurts commencent à éclater dans certaines villes, ces incidents restent à la marge.",
    "link": "https://www.franceinfo.fr/societe/manifestations/manifestations-du-24-octobre-suivez-en-direct-cette-nouvelle-journee-de-mobilisation-sous-tres-haute-securite_8251987.html",
-   "summary": "Manifestations du 24 octobre : le cortège parisien s'élance de la porte d'Italie, 135 interpellations \"sur l'ensemble du territoire national\" à 13 heures",
-   "image": "https://www.franceinfo.fr/pictures/B3M_SWRCVewg_-3mhLOnqabwD2s/0x53:1024x629/432x243/filters:format(jpg)/2026/10/24/6adca19783bdc622232731.jpg",
+   "summary": "Manifestations du 24 octobre : de première tensions éclatent dans plusieurs grandes villes, les mobilisations sans heurts dans une grande partie de la France",
+   "image": "https://www.franceinfo.fr/pictures/lcYUGe1Zy_CDsQ2e1cZMyH1nUwY/0x0:1024x576/432x243/filters:format(jpg)/2026/10/24/6adcc7ebc4cf0685254808.jpg",
    "date": null,
    "pubdate": "2026-10-24T11:11:08.227161+00:00"
   },
@@ -208,14 +234,6 @@
    "image": "https://www.franceinfo.fr/pictures/7hyIXUmRK81PrztjtLOsRyuhYPo/0x0:1024x576/432x243/filters:format(jpg)/2026/10/23/6adbd39ea79ba551581438.jpg",
    "date": null,
    "pubdate": "2026-10-24T04:44:31.098749+00:00"
-  },
-  {
-   "title": "Emmanuel Macron a reconnu auprès des représentants lycéens le \"besoin d'une refonte en profondeur de Parcoursup\" Le chef de l'Etat s'est entretenu avec l'ensemble des représentants des lycéens vendredi à l'Elysée. Des organisations ont appelé à maintenir le \"bras de fer\" jusqu'à leur rencontre avec le Premier ministre lundi.",
-   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/emmanuel-macron-a-reconnu-aupres-des-representants-lyceens-le-besoin-d-une-refonte-en-profondeur-de-parcoursup_8251462.html",
-   "summary": "Emmanuel Macron a reconnu auprès des représentants lycéens le \"besoin d'une refonte en profondeur de Parcoursup\"",
-   "image": "https://www.franceinfo.fr/pictures/Cwsux6zMIkf1hoVkPuOjOUTooco/0x53:1024x629/432x243/filters:format(jpg)/2026/10/23/6adbbf462491c512176263.jpg",
-   "date": null,
-   "pubdate": "2026-10-23T21:28:51.049514+00:00"
   },
   {
    "title": "4:28 audio 4 minutes 28 \"Si on arrête maintenant, on a perdu et ils ont gagné\" : à la veille d'une nouvelle journée de mobilisation, des étudiants plus déterminés que jamais",
