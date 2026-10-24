@@ -1,8 +1,7 @@
 {
- "etag": "\"8a865a3e499059b2d5c2bcc847ecdd9f-gzip\"",
+ "etag": "\"d764d4c4b760c62a13473c33f8d96dcd-gzip\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/il-faut-que-zelensky-ait-la-volonte-de-mettre-fin-a-cette-guerre-donald-trump-durcit-encore-le-ton-contre-l-ukraine_8246233.html": "2026-10-20T23:56:38.249791+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-ukraine-la-russie-frappe-de-nouveau-le-secteur-energetique-et-le-reseau-ferroviaire-faisant-au-moins-4-morts_8246995.html": "2026-10-21T11:58:59.842679+00:00",
   "https://www.franceinfo.fr/replay-radio/le-monde-et-vous/du-portugal-a-l-espagne-la-crise-du-logement-alimente-une-vague-de-manifestations_8226037.html": "2026-10-21T11:58:59.842679+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/le-secretaire-d-etat-americain-marco-rubio-juge-les-pourparlers-d-oslo-sur-la-guerre-en-ukraine-positifs-au-moment-ou-un-emissaire-americain-se-rend-a-moscou_8246815.html": "2026-10-21T11:58:59.842679+00:00",
@@ -31,12 +30,21 @@
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/donald-trump-affirme-qu-elon-musk-a-relance-son-reseau-satellitaire-starlink-pour-l-ukraine-crucial-pour-intercepter-les-drones-russes_8250100.html": "2026-10-23T11:46:28.457225+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/ne-pas-laisser-paraitre-leur-peur-a-kiev-les-ecoles-vivent-au-rythme-des-attaques-russes_8250178.html": "2026-10-23T11:46:28.457225+00:00",
   "https://www.franceinfo.fr/monde/europe/albanie-des-deputes-en-viennent-aux-mains-les-manifestations-se-poursuivent_8250160.html": "2026-10-23T11:46:28.457225+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/melania-trump-affirme-avoir-obtenu-une-treve-entre-russes-et-ukrainiens-a-olechky_8251402.html": "2026-10-23T21:28:56.763941+00:00"
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/melania-trump-affirme-avoir-obtenu-une-treve-entre-russes-et-ukrainiens-a-olechky_8251402.html": "2026-10-23T21:28:56.763941+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-un-combattant-blesse-evacue-du-champ-de-bataille-par-un-drone-aerien-une-premiere_8245759.html": "2026-10-24T04:44:34.863834+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "Melania Trump affirme avoir obtenu une trêve entre Russes et Ukrainiens à Olechky Le cessez-le-feu dans la ville située près du fleuve Dniepr, qui forme la ligne de front entre troupes ukrainiennes et russes, doit entrer en vigueur le 29 octobre, a déclaré la Première dame dans un communiqué. Aujourd'hui",
+   "title": "Un drone aérien utilisé pour évacuer un soldat blessé en Ukraine, une première selon Kiev L'armée ukrainienne a diffusé les images de l'évacuation d'un soldat blessé grâce à un drone aérien. Cette opération, menée par la 92e brigade, a permis de secourir un combattant isolé en zone de combat depuis plusieurs jours.",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-un-combattant-blesse-evacue-du-champ-de-bataille-par-un-drone-aerien-une-premiere_8245759.html",
+   "summary": "Un drone aérien utilisé pour évacuer un soldat blessé en Ukraine, une première selon Kiev",
+   "image": "https://www.franceinfo.fr/pictures/r4Da_2z2OIHFAXea6FhtG-1Z-Ks/0x0:800x450/432x243/filters:format(jpg)/2026/10/20/6ad77c6e290fe964779585.jpg",
+   "date": null,
+   "pubdate": "2026-10-24T04:44:34.863834+00:00"
+  },
+  {
+   "title": "Melania Trump affirme avoir obtenu une trêve entre Russes et Ukrainiens à Olechky Le cessez-le-feu dans la ville située près du fleuve Dniepr, qui forme la ligne de front entre troupes ukrainiennes et russes, doit entrer en vigueur le 29 octobre, a déclaré la Première dame dans un communiqué. 23 octobre",
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/melania-trump-affirme-avoir-obtenu-une-treve-entre-russes-et-ukrainiens-a-olechky_8251402.html",
    "summary": "Melania Trump affirme avoir obtenu une trêve entre Russes et Ukrainiens à Olechky",
    "image": "https://www.franceinfo.fr/pictures/-jzcNgqQzo6umL6C2Msw2Pw6HBY/16x0:1008x682/432x297/filters:format(jpg)/2026/10/23/6adbb171e23e7778663083.jpg",
@@ -266,14 +274,6 @@
    "image": "https://www.franceinfo.fr/pictures/xa2P2P2qiKIUzZoTtIWD58Yziwg/0x77:2175x1300/432x243/filters:format(jpg)/2026/10/21/6ad84822e83d3012789340.jpg",
    "date": null,
    "pubdate": "2026-10-21T11:58:59.842679+00:00"
-  },
-  {
-   "title": "\"Il faut que Zelensky ait la volonté de mettre fin à cette guerre\" : Donald Trump durcit encore le ton contre l'Ukraine \"Nous avons énormément donné à l'Ukraine. Nous n'avons rien eu en échange à part du diesel cher\", a encore lancé Donald Trump, devant des journalistes.",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/il-faut-que-zelensky-ait-la-volonte-de-mettre-fin-a-cette-guerre-donald-trump-durcit-encore-le-ton-contre-l-ukraine_8246233.html",
-   "summary": "\"Il faut que Zelensky ait la volonté de mettre fin à cette guerre\" : Donald Trump durcit encore le ton contre l'Ukraine",
-   "image": "https://www.franceinfo.fr/pictures/U7M0GRVcpKlihasDxtFXSJnptkY/0x0:1024x576/432x243/filters:format(jpg)/2026/10/20/6ad7c8c6ebadb061920000.jpg",
-   "date": null,
-   "pubdate": "2026-10-20T23:56:38.249791+00:00"
   }
  ]
 }
