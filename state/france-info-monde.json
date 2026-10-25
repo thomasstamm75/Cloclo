@@ -1,13 +1,8 @@
 {
- "etag": "\"270bcb59d76eb44ac350b8dd18b52569-gzip\"",
+ "etag": "\"710ce7a30ffbe02102adc6c7feabd8eb-gzip\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.franceinfo.fr/monde/europe/un-mort-et-trois-disparus-a-bord-d-un-navire-en-detresse-en-mer-noire-nouvel-incident-dans-la-region_8250601.html": "2026-10-23T11:46:29.604259+00:00",
-  "https://www.franceinfo.fr/culture/cinema/sanxingdui-future-past-le-premier-long-metrage-genere-par-l-ia-sort-en-salles-en-chine_8250289.html": "2026-10-23T11:46:29.604259+00:00",
   "https://www.franceinfo.fr/monde/bresil/le-bresil-va-t-il-elire-flavio-bolsonaro-candidat-a-la-presidentielle-considere-comme-proche-des-milices-ultra-violentes-de-rio-de-janeiro_8250889.html": "2026-10-23T17:14:15.360335+00:00",
-  "https://www.franceinfo.fr/monde/israel/ce-que-l-on-sait-de-l-attaque-qui-a-tue-deux-soldats-israeliens-en-cisjordanie-occupee-et-des-operations-militaires-lancees-en-reponse-dans-ce-territoire-palestinien_8250628.html": "2026-10-23T17:14:15.360335+00:00",
-  "https://www.franceinfo.fr/monde/moyen-orient/au-moins-sept-morts-apres-une-fusillade-dans-une-eglise-en-jordanie_8250901.html": "2026-10-23T17:14:15.360335+00:00",
-  "https://www.franceinfo.fr/monde/afrique/kenya/un-immeuble-en-construction-de-plusieurs-etages-s-effondre-a-nairobi-au-kenya_8250838.html": "2026-10-23T17:14:15.360335+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/melania-trump-affirme-avoir-obtenu-une-treve-entre-russes-et-ukrainiens-a-olechky_8251402.html": "2026-10-23T21:28:58.863895+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-ukraine-dit-de-nouveau-beneficier-d-une-connexion-stable-au-systeme-starlink-crucial-pour-son-armee_8252059.html": "2026-10-24T11:11:17.609888+00:00",
   "https://www.franceinfo.fr/monde/europe/allemagne/une-culture-de-la-manifestation-fortement-pacifiee-en-allemagne-la-police-mise-sur-la-communication-et-la-desescalade_8251978.html": "2026-10-24T11:11:17.609888+00:00",
@@ -18,7 +13,6 @@
   "https://www.franceinfo.fr/monde/europe/c-est-le-moment-le-mouvement-etudiant-principal-rival-du-pouvoir-en-place-pour-les-legislatives-en-serbie-dimanche_8250586.html": "2026-10-24T12:06:36.135189+00:00",
   "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/leon-xiv-en-france-retrouvez-l-essentiel/": "2026-10-24T12:06:36.135189+00:00",
   "https://www.franceinfo.fr/replay-magazine/france-2/envoye-special/video-vous-devenez-fou-cecile-kohler-et-jacques-paris-racontent-la-torture-blanche-la-methode-du-regime-iranien-pour-briser-votre-esprit_8236993.html": "2026-10-24T12:06:36.135189+00:00",
-  "https://www.franceinfo.fr/replay-jt/france-2/13-heures/les-gens-veulent-voir-des-fantomes-york-la-ville-anglaise-autoproclamee-la-plus-hantee-d-europe_8252266.html": "2026-10-24T12:49:24.328316+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-il-y-a-un-sentiment-de-desespoir-qui-monte-chez-tout-le-monde-un-an-apres-le-cessez-le-feu-a-gaza-le-processus-de-paix-est-au-point-mort_8210456.html": "2026-10-24T12:49:24.328316+00:00",
   "https://www.franceinfo.fr/monde/bresil/avant-on-parlait-de-politique-entre-nous-on-a-arrete-immersion-dans-un-bresil-divise-avant-le-second-tour-de-la-presidentielle_8246164.html": "2026-10-24T12:52:07.746988+00:00",
   "https://www.franceinfo.fr/monde/russie/enquete-franceinfo-on-l-appelait-poutine-girl-comment-la-france-verrouille-les-demandes-de-visas-diplomatiques-russes-pour-limiter-les-risques-d-espionnage_8204495.html": "2026-10-24T12:52:07.746988+00:00",
@@ -27,77 +21,123 @@
   "https://www.franceinfo.fr/monde/groenland/le-groenland-au-c-ur-d-un-bras-de-fer-geopolitique/": "2026-10-24T16:02:03.452773+00:00",
   "https://www.franceinfo.fr/monde/bresil/au-bresil-lula-et-bolsonaro-mobilisent-des-milliers-de-partisans-a-la-veille-du-second-tour-de-la-presidentielle_8252503.html": "2026-10-24T20:55:35.089893+00:00",
   "https://www.franceinfo.fr/monde/proche-orient/yemen/les-houthis-du-yemen-disent-avoir-cible-trois-aeroports-et-des-installations-petrolieres-en-arabie-saoudite_8252248.html": "2026-10-24T20:55:35.089893+00:00",
-  "https://www.franceinfo.fr/monde/palestine/la-guerre-des-oliveraies-en-cisjordanie-occupee_8252434.html": "2026-10-24T23:20:26.801395+00:00",
-  "https://www.franceinfo.fr/monde/israel/c-est-la-periode-la-plus-cruciale-pour-israel-je-dois-etre-la-a-quatre-jours-d-un-scrutin-decisif-en-israel-le-vote-determinant-des-expatries_8250262.html": "2026-10-24T23:20:26.801395+00:00",
-  "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/comment-vladimir-poutine-a-reussi-a-retourner-donald-trump_8229241.html": "2026-10-24T23:20:26.801395+00:00",
-  "https://www.franceinfo.fr/replay-radio/le-monde-et-vous/inspiree-par-les-manifestations-en-france-la-generation-z-allemande-appelle-a-descendre-dans-la-rue_8229229.html": "2026-10-25T04:51:12.030632+00:00",
-  "https://www.franceinfo.fr/monde/israel/en-cisjordanie-cinq-blesses-dans-une-attaque-avant-les-elections-en-israel_8250235.html": "2026-10-25T04:51:12.030632+00:00"
+  "https://www.franceinfo.fr/monde/usa/midterms-2018/ca-fait-du-bien-de-revenir-a-dix-jours-des-elections-de-mi-mandat-aux-etats-unis-barack-obama-entre-en-campagne-contre-donald-trump_8252905.html": "2026-10-25T11:40:40.282482+00:00",
+  "https://www.franceinfo.fr/monde/proche-orient/tensions-entre-l-arabie-saoudite-et-l-iran/l-arabie-saoudite-dit-avoir-intercepte-dix-missiles-lances-par-les-houthis-vers-le-sud-du-pays_8252926.html": "2026-10-25T11:40:40.282482+00:00",
+  "https://www.franceinfo.fr/monde/israel/israel-imposera-un-bouclage-de-la-cisjordanie-mardi-en-raison-des-elections-legislatives_8252737.html": "2026-10-25T11:40:40.282482+00:00",
+  "https://www.franceinfo.fr/monde/bresil/reportage-des-raisons-pour-que-lula-reste-il-n-y-en-a-pas-au-bresil-un-scrutin-presidentiel-incertain-dans-un-pays-profondement-divise_8252848.html": "2026-10-25T11:40:40.282482+00:00",
+  "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/attaque-raciste-dans-les-yvelines-manifestations-en-france-le-8h30-franceinfo-de-sandro-gozi_8211644.html": "2026-10-25T11:40:40.282482+00:00",
+  "https://www.franceinfo.fr/monde/israel/a-hebron-2-000-palestiniens-chasses-de-chez-eux_8252818.html": "2026-10-25T11:40:40.282482+00:00",
+  "https://www.franceinfo.fr/monde/israel/la-securite-plutot-que-la-paix-dans-la-campagne-pour-les-legislatives-en-israel-la-question-palestinienne-est-largement-marginalisee_8229832.html": "2026-10-25T11:40:40.282482+00:00",
+  "https://www.franceinfo.fr/monde/bresil/qui-est-flavio-bolsonaro-le-candidat-d-extreme-droite-qui-peut-remporter-l-election-presidentielle-au-bresil_8223358.html": "2026-10-25T11:40:40.282482+00:00",
+  "https://www.franceinfo.fr/monde/israel/videos-ni-pardon-ni-excuses-avant-des-elections-cruciales-pour-benyamin-netanyahou-un-documentaire-donne-la-parole-aux-israeliens-qui-le-tiennent-en-partie-responsable-du-7-octobre_8219710.html": "2026-10-25T11:40:40.282482+00:00",
+  "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/la-russie-franchement-s-est-bien-comportee-a-l-egard-de-l-ukraine-comment-donald-trump-montre-une-nouvelle-fois-sa-complaisance-envers-vladimir-poutine_8250475.html": "2026-10-25T11:40:40.282482+00:00",
+  "https://www.franceinfo.fr/monde/bresil/en-choisissant-entre-lula-et-flavio-bolsonaro-a-la-presidentielle-le-bresil-decide-aussi-du-sort-de-la-foret-amazonienne_8247259.html": "2026-10-25T11:40:40.282482+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "2:37 audio 2 minutes 37 Inspirée par les manifestations en France, la génération Z allemande appelle à descendre dans la rue Un collectif de la génération Z appelle à manifester dans une vingtaine de villes allemandes, fin octobre. Comme en France, les jeunes dénoncent le manque de moyens pour l'éducation et la hausse du coût de la vie. Mais ils s'opposent aussi à un éventuel retour du service militaire obligatoire.",
-   "link": "https://www.franceinfo.fr/replay-radio/le-monde-et-vous/inspiree-par-les-manifestations-en-france-la-generation-z-allemande-appelle-a-descendre-dans-la-rue_8229229.html",
-   "summary": "Inspirée par les manifestations en France, la génération Z allemande appelle à descendre dans la rue",
-   "image": "https://www.franceinfo.fr/pictures/4SJ3LqYtl2IJPJxGv0L-dXGxmu0/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/23/6adb116716f74066955511.jpg",
+   "title": "\"Ça fait du bien de revenir\" : à dix jours des élections de mi-mandat aux Etats-Unis, Barack Obama entre en campagne contre Donald Trump Entre humour et virulence, l'ancien président américain a multiplié les attaques contre son successeur et appelé les électeurs à se mobiliser, à dix jours du scrutin. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/usa/midterms-2018/ca-fait-du-bien-de-revenir-a-dix-jours-des-elections-de-mi-mandat-aux-etats-unis-barack-obama-entre-en-campagne-contre-donald-trump_8252905.html",
+   "summary": "\"Ça fait du bien de revenir\" : à dix jours des élections de mi-mandat aux Etats-Unis, Barack Obama entre en campagne contre Donald Trump",
+   "image": "https://www.franceinfo.fr/pictures/UPnATSh9kgizwwOsrXLz932Q_L0/44x0:2889x1956/432x297/filters:format(jpg)/2026/10/25/6addcd388adef988403284.jpg",
    "date": null,
-   "pubdate": "2026-10-25T04:51:12.030632+00:00"
+   "pubdate": "2026-10-25T11:40:40.282482+00:00"
   },
   {
-   "title": "Benyamin Nétanyahou ordonne le \"bouclage\" de la Cisjordanie occupée après une attaque qui a tué deux soldats israéliens, des \"opérations antiterroristes\" en cours Les faits se sont produits à un point de contrôle de l'armée au niveau d'une intersection routière majeure au nord d'Hébron.",
-   "link": "https://www.franceinfo.fr/monde/israel/en-cisjordanie-cinq-blesses-dans-une-attaque-avant-les-elections-en-israel_8250235.html",
-   "summary": "Benyamin Nétanyahou ordonne le \"bouclage\" de la Cisjordanie occupée après une attaque qui a tué deux soldats israéliens, des \"opérations antiterroristes\" en cours",
-   "image": "https://www.franceinfo.fr/pictures/7TtN4DL4v-UaCogm_bn9wQIw8gs/0x700:6720x4480/432x243/filters:format(jpg)/2026/10/23/6adb103bb034d729151862.jpg",
-   "date": null,
-   "pubdate": "2026-10-25T04:51:12.030632+00:00"
-  },
-  {
-   "title": "La \"guerre\" des oliveraies en Cisjordanie occupée Depuis début octobre, l'ONU a recensé près 160 attaques contre des cultivateurs palestiniens en pleine saison de la récolte des olives par des colons israéliens en Cisjordanie occupée. Plusieurs observateurs internationaux comme un maire français et une photojournaliste américaine ont également été pris à partie. Aujourd'hui 2:45 vidéo 2 minutes 45",
-   "link": "https://www.franceinfo.fr/monde/palestine/la-guerre-des-oliveraies-en-cisjordanie-occupee_8252434.html",
-   "summary": "La \"guerre\" des oliveraies en Cisjordanie occupée",
-   "image": "https://www.franceinfo.fr/pictures/575gtWl8_4WCvKu6si3nfZjj2YU/0x0:900x1600/fit-in/432x297/filters:upscale():fill(blur):format(jpg)/2026/10/24/6adcdfbaa6f20059307502.jpg",
-   "date": null,
-   "pubdate": "2026-10-24T23:20:26.801395+00:00"
-  },
-  {
-   "title": "1:18 audio 1 minute 18 \"C'est la période la plus cruciale pour Israël, je dois être là\" : à quatre jours d'un scrutin décisif en Israël, le vote déterminant des expatriés Les élections législatives auront lieu mardi en Israël. Le Premier ministre Benyamin Nétanyahou affrontera l'ancien chef d'état-major Gadi Eisenkot, à la tête d’une coalition de centre-droit.",
-   "link": "https://www.franceinfo.fr/monde/israel/c-est-la-periode-la-plus-cruciale-pour-israel-je-dois-etre-la-a-quatre-jours-d-un-scrutin-decisif-en-israel-le-vote-determinant-des-expatries_8250262.html",
-   "summary": "\"C'est la période la plus cruciale pour Israël, je dois être là\" : à quatre jours d'un scrutin décisif en Israël, le vote déterminant des expatriés",
-   "image": "https://www.franceinfo.fr/pictures/7RZAUD8KWCFJghFM5wHD7ZJHkwI/0x0:6000x3375/432x243/filters:format(jpg)/2026/10/23/6adb06c21ae67336292904.jpg",
-   "date": null,
-   "pubdate": "2026-10-24T23:20:26.801395+00:00"
-  },
-  {
-   "title": "2:55 audio 2 minutes 55 Comment Vladimir Poutine a réussi à \"retourner\" Donald Trump Vladimir Poutine a réussi à convaincre Donald Trump qu’il valait mieux faire des affaires avec la Russie que soutenir l’Ukraine. En un an seulement, la relation entre les deux dirigeants a complètement changé. Un mot explique tout : le pétrole.",
-   "link": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/comment-vladimir-poutine-a-reussi-a-retourner-donald-trump_8229241.html",
-   "summary": "Comment Vladimir Poutine a réussi à \"retourner\" Donald Trump",
-   "image": "https://www.franceinfo.fr/pictures/hnyW_XNxZQUrcQyR64Iw1c9egN4/0x428:8192x5036/432x243/filters:format(jpg)/2026/10/23/6adaf31495d45889142518.jpg",
-   "date": null,
-   "pubdate": "2026-10-24T23:20:26.801395+00:00"
-  },
-  {
-   "title": "Au Brésil, Lula et Bolsonaro mobilisent des milliers de partisans à la veille du second tour de la présidentielle",
-   "link": "https://www.franceinfo.fr/monde/bresil/au-bresil-lula-et-bolsonaro-mobilisent-des-milliers-de-partisans-a-la-veille-du-second-tour-de-la-presidentielle_8252503.html",
+   "title": "L'Arabie saoudite dit avoir intercepté dix missiles lancés par les houthis vers le sud du pays",
+   "link": "https://www.franceinfo.fr/monde/proche-orient/tensions-entre-l-arabie-saoudite-et-l-iran/l-arabie-saoudite-dit-avoir-intercepte-dix-missiles-lances-par-les-houthis-vers-le-sud-du-pays_8252926.html",
    "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/fWjwAU7Ga8op-qduEq8kHFGJFNw/0x353:3840x2513/432x243/filters:format(jpg)/2026/10/25/6addd8a3aeb07931275800.jpg",
+   "date": null,
+   "pubdate": "2026-10-25T11:40:40.282482+00:00"
+  },
+  {
+   "title": "Israël imposera un bouclage de la Cisjordanie mardi, en raison des élections législatives",
+   "link": "https://www.franceinfo.fr/monde/israel/israel-imposera-un-bouclage-de-la-cisjordanie-mardi-en-raison-des-elections-legislatives_8252737.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/MjzrbBF-faTK6vW24CA9-y6rGic/0x32:1024x608/432x243/filters:format(jpg)/2026/10/25/6addd008b2cb4132290822.jpg",
+   "date": null,
+   "pubdate": "2026-10-25T11:40:40.282482+00:00"
+  },
+  {
+   "title": ": Reportage : Reportage \"Des raisons pour que Lula reste, il n'y en a pas\" : au Brésil, un scrutin présidentiel incertain dans un pays profondément divisé",
+   "link": "https://www.franceinfo.fr/monde/bresil/reportage-des-raisons-pour-que-lula-reste-il-n-y-en-a-pas-au-bresil-un-scrutin-presidentiel-incertain-dans-un-pays-profondement-divise_8252848.html",
+   "summary": "\"Des raisons pour que Lula reste, il n'y en a pas\" : au Brésil, un scrutin présidentiel incertain dans un pays profondément divisé",
+   "image": "https://www.franceinfo.fr/pictures/qqEoAiwsSojl1x6nrsdR_0qj1Y0/0x439:7968x4921/432x243/filters:format(jpg)/2026/10/25/6addb95ab5969369358950.jpg",
+   "date": null,
+   "pubdate": "2026-10-25T11:40:40.282482+00:00"
+  },
+  {
+   "title": "17:38 audio 17 minutes 38 Attaque raciste dans les Yvelines, manifestations en France, montée du RN... Le \"8h30 franceinfo\" de Sandro Gozi",
+   "link": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/attaque-raciste-dans-les-yvelines-manifestations-en-france-le-8h30-franceinfo-de-sandro-gozi_8211644.html",
+   "summary": "Attaque raciste dans les Yvelines, manifestations en France, montée du RN... Le \"8h30 franceinfo\" de Sandro Gozi",
+   "image": "https://www.franceinfo.fr/pictures/LQrxNTCTUp2ix7VgVVT4YaVF7Wk/0x0:1600x900/432x243/filters:format(jpg)/2026/10/25/6addbfc3f1b5a105365041.jpg",
+   "date": null,
+   "pubdate": "2026-10-25T11:40:40.282482+00:00"
+  },
+  {
+   "title": "1:53 vidéo 1 minute 53 À Hébron, 2 000 Palestiniens chassés de chez eux",
+   "link": "https://www.franceinfo.fr/monde/israel/a-hebron-2-000-palestiniens-chasses-de-chez-eux_8252818.html",
+   "summary": "À Hébron, 2 000 Palestiniens chassés de chez eux",
+   "image": "https://www.franceinfo.fr/pictures/Arp9ijKMECsYIrLtfwlEUG_tzqE/133x0:1524x782/432x243/filters:format(jpg)/2026/10/25/6addaadad0966165606956.jpg",
+   "date": null,
+   "pubdate": "2026-10-25T11:40:40.282482+00:00"
+  },
+  {
+   "title": "\"La sécurité\" plutôt que \"la paix\" : dans la campagne pour les législatives en Israël, la question palestinienne est \"largement marginalisée\"",
+   "link": "https://www.franceinfo.fr/monde/israel/la-securite-plutot-que-la-paix-dans-la-campagne-pour-les-legislatives-en-israel-la-question-palestinienne-est-largement-marginalisee_8229832.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/yCEDQlgfMrATYRS7rFBPjvd4CMc/0x0:1024x576/432x243/filters:format(jpg)/2026/10/23/6adaa84c40e87895898405.jpg",
+   "date": null,
+   "pubdate": "2026-10-25T11:40:40.282482+00:00"
+  },
+  {
+   "title": "Qui est Flavio Bolsonaro, le candidat d'extrême droite qui peut remporter l'élection présidentielle au Brésil ?",
+   "link": "https://www.franceinfo.fr/monde/bresil/qui-est-flavio-bolsonaro-le-candidat-d-extreme-droite-qui-peut-remporter-l-election-presidentielle-au-bresil_8223358.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/wpcWutghI6r32QLmfmfTr3v63UE/0x0:1024x576/432x243/filters:format(jpg)/2026/10/05/6ac393bf4b98f636449600.jpg",
+   "date": null,
+   "pubdate": "2026-10-25T11:40:40.282482+00:00"
+  },
+  {
+   "title": ": Vidéos 3:06 vidéo 3 minutes 6 : Vidéos \"Ni pardon, ni excuses\" : avant des élections cruciales pour Benyamin Nétanyahou, un documentaire donne la parole aux Israéliens qui le tiennent en partie responsable du 7-Octobre",
+   "link": "https://www.franceinfo.fr/monde/israel/videos-ni-pardon-ni-excuses-avant-des-elections-cruciales-pour-benyamin-netanyahou-un-documentaire-donne-la-parole-aux-israeliens-qui-le-tiennent-en-partie-responsable-du-7-octobre_8219710.html",
+   "summary": "\"Ni pardon, ni excuses\" : avant des élections cruciales pour Benyamin Nétanyahou, un documentaire donne la parole aux Israéliens qui le tiennent en partie responsable du 7-Octobre",
+   "image": "https://www.franceinfo.fr/pictures/O73oEgtnga039rzMZwXECZNJTQ8/0x404:6882x4275/432x243/filters:format(jpg)/2026/10/13/6ace09439b958660604882.jpg",
+   "date": null,
+   "pubdate": "2026-10-25T11:40:40.282482+00:00"
+  },
+  {
+   "title": "\"La Russie, franchement, s'est bien comportée à l'égard de l'Ukraine\" : comment Donald Trump montre une nouvelle fois sa complaisance envers Vladimir Poutine",
+   "link": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/la-russie-franchement-s-est-bien-comportee-a-l-egard-de-l-ukraine-comment-donald-trump-montre-une-nouvelle-fois-sa-complaisance-envers-vladimir-poutine_8250475.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/bHCnpQ1qJ84ZJy4hUOzDatN6FV0/0x0:1024x576/432x243/filters:format(jpg)/2026/10/23/6adb6aa8dea45509408336.jpg",
+   "date": null,
+   "pubdate": "2026-10-25T11:40:40.282482+00:00"
+  },
+  {
+   "title": "En choisissant entre Lula et Flavio Bolsonaro à la présidentielle, le Brésil décide aussi du sort de la forêt amazonienne Flavio Bolsonaro, favori face au président sortant Lula avant le second tour dimanche, dit partager son objectif de mettre fin à la déforestation illégale de ce \"poumon vert\", mais promet en même temps de revenir aux politiques de dérégulation de son père, l'ancien président Jair Bolsonaro.",
+   "link": "https://www.franceinfo.fr/monde/bresil/en-choisissant-entre-lula-et-flavio-bolsonaro-a-la-presidentielle-le-bresil-decide-aussi-du-sort-de-la-foret-amazonienne_8247259.html",
+   "summary": "En choisissant entre Lula et Flavio Bolsonaro à la présidentielle, le Brésil décide aussi du sort de la forêt amazonienne",
+   "image": "https://www.franceinfo.fr/pictures/AjwnwB49ZkESEm9rEJByRwac20o/0x53:1024x629/432x243/filters:format(jpg)/2026/10/21/6ad8f6a98b381746754926.jpg",
+   "date": null,
+   "pubdate": "2026-10-25T11:40:40.282482+00:00"
+  },
+  {
+   "title": "Au Brésil, Lula et Bolsonaro mobilisent des milliers de partisans à la veille du second tour de la présidentielle Le second tour de l'élection présidentielle s'annonce très serré entre le président sortant de gauche et le fils de l'ancien président d'extrême droite Jair Bolsonaro.",
+   "link": "https://www.franceinfo.fr/monde/bresil/au-bresil-lula-et-bolsonaro-mobilisent-des-milliers-de-partisans-a-la-veille-du-second-tour-de-la-presidentielle_8252503.html",
+   "summary": "Au Brésil, Lula et Bolsonaro mobilisent des milliers de partisans à la veille du second tour de la présidentielle",
    "image": "https://www.franceinfo.fr/pictures/jqXYHRX1M7LQzZJIER3y-nUXgLc/0x53:1024x629/432x243/filters:format(jpg)/2026/10/24/6adcfd53948b3144531138.jpg",
    "date": null,
    "pubdate": "2026-10-24T20:55:35.089893+00:00"
   },
   {
-   "title": "Les houthis du Yémen disent avoir ciblé trois aéroports et des installations pétrolières en Arabie saoudite",
+   "title": "Les houthis du Yémen disent avoir ciblé trois aéroports et des installations pétrolières en Arabie saoudite Les rebelles pro-Iran ont par ailleurs accusé Riyad d'avoir tué 16 personnes dans des frappes.",
    "link": "https://www.franceinfo.fr/monde/proche-orient/yemen/les-houthis-du-yemen-disent-avoir-cible-trois-aeroports-et-des-installations-petrolieres-en-arabie-saoudite_8252248.html",
-   "summary": "",
+   "summary": "Les houthis du Yémen disent avoir ciblé trois aéroports et des installations pétrolières en Arabie saoudite",
    "image": "https://www.franceinfo.fr/pictures/ItvTFtW-penrFFm7QLX-xq8apms/0x350:6720x4130/432x243/filters:format(jpg)/2026/10/24/6adce71ec2659998776095.jpg",
    "date": null,
    "pubdate": "2026-10-24T20:55:35.089893+00:00"
-  },
-  {
-   "title": "Le bilan de l'attaque contre une église en Jordanie s'alourdit à neuf morts",
-   "link": "https://www.franceinfo.fr/monde/moyen-orient/le-bilan-de-l-attaque-contre-une-eglise-en-jordanie-s-alourdit-a-neuf-morts_8252329.html",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/Sop11UD73KnSTaRjFQE8PlWz2RA/0x80:1024x656/432x243/filters:format(jpg)/2026/10/24/6adcc1058e9f5969546944.jpg",
-   "date": null,
-   "pubdate": "2026-10-24T16:02:03.452773+00:00"
   },
   {
    "title": "Tout comprendre à la guerre au Moyen-Orient 27 contenus",
@@ -112,6 +152,14 @@
    "link": "https://www.franceinfo.fr/monde/groenland/le-groenland-au-c-ur-d-un-bras-de-fer-geopolitique/",
    "summary": "Le Groenland au cœur d'un bras de fer géopolitique",
    "image": "https://www.franceinfo.fr/pictures/MKq4Aviz_2Dt7XVuO__X2DAEw5M/432x297/filters:format(jpg)/2026/01/22/043-sw-js9nbczzm6o-697245bf34b52414921393.jpg",
+   "date": null,
+   "pubdate": "2026-10-24T16:02:03.452773+00:00"
+  },
+  {
+   "title": "Le bilan de l'attaque contre une église en Jordanie s'alourdit à neuf morts Le ministre de la Santé du pays a précisé que 25 personnes blessées dans l'attaque restaient hospitalisées.",
+   "link": "https://www.franceinfo.fr/monde/moyen-orient/le-bilan-de-l-attaque-contre-une-eglise-en-jordanie-s-alourdit-a-neuf-morts_8252329.html",
+   "summary": "Le bilan de l'attaque contre une église en Jordanie s'alourdit à neuf morts",
+   "image": "https://www.franceinfo.fr/pictures/Sop11UD73KnSTaRjFQE8PlWz2RA/0x80:1024x656/432x243/filters:format(jpg)/2026/10/24/6adcc1058e9f5969546944.jpg",
    "date": null,
    "pubdate": "2026-10-24T16:02:03.452773+00:00"
   },
@@ -132,28 +180,12 @@
    "pubdate": "2026-10-24T12:52:07.746988+00:00"
   },
   {
-   "title": "3:00 vidéo 3 minutes \"Les gens veulent voir des fantômes\" : York, la ville anglaise autoproclamée la plus hantée d'Europe",
-   "link": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/les-gens-veulent-voir-des-fantomes-york-la-ville-anglaise-autoproclamee-la-plus-hantee-d-europe_8252266.html",
-   "summary": "\"Les gens veulent voir des fantômes\" : York, la ville anglaise autoproclamée la plus hantée d'Europe",
-   "image": "https://www.franceinfo.fr/pictures/Aa1gFcm3CeI1fviAM9lGK7Wrpqc/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/24/6adca7dddd624767457202.jpg",
-   "date": null,
-   "pubdate": "2026-10-24T12:49:24.328316+00:00"
-  },
-  {
    "title": ": Témoignages 4:20 audio 4 minutes 20 : Témoignages \"Il y a un sentiment de désespoir qui monte chez tout le monde\" : un an après le cessez-le-feu à Gaza, le processus de paix est au point mort",
    "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-il-y-a-un-sentiment-de-desespoir-qui-monte-chez-tout-le-monde-un-an-apres-le-cessez-le-feu-a-gaza-le-processus-de-paix-est-au-point-mort_8210456.html",
    "summary": "\"Il y a un sentiment de désespoir qui monte chez tout le monde\" : un an après le cessez-le-feu à Gaza, le processus de paix est au point mort",
    "image": "https://www.franceinfo.fr/pictures/tsxtVJjfFkt7Hqmq3MeMXc3BaWg/1000x0:5000x4000/100x100/filters:format(jpg)/2026/10/09/6ac9388aa6eb2825054120.jpg",
    "date": null,
    "pubdate": "2026-10-24T12:49:24.328316+00:00"
-  },
-  {
-   "title": "\"C'est le moment !\" : le mouvement étudiant, principal rival du pouvoir en place pour les législatives en Serbie dimanche",
-   "link": "https://www.franceinfo.fr/monde/europe/c-est-le-moment-le-mouvement-etudiant-principal-rival-du-pouvoir-en-place-pour-les-legislatives-en-serbie-dimanche_8250586.html",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/Y8PsjvtzBO-czBKCnIM8UwHR1ks/0x0:5179x2913/432x243/filters:format(jpg)/2026/10/23/6adb2c7679e85761227056.jpg",
-   "date": null,
-   "pubdate": "2026-10-24T12:06:36.135189+00:00"
   },
   {
    "title": "Léon XIV en France : l'essentiel de la visite du pape 15 contenus",
@@ -172,42 +204,50 @@
    "pubdate": "2026-10-24T12:06:36.135189+00:00"
   },
   {
-   "title": "L'Ukraine dit de nouveau bénéficier d'une \"connexion stable\" au système Starlink, crucial pour son armée",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-ukraine-dit-de-nouveau-beneficier-d-une-connexion-stable-au-systeme-starlink-crucial-pour-son-armee_8252059.html",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/9gsPIvkKgZ-tUy3Ee-563ewsmKM/180x207:1024x681/432x243/filters:format(jpg)/2026/10/24/6adc6fef3b9de553203478.jpg",
+   "title": "\"C'est le moment !\" : le mouvement étudiant, principal rival du pouvoir en place pour les législatives en Serbie dimanche Né du drame de l'effondrement d'une structure de la gare de Novi Sad, en 2024, le mouvement de contestation étudiant bouscule l'échiquier politique serbe. En déposant sa propre liste pour les élections législatives anticipées qui ont lieu dimanche, la coalition citoyenne s'impose comme la principale rivale de l'homme fort du pays, Aleksandar Vučić.",
+   "link": "https://www.franceinfo.fr/monde/europe/c-est-le-moment-le-mouvement-etudiant-principal-rival-du-pouvoir-en-place-pour-les-legislatives-en-serbie-dimanche_8250586.html",
+   "summary": "\"C'est le moment !\" : le mouvement étudiant, principal rival du pouvoir en place pour les législatives en Serbie dimanche",
+   "image": "https://www.franceinfo.fr/pictures/Y8PsjvtzBO-czBKCnIM8UwHR1ks/0x0:5179x2913/432x243/filters:format(jpg)/2026/10/23/6adb2c7679e85761227056.jpg",
    "date": null,
-   "pubdate": "2026-10-24T11:11:17.609888+00:00"
-  },
-  {
-   "title": "\"Une culture de la manifestation fortement pacifiée\" : en Allemagne, la police mise sur la communication et la désescalade",
-   "link": "https://www.franceinfo.fr/monde/europe/allemagne/une-culture-de-la-manifestation-fortement-pacifiee-en-allemagne-la-police-mise-sur-la-communication-et-la-desescalade_8251978.html",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/0lQwQn_0eAn-zjI8qavnIQ8BL5A/0x430:8256x5074/432x243/filters:format(jpg)/2026/10/24/6adc5c04280b9298155016.jpg",
-   "date": null,
-   "pubdate": "2026-10-24T11:11:17.609888+00:00"
-  },
-  {
-   "title": "Manifestations, scènes d'émeutes, musées fermés... Les touristes chinois hésitent à venir en France",
-   "link": "https://www.franceinfo.fr/societe/manifestations/manifestations-scenes-d-emeutes-musees-fermes-les-touristes-chinois-hesitent-a-venir-en-france_8251339.html",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/7Q_dVbDiIGUHos0nEpQSZhpEqts/0x259:2500x1666/432x243/filters:format(jpg)/2026/10/24/6adc49c66f10b950193943.jpg",
-   "date": null,
-   "pubdate": "2026-10-24T11:11:17.609888+00:00"
-  },
-  {
-   "title": "La résidence de villégiature d'Adolf Hitler, \"le nid d'aigle\", incendiée en Bavière, un suspect arrêté",
-   "link": "https://www.franceinfo.fr/monde/europe/allemagne/la-residence-de-villegiature-d-adolphe-hitler-le-nid-d-aigle-incendiee-en-baviere-un-suspect-arrete_8251921.html",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/IYSgV0TBFdpxNA15xkQAUvpAlps/13x0:1010x561/432x243/filters:format(jpg)/2026/10/24/6adc45d7c9d2e018696872.jpg",
-   "date": null,
-   "pubdate": "2026-10-24T11:11:17.609888+00:00"
+   "pubdate": "2026-10-24T12:06:36.135189+00:00"
   },
   {
    "title": "L'essentiel des révélations sur l'affaire Epstein 14 contenus",
    "link": "https://www.franceinfo.fr/monde/usa/affaire-jeffrey-epstein/l-essentiel-des-revelations-sur-l-affaire-epstein/",
    "summary": "L'essentiel des révélations sur l'affaire Epstein",
    "image": "https://www.franceinfo.fr/pictures/btENVL4vmQDLNvnJ4uUtTATvN9k/432x297/filters:format(jpg)/2026/02/12/000-96rl2gk-1-698def9a11d8a867290796.jpg",
+   "date": null,
+   "pubdate": "2026-10-24T11:11:17.609888+00:00"
+  },
+  {
+   "title": "L'Ukraine dit de nouveau bénéficier d'une \"connexion stable\" au système Starlink, crucial pour son armée Le réseau de satellites avait connu des difficultés dans le pays après un pic de tensions entre le président ukrainien Volodymyr et son homologue américain.",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-ukraine-dit-de-nouveau-beneficier-d-une-connexion-stable-au-systeme-starlink-crucial-pour-son-armee_8252059.html",
+   "summary": "L'Ukraine dit de nouveau bénéficier d'une \"connexion stable\" au système Starlink, crucial pour son armée",
+   "image": "https://www.franceinfo.fr/pictures/9gsPIvkKgZ-tUy3Ee-563ewsmKM/180x207:1024x681/432x243/filters:format(jpg)/2026/10/24/6adc6fef3b9de553203478.jpg",
+   "date": null,
+   "pubdate": "2026-10-24T11:11:17.609888+00:00"
+  },
+  {
+   "title": "\"Une culture de la manifestation fortement pacifiée\" : en Allemagne, la police mise sur la communication et la désescalade Alors que les violences en marge des manifestations font débat en France, un sociologue et un spécialiste de la police allemande expliquent les différences d’approche entre les deux pays.",
+   "link": "https://www.franceinfo.fr/monde/europe/allemagne/une-culture-de-la-manifestation-fortement-pacifiee-en-allemagne-la-police-mise-sur-la-communication-et-la-desescalade_8251978.html",
+   "summary": "\"Une culture de la manifestation fortement pacifiée\" : en Allemagne, la police mise sur la communication et la désescalade",
+   "image": "https://www.franceinfo.fr/pictures/0lQwQn_0eAn-zjI8qavnIQ8BL5A/0x430:8256x5074/432x243/filters:format(jpg)/2026/10/24/6adc5c04280b9298155016.jpg",
+   "date": null,
+   "pubdate": "2026-10-24T11:11:17.609888+00:00"
+  },
+  {
+   "title": "Manifestations, scènes d'émeutes, musées fermés... Les touristes chinois hésitent à venir en France En Chine, les images des violences du week-end dernier ont largement circulé sur les réseaux sociaux, et dans les médias. La multiplication des manifestations inquiète les touristes chinois qui prévoient de visiter Paris ces prochaines semaines.",
+   "link": "https://www.franceinfo.fr/societe/manifestations/manifestations-scenes-d-emeutes-musees-fermes-les-touristes-chinois-hesitent-a-venir-en-france_8251339.html",
+   "summary": "Manifestations, scènes d'émeutes, musées fermés... Les touristes chinois hésitent à venir en France",
+   "image": "https://www.franceinfo.fr/pictures/7Q_dVbDiIGUHos0nEpQSZhpEqts/0x259:2500x1666/432x243/filters:format(jpg)/2026/10/24/6adc49c66f10b950193943.jpg",
+   "date": null,
+   "pubdate": "2026-10-24T11:11:17.609888+00:00"
+  },
+  {
+   "title": "La résidence de villégiature d'Adolf Hitler, \"le nid d'aigle\", incendiée en Bavière, un suspect arrêté Construit entre 1937 et 1938 près de Berchtesgaden, le Kehlsteinhaus devait servir de bâtiment de représentation au dictateur nazi, qui s'y est très peu rendu.",
+   "link": "https://www.franceinfo.fr/monde/europe/allemagne/la-residence-de-villegiature-d-adolphe-hitler-le-nid-d-aigle-incendiee-en-baviere-un-suspect-arrete_8251921.html",
+   "summary": "La résidence de villégiature d'Adolf Hitler, \"le nid d'aigle\", incendiée en Bavière, un suspect arrêté",
+   "image": "https://www.franceinfo.fr/pictures/IYSgV0TBFdpxNA15xkQAUvpAlps/13x0:1010x561/432x243/filters:format(jpg)/2026/10/24/6adc45d7c9d2e018696872.jpg",
    "date": null,
    "pubdate": "2026-10-24T11:11:17.609888+00:00"
   },
@@ -234,46 +274,6 @@
    "image": "https://www.franceinfo.fr/pictures/s9X20mYvGu2xSqZQGilOynZyev8/0x53:1024x629/432x243/filters:format(jpg)/2026/10/23/6adb7b1258e52469825758.jpg",
    "date": null,
    "pubdate": "2026-10-23T17:14:15.360335+00:00"
-  },
-  {
-   "title": "Ce que l'on sait de l'attaque qui a tué deux soldats israéliens en Cisjordanie occupée, et des opérations militaires lancées en réponse dans ce territoire palestinien Deux assaillants ont ouvert le feu à un point de contrôle de l'armée israélienne avant d'être abattus. En réaction, et à quatre jours des élections, Benyamin Nétanyahou a menacé de mener en Cisjordanie occupée une opération d'une ampleur inédite depuis la guerre des Six-Jours.",
-   "link": "https://www.franceinfo.fr/monde/israel/ce-que-l-on-sait-de-l-attaque-qui-a-tue-deux-soldats-israeliens-en-cisjordanie-occupee-et-des-operations-militaires-lancees-en-reponse-dans-ce-territoire-palestinien_8250628.html",
-   "summary": "Ce que l'on sait de l'attaque qui a tué deux soldats israéliens en Cisjordanie occupée, et des opérations militaires lancées en réponse dans ce territoire palestinien",
-   "image": "https://www.franceinfo.fr/pictures/r_HpMOQLQGMIpocDofdb_RB4fFE/0x167:4640x2777/432x243/filters:format(jpg)/2026/10/23/6adb4d474301e136621617.jpg",
-   "date": null,
-   "pubdate": "2026-10-23T17:14:15.360335+00:00"
-  },
-  {
-   "title": "Au moins six morts après une fusillade dans une église en Jordanie \"Deux hommes armés sont sortis d'un véhicule et ont ouvert le feu lors d'un cortège funéraire\", ont expliqué les autorités.",
-   "link": "https://www.franceinfo.fr/monde/moyen-orient/au-moins-sept-morts-apres-une-fusillade-dans-une-eglise-en-jordanie_8250901.html",
-   "summary": "Au moins six morts après une fusillade dans une église en Jordanie",
-   "image": "https://www.franceinfo.fr/pictures/fKRbi6cKJ9UGE_3xxBWa-efw3Iw/0x46:1024x622/432x243/filters:format(jpg)/2026/10/23/6adb68e103f80248824424.jpg",
-   "date": null,
-   "pubdate": "2026-10-23T17:14:15.360335+00:00"
-  },
-  {
-   "title": "Un immeuble en construction de 18 étages s'effondre à Nairobi, au Kenya Des vidéos circulant en ligne montrent un effondrement spectaculaire, accompagné d'épais nuages de poussière, dans ce quartier populaire très fréquenté par la communauté somalienne.",
-   "link": "https://www.franceinfo.fr/monde/afrique/kenya/un-immeuble-en-construction-de-plusieurs-etages-s-effondre-a-nairobi-au-kenya_8250838.html",
-   "summary": "Un immeuble en construction de 18 étages s'effondre à Nairobi, au Kenya",
-   "image": "https://www.franceinfo.fr/pictures/6BOId4QB9HLYT8lHEwBEfKVwuRE/0x106:1024x682/432x243/filters:format(jpg)/2026/10/23/6adb5c8d46101606978710.jpg",
-   "date": null,
-   "pubdate": "2026-10-23T17:14:15.360335+00:00"
-  },
-  {
-   "title": "Un mort et trois disparus à bord d'un navire \"en détresse\" en mer Noire, nouvel incident dans la région Des drones ont touché plusieurs navires marchands en mer Noire, au large de la Roumanie et de la Bulgarie, au cours des trois dernières semaines.",
-   "link": "https://www.franceinfo.fr/monde/europe/un-mort-et-trois-disparus-a-bord-d-un-navire-en-detresse-en-mer-noire-nouvel-incident-dans-la-region_8250601.html",
-   "summary": "Un mort et trois disparus à bord d'un navire \"en détresse\" en mer Noire, nouvel incident dans la région",
-   "image": "https://www.franceinfo.fr/pictures/Idz546zwyXiNDFnIDVQ_4ak-MUQ/0x1:6034x3396/432x243/filters:format(jpg)/2026/10/23/6adb2e024fb46942594020.jpg",
-   "date": null,
-   "pubdate": "2026-10-23T11:46:29.604259+00:00"
-  },
-  {
-   "title": "\"Sanxingdui: Future Past\", le premier long-métrage généré par l'IA sort en salles en Chine L'accueil s'annonce cependant mitigé pour ce thriller de science-fiction, avec des préventes de billets à la traîne.",
-   "link": "https://www.franceinfo.fr/culture/cinema/sanxingdui-future-past-le-premier-long-metrage-genere-par-l-ia-sort-en-salles-en-chine_8250289.html",
-   "summary": "\"Sanxingdui: Future Past\", le premier long-métrage généré par l'IA sort en salles en Chine",
-   "image": "https://www.franceinfo.fr/pictures/2Tvz9qP2GxWL-7bTwaW-T3ZfOmM/0x56:1024x632/432x243/filters:format(jpg)/2026/10/23/6adb155d9a979624568663.jpg",
-   "date": null,
-   "pubdate": "2026-10-23T11:46:29.604259+00:00"
   }
  ]
 }

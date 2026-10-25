@@ -1,5 +1,5 @@
 {
- "etag": "\"31fcc6613ccef616a7f423c899e28fd5-gzip\"",
+ "etag": "\"0b69414f71f1a26fd30609288e1697d9-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/bon-courage-a-ceux-qui-arrivent-l-election-presidentielle-permettra-t-elle-vraiment-de-sortir-de-la-crise-politique-et-sociale-qui-secoue-le-pays_8245624.html": "2026-10-22T04:57:40.172544+00:00",
@@ -8,12 +8,6 @@
   "https://www.franceinfo.fr/societe/euthanasie/comprendre-les-debats-sur-la-fin-de-vie/": "2026-10-23T04:59:25.203971+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/si-on-arrete-maintenant-on-a-perdu-et-ils-ont-gagne-a-la-veille-d-une-nouvelle-journee-de-mobilisation-des-etudiants-plus-determines-que-jamais_8229265.html": "2026-10-23T11:46:24.983620+00:00",
   "https://www.franceinfo.fr/societe/changement-d-heure/la-france-passe-a-l-heure-d-hiver-dans-la-nuit-de-samedi-a-dimanche_8252164.html": "2026-10-24T11:11:08.227161+00:00",
-  "https://www.franceinfo.fr/societe/manifestations/avignon-cherbourg-gueret-le-point-sur-les-manifestations-du-24-octobre-en-regions_8252155.html": "2026-10-24T11:11:08.227161+00:00",
-  "https://www.franceinfo.fr/societe/manifestations/incendie-de-la-mairie-de-limoges-les-deux-suspects-mis-en-examen-et-places-en-detention-provisoire_8252050.html": "2026-10-24T11:11:08.227161+00:00",
-  "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/attaque-raciste-dans-les-yvelines-presence-de-l-ultradroite-en-france-mobilisation-du-24-octobre-le-8h30-franceinfo-d-othman-nasrou_8230948.html": "2026-10-24T11:11:08.227161+00:00",
-  "https://www.franceinfo.fr/societe/manifestations/manifestations-du-24-octobre-suivez-en-direct-cette-nouvelle-journee-de-mobilisation-sous-tres-haute-securite_8251987.html": "2026-10-24T11:11:08.227161+00:00",
-  "https://www.franceinfo.fr/replay-radio/portraits-d-actu/amine-kessaci-figure-de-la-lutte-contre-le-narcotrafic-a-marseille_8230936.html": "2026-10-24T11:11:08.227161+00:00",
-  "https://www.franceinfo.fr/societe/manifestations/manifestations-scenes-d-emeutes-musees-fermes-les-touristes-chinois-hesitent-a-venir-en-france_8251339.html": "2026-10-24T11:11:08.227161+00:00",
   "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-existe-t-il-vraiment-des-policiers-casseurs-en-civil-et-infiltres-dans-les-manifestations-qui-commettent-des-degradations_8250637.html": "2026-10-24T11:11:08.227161+00:00",
   "https://www.franceinfo.fr/replay-radio/l-invite-culture/sonia-devillers-dans-le-journal-intime-de-jacques-enoch-j-ai-lu-l-histoire-en-train-de-se-faire_8230945.html": "2026-10-24T12:06:31.333053+00:00",
   "https://www.franceinfo.fr/societe/manifestations/les-gilets-jaunes-appellent-a-une-nouvelle-mobilisation-le-31-octobre-et-denoncent-une-derive-autoritaire_8252203.html": "2026-10-24T12:06:31.333053+00:00",
@@ -23,21 +17,97 @@
   "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/incendie-de-la-mairie-de-limoges-le-principal-suspect-va-faire-appel-de-sa-mise-en-examen-et-de-son-placement-en-detention-provisoire_8252542.html": "2026-10-24T20:55:28.050095+00:00",
   "https://www.franceinfo.fr/replay-jt/france-2/20-heures/que-justice-soit-faite-l-emotion-et-la-colere-des-proches-des-victimes-de-l-attentat-raciste-a-trappes_8252515.html": "2026-10-24T20:55:28.050095+00:00",
   "https://www.franceinfo.fr/societe/manifestations/mobilisation-en-baisse-pres-de-1-000-interpellations-deux-blesses-graves-ce-qu-il-faut-retenir-de-cette-nouvelle-journee-de-manifestation-contre-la-vie-chere-partout-en-france_8252476.html": "2026-10-24T20:55:28.050095+00:00",
-  "https://www.franceinfo.fr/societe/manifestations/manifestations-du-24-octobre-a-toulouse-un-jeune-de-20-ans-grievement-blesse-a-la-main_8252530.html": "2026-10-24T20:55:28.050095+00:00",
-  "https://www.franceinfo.fr/replay-jt/france-2/20-heures/reformer-parcoursup-prendre-soin-des-lycees-augmenter-le-smic-quelles-pistes-pour-calmer-la-colere_8252509.html": "2026-10-24T20:55:28.050095+00:00",
-  "https://www.franceinfo.fr/replay-jt/france-2/20-heures/mobilisation-du-24-octobre-des-tensions-constatees-a-la-fin-de-certains-corteges_8252494.html": "2026-10-24T20:55:28.050095+00:00",
-  "https://www.franceinfo.fr/societe/manifestations/manifestations-du-24-octobre-les-corteges-se-sont-bien-deroules-selon-laurent-nunez_8252497.html": "2026-10-24T20:55:28.050095+00:00",
-  "https://www.franceinfo.fr/replay-jt/france-2/20-heures/mobilisation-du-24-octobre-des-centaines-de-milliers-de-manifestants-dans-les-rues_8252485.html": "2026-10-24T20:55:28.050095+00:00",
   "https://www.franceinfo.fr/societe/manifestations/s-il-le-faut-je-manifesterai-tous-les-samedis-a-paris-le-cortege-defile-dans-le-calme-et-appelle-a-amplifier-la-mobilisation_8252455.html": "2026-10-24T20:55:28.050095+00:00",
-  "https://www.franceinfo.fr/societe/manifestations/pres-de-410-000-personnes-ont-manifeste-en-france-d-apres-le-ministere-de-l-interieur-800-000-selon-la-cgt-des-tensions-dans-plusieurs-grandes-villes_8252440.html": "2026-10-24T20:55:28.050095+00:00"
+  "https://www.franceinfo.fr/societe/manifestations/pres-de-410-000-personnes-ont-manifeste-en-france-d-apres-le-ministere-de-l-interieur-800-000-selon-la-cgt-des-tensions-dans-plusieurs-grandes-villes_8252440.html": "2026-10-24T20:55:28.050095+00:00",
+  "https://www.franceinfo.fr/societe/manifestations/clementine-autain-des-milices-d-ultradroite-ont-tabasse-des-manifestants_8252992.html": "2026-10-25T11:40:35.917281+00:00",
+  "https://www.franceinfo.fr/replay-radio/c-est-mon-boulot/loi-integrale-contre-les-violences-sexistes-et-sexuelles-qu-est-ce-qui-pourrait-changer-dans-les-entreprises_8230942.html": "2026-10-25T11:40:35.917281+00:00",
+  "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/attaque-raciste-dans-les-yvelines-manifestations-en-france-le-8h30-franceinfo-de-sandro-gozi_8211644.html": "2026-10-25T11:40:35.917281+00:00",
+  "https://www.franceinfo.fr/societe/manifestations/pour-la-mobilisation-samedi-a-paris-les-enseignements-du-17-octobre-ont-ete-tires-se-felicite-la-porte-parole-de-la-prefecture-de-police-de-paris_8252836.html": "2026-10-25T11:40:35.917281+00:00",
+  "https://www.franceinfo.fr/societe/manifestations/direct-manifestations-du-24-octobre-142-personnes-ont-ete-interpellees-a-paris-dont-120-ont-ete-placees-en-garde-a-vue-selon-la-prefecture-de-police_8252812.html": "2026-10-25T11:40:35.917281+00:00",
+  "https://www.franceinfo.fr/replay-radio/le-billet-sciences-du-week-end/heure-d-ete-ou-heure-d-hiver-une-journee-dure-t-elle-vraiment-24-heures_8211617.html": "2026-10-25T11:40:35.917281+00:00",
+  "https://www.franceinfo.fr/replay-radio/l-il-de-julie/c-etait-mieux-avant-on-manifestait-sans-violence-sur-les-reseaux-sociaux-ce-discours-reecrit-l-histoire_8211641.html": "2026-10-25T11:40:35.917281+00:00",
+  "https://www.franceinfo.fr/societe/familles-royales/une-importante-quantite-de-materiel-pedopornographique-retrouvee-chez-le-pere-de-meghan-markle-aux-philippines_8252731.html": "2026-10-25T11:40:35.917281+00:00",
+  "https://www.franceinfo.fr/replay-jt/france-2/13-heures/ca-commence-a-etre-banalise-l-emotion-et-la-colere-apres-l-attaque-terroriste-a-trappes_8252197.html": "2026-10-25T11:40:35.917281+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "Incendie de la mairie de Limoges : le principal suspect va faire appel de sa mise en examen et de son placement en détention provisoire Son avocat indique également qu'il va demander le dépaysement de l'instruction judiciaire, invoquant des atteintes à la présomption d'innocence et un climat \"pas assez serein\". Aujourd'hui",
+   "title": "Clémentine Autain : \"Des milices d'ultradroite ont tabassé des manifestants\" Mobilisation du 24 octobre : le ministre de l'Intérieur \"a répété 'ultragauche'. Comme s’il n’y avait pas eu [samedi] des milices d’ultradroite qui ont tabassé (...) des manifestants pacifistes\", soutient Clémentine Autain, députée \"L’Après\" de Seine-Saint-Denis. Aujourd'hui 1:23 vidéo 1 minute 23",
+   "link": "https://www.franceinfo.fr/societe/manifestations/clementine-autain-des-milices-d-ultradroite-ont-tabasse-des-manifestants_8252992.html",
+   "summary": "Clémentine Autain : \"Des milices d'ultradroite ont tabassé des manifestants\"",
+   "image": "https://www.franceinfo.fr/pictures/8Id_7gjaxVHbHBTjzsutFCean3g/0x0:1080x1920/fit-in/432x297/filters:upscale():fill(blur):format(jpg)/2026/10/25/6addda8ebe780525601803.jpg",
+   "date": null,
+   "pubdate": "2026-10-25T11:40:35.917281+00:00"
+  },
+  {
+   "title": "2:30 audio 2 minutes 30 Loi intégrale contre les violences sexistes et sexuelles : qu'est-ce qui pourrait changer dans les entreprises ?",
+   "link": "https://www.franceinfo.fr/replay-radio/c-est-mon-boulot/loi-integrale-contre-les-violences-sexistes-et-sexuelles-qu-est-ce-qui-pourrait-changer-dans-les-entreprises_8230942.html",
+   "summary": "Loi intégrale contre les violences sexistes et sexuelles : qu'est-ce qui pourrait changer dans les entreprises ?",
+   "image": "https://www.franceinfo.fr/pictures/Se6cVdV565oGKdNSuOrtaWdJ8UM/0x110:2121x1303/432x243/filters:format(jpg)/2026/10/22/6ad9dbdbb7768754273884.jpg",
+   "date": null,
+   "pubdate": "2026-10-25T11:40:35.917281+00:00"
+  },
+  {
+   "title": "17:38 audio 17 minutes 38 Attaque raciste dans les Yvelines, manifestations en France, montée du RN... Le \"8h30 franceinfo\" de Sandro Gozi",
+   "link": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/attaque-raciste-dans-les-yvelines-manifestations-en-france-le-8h30-franceinfo-de-sandro-gozi_8211644.html",
+   "summary": "Attaque raciste dans les Yvelines, manifestations en France, montée du RN... Le \"8h30 franceinfo\" de Sandro Gozi",
+   "image": "https://www.franceinfo.fr/pictures/LQrxNTCTUp2ix7VgVVT4YaVF7Wk/0x0:1600x900/432x243/filters:format(jpg)/2026/10/25/6addbfc3f1b5a105365041.jpg",
+   "date": null,
+   "pubdate": "2026-10-25T11:40:35.917281+00:00"
+  },
+  {
+   "title": "Pour la mobilisation samedi à Paris, \"les enseignements du 17 octobre ont été tirés\", se félicite la porte-parole de la préfecture de police de Paris",
+   "link": "https://www.franceinfo.fr/societe/manifestations/pour-la-mobilisation-samedi-a-paris-les-enseignements-du-17-octobre-ont-ete-tires-se-felicite-la-porte-parole-de-la-prefecture-de-police-de-paris_8252836.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/QiQy5zTckEM3M0EIJGqOHgKGW3U/0x201:7922x4657/432x243/filters:format(jpg)/2026/10/25/6addbb232c4f0541434408.jpg",
+   "date": null,
+   "pubdate": "2026-10-25T11:40:35.917281+00:00"
+  },
+  {
+   "title": "• Direct • Direct Manifestations du 24 octobre : plus de 1 300 interpellations en France, et 53 membres des forces de l'ordre blessés, annonce le ministère de l'Intérieur",
+   "link": "https://www.franceinfo.fr/societe/manifestations/direct-manifestations-du-24-octobre-142-personnes-ont-ete-interpellees-a-paris-dont-120-ont-ete-placees-en-garde-a-vue-selon-la-prefecture-de-police_8252812.html",
+   "summary": "Manifestations du 24 octobre : plus de 1 300 interpellations en France, et 53 membres des forces de l'ordre blessés, annonce le ministère de l'Intérieur",
+   "image": "https://www.franceinfo.fr/pictures/5eNMonJjsmPA3YuCVtgsL-c1cLM/0x86:1024x662/432x243/filters:format(jpg)/2026/10/25/6addaccee3055549186708.jpg",
+   "date": null,
+   "pubdate": "2026-10-25T11:40:35.917281+00:00"
+  },
+  {
+   "title": "2:31 audio 2 minutes 31 Heure d'été ou heure d'hiver, une journée dure-t-elle vraiment 24 heures ?",
+   "link": "https://www.franceinfo.fr/replay-radio/le-billet-sciences-du-week-end/heure-d-ete-ou-heure-d-hiver-une-journee-dure-t-elle-vraiment-24-heures_8211617.html",
+   "summary": "Heure d'été ou heure d'hiver, une journée dure-t-elle vraiment 24 heures ?",
+   "image": "https://www.franceinfo.fr/pictures/K_ywyd8QK8IvskeUh4euUAjkWYA/0x110:2121x1303/432x243/filters:format(jpg)/2026/10/22/6ad9c96097dec838691563.jpg",
+   "date": null,
+   "pubdate": "2026-10-25T11:40:35.917281+00:00"
+  },
+  {
+   "title": "2:54 audio 2 minutes 54 \"C'était mieux avant, on manifestait sans violence\" : sur les réseaux sociaux, ce discours réécrit l'histoire",
+   "link": "https://www.franceinfo.fr/replay-radio/l-il-de-julie/c-etait-mieux-avant-on-manifestait-sans-violence-sur-les-reseaux-sociaux-ce-discours-reecrit-l-histoire_8211641.html",
+   "summary": "\"C'était mieux avant, on manifestait sans violence\" : sur les réseaux sociaux, ce discours réécrit l'histoire",
+   "image": "https://www.franceinfo.fr/pictures/wvAPnmup4gyb9uS87vhRCjyt7Co/0x471:5613x3626/432x243/filters:format(jpg)/2019/08/21/phpnOQuSv.jpg",
+   "date": null,
+   "pubdate": "2026-10-25T11:40:35.917281+00:00"
+  },
+  {
+   "title": "Une \"importante quantité de matériel pédopornographique\" retrouvée chez le père de Meghan Markle, aux Philippines",
+   "link": "https://www.franceinfo.fr/societe/familles-royales/une-importante-quantite-de-materiel-pedopornographique-retrouvee-chez-le-pere-de-meghan-markle-aux-philippines_8252731.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/NJitFll0__ROMWHq9Jbc8OV7ZxQ/0x0:2400x1350/432x243/filters:format(jpg)/2026/10/25/6adda20ed8a5d680617977.jpg",
+   "date": null,
+   "pubdate": "2026-10-25T11:40:35.917281+00:00"
+  },
+  {
+   "title": "2:05 vidéo 2 minutes 5 \"Ils ont tiré sur ma petite voisine, une enfant de 12 ans\" : l'émotion et la colère après l'attaque terroriste à Trappes L’émotion est vive au lendemain de la fusillade qui a fait un mort et cinq blessés dont une fillette de 12 ans à Trappes, dans les Yvelines. Parmi les victimes se trouve un combattant de MMA amateur, âgé de 26 ans. Une cellule psychologique accueille les habitants sous le choc.",
+   "link": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/ca-commence-a-etre-banalise-l-emotion-et-la-colere-apres-l-attaque-terroriste-a-trappes_8252197.html",
+   "summary": "\"Ils ont tiré sur ma petite voisine, une enfant de 12 ans\" : l'émotion et la colère après l'attaque terroriste à Trappes",
+   "image": "https://www.franceinfo.fr/pictures/iZ9Hbr9v-Kbxbw3AMN6mcw-PbjI/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/24/6adc95acc009a227222882.jpg",
+   "date": null,
+   "pubdate": "2026-10-25T11:40:35.917281+00:00"
+  },
+  {
+   "title": "Incendie de la mairie de Limoges : le principal suspect va faire appel de sa mise en examen et de son placement en détention provisoire",
    "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/incendie-de-la-mairie-de-limoges-le-principal-suspect-va-faire-appel-de-sa-mise-en-examen-et-de-son-placement-en-detention-provisoire_8252542.html",
-   "summary": "Incendie de la mairie de Limoges : le principal suspect va faire appel de sa mise en examen et de son placement en détention provisoire",
-   "image": "https://www.franceinfo.fr/pictures/13fWpNG-n8RRzUViayxeTsgIBH8/45x0:1034x680/432x297/filters:format(jpg)/2026/10/24/6add0f18b87a6311419545.jpeg",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/pf9Wj09XPOPirQRv2JnPGRJZ2zs/0x0:1200x675/432x243/filters:format(jpg)/2026/10/24/6add0f18b87a6311419545.jpeg",
    "date": null,
    "pubdate": "2026-10-24T20:55:28.050095+00:00"
   },
@@ -50,55 +120,15 @@
    "pubdate": "2026-10-24T20:55:28.050095+00:00"
   },
   {
-   "title": "Mobilisation en baisse, près de 1 000 interpellations, deux blessés graves… Ce qu'il faut retenir de cette nouvelle journée de manifestation contre la vie chère",
+   "title": "Une mobilisation importante mais en légère baisse, plusieurs blessés graves, près de 1 300 interpellations… Ce qu'il faut retenir de ce samedi de manifestation Une semaine après des manifestations émaillées de violences, plusieurs centaines de milliers de personnes ont de nouveau manifesté sur le territoire. \"Les cortèges se sont bien déroulés\", a assuré le ministre de l'Intérieur, qui a rapporté toutefois des affrontements.",
    "link": "https://www.franceinfo.fr/societe/manifestations/mobilisation-en-baisse-pres-de-1-000-interpellations-deux-blesses-graves-ce-qu-il-faut-retenir-de-cette-nouvelle-journee-de-manifestation-contre-la-vie-chere-partout-en-france_8252476.html",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/Kq6v-VAlTrwD68aLyviN92BHvhY/0x53:1024x629/432x243/filters:format(jpg)/2026/10/24/6add0455004d5819860210.jpg",
+   "summary": "Une mobilisation importante mais en légère baisse, plusieurs blessés graves, près de 1 300 interpellations… Ce qu'il faut retenir de ce samedi de manifestation",
+   "image": "https://www.franceinfo.fr/pictures/_nckerWnsapywXN9ct7As2DUxsk/0x106:1024x682/432x243/filters:format(jpg)/2026/10/24/6add0455004d5819860210.jpg",
    "date": null,
    "pubdate": "2026-10-24T20:55:28.050095+00:00"
   },
   {
-   "title": "0:52 vidéo 52 secondes Manifestations du 24 octobre : à Toulouse, un jeune de 20 ans grièvement blessé à la main",
-   "link": "https://www.franceinfo.fr/societe/manifestations/manifestations-du-24-octobre-a-toulouse-un-jeune-de-20-ans-grievement-blesse-a-la-main_8252530.html",
-   "summary": "Manifestations du 24 octobre : à Toulouse, un jeune de 20 ans grièvement blessé à la main",
-   "image": "https://www.franceinfo.fr/pictures/cUujXiioUMnyuqAj4XQFwaRlOAY/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/24/6add041866f35902821170.jpg",
-   "date": null,
-   "pubdate": "2026-10-24T20:55:28.050095+00:00"
-  },
-  {
-   "title": ": Vidéo 1:54 vidéo 1 minute 54 : Vidéo Réformer Parcoursup, prendre soin des lycées, augmenter le SMIC… Quelles pistes pour calmer la colère des manifestants ?",
-   "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/reformer-parcoursup-prendre-soin-des-lycees-augmenter-le-smic-quelles-pistes-pour-calmer-la-colere_8252509.html",
-   "summary": "Réformer Parcoursup, prendre soin des lycées, augmenter le SMIC… Quelles pistes pour calmer la colère des manifestants ?",
-   "image": "https://www.franceinfo.fr/pictures/6WW7ev7x3gA5CQPbcfQAClV6hnY/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/24/6adcfc9f838c4685306025.jpg",
-   "date": null,
-   "pubdate": "2026-10-24T20:55:28.050095+00:00"
-  },
-  {
-   "title": ": Vidéo 2:17 vidéo 2 minutes 17 : Vidéo Mobilisation du 24 octobre : des tensions constatées à la fin de certains cortèges",
-   "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/mobilisation-du-24-octobre-des-tensions-constatees-a-la-fin-de-certains-corteges_8252494.html",
-   "summary": "Mobilisation du 24 octobre : des tensions constatées à la fin de certains cortèges",
-   "image": "https://www.franceinfo.fr/pictures/mCtprg-mwnkiCQz1Kfg_9IoHmYE/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/24/6adcf995705f9606623476.jpg",
-   "date": null,
-   "pubdate": "2026-10-24T20:55:28.050095+00:00"
-  },
-  {
-   "title": "1:27 vidéo 1 minute 27 Manifestations du 24 octobre : \"Les cortèges se sont bien déroulés\", selon Laurent Nunez",
-   "link": "https://www.franceinfo.fr/societe/manifestations/manifestations-du-24-octobre-les-corteges-se-sont-bien-deroules-selon-laurent-nunez_8252497.html",
-   "summary": "Manifestations du 24 octobre : \"Les cortèges se sont bien déroulés\", selon Laurent Nunez",
-   "image": "https://www.franceinfo.fr/pictures/kG-TKdxDF5m9CQ7JzpEUl1OUu00/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/24/6adcf89482593348290394.jpg",
-   "date": null,
-   "pubdate": "2026-10-24T20:55:28.050095+00:00"
-  },
-  {
-   "title": "2:24 vidéo 2 minutes 24 Mobilisation du 24 octobre : des centaines de milliers de manifestants dans les rues",
-   "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/mobilisation-du-24-octobre-des-centaines-de-milliers-de-manifestants-dans-les-rues_8252485.html",
-   "summary": "Mobilisation du 24 octobre : des centaines de milliers de manifestants dans les rues",
-   "image": "https://www.franceinfo.fr/pictures/y6lb6K7gjhnOLGIQtYt7g7vQzyI/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/24/6adcf690ec5ed371018698.jpg",
-   "date": null,
-   "pubdate": "2026-10-24T20:55:28.050095+00:00"
-  },
-  {
-   "title": ": Reportage : Reportage \"S'il le faut, je manifesterai tous les samedis\" : à Paris, le cortège défile dans le calme et appelle à amplifier la mobilisation",
+   "title": ": Reportage \"S'il le faut, je manifesterai tous les samedis\" : à Paris, le cortège défile dans le calme et appelle à amplifier la mobilisation La manifestation parisienne a agrégé une multitude de revendications et s’est déroulée dans le calme, en dépit du contexte sécuritaire après les violences du 17 octobre et un changement de parcours de dernière minute. Quelques tensions ont été signalées en fin de journée.",
    "link": "https://www.franceinfo.fr/societe/manifestations/s-il-le-faut-je-manifesterai-tous-les-samedis-a-paris-le-cortege-defile-dans-le-calme-et-appelle-a-amplifier-la-mobilisation_8252455.html",
    "summary": "\"S'il le faut, je manifesterai tous les samedis\" : à Paris, le cortège défile dans le calme et appelle à amplifier la mobilisation",
    "image": "https://www.franceinfo.fr/pictures/KMCRyjwj0Zu15WZAeC9Ilicx38U/0x468:4032x2736/432x243/filters:format(jpg)/2026/10/24/6adce7e40e208131551226.jpg",
@@ -106,9 +136,9 @@
    "pubdate": "2026-10-24T20:55:28.050095+00:00"
   },
   {
-   "title": "Près de 410 000 personnes ont manifesté en France d'après le ministère de l'Intérieur, 800 000 selon la CGT, des tensions dans plusieurs grandes villes",
+   "title": "Près de 410 000 personnes ont manifesté en France d'après le ministère de l'Intérieur, 800 000 selon la CGT, des tensions dans plusieurs grandes villes Après un défilé calme à Paris, la situation s'est tendue en fin de cortège. Des heurts ont également éclaté dans plusieurs grandes villes, comme Marseille, Lille et Lyon.",
    "link": "https://www.franceinfo.fr/societe/manifestations/pres-de-410-000-personnes-ont-manifeste-en-france-d-apres-le-ministere-de-l-interieur-800-000-selon-la-cgt-des-tensions-dans-plusieurs-grandes-villes_8252440.html",
-   "summary": "",
+   "summary": "Près de 410 000 personnes ont manifesté en France d'après le ministère de l'Intérieur, 800 000 selon la CGT, des tensions dans plusieurs grandes villes",
    "image": "https://www.franceinfo.fr/pictures/kI_Gm8t8V6NHaCkll-PraYUXquk/0x106:1024x682/432x243/filters:format(jpg)/2026/10/24/6adce69d4b06b060835357.jpg",
    "date": null,
    "pubdate": "2026-10-24T20:55:28.050095+00:00"
@@ -166,54 +196,6 @@
    "link": "https://www.franceinfo.fr/societe/changement-d-heure/la-france-passe-a-l-heure-d-hiver-dans-la-nuit-de-samedi-a-dimanche_8252164.html",
    "summary": "La France passe à l'heure d'hiver dans la nuit de samedi à dimanche",
    "image": "https://www.franceinfo.fr/pictures/egQnb2dCM505AU20bJLNSZSFDME/0x106:1024x682/432x243/filters:format(jpg)/2026/10/24/6adc918334c10515203186.jpg",
-   "date": null,
-   "pubdate": "2026-10-24T11:11:08.227161+00:00"
-  },
-  {
-   "title": "Amiens, Bordeaux, Nantes, Toulouse... Le point sur les manifestations du 24 octobre en régions De nombreux rassemblements et défilés ont eu lieu samedi, une semaine après la première journée de mobilisation contre la vie chère. La plupart se sont déroulés dans le calme, des tensions ont été signalées à Lyon, Nice ou encore Nantes.",
-   "link": "https://www.franceinfo.fr/societe/manifestations/avignon-cherbourg-gueret-le-point-sur-les-manifestations-du-24-octobre-en-regions_8252155.html",
-   "summary": "Amiens, Bordeaux, Nantes, Toulouse... Le point sur les manifestations du 24 octobre en régions",
-   "image": "https://www.franceinfo.fr/pictures/s_XANa4PHads-wAg-KkBYzYF7Jo/0x0:2999x1687/432x243/filters:format(jpg)/2026/10/24/6adce490dd291008930392.jpg",
-   "date": null,
-   "pubdate": "2026-10-24T11:11:08.227161+00:00"
-  },
-  {
-   "title": "Incendie de la mairie de Limoges : les deux suspects mis en examen et placés en détention provisoire Vendredi, le parquet a annoncé l'ouverture d'une information judiciaire notamment pour \"tentative d’homicide sur personne dépositaire de l’autorité publique\" et \"destruction en bande organisée du bien d’autrui par moyen dangereux pour les personnes\".",
-   "link": "https://www.franceinfo.fr/societe/manifestations/incendie-de-la-mairie-de-limoges-les-deux-suspects-mis-en-examen-et-places-en-detention-provisoire_8252050.html",
-   "summary": "Incendie de la mairie de Limoges : les deux suspects mis en examen et placés en détention provisoire",
-   "image": "https://www.franceinfo.fr/pictures/f-oAeoUKkMucCMfiOuQRb72FTVg/0x12:1024x588/432x243/filters:format(jpg)/2026/10/24/6adc6e15a671a186025261.jpg",
-   "date": null,
-   "pubdate": "2026-10-24T11:11:08.227161+00:00"
-  },
-  {
-   "title": "18:14 audio 18 minutes 14 Attaque raciste dans les Yvelines, présence de l'ultradroite en France, mobilisation du 24 octobre... Le \"8h30 franceinfo\" d'Othman Nasrou Le secrétaire général des Républicains, premier vice-président de la région Île-de-France, répondait aux questions de Camille Girerd et Benjamin Recouvreur.",
-   "link": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/attaque-raciste-dans-les-yvelines-presence-de-l-ultradroite-en-france-mobilisation-du-24-octobre-le-8h30-franceinfo-d-othman-nasrou_8230948.html",
-   "summary": "Attaque raciste dans les Yvelines, présence de l'ultradroite en France, mobilisation du 24 octobre... Le \"8h30 franceinfo\" d'Othman Nasrou",
-   "image": "https://www.franceinfo.fr/pictures/4X4DBJ-44kJ6hQmq7ULzdSQNDuY/17x0:1550x862/432x243/filters:format(jpg)/2026/10/24/6adc5fa1e812b417600630.jpg",
-   "date": null,
-   "pubdate": "2026-10-24T11:11:08.227161+00:00"
-  },
-  {
-   "title": "Manifestations du 24 octobre : \"Les cortèges se sont bien passés\", estime le ministre de l'Intérieur, qui dénonce néanmoins la présence de \"casseurs\" Après une journée relativement calme, la situation s'est tendue en fin de cortège dans plusieurs villes, comme à Paris, Marseille, Lille et Lyon.",
-   "link": "https://www.franceinfo.fr/societe/manifestations/manifestations-du-24-octobre-suivez-en-direct-cette-nouvelle-journee-de-mobilisation-sous-tres-haute-securite_8251987.html",
-   "summary": "Manifestations du 24 octobre : \"Les cortèges se sont bien passés\", estime le ministre de l'Intérieur, qui dénonce néanmoins la présence de \"casseurs\"",
-   "image": "https://www.franceinfo.fr/pictures/KzJWKwBRPAI5WvEkZUCyvhD436M/0x53:1024x629/432x243/filters:format(jpg)/2026/10/24/6adcf38483a75444655119.jpg",
-   "date": null,
-   "pubdate": "2026-10-24T11:11:08.227161+00:00"
-  },
-  {
-   "title": "4:50 audio 4 minutes 50 Amine Kessaci, figure de la lutte contre le narcotrafic à Marseille Le procès des tueurs présumés de son grand frère s’est ouvert lundi, à Aix-en-Provence. Dans le box, 5 accusés dont l’homme suspecté d’être à la tête du cartel DZ Mafia.",
-   "link": "https://www.franceinfo.fr/replay-radio/portraits-d-actu/amine-kessaci-figure-de-la-lutte-contre-le-narcotrafic-a-marseille_8230936.html",
-   "summary": "Amine Kessaci, figure de la lutte contre le narcotrafic à Marseille",
-   "image": "https://www.franceinfo.fr/pictures/TTtCQaNtNk0d2ct6hz3mUlPYoY8/0x300:5780x3552/432x243/filters:format(jpg)/2026/10/23/6adb5ae41c364310242727.jpg",
-   "date": null,
-   "pubdate": "2026-10-24T11:11:08.227161+00:00"
-  },
-  {
-   "title": "Manifestations, scènes d'émeutes, musées fermés... Les touristes chinois hésitent à venir en France En Chine, les images des violences du week-end dernier ont largement circulé sur les réseaux sociaux, et dans les médias. La multiplication des manifestations inquiète les touristes chinois qui prévoient de visiter Paris ces prochaines semaines.",
-   "link": "https://www.franceinfo.fr/societe/manifestations/manifestations-scenes-d-emeutes-musees-fermes-les-touristes-chinois-hesitent-a-venir-en-france_8251339.html",
-   "summary": "Manifestations, scènes d'émeutes, musées fermés... Les touristes chinois hésitent à venir en France",
-   "image": "https://www.franceinfo.fr/pictures/7Q_dVbDiIGUHos0nEpQSZhpEqts/0x259:2500x1666/432x243/filters:format(jpg)/2026/10/24/6adc49c66f10b950193943.jpg",
    "date": null,
    "pubdate": "2026-10-24T11:11:08.227161+00:00"
   },
