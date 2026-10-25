@@ -1,15 +1,12 @@
 {
- "etag": "\"77f01d4b13a0377ccbbb6c9e35f931e6-gzip\"",
+ "etag": "\"925202e0959123ec71767beac3b021d0-gzip\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.franceinfo.fr/monde/bresil/avant-on-parlait-de-politique-entre-nous-on-a-arrete-immersion-dans-un-bresil-divise-avant-le-second-tour-de-la-presidentielle_8246164.html": "2026-10-20T23:56:36.431002+00:00",
   "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/est-il-possible-d-interdire-un-parti-politique-comme-le-proposent-gerard-larcher-et-bruno-retailleau-pour-la-france-insoumise_8245717.html": "2026-10-21T17:18:12.384018+00:00",
   "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/bon-courage-a-ceux-qui-arrivent-l-election-presidentielle-permettra-t-elle-vraiment-de-sortir-de-la-crise-politique-et-sociale-qui-secoue-le-pays_8245624.html": "2026-10-22T04:57:42.457430+00:00",
   "https://www.franceinfo.fr/politique/affaire/financement-de-la-campagne-de-sarkozy/soupcons-de-financement-libyen-tout-comprendre-a-l-affaire/": "2026-10-22T04:57:42.457430+00:00",
   "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/tout-comprendre-au-proces-des-assistants-parlementaires-fn/": "2026-10-22T04:57:42.457430+00:00",
   "https://www.franceinfo.fr/monde/russie/enquete-franceinfo-on-l-appelait-poutine-girl-comment-la-france-verrouille-les-demandes-de-visas-diplomatiques-russes-pour-limiter-les-risques-d-espionnage_8204495.html": "2026-10-22T21:42:02.261540+00:00",
-  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/emmanuel-macron-a-reconnu-aupres-des-representants-lyceens-le-besoin-d-une-refonte-en-profondeur-de-parcoursup_8251462.html": "2026-10-23T21:28:54.910308+00:00",
-  "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/le-parti-communiste-francais-victime-d-une-cyberattaque_8251381.html": "2026-10-23T21:28:54.910308+00:00",
   "https://www.franceinfo.fr/politique/front-national/a-orleans-le-parcours-de-la-manifestation-anti-rassemblement-national-est-modifie-pour-eviter-le-centre-ville_8251546.html": "2026-10-24T04:44:33.730157+00:00",
   "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/l-etat-sera-la-pour-reconstruire-la-mairie-de-limoges-a-l-identique-promet-sebastien-lecornu_8251528.html": "2026-10-24T04:44:33.730157+00:00",
   "https://www.franceinfo.fr/replay-magazine/france-2/franc-jeu/franc-jeu-avec-mathilde-panot_8226022.html": "2026-10-25T11:00:00+00:00",
@@ -19,27 +16,70 @@
   "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/il-y-a-une-distance-tres-nette-entre-les-deux-mondes-quelles-sont-les-differences-entre-l-extreme-gauche-et-l-ultragauche-ciblees-par-le-gouvernement_8250823.html": "2026-10-24T11:11:14.437300+00:00",
   "https://www.franceinfo.fr/politique/marine-le-pen/afflux-de-militants-d-extreme-droite-manifestation-de-la-gauche-pourquoi-le-congres-du-rn-a-orleans-ce-week-end-est-au-c-ur-des-tensions_8250358.html": "2026-10-24T11:11:14.437300+00:00",
   "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-de-la-jeunesse-retour-des-gilets-jaunes-appel-de-l-intersyndicale-on-vous-resume-les-revendications-et-la-reponse-du-gouvernement_8248597.html": "2026-10-24T11:11:14.437300+00:00",
-  "https://www.franceinfo.fr/politique/front-national/congres-du-rn-a-orleans-mediapart-brievement-exfiltre-de-la-salle_8252398.html": "2026-10-24T16:02:00.435651+00:00",
   "https://www.franceinfo.fr/politique/front-national/j-aurais-beaucoup-a-craindre-que-ce-genre-de-parti-passe-au-pouvoir-a-orleans-une-marche-pour-dire-non-au-rassemblement-national_8252362.html": "2026-10-24T16:02:00.435651+00:00",
   "https://www.franceinfo.fr/politique/front-national/au-congres-du-rassemblement-national-l-unique-candidat-jordan-bardella-est-reelu-sans-surprise-a-la-presidence-du-parti-avec-98-98-des-voix_8252326.html": "2026-10-24T16:02:00.435651+00:00",
   "https://www.franceinfo.fr/economie/automobile/essence/un-decret-a-ete-publie-en-vue-de-la-liberation-de-stocks-strategiques-de-gazole-pour-faire-baisser-les-prix-a-la-pompe_8252305.html": "2026-10-24T16:02:00.435651+00:00",
   "https://www.franceinfo.fr/politique/front-national/des-journalistes-de-mediapart-ont-ete-brutalement-sortis-du-congres-du-rassemblement-national-a-orleans-par-le-service-de-securite-du-parti_8252275.html": "2026-10-24T16:02:00.435651+00:00",
-  "https://www.franceinfo.fr/politique/front-national/c-est-important-qu-on-montre-qu-il-y-a-encore-des-gens-qui-s-opposent-une-manifestation-a-orleans-contre-le-congres-du-rn_8252512.html": "2026-10-24T20:55:31.381031+00:00",
   "https://www.franceinfo.fr/politique/emmanuel-macron/sans-emmanuel-macron-marine-le-pen-aurait-ete-presidente-en-2017-explique-sandro-gozi-depute-europeen-renew_8253007.html": "2026-10-25T11:40:38.107845+00:00",
   "https://www.franceinfo.fr/monde/bresil/reportage-des-raisons-pour-que-lula-reste-il-n-y-en-a-pas-au-bresil-un-scrutin-presidentiel-incertain-dans-un-pays-profondement-divise_8252848.html": "2026-10-25T11:40:38.107845+00:00",
   "https://www.franceinfo.fr/elections/presidentielle/direct-congres-du-rn-a-orleans-marine-le-pen-lance-sa-campagne-presidentielle-avec-un-premier-meeting-son-discours-prevu-a-15h30_8252842.html": "2026-10-25T11:40:38.107845+00:00",
   "https://www.franceinfo.fr/politique/marine-le-pen/comment-marine-le-pen-plus-optimiste-que-jamais-pour-2027-veut-prendre-de-la-hauteur-et-installer-sa-force-tranquille_8252809.html": "2026-10-25T11:40:38.107845+00:00",
   "https://www.franceinfo.fr/politique/front-national/congres-du-rn-a-orleans-une-centaine-de-militants-antifascistes-se-sont-rassembles-en-depit-des-interdictions_8253235.html": "2026-10-25T16:30:20.116549+00:00",
   "https://www.franceinfo.fr/faits-divers/un-bus-de-militants-en-partance-pour-le-congres-du-rn-a-orleans-pris-pour-cible-a-grenoble_8253211.html": "2026-10-25T16:30:20.116549+00:00",
-  "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/il-y-a-une-responsabilite-politico-mediatique-qui-arme-aussi-le-coupable-de-l-attaque-terroriste-dans-les-yvelines-affirme-mathilde-panot_8253142.html": "2026-10-25T16:30:20.116549+00:00"
+  "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/il-y-a-une-responsabilite-politico-mediatique-qui-arme-aussi-le-coupable-de-l-attaque-terroriste-dans-les-yvelines-affirme-mathilde-panot_8253142.html": "2026-10-25T16:30:20.116549+00:00",
+  "https://www.franceinfo.fr/economie/medias/bfmtv-denonce-une-campagne-de-denigrement-apres-des-accusations-de-lfi-qui-reprochent-a-la-chaine-de-propager-des-propos-racistes_8253499.html": "2026-10-25T20:56:06.910216+00:00",
+  "https://www.franceinfo.fr/monde/bresil/on-est-libre-entre-guillemets-le-bresil-un-pays-coupe-en-deux_8253502.html": "2026-10-25T20:56:06.910216+00:00",
+  "https://www.franceinfo.fr/politique/marine-le-pen/reportage-on-a-gagne-la-bataille-des-idees-a-orleans-marine-le-pen-lance-sa-campagne-dans-une-ville-sous-haute-surveillance_8252908.html": "2026-10-25T20:56:06.910216+00:00",
+  "https://www.franceinfo.fr/politique/front-national/congres-du-rn-marine-le-pen-promet-un-gouvernement-d-union-nationale-pluraliste-et-dirige-par-jordan-bardella_8253364.html": "2026-10-25T20:56:06.910216+00:00",
+  "https://www.franceinfo.fr/politique/front-national/congres-du-rn-a-orleans-le-discours-de-jordan-bardella-a-ete-interrompu-par-des-militants-de-l-union-des-etudiants-juifs-de-france_8253304.html": "2026-10-25T20:56:06.910216+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "Congrès du RN à Orléans : une centaine de militants antifascistes se sont rassemblés en dépit des interdictions Marine Le Pen a prononcé son premier grand discours de campagne dans la ville du Loiret, dimanche après-midi. Aujourd'hui",
+   "title": "BFMTV dénonce \"une campagne de dénigrement\" après des accusations de LFI, qui reproche à la chaîne de propager des propos racistes \"Vous, BFM, commencez à vous calmer sur les remarques racistes de toute sorte, parce que ça commence à bien faire\", a déclaré Jean-Luc Mélenchon alors qu'il était interrogé par une journaliste de la chaîne, samedi. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/economie/medias/bfmtv-denonce-une-campagne-de-denigrement-apres-des-accusations-de-lfi-qui-reprochent-a-la-chaine-de-propager-des-propos-racistes_8253499.html",
+   "summary": "BFMTV dénonce \"une campagne de dénigrement\" après des accusations de LFI, qui reproche à la chaîne de propager des propos racistes",
+   "image": "https://www.franceinfo.fr/pictures/swFl0TioywPGyPE9X2naxG5Bhbo/0x0:992x682/432x297/filters:format(jpg)/2026/10/25/6ade5e0b645be368810636.jpg",
+   "date": null,
+   "pubdate": "2026-10-25T20:56:06.910216+00:00"
+  },
+  {
+   "title": "3:35 vidéo 3 minutes 35 \"On est libre, entre guillemets\" : le Brésil, un pays coupé en deux",
+   "link": "https://www.franceinfo.fr/monde/bresil/on-est-libre-entre-guillemets-le-bresil-un-pays-coupe-en-deux_8253502.html",
+   "summary": "\"On est libre, entre guillemets\" : le Brésil, un pays coupé en deux",
+   "image": "https://www.franceinfo.fr/pictures/tcOqSB-ANzppclXzEOiHJdFJW2w/0x83:1518x936/432x243/filters:format(jpg)/2026/10/25/6ade5caa83266781386692.png",
+   "date": null,
+   "pubdate": "2026-10-25T20:56:06.910216+00:00"
+  },
+  {
+   "title": ": Reportage : Reportage \"On a gagné la bataille des idées\" : à Orléans, Marine Le Pen lance sa campagne dans une ville sous haute surveillance",
+   "link": "https://www.franceinfo.fr/politique/marine-le-pen/reportage-on-a-gagne-la-bataille-des-idees-a-orleans-marine-le-pen-lance-sa-campagne-dans-une-ville-sous-haute-surveillance_8252908.html",
+   "summary": "\"On a gagné la bataille des idées\" : à Orléans, Marine Le Pen lance sa campagne dans une ville sous haute surveillance",
+   "image": "https://www.franceinfo.fr/pictures/pgq-WGhTj8wUPck08gjRtnCkUD4/0x0:1024x576/432x243/filters:format(jpg)/2026/10/25/6ade39f28de93222689003.jpg",
+   "date": null,
+   "pubdate": "2026-10-25T20:56:06.910216+00:00"
+  },
+  {
+   "title": "Congrès du RN : Marine Le Pen promet un gouvernement \"d'union nationale\", \"pluraliste\" et dirigé par Jordan Bardella",
+   "link": "https://www.franceinfo.fr/politique/front-national/congres-du-rn-marine-le-pen-promet-un-gouvernement-d-union-nationale-pluraliste-et-dirige-par-jordan-bardella_8253364.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/8d26d8sM2UspjCSSeaNF1CJhXeo/0x0:1024x576/432x243/filters:format(jpg)/2026/10/25/6ade34ca34498085739637.jpg",
+   "date": null,
+   "pubdate": "2026-10-25T20:56:06.910216+00:00"
+  },
+  {
+   "title": "Congrès du RN à Orléans : le discours de Jordan Bardella a été interrompu par des militants de l'Union des étudiants juifs de France",
+   "link": "https://www.franceinfo.fr/politique/front-national/congres-du-rn-a-orleans-le-discours-de-jordan-bardella-a-ete-interrompu-par-des-militants-de-l-union-des-etudiants-juifs-de-france_8253304.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/tyzUD0u8Km9KQioZmM4W7O9mQwk/0x0:1024x576/432x243/filters:format(jpg)/2026/10/25/6ade3122c7532064478257.jpg",
+   "date": null,
+   "pubdate": "2026-10-25T20:56:06.910216+00:00"
+  },
+  {
+   "title": "Congrès du RN à Orléans : une centaine de militants antifascistes se sont rassemblés en dépit des interdictions",
    "link": "https://www.franceinfo.fr/politique/front-national/congres-du-rn-a-orleans-une-centaine-de-militants-antifascistes-se-sont-rassembles-en-depit-des-interdictions_8253235.html",
-   "summary": "Congrès du RN à Orléans : une centaine de militants antifascistes se sont rassemblés en dépit des interdictions",
-   "image": "https://www.franceinfo.fr/pictures/_mQQgvYF_0EUWqEZPozLfgzNWPk/5x0:997x682/432x297/filters:format(jpg)/2026/10/25/6ade15409b6d7027037562.jpg",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/S-WY2-jyDElVJGu9DfYL9ZNGBO8/0x106:1024x682/432x243/filters:format(jpg)/2026/10/25/6ade15409b6d7027037562.jpg",
    "date": null,
    "pubdate": "2026-10-25T16:30:20.116549+00:00"
   },
@@ -76,17 +116,17 @@
    "pubdate": "2026-10-25T11:40:38.107845+00:00"
   },
   {
-   "title": "• Direct • Direct Congrès du RN à Orléans : \"Je ne vous propose pas de refaire la France d'avant\", déclare Marine Le Pen",
+   "title": "Congrès du RN : le maire d'Orléans lève les mesures de restriction dans la ville \"C'est une réussite à 100%, la violence de rue n'a pas eu droit de cité à Orléans\", s'est réjoui le maire divers droite de la ville, Serge Grouard.",
    "link": "https://www.franceinfo.fr/elections/presidentielle/direct-congres-du-rn-a-orleans-marine-le-pen-lance-sa-campagne-presidentielle-avec-un-premier-meeting-son-discours-prevu-a-15h30_8252842.html",
-   "summary": "Congrès du RN à Orléans : \"Je ne vous propose pas de refaire la France d'avant\", déclare Marine Le Pen",
+   "summary": "Congrès du RN : le maire d'Orléans lève les mesures de restriction dans la ville",
    "image": "https://www.franceinfo.fr/pictures/IZfgHwPl-5DRK23wJ2L6NxRNKyE/0x53:1024x629/432x243/filters:format(jpg)/2026/10/25/6ade235631ddd589825943.jpg",
    "date": null,
    "pubdate": "2026-10-25T11:40:38.107845+00:00"
   },
   {
-   "title": "Comment Marine Le Pen, plus optimiste que jamais pour 2027, veut prendre de la hauteur et installer sa \"force tranquille\"",
+   "title": "Comment Marine Le Pen, plus optimiste que jamais pour 2027, veut prendre de la hauteur et installer sa \"force tranquille\" Avec son discours dimanche à Orléans, la candidate du RN entend insuffler de l'optimisme dans un monde chaotique. Et installer encore un peu plus dans l'opinion son statut de favorite du scrutin présidentiel.",
    "link": "https://www.franceinfo.fr/politique/marine-le-pen/comment-marine-le-pen-plus-optimiste-que-jamais-pour-2027-veut-prendre-de-la-hauteur-et-installer-sa-force-tranquille_8252809.html",
-   "summary": "",
+   "summary": "Comment Marine Le Pen, plus optimiste que jamais pour 2027, veut prendre de la hauteur et installer sa \"force tranquille\"",
    "image": "https://www.franceinfo.fr/pictures/LQK8ekHsNV5B79PObx1p3Le0zeI/0x244:4694x2884/432x243/filters:format(jpg)/2026/10/25/6adda35c88e10472081550.jpg",
    "date": null,
    "pubdate": "2026-10-25T11:40:38.107845+00:00"
@@ -100,23 +140,7 @@
    "pubdate": "2026-10-25T11:00:00+00:00"
   },
   {
-   "title": "1:44 vidéo 1 minute 44 \"C'est important qu'on montre qu'il y a encore des gens qui s'opposent\" : une manifestation à Orléans contre le congrès du RN",
-   "link": "https://www.franceinfo.fr/politique/front-national/c-est-important-qu-on-montre-qu-il-y-a-encore-des-gens-qui-s-opposent-une-manifestation-a-orleans-contre-le-congres-du-rn_8252512.html",
-   "summary": "\"C'est important qu'on montre qu'il y a encore des gens qui s'opposent\" : une manifestation à Orléans contre le congrès du RN",
-   "image": "https://www.franceinfo.fr/pictures/8EQ-M7bi9MlzwtnR0GJQRxhgRVc/0x104:1470x931/432x243/filters:format(jpg)/2026/10/24/6adcfddcc44f3533536408.png",
-   "date": null,
-   "pubdate": "2026-10-24T20:55:31.381031+00:00"
-  },
-  {
-   "title": "0:48 vidéo 48 secondes Congrès du RN à Orléans : Mediapart brièvement exfiltré de la salle",
-   "link": "https://www.franceinfo.fr/politique/front-national/congres-du-rn-a-orleans-mediapart-brievement-exfiltre-de-la-salle_8252398.html",
-   "summary": "Congrès du RN à Orléans : Mediapart brièvement exfiltré de la salle",
-   "image": "https://www.franceinfo.fr/pictures/HWGu1BgHQLU0cbW02lIkJqU_e4k/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/24/6adcd3c7e90cd133120037.jpg",
-   "date": null,
-   "pubdate": "2026-10-24T16:02:00.435651+00:00"
-  },
-  {
-   "title": ": Reportage 1:17 audio 1 minute 17 : Reportage \"J'aurais beaucoup à craindre que ce genre de parti passe au pouvoir\" : à Orléans, une marche pour dire non au Rassemblement national",
+   "title": ": Reportage 1:17 audio 1 minute 17 \"J'aurais beaucoup à craindre que ce genre de parti passe au pouvoir\" : à Orléans, une marche pour dire non au Rassemblement national Alors que le Rassemblement national tient son congrès ce week-end à Orléans, 13 000 personnes selon la préfecture, le double selon les organisateurs, ont défilé dans la ville samedi en milieu de journée.",
    "link": "https://www.franceinfo.fr/politique/front-national/j-aurais-beaucoup-a-craindre-que-ce-genre-de-parti-passe-au-pouvoir-a-orleans-une-marche-pour-dire-non-au-rassemblement-national_8252362.html",
    "summary": "\"J'aurais beaucoup à craindre que ce genre de parti passe au pouvoir\" : à Orléans, une marche pour dire non au Rassemblement national",
    "image": "https://www.franceinfo.fr/pictures/4vNyweKwoJEIibDZ7lcQxfRu4XQ/0x0:5775x3248/432x243/filters:format(jpg)/2026/10/24/6adccc79c4b8f893310234.jpg",
@@ -212,22 +236,6 @@
    "pubdate": "2026-10-24T04:44:33.730157+00:00"
   },
   {
-   "title": "Emmanuel Macron a reconnu auprès des représentants lycéens le \"besoin d'une refonte en profondeur de Parcoursup\" Le chef de l'Etat s'est entretenu avec l'ensemble des représentants des lycéens vendredi à l'Elysée. Des organisations ont appelé à maintenir le \"bras de fer\" jusqu'à leur rencontre avec le Premier ministre lundi.",
-   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/emmanuel-macron-a-reconnu-aupres-des-representants-lyceens-le-besoin-d-une-refonte-en-profondeur-de-parcoursup_8251462.html",
-   "summary": "Emmanuel Macron a reconnu auprès des représentants lycéens le \"besoin d'une refonte en profondeur de Parcoursup\"",
-   "image": "https://www.franceinfo.fr/pictures/Cwsux6zMIkf1hoVkPuOjOUTooco/0x53:1024x629/432x243/filters:format(jpg)/2026/10/23/6adbbf462491c512176263.jpg",
-   "date": null,
-   "pubdate": "2026-10-23T21:28:54.910308+00:00"
-  },
-  {
-   "title": "Le Parti communiste français victime d'une cyberattaque Le PCF a été alertée d'une fuite de données touchant son fichier des adhérents et sympathisants. Le parti a porté plainte.",
-   "link": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/le-parti-communiste-francais-victime-d-une-cyberattaque_8251381.html",
-   "summary": "Le Parti communiste français victime d'une cyberattaque",
-   "image": "https://www.franceinfo.fr/pictures/pN-aSq2bh8OMLsdrE5pY5ntqvEI/0x118:2277x1399/432x243/filters:format(jpg)/2026/10/23/6adbb22010fd1126297347.jpg",
-   "date": null,
-   "pubdate": "2026-10-23T21:28:54.910308+00:00"
-  },
-  {
    "title": ": Enquête franceinfo 7:00 article 7 minutes : Enquête franceinfo \"On l'appelait 'Poutine Girl'\" : comment la France verrouille les demandes de visas diplomatiques russes pour limiter les risques d'espionnage",
    "link": "https://www.franceinfo.fr/monde/russie/enquete-franceinfo-on-l-appelait-poutine-girl-comment-la-france-verrouille-les-demandes-de-visas-diplomatiques-russes-pour-limiter-les-risques-d-espionnage_8204495.html",
    "summary": "\"On l'appelait 'Poutine Girl'\" : comment la France verrouille les demandes de visas diplomatiques russes pour limiter les risques d'espionnage",
@@ -266,14 +274,6 @@
    "image": "https://www.franceinfo.fr/pictures/1kseOvwW7MwmxadggOfEVgDEcqw/420x0:1500x1080/100x100/filters:format(jpg)/2026/10/20/6ad7920c35710085888515.png",
    "date": null,
    "pubdate": "2026-10-21T17:18:12.384018+00:00"
-  },
-  {
-   "title": "10:18 vidéo 10 minutes 18 \"Avant, on parlait de politique entre nous, on a arrêté\" : immersion dans un Brésil divisé, avant le second tour de la présidentielle",
-   "link": "https://www.franceinfo.fr/monde/bresil/avant-on-parlait-de-politique-entre-nous-on-a-arrete-immersion-dans-un-bresil-divise-avant-le-second-tour-de-la-presidentielle_8246164.html",
-   "summary": "\"Avant, on parlait de politique entre nous, on a arrêté\" : immersion dans un Brésil divisé, avant le second tour de la présidentielle",
-   "image": "https://www.franceinfo.fr/pictures/XnfXSwG80z-AYC_IuxuqVQmUuWE/313x0:996x683/100x100/filters:format(jpg)/2026/10/20/6ad7c7029af81010181670.jpg",
-   "date": null,
-   "pubdate": "2026-10-20T23:56:36.431002+00:00"
   }
  ]
 }
