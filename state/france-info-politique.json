@@ -1,8 +1,7 @@
 {
- "etag": "\"925202e0959123ec71767beac3b021d0-gzip\"",
+ "etag": "\"a8eafebae265fe258e6a56b2e95978b5-gzip\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/est-il-possible-d-interdire-un-parti-politique-comme-le-proposent-gerard-larcher-et-bruno-retailleau-pour-la-france-insoumise_8245717.html": "2026-10-21T17:18:12.384018+00:00",
   "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/bon-courage-a-ceux-qui-arrivent-l-election-presidentielle-permettra-t-elle-vraiment-de-sortir-de-la-crise-politique-et-sociale-qui-secoue-le-pays_8245624.html": "2026-10-22T04:57:42.457430+00:00",
   "https://www.franceinfo.fr/politique/affaire/financement-de-la-campagne-de-sarkozy/soupcons-de-financement-libyen-tout-comprendre-a-l-affaire/": "2026-10-22T04:57:42.457430+00:00",
   "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/tout-comprendre-au-proces-des-assistants-parlementaires-fn/": "2026-10-22T04:57:42.457430+00:00",
@@ -31,10 +30,19 @@
   "https://www.franceinfo.fr/monde/bresil/on-est-libre-entre-guillemets-le-bresil-un-pays-coupe-en-deux_8253502.html": "2026-10-25T20:56:06.910216+00:00",
   "https://www.franceinfo.fr/politique/marine-le-pen/reportage-on-a-gagne-la-bataille-des-idees-a-orleans-marine-le-pen-lance-sa-campagne-dans-une-ville-sous-haute-surveillance_8252908.html": "2026-10-25T20:56:06.910216+00:00",
   "https://www.franceinfo.fr/politique/front-national/congres-du-rn-marine-le-pen-promet-un-gouvernement-d-union-nationale-pluraliste-et-dirige-par-jordan-bardella_8253364.html": "2026-10-25T20:56:06.910216+00:00",
-  "https://www.franceinfo.fr/politique/front-national/congres-du-rn-a-orleans-le-discours-de-jordan-bardella-a-ete-interrompu-par-des-militants-de-l-union-des-etudiants-juifs-de-france_8253304.html": "2026-10-25T20:56:06.910216+00:00"
+  "https://www.franceinfo.fr/politique/front-national/congres-du-rn-a-orleans-le-discours-de-jordan-bardella-a-ete-interrompu-par-des-militants-de-l-union-des-etudiants-juifs-de-france_8253304.html": "2026-10-25T20:56:06.910216+00:00",
+  "https://www.franceinfo.fr/monde/bresil/avant-on-parlait-de-politique-entre-nous-on-a-arrete-immersion-dans-un-bresil-divise-avant-le-second-tour-de-la-presidentielle_8246164.html": "2026-10-25T23:19:12.954756+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "10:18 vidéo 10 minutes 18 \"Avant, on parlait de politique entre nous, on a arrêté\" : immersion dans un Brésil divisé, avant le second tour de la présidentielle",
+   "link": "https://www.franceinfo.fr/monde/bresil/avant-on-parlait-de-politique-entre-nous-on-a-arrete-immersion-dans-un-bresil-divise-avant-le-second-tour-de-la-presidentielle_8246164.html",
+   "summary": "\"Avant, on parlait de politique entre nous, on a arrêté\" : immersion dans un Brésil divisé, avant le second tour de la présidentielle",
+   "image": "https://www.franceinfo.fr/pictures/XnfXSwG80z-AYC_IuxuqVQmUuWE/313x0:996x683/100x100/filters:format(jpg)/2026/10/20/6ad7c7029af81010181670.jpg",
+   "date": null,
+   "pubdate": "2026-10-25T23:19:12.954756+00:00"
+  },
   {
    "title": "BFMTV dénonce \"une campagne de dénigrement\" après des accusations de LFI, qui reproche à la chaîne de propager des propos racistes \"Vous, BFM, commencez à vous calmer sur les remarques racistes de toute sorte, parce que ça commence à bien faire\", a déclaré Jean-Luc Mélenchon alors qu'il était interrogé par une journaliste de la chaîne, samedi. Aujourd'hui",
    "link": "https://www.franceinfo.fr/economie/medias/bfmtv-denonce-une-campagne-de-denigrement-apres-des-accusations-de-lfi-qui-reprochent-a-la-chaine-de-propager-des-propos-racistes_8253499.html",
@@ -266,14 +274,6 @@
    "image": "https://www.franceinfo.fr/pictures/iHJ4ZCCHTABB8-X6GO7CrL-9zcI/432x297/filters:format(jpg)/2026/01/28/marine-le-pen-a-son-proces-en-appel-697a50d594f91234092099.jpg",
    "date": null,
    "pubdate": "2026-10-22T04:57:42.457430+00:00"
-  },
-  {
-   "title": "5:00 article 5 minutes Cinq questions sur la possibilité d'interdire un parti politique, comme le proposent Gérard Larcher et Bruno Retailleau pour LFI",
-   "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/est-il-possible-d-interdire-un-parti-politique-comme-le-proposent-gerard-larcher-et-bruno-retailleau-pour-la-france-insoumise_8245717.html",
-   "summary": "Cinq questions sur la possibilité d'interdire un parti politique, comme le proposent Gérard Larcher et Bruno Retailleau pour LFI",
-   "image": "https://www.franceinfo.fr/pictures/1kseOvwW7MwmxadggOfEVgDEcqw/420x0:1500x1080/100x100/filters:format(jpg)/2026/10/20/6ad7920c35710085888515.png",
-   "date": null,
-   "pubdate": "2026-10-21T17:18:12.384018+00:00"
   }
  ]
 }

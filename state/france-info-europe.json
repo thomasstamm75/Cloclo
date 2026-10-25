@@ -1,5 +1,5 @@
 {
- "etag": "\"4f1d954c5d3e4c5d135ed8a36708d7f8-gzip\"",
+ "etag": "\"6924cca1a08239d13125fc429ba2cad3-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/monde/europe/allemagne/il-y-a-une-extrapolation-du-declin-economique-comment-l-extreme-droite-allemande-est-arrivee-aux-portes-du-pouvoir-en-saxe-anhalt_8175638.html": "2026-10-21T17:18:13.961052+00:00",
@@ -8,7 +8,6 @@
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/temoignages-simulacres-d-execution-tortures-physiques-un-ancien-prisonnier-ukrainien-en-russie-raconte-les-sevices-subis-apres-sa-capture-dans-le-donbass_8202320.html": "2026-10-22T04:57:43.672534+00:00",
   "https://www.franceinfo.fr/monde/europe/pierre-moscovici-demissionne-de-la-cour-des-comptes-europeenne-moins-d-un-an-apres-sa-nomination_8248972.html": "2026-10-22T12:00:42.677473+00:00",
   "https://www.franceinfo.fr/monde/grece/beaucoup-n-ont-plus-les-moyens-d-etudier-en-grece-les-jeunes-descendent-aussi-dans-la-rue-contre-la-vie-chere_8248579.html": "2026-10-22T12:00:42.677473+00:00",
-  "https://www.franceinfo.fr/monde/europe/union-europeenne/le-prix-sakharov-2026-du-parlement-europeen-est-attribue-a-la-cour-penale-internationale_8248783.html": "2026-10-22T12:00:42.677473+00:00",
   "https://www.franceinfo.fr/monde/europe/les-deputes-polonais-approuvent-la-depenalisation-partielle-de-l-avortement-actuellement-passible-de-trois-ans-de-prison_8249098.html": "2026-10-22T17:16:13.139057+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/vos-questions-sur-l-effort-de-guerre-de-la-france/": "2026-10-22T17:16:13.139057+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/vladimir-poutine-se-dit-pret-a-negocier-un-accord-final-avec-l-ukraine-pas-une-treve-courte_8249647.html": "2026-10-22T21:42:03.662500+00:00",
@@ -31,15 +30,24 @@
   "https://www.franceinfo.fr/monde/europe/les-bulgares-votent-dimanche-pour-la-presidentielle-entre-craintes-securitaires-et-divisions-sur-la-guerre-en-ukraine_8253046.html": "2026-10-25T16:30:21.749052+00:00",
   "https://www.franceinfo.fr/economie/greve/mobilisation-contre-la-vie-chere-la-colere-monte-dans-d-autres-pays-d-europe_8253511.html": "2026-10-25T20:56:08.265744+00:00",
   "https://www.franceinfo.fr/monde/europe/union-europeenne/en-bulgarie-la-presidente-sortante-partisane-du-dialogue-avec-moscou-arrive-legerement-en-tete-du-premier-tour_8253469.html": "2026-10-25T20:56:08.265744+00:00",
-  "https://www.franceinfo.fr/replay-radio/ces-chansons-qui-font-l-actu/bernard-lavilliers-chante-la-guerre-en-ukraine_8211611.html": "2026-10-25T20:56:08.265744+00:00"
+  "https://www.franceinfo.fr/replay-radio/ces-chansons-qui-font-l-actu/bernard-lavilliers-chante-la-guerre-en-ukraine_8211611.html": "2026-10-25T20:56:08.265744+00:00",
+  "https://www.franceinfo.fr/monde/europe/le-premier-ministre-serbe-aleksandar-vucic-reconnait-sa-defaite-aux-elections-legislatives-anticipees-apres-14-ans-au-pouvoir_8253550.html": "2026-10-25T23:19:14.363537+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "Mobilisation contre la vie chère : la colère monte dans d'autres pays d'Europe La France n'est pas le seul pays européen agité par une colère sociale. En Italie, mais aussi en Espagne ou au Portugal, des manifestations ont eu lieu contre le coût de la vie au cours des derniers jours. Plusieurs ont dégénéré en affrontements avec les forces de l'ordre. Aujourd'hui 1:47 vidéo 1 minute 47",
+   "title": "Le Premier ministre serbe Aleksandar Vucic reconnaît sa défaite aux élections législatives anticipées, après 14 ans au pouvoir Il s'incline face à la liste menée par le mouvement étudiant, qui organise des manifestations dans tout le pays depuis deux ans. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/europe/le-premier-ministre-serbe-aleksandar-vucic-reconnait-sa-defaite-aux-elections-legislatives-anticipees-apres-14-ans-au-pouvoir_8253550.html",
+   "summary": "Le Premier ministre serbe Aleksandar Vucic reconnaît sa défaite aux élections législatives anticipées, après 14 ans au pouvoir",
+   "image": "https://www.franceinfo.fr/pictures/3sxWe0zSZHOAf1VLz2jzcRAW594/69x0:4551x3081/432x297/filters:format(jpg)/2026/10/25/6ade6f5a4aaac194702305.jpg",
+   "date": null,
+   "pubdate": "2026-10-25T23:19:14.363537+00:00"
+  },
+  {
+   "title": "1:47 vidéo 1 minute 47 Mobilisation contre la vie chère : la colère monte dans d'autres pays d'Europe",
    "link": "https://www.franceinfo.fr/economie/greve/mobilisation-contre-la-vie-chere-la-colere-monte-dans-d-autres-pays-d-europe_8253511.html",
    "summary": "Mobilisation contre la vie chère : la colère monte dans d'autres pays d'Europe",
-   "image": "https://www.franceinfo.fr/pictures/XLjW48yKTQZHvf77xpQnD3-EzNI/6x0:1463x1002/432x297/filters:format(jpg)/2026/10/25/6ade5dff89546541462199.png",
+   "image": "https://www.franceinfo.fr/pictures/yY6vOfuoGZe55aWzawz4Nvg5FnE/0x87:1470x914/432x243/filters:format(jpg)/2026/10/25/6ade5dff89546541462199.png",
    "date": null,
    "pubdate": "2026-10-25T20:56:08.265744+00:00"
   },
@@ -108,9 +116,9 @@
    "pubdate": "2026-10-24T11:11:16.481912+00:00"
   },
   {
-   "title": "\"Une culture de la manifestation fortement pacifiée\" : en Allemagne, la police mise sur la communication et la désescalade",
+   "title": "\"Une culture de la manifestation fortement pacifiée\" : en Allemagne, la police mise sur la communication et la désescalade Alors que les violences en marge des manifestations font débat en France, un sociologue et un spécialiste de la police allemande expliquent les différences d’approche entre les deux pays.",
    "link": "https://www.franceinfo.fr/monde/europe/allemagne/une-culture-de-la-manifestation-fortement-pacifiee-en-allemagne-la-police-mise-sur-la-communication-et-la-desescalade_8251978.html",
-   "summary": "",
+   "summary": "\"Une culture de la manifestation fortement pacifiée\" : en Allemagne, la police mise sur la communication et la désescalade",
    "image": "https://www.franceinfo.fr/pictures/0lQwQn_0eAn-zjI8qavnIQ8BL5A/0x430:8256x5074/432x243/filters:format(jpg)/2026/10/24/6adc5c04280b9298155016.jpg",
    "date": null,
    "pubdate": "2026-10-24T11:11:16.481912+00:00"
@@ -232,14 +240,6 @@
    "link": "https://www.franceinfo.fr/monde/grece/beaucoup-n-ont-plus-les-moyens-d-etudier-en-grece-les-jeunes-descendent-aussi-dans-la-rue-contre-la-vie-chere_8248579.html",
    "summary": "\"Beaucoup n'ont plus les moyens d'étudier\" : en Grèce, les jeunes descendent aussi dans la rue contre la vie chère",
    "image": "https://www.franceinfo.fr/pictures/GN8i9GwVDPWLEshATvRxv3gLDkQ/0x311:6048x3713/432x243/filters:format(jpg)/2026/10/22/6ad9c329cf851784425523.jpg",
-   "date": null,
-   "pubdate": "2026-10-22T12:00:42.677473+00:00"
-  },
-  {
-   "title": "Le prix Sakharov 2026 du Parlement européen est attribué à la Cour pénale internationale La CPI est régulièrement attaquée par Donald Trump. Les Etats-Unis lui ont même imposé des sanctions début octobre.",
-   "link": "https://www.franceinfo.fr/monde/europe/union-europeenne/le-prix-sakharov-2026-du-parlement-europeen-est-attribue-a-la-cour-penale-internationale_8248783.html",
-   "summary": "Le prix Sakharov 2026 du Parlement européen est attribué à la Cour pénale internationale",
-   "image": "https://www.franceinfo.fr/pictures/wm2ZjI2BTlAhVNTs8Q3hSNBwQDA/0x0:4724x2657/432x243/filters:format(jpg)/2026/10/22/6ad9dd79dc1be526599318.jpg",
    "date": null,
    "pubdate": "2026-10-22T12:00:42.677473+00:00"
   },
