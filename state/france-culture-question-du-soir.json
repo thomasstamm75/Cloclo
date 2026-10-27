@@ -1,8 +1,7 @@
 {
- "etag": "\"k9wn3y\"",
+ "etag": "\"o4syqa\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/faut-il-detruire-les-data-centers-5516642": "2026-09-30T20:06:55.647904+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/javier-milei-a-paris-qu-est-ce-que-le-liberal-conservatisme-a-la-francaise-4074047": "2026-10-01T18:29:06.788878+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/la-dette-est-elle-un-outil-de-soumission-politique-5910973": "2026-10-02T11:00:00+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/mobilisations-lyceennes-a-qui-profite-le-chaos-3436710": "2026-10-05T22:05:02.273913+00:00",
@@ -20,10 +19,19 @@
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/le-dialogue-avec-la-jeunesse-est-il-rompu-1650906": "2026-10-21T17:18:27.511303+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/l-ukraine-peut-elle-combattre-sans-les-etats-unis-1368171": "2026-10-22T17:16:26.076810+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/peut-on-faire-une-genealogie-de-la-violence-5914534": "2026-10-17T11:00:00+00:00",
-  "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/a-quoi-reconnait-on-le-debut-d-une-guerre-civile-3831508": "2026-10-26T20:33:58.023244+00:00"
+  "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/a-quoi-reconnait-on-le-debut-d-une-guerre-civile-3831508": "2026-10-26T20:33:58.023244+00:00",
+  "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/reelection-de-lula-le-bresil-a-t-il-sauve-sa-democratie-8269925": "2026-10-27T22:20:50.125579+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "RÃ©Ã©lection de LulaÂ : le BrÃ©sil a-t-il sauvÃ© sa dÃ©mocratieÂ ?",
+   "link": "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/reelection-de-lula-le-bresil-a-t-il-sauve-sa-democratie-8269925",
+   "summary": "La rÃ©Ã©lection de Lula constitue un revers pour lâextrÃªme droite brÃ©silienne, mais le bolsonarisme reste puissant au CongrÃ¨s. Entre institutions dÃ©mocratiques rÃ©sistantes, mobilisation populaire et gauche fragilisÃ©e, quelles sont les forces et les limites du progressisme brÃ©silienÂ ?",
+   "image": "https://www.radiofrance.fr/pikapi/images/06db54d1-14d8-495b-87b3-2108ca2dabd6/2048",
+   "date": null,
+   "pubdate": "2026-10-27T22:20:50.125579+00:00"
+  },
   {
    "title": "Ã quoi reconnaÃ®t-on le dÃ©but d'une guerre civileÂ ?",
    "link": "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/a-quoi-reconnait-on-le-debut-d-une-guerre-civile-3831508",
@@ -167,14 +175,6 @@
    "image": "https://www.radiofrance.fr/pikapi/images/eb6beed5-9434-4a2d-ae07-2f30861eca07/2048",
    "date": "2026-10-01T11:00:00+00:00",
    "pubdate": "2026-10-01T11:00:00+00:00"
-  },
-  {
-   "title": "Faut-il construire ou dÃ©truire les data centersÂ ?",
-   "link": "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/faut-il-detruire-les-data-centers-5516642",
-   "summary": "Alors que les Ãtats-Unis voient Ã©merger une contestation nationale contre les data centers, la France accÃ©lÃ¨re leur dÃ©veloppement avec des investissements massifs. Entre souverainetÃ© numÃ©rique, consommation Ã©nergÃ©tique et climat, faut-il entendre lâalerte venue dâoutre-AtlantiqueÂ ?",
-   "image": "https://www.radiofrance.fr/pikapi/images/5ceaaca9-d03a-47f1-bc30-153cdd56668c/2048",
-   "date": null,
-   "pubdate": "2026-09-30T20:06:55.647904+00:00"
   }
  ]
 }
