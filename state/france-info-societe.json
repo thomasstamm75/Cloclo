@@ -1,162 +1,222 @@
 {
- "etag": "\"cb1867d3db114e86caf43e3ccd599298-gzip\"",
+ "etag": "\"00f489dbce7f56fe799de57be944d890-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/societe/nos-jours-heureux/": "2026-10-23T04:59:25.203971+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/si-on-arrete-maintenant-on-a-perdu-et-ils-ont-gagne-a-la-veille-d-une-nouvelle-journee-de-mobilisation-des-etudiants-plus-determines-que-jamais_8229265.html": "2026-10-23T11:46:24.983620+00:00",
   "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-existe-t-il-vraiment-des-policiers-casseurs-en-civil-et-infiltres-dans-les-manifestations-qui-commettent-des-degradations_8250637.html": "2026-10-24T11:11:08.227161+00:00",
-  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/une-premiere-reponse-a-une-de-nos-revendications-importantes-juge-le-syndicat-d-enseignants-se-unsa-apres-l-annonce-du-plafonnement-des-classes-de-seconde-a-28-eleves_8254780.html": "2026-10-26T20:33:41.804927+00:00",
-  "https://www.franceinfo.fr/replay-radio/les-informes-de-france-info/comment-desamorcer-et-mettre-fin-aux-mouvements-lyceens-les-informes-de-franceinfo-du-lundi-26-octobre-2026_8233168.html": "2026-10-26T11:00:00+00:00",
-  "https://www.franceinfo.fr/societe/manifestations/un-manifestant-gravement-blesse-au-tibia-par-une-grenade-a-reims-lors-de-la-mobilisation-du-24-octobre-une-enquete-confiee-a-l-igpn_8254723.html": "2026-10-26T20:33:41.804927+00:00",
   "https://www.franceinfo.fr/societe/euthanasie/comprendre-les-debats-sur-la-fin-de-vie/": "2026-10-26T20:33:41.804927+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/mobilisation-du-24-octobre-a-paris-des-habitants-divises-sur-la-necessite-de-poursuivre-les-manifestations-mais-des-etudiants-toujours-determines_8227672.html": "2026-10-26T20:33:41.804927+00:00",
   "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/bon-courage-a-ceux-qui-arrivent-l-election-presidentielle-permettra-t-elle-vraiment-de-sortir-de-la-crise-politique-et-sociale-qui-secoue-le-pays_8245624.html": "2026-10-26T20:33:41.804927+00:00",
-  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/le-syndicat-majoritaire-des-proviseurs-plaide-pour-le-retour-d-un-classement-des-v-ux-des-candidats-sur-parcoursup-comme-le-faisait-la-plateforme-apb_8254852.html": "2026-10-27T00:31:24.512193+00:00",
   "https://www.franceinfo.fr/une-information-transparente-franceinfo/transparence-pourquoi-la-chaine-franceinfo-du-canal-16-a-t-elle-diffuse-des-images-d-une-manifestation-en-albanie-a-la-place-de-la-manifestation-de-lyon_8254657.html": "2026-10-27T09:06:46.805034+00:00",
   "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/reforme-de-parcoursup-colere-sociale-liberation-de-la-parole-raciste-le-8h30-franceinfo-de-clemence-guette_8234659.html": "2026-10-27T09:06:46.805034+00:00",
-  "https://www.franceinfo.fr/politique/parcoursup-ma-responsabilite-premiere-c-est-que-tous-les-lyceens-trouvent-une-place-dans-le-superieur-l-an-prochain-declare-philippe-baptiste-ministre-de-l-enseignement-superieur_8255323.html": "2026-10-27T09:06:46.805034+00:00",
   "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-des-lyceens-les-syndicats-disent-voir-une-petite-breche-et-veulent-continuer-a-utiliser-ce-rapport-de-forces_8255338.html": "2026-10-27T09:06:46.805034+00:00",
   "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-lyceenne-il-faut-arreter-de-se-moquer-de-la-jeunesse-il-n-y-a-rien-dans-les-annonces-du-gouvernement-reagit-clemence-guette-lfi_8255329.html": "2026-10-27T09:06:46.805034+00:00",
   "https://www.franceinfo.fr/societe/education/blocage-des-lycees/parcoursup-a-ete-un-progres-enorme-sous-le-feu-des-critiques-l-ancien-ministre-de-l-education-nationale-jean-michel-blanquer-defend-son-bilan_8255266.html": "2026-10-27T09:06:46.805034+00:00",
   "https://www.franceinfo.fr/replay-radio/le-monde-et-vous/au-danemark-les-enseignants-pourraient-bientot-utiliser-la-force-physique-pour-retablir-l-ordre-en-classe_8234644.html": "2026-10-27T09:06:46.805034+00:00",
-  "https://www.franceinfo.fr/replay-radio/ca-dit-quoi/podcast-parcoursup-va-disparaitre-les-nouvelles-voix-de-dragon-ball-et-mbappe-sans-ballon-ca-dit-quoi-ce-27-octobre_8246254.html": "2026-10-27T09:06:46.805034+00:00",
-  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/refonte-de-parcoursup-la-vice-presidente-de-france-universites-salue-une-bonne-nouvelle-et-appelle-a-prendre-le-temps-necessaire-pour-creer-une-nouvelle-plateforme_8255287.html": "2026-10-27T09:06:46.805034+00:00",
-  "https://www.franceinfo.fr/economie/medias/europe-1-mise-en-demeure-pour-incitation-a-la-haine-apres-les-propos-xenophobes-et-discriminatoires-de-sa-presentatrice-christine-kelly_8255173.html": "2026-10-27T09:06:46.805034+00:00",
-  "https://www.franceinfo.fr/replay-radio/l-il-de-constance/sur-tiktok-on-essaie-d-apprendre-a-s-ennuyer-pour-retrouver-des-capacites-de-concentration_8234656.html": "2026-10-27T09:06:46.805034+00:00",
-  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-des-lyceens-les-annonces-du-gouvernement-ne-desamorcent-pas-les-appels-a-la-mobilisation_8255224.html": "2026-10-27T09:06:46.805034+00:00",
-  "https://www.franceinfo.fr/politique/front-national/info-radio-france-le-depute-rn-jose-beaurain-vise-par-une-enquete-pour-detournement-de-fonds-publics_8254816.html": "2026-10-27T09:06:46.805034+00:00",
-  "https://www.franceinfo.fr/societe/trappes/trappes-le-suspect-kevin-t-conteste-le-caractere-rac-ste-de-ses-crimes_8254759.html": "2026-10-27T09:06:46.805034+00:00",
-  "https://www.franceinfo.fr/replay-magazine/franceinfo/avant-le-20h/colere-lyceenne-on-a-un-gouvernement-qui-a-cede-a-une-minorite-agissante-regrette-aleksandar-nikolic-porte-parole-de-la-campagne-de-marine-le-pen_8254726.html": "2026-10-27T09:06:46.805034+00:00"
+  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/ce-qui-va-changer-pour-les-lyceens-apres-l-annonce-du-remplacement-de-parcoursup_8255467.html": "2026-10-27T15:24:26.358770+00:00",
+  "https://www.franceinfo.fr/politique/parlement-francais/assemblee-nationale/video-attentat-raciste-dans-les-yvelines-mobilisation-lyceenne-suivez-la-seance-des-questions-au-gouvernement-a-l-assemblee-nationale-a-partir-de-15-heures_8255923.html": "2026-10-27T15:24:26.358770+00:00",
+  "https://www.franceinfo.fr/societe/loi-anti-casseurs/loi-casseurs-payeurs-amnesty-international-denonce-un-texte-extremement-liberticide-qui-fait-payer-des-manifestants-non-responsables_8255881.html": "2026-10-27T15:24:26.358770+00:00",
+  "https://www.franceinfo.fr/replay-radio/le-tour-de-la-question/jean-moulin-freddy-mercury-les-s-urs-williams-pourquoi-y-a-t-il-autant-de-biopics-au-cinema_8255194.html": "2026-10-27T15:24:26.358770+00:00",
+  "https://www.franceinfo.fr/societe/education/parcoursup/parcoursup/parcoursup-lettre-de-motivation-anonymisation-refus-ce-qui-pourrait-changer_8255875.html": "2026-10-27T15:24:26.358770+00:00",
+  "https://www.franceinfo.fr/societe/loi-anti-casseurs/casseurs-payeurs-jusqu-ou-peut-on-faire-payer-les-responsables-de-degradations_8255863.html": "2026-10-27T15:24:26.358770+00:00",
+  "https://www.franceinfo.fr/l-actu-pour-les-jeunes/comment-ces-etudiants-ont-gagne-les-elections_8255866.html": "2026-10-27T15:24:26.358770+00:00",
+  "https://www.franceinfo.fr/economie/budget/radars-urbains-le-gouvernement-prevoit-d-en-deployer-750-d-ici-2027_8255854.html": "2026-10-27T15:24:26.358770+00:00",
+  "https://www.franceinfo.fr/societe/manifestations/manifestation-du-31-octobre-les-gilets-jaunes-deposent-un-parcours-passant-dans-le-centre-de-paris-et-menacent-de-porter-plainte-en-cas-de-refus_8255671.html": "2026-10-27T15:24:26.358770+00:00",
+  "https://www.franceinfo.fr/replay-radio/les-informes-du-matin/les-informes-du-matin-du-mardi-27-octobre-2026_8234686.html": "2026-10-27T11:00:00+00:00",
+  "https://www.franceinfo.fr/societe/harcelement-sexuel/quatre-eleves-de-ce2-sur-dix-declarent-avoir-subi-des-violences-sexuelles-a-l-ecole-selon-une-enquete-de-l-education-nationale_8255653.html": "2026-10-27T15:24:26.358770+00:00",
+  "https://www.franceinfo.fr/internet/reseaux-sociaux/loi-casseurs-payeurs-le-gouvernement-depose-un-amendement-inattendu-pour-restreindre-l-usage-des-reseaux-sociaux_8255635.html": "2026-10-27T15:24:26.358770+00:00",
+  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/il-faut-mieux-remunerer-le-personnel-plutot-que-de-creer-500-postes-pointe-la-secretaire-nationale-du-snes-fsu-pour-la-categorie-des-psychologues_8255611.html": "2026-10-27T15:24:26.358770+00:00",
+  "https://www.franceinfo.fr/economie/menages/situation-financiere-inquietante-hausse-des-prix-inquietudes-liees-au-chomage-et-a-l-inflation-la-confiance-des-menages-en-octobre-au-plus-bas-depuis-juin-2013-selon-l-insee_8255350.html": "2026-10-27T15:24:26.358770+00:00",
+  "https://www.franceinfo.fr/societe/harcelement-sexuel/apres-le-rejet-des-senateurs-aurore-berge-souhaite-retablir-l-imprescriptibilite-des-crimes-sur-mineurs-dans-le-projet-de-loi-sur-la-protection-des-enfants_8255497.html": "2026-10-27T15:24:26.358770+00:00",
+  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/reportage-c-est-hyper-important-d-avoir-des-reponses-les-lyceens-mitiges-apres-les-annonces-du-gouvernement-pour-sortir-de-la-crise_8255248.html": "2026-10-27T15:24:26.358770+00:00",
+  "https://www.franceinfo.fr/societe/trappes/une-minute-de-silence-sera-observee-mardi-a-l-assemblee-nationale-en-hommages-pengo-bossio-wangi-mort-dans-l-attentat-de-trappes_8255494.html": "2026-10-27T15:24:26.358770+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": ": Transparence Pourquoi la chaîne franceinfo (canal 16) a-t-elle diffusé des images d'une manifestation en Albanie à la place de la manifestation de Lyon ? La chaîne d'information en continu du service public a rendu compte dans l'après-midi du 24 octobre de la dispersion d'une manifestation à Lyon. Mais elle a diffusé comme illustration des images d'une dispersion à Tirana (Albanie). Comment une telle erreur a-t-elle pu se produire ? Le médiateur a demandé des explications à la chaîne. Aujourd'hui : Transparence",
-   "link": "https://www.franceinfo.fr/une-information-transparente-franceinfo/transparence-pourquoi-la-chaine-franceinfo-du-canal-16-a-t-elle-diffuse-des-images-d-une-manifestation-en-albanie-a-la-place-de-la-manifestation-de-lyon_8254657.html",
-   "summary": "Pourquoi la chaîne franceinfo (canal 16) a-t-elle diffusé des images d'une manifestation en Albanie à la place de la manifestation de Lyon ?",
-   "image": "https://www.franceinfo.fr/pictures/aO175hGb7GWU3W9gAYrh5iKwOuo/97x0:1004x624/432x297/filters:format(jpg)/2026/10/27/6ae05d1b6ae61201228326.png",
+   "title": "Ce qui va changer pour les lycéens après l'annonce du \"remplacement\" de Parcoursup Depuis plusieurs semaines, les lycéens réclament l'abandon de la plateforme d'admission post-bac. Le gouvernement leur a répondu, en promettant des changements dès 2027. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/ce-qui-va-changer-pour-les-lyceens-apres-l-annonce-du-remplacement-de-parcoursup_8255467.html",
+   "summary": "Ce qui va changer pour les lycéens après l'annonce du \"remplacement\" de Parcoursup",
+   "image": "https://www.franceinfo.fr/pictures/0trMSmsYo6q0gP2li-yB70IF-Ck/0x0:3435x2362/432x297/filters:format(jpg)/2026/10/27/6ae083f799a46091056072.jpg",
    "date": null,
-   "pubdate": "2026-10-27T09:06:46.805034+00:00"
+   "pubdate": "2026-10-27T15:24:26.358770+00:00"
   },
   {
-   "title": "24:57 audio 24 minutes 57 Réforme de Parcoursup, colère sociale, libération de la parole raciste... Le \"8h30 franceinfo\" de Clémence Guetté",
+   "title": "• Direct 30:00 vidéo 30 minutes • Direct Attentat raciste dans les Yvelines, mobilisation lycéenne... Suivez la séance des Questions au gouvernement à l'Assemblée nationale à partir de 15 heures",
+   "link": "https://www.franceinfo.fr/politique/parlement-francais/assemblee-nationale/video-attentat-raciste-dans-les-yvelines-mobilisation-lyceenne-suivez-la-seance-des-questions-au-gouvernement-a-l-assemblee-nationale-a-partir-de-15-heures_8255923.html",
+   "summary": "Attentat raciste dans les Yvelines, mobilisation lycéenne... Suivez la séance des Questions au gouvernement à l'Assemblée nationale à partir de 15 heures",
+   "image": "https://www.franceinfo.fr/pictures/UFiDmmXdzP2hSenD-K4mIuAi-Qg/0x106:1024x682/432x243/filters:format(jpg)/2026/10/27/6ae0aa3bc5e59962292891.jpg",
+   "date": null,
+   "pubdate": "2026-10-27T15:24:26.358770+00:00"
+  },
+  {
+   "title": "Loi \"casseurs-payeurs\" : Amnesty International dénonce un texte \"extrêmement liberticide\" qui fait payer des \"manifestants non-responsables\"",
+   "link": "https://www.franceinfo.fr/societe/loi-anti-casseurs/loi-casseurs-payeurs-amnesty-international-denonce-un-texte-extremement-liberticide-qui-fait-payer-des-manifestants-non-responsables_8255881.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/G-GbPlIId291eSVm36p-afzV03c/0x53:1024x629/432x243/filters:format(jpg)/2024/01/18/080-hl-xbouzas-1612072-65a9548927fb7864123929.jpg",
+   "date": null,
+   "pubdate": "2026-10-27T15:24:26.358770+00:00"
+  },
+  {
+   "title": "4:42 audio 4 minutes 42 Jean Moulin, Freddy Mercury, les sœurs Williams… Pourquoi y a-t-il autant de biopics au cinéma ?",
+   "link": "https://www.franceinfo.fr/replay-radio/le-tour-de-la-question/jean-moulin-freddy-mercury-les-s-urs-williams-pourquoi-y-a-t-il-autant-de-biopics-au-cinema_8255194.html",
+   "summary": "Jean Moulin, Freddy Mercury, les sœurs Williams… Pourquoi y a-t-il autant de biopics au cinéma ?",
+   "image": "https://www.franceinfo.fr/pictures/WLJC6Q7wVxgqRIP32CSJiSL-YB4/0x0:6000x3375/432x243/filters:format(jpg)/2026/10/27/6ae0a0214d02d738163131.jpg",
+   "date": null,
+   "pubdate": "2026-10-27T15:24:26.358770+00:00"
+  },
+  {
+   "title": "1:51 vidéo 1 minute 51 Parcoursup : lettre de motivation, anonymisation, refus… ce qui pourrait changer",
+   "link": "https://www.franceinfo.fr/societe/education/parcoursup/parcoursup/parcoursup-lettre-de-motivation-anonymisation-refus-ce-qui-pourrait-changer_8255875.html",
+   "summary": "Parcoursup : lettre de motivation, anonymisation, refus… ce qui pourrait changer",
+   "image": "https://www.franceinfo.fr/pictures/jxzdL-EPKKKwlOXIR5OKRHyZaTs/22x0:1460x809/432x243/filters:format(jpg)/2026/10/27/6ae09c675e08d225976176.png",
+   "date": null,
+   "pubdate": "2026-10-27T15:24:26.358770+00:00"
+  },
+  {
+   "title": "2:11 vidéo 2 minutes 11 Casseurs-payeurs : jusqu'où peut-on faire payer les responsables de dégradations ?",
+   "link": "https://www.franceinfo.fr/societe/loi-anti-casseurs/casseurs-payeurs-jusqu-ou-peut-on-faire-payer-les-responsables-de-degradations_8255863.html",
+   "summary": "Casseurs-payeurs : jusqu'où peut-on faire payer les responsables de dégradations ?",
+   "image": "https://www.franceinfo.fr/pictures/qf4LwrtcBWDmIolbwtald3KC05Y/22x0:1460x809/432x243/filters:format(jpg)/2026/10/27/6ae09977f342e871395259.png",
+   "date": null,
+   "pubdate": "2026-10-27T15:24:26.358770+00:00"
+  },
+  {
+   "title": "1:17 vidéo 1 minute 17 Comment ces étudiants ont gagné les élections",
+   "link": "https://www.franceinfo.fr/l-actu-pour-les-jeunes/comment-ces-etudiants-ont-gagne-les-elections_8255866.html",
+   "summary": "Comment ces étudiants ont gagné les élections",
+   "image": "https://www.franceinfo.fr/pictures/pmLHXSflTW0L-STcgoijA5mOAFw/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/27/6ae098edc7841896016600.jpg",
+   "date": null,
+   "pubdate": "2026-10-27T15:24:26.358770+00:00"
+  },
+  {
+   "title": "1:28 vidéo 1 minute 28 Radars urbains : le gouvernement prévoit d'en déployer 750 d'ici 2027",
+   "link": "https://www.franceinfo.fr/economie/budget/radars-urbains-le-gouvernement-prevoit-d-en-deployer-750-d-ici-2027_8255854.html",
+   "summary": "Radars urbains : le gouvernement prévoit d'en déployer 750 d'ici 2027",
+   "image": "https://www.franceinfo.fr/pictures/A1Nfq7CcJ1V8kqMEtV2QvKKpkcA/0x1:1213x684/432x243/filters:format(jpg)/2026/10/27/6ae0971f332f7473211803.png",
+   "date": null,
+   "pubdate": "2026-10-27T15:24:26.358770+00:00"
+  },
+  {
+   "title": "Manifestation du 31 octobre : les gilets jaunes déposent un parcours passant dans le centre de Paris et menacent de porter plainte en cas de refus",
+   "link": "https://www.franceinfo.fr/societe/manifestations/manifestation-du-31-octobre-les-gilets-jaunes-deposent-un-parcours-passant-dans-le-centre-de-paris-et-menacent-de-porter-plainte-en-cas-de-refus_8255671.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/KzJWKwBRPAI5WvEkZUCyvhD436M/0x53:1024x629/432x243/filters:format(jpg)/2026/10/24/6adcf38483a75444655119.jpg",
+   "date": null,
+   "pubdate": "2026-10-27T15:24:26.358770+00:00"
+  },
+  {
+   "title": "Quatre élèves de CE2 sur dix déclarent avoir subi des violences sexuelles à l'école, selon une enquête de l'Education nationale Deux élèves sur 10 (22%) affirment que quelqu'un a essayé de les embrasser, de les toucher ou de les caresser sans leur accord dans leur établissement, rapporte cette enquête, qui ne précise pas l'âge des auteurs des faits.",
+   "link": "https://www.franceinfo.fr/societe/harcelement-sexuel/quatre-eleves-de-ce2-sur-dix-declarent-avoir-subi-des-violences-sexuelles-a-l-ecole-selon-une-enquete-de-l-education-nationale_8255653.html",
+   "summary": "Quatre élèves de CE2 sur dix déclarent avoir subi des violences sexuelles à l'école, selon une enquête de l'Education nationale",
+   "image": "https://www.franceinfo.fr/pictures/uluYTEqrR4xCMMZihmT8VYTgems/0x53:1024x629/432x243/filters:format(jpg)/2026/10/27/6ae088bbae038850099103.jpg",
+   "date": null,
+   "pubdate": "2026-10-27T15:24:26.358770+00:00"
+  },
+  {
+   "title": "Loi \"casseurs-payeurs\" : le gouvernement dépose un amendement inattendu pour restreindre l'usage des réseaux sociaux Selon le texte, consulté par France Inter, le gouvernement souhaite empêcher ces plateformes de servir à organiser des violences ou des dégradations.",
+   "link": "https://www.franceinfo.fr/internet/reseaux-sociaux/loi-casseurs-payeurs-le-gouvernement-depose-un-amendement-inattendu-pour-restreindre-l-usage-des-reseaux-sociaux_8255635.html",
+   "summary": "Loi \"casseurs-payeurs\" : le gouvernement dépose un amendement inattendu pour restreindre l'usage des réseaux sociaux",
+   "image": "https://www.franceinfo.fr/pictures/WGHPoO89YEye3hjsFcWVDzdY3lY/0x0:4096x2304/432x243/filters:format(jpg)/2026/10/27/6ae08806a2ea6179544769.jpg",
+   "date": null,
+   "pubdate": "2026-10-27T15:24:26.358770+00:00"
+  },
+  {
+   "title": "\"Il faut mieux rémunérer le personnel\" plutôt que de créer \"500 postes\", pointe la secrétaire nationale du Snes-FSU pour la catégorie des psychologues Invitée sur franceinfo, au lendemain des annonces du gouvernement pour sortir de la crise, Géraldine Duriez estime que \"Cela ne va pas combler les 1 000 postes vacants de l'Éducation nationale dans le soin\".",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/il-faut-mieux-remunerer-le-personnel-plutot-que-de-creer-500-postes-pointe-la-secretaire-nationale-du-snes-fsu-pour-la-categorie-des-psychologues_8255611.html",
+   "summary": "\"Il faut mieux rémunérer le personnel\" plutôt que de créer \"500 postes\", pointe la secrétaire nationale du Snes-FSU pour la catégorie des psychologues",
+   "image": "https://www.franceinfo.fr/pictures/SSuDLMl3PXfR9PA5lv1-Ob_ZEIc/0x0:1024x575/432x243/filters:format(jpg)/2025/02/25/000-1654or-67bd9aea9a237291980895.jpg",
+   "date": null,
+   "pubdate": "2026-10-27T15:24:26.358770+00:00"
+  },
+  {
+   "title": "Hausse des prix, inquiétudes liées au chômage et à l'inflation… La confiance des ménages mesurée en octobre est au plus bas depuis juin 2013, annonce l'Insee Le climat de l'épargne reste pour sa part relativement favorable, même s'il continue de se dégrader.",
+   "link": "https://www.franceinfo.fr/economie/menages/situation-financiere-inquietante-hausse-des-prix-inquietudes-liees-au-chomage-et-a-l-inflation-la-confiance-des-menages-en-octobre-au-plus-bas-depuis-juin-2013-selon-l-insee_8255350.html",
+   "summary": "Hausse des prix, inquiétudes liées au chômage et à l'inflation… La confiance des ménages mesurée en octobre est au plus bas depuis juin 2013, annonce l'Insee",
+   "image": "https://www.franceinfo.fr/pictures/2MK9mpL0rTKVq_MommlMeTgEL2U/0x286:5500x3380/432x243/filters:format(jpg)/2026/10/27/6ae081879c2aa130814453.jpg",
+   "date": null,
+   "pubdate": "2026-10-27T15:24:26.358770+00:00"
+  },
+  {
+   "title": "Après le rejet des sénateurs, Aurore Bergé souhaite rétablir l'imprescriptibilité des crimes sur mineurs dans le projet de loi sur la protection des enfants Cette mesure, votée cet été à l'Assemblée nationale, avait été rejetée en commission par les sénateurs. A ce jour, seuls les crimes contre l'humanité sont imprescriptibles.",
+   "link": "https://www.franceinfo.fr/societe/harcelement-sexuel/apres-le-rejet-des-senateurs-aurore-berge-souhaite-retablir-l-imprescriptibilite-des-crimes-sur-mineurs-dans-le-projet-de-loi-sur-la-protection-des-enfants_8255497.html",
+   "summary": "Après le rejet des sénateurs, Aurore Bergé souhaite rétablir l'imprescriptibilité des crimes sur mineurs dans le projet de loi sur la protection des enfants",
+   "image": "https://www.franceinfo.fr/pictures/jNPmyDMhiquaelmjySBDO56Rk3Y/0x0:8256x4644/432x243/filters:format(jpg)/2026/10/27/6ae080561adb3589287733.jpg",
+   "date": null,
+   "pubdate": "2026-10-27T15:24:26.358770+00:00"
+  },
+  {
+   "title": ": Reportage \"C'est hyper important d'avoir des réponses\" : les lycéens mitigés après les annonces du gouvernement pour sortir de la crise L'exécutif a dévoilé, lundi, huit mesures pour répondre à la colère des lycéens. Si ces annonces constituent un premier pas pour les jeunes interrogés, elles restent insuffisantes. Ils appellent à poursuivre la mobilisation.",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/reportage-c-est-hyper-important-d-avoir-des-reponses-les-lyceens-mitiges-apres-les-annonces-du-gouvernement-pour-sortir-de-la-crise_8255248.html",
+   "summary": "\"C'est hyper important d'avoir des réponses\" : les lycéens mitigés après les annonces du gouvernement pour sortir de la crise",
+   "image": "https://www.franceinfo.fr/pictures/rNg3WV7ZBtftfLaittXgquh0sjk/0x420:8077x4964/432x243/filters:format(jpg)/2026/10/27/6ae04dacc0b1a132602632.jpg",
+   "date": null,
+   "pubdate": "2026-10-27T15:24:26.358770+00:00"
+  },
+  {
+   "title": "Une minute de silence sera observée mardi à l'Assemblée nationale en hommage à Pengo Bossio Wangi, mort dans l'attentat de Trappes Cette minute de silence était réclamée depuis plusieurs jours, entre autres, par une centaine de personnalités publiques ayant signé une tribune publiée sur le site de \"Politis\" dénonçant le racisme et dénonçant la responsabilité des médias dans cet attentat.",
+   "link": "https://www.franceinfo.fr/societe/trappes/une-minute-de-silence-sera-observee-mardi-a-l-assemblee-nationale-en-hommages-pengo-bossio-wangi-mort-dans-l-attentat-de-trappes_8255494.html",
+   "summary": "Une minute de silence sera observée mardi à l'Assemblée nationale en hommage à Pengo Bossio Wangi, mort dans l'attentat de Trappes",
+   "image": "https://www.franceinfo.fr/pictures/20tv5_9f10hPWSDULA0O3ITNee4/0x495:9504x5841/432x243/filters:format(jpg)/2026/10/27/6ae073fa63450656215978.jpg",
+   "date": null,
+   "pubdate": "2026-10-27T15:24:26.358770+00:00"
+  },
+  {
+   "title": "20:46 audio 20 minutes 46 Les informés du matin du mardi 27 octobre 2026",
+   "link": "https://www.franceinfo.fr/replay-radio/les-informes-du-matin/les-informes-du-matin-du-mardi-27-octobre-2026_8234686.html",
+   "summary": "Les informés du matin du mardi 27 octobre 2026",
+   "image": "https://www.franceinfo.fr/pictures/TKWb09bmk3TJazMzKgqtt36pV4Q/0x292:5616x3451/432x243/filters:format(jpg)/2026/07/08/6a4e52a5b634b233317025.jpg",
+   "date": "2026-10-27T11:00:00+00:00",
+   "pubdate": "2026-10-27T11:00:00+00:00"
+  },
+  {
+   "title": "24:57 audio 24 minutes 57 Réforme de Parcoursup, colère sociale, libération de la parole raciste... Le \"8h30 franceinfo\" de Clémence Guetté Clémence Guetté, députée LFI du Val-de-Marne, vice-présidente de l'Assemblée nationale, est l'invitée du \"8h30 franceinfo\" le 27 octobre 2026.",
    "link": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/reforme-de-parcoursup-colere-sociale-liberation-de-la-parole-raciste-le-8h30-franceinfo-de-clemence-guette_8234659.html",
    "summary": "Réforme de Parcoursup, colère sociale, libération de la parole raciste... Le \"8h30 franceinfo\" de Clémence Guetté",
    "image": "https://www.franceinfo.fr/pictures/kQXjHHl6ujyWk1fz3r6_fiIkFhY/224x0:1231x566/432x243/filters:format(jpg)/2026/10/27/6ae05a1c33f80989329517.jpg",
+   "date": "2026-10-27T11:00:00+00:00",
+   "pubdate": "2026-10-27T11:00:00+00:00"
+  },
+  {
+   "title": ": Transparence Pourquoi la chaîne franceinfo (canal 16) a-t-elle diffusé des images d'une manifestation en Albanie à la place de la manifestation de Lyon ? La chaîne d'information en continu du service public a rendu compte dans l'après-midi du 24 octobre de la dispersion d'une manifestation à Lyon. Mais elle a diffusé comme illustration des images d'une dispersion à Tirana (Albanie). Comment une telle erreur a-t-elle pu se produire ? Le médiateur a demandé des explications à la chaîne.",
+   "link": "https://www.franceinfo.fr/une-information-transparente-franceinfo/transparence-pourquoi-la-chaine-franceinfo-du-canal-16-a-t-elle-diffuse-des-images-d-une-manifestation-en-albanie-a-la-place-de-la-manifestation-de-lyon_8254657.html",
+   "summary": "Pourquoi la chaîne franceinfo (canal 16) a-t-elle diffusé des images d'une manifestation en Albanie à la place de la manifestation de Lyon ?",
+   "image": "https://www.franceinfo.fr/pictures/AhKlV51yGSEY1K3jZ2rG8chvDXA/0x2:1102x621/432x243/filters:format(jpg)/2026/10/27/6ae05d1b6ae61201228326.png",
    "date": null,
    "pubdate": "2026-10-27T09:06:46.805034+00:00"
   },
   {
-   "title": "7:51 vidéo 7 minutes 51 Parcoursup : \"Ma responsabilité première, c'est que tous les lycéens trouvent une place dans le supérieur l'an prochain\", déclare Philippe Baptiste, ministre de l'Enseignement supérieur.",
-   "link": "https://www.franceinfo.fr/politique/parcoursup-ma-responsabilite-premiere-c-est-que-tous-les-lyceens-trouvent-une-place-dans-le-superieur-l-an-prochain-declare-philippe-baptiste-ministre-de-l-enseignement-superieur_8255323.html",
-   "summary": "Parcoursup : \"Ma responsabilité première, c'est que tous les lycéens trouvent une place dans le supérieur l'an prochain\", déclare Philippe Baptiste, ministre de l'Enseignement supérieur.",
-   "image": "https://www.franceinfo.fr/pictures/-y8jeYID0IQQRqiFsVXuBggbas8/0x30:1248x732/432x243/filters:format(jpg)/2026/10/27/6ae05b2c9335d338805110.png",
-   "date": null,
-   "pubdate": "2026-10-27T09:06:46.805034+00:00"
-  },
-  {
-   "title": "Mobilisation des lycéens : les syndicats disent voir \"une petite brèche\" et veulent \"continuer à utiliser ce rapport de forces\"",
+   "title": "Mobilisation des lycéens : les syndicats disent voir \"une petite brèche\" et veulent \"continuer à utiliser ce rapport de forces\" Les syndicats Les Lycéens! et la Fage saluent sur France Inter un \"premier pas\" du gouvernement pour répondre à la colère des étudiants et lycéens mais estiment les mesures annoncées insuffisantes.",
    "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-des-lyceens-les-syndicats-disent-voir-une-petite-breche-et-veulent-continuer-a-utiliser-ce-rapport-de-forces_8255338.html",
-   "summary": "",
+   "summary": "Mobilisation des lycéens : les syndicats disent voir \"une petite brèche\" et veulent \"continuer à utiliser ce rapport de forces\"",
    "image": "https://www.franceinfo.fr/pictures/r8hihWFakxHU0S3Hx1ZT0DBFglo/0x373:7170x4406/432x243/filters:format(jpg)/2026/10/27/6ae05dca030f4152850142.jpg",
    "date": null,
    "pubdate": "2026-10-27T09:06:46.805034+00:00"
   },
   {
-   "title": "Mobilisation lycéenne : \"Il faut arrêter de se moquer\" de la jeunesse, \"il n'y a rien dans les annonces du gouvernement\", réagit Clémence Guetté (LFI)",
+   "title": "\"Il faut arrêter de se moquer\" de la jeunesse, dénonce Clémence Guetté, vice-présidente LFI de l'Assemblée nationale Pour la députée La France insoumise du Val-de-Marne, les annonces du gouvernement pour répondre à la colère lycéenne ne sont pas à la hauteur des enjeux : \"Il n'y a rien dans les annonces du gouvernement\".",
    "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-lyceenne-il-faut-arreter-de-se-moquer-de-la-jeunesse-il-n-y-a-rien-dans-les-annonces-du-gouvernement-reagit-clemence-guette-lfi_8255329.html",
-   "summary": "",
+   "summary": "\"Il faut arrêter de se moquer\" de la jeunesse, dénonce Clémence Guetté, vice-présidente LFI de l'Assemblée nationale",
    "image": "https://www.franceinfo.fr/pictures/aYXYa81CnVRDdmdJAIjgwsjzTdM/0x33:1278x751/432x243/filters:format(jpg)/2026/10/27/6ae059cb85efd035792447.jpg",
    "date": null,
    "pubdate": "2026-10-27T09:06:46.805034+00:00"
   },
   {
-   "title": "\"Parcoursup a été un progrès énorme\" : sous le feu des critiques, Jean-Michel Blanquer, défend son bilan",
+   "title": "\"Parcoursup a été un progrès énorme\" : sous le feu des critiques, Jean-Michel Blanquer, défend son bilan L'ancien ministre de l'Éducation nationale, Jean-Michel Blanquer continue de défendre, sur franceinfo mardi, la plateforme d'admission dans l'enseignement supérieur qu'il a fondé.",
    "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/parcoursup-a-ete-un-progres-enorme-sous-le-feu-des-critiques-l-ancien-ministre-de-l-education-nationale-jean-michel-blanquer-defend-son-bilan_8255266.html",
-   "summary": "",
+   "summary": "\"Parcoursup a été un progrès énorme\" : sous le feu des critiques, Jean-Michel Blanquer, défend son bilan",
    "image": "https://www.franceinfo.fr/pictures/Olc1Yd952KzOm6rVLjGrICAJ9y0/0x160:4707x2806/432x243/filters:format(jpg)/2023/12/22/075-pelletier-notitle220323-npsr8-658608a7a9bab734196183.jpg",
    "date": null,
    "pubdate": "2026-10-27T09:06:46.805034+00:00"
   },
   {
-   "title": "2:13 audio 2 minutes 13 Au Danemark, les enseignants pourraient bientôt utiliser la force physique pour rétablir l'ordre en classe",
+   "title": "2:13 audio 2 minutes 13 Au Danemark, les enseignants pourraient bientôt utiliser la force physique pour rétablir l'ordre en classe Dans ce pays réputé pour son \"éducation positive\", un projet de loi prévoit d'autoriser les professeurs à saisir ou à faire sortir de classe certains élèves perturbateurs. Une réforme portée par un gouvernement dirigé par les sociaux-démocrates, qui suscite de vives inquiétudes chez les défenseurs des droits de l'enfant.",
    "link": "https://www.franceinfo.fr/replay-radio/le-monde-et-vous/au-danemark-les-enseignants-pourraient-bientot-utiliser-la-force-physique-pour-retablir-l-ordre-en-classe_8234644.html",
    "summary": "Au Danemark, les enseignants pourraient bientôt utiliser la force physique pour rétablir l'ordre en classe",
    "image": "https://www.franceinfo.fr/pictures/FX3c-ZthDeHyfA1O3RabI1Krek8/432x243/filters:format(jpg)/2026/09/21/6ab1616c3673c488388496.jpg",
    "date": null,
    "pubdate": "2026-10-27T09:06:46.805034+00:00"
-  },
-  {
-   "title": ": Podcast 6:34 audio 6 minutes 34 : Podcast Parcoursup va disparaître, les nouvelles voix de Dragon Ball et Mbappé sans ballon : ça dit quoi ce 27 octobre",
-   "link": "https://www.franceinfo.fr/replay-radio/ca-dit-quoi/podcast-parcoursup-va-disparaitre-les-nouvelles-voix-de-dragon-ball-et-mbappe-sans-ballon-ca-dit-quoi-ce-27-octobre_8246254.html",
-   "summary": "Parcoursup va disparaître, les nouvelles voix de Dragon Ball et Mbappé sans ballon : ça dit quoi ce 27 octobre",
-   "image": "https://www.franceinfo.fr/pictures/wJsj-tLLzO9ieviQ7h6TVn2thoE/0x0:1024x575/432x243/filters:format(jpg)/2025/02/24/000-33mu2t9-67bc98eec3a8b818449158.jpg",
-   "date": null,
-   "pubdate": "2026-10-27T09:06:46.805034+00:00"
-  },
-  {
-   "title": "Refonte de Parcoursup : la vice-présidente de France Universités salue \"une bonne nouvelle\" et appelle à prendre le temps nécessaire pour créer une nouvelle plateforme",
-   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/refonte-de-parcoursup-la-vice-presidente-de-france-universites-salue-une-bonne-nouvelle-et-appelle-a-prendre-le-temps-necessaire-pour-creer-une-nouvelle-plateforme_8255287.html",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/XB6GAu3PVYcVoMxtKh3ld4DvP6A/0x430:8256x5074/432x243/filters:format(jpg)/2026/10/27/6ae04e5acd2d7258572385.jpg",
-   "date": null,
-   "pubdate": "2026-10-27T09:06:46.805034+00:00"
-  },
-  {
-   "title": "Europe 1 mise en demeure pour \"incitation à la haine\" après les propos xénophobes et discriminatoires de sa présentatrice Christine Kelly A l'antenne, elle avait estimé que \"beaucoup\" de migrants étaient des \"violeurs\" et que \"les chiffres\" le démontraient, sans le moindre contradictoire.",
-   "link": "https://www.franceinfo.fr/economie/medias/europe-1-mise-en-demeure-pour-incitation-a-la-haine-apres-les-propos-xenophobes-et-discriminatoires-de-sa-presentatrice-christine-kelly_8255173.html",
-   "summary": "Europe 1 mise en demeure pour \"incitation à la haine\" après les propos xénophobes et discriminatoires de sa présentatrice Christine Kelly",
-   "image": "https://www.franceinfo.fr/pictures/Xu3DAF-Aco2AcixhC04UgMxpahU/0x0:5184x2916/432x243/filters:format(jpg)/2026/10/27/6ae04d05773ef209456175.jpg",
-   "date": null,
-   "pubdate": "2026-10-27T09:06:46.805034+00:00"
-  },
-  {
-   "title": "2:30 audio 2 minutes 30 Sur TikTok, on essaie d'apprendre à s'ennuyer pour retrouver des capacités de concentration Des vidéos sur TikTok présentent des internautes qui se filment en train de ne rien faire. Ça s’appelle le “rawdogging boredom”, \"s’ennuyer sans distraction\". L'objectif est de réapprendre à supporter le vide.",
-   "link": "https://www.franceinfo.fr/replay-radio/l-il-de-constance/sur-tiktok-on-essaie-d-apprendre-a-s-ennuyer-pour-retrouver-des-capacites-de-concentration_8234656.html",
-   "summary": "Sur TikTok, on essaie d'apprendre à s'ennuyer pour retrouver des capacités de concentration",
-   "image": "https://www.franceinfo.fr/pictures/i7_pAR5-xy5XWa9LhgkMbyYW48c/0x124:2121x1317/432x243/filters:format(jpg)/2026/10/16/6ad1bf67bfb8a246038013.jpg",
-   "date": null,
-   "pubdate": "2026-10-27T09:06:46.805034+00:00"
-  },
-  {
-   "title": "• Direct Mobilisation des lycéens : \"Le travail doit reprendre lundi\", enjoint le ministre de l'Enseignement supérieur Les \"discussions avec les organisations syndicales, avec les organisations représentatives des étudiants et des lycéens\" doivent \"continuer\", a-t-il ajouté.",
-   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-des-lyceens-les-annonces-du-gouvernement-ne-desamorcent-pas-les-appels-a-la-mobilisation_8255224.html",
-   "summary": "Mobilisation des lycéens : \"Le travail doit reprendre lundi\", enjoint le ministre de l'Enseignement supérieur",
-   "image": "https://www.franceinfo.fr/pictures/580u0mZM734IqHO6xHgJYlKwa6g/0x0:7479x4206/432x243/filters:format(jpg)/2026/10/27/6ae05b4146b5e182692512.jpg",
-   "date": null,
-   "pubdate": "2026-10-27T09:06:46.805034+00:00"
-  },
-  {
-   "title": ": info radio france Le député RN José Beaurain visé par une enquête pour détournement de fonds publics Selon une enquête de la cellule investigation de Radio France, le Rassemblement national a investi ce député de l'Aisne pour les législatives de 2024 et les municipales de 2026, malgré plusieurs alertes internes.",
-   "link": "https://www.franceinfo.fr/politique/front-national/info-radio-france-le-depute-rn-jose-beaurain-vise-par-une-enquete-pour-detournement-de-fonds-publics_8254816.html",
-   "summary": "Le député RN José Beaurain visé par une enquête pour détournement de fonds publics",
-   "image": "https://www.franceinfo.fr/pictures/5hzjQITz2CpKR13wMCKlQ6FYXsE/0x0:4531x2548/432x243/filters:format(jpg)/2026/10/26/6adfb680c66f4975967196.jpg",
-   "date": null,
-   "pubdate": "2026-10-27T09:06:46.805034+00:00"
-  },
-  {
-   "title": "1:19 vidéo 1 minute 19 Trappes : le suspect Kévin T. \"conteste le caractère raciste de ses crimes\" La garde à vue de Kévin T., arrêté après l'attentat raciste commis vendredi à Trappes et La Verrière, a repris lundi 26 octobre en début d'après-midi, a annoncé le procureur national antiterroriste Olivier Christen. À ce stade des investigations, Kévin T. \"ne conteste pas la matérialité des faits\", mais \"conteste le caractère raciste\" des crimes commis.",
-   "link": "https://www.franceinfo.fr/societe/trappes/trappes-le-suspect-kevin-t-conteste-le-caractere-rac-ste-de-ses-crimes_8254759.html",
-   "summary": "Trappes : le suspect Kévin T. \"conteste le caractère raciste de ses crimes\"",
-   "image": "https://www.franceinfo.fr/pictures/zBDcPX8swDCRkFbklCbL9YXXF6w/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/26/6adfa6f258e95081760073.png",
-   "date": null,
-   "pubdate": "2026-10-27T09:06:46.805034+00:00"
-  },
-  {
-   "title": "23:27 vidéo 23 minutes 27 Colère lycéenne : \"On a un gouvernement qui a cédé à une minorité agissante\", regrette Aleksandar Nikolic, porte-parole de la campagne de Marine Le Pen Richard Ramos, député MoDem du Loiret, et Aleksandar Nikolic, député européen et porte-parole de la campagne présidentielle de Marine Le Pen étaient les invités du Duel dans l’Avant 20h sur franceinfo ce lundi 26 octobre. Ils sont notamment revenus sur les annonces du ministre de l’Éducation, Édouard Geffray.",
-   "link": "https://www.franceinfo.fr/replay-magazine/franceinfo/avant-le-20h/colere-lyceenne-on-a-un-gouvernement-qui-a-cede-a-une-minorite-agissante-regrette-aleksandar-nikolic-porte-parole-de-la-campagne-de-marine-le-pen_8254726.html",
-   "summary": "Colère lycéenne : \"On a un gouvernement qui a cédé à une minorité agissante\", regrette Aleksandar Nikolic, porte-parole de la campagne de Marine Le Pen",
-   "image": "https://www.franceinfo.fr/pictures/j2JpDnMNn5I2wsOw8d41YqqWI8s/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/26/6adf9f6386098843659699.jpg",
-   "date": null,
-   "pubdate": "2026-10-27T09:06:46.805034+00:00"
-  },
-  {
-   "title": "Le syndicat majoritaire des proviseurs plaide pour le retour d'un \"classement des vœux des candidats\" sur Parcoursup, comme le faisait la plateforme APB Cette solution permettrait \"une vitesse d'affectation plus rapide : dès la première vague de réponses, plus de 80% des élèves ont tout de suite des affectations\", rappelle Yvon Manac'h, secrétaire académique du SNPDEN, lundi sur franceinfo.",
-   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/le-syndicat-majoritaire-des-proviseurs-plaide-pour-le-retour-d-un-classement-des-v-ux-des-candidats-sur-parcoursup-comme-le-faisait-la-plateforme-apb_8254852.html",
-   "summary": "Le syndicat majoritaire des proviseurs plaide pour le retour d'un \"classement des vœux des candidats\" sur Parcoursup, comme le faisait la plateforme APB",
-   "image": "https://www.franceinfo.fr/pictures/XOnnJSD7kFLFOvj68W2wYQ-P1iI/0x0:1024x576/432x243/filters:format(jpg)/2026/10/26/6adfbcbf6608f369332557.jpg",
-   "date": null,
-   "pubdate": "2026-10-27T00:31:24.512193+00:00"
   },
   {
    "title": "Comprendre les débats sur la fin de vie 15 contenus",
@@ -181,30 +241,6 @@
    "image": "https://www.franceinfo.fr/pictures/N7O5QoLEsQpseRgJuvk-HceYsQo/629x0:3148x2519/100x100/filters:format(jpg)/2026/10/20/6ad783d4703a2085671736.jpg",
    "date": null,
    "pubdate": "2026-10-26T20:33:41.804927+00:00"
-  },
-  {
-   "title": "Nombre limité d'élèves par classe en seconde : \"C’est une première réponse à nos revendications importantes\", réagit la secrétaire nationale du syndicat d'enseignants SE-UNSA \"Maintenant, reste à savoir comment cette mesure sera financée, parce que dans le projet de loi de finances, rien n'est acté\", nuance Elisabeth Allain-Moreno, secrétaire nationale du SE-Unsa, lundi sur franceinfo.",
-   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/une-premiere-reponse-a-une-de-nos-revendications-importantes-juge-le-syndicat-d-enseignants-se-unsa-apres-l-annonce-du-plafonnement-des-classes-de-seconde-a-28-eleves_8254780.html",
-   "summary": "Nombre limité d'élèves par classe en seconde : \"C’est une première réponse à nos revendications importantes\", réagit la secrétaire nationale du syndicat d'enseignants SE-UNSA",
-   "image": "https://www.franceinfo.fr/pictures/ot4JtepDHmH-anCutNnGT4pUi_A/0x46:1024x622/432x243/filters:format(jpg)/2025/01/07/000-36fl4tz-677cc91ec313d687745114.jpg",
-   "date": null,
-   "pubdate": "2026-10-26T20:33:41.804927+00:00"
-  },
-  {
-   "title": "Un manifestant gravement blessé au tibia par une grenade à Reims lors de la mobilisation du 24 octobre, une enquête confiée à l'IGPN Les forces de l'ordre ont empêché le cortège de pénétrer dans le centre-ville, samedi, notamment à l'aide de grenades lacrymogènes et de grenades assourdissantes. Deux manifestants ont alors été blessés, selon les pompiers de la Marne, dont un grièvement.",
-   "link": "https://www.franceinfo.fr/societe/manifestations/un-manifestant-gravement-blesse-au-tibia-par-une-grenade-a-reims-lors-de-la-mobilisation-du-24-octobre-une-enquete-confiee-a-l-igpn_8254723.html",
-   "summary": "Un manifestant gravement blessé au tibia par une grenade à Reims lors de la mobilisation du 24 octobre, une enquête confiée à l'IGPN",
-   "image": "https://www.franceinfo.fr/pictures/mYpL2yX4yIKt7pvG_SztKrs_NtA/0x520:5000x3333/432x243/filters:format(jpg)/2026/10/26/6adf9efd2f366690053984.jpg",
-   "date": null,
-   "pubdate": "2026-10-26T20:33:41.804927+00:00"
-  },
-  {
-   "title": "53:26 audio 53 minutes 26 Comment désamorcer et mettre fin aux mouvements lycéens ? Les informés de franceinfo du lundi 26 octobre 2026 Tous les soirs, les informés débattent de l'actualité, cette semaine autour de Renaud Blanc.",
-   "link": "https://www.franceinfo.fr/replay-radio/les-informes-de-france-info/comment-desamorcer-et-mettre-fin-aux-mouvements-lyceens-les-informes-de-franceinfo-du-lundi-26-octobre-2026_8233168.html",
-   "summary": "Comment désamorcer et mettre fin aux mouvements lycéens ? Les informés de franceinfo du lundi 26 octobre 2026",
-   "image": "https://www.franceinfo.fr/pictures/ssxEtmkP68sLb9XwzbsZkd3fxtw/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/26/6adfa4f6b338f102577603.png",
-   "date": "2026-10-26T11:00:00+00:00",
-   "pubdate": "2026-10-26T11:00:00+00:00"
   },
   {
    "title": ": Vrai ou faux 8:00 article 8 minutes : Vrai ou faux Existe-t-il vraiment des \"policiers casseurs\", en civil et infiltrés dans les manifestations, qui commettent des dégradations ?",
