@@ -1,15 +1,10 @@
 {
- "etag": "\"205c2a862adb4377d7b2902bfa66eb47-gzip\"",
+ "etag": "\"07515b832202ec69581d458110150a1a-gzip\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/vladimir-poutine-se-dit-pret-a-negocier-un-accord-final-avec-l-ukraine-pas-une-treve-courte_8249647.html": "2026-10-22T21:42:03.662500+00:00",
-  "https://www.franceinfo.fr/replay-magazine/france-2/nous-les-europeens/nous-les-europeens-forets-primaires-les-derniers-sanctuaires_8227624.html": "2026-10-22T21:42:03.662500+00:00",
-  "https://www.franceinfo.fr/monde/russie/carte-survols-de-drones-incendies-des-medias-europeens-recensent-plus-de-50-actions-imputees-a-la-russie-sur-le-continent-depuis-avril_8240515.html": "2026-10-23T04:59:28.695537+00:00",
   "https://www.franceinfo.fr/monde/europe/un-mort-et-trois-disparus-a-bord-d-un-navire-en-detresse-en-mer-noire-nouvel-incident-dans-la-region_8250601.html": "2026-10-23T11:46:28.457225+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-ukraine-une-adolescente-accusee-d-avoir-empoisonne-des-soldats-pour-le-compte-de-la-russie_8250382.html": "2026-10-23T11:46:28.457225+00:00",
   "https://www.franceinfo.fr/replay-radio/le-monde-et-vous/inspiree-par-les-manifestations-en-france-la-generation-z-allemande-appelle-a-descendre-dans-la-rue_8229229.html": "2026-10-23T11:46:28.457225+00:00",
-  "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/comment-vladimir-poutine-a-reussi-a-retourner-donald-trump_8229241.html": "2026-10-23T11:46:28.457225+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/donald-trump-affirme-qu-elon-musk-a-relance-son-reseau-satellitaire-starlink-pour-l-ukraine-crucial-pour-intercepter-les-drones-russes_8250100.html": "2026-10-23T11:46:28.457225+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/melania-trump-affirme-avoir-obtenu-une-treve-entre-russes-et-ukrainiens-a-olechky_8251402.html": "2026-10-23T21:28:56.763941+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-ukraine-dit-de-nouveau-beneficier-d-une-connexion-stable-au-systeme-starlink-crucial-pour-son-armee_8252059.html": "2026-10-24T11:11:16.481912+00:00",
   "https://www.franceinfo.fr/monde/europe/allemagne/une-culture-de-la-manifestation-fortement-pacifiee-en-allemagne-la-police-mise-sur-la-communication-et-la-desescalade_8251978.html": "2026-10-24T11:11:16.481912+00:00",
@@ -31,15 +26,60 @@
   "https://www.franceinfo.fr/monde/europe/historique-la-serbie-a-fait-sa-revolution-dans-les-urnes_8254426.html": "2026-10-26T20:33:46.647997+00:00",
   "https://www.franceinfo.fr/replay-jt/france-2/20-heures/serbie-les-etudiants-prennent-le-pouvoir_8254855.html": "2026-10-27T00:31:28.943056+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/reportage-plus-de-huit-millions-de-livres-pour-enfants-partis-en-fumee-l-ukraine-face-a-une-penurie-de-manuels-scolaires-apres-des-frappes-russes_8192342.html": "2026-10-27T00:31:28.943056+00:00",
-  "https://www.franceinfo.fr/monde/europe/allemagne/il-y-a-une-extrapolation-du-declin-economique-comment-l-extreme-droite-allemande-est-arrivee-aux-portes-du-pouvoir-en-saxe-anhalt_8175638.html": "2026-10-27T00:31:28.943056+00:00"
+  "https://www.franceinfo.fr/monde/europe/allemagne/il-y-a-une-extrapolation-du-declin-economique-comment-l-extreme-droite-allemande-est-arrivee-aux-portes-du-pouvoir-en-saxe-anhalt_8175638.html": "2026-10-27T00:31:28.943056+00:00",
+  "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/serbie-les-etudiants-prennent-le-pouvoir_8255281.html": "2026-10-27T09:06:52.195523+00:00",
+  "https://www.franceinfo.fr/replay-radio/le-brief-eco/audi-investit-aux-etats-unis-tolle-general-en-allemagne_8234674.html": "2026-10-27T09:06:52.195523+00:00",
+  "https://www.franceinfo.fr/monde/russie/enquete-franceinfo-on-l-appelait-poutine-girl-comment-la-france-verrouille-les-demandes-de-visas-diplomatiques-russes-pour-limiter-les-risques-d-espionnage_8204495.html": "2026-10-27T09:06:52.195523+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/vos-questions-sur-l-effort-de-guerre-de-la-france/": "2026-10-27T09:06:52.195523+00:00",
+  "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/temoignages-simulacres-d-execution-tortures-physiques-un-ancien-prisonnier-ukrainien-en-russie-raconte-les-sevices-subis-apres-sa-capture-dans-le-donbass_8202320.html": "2026-10-27T09:06:52.195523+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "Serbie : les étudiants prennent le pouvoir Comment la rue a-t-elle pris le pouvoir en Serbie ? Après deux ans de mobilisation, le mouvement des étudiants a remporté les élections dimanche 25 octobre face au dirigeant populiste Aleksandar Vučić, qui dirige le pays depuis 12 ans. Aujourd'hui 1:39 vidéo 1 minute 39",
+   "title": "Serbie : les étudiants prennent le pouvoir En Serbie, les manifestations de jeunes ont payé, puisque leur parti vient de déloger un gouvernement nationaliste qu'ils accusaient de corruption. Face à un pouvoir proche de Moscou, les étudiants ont convaincu. Aujourd'hui 1:45 vidéo 1 minute 45",
+   "link": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/serbie-les-etudiants-prennent-le-pouvoir_8255281.html",
+   "summary": "Serbie : les étudiants prennent le pouvoir",
+   "image": "https://www.franceinfo.fr/pictures/7cmfCqNevAKYDrgyyEYreDKBGCE/342x0:1352x695/432x297/filters:format(jpg)/2026/10/27/6ae0505e90519277240992.png",
+   "date": null,
+   "pubdate": "2026-10-27T09:06:52.195523+00:00"
+  },
+  {
+   "title": "2:27 audio 2 minutes 27 Audi investit aux États-Unis, tollé général en Allemagne",
+   "link": "https://www.franceinfo.fr/replay-radio/le-brief-eco/audi-investit-aux-etats-unis-tolle-general-en-allemagne_8234674.html",
+   "summary": "Audi investit aux États-Unis, tollé général en Allemagne",
+   "image": "https://www.franceinfo.fr/pictures/0vwXi68JWkpj0vmRriJ56WQMsAQ/0x0:1024x576/432x243/filters:format(jpg)/2026/10/27/6ae0434611e8b719421830.jpg",
+   "date": null,
+   "pubdate": "2026-10-27T09:06:52.195523+00:00"
+  },
+  {
+   "title": ": Enquête franceinfo 7:00 article 7 minutes : Enquête franceinfo \"On l'appelait 'Poutine Girl'\" : comment la France verrouille les demandes de visas diplomatiques russes pour limiter les risques d'espionnage",
+   "link": "https://www.franceinfo.fr/monde/russie/enquete-franceinfo-on-l-appelait-poutine-girl-comment-la-france-verrouille-les-demandes-de-visas-diplomatiques-russes-pour-limiter-les-risques-d-espionnage_8204495.html",
+   "summary": "\"On l'appelait 'Poutine Girl'\" : comment la France verrouille les demandes de visas diplomatiques russes pour limiter les risques d'espionnage",
+   "image": "https://www.franceinfo.fr/pictures/A2h_E5mcyVZ6lfsJdOFeBuwq-9I/456x0:2616x2160/100x100/filters:format(jpg)/2026/10/13/6acdf7b4ac2f8834592008.jpg",
+   "date": null,
+   "pubdate": "2026-10-27T09:06:52.195523+00:00"
+  },
+  {
+   "title": "Vos questions sur l'effort de guerre de la France 6 contenus",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/vos-questions-sur-l-effort-de-guerre-de-la-france/",
+   "summary": "Vos questions sur l'effort de guerre de la France",
+   "image": "https://www.franceinfo.fr/pictures/ntZoU9VrwR_yrQmHdJn-AC2Tq7o/432x297/filters:format(jpg)/2025/04/01/effort-de-guerre-couverture-de-dossier-01-light-67eba0e5ca0a7848911582.jpg",
+   "date": null,
+   "pubdate": "2026-10-27T09:06:52.195523+00:00"
+  },
+  {
+   "title": ": Témoignages 4:57 audio 4 minutes 57 : Témoignages Simulacres d'exécution, tortures physiques... Un ancien prisonnier ukrainien en Russie raconte les sévices subis après sa capture dans le Donbass",
+   "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/temoignages-simulacres-d-execution-tortures-physiques-un-ancien-prisonnier-ukrainien-en-russie-raconte-les-sevices-subis-apres-sa-capture-dans-le-donbass_8202320.html",
+   "summary": "Simulacres d'exécution, tortures physiques... Un ancien prisonnier ukrainien en Russie raconte les sévices subis après sa capture dans le Donbass",
+   "image": "https://www.franceinfo.fr/pictures/2f5cbtrT9CRvkEupDevmU2LuA7E/890x0:3698x2808/100x100/filters:format(jpg)/2026/10/04/6ac2473171e26537594128.jpg",
+   "date": null,
+   "pubdate": "2026-10-27T09:06:52.195523+00:00"
+  },
+  {
+   "title": "1:39 vidéo 1 minute 39 Serbie : les étudiants prennent le pouvoir",
    "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/serbie-les-etudiants-prennent-le-pouvoir_8254855.html",
    "summary": "Serbie : les étudiants prennent le pouvoir",
-   "image": "https://www.franceinfo.fr/pictures/90-x3vUO0p2rOMhzowLYgySnSCg/174x0:1745x1080/432x297/filters:format(jpg)/2026/10/26/6adfbc89d9f10797550796.jpg",
+   "image": "https://www.franceinfo.fr/pictures/VfqZns0b8xFfAWw6VVmjTGEyQ-g/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/26/6adfbc89d9f10797550796.jpg",
    "date": null,
    "pubdate": "2026-10-27T00:31:28.943056+00:00"
   },
@@ -116,15 +156,15 @@
    "pubdate": "2026-10-25T20:56:08.265744+00:00"
   },
   {
-   "title": "En Bulgarie, la présidente sortante, partisane du dialogue avec Moscou, arrive légèrement en tête du premier tour",
+   "title": "En Bulgarie, la présidente sortante, partisane du dialogue avec Moscou, arrive légèrement en tête du premier tour La candidate, partisane du dialogue avec la Russie, affrontera Andrey Gyurov, ancien Premier ministre par intérim soutenu par l'opposition pro-occidentale.",
    "link": "https://www.franceinfo.fr/monde/europe/union-europeenne/en-bulgarie-la-presidente-sortante-partisane-du-dialogue-avec-moscou-arrive-legerement-en-tete-du-premier-tour_8253469.html",
-   "summary": "",
+   "summary": "En Bulgarie, la présidente sortante, partisane du dialogue avec Moscou, arrive légèrement en tête du premier tour",
    "image": "https://www.franceinfo.fr/pictures/fR5HBrp-9EZc3brPqUdHPiWAHx0/0x0:1024x576/432x243/filters:format(jpg)/2026/10/25/6ade57f5527e7944079380.jpg",
    "date": null,
    "pubdate": "2026-10-25T20:56:08.265744+00:00"
   },
   {
-   "title": "7:34 audio 7 minutes 34 Bernard Lavilliers chante la guerre en Ukraine",
+   "title": "7:34 audio 7 minutes 34 Bernard Lavilliers chante la guerre en Ukraine \"La Ligne de feu\", une chanson de son nouvel album, nous rappelle que la guerre dure en Europe et il songe aux morts, s'ajoutant à une lignée de grandes chansons sur le sort des combattants.",
    "link": "https://www.franceinfo.fr/replay-radio/ces-chansons-qui-font-l-actu/bernard-lavilliers-chante-la-guerre-en-ukraine_8211611.html",
    "summary": "Bernard Lavilliers chante la guerre en Ukraine",
    "image": "https://www.franceinfo.fr/pictures/y35GLOqRcvuV_eKMctOjGVtjUYA/0x53:1024x629/432x243/filters:format(jpg)/2026/10/23/6adb9587052a9474390589.jpg",
@@ -234,46 +274,6 @@
    "image": "https://www.franceinfo.fr/pictures/4SJ3LqYtl2IJPJxGv0L-dXGxmu0/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/23/6adb116716f74066955511.jpg",
    "date": null,
    "pubdate": "2026-10-23T11:46:28.457225+00:00"
-  },
-  {
-   "title": "2:55 audio 2 minutes 55 Comment Vladimir Poutine a réussi à \"retourner\" Donald Trump Vladimir Poutine a réussi à convaincre Donald Trump qu’il valait mieux faire des affaires avec la Russie que soutenir l’Ukraine. En un an seulement, la relation entre les deux dirigeants a complètement changé. Un mot explique tout : le pétrole.",
-   "link": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/comment-vladimir-poutine-a-reussi-a-retourner-donald-trump_8229241.html",
-   "summary": "Comment Vladimir Poutine a réussi à \"retourner\" Donald Trump",
-   "image": "https://www.franceinfo.fr/pictures/hnyW_XNxZQUrcQyR64Iw1c9egN4/0x428:8192x5036/432x243/filters:format(jpg)/2026/10/23/6adaf31495d45889142518.jpg",
-   "date": null,
-   "pubdate": "2026-10-23T11:46:28.457225+00:00"
-  },
-  {
-   "title": "Donald Trump affirme qu'Elon Musk a relancé son réseau satellitaire Starlink pour l'Ukraine, crucial pour intercepter les drones russes La Commission européenne avait appelé mercredi SpaceX à \"rétablir d'urgence\" le plein accès pour Kiev.",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/donald-trump-affirme-qu-elon-musk-a-relance-son-reseau-satellitaire-starlink-pour-l-ukraine-crucial-pour-intercepter-les-drones-russes_8250100.html",
-   "summary": "Donald Trump affirme qu'Elon Musk a relancé son réseau satellitaire Starlink pour l'Ukraine, crucial pour intercepter les drones russes",
-   "image": "https://www.franceinfo.fr/pictures/4xtiQaEQvmXBoHqjvkLVmtsRk-k/0x0:4506x2534/432x243/filters:format(jpg)/2026/10/23/6adaf35bed53e739479569.jpg",
-   "date": null,
-   "pubdate": "2026-10-23T11:46:28.457225+00:00"
-  },
-  {
-   "title": ": Carte Survols de drones, incendies... Des médias européens recensent plus de 50 actions imputées à la Russie sur le continent depuis avril Le réseau des médias audiovisuels publics européens a élaboré une carte commune des incidents liés à la \"guerre hybride\" de la Russie sur les six derniers mois, qui s'étendent jusqu'à l'Europe de l'Ouest même si les pays proches de l'Ukraine sont les plus touchés.",
-   "link": "https://www.franceinfo.fr/monde/russie/carte-survols-de-drones-incendies-des-medias-europeens-recensent-plus-de-50-actions-imputees-a-la-russie-sur-le-continent-depuis-avril_8240515.html",
-   "summary": "Survols de drones, incendies... Des médias européens recensent plus de 50 actions imputées à la Russie sur le continent depuis avril",
-   "image": "https://www.franceinfo.fr/pictures/uT7gxr249oYlE1VKHwU21kX_LYQ/0x677:5665x3864/432x243/filters:format(jpg)/2026/10/22/6ada1cb37fb11634146389.jpg",
-   "date": null,
-   "pubdate": "2026-10-23T04:59:28.695537+00:00"
-  },
-  {
-   "title": "Vladimir Poutine se dit prêt à négocier un accord final avec l'Ukraine, pas une trêve \"courte\" \"Le but de ces discussions sera de traiter la question des garanties de sécurité à la fois pour l'Ukraine et pour la Russie\", a déclaré, jeudi, le président russe.",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/vladimir-poutine-se-dit-pret-a-negocier-un-accord-final-avec-l-ukraine-pas-une-treve-courte_8249647.html",
-   "summary": "Vladimir Poutine se dit prêt à négocier un accord final avec l'Ukraine, pas une trêve \"courte\"",
-   "image": "https://www.franceinfo.fr/pictures/k13SNqC4fna7paPMbwmuFdLQ7r0/0x0:1024x576/432x243/filters:format(jpg)/2026/10/22/6ada6ace12c21684281598.jpg",
-   "date": null,
-   "pubdate": "2026-10-22T21:42:03.662500+00:00"
-  },
-  {
-   "title": "26:14 vidéo 26 minutes 14 \"Nous, les Européens\". Forêts primaires, les derniers sanctuaires Grand reportage, invités et actualité européenne sont au sommaire de ce magazine d'information, présenté par Eléonore Gay et diffusé le dimanche à midi sur France 3 ainsi que le jeudi en fin de soirée sur France 2.",
-   "link": "https://www.franceinfo.fr/replay-magazine/france-2/nous-les-europeens/nous-les-europeens-forets-primaires-les-derniers-sanctuaires_8227624.html",
-   "summary": "\"Nous, les Européens\". Forêts primaires, les derniers sanctuaires",
-   "image": "https://www.franceinfo.fr/pictures/b_9u4GaNKwYst7KJM28nMKywN8s/0x0:1920x1080/432x243/filters:format(jpg)/2025/06/03/image-9-683f011a28325654717116.jpg",
-   "date": null,
-   "pubdate": "2026-10-22T21:42:03.662500+00:00"
   }
  ]
 }
