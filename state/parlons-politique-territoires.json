@@ -2,8 +2,6 @@
  "etag": "",
  "last_modified": "",
  "first_seen": {
-  "https://www.parlons-politique.fr/politique-locale/jean-paul-huchon-laisse-aux-franciliens-un-navigo-moins-lie-a-la-distance-mais-un-reseau-toujours-a-financer_30022/": "2026-10-23T11:46:23.647229+00:00",
-  "https://www.parlons-politique.fr/politique-locale/apres-lincendie-dun-parc-qui-doit-payer-les-degats-les-familles-la-mairie-ou-les-contribuables-de-neuilly-sur-marne_30058/": "2026-10-23T21:28:48.539480+00:00",
   "https://www.parlons-politique.fr/politique-locale/apres-lincendie-de-la-mairie-de-limoges-la-promesse-dun-financement-sans-cout-communal-reste-a-chiffrer_30072/": "2026-10-24T04:44:29.823833+00:00",
   "https://www.parlons-politique.fr/politique-locale/apres-lincendie-de-limoges-pourquoi-les-accusations-contre-le-plateau-de-millevaches-inquietent-les-habitants_30081/": "2026-10-24T11:11:06.955077+00:00",
   "https://www.parlons-politique.fr/politique-locale/a-orleans-les-restrictions-liees-au-congres-du-rn-bouleversent-le-quotidien-des-habitants-bien-au-dela-des-manifestants_30109/": "2026-10-24T16:01:55.791225+00:00",
@@ -13,10 +11,28 @@
   "https://www.parlons-politique.fr/politique-locale/a-marseille-la-visite-de-macron-devra-repondre-aux-commercants-et-aux-elus-apres-les-violences-du-17-octobre_30194/": "2026-10-26T13:13:06.640029+00:00",
   "https://www.parlons-politique.fr/politique-locale/a-bayonne-la-majorite-detchegaray-ouvre-la-voie-aux-decisions-tandis-que-labstention-interroge-la-portee-du-scrutin_30243/": "2026-10-26T20:33:39.653875+00:00",
   "https://www.parlons-politique.fr/politique-locale/apres-lattaque-de-trappes-proteger-les-habitants-impose-de-combattre-la-banalisation-du-racisme-au-dela-du-choc_30278/": "2026-10-27T09:06:40.226818+00:00",
-  "https://www.parlons-politique.fr/politique-locale/a-carpentras-le-non-cumul-des-mandats-oblige-un-senateur-a-quitter-son-poste-dadjoint-mais-pas-son-siege-municipal_30282/": "2026-10-27T15:24:20.059780+00:00"
+  "https://www.parlons-politique.fr/politique-locale/a-carpentras-le-non-cumul-des-mandats-oblige-un-senateur-a-quitter-son-poste-dadjoint-mais-pas-son-siege-municipal_30282/": "2026-10-27T15:24:20.059780+00:00",
+  "https://www.parlons-politique.fr/politique-locale/a-chelles-les-equipements-du-quotidien-prolongent-lheritage-municipal-bien-apres-le-depart-de-charles-cova_30382/": "2026-10-28T13:05:35.471854+00:00",
+  "https://www.parlons-politique.fr/politique-locale/apres-lincendie-de-la-mairie-de-limoges-lacces-aux-services-publics-devient-lurgence-pour-les-habitants_30365/": "2026-10-28T13:05:35.471854+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "À Chelles, les équipements du quotidien prolongent l’héritage municipal bien après le départ de Charles Cova",
+   "link": "https://www.parlons-politique.fr/politique-locale/a-chelles-les-equipements-du-quotidien-prolongent-lheritage-municipal-bien-apres-le-depart-de-charles-cova_30382/",
+   "summary": "Mort à 94 ans, Charles Cova a dirigé Chelles de 1983 à 1995 avant de siéger quatorze ans à l’Assemblée nationale. Stade,…",
+   "image": "https://www.parlons-politique.fr/wp-content/uploads/2026/10/stade-chelles-equipement-600x400.webp",
+   "date": null,
+   "pubdate": "2026-10-28T13:05:35.471854+00:00"
+  },
+  {
+   "title": "Après l’incendie de la mairie de Limoges, l’accès aux services publics devient l’urgence pour les habitants",
+   "link": "https://www.parlons-politique.fr/politique-locale/apres-lincendie-de-la-mairie-de-limoges-lacces-aux-services-publics-devient-lurgence-pour-les-habitants_30365/",
+   "summary": "L’incendie de l’hôtel de ville de Limoges a déplacé plusieurs services municipaux et compliqué certaines démarches. Le maire réclame des renforts de…",
+   "image": "https://www.parlons-politique.fr/wp-content/uploads/2026/10/guichet-etat-civil-limoges-600x400.webp",
+   "date": null,
+   "pubdate": "2026-10-28T13:05:35.471854+00:00"
+  },
   {
    "title": "À Carpentras, le non-cumul des mandats oblige un sénateur à quitter son poste d’adjoint, mais pas son siège municipal",
    "link": "https://www.parlons-politique.fr/politique-locale/a-carpentras-le-non-cumul-des-mandats-oblige-un-senateur-a-quitter-son-poste-dadjoint-mais-pas-son-siege-municipal_30282/",
@@ -96,22 +112,6 @@
    "image": "https://www.parlons-politique.fr/wp-content/uploads/2026/10/mairie-limoges-incendie-barriere-gants-chantier-600x400.webp",
    "date": null,
    "pubdate": "2026-10-24T04:44:29.823833+00:00"
-  },
-  {
-   "title": "Après l’incendie d’un parc, qui doit payer les dégâts : les familles, la mairie ou les contribuables de Neuilly-sur-Marne ?",
-   "link": "https://www.parlons-politique.fr/politique-locale/apres-lincendie-dun-parc-qui-doit-payer-les-degats-les-familles-la-mairie-ou-les-contribuables-de-neuilly-sur-marne_30058/",
-   "summary": "À Neuilly-sur-Marne, le maire réclame 415 000 euros aux familles de trois enfants impliqués dans l’incendie d’un parc. Le différend interroge l’application…",
-   "image": "https://www.parlons-politique.fr/wp-content/uploads/2026/10/passerelle-parc-inaccessible-600x400.webp",
-   "date": null,
-   "pubdate": "2026-10-23T21:28:48.539480+00:00"
-  },
-  {
-   "title": "Jean-Paul Huchon laisse aux Franciliens un Navigo moins lié à la distance, mais un réseau toujours à financer",
-   "link": "https://www.parlons-politique.fr/politique-locale/jean-paul-huchon-laisse-aux-franciliens-un-navigo-moins-lie-a-la-distance-mais-un-reseau-toujours-a-financer_30022/",
-   "summary": "Mort de Jean-Paul Huchon, les hommages rappellent son empreinte sur l’Île-de-France. Le tarif unique du Navigo, instauré en 2015, a réduit le…",
-   "image": "https://www.parlons-politique.fr/wp-content/uploads/2026/10/passe-navigo-portique-600x400.webp",
-   "date": null,
-   "pubdate": "2026-10-23T11:46:23.647229+00:00"
   }
  ]
 }

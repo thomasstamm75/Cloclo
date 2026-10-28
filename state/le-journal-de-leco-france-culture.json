@@ -1,8 +1,7 @@
 {
- "etag": "\"ozyeup\"",
+ "etag": "\"5a2mbf\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/choose-outre-mer-peut-on-attirer-les-investisseurs-sans-repondre-aux-difficultes-structurelles-5312544": "2026-10-01T10:16:07.737272+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/bresil-a-la-veille-des-elections-la-question-du-surendettement-qui-a-augmente-sous-lula-5269473": "2026-10-02T09:53:37.264996+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/budget-combien-vont-rapporter-les-repentis-fiscaux-5849784": "2026-10-05T05:50:49.453334+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/pour-se-financer-les-musees-publics-ont-des-nouvelles-idees-2449799": "2026-10-06T06:30:07.053472+00:00",
@@ -20,10 +19,19 @@
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/bientot-une-agence-de-notation-africaine-9756036": "2026-10-23T11:46:37.660008+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/inflation-en-thailande-le-gouvernement-paie-l-addition-pour-soulager-la-population-8024973": "2026-10-25T20:56:17.333805+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/donald-trump-n-a-pas-tenu-ses-promesses-sur-le-pouvoir-d-achat-9916072": "2026-10-26T13:13:23.491705+00:00",
-  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/etats-unis-de-donald-trump-l-economie-se-porte-bien-mais-les-inegalites-se-creusent-9130920": "2026-10-27T11:00:00+00:00"
+  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/etats-unis-de-donald-trump-l-economie-se-porte-bien-mais-les-inegalites-se-creusent-9130920": "2026-10-27T11:00:00+00:00",
+  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/droits-de-douane-et-relocalisation-donald-trump-a-t-il-tenu-ses-promesses-1853800": "2026-10-28T13:06:43.111709+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "Ãtat des lieux de l'Ã©conomie amÃ©ricaine 3/5Â Â· Droits de douane et relocalisationÂ : Donald Trump a-t-il tenu ses promessesÂ ?",
+   "link": "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/droits-de-douane-et-relocalisation-donald-trump-a-t-il-tenu-ses-promesses-1853800",
+   "summary": "Rouvrir des usines et produire local a Ã©tÃ© un axe majeur de la politique Ã©conomique de Donald Trump. Ã coups de multiples (annonces de) droits de douanes sur les importations. Pour quels rÃ©sultats prÃ¨s de deux ans aprÃ¨s sa rÃ©Ã©lectionÂ ?",
+   "image": "https://www.radiofrance.fr/pikapi/images/fb19c7fb-a258-41fc-8c29-f5d4222e02f8/2048",
+   "date": null,
+   "pubdate": "2026-10-28T13:06:43.111709+00:00"
+  },
   {
    "title": "Ãtat des lieux de l'Ã©conomie amÃ©ricaine 2/5Â Â· Ãtats-Unis de Donald TrumpÂ : l'Ã©conomie se porte bien, mais les inÃ©galitÃ©s se creusent",
    "link": "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/etats-unis-de-donald-trump-l-economie-se-porte-bien-mais-les-inegalites-se-creusent-9130920",
@@ -35,7 +43,7 @@
   {
    "title": "Ãtat des lieux de l'Ã©conomie amÃ©ricaine 1/5Â Â· Donald Trump n'a pas tenu ses promesses sur le pouvoir d'achat",
    "link": "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/donald-trump-n-a-pas-tenu-ses-promesses-sur-le-pouvoir-d-achat-9916072",
-   "summary": "Le coÃ»t de la vie est la principale prÃ©occupation des AmÃ©ricains avant les Ã©lections de mi-mandat le 3 novembre. Le prÃ©sident des Ãtats-Unis n'est pas parvenu Ã juguler l'inflation. La Fed a mÃªme dÃ» relever ses taux directeurs, alors que Donald Trump exige leur baisse depuis des annÃ©es.",
+   "summary": "Le coÃ»t de la vie est la principale prÃ©occupation des AmÃ©ricains avant les Ã©lections de mi-mandat du 3 novembre prochain. Le prÃ©sident des Ãtats-Unis n'est pas parvenu Ã juguler l'inflation. La Fed a mÃªme dÃ» relever ses taux directeurs, alors que Donald Trump exige leur baisse depuis des annÃ©es.",
    "image": "https://www.radiofrance.fr/pikapi/images/97ae5636-eac0-40c6-bdce-e5d0628d8627/2048",
    "date": null,
    "pubdate": "2026-10-26T13:13:23.491705+00:00"
@@ -167,14 +175,6 @@
    "image": "https://www.radiofrance.fr/pikapi/images/4d887ded-e165-4a8b-8490-14138385b9dd/2048",
    "date": null,
    "pubdate": "2026-10-02T09:53:37.264996+00:00"
-  },
-  {
-   "title": "Choose Outre-merÂ : peut-on attirer les investisseurs sans rÃ©pondre aux difficultÃ©s structurellesÂ ?",
-   "link": "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/choose-outre-mer-peut-on-attirer-les-investisseurs-sans-repondre-aux-difficultes-structurelles-5312544",
-   "summary": "Câest le dernier nÃ© de ces rendez-vous de lâinvestissement imaginÃ© par Emmanuel Macron. Le premier sommet Ã©conomique \"Choose Outre-mer\" se tient aujourd'hui Ã Paris. Objectif affichÃ©Â : attirer des investissements privÃ©s dans les territoires ultramarins, en grandes difficultÃ©s Ã©conomiques.",
-   "image": "https://www.radiofrance.fr/pikapi/images/d3be1227-8cdb-4146-8e9b-343ac4680565/2048",
-   "date": null,
-   "pubdate": "2026-10-01T10:16:07.737272+00:00"
   }
  ]
 }

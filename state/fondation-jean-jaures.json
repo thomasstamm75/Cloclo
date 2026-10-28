@@ -1,16 +1,24 @@
 {
  "etag": "",
- "last_modified": "Tue, 27 Oct 2026 16:49:03 GMT",
+ "last_modified": "Wed, 28 Oct 2026 13:06:26 GMT",
  "first_seen": {
   "https://www.jean-jaures.org/publication/mexique-les-defis-politiques-economiques-et-securitaires-de-claudia-sheinbaum-face-aux-enjeux-internes-et-externes/": "2026-10-22T11:00:00+00:00",
   "https://www.jean-jaures.org/publication/a-qui-appartiennent-les-biens-culturels-restitues-en-afrique/": "2026-10-22T11:00:00+00:00",
-  "https://www.jean-jaures.org/publication/17-octobre-anatomie-dune-attention-nationale-face-au-chaos/": "2026-10-21T11:00:00+00:00",
   "https://www.jean-jaures.org/publication/quatre-pays-face-a-la-fatigue-informationnelle/": "2026-10-23T11:00:00+00:00",
   "https://www.jean-jaures.org/publication/2027-une-campagne-sous-fatigue-informationnelle/": "2026-10-23T11:00:00+00:00",
-  "https://www.jean-jaures.org/publication/les-gauches-et-la-lutte-contre-lantisemitisme/": "2026-10-27T11:00:00+00:00"
+  "https://www.jean-jaures.org/publication/les-gauches-et-la-lutte-contre-lantisemitisme/": "2026-10-27T11:00:00+00:00",
+  "https://www.jean-jaures.org/publication/abdul-el-sayed-et-lelection-au-senat-etatsunien-dans-le-michigan/": "2026-10-28T11:00:00+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "Abdul El-Sayed et l’élection au Sénat étatsunien dans le Michigan",
+   "link": "https://www.jean-jaures.org/publication/abdul-el-sayed-et-lelection-au-senat-etatsunien-dans-le-michigan/",
+   "summary": "",
+   "image": "",
+   "date": "2026-10-28T11:00:00+00:00",
+   "pubdate": "2026-10-28T11:00:00+00:00"
+  },
   {
    "title": "Les gauches et la « lutte » contre l’antisémitisme",
    "link": "https://www.jean-jaures.org/publication/les-gauches-et-la-lutte-contre-lantisemitisme/",
@@ -50,14 +58,6 @@
    "image": "",
    "date": "2026-10-22T11:00:00+00:00",
    "pubdate": "2026-10-22T11:00:00+00:00"
-  },
-  {
-   "title": "17-Octobre : anatomie d’une attention nationale face au chaos",
-   "link": "https://www.jean-jaures.org/publication/17-octobre-anatomie-dune-attention-nationale-face-au-chaos/",
-   "summary": "",
-   "image": "",
-   "date": "2026-10-21T11:00:00+00:00",
-   "pubdate": "2026-10-21T11:00:00+00:00"
   }
  ]
 }
