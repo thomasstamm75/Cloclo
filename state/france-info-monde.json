@@ -1,245 +1,191 @@
 {
- "etag": "\"923c798fe099fa2cb2e81120eb3185f3-gzip\"",
+ "etag": "\"15a583a3703d90ea01a46152af8c2b1f-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/replay-magazine/france-2/envoye-special/video-vous-devenez-fou-cecile-kohler-et-jacques-paris-racontent-la-torture-blanche-la-methode-du-regime-iranien-pour-briser-votre-esprit_8236993.html": "2026-10-27T00:31:30.859807+00:00",
   "https://www.franceinfo.fr/monde/russie/enquete-franceinfo-on-l-appelait-poutine-girl-comment-la-france-verrouille-les-demandes-de-visas-diplomatiques-russes-pour-limiter-les-risques-d-espionnage_8204495.html": "2026-10-27T00:31:30.859807+00:00",
   "https://www.franceinfo.fr/monde/israel/l-article-a-lire-pour-comprendre-les-enjeux-des-elections-legislatives-cruciales-en-israel_8228218.html": "2026-10-27T09:06:53.338405+00:00",
   "https://www.franceinfo.fr/monde/bresil/avant-on-parlait-de-politique-entre-nous-on-a-arrete-immersion-dans-un-bresil-divise-avant-le-second-tour-de-la-presidentielle_8246164.html": "2026-10-27T22:20:39.796162+00:00",
-  "https://www.franceinfo.fr/faits-divers/espagne-apres-la-collision-entre-deux-trains-les-premieres-pistes-de-l-enquete_8257333.html": "2026-10-28T13:05:47.514056+00:00",
-  "https://www.franceinfo.fr/faits-divers/au-moins-30-morts-dans-un-accident-de-train-sur-une-ligne-a-grande-vitesse-en-espagne_8257324.html": "2026-10-28T13:05:47.514056+00:00",
   "https://www.franceinfo.fr/culture/cinema/le-cineaste-jafar-panahi-condamne-en-iran-a-cinq-ans-de-prison-dans-une-nouvelle-affaire_8257258.html": "2026-10-28T13:05:47.514056+00:00",
-  "https://www.franceinfo.fr/monde/espagne/collision-de-trains-en-espagne-au-moins-30-morts_8257321.html": "2026-10-28T13:05:47.514056+00:00",
-  "https://www.franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/les-gens-hurlaient-a-l-interieur-des-passagers-et-des-temoins-evoquent-des-scenes-de-chaos-apres-la-collision-mortelle-entre-deux-trains-en-espagne_8257216.html": "2026-10-28T13:05:47.514056+00:00",
-  "https://www.franceinfo.fr/monde/espagne/collision-meurtriere-entre-deux-trains-en-espagne-le-roi-felipe-vi-reagit_8257306.html": "2026-10-28T13:05:47.514056+00:00",
-  "https://www.franceinfo.fr/monde/espagne/ce-que-l-on-sait-sur-la-cause-de-la-collision-entre-deux-trains-en-espagne_8257300.html": "2026-10-28T13:05:47.514056+00:00",
-  "https://www.franceinfo.fr/monde/israel/election-en-israel-qui-sera-le-prochain-premier-ministre_8257219.html": "2026-10-28T13:05:47.514056+00:00",
-  "https://www.franceinfo.fr/monde/espagne/collision-entre-deux-trains-en-espagne-les-images-de-l-accident_8257282.html": "2026-10-28T13:05:47.514056+00:00",
-  "https://www.franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/carte-ou-s-est-produite-la-collision-meurtriere-entre-deux-trains-en-espagne_8257180.html": "2026-10-28T13:05:47.514056+00:00",
-  "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/leon-xiv-en-france-retrouvez-l-essentiel/": "2026-10-28T13:05:47.514056+00:00",
-  "https://www.franceinfo.fr/monde/usa/affaire-jeffrey-epstein/l-essentiel-des-revelations-sur-l-affaire-epstein/": "2026-10-28T13:05:47.514056+00:00",
-  "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/tout-comprendre-a-la-guerre-au-moyen-orient/": "2026-10-28T13:05:47.514056+00:00",
-  "https://www.franceinfo.fr/monde/groenland/le-groenland-au-c-ur-d-un-bras-de-fer-geopolitique/": "2026-10-28T13:05:47.514056+00:00",
-  "https://www.franceinfo.fr/replay-radio/les-informes-du-matin/les-informes-du-matin-du-mercredi-28-octobre-2026_8236318.html": "2026-10-28T11:00:00+00:00",
-  "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/au-japon-les-demandeurs-d-aide-sociale-doivent-vendre-leur-voiture-pour-toucher-de-l-argent-de-l-etat_8236291.html": "2026-10-28T13:05:47.514056+00:00",
-  "https://www.franceinfo.fr/monde/espagne/ce-que-l-on-sait-de-la-collision-de-trains-meurtriere-survenue-pres-de-la-ville-espagnole-de-tolede_8257072.html": "2026-10-28T13:05:47.514056+00:00",
-  "https://www.franceinfo.fr/monde/russie/bien-sur-que-j-en-ai-marre-a-moscou-les-habitants-exasperes-par-de-nouvelles-restrictions-d-internet_8256883.html": "2026-10-28T13:05:47.514056+00:00",
-  "https://www.franceinfo.fr/monde/israel/elections-legislatives-en-israel/coalition-gouvernement-minoritaire-nouveau-scrutin-quels-sont-les-scenarios-possibles-en-israel-apres-des-legislatives-sans-reel-vainqueur_8256856.html": "2026-10-28T13:05:47.514056+00:00",
-  "https://www.franceinfo.fr/monde/espagne/direct-collision-de-deux-trains-en-espagne-les-autorites-locales-deplorent-au-moins-10-morts_8257045.html": "2026-10-28T13:05:47.514056+00:00",
-  "https://www.franceinfo.fr/sports/foot/kylian-mbappe/boycott-contrats-rompus-malgre-ses-excuses-kylian-mbappe-est-toujours-tres-critique-en-chine-pour-ses-propos-sur-mao-zedong_8256967.html": "2026-10-28T13:05:47.514056+00:00",
-  "https://www.franceinfo.fr/monde/israel/elections-legislatives-en-israel/elections-en-israel-on-est-dans-une-impasse-totale-analyse-le-specialiste-du-proche-orient-david-khalfa_8256997.html": "2026-10-28T13:05:47.514056+00:00",
-  "https://www.franceinfo.fr/monde/espagne/un-nouvel-accident-de-tgv-en-espagne-dans-la-province-de-tolede-plusieurs-blesses-sont-a-deplorer-selon-les-autorites_8257003.html": "2026-10-28T13:05:47.514056+00:00",
-  "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/la-fuite-de-flavio-bolsonaro-apres-sa-defaite-a-l-election-presidentielle-bresilienne_8236321.html": "2026-10-28T13:05:47.514056+00:00",
-  "https://www.franceinfo.fr/monde/israel/la-diplomatie-francaise-continuera-de-pousser-pour-une-solution-a-deux-etats-quel-que-soit-le-resultat-des-elections-legislatives-en-israel-affirme-jean-noel-barrot_8256982.html": "2026-10-28T13:05:47.514056+00:00",
-  "https://www.franceinfo.fr/replay-radio/ca-dit-quoi/podcast-kylian-mbappe-victime-de-sharp-power-flavio-bolsonaro-s-enfuit-et-youtube-au-cinema-ca-dit-quoi-ce-28-octobre_8247976.html": "2026-10-28T13:05:47.514056+00:00"
+  "https://www.franceinfo.fr/monde/israel/elections-legislatives-en-israel/la-grande-victoire-de-netanyahou-c-est-qu-on-parle-de-lui-mais-pas-des-grands-problemes-d-israel-nicolas-rouger-journaliste_8257898.html": "2026-10-28T20:20:26.930405+00:00",
+  "https://www.franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/espagne-pourquoi-les-deux-trains-se-sont-ils-percutes_8257889.html": "2026-10-28T20:20:26.930405+00:00",
+  "https://www.franceinfo.fr/monde/usa/midterms-2018/midterms-le-texas-va-t-il-basculer-democrate_8257255.html": "2026-10-28T20:20:26.930405+00:00",
+  "https://www.franceinfo.fr/replay-jt/france-2/20-heures/collision-meurtriere-entre-deux-trains-en-espagne-la-piste-d-une-erreur-humaine-privilegiee_8257868.html": "2026-10-28T20:20:26.930405+00:00",
+  "https://www.franceinfo.fr/replay-radio/les-informes-de-france-info/nouveau-drame-ferroviaire-en-espagne-elections-legislatives-israeliennes-les-informes-de-franceinfo-du-mercredi-28-octobre-2026_8236315.html": "2026-10-28T11:00:00+00:00",
+  "https://www.franceinfo.fr/replay-jt/france-2/20-heures/les-gens-criaient-et-pleuraient-au-moins-68-morts-apres-un-accident-ferroviaire-en-espagne_8257865.html": "2026-10-28T20:20:26.930405+00:00",
+  "https://www.franceinfo.fr/societe/ivg/le-gouvernement-d-andorre-veut-depenaliser-partiellement-l-avortement-sans-toutefois-l-autoriser-dans-la-principaute_8257832.html": "2026-10-28T20:20:26.930405+00:00",
+  "https://www.franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/qu-est-ce-que-le-systeme-de-gestion-du-trafic-ferroviaire-lzb-en-panne-au-moment-de-la-collision-meurtriere-entre-deux-trains-en-espagne_8257474.html": "2026-10-28T20:20:26.930405+00:00",
+  "https://www.franceinfo.fr/economie/commerce/shein-temu-aliexpress-en-france-le-nombre-de-petits-colis-issus-de-ces-plateformes-chute_8257622.html": "2026-10-28T20:20:26.930405+00:00",
+  "https://www.franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/accident-de-trains-en-espagne-intervention-des-secours_8257709.html": "2026-10-28T20:20:26.930405+00:00",
+  "https://www.franceinfo.fr/replay-radio/la-question-des-informes/collision-ferroviaire-en-espagne-on-n-est-absolument-pas-a-l-abri-de-ce-genre-de-catastrophe-en-france-alerte-un-eurodepute_8236300.html": "2026-10-28T20:20:26.930405+00:00",
+  "https://www.franceinfo.fr/monde/europe/union-europeenne/membre-associe-pourquoi-le-terme-choisi-pour-rapprocher-l-ue-et-le-canada-ne-plait-pas-a-tous_8257291.html": "2026-10-28T20:20:26.930405+00:00",
+  "https://www.franceinfo.fr/monde/espagne/inondations-meurtrieres-en-espagne/en-espagne-deux-ans-apres-les-inondations-la-rue-des-voitures-a-repris-un-aspect-normal-a-valence-mais-le-traumatisme-demeure_8257462.html": "2026-10-28T20:20:26.930405+00:00",
+  "https://www.franceinfo.fr/monde/usa/midterms-2018/les-democrates-trichent-aux-etats-unis-le-camp-de-donald-trump-conteste-deja-le-scrutin-des-elections-de-mi-mandat_8257459.html": "2026-10-28T20:20:26.930405+00:00",
+  "https://www.franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/le-ministre-des-transports-espagnol-qualifie-d-inexplicable-la-reprise-du-trafic-apres-une-panne-technique-a-l-origine-de-la-collision-meurtriere-entre-deux-trains_8257528.html": "2026-10-28T20:20:26.930405+00:00",
+  "https://www.franceinfo.fr/monde/espagne/les-images-deja-virales-de-la-grave-collision-de-deux-trains-a-grande-vitesse-en-espagne_8257357.html": "2026-10-28T20:20:26.930405+00:00",
+  "https://www.franceinfo.fr/monde/afrique/soudan/au-soudan-une-frappe-de-drone-fait-plus-de-100-morts-sur-un-marche-de-la-region-du-darfour_8257405.html": "2026-10-28T20:20:26.930405+00:00",
+  "https://www.franceinfo.fr/monde/israel/elections-legislatives-en-israel/elections-legislatives-en-israel-qui-sont-les-arabes-israeliens-qui-s-imposent-en-faiseurs-de-rois_8257375.html": "2026-10-28T20:20:26.930405+00:00",
+  "https://www.franceinfo.fr/monde/bresil/on-vous-raconte-la-fuite-de-flavio-bolsonaro-vers-les-etats-unis-apres-sa-defaite-a-l-election-presidentielle-bresilienne_8257039.html": "2026-10-28T20:20:26.930405+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "Espagne : après la collision entre deux trains, les premières pistes de l'enquête Une collision entre deux trains à grande vitesse a provoqué l'un des pires accidents ferroviaires de l'histoire récente de l'Espagne. Alors que les premières investigations évoquent une possible erreur humaine, le drame relance les questions sur la sécurité du réseau ferroviaire espagnol, déjà marqué par plusieurs accidents meurtriers. Aujourd'hui 1:43 vidéo 1 minute 43",
-   "link": "https://www.franceinfo.fr/faits-divers/espagne-apres-la-collision-entre-deux-trains-les-premieres-pistes-de-l-enquete_8257333.html",
-   "summary": "Espagne : après la collision entre deux trains, les premières pistes de l'enquête",
-   "image": "https://www.franceinfo.fr/pictures/yMCFSz3sUXwippy-Og6JILhE8uk/107x0:1287x811/432x297/filters:format(jpg)/2026/10/28/6ae1f0efd830f188805372.png",
+   "title": "\"La grande victoire de Netanyahou, c'est qu'on parle de lui, mais pas des grands problèmes d'Israël\" : Nicolas Rouger, journaliste Nicolas Rouger, journaliste et grand connaisseur d'Israël où il a vécu près de 8 ans, est l'invité de l'émission \"C Ce Soir\" du 28 octobre. Au lendemain des élections législatives en Israël, il estime que Netanyahou a réussi à se mettre au centre des discussions, occultant les grands problèmes de la société israélienne. Aujourd'hui 1:05 vidéo 1 minute 5",
+   "link": "https://www.franceinfo.fr/monde/israel/elections-legislatives-en-israel/la-grande-victoire-de-netanyahou-c-est-qu-on-parle-de-lui-mais-pas-des-grands-problemes-d-israel-nicolas-rouger-journaliste_8257898.html",
+   "summary": "\"La grande victoire de Netanyahou, c'est qu'on parle de lui, mais pas des grands problèmes d'Israël\" : Nicolas Rouger, journaliste",
+   "image": "https://www.franceinfo.fr/pictures/_faij_5FCvmh6oHNo_gxEyM_PSo/0x0:1080x1920/fit-in/432x297/filters:upscale():fill(blur):format(jpg)/2026/10/28/6ae2560f8c1a7893073613.png",
    "date": null,
-   "pubdate": "2026-10-28T13:05:47.514056+00:00"
+   "pubdate": "2026-10-28T20:20:26.930405+00:00"
   },
   {
-   "title": "2:01 vidéo 2 minutes 1 Au moins 30 morts dans un accident de train sur une ligne à grande vitesse en Espagne",
-   "link": "https://www.franceinfo.fr/faits-divers/au-moins-30-morts-dans-un-accident-de-train-sur-une-ligne-a-grande-vitesse-en-espagne_8257324.html",
-   "summary": "Au moins 30 morts dans un accident de train sur une ligne à grande vitesse en Espagne",
-   "image": "https://www.franceinfo.fr/pictures/fNwZGW_mkk9X9SUxK8OxJoUomJ8/0x13:1395x797/432x243/filters:format(jpg)/2026/10/28/6ae1ee2bcc024137416350.png",
+   "title": "1:55 vidéo 1 minute 55 Espagne, pourquoi les deux trains se sont-ils percutés ?",
+   "link": "https://www.franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/espagne-pourquoi-les-deux-trains-se-sont-ils-percutes_8257889.html",
+   "summary": "Espagne, pourquoi les deux trains se sont-ils percutés ?",
+   "image": "https://www.franceinfo.fr/pictures/may94unGCaK6QeC3sYKuVKBnGhU/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/28/6ae2546c18d6f413327758.jpg",
    "date": null,
-   "pubdate": "2026-10-28T13:05:47.514056+00:00"
+   "pubdate": "2026-10-28T20:20:26.930405+00:00"
   },
   {
-   "title": "Le cinéaste Jafar Panahi condamné en Iran à cinq ans de prison dans une nouvelle affaire",
-   "link": "https://www.franceinfo.fr/culture/cinema/le-cineaste-jafar-panahi-condamne-en-iran-a-cinq-ans-de-prison-dans-une-nouvelle-affaire_8257258.html",
+   "title": "2:07 vidéo 2 minutes 7 Midterms : le Texas va-t-il basculer démocrate ?",
+   "link": "https://www.franceinfo.fr/monde/usa/midterms-2018/midterms-le-texas-va-t-il-basculer-democrate_8257255.html",
+   "summary": "Midterms : le Texas va-t-il basculer démocrate ?",
+   "image": "https://www.franceinfo.fr/pictures/446zh3cCPZymX4-f6P7BtdBQDfA/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/28/6ae1dcf6d54c3915247150.jpg",
+   "date": null,
+   "pubdate": "2026-10-28T20:20:26.930405+00:00"
+  },
+  {
+   "title": "2:02 vidéo 2 minutes 2 Collision meurtrière entre deux trains en Espagne : la piste d'une erreur humaine privilégiée",
+   "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/collision-meurtriere-entre-deux-trains-en-espagne-la-piste-d-une-erreur-humaine-privilegiee_8257868.html",
+   "summary": "Collision meurtrière entre deux trains en Espagne : la piste d'une erreur humaine privilégiée",
+   "image": "https://www.franceinfo.fr/pictures/1gTjwwCtm6NcnnoPoTyEGTTykTA/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/28/6ae24ef8e4782716207855.jpg",
+   "date": null,
+   "pubdate": "2026-10-28T20:20:26.930405+00:00"
+  },
+  {
+   "title": "3:11 vidéo 3 minutes 11 \"Si je n'étais pas parti chercher un café, je serais parmi les morts\" : en Espagne, l'incrédulité des rescapés de la collision meurtrière entre deux trains",
+   "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/les-gens-criaient-et-pleuraient-au-moins-68-morts-apres-un-accident-ferroviaire-en-espagne_8257865.html",
+   "summary": "\"Si je n'étais pas parti chercher un café, je serais parmi les morts\" : en Espagne, l'incrédulité des rescapés de la collision meurtrière entre deux trains",
+   "image": "https://www.franceinfo.fr/pictures/fiB8cYC_HfGdzD-rhWR9Xup87WI/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/28/6ae254bf28f77299848549.jpg",
+   "date": null,
+   "pubdate": "2026-10-28T20:20:26.930405+00:00"
+  },
+  {
+   "title": "Le gouvernement d'Andorre veut dépénaliser partiellement l'avortement, sans toutefois l'autoriser",
+   "link": "https://www.franceinfo.fr/societe/ivg/le-gouvernement-d-andorre-veut-depenaliser-partiellement-l-avortement-sans-toutefois-l-autoriser-dans-la-principaute_8257832.html",
    "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/l9olB6cbMWw9nT5WnD3clN0eWdw/0x0:1024x576/432x243/filters:format(jpg)/2026/10/28/6ae241e31d3a7071188974.jpg",
+   "date": null,
+   "pubdate": "2026-10-28T20:20:26.930405+00:00"
+  },
+  {
+   "title": "Qu'est-ce que le système de gestion du trafic ferroviaire LZB, en panne au moment de la collision meurtrière entre deux trains en Espagne ?",
+   "link": "https://www.franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/qu-est-ce-que-le-systeme-de-gestion-du-trafic-ferroviaire-lzb-en-panne-au-moment-de-la-collision-meurtriere-entre-deux-trains-en-espagne_8257474.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/xfBir9d_ULkz6cYPSXaAmvl-fIs/0x182:3500x2150/432x243/filters:format(jpg)/2026/10/28/6ae20972123f8386711909.jpg",
+   "date": null,
+   "pubdate": "2026-10-28T20:20:26.930405+00:00"
+  },
+  {
+   "title": "Shein, Temu, AliExpress... En France, le nombre de petits colis issus de ces plateformes chute",
+   "link": "https://www.franceinfo.fr/economie/commerce/shein-temu-aliexpress-en-france-le-nombre-de-petits-colis-issus-de-ces-plateformes-chute_8257622.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/y03pkBlIjfdIOi8J1FKIyqHeyiA/0x53:1024x629/432x243/filters:format(jpg)/2026/10/28/6ae2214a7d369915701703.jpg",
+   "date": null,
+   "pubdate": "2026-10-28T20:20:26.930405+00:00"
+  },
+  {
+   "title": "0:54 vidéo 54 secondes Collision ferroviaire en Espagne : intervention des secours",
+   "link": "https://www.franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/accident-de-trains-en-espagne-intervention-des-secours_8257709.html",
+   "summary": "Collision ferroviaire en Espagne : intervention des secours",
+   "image": "https://www.franceinfo.fr/pictures/PLTGJRCveTWSeezwHfMiiuBkxxU/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/28/6ae2235a32e08827105502.png",
+   "date": null,
+   "pubdate": "2026-10-28T20:20:26.930405+00:00"
+  },
+  {
+   "title": "8:40 audio 8 minutes 40 Collision ferroviaire en Espagne : \"On n'est absolument pas à l'abri de ce genre de catastrophe\" en France, alerte un eurodéputé Après la collision entre deux trains en Espagne, François Kalfon, eurodéputé PS-Place publique, membre de la commission des transports au Parlement européen, alerte sur le manque d'investissements dans les infrastructures ferroviaires, y compris en France. Il appelle à renforcer la sécurité des réseaux et à accélérer le déploiement des systèmes de signalisation automatique.",
+   "link": "https://www.franceinfo.fr/replay-radio/la-question-des-informes/collision-ferroviaire-en-espagne-on-n-est-absolument-pas-a-l-abri-de-ce-genre-de-catastrophe-en-france-alerte-un-eurodepute_8236300.html",
+   "summary": "Collision ferroviaire en Espagne : \"On n'est absolument pas à l'abri de ce genre de catastrophe\" en France, alerte un eurodéputé",
+   "image": "https://www.franceinfo.fr/pictures/m0O1mnJHwZiFOhfDl-3bRJyCGy0/0x150:4784x2841/432x243/filters:format(jpg)/2026/10/28/6ae22937be979642535584.jpg",
+   "date": null,
+   "pubdate": "2026-10-28T20:20:26.930405+00:00"
+  },
+  {
+   "title": "\"Membre associé\" : pourquoi le terme choisi pour rapprocher l'UE et le Canada ne plaît pas à tous Le 21ᵉ sommet UE-Canada se tient à Montréal à partir du 29 octobre. La présidente de la Commission, Ursula von der Leyen, a proposé au Canada de devenir membre associé de l'Union européenne. Une proposition qui s'inscrit dans une histoire ancienne entre les deux blocs et qui intervient dans un contexte d'éloignement avec les États-Unis.",
+   "link": "https://www.franceinfo.fr/monde/europe/union-europeenne/membre-associe-pourquoi-le-terme-choisi-pour-rapprocher-l-ue-et-le-canada-ne-plait-pas-a-tous_8257291.html",
+   "summary": "\"Membre associé\" : pourquoi le terme choisi pour rapprocher l'UE et le Canada ne plaît pas à tous",
+   "image": "https://www.franceinfo.fr/pictures/q7ag33O8XVHvj5dnVJIXbYihB6k/0x116:5377x3140/432x243/filters:format(jpg)/2026/09/16/6aaa9362aae6a481520408.jpg",
+   "date": null,
+   "pubdate": "2026-10-28T20:20:26.930405+00:00"
+  },
+  {
+   "title": ": Reportage En Espagne, deux ans après les inondations, la \"rue des voitures\" a repris un aspect normal à Valence, mais le traumatisme demeure Fin octobre 2024, des inondations au sud-est de l'Espagne, ont fait plus de 237 morts, dont 229 dans la région de Valence. Les véhicules entassés sur l'avenue Gomez-Ferrer, dans le quartier d'Alfafar, avaient à l'époque alors fait la une de la presse internationale, rappelle le média public espagnol RTVE.",
+   "link": "https://www.franceinfo.fr/monde/espagne/inondations-meurtrieres-en-espagne/en-espagne-deux-ans-apres-les-inondations-la-rue-des-voitures-a-repris-un-aspect-normal-a-valence-mais-le-traumatisme-demeure_8257462.html",
+   "summary": "En Espagne, deux ans après les inondations, la \"rue des voitures\" a repris un aspect normal à Valence, mais le traumatisme demeure",
+   "image": "https://www.franceinfo.fr/pictures/FGFkTQt0eOZRyJX1PFPxKUDmZjU/0x0:1912x1076/432x243/filters:format(jpg)/2026/10/28/6ae204ec8e8d6934942708.jpg",
+   "date": null,
+   "pubdate": "2026-10-28T20:20:26.930405+00:00"
+  },
+  {
+   "title": "\"Les démocrates trichent\" : aux Etats-Unis, le camp de Donald Trump conteste déjà le scrutin des élections de mi-mandat Alors que les Républicains sont en mauvaise posture dans les sondages, le président américain brandit la menace de la fraude électorale.",
+   "link": "https://www.franceinfo.fr/monde/usa/midterms-2018/les-democrates-trichent-aux-etats-unis-le-camp-de-donald-trump-conteste-deja-le-scrutin-des-elections-de-mi-mandat_8257459.html",
+   "summary": "\"Les démocrates trichent\" : aux Etats-Unis, le camp de Donald Trump conteste déjà le scrutin des élections de mi-mandat",
+   "image": "https://www.franceinfo.fr/pictures/t5yseH_oouYLYG3TVjSH3O1eW2M/0x0:1024x576/432x243/filters:format(jpg)/2026/10/28/6ae20d27b112e563445846.jpg",
+   "date": null,
+   "pubdate": "2026-10-28T20:20:26.930405+00:00"
+  },
+  {
+   "title": "Le ministre des Transports espagnol qualifie d'\"inexplicable\" la reprise du trafic après une panne technique à l'origine de la collision meurtrière entre deux trains L'accident a fait au moins 68 morts et 64 blessés, selon un bilan toujours provisoire communiqué par le président de la région.",
+   "link": "https://www.franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/le-ministre-des-transports-espagnol-qualifie-d-inexplicable-la-reprise-du-trafic-apres-une-panne-technique-a-l-origine-de-la-collision-meurtriere-entre-deux-trains_8257528.html",
+   "summary": "Le ministre des Transports espagnol qualifie d'\"inexplicable\" la reprise du trafic après une panne technique à l'origine de la collision meurtrière entre deux trains",
+   "image": "https://www.franceinfo.fr/pictures/yp7eLYptwUxQCDB2r9re-9vhNGc/0x312:6000x3687/432x243/filters:format(jpg)/2026/10/28/6ae20dad41855057276711.jpg",
+   "date": null,
+   "pubdate": "2026-10-28T20:20:26.930405+00:00"
+  },
+  {
+   "title": ": Vrai ou faux Attention aux images et vidéos virales diffusées sur les réseaux sociaux après l'accident de train en Espagne Peu après la collision entre deux trains, mercredi matin près de Tolède, des images du drame ont été diffusées. franceinfo a pu en authentifier certaines.",
+   "link": "https://www.franceinfo.fr/monde/espagne/les-images-deja-virales-de-la-grave-collision-de-deux-trains-a-grande-vitesse-en-espagne_8257357.html",
+   "summary": "Attention aux images et vidéos virales diffusées sur les réseaux sociaux après l'accident de train en Espagne",
+   "image": "https://www.franceinfo.fr/pictures/RlkiaJhnG_Ak9812fOx-aA91ae0/0x106:1024x682/432x243/filters:format(jpg)/2026/10/28/6ae1f1e3419c5399114669.jpg",
+   "date": null,
+   "pubdate": "2026-10-28T20:20:26.930405+00:00"
+  },
+  {
+   "title": "Au Soudan, une frappe de drone fait plus de 100 morts sur un marché de la région du Darfour L'attaque, qui avait visé lundi soir un marché de la ville de Nyala, contrôlée par les paramilitaires, a aussi fait 113 blessés, dont des enfants, d'après l'ONG Emergency Lawyers. Depuis le début de la guerre il y a trois ans, des dizaines de milliers de Soudanais sont morts et des millions ont été déplacés, provoquant, selon l'ONU, la \"pire crise humanitaire au monde\".",
+   "link": "https://www.franceinfo.fr/monde/afrique/soudan/au-soudan-une-frappe-de-drone-fait-plus-de-100-morts-sur-un-marche-de-la-region-du-darfour_8257405.html",
+   "summary": "Au Soudan, une frappe de drone fait plus de 100 morts sur un marché de la région du Darfour",
+   "image": "https://www.franceinfo.fr/pictures/2PrSOhk3g__6CRa_g2BR84esWNY/0x51:1024x627/432x243/filters:format(jpg)/2026/10/28/6ae1ffc9e08c4451365806.jpg",
+   "date": null,
+   "pubdate": "2026-10-28T20:20:26.930405+00:00"
+  },
+  {
+   "title": "Élections législatives en Israël : qui sont ces électeurs Arabes israéliens, dont les partis pourraient jouer un rôle clé dans la formation du gouvernement ? Le dépouillement des bulletins se poursuit mercredi en Israël, au lendemain des élections législatives. Les partis arabes vont vraisemblablement être amenés à jouer les arbitres entre les deux grands blocs politiques.",
+   "link": "https://www.franceinfo.fr/monde/israel/elections-legislatives-en-israel/elections-legislatives-en-israel-qui-sont-les-arabes-israeliens-qui-s-imposent-en-faiseurs-de-rois_8257375.html",
+   "summary": "Élections législatives en Israël : qui sont ces électeurs Arabes israéliens, dont les partis pourraient jouer un rôle clé dans la formation du gouvernement ?",
+   "image": "https://www.franceinfo.fr/pictures/dbAk8WzN3uzKuROmKN_gn0ruz0s/0x428:8192x5036/432x243/filters:format(jpg)/2026/10/28/6ae1fdd1561d3000220343.jpg",
+   "date": null,
+   "pubdate": "2026-10-28T20:20:26.930405+00:00"
+  },
+  {
+   "title": "On vous raconte la fuite de Flavio Bolsonaro vers les Etats-Unis après sa défaite à l’élection présidentielle brésilienne Le fils de l'ancien président d'extrême droite Jair Bolsonaro a rejoint l'Argentine dans la nuit avant de prendre l'avion pour la Floride en passant par l'Equateur.",
+   "link": "https://www.franceinfo.fr/monde/bresil/on-vous-raconte-la-fuite-de-flavio-bolsonaro-vers-les-etats-unis-apres-sa-defaite-a-l-election-presidentielle-bresilienne_8257039.html",
+   "summary": "On vous raconte la fuite de Flavio Bolsonaro vers les Etats-Unis après sa défaite à l’élection présidentielle brésilienne",
+   "image": "https://www.franceinfo.fr/pictures/kOsv6_8Ptp2Zxqti1vIkEmoDNF0/0x0:3000x1687/432x243/filters:format(jpg)/2026/10/28/6ae204d8eb8eb841550658.jpg",
+   "date": null,
+   "pubdate": "2026-10-28T20:20:26.930405+00:00"
+  },
+  {
+   "title": "Le cinéaste Jafar Panahi condamné en Iran à cinq ans de prison dans une nouvelle affaire Le réalisateur avait remporté la Palme d'or pour son film \"Un simple accident\", en mai 2025, au Festival de Cannes.",
+   "link": "https://www.franceinfo.fr/culture/cinema/le-cineaste-jafar-panahi-condamne-en-iran-a-cinq-ans-de-prison-dans-une-nouvelle-affaire_8257258.html",
+   "summary": "Le cinéaste Jafar Panahi condamné en Iran à cinq ans de prison dans une nouvelle affaire",
    "image": "https://www.franceinfo.fr/pictures/yDU49z52DX-AQ7_SE-Li8KrS7CY/0x0:6000x3375/432x243/filters:format(jpg)/2026/10/28/6ae1e4cf3a9ab906862693.jpg",
    "date": null,
    "pubdate": "2026-10-28T13:05:47.514056+00:00"
   },
   {
-   "title": "2:05 vidéo 2 minutes 5 Collision de trains en Espagne, au moins 30 morts",
-   "link": "https://www.franceinfo.fr/monde/espagne/collision-de-trains-en-espagne-au-moins-30-morts_8257321.html",
-   "summary": "Collision de trains en Espagne, au moins 30 morts",
-   "image": "https://www.franceinfo.fr/pictures/LmPy5lL9nQH0hjg_k0pZTcRbl3A/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/28/6ae1ebb62008f862963645.jpg",
-   "date": null,
-   "pubdate": "2026-10-28T13:05:47.514056+00:00"
-  },
-  {
-   "title": "\"Les gens hurlaient à l'intérieur\" : des passagers et des témoins évoquent des scènes de chaos après la collision mortelle entre deux trains en Espagne",
-   "link": "https://www.franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/les-gens-hurlaient-a-l-interieur-des-passagers-et-des-temoins-evoquent-des-scenes-de-chaos-apres-la-collision-mortelle-entre-deux-trains-en-espagne_8257216.html",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/XP5OXUU8Ne33wtYApp5vDSczYL0/0x60:5040x2895/432x243/filters:format(jpg)/2026/10/28/6ae1db2ed47c3833305927.jpg",
-   "date": null,
-   "pubdate": "2026-10-28T13:05:47.514056+00:00"
-  },
-  {
-   "title": "0:31 vidéo 31 secondes Collision meurtrière entre deux trains en Espagne : le roi Felipe VI réagit",
-   "link": "https://www.franceinfo.fr/monde/espagne/collision-meurtriere-entre-deux-trains-en-espagne-le-roi-felipe-vi-reagit_8257306.html",
-   "summary": "Collision meurtrière entre deux trains en Espagne : le roi Felipe VI réagit",
-   "image": "https://www.franceinfo.fr/pictures/5XtdZTCTbeBRRWZ9o_l-DKx-2-A/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/28/6ae1e7eb5a48a154443070.png",
-   "date": null,
-   "pubdate": "2026-10-28T13:05:47.514056+00:00"
-  },
-  {
-   "title": "1:13 vidéo 1 minute 13 Ce que l'on sait sur la cause de la collision entre deux trains en Espagne",
-   "link": "https://www.franceinfo.fr/monde/espagne/ce-que-l-on-sait-sur-la-cause-de-la-collision-entre-deux-trains-en-espagne_8257300.html",
-   "summary": "Ce que l'on sait sur la cause de la collision entre deux trains en Espagne",
-   "image": "https://www.franceinfo.fr/pictures/-0P0LaMVbhCcDtubFslUC7aKGlQ/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/28/6ae1e6bb97cb7048894454.jpg",
-   "date": null,
-   "pubdate": "2026-10-28T13:05:47.514056+00:00"
-  },
-  {
-   "title": "1:33 vidéo 1 minute 33 Élection en Israël : qui sera le prochain Premier ministre ?",
-   "link": "https://www.franceinfo.fr/monde/israel/election-en-israel-qui-sera-le-prochain-premier-ministre_8257219.html",
-   "summary": "Élection en Israël : qui sera le prochain Premier ministre ?",
-   "image": "https://www.franceinfo.fr/pictures/FS47wQLFX_O5CbUUWU_vaHkAwK0/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/28/6ae1d7f61b24a625874662.png",
-   "date": null,
-   "pubdate": "2026-10-28T13:05:47.514056+00:00"
-  },
-  {
-   "title": "1:15 vidéo 1 minute 15 Collision entre deux trains en Espagne : les images de l'accident",
-   "link": "https://www.franceinfo.fr/monde/espagne/collision-entre-deux-trains-en-espagne-les-images-de-l-accident_8257282.html",
-   "summary": "Collision entre deux trains en Espagne : les images de l'accident",
-   "image": "https://www.franceinfo.fr/pictures/tTQf-CO_jWOyEWUy8G8af2j0-Uo/0x9:1054x1882/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/28/6ae1e2b918e79218127998.png",
-   "date": null,
-   "pubdate": "2026-10-28T13:05:47.514056+00:00"
-  },
-  {
-   "title": ": Carte : Carte Où s'est produite la collision meurtrière entre deux trains en Espagne ?",
-   "link": "https://www.franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/carte-ou-s-est-produite-la-collision-meurtriere-entre-deux-trains-en-espagne_8257180.html",
-   "summary": "Où s'est produite la collision meurtrière entre deux trains en Espagne ?",
-   "image": "https://www.franceinfo.fr/pictures/x0v7K8ALSXU77r3aH87rNugzcWo/0x0:1024x576/432x243/filters:format(jpg)/2026/10/28/6ae1dc4d9e0d5057424276.jpg",
-   "date": null,
-   "pubdate": "2026-10-28T13:05:47.514056+00:00"
-  },
-  {
-   "title": "Léon XIV en France : l'essentiel de la visite du pape 15 contenus",
-   "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/leon-xiv-en-france-retrouvez-l-essentiel/",
-   "summary": "Léon XIV en France : l'essentiel de la visite du pape",
-   "image": "https://www.franceinfo.fr/pictures/bgiweXyFgu0BUNMikE3oBZK0JG4/432x297/filters:format(jpg)/2026/09/24/6ab4f4233a728679965697.jpg",
-   "date": null,
-   "pubdate": "2026-10-28T13:05:47.514056+00:00"
-  },
-  {
-   "title": "L'essentiel des révélations sur l'affaire Epstein 14 contenus",
-   "link": "https://www.franceinfo.fr/monde/usa/affaire-jeffrey-epstein/l-essentiel-des-revelations-sur-l-affaire-epstein/",
-   "summary": "L'essentiel des révélations sur l'affaire Epstein",
-   "image": "https://www.franceinfo.fr/pictures/btENVL4vmQDLNvnJ4uUtTATvN9k/432x297/filters:format(jpg)/2026/02/12/000-96rl2gk-1-698def9a11d8a867290796.jpg",
-   "date": null,
-   "pubdate": "2026-10-28T13:05:47.514056+00:00"
-  },
-  {
-   "title": "Tout comprendre à la guerre au Moyen-Orient 27 contenus",
-   "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/tout-comprendre-a-la-guerre-au-moyen-orient/",
-   "summary": "Tout comprendre à la guerre au Moyen-Orient",
-   "image": "https://www.franceinfo.fr/pictures/1mjbL6KrEfhdf8kkM-fiwv8Aqs4/432x297/filters:format(jpg)/2026/03/01/075-nikoubazl-mourning260301-npgop-69a44a7350cd8738092334.jpg",
-   "date": null,
-   "pubdate": "2026-10-28T13:05:47.514056+00:00"
-  },
-  {
-   "title": "Le Groenland au cœur d'un bras de fer géopolitique 15 contenus",
-   "link": "https://www.franceinfo.fr/monde/groenland/le-groenland-au-c-ur-d-un-bras-de-fer-geopolitique/",
-   "summary": "Le Groenland au cœur d'un bras de fer géopolitique",
-   "image": "https://www.franceinfo.fr/pictures/MKq4Aviz_2Dt7XVuO__X2DAEw5M/432x297/filters:format(jpg)/2026/01/22/043-sw-js9nbczzm6o-697245bf34b52414921393.jpg",
-   "date": null,
-   "pubdate": "2026-10-28T13:05:47.514056+00:00"
-  },
-  {
-   "title": "2:24 audio 2 minutes 24 Au Japon, les demandeurs d'aide sociale doivent vendre leur voiture pour toucher de l'argent de l'État Le gouvernement nippon considère que posséder une voiture est une charge de dépense trop importante, et pas toujours utile, pour des personnes dans le besoin. Mais il existe des exceptions.",
-   "link": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/au-japon-les-demandeurs-d-aide-sociale-doivent-vendre-leur-voiture-pour-toucher-de-l-argent-de-l-etat_8236291.html",
-   "summary": "Au Japon, les demandeurs d'aide sociale doivent vendre leur voiture pour toucher de l'argent de l'État",
-   "image": "https://www.franceinfo.fr/pictures/RNLn06KvPXDgrfNv9LkKPX26JyU/0x369:3543x2362/432x243/filters:format(jpg)/2026/10/28/6ae1d30be5536571374555.jpg",
-   "date": null,
-   "pubdate": "2026-10-28T13:05:47.514056+00:00"
-  },
-  {
-   "title": "Ce que l'on sait de la collision de trains meurtrière près de Tolède, en Espagne L'accident s'est produit mercredi matin entre Madrid et l'Andalousie. Les causes n'ont pas encore été établies.",
-   "link": "https://www.franceinfo.fr/monde/espagne/ce-que-l-on-sait-de-la-collision-de-trains-meurtriere-survenue-pres-de-la-ville-espagnole-de-tolede_8257072.html",
-   "summary": "Ce que l'on sait de la collision de trains meurtrière près de Tolède, en Espagne",
-   "image": "https://www.franceinfo.fr/pictures/F_-WgcISHTOoiHINs-20qXQlF9M/0x70:2000x1195/432x243/filters:format(jpg)/2026/10/28/6ae1d5a38f9d6760186614.jpg",
-   "date": null,
-   "pubdate": "2026-10-28T13:05:47.514056+00:00"
-  },
-  {
-   "title": "\"Bien sûr que j'en ai marre\" : à Moscou, les habitants exaspérés par de nouvelles restrictions d'Internet Pour garantir la sécurité de chefs d'État invités à deux évènements, les autorités russes ont annoncé limiter Internet à Moscou pour trois jours, à partir de mardi. La décision touche fortement le quotidien des Moscovites, contraints d'exprimer leur colère avec la plus grande prudence.",
-   "link": "https://www.franceinfo.fr/monde/russie/bien-sur-que-j-en-ai-marre-a-moscou-les-habitants-exasperes-par-de-nouvelles-restrictions-d-internet_8256883.html",
-   "summary": "\"Bien sûr que j'en ai marre\" : à Moscou, les habitants exaspérés par de nouvelles restrictions d'Internet",
-   "image": "https://www.franceinfo.fr/pictures/qt1SsTOKOb1eSnFeX4xTfzoavxs/0x574:5515x3677/432x243/filters:format(jpg)/2026/10/28/6ae1d09c0b731928568939.jpg",
-   "date": null,
-   "pubdate": "2026-10-28T13:05:47.514056+00:00"
-  },
-  {
-   "title": "Coalition, gouvernement minoritaire, nouveau scrutin... Quels sont les scénarios possibles en Israël, après des législatives sans réel vainqueur ? Aucun bloc n'a atteint les 61 sièges nécessaires pour décrocher une majorité absolue. \"On peut dire que Nétanyahou a perdu, mais que l'opposition n'a pas gagné\", analyse l'historien Vincent Lemire.",
-   "link": "https://www.franceinfo.fr/monde/israel/elections-legislatives-en-israel/coalition-gouvernement-minoritaire-nouveau-scrutin-quels-sont-les-scenarios-possibles-en-israel-apres-des-legislatives-sans-reel-vainqueur_8256856.html",
-   "summary": "Coalition, gouvernement minoritaire, nouveau scrutin... Quels sont les scénarios possibles en Israël, après des législatives sans réel vainqueur ?",
-   "image": "https://www.franceinfo.fr/pictures/9eOltBtvfwI8OofHaMBPS2tG7mI/0x0:5000x2812/432x243/filters:format(jpg)/2026/10/28/6ae1ad163121f556363389.jpg",
-   "date": null,
-   "pubdate": "2026-10-28T13:05:47.514056+00:00"
-  },
-  {
-   "title": "• Direct Collision entre deux trains près de Tolède : le gouvernement régional recense au moins \"31 morts et 80 blessés\" D'après un porte-parole des services d'urgence espagnols sollicité par l'AFP, la collision a eu lieu \"à 8h54\" entre deux trains, \"l'un de [l'opérateur privé] Yrio et l'autre de [la compagnie nationale] Renfe\".",
-   "link": "https://www.franceinfo.fr/monde/espagne/direct-collision-de-deux-trains-en-espagne-les-autorites-locales-deplorent-au-moins-10-morts_8257045.html",
-   "summary": "Collision entre deux trains près de Tolède : le gouvernement régional recense au moins \"31 morts et 80 blessés\"",
-   "image": "https://www.franceinfo.fr/pictures/zq70CbEng6au8i7aoyTu1vFR92M/0x53:1024x629/432x243/filters:format(jpg)/2026/10/28/6ae1e6f93ece6013905219.jpg",
-   "date": null,
-   "pubdate": "2026-10-28T13:05:47.514056+00:00"
-  },
-  {
-   "title": "\"Il a mordu la main qui le nourrit\" : malgré ses excuses, Kylian Mbappé est toujours très critiqué en Chine pour ses propos sur Mao Zedong Les conséquences de la plaisanterie de Kylian Mbappé sur Mao Zedong ont pris une dimension impressionnante en Chine. La polémique atteint désormais le Real Madrid et la Liga.",
-   "link": "https://www.franceinfo.fr/sports/foot/kylian-mbappe/boycott-contrats-rompus-malgre-ses-excuses-kylian-mbappe-est-toujours-tres-critique-en-chine-pour-ses-propos-sur-mao-zedong_8256967.html",
-   "summary": "\"Il a mordu la main qui le nourrit\" : malgré ses excuses, Kylian Mbappé est toujours très critiqué en Chine pour ses propos sur Mao Zedong",
-   "image": "https://www.franceinfo.fr/pictures/n0xDBX6PscCl_CaIFBuk2_Ht3P8/0x367:4721x3023/432x243/filters:format(jpg)/2026/10/28/6ae1b9e1327fe625439769.jpg",
-   "date": null,
-   "pubdate": "2026-10-28T13:05:47.514056+00:00"
-  },
-  {
-   "title": "Élections en Israël : \"On est dans une impasse totale\", analyse le spécialiste du Proche-Orient David Khalfa David Khalfa, co-directeur de l'Observatoire de l'Afrique du Nord et du Moyen-Orient de la Fondation Jean-Jaurès, constate un paysage politique israélien \"plus fragmenté que jamais\" après le dépouillement partiel des résultats des élections législatives.",
-   "link": "https://www.franceinfo.fr/monde/israel/elections-legislatives-en-israel/elections-en-israel-on-est-dans-une-impasse-totale-analyse-le-specialiste-du-proche-orient-david-khalfa_8256997.html",
-   "summary": "Élections en Israël : \"On est dans une impasse totale\", analyse le spécialiste du Proche-Orient David Khalfa",
-   "image": "https://www.franceinfo.fr/pictures/MgG83kS9B0LCuyCBjAywlB_zrMo/0x150:2889x1776/432x243/filters:format(jpg)/2026/10/28/6ae1b91aa388d060978073.jpg",
-   "date": null,
-   "pubdate": "2026-10-28T13:05:47.514056+00:00"
-  },
-  {
-   "title": "Deux trains entrent en collision au sud de Madrid, les autorités locales déplorent \"au moins 10 morts\" Cet accident intervient moins d'un an après le tragique accident survenu à Adamuz en Andalousie, qui avait bouleversé toute l'Espagne.",
-   "link": "https://www.franceinfo.fr/monde/espagne/un-nouvel-accident-de-tgv-en-espagne-dans-la-province-de-tolede-plusieurs-blesses-sont-a-deplorer-selon-les-autorites_8257003.html",
-   "summary": "Deux trains entrent en collision au sud de Madrid, les autorités locales déplorent \"au moins 10 morts\"",
-   "image": "https://www.franceinfo.fr/pictures/F_-WgcISHTOoiHINs-20qXQlF9M/0x70:2000x1195/432x243/filters:format(jpg)/2026/10/28/6ae1d5a38f9d6760186614.jpg",
-   "date": null,
-   "pubdate": "2026-10-28T13:05:47.514056+00:00"
-  },
-  {
-   "title": "2:58 audio 2 minutes 58 La fuite de Flavio Bolsonaro après sa défaite à l'élection présidentielle brésilienne Visé par plusieurs enquêtes, ses passeports annulés, Flavio Bolsonaro a fui le Brésil pour trouver refuge en Équateur. Il tenterait de rejoindre les États-Unis où l'administration Trump l'accueillerait les bras ouverts.",
-   "link": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/la-fuite-de-flavio-bolsonaro-apres-sa-defaite-a-l-election-presidentielle-bresilienne_8236321.html",
-   "summary": "La fuite de Flavio Bolsonaro après sa défaite à l'élection présidentielle brésilienne",
-   "image": "https://www.franceinfo.fr/pictures/N6_U3jK2v1pXuWMs4_8hNwxBhXM/0x0:3312x1863/432x243/filters:format(jpg)/2026/10/28/6ae1b2ab24e6c430530765.jpg",
-   "date": null,
-   "pubdate": "2026-10-28T13:05:47.514056+00:00"
-  },
-  {
-   "title": "Paris continuera de plaider pour une solution à deux Etats, quel que soit le résultat des élections législatives en Israël, affirme Jean-Noël Barrot \"Notre cap est très clair et notre position est inchangée\", a martelé le ministre français des Affaires étrangères, invité de France 2 mercredi.",
-   "link": "https://www.franceinfo.fr/monde/israel/la-diplomatie-francaise-continuera-de-pousser-pour-une-solution-a-deux-etats-quel-que-soit-le-resultat-des-elections-legislatives-en-israel-affirme-jean-noel-barrot_8256982.html",
-   "summary": "Paris continuera de plaider pour une solution à deux Etats, quel que soit le résultat des élections législatives en Israël, affirme Jean-Noël Barrot",
-   "image": "https://www.franceinfo.fr/pictures/M_NLca8zvaa5Miv9i_dVKjT5yzY/0x0:3697x2079/432x243/filters:format(jpg)/2026/10/28/6ae1b5af406f5217331629.jpg",
-   "date": null,
-   "pubdate": "2026-10-28T13:05:47.514056+00:00"
-  },
-  {
-   "title": ": Podcast 5:59 audio 5 minutes 59 Kylian Mbappé victime de \"sharp power\", Flavio Bolsonaro s'enfuit et Youtube au cinéma : ça dit quoi ce 28 octobre ? Ce mercredi 28 octobre, la polémique continue en Chine après que Kylian Mbappé a qualifié Mao Zedong de \"dictateur\", Flavio Bolsonaro a quitté le Brésil et le youtubeur Nico Là sort un documentaire au cinéma.",
-   "link": "https://www.franceinfo.fr/replay-radio/ca-dit-quoi/podcast-kylian-mbappe-victime-de-sharp-power-flavio-bolsonaro-s-enfuit-et-youtube-au-cinema-ca-dit-quoi-ce-28-octobre_8247976.html",
-   "summary": "Kylian Mbappé victime de \"sharp power\", Flavio Bolsonaro s'enfuit et Youtube au cinéma : ça dit quoi ce 28 octobre ?",
-   "image": "https://www.franceinfo.fr/pictures/z6Itpu5HCojr5d_OdhnUnY6z-CI/0x0:1024x576/432x243/filters:format(jpg)/2026/09/07/6a9eac751ee14471759144.jpg",
-   "date": null,
-   "pubdate": "2026-10-28T13:05:47.514056+00:00"
-  },
-  {
-   "title": "19:41 audio 19 minutes 41 Les informés du matin du mercredi 28 octobre 2026 Les informés débattent de l'actualité autour d'Audrey Tison et Renaud Dély.",
-   "link": "https://www.franceinfo.fr/replay-radio/les-informes-du-matin/les-informes-du-matin-du-mercredi-28-octobre-2026_8236318.html",
-   "summary": "Les informés du matin du mercredi 28 octobre 2026",
-   "image": "https://www.franceinfo.fr/pictures/TKWb09bmk3TJazMzKgqtt36pV4Q/0x292:5616x3451/432x243/filters:format(jpg)/2026/07/08/6a4e52a5b634b233317025.jpg",
+   "title": "1:17:00 audio 1 heure 17 minutes Nouveau drame ferroviaire en Espagne, élections législatives israéliennes...Les informés de franceinfo du mercredi 28 octobre 2026",
+   "link": "https://www.franceinfo.fr/replay-radio/les-informes-de-france-info/nouveau-drame-ferroviaire-en-espagne-elections-legislatives-israeliennes-les-informes-de-franceinfo-du-mercredi-28-octobre-2026_8236315.html",
+   "summary": "Nouveau drame ferroviaire en Espagne, élections législatives israéliennes...Les informés de franceinfo du mercredi 28 octobre 2026",
+   "image": "https://www.franceinfo.fr/pictures/ZqbDdPeMd-qG7_bO2eFIgp0exzo/254x81:1025x514/432x243/filters:format(jpg)/2026/10/28/6ae24d8d22e7f304437832.png",
    "date": "2026-10-28T11:00:00+00:00",
    "pubdate": "2026-10-28T11:00:00+00:00"
   },

@@ -1,8 +1,7 @@
 {
- "etag": "\"1jzpwpr\"",
+ "etag": "\"17v8322\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/javier-milei-a-paris-qu-est-ce-que-le-liberal-conservatisme-a-la-francaise-4074047": "2026-10-01T18:29:06.788878+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/la-dette-est-elle-un-outil-de-soumission-politique-5910973": "2026-10-02T11:00:00+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/mobilisations-lyceennes-a-qui-profite-le-chaos-3436710": "2026-10-05T22:05:02.273913+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/les-luttes-peuvent-elles-converger-6069246": "2026-10-06T22:42:35.614973+00:00",
@@ -20,10 +19,19 @@
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/l-ukraine-peut-elle-combattre-sans-les-etats-unis-1368171": "2026-10-22T17:16:26.076810+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/peut-on-faire-une-genealogie-de-la-violence-5914534": "2026-10-17T11:00:00+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/a-quoi-reconnait-on-le-debut-d-une-guerre-civile-3831508": "2026-10-26T20:33:58.023244+00:00",
-  "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/reelection-de-lula-le-bresil-a-t-il-sauve-sa-democratie-8269925": "2026-10-27T22:20:50.125579+00:00"
+  "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/reelection-de-lula-le-bresil-a-t-il-sauve-sa-democratie-8269925": "2026-10-27T22:20:50.125579+00:00",
+  "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/retour-sur-les-elections-en-israel-7933436": "2026-10-28T11:00:00+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "Retour sur les Ã©lections en IsraÃ«l",
+   "link": "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/retour-sur-les-elections-en-israel-7933436",
+   "summary": "AprÃ¨s le dÃ©pouillement de plus de 85Â % des bulletins, la coalition de droite et dâextrÃªme droite de Benyamin NÃ©tanyahou reste en tÃªte.",
+   "image": "https://www.radiofrance.fr/pikapi/images/8b0b1eb7-9876-4b7e-86da-48212e2b3150/2048",
+   "date": "2026-10-28T11:00:00+00:00",
+   "pubdate": "2026-10-28T11:00:00+00:00"
+  },
   {
    "title": "RÃ©Ã©lection de LulaÂ : le BrÃ©sil a-t-il sauvÃ© sa dÃ©mocratieÂ ?",
    "link": "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/reelection-de-lula-le-bresil-a-t-il-sauve-sa-democratie-8269925",
@@ -167,14 +175,6 @@
    "image": "https://www.radiofrance.fr/pikapi/images/3311fb06-db27-45b0-82fa-ddea3db066ae/2048",
    "date": "2026-10-02T11:00:00+00:00",
    "pubdate": "2026-10-02T11:00:00+00:00"
-  },
-  {
-   "title": "Javier Milei Ã ParisÂ : quâest-ce que le libÃ©ral-conservatisme Ã la franÃ§aiseÂ ?",
-   "link": "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/javier-milei-a-paris-qu-est-ce-que-le-liberal-conservatisme-a-la-francaise-4074047",
-   "summary": "Devenu une rÃ©fÃ©rence pour une partie de la droite franÃ§aise, Javier Milei est de retour Ã Paris. Entre fascination politique et promesse de \"thÃ©rapie de choc\", son modÃ¨le ultralibÃ©ral peut-il rÃ©ellement trouver un Ã©cho en FranceÂ ?",
-   "image": "https://www.radiofrance.fr/pikapi/images/eb6beed5-9434-4a2d-ae07-2f30861eca07/2048",
-   "date": "2026-10-01T11:00:00+00:00",
-   "pubdate": "2026-10-01T11:00:00+00:00"
   }
  ]
 }
