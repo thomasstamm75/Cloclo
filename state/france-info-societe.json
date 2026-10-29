@@ -1,80 +1,156 @@
 {
- "etag": "\"d721d8034ca5381f406409a8cd258eeb-gzip\"",
+ "etag": "\"7990ce10ae207dbe9e87d3ab0f078812-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/si-on-arrete-maintenant-on-a-perdu-et-ils-ont-gagne-a-la-veille-d-une-nouvelle-journee-de-mobilisation-des-etudiants-plus-determines-que-jamais_8229265.html": "2026-10-23T11:46:24.983620+00:00",
   "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-existe-t-il-vraiment-des-policiers-casseurs-en-civil-et-infiltres-dans-les-manifestations-qui-commettent-des-degradations_8250637.html": "2026-10-24T11:11:08.227161+00:00",
-  "https://www.franceinfo.fr/societe/euthanasie/comprendre-les-debats-sur-la-fin-de-vie/": "2026-10-26T20:33:41.804927+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/mobilisation-du-24-octobre-a-paris-des-habitants-divises-sur-la-necessite-de-poursuivre-les-manifestations-mais-des-etudiants-toujours-determines_8227672.html": "2026-10-26T20:33:41.804927+00:00",
   "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/bon-courage-a-ceux-qui-arrivent-l-election-presidentielle-permettra-t-elle-vraiment-de-sortir-de-la-crise-politique-et-sociale-qui-secoue-le-pays_8245624.html": "2026-10-26T20:33:41.804927+00:00",
-  "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/le-gouvernement-estime-qu-il-n-y-a-pas-de-raison-de-changer-les-dates-de-la-presidentielle-apres-les-violences-du-17-octobre_8257312.html": "2026-10-28T13:05:39.498278+00:00",
-  "https://www.franceinfo.fr/societe/drogue/au-proces-de-l-assassinat-de-son-grand-frere-sur-fond-de-narcotrafic-amine-kessaci-evoque-le-souvenir-de-celui-qui-l-a-toujours-encourage_8257285.html": "2026-10-28T13:05:39.498278+00:00",
-  "https://www.franceinfo.fr/societe/religion/toussaint/toussaint-laurent-nunez-demande-aux-prefets-de-renforcer-la-securite-des-lieux-de-culte-et-cimetieres-chretiens_8257213.html": "2026-10-28T13:05:39.498278+00:00",
-  "https://www.franceinfo.fr/replay-radio/les-informes-du-matin/les-informes-du-matin-du-mercredi-28-octobre-2026_8236318.html": "2026-10-28T11:00:00+00:00",
-  "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/saint-denis-un-elu-de-la-mairie-assure-avoir-ete-gaze-par-un-policier-au-lendemain-du-17-octobre-il-depose-plainte-aupres-du-parquet-et-de-l-igpn_8257192.html": "2026-10-28T13:05:39.498278+00:00",
-  "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/au-japon-les-demandeurs-d-aide-sociale-doivent-vendre-leur-voiture-pour-toucher-de-l-argent-de-l-etat_8236291.html": "2026-10-28T13:05:39.498278+00:00",
-  "https://www.franceinfo.fr/economie/greve/manifestations-l-alliance-du-commerce-reclame-en-urgence-des-autorisations-exceptionnelles-d-ouverture-le-dimanche-pour-permettre-aux-commercants-de-rattraper-leur-chiffre-d-affaires_8257168.html": "2026-10-28T13:05:39.498278+00:00",
-  "https://www.franceinfo.fr/societe/justice/j-ai-juste-voulu-descendre-pour-m-acheter-un-sandwich-l-igpn-saisie-a-lyon-apres-qu-un-homme-a-ete-blesse-au-thorax_8257057.html": "2026-10-28T13:05:39.498278+00:00",
-  "https://www.franceinfo.fr/replay-magazine/franceinfo/avant-le-20h/attentat-raciste-dans-les-yvelines-il-faut-une-concorde-nationale-souhaite-arnaud-robinet-maire-horizons-de-reims_8257835.html": "2026-10-28T20:20:18.245592+00:00",
   "https://www.franceinfo.fr/societe/ivg/le-gouvernement-d-andorre-veut-depenaliser-partiellement-l-avortement-sans-toutefois-l-autoriser-dans-la-principaute_8257832.html": "2026-10-28T20:20:18.245592+00:00",
   "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/a-rouen-et-au-havre-la-prefecture-propose-aux-commercants-d-ouvrir-deux-dimanches-en-novembre-en-compensation-des-manifestations_8257838.html": "2026-10-28T20:20:18.245592+00:00",
-  "https://www.franceinfo.fr/societe/enfance-et-adolescence/maltraitance-des-enfants/quatre-eleves-de-ce2-sur-dix-declarent-avoir-subi-des-violences-sexuelles-a-l-ecole_8257387.html": "2026-10-28T20:20:18.245592+00:00",
   "https://www.franceinfo.fr/societe/education/blocage-des-lycees/les-blessures-sont-injustifiables-des-experts-de-l-onu-se-disent-consternes-par-la-repression-des-manifestations-lyceennes-et-etudiantes_8257718.html": "2026-10-28T20:20:18.245592+00:00",
   "https://www.franceinfo.fr/societe/education/blocage-des-lycees/des-eleves-de-tours-menaces-de-sanctions-disciplinaires-par-leur-propre-etablissement-pour-leur-participation-au-blocus-de-leur-lycee_8257652.html": "2026-10-28T20:20:18.245592+00:00",
-  "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/le-maire-de-limoges-ne-comprend-pas-l-absence-d-appel-d-emmanuel-macron-apres-l-incendie-de-l-hotel-de-ville-le-17-octobre_8257384.html": "2026-10-28T20:20:18.245592+00:00",
-  "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/la-region-ile-de-france-et-la-ville-de-paris-creent-un-fonds-d-urgence-de-13-millions-d-euros-pour-les-commerces-endommages-apres-le-17-octobre_8257150.html": "2026-10-28T20:20:18.245592+00:00",
   "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-lyceenne-parcoursup-racisme-ce-qu-il-faut-retenir-de-l-interview-d-emmanuel-macron-a-la-chaine-hugodecrypte_8258006.html": "2026-10-29T01:01:17.666406+00:00",
-  "https://www.franceinfo.fr/monde/bresil/un-citoyen-qui-fuit-son-pays-a-forcement-quelque-chose-a-cacher-la-fuite-de-flavio-bolsonaro-a-miami-apres-sa-defaite-au-bresil-fait-reagir-le-president-lula_8257958.html": "2026-10-29T01:01:17.666406+00:00",
-  "https://www.franceinfo.fr/replay-jt/france-2/20-heures/est-ce-que-ca-a-pu-causer-sa-mort-les-gaz-lacrymogenes-sont-ils-dangereux_8257946.html": "2026-10-29T01:01:17.666406+00:00",
-  "https://www.franceinfo.fr/replay-jt/france-2/13-heures/commerces-pilles-le-gouvernement-promet-jusqu-a-10-000-euros-d-aide_8257922.html": "2026-10-29T01:01:17.666406+00:00",
-  "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/elle-continue-de-se-battre-le-chemin-sera-tres-long-la-mere-de-l-enfant-blessee-dans-l-attentat-raciste-des-yvelines-se-confie_8257919.html": "2026-10-29T01:01:17.666406+00:00",
   "https://www.franceinfo.fr/societe/education/blocage-des-lycees/info-franceinfo-mobilisation-des-lyceens-l-enquete-pour-agression-sexuelle-visant-un-policier-a-metz-classee-sans-suite-procureur_8257907.html": "2026-10-29T01:01:17.666406+00:00",
-  "https://www.franceinfo.fr/societe/nos-jours-heureux/": "2026-10-29T01:01:17.666406+00:00"
+  "https://www.franceinfo.fr/replay-radio/les-informes-du-matin/les-informes-du-matin-du-jeudi-29-octobre-2026_8237998.html": "2026-10-29T11:00:00+00:00",
+  "https://www.franceinfo.fr/sante/alimentation/aide-alimentaire-une-etude-denonce-les-millions-d-euros-de-reductions-d-impot-accordees-a-la-grande-distribution-pour-des-dons-de-produits-finalement-jetes_8258561.html": "2026-10-29T10:06:41.389895+00:00",
+  "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/la-gen-z-monte-au-creneau-pour-defendre-ses-droits-partout-dans-le-monde_8237950.html": "2026-10-29T10:06:41.389895+00:00",
+  "https://www.franceinfo.fr/economie/greve/manifestations-jean-pierre-farandou-veut-donner-un-ok-de-principe-aux-commercants-qui-veulent-ouvrir-le-dimanche-pour-compenser-les-pertes-d-activites_8258495.html": "2026-10-29T10:06:41.389895+00:00",
+  "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/mobilisation-des-lyceens-parcoursup-maintien-de-l-ordre-le-8h30-franceinfo-de-philippe-baptiste_8237956.html": "2026-10-29T10:06:41.389895+00:00",
+  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/le-ministre-de-l-enseignement-superieur-estime-qu-il-est-essentiel-que-les-cours-puissent-reprendre-lundi-en-presentiel-mais-assure-que-la-discussion-reste-ouverte_8258474.html": "2026-10-29T10:06:41.389895+00:00",
+  "https://www.franceinfo.fr/societe/manifestations/le-parquet-de-toulouse-saisit-l-igpn-apres-la-plainte-du-manifestant-grievement-blesse-a-la-main-le-24-octobre_8258207.html": "2026-10-29T10:06:41.389895+00:00",
+  "https://www.franceinfo.fr/societe/trappes/direct-attentat-raciste-a-trappes-le-suspect-a-ete-transfere-dans-la-nuit-au-tribunal-judiciaire-de-paris-en-vue-de-sa-mise-en-examen_8258192.html": "2026-10-29T10:06:41.389895+00:00",
+  "https://www.franceinfo.fr/societe/sdf/en-2025-927-personnes-sans-domicile-fixe-sont-mortes-en-france-selon-le-collectif-les-morts-de-la-rue_8256067.html": "2026-10-29T10:06:41.389895+00:00",
+  "https://www.franceinfo.fr/economie/fraude/ils-sont-la-pour-gagner-de-l-argent-au-detriment-des-familles-le-secteur-des-pompes-funebres-dans-le-viseur-de-la-repression-des-fraudes_8257916.html": "2026-10-29T10:06:41.389895+00:00",
+  "https://www.franceinfo.fr/societe/harcelement-sexuel/plus-jamais-un-enfant-victime-d-inceste-n-entendra-qu-il-etait-trop-tard-pour-parler-le-senat-approuve-l-imprescriptibilite-des-crimes-sexuels-commis-sur-les-mineurs_8258195.html": "2026-10-29T10:06:41.389895+00:00",
+  "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/temoignages-on-a-toujours-l-impression-de-deranger-apres-l-attentat-de-trappes-des-personnes-racisees-racontent-la-peur-et-les-discriminations_8254078.html": "2026-10-29T10:06:41.389895+00:00",
+  "https://www.franceinfo.fr/replay-jt/france-2/13-heures/a-trappes-les-mediateurs-sont-a-l-ecoute-des-habitants-apres-l-attentat-raciste_8257480.html": "2026-10-29T10:06:41.389895+00:00",
+  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/remplacer-parcoursup-suffira-t-il-a-resoudre-les-difficultes-d-acces-a-l-enseignement-superieur-rencontrees-par-les-lyceens_8257456.html": "2026-10-29T10:06:41.389895+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "Mobilisation lycéenne, Parcoursup, racisme... Ce qu'il faut retenir de l'interview d'Emmanuel Macron à la chaîne HugoDécrypte Emmanuel Macron a appelé, mercredi, à ce que \"le calme revienne\" dans les lycées et à la reprise des cours \"à la rentrée\" de lundi \"après les vacances de la Toussaint\". Aujourd'hui",
+   "title": "Les informés du matin du jeudi 29 octobre 2026 Les informés débattent de l'actualité autour d'Audrey Tison et Renaud Dély. Aujourd'hui 20:43 audio 20 minutes 43",
+   "link": "https://www.franceinfo.fr/replay-radio/les-informes-du-matin/les-informes-du-matin-du-jeudi-29-octobre-2026_8237998.html",
+   "summary": "Les informés du matin du jeudi 29 octobre 2026",
+   "image": "https://www.franceinfo.fr/pictures/tCoKl1B3gZZ1F0_SfJleRKjTZPk/85x0:5531x3744/432x297/filters:format(jpg)/2026/07/08/6a4e52a5b634b233317025.jpg",
+   "date": "2026-10-29T11:00:00+00:00",
+   "pubdate": "2026-10-29T11:00:00+00:00"
+  },
+  {
+   "title": "Aide alimentaire : une étude dénonce les millions d'euros de réductions d'impôt accordées à la grande distribution pour des dons de produits finalement jetés",
+   "link": "https://www.franceinfo.fr/sante/alimentation/aide-alimentaire-une-etude-denonce-les-millions-d-euros-de-reductions-d-impot-accordees-a-la-grande-distribution-pour-des-dons-de-produits-finalement-jetes_8258561.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/yPFzviNVGAgl989C4FpjtxrmGxg/432x243/filters:format(jpg)/2026/09/02/6a97eec97b66a189431133.jpg",
+   "date": null,
+   "pubdate": "2026-10-29T10:06:41.389895+00:00"
+  },
+  {
+   "title": "2:37 audio 2 minutes 37 La Gen Z monte au créneau pour défendre ses droits partout dans le monde",
+   "link": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/la-gen-z-monte-au-creneau-pour-defendre-ses-droits-partout-dans-le-monde_8237950.html",
+   "summary": "La Gen Z monte au créneau pour défendre ses droits partout dans le monde",
+   "image": "https://www.franceinfo.fr/pictures/FzjYYPSs5TADyld55zxHy0oXanU/0x75:6264x3599/432x243/filters:format(jpg)/2026/10/29/6ae30554c21b4405785400.jpg",
+   "date": null,
+   "pubdate": "2026-10-29T10:06:41.389895+00:00"
+  },
+  {
+   "title": "Manifestations : Jean-Pierre Farandou veut donner un \"OK de principe\" aux commerçants qui veulent ouvrir le dimanche, pour compenser les pertes d'activités",
+   "link": "https://www.franceinfo.fr/economie/greve/manifestations-jean-pierre-farandou-veut-donner-un-ok-de-principe-aux-commercants-qui-veulent-ouvrir-le-dimanche-pour-compenser-les-pertes-d-activites_8258495.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/lljUuddSDVNpyMP7-ToBEMzJV0c/0x53:1024x629/432x243/filters:format(jpg)/2026/06/05/6a228d59318d1300277224.jpg",
+   "date": null,
+   "pubdate": "2026-10-29T10:06:41.389895+00:00"
+  },
+  {
+   "title": "23:44 audio 23 minutes 44 Mobilisation des lycéens, parcoursup, maintien de l'ordre... Le \"8h30 franceinfo\" de Philippe Baptiste",
+   "link": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/mobilisation-des-lyceens-parcoursup-maintien-de-l-ordre-le-8h30-franceinfo-de-philippe-baptiste_8237956.html",
+   "summary": "Mobilisation des lycéens, parcoursup, maintien de l'ordre... Le \"8h30 franceinfo\" de Philippe Baptiste",
+   "image": "https://www.franceinfo.fr/pictures/SbVhLRCRnG5oqXpGegzAJKpNkxM/0x0:1280x720/432x243/filters:format(jpg)/2026/10/29/6ae2fb366194c389730666.jpg",
+   "date": null,
+   "pubdate": "2026-10-29T10:06:41.389895+00:00"
+  },
+  {
+   "title": "Le ministre de l'Enseignement supérieur estime qu'il est \"essentiel\" que les cours puissent reprendre lundi \"en présentiel\" mais assure que la discussion \"reste ouverte\"",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/le-ministre-de-l-enseignement-superieur-estime-qu-il-est-essentiel-que-les-cours-puissent-reprendre-lundi-en-presentiel-mais-assure-que-la-discussion-reste-ouverte_8258474.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/L1PvvuYPwzYasf5sO5cUf_sCC3A/0x0:1280x720/432x243/filters:format(jpg)/2026/10/29/6ae2f9d7b34b9237686042.jpg",
+   "date": null,
+   "pubdate": "2026-10-29T10:06:41.389895+00:00"
+  },
+  {
+   "title": "Le parquet de Toulouse saisit l'IGPN après la plainte d'un manifestant grièvement blessé à la main le 24 octobre",
+   "link": "https://www.franceinfo.fr/societe/manifestations/le-parquet-de-toulouse-saisit-l-igpn-apres-la-plainte-du-manifestant-grievement-blesse-a-la-main-le-24-octobre_8258207.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/wZEj8xCN_uzLjovAg32WBzLFv3o/0x0:3632x2043/432x243/filters:format(jpg)/2026/10/29/6ae2f26f2118e232086192.jpg",
+   "date": null,
+   "pubdate": "2026-10-29T10:06:41.389895+00:00"
+  },
+  {
+   "title": "• Direct • Direct Attentat raciste dans les Yvelines : le patron du parquet national antiterroriste doit s'exprimer à partir de 11 heures au tribunal judiciaire de Paris",
+   "link": "https://www.franceinfo.fr/societe/trappes/direct-attentat-raciste-a-trappes-le-suspect-a-ete-transfere-dans-la-nuit-au-tribunal-judiciaire-de-paris-en-vue-de-sa-mise-en-examen_8258192.html",
+   "summary": "Attentat raciste dans les Yvelines : le patron du parquet national antiterroriste doit s'exprimer à partir de 11 heures au tribunal judiciaire de Paris",
+   "image": "https://www.franceinfo.fr/pictures/Wwmt8iA1yUDDijcIaVYsHeyo_IY/432x243/filters:format(jpg)/2026/10/26/6adf97ec747a0839206031.jpg",
+   "date": null,
+   "pubdate": "2026-10-29T10:06:41.389895+00:00"
+  },
+  {
+   "title": "En 2025, 927 personnes sans domicile fixe sont mortes en France, selon le collectif \"Les Morts de la rue\"",
+   "link": "https://www.franceinfo.fr/societe/sdf/en-2025-927-personnes-sans-domicile-fixe-sont-mortes-en-france-selon-le-collectif-les-morts-de-la-rue_8256067.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/fgp7eAsQp-4SxaF5kK0ElBespyI/0x0:1024x576/432x243/filters:format(jpg)/2026/10/27/6ae0cd4a80c77715109735.jpg",
+   "date": null,
+   "pubdate": "2026-10-29T10:06:41.389895+00:00"
+  },
+  {
+   "title": "\"Ils sont là pour gagner de l'argent au détriment des familles\" : le secteur des pompes funèbres dans le viseur de la Répression des fraudes",
+   "link": "https://www.franceinfo.fr/economie/fraude/ils-sont-la-pour-gagner-de-l-argent-au-detriment-des-familles-le-secteur-des-pompes-funebres-dans-le-viseur-de-la-repression-des-fraudes_8257916.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/HFbk6t8hTgHXE4T1A7It8M-V3HM/0x0:4930x2773/432x243/filters:format(jpg)/2026/10/28/6ae26336a9c0e713522737.jpg",
+   "date": null,
+   "pubdate": "2026-10-29T10:06:41.389895+00:00"
+  },
+  {
+   "title": "\"Plus jamais un enfant victime d'inceste n'entendra qu'il était trop tard pour parler\" : le Sénat approuve l'imprescriptibilité des crimes sexuels commis sur les mineurs A l'heure actuelle, une victime de viol subi dans l'enfance peut porter plainte jusqu'à 48 ans, le délai de prescription étant de trente ans à compter de sa majorité, un délai jugé insuffisant par certaines associations de protection de l'enfance.",
+   "link": "https://www.franceinfo.fr/societe/harcelement-sexuel/plus-jamais-un-enfant-victime-d-inceste-n-entendra-qu-il-etait-trop-tard-pour-parler-le-senat-approuve-l-imprescriptibilite-des-crimes-sexuels-commis-sur-les-mineurs_8258195.html",
+   "summary": "\"Plus jamais un enfant victime d'inceste n'entendra qu'il était trop tard pour parler\" : le Sénat approuve l'imprescriptibilité des crimes sexuels commis sur les mineurs",
+   "image": "https://www.franceinfo.fr/pictures/5oANCE9OYE4X9yEBEs422quQ4jQ/0x0:8949x5033/432x243/filters:format(jpg)/2026/10/29/6ae2d441b4c13009290507.jpg",
+   "date": null,
+   "pubdate": "2026-10-29T10:06:41.389895+00:00"
+  },
+  {
+   "title": ": Témoignages \"On a toujours l'impression de déranger\" : après l'attentat de Trappes, des personnes racisées racontent la peur et les discriminations L'attentat raciste survenu à Trappes a ravivé dans l'esprit de nombreuses personnes noires, arabes ou encore asiatiques les angoisses et les micro-agressions qu'elles subissent régulièrement en France.",
+   "link": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/temoignages-on-a-toujours-l-impression-de-deranger-apres-l-attentat-de-trappes-des-personnes-racisees-racontent-la-peur-et-les-discriminations_8254078.html",
+   "summary": "\"On a toujours l'impression de déranger\" : après l'attentat de Trappes, des personnes racisées racontent la peur et les discriminations",
+   "image": "https://www.franceinfo.fr/pictures/ewaA_ZoJKQtlc98yu3r4hgdke4Q/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/28/6ae23380ec9e9402432114.jpg",
+   "date": null,
+   "pubdate": "2026-10-29T10:06:41.389895+00:00"
+  },
+  {
+   "title": "1:51 vidéo 1 minute 51 À Trappes, les médiateurs sont à l'écoute des habitants après l’attentat raciste Un hommage national sera rendu à la victime de l'attentat raciste de Trappes (Yvelines) Pengo Bossio Wangi, qui était âgé de 26 ans. Dans la commune, l'émotion est toujours très forte cinq jours après cette attaque qui a fait un mort et cinq blessés. Des médiateurs sont mobilisés pour recueillir la parole des habitants.",
+   "link": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/a-trappes-les-mediateurs-sont-a-l-ecoute-des-habitants-apres-l-attentat-raciste_8257480.html",
+   "summary": "À Trappes, les médiateurs sont à l'écoute des habitants après l’attentat raciste",
+   "image": "https://www.franceinfo.fr/pictures/cdzfkYomcUHxkHkY6zWapkSDIqc/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/28/6ae207d1401f8432933152.jpg",
+   "date": null,
+   "pubdate": "2026-10-29T10:06:41.389895+00:00"
+  },
+  {
+   "title": "2:49 vidéo 2 minutes 49 Remplacer Parcoursup suffira-t-il à résoudre les difficultés d'accès à l'enseignement supérieur rencontrées par les lycéens ? Un débat consacré à \"l'avenir du processus d'orientation et d'affectation des lycéens dans l'enseignement supérieur\" se tient mercredi 28 octobre à l'Assemblée nationale, sans vote à l'issue des échanges. Il intervient quelques jours après l'annonce d'une nouvelle plateforme destinée à remplacer Parcoursup en 2028. Mais ce remplacement suffira-t-il à résoudre les difficultés d'accès à l'enseignement supérieur rencontrées par les lycéens ?",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/remplacer-parcoursup-suffira-t-il-a-resoudre-les-difficultes-d-acces-a-l-enseignement-superieur-rencontrees-par-les-lyceens_8257456.html",
+   "summary": "Remplacer Parcoursup suffira-t-il à résoudre les difficultés d'accès à l'enseignement supérieur rencontrées par les lycéens ?",
+   "image": "https://www.franceinfo.fr/pictures/W7cZKAw1w6IWj2D-NALTmLj8-ws/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/28/6ae203c910c8d931987754.png",
+   "date": null,
+   "pubdate": "2026-10-29T10:06:41.389895+00:00"
+  },
+  {
+   "title": "Mobilisation lycéenne, Parcoursup, racisme... Ce qu'il faut retenir de l'interview d'Emmanuel Macron à la chaîne HugoDécrypte Emmanuel Macron a appelé, mercredi, à ce que \"le calme revienne\" dans les lycées et à la reprise des cours \"à la rentrée\" de lundi \"après les vacances de la Toussaint\".",
    "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-lyceenne-parcoursup-racisme-ce-qu-il-faut-retenir-de-l-interview-d-emmanuel-macron-a-la-chaine-hugodecrypte_8258006.html",
    "summary": "Mobilisation lycéenne, Parcoursup, racisme... Ce qu'il faut retenir de l'interview d'Emmanuel Macron à la chaîne HugoDécrypte",
-   "image": "https://www.franceinfo.fr/pictures/Be0yVR5RXk_aeWPII5mS3VX5Ens/0x0:1358x934/432x297/filters:format(jpg)/2026/10/28/6ae26fa9c56f5539534802.jpg",
+   "image": "https://www.franceinfo.fr/pictures/b7Hbb1DIoTqthkFttogVcosZZlU/0x0:1657x932/432x243/filters:format(jpg)/2026/10/28/6ae26fa9c56f5539534802.jpg",
    "date": null,
    "pubdate": "2026-10-29T01:01:17.666406+00:00"
   },
   {
-   "title": "1:45 vidéo 1 minute 45 \"Un citoyen qui fuit son pays a forcément quelque chose à cacher\" : la fuite de Flavio Bolsonaro à Miami après sa défaite au Brésil fait réagir le président Lula",
-   "link": "https://www.franceinfo.fr/monde/bresil/un-citoyen-qui-fuit-son-pays-a-forcement-quelque-chose-a-cacher-la-fuite-de-flavio-bolsonaro-a-miami-apres-sa-defaite-au-bresil-fait-reagir-le-president-lula_8257958.html",
-   "summary": "\"Un citoyen qui fuit son pays a forcément quelque chose à cacher\" : la fuite de Flavio Bolsonaro à Miami après sa défaite au Brésil fait réagir le président Lula",
-   "image": "https://www.franceinfo.fr/pictures/50x1eLy48yj-7dUqThilQA1Il_Q/0x132:726x541/432x243/filters:format(jpg)/2026/10/28/6ae269de4003d030889472.jpg",
-   "date": null,
-   "pubdate": "2026-10-29T01:01:17.666406+00:00"
-  },
-  {
-   "title": "3:00 vidéo 3 minutes \"Est-ce que ça a pu causer sa mort ?\" : Les gaz lacrymogènes sont-ils dangereux ?",
-   "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/est-ce-que-ca-a-pu-causer-sa-mort-les-gaz-lacrymogenes-sont-ils-dangereux_8257946.html",
-   "summary": "\"Est-ce que ça a pu causer sa mort ?\" : Les gaz lacrymogènes sont-ils dangereux ?",
-   "image": "https://www.franceinfo.fr/pictures/AFds5uvAVVA9odAE3088jN3PVrk/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/28/6ae267434a77b423276807.jpg",
-   "date": null,
-   "pubdate": "2026-10-29T01:01:17.666406+00:00"
-  },
-  {
-   "title": "2:13 vidéo 2 minutes 13 Commerces pillés : le gouvernement promet jusqu'à 10 000 euros d'aide",
-   "link": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/commerces-pilles-le-gouvernement-promet-jusqu-a-10-000-euros-d-aide_8257922.html",
-   "summary": "Commerces pillés : le gouvernement promet jusqu'à 10 000 euros d'aide",
-   "image": "https://www.franceinfo.fr/pictures/grpVoM-EeVItvmjAHKtv40DvOTU/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/28/6ae261a327c22055402637.jpg",
-   "date": null,
-   "pubdate": "2026-10-29T01:01:17.666406+00:00"
-  },
-  {
-   "title": ": Vidéo 1:43 vidéo 1 minute 43 : Vidéo \"Votre solidarité nous touche\" : à la marche blanche de La Verrière, l'émotion de la mère de l'enfant gravement blessée dans l'attentat raciste des Yvelines",
-   "link": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/elle-continue-de-se-battre-le-chemin-sera-tres-long-la-mere-de-l-enfant-blessee-dans-l-attentat-raciste-des-yvelines-se-confie_8257919.html",
-   "summary": "\"Votre solidarité nous touche\" : à la marche blanche de La Verrière, l'émotion de la mère de l'enfant gravement blessée dans l'attentat raciste des Yvelines",
-   "image": "https://www.franceinfo.fr/pictures/LrnDlgRzhCuafP83n8MyTTqeJg4/30x0:1300x714/432x243/filters:format(jpg)/2026/10/28/6ae25d7e4f4e4002991960.jpg",
-   "date": null,
-   "pubdate": "2026-10-29T01:01:17.666406+00:00"
-  },
-  {
-   "title": ": Info franceinfo : Info franceinfo L'enquête pour agression sexuelle visant un policier à Metz en marge des mobilisations lycéennes classée sans suite",
+   "title": ": Info franceinfo L'enquête pour agression sexuelle visant un policier à Metz en marge des mobilisations lycéennes classée sans suite L'enquête pour \"agression sexuelle\" visant un policier lors de l'interpellation d'une adolescente de 14 ans à Metz, en marge d'une mobilisation des lycéens le 5 octobre, a été classée sans suite, a appris franceinfo mercredi auprès du procureur de la République de Metz.",
    "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/info-franceinfo-mobilisation-des-lyceens-l-enquete-pour-agression-sexuelle-visant-un-policier-a-metz-classee-sans-suite-procureur_8257907.html",
    "summary": "L'enquête pour agression sexuelle visant un policier à Metz en marge des mobilisations lycéennes classée sans suite",
    "image": "https://www.franceinfo.fr/pictures/hMxLFiQrmHmtCi9d8tPSuPqd2Bo/0x312:3000x2000/432x243/filters:format(jpg)/2026/10/28/6ae25a089a188771713172.jpg",
@@ -82,42 +158,18 @@
    "pubdate": "2026-10-29T01:01:17.666406+00:00"
   },
   {
-   "title": "Nos jours heureux 5 contenus",
-   "link": "https://www.franceinfo.fr/societe/nos-jours-heureux/",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/70hxXkCD_HnVl93vv3dfs138KJQ/432x297/filters:format(jpg)/2026/07/30/6a6b142e19c9c745704318.jpg",
-   "date": null,
-   "pubdate": "2026-10-29T01:01:17.666406+00:00"
-  },
-  {
-   "title": "21:11 vidéo 21 minutes 11 Attentat raciste dans les Yvelines : \"Il faut une concorde nationale\", souhaite Arnaud Robinet, maire Horizons de Reims",
-   "link": "https://www.franceinfo.fr/replay-magazine/franceinfo/avant-le-20h/attentat-raciste-dans-les-yvelines-il-faut-une-concorde-nationale-souhaite-arnaud-robinet-maire-horizons-de-reims_8257835.html",
-   "summary": "Attentat raciste dans les Yvelines : \"Il faut une concorde nationale\", souhaite Arnaud Robinet, maire Horizons de Reims",
-   "image": "https://www.franceinfo.fr/pictures/zD3kQiullPTKNJfqzerD7VAWwv4/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/28/6ae24315c9a93548655338.jpg",
-   "date": null,
-   "pubdate": "2026-10-28T20:20:18.245592+00:00"
-  },
-  {
-   "title": "Le gouvernement d'Andorre veut dépénaliser partiellement l'avortement, sans toutefois l'autoriser",
+   "title": "Le gouvernement d'Andorre veut dépénaliser partiellement l'avortement, sans toutefois l'autoriser Les femmes ayant recours à l'IVG à l'étranger ne seront plus passibles de poursuites pénales, mais la pénalisation du personnel médical sera maintenue dans la principauté par souci de \"protection de la vie\", selon l'exécutif andorran, très proche du Vatican.",
    "link": "https://www.franceinfo.fr/societe/ivg/le-gouvernement-d-andorre-veut-depenaliser-partiellement-l-avortement-sans-toutefois-l-autoriser-dans-la-principaute_8257832.html",
-   "summary": "",
+   "summary": "Le gouvernement d'Andorre veut dépénaliser partiellement l'avortement, sans toutefois l'autoriser",
    "image": "https://www.franceinfo.fr/pictures/l9olB6cbMWw9nT5WnD3clN0eWdw/0x0:1024x576/432x243/filters:format(jpg)/2026/10/28/6ae241e31d3a7071188974.jpg",
    "date": null,
    "pubdate": "2026-10-28T20:20:18.245592+00:00"
   },
   {
-   "title": "À Rouen et au Havre, la préfecture propose aux commerçants d'ouvrir deux dimanches en novembre, en compensation des manifestations",
+   "title": "À Rouen et au Havre, la préfecture propose aux commerçants d'ouvrir deux dimanches en novembre, en compensation des manifestations Cette mesure est issue d'une demande à l'échelle nationale de Yohann Petiot, directeur général de l'Alliance du commerce.",
    "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/a-rouen-et-au-havre-la-prefecture-propose-aux-commercants-d-ouvrir-deux-dimanches-en-novembre-en-compensation-des-manifestations_8257838.html",
-   "summary": "",
+   "summary": "À Rouen et au Havre, la préfecture propose aux commerçants d'ouvrir deux dimanches en novembre, en compensation des manifestations",
    "image": "https://www.franceinfo.fr/pictures/Sd88C5d_pg-DES04j-JTu-LOMa0/0x792:5712x4005/432x243/filters:format(jpg)/2026/10/28/6ae2410edce45864676164.jpg",
-   "date": null,
-   "pubdate": "2026-10-28T20:20:18.245592+00:00"
-  },
-  {
-   "title": "1:15 vidéo 1 minute 15 Quatre élèves de CE2 sur dix déclarent avoir subi des violences sexuelles à l'école",
-   "link": "https://www.franceinfo.fr/societe/enfance-et-adolescence/maltraitance-des-enfants/quatre-eleves-de-ce2-sur-dix-declarent-avoir-subi-des-violences-sexuelles-a-l-ecole_8257387.html",
-   "summary": "Quatre élèves de CE2 sur dix déclarent avoir subi des violences sexuelles à l'école",
-   "image": "https://www.franceinfo.fr/pictures/S6RIIYqIEogLewLwMPEWWaPZvhE/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/28/6ae1f6b5658a7590019736.jpg",
    "date": null,
    "pubdate": "2026-10-28T20:20:18.245592+00:00"
   },
@@ -136,94 +188,6 @@
    "image": "https://www.franceinfo.fr/pictures/YGRjQPOqV_EBhcBY57paXVChuyE/0x152:6000x3527/432x243/filters:format(jpg)/2026/10/28/6ae2200377916512885517.jpg",
    "date": null,
    "pubdate": "2026-10-28T20:20:18.245592+00:00"
-  },
-  {
-   "title": "Le maire de Limoges dit avoir reçu le soutien du vice-président des Etats-Unis, J.D. Vance, après l'incendie de l'hôtel de ville le 17 octobre L'élu LR Guillaume Guérin a aussi déploré n'avoir \"eu Emmanuel Macron ni en ligne, ni par SMS\".",
-   "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/le-maire-de-limoges-ne-comprend-pas-l-absence-d-appel-d-emmanuel-macron-apres-l-incendie-de-l-hotel-de-ville-le-17-octobre_8257384.html",
-   "summary": "Le maire de Limoges dit avoir reçu le soutien du vice-président des Etats-Unis, J.D. Vance, après l'incendie de l'hôtel de ville le 17 octobre",
-   "image": "https://www.franceinfo.fr/pictures/qlt6Dglv1uyDwWlDR8cMWm5818U/0x53:1024x629/432x243/filters:format(jpg)/2026/10/28/6ae1f93e2ae7c012865748.jpg",
-   "date": null,
-   "pubdate": "2026-10-28T20:20:18.245592+00:00"
-  },
-  {
-   "title": "La région Ile-de-France et la ville de Paris créent un fonds d'urgence de 13 millions d'euros pour les commerces endommagés après le 17 octobre Les commerces les plus touchés pourront recevoir jusqu'à 11 000 euros d'aide.",
-   "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/la-region-ile-de-france-et-la-ville-de-paris-creent-un-fonds-d-urgence-de-13-millions-d-euros-pour-les-commerces-endommages-apres-le-17-octobre_8257150.html",
-   "summary": "La région Ile-de-France et la ville de Paris créent un fonds d'urgence de 13 millions d'euros pour les commerces endommagés après le 17 octobre",
-   "image": "https://www.franceinfo.fr/pictures/Y6iRYUFsxgfW4anMDTleE3qa_ZI/0x53:1024x629/432x243/filters:format(jpg)/2026/10/28/6ae1f6076c072945375420.jpg",
-   "date": null,
-   "pubdate": "2026-10-28T20:20:18.245592+00:00"
-  },
-  {
-   "title": "Le gouvernement estime qu'il n'y a \"pas de raison de changer\" les dates de la présidentielle après les violences du 17 octobre Après les dégâts causés en marge des manifestations du 17 octobre, des représentants de droite et d'extrême droite ont demandé au gouvernement de modifier les dates du scrutin, dont le second tour est fixé le 2 mai, soit le lendemain du 1er-Mai, faisant craindre des débordements.",
-   "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/le-gouvernement-estime-qu-il-n-y-a-pas-de-raison-de-changer-les-dates-de-la-presidentielle-apres-les-violences-du-17-octobre_8257312.html",
-   "summary": "Le gouvernement estime qu'il n'y a \"pas de raison de changer\" les dates de la présidentielle après les violences du 17 octobre",
-   "image": "https://www.franceinfo.fr/pictures/qXA2IjRHUCM7fjNPxm54oHulFGg/0x0:1024x576/432x243/filters:format(jpg)/2026/10/28/6ae1ea8a77ec5779709955.jpg",
-   "date": null,
-   "pubdate": "2026-10-28T13:05:39.498278+00:00"
-  },
-  {
-   "title": "Au procès de l'assassinat de son grand frère sur fond de narcotrafic, Amine Kessaci évoque le souvenir de celui qui l'a \"toujours encouragé\" Le témoignage du militant de 23 ans est l'un des plus attendus lors de ce procès, débuté le 19 octobre pour juger un triple assassinat qui a coûté la vie en décembre 2020 à son frère Brahim, impliqué dans le narcotrafic.",
-   "link": "https://www.franceinfo.fr/societe/drogue/au-proces-de-l-assassinat-de-son-grand-frere-sur-fond-de-narcotrafic-amine-kessaci-evoque-le-souvenir-de-celui-qui-l-a-toujours-encourage_8257285.html",
-   "summary": "Au procès de l'assassinat de son grand frère sur fond de narcotrafic, Amine Kessaci évoque le souvenir de celui qui l'a \"toujours encouragé\"",
-   "image": "https://www.franceinfo.fr/pictures/Wbo-zgvAz7VgDXoHbifWvp1RRFA/0x39:1024x615/432x243/filters:format(jpg)/2026/10/28/6ae1e3e8c07cf941091189.jpg",
-   "date": null,
-   "pubdate": "2026-10-28T13:05:39.498278+00:00"
-  },
-  {
-   "title": "Toussaint : Laurent Nuñez demande aux préfets de renforcer la sécurité des lieux de culte et cimetières chrétiens Le ministre de l'Intérieur demande notamment aux maires de mobiliser la police municipale et de renforcer la vidéoprotection.",
-   "link": "https://www.franceinfo.fr/societe/religion/toussaint/toussaint-laurent-nunez-demande-aux-prefets-de-renforcer-la-securite-des-lieux-de-culte-et-cimetieres-chretiens_8257213.html",
-   "summary": "Toussaint : Laurent Nuñez demande aux préfets de renforcer la sécurité des lieux de culte et cimetières chrétiens",
-   "image": "https://www.franceinfo.fr/pictures/9g28kLIC3Lc5H0c5mKM5kcTV6cc/0x389:7481x4597/432x243/filters:format(jpg)/2026/10/20/6ad76d5b1d8d4097999996.jpg",
-   "date": null,
-   "pubdate": "2026-10-28T13:05:39.498278+00:00"
-  },
-  {
-   "title": "Saint-Denis : un élu de la mairie assure avoir été gazé par un policier au lendemain du 17 octobre, il dépose plainte auprès du parquet et de l'IGPN Landry Ngang adjoint au maire de Saint-Denis a notamment porté plainte pour violences volontaires par une personne dépositaire de l'autorité publique.",
-   "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/saint-denis-un-elu-de-la-mairie-assure-avoir-ete-gaze-par-un-policier-au-lendemain-du-17-octobre-il-depose-plainte-aupres-du-parquet-et-de-l-igpn_8257192.html",
-   "summary": "Saint-Denis : un élu de la mairie assure avoir été gazé par un policier au lendemain du 17 octobre, il dépose plainte auprès du parquet et de l'IGPN",
-   "image": "https://www.franceinfo.fr/pictures/WG6mZMrB4tJnYQWSSrcaXZ1w8to/0x539:5184x3454/432x243/filters:format(jpg)/2024/01/19/saint-denis-65aa60a5969e6850027678.jpg",
-   "date": null,
-   "pubdate": "2026-10-28T13:05:39.498278+00:00"
-  },
-  {
-   "title": "2:24 audio 2 minutes 24 Au Japon, les demandeurs d'aide sociale doivent vendre leur voiture pour toucher de l'argent de l'État Le gouvernement nippon considère que posséder une voiture est une charge de dépense trop importante, et pas toujours utile, pour des personnes dans le besoin. Mais il existe des exceptions.",
-   "link": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/au-japon-les-demandeurs-d-aide-sociale-doivent-vendre-leur-voiture-pour-toucher-de-l-argent-de-l-etat_8236291.html",
-   "summary": "Au Japon, les demandeurs d'aide sociale doivent vendre leur voiture pour toucher de l'argent de l'État",
-   "image": "https://www.franceinfo.fr/pictures/RNLn06KvPXDgrfNv9LkKPX26JyU/0x369:3543x2362/432x243/filters:format(jpg)/2026/10/28/6ae1d30be5536571374555.jpg",
-   "date": null,
-   "pubdate": "2026-10-28T13:05:39.498278+00:00"
-  },
-  {
-   "title": "Manifestations : l'Alliance du commerce réclame \"en urgence\" des \"autorisations exceptionnelles\" d'ouverture le dimanche pour permettre aux commerçants de rattraper leur chiffre d'affaires Yohann Petiot appelle les préfets à prendre en urgences des mesures d'autorisations pour permettre aux commerces sinistrés d'ouvrir le dimanche, alors que les achats pour les fêtes de fin d'année se profilent déjà.",
-   "link": "https://www.franceinfo.fr/economie/greve/manifestations-l-alliance-du-commerce-reclame-en-urgence-des-autorisations-exceptionnelles-d-ouverture-le-dimanche-pour-permettre-aux-commercants-de-rattraper-leur-chiffre-d-affaires_8257168.html",
-   "summary": "Manifestations : l'Alliance du commerce réclame \"en urgence\" des \"autorisations exceptionnelles\" d'ouverture le dimanche pour permettre aux commerçants de rattraper leur chiffre d'affaires",
-   "image": "https://www.franceinfo.fr/pictures/GPnWy5OJuyuX7F5WLssKD-zFrXU/20x0:1882x1047/432x243/filters:format(jpg)/2020/03/06/phpu5CFSS.jpg",
-   "date": null,
-   "pubdate": "2026-10-28T13:05:39.498278+00:00"
-  },
-  {
-   "title": "\"J’ai juste voulu descendre pour m’acheter un sandwich\" : l'IGPN saisie à Lyon après qu'un homme a été blessé au thorax en marge d'une manifestation La victime, âgée de 43 ans, a témoigné auprès du journal local \"Le Progrès\" depuis sa chambre d'hôpital, après avoir été opérée du poumon. L'enquête devra notamment déterminer la nature du projectile.",
-   "link": "https://www.franceinfo.fr/societe/justice/j-ai-juste-voulu-descendre-pour-m-acheter-un-sandwich-l-igpn-saisie-a-lyon-apres-qu-un-homme-a-ete-blesse-au-thorax_8257057.html",
-   "summary": "\"J’ai juste voulu descendre pour m’acheter un sandwich\" : l'IGPN saisie à Lyon après qu'un homme a été blessé au thorax en marge d'une manifestation",
-   "image": "https://www.franceinfo.fr/pictures/XHjuEZI7kx1noMOuKWDzlLoqfbQ/0x442:5616x3601/432x243/filters:format(jpg)/2026/10/28/6ae1c90495d6b711894058.jpg",
-   "date": null,
-   "pubdate": "2026-10-28T13:05:39.498278+00:00"
-  },
-  {
-   "title": "19:41 audio 19 minutes 41 Les informés du matin du mercredi 28 octobre 2026 Les informés débattent de l'actualité autour d'Audrey Tison et Renaud Dély.",
-   "link": "https://www.franceinfo.fr/replay-radio/les-informes-du-matin/les-informes-du-matin-du-mercredi-28-octobre-2026_8236318.html",
-   "summary": "Les informés du matin du mercredi 28 octobre 2026",
-   "image": "https://www.franceinfo.fr/pictures/TKWb09bmk3TJazMzKgqtt36pV4Q/0x292:5616x3451/432x243/filters:format(jpg)/2026/07/08/6a4e52a5b634b233317025.jpg",
-   "date": "2026-10-28T11:00:00+00:00",
-   "pubdate": "2026-10-28T11:00:00+00:00"
-  },
-  {
-   "title": "Comprendre les débats sur la fin de vie 15 contenus",
-   "link": "https://www.franceinfo.fr/societe/euthanasie/comprendre-les-debats-sur-la-fin-de-vie/",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/gZwL6mlJ39yMRDzurzn4EQx_sgw/432x297/filters:format(jpg)/2025/05/27/illustration-aide-a-mourir-68357ca797624128014806.jpg",
-   "date": null,
-   "pubdate": "2026-10-26T20:33:41.804927+00:00"
   },
   {
    "title": "4:39 audio 4 minutes 39 Mobilisation du 24 octobre : à Paris, des habitants divisés sur la nécessité de poursuivre les manifestations mais des étudiants toujours déterminés",

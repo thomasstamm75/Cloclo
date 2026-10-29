@@ -1,13 +1,13 @@
 {
  "etag": "",
- "last_modified": "Wed, 28 Oct 2026 21:48:25 GMT",
+ "last_modified": "Thu, 29 Oct 2026 09:48:19 GMT",
  "first_seen": {
   "https://www.jean-jaures.org/publication/mexique-les-defis-politiques-economiques-et-securitaires-de-claudia-sheinbaum-face-aux-enjeux-internes-et-externes/": "2026-10-22T11:00:00+00:00",
-  "https://www.jean-jaures.org/publication/a-qui-appartiennent-les-biens-culturels-restitues-en-afrique/": "2026-10-22T11:00:00+00:00",
   "https://www.jean-jaures.org/publication/quatre-pays-face-a-la-fatigue-informationnelle/": "2026-10-23T11:00:00+00:00",
   "https://www.jean-jaures.org/publication/2027-une-campagne-sous-fatigue-informationnelle/": "2026-10-23T11:00:00+00:00",
   "https://www.jean-jaures.org/publication/les-gauches-et-la-lutte-contre-lantisemitisme/": "2026-10-27T11:00:00+00:00",
-  "https://www.jean-jaures.org/publication/abdul-el-sayed-et-lelection-au-senat-etatsunien-dans-le-michigan/": "2026-10-28T11:00:00+00:00"
+  "https://www.jean-jaures.org/publication/abdul-el-sayed-et-lelection-au-senat-etatsunien-dans-le-michigan/": "2026-10-28T11:00:00+00:00",
+  "https://www.jean-jaures.org/publication/la-secession-informationnelle-en-france-vague-3/": "2026-10-23T11:00:00+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
@@ -36,6 +36,14 @@
    "pubdate": "2026-10-23T11:00:00+00:00"
   },
   {
+   "title": "La sécession informationnelle en France, vague 3",
+   "link": "https://www.jean-jaures.org/publication/la-secession-informationnelle-en-france-vague-3/",
+   "summary": "",
+   "image": "",
+   "date": "2026-10-23T11:00:00+00:00",
+   "pubdate": "2026-10-23T11:00:00+00:00"
+  },
+  {
    "title": "2027 : une campagne sous fatigue informationnelle",
    "link": "https://www.jean-jaures.org/publication/2027-une-campagne-sous-fatigue-informationnelle/",
    "summary": "",
@@ -46,14 +54,6 @@
   {
    "title": "Mexique : les défis politiques, économiques et sécuritaires de Claudia Sheinbaum face aux enjeux internes et externes",
    "link": "https://www.jean-jaures.org/publication/mexique-les-defis-politiques-economiques-et-securitaires-de-claudia-sheinbaum-face-aux-enjeux-internes-et-externes/",
-   "summary": "",
-   "image": "",
-   "date": "2026-10-22T11:00:00+00:00",
-   "pubdate": "2026-10-22T11:00:00+00:00"
-  },
-  {
-   "title": "À qui appartiennent les biens culturels restitués en Afrique ?",
-   "link": "https://www.jean-jaures.org/publication/a-qui-appartiennent-les-biens-culturels-restitues-en-afrique/",
    "summary": "",
    "image": "",
    "date": "2026-10-22T11:00:00+00:00",
