@@ -1,8 +1,7 @@
 {
- "etag": "\"ifm7sq\"",
+ "etag": "\"3qme3i\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/la-dette-est-elle-un-outil-de-soumission-politique-5910973": "2026-10-02T11:00:00+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/mobilisations-lyceennes-a-qui-profite-le-chaos-3436710": "2026-10-05T22:05:02.273913+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/les-luttes-peuvent-elles-converger-6069246": "2026-10-06T22:42:35.614973+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/les-violences-des-policiers-doctrine-ou-pratique-isolee-1289611": "2026-10-07T11:00:00+00:00",
@@ -20,16 +19,25 @@
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/peut-on-faire-une-genealogie-de-la-violence-5914534": "2026-10-17T11:00:00+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/a-quoi-reconnait-on-le-debut-d-une-guerre-civile-3831508": "2026-10-26T20:33:58.023244+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/reelection-de-lula-le-bresil-a-t-il-sauve-sa-democratie-8269925": "2026-10-27T22:20:50.125579+00:00",
-  "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/retour-sur-les-elections-en-israel-7933436": "2026-10-28T11:00:00+00:00"
+  "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/retour-sur-les-elections-en-israel-7933436": "2026-10-28T11:00:00+00:00",
+  "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/faut-il-assumer-la-selection-a-l-universite-4857739": "2026-10-29T11:00:00+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
+   "title": "Enseignement supÃ©rieurÂ : la sÃ©lection, totem ou tabouÂ ?",
+   "link": "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/faut-il-assumer-la-selection-a-l-universite-4857739",
+   "summary": "Faut-il assumer la sÃ©lection Ã lâuniversitÃ©Â ? Faut-il abandonner ParcoursupÂ ?",
+   "image": "https://www.radiofrance.fr/pikapi/images/8b14718c-e36d-48ab-9c3b-1fc6e28c7a0b/2048",
+   "date": "2026-10-29T11:00:00+00:00",
+   "pubdate": "2026-10-29T11:00:00+00:00"
+  },
+  {
    "title": "Ãtat juif ou dÃ©mocratiqueÂ : IsraÃ«l doit-il choisirÂ ?",
    "link": "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/retour-sur-les-elections-en-israel-7933436",
-   "summary": "AprÃ¨s le dÃ©pouillement de plus de 85Â % des bulletins, la coalition de droite et dâextrÃªme droite de Benyamin NÃ©tanyahou reste en tÃªte.",
+   "summary": "IsraÃ«l sort des urnes sans majoritÃ© claire. Si Netanyahou conserve un socle solide, la progression des partis arabes, jusquâÃ 19 siÃ¨ges possibles, place leur rÃ´le au centre des nÃ©gociations. Leur poids Ã©lectoral relance le dÃ©bat sur la dÃ©finition dâIsraÃ«l comme Ãtat juif et dÃ©mocratique.",
    "image": "https://www.radiofrance.fr/pikapi/images/8b0b1eb7-9876-4b7e-86da-48212e2b3150/2048",
-   "date": "2026-10-28T11:00:00+00:00",
+   "date": null,
    "pubdate": "2026-10-28T11:00:00+00:00"
   },
   {
@@ -167,14 +175,6 @@
    "image": "https://www.radiofrance.fr/pikapi/images/4cd99fb5-b093-44a2-a428-8f0bd065d432/2048",
    "date": null,
    "pubdate": "2026-10-05T22:05:02.273913+00:00"
-  },
-  {
-   "title": "La dette est-elle un outil de soumission politiqueÂ ?",
-   "link": "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/la-dette-est-elle-un-outil-de-soumission-politique-5910973",
-   "summary": "Dette record, taux dâemprunt en hausse, pression des marchÃ©sÂ : avec son budget 2027, le gouvernement veut rassurer les crÃ©anciers autant que redresser les comptes. Mais qui dÃ©tient la dette franÃ§aise, et jusquâoÃ¹ peut-elle influencer les choix politiquesÂ ?",
-   "image": "https://www.radiofrance.fr/pikapi/images/3311fb06-db27-45b0-82fa-ddea3db066ae/2048",
-   "date": "2026-10-02T11:00:00+00:00",
-   "pubdate": "2026-10-02T11:00:00+00:00"
   }
  ]
 }
