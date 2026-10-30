@@ -1,10 +1,7 @@
 {
- "etag": "\"d1d62ee7a53379a6696be1e327c2cd68-gzip\"",
+ "etag": "\"4a6834974da8bea4d8f2208329ff5b08-gzip\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/une-attaque-de-drones-ukrainienne-fait-deux-morts-et-17-blesses-a-voronej-en-russie_8253865.html": "2026-10-26T13:13:13.465590+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/volodymyr-zelensky-confirme-qu-une-reunion-entre-russes-ukrainiens-et-americains-aura-lieu-en-novembre_8253844.html": "2026-10-26T13:13:13.465590+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/elon-musk-accuse-l-ukraine-d-avoir-viole-les-conditions-d-utilisation-du-service-commercial-starlink_8254081.html": "2026-10-26T20:33:46.647997+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/reportage-plus-de-huit-millions-de-livres-pour-enfants-partis-en-fumee-l-ukraine-face-a-une-penurie-de-manuels-scolaires-apres-des-frappes-russes_8192342.html": "2026-10-27T00:31:28.943056+00:00",
   "https://www.franceinfo.fr/monde/europe/allemagne/il-y-a-une-extrapolation-du-declin-economique-comment-l-extreme-droite-allemande-est-arrivee-aux-portes-du-pouvoir-en-saxe-anhalt_8175638.html": "2026-10-27T00:31:28.943056+00:00",
   "https://www.franceinfo.fr/replay-radio/le-brief-eco/audi-investit-aux-etats-unis-tolle-general-en-allemagne_8234674.html": "2026-10-27T09:06:52.195523+00:00",
@@ -15,27 +12,87 @@
   "https://www.franceinfo.fr/societe/ivg/le-gouvernement-d-andorre-veut-depenaliser-partiellement-l-avortement-sans-toutefois-l-autoriser-dans-la-principaute_8257832.html": "2026-10-28T20:20:25.217159+00:00",
   "https://www.franceinfo.fr/economie/commerce/shein-temu-aliexpress-en-france-le-nombre-de-petits-colis-issus-de-ces-plateformes-chute_8257622.html": "2026-10-28T20:20:25.217159+00:00",
   "https://www.franceinfo.fr/monde/europe/union-europeenne/membre-associe-pourquoi-le-terme-choisi-pour-rapprocher-l-ue-et-le-canada-ne-plait-pas-a-tous_8257291.html": "2026-10-28T20:20:25.217159+00:00",
-  "https://www.franceinfo.fr/monde/europe/le-premier-ministre-serbe-aleksandar-vucic-reconnait-sa-defaite-aux-elections-legislatives-anticipees-apres-14-ans-au-pouvoir_8253550.html": "2026-10-29T01:01:21.086244+00:00",
   "https://www.franceinfo.fr/replay-radio/le-monde-et-vous/encadrement-des-loyers-comment-nos-voisins-europeens-tentent-de-freiner-la-hausse-des-prix_8237986.html": "2026-10-29T10:06:47.949785+00:00",
   "https://www.franceinfo.fr/replay-radio/le-brief-eco/pas-de-baisse-des-taux-d-interet-aux-etats-unis-une-decision-plus-politique-qu-economique_8237977.html": "2026-10-29T10:06:47.949785+00:00",
-  "https://www.franceinfo.fr/decouverte/a-la-decouverte-de-saaremaa-l-ile-secrete-de-la-baltique_8259005.html": "2026-10-29T18:31:22.557241+00:00",
   "https://www.franceinfo.fr/environnement/energie/energies-fossiles/totalenergies/visualisez-les-profits-exceptionnels-de-totalenergies-en-2026-notamment-en-raison-des-conflits-en-ukraine-et-au-moyen-orient_8258642.html": "2026-10-29T18:31:22.557241+00:00",
-  "https://www.franceinfo.fr/environnement/biodiversite/animaux/un-sauveteur-animalier-tue-par-un-drone-en-ukraine_8258792.html": "2026-10-29T18:31:22.557241+00:00",
   "https://www.franceinfo.fr/monde/europe/christine-lagarde-annonce-son-depart-anticipe-de-la-banque-centrale-europeenne-en-fevrier-2027_8258633.html": "2026-10-29T18:31:22.557241+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/au-moins-13-morts-dans-une-attaque-russe-sur-la-gare-de-dnipro-en-ukraine-volodymyr-zelensky-exhorte-l-occident-a-l-action-apres-une-horrible-frappe_8258627.html": "2026-10-29T18:31:22.557241+00:00",
   "https://www.franceinfo.fr/economie/automobile/malte-des-automobilistes-payes-pour-abandonner-leur-permis-de-conduire_8259485.html": "2026-10-30T01:06:25.082218+00:00",
   "https://www.franceinfo.fr/monde/europe/allemagne/17-ans-d-arret-maladie-une-professeure-payee-a-ne-rien-faire_8259077.html": "2026-10-30T01:06:25.082218+00:00",
   "https://www.franceinfo.fr/faits-divers/accident/un-helicoptere-de-la-force-europeenne-militaire-s-ecrase-en-bosnie-au-moins-quatre-morts_8259398.html": "2026-10-30T01:06:25.082218+00:00",
   "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/christine-lagarde-demissionne-de-la-presidence-de-la-bce-pour-reprendre-une-liberte-de-parole_8239495.html": "2026-10-30T10:09:07.134681+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-une-treve-humanitaire-inedite-instauree-a-olechky_8260010.html": "2026-10-30T10:09:07.134681+00:00"
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-une-treve-humanitaire-inedite-instauree-a-olechky_8260010.html": "2026-10-30T10:09:07.134681+00:00",
+  "https://www.franceinfo.fr/monde/europe/tchernobyl/les-chiens-de-tchernobyl-ont-des-genes-adaptes-a-la-fin-du-monde-selon-une-etude_8260784.html": "2026-10-30T18:03:53.496478+00:00",
+  "https://www.franceinfo.fr/monde/europe/belgique/la-meilleure-friterie-le-concours-televise-a-la-recherche-de-la-meilleure-frite-qui-passionne-les-belges_8260676.html": "2026-10-30T18:03:53.496478+00:00",
+  "https://www.franceinfo.fr/replay-magazine/france-2/nous-les-europeens/nous-les-europeens-islande-sicile-l-europe-volcanique_8236270.html": "2026-10-30T18:03:53.496478+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-ukraine-les-habitants-de-la-ville-sous-occupation-russe-d-olechky-en-proie-a-une-crise-humanitaire-ont-ete-evacues_8260574.html": "2026-10-30T18:03:53.496478+00:00",
+  "https://www.franceinfo.fr/politique/je-souhaite-avoir-la-liberte-de-m-engager-pourquoi-christine-lagarde-quitte-la-bce-a-six-mois-de-la-presidentielle_8260472.html": "2026-10-30T18:03:53.496478+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-ukraine-200-000-foyers-sans-d-electricite-apres-des-frappes-russes_8260436.html": "2026-10-30T18:03:53.496478+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/vos-questions-sur-l-effort-de-guerre-de-la-france/": "2026-10-30T18:03:53.496478+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "Christine Lagarde démissionne de la présidence de la BCE pour \"reprendre une liberté de parole\" Neuf mois avant la fin de son mandat, la présidente de la Banque centrale européenne a annoncé démissionner sur les réseaux sociaux. Certains y voient une manœuvre politique pour empêcher le prochain vainqueur de l'élection présidentielle française de peser sur la décision de son successeur. Aujourd'hui 3:11 audio 3 minutes 11",
+   "title": "Les chiens de Tchernobyl ont des gènes adaptés à la \"fin du monde\", selon une étude Des scientifiques ont décrit comment des meutes de chiens parviennent à survivre autour de la centrale nucléaire de Tchernobyl, et comment cela se reflète dans leurs gènes, explique le média public tchèque Ceska televize. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/europe/tchernobyl/les-chiens-de-tchernobyl-ont-des-genes-adaptes-a-la-fin-du-monde-selon-une-etude_8260784.html",
+   "summary": "Les chiens de Tchernobyl ont des gènes adaptés à la \"fin du monde\", selon une étude",
+   "image": "https://www.franceinfo.fr/pictures/T_DmQ4MMuAMt2EVI8-HFtvperK0/0x7:1024x711/432x297/filters:format(jpg)/2026/10/30/6ae4d9d9126eb694609794.jpg",
+   "date": null,
+   "pubdate": "2026-10-30T18:03:53.496478+00:00"
+  },
+  {
+   "title": "1:55 vidéo 1 minute 55 \"La Meilleure Friterie\", le concours télévisé à la recherche de la meilleure frite qui passionne les Belges",
+   "link": "https://www.franceinfo.fr/monde/europe/belgique/la-meilleure-friterie-le-concours-televise-a-la-recherche-de-la-meilleure-frite-qui-passionne-les-belges_8260676.html",
+   "summary": "\"La Meilleure Friterie\", le concours télévisé à la recherche de la meilleure frite qui passionne les Belges",
+   "image": "https://www.franceinfo.fr/pictures/VIWUsJFU9hGwGBgc5-4Y4NQHaVc/90x0:1155x599/432x243/filters:format(jpg)/2026/10/30/6ae4bf806a194926203125.jpg",
+   "date": null,
+   "pubdate": "2026-10-30T18:03:53.496478+00:00"
+  },
+  {
+   "title": "30:00 vidéo 30 minutes \"Nous, les Européens\". Islande, Sicile l'Europe volcanique",
+   "link": "https://www.franceinfo.fr/replay-magazine/france-2/nous-les-europeens/nous-les-europeens-islande-sicile-l-europe-volcanique_8236270.html",
+   "summary": "\"Nous, les Européens\". Islande, Sicile l'Europe volcanique",
+   "image": "https://www.franceinfo.fr/pictures/wIXjs_EqmlBw-aH6fo_YxLCC5cA/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/28/6ae1fd69cfbeb359340425.jpg",
+   "date": null,
+   "pubdate": "2026-10-30T18:03:53.496478+00:00"
+  },
+  {
+   "title": "En Ukraine, les habitants de la ville sous occupation russe d'Olechky, en proie à une crise humanitaire, ont été évacués",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-ukraine-les-habitants-de-la-ville-sous-occupation-russe-d-olechky-en-proie-a-une-crise-humanitaire-ont-ete-evacues_8260574.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/HWuLr-gw0paksbf63k3IwlGsf7k/0x53:1024x629/432x243/filters:format(jpg)/2026/10/30/6ae4b169a78c7783786079.jpg",
+   "date": null,
+   "pubdate": "2026-10-30T18:03:53.496478+00:00"
+  },
+  {
+   "title": "\"Je souhaite avoir la liberté de m'engager\" : pourquoi Christine Lagarde quitte la BCE à six mois de la présidentielle",
+   "link": "https://www.franceinfo.fr/politique/je-souhaite-avoir-la-liberte-de-m-engager-pourquoi-christine-lagarde-quitte-la-bce-a-six-mois-de-la-presidentielle_8260472.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/S1aTbqfTXZUz7jhiaTsq5MFbW6U/0x1:5333x3001/432x243/filters:format(jpg)/2026/10/30/6ae49f5e070f1914576651.jpg",
+   "date": null,
+   "pubdate": "2026-10-30T18:03:53.496478+00:00"
+  },
+  {
+   "title": "Plus de 200 000 foyers sans électricité en Ukraine après des frappes russes",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-ukraine-200-000-foyers-sans-d-electricite-apres-des-frappes-russes_8260436.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/E-x5edSySWWD8E5VC9CDSbY0t4I/0x240:1280x960/432x243/filters:format(jpg)/2026/10/30/6ae490eada6f1718770041.jpg",
+   "date": null,
+   "pubdate": "2026-10-30T18:03:53.496478+00:00"
+  },
+  {
+   "title": "Vos questions sur l'effort de guerre de la France 6 contenus",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/vos-questions-sur-l-effort-de-guerre-de-la-france/",
+   "summary": "Vos questions sur l'effort de guerre de la France",
+   "image": "https://www.franceinfo.fr/pictures/ntZoU9VrwR_yrQmHdJn-AC2Tq7o/432x297/filters:format(jpg)/2025/04/01/effort-de-guerre-couverture-de-dossier-01-light-67eba0e5ca0a7848911582.jpg",
+   "date": null,
+   "pubdate": "2026-10-30T18:03:53.496478+00:00"
+  },
+  {
+   "title": "3:11 audio 3 minutes 11 Christine Lagarde démissionne de la présidence de la BCE pour \"reprendre une liberté de parole\"",
    "link": "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/christine-lagarde-demissionne-de-la-presidence-de-la-bce-pour-reprendre-une-liberte-de-parole_8239495.html",
    "summary": "Christine Lagarde démissionne de la présidence de la BCE pour \"reprendre une liberté de parole\"",
-   "image": "https://www.franceinfo.fr/pictures/5ptkxwVg4Xr7zWs2Zb0MdCaYEqw/71x0:4610x3121/432x297/filters:format(jpg)/2026/10/30/6ae446d43d0a9340431949.jpg",
+   "image": "https://www.franceinfo.fr/pictures/ZRJFj6lsjsJQ2vdkkOJduU_ojOQ/0x243:4682x2877/432x243/filters:format(jpg)/2026/10/30/6ae446d43d0a9340431949.jpg",
    "date": null,
    "pubdate": "2026-10-30T10:09:07.134681+00:00"
   },
@@ -64,49 +121,33 @@
    "pubdate": "2026-10-30T01:06:25.082218+00:00"
   },
   {
-   "title": "Un hélicoptère de la Force européenne militaire s'écrase en Bosnie, au moins quatre morts",
+   "title": "Un hélicoptère de la Force européenne militaire s'écrase en Bosnie, au moins quatre morts Cet aéronef italien s'est écrasé \"lors d'une opération de routine\", selon le commandement de l'Eufor, une force chargée de maintenir la paix dans ce pays des Balkans. Onze autres personnes ont été blessées, selon une source hospitalière.",
    "link": "https://www.franceinfo.fr/faits-divers/accident/un-helicoptere-de-la-force-europeenne-militaire-s-ecrase-en-bosnie-au-moins-quatre-morts_8259398.html",
-   "summary": "",
+   "summary": "Un hélicoptère de la Force européenne militaire s'écrase en Bosnie, au moins quatre morts",
    "image": "https://www.franceinfo.fr/pictures/QPl-htK7bABbKMecfFT3vSLBKNY/0x178:2096x1357/432x243/filters:format(jpg)/2026/10/29/6ae39e3e34ed3219819625.jpg",
    "date": null,
    "pubdate": "2026-10-30T01:06:25.082218+00:00"
   },
   {
-   "title": "4:45 vidéo 4 minutes 45 À la découverte de Saaremaa, l'île secrète de la Baltique",
-   "link": "https://www.franceinfo.fr/decouverte/a-la-decouverte-de-saaremaa-l-ile-secrete-de-la-baltique_8259005.html",
-   "summary": "À la découverte de Saaremaa, l'île secrète de la Baltique",
-   "image": "https://www.franceinfo.fr/pictures/2kNifVSdEwe8U0FFD7lSJWrOwBU/0x27:1346x785/432x243/filters:format(jpg)/2026/10/29/6ae3667ba8e51321786686.jpg",
-   "date": null,
-   "pubdate": "2026-10-29T18:31:22.557241+00:00"
-  },
-  {
-   "title": "Visualisez les profits exceptionnels de TotalEnergies en 2026, notamment en raison des conflits en Ukraine et au Moyen-Orient",
+   "title": "Visualisez les profits exceptionnels de TotalEnergies en 2026, notamment en raison des conflits en Ukraine et au Moyen-Orient La multinationale française dépasse largement ses résultats des deux premiers trimestres, ainsi que ceux de 2025.",
    "link": "https://www.franceinfo.fr/environnement/energie/energies-fossiles/totalenergies/visualisez-les-profits-exceptionnels-de-totalenergies-en-2026-notamment-en-raison-des-conflits-en-ukraine-et-au-moyen-orient_8258642.html",
-   "summary": "",
+   "summary": "Visualisez les profits exceptionnels de TotalEnergies en 2026, notamment en raison des conflits en Ukraine et au Moyen-Orient",
    "image": "https://www.franceinfo.fr/pictures/KE8-eOk-8V0pGLSL5pIAI-u4eqk/0x0:5302x2982/432x243/filters:format(jpg)/2026/10/29/6ae32c932d6c6886483756.jpg",
    "date": null,
    "pubdate": "2026-10-29T18:31:22.557241+00:00"
   },
   {
-   "title": "1:16 vidéo 1 minute 16 Un sauveteur animalier tué par un drone en Ukraine",
-   "link": "https://www.franceinfo.fr/environnement/biodiversite/animaux/un-sauveteur-animalier-tue-par-un-drone-en-ukraine_8258792.html",
-   "summary": "Un sauveteur animalier tué par un drone en Ukraine",
-   "image": "https://www.franceinfo.fr/pictures/g3K8vrGM9_LNj4rIDYsypFLl7Gg/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/29/6ae3344bd88d7460046239.png",
-   "date": null,
-   "pubdate": "2026-10-29T18:31:22.557241+00:00"
-  },
-  {
-   "title": "Christine Lagarde annonce son départ anticipé de la Banque centrale européenne en février 2027",
+   "title": "Christine Lagarde annonce son départ anticipé de la Banque centrale européenne en février 2027 L'ancienne ministre de l'Economie affirme vouloir \"avoir la liberté de parole, la liberté d'expression et la liberté de m'engager sur des sujets qui ne relèvent pas de la politique monétaire\", à quelques mois de l'élection présidentielle en France.",
    "link": "https://www.franceinfo.fr/monde/europe/christine-lagarde-annonce-son-depart-anticipe-de-la-banque-centrale-europeenne-en-fevrier-2027_8258633.html",
-   "summary": "",
+   "summary": "Christine Lagarde annonce son départ anticipé de la Banque centrale européenne en février 2027",
    "image": "https://www.franceinfo.fr/pictures/c7hRYFfY1sV8scgQyycnA827u9M/0x86:2715x1613/432x243/filters:format(jpg)/2026/10/29/6ae32808e9050943003121.jpg",
    "date": null,
    "pubdate": "2026-10-29T18:31:22.557241+00:00"
   },
   {
-   "title": "Une attaque russe sur la gare de Dnipro fait 14 morts en Ukraine, Volodymyr Zelensky dénonce une \"horrible frappe\" et exhorte l'Occident à l'action",
+   "title": "Une attaque russe sur la gare de Dnipro fait 14 morts en Ukraine, Volodymyr Zelensky dénonce une \"horrible frappe\" et exhorte l'Occident à l'action \"Il faut des actions justes et résolues de l'Amérique et de l'Europe face à l'escalade russe\", a déclaré le président ukrainien sur les réseaux sociaux.",
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/au-moins-13-morts-dans-une-attaque-russe-sur-la-gare-de-dnipro-en-ukraine-volodymyr-zelensky-exhorte-l-occident-a-l-action-apres-une-horrible-frappe_8258627.html",
-   "summary": "",
+   "summary": "Une attaque russe sur la gare de Dnipro fait 14 morts en Ukraine, Volodymyr Zelensky dénonce une \"horrible frappe\" et exhorte l'Occident à l'action",
    "image": "https://www.franceinfo.fr/pictures/LIHMnhVNP-zY4U_SUIZWt6nF-yY/0x231:3200x2031/432x243/filters:format(jpg)/2026/10/29/6ae3235dcff61007893102.jpg",
    "date": null,
    "pubdate": "2026-10-29T18:31:22.557241+00:00"
@@ -126,14 +167,6 @@
    "image": "https://www.franceinfo.fr/pictures/2vrJnZ7ZpsiUZVnshMJ5f_mTbX0/0x0:1024x576/432x243/filters:format(jpg)/2026/10/29/6ae2e71edcbf2826703143.jpg",
    "date": null,
    "pubdate": "2026-10-29T10:06:47.949785+00:00"
-  },
-  {
-   "title": "Le Premier ministre serbe Aleksandar Vucic reconnaît sa défaite aux élections législatives anticipées, après quatorze ans au pouvoir Il s'incline face à la liste menée par le mouvement étudiant, qui organise des manifestations dans tout le pays depuis 2024.",
-   "link": "https://www.franceinfo.fr/monde/europe/le-premier-ministre-serbe-aleksandar-vucic-reconnait-sa-defaite-aux-elections-legislatives-anticipees-apres-14-ans-au-pouvoir_8253550.html",
-   "summary": "Le Premier ministre serbe Aleksandar Vucic reconnaît sa défaite aux élections législatives anticipées, après quatorze ans au pouvoir",
-   "image": "https://www.franceinfo.fr/pictures/DLJLtW2CfXUaultKwT3ilG1_3kM/0x240:4621x2840/432x243/filters:format(jpg)/2026/10/25/6ade6f5a4aaac194702305.jpg",
-   "date": null,
-   "pubdate": "2026-10-29T01:01:21.086244+00:00"
   },
   {
    "title": "Le gouvernement d'Andorre veut dépénaliser partiellement l'avortement, sans toutefois l'autoriser Les femmes ayant recours à l'IVG à l'étranger ne seront plus passibles de poursuites pénales, mais la pénalisation du personnel médical sera maintenue dans la principauté par souci de \"protection de la vie\", selon l'exécutif andorran, très proche du Vatican.",
@@ -214,30 +247,6 @@
    "image": "https://www.franceinfo.fr/pictures/-nAiSgts3hDGmwBA52wjbLgKz5c/7x0:689x682/100x100/filters:format(jpg)/2026/09/03/6a99968962ca9292189034.jpg",
    "date": null,
    "pubdate": "2026-10-27T00:31:28.943056+00:00"
-  },
-  {
-   "title": "Elon Musk accuse l'Ukraine d'avoir violé les conditions d'utilisation du service commercial Starlink Le patron de SpaceX assure que les forces de Kiev utilisent le réseau satellitaire à des fins offensives, ce qui contrevient aux conditions d'utilisation du service.",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/elon-musk-accuse-l-ukraine-d-avoir-viole-les-conditions-d-utilisation-du-service-commercial-starlink_8254081.html",
-   "summary": "Elon Musk accuse l'Ukraine d'avoir violé les conditions d'utilisation du service commercial Starlink",
-   "image": "https://www.franceinfo.fr/pictures/aMs5DuQDoI92vijVzi8_-RF3ptE/0x106:5681x3301/432x243/filters:format(jpg)/2026/10/26/6adf51172adb1689424193.jpg",
-   "date": null,
-   "pubdate": "2026-10-26T20:33:46.647997+00:00"
-  },
-  {
-   "title": "Une attaque de drones ukrainienne fait deux morts et 17 blessés à Voronej, en Russie L'attaque a également provoqué des incendies sur \"un nombre d'entreprises industrielles, un centre d'affaires dans la partie centrale de la ville, un immeuble résidentiel\", a précisé le gouverneur régional.",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/une-attaque-de-drones-ukrainienne-fait-deux-morts-et-17-blesses-a-voronej-en-russie_8253865.html",
-   "summary": "Une attaque de drones ukrainienne fait deux morts et 17 blessés à Voronej, en Russie",
-   "image": "https://www.franceinfo.fr/pictures/kKzIoWDAYHjdBGvVC7t9ycUW0Zs/0x50:2048x1202/432x243/filters:format(jpg)/2026/10/26/6adef96ebc7d1652496579.jpg",
-   "date": null,
-   "pubdate": "2026-10-26T13:13:13.465590+00:00"
-  },
-  {
-   "title": "Volodymyr Zelensky confirme qu'une réunion entre Russes, Ukrainiens et Américains aura lieu en novembre \"S'il s'agit de la question territoriale, elle doit être abordée au niveau des dirigeants. Les autres questions relèvent des groupes techniques\", a précisé le président ukrainien.",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/volodymyr-zelensky-confirme-qu-une-reunion-entre-russes-ukrainiens-et-americains-aura-lieu-en-novembre_8253844.html",
-   "summary": "Volodymyr Zelensky confirme qu'une réunion entre Russes, Ukrainiens et Américains aura lieu en novembre",
-   "image": "https://www.franceinfo.fr/pictures/GZHVPgUSveoTfGKyaCM35saNKWY/0x64:5300x3045/432x243/filters:format(jpg)/2026/10/26/6adeee65ad6ac651115621.jpg",
-   "date": null,
-   "pubdate": "2026-10-26T13:13:13.465590+00:00"
   }
  ]
 }

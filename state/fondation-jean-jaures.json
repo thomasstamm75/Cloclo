@@ -1,16 +1,24 @@
 {
  "etag": "",
- "last_modified": "Fri, 30 Oct 2026 07:43:22 GMT",
+ "last_modified": "Fri, 30 Oct 2026 16:30:24 GMT",
  "first_seen": {
   "https://www.jean-jaures.org/publication/quatre-pays-face-a-la-fatigue-informationnelle/": "2026-10-23T11:00:00+00:00",
-  "https://www.jean-jaures.org/publication/2027-une-campagne-sous-fatigue-informationnelle/": "2026-10-23T11:00:00+00:00",
   "https://www.jean-jaures.org/publication/les-gauches-et-la-lutte-contre-lantisemitisme/": "2026-10-27T11:00:00+00:00",
   "https://www.jean-jaures.org/publication/abdul-el-sayed-et-lelection-au-senat-etatsunien-dans-le-michigan/": "2026-10-28T11:00:00+00:00",
   "https://www.jean-jaures.org/publication/la-secession-informationnelle-en-france-vague-3/": "2026-10-23T11:00:00+00:00",
-  "https://www.jean-jaures.org/publication/sommet-russie-afrique-2026-enjeux-et-lecons-dun-exercice-diplomatique-a-forte-portee-symbolique/": "2026-10-30T11:00:00+00:00"
+  "https://www.jean-jaures.org/publication/sommet-russie-afrique-2026-enjeux-et-lecons-dun-exercice-diplomatique-a-forte-portee-symbolique/": "2026-10-30T11:00:00+00:00",
+  "https://www.jean-jaures.org/publication/populisme-europeen-et-discours-anti-genre-focus-sur-la-macedoine-du-nord/": "2026-10-30T11:00:00+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "Populisme européen et discours anti-genre : focus sur la Macédoine du Nord",
+   "link": "https://www.jean-jaures.org/publication/populisme-europeen-et-discours-anti-genre-focus-sur-la-macedoine-du-nord/",
+   "summary": "",
+   "image": "",
+   "date": "2026-10-30T11:00:00+00:00",
+   "pubdate": "2026-10-30T11:00:00+00:00"
+  },
   {
    "title": "Sommet Russie-Afrique 2026 : enjeux et leçons d’un exercice diplomatique à forte portée symbolique",
    "link": "https://www.jean-jaures.org/publication/sommet-russie-afrique-2026-enjeux-et-lecons-dun-exercice-diplomatique-a-forte-portee-symbolique/",
@@ -46,14 +54,6 @@
   {
    "title": "La sécession informationnelle en France, vague 3",
    "link": "https://www.jean-jaures.org/publication/la-secession-informationnelle-en-france-vague-3/",
-   "summary": "",
-   "image": "",
-   "date": "2026-10-23T11:00:00+00:00",
-   "pubdate": "2026-10-23T11:00:00+00:00"
-  },
-  {
-   "title": "2027 : une campagne sous fatigue informationnelle",
-   "link": "https://www.jean-jaures.org/publication/2027-une-campagne-sous-fatigue-informationnelle/",
    "summary": "",
    "image": "",
    "date": "2026-10-23T11:00:00+00:00",
