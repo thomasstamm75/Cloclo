@@ -1,114 +1,158 @@
 {
- "etag": "\"3ca8e8b37ab2d197e93004f54c5f62b6-gzip\"",
+ "etag": "\"ec6322314b98c3a7d7c26931ae24fa2e-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/si-on-arrete-maintenant-on-a-perdu-et-ils-ont-gagne-a-la-veille-d-une-nouvelle-journee-de-mobilisation-des-etudiants-plus-determines-que-jamais_8229265.html": "2026-10-23T11:46:24.983620+00:00",
   "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-existe-t-il-vraiment-des-policiers-casseurs-en-civil-et-infiltres-dans-les-manifestations-qui-commettent-des-degradations_8250637.html": "2026-10-24T11:11:08.227161+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/mobilisation-du-24-octobre-a-paris-des-habitants-divises-sur-la-necessite-de-poursuivre-les-manifestations-mais-des-etudiants-toujours-determines_8227672.html": "2026-10-26T20:33:41.804927+00:00",
   "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/bon-courage-a-ceux-qui-arrivent-l-election-presidentielle-permettra-t-elle-vraiment-de-sortir-de-la-crise-politique-et-sociale-qui-secoue-le-pays_8245624.html": "2026-10-26T20:33:41.804927+00:00",
-  "https://www.franceinfo.fr/replay-radio/les-informes-du-matin/les-informes-du-matin-du-jeudi-29-octobre-2026_8237998.html": "2026-10-29T11:00:00+00:00",
-  "https://www.franceinfo.fr/sante/alimentation/aide-alimentaire-une-etude-denonce-les-millions-d-euros-de-reductions-d-impot-accordees-a-la-grande-distribution-pour-des-dons-de-produits-finalement-jetes_8258561.html": "2026-10-29T10:06:41.389895+00:00",
-  "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/la-gen-z-monte-au-creneau-pour-defendre-ses-droits-partout-dans-le-monde_8237950.html": "2026-10-29T10:06:41.389895+00:00",
-  "https://www.franceinfo.fr/economie/greve/manifestations-jean-pierre-farandou-veut-donner-un-ok-de-principe-aux-commercants-qui-veulent-ouvrir-le-dimanche-pour-compenser-les-pertes-d-activites_8258495.html": "2026-10-29T10:06:41.389895+00:00",
-  "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/mobilisation-des-lyceens-parcoursup-maintien-de-l-ordre-le-8h30-franceinfo-de-philippe-baptiste_8237956.html": "2026-10-29T10:06:41.389895+00:00",
-  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/le-ministre-de-l-enseignement-superieur-estime-qu-il-est-essentiel-que-les-cours-puissent-reprendre-lundi-en-presentiel-mais-assure-que-la-discussion-reste-ouverte_8258474.html": "2026-10-29T10:06:41.389895+00:00",
-  "https://www.franceinfo.fr/societe/manifestations/le-parquet-de-toulouse-saisit-l-igpn-apres-la-plainte-du-manifestant-grievement-blesse-a-la-main-le-24-octobre_8258207.html": "2026-10-29T10:06:41.389895+00:00",
-  "https://www.franceinfo.fr/societe/trappes/direct-attentat-raciste-a-trappes-le-suspect-a-ete-transfere-dans-la-nuit-au-tribunal-judiciaire-de-paris-en-vue-de-sa-mise-en-examen_8258192.html": "2026-10-29T10:06:41.389895+00:00",
-  "https://www.franceinfo.fr/societe/sdf/en-2025-927-personnes-sans-domicile-fixe-sont-mortes-en-france-selon-le-collectif-les-morts-de-la-rue_8256067.html": "2026-10-29T10:06:41.389895+00:00",
-  "https://www.franceinfo.fr/economie/fraude/ils-sont-la-pour-gagner-de-l-argent-au-detriment-des-familles-le-secteur-des-pompes-funebres-dans-le-viseur-de-la-repression-des-fraudes_8257916.html": "2026-10-29T10:06:41.389895+00:00",
-  "https://www.franceinfo.fr/societe/harcelement-sexuel/plus-jamais-un-enfant-victime-d-inceste-n-entendra-qu-il-etait-trop-tard-pour-parler-le-senat-approuve-l-imprescriptibilite-des-crimes-sexuels-commis-sur-les-mineurs_8258195.html": "2026-10-29T10:06:41.389895+00:00",
-  "https://www.franceinfo.fr/societe/manifestations/laurent-nunez-detaille-le-dispositif-de-securite-du-31-octobre_8259365.html": "2026-10-29T18:31:17.650592+00:00",
   "https://www.franceinfo.fr/societe/manifestations/le-parquet-de-lorient-ouvre-une-enquete-apres-la-presence-d-individus-masques-pretendant-defendre-les-commercants-en-marge-de-la-mobilisation-du-24-octobre_8259350.html": "2026-10-29T18:31:17.650592+00:00",
   "https://www.franceinfo.fr/internet/intelligence-artificielle/de-plus-en-plus-de-jeunes-victimes-de-cyberharcelement-cherchent-du-reconfort-aupres-de-l-ia_8259137.html": "2026-10-29T18:31:17.650592+00:00",
-  "https://www.franceinfo.fr/l-actu-pour-les-jeunes/manifestations-a-halloween-peut-on-defiler-deguise_8259284.html": "2026-10-29T18:31:17.650592+00:00",
   "https://www.franceinfo.fr/societe/manifestations/manifestations-du-31-octobre-70-000-policiers-et-gendarmes-seront-mobilises-un-dispositif-exceptionnel-similaire-au-24-octobre-annonce-laurent-nunez_8259305.html": "2026-10-29T18:31:17.650592+00:00",
-  "https://www.franceinfo.fr/l-actu-pour-les-jeunes/laurent-nunez-a-infantilise-nos-organisations-les-associations-etudiantes-en-colere-apres-la-reunion-avec-le-ministre-de-l-interieur_8259260.html": "2026-10-29T18:31:17.650592+00:00",
   "https://www.franceinfo.fr/societe/manifestations/syndicats-de-salaries-et-d-etudiants-attaquent-en-justice-sur-le-parcours-de-la-manifestation-a-paris-samedi_8259164.html": "2026-10-29T18:31:17.650592+00:00",
-  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/il-faut-interdire-les-grenades-contre-les-lyceens_8259194.html": "2026-10-29T18:31:17.650592+00:00",
   "https://www.franceinfo.fr/societe/manifestations/l-interdiction-des-rassemblements-non-declares-dans-certains-secteurs-a-paris-reconduite-jusqu-a-lundi_8259140.html": "2026-10-29T18:31:17.650592+00:00",
-  "https://www.franceinfo.fr/societe/trappes/trappes-le-tireur-arrete-puis-relache-avant-l-attentat_8259146.html": "2026-10-29T18:31:17.650592+00:00",
   "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/laurent-nunez-previent-que-le-risque-de-violences-urbaines-est-tres-eleve-pour-la-mobilisation-du-31-octobre-dans-une-lettre-envoyee-aux-prefets_8258972.html": "2026-10-29T18:31:17.650592+00:00",
-  "https://www.franceinfo.fr/societe/harcelement-sexuel/peine-de-perpetuite-en-cas-de-viols-auditions-du-suspect-sous-3-mois-les-grands-debats-autour-du-projet-de-loi-de-protection-des-enfants-examine-au-senat_8258291.html": "2026-10-29T18:31:17.650592+00:00"
+  "https://www.franceinfo.fr/replay-magazine/france-2/envoye-special/video-17-octobre-qui-sont-les-casseurs_8259329.html": "2026-10-17T11:00:00+00:00",
+  "https://www.franceinfo.fr/replay-magazine/france-2/envoye-special/video-17-octobre-dans-envoye-special-le-pere-de-l-homme-de-34-ans-suspecte-d-etre-implique-dans-l-incendie-de-la-mairie-de-limoges-s-exprime-pour-la-premiere-fois_8259338.html": "2026-10-30T01:06:20.620144+00:00",
+  "https://www.franceinfo.fr/societe/justice/edouard-philippe-place-sous-le-statut-de-temoin-assiste_8259542.html": "2026-10-30T01:06:20.620144+00:00",
+  "https://www.franceinfo.fr/environnement/biodiversite/le-premier-impact-c-est-une-destruction-de-l-habitat-de-ces-ecosystemes-voyage-dans-les-fonds-marins-inexplores-convoites-par-l-industrie-pour-leurs-ressources_8259539.html": "2026-10-30T01:06:20.620144+00:00",
+  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/laurent-nunez-a-nie-toutes-les-vi0lences-envers-les-lyceens-denonce-une-porte-parole_8259515.html": "2026-10-30T01:06:20.620144+00:00",
+  "https://www.franceinfo.fr/replay-magazine/france-2/envoye-special/video-immersion-en-eaux-profondes_8254315.html": "2026-10-30T01:06:20.620144+00:00",
+  "https://www.franceinfo.fr/societe/manifestations/les-commercants-prets-a-ouvrir-le-dimanche-pour-limiter-les-pertes_8259506.html": "2026-10-30T01:06:20.620144+00:00",
+  "https://www.franceinfo.fr/environnement/energie/energies-fossiles/totalenergies/crise-des-carburants-comment-expliquer-les-benefices-records-de-totalenergies_8259500.html": "2026-10-30T01:06:20.620144+00:00",
+  "https://www.franceinfo.fr/decouverte/halloween/halloween-inquiete-les-forces-de-l-ordre-en-marge-des-manifestations-du-31-octobre_8259482.html": "2026-10-30T01:06:20.620144+00:00",
+  "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/a-ce-moment-la-je-ne-pense-a-rien-je-suis-degoute-de-ce-qui-se-passe-rencontre-avec-pierre-collin-le-commercant-nicois-qui-a-emu-les-internautes-en-defendant-sa-boutique-face-aux-pilleurs_8259473.html": "2026-10-30T01:06:20.620144+00:00",
+  "https://www.franceinfo.fr/replay-radio/les-informes-de-france-info/le-suspect-de-l-attentat-de-trappes-mis-en-examen-les-informes-de-franceinfo-du-jeudi-29-octobre-2026_8237995.html": "2026-10-29T11:00:00+00:00",
+  "https://www.franceinfo.fr/societe/drogue/la-police-recherche-de-la-cocaine-sur-les-plages-du-sud-ouest-apres-la-rumeur-d-une-cargaison-perdue_8258891.html": "2026-10-30T01:06:20.620144+00:00",
+  "https://www.franceinfo.fr/societe/manifestations/je-crains-les-debordements-entre-colere-et-peur-des-violences-les-habitants-d-avignon-partages-sur-la-mobilisation-du-31-octobre_8258858.html": "2026-10-30T01:06:20.620144+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "Laurent Nuñez détaille le dispositif de sécurité du 31 octobre Le ministre de l'Intérieur, Laurent Nuñez, a annoncé le déploiement de 70 000 membres des forces de l’ordre pour encadrer les manifestations du samedi 31 octobre, soit \"le même volume\" qu'une semaine plus tôt. \"On ne tolérera aucun débordement\", a-t-il insisté. Aujourd'hui 1:36 vidéo 1 minute 36",
-   "link": "https://www.franceinfo.fr/societe/manifestations/laurent-nunez-detaille-le-dispositif-de-securite-du-31-octobre_8259365.html",
-   "summary": "Laurent Nuñez détaille le dispositif de sécurité du 31 octobre",
-   "image": "https://www.franceinfo.fr/pictures/wC2iT6Qal24jOBwGmOZenkcw4d8/534x0:2722x3889/fit-in/432x297/filters:upscale():fill(blur):format(jpg)/2026/10/29/6ae390309490d965039895.jpg",
+   "title": ": Vidéo 5:38 vidéo 5 minutes 38 : Vidéo 17 octobre : dans \"Envoyé spécial\", le père de l'homme de 34 ans suspecté d'être impliqué dans l'incendie de la mairie de Limoges s'exprime pour la première fois",
+   "link": "https://www.franceinfo.fr/replay-magazine/france-2/envoye-special/video-17-octobre-dans-envoye-special-le-pere-de-l-homme-de-34-ans-suspecte-d-etre-implique-dans-l-incendie-de-la-mairie-de-limoges-s-exprime-pour-la-premiere-fois_8259338.html",
+   "summary": "17 octobre : dans \"Envoyé spécial\", le père de l'homme de 34 ans suspecté d'être impliqué dans l'incendie de la mairie de Limoges s'exprime pour la première fois",
+   "image": "https://www.franceinfo.fr/pictures/23OzsDryA7xe2NC1tM15B2mr0wU/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/29/6ae3c43b9c68e259610728.jpg",
    "date": null,
-   "pubdate": "2026-10-29T18:31:17.650592+00:00"
+   "pubdate": "2026-10-30T01:06:20.620144+00:00"
   },
   {
-   "title": "Le parquet de Lorient ouvre une enquête après la présence d'individus masqués prétendant défendre les commerçants en marge de la mobilisation du 24 octobre",
-   "link": "https://www.franceinfo.fr/societe/manifestations/le-parquet-de-lorient-ouvre-une-enquete-apres-la-presence-d-individus-masques-pretendant-defendre-les-commercants-en-marge-de-la-mobilisation-du-24-octobre_8259350.html",
+   "title": "0:33 vidéo 33 secondes Édouard Philippe placé sous le statut de témoin assisté",
+   "link": "https://www.franceinfo.fr/societe/justice/edouard-philippe-place-sous-le-statut-de-temoin-assiste_8259542.html",
+   "summary": "Édouard Philippe placé sous le statut de témoin assisté",
+   "image": "https://www.franceinfo.fr/pictures/fZOD1PehbGtV2ChIyyQIylXbDwU/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/29/6ae3c247540a0811564178.png",
+   "date": null,
+   "pubdate": "2026-10-30T01:06:20.620144+00:00"
+  },
+  {
+   "title": "2:20 vidéo 2 minutes 20 \"Le premier impact, c'est une destruction de l'habitat de ces écosystèmes\" : voyage dans les fonds marins inexplorés, convoités par l'industrie pour leurs ressources",
+   "link": "https://www.franceinfo.fr/environnement/biodiversite/le-premier-impact-c-est-une-destruction-de-l-habitat-de-ces-ecosystemes-voyage-dans-les-fonds-marins-inexplores-convoites-par-l-industrie-pour-leurs-ressources_8259539.html",
+   "summary": "\"Le premier impact, c'est une destruction de l'habitat de ces écosystèmes\" : voyage dans les fonds marins inexplorés, convoités par l'industrie pour leurs ressources",
+   "image": "https://www.franceinfo.fr/pictures/1nxDZSBdRSsTC4Ba_wU1560ySdY/0x34:1225x723/432x243/filters:format(jpg)/2026/10/29/6ae3c1db85f3c820386330.jpg",
+   "date": null,
+   "pubdate": "2026-10-30T01:06:20.620144+00:00"
+  },
+  {
+   "title": "1:24 vidéo 1 minute 24 Laurent Nuñez \"a nié toutes les vi0lences\" envers les lycéens, dénonce une porte-parole",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/laurent-nunez-a-nie-toutes-les-vi0lences-envers-les-lyceens-denonce-une-porte-parole_8259515.html",
+   "summary": "Laurent Nuñez \"a nié toutes les vi0lences\" envers les lycéens, dénonce une porte-parole",
+   "image": "https://www.franceinfo.fr/pictures/kPN7YkzTN1LDS5Z6V4dkrADy3h8/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/29/6ae3bbb0299cd933198984.png",
+   "date": null,
+   "pubdate": "2026-10-30T01:06:20.620144+00:00"
+  },
+  {
+   "title": ": Vidéo 57:47 vidéo 57 minutes 47 : Vidéo Immersion en eaux profondes",
+   "link": "https://www.franceinfo.fr/replay-magazine/france-2/envoye-special/video-immersion-en-eaux-profondes_8254315.html",
    "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/si6SWwxZEBYjeQePyYdzB609Qss/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/29/6ae3b78ad1fa6578614534.jpg",
+   "date": null,
+   "pubdate": "2026-10-30T01:06:20.620144+00:00"
+  },
+  {
+   "title": "1:42 vidéo 1 minute 42 Les commerçants prêts à ouvrir le dimanche pour limiter les pertes ?",
+   "link": "https://www.franceinfo.fr/societe/manifestations/les-commercants-prets-a-ouvrir-le-dimanche-pour-limiter-les-pertes_8259506.html",
+   "summary": "Les commerçants prêts à ouvrir le dimanche pour limiter les pertes ?",
+   "image": "https://www.franceinfo.fr/pictures/tF_Bg_htppqcyWZimFzfUO5T5cE/0x15:1341x769/432x243/filters:format(jpg)/2026/10/29/6ae3bbf472295408412329.jpg",
+   "date": null,
+   "pubdate": "2026-10-30T01:06:20.620144+00:00"
+  },
+  {
+   "title": "2:02 vidéo 2 minutes 2 Crise des carburants : comment expliquer les bénéfices records de TotalEnergies ?",
+   "link": "https://www.franceinfo.fr/environnement/energie/energies-fossiles/totalenergies/crise-des-carburants-comment-expliquer-les-benefices-records-de-totalenergies_8259500.html",
+   "summary": "Crise des carburants : comment expliquer les bénéfices records de TotalEnergies ?",
+   "image": "https://www.franceinfo.fr/pictures/Ae94tI_7FhDWgo-vNTshJMZ9R3k/0x46:1188x714/432x243/filters:format(jpg)/2026/10/29/6ae3bb3f278f1624014500.jpg",
+   "date": null,
+   "pubdate": "2026-10-30T01:06:20.620144+00:00"
+  },
+  {
+   "title": "2:10 vidéo 2 minutes 10 Halloween inquiète les forces de l'ordre en marge des manifestations du 31 octobre",
+   "link": "https://www.franceinfo.fr/decouverte/halloween/halloween-inquiete-les-forces-de-l-ordre-en-marge-des-manifestations-du-31-octobre_8259482.html",
+   "summary": "Halloween inquiète les forces de l'ordre en marge des manifestations du 31 octobre",
+   "image": "https://www.franceinfo.fr/pictures/Vz1MeBzFG0ivOrN_d3CBS-RfZSc/0x40:1239x737/432x243/filters:format(jpg)/2026/10/29/6ae3b8d1c8e97495287374.jpg",
+   "date": null,
+   "pubdate": "2026-10-30T01:06:20.620144+00:00"
+  },
+  {
+   "title": "2:06 vidéo 2 minutes 6 \"À ce moment-là, je ne pense à rien, je suis dégoûté de ce qui se passe\" : rencontre avec Pierre Collin, le commerçant niçois qui a ému les internautes en défendant sa boutique face aux pilleurs",
+   "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/a-ce-moment-la-je-ne-pense-a-rien-je-suis-degoute-de-ce-qui-se-passe-rencontre-avec-pierre-collin-le-commercant-nicois-qui-a-emu-les-internautes-en-defendant-sa-boutique-face-aux-pilleurs_8259473.html",
+   "summary": "\"À ce moment-là, je ne pense à rien, je suis dégoûté de ce qui se passe\" : rencontre avec Pierre Collin, le commerçant niçois qui a ému les internautes en défendant sa boutique face aux pilleurs",
+   "image": "https://www.franceinfo.fr/pictures/fQDNy4vWHNf55RrNSA0ahLBe844/0x37:633x394/432x243/filters:format(jpg)/2026/10/29/6ae3b5b61f47d762539652.jpg",
+   "date": null,
+   "pubdate": "2026-10-30T01:06:20.620144+00:00"
+  },
+  {
+   "title": "1:46 vidéo 1 minute 46 La police recherche de la cocaïne sur les plages du Sud-Ouest après la rumeur d'une cargaison perdue Depuis deux jours, des groupes de jeunes parcourent le littoral landais à la recherche de ballots de cocaïne, après la propagation d’une rumeur évoquant 15 tonnes de cocaïne potentiellement rejetées en mer. Les forces de l’ordre multiplient les patrouilles, sans confirmer, à ce stade, la présence de drogue.",
+   "link": "https://www.franceinfo.fr/societe/drogue/la-police-recherche-de-la-cocaine-sur-les-plages-du-sud-ouest-apres-la-rumeur-d-une-cargaison-perdue_8258891.html",
+   "summary": "La police recherche de la cocaïne sur les plages du Sud-Ouest après la rumeur d'une cargaison perdue",
+   "image": "https://www.franceinfo.fr/pictures/prLBsFqZFxPnoVDm6cfkPLOuhoU/74x0:1335x709/432x243/filters:format(jpg)/2026/10/29/6ae3501eb4f5e945945647.jpg",
+   "date": null,
+   "pubdate": "2026-10-30T01:06:20.620144+00:00"
+  },
+  {
+   "title": "2:04 vidéo 2 minutes 4 \"Je crains les débordements\" : entre colère et peur des violences, les habitants d'Avignon partagés sur la mobilisation du 31 octobre À Avignon (Vaucluse), les habitants se préparent à la mobilisation annoncée pour le samedi 31 octobre. Si certains espèrent des avancées sur la vie chère ou veulent soutenir la jeunesse, d'autres redoutent les débordements ou contestent les revendications. Plusieurs témoignages illustrent les divisions autour du mouvement dans la ville.",
+   "link": "https://www.franceinfo.fr/societe/manifestations/je-crains-les-debordements-entre-colere-et-peur-des-violences-les-habitants-d-avignon-partages-sur-la-mobilisation-du-31-octobre_8258858.html",
+   "summary": "\"Je crains les débordements\" : entre colère et peur des violences, les habitants d'Avignon partagés sur la mobilisation du 31 octobre",
+   "image": "https://www.franceinfo.fr/pictures/JF7N4nyFtoE2NBJEWCxdIBfaZ2s/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/29/6ae347582aa02860892416.jpg",
+   "date": null,
+   "pubdate": "2026-10-30T01:06:20.620144+00:00"
+  },
+  {
+   "title": "Le parquet de Lorient ouvre une enquête après la présence d'individus masqués prétendant défendre les commerçants en marge de la mobilisation du 24 octobre Ce groupe autoproclamé \"d'entraide citoyenne\" s'est constitué dans le secteur de Lorient, en réponse à un appel national à défendre les commerçants face aux pillages éventuels. Un témoin a également fait état d'intimidations de leur part lorsqu'il a pris ces personnes en photo.",
+   "link": "https://www.franceinfo.fr/societe/manifestations/le-parquet-de-lorient-ouvre-une-enquete-apres-la-presence-d-individus-masques-pretendant-defendre-les-commercants-en-marge-de-la-mobilisation-du-24-octobre_8259350.html",
+   "summary": "Le parquet de Lorient ouvre une enquête après la présence d'individus masqués prétendant défendre les commerçants en marge de la mobilisation du 24 octobre",
    "image": "https://www.franceinfo.fr/pictures/GNzz5gZsseht9vgR_aHirWhmCic/0x430:8256x5074/432x243/filters:format(jpg)/2026/10/28/6ae1aa5e675cb058979532.jpg",
    "date": null,
    "pubdate": "2026-10-29T18:31:17.650592+00:00"
   },
   {
-   "title": "Quand les jeunes victimes de cyberharcèlement cherchent du réconfort auprès de l'IA",
+   "title": "Quand les jeunes victimes de cyberharcèlement cherchent du réconfort auprès de l'IA Les enfants et adolescents victimes de cyberharcèlement se tournent vers l'intelligence artificielle pour chercher de l'aide. Une enquête de l'association e-Enfance met en lumière ce rôle de soutien, qui reste cependant limité.",
    "link": "https://www.franceinfo.fr/internet/intelligence-artificielle/de-plus-en-plus-de-jeunes-victimes-de-cyberharcelement-cherchent-du-reconfort-aupres-de-l-ia_8259137.html",
-   "summary": "",
+   "summary": "Quand les jeunes victimes de cyberharcèlement cherchent du réconfort auprès de l'IA",
    "image": "https://www.franceinfo.fr/pictures/jCFfuimJlulGQuFfFJDqsj2UWTk/0x53:1024x629/432x243/filters:format(jpg)/2026/10/29/6ae3763b92961993499835.jpg",
    "date": null,
    "pubdate": "2026-10-29T18:31:17.650592+00:00"
   },
   {
-   "title": "1:21 vidéo 1 minute 21 Manifestations à Halloween : peut-on défiler déguisé ?",
-   "link": "https://www.franceinfo.fr/l-actu-pour-les-jeunes/manifestations-a-halloween-peut-on-defiler-deguise_8259284.html",
-   "summary": "Manifestations à Halloween : peut-on défiler déguisé ?",
-   "image": "https://www.franceinfo.fr/pictures/M-y0EX6XHnzOhZMZxtWJWHaDayc/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/29/6ae37f8198422068375275.jpg",
-   "date": null,
-   "pubdate": "2026-10-29T18:31:17.650592+00:00"
-  },
-  {
-   "title": "Manifestations du 31 octobre : 70 000 policiers et gendarmes seront mobilisés, \"un dispositif exceptionnel\" similaire au 24 octobre, annonce Laurent Nuñez",
+   "title": "Manifestations du 31 octobre : 70 000 policiers et gendarmes seront mobilisés, \"un dispositif exceptionnel\" similaire au 24 octobre, annonce Laurent Nuñez Le ministre de l'Intérieur dit s'attendre à \"une journée à risque très élevé\", samedi, notamment en soirée, avec la concomitance de la fête d’Halloween.",
    "link": "https://www.franceinfo.fr/societe/manifestations/manifestations-du-31-octobre-70-000-policiers-et-gendarmes-seront-mobilises-un-dispositif-exceptionnel-similaire-au-24-octobre-annonce-laurent-nunez_8259305.html",
-   "summary": "",
+   "summary": "Manifestations du 31 octobre : 70 000 policiers et gendarmes seront mobilisés, \"un dispositif exceptionnel\" similaire au 24 octobre, annonce Laurent Nuñez",
    "image": "https://www.franceinfo.fr/pictures/8XQ6dLWzrUai8f7nRHkKBFNUxjE/0x0:4000x2250/432x243/filters:format(jpg)/2026/10/29/6ae384cdefdec413886072.jpg",
    "date": null,
    "pubdate": "2026-10-29T18:31:17.650592+00:00"
   },
   {
-   "title": "0:43 vidéo 43 secondes “Laurent Nuñez a infantilisé nos organisations” : les associations étudiantes en colère après la réunion avec le ministre de l'Intérieur",
-   "link": "https://www.franceinfo.fr/l-actu-pour-les-jeunes/laurent-nunez-a-infantilise-nos-organisations-les-associations-etudiantes-en-colere-apres-la-reunion-avec-le-ministre-de-l-interieur_8259260.html",
-   "summary": "“Laurent Nuñez a infantilisé nos organisations” : les associations étudiantes en colère après la réunion avec le ministre de l'Intérieur",
-   "image": "https://www.franceinfo.fr/pictures/e-KMGcsQpb1Yz0VLAo-5XMci4bg/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/29/6ae37c1328232146453398.png",
-   "date": null,
-   "pubdate": "2026-10-29T18:31:17.650592+00:00"
-  },
-  {
-   "title": "Des syndicats de salariés et d'étudiants attaquent la préfecture de police en justice sur le parcours de la manifestation parisienne prévue samedi",
+   "title": "Des syndicats de salariés et d'étudiants attaquent la préfecture de police en justice sur le parcours de la manifestation parisienne prévue samedi Les organisations syndicales souhaitent que soit publié \"au plus vite\" un arrêté d'interdiction partielle de manifester samedi à Paris, afin d'avoir le temps de le contester en justice.",
    "link": "https://www.franceinfo.fr/societe/manifestations/syndicats-de-salaries-et-d-etudiants-attaquent-en-justice-sur-le-parcours-de-la-manifestation-a-paris-samedi_8259164.html",
-   "summary": "",
+   "summary": "Des syndicats de salariés et d'étudiants attaquent la préfecture de police en justice sur le parcours de la manifestation parisienne prévue samedi",
    "image": "https://www.franceinfo.fr/pictures/enjSPEAncZolRvtrkpQVFGMddso/0x53:1024x629/432x243/filters:format(jpg)/2026/10/29/6ae3799c3a0e5006347388.jpg",
    "date": null,
    "pubdate": "2026-10-29T18:31:17.650592+00:00"
   },
   {
-   "title": "0:41 vidéo 41 secondes \"Il faut interdire les grenades contre les lycéens\"",
-   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/il-faut-interdire-les-grenades-contre-les-lyceens_8259194.html",
-   "summary": "\"Il faut interdire les grenades contre les lycéens\"",
-   "image": "https://www.franceinfo.fr/pictures/MPWxzQtYu8LhCuHBP4QBrliPyKQ/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/29/6ae375d001c26523296299.png",
-   "date": null,
-   "pubdate": "2026-10-29T18:31:17.650592+00:00"
-  },
-  {
-   "title": "L'interdiction des rassemblements non déclarés dans certains secteurs à Paris reconduite jusqu'à lundi",
+   "title": "L'interdiction des rassemblements non déclarés dans certains secteurs à Paris reconduite jusqu'à lundi Les secteurs concernés sont notamment l'Elysée, l'Assemblée nationale, les Champs-Elysées ou encore les gares.",
    "link": "https://www.franceinfo.fr/societe/manifestations/l-interdiction-des-rassemblements-non-declares-dans-certains-secteurs-a-paris-reconduite-jusqu-a-lundi_8259140.html",
-   "summary": "",
+   "summary": "L'interdiction des rassemblements non déclarés dans certains secteurs à Paris reconduite jusqu'à lundi",
    "image": "https://www.franceinfo.fr/pictures/4siI4fcOGaPQe8lvoNTnxr8e3UI/0x52:1024x628/432x243/filters:format(jpg)/2026/10/29/6ae372f3377f7054109575.jpg",
-   "date": null,
-   "pubdate": "2026-10-29T18:31:17.650592+00:00"
-  },
-  {
-   "title": "1:29 vidéo 1 minute 29 Trappes : le tireur arrêté puis relâché avant l'attentat",
-   "link": "https://www.franceinfo.fr/societe/trappes/trappes-le-tireur-arrete-puis-relache-avant-l-attentat_8259146.html",
-   "summary": "Trappes : le tireur arrêté puis relâché avant l'attentat",
-   "image": "https://www.franceinfo.fr/pictures/R_lyg4tV9h4iCDB7fY2XMVK_TpY/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/29/6ae3709358692315278677.jpg",
    "date": null,
    "pubdate": "2026-10-29T18:31:17.650592+00:00"
   },
@@ -121,100 +165,12 @@
    "pubdate": "2026-10-29T18:31:17.650592+00:00"
   },
   {
-   "title": "Imprescriptibilité des crimes sexuels sur les mineurs, durcissement des peines, audition du suspect sous trois mois… : le projet de loi de protection des enfants examiné au Sénat Initialement prévu pour répondre à la crise de l'aide sociale à l'enfance, ce projet de loi a été recentré sur la lutte contre la pédocriminalité lors de son examen à l'Assemblée nationale. Un vote solennel est prévu mardi.",
-   "link": "https://www.franceinfo.fr/societe/harcelement-sexuel/peine-de-perpetuite-en-cas-de-viols-auditions-du-suspect-sous-3-mois-les-grands-debats-autour-du-projet-de-loi-de-protection-des-enfants-examine-au-senat_8258291.html",
-   "summary": "Imprescriptibilité des crimes sexuels sur les mineurs, durcissement des peines, audition du suspect sous trois mois… : le projet de loi de protection des enfants examiné au Sénat",
-   "image": "https://www.franceinfo.fr/pictures/o8CD7H0ogMOWUiBVlJ2b02XlpJY/0x0:7008x3942/432x243/filters:format(jpg)/2026/10/29/6ae3169019f9c726535606.jpg",
-   "date": null,
-   "pubdate": "2026-10-29T18:31:17.650592+00:00"
-  },
-  {
-   "title": "20:43 audio 20 minutes 43 Les informés du matin du jeudi 29 octobre 2026 Les informés débattent de l'actualité autour d'Audrey Tison et Renaud Dély.",
-   "link": "https://www.franceinfo.fr/replay-radio/les-informes-du-matin/les-informes-du-matin-du-jeudi-29-octobre-2026_8237998.html",
-   "summary": "Les informés du matin du jeudi 29 octobre 2026",
-   "image": "https://www.franceinfo.fr/pictures/TKWb09bmk3TJazMzKgqtt36pV4Q/0x292:5616x3451/432x243/filters:format(jpg)/2026/07/08/6a4e52a5b634b233317025.jpg",
+   "title": "53:37 audio 53 minutes 37 Le suspect de l'attentat de Trappes mis en examen...Les informés de franceinfo du jeudi 29 octobre 2026 Tous les soirs, les informés débattent de l'actualité, cette semaine autour de Renaud Blanc.",
+   "link": "https://www.franceinfo.fr/replay-radio/les-informes-de-france-info/le-suspect-de-l-attentat-de-trappes-mis-en-examen-les-informes-de-franceinfo-du-jeudi-29-octobre-2026_8237995.html",
+   "summary": "Le suspect de l'attentat de Trappes mis en examen...Les informés de franceinfo du jeudi 29 octobre 2026",
+   "image": "https://www.franceinfo.fr/pictures/fFDhHpI-IyaubFE-7qr8shY-qNI/190x62:1089x568/432x243/filters:format(jpg)/2026/10/29/6ae39ea601093785781974.png",
    "date": "2026-10-29T11:00:00+00:00",
    "pubdate": "2026-10-29T11:00:00+00:00"
-  },
-  {
-   "title": "23:44 audio 23 minutes 44 Mobilisation des lycéens, parcoursup, maintien de l'ordre... Le \"8h30 franceinfo\" de Philippe Baptiste Philippe Baptiste, ministre de l'Enseignement supérieur, de la Recherche et de l'Espace, est l'invité du \"8h30 franceinfo\" le 29 octobre 2026.",
-   "link": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/mobilisation-des-lyceens-parcoursup-maintien-de-l-ordre-le-8h30-franceinfo-de-philippe-baptiste_8237956.html",
-   "summary": "Mobilisation des lycéens, parcoursup, maintien de l'ordre... Le \"8h30 franceinfo\" de Philippe Baptiste",
-   "image": "https://www.franceinfo.fr/pictures/SbVhLRCRnG5oqXpGegzAJKpNkxM/0x0:1280x720/432x243/filters:format(jpg)/2026/10/29/6ae2fb366194c389730666.jpg",
-   "date": "2026-10-29T11:00:00+00:00",
-   "pubdate": "2026-10-29T11:00:00+00:00"
-  },
-  {
-   "title": "Aide alimentaire : une étude dénonce les millions d'euros de réductions d'impôt accordées à la grande distribution pour des dons de produits finalement jetés L'Union nationale des groupements des épiceries sociales et solidaires estime à 60 millions d'euros le montant des réductions d'impôt accordées pour ces denrées qui finissent à la poubelle.",
-   "link": "https://www.franceinfo.fr/sante/alimentation/aide-alimentaire-une-etude-denonce-les-millions-d-euros-de-reductions-d-impot-accordees-a-la-grande-distribution-pour-des-dons-de-produits-finalement-jetes_8258561.html",
-   "summary": "Aide alimentaire : une étude dénonce les millions d'euros de réductions d'impôt accordées à la grande distribution pour des dons de produits finalement jetés",
-   "image": "https://www.franceinfo.fr/pictures/yPFzviNVGAgl989C4FpjtxrmGxg/432x243/filters:format(jpg)/2026/09/02/6a97eec97b66a189431133.jpg",
-   "date": null,
-   "pubdate": "2026-10-29T10:06:41.389895+00:00"
-  },
-  {
-   "title": "2:37 audio 2 minutes 37 La Gen Z monte au créneau pour défendre ses droits partout dans le monde Au Maroc, en Inde, en Grèce, en Albanie, en Serbie ou en France… Les moins de 30 ans se mobilisent dans la rue et parfois dans les urnes, pour améliorer leurs conditions de vie et donner des leçons aux dirigeants du moment et leurs combats d'antan.",
-   "link": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/la-gen-z-monte-au-creneau-pour-defendre-ses-droits-partout-dans-le-monde_8237950.html",
-   "summary": "La Gen Z monte au créneau pour défendre ses droits partout dans le monde",
-   "image": "https://www.franceinfo.fr/pictures/FzjYYPSs5TADyld55zxHy0oXanU/0x75:6264x3599/432x243/filters:format(jpg)/2026/10/29/6ae30554c21b4405785400.jpg",
-   "date": null,
-   "pubdate": "2026-10-29T10:06:41.389895+00:00"
-  },
-  {
-   "title": "Manifestations : Jean-Pierre Farandou veut donner un \"OK de principe\" aux commerçants qui veulent ouvrir le dimanche, pour compenser les pertes d'activités Le ministre du Travail et des Solidarités, Jean-Pierre Farandou, assure sur France Inter ne pas s'opposer à l'ouverture dominicale sur la base du volontariat.",
-   "link": "https://www.franceinfo.fr/economie/greve/manifestations-jean-pierre-farandou-veut-donner-un-ok-de-principe-aux-commercants-qui-veulent-ouvrir-le-dimanche-pour-compenser-les-pertes-d-activites_8258495.html",
-   "summary": "Manifestations : Jean-Pierre Farandou veut donner un \"OK de principe\" aux commerçants qui veulent ouvrir le dimanche, pour compenser les pertes d'activités",
-   "image": "https://www.franceinfo.fr/pictures/lljUuddSDVNpyMP7-ToBEMzJV0c/0x53:1024x629/432x243/filters:format(jpg)/2026/06/05/6a228d59318d1300277224.jpg",
-   "date": null,
-   "pubdate": "2026-10-29T10:06:41.389895+00:00"
-  },
-  {
-   "title": "Le ministre de l'Enseignement supérieur estime qu'il est \"essentiel\" que les cours puissent reprendre lundi \"en présentiel\" mais assure que la discussion \"reste ouverte\" Philippe Baptiste, ministre de l'Enseignement supérieur, appelle sur franceinfo jeudi à \"l'arrêt des blocages et des violences\".",
-   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/le-ministre-de-l-enseignement-superieur-estime-qu-il-est-essentiel-que-les-cours-puissent-reprendre-lundi-en-presentiel-mais-assure-que-la-discussion-reste-ouverte_8258474.html",
-   "summary": "Le ministre de l'Enseignement supérieur estime qu'il est \"essentiel\" que les cours puissent reprendre lundi \"en présentiel\" mais assure que la discussion \"reste ouverte\"",
-   "image": "https://www.franceinfo.fr/pictures/L1PvvuYPwzYasf5sO5cUf_sCC3A/0x0:1280x720/432x243/filters:format(jpg)/2026/10/29/6ae2f9d7b34b9237686042.jpg",
-   "date": null,
-   "pubdate": "2026-10-29T10:06:41.389895+00:00"
-  },
-  {
-   "title": "Le parquet de Toulouse saisit l'IGPN après la plainte d'un manifestant grièvement blessé à la main le 24 octobre Entendu dimanche dans le cadre d'une enquête pour \"recherche des causes de blessures graves\", le jeune homme de 20 ans a porté plainte pendant l'audition, a déclaré à l'AFP le procureur de la République à Toulouse, David Charmatz.",
-   "link": "https://www.franceinfo.fr/societe/manifestations/le-parquet-de-toulouse-saisit-l-igpn-apres-la-plainte-du-manifestant-grievement-blesse-a-la-main-le-24-octobre_8258207.html",
-   "summary": "Le parquet de Toulouse saisit l'IGPN après la plainte d'un manifestant grièvement blessé à la main le 24 octobre",
-   "image": "https://www.franceinfo.fr/pictures/wZEj8xCN_uzLjovAg32WBzLFv3o/0x0:3632x2043/432x243/filters:format(jpg)/2026/10/29/6ae2f26f2118e232086192.jpg",
-   "date": null,
-   "pubdate": "2026-10-29T10:06:41.389895+00:00"
-  },
-  {
-   "title": "• Direct Attentat raciste dans les Yvelines : le suspect, Kévin T., mis en examen par un juge antiterroriste Le suspect a reconnu être l'auteur de l'attentat raciste et a admis avoir \"spécifiquement\" ciblé des personnes \"de type musulman, africain ou nord-africain\", a annoncé le procureur du Pnat jeudi.",
-   "link": "https://www.franceinfo.fr/societe/trappes/direct-attentat-raciste-a-trappes-le-suspect-a-ete-transfere-dans-la-nuit-au-tribunal-judiciaire-de-paris-en-vue-de-sa-mise-en-examen_8258192.html",
-   "summary": "Attentat raciste dans les Yvelines : le suspect, Kévin T., mis en examen par un juge antiterroriste",
-   "image": "https://www.franceinfo.fr/pictures/irC65UAAqnMWLq9pL-x5WKRJ4Yc/0x87:1024x663/432x243/filters:format(jpg)/2026/10/29/6ae367bfce814863873620.jpg",
-   "date": null,
-   "pubdate": "2026-10-29T10:06:41.389895+00:00"
-  },
-  {
-   "title": "En 2025, 927 personnes sans domicile fixe sont mortes en France, selon le collectif \"Les Morts de la rue\" Ce décompte ne recense que les morts \"authentifiées par acte de décès\". \"La réalité, hélas, est nécessairement pire\", précise l'association.",
-   "link": "https://www.franceinfo.fr/societe/sdf/en-2025-927-personnes-sans-domicile-fixe-sont-mortes-en-france-selon-le-collectif-les-morts-de-la-rue_8256067.html",
-   "summary": "En 2025, 927 personnes sans domicile fixe sont mortes en France, selon le collectif \"Les Morts de la rue\"",
-   "image": "https://www.franceinfo.fr/pictures/fgp7eAsQp-4SxaF5kK0ElBespyI/0x0:1024x576/432x243/filters:format(jpg)/2026/10/27/6ae0cd4a80c77715109735.jpg",
-   "date": null,
-   "pubdate": "2026-10-29T10:06:41.389895+00:00"
-  },
-  {
-   "title": "\"Ils sont là pour gagner de l'argent au détriment des familles\" : le secteur des pompes funèbres dans le viseur de la Répression des fraudes Prix excessifs, pratiques commerciales trompeuses… Près de la moitié des entreprises de pompes funèbres contrôlées en 2024 et 2025 par la Répression des fraudes présentaient des anomalies.",
-   "link": "https://www.franceinfo.fr/economie/fraude/ils-sont-la-pour-gagner-de-l-argent-au-detriment-des-familles-le-secteur-des-pompes-funebres-dans-le-viseur-de-la-repression-des-fraudes_8257916.html",
-   "summary": "\"Ils sont là pour gagner de l'argent au détriment des familles\" : le secteur des pompes funèbres dans le viseur de la Répression des fraudes",
-   "image": "https://www.franceinfo.fr/pictures/HFbk6t8hTgHXE4T1A7It8M-V3HM/0x0:4930x2773/432x243/filters:format(jpg)/2026/10/28/6ae26336a9c0e713522737.jpg",
-   "date": null,
-   "pubdate": "2026-10-29T10:06:41.389895+00:00"
-  },
-  {
-   "title": "\"Plus jamais un enfant victime d'inceste n'entendra qu'il était trop tard pour parler\" : le Sénat approuve l'imprescriptibilité des crimes sexuels commis sur les mineurs A l'heure actuelle, une victime de viol subi dans l'enfance peut porter plainte jusqu'à 48 ans, le délai de prescription étant de trente ans à compter de sa majorité, un délai jugé insuffisant par certaines associations de protection de l'enfance.",
-   "link": "https://www.franceinfo.fr/societe/harcelement-sexuel/plus-jamais-un-enfant-victime-d-inceste-n-entendra-qu-il-etait-trop-tard-pour-parler-le-senat-approuve-l-imprescriptibilite-des-crimes-sexuels-commis-sur-les-mineurs_8258195.html",
-   "summary": "\"Plus jamais un enfant victime d'inceste n'entendra qu'il était trop tard pour parler\" : le Sénat approuve l'imprescriptibilité des crimes sexuels commis sur les mineurs",
-   "image": "https://www.franceinfo.fr/pictures/5oANCE9OYE4X9yEBEs422quQ4jQ/0x0:8949x5033/432x243/filters:format(jpg)/2026/10/29/6ae2d441b4c13009290507.jpg",
-   "date": null,
-   "pubdate": "2026-10-29T10:06:41.389895+00:00"
   },
   {
    "title": "4:39 audio 4 minutes 39 Mobilisation du 24 octobre : à Paris, des habitants divisés sur la nécessité de poursuivre les manifestations mais des étudiants toujours déterminés",
@@ -247,6 +203,14 @@
    "image": "https://www.franceinfo.fr/pictures/Ejv4YY-5ShK0RmxlgY3ouwwP8JM/926x0:4630x3704/100x100/filters:format(jpg)/2026/10/23/6adaf1b7222c3559633347.jpg",
    "date": null,
    "pubdate": "2026-10-23T11:46:24.983620+00:00"
+  },
+  {
+   "title": ": Vidéo 17 octobre : qui sont les casseurs ? Le 17 octobre 2026, 1 161 magasins auraient été pillés, saccagés ou incendiés, tandis que l'hôtel de ville de Limoges était dévoré par les flammes. Que s'est-il passé ? 29 octobre : Vidéo 33:13 vidéo 33 minutes 13",
+   "link": "https://www.franceinfo.fr/replay-magazine/france-2/envoye-special/video-17-octobre-qui-sont-les-casseurs_8259329.html",
+   "summary": "Le 17 octobre 2026, 1 161 magasins auraient été pillés, saccagés ou incendiés, tandis que l'hôtel de ville de Limoges était dévoré par les flammes. Que s'est-il passé ?",
+   "image": "https://www.franceinfo.fr/pictures/rMPJigII47l7gUYCBg02IQZQbyg/174x0:1745x1080/432x297/filters:format(jpg)/2026/10/29/6ae3c7da5f917644759984.jpg",
+   "date": "2026-10-17T11:00:00+00:00",
+   "pubdate": "2026-10-17T11:00:00+00:00"
   }
  ]
 }
