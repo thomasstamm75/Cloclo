@@ -1,8 +1,7 @@
 {
- "etag": "\"160f4lb\"",
+ "etag": "\"1qrxpmi\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/budget-combien-vont-rapporter-les-repentis-fiscaux-5849784": "2026-10-05T05:50:49.453334+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/pour-se-financer-les-musees-publics-ont-des-nouvelles-idees-2449799": "2026-10-06T06:30:07.053472+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/le-journal-de-l-eco-du-mercredi-07-octobre-2026-9594607": "2026-10-07T11:00:00+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/crise-petroliere-quelle-marge-pour-taxer-les-profits-des-raffineurs-1629158": "2026-10-08T10:43:19.512955+00:00",
@@ -20,10 +19,19 @@
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/donald-trump-n-a-pas-tenu-ses-promesses-sur-le-pouvoir-d-achat-9916072": "2026-10-26T13:13:23.491705+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/etats-unis-de-donald-trump-l-economie-se-porte-bien-mais-les-inegalites-se-creusent-9130920": "2026-10-27T11:00:00+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/droits-de-douane-et-relocalisation-donald-trump-a-t-il-tenu-ses-promesses-1853800": "2026-10-28T13:06:43.111709+00:00",
-  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/les-cryptomonnaies-qui-enrichissent-la-famille-trump-4253986": "2026-10-29T10:06:57.704936+00:00"
+  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/les-cryptomonnaies-qui-enrichissent-la-famille-trump-4253986": "2026-10-29T10:06:57.704936+00:00",
+  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/l-ia-moteur-fragile-de-la-croissance-americaine-6786048": "2026-10-30T10:09:15.728182+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "Ãtat des lieux de l'Ã©conomie amÃ©ricaine 5/5Â Â· L'IA, moteur fragile de la croissance amÃ©ricaine",
+   "link": "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/l-ia-moteur-fragile-de-la-croissance-americaine-6786048",
+   "summary": "PoussÃ©s par Donald Trump, des milliers de milliards de dollars sont investis par les gÃ©ants de la tech dans lâIA. Ces investissements portent la croissance amÃ©ricaine, mais plusieurs inconnues demeurentÂ : cela va-t-il durer et lâÃ©conomie amÃ©ricaine dans son ensemble va-t-elle en profiterÂ ?",
+   "image": "https://www.radiofrance.fr/pikapi/images/41297182-3834-48bc-8570-9787c5ccb7d9/2048",
+   "date": null,
+   "pubdate": "2026-10-30T10:09:15.728182+00:00"
+  },
   {
    "title": "Ãtat des lieux de l'Ã©conomie amÃ©ricaine 4/5Â Â· Les cryptomonnaies qui enrichissent la famille Trump",
    "link": "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/les-cryptomonnaies-qui-enrichissent-la-famille-trump-4253986",
@@ -167,14 +175,6 @@
    "image": "https://www.radiofrance.fr/pikapi/images/76d2b011-1cdc-41e6-ae3e-1f405e41479a/2048",
    "date": null,
    "pubdate": "2026-10-06T06:30:07.053472+00:00"
-  },
-  {
-   "title": "BudgetÂ : combien vont rapporter les repentis fiscauxÂ ?",
-   "link": "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/budget-combien-vont-rapporter-les-repentis-fiscaux-5849784",
-   "summary": "Le gouvernement prÃ©voit la crÃ©ation d'un mÃ©canisme de rÃ©gularisation fiscale sur le modÃ¨le des guichets qui avaient Ã©tÃ© ouverts en 2009, puis entre 2013 et 2017 pour les fraudeurs repentis. Or, il est dÃ©jÃ possible de s'auto-dÃ©noncer au fisc. Pourquoi un nouveau guichet, et combien en attendreÂ ?",
-   "image": "https://www.radiofrance.fr/pikapi/images/ecf0ffb3-35da-4680-97ce-c29a7a145a47/2048",
-   "date": null,
-   "pubdate": "2026-10-05T05:50:49.453334+00:00"
   }
  ]
 }

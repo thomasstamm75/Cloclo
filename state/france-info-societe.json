@@ -1,192 +1,208 @@
 {
- "etag": "\"ec6322314b98c3a7d7c26931ae24fa2e-gzip\"",
+ "etag": "\"543c6f454b931eb226afbc176397e521-gzip\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/si-on-arrete-maintenant-on-a-perdu-et-ils-ont-gagne-a-la-veille-d-une-nouvelle-journee-de-mobilisation-des-etudiants-plus-determines-que-jamais_8229265.html": "2026-10-23T11:46:24.983620+00:00",
   "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-existe-t-il-vraiment-des-policiers-casseurs-en-civil-et-infiltres-dans-les-manifestations-qui-commettent-des-degradations_8250637.html": "2026-10-24T11:11:08.227161+00:00",
-  "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/mobilisation-du-24-octobre-a-paris-des-habitants-divises-sur-la-necessite-de-poursuivre-les-manifestations-mais-des-etudiants-toujours-determines_8227672.html": "2026-10-26T20:33:41.804927+00:00",
-  "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/bon-courage-a-ceux-qui-arrivent-l-election-presidentielle-permettra-t-elle-vraiment-de-sortir-de-la-crise-politique-et-sociale-qui-secoue-le-pays_8245624.html": "2026-10-26T20:33:41.804927+00:00",
-  "https://www.franceinfo.fr/societe/manifestations/le-parquet-de-lorient-ouvre-une-enquete-apres-la-presence-d-individus-masques-pretendant-defendre-les-commercants-en-marge-de-la-mobilisation-du-24-octobre_8259350.html": "2026-10-29T18:31:17.650592+00:00",
-  "https://www.franceinfo.fr/internet/intelligence-artificielle/de-plus-en-plus-de-jeunes-victimes-de-cyberharcelement-cherchent-du-reconfort-aupres-de-l-ia_8259137.html": "2026-10-29T18:31:17.650592+00:00",
-  "https://www.franceinfo.fr/societe/manifestations/manifestations-du-31-octobre-70-000-policiers-et-gendarmes-seront-mobilises-un-dispositif-exceptionnel-similaire-au-24-octobre-annonce-laurent-nunez_8259305.html": "2026-10-29T18:31:17.650592+00:00",
-  "https://www.franceinfo.fr/societe/manifestations/syndicats-de-salaries-et-d-etudiants-attaquent-en-justice-sur-le-parcours-de-la-manifestation-a-paris-samedi_8259164.html": "2026-10-29T18:31:17.650592+00:00",
-  "https://www.franceinfo.fr/societe/manifestations/l-interdiction-des-rassemblements-non-declares-dans-certains-secteurs-a-paris-reconduite-jusqu-a-lundi_8259140.html": "2026-10-29T18:31:17.650592+00:00",
-  "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/laurent-nunez-previent-que-le-risque-de-violences-urbaines-est-tres-eleve-pour-la-mobilisation-du-31-octobre-dans-une-lettre-envoyee-aux-prefets_8258972.html": "2026-10-29T18:31:17.650592+00:00",
-  "https://www.franceinfo.fr/replay-magazine/france-2/envoye-special/video-17-octobre-qui-sont-les-casseurs_8259329.html": "2026-10-17T11:00:00+00:00",
   "https://www.franceinfo.fr/replay-magazine/france-2/envoye-special/video-17-octobre-dans-envoye-special-le-pere-de-l-homme-de-34-ans-suspecte-d-etre-implique-dans-l-incendie-de-la-mairie-de-limoges-s-exprime-pour-la-premiere-fois_8259338.html": "2026-10-30T01:06:20.620144+00:00",
-  "https://www.franceinfo.fr/societe/justice/edouard-philippe-place-sous-le-statut-de-temoin-assiste_8259542.html": "2026-10-30T01:06:20.620144+00:00",
-  "https://www.franceinfo.fr/environnement/biodiversite/le-premier-impact-c-est-une-destruction-de-l-habitat-de-ces-ecosystemes-voyage-dans-les-fonds-marins-inexplores-convoites-par-l-industrie-pour-leurs-ressources_8259539.html": "2026-10-30T01:06:20.620144+00:00",
-  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/laurent-nunez-a-nie-toutes-les-vi0lences-envers-les-lyceens-denonce-une-porte-parole_8259515.html": "2026-10-30T01:06:20.620144+00:00",
-  "https://www.franceinfo.fr/replay-magazine/france-2/envoye-special/video-immersion-en-eaux-profondes_8254315.html": "2026-10-30T01:06:20.620144+00:00",
-  "https://www.franceinfo.fr/societe/manifestations/les-commercants-prets-a-ouvrir-le-dimanche-pour-limiter-les-pertes_8259506.html": "2026-10-30T01:06:20.620144+00:00",
-  "https://www.franceinfo.fr/environnement/energie/energies-fossiles/totalenergies/crise-des-carburants-comment-expliquer-les-benefices-records-de-totalenergies_8259500.html": "2026-10-30T01:06:20.620144+00:00",
-  "https://www.franceinfo.fr/decouverte/halloween/halloween-inquiete-les-forces-de-l-ordre-en-marge-des-manifestations-du-31-octobre_8259482.html": "2026-10-30T01:06:20.620144+00:00",
-  "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/a-ce-moment-la-je-ne-pense-a-rien-je-suis-degoute-de-ce-qui-se-passe-rencontre-avec-pierre-collin-le-commercant-nicois-qui-a-emu-les-internautes-en-defendant-sa-boutique-face-aux-pilleurs_8259473.html": "2026-10-30T01:06:20.620144+00:00",
-  "https://www.franceinfo.fr/replay-radio/les-informes-de-france-info/le-suspect-de-l-attentat-de-trappes-mis-en-examen-les-informes-de-franceinfo-du-jeudi-29-octobre-2026_8237995.html": "2026-10-29T11:00:00+00:00",
-  "https://www.franceinfo.fr/societe/drogue/la-police-recherche-de-la-cocaine-sur-les-plages-du-sud-ouest-apres-la-rumeur-d-une-cargaison-perdue_8258891.html": "2026-10-30T01:06:20.620144+00:00",
-  "https://www.franceinfo.fr/societe/manifestations/je-crains-les-debordements-entre-colere-et-peur-des-violences-les-habitants-d-avignon-partages-sur-la-mobilisation-du-31-octobre_8258858.html": "2026-10-30T01:06:20.620144+00:00"
+  "https://www.franceinfo.fr/economie/greve/peut-on-manifester-en-etant-deguise-pour-halloween_8260208.html": "2026-10-30T10:09:02.877290+00:00",
+  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/reportage-les-eleves-ont-besoin-de-se-voir-a-lormont-le-lycee-des-iris-va-rouvrir-malgre-les-travaux-toujours-en-cours-pour-reparer-les-degradations_8260064.html": "2026-10-30T10:09:02.877290+00:00",
+  "https://www.franceinfo.fr/replay-radio/les-informes-du-matin/les-informes-du-matin-du-vendredi-30-octobre-2026_8239513.html": "2026-10-30T11:00:00+00:00",
+  "https://www.franceinfo.fr/societe/manifestations/manifestations-il-faut-une-sortie-politique-assure-frederic-lauze-secretaire-general-du-syndicat-des-commissaires-de-la-police-nationale_8260118.html": "2026-10-30T10:09:02.877290+00:00",
+  "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/direct-attentat-raciste-dans-les-yvelines-un-grand-rassemblement-organise-par-la-municipalite-de-trappes-prevu-a-18-heures-plusieurs-milliers-de-personnes-attendues_8259788.html": "2026-10-30T10:09:02.877290+00:00",
+  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mouvement-lyceen-83-enquetes-confiees-a-l-igpn-et-l-iggn-depuis-le-debut-de-la-mobilisation_8260124.html": "2026-10-30T10:09:02.877290+00:00",
+  "https://www.franceinfo.fr/societe/manifestations/mobilisation-du-31-octobre-les-commercants-ont-hate-que-ce-samedi-soit-termine-je-vous-le-dis-lance-le-president-des-cci-de-france_8260109.html": "2026-10-30T10:09:02.877290+00:00",
+  "https://www.franceinfo.fr/societe/education/le-president-de-france-universites-n-est-pas-certain-que-les-etudiants-soient-devant-leurs-professeurs-lundi_8260094.html": "2026-10-30T10:09:02.877290+00:00",
+  "https://www.franceinfo.fr/societe/manifestations/mobilisation-du-31-octobre-rien-n-a-change-depuis-2018-tout-a-empire-estime-azelma-sigaux-porte-parole-de-la-coordination-nationale-des-gilets-jaunes_8260100.html": "2026-10-30T10:09:02.877290+00:00",
+  "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/attentat-raciste-de-trappes-mobilisation-du-31-octobre-presidentielle-le-8h30-franceinfo-de-yannick-jadot_8239522.html": "2026-10-30T10:09:02.877290+00:00",
+  "https://www.franceinfo.fr/replay-magazine/france-2/envoye-special/video-silencieux-muet-mais-dote-d-oreilles-d-or-envoye-special-en-immersion-a-bord-du-temeraire-sous-marin-nucleaire-lanceur-d-engins_8258510.html": "2026-10-30T10:09:02.877290+00:00",
+  "https://www.franceinfo.fr/societe/nos-jours-heureux/": "2026-10-30T10:09:02.877290+00:00",
+  "https://www.franceinfo.fr/societe/euthanasie/comprendre-les-debats-sur-la-fin-de-vie/": "2026-10-30T10:09:02.877290+00:00",
+  "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/reportage-on-fait-croire-qu-ici-c-est-dangereux-apres-l-attentat-de-trappes-des-habitants-denoncent-un-acharnement-contre-leur-ville_8257315.html": "2026-10-30T10:09:02.877290+00:00",
+  "https://www.franceinfo.fr/replay-radio/ca-dit-quoi/podcast-manifs-sous-halloween-l-extreme-droite-bloquee-sur-les-reseaux-et-charles-xavier-est-mort-ca-dit-quoi-ce-30-octobre_8251471.html": "2026-10-30T10:09:02.877290+00:00",
+  "https://www.franceinfo.fr/replay-radio/le-brief-eco/l-etat-veut-augmenter-le-plafond-du-livret-a-pour-financer-la-renovation-des-lycees_8239492.html": "2026-10-30T10:09:02.877290+00:00",
+  "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/peut-on-manifester-samedi-31-octobre-avec-un-masque-d-halloween_8239507.html": "2026-10-30T10:09:02.877290+00:00",
+  "https://www.franceinfo.fr/societe/manifestations/manifestations-du-31-octobre-la-principale-menace-c-est-la-mobilisation-de-casseurs-a-la-tombee-de-la-nuit-estime-la-porte-parole-de-la-police-nationale_8260013.html": "2026-10-30T10:09:02.877290+00:00",
+  "https://www.franceinfo.fr/societe/manifestations/direct-manifestations-du-31-octobre-le-parcours-du-defile-parisien-objet-d-un-bras-de-fer-entre-les-syndicats-et-les-autorites_8259785.html": "2026-10-30T10:09:02.877290+00:00",
+  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/comment-les-formations-de-l-enseignement-superieur-accueillent-elles-les-annonces-sur-les-evolutions-de-parcoursup_8257288.html": "2026-10-30T10:09:02.877290+00:00",
+  "https://www.franceinfo.fr/societe/manifestations/corteges-autorises-dispositif-de-securite-a-quoi-faut-il-s-attendre-pour-les-manifestations-du-samedi-31-octobre_8258933.html": "2026-10-30T10:09:02.877290+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": ": Vidéo 5:38 vidéo 5 minutes 38 : Vidéo 17 octobre : dans \"Envoyé spécial\", le père de l'homme de 34 ans suspecté d'être impliqué dans l'incendie de la mairie de Limoges s'exprime pour la première fois",
-   "link": "https://www.franceinfo.fr/replay-magazine/france-2/envoye-special/video-17-octobre-dans-envoye-special-le-pere-de-l-homme-de-34-ans-suspecte-d-etre-implique-dans-l-incendie-de-la-mairie-de-limoges-s-exprime-pour-la-premiere-fois_8259338.html",
-   "summary": "17 octobre : dans \"Envoyé spécial\", le père de l'homme de 34 ans suspecté d'être impliqué dans l'incendie de la mairie de Limoges s'exprime pour la première fois",
-   "image": "https://www.franceinfo.fr/pictures/23OzsDryA7xe2NC1tM15B2mr0wU/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/29/6ae3c43b9c68e259610728.jpg",
-   "date": null,
-   "pubdate": "2026-10-30T01:06:20.620144+00:00"
+   "title": "20:12 audio 20 minutes 12 Les informés du matin du vendredi 30 octobre 2026",
+   "link": "https://www.franceinfo.fr/replay-radio/les-informes-du-matin/les-informes-du-matin-du-vendredi-30-octobre-2026_8239513.html",
+   "summary": "Les informés du matin du vendredi 30 octobre 2026",
+   "image": "https://www.franceinfo.fr/pictures/TKWb09bmk3TJazMzKgqtt36pV4Q/0x292:5616x3451/432x243/filters:format(jpg)/2026/07/08/6a4e52a5b634b233317025.jpg",
+   "date": "2026-10-30T11:00:00+00:00",
+   "pubdate": "2026-10-30T11:00:00+00:00"
   },
   {
-   "title": "0:33 vidéo 33 secondes Édouard Philippe placé sous le statut de témoin assisté",
-   "link": "https://www.franceinfo.fr/societe/justice/edouard-philippe-place-sous-le-statut-de-temoin-assiste_8259542.html",
-   "summary": "Édouard Philippe placé sous le statut de témoin assisté",
-   "image": "https://www.franceinfo.fr/pictures/fZOD1PehbGtV2ChIyyQIylXbDwU/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/29/6ae3c247540a0811564178.png",
+   "title": "Peut-on manifester en étant déguisé pour Halloween ? Salut c’est Sarah, ça dit quoi ? Halloween ou pas, pas de visage dissimulé dans l'espace public, sinon c'est 150 euros d'amende, rappelle la préfecture de police. Un rappel fait dans le cadre des manifestations prévues ce week-end. Mais est-ce que c’est vraiment légal tout ça ? Aujourd'hui 1:39 vidéo 1 minute 39",
+   "link": "https://www.franceinfo.fr/economie/greve/peut-on-manifester-en-etant-deguise-pour-halloween_8260208.html",
+   "summary": "Peut-on manifester en étant déguisé pour Halloween ?",
+   "image": "https://www.franceinfo.fr/assets/common/images/logos/placeholder-4e7f49f2.png",
    "date": null,
-   "pubdate": "2026-10-30T01:06:20.620144+00:00"
+   "pubdate": "2026-10-30T10:09:02.877290+00:00"
   },
   {
-   "title": "2:20 vidéo 2 minutes 20 \"Le premier impact, c'est une destruction de l'habitat de ces écosystèmes\" : voyage dans les fonds marins inexplorés, convoités par l'industrie pour leurs ressources",
-   "link": "https://www.franceinfo.fr/environnement/biodiversite/le-premier-impact-c-est-une-destruction-de-l-habitat-de-ces-ecosystemes-voyage-dans-les-fonds-marins-inexplores-convoites-par-l-industrie-pour-leurs-ressources_8259539.html",
-   "summary": "\"Le premier impact, c'est une destruction de l'habitat de ces écosystèmes\" : voyage dans les fonds marins inexplorés, convoités par l'industrie pour leurs ressources",
-   "image": "https://www.franceinfo.fr/pictures/1nxDZSBdRSsTC4Ba_wU1560ySdY/0x34:1225x723/432x243/filters:format(jpg)/2026/10/29/6ae3c1db85f3c820386330.jpg",
+   "title": ": Reportage : Reportage \"Les élèves ont besoin de se voir\" : à Lormont, le lycée des Iris va rouvrir malgré les travaux toujours en cours pour réparer les dégradations",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/reportage-les-eleves-ont-besoin-de-se-voir-a-lormont-le-lycee-des-iris-va-rouvrir-malgre-les-travaux-toujours-en-cours-pour-reparer-les-degradations_8260064.html",
+   "summary": "\"Les élèves ont besoin de se voir\" : à Lormont, le lycée des Iris va rouvrir malgré les travaux toujours en cours pour réparer les dégradations",
+   "image": "https://www.franceinfo.fr/pictures/E4F_9032I5SAqMvT_nfYGtCZ78I/0x416:8000x4916/432x243/filters:format(jpg)/2026/10/30/6ae45b94cdd34390887490.jpg",
    "date": null,
-   "pubdate": "2026-10-30T01:06:20.620144+00:00"
+   "pubdate": "2026-10-30T10:09:02.877290+00:00"
   },
   {
-   "title": "1:24 vidéo 1 minute 24 Laurent Nuñez \"a nié toutes les vi0lences\" envers les lycéens, dénonce une porte-parole",
-   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/laurent-nunez-a-nie-toutes-les-vi0lences-envers-les-lyceens-denonce-une-porte-parole_8259515.html",
-   "summary": "Laurent Nuñez \"a nié toutes les vi0lences\" envers les lycéens, dénonce une porte-parole",
-   "image": "https://www.franceinfo.fr/pictures/kPN7YkzTN1LDS5Z6V4dkrADy3h8/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/29/6ae3bbb0299cd933198984.png",
+   "title": "9:54 vidéo 9 minutes 54 Manifestations : \"Il faut une sortie politique\", assure Frédéric Lauze, secrétaire général du Syndicat des commissaires de la police nationale",
+   "link": "https://www.franceinfo.fr/societe/manifestations/manifestations-il-faut-une-sortie-politique-assure-frederic-lauze-secretaire-general-du-syndicat-des-commissaires-de-la-police-nationale_8260118.html",
+   "summary": "Manifestations : \"Il faut une sortie politique\", assure Frédéric Lauze, secrétaire général du Syndicat des commissaires de la police nationale",
+   "image": "https://www.franceinfo.fr/pictures/67klCU4H6SCitqnZ2sD3LyDRzUo/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/30/6ae46222375eb793583749.jpg",
    "date": null,
-   "pubdate": "2026-10-30T01:06:20.620144+00:00"
+   "pubdate": "2026-10-30T10:09:02.877290+00:00"
   },
   {
-   "title": ": Vidéo 57:47 vidéo 57 minutes 47 : Vidéo Immersion en eaux profondes",
-   "link": "https://www.franceinfo.fr/replay-magazine/france-2/envoye-special/video-immersion-en-eaux-profondes_8254315.html",
+   "title": "• Direct • Direct Attentat raciste dans les Yvelines : un grand rassemblement organisé par la municipalité de Trappes prévu à 18 heures, \"plusieurs milliers\" de personnes attendues",
+   "link": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/direct-attentat-raciste-dans-les-yvelines-un-grand-rassemblement-organise-par-la-municipalite-de-trappes-prevu-a-18-heures-plusieurs-milliers-de-personnes-attendues_8259788.html",
+   "summary": "Attentat raciste dans les Yvelines : un grand rassemblement organisé par la municipalité de Trappes prévu à 18 heures, \"plusieurs milliers\" de personnes attendues",
+   "image": "https://www.franceinfo.fr/pictures/8pd9SG76T6Uvy6lyhzbosZ_SxQE/0x226:5000x3039/432x243/filters:format(jpg)/2026/10/30/6ae45d9594ef2406721656.jpg",
+   "date": null,
+   "pubdate": "2026-10-30T10:09:02.877290+00:00"
+  },
+  {
+   "title": "Depuis le début du mouvement lycéen, 83 enquêtes ont été confiées à l'IGPN et l'IGGN",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mouvement-lyceen-83-enquetes-confiees-a-l-igpn-et-l-iggn-depuis-le-debut-de-la-mobilisation_8260124.html",
    "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/si6SWwxZEBYjeQePyYdzB609Qss/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/29/6ae3b78ad1fa6578614534.jpg",
+   "image": "https://www.franceinfo.fr/pictures/U4iXc3o1eT4BqJi487OLHaiEhD4/0x93:5000x2906/432x243/filters:format(jpg)/2023/07/27/64c2140fdf77e_igpn.jpg",
+   "date": null,
+   "pubdate": "2026-10-30T10:09:02.877290+00:00"
+  },
+  {
+   "title": "Mobilisation du 31 octobre : les commerçants \"ont hâte que ce samedi soit terminé, je vous le dis\", lance le président des CCI de France",
+   "link": "https://www.franceinfo.fr/societe/manifestations/mobilisation-du-31-octobre-les-commercants-ont-hate-que-ce-samedi-soit-termine-je-vous-le-dis-lance-le-president-des-cci-de-france_8260109.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/ftpEnna5o03BaxB88lOBMEUTOY0/0x157:5001x2970/432x243/filters:format(jpg)/2026/10/19/6ad60046799b5032796876.jpg",
+   "date": null,
+   "pubdate": "2026-10-30T10:09:02.877290+00:00"
+  },
+  {
+   "title": "Le président de France Universités n'est \"pas certain\" que les étudiants soient devant leurs professeurs lundi",
+   "link": "https://www.franceinfo.fr/societe/education/le-president-de-france-universites-n-est-pas-certain-que-les-etudiants-soient-devant-leurs-professeurs-lundi_8260094.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/KscmSry0LKWCAvRgCrvCa6bkN68/0x270:5184x3186/432x243/filters:format(jpg)/2018/03/01/phpqCEqCP_1.jpg",
+   "date": null,
+   "pubdate": "2026-10-30T10:09:02.877290+00:00"
+  },
+  {
+   "title": "\"Rien n'a changé depuis 2018, tout a empiré\", estime Azelma Sigaux, porte-parole de la coordination nationale des gilets jaunes à la veille de la mobilisation du 31 octobre",
+   "link": "https://www.franceinfo.fr/societe/manifestations/mobilisation-du-31-octobre-rien-n-a-change-depuis-2018-tout-a-empire-estime-azelma-sigaux-porte-parole-de-la-coordination-nationale-des-gilets-jaunes_8260100.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/0VMElpneHQBT_hIPvAK5rvYzvwQ/432x243/filters:format(jpg)/2026/09/29/6abb3b5be799e398922748.jpg",
+   "date": null,
+   "pubdate": "2026-10-30T10:09:02.877290+00:00"
+  },
+  {
+   "title": "23:27 audio 23 minutes 27 Attentat raciste de Trappes, mobilisation du 31 octobre, présidentielle... Le \"8h30 franceinfo\" de Yannick Jadot",
+   "link": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/attentat-raciste-de-trappes-mobilisation-du-31-octobre-presidentielle-le-8h30-franceinfo-de-yannick-jadot_8239522.html",
+   "summary": "Attentat raciste de Trappes, mobilisation du 31 octobre, présidentielle... Le \"8h30 franceinfo\" de Yannick Jadot",
+   "image": "https://www.franceinfo.fr/pictures/Ns-J5RICKaZNkg8sWnCDzOWAXNE/167x0:1188x574/432x243/filters:format(jpg)/2026/10/30/6ae44d5e99a73014231167.jpg",
+   "date": null,
+   "pubdate": "2026-10-30T10:09:02.877290+00:00"
+  },
+  {
+   "title": ": Vidéo 4:25 vidéo 4 minutes 25 : Vidéo Silencieux, muet mais doté d'\"oreilles d'or\"... \"Envoyé spécial\" en immersion à bord du \"Téméraire\", sous-marin nucléaire lanceur d'engins",
+   "link": "https://www.franceinfo.fr/replay-magazine/france-2/envoye-special/video-silencieux-muet-mais-dote-d-oreilles-d-or-envoye-special-en-immersion-a-bord-du-temeraire-sous-marin-nucleaire-lanceur-d-engins_8258510.html",
+   "summary": "Silencieux, muet mais doté d'\"oreilles d'or\"... \"Envoyé spécial\" en immersion à bord du \"Téméraire\", sous-marin nucléaire lanceur d'engins",
+   "image": "https://www.franceinfo.fr/pictures/b9YA_EJcKRSg1oIMiLkeufiae6c/420x0:1500x1080/100x100/filters:format(jpg)/2026/10/29/6ae35aa4f3abe859732336.jpg",
+   "date": null,
+   "pubdate": "2026-10-30T10:09:02.877290+00:00"
+  },
+  {
+   "title": "Nos jours heureux 5 contenus",
+   "link": "https://www.franceinfo.fr/societe/nos-jours-heureux/",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/70hxXkCD_HnVl93vv3dfs138KJQ/432x297/filters:format(jpg)/2026/07/30/6a6b142e19c9c745704318.jpg",
+   "date": null,
+   "pubdate": "2026-10-30T10:09:02.877290+00:00"
+  },
+  {
+   "title": "Comprendre les débats sur la fin de vie 15 contenus",
+   "link": "https://www.franceinfo.fr/societe/euthanasie/comprendre-les-debats-sur-la-fin-de-vie/",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/gZwL6mlJ39yMRDzurzn4EQx_sgw/432x297/filters:format(jpg)/2025/05/27/illustration-aide-a-mourir-68357ca797624128014806.jpg",
+   "date": null,
+   "pubdate": "2026-10-30T10:09:02.877290+00:00"
+  },
+  {
+   "title": ": Reportage 7:00 article 7 minutes : Reportage \"On fait croire qu'ici, c'est dangereux\" : après l'attentat de Trappes, des habitants dénoncent un \"acharnement\" contre leur ville",
+   "link": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/reportage-on-fait-croire-qu-ici-c-est-dangereux-apres-l-attentat-de-trappes-des-habitants-denoncent-un-acharnement-contre-leur-ville_8257315.html",
+   "summary": "\"On fait croire qu'ici, c'est dangereux\" : après l'attentat de Trappes, des habitants dénoncent un \"acharnement\" contre leur ville",
+   "image": "https://www.franceinfo.fr/pictures/gAe806g4oRXAcgyec76c_wgKC8s/268x0:1844x1576/100x100/filters:format(jpg)/2026/10/28/6ae2299064244646221451.jpg",
+   "date": null,
+   "pubdate": "2026-10-30T10:09:02.877290+00:00"
+  },
+  {
+   "title": ": Podcast 6:00 audio 6 minutes Manifs sous Halloween, l'extrême droite bloquée sur les réseaux et Charles Xavier est mort : ça dit quoi ce 30 octobre ? Ce vendredi 30 octobre, le gouvernement s'attend à un risque \"très élevé de troubles à l'ordre public\" samedi, un mouvement appelle à bloquer les comptes d'extrême droite et Sir Patrick Stewart est mort à 86 ans.",
+   "link": "https://www.franceinfo.fr/replay-radio/ca-dit-quoi/podcast-manifs-sous-halloween-l-extreme-droite-bloquee-sur-les-reseaux-et-charles-xavier-est-mort-ca-dit-quoi-ce-30-octobre_8251471.html",
+   "summary": "Manifs sous Halloween, l'extrême droite bloquée sur les réseaux et Charles Xavier est mort : ça dit quoi ce 30 octobre ?",
+   "image": "https://www.franceinfo.fr/pictures/kpynnMd29M71dTyHzZfCHCEX3w8/0x287:5523x3394/432x243/filters:format(jpg)/2026/10/30/6ae4520da0d7c018181553.jpg",
+   "date": null,
+   "pubdate": "2026-10-30T10:09:02.877290+00:00"
+  },
+  {
+   "title": "2:37 audio 2 minutes 37 L'État veut augmenter le plafond du Livret A pour financer la rénovation des lycées Utiliser l’épargne des Français pour moderniser les établissements scolaires, l’État y songe et la piste est à l’étude. Le ministère de l’Économie et des Finances toutefois s'y oppose, objectant un manque à gagner, le Livret A, étant défiscalisé.",
+   "link": "https://www.franceinfo.fr/replay-radio/le-brief-eco/l-etat-veut-augmenter-le-plafond-du-livret-a-pour-financer-la-renovation-des-lycees_8239492.html",
+   "summary": "L'État veut augmenter le plafond du Livret A pour financer la rénovation des lycées",
+   "image": "https://www.franceinfo.fr/pictures/iDbG_gu4gM92jfsyHnPwBcIrmfo/0x47:5007x2864/432x243/filters:format(jpg)/2023/08/01/64c8ad5643c51_000-par8254513.jpg",
+   "date": null,
+   "pubdate": "2026-10-30T10:09:02.877290+00:00"
+  },
+  {
+   "title": "2:00 audio 2 minutes Peut-on manifester samedi 31 octobre avec un masque d'Halloween ? Si la loi autorise à sortir dans la rue avec le visage masqué pour célébrer une fête traditionnelle, elle interdit en revanche de se masquer le visage pour manifester et commettre des troubles à l'ordre public.",
+   "link": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/peut-on-manifester-samedi-31-octobre-avec-un-masque-d-halloween_8239507.html",
+   "summary": "Peut-on manifester samedi 31 octobre avec un masque d'Halloween ?",
+   "image": "https://www.franceinfo.fr/pictures/qBUe29-wF2y7wZSZ3rDzNNlljwo/0x66:1024x642/432x243/filters:format(jpg)/2026/10/30/6ae445b67ba08482701560.jpg",
+   "date": null,
+   "pubdate": "2026-10-30T10:09:02.877290+00:00"
+  },
+  {
+   "title": "Manifestations du 31 octobre : \"La principale menace, c'est la mobilisation de casseurs à la tombée de la nuit\", estime la porte-parole de la police nationale Quelque 70000 policiers et gendarmes seront mobilisés pour la nouvelle journée de mobilisation sociale prévue samedi, \"un dispositif exceptionnel\" reconduit, a annoncé le ministre de l'Intérieur. Il alerte sur une journée \"à risque très élevé de troubles à l'ordre public\".",
+   "link": "https://www.franceinfo.fr/societe/manifestations/manifestations-du-31-octobre-la-principale-menace-c-est-la-mobilisation-de-casseurs-a-la-tombee-de-la-nuit-estime-la-porte-parole-de-la-police-nationale_8260013.html",
+   "summary": "Manifestations du 31 octobre : \"La principale menace, c'est la mobilisation de casseurs à la tombée de la nuit\", estime la porte-parole de la police nationale",
+   "image": "https://www.franceinfo.fr/pictures/nI3Ao1QH96FR-vyRmi3yggKs548/0x0:1280x720/432x243/filters:format(jpg)/2026/10/30/6ae43d77cfbc5278372108.jpg",
+   "date": null,
+   "pubdate": "2026-10-30T10:09:02.877290+00:00"
+  },
+  {
+   "title": "• Direct Manifestations du 31 octobre : la préfecture de police interdit les parcours dans le centre de Paris déposés par la CGT et les gilets jaunes Face au risque de débordements jugé \"très élevé\" au sein des 180 manifestations attendues samedi, Laurent Nuñez, le ministre de l'Intérieur, prévoit de mobiliser quelque 70 000 membres des forces de l'ordre.",
+   "link": "https://www.franceinfo.fr/societe/manifestations/direct-manifestations-du-31-octobre-le-parcours-du-defile-parisien-objet-d-un-bras-de-fer-entre-les-syndicats-et-les-autorites_8259785.html",
+   "summary": "Manifestations du 31 octobre : la préfecture de police interdit les parcours dans le centre de Paris déposés par la CGT et les gilets jaunes",
+   "image": "https://www.franceinfo.fr/pictures/uZpVZHjxVJMfHZXFxixWRnbQLFg/0x360:5000x3172/432x243/filters:format(jpg)/2026/10/30/6ae43d71a39c9003688430.jpg",
+   "date": null,
+   "pubdate": "2026-10-30T10:09:02.877290+00:00"
+  },
+  {
+   "title": "Comment les formations de l'enseignement supérieur accueillent-elles les annonces sur les évolutions de Parcoursup ? \"Il est illusoire de penser qu'on pourra tout mettre en place dès cette année\", estime Bruno Bouchard, président de l'université Dauphine-PSL. Plusieurs de ses collègues partagent son avis.",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/comment-les-formations-de-l-enseignement-superieur-accueillent-elles-les-annonces-sur-les-evolutions-de-parcoursup_8257288.html",
+   "summary": "Comment les formations de l'enseignement supérieur accueillent-elles les annonces sur les évolutions de Parcoursup ?",
+   "image": "https://www.franceinfo.fr/pictures/0jAUdfuH0yI1W0pw31Qsg5H4yac/0x0:1024x576/432x243/filters:format(jpg)/2026/10/30/6ae3d63fcee24015587769.jpg",
+   "date": null,
+   "pubdate": "2026-10-30T10:09:02.877290+00:00"
+  },
+  {
+   "title": "Cortèges autorisés, dispositif de sécurité... A quoi faut-il s'attendre pour les manifestations du samedi 31 octobre ? Face au risque \"très élevé\" de débordements, Laurent Nuñez, le ministre de l'Intérieur, prévoit de mobiliser quelque 70 000 membres des forces de l'ordre.",
+   "link": "https://www.franceinfo.fr/societe/manifestations/corteges-autorises-dispositif-de-securite-a-quoi-faut-il-s-attendre-pour-les-manifestations-du-samedi-31-octobre_8258933.html",
+   "summary": "Cortèges autorisés, dispositif de sécurité... A quoi faut-il s'attendre pour les manifestations du samedi 31 octobre ?",
+   "image": "https://www.franceinfo.fr/pictures/o5twLYBjZpkEPQiDXBgpUskuUC4/0x285:5472x3363/432x243/filters:format(jpg)/2026/10/29/6ae37c682e5f9512408801.jpg",
+   "date": null,
+   "pubdate": "2026-10-30T10:09:02.877290+00:00"
+  },
+  {
+   "title": ": Vidéo 5:38 vidéo 5 minutes 38 : Vidéo \"Il n'est pas du tout pour la violence\" : le père de l'homme suspecté d'être impliqué dans l'incendie de la mairie de Limoges s'exprime pour la première fois dans \"Envoyé spécial\"",
+   "link": "https://www.franceinfo.fr/replay-magazine/france-2/envoye-special/video-17-octobre-dans-envoye-special-le-pere-de-l-homme-de-34-ans-suspecte-d-etre-implique-dans-l-incendie-de-la-mairie-de-limoges-s-exprime-pour-la-premiere-fois_8259338.html",
+   "summary": "\"Il n'est pas du tout pour la violence\" : le père de l'homme suspecté d'être impliqué dans l'incendie de la mairie de Limoges s'exprime pour la première fois dans \"Envoyé spécial\"",
+   "image": "https://www.franceinfo.fr/pictures/p5Es_ha3XDYr2KYoBahlBOenpMM/420x0:1500x1080/100x100/filters:format(jpg)/2026/10/29/6ae3c43b9c68e259610728.jpg",
    "date": null,
    "pubdate": "2026-10-30T01:06:20.620144+00:00"
-  },
-  {
-   "title": "1:42 vidéo 1 minute 42 Les commerçants prêts à ouvrir le dimanche pour limiter les pertes ?",
-   "link": "https://www.franceinfo.fr/societe/manifestations/les-commercants-prets-a-ouvrir-le-dimanche-pour-limiter-les-pertes_8259506.html",
-   "summary": "Les commerçants prêts à ouvrir le dimanche pour limiter les pertes ?",
-   "image": "https://www.franceinfo.fr/pictures/tF_Bg_htppqcyWZimFzfUO5T5cE/0x15:1341x769/432x243/filters:format(jpg)/2026/10/29/6ae3bbf472295408412329.jpg",
-   "date": null,
-   "pubdate": "2026-10-30T01:06:20.620144+00:00"
-  },
-  {
-   "title": "2:02 vidéo 2 minutes 2 Crise des carburants : comment expliquer les bénéfices records de TotalEnergies ?",
-   "link": "https://www.franceinfo.fr/environnement/energie/energies-fossiles/totalenergies/crise-des-carburants-comment-expliquer-les-benefices-records-de-totalenergies_8259500.html",
-   "summary": "Crise des carburants : comment expliquer les bénéfices records de TotalEnergies ?",
-   "image": "https://www.franceinfo.fr/pictures/Ae94tI_7FhDWgo-vNTshJMZ9R3k/0x46:1188x714/432x243/filters:format(jpg)/2026/10/29/6ae3bb3f278f1624014500.jpg",
-   "date": null,
-   "pubdate": "2026-10-30T01:06:20.620144+00:00"
-  },
-  {
-   "title": "2:10 vidéo 2 minutes 10 Halloween inquiète les forces de l'ordre en marge des manifestations du 31 octobre",
-   "link": "https://www.franceinfo.fr/decouverte/halloween/halloween-inquiete-les-forces-de-l-ordre-en-marge-des-manifestations-du-31-octobre_8259482.html",
-   "summary": "Halloween inquiète les forces de l'ordre en marge des manifestations du 31 octobre",
-   "image": "https://www.franceinfo.fr/pictures/Vz1MeBzFG0ivOrN_d3CBS-RfZSc/0x40:1239x737/432x243/filters:format(jpg)/2026/10/29/6ae3b8d1c8e97495287374.jpg",
-   "date": null,
-   "pubdate": "2026-10-30T01:06:20.620144+00:00"
-  },
-  {
-   "title": "2:06 vidéo 2 minutes 6 \"À ce moment-là, je ne pense à rien, je suis dégoûté de ce qui se passe\" : rencontre avec Pierre Collin, le commerçant niçois qui a ému les internautes en défendant sa boutique face aux pilleurs",
-   "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/a-ce-moment-la-je-ne-pense-a-rien-je-suis-degoute-de-ce-qui-se-passe-rencontre-avec-pierre-collin-le-commercant-nicois-qui-a-emu-les-internautes-en-defendant-sa-boutique-face-aux-pilleurs_8259473.html",
-   "summary": "\"À ce moment-là, je ne pense à rien, je suis dégoûté de ce qui se passe\" : rencontre avec Pierre Collin, le commerçant niçois qui a ému les internautes en défendant sa boutique face aux pilleurs",
-   "image": "https://www.franceinfo.fr/pictures/fQDNy4vWHNf55RrNSA0ahLBe844/0x37:633x394/432x243/filters:format(jpg)/2026/10/29/6ae3b5b61f47d762539652.jpg",
-   "date": null,
-   "pubdate": "2026-10-30T01:06:20.620144+00:00"
-  },
-  {
-   "title": "1:46 vidéo 1 minute 46 La police recherche de la cocaïne sur les plages du Sud-Ouest après la rumeur d'une cargaison perdue Depuis deux jours, des groupes de jeunes parcourent le littoral landais à la recherche de ballots de cocaïne, après la propagation d’une rumeur évoquant 15 tonnes de cocaïne potentiellement rejetées en mer. Les forces de l’ordre multiplient les patrouilles, sans confirmer, à ce stade, la présence de drogue.",
-   "link": "https://www.franceinfo.fr/societe/drogue/la-police-recherche-de-la-cocaine-sur-les-plages-du-sud-ouest-apres-la-rumeur-d-une-cargaison-perdue_8258891.html",
-   "summary": "La police recherche de la cocaïne sur les plages du Sud-Ouest après la rumeur d'une cargaison perdue",
-   "image": "https://www.franceinfo.fr/pictures/prLBsFqZFxPnoVDm6cfkPLOuhoU/74x0:1335x709/432x243/filters:format(jpg)/2026/10/29/6ae3501eb4f5e945945647.jpg",
-   "date": null,
-   "pubdate": "2026-10-30T01:06:20.620144+00:00"
-  },
-  {
-   "title": "2:04 vidéo 2 minutes 4 \"Je crains les débordements\" : entre colère et peur des violences, les habitants d'Avignon partagés sur la mobilisation du 31 octobre À Avignon (Vaucluse), les habitants se préparent à la mobilisation annoncée pour le samedi 31 octobre. Si certains espèrent des avancées sur la vie chère ou veulent soutenir la jeunesse, d'autres redoutent les débordements ou contestent les revendications. Plusieurs témoignages illustrent les divisions autour du mouvement dans la ville.",
-   "link": "https://www.franceinfo.fr/societe/manifestations/je-crains-les-debordements-entre-colere-et-peur-des-violences-les-habitants-d-avignon-partages-sur-la-mobilisation-du-31-octobre_8258858.html",
-   "summary": "\"Je crains les débordements\" : entre colère et peur des violences, les habitants d'Avignon partagés sur la mobilisation du 31 octobre",
-   "image": "https://www.franceinfo.fr/pictures/JF7N4nyFtoE2NBJEWCxdIBfaZ2s/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/29/6ae347582aa02860892416.jpg",
-   "date": null,
-   "pubdate": "2026-10-30T01:06:20.620144+00:00"
-  },
-  {
-   "title": "Le parquet de Lorient ouvre une enquête après la présence d'individus masqués prétendant défendre les commerçants en marge de la mobilisation du 24 octobre Ce groupe autoproclamé \"d'entraide citoyenne\" s'est constitué dans le secteur de Lorient, en réponse à un appel national à défendre les commerçants face aux pillages éventuels. Un témoin a également fait état d'intimidations de leur part lorsqu'il a pris ces personnes en photo.",
-   "link": "https://www.franceinfo.fr/societe/manifestations/le-parquet-de-lorient-ouvre-une-enquete-apres-la-presence-d-individus-masques-pretendant-defendre-les-commercants-en-marge-de-la-mobilisation-du-24-octobre_8259350.html",
-   "summary": "Le parquet de Lorient ouvre une enquête après la présence d'individus masqués prétendant défendre les commerçants en marge de la mobilisation du 24 octobre",
-   "image": "https://www.franceinfo.fr/pictures/GNzz5gZsseht9vgR_aHirWhmCic/0x430:8256x5074/432x243/filters:format(jpg)/2026/10/28/6ae1aa5e675cb058979532.jpg",
-   "date": null,
-   "pubdate": "2026-10-29T18:31:17.650592+00:00"
-  },
-  {
-   "title": "Quand les jeunes victimes de cyberharcèlement cherchent du réconfort auprès de l'IA Les enfants et adolescents victimes de cyberharcèlement se tournent vers l'intelligence artificielle pour chercher de l'aide. Une enquête de l'association e-Enfance met en lumière ce rôle de soutien, qui reste cependant limité.",
-   "link": "https://www.franceinfo.fr/internet/intelligence-artificielle/de-plus-en-plus-de-jeunes-victimes-de-cyberharcelement-cherchent-du-reconfort-aupres-de-l-ia_8259137.html",
-   "summary": "Quand les jeunes victimes de cyberharcèlement cherchent du réconfort auprès de l'IA",
-   "image": "https://www.franceinfo.fr/pictures/jCFfuimJlulGQuFfFJDqsj2UWTk/0x53:1024x629/432x243/filters:format(jpg)/2026/10/29/6ae3763b92961993499835.jpg",
-   "date": null,
-   "pubdate": "2026-10-29T18:31:17.650592+00:00"
-  },
-  {
-   "title": "Manifestations du 31 octobre : 70 000 policiers et gendarmes seront mobilisés, \"un dispositif exceptionnel\" similaire au 24 octobre, annonce Laurent Nuñez Le ministre de l'Intérieur dit s'attendre à \"une journée à risque très élevé\", samedi, notamment en soirée, avec la concomitance de la fête d’Halloween.",
-   "link": "https://www.franceinfo.fr/societe/manifestations/manifestations-du-31-octobre-70-000-policiers-et-gendarmes-seront-mobilises-un-dispositif-exceptionnel-similaire-au-24-octobre-annonce-laurent-nunez_8259305.html",
-   "summary": "Manifestations du 31 octobre : 70 000 policiers et gendarmes seront mobilisés, \"un dispositif exceptionnel\" similaire au 24 octobre, annonce Laurent Nuñez",
-   "image": "https://www.franceinfo.fr/pictures/8XQ6dLWzrUai8f7nRHkKBFNUxjE/0x0:4000x2250/432x243/filters:format(jpg)/2026/10/29/6ae384cdefdec413886072.jpg",
-   "date": null,
-   "pubdate": "2026-10-29T18:31:17.650592+00:00"
-  },
-  {
-   "title": "Des syndicats de salariés et d'étudiants attaquent la préfecture de police en justice sur le parcours de la manifestation parisienne prévue samedi Les organisations syndicales souhaitent que soit publié \"au plus vite\" un arrêté d'interdiction partielle de manifester samedi à Paris, afin d'avoir le temps de le contester en justice.",
-   "link": "https://www.franceinfo.fr/societe/manifestations/syndicats-de-salaries-et-d-etudiants-attaquent-en-justice-sur-le-parcours-de-la-manifestation-a-paris-samedi_8259164.html",
-   "summary": "Des syndicats de salariés et d'étudiants attaquent la préfecture de police en justice sur le parcours de la manifestation parisienne prévue samedi",
-   "image": "https://www.franceinfo.fr/pictures/enjSPEAncZolRvtrkpQVFGMddso/0x53:1024x629/432x243/filters:format(jpg)/2026/10/29/6ae3799c3a0e5006347388.jpg",
-   "date": null,
-   "pubdate": "2026-10-29T18:31:17.650592+00:00"
-  },
-  {
-   "title": "L'interdiction des rassemblements non déclarés dans certains secteurs à Paris reconduite jusqu'à lundi Les secteurs concernés sont notamment l'Elysée, l'Assemblée nationale, les Champs-Elysées ou encore les gares.",
-   "link": "https://www.franceinfo.fr/societe/manifestations/l-interdiction-des-rassemblements-non-declares-dans-certains-secteurs-a-paris-reconduite-jusqu-a-lundi_8259140.html",
-   "summary": "L'interdiction des rassemblements non déclarés dans certains secteurs à Paris reconduite jusqu'à lundi",
-   "image": "https://www.franceinfo.fr/pictures/4siI4fcOGaPQe8lvoNTnxr8e3UI/0x52:1024x628/432x243/filters:format(jpg)/2026/10/29/6ae372f3377f7054109575.jpg",
-   "date": null,
-   "pubdate": "2026-10-29T18:31:17.650592+00:00"
-  },
-  {
-   "title": "Laurent Nuñez prévient que \"le risque de violences urbaines est très élevé\" pour la mobilisation du 31 octobre dans une lettre envoyée aux préfets Le ministre de l'Intérieur affirme que de \"multiples appels à rassemblement dans les centres-villes\" ont été repérés, en particulier sur les réseaux sociaux.",
-   "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/laurent-nunez-previent-que-le-risque-de-violences-urbaines-est-tres-eleve-pour-la-mobilisation-du-31-octobre-dans-une-lettre-envoyee-aux-prefets_8258972.html",
-   "summary": "Laurent Nuñez prévient que \"le risque de violences urbaines est très élevé\" pour la mobilisation du 31 octobre dans une lettre envoyée aux préfets",
-   "image": "https://www.franceinfo.fr/pictures/7GDbhc7XTFZj0gmjQJJfoNJ7bRs/0x0:1024x576/432x243/filters:format(jpg)/2026/10/29/6ae3630950872337846981.jpg",
-   "date": null,
-   "pubdate": "2026-10-29T18:31:17.650592+00:00"
-  },
-  {
-   "title": "53:37 audio 53 minutes 37 Le suspect de l'attentat de Trappes mis en examen...Les informés de franceinfo du jeudi 29 octobre 2026 Tous les soirs, les informés débattent de l'actualité, cette semaine autour de Renaud Blanc.",
-   "link": "https://www.franceinfo.fr/replay-radio/les-informes-de-france-info/le-suspect-de-l-attentat-de-trappes-mis-en-examen-les-informes-de-franceinfo-du-jeudi-29-octobre-2026_8237995.html",
-   "summary": "Le suspect de l'attentat de Trappes mis en examen...Les informés de franceinfo du jeudi 29 octobre 2026",
-   "image": "https://www.franceinfo.fr/pictures/fFDhHpI-IyaubFE-7qr8shY-qNI/190x62:1089x568/432x243/filters:format(jpg)/2026/10/29/6ae39ea601093785781974.png",
-   "date": "2026-10-29T11:00:00+00:00",
-   "pubdate": "2026-10-29T11:00:00+00:00"
-  },
-  {
-   "title": "4:39 audio 4 minutes 39 Mobilisation du 24 octobre : à Paris, des habitants divisés sur la nécessité de poursuivre les manifestations mais des étudiants toujours déterminés",
-   "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/mobilisation-du-24-octobre-a-paris-des-habitants-divises-sur-la-necessite-de-poursuivre-les-manifestations-mais-des-etudiants-toujours-determines_8227672.html",
-   "summary": "Mobilisation du 24 octobre : à Paris, des habitants divisés sur la nécessité de poursuivre les manifestations mais des étudiants toujours déterminés",
-   "image": "https://www.franceinfo.fr/pictures/scyWiMgBFZUKpCEPgDTuLaRxUb0/171x0:853x682/100x100/filters:format(jpg)/2026/10/21/6ad8f995c539c628662556.jpg",
-   "date": null,
-   "pubdate": "2026-10-26T20:33:41.804927+00:00"
-  },
-  {
-   "title": "6:00 article 6 minutes \"Bon courage à ceux qui arrivent\" : l'élection présidentielle permettra-t-elle vraiment de sortir de la crise politique et sociale qui secoue le pays ?",
-   "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/bon-courage-a-ceux-qui-arrivent-l-election-presidentielle-permettra-t-elle-vraiment-de-sortir-de-la-crise-politique-et-sociale-qui-secoue-le-pays_8245624.html",
-   "summary": "\"Bon courage à ceux qui arrivent\" : l'élection présidentielle permettra-t-elle vraiment de sortir de la crise politique et sociale qui secoue le pays ?",
-   "image": "https://www.franceinfo.fr/pictures/N7O5QoLEsQpseRgJuvk-HceYsQo/629x0:3148x2519/100x100/filters:format(jpg)/2026/10/20/6ad783d4703a2085671736.jpg",
-   "date": null,
-   "pubdate": "2026-10-26T20:33:41.804927+00:00"
   },
   {
    "title": ": Vrai ou faux 8:00 article 8 minutes : Vrai ou faux Existe-t-il vraiment des \"policiers casseurs\", en civil et infiltrés dans les manifestations, qui commettent des dégradations ?",
@@ -195,22 +211,6 @@
    "image": "https://www.franceinfo.fr/pictures/tCGmZSEo9YqRP_hX6WV7RSNp0XU/999x0:3703x2704/100x100/filters:format(jpg)/2026/10/23/6adb88cc4b034571088531.jpg",
    "date": null,
    "pubdate": "2026-10-24T11:11:08.227161+00:00"
-  },
-  {
-   "title": "4:28 audio 4 minutes 28 \"Si on arrête maintenant, on a perdu et ils ont gagné\" : à la veille d'une nouvelle journée de mobilisation, des étudiants plus déterminés que jamais",
-   "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/si-on-arrete-maintenant-on-a-perdu-et-ils-ont-gagne-a-la-veille-d-une-nouvelle-journee-de-mobilisation-des-etudiants-plus-determines-que-jamais_8229265.html",
-   "summary": "\"Si on arrête maintenant, on a perdu et ils ont gagné\" : à la veille d'une nouvelle journée de mobilisation, des étudiants plus déterminés que jamais",
-   "image": "https://www.franceinfo.fr/pictures/Ejv4YY-5ShK0RmxlgY3ouwwP8JM/926x0:4630x3704/100x100/filters:format(jpg)/2026/10/23/6adaf1b7222c3559633347.jpg",
-   "date": null,
-   "pubdate": "2026-10-23T11:46:24.983620+00:00"
-  },
-  {
-   "title": ": Vidéo 17 octobre : qui sont les casseurs ? Le 17 octobre 2026, 1 161 magasins auraient été pillés, saccagés ou incendiés, tandis que l'hôtel de ville de Limoges était dévoré par les flammes. Que s'est-il passé ? 29 octobre : Vidéo 33:13 vidéo 33 minutes 13",
-   "link": "https://www.franceinfo.fr/replay-magazine/france-2/envoye-special/video-17-octobre-qui-sont-les-casseurs_8259329.html",
-   "summary": "Le 17 octobre 2026, 1 161 magasins auraient été pillés, saccagés ou incendiés, tandis que l'hôtel de ville de Limoges était dévoré par les flammes. Que s'est-il passé ?",
-   "image": "https://www.franceinfo.fr/pictures/rMPJigII47l7gUYCBg02IQZQbyg/174x0:1745x1080/432x297/filters:format(jpg)/2026/10/29/6ae3c7da5f917644759984.jpg",
-   "date": "2026-10-17T11:00:00+00:00",
-   "pubdate": "2026-10-17T11:00:00+00:00"
   }
  ]
 }
