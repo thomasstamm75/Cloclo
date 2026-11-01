@@ -1,58 +1,159 @@
 {
- "etag": "\"cca50ed820cb4bbc9b0a90b6be9fe8b4-gzip\"",
+ "etag": "\"ff44028953be96de75b5b5662d5260ab-gzip\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/le-gouvernement-americain-approuve-la-vente-de-500-missiles-patriot-a-l-ukraine_8261099.html": "2026-10-30T22:26:26.712470+00:00",
-  "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/le-pape-leon-xiv-a-vote-pour-les-elections-de-mi-mandat-aux-etats-unis_8261009.html": "2026-10-30T22:26:26.712470+00:00",
   "https://www.franceinfo.fr/monde/israel/l-article-a-lire-pour-comprendre-les-enjeux-des-elections-legislatives-cruciales-en-israel_8228218.html": "2026-10-30T22:26:26.712470+00:00",
-  "https://www.franceinfo.fr/monde/usa/affaire-jeffrey-epstein/l-essentiel-des-revelations-sur-l-affaire-epstein/": "2026-10-31T05:52:56.483521+00:00",
-  "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/tout-comprendre-a-la-guerre-au-moyen-orient/": "2026-10-31T05:52:56.483521+00:00",
-  "https://www.franceinfo.fr/monde/bresil/avant-on-parlait-de-politique-entre-nous-on-a-arrete-immersion-dans-un-bresil-divise-avant-le-second-tour-de-la-presidentielle_8246164.html": "2026-10-31T05:52:56.483521+00:00",
   "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/le-guide-supreme-iranien-met-en-garde-les-etats-unis-contre-une-reprise-d-eventuelles-attaques_8261696.html": "2026-10-31T12:42:41.440453+00:00",
-  "https://www.franceinfo.fr/monde/coree-du-sud/une-ceremonie-d-inhumation-des-cendres-d-un-veteran-francais-de-la-guerre-de-coree-s-est-tenue-a-busan-au-pays_8261660.html": "2026-10-31T12:42:41.440453+00:00",
-  "https://www.franceinfo.fr/sports/basket/on-ne-peut-pas-tuer-des-reves-pourquoi-les-espoirs-du-basket-francais-sont-aspires-par-la-filiere-universitaire-americaine-la-ncaa_8261570.html": "2026-10-31T12:42:41.440453+00:00",
-  "https://www.franceinfo.fr/monde/europe/le-president-de-la-pologne-convoque-les-partis-pour-trouver-une-issue-a-la-crise-politique-apres-l-intervention-de-la-police-au-tribunal-constitutionnel_8261594.html": "2026-10-31T12:42:41.440453+00:00",
-  "https://www.franceinfo.fr/internet/intelligence-artificielle/armes-biochimiques-cyberattaques-geantes-perte-de-controle-ce-que-dit-le-dossier-d-entree-en-bourse-d-anthropic-sur-les-dangers-de-l-ia_8258888.html": "2026-10-31T12:42:41.440453+00:00",
-  "https://www.franceinfo.fr/societe/manifestations/moi-aussi-je-suis-insatisfaite-inspiree-par-la-france-la-jeunesse-allemande-veut-descendre-dans-la-rue_8261000.html": "2026-10-31T12:42:41.440453+00:00",
-  "https://www.franceinfo.fr/societe/manifestations/impressionnes-par-le-mouvement-social-en-france-des-militants-britanniques-sortent-un-kit-pratique-pour-apprendre-a-manifester_8261060.html": "2026-10-31T12:42:41.440453+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/je-m-inquiete-de-ce-que-les-producteurs-vont-faire-de-mon-image-en-chine-les-acteurs-sont-de-plus-en-plus-remplaces-par-des-ia_8241151.html": "2026-10-31T12:42:41.440453+00:00",
-  "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/leon-xiv-en-france-retrouvez-l-essentiel/": "2026-10-31T12:42:41.440453+00:00",
   "https://www.franceinfo.fr/jeux-olympiques-de-la-jeunesse/jeux-olympiques-de-la-jeunesse-a-dakar-au-c-ur-des-preparatifs-des-premiers-jo-sur-le-sol-africain_8259551.html": "2026-10-31T12:42:41.440453+00:00",
-  "https://www.franceinfo.fr/monde/europe/pourquoi-les-importations-de-gaz-naturel-liquefie-russe-n-ont-elles-jamais-ete-aussi-hautes-dans-l-union-europeenne-deux-mois-avant-leur-interdiction-complete_8255563.html": "2026-10-31T12:42:41.440453+00:00",
-  "https://www.franceinfo.fr/monde/usa/midterms-2018/chances-d-une-vague-democrate-enjeu-pour-donald-trump-et-pour-2028-l-article-a-lire-pour-tout-comprendre-aux-midterms-les-elections-de-mi-mandat-aux-etats-unis_8237488.html": "2026-10-31T12:42:41.440453+00:00",
   "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/haiti-sans-chef-de-l-etat-depuis-cinq-ans-organisera-des-elections-presidentielle-et-legislatives-en-2027_8241106.html": "2026-10-31T19:20:47.329594+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-evacuation-de-la-ville-d-olechky-un-exemple-reussi-mais-encore-isole-de-cessez-le-feu-humanitaire-entre-l-ukraine-et-la-russie_8261840.html": "2026-10-31T19:20:47.329594+00:00",
   "https://www.franceinfo.fr/monde/russie/l-ambassade-americaine-avertit-la-russie-d-une-menace-credible-d-attentat-a-moscou-samedi_8261987.html": "2026-10-31T19:20:47.329594+00:00",
   "https://www.franceinfo.fr/culture/livres/les-cendres-de-l-ecrivain-miguel-angel-asturias-mort-en-1974-et-inhume-a-paris-bientot-rapatriees-au-guatemala-pour-un-hommage-national_8261999.html": "2026-10-31T19:20:47.329594+00:00",
   "https://www.franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/une-francaise-figure-parmi-les-victimes-de-la-collision-de-trains-en-espagne-qui-a-fait-69-morts-annonce-le-ministere-des-affaires-etrangeres_8261951.html": "2026-10-31T19:20:47.329594+00:00",
-  "https://www.franceinfo.fr/monde/italie/c-est-magnifique-en-italie-une-course-de-fromages-medievale-fait-vibrer-les-rues-de-volterra-en-toscane_8261921.html": "2026-10-31T19:20:47.329594+00:00",
-  "https://www.franceinfo.fr/monde/europe/pologne-une-crise-politique-eclate-au-tribunal-constitutionnel-de-varsovie-le-premier-ministre-donald-tusk-defie-par-le-president-karol-nawrocki_8261876.html": "2026-10-31T19:20:47.329594+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/les-habitants-evacues-d-olechky-ville-occupee-par-la-russie-sont-arrives-en-ukraine_8261879.html": "2026-10-31T19:20:47.329594+00:00",
   "https://www.franceinfo.fr/replay-radio/l-invite-culture/benoit-cohen-la-plupart-des-americains-ne-sont-pas-prets-a-ce-que-leur-democratie-disparaisse_8241109.html": "2026-10-31T19:20:47.329594+00:00",
   "https://www.franceinfo.fr/monde/europe/en-bulgarie-un-scrutin-presidentiel-dans-l-ombre-de-la-guerre-en-ukraine-et-des-attaques-russes-en-mer-noire_8259218.html": "2026-10-31T19:20:47.329594+00:00",
   "https://www.franceinfo.fr/monde/europe/migrants/cinq-britanniques-interpelles-jeudi-dans-le-nord-pour-des-actions-anti-migrants_8262203.html": "2026-11-01T00:10:59.187712+00:00",
-  "https://www.franceinfo.fr/monde/usa/au-kansas-c-ur-de-l-amerique-republicaine-trump-lache-par-les-fermiers_8260583.html": "2026-11-01T06:16:55.123402+00:00"
+  "https://www.franceinfo.fr/monde/iran/frappes-americaines-en-iran/on-peut-faire-ca-en-10-minutes-donald-trump-menace-de-reprendre-les-bombardements-en-iran-avant-les-elections-de-mi-mandat_8262815.html": "2026-11-01T13:38:00.121357+00:00",
+  "https://www.franceinfo.fr/monde/usa/midterms-2018/nous-devons-rapprocher-les-gens-pour-les-elections-de-mi-mandat-un-pasteur-democrate-a-la-conquete-d-un-bastion-republicain-au-kansas_8262539.html": "2026-11-01T13:38:00.121357+00:00",
+  "https://www.franceinfo.fr/decouverte/halloween/pour-halloween-la-mannequin-allemande-heidi-klum-se-transforme-en-main-geante-ensanglantee_8262692.html": "2026-11-01T13:38:00.121357+00:00",
+  "https://www.franceinfo.fr/enquetes-franceinfo/enquete-entre-gianni-infantino-et-donald-trump-une-amitie-riche-en-dollars_8260802.html": "2026-11-01T13:38:00.121357+00:00",
+  "https://www.franceinfo.fr/replay-radio/ces-destins-qui-font-l-info/kim-jong-un-1-5-l-heritier-que-personne-n-attendait_8232535.html": "2026-11-01T13:38:00.121357+00:00",
+  "https://www.franceinfo.fr/replay-radio/ces-destins-qui-font-l-info/kim-jong-un-2-5-tuer-pour-regner_8242684.html": "2026-11-01T13:38:00.121357+00:00",
+  "https://www.franceinfo.fr/replay-radio/ces-destins-qui-font-l-info/kim-jong-un-3-5-un-pur-produit-de-propagande_8248504.html": "2026-11-01T13:38:00.121357+00:00",
+  "https://www.franceinfo.fr/monde/usa/donald-trump-menace-l-iran-de-nouvelles-frappes-en-pleine-soiree-d-halloween_8262533.html": "2026-11-01T13:38:00.121357+00:00",
+  "https://www.franceinfo.fr/replay-radio/ces-chansons-qui-font-l-actu/noe-preszow-chante-sa-belgique_8241103.html": "2026-11-01T13:38:00.121357+00:00",
+  "https://www.franceinfo.fr/replay-radio/ces-destins-qui-font-l-info/kim-jong-un-4-5-le-maitre-chanteur_8250559.html": "2026-11-01T13:38:00.121357+00:00",
+  "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/reportage-je-ne-retournerai-pas-la-bas-a-amsterdam-ces-americains-batissent-une-nouvelle-vie-au-plus-loin-du-trumpisme_8246968.html": "2026-11-01T13:38:00.121357+00:00",
+  "https://www.franceinfo.fr/replay-radio/ces-destins-qui-font-l-info/kim-jong-un-5-5-l-heritiere_8250556.html": "2026-11-01T13:38:00.121357+00:00",
+  "https://www.franceinfo.fr/monde/usa/midterms-2018/reportage-donald-trump-rend-notre-travail-plus-difficile-dans-l-iowa-les-agriculteurs-frustres-par-l-inflation-avant-les-midterms_8259311.html": "2026-11-01T13:38:00.121357+00:00",
+  "https://www.franceinfo.fr/economie/pouvoir-achat/une-tres-forte-hausse-liee-a-la-guerre-au-moyen-orient-visualisez-la-flambee-du-prix-du-gaz-depuis-le-debut-de-l-annee-2026_8254645.html": "2026-11-01T13:38:00.121357+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "Au Kansas, cœur de l’Amérique républicaine, Trump lâché par les fermiers 🇺🇸🚜🐄À deux jours des élections de mi-mandat aux États-Unis, des agriculteurs du Kansas, un réservoir de vote traditionnel pour les républicains, disent leur déception après deux années d’administration Trump. Ou comment deux guerres – l’une commerciale, contre le monde entier, l’autre militaire, contre l’Iran – ont compromis leur situation financière. Au point de les faire douter au moment de voter. Reportage. #franceinfoRF 🎥 Faustine Calmel, Martin Troadec, Chadi Romanos Aujourd'hui 1:44 vidéo 1 minute 44",
-   "link": "https://www.franceinfo.fr/monde/usa/au-kansas-c-ur-de-l-amerique-republicaine-trump-lache-par-les-fermiers_8260583.html",
-   "summary": "Au Kansas, cœur de l’Amérique républicaine, Trump lâché par les fermiers",
-   "image": "https://www.franceinfo.fr/pictures/2QKjwotCzwi9BfIF8fr86zGNPjs/0x0:1080x1920/fit-in/432x297/filters:upscale():fill(blur):format(jpg)/2026/10/30/6ae4ae60884ed904018161.jpg",
+   "title": "\"On peut faire ça en 10 minutes\" : Donald Trump menace de reprendre les bombardements en Iran avant les élections de mi-mandat Lors de la soirée d'Halloween, Donald Trump a ouvertement évoqué la possibilité de nouvelles frappes américaines contre l'Iran. Le président américain ciblerait notamment un site souterrain susceptible d'abriter une partie des stocks d'uranium iraniens. En parallèle, Benjamin Netanyahou fait pression pour une reprise des opérations militaires dans la région. Aujourd'hui 1:45 vidéo 1 minute 45",
+   "link": "https://www.franceinfo.fr/monde/iran/frappes-americaines-en-iran/on-peut-faire-ca-en-10-minutes-donald-trump-menace-de-reprendre-les-bombardements-en-iran-avant-les-elections-de-mi-mandat_8262815.html",
+   "summary": "\"On peut faire ça en 10 minutes\" : Donald Trump menace de reprendre les bombardements en Iran avant les élections de mi-mandat",
+   "image": "https://www.franceinfo.fr/pictures/adS5oQTqYHRq7RutPro0umj6y8Y/174x0:1745x1080/432x297/filters:format(jpg)/2026/11/01/6ae73d67eda4a251878991.jpg",
    "date": null,
-   "pubdate": "2026-11-01T06:16:55.123402+00:00"
+   "pubdate": "2026-11-01T13:38:00.121357+00:00"
   },
   {
-   "title": "Cinq Britanniques interpellés jeudi dans le Nord pour des actions anti-migrants",
-   "link": "https://www.franceinfo.fr/monde/europe/migrants/cinq-britanniques-interpelles-jeudi-dans-le-nord-pour-des-actions-anti-migrants_8262203.html",
+   "title": "\"Nous devons rapprocher les gens\" : pour les élections de mi-mandat, un pasteur démocrate à la conquête d'un bastion républicain au Kansas",
+   "link": "https://www.franceinfo.fr/monde/usa/midterms-2018/nous-devons-rapprocher-les-gens-pour-les-elections-de-mi-mandat-un-pasteur-democrate-a-la-conquete-d-un-bastion-republicain-au-kansas_8262539.html",
    "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/vCuVDVAJRV5hA59ueW4VlvnHAVA/0x312:6000x3687/432x243/filters:format(jpg)/2026/11/01/6ae704b16d2c2626623015.jpg",
+   "date": null,
+   "pubdate": "2026-11-01T13:38:00.121357+00:00"
+  },
+  {
+   "title": "0:53 vidéo 53 secondes Pour Halloween, la mannequin allemande Heidi Klum se transforme en main géante ensanglantée",
+   "link": "https://www.franceinfo.fr/decouverte/halloween/pour-halloween-la-mannequin-allemande-heidi-klum-se-transforme-en-main-geante-ensanglantee_8262692.html",
+   "summary": "Pour Halloween, la mannequin allemande Heidi Klum se transforme en main géante ensanglantée",
+   "image": "https://www.franceinfo.fr/pictures/FHC4Adgntwgru36dLPhLHY-Vyoc/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/01/6ae71b99add83648637158.png",
+   "date": null,
+   "pubdate": "2026-11-01T13:38:00.121357+00:00"
+  },
+  {
+   "title": ": Enquête : Enquête Bureau dans la Trump Tower, liens financiers... Entre Gianni Infantino et Donald Trump, une amitié riche en dollars",
+   "link": "https://www.franceinfo.fr/enquetes-franceinfo/enquete-entre-gianni-infantino-et-donald-trump-une-amitie-riche-en-dollars_8260802.html",
+   "summary": "Bureau dans la Trump Tower, liens financiers... Entre Gianni Infantino et Donald Trump, une amitié riche en dollars",
+   "image": "https://www.franceinfo.fr/assets/common/images/logos/placeholder-4e7f49f2.png",
+   "date": null,
+   "pubdate": "2026-11-01T13:38:00.121357+00:00"
+  },
+  {
+   "title": "5:37 audio 5 minutes 37 Kim Jong-un 1/5. L'héritier que personne n'attendait",
+   "link": "https://www.franceinfo.fr/replay-radio/ces-destins-qui-font-l-info/kim-jong-un-1-5-l-heritier-que-personne-n-attendait_8232535.html",
+   "summary": "Kim Jong-un 1/5. L'héritier que personne n'attendait",
+   "image": "https://www.franceinfo.fr/pictures/fhewge-XTKuoXfRODAZkTM0jA0I/0x920:1792x1928/432x243/filters:format(jpg)/2026/10/21/6ad8bf9fc4105377033877.jpg",
+   "date": null,
+   "pubdate": "2026-11-01T13:38:00.121357+00:00"
+  },
+  {
+   "title": "5:08 audio 5 minutes 8 Kim Jong-un 2/5. Tuer pour régner",
+   "link": "https://www.franceinfo.fr/replay-radio/ces-destins-qui-font-l-info/kim-jong-un-2-5-tuer-pour-regner_8242684.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/Z3SxEQrzZ-lQhbMOJg19IJCPdkI/0x95:2500x1502/432x243/filters:format(jpg)/2026/10/23/6adb20e355497149352877.jpg",
+   "date": null,
+   "pubdate": "2026-11-01T13:38:00.121357+00:00"
+  },
+  {
+   "title": "5:18 audio 5 minutes 18 Kim Jong-un 3/5. Un pur produit de propagande",
+   "link": "https://www.franceinfo.fr/replay-radio/ces-destins-qui-font-l-info/kim-jong-un-3-5-un-pur-produit-de-propagande_8248504.html",
+   "summary": "Kim Jong-un 3/5. Un pur produit de propagande",
+   "image": "https://www.franceinfo.fr/pictures/85CkFGPk_c5btvUEPGMXsEy2oPo/0x0:7087x3986/432x243/filters:format(jpg)/2026/10/23/6adb328f06e8a211685229.jpg",
+   "date": null,
+   "pubdate": "2026-11-01T13:38:00.121357+00:00"
+  },
+  {
+   "title": "1:16 vidéo 1 minute 16 Donald Trump menace l'Iran de nouvelles frappes en pleine soirée d'Halloween",
+   "link": "https://www.franceinfo.fr/monde/usa/donald-trump-menace-l-iran-de-nouvelles-frappes-en-pleine-soiree-d-halloween_8262533.html",
+   "summary": "Donald Trump menace l'Iran de nouvelles frappes en pleine soirée d'Halloween",
+   "image": "https://www.franceinfo.fr/pictures/LjNAXcx8eep4vqxHVUYGgK7Pttw/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/01/6ae7011c60ec0387342850.jpg",
+   "date": null,
+   "pubdate": "2026-11-01T13:38:00.121357+00:00"
+  },
+  {
+   "title": "8:18 audio 8 minutes 18 Noé Preszow chante sa Belgique",
+   "link": "https://www.franceinfo.fr/replay-radio/ces-chansons-qui-font-l-actu/noe-preszow-chante-sa-belgique_8241103.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/qSMUzmUSkzuvs8B7r-I2basxl_w/0x166:3189x1959/432x243/filters:format(jpg)/2026/10/28/6ae2678644005367558521.jpg",
+   "date": null,
+   "pubdate": "2026-11-01T13:38:00.121357+00:00"
+  },
+  {
+   "title": "5:08 audio 5 minutes 8 Kim Jong-un. 4/5. Le maître chanteur",
+   "link": "https://www.franceinfo.fr/replay-radio/ces-destins-qui-font-l-info/kim-jong-un-4-5-le-maitre-chanteur_8250559.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/PEZUVBF-CFH_zVBw0XAJz5HJ-ic/0x0:1024x576/432x243/filters:format(jpg)/2026/10/30/6ae4885754d33765722461.jpg",
+   "date": null,
+   "pubdate": "2026-11-01T13:38:00.121357+00:00"
+  },
+  {
+   "title": ": Reportage 7:00 article 7 minutes : Reportage \"Je ne retournerai pas là-bas\" : à Amsterdam, ces Américains bâtissent une nouvelle vie au plus loin du trumpisme",
+   "link": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/reportage-je-ne-retournerai-pas-la-bas-a-amsterdam-ces-americains-batissent-une-nouvelle-vie-au-plus-loin-du-trumpisme_8246968.html",
+   "summary": "\"Je ne retournerai pas là-bas\" : à Amsterdam, ces Américains bâtissent une nouvelle vie au plus loin du trumpisme",
+   "image": "https://www.franceinfo.fr/pictures/g_qVPTI6ZcCMZzMU49433jn0-ak/501x67:3095x2660/100x100/filters:format(jpg)/2026/10/21/6ad8912bee5d2032619534.jpg",
+   "date": null,
+   "pubdate": "2026-11-01T13:38:00.121357+00:00"
+  },
+  {
+   "title": "5:04 audio 5 minutes 4 Kim Jong-un. 5/5. L'héritière Grand mangeur, gros fumeur, Kim Jong-un, jeune quadragénaire, n'est pas au mieux de sa forme. L'introduction officielle de sa fille, Kim Ju-ae depuis quatre ans est un message clair : pas question que le pouvoir échappe à la dynastie Kim. Un épisode d'Isabelle Labeyrie et Lucas Finet.",
+   "link": "https://www.franceinfo.fr/replay-radio/ces-destins-qui-font-l-info/kim-jong-un-5-5-l-heritiere_8250556.html",
+   "summary": "Grand mangeur, gros fumeur, Kim Jong-un, jeune quadragénaire, n'est pas au mieux de sa forme. L'introduction officielle de sa fille, Kim Ju-ae depuis quatre ans est un message clair : pas question que le pouvoir échappe à la dynastie Kim. Un épisode d'Isabelle Labeyrie et Lucas Finet.",
+   "image": "https://www.franceinfo.fr/pictures/4NHnIpKitKCeINMlCbigVR5FbCI/0x0:1024x576/432x243/filters:format(jpg)/2026/10/30/6ae4951f46a00103905443.jpg",
+   "date": null,
+   "pubdate": "2026-11-01T13:38:00.121357+00:00"
+  },
+  {
+   "title": ": Reportage \"Donald Trump rend notre travail plus difficile\" : dans l'Iowa, les agriculteurs \"frustrés\" par l'inflation avant les midterms En pleine saison des moissons, la hausse des prix du gazole et des engrais liée à la guerre en Iran touche durement les cultivateurs de cet Etat du Midwest.",
+   "link": "https://www.franceinfo.fr/monde/usa/midterms-2018/reportage-donald-trump-rend-notre-travail-plus-difficile-dans-l-iowa-les-agriculteurs-frustres-par-l-inflation-avant-les-midterms_8259311.html",
+   "summary": "\"Donald Trump rend notre travail plus difficile\" : dans l'Iowa, les agriculteurs \"frustrés\" par l'inflation avant les midterms",
+   "image": "https://www.franceinfo.fr/pictures/wvYAl7FbHf45LjwP4Pb7QrABoao/0x402:7728x4749/432x243/filters:format(jpg)/2026/10/29/6ae389d2de28f275075014.jpg",
+   "date": null,
+   "pubdate": "2026-11-01T13:38:00.121357+00:00"
+  },
+  {
+   "title": "\"Une très forte hausse liée à la guerre au Moyen-Orient\" : visualisez la flambée du prix du gaz depuis le début de l'année 2026 Le prix repère de vente de gaz naturel a augmenté de 42% depuis janvier. Avec le retour du froid, la nouvelle hausse au 1er novembre va peser sur les factures des six millions de foyers bénéficiant de tarifs indexés.",
+   "link": "https://www.franceinfo.fr/economie/pouvoir-achat/une-tres-forte-hausse-liee-a-la-guerre-au-moyen-orient-visualisez-la-flambee-du-prix-du-gaz-depuis-le-debut-de-l-annee-2026_8254645.html",
+   "summary": "\"Une très forte hausse liée à la guerre au Moyen-Orient\" : visualisez la flambée du prix du gaz depuis le début de l'année 2026",
+   "image": "https://www.franceinfo.fr/pictures/nf0p6F-a584hLx2sLNwhyBevK3o/0x106:1024x682/432x243/filters:format(jpg)/2026/10/27/6ae0b956864fb462827189.jpg",
+   "date": null,
+   "pubdate": "2026-11-01T13:38:00.121357+00:00"
+  },
+  {
+   "title": "Cinq Britanniques interpellés jeudi dans le Nord pour des actions anti-migrants Ils circulaient sur le littoral du nord de la France à bord d'un minibus et diffusaient en direct sur un réseau social des images destinées à illustrer des \"actions d'intimidation\" à l'encontre de migrants.",
+   "link": "https://www.franceinfo.fr/monde/europe/migrants/cinq-britanniques-interpelles-jeudi-dans-le-nord-pour-des-actions-anti-migrants_8262203.html",
+   "summary": "Cinq Britanniques interpellés jeudi dans le Nord pour des actions anti-migrants",
    "image": "https://www.franceinfo.fr/pictures/AqN95XqqWdMOsDBNUG3Wa6gm_I0/0x53:1024x629/432x243/filters:format(jpg)/2026/10/31/6ae650cb0b11a446382786.jpg",
    "date": null,
    "pubdate": "2026-11-01T00:10:59.187712+00:00"
   },
   {
-   "title": "2:54 audio 2 minutes 54 Haïti, sans chef de l'Etat depuis cinq ans, organisera des élections présidentielle et législatives en 2027",
+   "title": "2:54 audio 2 minutes 54 Haïti, sans chef de l'Etat depuis cinq ans, organisera des élections présidentielle et législatives en 2027 Les autorités de Port-au-Prince viennent d'annoncer la tenue d'élections présidentielle et législatives l'année prochaine, malgré la situation sécuritaire et économique.",
    "link": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/haiti-sans-chef-de-l-etat-depuis-cinq-ans-organisera-des-elections-presidentielle-et-legislatives-en-2027_8241106.html",
    "summary": "Haïti, sans chef de l'Etat depuis cinq ans, organisera des élections présidentielle et législatives en 2027",
    "image": "https://www.franceinfo.fr/pictures/w_waBaN3argmcK2DviJGhTE2usY/0x315:6048x3717/432x243/filters:format(jpg)/2026/10/31/6ae5fca5b3cc2216166694.jpg",
@@ -60,57 +161,41 @@
    "pubdate": "2026-10-31T19:20:47.329594+00:00"
   },
   {
-   "title": "L'évacuation de la ville d'Olechky, un exemple réussi mais encore isolé de cessez-le-feu humanitaire entre l'Ukraine et la Russie",
+   "title": "L'évacuation de la ville d'Olechky, un exemple réussi mais encore isolé de cessez-le-feu humanitaire entre l'Ukraine et la Russie Des habitants de la ville sous occupation russe sont arrivés en territoire ukrainien au prix d'un long périple. \"On parle de plus d'une centaine de personnes, peut-être même plus de 200\", selon un responsable militaire ukrainien.",
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-evacuation-de-la-ville-d-olechky-un-exemple-reussi-mais-encore-isole-de-cessez-le-feu-humanitaire-entre-l-ukraine-et-la-russie_8261840.html",
-   "summary": "",
+   "summary": "L'évacuation de la ville d'Olechky, un exemple réussi mais encore isolé de cessez-le-feu humanitaire entre l'Ukraine et la Russie",
    "image": "https://www.franceinfo.fr/pictures/TSuLCZ_WK972i17yEOnvA7I1HwE/0x430:8256x5074/432x243/filters:format(jpg)/2026/10/31/6ae5fdad118d9947340996.jpg",
    "date": null,
    "pubdate": "2026-10-31T19:20:47.329594+00:00"
   },
   {
-   "title": "L'ambassade américaine avertit la Russie d'une \"menace crédible\" d'attentat à Moscou samedi",
+   "title": "L'ambassade américaine avertit la Russie d'une \"menace crédible\" d'attentat à Moscou samedi L'ambassade appelle à éviter ce lieu culturel, un palais de l'époque impériale situé dans un grand parc dans le sud de Moscou. Les services de renseignements russes assurent faire \"le nécessaire\".",
    "link": "https://www.franceinfo.fr/monde/russie/l-ambassade-americaine-avertit-la-russie-d-une-menace-credible-d-attentat-a-moscou-samedi_8261987.html",
-   "summary": "",
+   "summary": "L'ambassade américaine avertit la Russie d'une \"menace crédible\" d'attentat à Moscou samedi",
    "image": "https://www.franceinfo.fr/pictures/6qglkLaIhbNZXD-VvFXziiosKpM/0x53:1024x629/432x243/filters:format(jpg)/2026/10/31/6ae61f71126d4085267350.jpg",
    "date": null,
    "pubdate": "2026-10-31T19:20:47.329594+00:00"
   },
   {
-   "title": "Les cendres de l'écrivain Miguel Angel Asturias, mort en 1974 et inhumé à Paris, bientôt rapatriées au Guatemala pour un hommage national",
+   "title": "Les cendres de l'écrivain Miguel Angel Asturias, mort en 1974 et inhumé à Paris, bientôt rapatriées au Guatemala pour un hommage national Le prix Nobel de littérature 1967 sera honoré à l'occasion de funérailles nationales le 15 novembre, a annoncé sa famille à l'AFP.",
    "link": "https://www.franceinfo.fr/culture/livres/les-cendres-de-l-ecrivain-miguel-angel-asturias-mort-en-1974-et-inhume-a-paris-bientot-rapatriees-au-guatemala-pour-un-hommage-national_8261999.html",
-   "summary": "",
+   "summary": "Les cendres de l'écrivain Miguel Angel Asturias, mort en 1974 et inhumé à Paris, bientôt rapatriées au Guatemala pour un hommage national",
    "image": "https://www.franceinfo.fr/pictures/TGih9Z2zBwU00j--asiYdhHK74s/0x216:3000x1903/432x243/filters:format(jpg)/2026/10/31/6ae61a5b4429d503757256.jpg",
    "date": null,
    "pubdate": "2026-10-31T19:20:47.329594+00:00"
   },
   {
-   "title": "Une Française figure parmi les victimes de la collision de trains en Espagne qui a fait 69 morts, annonce le ministère des Affaires étrangères",
+   "title": "Une Française figure parmi les victimes de la collision de trains en Espagne qui a fait 69 morts, annonce le ministère des Affaires étrangères Le Quai d'Orsay avait déclaré, jeudi, être sans nouvelles de plusieurs ressortissants. Le ministère ajoute être \"en lien constant\" avec la famille de cette Française.",
    "link": "https://www.franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/une-francaise-figure-parmi-les-victimes-de-la-collision-de-trains-en-espagne-qui-a-fait-69-morts-annonce-le-ministere-des-affaires-etrangeres_8261951.html",
-   "summary": "",
+   "summary": "Une Française figure parmi les victimes de la collision de trains en Espagne qui a fait 69 morts, annonce le ministère des Affaires étrangères",
    "image": "https://www.franceinfo.fr/pictures/uWquH32U4JOQ5YWldLMRg0HouPM/0x54:1024x630/432x243/filters:format(jpg)/2026/10/31/6ae607c0d1d8a669014892.jpg",
    "date": null,
    "pubdate": "2026-10-31T19:20:47.329594+00:00"
   },
   {
-   "title": "3:26 vidéo 3 minutes 26 \"C'est magnifique\" : en Italie, une course de fromages médiévale fait vibrer les rues de Volterra",
-   "link": "https://www.franceinfo.fr/monde/italie/c-est-magnifique-en-italie-une-course-de-fromages-medievale-fait-vibrer-les-rues-de-volterra-en-toscane_8261921.html",
-   "summary": "\"C'est magnifique\" : en Italie, une course de fromages médiévale fait vibrer les rues de Volterra",
-   "image": "https://www.franceinfo.fr/pictures/I93Zxur0lDwPWWzAUx_F-Asi3jw/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/31/6ae5ffa67daf0836073550.jpg",
-   "date": null,
-   "pubdate": "2026-10-31T19:20:47.329594+00:00"
-  },
-  {
-   "title": "1:44 vidéo 1 minute 44 Pologne : une crise politique éclate au Tribunal constitutionnel de Varsovie, le Premier ministre Donald Tusk défié par le président Karol Nawrocki",
-   "link": "https://www.franceinfo.fr/monde/europe/pologne-une-crise-politique-eclate-au-tribunal-constitutionnel-de-varsovie-le-premier-ministre-donald-tusk-defie-par-le-president-karol-nawrocki_8261876.html",
-   "summary": "Pologne : une crise politique éclate au Tribunal constitutionnel de Varsovie, le Premier ministre Donald Tusk défié par le président Karol Nawrocki",
-   "image": "https://www.franceinfo.fr/pictures/0KsDOwMm23l6ITXOr2drFRfEdBI/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/31/6ae5f1a4ad558981335134.jpg",
-   "date": null,
-   "pubdate": "2026-10-31T19:20:47.329594+00:00"
-  },
-  {
-   "title": "Des habitants évacués d'Olechky, ville sous occupation russe, sont arrivés en Ukraine",
+   "title": "Des habitants évacués d'Olechky, ville sous occupation russe, sont arrivés en Ukraine Cette opération a eu lieu dans le cadre d'une trêve qui débuté mardi matin et doit durer jusqu'à dimanche soir. Ni Moscou, ni Kiev n'ont précisé le nombre de personnes évacuées.",
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/les-habitants-evacues-d-olechky-ville-occupee-par-la-russie-sont-arrives-en-ukraine_8261879.html",
-   "summary": "",
+   "summary": "Des habitants évacués d'Olechky, ville sous occupation russe, sont arrivés en Ukraine",
    "image": "https://www.franceinfo.fr/pictures/Yt_0wlg6BI8AJ6Mh3bESRrbErOk/0x53:1024x629/432x243/filters:format(jpg)/2026/10/31/6ae5f55f8d15c374696220.jpg",
    "date": null,
    "pubdate": "2026-10-31T19:20:47.329594+00:00"
@@ -140,14 +225,6 @@
    "pubdate": "2026-10-31T12:42:41.440453+00:00"
   },
   {
-   "title": "Léon XIV en France : l'essentiel de la visite du pape 15 contenus",
-   "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/leon-xiv-en-france-retrouvez-l-essentiel/",
-   "summary": "Léon XIV en France : l'essentiel de la visite du pape",
-   "image": "https://www.franceinfo.fr/pictures/bgiweXyFgu0BUNMikE3oBZK0JG4/432x297/filters:format(jpg)/2026/09/24/6ab4f4233a728679965697.jpg",
-   "date": null,
-   "pubdate": "2026-10-31T12:42:41.440453+00:00"
-  },
-  {
    "title": "14:38 vidéo 14 minutes 38 Jeux Olympiques de la Jeunesse à Dakar : au cœur des préparatifs des premiers JO sur le sol africain",
    "link": "https://www.franceinfo.fr/jeux-olympiques-de-la-jeunesse/jeux-olympiques-de-la-jeunesse-a-dakar-au-c-ur-des-preparatifs-des-premiers-jo-sur-le-sol-africain_8259551.html",
    "summary": "Jeux Olympiques de la Jeunesse à Dakar : au cœur des préparatifs des premiers JO sur le sol africain",
@@ -164,114 +241,10 @@
    "pubdate": "2026-10-31T12:42:41.440453+00:00"
   },
   {
-   "title": "Une cérémonie d'inhumation des cendres d'un vétéran français de la guerre de Corée s'est tenue à Busan Plus de 3 000 combattants français ont participé à ce conflit entre 1950 et 1953 au sein du Bataillon français de l'ONU.",
-   "link": "https://www.franceinfo.fr/monde/coree-du-sud/une-ceremonie-d-inhumation-des-cendres-d-un-veteran-francais-de-la-guerre-de-coree-s-est-tenue-a-busan-au-pays_8261660.html",
-   "summary": "Une cérémonie d'inhumation des cendres d'un vétéran français de la guerre de Corée s'est tenue à Busan",
-   "image": "https://www.franceinfo.fr/pictures/aHhwhN5k9drtvqVzFCsDGidHioE/0x433:6613x4153/432x243/filters:format(jpg)/2026/10/31/6ae5c0e625721246585291.jpg",
-   "date": null,
-   "pubdate": "2026-10-31T12:42:41.440453+00:00"
-  },
-  {
-   "title": "\"On ne peut pas tuer des rêves\" : pourquoi de plus en plus de jeunes espoirs du basket français sont séduits par la filière universitaire américaine De plus en plus de jeunes basketteurs français rejoignent les rangs de la NCAA, attirés notamment par les revenus liés à leurs droits à l'image. Une situation qui fait débat et interroge les clubs formateurs français.",
-   "link": "https://www.franceinfo.fr/sports/basket/on-ne-peut-pas-tuer-des-reves-pourquoi-les-espoirs-du-basket-francais-sont-aspires-par-la-filiere-universitaire-americaine-la-ncaa_8261570.html",
-   "summary": "\"On ne peut pas tuer des rêves\" : pourquoi de plus en plus de jeunes espoirs du basket français sont séduits par la filière universitaire américaine",
-   "image": "https://www.franceinfo.fr/pictures/n3I5e1sKwIdZN6OP90CNHuyKN3A/0x406:7795x4790/432x243/filters:format(jpg)/2026/10/31/6ae5ab007df28026340569.jpg",
-   "date": null,
-   "pubdate": "2026-10-31T12:42:41.440453+00:00"
-  },
-  {
-   "title": "En Pologne, le président convoque les partis politiques pour trouver une issue à la crise après l'intervention de la police au Tribunal constitutionnel Le Premier ministre Donald Tusk et le président Karol Nawrocki se déchirent autour des nominations à la plus haute juridiction du pays, jugée trop dépendante au pouvoir politique par l'UE.",
-   "link": "https://www.franceinfo.fr/monde/europe/le-president-de-la-pologne-convoque-les-partis-pour-trouver-une-issue-a-la-crise-politique-apres-l-intervention-de-la-police-au-tribunal-constitutionnel_8261594.html",
-   "summary": "En Pologne, le président convoque les partis politiques pour trouver une issue à la crise après l'intervention de la police au Tribunal constitutionnel",
-   "image": "https://www.franceinfo.fr/pictures/QZ439-i650zKyID8I2gVLUrViJs/0x430:8256x5074/432x243/filters:format(jpg)/2026/10/31/6ae5b0b5e3328575368381.jpg",
-   "date": null,
-   "pubdate": "2026-10-31T12:42:41.440453+00:00"
-  },
-  {
-   "title": "Armes biochimiques, cyberattaques géantes, perte de contrôle... Ce que dit le dossier d'entrée en Bourse d'Anthropic sur les dangers de l'IA L'entreprise américaine, qui développe notamment l'intelligence artificielle générative Claude, a publié un long document en vue de sa prochaine introduction en Bourse, dont un tiers est consacré aux risques engendrés par l'IA.",
-   "link": "https://www.franceinfo.fr/internet/intelligence-artificielle/armes-biochimiques-cyberattaques-geantes-perte-de-controle-ce-que-dit-le-dossier-d-entree-en-bourse-d-anthropic-sur-les-dangers-de-l-ia_8258888.html",
-   "summary": "Armes biochimiques, cyberattaques géantes, perte de contrôle... Ce que dit le dossier d'entrée en Bourse d'Anthropic sur les dangers de l'IA",
-   "image": "https://www.franceinfo.fr/pictures/yRaQKIaQJJTemUuEcx5cdz9FqtE/0x286:5490x3374/432x243/filters:format(jpg)/2026/10/29/6ae34a890f3e5859115271.jpg",
-   "date": null,
-   "pubdate": "2026-10-31T12:42:41.440453+00:00"
-  },
-  {
-   "title": "\"Moi aussi, je suis insatisfaite !\" : inspirée par la France, la jeunesse allemande veut descendre dans la rue La \"Gen Z\" allemande manifeste pour exprimer ses insatisfactions et dénoncer des décisions prises sans elle.",
-   "link": "https://www.franceinfo.fr/societe/manifestations/moi-aussi-je-suis-insatisfaite-inspiree-par-la-france-la-jeunesse-allemande-veut-descendre-dans-la-rue_8261000.html",
-   "summary": "\"Moi aussi, je suis insatisfaite !\" : inspirée par la France, la jeunesse allemande veut descendre dans la rue",
-   "image": "https://www.franceinfo.fr/pictures/3fH8lVjuZVcjewGcUim3Z8lO9Ic/0x53:1024x629/432x243/filters:format(jpg)/2026/10/30/6ae4f5455631e679216489.jpg",
-   "date": null,
-   "pubdate": "2026-10-31T12:42:41.440453+00:00"
-  },
-  {
-   "title": "Impressionnés par le mouvement social en France, des militants britanniques sortent un \"kit pratique pour apprendre à manifester\" Certains jeunes Britanniques ont défilé en France samedi 17 octobre. Ils rentrent au Royaume-Uni prêts à exporter les méthodes de manifestations françaises chez eux.",
-   "link": "https://www.franceinfo.fr/societe/manifestations/impressionnes-par-le-mouvement-social-en-france-des-militants-britanniques-sortent-un-kit-pratique-pour-apprendre-a-manifester_8261060.html",
-   "summary": "Impressionnés par le mouvement social en France, des militants britanniques sortent un \"kit pratique pour apprendre à manifester\"",
-   "image": "https://www.franceinfo.fr/pictures/zhB1NMXTVZGuqFtOD1VMipmIuTk/0x53:1024x629/432x243/filters:format(jpg)/2026/10/30/6ae50e6105fd8080338742.jpg",
-   "date": null,
-   "pubdate": "2026-10-31T12:42:41.440453+00:00"
-  },
-  {
-   "title": "Pourquoi les importations de gaz naturel liquéfié russe n'ont-elles jamais été aussi hautes dans l'Union européenne, deux mois avant leur interdiction complète ? Les pays de l'UE n'auront plus le droit d'importer du GNL russe à partir du 1er janvier. Cependant, plusieurs facteurs, dont la guerre au Moyen-Orient, ont poussé ces Etats à se tourner ces derniers mois vers le pays de Vladimir Poutine, tout en parvenant à faire appel à d'autres fournisseurs.",
-   "link": "https://www.franceinfo.fr/monde/europe/pourquoi-les-importations-de-gaz-naturel-liquefie-russe-n-ont-elles-jamais-ete-aussi-hautes-dans-l-union-europeenne-deux-mois-avant-leur-interdiction-complete_8255563.html",
-   "summary": "Pourquoi les importations de gaz naturel liquéfié russe n'ont-elles jamais été aussi hautes dans l'Union européenne, deux mois avant leur interdiction complète ?",
-   "image": "https://www.franceinfo.fr/pictures/ig8yfZAnwv58_64bMQD4rcF-0Uk/0x290:5568x3422/432x243/filters:format(jpg)/2026/10/28/6ae221b399f92312504281.jpg",
-   "date": null,
-   "pubdate": "2026-10-31T12:42:41.440453+00:00"
-  },
-  {
-   "title": "Chances d'une vague démocrate, enjeu pour Donald Trump et pour 2028... L'article à lire pour tout comprendre aux midterms, les élections de mi-mandat aux Etats-Unis Si le président américain en exercice sort rarement gagnant de ce scrutin, le revers pourrait être lourd pour Donald Trump, mardi 3 novembre. Les sondages prédisent à l'opposition démocrate une majorité à la Chambre des représentants et peut être même au Sénat, l'autre chambre du Congrès américain.",
-   "link": "https://www.franceinfo.fr/monde/usa/midterms-2018/chances-d-une-vague-democrate-enjeu-pour-donald-trump-et-pour-2028-l-article-a-lire-pour-tout-comprendre-aux-midterms-les-elections-de-mi-mandat-aux-etats-unis_8237488.html",
-   "summary": "Chances d'une vague démocrate, enjeu pour Donald Trump et pour 2028... L'article à lire pour tout comprendre aux midterms, les élections de mi-mandat aux Etats-Unis",
-   "image": "https://www.franceinfo.fr/pictures/_G6L9uwq1r2pQZCMbB1CXHto_Hc/0x0:3840x2160/432x243/filters:format(jpg)/2026/10/16/6ad234fa41a84406617364.jpg",
-   "date": null,
-   "pubdate": "2026-10-31T12:42:41.440453+00:00"
-  },
-  {
-   "title": "L'essentiel des révélations sur l'affaire Epstein 14 contenus",
-   "link": "https://www.franceinfo.fr/monde/usa/affaire-jeffrey-epstein/l-essentiel-des-revelations-sur-l-affaire-epstein/",
-   "summary": "L'essentiel des révélations sur l'affaire Epstein",
-   "image": "https://www.franceinfo.fr/pictures/btENVL4vmQDLNvnJ4uUtTATvN9k/432x297/filters:format(jpg)/2026/02/12/000-96rl2gk-1-698def9a11d8a867290796.jpg",
-   "date": null,
-   "pubdate": "2026-10-31T05:52:56.483521+00:00"
-  },
-  {
-   "title": "Tout comprendre à la guerre au Moyen-Orient 27 contenus",
-   "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/tout-comprendre-a-la-guerre-au-moyen-orient/",
-   "summary": "Tout comprendre à la guerre au Moyen-Orient",
-   "image": "https://www.franceinfo.fr/pictures/1mjbL6KrEfhdf8kkM-fiwv8Aqs4/432x297/filters:format(jpg)/2026/03/01/075-nikoubazl-mourning260301-npgop-69a44a7350cd8738092334.jpg",
-   "date": null,
-   "pubdate": "2026-10-31T05:52:56.483521+00:00"
-  },
-  {
-   "title": "10:18 vidéo 10 minutes 18 \"Avant, on parlait de politique entre nous, on a arrêté\" : immersion dans un Brésil divisé, avant le second tour de la présidentielle",
-   "link": "https://www.franceinfo.fr/monde/bresil/avant-on-parlait-de-politique-entre-nous-on-a-arrete-immersion-dans-un-bresil-divise-avant-le-second-tour-de-la-presidentielle_8246164.html",
-   "summary": "\"Avant, on parlait de politique entre nous, on a arrêté\" : immersion dans un Brésil divisé, avant le second tour de la présidentielle",
-   "image": "https://www.franceinfo.fr/pictures/XnfXSwG80z-AYC_IuxuqVQmUuWE/313x0:996x683/100x100/filters:format(jpg)/2026/10/20/6ad7c7029af81010181670.jpg",
-   "date": null,
-   "pubdate": "2026-10-31T05:52:56.483521+00:00"
-  },
-  {
    "title": "9:00 article 9 minutes L'article à lire pour comprendre les enjeux des élections législatives cruciales en Israël",
    "link": "https://www.franceinfo.fr/monde/israel/l-article-a-lire-pour-comprendre-les-enjeux-des-elections-legislatives-cruciales-en-israel_8228218.html",
    "summary": "L'article à lire pour comprendre les enjeux des élections législatives cruciales en Israël",
    "image": "https://www.franceinfo.fr/pictures/u8rKS7La2DaBfPf0s4Dsi8oih10/637x0:3997x3360/100x100/filters:format(jpg)/2026/10/22/6ad9ff9ae3fdc875373138.jpg",
-   "date": null,
-   "pubdate": "2026-10-30T22:26:26.712470+00:00"
-  },
-  {
-   "title": "Le gouvernement américain approuve la vente de 500 missiles Patriot à l'Ukraine En cas de feu vert du Congrès, l'Ukraine financera cette transaction avec \"des contributions\" de ses alliés étrangers, notamment européens, selon Washington, qui précise qu'\"aucun fonds américain n'est engagé\" dans cette vente.",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/le-gouvernement-americain-approuve-la-vente-de-500-missiles-patriot-a-l-ukraine_8261099.html",
-   "summary": "Le gouvernement américain approuve la vente de 500 missiles Patriot à l'Ukraine",
-   "image": "https://www.franceinfo.fr/pictures/1yiHgWPMXDPZGZBF_CSC5L3fqXo/0x0:1024x576/432x243/filters:format(jpg)/2026/10/30/6ae518d120566621422447.jpg",
-   "date": null,
-   "pubdate": "2026-10-30T22:26:26.712470+00:00"
-  },
-  {
-   "title": "Le pape Léon XIV a voté pour les élections de mi-mandat aux Etats-Unis \"Le Saint-Père exprime sa conviction quant au droit et au devoir des citoyens de participer aux processus démocratiques\", a souligné le Vatican, vendredi.",
-   "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/le-pape-leon-xiv-a-vote-pour-les-elections-de-mi-mandat-aux-etats-unis_8261009.html",
-   "summary": "Le pape Léon XIV a voté pour les élections de mi-mandat aux Etats-Unis",
-   "image": "https://www.franceinfo.fr/pictures/FbQeh6nbcFftRNUvc16Gwgz1AjU/0x106:1024x682/432x243/filters:format(jpg)/2026/10/30/6ae4fc3720442519459874.jpg",
    "date": null,
    "pubdate": "2026-10-30T22:26:26.712470+00:00"
   }
