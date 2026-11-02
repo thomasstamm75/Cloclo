@@ -5,8 +5,15 @@
     <link>https://www.radiofrance.fr/franceculture/podcasts/le-temps-du-debat</link>
     <description>Flux fabriqué par Cloclo à partir de https://www.radiofrance.fr/franceculture/podcasts/le-temps-du-debat</description>
     <language>fr</language>
-    <lastBuildDate>Mon, 02 Nov 2026 11:20:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 21:45:08 +0000</lastBuildDate>
     <atom:link href="https://thomasstamm75.github.io/Cloclo/france-culture-question-du-soir.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La sÃ©curitÃ© est-elle la premiÃ¨re des libertÃ©sÂ ?</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/ou-doit-on-placer-le-curseur-entre-libertes-et-securite-8407505</link>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/ou-doit-on-placer-le-curseur-entre-libertes-et-securite-8407505</guid>
+      <pubDate>Mon, 02 Nov 2026 11:00:00 +0000</pubDate>
+      <description>&lt;img src="https://www.radiofrance.fr/pikapi/images/3b1d7c6d-7cc5-4932-8dd1-3eda1f0ae08b/2048" alt=""/&gt;&lt;p&gt;Manifestations massives, violences, couvre-feux et restrictions de cortÃ¨gesÂ : face Ã la contestation contre la vie chÃ¨re, lâÃtat durcit sa rÃ©ponse. JusquâoÃ¹ peut-il limiter le droit de manifester au nom de lâordre public sans basculer vers une logique autoritaireÂ ?&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Quelles ruines laisserons-nous derriÃ¨re nousÂ ?</title>
       <link>https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/quelles-ruines-laisserons-nous-derriere-nous-5610036</link>
@@ -132,13 +139,6 @@
       <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/les-violences-des-policiers-doctrine-ou-pratique-isolee-1289611</guid>
       <pubDate>Wed, 07 Oct 2026 11:00:00 +0000</pubDate>
       <description>&lt;img src="https://www.radiofrance.fr/pikapi/images/233e6488-a22c-4955-b8a0-257b8b5287ba/2048" alt=""/&gt;&lt;p&gt;Ã lâheure oÃ¹ syndicats et organisations Ã©tudiantes appellent Ã manifester, le dÃ©bat sâintensifie et une question se poseÂ : Ã qui incombent les violencesÂ : aux manifestants ou Ã la policeÂ ?&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Les luttes peuvent-elles convergerÂ ?</title>
-      <link>https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/les-luttes-peuvent-elles-converger-6069246</link>
-      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/les-luttes-peuvent-elles-converger-6069246</guid>
-      <pubDate>Tue, 06 Oct 2026 22:42:35 +0000</pubDate>
-      <description>&lt;img src="https://www.radiofrance.fr/pikapi/images/66df1d19-c75e-42d9-bb55-26cb42d7b4ce/2048" alt=""/&gt;&lt;p&gt;Manifestations Ã©tudiantes, syndicats, fonction publique, climat, pouvoir dâachat, les mouvements sociaux se multiplient. Ã gauche, certains y voient les prÃ©mices dâune "convergence des luttes". Alors le vieux rÃªve de la gauche, et le grand cauchemar de la droite, est-il sur le point dâadvenirÂ ?&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

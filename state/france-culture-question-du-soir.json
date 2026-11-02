@@ -1,8 +1,7 @@
 {
- "etag": "\"1g9yaud\"",
+ "etag": "\"1gujj5v\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/les-luttes-peuvent-elles-converger-6069246": "2026-10-06T22:42:35.614973+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/les-violences-des-policiers-doctrine-ou-pratique-isolee-1289611": "2026-10-07T11:00:00+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/bresil-derriere-le-succes-de-bolsonaro-celui-de-trump-9697008": "2026-10-08T18:54:43.746341+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/peut-on-encore-faire-une-histoire-commune-9924900": "2026-10-09T11:00:00+00:00",
@@ -20,10 +19,19 @@
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/reelection-de-lula-le-bresil-a-t-il-sauve-sa-democratie-8269925": "2026-10-27T22:20:50.125579+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/retour-sur-les-elections-en-israel-7933436": "2026-10-28T11:00:00+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/faut-il-assumer-la-selection-a-l-universite-4857739": "2026-10-29T11:00:00+00:00",
-  "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/quelles-ruines-laisserons-nous-derriere-nous-5610036": "2026-10-30T18:04:04.396175+00:00"
+  "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/quelles-ruines-laisserons-nous-derriere-nous-5610036": "2026-10-30T18:04:04.396175+00:00",
+  "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/ou-doit-on-placer-le-curseur-entre-libertes-et-securite-8407505": "2026-11-02T11:00:00+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "La sÃ©curitÃ© est-elle la premiÃ¨re des libertÃ©sÂ ?",
+   "link": "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/ou-doit-on-placer-le-curseur-entre-libertes-et-securite-8407505",
+   "summary": "Manifestations massives, violences, couvre-feux et restrictions de cortÃ¨gesÂ : face Ã la contestation contre la vie chÃ¨re, lâÃtat durcit sa rÃ©ponse. JusquâoÃ¹ peut-il limiter le droit de manifester au nom de lâordre public sans basculer vers une logique autoritaireÂ ?",
+   "image": "https://www.radiofrance.fr/pikapi/images/3b1d7c6d-7cc5-4932-8dd1-3eda1f0ae08b/2048",
+   "date": "2026-11-02T11:00:00+00:00",
+   "pubdate": "2026-11-02T11:00:00+00:00"
+  },
   {
    "title": "Quelles ruines laisserons-nous derriÃ¨re nousÂ ?",
    "link": "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/quelles-ruines-laisserons-nous-derriere-nous-5610036",
@@ -167,14 +175,6 @@
    "image": "https://www.radiofrance.fr/pikapi/images/233e6488-a22c-4955-b8a0-257b8b5287ba/2048",
    "date": "2026-10-07T11:00:00+00:00",
    "pubdate": "2026-10-07T11:00:00+00:00"
-  },
-  {
-   "title": "Les luttes peuvent-elles convergerÂ ?",
-   "link": "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/les-luttes-peuvent-elles-converger-6069246",
-   "summary": "Manifestations Ã©tudiantes, syndicats, fonction publique, climat, pouvoir dâachat, les mouvements sociaux se multiplient. Ã gauche, certains y voient les prÃ©mices dâune \"convergence des luttes\". Alors le vieux rÃªve de la gauche, et le grand cauchemar de la droite, est-il sur le point dâadvenirÂ ?",
-   "image": "https://www.radiofrance.fr/pikapi/images/66df1d19-c75e-42d9-bb55-26cb42d7b4ce/2048",
-   "date": null,
-   "pubdate": "2026-10-06T22:42:35.614973+00:00"
   }
  ]
 }
