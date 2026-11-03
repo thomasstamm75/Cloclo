@@ -1,20 +1,28 @@
 {
- "etag": "W/\"1793687172\"",
- "last_modified": "Tue, 03 Nov 2026 06:26:12 GMT",
+ "etag": "W/\"1793725669\"",
+ "last_modified": "Tue, 03 Nov 2026 17:07:49 GMT",
  "first_seen": {
   "https://www.ccomptes.fr/fr/publications/les-unites-mixtes-de-recherche-umr": "2026-10-08T11:00:00+00:00",
   "https://www.ccomptes.fr/fr/publications/lagence-nationale-de-la-recherche-anr-une-trajectoire-budgetaire-devenue-insoutenable": "2026-10-08T11:00:00+00:00",
-  "https://www.ccomptes.fr/fr/publications/la-transition-ecologique-0": "2026-10-07T11:00:00+00:00",
   "https://www.ccomptes.fr/fr/publications/lencadrement-des-loyers": "2026-10-14T11:00:00+00:00",
   "https://www.ccomptes.fr/fr/publications/le-troisieme-cycle-des-etudes-de-medecine": "2026-10-14T11:00:00+00:00",
   "https://www.ccomptes.fr/fr/publications/commune-de-grand-champ-morbihan-1": "2026-10-16T11:00:00+00:00",
   "https://www.ccomptes.fr/fr/publications/la-situation-financiere-de-la-securite-sociale-un-redressement-imperatif-en-2027": "2026-10-20T11:00:00+00:00",
   "https://www.ccomptes.fr/fr/publications/commune-de-capesterre-belle-eau-guadeloupe-14": "2026-10-22T11:00:00+00:00",
   "https://www.ccomptes.fr/fr/publications/les-outils-bureautiques-et-collaboratifs-au-sein-de-letat": "2026-10-22T11:00:00+00:00",
-  "https://www.ccomptes.fr/fr/publications/le-plan-dinvestissement-france-2030": "2026-10-28T11:00:00+00:00"
+  "https://www.ccomptes.fr/fr/publications/le-plan-dinvestissement-france-2030": "2026-10-28T11:00:00+00:00",
+  "https://www.ccomptes.fr/fr/publications/levolution-du-budget-du-ministere-de-la-culture-depuis-2015": "2026-11-03T11:00:00+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "L’évolution du budget du ministère de la culture depuis 2015",
+   "link": "https://www.ccomptes.fr/fr/publications/levolution-du-budget-du-ministere-de-la-culture-depuis-2015",
+   "summary": "Pour éclairer le débat public la Cour des comptes retrace pour la première fois l’évolution du budget du ministère de la culture entre 2015 et 2025, en s’appuyant sur la synthèse de 33 notes d’exécution budgétaire (une NEB analyse chaque année l’utilisation des crédits votés pour une mission du budg...",
+   "image": "https://www.ccomptes.fr/sites/default/files/styles/teaser_182x98/public/2026-11/AdobeStock_154249693-2024-Evolution-budget-ministere-de-la-culture-depuis-2015-182x98.jpg?itok=vRNHzkaW",
+   "date": "2026-11-03T11:00:00+00:00",
+   "pubdate": "2026-11-03T11:00:00+00:00"
+  },
   {
    "title": "Le plan d’investissement France 2030",
    "link": "https://www.ccomptes.fr/fr/publications/le-plan-dinvestissement-france-2030",
@@ -86,14 +94,6 @@
    "image": "https://www.ccomptes.fr/sites/default/files/styles/teaser_182x98/public/2023-12/Agence-biomedecine-182x98.jpg?itok=hcEo4lZl",
    "date": "2026-10-08T11:00:00+00:00",
    "pubdate": "2026-10-08T11:00:00+00:00"
-  },
-  {
-   "title": "La transition écologique",
-   "link": "https://www.ccomptes.fr/fr/publications/la-transition-ecologique-0",
-   "summary": "Les juridictions financières publient la deuxième édition du rapport annuel dédié à la transition écologique, fruit d’un travail collégial entre la Cour et les chambres régionales des comptes, réalisé en collaboration avec un comité d’appui composé de personnalités qualifiées, de représentants des p...",
-   "image": "https://www.ccomptes.fr/sites/default/files/styles/teaser_182x98/public/2026-09/Initative-Climate-scanner-Intosai-182x98.jpg?itok=X9M1TiOe",
-   "date": "2026-10-07T11:00:00+00:00",
-   "pubdate": "2026-10-07T11:00:00+00:00"
   }
  ]
 }
