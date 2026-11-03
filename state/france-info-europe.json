@@ -1,5 +1,5 @@
 {
- "etag": "\"d34639fdb730e4460bf1edab6330defa-gzip\"",
+ "etag": "\"a8ed7fafac8beaf37d0fa7c22ad9ef9a-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/reportage-plus-de-huit-millions-de-livres-pour-enfants-partis-en-fumee-l-ukraine-face-a-une-penurie-de-manuels-scolaires-apres-des-frappes-russes_8192342.html": "2026-10-27T00:31:28.943056+00:00",
@@ -29,15 +29,33 @@
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/des-frappes-russes-font-18-morts-en-ukraine-au-lendemain-de-la-fin-d-un-cessez-le-feu-a-olechky-volodymyr-zelensky-denonce-l-aneantissement-de-tout-espoir-de-progres-vers-la-paix_8264639.html": "2026-11-02T21:44:58.960216+00:00",
   "https://www.franceinfo.fr/monde/europe/en-irlande-un-appel-a-l-interdiction-des-jeux-a-gratter-bon-marche-pour-proteger-les-enfants_8264465.html": "2026-11-02T21:44:58.960216+00:00",
   "https://www.franceinfo.fr/culture/patrimoine/les-ardennes-un-poumon-vert-franco-belge-au-terroir-et-a-la-culture-bien-affirmes_8264354.html": "2026-11-02T21:44:58.960216+00:00",
-  "https://www.franceinfo.fr/replay-radio/histoire-du-jour/les-evacues-ukrainiens-d-olechky-racontent-la-famine-dans-la-ville-sous-occupation-russe_8263502.html": "2026-11-02T21:44:58.960216+00:00"
+  "https://www.franceinfo.fr/replay-radio/histoire-du-jour/les-evacues-ukrainiens-d-olechky-racontent-la-famine-dans-la-ville-sous-occupation-russe_8263502.html": "2026-11-02T21:44:58.960216+00:00",
+  "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/on-perd-toute-notre-marchandise-des-supermarches-europeens-touches-par-des-cyberattaques_8265320.html": "2026-11-03T06:55:15.789705+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-russie-declare-avoir-intercepte-493-drones-qui-se-dirigeaient-vers-moscou_8265251.html": "2026-11-03T06:55:15.789705+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "Des frappes russes font 26 morts en Ukraine au lendemain de la fin d'un cessez-le-feu à Olechky, Volodymyr Zelensky dénonce l'anéantissement de \"tout espoir de progrès vers la paix\" \"C'est une preuve supplémentaire que la Russie ne veut ni désescalade ni véritable justice\", a estimé le président ukrainien au sujet des frappes russes contre un village du sud-est de l'Ukraine. Aujourd'hui",
+   "title": "\"On perd toute notre marchandise\" : des supermarchés européens touchés par des cyberattaques En octobre, une cyberattaque de grande ampleur avait touché des dizaines de supermarchés français. Les hackers avaient réussi à débrancher des frigos remplis de nourriture. Ce scénario s'est reproduit dans plusieurs pays européens, lundi 2 novembre. Aujourd'hui 1:35 vidéo 1 minute 35",
+   "link": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/on-perd-toute-notre-marchandise-des-supermarches-europeens-touches-par-des-cyberattaques_8265320.html",
+   "summary": "\"On perd toute notre marchandise\" : des supermarchés européens touchés par des cyberattaques",
+   "image": "https://www.franceinfo.fr/pictures/tBKs9w-Qn4tpLNuw1qfnKc0L0ps/139x0:992x587/432x297/filters:format(jpg)/2026/11/03/6ae981db49880162870607.jpg",
+   "date": null,
+   "pubdate": "2026-11-03T06:55:15.789705+00:00"
+  },
+  {
+   "title": "La Russie déclare avoir intercepté 493 drones qui se dirigeaient vers Moscou",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-russie-declare-avoir-intercepte-493-drones-qui-se-dirigeaient-vers-moscou_8265251.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/13_5ANgWLWkPxBt6endrOfhti9Y/0x53:1024x629/432x243/filters:format(jpg)/2026/11/03/6ae972a8e7c9f816960565.jpg",
+   "date": null,
+   "pubdate": "2026-11-03T06:55:15.789705+00:00"
+  },
+  {
+   "title": "Des frappes russes font 26 morts en Ukraine au lendemain de la fin d'un cessez-le-feu à Olechky, Volodymyr Zelensky dénonce l'anéantissement de \"tout espoir de progrès vers la paix\"",
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/des-frappes-russes-font-18-morts-en-ukraine-au-lendemain-de-la-fin-d-un-cessez-le-feu-a-olechky-volodymyr-zelensky-denonce-l-aneantissement-de-tout-espoir-de-progres-vers-la-paix_8264639.html",
-   "summary": "Des frappes russes font 26 morts en Ukraine au lendemain de la fin d'un cessez-le-feu à Olechky, Volodymyr Zelensky dénonce l'anéantissement de \"tout espoir de progrès vers la paix\"",
-   "image": "https://www.franceinfo.fr/pictures/UPrqG5GL7lkILwImlcbwyw3KwIQ/0x0:1024x704/432x297/filters:format(jpg)/2026/11/02/6ae8fdb2966f3898516440.jpg",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/ELA5UEpL37_9q5nVVsjy_CpKJtU/0x0:1024x576/432x243/filters:format(jpg)/2026/11/02/6ae8fdb2966f3898516440.jpg",
    "date": null,
    "pubdate": "2026-11-02T21:44:58.960216+00:00"
   },
@@ -98,17 +116,17 @@
    "pubdate": "2026-11-01T19:44:49.932666+00:00"
   },
   {
-   "title": "En Allemagne, des manifestations rassemblent 120 000 personnes samedi, la classe politique dénonce des violences",
+   "title": "En Allemagne, des manifestations rassemblent 120 000 personnes samedi, la classe politique dénonce des violences Sur Instagram, le collectif GenZ Regelt, à l'origine de ses rassemblements, s'est \"expressément distancé de toute forme de violence\".",
    "link": "https://www.franceinfo.fr/monde/europe/allemagne/en-allemagne-des-manifestations-rassemblent-120-000-personnes-samedi-la-classe-politique-denonce-des-violences_8262866.html",
-   "summary": "",
+   "summary": "En Allemagne, des manifestations rassemblent 120 000 personnes samedi, la classe politique dénonce des violences",
    "image": "https://www.franceinfo.fr/pictures/fKz8rEsUWNfY1AMqdPpIZFBC-jA/0x106:1024x682/432x243/filters:format(jpg)/2026/11/01/6ae754366182f898673933.jpg",
    "date": null,
    "pubdate": "2026-11-01T19:44:49.932666+00:00"
   },
   {
-   "title": "8:18 audio 8 minutes 18 Noé Preszow chante sa Belgique",
+   "title": "8:18 audio 8 minutes 18 Noé Preszow chante sa Belgique Avec \"Noir, jaune, rouge\", qui vient de sortir, il augmente le répertoire des chansons belges sur la Belgique, entre exaltation et réalisme.",
    "link": "https://www.franceinfo.fr/replay-radio/ces-chansons-qui-font-l-actu/noe-preszow-chante-sa-belgique_8241103.html",
-   "summary": "",
+   "summary": "Avec \"Noir, jaune, rouge\", qui vient de sortir, il augmente le répertoire des chansons belges sur la Belgique, entre exaltation et réalisme.",
    "image": "https://www.franceinfo.fr/pictures/qSMUzmUSkzuvs8B7r-I2basxl_w/0x166:3189x1959/432x243/filters:format(jpg)/2026/10/28/6ae2678644005367558521.jpg",
    "date": null,
    "pubdate": "2026-11-01T13:37:58.974904+00:00"

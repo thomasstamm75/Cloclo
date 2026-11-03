@@ -1,8 +1,7 @@
 {
- "etag": "\"171jk90\"",
+ "etag": "\"1vi28b4\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/le-journal-de-l-eco-du-mercredi-07-octobre-2026-9594607": "2026-10-07T11:00:00+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/crise-petroliere-quelle-marge-pour-taxer-les-profits-des-raffineurs-1629158": "2026-10-08T10:43:19.512955+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/les-start-up-epargnees-dans-le-projet-de-budget-2027-du-gouvernement-5421691": "2026-10-09T10:42:24.062501+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/dette-la-france-au-bord-du-defaut-7190305": "2026-10-12T11:00:00+00:00",
@@ -20,10 +19,19 @@
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/droits-de-douane-et-relocalisation-donald-trump-a-t-il-tenu-ses-promesses-1853800": "2026-10-28T13:06:43.111709+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/les-cryptomonnaies-qui-enrichissent-la-famille-trump-4253986": "2026-10-29T10:06:57.704936+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/l-ia-moteur-fragile-de-la-croissance-americaine-6786048": "2026-10-30T10:09:15.728182+00:00",
-  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/territoires-zero-chomeur-de-longue-duree-un-retour-a-l-emploi-perenne-encore-menace-2176224": "2026-11-02T11:20:56.517484+00:00"
+  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/territoires-zero-chomeur-de-longue-duree-un-retour-a-l-emploi-perenne-encore-menace-2176224": "2026-11-02T11:20:56.517484+00:00",
+  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/les-ministeres-dopes-a-l-ia-pour-faire-des-economies-budgetaires-7507164": "2026-11-03T06:55:23.591112+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "Les ministÃ¨res dopÃ©s Ã l'IA pour faire des Ã©conomies budgÃ©taires",
+   "link": "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/les-ministeres-dopes-a-l-ia-pour-faire-des-economies-budgetaires-7507164",
+   "summary": "Les Pays-Bas viennent dâannoncer un plan de suppression de 25 000 postes de fonctionnaires dâici 2035 en sâappuyant sur lâintelligence artificielle. La France, qui toujours cherche des Ã©conomies pour Ã©quilibrer son budget, pourrait-elle appliquer la mÃªme stratÃ©gieÂ ?",
+   "image": "https://www.radiofrance.fr/pikapi/images/c4a4a84b-220f-4238-8d1a-1489b9bf6463/2048",
+   "date": null,
+   "pubdate": "2026-11-03T06:55:23.591112+00:00"
+  },
   {
    "title": "Territoires zÃ©ro chÃ´meur de longue durÃ©eÂ : un retour Ã l'emploi pÃ©renne encore menacÃ©",
    "link": "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/territoires-zero-chomeur-de-longue-duree-un-retour-a-l-emploi-perenne-encore-menace-2176224",
@@ -167,14 +175,6 @@
    "image": "https://www.radiofrance.fr/pikapi/images/1294646c-9a33-4123-8b7a-2205a4c613b0/2048",
    "date": null,
    "pubdate": "2026-10-08T10:43:19.512955+00:00"
-  },
-  {
-   "title": "Royaume-UniÂ : les syndicats veulent reconquÃ©rir les entreprises",
-   "link": "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/le-journal-de-l-eco-du-mercredi-07-octobre-2026-9594607",
-   "summary": "Ã partir du 30 octobre, une rÃ©forme du gouvernement travailliste va donner aux syndicats britanniques un nouveau droit dâaccÃ¨s aux salariÃ©s. ObjectifÂ : faciliter leur recrutement et, Ã terme, leur permettre de nÃ©gocier avec les employeurs.",
-   "image": "https://www.radiofrance.fr/pikapi/images/04a3fa27-9417-4193-9656-d52edd8c741b/2048",
-   "date": "2026-10-07T11:00:00+00:00",
-   "pubdate": "2026-10-07T11:00:00+00:00"
   }
  ]
 }
