@@ -1,116 +1,166 @@
 {
- "etag": "\"99cf938078b8b91795a0036607611338-gzip\"",
+ "etag": "\"1c8cedb7246c07f640111a29dc139dcf-gzip\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/je-m-inquiete-de-ce-que-les-producteurs-vont-faire-de-mon-image-en-chine-les-acteurs-sont-de-plus-en-plus-remplaces-par-des-ia_8241151.html": "2026-10-31T12:42:41.440453+00:00",
-  "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/reportage-je-ne-retournerai-pas-la-bas-a-amsterdam-ces-americains-batissent-une-nouvelle-vie-au-plus-loin-du-trumpisme_8246968.html": "2026-11-01T13:38:00.121357+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-j-essaie-de-voter-pour-la-meilleure-personne-dans-le-maine-des-americains-encore-indecis-a-la-veille-des-elections-de-mi-mandat_8243356.html": "2026-11-02T11:20:49.905299+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-c-est-tres-difficile-de-survivre-aux-etats-unis-le-cout-de-la-vie-pousse-toujours-plus-de-familles-vers-les-banques-alimentaires_8244880.html": "2026-11-03T06:55:17.256949+00:00",
-  "https://www.franceinfo.fr/decouverte/cadaques-le-village-de-la-costa-brava-qui-a-seduit-salvador-dali_8266157.html": "2026-11-03T17:07:48.190658+00:00",
-  "https://www.franceinfo.fr/monde/usa/midterms-2018/dormir-dans-un-parking-le-cauchemar-americain_8265725.html": "2026-11-03T17:07:48.190658+00:00",
   "https://www.franceinfo.fr/monde/royaume-uni/le-roi-du-royaume-uni-charles-iii-dit-son-horreur-face-a-l-esclavage-une-injustice-monstrueuse_8266079.html": "2026-11-03T17:07:48.190658+00:00",
-  "https://www.franceinfo.fr/l-actu-pour-les-jeunes/c-est-quoi-les-midterms-aux-etats-unis-et-quels-sont-les-enjeux-de-ces-elections_8266130.html": "2026-11-03T17:07:48.190658+00:00",
-  "https://www.franceinfo.fr/monde/apres-28-ans-a-traverser-le-monde-a-pied-karl-bushby-est-arrive-au-bout-de-son-incroyable-periple_8266064.html": "2026-11-03T17:07:48.190658+00:00",
-  "https://www.franceinfo.fr/faits-divers/accident/collision-mortelle-de-deux-helicopteres-au-nepal-il-y-a-eu-un-probleme-de-communication-affirme-un-guide-local-apres-qu-un-touriste-etranger-est-mort-dans-l-accident_8266055.html": "2026-11-03T17:07:48.190658+00:00",
   "https://www.franceinfo.fr/monde/usa/donald-trump-annonce-mettre-fin-a-une-aide-annuelle-de-3-8-milliards-de-dollars-pour-la-securite-d-israel_8266049.html": "2026-11-03T17:07:48.190658+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-ennemi-a-largue-des-petites-bombes-pour-attirer-les-gens-sur-place-avant-de-les-viser-29-morts-apres-une-pluie-de-frappes-dans-le-sud-est-de-l-ukraine_8265974.html": "2026-11-03T17:07:48.190658+00:00",
   "https://www.franceinfo.fr/monde/europe/dans-le-sillage-des-manifestations-europeennes-une-colere-sociale-qui-gronde-aussi-en-suisse_8265935.html": "2026-11-03T17:07:48.190658+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/29-morts-apres-des-frappes-russes-dans-le-sud-est-de-l-ukraine_8265914.html": "2026-11-03T17:07:48.190658+00:00",
   "https://www.franceinfo.fr/monde/europe/union-europeenne/donald-tusk-affirme-que-la-pologne-a-dejoue-une-possible-provocation-a-la-frontiere-avec-l-enclave-russe-de-kaliningrad_8265896.html": "2026-11-03T17:07:48.190658+00:00",
   "https://www.franceinfo.fr/internet/intelligence-artificielle/quand-les-hallucinations-de-l-intelligence-artificielle-sement-le-trouble-dans-les-tribunaux-britanniques_8265755.html": "2026-11-03T17:07:48.190658+00:00",
   "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/les-etats-unis-ont-mene-des-frappes-limitees-sur-une-ile-iranienne-selon-des-medias-americains_8265818.html": "2026-11-03T17:07:48.190658+00:00",
-  "https://www.franceinfo.fr/replay-radio/le-tour-de-la-question/la-lente-progression-du-tunnel-ferroviaire-entre-lyon-et-turin_8265293.html": "2026-11-03T17:07:48.190658+00:00",
-  "https://www.franceinfo.fr/monde/usa/midterms-2018/direct-midterms-2026-suivez-la-journee-de-vote-pour-les-elections-americaines-de-mi-mandat-cruciales-pour-donald-trump_8265446.html": "2026-11-03T17:07:48.190658+00:00",
-  "https://www.franceinfo.fr/monde/proche-orient/liban/des-juges-francais-enquetent-apres-une-plainte-pour-crime-de-guerre-visant-l-armee-israelienne-au-liban_8265467.html": "2026-11-03T17:07:48.190658+00:00",
-  "https://www.franceinfo.fr/replay-radio/l-il-de-constance/lait-cru-chemtrails-et-antivax-qui-sont-les-maha-moms-ces-influenceuses-qui-s-invitent-dans-les-midterms_8244895.html": "2026-11-03T17:07:48.190658+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/les-etats-unis-annoncent-des-negociations-de-travail-entre-la-russie-et-l-ukraine-les-10-et-11-novembre-a-abou-dhabi_8265485.html": "2026-11-03T17:07:48.190658+00:00",
-  "https://www.franceinfo.fr/monde/usa/midterms-2018/reportage-je-ne-sais-pas-ce-qui-est-le-mieux-les-elections-de-mi-mandat-aux-etats-unis-scrutees-avec-inquietude-en-israel_8265398.html": "2026-11-03T17:07:48.190658+00:00",
-  "https://www.franceinfo.fr/sports/foot/jesus-de-miguel-joueur-du-club-espagnol-de-tenerife-est-decede-apres-un-choc-lors-d-une-rencontre_8265461.html": "2026-11-03T17:07:48.190658+00:00",
-  "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/coiffeur-cafe-eglise-ou-meme-iss-appeles-aux-urnes-pour-les-elections-de-mi-mandat-les-americains-peuvent-voter-pratiquement-partout_8244952.html": "2026-11-03T17:07:48.190658+00:00",
-  "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/vrai-ou-faux-le-crash-d-un-jet-prive-en-floride-suscite-rumeurs-et-theories-du-complot-en-pleines-elections-americaines_8244817.html": "2026-11-03T17:07:48.190658+00:00",
-  "https://www.franceinfo.fr/monde/espagne/en-espagne-le-campement-pour-le-logement-erige-sur-la-puerta-del-sol-a-madrid-a-ete-demantele-par-la-police_8265383.html": "2026-11-03T17:07:48.190658+00:00",
-  "https://www.franceinfo.fr/replay-radio/le-monde-et-vous/taxer-les-milliardaires-pour-financer-les-hopitaux-le-referendum-qui-divise-la-californie_8244769.html": "2026-11-03T17:07:48.190658+00:00",
-  "https://www.franceinfo.fr/replay-radio/ca-dit-quoi/podcast-jour-j-pour-les-midterms-on-attend-pour-allumer-le-chauffage-et-petition-contre-cnews-ca-dit-quoi-ce-3-novembre_8256478.html": "2026-11-03T17:07:48.190658+00:00"
+  "https://www.franceinfo.fr/monde/coree-du-nord/la-coree-du-nord-promet-une-riposte-plus-forte-face-a-la-politique-hostile-des-etats-unis_8266652.html": "2026-11-03T23:28:23.831037+00:00",
+  "https://www.franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/une-question-de-dignite-le-ministre-espagnol-des-transports-presente-sa-demission-apres-la-collision-meurtriere-entre-deux-trains_8266619.html": "2026-11-03T23:28:23.831037+00:00",
+  "https://www.franceinfo.fr/monde/usa/face-aux-data-centers-des-electeurs-de-donald-trump-prets-a-changer-de-camp_8266589.html": "2026-11-03T23:28:23.831037+00:00",
+  "https://www.franceinfo.fr/sports/foot/mort-de-jesus-de-miguel-l-espagne-et-le-monde-du-football-en-deuil-apres-la-disparition-brutale-du-joueur-de-tenerife-percute-en-plein-match_8266592.html": "2026-11-03T23:28:23.831037+00:00",
+  "https://www.franceinfo.fr/sports/sports-extremes/sur-un-fil-a-150-metres-du-vide_8266013.html": "2026-11-03T23:28:23.831037+00:00",
+  "https://www.franceinfo.fr/faits-divers/nepal-un-accident-entre-deux-helicopteres-fait-un-mort_8266556.html": "2026-11-03T23:28:23.831037+00:00",
+  "https://www.franceinfo.fr/monde/usa/midterms-2018/midterms-2026-coup-d-envoi-d-un-vote-crucial-aux-etats-unis_8266496.html": "2026-11-03T23:28:23.831037+00:00",
+  "https://www.franceinfo.fr/monde/europe/a-la-source-du-cuivre-un-metal-indispensable-prise-vole_8266133.html": "2026-11-03T23:28:23.831037+00:00",
+  "https://www.franceinfo.fr/monde/usa/midterms-2018/direct-midterms-2026-suivez-les-resultats-des-elections-de-mi-mandat-cruciales-pour-donald-trump-et-les-premieres-reactions_8265464.html": "2026-11-03T23:28:23.831037+00:00",
+  "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/elections-americaines-pour-ou-contre-donald-trump_8266526.html": "2026-11-03T23:28:23.831037+00:00",
+  "https://www.franceinfo.fr/monde/usa/midterms-2018/resultats-midterms-2026-donald-trump-va-t-il-perdre-le-controle-du-senat-ou-de-la-chambre-des-representants-suivez-le-decompte-des-sieges-en-direct_8237248.html": "2026-11-03T23:28:23.831037+00:00",
+  "https://www.franceinfo.fr/monde/ameriques/pour-quatre-couronnes-achetees-deux-offertes-visite-de-molaire-city-la-ville-mexicaine-qui-a-fait-du-soin-dentaire-a-moindre-cout-pour-les-americains-un-business_8266604.html": "2026-11-03T23:28:23.831037+00:00",
+  "https://www.franceinfo.fr/replay-radio/les-informes-de-france-info/quel-scenario-pour-donald-trump-en-cas-de-defaite-aux-midterms-les-informes-de-franceinfo-du-mardi-3-novembre-2026_8244823.html": "2026-11-03T11:00:00+00:00",
+  "https://www.franceinfo.fr/replay-radio/la-question-des-informes/en-iran-une-population-prise-en-etau-entre-la-repression-du-regime-et-la-menace-d-une-reprise-de-la-guerre_8244820.html": "2026-11-03T23:28:23.831037+00:00",
+  "https://www.franceinfo.fr/sante/maladie/un-enfant-meurt-de-la-rougeole-aux-etats-unis-une-premiere-depuis-30-ans-dans-l-etat-de-new-york_8266160.html": "2026-11-03T23:28:23.831037+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "Cadaqués, le village de la Costa Brava qui a séduit Salvador Dalí Sur la Costa Brava, Cadaqués attire les visiteurs avec ses maisons blanches, ses ruelles pavées et son patrimoine artistique marqué par Salvador Dalí. Mais derrière son succès touristique, ce village catalan préserve aussi ses traditions, entre oliveraies, cuisine mêlant terre et mer et pêche artisanale. Aujourd'hui 4:19 vidéo 4 minutes 19",
-   "link": "https://www.franceinfo.fr/decouverte/cadaques-le-village-de-la-costa-brava-qui-a-seduit-salvador-dali_8266157.html",
-   "summary": "Cadaqués, le village de la Costa Brava qui a séduit Salvador Dalí",
-   "image": "https://www.franceinfo.fr/pictures/W_yWr8LMR8jBl2hmCmDQz-6jpJc/155x0:1429x876/432x297/filters:format(jpg)/2026/11/03/6aea058557861669546752.png",
+   "title": "La Corée du Nord promet une \"riposte\" plus forte face à \"la politique hostile\" des États-Unis L'influente sœur du dirigeant Kim Jong-un a laissé entendre que Pyongyang voyait peu d'intérêt à reprendre la voie diplomatique avec les Etats-Unis. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/coree-du-nord/la-coree-du-nord-promet-une-riposte-plus-forte-face-a-la-politique-hostile-des-etats-unis_8266652.html",
+   "summary": "La Corée du Nord promet une \"riposte\" plus forte face à \"la politique hostile\" des États-Unis",
+   "image": "https://www.franceinfo.fr/pictures/Y-MemPAgfrvRgu9K0ZyUXQhLN3g/39x0:1024x677/432x297/filters:format(jpg)/2026/11/04/6aea6b5667abc755397203.jpg",
    "date": null,
-   "pubdate": "2026-11-03T17:07:48.190658+00:00"
+   "pubdate": "2026-11-03T23:28:23.831037+00:00"
   },
   {
-   "title": "2:54 vidéo 2 minutes 54 Dormir dans un parking, le cauchemar américain",
-   "link": "https://www.franceinfo.fr/monde/usa/midterms-2018/dormir-dans-un-parking-le-cauchemar-americain_8265725.html",
-   "summary": "Dormir dans un parking, le cauchemar américain",
-   "image": "https://www.franceinfo.fr/pictures/tvBsivxEHJ9l0kRdxOYE8tJZGdw/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/03/6ae9c24dbef26894370450.jpg",
-   "date": null,
-   "pubdate": "2026-11-03T17:07:48.190658+00:00"
-  },
-  {
-   "title": "Le roi du Royaume-Uni, Charles III, dit son \"horreur\" face à l'esclavage, une \"injustice monstrueuse\"",
-   "link": "https://www.franceinfo.fr/monde/royaume-uni/le-roi-du-royaume-uni-charles-iii-dit-son-horreur-face-a-l-esclavage-une-injustice-monstrueuse_8266079.html",
+   "title": "\"Une question de dignité\" : le ministre espagnol des Transports présente sa démission après la collision meurtrière entre deux trains",
+   "link": "https://www.franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/une-question-de-dignite-le-ministre-espagnol-des-transports-presente-sa-demission-apres-la-collision-meurtriere-entre-deux-trains_8266619.html",
    "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/xX9L0gwsPl8hXbxmpyb7jUoB9Cc/0x66:1024x642/432x243/filters:format(jpg)/2026/11/03/6aea5b4de7c9d898366243.jpg",
+   "date": null,
+   "pubdate": "2026-11-03T23:28:23.831037+00:00"
+  },
+  {
+   "title": "4:43 vidéo 4 minutes 43 Face aux data centers, des électeurs de Donald Trump prêts à changer de camp",
+   "link": "https://www.franceinfo.fr/monde/usa/face-aux-data-centers-des-electeurs-de-donald-trump-prets-a-changer-de-camp_8266589.html",
+   "summary": "Face aux data centers, des électeurs de Donald Trump prêts à changer de camp",
+   "image": "https://www.franceinfo.fr/pictures/-eRiAglJ70Q06DL6t2MxpPYy3Ns/13x0:1571x876/432x243/filters:format(jpg)/2026/11/03/6aea51db03775910765177.png",
+   "date": null,
+   "pubdate": "2026-11-03T23:28:23.831037+00:00"
+  },
+  {
+   "title": "1:48 vidéo 1 minute 48 Mort de Jesús de Miguel : l'Espagne et le monde du football en deuil après la disparition brutale du joueur de Tenerife, percuté en plein match",
+   "link": "https://www.franceinfo.fr/sports/foot/mort-de-jesus-de-miguel-l-espagne-et-le-monde-du-football-en-deuil-apres-la-disparition-brutale-du-joueur-de-tenerife-percute-en-plein-match_8266592.html",
+   "summary": "Mort de Jesús de Miguel : l'Espagne et le monde du football en deuil après la disparition brutale du joueur de Tenerife, percuté en plein match",
+   "image": "https://www.franceinfo.fr/pictures/Imh4ZSEsQG0W4v5lgvmpZK8KBIc/0x24:1100x643/432x243/filters:format(jpg)/2026/11/03/6aea500b0cccb810395747.jpg",
+   "date": null,
+   "pubdate": "2026-11-03T23:28:23.831037+00:00"
+  },
+  {
+   "title": "0:57 vidéo 57 secondes Sur un fil à 150 mètres du vide",
+   "link": "https://www.franceinfo.fr/sports/sports-extremes/sur-un-fil-a-150-metres-du-vide_8266013.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/3_DkfDpteNX6f9iDEmrr3ccbHoc/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/03/6ae9f2492f08c637688894.png",
+   "date": null,
+   "pubdate": "2026-11-03T23:28:23.831037+00:00"
+  },
+  {
+   "title": "1:45 vidéo 1 minute 45 Népal : un accident entre deux hélicoptères fait un mort",
+   "link": "https://www.franceinfo.fr/faits-divers/nepal-un-accident-entre-deux-helicopteres-fait-un-mort_8266556.html",
+   "summary": "Népal : un accident entre deux hélicoptères fait un mort",
+   "image": "https://www.franceinfo.fr/pictures/_Hwzg87zmkxLZRryLc4S6ogMsKU/13x0:1571x876/432x243/filters:format(jpg)/2026/11/03/6aea49705dab8223557145.png",
+   "date": null,
+   "pubdate": "2026-11-03T23:28:23.831037+00:00"
+  },
+  {
+   "title": "2:31 vidéo 2 minutes 31 Midterms 2026 : coup d'envoi d'un vote crucial aux États-Unis",
+   "link": "https://www.franceinfo.fr/monde/usa/midterms-2018/midterms-2026-coup-d-envoi-d-un-vote-crucial-aux-etats-unis_8266496.html",
+   "summary": "Midterms 2026 : coup d'envoi d'un vote crucial aux États-Unis",
+   "image": "https://www.franceinfo.fr/pictures/vRT0clfp1VcZJd7r33aDzJpUztw/0x23:1522x879/432x243/filters:format(jpg)/2026/11/03/6aea37dc6d694722081017.jpg",
+   "date": null,
+   "pubdate": "2026-11-03T23:28:23.831037+00:00"
+  },
+  {
+   "title": "1:02 vidéo 1 minute 2 À la source du cuivre, un métal indispensable, prisé, volé",
+   "link": "https://www.franceinfo.fr/monde/europe/a-la-source-du-cuivre-un-metal-indispensable-prise-vole_8266133.html",
+   "summary": "À la source du cuivre, un métal indispensable, prisé, volé",
+   "image": "https://www.franceinfo.fr/pictures/jCh8V6kOWj2qCJbzD3QGIOoR4ts/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/03/6ae9ff5d7da29604985379.png",
+   "date": null,
+   "pubdate": "2026-11-03T23:28:23.831037+00:00"
+  },
+  {
+   "title": "• Direct • Direct Midterms 2026 : les bureaux de vote commencent à fermer aux Etats-Unis, suivez avec nous la nuit américaine consacrée à ces élections cruciales pour Donald Trump",
+   "link": "https://www.franceinfo.fr/monde/usa/midterms-2018/direct-midterms-2026-suivez-les-resultats-des-elections-de-mi-mandat-cruciales-pour-donald-trump-et-les-premieres-reactions_8265464.html",
+   "summary": "Midterms 2026 : les bureaux de vote commencent à fermer aux Etats-Unis, suivez avec nous la nuit américaine consacrée à ces élections cruciales pour Donald Trump",
+   "image": "https://www.franceinfo.fr/pictures/xe-afj49q5tHnDfu4cgyZEeithQ/0x0:1024x576/432x243/filters:format(jpg)/2026/11/03/6aea60cc5568a333288127.jpg",
+   "date": null,
+   "pubdate": "2026-11-03T23:28:23.831037+00:00"
+  },
+  {
+   "title": "1:59 vidéo 1 minute 59 Élections américaines, pour ou contre Donald Trump",
+   "link": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/elections-americaines-pour-ou-contre-donald-trump_8266526.html",
+   "summary": "Élections américaines, pour ou contre Donald Trump",
+   "image": "https://www.franceinfo.fr/pictures/MJ0K-GuxlWmg0IW7RaFowiaQdfs/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/03/6aea3c17d8800068476684.jpg",
+   "date": null,
+   "pubdate": "2026-11-03T23:28:23.831037+00:00"
+  },
+  {
+   "title": "1:00 article 1 minute RESULTATS. Midterms 2026 : Donald Trump va-t-il perdre le contrôle du Sénat ou de la Chambre des représentants ? Suivez le décompte des sièges en direct",
+   "link": "https://www.franceinfo.fr/monde/usa/midterms-2018/resultats-midterms-2026-donald-trump-va-t-il-perdre-le-controle-du-senat-ou-de-la-chambre-des-representants-suivez-le-decompte-des-sieges-en-direct_8237248.html",
+   "summary": "RESULTATS. Midterms 2026 : Donald Trump va-t-il perdre le contrôle du Sénat ou de la Chambre des représentants ? Suivez le décompte des sièges en direct",
+   "image": "https://www.franceinfo.fr/pictures/bCGCDQttXV7KeqlaEj2Yu8hI7QU/456x0:2616x2160/100x100/filters:format(jpg)/2026/10/23/6adb60c823cda292054517.png",
+   "date": null,
+   "pubdate": "2026-11-03T23:28:23.831037+00:00"
+  },
+  {
+   "title": "4:24 vidéo 4 minutes 24 \"Pour quatre couronnes achetées, deux offertes !\" : visite de \"Molaire City\", la ville mexicaine qui a fait du soin dentaire à moindre coût pour les Américains un business",
+   "link": "https://www.franceinfo.fr/monde/ameriques/pour-quatre-couronnes-achetees-deux-offertes-visite-de-molaire-city-la-ville-mexicaine-qui-a-fait-du-soin-dentaire-a-moindre-cout-pour-les-americains-un-business_8266604.html",
+   "summary": "\"Pour quatre couronnes achetées, deux offertes !\" : visite de \"Molaire City\", la ville mexicaine qui a fait du soin dentaire à moindre coût pour les Américains un business",
+   "image": "https://www.franceinfo.fr/pictures/zg_uforkJdXmprEOYB0VURAKLv4/371x0:997x626/100x100/filters:format(jpg)/2026/11/03/6aea57b698e00972531933.jpg",
+   "date": null,
+   "pubdate": "2026-11-03T23:28:23.831037+00:00"
+  },
+  {
+   "title": "8:26 audio 8 minutes 26 En Iran, une population \"prise en étau\" entre la répression du régime et la menace d'une reprise de la guerre La population iranienne est \"à la fois contre la guerre et contre le régime\", témoigne Azadeh Kian, sociologue franco-iranienne, invitée de franceinfo. Alors que l'inflation et la répression pèsent lourdement sur le quotidien des habitants, elle décrit une société profondément inquiète, mais traversée par une immense colère.",
+   "link": "https://www.franceinfo.fr/replay-radio/la-question-des-informes/en-iran-une-population-prise-en-etau-entre-la-repression-du-regime-et-la-menace-d-une-reprise-de-la-guerre_8244820.html",
+   "summary": "En Iran, une population \"prise en étau\" entre la répression du régime et la menace d'une reprise de la guerre",
+   "image": "https://www.franceinfo.fr/pictures/q3toTAogLv7aUprd1KsBq3PdmvA/0x153:8175x4751/432x243/filters:format(jpg)/2026/11/03/6aea1c6fbc75a698329986.jpg",
+   "date": null,
+   "pubdate": "2026-11-03T23:28:23.831037+00:00"
+  },
+  {
+   "title": "Un enfant meurt de la rougeole aux États-Unis, une première depuis 30 ans dans l'Etat de New York C'est une première depuis 30 ans dans l'Etat de New York : un enfant est mort de la rougeole. Alors que la rougeole avait disparu du territoire américain au début des années 2000, elle fait son retour, favorisée par le recul de la vaccination et la défiance envers les vaccins.",
+   "link": "https://www.franceinfo.fr/sante/maladie/un-enfant-meurt-de-la-rougeole-aux-etats-unis-une-premiere-depuis-30-ans-dans-l-etat-de-new-york_8266160.html",
+   "summary": "Un enfant meurt de la rougeole aux États-Unis, une première depuis 30 ans dans l'Etat de New York",
+   "image": "https://www.franceinfo.fr/pictures/xhJKZQx2k_p-KHZJT6GwdL-MeVw/0x433:6000x3808/432x243/filters:format(jpg)/2026/11/03/6aea0daf7e73f078403473.jpg",
+   "date": null,
+   "pubdate": "2026-11-03T23:28:23.831037+00:00"
+  },
+  {
+   "title": "Le roi du Royaume-Uni, Charles III, dit son \"horreur\" face à l'esclavage, une \"injustice monstrueuse\" Le souverain britannique s'est exprimé mardi à l'ouverture du sommet des dirigeants des pays du Commonwealth, au terme d'une tournée de plusieurs jours dans les Caraïbes.",
+   "link": "https://www.franceinfo.fr/monde/royaume-uni/le-roi-du-royaume-uni-charles-iii-dit-son-horreur-face-a-l-esclavage-une-injustice-monstrueuse_8266079.html",
+   "summary": "Le roi du Royaume-Uni, Charles III, dit son \"horreur\" face à l'esclavage, une \"injustice monstrueuse\"",
    "image": "https://www.franceinfo.fr/pictures/Pcr9ORCVgjTKnIKdS8tivZjUjr0/0x104:8640x4964/432x243/filters:format(jpg)/2026/11/03/6ae9faa8cc0d2145583791.jpg",
    "date": null,
    "pubdate": "2026-11-03T17:07:48.190658+00:00"
   },
   {
-   "title": "1:21 vidéo 1 minute 21 C'est quoi les \"midterms\" aux États-Unis et quels sont les enjeux de ces élections ?",
-   "link": "https://www.franceinfo.fr/l-actu-pour-les-jeunes/c-est-quoi-les-midterms-aux-etats-unis-et-quels-sont-les-enjeux-de-ces-elections_8266130.html",
-   "summary": "C'est quoi les \"midterms\" aux États-Unis et quels sont les enjeux de ces élections ?",
-   "image": "https://www.franceinfo.fr/pictures/TOhCqqUsXJPK5USb-lXZzxzrX-A/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/03/6ae9ff5e857d9609373376.jpg",
-   "date": null,
-   "pubdate": "2026-11-03T17:07:48.190658+00:00"
-  },
-  {
-   "title": "2:03 vidéo 2 minutes 3 Après 28 ans à traverser le monde à pied, Karl Bushby est arrivé au bout de son incroyable périple",
-   "link": "https://www.franceinfo.fr/monde/apres-28-ans-a-traverser-le-monde-a-pied-karl-bushby-est-arrive-au-bout-de-son-incroyable-periple_8266064.html",
-   "summary": "Après 28 ans à traverser le monde à pied, Karl Bushby est arrivé au bout de son incroyable périple",
-   "image": "https://www.franceinfo.fr/pictures/KDGBO1IYdxpgH_Xt0gNvBhO67X0/13x0:1571x876/432x243/filters:format(jpg)/2026/11/03/6ae9f9c6e7ad4473830549.png",
-   "date": null,
-   "pubdate": "2026-11-03T17:07:48.190658+00:00"
-  },
-  {
-   "title": "1:16 vidéo 1 minute 16 Collision mortelle de deux hélicoptères au Népal : \"Il y a eu un problème de communication\", affirme un guide local, après qu'un touriste étranger est mort dans l'accident",
-   "link": "https://www.franceinfo.fr/faits-divers/accident/collision-mortelle-de-deux-helicopteres-au-nepal-il-y-a-eu-un-probleme-de-communication-affirme-un-guide-local-apres-qu-un-touriste-etranger-est-mort-dans-l-accident_8266055.html",
-   "summary": "Collision mortelle de deux hélicoptères au Népal : \"Il y a eu un problème de communication\", affirme un guide local, après qu'un touriste étranger est mort dans l'accident",
-   "image": "https://www.franceinfo.fr/pictures/7gXGdaTBadAv-c73UYfLj-ry4xM/0x43:1116x670/432x243/filters:format(jpg)/2026/11/03/6ae9f8da5066d676874328.jpg",
-   "date": null,
-   "pubdate": "2026-11-03T17:07:48.190658+00:00"
-  },
-  {
-   "title": "Donald Trump annonce mettre fin à une aide annuelle de 3,8 milliards de dollars pour la sécurité d'Israël",
+   "title": "Donald Trump annonce mettre fin à une aide annuelle de 3,8 milliards de dollars pour la sécurité d'Israël Il a également précisé que le Premier ministre israélien, Benyamin Nétanyahou, était \"d'accord\" avec la fin de cette assistance courant jusqu'en 2028.",
    "link": "https://www.franceinfo.fr/monde/usa/donald-trump-annonce-mettre-fin-a-une-aide-annuelle-de-3-8-milliards-de-dollars-pour-la-securite-d-israel_8266049.html",
-   "summary": "",
+   "summary": "Donald Trump annonce mettre fin à une aide annuelle de 3,8 milliards de dollars pour la sécurité d'Israël",
    "image": "https://www.franceinfo.fr/pictures/dg_CCHioG3XISNCwNBSoxsSv70A/0x57:4822x2770/432x243/filters:format(jpg)/2026/11/03/6ae9f794dbeab337375293.jpg",
    "date": null,
    "pubdate": "2026-11-03T17:07:48.190658+00:00"
   },
   {
-   "title": "1:47 vidéo 1 minute 47 \"L'ennemi a largué des petites bombes pour attirer les gens sur place, avant de les viser\" : 29 morts après une pluie de frappes dans le sud-est de l'Ukraine",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-ennemi-a-largue-des-petites-bombes-pour-attirer-les-gens-sur-place-avant-de-les-viser-29-morts-apres-une-pluie-de-frappes-dans-le-sud-est-de-l-ukraine_8265974.html",
-   "summary": "\"L'ennemi a largué des petites bombes pour attirer les gens sur place, avant de les viser\" : 29 morts après une pluie de frappes dans le sud-est de l'Ukraine",
-   "image": "https://www.franceinfo.fr/pictures/MzkTMkYR77d3nvaWtVgApMG13ts/0x111:867x598/432x243/filters:format(jpg)/2026/11/03/6ae9ec07378d2302896375.jpg",
-   "date": null,
-   "pubdate": "2026-11-03T17:07:48.190658+00:00"
-  },
-  {
-   "title": "Dans le sillage des manifestations européennes, une colère sociale qui gronde aussi en Suisse ?",
+   "title": "Dans le sillage des manifestations européennes, une colère sociale qui gronde aussi en Suisse ? En écho aux mouvements de contestation français et européens, des manifestations ont dégénéré ce week-end à Zurich et à Bâle. Les observateurs sont toutefois divisés sur la composante sociale des événements survenus en Suisse, et sur les parallèles pouvant être dressés avec les pays voisins, comme le raconte le média public helvète swissinfo.",
    "link": "https://www.franceinfo.fr/monde/europe/dans-le-sillage-des-manifestations-europeennes-une-colere-sociale-qui-gronde-aussi-en-suisse_8265935.html",
-   "summary": "",
+   "summary": "Dans le sillage des manifestations européennes, une colère sociale qui gronde aussi en Suisse ?",
    "image": "https://www.franceinfo.fr/pictures/1hKXgJhWsr7G1i2-rPiSwbWksPU/0x407:7833x4814/432x243/filters:format(jpg)/2026/11/03/6ae9e6f3f0ca9957312418.jpg",
-   "date": null,
-   "pubdate": "2026-11-03T17:07:48.190658+00:00"
-  },
-  {
-   "title": "1:46 vidéo 1 minute 46 29 morts après des frappes russes dans le sud-est de l'Ukraine",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/29-morts-apres-des-frappes-russes-dans-le-sud-est-de-l-ukraine_8265914.html",
-   "summary": "29 morts après des frappes russes dans le sud-est de l'Ukraine",
-   "image": "https://www.franceinfo.fr/pictures/X3vPegl3ddyZNHvAqtVBEYAGToM/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/03/6ae9e0bf74227731743632.png",
    "date": null,
    "pubdate": "2026-11-03T17:07:48.190658+00:00"
   },
@@ -139,100 +189,12 @@
    "pubdate": "2026-11-03T17:07:48.190658+00:00"
   },
   {
-   "title": "4:25 audio 4 minutes 25 La lente progression du tunnel ferroviaire entre Lyon et Turin Projet contesté, le chantier pharaonique, un temps au ralenti, a repris son rythme de croisière. La mise en service est annoncée pour 2033.",
-   "link": "https://www.franceinfo.fr/replay-radio/le-tour-de-la-question/la-lente-progression-du-tunnel-ferroviaire-entre-lyon-et-turin_8265293.html",
-   "summary": "La lente progression du tunnel ferroviaire entre Lyon et Turin",
-   "image": "https://www.franceinfo.fr/pictures/w4oOZBIiKxioWpAZH-e0WglN2bc/0x53:1024x629/432x243/filters:format(jpg)/2026/11/03/6ae9d2b0db519264049554.jpg",
-   "date": null,
-   "pubdate": "2026-11-03T17:07:48.190658+00:00"
-  },
-  {
-   "title": "• Direct Midterms 2026 : les bureaux de vote ont ouvert dans de nombreux Etats américains de la côte est Les électeurs américains sont appelés à renouveler l'intégralité de la Chambre des représentants ainsi qu'un tiers du Sénat pour ces élections de mi-mandat. Les démocrates espèrent une \"vague bleue\" afin de limiter le champ d'action du président républicain Donald Trump.",
-   "link": "https://www.franceinfo.fr/monde/usa/midterms-2018/direct-midterms-2026-suivez-la-journee-de-vote-pour-les-elections-americaines-de-mi-mandat-cruciales-pour-donald-trump_8265446.html",
-   "summary": "Midterms 2026 : les bureaux de vote ont ouvert dans de nombreux Etats américains de la côte est",
-   "image": "https://www.franceinfo.fr/pictures/9RoJ_etpIKdr-5qtp6dk9X4Q7es/0x320:8273x4973/432x243/filters:format(jpg)/2026/11/03/6ae9c9b3a865b068270221.jpg",
-   "date": null,
-   "pubdate": "2026-11-03T17:07:48.190658+00:00"
-  },
-  {
-   "title": "Des juges français enquêtent après une plainte pour crime de guerre visant l'armée israélienne au Liban Cela \"marque une nouvelle étape dans notre combat contre l'impunité et pour rendre justice aux morts\", a réagi le plaignant, un franco-libanais dont les deux parents sont morts dans un bombardement israélien à Beyrouth en 2024.",
-   "link": "https://www.franceinfo.fr/monde/proche-orient/liban/des-juges-francais-enquetent-apres-une-plainte-pour-crime-de-guerre-visant-l-armee-israelienne-au-liban_8265467.html",
-   "summary": "Des juges français enquêtent après une plainte pour crime de guerre visant l'armée israélienne au Liban",
-   "image": "https://www.franceinfo.fr/pictures/oPC5j3Vb6zwJuvmHRhjZ2UKQSNs/0x80:1024x656/432x243/filters:format(jpg)/2026/11/03/6ae9b1e1616eb906768133.jpg",
-   "date": null,
-   "pubdate": "2026-11-03T17:07:48.190658+00:00"
-  },
-  {
-   "title": "2:37 audio 2 minutes 37 Lait cru, chemtrails et antivax : qui sont les MAHA moms, ces influenceuses qui s’invitent dans les midterms ? Aux États-Unis, des mères influenceuses vantent sur Instagram le fait-maison, le lait cru et le suif de bœuf. Derrière les jolies vidéos, un discours complotiste et antivax, porté par le ministre de la Santé, Robert Kennedy Junior. Courtisées par les deux camps, elles s’invitent dans les élections de mi-mandat.",
-   "link": "https://www.franceinfo.fr/replay-radio/l-il-de-constance/lait-cru-chemtrails-et-antivax-qui-sont-les-maha-moms-ces-influenceuses-qui-s-invitent-dans-les-midterms_8244895.html",
-   "summary": "Lait cru, chemtrails et antivax : qui sont les MAHA moms, ces influenceuses qui s’invitent dans les midterms ?",
-   "image": "https://www.franceinfo.fr/pictures/E3_GdzHuUuZMlvRWEKuIo9BMdts/0x66:1024x641/432x243/filters:format(jpg)/2024/01/22/gettyimages-1663576752-65ae4827d267d484740572.jpg",
-   "date": null,
-   "pubdate": "2026-11-03T17:07:48.190658+00:00"
-  },
-  {
-   "title": "Les Etats-Unis annoncent des \"négociations de travail\" entre la Russie et l'Ukraine les 10 et 11 novembre à Abou Dhabi Il s'agirait de la première rencontre de ce type depuis février. Les perspectives d'avancer vers la paix se sont toutefois assombries lundi, après une attaque russe qui a fait au moins 29 morts dans la région ukrainienne de Zaporijjia.",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/les-etats-unis-annoncent-des-negociations-de-travail-entre-la-russie-et-l-ukraine-les-10-et-11-novembre-a-abou-dhabi_8265485.html",
-   "summary": "Les Etats-Unis annoncent des \"négociations de travail\" entre la Russie et l'Ukraine les 10 et 11 novembre à Abou Dhabi",
-   "image": "https://www.franceinfo.fr/pictures/kkvigLCu1RG-IyFRGjIfPZGjbp0/0x43:1024x619/432x243/filters:format(jpg)/2026/11/03/6ae9aa61d5217777487681.jpg",
-   "date": null,
-   "pubdate": "2026-11-03T17:07:48.190658+00:00"
-  },
-  {
-   "title": ": Reportage \"Je ne sais pas ce qui est le mieux\" : les élections de mi-mandat aux Etats-Unis scrutées avec inquiétude en Israël Des Israéliens craignent de perdre un soutien existentiel, si Donald Trump perd les élections de mi-mandat. Certains s'inquiètent de la montée chez les démocrates américains \"d'une gauche radicale\" considérée comme hostile à Israël.",
-   "link": "https://www.franceinfo.fr/monde/usa/midterms-2018/reportage-je-ne-sais-pas-ce-qui-est-le-mieux-les-elections-de-mi-mandat-aux-etats-unis-scrutees-avec-inquietude-en-israel_8265398.html",
-   "summary": "\"Je ne sais pas ce qui est le mieux\" : les élections de mi-mandat aux Etats-Unis scrutées avec inquiétude en Israël",
-   "image": "https://www.franceinfo.fr/pictures/XOUG5IuUjMzQblWNujDuZfnsVZ8/0x186:5808x3453/432x243/filters:format(jpg)/2026/11/03/6ae9a5e5d3e0b908303805.jpg",
-   "date": null,
-   "pubdate": "2026-11-03T17:07:48.190658+00:00"
-  },
-  {
-   "title": "Jesus de Miguel, joueur du club espagnol de Tenerife, est mort après un choc lors d'une rencontre de deuxième division L'attaquant de 30 ans avait été percuté par le gardien de la formation du FC Andorre, lundi en deuxième division espagnole, et avait vu son état se dégrader dans les heures suivantes.",
-   "link": "https://www.franceinfo.fr/sports/foot/jesus-de-miguel-joueur-du-club-espagnol-de-tenerife-est-decede-apres-un-choc-lors-d-une-rencontre_8265461.html",
-   "summary": "Jesus de Miguel, joueur du club espagnol de Tenerife, est mort après un choc lors d'une rencontre de deuxième division",
-   "image": "https://www.franceinfo.fr/pictures/LPSeh2yvjfW3jLrj6VytD-xe2Z8/0x0:1694x952/432x243/filters:format(jpg)/2026/11/03/6ae9f0438eebb318812172.jpg",
-   "date": null,
-   "pubdate": "2026-11-03T17:07:48.190658+00:00"
-  },
-  {
-   "title": "2:25 audio 2 minutes 25 Coiffeur, café, église ou même ISS... Appelés aux urnes pour les élections de mi-mandat, les Américains peuvent voter pratiquement partout Plus de 200 millions d’électeurs américains sont appelés mardi à choisir leurs nouveaux représentants et une partie de leurs sénateurs. Et les bureaux de vote ne sont pas installés seulement dans les écoles et les mairies. On les trouve parfois dans des lieux plutôt insolites.",
-   "link": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/coiffeur-cafe-eglise-ou-meme-iss-appeles-aux-urnes-pour-les-elections-de-mi-mandat-les-americains-peuvent-voter-pratiquement-partout_8244952.html",
-   "summary": "Coiffeur, café, église ou même ISS... Appelés aux urnes pour les élections de mi-mandat, les Américains peuvent voter pratiquement partout",
-   "image": "https://www.franceinfo.fr/pictures/5y2PNwEA5HYcn3aFP-xEF0WEol4/0x142:2738x1682/432x243/filters:format(jpg)/2026/11/03/6ae999c6f0c1a497703640.jpg",
-   "date": null,
-   "pubdate": "2026-11-03T17:07:48.190658+00:00"
-  },
-  {
-   "title": ": Vrai ou faux 2:03 audio 2 minutes 3 Le crash d'un jet privé en Floride suscite rumeurs et théories du complot, en pleines élections américaines Un jet privé est tombé à pic dimanche à quelques kilomètres de la résidence de Mar-a-Lago de Donald Trump. Les deux membres d'équipage et les sept passagers sont morts. Une enquête est ouverte.",
-   "link": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/vrai-ou-faux-le-crash-d-un-jet-prive-en-floride-suscite-rumeurs-et-theories-du-complot-en-pleines-elections-americaines_8244817.html",
-   "summary": "Le crash d'un jet privé en Floride suscite rumeurs et théories du complot, en pleines élections américaines",
-   "image": "https://www.franceinfo.fr/pictures/w8nDsljxrXZD6M3cRE3LOJAgMT8/0x55:1064x654/432x243/filters:format(jpg)/2026/11/03/6ae99d3a9152b075161492.jpg",
-   "date": null,
-   "pubdate": "2026-11-03T17:07:48.190658+00:00"
-  },
-  {
-   "title": "En Espagne, le campement pour le droit au logement érigé sur la Puerta del Sol à Madrid a été démantelé par la police La crise du logement a resurgi dans le débat public fin septembre après l'expulsion de Maricarmen Abascal, une retraitée madrilène de 87 ans, décédée quelques jours plus tard.",
-   "link": "https://www.franceinfo.fr/monde/espagne/en-espagne-le-campement-pour-le-logement-erige-sur-la-puerta-del-sol-a-madrid-a-ete-demantele-par-la-police_8265383.html",
-   "summary": "En Espagne, le campement pour le droit au logement érigé sur la Puerta del Sol à Madrid a été démantelé par la police",
-   "image": "https://www.franceinfo.fr/pictures/K7qPqHfmF2jo4if9zxEa2nXOuOQ/0x0:1024x576/432x243/filters:format(jpg)/2026/11/03/6ae98f69566aa141806613.jpg",
-   "date": null,
-   "pubdate": "2026-11-03T17:07:48.190658+00:00"
-  },
-  {
-   "title": "2:41 audio 2 minutes 41 Taxer les milliardaires pour financer les hôpitaux : le référendum qui divise la Californie À l'occasion des élections américaines de mi-mandat, les Californiens doivent également se prononcer sur un référendum controversé. La proposition 40 prévoit de taxer exceptionnellement les milliardaires à hauteur de 5% de leur patrimoine pour financer notamment les hôpitaux. Une mesure qui suscite une mobilisation financière considérable dans la Silicon Valley.",
-   "link": "https://www.franceinfo.fr/replay-radio/le-monde-et-vous/taxer-les-milliardaires-pour-financer-les-hopitaux-le-referendum-qui-divise-la-californie_8244769.html",
-   "summary": "Taxer les milliardaires pour financer les hôpitaux : le référendum qui divise la Californie",
-   "image": "https://www.franceinfo.fr/pictures/hHEyYfYVKebYW5SHU7ebdmQ5rbc/0x468:5996x3838/432x243/filters:format(jpg)/2017/03/24/phpD6YSuc_1.jpg",
-   "date": null,
-   "pubdate": "2026-11-03T17:07:48.190658+00:00"
-  },
-  {
-   "title": ": Podcast 5:51 audio 5 minutes 51 Jour-J pour les midterms, on attend pour allumer le chauffage et pétition contre CNews : ça dit quoi ce 3 novembre ? Ce mardi 3 novembre, les Américains sont appelés à voter pour renouveler le Congrès, un Français sur 3 a du mal à payer certaines factures d'énergie et une pétition pour interdire CNews a dépassé les 500 000 signatures.",
-   "link": "https://www.franceinfo.fr/replay-radio/ca-dit-quoi/podcast-jour-j-pour-les-midterms-on-attend-pour-allumer-le-chauffage-et-petition-contre-cnews-ca-dit-quoi-ce-3-novembre_8256478.html",
-   "summary": "Jour-J pour les midterms, on attend pour allumer le chauffage et pétition contre CNews : ça dit quoi ce 3 novembre ?",
-   "image": "https://www.franceinfo.fr/pictures/EJ-55K9NMaCbLo7cTFyVOSr8dps/0x0:1024x576/432x243/filters:format(jpg)/2026/10/26/6adfd1346b0ea105390665.jpg",
-   "date": null,
-   "pubdate": "2026-11-03T17:07:48.190658+00:00"
+   "title": "55:16 audio 55 minutes 16 Quel scénario pour Donald Trump en cas de défaite aux midterms ?...Les informés de franceinfo du mardi 3 novembre 2026 Tous les soirs, les informés débattent de l'actualité, cette semaine autour de Hadrien Bect.",
+   "link": "https://www.franceinfo.fr/replay-radio/les-informes-de-france-info/quel-scenario-pour-donald-trump-en-cas-de-defaite-aux-midterms-les-informes-de-franceinfo-du-mardi-3-novembre-2026_8244823.html",
+   "summary": "Quel scénario pour Donald Trump en cas de défaite aux midterms ?...Les informés de franceinfo du mardi 3 novembre 2026",
+   "image": "https://www.franceinfo.fr/pictures/IiirTeaA_W9WjpMU3kfyzX79C2k/212x68:1067x549/432x243/filters:format(jpg)/2026/11/03/6aea32aecfefb580914052.png",
+   "date": "2026-11-03T11:00:00+00:00",
+   "pubdate": "2026-11-03T11:00:00+00:00"
   },
   {
    "title": ": Reportage 5:03 audio 5 minutes 3 : Reportage \"C'est très difficile de survivre\" : aux États-Unis, le coût de la vie pousse toujours plus de familles vers les banques alimentaires",
@@ -249,22 +211,6 @@
    "image": "https://www.franceinfo.fr/pictures/WnsBOz9ThaiBV9qlki1O4Sf1SxU/840x0:3000x2160/100x100/filters:format(jpg)/2026/11/01/6ae72d62c3ad1367602766.jpg",
    "date": null,
    "pubdate": "2026-11-02T11:20:49.905299+00:00"
-  },
-  {
-   "title": ": Reportage 7:00 article 7 minutes : Reportage \"Je ne retournerai pas là-bas\" : à Amsterdam, ces Américains bâtissent une nouvelle vie au plus loin du trumpisme",
-   "link": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/reportage-je-ne-retournerai-pas-la-bas-a-amsterdam-ces-americains-batissent-une-nouvelle-vie-au-plus-loin-du-trumpisme_8246968.html",
-   "summary": "\"Je ne retournerai pas là-bas\" : à Amsterdam, ces Américains bâtissent une nouvelle vie au plus loin du trumpisme",
-   "image": "https://www.franceinfo.fr/pictures/g_qVPTI6ZcCMZzMU49433jn0-ak/501x67:3095x2660/100x100/filters:format(jpg)/2026/10/21/6ad8912bee5d2032619534.jpg",
-   "date": null,
-   "pubdate": "2026-11-01T13:38:00.121357+00:00"
-  },
-  {
-   "title": "4:30 audio 4 minutes 30 \"Je m'inquiète de ce que les producteurs vont faire de mon image\" : en Chine, les acteurs sont de plus en plus remplacés par des IA",
-   "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/je-m-inquiete-de-ce-que-les-producteurs-vont-faire-de-mon-image-en-chine-les-acteurs-sont-de-plus-en-plus-remplaces-par-des-ia_8241151.html",
-   "summary": "\"Je m'inquiète de ce que les producteurs vont faire de mon image\" : en Chine, les acteurs sont de plus en plus remplacés par des IA",
-   "image": "https://www.franceinfo.fr/pictures/WgBKLJKGOuRyCuMddn2oHDgHeVI/159x324:1194x1359/100x100/filters:format(jpg)/2026/10/30/6ae4ea7185f6f625259026.jpg",
-   "date": null,
-   "pubdate": "2026-10-31T12:42:41.440453+00:00"
   }
  ]
 }
