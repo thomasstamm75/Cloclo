@@ -1,118 +1,250 @@
 {
- "etag": "\"8219b004e2bb0f60bfc60c2bd7198ba2-gzip\"",
+ "etag": "\"7c0ba711d9c38b5fb93cf526670cd964-gzip\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-j-essaie-de-voter-pour-la-meilleure-personne-dans-le-maine-des-americains-encore-indecis-a-la-veille-des-elections-de-mi-mandat_8243356.html": "2026-11-02T11:20:49.905299+00:00",
-  "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-c-est-tres-difficile-de-survivre-aux-etats-unis-le-cout-de-la-vie-pousse-toujours-plus-de-familles-vers-les-banques-alimentaires_8244880.html": "2026-11-03T06:55:17.256949+00:00",
-  "https://www.franceinfo.fr/monde/coree-du-nord/la-coree-du-nord-promet-une-riposte-plus-forte-face-a-la-politique-hostile-des-etats-unis_8266652.html": "2026-11-03T23:28:23.831037+00:00",
-  "https://www.franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/une-question-de-dignite-le-ministre-espagnol-des-transports-presente-sa-demission-apres-la-collision-meurtriere-entre-deux-trains_8266619.html": "2026-11-03T23:28:23.831037+00:00",
-  "https://www.franceinfo.fr/monde/usa/midterms-2018/direct-midterms-2026-suivez-les-resultats-des-elections-de-mi-mandat-cruciales-pour-donald-trump-et-les-premieres-reactions_8265464.html": "2026-11-03T23:28:23.831037+00:00",
-  "https://www.franceinfo.fr/monde/usa/midterms-2018/resultats-midterms-2026-donald-trump-va-t-il-perdre-le-controle-du-senat-ou-de-la-chambre-des-representants-suivez-le-decompte-des-sieges-en-direct_8237248.html": "2026-11-03T23:28:23.831037+00:00",
-  "https://www.franceinfo.fr/monde/ameriques/pour-quatre-couronnes-achetees-deux-offertes-visite-de-molaire-city-la-ville-mexicaine-qui-a-fait-du-soin-dentaire-a-moindre-cout-pour-les-americains-un-business_8266604.html": "2026-11-03T23:28:23.831037+00:00",
-  "https://www.franceinfo.fr/replay-radio/les-informes-de-france-info/quel-scenario-pour-donald-trump-en-cas-de-defaite-aux-midterms-les-informes-de-franceinfo-du-mardi-3-novembre-2026_8244823.html": "2026-11-03T11:00:00+00:00",
-  "https://www.franceinfo.fr/replay-radio/la-question-des-informes/en-iran-une-population-prise-en-etau-entre-la-repression-du-regime-et-la-menace-d-une-reprise-de-la-guerre_8244820.html": "2026-11-03T23:28:23.831037+00:00",
-  "https://www.franceinfo.fr/sante/maladie/un-enfant-meurt-de-la-rougeole-aux-etats-unis-une-premiere-depuis-30-ans-dans-l-etat-de-new-york_8266160.html": "2026-11-03T23:28:23.831037+00:00",
-  "https://www.franceinfo.fr/monde/usa/midterms-2018/reportage-ce-soir-je-suis-bluffe-les-democrates-du-texas-fetent-une-victoire-historique-dans-un-bastion-republicain-lors-de-midterms-2026_8267141.html": "2026-11-04T06:36:03.451424+00:00",
-  "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/la-carte-joker-de-donald-trump-a-l-international-son-epouse-melania_8246455.html": "2026-11-04T06:36:03.451424+00:00",
-  "https://www.franceinfo.fr/monde/usa/midterms-2018/midterms-les-artistes-ont-choisi-leur-camp_8267222.html": "2026-11-04T06:36:03.451424+00:00",
-  "https://www.franceinfo.fr/monde/usa/midterms-2018/midterms-majorite-absolue-pour-les-democrates-au-senat_8267219.html": "2026-11-04T06:36:03.451424+00:00",
-  "https://www.franceinfo.fr/monde/usa/midterms-2018/victoire-democrate-au-senat-donald-trump-promet-d-accepter-les-resultats-les-premiers-enseignements-des-midterms-2026-aux-etats-unis_8266958.html": "2026-11-04T06:36:03.451424+00:00",
-  "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/quatre-petroliers-ont-ete-detruits-apres-avoir-percute-des-mines-dans-le-detroit-d-ormuz-annonce-l-iran_8267165.html": "2026-11-04T06:36:03.451424+00:00",
-  "https://www.franceinfo.fr/monde/usa/midterms-2018/donald-trump-est-dispose-a-accepter-les-resultats-des-midterms-2026-saluant-le-bon-boulot-des-democrates-lors-du-scrutin_8267117.html": "2026-11-04T06:36:03.451424+00:00",
-  "https://www.franceinfo.fr/culture/cinema/l-arabe-de-malek-bensmail-un-regard-decentre-sur-l-etranger-de-camus-adaptation-du-roman-de-kamel-daoud_8264414.html": "2026-11-04T06:36:03.451424+00:00",
-  "https://www.franceinfo.fr/monde/usa/midterms-2018/le-democrate-james-talarico-donne-gagnant-pour-un-siege-au-senat-lors-des-midterms-2026-une-premiere-depuis-1988_8266994.html": "2026-11-04T06:36:03.451424+00:00",
-  "https://www.franceinfo.fr/monde/usa/midterms-2018/direct-midterms-2026-nette-avance-democrate-au-congres-des-premieres-victoires-historiques-suivez-les-resultats-des-elections-de-mi-mandat_8265776.html": "2026-11-04T06:36:03.451424+00:00",
   "https://www.franceinfo.fr/monde/usa/midterms-2018/midterms-2026-l-essentiel-des-elections-de-mi-mandat/": "2026-11-04T06:36:03.451424+00:00",
   "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/leon-xiv-en-france-retrouvez-l-essentiel/": "2026-11-04T06:36:03.451424+00:00",
   "https://www.franceinfo.fr/monde/usa/affaire-jeffrey-epstein/l-essentiel-des-revelations-sur-l-affaire-epstein/": "2026-11-04T06:36:03.451424+00:00",
   "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/tout-comprendre-a-la-guerre-au-moyen-orient/": "2026-11-04T06:36:03.451424+00:00",
-  "https://www.franceinfo.fr/monde/usa/midterms-2018/la-democrate-keisha-lance-bottoms-elue-gouverneure-de-georgie-lors-des-midterms-une-premiere-pour-une-femme-noire-aux-etats-unis_8266949.html": "2026-11-04T06:36:03.451424+00:00",
-  "https://www.franceinfo.fr/monde/usa/midterms-2018/jon-ossoff-etoile-montante-des-democrates-reelu-senateur-en-georgie-lors-des-midterms-2026_8266943.html": "2026-11-04T06:36:03.451424+00:00"
+  "https://www.franceinfo.fr/monde/usa/midterms-2018/deepfakes-fake-news-sur-x-fausses-videos-comment-les-fausses-informations-ont-inonde-la-campagne-des-midterms-2026_8267981.html": "2026-11-04T17:19:34.531285+00:00",
+  "https://www.franceinfo.fr/monde/usa/midterms-2018/vote-des-jeunes-des-minorites-ethniques-visualisez-comment-se-sont-prononces-les-americains-lors-des-midterms_8267702.html": "2026-11-04T17:19:34.531285+00:00",
+  "https://www.franceinfo.fr/monde/europe/crise-en-pologne-peut-on-parler-d-un-coup-d-etat_8267939.html": "2026-11-04T17:19:34.531285+00:00",
+  "https://www.franceinfo.fr/monde/usa/midterms-2018/midterms-trump-deteste-les-perdants_8267681.html": "2026-11-04T17:19:34.531285+00:00",
+  "https://www.franceinfo.fr/monde/usa/midterms-2018/on-est-dans-des-contextes-tres-differents-pour-le-president-du-rn-il-n-y-a-aucun-rapport-entre-les-midterms-aux-etats-unis-et-la-france_8267780.html": "2026-11-04T17:19:34.531285+00:00",
+  "https://www.franceinfo.fr/replay-radio/histoire-du-jour/en-alaska-deux-candidats-dan-sullivan-pour-embrouiller-les-electeurs-aux-midterms_8267168.html": "2026-11-04T17:19:34.531285+00:00",
+  "https://www.franceinfo.fr/monde/usa/midterms-2018/majorite-au-congres-conquete-de-bastions-republicains-historiques-visualisez-la-nette-victoire-des-democrates-aux-midterms-face-au-camp-de-donald-trump_8267237.html": "2026-11-04T17:19:34.531285+00:00",
+  "https://www.franceinfo.fr/monde/usa/le-resultat-des-midterms-pour-donald-trump-une-raclee-on-ne-peut-pas-le-dire-autrement-analyse-amy-greene-politologue-specialiste-des-etats-unis_8267783.html": "2026-11-04T17:19:34.531285+00:00",
+  "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/edito-pourquoi-donald-trump-est-l-epouvantail-de-la-campagne-presidentielle-en-france_8267753.html": "2026-11-04T17:19:34.531285+00:00",
+  "https://www.franceinfo.fr/monde/usa/midterms-2018/les-americains-ont-dit-non-a-la-guerre-l-iran-se-rejouit-de-la-deroute-electorale-de-donald-trump-aux-midterms-2026_8267435.html": "2026-11-04T17:19:34.531285+00:00",
+  "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/pouvoir-d-achat-prix-du-carburant-ces-americains-expliquent-le-blunami-cette-vague-bleue-aux-midterms-2026-qui-destabilise-donald-trump_8246506.html": "2026-11-04T17:19:34.531285+00:00",
+  "https://www.franceinfo.fr/politique/grand-entretien-en-belgique-un-cordon-sanitaire-mediatique-empeche-toute-forme-de-banalisation-de-l-extreme-droite-un-outil-difficile-a-imaginer-en-france_8265599.html": "2026-11-04T17:19:34.531285+00:00",
+  "https://www.franceinfo.fr/monde/asie/une-arme-ou-une-bouteille-de-vin-la-chine-conteste-la-presence-d-un-obus-d-artillerie-en-papouasie-nouvelle-guinee_8267687.html": "2026-11-04T17:19:34.531285+00:00",
+  "https://www.franceinfo.fr/monde/usa/midterms-2018/donald-trump-peut-il-etre-vise-par-une-procedure-de-destitution-apres-la-victoire-des-democrates-aux-midterms_8267429.html": "2026-11-04T17:19:34.531285+00:00",
+  "https://www.franceinfo.fr/monde/usa/midterms-2018/james-talarico-au-texas-abdul-el-sayed-au-michigan-jon-ossoff-en-georgie-ces-figures-democrates-qui-vont-compter-apres-leurs-victoires-aux-midterms-2026_8267432.html": "2026-11-04T17:19:34.531285+00:00",
+  "https://www.franceinfo.fr/replay-radio/les-informes-du-matin/les-informes-du-matin-du-mercredi-04-novembre-2026_8246449.html": "2026-11-04T11:00:00+00:00",
+  "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/vue-d-asie-que-peut-changer-la-victoire-des-democrates-americains-aux-elections-de-mi-mandat_8246461.html": "2026-11-04T17:19:34.531285+00:00",
+  "https://www.franceinfo.fr/monde/usa/midterms-2018/un-message-d-espoir-pour-tous-en-france-la-gauche-salue-le-revers-inflige-a-donald-trump-lors-des-midterms-2026_8267498.html": "2026-11-04T17:19:34.531285+00:00",
+  "https://www.franceinfo.fr/monde/usa/midterms-2018/gina-hinojosa-elue-gouverneure-au-texas-victoire-majeure-pour-le-parti-democrate-lors-des-midterms-2026_8267357.html": "2026-11-04T17:19:34.531285+00:00",
+  "https://www.franceinfo.fr/replay-radio/l-il-de-constance/botox-loyaute-et-midterms-ce-que-les-visages-de-l-entourage-de-trump-ne-disent-pas_8246458.html": "2026-11-04T17:19:34.531285+00:00",
+  "https://www.franceinfo.fr/monde/usa/midterms-2018/le-democrate-abdul-el-sayed-elu-senateur-du-michigan-lors-des-midterms-2026-devenant-ainsi-le-premier-americain-de-confession-musulmane-a-sieger-au-senat_8267324.html": "2026-11-04T17:19:34.531285+00:00",
+  "https://www.franceinfo.fr/replay-radio/le-brief-eco/pourquoi-un-reequilibrage-politique-lors-des-midterms-aux-etats-unis-peut-profiter-a-certains-milieux-d-affaires_8246419.html": "2026-11-04T17:19:34.531285+00:00",
+  "https://www.franceinfo.fr/replay-radio/le-monde-et-vous/a-washington-et-denver-les-defenseurs-des-animaux-remportent-la-bataille-du-foie-gras_8246422.html": "2026-11-04T17:19:34.531285+00:00",
+  "https://www.franceinfo.fr/monde/usa/midterms-2018/midterms-2026-c-est-une-repudiation-de-la-marque-donald-trump-analyse-la-specialiste-amy-greene_8267339.html": "2026-11-04T17:19:34.531285+00:00",
+  "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/speciale-elections-de-mi-mandat-aux-etats-unis-le-8h30-franceinfo-de-corentin-sellin-et-celia-belin_8246452.html": "2026-11-04T17:19:34.531285+00:00",
+  "https://www.franceinfo.fr/monde/usa/midterms-2018/elon-musk-apres-avoir-injecte-des-sommes-record-ironise-sur-la-defaite-electorale-des-republicains-lors-des-midterms-2026_8267321.html": "2026-11-04T17:19:34.531285+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": ": Reportage \"Ce soir, nous avons battu Goliath\" : les démocrates du Texas fêtent une victoire historique dans un bastion républicain lors de midterms 2026 Les résultats des élections de mi-mandat révèlent un vote sanction contre Donald Trump. Lors de ces scrutins de mi-mandat aux Etats-Unis, les démocrates réussissent même à reprendre le contrôle du Sénat grâce à plusieurs victoires décisives, notamment au Texas, un État pourtant emblématique du camp républicain depuis 30 ans. Aujourd'hui : Reportage",
-   "link": "https://www.franceinfo.fr/monde/usa/midterms-2018/reportage-ce-soir-je-suis-bluffe-les-democrates-du-texas-fetent-une-victoire-historique-dans-un-bastion-republicain-lors-de-midterms-2026_8267141.html",
-   "summary": "\"Ce soir, nous avons battu Goliath\" : les démocrates du Texas fêtent une victoire historique dans un bastion républicain lors de midterms 2026",
-   "image": "https://www.franceinfo.fr/pictures/7gtqLsFrcOyJfIjqHVmP-U3jAcU/16x0:1007x681/432x297/filters:format(jpg)/2026/11/04/6aeac9e35e3d1747736243.jpg",
+   "title": "Deepfakes, fake news sur X, fausses vidéos… Comment les fausses informations ont inondé la campagne des midterms 2026 Ces fausses informations sont venues en majorité du camp républicain mais parfois aussi du camp démocrate, ainsi que de puissances étrangères. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/usa/midterms-2018/deepfakes-fake-news-sur-x-fausses-videos-comment-les-fausses-informations-ont-inonde-la-campagne-des-midterms-2026_8267981.html",
+   "summary": "Deepfakes, fake news sur X, fausses vidéos… Comment les fausses informations ont inondé la campagne des midterms 2026",
+   "image": "https://www.franceinfo.fr/pictures/OGninI6ehW5BF31n-xd4acffP1w/90x0:5909x4000/432x297/filters:format(jpg)/2026/11/04/6aeb59ca37ead831650540.jpg",
    "date": null,
-   "pubdate": "2026-11-04T06:36:03.451424+00:00"
+   "pubdate": "2026-11-04T17:19:34.531285+00:00"
   },
   {
-   "title": "2:52 audio 2 minutes 52 Comment Melania Trump s'est imposée en \"carte joker\" de Donald Trump sur la scène internationale",
-   "link": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/la-carte-joker-de-donald-trump-a-l-international-son-epouse-melania_8246455.html",
-   "summary": "Comment Melania Trump s'est imposée en \"carte joker\" de Donald Trump sur la scène internationale",
-   "image": "https://www.franceinfo.fr/pictures/hMBrPOxT5IMOyCgOn3xa9xPiLUM/0x0:1024x576/432x243/filters:format(jpg)/2026/11/04/6aeacb371a235018830385.jpg",
-   "date": null,
-   "pubdate": "2026-11-04T06:36:03.451424+00:00"
-  },
-  {
-   "title": "3:28 vidéo 3 minutes 28 Midterms : les artistes ont choisi leur camp !",
-   "link": "https://www.franceinfo.fr/monde/usa/midterms-2018/midterms-les-artistes-ont-choisi-leur-camp_8267222.html",
-   "summary": "Midterms : les artistes ont choisi leur camp !",
-   "image": "https://www.franceinfo.fr/pictures/hyM1OenoBzeRWcjLRKFSx4KKpS0/0x0:1496x841/432x243/filters:format(jpg)/2026/11/04/6aeacfb721ea5796781680.jpg",
-   "date": null,
-   "pubdate": "2026-11-04T06:36:03.451424+00:00"
-  },
-  {
-   "title": "1:53 vidéo 1 minute 53 Midterms : majorité absolue pour les démocrates au Sénat",
-   "link": "https://www.franceinfo.fr/monde/usa/midterms-2018/midterms-majorite-absolue-pour-les-democrates-au-senat_8267219.html",
-   "summary": "Midterms : majorité absolue pour les démocrates au Sénat",
-   "image": "https://www.franceinfo.fr/pictures/_kDLRimmxMFi0X1rhAtNv3hcWKQ/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/04/6aeace69804b1036465308.png",
-   "date": null,
-   "pubdate": "2026-11-04T06:36:03.451424+00:00"
-  },
-  {
-   "title": "Victoire démocrate au Sénat, Donald Trump promet d'accepter les résultats... Les premiers enseignements des midterms 2026 aux Etats-Unis",
-   "link": "https://www.franceinfo.fr/monde/usa/midterms-2018/victoire-democrate-au-senat-donald-trump-promet-d-accepter-les-resultats-les-premiers-enseignements-des-midterms-2026-aux-etats-unis_8266958.html",
+   "title": "Vote des jeunes, des minorités ethniques… Visualisez comment se sont prononcés les Américains lors des midterms",
+   "link": "https://www.franceinfo.fr/monde/usa/midterms-2018/vote-des-jeunes-des-minorites-ethniques-visualisez-comment-se-sont-prononces-les-americains-lors-des-midterms_8267702.html",
    "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/qk0YeZYpy0Uxu3bQidFt6wn1wU8/0x0:9494x5340/432x243/filters:format(jpg)/2026/11/04/6aeab63b90b59793925055.jpg",
+   "image": "https://www.franceinfo.fr/pictures/vv0TOfOJCQJIU7_nTkGoOVNP2Mc/0x428:8192x5036/432x243/filters:format(jpg)/2026/11/04/6aeb41294113c406966384.jpg",
    "date": null,
-   "pubdate": "2026-11-04T06:36:03.451424+00:00"
+   "pubdate": "2026-11-04T17:19:34.531285+00:00"
   },
   {
-   "title": "Quatre pétroliers ont été détruits après avoir percuté des mines dans le détroit d'Ormuz, annonce l'Iran",
-   "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/quatre-petroliers-ont-ete-detruits-apres-avoir-percute-des-mines-dans-le-detroit-d-ormuz-annonce-l-iran_8267165.html",
+   "title": "Crise en Pologne : peut-on parler d'un coup d'Etat ?",
+   "link": "https://www.franceinfo.fr/monde/europe/crise-en-pologne-peut-on-parler-d-un-coup-d-etat_8267939.html",
    "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/GOWX1ttwyPbEsgPT5YdZti12a78/0x87:1024x663/432x243/filters:format(jpg)/2026/11/04/6aeac87c13f9d745588179.jpg",
+   "image": "https://www.franceinfo.fr/pictures/aBuMGtTWLBvuq7DjHojZp4eNryM/0x63:1200x738/432x243/filters:format(jpg)/2026/11/04/6aeb4f8943eca514532379.jpg",
    "date": null,
-   "pubdate": "2026-11-04T06:36:03.451424+00:00"
+   "pubdate": "2026-11-04T17:19:34.531285+00:00"
   },
   {
-   "title": "Donald Trump est \"disposé à accepter\" les résultats des midterms 2026, saluant le \"bon boulot\" des démocrates lors du scrutin",
-   "link": "https://www.franceinfo.fr/monde/usa/midterms-2018/donald-trump-est-dispose-a-accepter-les-resultats-des-midterms-2026-saluant-le-bon-boulot-des-democrates-lors-du-scrutin_8267117.html",
+   "title": "0:58 vidéo 58 secondes Midterms : Trump \"déteste les perdants\"",
+   "link": "https://www.franceinfo.fr/monde/usa/midterms-2018/midterms-trump-deteste-les-perdants_8267681.html",
    "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/ZXsp3JfiyQMKFK-Iu8RovaoHTBA/0x0:1024x576/432x243/filters:format(jpg)/2026/11/04/6aeac2f4a211f778219860.jpg",
+   "image": "https://www.franceinfo.fr/pictures/dfLgzQb46Liur06OOffOjz02KjU/0x0:900x1600/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/04/6aeb2069b63da634275441.jpg",
    "date": null,
-   "pubdate": "2026-11-04T06:36:03.451424+00:00"
+   "pubdate": "2026-11-04T17:19:34.531285+00:00"
   },
   {
-   "title": "\"L'Arabe\" de Malek Bensmaïl : un regard décentré sur \"L'Etranger\" de Camus, adaptation du roman de Kamel Daoud",
-   "link": "https://www.franceinfo.fr/culture/cinema/l-arabe-de-malek-bensmail-un-regard-decentre-sur-l-etranger-de-camus-adaptation-du-roman-de-kamel-daoud_8264414.html",
+   "title": "\"On est dans des contextes très différents\" : pour le président du RN, il n'y a aucun \"rapport\" entre les midterms aux États-Unis et la France",
+   "link": "https://www.franceinfo.fr/monde/usa/midterms-2018/on-est-dans-des-contextes-tres-differents-pour-le-president-du-rn-il-n-y-a-aucun-rapport-entre-les-midterms-aux-etats-unis-et-la-france_8267780.html",
    "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/JNILGAQqdC7K_tF4Oe-ve-_NkoQ/166x0:1113x533/432x243/filters:format(jpg)/2026/11/02/6ae8bbd8d9b43376825331.jpeg",
+   "image": "https://www.franceinfo.fr/pictures/uWF4Pviz_mlOtqLx8O5MWZ_Y-jQ/0x0:5136x2889/432x243/filters:format(jpg)/2026/11/04/6aeb3e92cf3ed675603956.jpg",
    "date": null,
-   "pubdate": "2026-11-04T06:36:03.451424+00:00"
+   "pubdate": "2026-11-04T17:19:34.531285+00:00"
   },
   {
-   "title": "Au Texas, le démocrate James Talarico donné gagnant au Sénat lors des midterms 2026, une première dans cet Etat depuis 1988",
-   "link": "https://www.franceinfo.fr/monde/usa/midterms-2018/le-democrate-james-talarico-donne-gagnant-pour-un-siege-au-senat-lors-des-midterms-2026-une-premiere-depuis-1988_8266994.html",
+   "title": "3:22 audio 3 minutes 22 En Alaska, deux candidats Dan Sullivan pour embrouiller les électeurs aux midterms",
+   "link": "https://www.franceinfo.fr/replay-radio/histoire-du-jour/en-alaska-deux-candidats-dan-sullivan-pour-embrouiller-les-electeurs-aux-midterms_8267168.html",
+   "summary": "En Alaska, deux candidats Dan Sullivan pour embrouiller les électeurs aux midterms",
+   "image": "https://www.franceinfo.fr/pictures/drL-KYMyqedyk__4WOfqS2M_0zE/0x53:1024x629/432x243/filters:format(jpg)/2026/11/04/6aeb45f320cd7686869915.jpg",
+   "date": null,
+   "pubdate": "2026-11-04T17:19:34.531285+00:00"
+  },
+  {
+   "title": "Majorité au Congrès, conquête de bastions républicains historiques... Visualisez la nette victoire des démocrates aux midterms face au camp de Donald Trump",
+   "link": "https://www.franceinfo.fr/monde/usa/midterms-2018/majorite-au-congres-conquete-de-bastions-republicains-historiques-visualisez-la-nette-victoire-des-democrates-aux-midterms-face-au-camp-de-donald-trump_8267237.html",
    "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/zoHIgM-km3z_Z8AEdsDyQYuOlWA/0x0:1024x576/432x243/filters:format(jpg)/2026/11/04/6aeab68fb211d114141303.jpg",
+   "image": "https://www.franceinfo.fr/pictures/7-Kqd1di3XM_3FbrPnlaxlPZC0U/0x0:4569x2570/432x243/filters:format(jpg)/2026/11/04/6aeb039487ca0927006612.jpg",
    "date": null,
-   "pubdate": "2026-11-04T06:36:03.451424+00:00"
+   "pubdate": "2026-11-04T17:19:34.531285+00:00"
   },
   {
-   "title": "• Direct • Direct Midterms 2026 : après le Sénat, les démocrates décrochent la majorité absolue à la Chambre des représentants et contrôlent désormais le Congrès, un camouflet pour Donald Trump",
-   "link": "https://www.franceinfo.fr/monde/usa/midterms-2018/direct-midterms-2026-nette-avance-democrate-au-congres-des-premieres-victoires-historiques-suivez-les-resultats-des-elections-de-mi-mandat_8265776.html",
-   "summary": "Midterms 2026 : après le Sénat, les démocrates décrochent la majorité absolue à la Chambre des représentants et contrôlent désormais le Congrès, un camouflet pour Donald Trump",
-   "image": "https://www.franceinfo.fr/pictures/laCHdWjO9quTl-JjfPR6kmRxIzw/0x0:6000x3375/432x243/filters:format(jpg)/2026/11/04/6aead244f1744952045515.jpg",
+   "title": "2:07 vidéo 2 minutes 7 Le résultat des midterms est \"une raclée\" pour Donald Trump, analyse Amy Greene, politologue spécialiste des Etats-Unis",
+   "link": "https://www.franceinfo.fr/monde/usa/le-resultat-des-midterms-pour-donald-trump-une-raclee-on-ne-peut-pas-le-dire-autrement-analyse-amy-greene-politologue-specialiste-des-etats-unis_8267783.html",
+   "summary": "Le résultat des midterms est \"une raclée\" pour Donald Trump, analyse Amy Greene, politologue spécialiste des Etats-Unis",
+   "image": "https://www.franceinfo.fr/pictures/FtlLa4GcrvSj4VZPm9qrGkV7GuQ/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/04/6aeb3509299ad833708409.jpg",
    "date": null,
-   "pubdate": "2026-11-04T06:36:03.451424+00:00"
+   "pubdate": "2026-11-04T17:19:34.531285+00:00"
   },
   {
-   "title": "Midterms 2026 : l'essentiel des élections de mi-mandat 29 contenus",
+   "title": ": Édito 2:00 vidéo 2 minutes : Édito Pourquoi Donald Trump est l'épouvantail de la campagne présidentielle en France ?",
+   "link": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/edito-pourquoi-donald-trump-est-l-epouvantail-de-la-campagne-presidentielle-en-france_8267753.html",
+   "summary": "Pourquoi Donald Trump est l'épouvantail de la campagne présidentielle en France ?",
+   "image": "https://www.franceinfo.fr/pictures/qaw5n86m3uLlWQSvNEouQvMPtfY/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/04/6aeb2e134baef954723135.png",
+   "date": null,
+   "pubdate": "2026-11-04T17:19:34.531285+00:00"
+  },
+  {
+   "title": "\"Les Américains ont dit non à la guerre\" : l'Iran se réjouit de la déroute électorale de Donald Trump aux midterms 2026",
+   "link": "https://www.franceinfo.fr/monde/usa/midterms-2018/les-americains-ont-dit-non-a-la-guerre-l-iran-se-rejouit-de-la-deroute-electorale-de-donald-trump-aux-midterms-2026_8267435.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/AFeR3PW7Yw262e2qRumbD8tZnD4/0x53:1024x629/432x243/filters:format(jpg)/2026/11/04/6aeb169c7dd85746142952.jpg",
+   "date": null,
+   "pubdate": "2026-11-04T17:19:34.531285+00:00"
+  },
+  {
+   "title": "7:42 audio 7 minutes 42 Pouvoir d'achat, prix du carburant... Ces Américains expliquent le \"Blue-nami\", cette \"vague bleue\" aux midterms 2026 qui déstabilise Donald Trump",
+   "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/pouvoir-d-achat-prix-du-carburant-ces-americains-expliquent-le-blunami-cette-vague-bleue-aux-midterms-2026-qui-destabilise-donald-trump_8246506.html",
+   "summary": "Pouvoir d'achat, prix du carburant... Ces Américains expliquent le \"Blue-nami\", cette \"vague bleue\" aux midterms 2026 qui déstabilise Donald Trump",
+   "image": "https://www.franceinfo.fr/pictures/rZWurtUfTPaoKTlKVCES74ChFBQ/912x0:4560x3648/100x100/filters:format(jpg)/2026/11/04/6aeaeff3e2db7183174731.jpg",
+   "date": null,
+   "pubdate": "2026-11-04T17:19:34.531285+00:00"
+  },
+  {
+   "title": ": Grand entretien 5:00 article 5 minutes : Grand entretien En Belgique, un cordon sanitaire médiatique \"empêche toute forme de banalisation de l'extrême droite\", un outil \"difficile\" à imaginer en France",
+   "link": "https://www.franceinfo.fr/politique/grand-entretien-en-belgique-un-cordon-sanitaire-mediatique-empeche-toute-forme-de-banalisation-de-l-extreme-droite-un-outil-difficile-a-imaginer-en-france_8265599.html",
+   "summary": "En Belgique, un cordon sanitaire médiatique \"empêche toute forme de banalisation de l'extrême droite\", un outil \"difficile\" à imaginer en France",
+   "image": "https://www.franceinfo.fr/pictures/9LdUSK6oamqclaiDrAjSNcWmhIU/1437x0:4300x2863/100x100/filters:format(jpg)/2026/11/03/6aea17e3db34d727066316.jpg",
+   "date": null,
+   "pubdate": "2026-11-04T17:19:34.531285+00:00"
+  },
+  {
+   "title": "Une arme ou une bouteille de vin ? La Chine conteste la présence d'un obus d'artillerie en Papouasie-Nouvelle-Guinée Un objet, présenté comme un obus d'artillerie chinois, a été découvert sur un chantier en Papouasie-Nouvelle-Guinée. Mais l'ambassade chinoise assure qu'il s'agit d'une simple bouteille de vin.",
+   "link": "https://www.franceinfo.fr/monde/asie/une-arme-ou-une-bouteille-de-vin-la-chine-conteste-la-presence-d-un-obus-d-artillerie-en-papouasie-nouvelle-guinee_8267687.html",
+   "summary": "Une arme ou une bouteille de vin ? La Chine conteste la présence d'un obus d'artillerie en Papouasie-Nouvelle-Guinée",
+   "image": "https://www.franceinfo.fr/pictures/4FI7py1oVu7lYdxEsJt0K-W14h8/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/04/6aeb22eda452d047847966.png",
+   "date": null,
+   "pubdate": "2026-11-04T17:19:34.531285+00:00"
+  },
+  {
+   "title": "Donald Trump peut-il être visé par une procédure de destitution après la victoire des démocrates aux midterms ? Le Parti démocrate a obtenu mardi la majorité à la Chambre des représentants, mais également au Sénat, à l'occasion des élections de mi-mandat américaines. Mais la perspective même d'un \"impeachment\" du chef de l'Etat divise le camp progressiste.",
+   "link": "https://www.franceinfo.fr/monde/usa/midterms-2018/donald-trump-peut-il-etre-vise-par-une-procedure-de-destitution-apres-la-victoire-des-democrates-aux-midterms_8267429.html",
+   "summary": "Donald Trump peut-il être visé par une procédure de destitution après la victoire des démocrates aux midterms ?",
+   "image": "https://www.franceinfo.fr/pictures/gon-nU16u2QpcnrnFX2pbJbIdSY/0x0:1024x576/432x243/filters:format(jpg)/2026/11/04/6aeb0ad9bcaff852209178.jpg",
+   "date": null,
+   "pubdate": "2026-11-04T17:19:34.531285+00:00"
+  },
+  {
+   "title": "James Talarico au Texas, Abdul el-Sayed au Michigan, Jon Ossoff en Géorgie… Ces figures démocrates qui vont compter après leurs victoires aux midterms 2026 Visages du triomphe de l'opposition à Donald Trump lors des élections de mi-mandat, ces personnalités entendent peser sur les débats nationaux d'ici l'élection présidentielle de 2028.",
+   "link": "https://www.franceinfo.fr/monde/usa/midterms-2018/james-talarico-au-texas-abdul-el-sayed-au-michigan-jon-ossoff-en-georgie-ces-figures-democrates-qui-vont-compter-apres-leurs-victoires-aux-midterms-2026_8267432.html",
+   "summary": "James Talarico au Texas, Abdul el-Sayed au Michigan, Jon Ossoff en Géorgie… Ces figures démocrates qui vont compter après leurs victoires aux midterms 2026",
+   "image": "https://www.franceinfo.fr/pictures/qdmnQJLLDN2m6QQnhIJr0zPVofI/0x0:5727x3221/432x243/filters:format(jpg)/2026/11/04/6aeb08e9707fc629905217.jpg",
+   "date": null,
+   "pubdate": "2026-11-04T17:19:34.531285+00:00"
+  },
+  {
+   "title": "2:25 audio 2 minutes 25 Vue d'Asie, que peut changer la victoire des démocrates américains aux élections de mi-mandat ? En Asie, tous les gouvernements ont suivi de très près les résultats des élections américaines de mi-mandat. Ils se demandent dans quelle mesure la victoire des démocrates peut modifier certains des choix politiques de Donald Trump.",
+   "link": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/vue-d-asie-que-peut-changer-la-victoire-des-democrates-americains-aux-elections-de-mi-mandat_8246461.html",
+   "summary": "Vue d'Asie, que peut changer la victoire des démocrates américains aux élections de mi-mandat ?",
+   "image": "https://www.franceinfo.fr/pictures/neFyPR4DuWdFYR8UoEZdHLC6kQI/0x175:3377x2075/432x243/filters:format(jpg)/2026/11/04/6aeaf11633869928480498.jpg",
+   "date": null,
+   "pubdate": "2026-11-04T17:19:34.531285+00:00"
+  },
+  {
+   "title": "\"Un message d’espoir pour tous\" : en France, la gauche salue le revers infligé à Donald Trump lors des midterms 2026 La défaite est totale pour Donald Trump, après les élections de mi-mandat américaines. En France, plusieurs personnalités de gauche réagissent, comme Marine Tondelier : \"Puisse cette leçon nous servir\".",
+   "link": "https://www.franceinfo.fr/monde/usa/midterms-2018/un-message-d-espoir-pour-tous-en-france-la-gauche-salue-le-revers-inflige-a-donald-trump-lors-des-midterms-2026_8267498.html",
+   "summary": "\"Un message d’espoir pour tous\" : en France, la gauche salue le revers infligé à Donald Trump lors des midterms 2026",
+   "image": "https://www.franceinfo.fr/pictures/8AMrkqVAvlyva9K1oKcmym_O4PY/0x160:2738x1700/432x243/filters:format(jpg)/2026/11/03/6ae999c6f0c1a497703640.jpg",
+   "date": null,
+   "pubdate": "2026-11-04T17:19:34.531285+00:00"
+  },
+  {
+   "title": "Gina Hinojosa élue gouverneure au Texas, victoire majeure pour le Parti démocrate lors des midterms 2026 Comme James Talarico, élu sénateur dans cet Etat profondément conservateur, Gina Hinojosa incarne une nouvelle génération de démocrates.",
+   "link": "https://www.franceinfo.fr/monde/usa/midterms-2018/gina-hinojosa-elue-gouverneure-au-texas-victoire-majeure-pour-le-parti-democrate-lors-des-midterms-2026_8267357.html",
+   "summary": "Gina Hinojosa élue gouverneure au Texas, victoire majeure pour le Parti démocrate lors des midterms 2026",
+   "image": "https://www.franceinfo.fr/pictures/DkJZ1xRmEUy8-9I263mmR73ZuVI/0x0:6000x3375/432x243/filters:format(jpg)/2026/11/04/6aeaef664c566793595513.jpg",
+   "date": null,
+   "pubdate": "2026-11-04T17:19:34.531285+00:00"
+  },
+  {
+   "title": "2:28 audio 2 minutes 28 Botox, loyauté et midterms : ce que les visages de l’entourage de Trump ne disent pas Au lendemain des élections de mi-mandat, les visages très retouchés de l’entourage de Trump envahissent les réseaux. Derrière cette esthétique uniformisée des femmes de pouvoir, un signe de loyauté au chef.",
+   "link": "https://www.franceinfo.fr/replay-radio/l-il-de-constance/botox-loyaute-et-midterms-ce-que-les-visages-de-l-entourage-de-trump-ne-disent-pas_8246458.html",
+   "summary": "Botox, loyauté et midterms : ce que les visages de l’entourage de Trump ne disent pas",
+   "image": "https://www.franceinfo.fr/pictures/jCjD6AhZnOFnE94bx2erjW7kH34/462x0:1457x560/432x243/filters:format(jpg)/2026/11/04/6aeae27e74dcc846224464.png",
+   "date": null,
+   "pubdate": "2026-11-04T17:19:34.531285+00:00"
+  },
+  {
+   "title": "Le démocrate Abdul el-Sayed devient le premier candidat musulman à être élu au Sénat américain, à l'issue des midterms 2026 Le médecin progressiste l'a emporté face au républicain Mike Rogers mardi au Michigan, lors des élections de mi-mandat aux Etats-Unis.",
+   "link": "https://www.franceinfo.fr/monde/usa/midterms-2018/le-democrate-abdul-el-sayed-elu-senateur-du-michigan-lors-des-midterms-2026-devenant-ainsi-le-premier-americain-de-confession-musulmane-a-sieger-au-senat_8267324.html",
+   "summary": "Le démocrate Abdul el-Sayed devient le premier candidat musulman à être élu au Sénat américain, à l'issue des midterms 2026",
+   "image": "https://www.franceinfo.fr/pictures/SFabJirOF0Lz5BhUkCWjxbznZZs/0x0:1024x576/432x243/filters:format(jpg)/2026/11/04/6aeae847b0980670293533.jpg",
+   "date": null,
+   "pubdate": "2026-11-04T17:19:34.531285+00:00"
+  },
+  {
+   "title": "2:34 audio 2 minutes 34 Pourquoi un rééquilibrage politique lors des midterms aux États-Unis peut profiter à certains milieux d’affaires La défaite des républicains aux élections de mi-mandat n'a pas inquiété les opérateurs à la Bourse de New-York. Visiblement, les investisseurs restent zen face au rééquilibrage politique qui est en train de se confirmer aux États-Unis.",
+   "link": "https://www.franceinfo.fr/replay-radio/le-brief-eco/pourquoi-un-reequilibrage-politique-lors-des-midterms-aux-etats-unis-peut-profiter-a-certains-milieux-d-affaires_8246419.html",
+   "summary": "Pourquoi un rééquilibrage politique lors des midterms aux États-Unis peut profiter à certains milieux d’affaires",
+   "image": "https://www.franceinfo.fr/pictures/WSuNOo3sDjRW3Ouj8ArxSjtImJ4/0x301:4000x2551/432x243/filters:format(jpg)/2026/11/04/6aeae3e396668674647319.jpg",
+   "date": null,
+   "pubdate": "2026-11-04T17:19:34.531285+00:00"
+  },
+  {
+   "title": "2:16 audio 2 minutes 16 À Washington et Denver, les défenseurs des animaux remportent la bataille du foie gras Alors que les élections de mi-mandat concentraient toutes les attentions mardi, les habitants de Washington et de Denver étaient aussi appelés à se prononcer sur l'interdiction de la vente de foie gras issu du gavage. Les premiers résultats donnent une très large avance aux partisans de cette mesure.",
+   "link": "https://www.franceinfo.fr/replay-radio/le-monde-et-vous/a-washington-et-denver-les-defenseurs-des-animaux-remportent-la-bataille-du-foie-gras_8246422.html",
+   "summary": "À Washington et Denver, les défenseurs des animaux remportent la bataille du foie gras",
+   "image": "https://www.franceinfo.fr/pictures/9YhJ5HRDrHbwa2bCdrR1ryodcGI/0x94:1024x670/432x243/filters:format(jpg)/2026/11/04/6aeaece25663d631489042.jpg",
+   "date": null,
+   "pubdate": "2026-11-04T17:19:34.531285+00:00"
+  },
+  {
+   "title": "Midterms 2026 : \"C'est une répudiation de la marque Donald Trump\", analyse la spécialiste Amy Greene L'experte franco-américaine Amy Greene, invitée de France Inter, décrypte la défaite des républicains lors des midterms 2026. Elle pointe Donald Trump qui a subi, selon elle un \"échec\" pour ce scrutin.",
+   "link": "https://www.franceinfo.fr/monde/usa/midterms-2018/midterms-2026-c-est-une-repudiation-de-la-marque-donald-trump-analyse-la-specialiste-amy-greene_8267339.html",
+   "summary": "Midterms 2026 : \"C'est une répudiation de la marque Donald Trump\", analyse la spécialiste Amy Greene",
+   "image": "https://www.franceinfo.fr/pictures/9Jb6ZdcExjvwUuAV9VmAHoeb_aE/1x0:1918x1078/432x243/filters:format(jpg)/2026/11/04/6aeaeabb1684e077041639.png",
+   "date": null,
+   "pubdate": "2026-11-04T17:19:34.531285+00:00"
+  },
+  {
+   "title": "23:02 audio 23 minutes 2 Spéciale élections de mi-mandat aux États-Unis... Le \"8h30 franceinfo\" de Corentin Sellin et Célia Belin Corentin Sellin, professeur agrégé d’histoire et chroniqueur de la vie politique américaine pour le site Les Jours.fr, et Célia Belin, directrice du bureau parisien de l’ECFR (Conseil européen des relations internationales), sont les invités du \"8h30 franceinfo\" du 4 novembre.",
+   "link": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/speciale-elections-de-mi-mandat-aux-etats-unis-le-8h30-franceinfo-de-corentin-sellin-et-celia-belin_8246452.html",
+   "summary": "Spéciale élections de mi-mandat aux États-Unis... Le \"8h30 franceinfo\" de Corentin Sellin et Célia Belin",
+   "image": "https://www.franceinfo.fr/pictures/XFlHBxc9ABXa1zEq25BQ0NacvBE/0x0:1280x720/432x243/filters:format(jpg)/2026/11/04/6aeae4522c7d0902361525.jpg",
+   "date": null,
+   "pubdate": "2026-11-04T17:19:34.531285+00:00"
+  },
+  {
+   "title": "Après avoir injecté des sommes record pour soutenir les républicains, Elon Musk ironise sur la défaite électorale des conservateurs lors des midterms 2026 Le milliardaire américain, soutien de Donald Trump, s'est amusé de la victoire des démocrates au Congrès lors des élections de mi-mandat.",
+   "link": "https://www.franceinfo.fr/monde/usa/midterms-2018/elon-musk-apres-avoir-injecte-des-sommes-record-ironise-sur-la-defaite-electorale-des-republicains-lors-des-midterms-2026_8267321.html",
+   "summary": "Après avoir injecté des sommes record pour soutenir les républicains, Elon Musk ironise sur la défaite électorale des conservateurs lors des midterms 2026",
+   "image": "https://www.franceinfo.fr/pictures/CdDMWxlhBSOI7iKLWCfwCy077hQ/0x0:8256x4644/432x243/filters:format(jpg)/2026/11/04/6aeae91973ec3937307987.jpg",
+   "date": null,
+   "pubdate": "2026-11-04T17:19:34.531285+00:00"
+  },
+  {
+   "title": "21:23 audio 21 minutes 23 Les informés du matin du mercredi 04 novembre 2026 Les informés débattent de l'actualité autour d'Agathe Lambret et Renaud Dély.",
+   "link": "https://www.franceinfo.fr/replay-radio/les-informes-du-matin/les-informes-du-matin-du-mercredi-04-novembre-2026_8246449.html",
+   "summary": "Les informés du matin du mercredi 04 novembre 2026",
+   "image": "https://www.franceinfo.fr/pictures/TKWb09bmk3TJazMzKgqtt36pV4Q/0x292:5616x3451/432x243/filters:format(jpg)/2026/07/08/6a4e52a5b634b233317025.jpg",
+   "date": "2026-11-04T11:00:00+00:00",
+   "pubdate": "2026-11-04T11:00:00+00:00"
+  },
+  {
+   "title": "Midterms 2026 : l'essentiel des élections de mi-mandat 27 contenus",
    "link": "https://www.franceinfo.fr/monde/usa/midterms-2018/midterms-2026-l-essentiel-des-elections-de-mi-mandat/",
    "summary": "Midterms 2026 : l'essentiel des élections de mi-mandat",
    "image": "https://www.franceinfo.fr/pictures/brT3BkVaFOL26KI_ApRVmr8Jytk/432x297/filters:format(jpg)/2026/10/29/6ae37a1b0991c168765960.jpg",
@@ -142,102 +274,6 @@
    "image": "https://www.franceinfo.fr/pictures/1mjbL6KrEfhdf8kkM-fiwv8Aqs4/432x297/filters:format(jpg)/2026/03/01/075-nikoubazl-mourning260301-npgop-69a44a7350cd8738092334.jpg",
    "date": null,
    "pubdate": "2026-11-04T06:36:03.451424+00:00"
-  },
-  {
-   "title": "La démocrate Keisha Lance Bottoms élue gouverneure de Géorgie lors des midterms, une première pour une femme noire aux Etats-Unis L'ancienne maire d'Atlanta a largement battu le candidat soutenu par Donald Trump, Rick Jackson, lors des élections de mi-mandat décisives.",
-   "link": "https://www.franceinfo.fr/monde/usa/midterms-2018/la-democrate-keisha-lance-bottoms-elue-gouverneure-de-georgie-lors-des-midterms-une-premiere-pour-une-femme-noire-aux-etats-unis_8266949.html",
-   "summary": "La démocrate Keisha Lance Bottoms élue gouverneure de Géorgie lors des midterms, une première pour une femme noire aux Etats-Unis",
-   "image": "https://www.franceinfo.fr/pictures/e4SLLmW2ASyDPfixCklSdAT3VKk/0x163:4213x2533/432x243/filters:format(jpg)/2026/11/04/6aeaa8d8ae2e5920258087.jpg",
-   "date": null,
-   "pubdate": "2026-11-04T06:36:03.451424+00:00"
-  },
-  {
-   "title": "Jon Ossoff, étoile montante des démocrates, réélu sénateur en Géorgie lors des midterms 2026 \"Le peuple américain a rejeté la dépravation, la corruption et l'incompétence\" de Donald Trump a réagi le candidat, lors de ces élections de mi-mandat décisives pour le locataire de la Maison Blanche.",
-   "link": "https://www.franceinfo.fr/monde/usa/midterms-2018/jon-ossoff-etoile-montante-des-democrates-reelu-senateur-en-georgie-lors-des-midterms-2026_8266943.html",
-   "summary": "Jon Ossoff, étoile montante des démocrates, réélu sénateur en Géorgie lors des midterms 2026",
-   "image": "https://www.franceinfo.fr/pictures/l3IX7-50cp_pESkrTAV92vMBv_U/0x0:5288x2974/432x243/filters:format(jpg)/2026/11/04/6aeaa5ae96398989049934.jpg",
-   "date": null,
-   "pubdate": "2026-11-04T06:36:03.451424+00:00"
-  },
-  {
-   "title": "1:00 article 1 minute RESULTATS. Les démocrates s'emparent du Sénat, les républicains de Donald Trump en grande difficulté aux midterms 2026... Suivez le décompte des sièges au Congrès",
-   "link": "https://www.franceinfo.fr/monde/usa/midterms-2018/resultats-midterms-2026-donald-trump-va-t-il-perdre-le-controle-du-senat-ou-de-la-chambre-des-representants-suivez-le-decompte-des-sieges-en-direct_8237248.html",
-   "summary": "RESULTATS. Les démocrates s'emparent du Sénat, les républicains de Donald Trump en grande difficulté aux midterms 2026... Suivez le décompte des sièges au Congrès",
-   "image": "https://www.franceinfo.fr/pictures/bCGCDQttXV7KeqlaEj2Yu8hI7QU/456x0:2616x2160/100x100/filters:format(jpg)/2026/10/23/6adb60c823cda292054517.png",
-   "date": null,
-   "pubdate": "2026-11-03T23:28:23.831037+00:00"
-  },
-  {
-   "title": "4:24 vidéo 4 minutes 24 \"Pour quatre couronnes achetées, deux offertes !\" : visite de \"Molaire City\", la ville mexicaine qui a fait du soin dentaire à moindre coût pour les Américains un business",
-   "link": "https://www.franceinfo.fr/monde/ameriques/pour-quatre-couronnes-achetees-deux-offertes-visite-de-molaire-city-la-ville-mexicaine-qui-a-fait-du-soin-dentaire-a-moindre-cout-pour-les-americains-un-business_8266604.html",
-   "summary": "\"Pour quatre couronnes achetées, deux offertes !\" : visite de \"Molaire City\", la ville mexicaine qui a fait du soin dentaire à moindre coût pour les Américains un business",
-   "image": "https://www.franceinfo.fr/pictures/zg_uforkJdXmprEOYB0VURAKLv4/371x0:997x626/100x100/filters:format(jpg)/2026/11/03/6aea57b698e00972531933.jpg",
-   "date": null,
-   "pubdate": "2026-11-03T23:28:23.831037+00:00"
-  },
-  {
-   "title": "La Corée du Nord promet une \"riposte\" plus forte face à \"la politique hostile\" des États-Unis L'influente sœur du dirigeant Kim Jong-un a laissé entendre que Pyongyang voyait peu d'intérêt à reprendre la voie diplomatique avec les Etats-Unis.",
-   "link": "https://www.franceinfo.fr/monde/coree-du-nord/la-coree-du-nord-promet-une-riposte-plus-forte-face-a-la-politique-hostile-des-etats-unis_8266652.html",
-   "summary": "La Corée du Nord promet une \"riposte\" plus forte face à \"la politique hostile\" des États-Unis",
-   "image": "https://www.franceinfo.fr/pictures/F8kUNVJKCfVLyQjOmeexspdsHgE/0x0:1024x576/432x243/filters:format(jpg)/2026/11/04/6aea6b5667abc755397203.jpg",
-   "date": null,
-   "pubdate": "2026-11-03T23:28:23.831037+00:00"
-  },
-  {
-   "title": "\"Une question de dignité\" : le ministre espagnol des Transports présente sa démission après la collision meurtrière entre deux trains \"Un ministre des Transports d'un pays comme l'Espagne ne peut pas rester en fonction après deux accidents d'une telle gravité en moins d'un an\", a dit Oscar Puente, en référence à l'accident au sud de Madrid, fin octobre, et à celui en Andalousie, en janvier.",
-   "link": "https://www.franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/une-question-de-dignite-le-ministre-espagnol-des-transports-presente-sa-demission-apres-la-collision-meurtriere-entre-deux-trains_8266619.html",
-   "summary": "\"Une question de dignité\" : le ministre espagnol des Transports présente sa démission après la collision meurtrière entre deux trains",
-   "image": "https://www.franceinfo.fr/pictures/xX9L0gwsPl8hXbxmpyb7jUoB9Cc/0x66:1024x642/432x243/filters:format(jpg)/2026/11/03/6aea5b4de7c9d898366243.jpg",
-   "date": null,
-   "pubdate": "2026-11-03T23:28:23.831037+00:00"
-  },
-  {
-   "title": "Midterms 2026 : revivez la nuit américaine et les premiers résultats des élections de mi-mandat cruciales pour Donald Trump Près de 250 millions d'électeurs américains étaient appelés aux urnes dans ces élections de mi-mandat qui s'apparentent à un référendum pour ou contre l'action de Donald Trump.",
-   "link": "https://www.franceinfo.fr/monde/usa/midterms-2018/direct-midterms-2026-suivez-les-resultats-des-elections-de-mi-mandat-cruciales-pour-donald-trump-et-les-premieres-reactions_8265464.html",
-   "summary": "Midterms 2026 : revivez la nuit américaine et les premiers résultats des élections de mi-mandat cruciales pour Donald Trump",
-   "image": "https://www.franceinfo.fr/pictures/z4l8uVA4AvtQT600LaZWouxtQuA/0x12:1024x588/432x243/filters:format(jpg)/2026/11/04/6aeaa9c319fdf900978382.jpg",
-   "date": null,
-   "pubdate": "2026-11-03T23:28:23.831037+00:00"
-  },
-  {
-   "title": "8:26 audio 8 minutes 26 En Iran, une population \"prise en étau\" entre la répression du régime et la menace d'une reprise de la guerre La population iranienne est \"à la fois contre la guerre et contre le régime\", témoigne Azadeh Kian, sociologue franco-iranienne, invitée de franceinfo. Alors que l'inflation et la répression pèsent lourdement sur le quotidien des habitants, elle décrit une société profondément inquiète, mais traversée par une immense colère.",
-   "link": "https://www.franceinfo.fr/replay-radio/la-question-des-informes/en-iran-une-population-prise-en-etau-entre-la-repression-du-regime-et-la-menace-d-une-reprise-de-la-guerre_8244820.html",
-   "summary": "En Iran, une population \"prise en étau\" entre la répression du régime et la menace d'une reprise de la guerre",
-   "image": "https://www.franceinfo.fr/pictures/q3toTAogLv7aUprd1KsBq3PdmvA/0x153:8175x4751/432x243/filters:format(jpg)/2026/11/03/6aea1c6fbc75a698329986.jpg",
-   "date": null,
-   "pubdate": "2026-11-03T23:28:23.831037+00:00"
-  },
-  {
-   "title": "Un enfant meurt de la rougeole aux États-Unis, une première depuis 30 ans dans l'Etat de New York C'est une première depuis 30 ans dans l'Etat de New York : un enfant est mort de la rougeole. Alors que la rougeole avait disparu du territoire américain au début des années 2000, elle fait son retour, favorisée par le recul de la vaccination et la défiance envers les vaccins.",
-   "link": "https://www.franceinfo.fr/sante/maladie/un-enfant-meurt-de-la-rougeole-aux-etats-unis-une-premiere-depuis-30-ans-dans-l-etat-de-new-york_8266160.html",
-   "summary": "Un enfant meurt de la rougeole aux États-Unis, une première depuis 30 ans dans l'Etat de New York",
-   "image": "https://www.franceinfo.fr/pictures/xhJKZQx2k_p-KHZJT6GwdL-MeVw/0x433:6000x3808/432x243/filters:format(jpg)/2026/11/03/6aea0daf7e73f078403473.jpg",
-   "date": null,
-   "pubdate": "2026-11-03T23:28:23.831037+00:00"
-  },
-  {
-   "title": "55:16 audio 55 minutes 16 Quel scénario pour Donald Trump en cas de défaite aux midterms ?...Les informés de franceinfo du mardi 3 novembre 2026 Tous les soirs, les informés débattent de l'actualité, cette semaine autour de Hadrien Bect.",
-   "link": "https://www.franceinfo.fr/replay-radio/les-informes-de-france-info/quel-scenario-pour-donald-trump-en-cas-de-defaite-aux-midterms-les-informes-de-franceinfo-du-mardi-3-novembre-2026_8244823.html",
-   "summary": "Quel scénario pour Donald Trump en cas de défaite aux midterms ?...Les informés de franceinfo du mardi 3 novembre 2026",
-   "image": "https://www.franceinfo.fr/pictures/IiirTeaA_W9WjpMU3kfyzX79C2k/212x68:1067x549/432x243/filters:format(jpg)/2026/11/03/6aea32aecfefb580914052.png",
-   "date": "2026-11-03T11:00:00+00:00",
-   "pubdate": "2026-11-03T11:00:00+00:00"
-  },
-  {
-   "title": ": Reportage 5:03 audio 5 minutes 3 : Reportage \"C'est très difficile de survivre\" : aux États-Unis, le coût de la vie pousse toujours plus de familles vers les banques alimentaires",
-   "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-c-est-tres-difficile-de-survivre-aux-etats-unis-le-cout-de-la-vie-pousse-toujours-plus-de-familles-vers-les-banques-alimentaires_8244880.html",
-   "summary": "\"C'est très difficile de survivre\" : aux États-Unis, le coût de la vie pousse toujours plus de familles vers les banques alimentaires",
-   "image": "https://www.franceinfo.fr/pictures/sWQQMGtOSNI84li02o6xbNdCGY8/200x0:1400x1200/100x100/filters:format(jpg)/2026/11/02/6ae8fc59b39ff827276311.jpg",
-   "date": null,
-   "pubdate": "2026-11-03T06:55:17.256949+00:00"
-  },
-  {
-   "title": ": Reportage 5:13 audio 5 minutes 13 : Reportage \"J'essaie de voter pour la meilleure personne\" : dans le Maine, des Américains encore indécis à la veille des élections de mi-mandat",
-   "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-j-essaie-de-voter-pour-la-meilleure-personne-dans-le-maine-des-americains-encore-indecis-a-la-veille-des-elections-de-mi-mandat_8243356.html",
-   "summary": "\"J'essaie de voter pour la meilleure personne\" : dans le Maine, des Américains encore indécis à la veille des élections de mi-mandat",
-   "image": "https://www.franceinfo.fr/pictures/WnsBOz9ThaiBV9qlki1O4Sf1SxU/840x0:3000x2160/100x100/filters:format(jpg)/2026/11/01/6ae72d62c3ad1367602766.jpg",
-   "date": null,
-   "pubdate": "2026-11-02T11:20:49.905299+00:00"
   }
  ]
 }
