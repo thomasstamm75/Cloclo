@@ -1,8 +1,7 @@
 {
- "etag": "\"6rndi\"",
+ "etag": "W/\"gzzejs\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/crise-petroliere-quelle-marge-pour-taxer-les-profits-des-raffineurs-1629158": "2026-10-08T10:43:19.512955+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/les-start-up-epargnees-dans-le-projet-de-budget-2027-du-gouvernement-5421691": "2026-10-09T10:42:24.062501+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/dette-la-france-au-bord-du-defaut-7190305": "2026-10-12T11:00:00+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/japon-le-miracle-de-la-dette-publique-est-il-en-train-de-prendre-fin-9094977": "2026-10-13T06:51:44.989836+00:00",
@@ -20,10 +19,19 @@
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/les-cryptomonnaies-qui-enrichissent-la-famille-trump-4253986": "2026-10-29T10:06:57.704936+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/l-ia-moteur-fragile-de-la-croissance-americaine-6786048": "2026-10-30T10:09:15.728182+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/territoires-zero-chomeur-de-longue-duree-un-retour-a-l-emploi-perenne-encore-menace-2176224": "2026-11-02T11:20:56.517484+00:00",
-  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/les-ministeres-dopes-a-l-ia-pour-faire-des-economies-budgetaires-7507164": "2026-11-03T06:55:23.591112+00:00"
+  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/les-ministeres-dopes-a-l-ia-pour-faire-des-economies-budgetaires-7507164": "2026-11-03T06:55:23.591112+00:00",
+  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/le-casse-tete-du-nouveau-regime-europeen-des-societes-6410572": "2026-11-04T06:36:11.560873+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "Le casse-tÃªte du nouveau rÃ©gime europÃ©en des sociÃ©tÃ©s",
+   "link": "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/le-casse-tete-du-nouveau-regime-europeen-des-societes-6410572",
+   "summary": "Câest un nouvel acte de simplification administrative, Ã destination des entreprises, qui se joue dans la douleur au Parlement europÃ©en. Un 28áµ rÃ©gime de sociÃ©tÃ©s, baptisÃ© \"EU Inc\", qui sâajoute aux 27 dÃ©jÃ existants dans les Ãtats membres. Trop de simplification tue-t-elle la simplificationÂ ?",
+   "image": "https://www.radiofrance.fr/pikapi/images/488a4cf3-0b07-46f7-b338-3485a2986dc8/2048",
+   "date": null,
+   "pubdate": "2026-11-04T06:36:11.560873+00:00"
+  },
   {
    "title": "Les ministÃ¨res dopÃ©s Ã l'IA pour faire des Ã©conomies budgÃ©taires",
    "link": "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/les-ministeres-dopes-a-l-ia-pour-faire-des-economies-budgetaires-7507164",
@@ -167,14 +175,6 @@
    "image": "https://www.radiofrance.fr/pikapi/images/634f5b07-c959-4670-8121-cd22f6479a04/2048",
    "date": null,
    "pubdate": "2026-10-09T10:42:24.062501+00:00"
-  },
-  {
-   "title": "Crise pÃ©troliÃ¨reÂ : quelle marge pour taxer les profits des raffineursÂ ?",
-   "link": "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/crise-petroliere-quelle-marge-pour-taxer-les-profits-des-raffineurs-1629158",
-   "summary": "La flambÃ©e des prix des carburants Ã la pompe en France ne s'explique pas seulement par le blocage du dÃ©troit d'Ormuz et les difficultÃ©s Ã exporter le pÃ©trole brut du Moyen-Orient. Le manque de capacitÃ© de raffinage Ã l'Ã©chelle mondiale fait aussi monter les prix... et les profits des raffineurs.",
-   "image": "https://www.radiofrance.fr/pikapi/images/1294646c-9a33-4123-8b7a-2205a4c613b0/2048",
-   "date": null,
-   "pubdate": "2026-10-08T10:43:19.512955+00:00"
   }
  ]
 }
