@@ -1,13 +1,13 @@
 {
  "etag": "",
- "last_modified": "Thu, 05 Nov 2026 05:01:25 GMT",
+ "last_modified": "Thu, 05 Nov 2026 16:46:44 GMT",
  "first_seen": {
   "https://www.jean-jaures.org/publication/du-reve-continental-au-marketing-politique-quand-le-panafricanisme-devient-une-ressource-de-pouvoir/": "2026-11-03T11:00:00+00:00",
   "https://www.jean-jaures.org/publication/24-heures-en-france-le-travail-une-colonne-encore-vertebrale/": "2026-11-03T11:00:00+00:00",
   "https://www.jean-jaures.org/publication/populisme-europeen-et-discours-anti-genre-focus-sur-la-macedoine-du-nord/": "2026-10-30T11:00:00+00:00",
   "https://www.jean-jaures.org/publication/sommet-russie-afrique-2026-enjeux-et-lecons-dun-exercice-diplomatique-a-forte-portee-symbolique/": "2026-10-30T11:00:00+00:00",
   "https://www.jean-jaures.org/publication/les-francais-et-le-futur-analyse-des-visions-concurrentes-a-lapproche-de-2027/": "2026-10-29T11:00:00+00:00",
-  "https://www.jean-jaures.org/publication/abdul-el-sayed-et-lelection-au-senat-etatsunien-dans-le-michigan/": "2026-10-28T11:00:00+00:00"
+  "https://www.jean-jaures.org/publication/payetavocation-quand-prendre-soin-dautrui-rend-pauvre/": "2026-11-02T11:00:00+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
@@ -26,6 +26,14 @@
    "image": "",
    "date": "2026-11-03T11:00:00+00:00",
    "pubdate": "2026-11-03T11:00:00+00:00"
+  },
+  {
+   "title": "#PayeTaVocation : quand prendre soin d’autrui rend pauvre",
+   "link": "https://www.jean-jaures.org/publication/payetavocation-quand-prendre-soin-dautrui-rend-pauvre/",
+   "summary": "",
+   "image": "",
+   "date": "2026-11-02T11:00:00+00:00",
+   "pubdate": "2026-11-02T11:00:00+00:00"
   },
   {
    "title": "Populisme européen et discours anti-genre : focus sur la Macédoine du Nord",
@@ -50,14 +58,6 @@
    "image": "",
    "date": "2026-10-29T11:00:00+00:00",
    "pubdate": "2026-10-29T11:00:00+00:00"
-  },
-  {
-   "title": "Abdul El-Sayed et l’élection au Sénat étatsunien dans le Michigan",
-   "link": "https://www.jean-jaures.org/publication/abdul-el-sayed-et-lelection-au-senat-etatsunien-dans-le-michigan/",
-   "summary": "",
-   "image": "",
-   "date": "2026-10-28T11:00:00+00:00",
-   "pubdate": "2026-10-28T11:00:00+00:00"
   }
  ]
 }

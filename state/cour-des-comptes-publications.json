@@ -1,9 +1,8 @@
 {
- "etag": "W/\"1793861781\"",
- "last_modified": "Thu, 05 Nov 2026 06:56:21 GMT",
+ "etag": "W/\"1793899639\"",
+ "last_modified": "Thu, 05 Nov 2026 17:27:19 GMT",
  "first_seen": {
   "https://www.ccomptes.fr/fr/publications/les-unites-mixtes-de-recherche-umr": "2026-10-08T11:00:00+00:00",
-  "https://www.ccomptes.fr/fr/publications/lagence-nationale-de-la-recherche-anr-une-trajectoire-budgetaire-devenue-insoutenable": "2026-10-08T11:00:00+00:00",
   "https://www.ccomptes.fr/fr/publications/lencadrement-des-loyers": "2026-10-14T11:00:00+00:00",
   "https://www.ccomptes.fr/fr/publications/le-troisieme-cycle-des-etudes-de-medecine": "2026-10-14T11:00:00+00:00",
   "https://www.ccomptes.fr/fr/publications/commune-de-grand-champ-morbihan-1": "2026-10-16T11:00:00+00:00",
@@ -11,10 +10,19 @@
   "https://www.ccomptes.fr/fr/publications/commune-de-capesterre-belle-eau-guadeloupe-14": "2026-10-22T11:00:00+00:00",
   "https://www.ccomptes.fr/fr/publications/les-outils-bureautiques-et-collaboratifs-au-sein-de-letat": "2026-10-22T11:00:00+00:00",
   "https://www.ccomptes.fr/fr/publications/le-plan-dinvestissement-france-2030": "2026-10-28T11:00:00+00:00",
-  "https://www.ccomptes.fr/fr/publications/levolution-du-budget-du-ministere-de-la-culture-depuis-2015": "2026-11-03T11:00:00+00:00"
+  "https://www.ccomptes.fr/fr/publications/levolution-du-budget-du-ministere-de-la-culture-depuis-2015": "2026-11-03T11:00:00+00:00",
+  "https://www.ccomptes.fr/fr/publications/le-fonds-de-prevention-des-risques-naturels-majeurs-0": "2026-11-05T11:00:00+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "Le fonds de prévention des risques naturels majeurs",
+   "link": "https://www.ccomptes.fr/fr/publications/le-fonds-de-prevention-des-risques-naturels-majeurs-0",
+   "summary": "À l’heure des débats sur le budget 2027 et les priorités de la dépense publique, la Cour des comptes apporte un éclairage sur le financement de la prévention des risques naturels. Son rapport examine la place du fonds de prévention des risques naturels majeurs (FPRNM), dit « fonds Barnier », et les ...",
+   "image": "https://www.ccomptes.fr/sites/default/files/styles/teaser_182x98/public/2026-09/Fonds-prevention-des-risques-naturels-majeurs-182x98.jpg?itok=6l8h9Upn",
+   "date": "2026-11-05T11:00:00+00:00",
+   "pubdate": "2026-11-05T11:00:00+00:00"
+  },
   {
    "title": "L’évolution du budget du ministère de la culture depuis 2015",
    "link": "https://www.ccomptes.fr/fr/publications/levolution-du-budget-du-ministere-de-la-culture-depuis-2015",
@@ -84,14 +92,6 @@
    "link": "https://www.ccomptes.fr/fr/publications/les-unites-mixtes-de-recherche-umr",
    "summary": "Nées dans les années 1960 sous l’impulsion du Centre national de la recherche scientifique (CNRS), les unités mixtes de recherche (UMR), qui ont permis aux organismes nationaux de recherche (ONR) et aux universités de constituer des laboratoires de recherche de niveau mondial, présentent aujourd’hui...",
    "image": "https://www.ccomptes.fr/sites/default/files/styles/teaser_182x98/public/2025-03/Centre-national-de-la-recherche-scientifique-CNRS-182x98.jpg?itok=VCTjs68t",
-   "date": "2026-10-08T11:00:00+00:00",
-   "pubdate": "2026-10-08T11:00:00+00:00"
-  },
-  {
-   "title": "L’Agence nationale de la recherche (ANR) : une trajectoire budgétaire devenue insoutenable, une réponse indispensable de l’État",
-   "link": "https://www.ccomptes.fr/fr/publications/lagence-nationale-de-la-recherche-anr-une-trajectoire-budgetaire-devenue-insoutenable",
-   "summary": "L’Agence nationale de la recherche (ANR), qui est devenue un acteur incontournable du financement compétitif de la recherche en France, dans le cadre d’appels à projets, et met en œuvre à ce titre une palette globalement pertinente d’instruments financiers variés, est confrontée au risque d’une impa...",
-   "image": "https://www.ccomptes.fr/sites/default/files/styles/teaser_182x98/public/2023-12/Agence-biomedecine-182x98.jpg?itok=hcEo4lZl",
    "date": "2026-10-08T11:00:00+00:00",
    "pubdate": "2026-10-08T11:00:00+00:00"
   }

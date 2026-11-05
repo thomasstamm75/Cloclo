@@ -1,6 +1,6 @@
 {
- "etag": "W/\"1793835603\"",
- "last_modified": "Wed, 04 Nov 2026 23:40:03 GMT",
+ "etag": "W/\"1793898731\"",
+ "last_modified": "Thu, 05 Nov 2026 17:12:11 GMT",
  "first_seen": {
   "https://www.strategie-plan.gouv.fr/publications/la-realite-derriere-le-miracle-meloni-une-occasion-manquee-de-redresser": "2026-10-22T17:16:23.089749+00:00",
   "https://www.strategie-plan.gouv.fr/publications/france-2035-france-2050-focus-modes-et-lieux-de-vie-proteger-les-liens-amenager-les": "2026-10-06T11:00:00+00:00",
@@ -11,7 +11,7 @@
   "https://www.strategie-plan.gouv.fr/publications/hcfips-salaire-brut-salaire-net-evolutions-comparees-et-constats": "2026-06-16T11:00:00+00:00",
   "https://www.strategie-plan.gouv.fr/publications/hcaam-appel-doffres-organisation-dateliers-prospectifs-sur-les-scenarios-de": "2026-10-07T11:00:00+00:00",
   "https://www.strategie-plan.gouv.fr/publications/hcfea-colloque-anniversaire-des-10-ans-du-hcfea-les-solidarites-lheure-des-grandes": "2026-10-07T11:00:00+00:00",
-  "https://www.strategie-plan.gouv.fr/publications/hcfips-colloque-lois-de-financement-de-la-securite-sociale-30-ans-et-apres": "2026-05-06T11:00:00+00:00"
+  "https://www.strategie-plan.gouv.fr/publications/hcaam-rapport-du-hcaam-trois-scenarios-pour-une-reforme-des-depassements-dhonoraires": "2026-06-09T11:00:00+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
@@ -88,12 +88,12 @@
    "pubdate": "2026-06-16T11:00:00+00:00"
   },
   {
-   "title": "HCFiPS | Colloque : Lois de financement de la Sécurité sociale : 30 ans, et après ?",
-   "link": "https://www.strategie-plan.gouv.fr/publications/hcfips-colloque-lois-de-financement-de-la-securite-sociale-30-ans-et-apres",
-   "summary": "Haut Conseil du financement de la protection sociale",
+   "title": "HCAAM | Rapport du Hcaam - Trois scénarios pour une réforme des dépassements d’honoraires des médecins",
+   "link": "https://www.strategie-plan.gouv.fr/publications/hcaam-rapport-du-hcaam-trois-scenarios-pour-une-reforme-des-depassements-dhonoraires",
+   "summary": "Haut Conseil pour l’avenir de l’assurance maladie",
    "image": "",
-   "date": "2026-05-06T11:00:00+00:00",
-   "pubdate": "2026-05-06T11:00:00+00:00"
+   "date": "2026-06-09T11:00:00+00:00",
+   "pubdate": "2026-06-09T11:00:00+00:00"
   }
  ]
 }

@@ -1,14 +1,10 @@
 {
- "etag": "\"de14f8cfba34321b4b5608d1fd55b5b5-gzip\"",
+ "etag": "\"4cc1c44f85cc39e3a16d3eeb9a1de329-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/reportage-plus-de-huit-millions-de-livres-pour-enfants-partis-en-fumee-l-ukraine-face-a-une-penurie-de-manuels-scolaires-apres-des-frappes-russes_8192342.html": "2026-10-27T00:31:28.943056+00:00",
   "https://www.franceinfo.fr/monde/russie/enquete-franceinfo-on-l-appelait-poutine-girl-comment-la-france-verrouille-les-demandes-de-visas-diplomatiques-russes-pour-limiter-les-risques-d-espionnage_8204495.html": "2026-10-27T09:06:52.195523+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/temoignages-simulacres-d-execution-tortures-physiques-un-ancien-prisonnier-ukrainien-en-russie-raconte-les-sevices-subis-apres-sa-capture-dans-le-donbass_8202320.html": "2026-10-27T09:06:52.195523+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-evacuation-de-la-ville-d-olechky-un-exemple-reussi-mais-encore-isole-de-cessez-le-feu-humanitaire-entre-l-ukraine-et-la-russie_8261840.html": "2026-10-31T19:20:45.283143+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/les-habitants-evacues-d-olechky-ville-occupee-par-la-russie-sont-arrives-en-ukraine_8261879.html": "2026-10-31T19:20:45.283143+00:00",
-  "https://www.franceinfo.fr/monde/europe/en-bulgarie-un-scrutin-presidentiel-dans-l-ombre-de-la-guerre-en-ukraine-et-des-attaques-russes-en-mer-noire_8259218.html": "2026-10-31T19:20:45.283143+00:00",
-  "https://www.franceinfo.fr/monde/europe/migrants/cinq-britanniques-interpelles-jeudi-dans-le-nord-pour-des-actions-anti-migrants_8262203.html": "2026-11-01T00:10:58.078344+00:00",
   "https://www.franceinfo.fr/replay-radio/ces-chansons-qui-font-l-actu/noe-preszow-chante-sa-belgique_8241103.html": "2026-11-01T13:37:58.974904+00:00",
   "https://www.franceinfo.fr/monde/europe/migrants/plus-de-130-migrants-en-route-vers-les-canaries-secourus-au-large-de-la-mauritanie_8263082.html": "2026-11-01T19:44:49.932666+00:00",
   "https://www.franceinfo.fr/monde/europe/allemagne/en-allemagne-des-manifestations-rassemblent-120-000-personnes-samedi-la-classe-politique-denonce-des-violences_8262866.html": "2026-11-01T19:44:49.932666+00:00",
@@ -17,9 +13,7 @@
   "https://www.franceinfo.fr/monde/europe/en-irlande-un-appel-a-l-interdiction-des-jeux-a-gratter-bon-marche-pour-proteger-les-enfants_8264465.html": "2026-11-02T21:44:58.960216+00:00",
   "https://www.franceinfo.fr/replay-radio/histoire-du-jour/les-evacues-ukrainiens-d-olechky-racontent-la-famine-dans-la-ville-sous-occupation-russe_8263502.html": "2026-11-02T21:44:58.960216+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-russie-declare-avoir-intercepte-493-drones-qui-se-dirigeaient-vers-moscou_8265251.html": "2026-11-03T06:55:15.789705+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-ennemi-a-largue-des-petites-bombes-pour-attirer-les-gens-sur-place-avant-de-les-viser-29-morts-apres-une-pluie-de-frappes-dans-le-sud-est-de-l-ukraine_8265974.html": "2026-11-03T17:07:46.645992+00:00",
   "https://www.franceinfo.fr/monde/europe/dans-le-sillage-des-manifestations-europeennes-une-colere-sociale-qui-gronde-aussi-en-suisse_8265935.html": "2026-11-03T17:07:46.645992+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/29-morts-apres-des-frappes-russes-dans-le-sud-est-de-l-ukraine_8265914.html": "2026-11-03T17:07:46.645992+00:00",
   "https://www.franceinfo.fr/monde/europe/union-europeenne/donald-tusk-affirme-que-la-pologne-a-dejoue-une-possible-provocation-a-la-frontiere-avec-l-enclave-russe-de-kaliningrad_8265896.html": "2026-11-03T17:07:46.645992+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/les-etats-unis-annoncent-des-negociations-de-travail-entre-la-russie-et-l-ukraine-les-10-et-11-novembre-a-abou-dhabi_8265485.html": "2026-11-03T17:07:46.645992+00:00",
   "https://www.franceinfo.fr/replay-radio/l-edito-politique/pourquoi-marine-le-pen-se-mele-t-elle-de-la-crise-en-pologne_8244814.html": "2026-11-03T17:07:46.645992+00:00",
@@ -29,36 +23,90 @@
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/vos-questions-sur-l-effort-de-guerre-de-la-france/": "2026-11-03T23:28:21.851764+00:00",
   "https://www.franceinfo.fr/monde/europe/crise-en-pologne-peut-on-parler-d-un-coup-d-etat_8267939.html": "2026-11-04T17:19:33.406625+00:00",
   "https://www.franceinfo.fr/politique/grand-entretien-en-belgique-un-cordon-sanitaire-mediatique-empeche-toute-forme-de-banalisation-de-l-extreme-droite-un-outil-difficile-a-imaginer-en-france_8265599.html": "2026-11-04T17:19:33.406625+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-volodymyr-zelensky-accorde-une-decoration-a-melania-trump-pour-son-engagement-humanitaire_8268350.html": "2026-11-04T23:44:31.937857+00:00"
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-volodymyr-zelensky-accorde-une-decoration-a-melania-trump-pour-son-engagement-humanitaire_8268350.html": "2026-11-04T23:44:31.937857+00:00",
+  "https://www.franceinfo.fr/economie/transports/ce-que-l-on-sait-des-alertes-a-la-bombe-qui-ont-vise-douze-vols-europeens-jeudi_8269349.html": "2026-11-05T17:27:51.322593+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/apres-la-defaite-du-camp-de-donald-trump-aux-midterms-le-president-ukrainien-volodymyr-zelensky-dit-esperer-davantage-de-soutien-americain_8268959.html": "2026-11-05T17:27:51.322593+00:00",
+  "https://www.franceinfo.fr/replay-radio/le-monde-et-vous/la-generation-tiktok-redecouvre-l-art-du-discours-avec-les-manifestations_8248138.html": "2026-11-05T17:27:51.322593+00:00",
+  "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/bruxelles-poursuit-son-projet-de-simplifier-les-lois-qui-protegent-la-biodiversite-en-europe_8248129.html": "2026-11-05T17:27:51.322593+00:00",
+  "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/faut-il-sauver-le-soldat-trump-s-interrogent-les-dirigeants-du-monde-apres-la-debacle-electorale-du-president-americain_8248150.html": "2026-11-05T17:27:51.322593+00:00",
+  "https://www.franceinfo.fr/monde/europe/migrants/au-honduras-les-migrants-reprennent-deja-la-route-apres-la-defaite-de-donald-trump-aux-midterms_8268884.html": "2026-11-05T17:27:51.322593+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "Guerre en Ukraine : Volodymyr Zelensky accorde une décoration à Melania Trump pour son engagement \"humanitaire\" La Première dame des Etats-Unis a notamment été impliquée dans un récent cessez-le-feu localisé ayant permis l'évacuation de la ville ukrainienne d'Olechky. 4 novembre",
+   "title": "Ce que l'on sait des alertes à la bombe qui ont visé une vingtaine de vols européens et forcé un avion à atterrir en urgence en France Tous les appareils se sont posés en sécurité. On ne connaît pour l'heure ni l'origine ni les motivations de ces fausses alertes. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/economie/transports/ce-que-l-on-sait-des-alertes-a-la-bombe-qui-ont-vise-douze-vols-europeens-jeudi_8269349.html",
+   "summary": "Ce que l'on sait des alertes à la bombe qui ont visé une vingtaine de vols européens et forcé un avion à atterrir en urgence en France",
+   "image": "https://www.franceinfo.fr/pictures/hEikWuTJGU6jEZn-YY39vpP4T5s/0x0:992x682/432x297/filters:format(jpg)/2026/11/05/6aec93e549e61077072145.jpg",
+   "date": null,
+   "pubdate": "2026-11-05T17:27:51.322593+00:00"
+  },
+  {
+   "title": "Après la défaite du camp de Donald Trump aux midterms, le président ukrainien Volodymyr Zelensky dit espérer davantage de soutien américain Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/apres-la-defaite-du-camp-de-donald-trump-aux-midterms-le-president-ukrainien-volodymyr-zelensky-dit-esperer-davantage-de-soutien-americain_8268959.html",
+   "summary": "Après la défaite du camp de Donald Trump aux midterms, le président ukrainien Volodymyr Zelensky dit espérer davantage de soutien américain",
+   "image": "https://www.franceinfo.fr/pictures/S_Hm1u50Js-nuG9XrBDCq36yeIA/0x53:1024x629/432x243/filters:format(jpg)/2026/11/05/6aec4440edb47847404713.jpg",
+   "date": null,
+   "pubdate": "2026-11-05T17:27:51.322593+00:00"
+  },
+  {
+   "title": "La génération TikTok redécouvre l'art du discours avec les manifestations Aujourd'hui 2:57 audio 2 minutes 57",
+   "link": "https://www.franceinfo.fr/replay-radio/le-monde-et-vous/la-generation-tiktok-redecouvre-l-art-du-discours-avec-les-manifestations_8248138.html",
+   "summary": "La génération TikTok redécouvre l'art du discours avec les manifestations",
+   "image": "https://www.franceinfo.fr/pictures/WGHPoO89YEye3hjsFcWVDzdY3lY/0x0:4096x2304/432x243/filters:format(jpg)/2026/10/27/6ae08806a2ea6179544769.jpg",
+   "date": null,
+   "pubdate": "2026-11-05T17:27:51.322593+00:00"
+  },
+  {
+   "title": "Bruxelles poursuit son projet de simplifier les lois qui protègent la biodiversité en Europe Aujourd'hui 2:26 audio 2 minutes 26",
+   "link": "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/bruxelles-poursuit-son-projet-de-simplifier-les-lois-qui-protegent-la-biodiversite-en-europe_8248129.html",
+   "summary": "Bruxelles poursuit son projet de simplifier les lois qui protègent la biodiversité en Europe",
+   "image": "https://www.franceinfo.fr/pictures/MthDFspQsOurL3af0P6SjCX9dGU/0x52:1024x628/432x243/filters:format(jpg)/2026/11/05/6aec3e1f87640169919098.jpg",
+   "date": null,
+   "pubdate": "2026-11-05T17:27:51.322593+00:00"
+  },
+  {
+   "title": "Faut-il sauver le soldat Trump ?, s'interrogent les dirigeants du monde après la débâcle électorale du président américain Aujourd'hui 2:53 audio 2 minutes 53",
+   "link": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/faut-il-sauver-le-soldat-trump-s-interrogent-les-dirigeants-du-monde-apres-la-debacle-electorale-du-president-americain_8248150.html",
+   "summary": "Faut-il sauver le soldat Trump ?, s'interrogent les dirigeants du monde après la débâcle électorale du président américain",
+   "image": "https://www.franceinfo.fr/pictures/dT4crZyludwoHbjGtDrc-5NiNIQ/0x53:1024x629/432x243/filters:format(jpg)/2026/11/05/6aec3876e3303535482429.jpg",
+   "date": null,
+   "pubdate": "2026-11-05T17:27:51.322593+00:00"
+  },
+  {
+   "title": "Au Honduras, les migrants reprennent déjà la route des États-Unis après la défaite de Donald Trump aux midterms Aujourd'hui 1:32 vidéo 1 minute 32",
+   "link": "https://www.franceinfo.fr/monde/europe/migrants/au-honduras-les-migrants-reprennent-deja-la-route-apres-la-defaite-de-donald-trump-aux-midterms_8268884.html",
+   "summary": "Au Honduras, les migrants reprennent déjà la route des États-Unis après la défaite de Donald Trump aux midterms",
+   "image": "https://www.franceinfo.fr/pictures/N02Pdl6u_m7FMWunEUswdLCqzRQ/16x0:1021x565/432x243/filters:format(jpg)/2026/11/05/6aec2aa42f928300131587.jpg",
+   "date": null,
+   "pubdate": "2026-11-05T17:27:51.322593+00:00"
+  },
+  {
+   "title": "Guerre en Ukraine : Volodymyr Zelensky accorde une décoration à Melania Trump pour son engagement \"humanitaire\" 4 novembre",
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-volodymyr-zelensky-accorde-une-decoration-a-melania-trump-pour-son-engagement-humanitaire_8268350.html",
    "summary": "Guerre en Ukraine : Volodymyr Zelensky accorde une décoration à Melania Trump pour son engagement \"humanitaire\"",
-   "image": "https://www.franceinfo.fr/pictures/NoJyhoU4FslIVCFMHe8txemA8n4/0x0:992x682/432x297/filters:format(jpg)/2026/11/04/6aeb85a49307a062952759.jpg",
+   "image": "https://www.franceinfo.fr/pictures/dIW8eUFmryz0cVuI2ZGrOThlF1k/0x0:1024x576/432x243/filters:format(jpg)/2026/11/04/6aeb85a49307a062952759.jpg",
    "date": null,
    "pubdate": "2026-11-04T23:44:31.937857+00:00"
   },
   {
-   "title": "Crise en Pologne : peut-on parler d'un coup d'Etat ?",
+   "title": "Crise en Pologne : peut-on parler d'un coup d'Etat ? 4 novembre",
    "link": "https://www.franceinfo.fr/monde/europe/crise-en-pologne-peut-on-parler-d-un-coup-d-etat_8267939.html",
-   "summary": "",
+   "summary": "Crise en Pologne : peut-on parler d'un coup d'Etat ?",
    "image": "https://www.franceinfo.fr/pictures/aBuMGtTWLBvuq7DjHojZp4eNryM/0x63:1200x738/432x243/filters:format(jpg)/2026/11/04/6aeb4f8943eca514532379.jpg",
    "date": null,
    "pubdate": "2026-11-04T17:19:33.406625+00:00"
   },
   {
-   "title": ": Grand entretien 5:00 article 5 minutes : Grand entretien En Belgique, un cordon sanitaire médiatique \"empêche toute forme de banalisation de l'extrême droite\", un outil \"difficile\" à imaginer en France",
+   "title": ": Grand entretien En Belgique, un cordon sanitaire médiatique \"empêche toute forme de banalisation de l'extrême droite\", un outil \"difficile\" à imaginer en France : Grand entretien 5:00 article 5 minutes",
    "link": "https://www.franceinfo.fr/politique/grand-entretien-en-belgique-un-cordon-sanitaire-mediatique-empeche-toute-forme-de-banalisation-de-l-extreme-droite-un-outil-difficile-a-imaginer-en-france_8265599.html",
    "summary": "En Belgique, un cordon sanitaire médiatique \"empêche toute forme de banalisation de l'extrême droite\", un outil \"difficile\" à imaginer en France",
-   "image": "https://www.franceinfo.fr/pictures/9LdUSK6oamqclaiDrAjSNcWmhIU/1437x0:4300x2863/100x100/filters:format(jpg)/2026/11/03/6aea17e3db34d727066316.jpg",
+   "image": "https://www.franceinfo.fr/pictures/8jhw81QIhD7mLmBqp2LCi5CRN2I/0x0:4300x2418/432x243/filters:format(jpg)/2026/11/03/6aea17e3db34d727066316.jpg",
    "date": null,
    "pubdate": "2026-11-04T17:19:33.406625+00:00"
   },
   {
-   "title": "0:57 vidéo 57 secondes Sur un fil à 150 mètres du vide",
+   "title": "Sur un fil à 150 mètres du vide 3 novembre 0:57 vidéo 57 secondes",
    "link": "https://www.franceinfo.fr/sports/sports-extremes/sur-un-fil-a-150-metres-du-vide_8266013.html",
    "summary": "",
    "image": "https://www.franceinfo.fr/pictures/3_DkfDpteNX6f9iDEmrr3ccbHoc/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/03/6ae9f2492f08c637688894.png",
@@ -66,7 +114,7 @@
    "pubdate": "2026-11-03T23:28:21.851764+00:00"
   },
   {
-   "title": "1:02 vidéo 1 minute 2 À la source du cuivre, un métal indispensable, prisé, volé",
+   "title": "À la source du cuivre, un métal indispensable, prisé, volé 3 novembre 1:02 vidéo 1 minute 2",
    "link": "https://www.franceinfo.fr/monde/europe/a-la-source-du-cuivre-un-metal-indispensable-prise-vole_8266133.html",
    "summary": "À la source du cuivre, un métal indispensable, prisé, volé",
    "image": "https://www.franceinfo.fr/pictures/jCh8V6kOWj2qCJbzD3QGIOoR4ts/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/03/6ae9ff5d7da29604985379.png",
@@ -82,47 +130,31 @@
    "pubdate": "2026-11-03T23:28:21.851764+00:00"
   },
   {
-   "title": "1:47 vidéo 1 minute 47 \"L'ennemi a largué des petites bombes pour attirer les gens sur place, avant de les viser\" : 29 morts après une pluie de frappes dans le sud-est de l'Ukraine",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-ennemi-a-largue-des-petites-bombes-pour-attirer-les-gens-sur-place-avant-de-les-viser-29-morts-apres-une-pluie-de-frappes-dans-le-sud-est-de-l-ukraine_8265974.html",
-   "summary": "\"L'ennemi a largué des petites bombes pour attirer les gens sur place, avant de les viser\" : 29 morts après une pluie de frappes dans le sud-est de l'Ukraine",
-   "image": "https://www.franceinfo.fr/pictures/MzkTMkYR77d3nvaWtVgApMG13ts/0x111:867x598/432x243/filters:format(jpg)/2026/11/03/6ae9ec07378d2302896375.jpg",
-   "date": null,
-   "pubdate": "2026-11-03T17:07:46.645992+00:00"
-  },
-  {
-   "title": "Dans le sillage des manifestations européennes, une colère sociale qui gronde aussi en Suisse ?",
+   "title": "Dans le sillage des manifestations européennes, une colère sociale qui gronde aussi en Suisse ? En écho aux mouvements de contestation français et européens, des manifestations ont dégénéré ce week-end à Zurich et à Bâle. Les observateurs sont toutefois divisés sur la composante sociale des événements survenus en Suisse, et sur les parallèles pouvant être dressés avec les pays voisins, comme le raconte le média public helvète swissinfo. 3 novembre",
    "link": "https://www.franceinfo.fr/monde/europe/dans-le-sillage-des-manifestations-europeennes-une-colere-sociale-qui-gronde-aussi-en-suisse_8265935.html",
-   "summary": "",
+   "summary": "Dans le sillage des manifestations européennes, une colère sociale qui gronde aussi en Suisse ?",
    "image": "https://www.franceinfo.fr/pictures/1hKXgJhWsr7G1i2-rPiSwbWksPU/0x407:7833x4814/432x243/filters:format(jpg)/2026/11/03/6ae9e6f3f0ca9957312418.jpg",
    "date": null,
    "pubdate": "2026-11-03T17:07:46.645992+00:00"
   },
   {
-   "title": "1:46 vidéo 1 minute 46 29 morts après des frappes russes dans le sud-est de l'Ukraine",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/29-morts-apres-des-frappes-russes-dans-le-sud-est-de-l-ukraine_8265914.html",
-   "summary": "29 morts après des frappes russes dans le sud-est de l'Ukraine",
-   "image": "https://www.franceinfo.fr/pictures/X3vPegl3ddyZNHvAqtVBEYAGToM/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/03/6ae9e0bf74227731743632.png",
-   "date": null,
-   "pubdate": "2026-11-03T17:07:46.645992+00:00"
-  },
-  {
-   "title": "Donald Tusk affirme que la Pologne a déjoué une possible \"provocation\" à la frontière avec l'enclave russe de Kaliningrad",
+   "title": "Donald Tusk affirme que la Pologne a déjoué une possible \"provocation\" à la frontière avec l'enclave russe de Kaliningrad Les gardes-frontières ont observé une activité suspecte à la frontière, a déclaré le Premier ministre. \"Nous avons réussi à empêcher des tentatives de provocation, si c'était l'intention.\" 3 novembre",
    "link": "https://www.franceinfo.fr/monde/europe/union-europeenne/donald-tusk-affirme-que-la-pologne-a-dejoue-une-possible-provocation-a-la-frontiere-avec-l-enclave-russe-de-kaliningrad_8265896.html",
-   "summary": "",
+   "summary": "Donald Tusk affirme que la Pologne a déjoué une possible \"provocation\" à la frontière avec l'enclave russe de Kaliningrad",
    "image": "https://www.franceinfo.fr/pictures/xeRERSrunsIZDm4c6_UC_C0-xus/0x0:5446x3063/432x243/filters:format(jpg)/2026/11/03/6ae9deaaa02c0849325528.jpg",
    "date": null,
    "pubdate": "2026-11-03T17:07:46.645992+00:00"
   },
   {
-   "title": "Les Etats-Unis annoncent des \"négociations de travail\" entre la Russie et l'Ukraine les 10 et 11 novembre à Abou Dhabi",
+   "title": "Les Etats-Unis annoncent des \"négociations de travail\" entre la Russie et l'Ukraine les 10 et 11 novembre à Abou Dhabi Il s'agirait de la première rencontre de ce type depuis février. Les perspectives d'avancer vers la paix se sont toutefois assombries lundi, après une attaque russe qui a fait au moins 29 morts dans la région ukrainienne de Zaporijjia. 3 novembre",
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/les-etats-unis-annoncent-des-negociations-de-travail-entre-la-russie-et-l-ukraine-les-10-et-11-novembre-a-abou-dhabi_8265485.html",
-   "summary": "",
+   "summary": "Les Etats-Unis annoncent des \"négociations de travail\" entre la Russie et l'Ukraine les 10 et 11 novembre à Abou Dhabi",
    "image": "https://www.franceinfo.fr/pictures/kkvigLCu1RG-IyFRGjIfPZGjbp0/0x43:1024x619/432x243/filters:format(jpg)/2026/11/03/6ae9aa61d5217777487681.jpg",
    "date": null,
    "pubdate": "2026-11-03T17:07:46.645992+00:00"
   },
   {
-   "title": ": Édito 2:33 audio 2 minutes 33 Pourquoi Marine Le Pen se mêle-t-elle de la crise en Pologne ? Alors que le Premier ministre centriste Donald Tusk se déchire avec la droite nationaliste, Marine Le Pen s'est attirée les foudres du gouvernement polonais, qui lui reproche de s'être ingérée dans la crise politique qui secoue le pays. Pourquoi la candidate du RN se mêle-t-elle de cette affaire ?",
+   "title": ": Édito Pourquoi Marine Le Pen se mêle-t-elle de la crise en Pologne ? Alors que le Premier ministre centriste Donald Tusk se déchire avec la droite nationaliste, Marine Le Pen s'est attirée les foudres du gouvernement polonais, qui lui reproche de s'être ingérée dans la crise politique qui secoue le pays. Pourquoi la candidate du RN se mêle-t-elle de cette affaire ? 3 novembre : Édito 2:33 audio 2 minutes 33",
    "link": "https://www.franceinfo.fr/replay-radio/l-edito-politique/pourquoi-marine-le-pen-se-mele-t-elle-de-la-crise-en-pologne_8244814.html",
    "summary": "Pourquoi Marine Le Pen se mêle-t-elle de la crise en Pologne ?",
    "image": "https://www.franceinfo.fr/pictures/sQaSVJX33Oh6E8V1Ty1XL-ivGso/0x0:1024x576/432x243/filters:format(jpg)/2026/11/03/6ae974dcb538d448611862.jpg",
@@ -130,7 +162,7 @@
    "pubdate": "2026-11-03T17:07:46.645992+00:00"
   },
   {
-   "title": "55:16 audio 55 minutes 16 Quel scénario pour Donald Trump en cas de défaite aux midterms ?...Les informés de franceinfo du mardi 3 novembre 2026",
+   "title": "Quel scénario pour Donald Trump en cas de défaite aux midterms ?...Les informés de franceinfo du mardi 3 novembre 2026 Tous les soirs, les informés débattent de l'actualité, cette semaine autour de Hadrien Bect. 3 novembre 55:16 audio 55 minutes 16",
    "link": "https://www.franceinfo.fr/replay-radio/les-informes-de-france-info/quel-scenario-pour-donald-trump-en-cas-de-defaite-aux-midterms-les-informes-de-franceinfo-du-mardi-3-novembre-2026_8244823.html",
    "summary": "Quel scénario pour Donald Trump en cas de défaite aux midterms ?...Les informés de franceinfo du mardi 3 novembre 2026",
    "image": "https://www.franceinfo.fr/pictures/IiirTeaA_W9WjpMU3kfyzX79C2k/212x68:1067x549/432x243/filters:format(jpg)/2026/11/03/6aea32aecfefb580914052.png",
@@ -138,7 +170,7 @@
    "pubdate": "2026-11-03T11:00:00+00:00"
   },
   {
-   "title": "Guerre en Ukraine : la Russie déclare avoir intercepté 493 drones qui se dirigeaient vers Moscou La veille, des frappes russes contre une école où de l'aide humanitaire était distribuée, ainsi qu'un abri où s'était réfugiée la population, ont fait au moins 26 morts dans la région de Zaporijjia.",
+   "title": "Guerre en Ukraine : la Russie déclare avoir intercepté 493 drones qui se dirigeaient vers Moscou La veille, des frappes russes contre une école où de l'aide humanitaire était distribuée, ainsi qu'un abri où s'était réfugiée la population, ont fait au moins 26 morts dans la région de Zaporijjia. 3 novembre",
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-russie-declare-avoir-intercepte-493-drones-qui-se-dirigeaient-vers-moscou_8265251.html",
    "summary": "Guerre en Ukraine : la Russie déclare avoir intercepté 493 drones qui se dirigeaient vers Moscou",
    "image": "https://www.franceinfo.fr/pictures/sDWrui2Sirxa5NEUKozxOhU4w8A/0x106:1024x682/432x243/filters:format(jpg)/2026/11/03/6ae972a8e7c9f816960565.jpg",
@@ -146,7 +178,7 @@
    "pubdate": "2026-11-03T06:55:15.789705+00:00"
   },
   {
-   "title": "Des frappes russes font 29 morts en Ukraine au lendemain de la fin d'un cessez-le-feu à Olechky, Volodymyr Zelensky dénonce l'anéantissement de \"tout espoir de progrès vers la paix\" \"C'est une preuve supplémentaire que la Russie ne veut ni désescalade ni véritable justice\", a estimé le président ukrainien au sujet des frappes russes contre un village du sud-est de l'Ukraine.",
+   "title": "Des frappes russes font 29 morts en Ukraine au lendemain de la fin d'un cessez-le-feu à Olechky, Volodymyr Zelensky dénonce l'anéantissement de \"tout espoir de progrès vers la paix\" \"C'est une preuve supplémentaire que la Russie ne veut ni désescalade ni véritable justice\", a estimé le président ukrainien au sujet des frappes russes contre un village du sud-est de l'Ukraine. 2 novembre",
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/des-frappes-russes-font-18-morts-en-ukraine-au-lendemain-de-la-fin-d-un-cessez-le-feu-a-olechky-volodymyr-zelensky-denonce-l-aneantissement-de-tout-espoir-de-progres-vers-la-paix_8264639.html",
    "summary": "Des frappes russes font 29 morts en Ukraine au lendemain de la fin d'un cessez-le-feu à Olechky, Volodymyr Zelensky dénonce l'anéantissement de \"tout espoir de progrès vers la paix\"",
    "image": "https://www.franceinfo.fr/pictures/ELA5UEpL37_9q5nVVsjy_CpKJtU/0x0:1024x576/432x243/filters:format(jpg)/2026/11/02/6ae8fdb2966f3898516440.jpg",
@@ -154,7 +186,7 @@
    "pubdate": "2026-11-02T21:44:58.960216+00:00"
   },
   {
-   "title": "En Irlande, un appel à l'interdiction des jeux à gratter bon marché pour protéger les enfants Des chercheurs irlandais appellent à une interdiction des jeux à gratter à faible coût, dans l'objectif de réduire les dommages liés aux jeux d'argent. Le média public irlandais RTE revient sur cette étude.",
+   "title": "En Irlande, un appel à l'interdiction des jeux à gratter bon marché pour protéger les enfants Des chercheurs irlandais appellent à une interdiction des jeux à gratter à faible coût, dans l'objectif de réduire les dommages liés aux jeux d'argent. Le média public irlandais RTE revient sur cette étude. 2 novembre",
    "link": "https://www.franceinfo.fr/monde/europe/en-irlande-un-appel-a-l-interdiction-des-jeux-a-gratter-bon-marche-pour-proteger-les-enfants_8264465.html",
    "summary": "En Irlande, un appel à l'interdiction des jeux à gratter bon marché pour protéger les enfants",
    "image": "https://www.franceinfo.fr/pictures/E1SauhagNz6KatUlcAIVlH7Wr5M/0x187:2000x1312/432x243/filters:format(jpg)/2026/11/02/6ae8b9e95c5f6742306831.jpg",
@@ -162,7 +194,7 @@
    "pubdate": "2026-11-02T21:44:58.960216+00:00"
   },
   {
-   "title": "2:15 audio 2 minutes 15 Les évacués ukrainiens d'Olechky racontent la famine dans la ville sous occupation russe La trêve exceptionnelle de six jours en vigueur à Olechky a pris fin dimanche soir. Instaurée en raison de la situation humanitaire catastrophique dans cette ville sous occupation russe, elle a permis l'évacuation d'habitants et l'acheminement d'aide.",
+   "title": "Les évacués ukrainiens d'Olechky racontent la famine dans la ville sous occupation russe La trêve exceptionnelle de six jours en vigueur à Olechky a pris fin dimanche soir. Instaurée en raison de la situation humanitaire catastrophique dans cette ville sous occupation russe, elle a permis l'évacuation d'habitants et l'acheminement d'aide. 2 novembre 2:15 audio 2 minutes 15",
    "link": "https://www.franceinfo.fr/replay-radio/histoire-du-jour/les-evacues-ukrainiens-d-olechky-racontent-la-famine-dans-la-ville-sous-occupation-russe_8263502.html",
    "summary": "Les évacués ukrainiens d'Olechky racontent la famine dans la ville sous occupation russe",
    "image": "https://www.franceinfo.fr/pictures/_9owWHJvFEHeEI796jYkYiDW-Ms/0x284:5465x3358/432x243/filters:format(jpg)/2026/11/02/6ae875a5b44aa393856336.jpg",
@@ -170,7 +202,7 @@
    "pubdate": "2026-11-02T21:44:58.960216+00:00"
   },
   {
-   "title": "L'Ukraine et la Russie touchées par des cyberattaques visant des applications d'alerte à la population Les deux pays ont dénoncé des piratages de ces services destinés à informer les citoyens des attaques à venir. Ces incidents interviennent quelques heures après la fin d'un cessez-le-feu dans la ville d'Olechky.",
+   "title": "L'Ukraine et la Russie touchées par des cyberattaques visant des applications d'alerte à la population Les deux pays ont dénoncé des piratages de ces services destinés à informer les citoyens des attaques à venir. Ces incidents interviennent quelques heures après la fin d'un cessez-le-feu dans la ville d'Olechky. 2 novembre",
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-ukraine-et-la-russie-touchees-par-des-cyberattaques-apres-la-fin-d-un-cessez-le-feu-dans-la-region-de-kherson_8263511.html",
    "summary": "L'Ukraine et la Russie touchées par des cyberattaques visant des applications d'alerte à la population",
    "image": "https://www.franceinfo.fr/pictures/pUgVT8SoiMq_yHnJUsM2brekpEg/0x18:1024x594/432x243/filters:format(jpg)/2026/11/02/6ae82aa61558c210704826.jpg",
@@ -178,7 +210,7 @@
    "pubdate": "2026-11-02T11:20:47.841110+00:00"
   },
   {
-   "title": "Plus de 130 migrants en route vers les Canaries secourus en mer au large de la Mauritanie L'armée mauritanienne a dit avoir assuré le \"sauvetage\" d'une embarcation qui \"comprenait 118 hommes, 14 femmes et deux enfants\" de différentes nationalités.",
+   "title": "Plus de 130 migrants en route vers les Canaries secourus en mer au large de la Mauritanie L'armée mauritanienne a dit avoir assuré le \"sauvetage\" d'une embarcation qui \"comprenait 118 hommes, 14 femmes et deux enfants\" de différentes nationalités. 1 novembre",
    "link": "https://www.franceinfo.fr/monde/europe/migrants/plus-de-130-migrants-en-route-vers-les-canaries-secourus-au-large-de-la-mauritanie_8263082.html",
    "summary": "Plus de 130 migrants en route vers les Canaries secourus en mer au large de la Mauritanie",
    "image": "https://www.franceinfo.fr/pictures/Dw_JknhmFnprZgql4mPWMU5nLpk/0x53:1024x629/432x243/filters:format(jpg)/2026/11/01/6ae78a33c7429585507893.jpg",
@@ -186,7 +218,7 @@
    "pubdate": "2026-11-01T19:44:49.932666+00:00"
   },
   {
-   "title": "En Allemagne, des manifestations rassemblent 120 000 personnes samedi, la classe politique dénonce des violences Sur Instagram, le collectif GenZ Regelt, à l'origine de ses rassemblements, s'est \"expressément distancé de toute forme de violence\".",
+   "title": "En Allemagne, des manifestations rassemblent 120 000 personnes samedi, la classe politique dénonce des violences Sur Instagram, le collectif GenZ Regelt, à l'origine de ses rassemblements, s'est \"expressément distancé de toute forme de violence\". 1 novembre",
    "link": "https://www.franceinfo.fr/monde/europe/allemagne/en-allemagne-des-manifestations-rassemblent-120-000-personnes-samedi-la-classe-politique-denonce-des-violences_8262866.html",
    "summary": "En Allemagne, des manifestations rassemblent 120 000 personnes samedi, la classe politique dénonce des violences",
    "image": "https://www.franceinfo.fr/pictures/fKz8rEsUWNfY1AMqdPpIZFBC-jA/0x106:1024x682/432x243/filters:format(jpg)/2026/11/01/6ae754366182f898673933.jpg",
@@ -194,7 +226,7 @@
    "pubdate": "2026-11-01T19:44:49.932666+00:00"
   },
   {
-   "title": "8:18 audio 8 minutes 18 Noé Preszow chante sa Belgique Avec \"Noir, jaune, rouge\", qui vient de sortir, il augmente le répertoire des chansons belges sur la Belgique, entre exaltation et réalisme.",
+   "title": "Noé Preszow chante sa Belgique Avec \"Noir, jaune, rouge\", qui vient de sortir, il augmente le répertoire des chansons belges sur la Belgique, entre exaltation et réalisme. 31 octobre 8:18 audio 8 minutes 18",
    "link": "https://www.franceinfo.fr/replay-radio/ces-chansons-qui-font-l-actu/noe-preszow-chante-sa-belgique_8241103.html",
    "summary": "Avec \"Noir, jaune, rouge\", qui vient de sortir, il augmente le répertoire des chansons belges sur la Belgique, entre exaltation et réalisme.",
    "image": "https://www.franceinfo.fr/pictures/qSMUzmUSkzuvs8B7r-I2basxl_w/0x166:3189x1959/432x243/filters:format(jpg)/2026/10/28/6ae2678644005367558521.jpg",
@@ -202,58 +234,26 @@
    "pubdate": "2026-11-01T13:37:58.974904+00:00"
   },
   {
-   "title": "Cinq Britanniques interpellés jeudi dans le Nord pour des actions anti-migrants Ils circulaient sur le littoral du nord de la France à bord d'un minibus et diffusaient en direct sur un réseau social des images destinées à illustrer des \"actions d'intimidation\" à l'encontre de migrants.",
-   "link": "https://www.franceinfo.fr/monde/europe/migrants/cinq-britanniques-interpelles-jeudi-dans-le-nord-pour-des-actions-anti-migrants_8262203.html",
-   "summary": "Cinq Britanniques interpellés jeudi dans le Nord pour des actions anti-migrants",
-   "image": "https://www.franceinfo.fr/pictures/AqN95XqqWdMOsDBNUG3Wa6gm_I0/0x53:1024x629/432x243/filters:format(jpg)/2026/10/31/6ae650cb0b11a446382786.jpg",
-   "date": null,
-   "pubdate": "2026-11-01T00:10:58.078344+00:00"
-  },
-  {
-   "title": "L'évacuation de la ville d'Olechky, un exemple réussi mais encore isolé de cessez-le-feu humanitaire entre l'Ukraine et la Russie Des habitants de la ville sous occupation russe sont arrivés en territoire ukrainien au prix d'un long périple. \"On parle de plus d'une centaine de personnes, peut-être même plus de 200\", selon un responsable militaire ukrainien.",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-evacuation-de-la-ville-d-olechky-un-exemple-reussi-mais-encore-isole-de-cessez-le-feu-humanitaire-entre-l-ukraine-et-la-russie_8261840.html",
-   "summary": "L'évacuation de la ville d'Olechky, un exemple réussi mais encore isolé de cessez-le-feu humanitaire entre l'Ukraine et la Russie",
-   "image": "https://www.franceinfo.fr/pictures/TSuLCZ_WK972i17yEOnvA7I1HwE/0x430:8256x5074/432x243/filters:format(jpg)/2026/10/31/6ae5fdad118d9947340996.jpg",
-   "date": null,
-   "pubdate": "2026-10-31T19:20:45.283143+00:00"
-  },
-  {
-   "title": "Des habitants évacués d'Olechky, ville sous occupation russe, sont arrivés en Ukraine Cette opération a eu lieu dans le cadre d'une trêve qui débuté mardi matin et doit durer jusqu'à dimanche soir. Ni Moscou, ni Kiev n'ont précisé le nombre de personnes évacuées.",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/les-habitants-evacues-d-olechky-ville-occupee-par-la-russie-sont-arrives-en-ukraine_8261879.html",
-   "summary": "Des habitants évacués d'Olechky, ville sous occupation russe, sont arrivés en Ukraine",
-   "image": "https://www.franceinfo.fr/pictures/Yt_0wlg6BI8AJ6Mh3bESRrbErOk/0x53:1024x629/432x243/filters:format(jpg)/2026/10/31/6ae5f55f8d15c374696220.jpg",
-   "date": null,
-   "pubdate": "2026-10-31T19:20:45.283143+00:00"
-  },
-  {
-   "title": "En Bulgarie, un scrutin présidentiel dans l'ombre de la guerre en Ukraine et des attaques russes en mer Noire Le second tour de la présidentielle a lieu dimanche en Bulgarie. La guerre en Ukraine, les attaques meurtrières de drones en mer Noire et la position des candidats vis-à-vis de la Russie sont un élément clé de la campagne électorale.",
-   "link": "https://www.franceinfo.fr/monde/europe/en-bulgarie-un-scrutin-presidentiel-dans-l-ombre-de-la-guerre-en-ukraine-et-des-attaques-russes-en-mer-noire_8259218.html",
-   "summary": "En Bulgarie, un scrutin présidentiel dans l'ombre de la guerre en Ukraine et des attaques russes en mer Noire",
-   "image": "https://www.franceinfo.fr/pictures/DlCZDjYQMi-Ony2Ajpr0cmtB4nQ/0x0:6398x3598/432x243/filters:format(jpg)/2026/10/31/6ae5c5e62cc1f746402111.jpg",
-   "date": null,
-   "pubdate": "2026-10-31T19:20:45.283143+00:00"
-  },
-  {
-   "title": ": Enquête franceinfo 7:00 article 7 minutes : Enquête franceinfo \"On l'appelait 'Poutine Girl'\" : comment la France verrouille les demandes de visas diplomatiques russes pour limiter les risques d'espionnage",
+   "title": ": Enquête franceinfo \"On l'appelait 'Poutine Girl'\" : comment la France verrouille les demandes de visas diplomatiques russes pour limiter les risques d'espionnage : Enquête franceinfo 7:00 article 7 minutes",
    "link": "https://www.franceinfo.fr/monde/russie/enquete-franceinfo-on-l-appelait-poutine-girl-comment-la-france-verrouille-les-demandes-de-visas-diplomatiques-russes-pour-limiter-les-risques-d-espionnage_8204495.html",
    "summary": "\"On l'appelait 'Poutine Girl'\" : comment la France verrouille les demandes de visas diplomatiques russes pour limiter les risques d'espionnage",
-   "image": "https://www.franceinfo.fr/pictures/A2h_E5mcyVZ6lfsJdOFeBuwq-9I/456x0:2616x2160/100x100/filters:format(jpg)/2026/10/13/6acdf7b4ac2f8834592008.jpg",
+   "image": "https://www.franceinfo.fr/pictures/V7Ibpoeuv2Zaalwt_XKuMO7Dkug/0x0:3840x2160/432x243/filters:format(jpg)/2026/10/13/6acdf7b4ac2f8834592008.jpg",
    "date": null,
    "pubdate": "2026-10-27T09:06:52.195523+00:00"
   },
   {
-   "title": ": Témoignages 4:57 audio 4 minutes 57 : Témoignages Simulacres d'exécution, tortures physiques... Un ancien prisonnier ukrainien en Russie raconte les sévices subis après sa capture dans le Donbass",
+   "title": ": Témoignages Simulacres d'exécution, tortures physiques... Un ancien prisonnier ukrainien en Russie raconte les sévices subis après sa capture dans le Donbass : Témoignages 4:57 audio 4 minutes 57",
    "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/temoignages-simulacres-d-execution-tortures-physiques-un-ancien-prisonnier-ukrainien-en-russie-raconte-les-sevices-subis-apres-sa-capture-dans-le-donbass_8202320.html",
    "summary": "Simulacres d'exécution, tortures physiques... Un ancien prisonnier ukrainien en Russie raconte les sévices subis après sa capture dans le Donbass",
-   "image": "https://www.franceinfo.fr/pictures/2f5cbtrT9CRvkEupDevmU2LuA7E/890x0:3698x2808/100x100/filters:format(jpg)/2026/10/04/6ac2473171e26537594128.jpg",
+   "image": "https://www.franceinfo.fr/pictures/7_bzE0ign68h05W1IZk3LYJo598/0x113:4588x2694/432x243/filters:format(jpg)/2026/10/04/6ac2473171e26537594128.jpg",
    "date": null,
    "pubdate": "2026-10-27T09:06:52.195523+00:00"
   },
   {
-   "title": ": Reportage 2:00 article 2 minutes : Reportage \"Plus de huit millions de livres pour enfants\" partis en fumée : l'Ukraine face à une pénurie de manuels scolaires après des frappes russes",
+   "title": ": Reportage \"Plus de huit millions de livres pour enfants\" partis en fumée : l'Ukraine face à une pénurie de manuels scolaires après des frappes russes : Reportage 2:00 article 2 minutes",
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/reportage-plus-de-huit-millions-de-livres-pour-enfants-partis-en-fumee-l-ukraine-face-a-une-penurie-de-manuels-scolaires-apres-des-frappes-russes_8192342.html",
    "summary": "\"Plus de huit millions de livres pour enfants\" partis en fumée : l'Ukraine face à une pénurie de manuels scolaires après des frappes russes",
-   "image": "https://www.franceinfo.fr/pictures/FDQ95GjeajjrKBoHSZT8OG_Y2Ww/350x0:1250x900/100x100/filters:format(jpg)/2026/09/14/6aa8420659848131991942.jpg",
+   "image": "https://www.franceinfo.fr/pictures/cXyyBOTpHRayEAbsLyCoCBJyUsQ/0x0:1600x900/432x243/filters:format(jpg)/2026/09/14/6aa8420659848131991942.jpg",
    "date": null,
    "pubdate": "2026-10-27T00:31:28.943056+00:00"
   }

@@ -1,62 +1,157 @@
 {
- "etag": "\"8f13f7106890b86f86a1cc2d3a65ed07-gzip\"",
+ "etag": "\"37d133c53db4fc9d37176c8705bf1b66-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/monde/usa/midterms-2018/midterms-2026-l-essentiel-des-elections-de-mi-mandat/": "2026-11-04T06:36:03.451424+00:00",
   "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/leon-xiv-en-france-retrouvez-l-essentiel/": "2026-11-04T06:36:03.451424+00:00",
   "https://www.franceinfo.fr/monde/usa/affaire-jeffrey-epstein/l-essentiel-des-revelations-sur-l-affaire-epstein/": "2026-11-04T06:36:03.451424+00:00",
-  "https://www.franceinfo.fr/monde/usa/midterms-2018/deepfakes-fake-news-sur-x-fausses-videos-comment-les-fausses-informations-ont-inonde-la-campagne-des-midterms-2026_8267981.html": "2026-11-04T17:19:34.531285+00:00",
-  "https://www.franceinfo.fr/monde/usa/midterms-2018/vote-des-jeunes-des-minorites-ethniques-visualisez-comment-se-sont-prononces-les-americains-lors-des-midterms_8267702.html": "2026-11-04T17:19:34.531285+00:00",
-  "https://www.franceinfo.fr/monde/europe/crise-en-pologne-peut-on-parler-d-un-coup-d-etat_8267939.html": "2026-11-04T17:19:34.531285+00:00",
-  "https://www.franceinfo.fr/monde/usa/midterms-2018/on-est-dans-des-contextes-tres-differents-pour-le-president-du-rn-il-n-y-a-aucun-rapport-entre-les-midterms-aux-etats-unis-et-la-france_8267780.html": "2026-11-04T17:19:34.531285+00:00",
-  "https://www.franceinfo.fr/replay-radio/histoire-du-jour/en-alaska-deux-candidats-dan-sullivan-pour-embrouiller-les-electeurs-aux-midterms_8267168.html": "2026-11-04T17:19:34.531285+00:00",
-  "https://www.franceinfo.fr/monde/usa/midterms-2018/majorite-au-congres-conquete-de-bastions-republicains-historiques-visualisez-la-nette-victoire-des-democrates-aux-midterms-face-au-camp-de-donald-trump_8267237.html": "2026-11-04T17:19:34.531285+00:00",
-  "https://www.franceinfo.fr/monde/usa/midterms-2018/les-americains-ont-dit-non-a-la-guerre-l-iran-se-rejouit-de-la-deroute-electorale-de-donald-trump-aux-midterms-2026_8267435.html": "2026-11-04T17:19:34.531285+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/pouvoir-d-achat-prix-du-carburant-ces-americains-expliquent-le-blunami-cette-vague-bleue-aux-midterms-2026-qui-destabilise-donald-trump_8246506.html": "2026-11-04T17:19:34.531285+00:00",
   "https://www.franceinfo.fr/politique/grand-entretien-en-belgique-un-cordon-sanitaire-mediatique-empeche-toute-forme-de-banalisation-de-l-extreme-droite-un-outil-difficile-a-imaginer-en-france_8265599.html": "2026-11-04T17:19:34.531285+00:00",
-  "https://www.franceinfo.fr/culture/les-jardins-secrets-de-la-grande-muraille-de-chine_8268476.html": "2026-11-04T23:44:33.054195+00:00",
   "https://www.franceinfo.fr/monde/israel/elections-legislatives-en-israel/legislatives-en-israel-benyamin-netanyahou-evoque-de-graves-soupcons-d-ingerences-etrangeres_8268485.html": "2026-11-04T23:44:33.054195+00:00",
-  "https://www.franceinfo.fr/monde/russie/c-est-une-peur-animale-tu-ne-penses-plus-le-journaliste-evan-gershkovich-raconte-son-arrestation-et-ses-491-jours-en-prison-en-russie_8268467.html": "2026-11-04T23:44:33.054195+00:00",
-  "https://www.franceinfo.fr/sports/athletisme/marathon/marathon-de-new-york-une-coureuse-succombe-a-moins-de-4-km-de-l-arrivee_8268503.html": "2026-11-04T23:44:33.054195+00:00",
-  "https://www.franceinfo.fr/faits-divers/accident/effondrement-d-une-colonne-rocheuse-en-turquie-elle-a-ete-tout-de-suite-frappee-par-les-pierres-raconte-la-mere-de-cynthia-houpert-la-francaise-decedee-dans-l-accident_8268494.html": "2026-11-04T23:44:33.054195+00:00",
-  "https://www.franceinfo.fr/monde/usa/midterms-2018/donald-trump-est-il-toujours-aussi-puissant-apres-sa-defaite-aux-midterms_8268431.html": "2026-11-04T23:44:33.054195+00:00",
   "https://www.franceinfo.fr/monde/usa/midterms-2018/je-suis-tellement-submergee-de-joie-pour-le-futur-des-enfants-le-texas-bastion-republicain-historique-devient-democrate_8268419.html": "2026-11-04T23:44:33.054195+00:00",
   "https://www.franceinfo.fr/economie/visite-exclusive-de-l-une-des-plus-grandes-plateformes-d-extraction-de-gaz-au-monde-geree-par-total_8268395.html": "2026-11-04T23:44:33.054195+00:00",
   "https://www.franceinfo.fr/monde/usa/midterms-2018/resultats-midterms-2026-donald-trump-va-t-il-perdre-le-controle-du-senat-ou-de-la-chambre-des-representants-suivez-le-decompte-des-sieges-en-direct_8237248.html": "2026-11-04T23:44:33.054195+00:00",
-  "https://www.franceinfo.fr/replay-radio/les-informes-de-france-info/une-defaite-historique-pour-donald-trump-aux-midterms-les-informes-de-franceinfo-du-mercredi-4-novembre-2026_8246464.html": "2026-11-04T11:00:00+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-volodymyr-zelensky-accorde-une-decoration-a-melania-trump-pour-son-engagement-humanitaire_8268350.html": "2026-11-04T23:44:33.054195+00:00",
-  "https://www.franceinfo.fr/monde/usa/midterms-2018/reportage-il-etait-le-meilleur-choix-possible-dans-la-ville-du-nouveau-senateur-du-texas-james-talarico-les-democrates-esperent-que-les-midterms-apporteront-du-changement_8268125.html": "2026-11-04T23:44:33.054195+00:00",
-  "https://www.franceinfo.fr/replay-radio/la-question-des-informes/aux-etats-unis-les-midterms-confirme-que-la-societe-bascule-vers-la-gauche-estime-un-historien-specialiste-des-etats-unis_8246497.html": "2026-11-04T23:44:33.054195+00:00",
   "https://www.franceinfo.fr/monde/les-attaques-contre-les-systemes-d-eau-dans-les-conflits-ont-triple-entre-2021-et-2025-alerte-l-unicef_8268839.html": "2026-11-05T06:56:19.507487+00:00",
-  "https://www.franceinfo.fr/monde/usa/midterms-2018/a-suivre-alban-mikoczy-tsunami-democrate-la-fin-du-trumpisme_8268806.html": "2026-11-05T06:56:19.507487+00:00",
   "https://www.franceinfo.fr/monde/usa/midterms-2018/l-apres-trump-commence-vraiment-maintenant-au-lendemain-des-midterms-comment-republicains-et-democrates-se-projettent-vers-la-presidentielle-de-2028_8267465.html": "2026-11-05T06:56:19.507487+00:00",
-  "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/tout-comprendre-a-la-guerre-au-moyen-orient/": "2026-11-05T06:56:19.507487+00:00"
+  "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/tout-comprendre-a-la-guerre-au-moyen-orient/": "2026-11-05T06:56:19.507487+00:00",
+  "https://www.franceinfo.fr/monde/usa/midterms-2018/que-veut-dire-habibi-pic-des-recherches-google-apres-le-discours-de-victoire-de-abdul-el-sayed-lors-des-midterms-2026_8269547.html": "2026-11-03T11:00:00+00:00",
+  "https://www.franceinfo.fr/culture/c-est-une-relation-que-l-on-n-a-pas-en-france-dans-le-village-de-tende-l-italie-en-heritage_8269496.html": "2026-11-05T17:27:52.455799+00:00",
+  "https://www.franceinfo.fr/sciences/astronomie/un-ciel-comme-ca-on-a-rarement-la-chance-d-en-voir-la-magie-des-etoiles-dans-le-desert-egyptien_8269472.html": "2026-11-05T17:27:52.455799+00:00",
+  "https://www.franceinfo.fr/economie/transports/ce-que-l-on-sait-des-alertes-a-la-bombe-qui-ont-vise-douze-vols-europeens-jeudi_8269349.html": "2026-11-05T17:27:52.455799+00:00",
+  "https://www.franceinfo.fr/faits-divers/amnesique-sans-aucun-papier-sur-lui-un-jeune-homme-de-25-ans-enfin-identifie-apres-avoir-vecu-pres-d-un-mois-a-l-aeroport-de-naples_8269451.html": "2026-11-05T17:27:52.455799+00:00",
+  "https://www.franceinfo.fr/sante/maladie/ebola/on-espere-mettre-fin-a-cette-epidemie-d-ebola-deux-vaccins-ouvrent-une-nouvelle-piste-d-espoir-en-rdc_8268329.html": "2026-11-05T17:27:52.455799+00:00",
+  "https://www.franceinfo.fr/sante/maladie/des-milliers-de-cas-confirmes-plusieurs-morts-en-pennsylvanie-une-vaccination-en-recul-ce-que-l-on-sait-de-l-epidemie-de-rougeole-aux-etats-unis_8269070.html": "2026-11-05T17:27:52.455799+00:00",
+  "https://www.franceinfo.fr/monde/un-avion-deroute-a-evreux-apres-une-alerte-a-la-bombe_8269304.html": "2026-11-05T17:27:52.455799+00:00",
+  "https://www.franceinfo.fr/monde/usa/midterms-2018/apres-sa-defaite-aux-midterms-donald-trump-vante-sa-salle-de-bal-a-la-maison-blanche_8269286.html": "2026-11-05T17:27:52.455799+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/apres-la-defaite-du-camp-de-donald-trump-aux-midterms-le-president-ukrainien-volodymyr-zelensky-dit-esperer-davantage-de-soutien-americain_8268959.html": "2026-11-05T17:27:52.455799+00:00",
+  "https://www.franceinfo.fr/replay-radio/le-monde-et-vous/la-generation-tiktok-redecouvre-l-art-du-discours-avec-les-manifestations_8248138.html": "2026-11-05T17:27:52.455799+00:00",
+  "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/la-justice-autorise-l-administration-trump-a-s-associer-aux-poursuites-contre-un-programme-qui-cherche-a-reparer-des-discriminations-raciales_8248099.html": "2026-11-05T17:27:52.455799+00:00",
+  "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/bruxelles-poursuit-son-projet-de-simplifier-les-lois-qui-protegent-la-biodiversite-en-europe_8248129.html": "2026-11-05T17:27:52.455799+00:00",
+  "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/faut-il-sauver-le-soldat-trump-s-interrogent-les-dirigeants-du-monde-apres-la-debacle-electorale-du-president-americain_8248150.html": "2026-11-05T17:27:52.455799+00:00",
+  "https://www.franceinfo.fr/monde/iran/crise-dans-le-detroit-d-ormuz/deux-petroliers-et-un-remorqueur-ont-pris-feu-dans-le-detroit-d-ormuz-annonce-l-iran_8268932.html": "2026-11-05T17:27:52.455799+00:00",
+  "https://www.franceinfo.fr/monde/chine/hong-kong/a-hong-kong-le-militant-prodemocratie-joshua-wong-condamne-a-10-ans-de-prison-supplementaires_8268917.html": "2026-11-05T17:27:52.455799+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "Les attaques contre les systèmes d'eau dans les conflits ont triplé entre 2021 et 2025, alerte l'Unicef L'agence de l'ONU dénonce des attaques sur les dispositifs d'acheminement en eau de plusieurs zones en conflit, \"exposant davantage les enfants aux épidémies, à la malnutrition et aux violences\", selon le rapport. Aujourd'hui",
-   "link": "https://www.franceinfo.fr/monde/les-attaques-contre-les-systemes-d-eau-dans-les-conflits-ont-triple-entre-2021-et-2025-alerte-l-unicef_8268839.html",
-   "summary": "Les attaques contre les systèmes d'eau dans les conflits ont triplé entre 2021 et 2025, alerte l'Unicef",
-   "image": "https://www.franceinfo.fr/pictures/r3-6nbct5u0hLkXbIhLEjHQ3uYI/101x0:6618x4480/432x297/filters:format(jpg)/2026/11/05/6aec1a4da2655647979649.jpg",
+   "title": "\"C'est une relation que l'on n'a pas en France\" : dans le village de Tende, l'Italie en héritage Aujourd'hui 4:35 vidéo 4 minutes 35",
+   "link": "https://www.franceinfo.fr/culture/c-est-une-relation-que-l-on-n-a-pas-en-france-dans-le-village-de-tende-l-italie-en-heritage_8269496.html",
+   "summary": "\"C'est une relation que l'on n'a pas en France\" : dans le village de Tende, l'Italie en héritage",
+   "image": "https://www.franceinfo.fr/pictures/wMFbRjafOjnTNpLTAzbNRM27JRI/0x85:1648x1012/432x243/filters:format(jpg)/2026/11/05/6aec9f6968e3e448633056.png",
    "date": null,
-   "pubdate": "2026-11-05T06:56:19.507487+00:00"
+   "pubdate": "2026-11-05T17:27:52.455799+00:00"
   },
   {
-   "title": "22:15 vidéo 22 minutes 15 A suivre Alban Mikoczy : Tsunami démocrate, la fin du trumpisme ?",
-   "link": "https://www.franceinfo.fr/monde/usa/midterms-2018/a-suivre-alban-mikoczy-tsunami-democrate-la-fin-du-trumpisme_8268806.html",
-   "summary": "A suivre Alban Mikoczy : Tsunami démocrate, la fin du trumpisme ?",
-   "image": "https://www.franceinfo.fr/pictures/1XypQuQQLnbv4wrmLtkzwrjaFnI/118x0:1664x870/432x243/filters:format(jpg)/2026/11/05/6aec1285e992e325795761.jpg",
+   "title": "\"Un ciel comme ça, on a rarement la chance d'en voir\" : la magie des étoiles dans le désert égyptien Aujourd'hui 2:09 vidéo 2 minutes 9",
+   "link": "https://www.franceinfo.fr/sciences/astronomie/un-ciel-comme-ca-on-a-rarement-la-chance-d-en-voir-la-magie-des-etoiles-dans-le-desert-egyptien_8269472.html",
+   "summary": "\"Un ciel comme ça, on a rarement la chance d'en voir\" : la magie des étoiles dans le désert égyptien",
+   "image": "https://www.franceinfo.fr/pictures/Xa9DoGI6PwuENZj2iUlFVxbx7yE/0x146:1472x974/432x243/filters:format(jpg)/2026/11/05/6aec9c960cc9b097200270.png",
    "date": null,
-   "pubdate": "2026-11-05T06:56:19.507487+00:00"
+   "pubdate": "2026-11-05T17:27:52.455799+00:00"
   },
   {
-   "title": "\"L'après-Trump commence vraiment maintenant\" : au lendemain des midterms, comment républicains et démocrates se projettent vers la présidentielle de 2028",
-   "link": "https://www.franceinfo.fr/monde/usa/midterms-2018/l-apres-trump-commence-vraiment-maintenant-au-lendemain-des-midterms-comment-republicains-et-democrates-se-projettent-vers-la-presidentielle-de-2028_8267465.html",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/VOGhYdnMOae5WqRLzbcdGmQ5-fo/0x27:1024x603/432x243/filters:format(jpg)/2026/11/04/6aeb37148d32b507188368.jpg",
+   "title": "Ce que l'on sait des alertes à la bombe qui ont visé une vingtaine de vols européens et forcé un avion à atterrir en urgence en France Aujourd'hui",
+   "link": "https://www.franceinfo.fr/economie/transports/ce-que-l-on-sait-des-alertes-a-la-bombe-qui-ont-vise-douze-vols-europeens-jeudi_8269349.html",
+   "summary": "Ce que l'on sait des alertes à la bombe qui ont visé une vingtaine de vols européens et forcé un avion à atterrir en urgence en France",
+   "image": "https://www.franceinfo.fr/pictures/hHtEXv_Kuj35L4rVWvQ86QjZQaw/0x66:1024x642/432x243/filters:format(jpg)/2026/11/05/6aec93e549e61077072145.jpg",
    "date": null,
-   "pubdate": "2026-11-05T06:56:19.507487+00:00"
+   "pubdate": "2026-11-05T17:27:52.455799+00:00"
+  },
+  {
+   "title": "Amnésique, sans aucun papier sur lui, un jeune homme de 25 ans enfin identifié après avoir vécu près d'un mois à l'aéroport de Naples Aujourd'hui 1:39 vidéo 1 minute 39",
+   "link": "https://www.franceinfo.fr/faits-divers/amnesique-sans-aucun-papier-sur-lui-un-jeune-homme-de-25-ans-enfin-identifie-apres-avoir-vecu-pres-d-un-mois-a-l-aeroport-de-naples_8269451.html",
+   "summary": "Amnésique, sans aucun papier sur lui, un jeune homme de 25 ans enfin identifié après avoir vécu près d'un mois à l'aéroport de Naples",
+   "image": "https://www.franceinfo.fr/pictures/ofiQYlaV5hH41z4YjF5Acr3oUg8/0x34:1278x753/432x243/filters:format(jpg)/2026/11/05/6aec9b2c8cd50783319274.jpg",
+   "date": null,
+   "pubdate": "2026-11-05T17:27:52.455799+00:00"
+  },
+  {
+   "title": "\"On espère mettre fin à cette épidémie\" d'Ebola : deux vaccins ouvrent une nouvelle piste d'espoir en RDC Aujourd'hui",
+   "link": "https://www.franceinfo.fr/sante/maladie/ebola/on-espere-mettre-fin-a-cette-epidemie-d-ebola-deux-vaccins-ouvrent-une-nouvelle-piste-d-espoir-en-rdc_8268329.html",
+   "summary": "\"On espère mettre fin à cette épidémie\" d'Ebola : deux vaccins ouvrent une nouvelle piste d'espoir en RDC",
+   "image": "https://www.franceinfo.fr/pictures/1lIe26CuJRbmjoRiwMOL-l4KtFg/0x300:5760x3540/432x243/filters:format(jpg)/2026/11/04/6aeb7c881dc3b676597078.jpg",
+   "date": null,
+   "pubdate": "2026-11-05T17:27:52.455799+00:00"
+  },
+  {
+   "title": "Des milliers de cas confirmés, plusieurs morts en Pennsylvanie, une vaccination en recul... Ce que l'on sait de l'épidémie de rougeole aux Etats-Unis Aujourd'hui",
+   "link": "https://www.franceinfo.fr/sante/maladie/des-milliers-de-cas-confirmes-plusieurs-morts-en-pennsylvanie-une-vaccination-en-recul-ce-que-l-on-sait-de-l-epidemie-de-rougeole-aux-etats-unis_8269070.html",
+   "summary": "Des milliers de cas confirmés, plusieurs morts en Pennsylvanie, une vaccination en recul... Ce que l'on sait de l'épidémie de rougeole aux Etats-Unis",
+   "image": "https://www.franceinfo.fr/pictures/JL18fdZmdi6C7xB093XPMY2gJXA/0x512:6000x3887/432x243/filters:format(jpg)/2026/11/05/6aec7245b53e9795141674.jpg",
+   "date": null,
+   "pubdate": "2026-11-05T17:27:52.455799+00:00"
+  },
+  {
+   "title": "Un avion dérouté à Évreux après une alerte à la bombe Aujourd'hui 1:30 vidéo 1 minute 30",
+   "link": "https://www.franceinfo.fr/monde/un-avion-deroute-a-evreux-apres-une-alerte-a-la-bombe_8269304.html",
+   "summary": "Un avion dérouté à Évreux après une alerte à la bombe",
+   "image": "https://www.franceinfo.fr/pictures/1lP09JMhR86qbb0gjwaFOLpcs_4/0x0:1585x892/432x243/filters:format(jpg)/2026/11/05/6aec7d3d8f4c0467608803.jpg",
+   "date": null,
+   "pubdate": "2026-11-05T17:27:52.455799+00:00"
+  },
+  {
+   "title": "Après sa défaite aux midterms, Donald Trump vante sa salle de bal à la Maison Blanche Aujourd'hui 0:55 vidéo 55 secondes",
+   "link": "https://www.franceinfo.fr/monde/usa/midterms-2018/apres-sa-defaite-aux-midterms-donald-trump-vante-sa-salle-de-bal-a-la-maison-blanche_8269286.html",
+   "summary": "Après sa défaite aux midterms, Donald Trump vante sa salle de bal à la Maison Blanche",
+   "image": "https://www.franceinfo.fr/pictures/RFH52fRFIxCQCFNh6yAne3Ve-gg/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/05/6aec73a1c2e56140562527.jpg",
+   "date": null,
+   "pubdate": "2026-11-05T17:27:52.455799+00:00"
+  },
+  {
+   "title": "Après la défaite du camp de Donald Trump aux midterms, le président ukrainien Volodymyr Zelensky dit espérer davantage de soutien américain Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/apres-la-defaite-du-camp-de-donald-trump-aux-midterms-le-president-ukrainien-volodymyr-zelensky-dit-esperer-davantage-de-soutien-americain_8268959.html",
+   "summary": "Après la défaite du camp de Donald Trump aux midterms, le président ukrainien Volodymyr Zelensky dit espérer davantage de soutien américain",
+   "image": "https://www.franceinfo.fr/pictures/S_Hm1u50Js-nuG9XrBDCq36yeIA/0x53:1024x629/432x243/filters:format(jpg)/2026/11/05/6aec4440edb47847404713.jpg",
+   "date": null,
+   "pubdate": "2026-11-05T17:27:52.455799+00:00"
+  },
+  {
+   "title": "La génération TikTok redécouvre l'art du discours avec les manifestations Alors que les jeunes se mobilisent aussi en Espagne, leur aisance à prendre la parole intrigue la presse. Une génération souvent accusée de passer trop de temps sur son téléphone pourrait aussi y avoir appris à argumenter, convaincre et manier les mots. Aujourd'hui 2:57 audio 2 minutes 57",
+   "link": "https://www.franceinfo.fr/replay-radio/le-monde-et-vous/la-generation-tiktok-redecouvre-l-art-du-discours-avec-les-manifestations_8248138.html",
+   "summary": "La génération TikTok redécouvre l'art du discours avec les manifestations",
+   "image": "https://www.franceinfo.fr/pictures/WGHPoO89YEye3hjsFcWVDzdY3lY/0x0:4096x2304/432x243/filters:format(jpg)/2026/10/27/6ae08806a2ea6179544769.jpg",
+   "date": null,
+   "pubdate": "2026-11-05T17:27:52.455799+00:00"
+  },
+  {
+   "title": "La justice autorise l'administration Trump à s'associer aux poursuites contre un programme qui cherche à réparer des discriminations raciales Depuis cet été aux États-Unis, l'administration Trump se mobilise contre un programme de réparations financières accordées aux personnes victimes de discriminations raciales. Il y a quelques jours, un juge l'a autorisée à s'associer aux poursuites. Aujourd'hui 2:39 audio 2 minutes 39",
+   "link": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/la-justice-autorise-l-administration-trump-a-s-associer-aux-poursuites-contre-un-programme-qui-cherche-a-reparer-des-discriminations-raciales_8248099.html",
+   "summary": "La justice autorise l'administration Trump à s'associer aux poursuites contre un programme qui cherche à réparer des discriminations raciales",
+   "image": "https://www.franceinfo.fr/pictures/Aa0dnq7hkzhKsUXUu72OtAlT1bY/0x53:1024x629/432x243/filters:format(jpg)/2026/11/05/6aec43c4230de345000118.jpg",
+   "date": null,
+   "pubdate": "2026-11-05T17:27:52.455799+00:00"
+  },
+  {
+   "title": "Bruxelles poursuit son projet de simplifier les lois qui protègent la biodiversité en Europe Face à des règles jugées trop défavorables aux développement des entreprises, l'objectif est de déterminer s'il est nécessaire de modifier le cadre législatif, pour que celui-ci reste efficace tout en étant plus simple à appliquer. Aujourd'hui 2:26 audio 2 minutes 26",
+   "link": "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/bruxelles-poursuit-son-projet-de-simplifier-les-lois-qui-protegent-la-biodiversite-en-europe_8248129.html",
+   "summary": "Bruxelles poursuit son projet de simplifier les lois qui protègent la biodiversité en Europe",
+   "image": "https://www.franceinfo.fr/pictures/MthDFspQsOurL3af0P6SjCX9dGU/0x52:1024x628/432x243/filters:format(jpg)/2026/11/05/6aec3e1f87640169919098.jpg",
+   "date": null,
+   "pubdate": "2026-11-05T17:27:52.455799+00:00"
+  },
+  {
+   "title": "Faut-il sauver le soldat Trump ?, s'interrogent les dirigeants du monde après la débâcle électorale du président américain Après la défaite des républicains aux élections de mi-mandat, les dirigeants du monde se questionnent sur la nouvelle position à adopter vis-à-vis de Donald Trump. Une question que se posent aussi les démocrates américains, après les menaces de \"veto\" du président. Aujourd'hui 2:53 audio 2 minutes 53",
+   "link": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/faut-il-sauver-le-soldat-trump-s-interrogent-les-dirigeants-du-monde-apres-la-debacle-electorale-du-president-americain_8248150.html",
+   "summary": "Faut-il sauver le soldat Trump ?, s'interrogent les dirigeants du monde après la débâcle électorale du président américain",
+   "image": "https://www.franceinfo.fr/pictures/dT4crZyludwoHbjGtDrc-5NiNIQ/0x53:1024x629/432x243/filters:format(jpg)/2026/11/05/6aec3876e3303535482429.jpg",
+   "date": null,
+   "pubdate": "2026-11-05T17:27:52.455799+00:00"
+  },
+  {
+   "title": "Deux pétroliers et un remorqueur ont pris feu dans le détroit d'Ormuz, annonce l'Iran Depuis le début du conflit, Téhéran verrouille ce passage maritime et cible régulièrement des navires qui tentent de le traverser sans son autorisation. Washington impose en retour un blocus des ports iraniens. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/iran/crise-dans-le-detroit-d-ormuz/deux-petroliers-et-un-remorqueur-ont-pris-feu-dans-le-detroit-d-ormuz-annonce-l-iran_8268932.html",
+   "summary": "Deux pétroliers et un remorqueur ont pris feu dans le détroit d'Ormuz, annonce l'Iran",
+   "image": "https://www.franceinfo.fr/pictures/GgIyyFVxZ2Ez6HcrczU_6y4mgHI/0x53:1024x629/432x243/filters:format(jpg)/2026/11/05/6aec3535866f5086243687.jpg",
+   "date": null,
+   "pubdate": "2026-11-05T17:27:52.455799+00:00"
+  },
+  {
+   "title": "A Hong Kong, le militant prodémocratie Joshua Wong condamné à 10 ans de prison supplémentaires Il était encore reproché à Joshua Wong d'avoir demandé à des pays, des particuliers ou des institutions à l'étranger, notamment en s'exprimant dans les médias, d'\"imposer des sanctions ou un blocus, ou de se livrer à d'autres activités hostiles\" à l'encontre de la Chine et de Hong Kong. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/chine/hong-kong/a-hong-kong-le-militant-prodemocratie-joshua-wong-condamne-a-10-ans-de-prison-supplementaires_8268917.html",
+   "summary": "A Hong Kong, le militant prodémocratie Joshua Wong condamné à 10 ans de prison supplémentaires",
+   "image": "https://www.franceinfo.fr/pictures/lBYrDn9xusmcRFK0H9BctWNtEiE/0x52:1024x628/432x243/filters:format(jpg)/2026/11/05/6aec3278c4ce5770510257.jpg",
+   "date": null,
+   "pubdate": "2026-11-05T17:27:52.455799+00:00"
   },
   {
    "title": "Tout comprendre à la guerre au Moyen-Orient 27 contenus",
@@ -67,55 +162,47 @@
    "pubdate": "2026-11-05T06:56:19.507487+00:00"
   },
   {
-   "title": "15:01 vidéo 15 minutes 1 Les jardins secrets de la Grande Muraille de Chine",
-   "link": "https://www.franceinfo.fr/culture/les-jardins-secrets-de-la-grande-muraille-de-chine_8268476.html",
-   "summary": "Les jardins secrets de la Grande Muraille de Chine",
-   "image": "https://www.franceinfo.fr/pictures/_NeSKUJOjZY8-AI12VhJZw_4upc/0x108:1532x969/432x243/filters:format(jpg)/2026/11/04/6aeba2a3de73d001634297.png",
+   "title": "Les attaques contre les systèmes d'eau dans les conflits ont triplé entre 2021 et 2025, alerte l'Unicef L'agence de l'ONU dénonce des attaques sur les dispositifs d'acheminement en eau de plusieurs zones en conflit, \"exposant davantage les enfants aux épidémies, à la malnutrition et aux violences\", selon le rapport. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/les-attaques-contre-les-systemes-d-eau-dans-les-conflits-ont-triple-entre-2021-et-2025-alerte-l-unicef_8268839.html",
+   "summary": "Les attaques contre les systèmes d'eau dans les conflits ont triplé entre 2021 et 2025, alerte l'Unicef",
+   "image": "https://www.franceinfo.fr/pictures/DN-ybL_QCBT1QcGP3lK-i3TR7Ms/0x350:6720x4130/432x243/filters:format(jpg)/2026/11/05/6aec1a4da2655647979649.jpg",
+   "date": null,
+   "pubdate": "2026-11-05T06:56:19.507487+00:00"
+  },
+  {
+   "title": "\"L'après-Trump commence vraiment maintenant\" : au lendemain des midterms, comment républicains et démocrates se projettent vers la présidentielle de 2028 Si la guerre de succession est officiellement déclarée chez les républicains, les démocrates vont devoir se demander comment tirer parti de leurs spectaculaires victoires obtenues mercredi. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/usa/midterms-2018/l-apres-trump-commence-vraiment-maintenant-au-lendemain-des-midterms-comment-republicains-et-democrates-se-projettent-vers-la-presidentielle-de-2028_8267465.html",
+   "summary": "\"L'après-Trump commence vraiment maintenant\" : au lendemain des midterms, comment républicains et démocrates se projettent vers la présidentielle de 2028",
+   "image": "https://www.franceinfo.fr/pictures/VOGhYdnMOae5WqRLzbcdGmQ5-fo/0x27:1024x603/432x243/filters:format(jpg)/2026/11/04/6aeb37148d32b507188368.jpg",
+   "date": null,
+   "pubdate": "2026-11-05T06:56:19.507487+00:00"
+  },
+  {
+   "title": "Visite exclusive de l'une des plus grandes plateformes d'extraction de gaz au monde gérée par Total 7:19 vidéo 7 minutes 19",
+   "link": "https://www.franceinfo.fr/economie/visite-exclusive-de-l-une-des-plus-grandes-plateformes-d-extraction-de-gaz-au-monde-geree-par-total_8268395.html",
+   "summary": "Visite exclusive de l'une des plus grandes plateformes d'extraction de gaz au monde gérée par Total",
+   "image": "https://www.franceinfo.fr/pictures/60nR6sy5swxWhcpQ8ja2MqzVd3U/39x0:1231x670/432x243/filters:format(jpg)/2026/11/04/6aeb905915121268755850.jpg",
    "date": null,
    "pubdate": "2026-11-04T23:44:33.054195+00:00"
   },
   {
-   "title": "Législatives en Israël : Benyamin Nétanyahou évoque \"de graves soupçons\" d'ingérences étrangères",
+   "title": "RESULTATS. Triomphe des démocrates aux midterms 2026, cuisante défaite pour les républicains de Donald Trump ... Suivez le décompte des sièges à la Chambre des représentants et au Sénat 1:00 article 1 minute",
+   "link": "https://www.franceinfo.fr/monde/usa/midterms-2018/resultats-midterms-2026-donald-trump-va-t-il-perdre-le-controle-du-senat-ou-de-la-chambre-des-representants-suivez-le-decompte-des-sieges-en-direct_8237248.html",
+   "summary": "RESULTATS. Triomphe des démocrates aux midterms 2026, cuisante défaite pour les républicains de Donald Trump ... Suivez le décompte des sièges à la Chambre des représentants et au Sénat",
+   "image": "https://www.franceinfo.fr/pictures/4d2UcrwmAHV7WDiTjUKqufSNIt8/0x0:3840x2160/432x243/filters:format(jpg)/2026/10/23/6adb60c823cda292054517.png",
+   "date": null,
+   "pubdate": "2026-11-04T23:44:33.054195+00:00"
+  },
+  {
+   "title": "Législatives en Israël : Benyamin Nétanyahou évoque \"de graves soupçons\" d'ingérences étrangères C'est la première fois depuis le scrutin du 27 octobre que le Premier ministre sortant s'empare de ces allégations, non étayées à ce stade, en sa qualité de chef du gouvernement. 4 novembre",
    "link": "https://www.franceinfo.fr/monde/israel/elections-legislatives-en-israel/legislatives-en-israel-benyamin-netanyahou-evoque-de-graves-soupcons-d-ingerences-etrangeres_8268485.html",
-   "summary": "",
+   "summary": "Législatives en Israël : Benyamin Nétanyahou évoque \"de graves soupçons\" d'ingérences étrangères",
    "image": "https://www.franceinfo.fr/pictures/KXx-BZgcyAXcUpkhPGfjt1Pc5Cw/0x0:6000x3375/432x243/filters:format(jpg)/2026/11/04/6aebac203c981235174290.jpg",
    "date": null,
    "pubdate": "2026-11-04T23:44:33.054195+00:00"
   },
   {
-   "title": "2:33 vidéo 2 minutes 33 \"C'est une peur animale, tu ne penses plus\" : le journaliste Evan Gershkovich raconte son arrestation et ses 491 jours en prison en Russie",
-   "link": "https://www.franceinfo.fr/monde/russie/c-est-une-peur-animale-tu-ne-penses-plus-le-journaliste-evan-gershkovich-raconte-son-arrestation-et-ses-491-jours-en-prison-en-russie_8268467.html",
-   "summary": "\"C'est une peur animale, tu ne penses plus\" : le journaliste Evan Gershkovich raconte son arrestation et ses 491 jours en prison en Russie",
-   "image": "https://www.franceinfo.fr/pictures/PSKTXW_KhQmLawXNm4IIlQ3w9lk/0x112:1466x937/432x243/filters:format(jpg)/2026/11/04/6aeb9be9be709467341294.png",
-   "date": null,
-   "pubdate": "2026-11-04T23:44:33.054195+00:00"
-  },
-  {
-   "title": "0:58 vidéo 58 secondes Marathon de New York : une coureuse succombe à moins de 4 km de l'arrivée",
-   "link": "https://www.franceinfo.fr/sports/athletisme/marathon/marathon-de-new-york-une-coureuse-succombe-a-moins-de-4-km-de-l-arrivee_8268503.html",
-   "summary": "Marathon de New York : une coureuse succombe à moins de 4 km de l'arrivée",
-   "image": "https://www.franceinfo.fr/pictures/JPE4EgdihzcoTlSsE1zTuN0GSNo/62x0:737x1201/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/04/6aebaae331ab5902228584.png",
-   "date": null,
-   "pubdate": "2026-11-04T23:44:33.054195+00:00"
-  },
-  {
-   "title": "1:40 vidéo 1 minute 40 \"Elle a été tout de suite frappée par les pierres\" : la mère de Cynthia, la Française décédée dans l'effondrement d'une colonne rocheuse en Turquie, témoigne",
-   "link": "https://www.franceinfo.fr/faits-divers/accident/effondrement-d-une-colonne-rocheuse-en-turquie-elle-a-ete-tout-de-suite-frappee-par-les-pierres-raconte-la-mere-de-cynthia-houpert-la-francaise-decedee-dans-l-accident_8268494.html",
-   "summary": "\"Elle a été tout de suite frappée par les pierres\" : la mère de Cynthia, la Française décédée dans l'effondrement d'une colonne rocheuse en Turquie, témoigne",
-   "image": "https://www.franceinfo.fr/pictures/OBOYBUzZOhA7XkdZdFls3kl-az8/0x59:1190x728/432x243/filters:format(jpg)/2026/11/04/6aeba5d6a306c530800749.jpg",
-   "date": null,
-   "pubdate": "2026-11-04T23:44:33.054195+00:00"
-  },
-  {
-   "title": "2:19 vidéo 2 minutes 19 Donald Trump est-il toujours aussi puissant après sa défaite aux midterms ?",
-   "link": "https://www.franceinfo.fr/monde/usa/midterms-2018/donald-trump-est-il-toujours-aussi-puissant-apres-sa-defaite-aux-midterms_8268431.html",
-   "summary": "Donald Trump est-il toujours aussi puissant après sa défaite aux midterms ?",
-   "image": "https://www.franceinfo.fr/pictures/wL83_mIPIQ1rQGVP6IjcAIG5XMM/0x119:1590x1014/432x243/filters:format(jpg)/2026/11/04/6aeb924c2d8e8868681908.png",
-   "date": null,
-   "pubdate": "2026-11-04T23:44:33.054195+00:00"
-  },
-  {
-   "title": "2:07 vidéo 2 minutes 7 \"Je suis tellement submergée de joie pour le futur des enfants\" : le Texas, bastion républicain historique, devient démocrate",
+   "title": "\"Je suis tellement submergée de joie pour le futur des enfants\" : le Texas, bastion républicain historique, devient démocrate C'est certainement le symbole le plus spectaculaire de la débâcle de Donald Trump : même le Texas, que les républicains dirigent depuis plus de 30 ans, a basculé. Le gouverneur sortant a été battu par la démocrate d’origine mexicaine Gina Hinojosa. Comment expliquer un tel retournement dans ce laboratoire de la droite américaine ? 4 novembre 2:07 vidéo 2 minutes 7",
    "link": "https://www.franceinfo.fr/monde/usa/midterms-2018/je-suis-tellement-submergee-de-joie-pour-le-futur-des-enfants-le-texas-bastion-republicain-historique-devient-democrate_8268419.html",
    "summary": "\"Je suis tellement submergée de joie pour le futur des enfants\" : le Texas, bastion républicain historique, devient démocrate",
    "image": "https://www.franceinfo.fr/pictures/qDuaP5LQRdYlkMu1MhBKF0xbIcA/0x91:1598x990/432x243/filters:format(jpg)/2026/11/04/6aeb8f6da4b4a336114257.png",
@@ -123,124 +210,20 @@
    "pubdate": "2026-11-04T23:44:33.054195+00:00"
   },
   {
-   "title": "7:19 vidéo 7 minutes 19 Visite exclusive de l'une des plus grandes plateformes d'extraction de gaz au monde gérée par Total",
-   "link": "https://www.franceinfo.fr/economie/visite-exclusive-de-l-une-des-plus-grandes-plateformes-d-extraction-de-gaz-au-monde-geree-par-total_8268395.html",
-   "summary": "Visite exclusive de l'une des plus grandes plateformes d'extraction de gaz au monde gérée par Total",
-   "image": "https://www.franceinfo.fr/pictures/QV31kUhvild4ec1Md4XcO50Ht-U/300x0:970x670/100x100/filters:format(jpg)/2026/11/04/6aeb905915121268755850.jpg",
-   "date": null,
-   "pubdate": "2026-11-04T23:44:33.054195+00:00"
-  },
-  {
-   "title": "1:00 article 1 minute RESULTATS. Triomphe des démocrates aux midterms 2026, cuisante défaite pour les républicains de Donald Trump ... Suivez le décompte des sièges à la Chambre des représentants et au Sénat",
-   "link": "https://www.franceinfo.fr/monde/usa/midterms-2018/resultats-midterms-2026-donald-trump-va-t-il-perdre-le-controle-du-senat-ou-de-la-chambre-des-representants-suivez-le-decompte-des-sieges-en-direct_8237248.html",
-   "summary": "RESULTATS. Triomphe des démocrates aux midterms 2026, cuisante défaite pour les républicains de Donald Trump ... Suivez le décompte des sièges à la Chambre des représentants et au Sénat",
-   "image": "https://www.franceinfo.fr/pictures/bCGCDQttXV7KeqlaEj2Yu8hI7QU/456x0:2616x2160/100x100/filters:format(jpg)/2026/10/23/6adb60c823cda292054517.png",
-   "date": null,
-   "pubdate": "2026-11-04T23:44:33.054195+00:00"
-  },
-  {
-   "title": "Guerre en Ukraine : Volodymyr Zelensky accorde une décoration à Melania Trump pour son engagement \"humanitaire\" La Première dame des Etats-Unis a notamment été impliquée dans un récent cessez-le-feu localisé ayant permis l'évacuation de la ville ukrainienne d'Olechky.",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-volodymyr-zelensky-accorde-une-decoration-a-melania-trump-pour-son-engagement-humanitaire_8268350.html",
-   "summary": "Guerre en Ukraine : Volodymyr Zelensky accorde une décoration à Melania Trump pour son engagement \"humanitaire\"",
-   "image": "https://www.franceinfo.fr/pictures/dIW8eUFmryz0cVuI2ZGrOThlF1k/0x0:1024x576/432x243/filters:format(jpg)/2026/11/04/6aeb85a49307a062952759.jpg",
-   "date": null,
-   "pubdate": "2026-11-04T23:44:33.054195+00:00"
-  },
-  {
-   "title": ": Reportage \"Il était le meilleur choix possible\" : dans la ville du nouveau sénateur du Texas James Talarico, les démocrates espèrent que les midterms \"apporteront du changement\" Le modéré, élu avec plus de 55% des voix, deviendra en janvier le premier démocrate à représenter le Texas au Sénat depuis 1988.",
-   "link": "https://www.franceinfo.fr/monde/usa/midterms-2018/reportage-il-etait-le-meilleur-choix-possible-dans-la-ville-du-nouveau-senateur-du-texas-james-talarico-les-democrates-esperent-que-les-midterms-apporteront-du-changement_8268125.html",
-   "summary": "\"Il était le meilleur choix possible\" : dans la ville du nouveau sénateur du Texas James Talarico, les démocrates espèrent que les midterms \"apporteront du changement\"",
-   "image": "https://www.franceinfo.fr/pictures/ZcsM8shkZRtJLSLQQaLLFtgi0Vo/0x0:7229x4066/432x243/filters:format(jpg)/2026/11/04/6aeb73608841a030341883.jpg",
-   "date": null,
-   "pubdate": "2026-11-04T23:44:33.054195+00:00"
-  },
-  {
-   "title": "8:06 audio 8 minutes 6 Aux Etats-Unis, les midterms confirme que \"la société bascule vers la gauche\", estime un historien spécialiste des Etats-Unis. C’est une vague démocrate qui a déferlé mardi lors des élections de mi-mandat, alimentée par la colère suscitée par la flambée des prix de l'énergie et par la guerre coûteuse et interminable contre l'Iran. Est-ce un rejet de Donald Trump ou signifie-t-elle autre chose ? L’analyse de Tristan Cabello, historien spécialiste des Etats-Unis.",
-   "link": "https://www.franceinfo.fr/replay-radio/la-question-des-informes/aux-etats-unis-les-midterms-confirme-que-la-societe-bascule-vers-la-gauche-estime-un-historien-specialiste-des-etats-unis_8246497.html",
-   "summary": "Aux Etats-Unis, les midterms confirme que \"la société bascule vers la gauche\", estime un historien spécialiste des Etats-Unis.",
-   "image": "https://www.franceinfo.fr/pictures/CkDHeNn7qoY4JjP_-wEOf4jT8a4/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/04/6aeb6c28e8601568424764.jpg",
-   "date": null,
-   "pubdate": "2026-11-04T23:44:33.054195+00:00"
-  },
-  {
-   "title": "7:42 audio 7 minutes 42 Pouvoir d'achat, prix du carburant... Ces Américains expliquent le \"Blue-nami\", cette \"vague bleue\" aux midterms 2026 qui déstabilise Donald Trump",
+   "title": "Pouvoir d'achat, prix du carburant... Ces Américains expliquent le \"Blue-nami\", cette \"vague bleue\" aux midterms 2026 qui déstabilise Donald Trump 7:42 audio 7 minutes 42",
    "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/pouvoir-d-achat-prix-du-carburant-ces-americains-expliquent-le-blunami-cette-vague-bleue-aux-midterms-2026-qui-destabilise-donald-trump_8246506.html",
    "summary": "Pouvoir d'achat, prix du carburant... Ces Américains expliquent le \"Blue-nami\", cette \"vague bleue\" aux midterms 2026 qui déstabilise Donald Trump",
-   "image": "https://www.franceinfo.fr/pictures/rZWurtUfTPaoKTlKVCES74ChFBQ/912x0:4560x3648/100x100/filters:format(jpg)/2026/11/04/6aeaeff3e2db7183174731.jpg",
+   "image": "https://www.franceinfo.fr/pictures/AkYh3weX8R2nkJ3a7FbsGXaL2ls/0x285:5472x3363/432x243/filters:format(jpg)/2026/11/04/6aeaeff3e2db7183174731.jpg",
    "date": null,
    "pubdate": "2026-11-04T17:19:34.531285+00:00"
   },
   {
-   "title": ": Grand entretien 5:00 article 5 minutes : Grand entretien En Belgique, un cordon sanitaire médiatique \"empêche toute forme de banalisation de l'extrême droite\", un outil \"difficile\" à imaginer en France",
+   "title": ": Grand entretien En Belgique, un cordon sanitaire médiatique \"empêche toute forme de banalisation de l'extrême droite\", un outil \"difficile\" à imaginer en France : Grand entretien 5:00 article 5 minutes",
    "link": "https://www.franceinfo.fr/politique/grand-entretien-en-belgique-un-cordon-sanitaire-mediatique-empeche-toute-forme-de-banalisation-de-l-extreme-droite-un-outil-difficile-a-imaginer-en-france_8265599.html",
    "summary": "En Belgique, un cordon sanitaire médiatique \"empêche toute forme de banalisation de l'extrême droite\", un outil \"difficile\" à imaginer en France",
-   "image": "https://www.franceinfo.fr/pictures/9LdUSK6oamqclaiDrAjSNcWmhIU/1437x0:4300x2863/100x100/filters:format(jpg)/2026/11/03/6aea17e3db34d727066316.jpg",
+   "image": "https://www.franceinfo.fr/pictures/8jhw81QIhD7mLmBqp2LCi5CRN2I/0x0:4300x2418/432x243/filters:format(jpg)/2026/11/03/6aea17e3db34d727066316.jpg",
    "date": null,
    "pubdate": "2026-11-04T17:19:34.531285+00:00"
-  },
-  {
-   "title": "Deepfakes, fake news sur X, fausses vidéos… Comment les fausses informations ont inondé la campagne des midterms 2026 Ces fausses informations sont venues en majorité du camp républicain mais parfois aussi du camp démocrate, ainsi que de puissances étrangères.",
-   "link": "https://www.franceinfo.fr/monde/usa/midterms-2018/deepfakes-fake-news-sur-x-fausses-videos-comment-les-fausses-informations-ont-inonde-la-campagne-des-midterms-2026_8267981.html",
-   "summary": "Deepfakes, fake news sur X, fausses vidéos… Comment les fausses informations ont inondé la campagne des midterms 2026",
-   "image": "https://www.franceinfo.fr/pictures/wGbnhWlLNyNVmzmwn5uB1zB6xR8/0x312:6000x3687/432x243/filters:format(jpg)/2026/11/04/6aeb59ca37ead831650540.jpg",
-   "date": null,
-   "pubdate": "2026-11-04T17:19:34.531285+00:00"
-  },
-  {
-   "title": "Vote des jeunes, des minorités ethniques… Visualisez comment se sont prononcés les Américains lors des midterms Les jeunes et les Afro-Américains ont massivement rejeté le vote républicain à la Chambre des représentants et ont voté en faveur des démocrates, révèle un sondage commandé pour Associated Press.",
-   "link": "https://www.franceinfo.fr/monde/usa/midterms-2018/vote-des-jeunes-des-minorites-ethniques-visualisez-comment-se-sont-prononces-les-americains-lors-des-midterms_8267702.html",
-   "summary": "Vote des jeunes, des minorités ethniques… Visualisez comment se sont prononcés les Américains lors des midterms",
-   "image": "https://www.franceinfo.fr/pictures/vv0TOfOJCQJIU7_nTkGoOVNP2Mc/0x428:8192x5036/432x243/filters:format(jpg)/2026/11/04/6aeb41294113c406966384.jpg",
-   "date": null,
-   "pubdate": "2026-11-04T17:19:34.531285+00:00"
-  },
-  {
-   "title": "Crise en Pologne : peut-on parler d'un coup d'Etat ? Comment interpréter les événements qui ébranlent la Pologne depuis le vendredi 30 octobre ? Dans le paysage politique extrêmement polarisé, deux camps s’affrontent : les centristes dans la ligne du Premier ministre Donald Tusk et la droite nationaliste du parti Droit et Justice (PiS) qui soutient le président polonais Karol Nawrocki. S'agit-il d'un coup d’Etat ? Le média public belge RTBF s'interroge.",
-   "link": "https://www.franceinfo.fr/monde/europe/crise-en-pologne-peut-on-parler-d-un-coup-d-etat_8267939.html",
-   "summary": "Crise en Pologne : peut-on parler d'un coup d'Etat ?",
-   "image": "https://www.franceinfo.fr/pictures/aBuMGtTWLBvuq7DjHojZp4eNryM/0x63:1200x738/432x243/filters:format(jpg)/2026/11/04/6aeb4f8943eca514532379.jpg",
-   "date": null,
-   "pubdate": "2026-11-04T17:19:34.531285+00:00"
-  },
-  {
-   "title": "\"On est dans des contextes très différents\" : pour le président du RN, il n'y a aucun \"rapport\" entre les midterms aux États-Unis et la France \"Ce qu'il se passe dans les autres pays ne me regarde pas\", a insisté Jordan Bardella mercredi matin, après la défaite de Donald Trump aux élections de mi-mandat américaines.",
-   "link": "https://www.franceinfo.fr/monde/usa/midterms-2018/on-est-dans-des-contextes-tres-differents-pour-le-president-du-rn-il-n-y-a-aucun-rapport-entre-les-midterms-aux-etats-unis-et-la-france_8267780.html",
-   "summary": "\"On est dans des contextes très différents\" : pour le président du RN, il n'y a aucun \"rapport\" entre les midterms aux États-Unis et la France",
-   "image": "https://www.franceinfo.fr/pictures/uWF4Pviz_mlOtqLx8O5MWZ_Y-jQ/0x0:5136x2889/432x243/filters:format(jpg)/2026/11/04/6aeb3e92cf3ed675603956.jpg",
-   "date": null,
-   "pubdate": "2026-11-04T17:19:34.531285+00:00"
-  },
-  {
-   "title": "3:22 audio 3 minutes 22 En Alaska, deux candidats Dan Sullivan pour embrouiller les électeurs aux midterms Le sénateur républicain Dan Sullivan dénonce une \"tricherie électorale\" des démocrates, accusés d'avoir poussé un candidat portant le même nom que lui pour lui faire perdre des voix dans une élection très serrée.",
-   "link": "https://www.franceinfo.fr/replay-radio/histoire-du-jour/en-alaska-deux-candidats-dan-sullivan-pour-embrouiller-les-electeurs-aux-midterms_8267168.html",
-   "summary": "En Alaska, deux candidats Dan Sullivan pour embrouiller les électeurs aux midterms",
-   "image": "https://www.franceinfo.fr/pictures/drL-KYMyqedyk__4WOfqS2M_0zE/0x53:1024x629/432x243/filters:format(jpg)/2026/11/04/6aeb45f320cd7686869915.jpg",
-   "date": null,
-   "pubdate": "2026-11-04T17:19:34.531285+00:00"
-  },
-  {
-   "title": "Majorité au Congrès, conquête de bastions républicains historiques... Visualisez la nette victoire des démocrates aux midterms face au camp de Donald Trump A l'issue d'élections de mi-mandat particulièrement scrutées, le parti républicain a cédé mardi le contrôle du Congrès américain, en perdant la majorité au Sénat et à la Chambre des représentants.",
-   "link": "https://www.franceinfo.fr/monde/usa/midterms-2018/majorite-au-congres-conquete-de-bastions-republicains-historiques-visualisez-la-nette-victoire-des-democrates-aux-midterms-face-au-camp-de-donald-trump_8267237.html",
-   "summary": "Majorité au Congrès, conquête de bastions républicains historiques... Visualisez la nette victoire des démocrates aux midterms face au camp de Donald Trump",
-   "image": "https://www.franceinfo.fr/pictures/7-Kqd1di3XM_3FbrPnlaxlPZC0U/0x0:4569x2570/432x243/filters:format(jpg)/2026/11/04/6aeb039487ca0927006612.jpg",
-   "date": null,
-   "pubdate": "2026-11-04T17:19:34.531285+00:00"
-  },
-  {
-   "title": "\"Les Américains ont dit non à la guerre\" : l'Iran se réjouit de la déroute électorale de Donald Trump aux midterms 2026 Quel est le poids de la guerre en Iran dans la déroute du camp républicain aux Etats-Unis ? Le président américain admet mercredi que le conflit déclenché en février contre Téhéran lui a sans doute coûté des sièges au Sénat.",
-   "link": "https://www.franceinfo.fr/monde/usa/midterms-2018/les-americains-ont-dit-non-a-la-guerre-l-iran-se-rejouit-de-la-deroute-electorale-de-donald-trump-aux-midterms-2026_8267435.html",
-   "summary": "\"Les Américains ont dit non à la guerre\" : l'Iran se réjouit de la déroute électorale de Donald Trump aux midterms 2026",
-   "image": "https://www.franceinfo.fr/pictures/AFeR3PW7Yw262e2qRumbD8tZnD4/0x53:1024x629/432x243/filters:format(jpg)/2026/11/04/6aeb169c7dd85746142952.jpg",
-   "date": null,
-   "pubdate": "2026-11-04T17:19:34.531285+00:00"
-  },
-  {
-   "title": "51:59 audio 51 minutes 59 Une défaite historique pour Donald Trump aux midterms...Les informés de franceinfo du mercredi 4 novembre 2026 Tous les soirs, les informés débattent de l'actualité sur franceinfo, cette semaine autour de Hadrien Bect.",
-   "link": "https://www.franceinfo.fr/replay-radio/les-informes-de-france-info/une-defaite-historique-pour-donald-trump-aux-midterms-les-informes-de-franceinfo-du-mercredi-4-novembre-2026_8246464.html",
-   "summary": "Une défaite historique pour Donald Trump aux midterms...Les informés de franceinfo du mercredi 4 novembre 2026",
-   "image": "https://www.franceinfo.fr/pictures/fm-VqlHTAvGlWdgHcKnqOkGml44/197x70:1082x568/432x243/filters:format(jpg)/2026/11/04/6aeb8697058cc807545336.png",
-   "date": "2026-11-04T11:00:00+00:00",
-   "pubdate": "2026-11-04T11:00:00+00:00"
   },
   {
    "title": "Midterms 2026 : l'essentiel des élections de mi-mandat 28 contenus",
@@ -265,6 +248,14 @@
    "image": "https://www.franceinfo.fr/pictures/btENVL4vmQDLNvnJ4uUtTATvN9k/432x297/filters:format(jpg)/2026/02/12/000-96rl2gk-1-698def9a11d8a867290796.jpg",
    "date": null,
    "pubdate": "2026-11-04T06:36:03.451424+00:00"
+  },
+  {
+   "title": "\"Que veut dire Habibi ?\" : pic des recherches Google après le discours de victoire de Abdul El-Sayed lors des midterms 2026 Élu le 3 novembre 2026 dans le Michigan, le démocrate sera le premier musulman à siéger au Sénat américain. Dans son discours de victoire, il a ironisé sur JD Vance et Donald Trump, qui l'avaient pris pour cible pendant la campagne pour son nom et sa foi. Et cela a intrigué les Américains sur Google. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/usa/midterms-2018/que-veut-dire-habibi-pic-des-recherches-google-apres-le-discours-de-victoire-de-abdul-el-sayed-lors-des-midterms-2026_8269547.html",
+   "summary": "\"Que veut dire Habibi ?\" : pic des recherches Google après le discours de victoire de Abdul El-Sayed lors des midterms 2026",
+   "image": "https://www.franceinfo.fr/pictures/JpUejXJWR66TSietDE-UhFRzqn8/0x0:2909x2000/432x297/filters:format(jpg)/2026/11/04/6aeae235b08cd983711541.jpg",
+   "date": "2026-11-03T11:00:00+00:00",
+   "pubdate": "2026-11-03T11:00:00+00:00"
   }
  ]
 }
