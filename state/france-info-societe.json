@@ -1,10 +1,8 @@
 {
- "etag": "\"626887f2eb2a6af9c72b173c4c3873d8-gzip\"",
+ "etag": "\"99ff5fef25793817b0ee31fc8a5343c3-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/replay-magazine/france-2/envoye-special/video-silencieux-muet-mais-dote-d-oreilles-d-or-envoye-special-en-immersion-a-bord-du-temeraire-sous-marin-nucleaire-lanceur-d-engins_8258510.html": "2026-10-30T10:09:02.877290+00:00",
-  "https://www.franceinfo.fr/societe/nos-jours-heureux/": "2026-10-30T10:09:02.877290+00:00",
-  "https://www.franceinfo.fr/societe/euthanasie/comprendre-les-debats-sur-la-fin-de-vie/": "2026-10-30T10:09:02.877290+00:00",
   "https://www.franceinfo.fr/societe/manifestations/enquete-franceinfo-la-police-a-t-elle-coopere-avec-des-militants-d-ultradroite-a-montpellier-lors-de-la-manifestation-du-samedi-24-octobre_8257252.html": "2026-10-30T18:03:49.152625+00:00",
   "https://www.franceinfo.fr/economie/transports/infographie-il-y-a-un-climat-d-agressivite-generale-ce-que-montrent-les-chiffres-des-violences-motorisees-dont-sont-victimes-les-cyclistes-en-france_8263571.html": "2026-11-04T06:35:55.280216+00:00",
   "https://www.franceinfo.fr/faits-divers/le-ministre-de-l-education-nationale-annonce-une-plainte-apres-un-tir-de-mortier-dans-l-enceinte-d-un-lycee-de-lille_8268086.html": "2026-11-04T17:19:29.271544+00:00",
@@ -17,27 +15,81 @@
   "https://www.franceinfo.fr/societe/justice/la-journaliste-marie-portolano-relaxee-des-poursuites-en-diffamation-de-pierre-menes_8267774.html": "2026-11-04T17:19:29.271544+00:00",
   "https://www.franceinfo.fr/elections/presidentielle/oui-il-y-a-un-probleme-d-integration-en-france-edouard-philippe-propose-a-jean-luc-melenchon-un-debat-sur-l-immigration_8267711.html": "2026-11-04T17:19:29.271544+00:00",
   "https://www.franceinfo.fr/societe/manifestations/mobilisation-du-5-novembre-une-journee-classee-a-risque-par-le-renseignement-territorial_8267621.html": "2026-11-04T17:19:29.271544+00:00",
-  "https://www.franceinfo.fr/economie/greve/greve-du-5-novembre-l-intersyndicale-depose-un-recours-a-lyon-devant-le-tribunal-administratif-apres-l-interdiction-du-parcours-syndical_8267624.html": "2026-11-04T17:19:29.271544+00:00",
-  "https://www.franceinfo.fr/societe/manifestations/temoignage-je-n-avais-pas-le-droit-de-quitter-marseille-un-enseignant-raconte-son-assignation-a-residence-pour-l-empecher-de-manifester_8266340.html": "2026-11-04T17:19:29.271544+00:00",
-  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/le-relevement-du-plafond-du-livret-a-peut-il-etre-efficace-pour-renover-les-lycees_8267264.html": "2026-11-04T17:19:29.271544+00:00",
   "https://www.franceinfo.fr/economie/entreprises/vers-une-augmentation-des-salaires-apres-la-greve-du-5-novembre-un-patron-nous-explique-son-choix_8268479.html": "2026-11-04T23:44:28.562068+00:00",
   "https://www.franceinfo.fr/societe/justice/petit-a-petit-on-vous-colle-une-espece-d-etiquette-rencontre-avec-des-militants-assignes-a-residence_8268470.html": "2026-11-04T23:44:28.562068+00:00",
   "https://www.franceinfo.fr/culture/livres/prix-litteraires/ca-me-rend-heureux-parce-que-c-est-un-livre-qui-m-a-deborde-tout-de-suite-reagit-yannick-haenel-laureat-du-prix-femina_8268389.html": "2026-11-04T23:44:28.562068+00:00",
   "https://www.franceinfo.fr/replay-radio/les-informes-de-france-info/une-defaite-historique-pour-donald-trump-aux-midterms-les-informes-de-franceinfo-du-mercredi-4-novembre-2026_8246464.html": "2026-11-04T11:00:00+00:00",
-  "https://www.franceinfo.fr/vrai-ou-fake/manifestations-contre-la-vie-chere-des-videos-ont-elles-disparu-des-reseaux-sociaux_8268335.html": "2026-11-04T23:44:28.562068+00:00",
-  "https://www.franceinfo.fr/economie/greve/greve/greve-du-5-novembre-les-remontees-sont-tres-fortes-parce-que-la-greve-va-etre-tres-forte-demain-assure-thomas-vacheron-secretaire-confederal-de-la-cgt_8268338.html": "2026-11-04T23:44:28.562068+00:00",
-  "https://www.franceinfo.fr/internet/intelligence-artificielle/attention-aux-fausses-agences-de-mannequins_8268323.html": "2026-11-04T23:44:28.562068+00:00",
-  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-du-5-novembre-quel-dispositif-securitaire_8268347.html": "2026-11-04T23:44:28.562068+00:00",
-  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/blocus-des-lycees-un-eleve-tire-un-mortier-a-l-interieur-d-un-etablissement-a-lilles_8268341.html": "2026-11-04T23:44:28.562068+00:00",
-  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/des-lyceens-ont-brule-leur-propre-lycee_8268200.html": "2026-11-04T23:44:28.562068+00:00"
+  "https://www.franceinfo.fr/societe/manifestations/direct-greve-du-5-novembre-plus-de-250-actions-annoncees-dans-toute-la-france-selon-une-carte-de-la-ggt_8268827.html": "2026-11-05T06:56:14.156314+00:00",
+  "https://www.franceinfo.fr/economie/greve/greve/a-suivre-alban-mikoczy-mobilisation-sociale-l-executif-au-pied-du-mur_8268830.html": "2026-11-05T06:56:14.156314+00:00",
+  "https://www.franceinfo.fr/economie/greve/on-denonce-ces-outils-de-lutte-contre-le-terrorisme-pourquoi-les-assignations-a-residence-prononcees-contre-des-manifestants-font-polemique_8266007.html": "2026-11-05T06:56:14.156314+00:00",
+  "https://www.franceinfo.fr/economie/greve/greve/on-n-a-ni-argent-ni-majorite-le-gouvernement-lecornu-a-t-il-encore-des-marges-de-man-uvre-pour-repondre-a-la-crise-sociale_8265512.html": "2026-11-05T06:56:14.156314+00:00",
+  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/on-ne-pourra-pas-tout-rattraper-les-blocages-des-lycees-menacent-ils-l-annee-scolaire-et-la-preparation-du-bac_8266037.html": "2026-11-05T06:56:14.156314+00:00",
+  "https://www.franceinfo.fr/societe/manifestations/assigne-a-residence-avant-les-manifestations-on-m-a-reproche-d-etre-une-menace-terroriste_8268311.html": "2026-11-05T06:56:14.156314+00:00",
+  "https://www.franceinfo.fr/societe/justice/attaque-dans-une-ecole-a-nice-la-suspecte-est-sous-oqtf_8267564.html": "2026-11-05T06:56:14.156314+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "Vers une augmentation des salaires après la grève du 5 novembre ? Un patron explique son choix Parmi les revendications de la mobilisation du jeudi 5 novembre, figure une attente très concrète : gagner davantage pour boucler les fins de mois. Le gouvernement envisage un coup de pouce au Smic. Quant aux patrons, peuvent-ils augmenter leurs salariés ? Reportage dans une entreprise où la question fait débat. Aujourd'hui 2:14 vidéo 2 minutes 14",
+   "title": "• Direct Grève du 5 novembre : plus de 250 actions annoncées dans toute la France, selon une carte de la GGT Salariés et fonctionnaires sont appelés par les syndicats à faire grève pour leurs salaires, jeunes et retraités à les rejoindre en manifestation, quand le gouvernement est attendu sur des réponses concrètes. Aujourd'hui • Direct",
+   "link": "https://www.franceinfo.fr/societe/manifestations/direct-greve-du-5-novembre-plus-de-250-actions-annoncees-dans-toute-la-france-selon-une-carte-de-la-ggt_8268827.html",
+   "summary": "Grève du 5 novembre : plus de 250 actions annoncées dans toute la France, selon une carte de la GGT",
+   "image": "https://www.franceinfo.fr/pictures/ItSEChKcZqqaPxQsl5MrCUwtYsE/16x0:1008x682/432x297/filters:format(jpg)/2026/11/05/6aec1dded9164134571710.jpg",
+   "date": null,
+   "pubdate": "2026-11-05T06:56:14.156314+00:00"
+  },
+  {
+   "title": "27:39 vidéo 27 minutes 39 A suivre Alban Mikoczy : Mobilisation sociale, l'exécutif au pied du mur",
+   "link": "https://www.franceinfo.fr/economie/greve/greve/a-suivre-alban-mikoczy-mobilisation-sociale-l-executif-au-pied-du-mur_8268830.html",
+   "summary": "A suivre Alban Mikoczy : Mobilisation sociale, l'exécutif au pied du mur",
+   "image": "https://www.franceinfo.fr/pictures/8SXFiJ8clwOPwYND-llRjMNFwm4/198x0:1498x731/432x243/filters:format(jpg)/2026/11/05/6aec17209e1e4498014168.jpg",
+   "date": null,
+   "pubdate": "2026-11-05T06:56:14.156314+00:00"
+  },
+  {
+   "title": "\"On dénonce ces outils de lutte contre le terrorisme\" : pourquoi les assignations à résidence prononcées contre des manifestants font polémique",
+   "link": "https://www.franceinfo.fr/economie/greve/on-denonce-ces-outils-de-lutte-contre-le-terrorisme-pourquoi-les-assignations-a-residence-prononcees-contre-des-manifestants-font-polemique_8266007.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/xZSNtsDY3DRLP6O5zaIQLw6paUs/0x0:1024x576/432x243/filters:format(jpg)/2026/11/04/6aeb43b5097ee925546966.jpg",
+   "date": null,
+   "pubdate": "2026-11-05T06:56:14.156314+00:00"
+  },
+  {
+   "title": "\"On n'a ni argent ni majorité\" : le gouvernement Lecornu a-t-il encore des marges de manœuvre pour répondre à la crise sociale ?",
+   "link": "https://www.franceinfo.fr/economie/greve/greve/on-n-a-ni-argent-ni-majorite-le-gouvernement-lecornu-a-t-il-encore-des-marges-de-man-uvre-pour-repondre-a-la-crise-sociale_8265512.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/893dfZFRRqhexnZfdwX4QmMB-Mw/0x240:4091x2541/432x243/filters:format(jpg)/2026/11/03/6ae9fd493a198050302035.jpg",
+   "date": null,
+   "pubdate": "2026-11-05T06:56:14.156314+00:00"
+  },
+  {
+   "title": "\"On ne pourra pas tout rattraper\" : les blocages des lycées menacent-ils l'année scolaire et la préparation du bac ?",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/on-ne-pourra-pas-tout-rattraper-les-blocages-des-lycees-menacent-ils-l-annee-scolaire-et-la-preparation-du-bac_8266037.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/4kcKGrp1GU7gWzNhlb3p7P1BvDY/0x0:1024x576/432x243/filters:format(jpg)/2026/11/03/6ae9fb63c0c99398438958.jpg",
+   "date": null,
+   "pubdate": "2026-11-05T06:56:14.156314+00:00"
+  },
+  {
+   "title": "2:14 vidéo 2 minutes 14 Assigné à résidence avant les manifestations : \"On m'a reproché d'être une menace terroriste\"",
+   "link": "https://www.franceinfo.fr/societe/manifestations/assigne-a-residence-avant-les-manifestations-on-m-a-reproche-d-etre-une-menace-terroriste_8268311.html",
+   "summary": "Assigné à résidence avant les manifestations : \"On m'a reproché d'être une menace terroriste\"",
+   "image": "https://www.franceinfo.fr/pictures/idsSvsAkkOs3oomW2ZIxfZ5tLMQ/0x0:900x1600/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/04/6aeb762d95026373407837.jpg",
+   "date": null,
+   "pubdate": "2026-11-05T06:56:14.156314+00:00"
+  },
+  {
+   "title": "1:13 vidéo 1 minute 13 Attaque dans une école à Nice : la suspecte est sous OQTF La mère d’élève qui a menacé, lundi 2 novembre, la directrice et une enseignante d’une école maternelle de Nice était en situation irrégulière, assignée à résidence et fichée pour radicalisation islamiste.",
+   "link": "https://www.franceinfo.fr/societe/justice/attaque-dans-une-ecole-a-nice-la-suspecte-est-sous-oqtf_8267564.html",
+   "summary": "Attaque dans une école à Nice : la suspecte est sous OQTF",
+   "image": "https://www.franceinfo.fr/pictures/QAuysreMsKgFcBy70VkyhJXGiEY/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/04/6aeb0e517c06a298198787.jpg",
+   "date": null,
+   "pubdate": "2026-11-05T06:56:14.156314+00:00"
+  },
+  {
+   "title": "2:14 vidéo 2 minutes 14 Vers une augmentation des salaires après la grève du 5 novembre ? Un patron explique son choix",
    "link": "https://www.franceinfo.fr/economie/entreprises/vers-une-augmentation-des-salaires-apres-la-greve-du-5-novembre-un-patron-nous-explique-son-choix_8268479.html",
    "summary": "Vers une augmentation des salaires après la grève du 5 novembre ? Un patron explique son choix",
-   "image": "https://www.franceinfo.fr/pictures/BIDdlEen_ajmslKeKscBIJJ2nyU/239x0:1185x651/432x297/filters:format(jpg)/2026/11/04/6aeba2136a956539144170.jpg",
+   "image": "https://www.franceinfo.fr/pictures/2IY1PnKibFVxV1ikVPpVKmTzaZE/133x0:1291x651/432x243/filters:format(jpg)/2026/11/04/6aeba2136a956539144170.jpg",
    "date": null,
    "pubdate": "2026-11-04T23:44:28.562068+00:00"
   },
@@ -54,54 +106,6 @@
    "link": "https://www.franceinfo.fr/culture/livres/prix-litteraires/ca-me-rend-heureux-parce-que-c-est-un-livre-qui-m-a-deborde-tout-de-suite-reagit-yannick-haenel-laureat-du-prix-femina_8268389.html",
    "summary": "",
    "image": "https://www.franceinfo.fr/pictures/-pMKa3hO5N8kuU7hXKYw5Doi0zo/0x0:1024x576/432x243/filters:format(jpg)/2026/11/04/6aeb8b7d5f459469176412.jpg",
-   "date": null,
-   "pubdate": "2026-11-04T23:44:28.562068+00:00"
-  },
-  {
-   "title": "4:26 vidéo 4 minutes 26 Manifestations contre la vie chère : des vidéos ont-elles disparu des réseaux sociaux ?",
-   "link": "https://www.franceinfo.fr/vrai-ou-fake/manifestations-contre-la-vie-chere-des-videos-ont-elles-disparu-des-reseaux-sociaux_8268335.html",
-   "summary": "Manifestations contre la vie chère : des vidéos ont-elles disparu des réseaux sociaux ?",
-   "image": "https://www.franceinfo.fr/pictures/d0Bc-YY7jWdNwbfIgXUEh--ybsg/176x0:1469x727/432x243/filters:format(jpg)/2026/11/04/6aeb7c9057b47392302382.png",
-   "date": null,
-   "pubdate": "2026-11-04T23:44:28.562068+00:00"
-  },
-  {
-   "title": "18:52 vidéo 18 minutes 52 Grève du 5 novembre : \"Les remontées sont très fortes, parce que la grève va être très forte demain\", assure Thomas Vacheron, secrétaire confédéral de la CGT",
-   "link": "https://www.franceinfo.fr/economie/greve/greve/greve-du-5-novembre-les-remontees-sont-tres-fortes-parce-que-la-greve-va-etre-tres-forte-demain-assure-thomas-vacheron-secretaire-confederal-de-la-cgt_8268338.html",
-   "summary": "Grève du 5 novembre : \"Les remontées sont très fortes, parce que la grève va être très forte demain\", assure Thomas Vacheron, secrétaire confédéral de la CGT",
-   "image": "https://www.franceinfo.fr/pictures/y3RfHFr0jCaJXXDAEueg9XW6KpE/0x13:1264x724/432x243/filters:format(jpg)/2026/11/04/6aeb844332b41965184809.jpg",
-   "date": null,
-   "pubdate": "2026-11-04T23:44:28.562068+00:00"
-  },
-  {
-   "title": "2:57 vidéo 2 minutes 57 Attention aux fausses agences de mannequins",
-   "link": "https://www.franceinfo.fr/internet/intelligence-artificielle/attention-aux-fausses-agences-de-mannequins_8268323.html",
-   "summary": "Attention aux fausses agences de mannequins",
-   "image": "https://www.franceinfo.fr/pictures/7BQ5rLBJKTv2UjbhsjgcH_yrIf0/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/04/6aeb7899009e4428474268.jpg",
-   "date": null,
-   "pubdate": "2026-11-04T23:44:28.562068+00:00"
-  },
-  {
-   "title": "1:55 vidéo 1 minute 55 Mobilisation du 5 novembre : quel dispositif sécuritaire ?",
-   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-du-5-novembre-quel-dispositif-securitaire_8268347.html",
-   "summary": "Mobilisation du 5 novembre : quel dispositif sécuritaire ?",
-   "image": "https://www.franceinfo.fr/pictures/1fFsFTp7eBH1DlCv12aTsZx6mI4/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/04/6aeb7f5e8fa28825007944.png",
-   "date": null,
-   "pubdate": "2026-11-04T23:44:28.562068+00:00"
-  },
-  {
-   "title": "0:32 vidéo 32 secondes Blocus des lycées : un élève tire un mortier à l'intérieur d'un établissement à Lille",
-   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/blocus-des-lycees-un-eleve-tire-un-mortier-a-l-interieur-d-un-etablissement-a-lilles_8268341.html",
-   "summary": "Blocus des lycées : un élève tire un mortier à l'intérieur d'un établissement à Lille",
-   "image": "https://www.franceinfo.fr/pictures/GmWDEs3bxV81kRiRgmfgoo_Ft24/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/04/6aeb7e075a621166078429.jpg",
-   "date": null,
-   "pubdate": "2026-11-04T23:44:28.562068+00:00"
-  },
-  {
-   "title": "0:56 vidéo 56 secondes Des lycéens ont brûlé leur propre lycée ?",
-   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/des-lyceens-ont-brule-leur-propre-lycee_8268200.html",
-   "summary": "Des lycéens ont brûlé leur propre lycée ?",
-   "image": "https://www.franceinfo.fr/pictures/bQAe1J4gAUCjJV_MIYh6FvhJouE/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/04/6aeb6917cfe04695715369.jpg",
    "date": null,
    "pubdate": "2026-11-04T23:44:28.562068+00:00"
   },
@@ -186,30 +190,6 @@
    "pubdate": "2026-11-04T17:19:29.271544+00:00"
   },
   {
-   "title": "Grève du 5 novembre : l'intersyndicale dépose un recours à Lyon devant le tribunal administratif après l'interdiction du parcours syndical Une mobilisation interprofessionnelle est prévue jeudi à l'appel des syndicats. À Lyon, le préfet du Rhône avance des raisons sécuritaires pour justifier l'interdiction de toute manifestation, décision fustigée par l'intersyndicale.",
-   "link": "https://www.franceinfo.fr/economie/greve/greve-du-5-novembre-l-intersyndicale-depose-un-recours-a-lyon-devant-le-tribunal-administratif-apres-l-interdiction-du-parcours-syndical_8267624.html",
-   "summary": "Grève du 5 novembre : l'intersyndicale dépose un recours à Lyon devant le tribunal administratif après l'interdiction du parcours syndical",
-   "image": "https://www.franceinfo.fr/pictures/vfH-yYMx8e4D8li0cPhs2n0hwnI/432x243/filters:format(jpg)/2026/10/22/6ad9d86faa25a159086159.jpg",
-   "date": null,
-   "pubdate": "2026-11-04T17:19:29.271544+00:00"
-  },
-  {
-   "title": "\"Je n'avais pas le droit de quitter Marseille\" : un enseignant raconte son assignation à résidence l'empêchant de se rendre en manifestation Plusieurs dizaines de personnes ont été interdites de manifester le week-end dernier, après des arrêtés pris par le ministère de l'Intérieur. L'une d'elles a accepté de témoigner. Il est enseignant à Marseille.",
-   "link": "https://www.franceinfo.fr/societe/manifestations/temoignage-je-n-avais-pas-le-droit-de-quitter-marseille-un-enseignant-raconte-son-assignation-a-residence-pour-l-empecher-de-manifester_8266340.html",
-   "summary": "\"Je n'avais pas le droit de quitter Marseille\" : un enseignant raconte son assignation à résidence l'empêchant de se rendre en manifestation",
-   "image": "https://www.franceinfo.fr/pictures/1T3nX2EAVNrNl_NSKUB8aeYwLoY/0x593:5702x3801/432x243/filters:format(jpg)/2026/11/03/6aea256f223fd956794410.jpg",
-   "date": null,
-   "pubdate": "2026-11-04T17:19:29.271544+00:00"
-  },
-  {
-   "title": "Relever le plafond du livret A pour rénover les lycées ? L'initiative du gouvernement laisse ces Français circonspects Le Premier ministre a annoncé, mardi, un relèvement - non précisé - du taux du livret A, ainsi que de son plafond, qui pourrait atteindre entre 25 000 et 30 000 euros. L'objectif est notamment de consacrer une partie de cette épargne pour la rénovation des lycées.",
-   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/le-relevement-du-plafond-du-livret-a-peut-il-etre-efficace-pour-renover-les-lycees_8267264.html",
-   "summary": "Relever le plafond du livret A pour rénover les lycées ? L'initiative du gouvernement laisse ces Français circonspects",
-   "image": "https://www.franceinfo.fr/pictures/k-7o_8xKFAVaJU1nNk9VqGm1aFk/0x312:6000x3687/432x243/filters:format(jpg)/2026/11/04/6aeae0fcacac4146098141.jpg",
-   "date": null,
-   "pubdate": "2026-11-04T17:19:29.271544+00:00"
-  },
-  {
    "title": "51:59 audio 51 minutes 59 Une défaite historique pour Donald Trump aux midterms...Les informés de franceinfo du mercredi 4 novembre 2026",
    "link": "https://www.franceinfo.fr/replay-radio/les-informes-de-france-info/une-defaite-historique-pour-donald-trump-aux-midterms-les-informes-de-franceinfo-du-mercredi-4-novembre-2026_8246464.html",
    "summary": "Une défaite historique pour Donald Trump aux midterms...Les informés de franceinfo du mercredi 4 novembre 2026",
@@ -232,22 +212,6 @@
    "image": "https://www.franceinfo.fr/pictures/GbbTMv0e_Ji7mmPPf_MCeDeuW8E/36x0:1116x1080/100x100/filters:format(jpg)/2026/10/28/6ae243d53e664162422917.jpg",
    "date": null,
    "pubdate": "2026-10-30T18:03:49.152625+00:00"
-  },
-  {
-   "title": "Nos jours heureux 5 contenus",
-   "link": "https://www.franceinfo.fr/societe/nos-jours-heureux/",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/70hxXkCD_HnVl93vv3dfs138KJQ/432x297/filters:format(jpg)/2026/07/30/6a6b142e19c9c745704318.jpg",
-   "date": null,
-   "pubdate": "2026-10-30T10:09:02.877290+00:00"
-  },
-  {
-   "title": "Comprendre les débats sur la fin de vie 15 contenus",
-   "link": "https://www.franceinfo.fr/societe/euthanasie/comprendre-les-debats-sur-la-fin-de-vie/",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/gZwL6mlJ39yMRDzurzn4EQx_sgw/432x297/filters:format(jpg)/2025/05/27/illustration-aide-a-mourir-68357ca797624128014806.jpg",
-   "date": null,
-   "pubdate": "2026-10-30T10:09:02.877290+00:00"
   },
   {
    "title": ": Vidéo 4:25 vidéo 4 minutes 25 : Vidéo Silencieux, muet mais doté d'\"oreilles d'or\"... \"Envoyé spécial\" en immersion à bord du \"Téméraire\", sous-marin nucléaire lanceur d'engins",

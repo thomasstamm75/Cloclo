@@ -1,8 +1,7 @@
 {
- "etag": "\"1cnzwte\"",
+ "etag": "\"1o8k0x1\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/les-start-up-epargnees-dans-le-projet-de-budget-2027-du-gouvernement-5421691": "2026-10-09T10:42:24.062501+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/dette-la-france-au-bord-du-defaut-7190305": "2026-10-12T11:00:00+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/japon-le-miracle-de-la-dette-publique-est-il-en-train-de-prendre-fin-9094977": "2026-10-13T06:51:44.989836+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/etats-unis-le-seuil-de-40-000-milliards-de-dollars-de-dette-depasse-plus-vite-que-prevu-1435794": "2026-10-14T12:01:27.356488+00:00",
@@ -20,10 +19,19 @@
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/l-ia-moteur-fragile-de-la-croissance-americaine-6786048": "2026-10-30T10:09:15.728182+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/territoires-zero-chomeur-de-longue-duree-un-retour-a-l-emploi-perenne-encore-menace-2176224": "2026-11-02T11:20:56.517484+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/les-ministeres-dopes-a-l-ia-pour-faire-des-economies-budgetaires-7507164": "2026-11-03T06:55:23.591112+00:00",
-  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/le-casse-tete-du-nouveau-regime-europeen-des-societes-6410572": "2026-11-04T06:36:11.560873+00:00"
+  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/le-casse-tete-du-nouveau-regime-europeen-des-societes-6410572": "2026-11-04T06:36:11.560873+00:00",
+  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/le-journal-de-l-eco-du-jeudi-05-novembre-2026-2793856": "2026-11-05T11:00:00+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "Le Journal de lâÃ©co, du jeudi 05 novembre 2026",
+   "link": "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/le-journal-de-l-eco-du-jeudi-05-novembre-2026-2793856",
+   "summary": "",
+   "image": "https://www.radiofrance.fr/pikapi/images/e6a794bb-063b-4736-931b-0125c84b7649/2048",
+   "date": "2026-11-05T11:00:00+00:00",
+   "pubdate": "2026-11-05T11:00:00+00:00"
+  },
   {
    "title": "Le casse-tÃªte du nouveau rÃ©gime europÃ©en des sociÃ©tÃ©s",
    "link": "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/le-casse-tete-du-nouveau-regime-europeen-des-societes-6410572",
@@ -167,14 +175,6 @@
    "image": "https://www.radiofrance.fr/pikapi/images/57fdf758-93eb-44f0-8103-82fd10f6b04d/2048",
    "date": null,
    "pubdate": "2026-10-12T11:00:00+00:00"
-  },
-  {
-   "title": "Les start-up Ã©pargnÃ©es dans le projet de budget 2027 du gouvernement",
-   "link": "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/les-start-up-epargnees-dans-le-projet-de-budget-2027-du-gouvernement-5421691",
-   "summary": "MalgrÃ© un plan d'Ã©conomies annoncÃ© de 54 milliards d'euros, le gouvernement dans son projet de budget a semble-t-il prÃ©servÃ© l'innovation. Pour aider l'Ã©cosystÃ¨me de la tech franÃ§aise Ã dÃ©velopper des solutions innovantes, le gouvernement a choisi de prÃ©server les outils fiscaux existants.",
-   "image": "https://www.radiofrance.fr/pikapi/images/634f5b07-c959-4670-8121-cd22f6479a04/2048",
-   "date": null,
-   "pubdate": "2026-10-09T10:42:24.062501+00:00"
   }
  ]
 }
