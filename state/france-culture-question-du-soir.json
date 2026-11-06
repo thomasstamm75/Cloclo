@@ -1,8 +1,7 @@
 {
- "etag": "\"10idnt3\"",
+ "etag": "\"18lj452\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/lvmh-sur-les-champs-elysees-peut-on-privatiser-la-ville-7456257": "2026-10-12T11:00:00+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/trump-a-t-il-sauve-poutine-3268912": "2026-10-13T16:59:23.968521+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/faut-il-supprimer-parcoursup-8683880": "2026-10-14T17:17:57.294392+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/le-made-in-europe-peut-il-sauver-l-industrie-europeenne-5438299": "2026-10-15T11:00:00+00:00",
@@ -19,10 +18,19 @@
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/quelles-ruines-laisserons-nous-derriere-nous-5610036": "2026-10-30T18:04:04.396175+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/ou-doit-on-placer-le-curseur-entre-libertes-et-securite-8407505": "2026-11-02T11:00:00+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/faut-il-augmenter-le-smic-1087463": "2026-11-03T11:00:00+00:00",
-  "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/midterms-trump-sous-controle-ou-incontrolable-2549983": "2026-11-04T23:44:42.905624+00:00"
+  "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/midterms-trump-sous-controle-ou-incontrolable-2549983": "2026-11-04T23:44:42.905624+00:00",
+  "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/prix-litteraire-qu-est-ce-qu-un-bon-roman-8992280": "2026-11-06T23:14:32.799846+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "Prix littÃ©raireÂ : qu'est-ce qu'un bon romanÂ ?",
+   "link": "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/prix-litteraire-qu-est-ce-qu-un-bon-roman-8992280",
+   "summary": "Ã lâheure des grands prix littÃ©raires, nous interrogeons les critÃ¨res qui fondent la qualitÃ© dâune Åuvre, le rÃ´le des jurys et des Ã©diteurs, ainsi que lâirruption de lâintelligence artificielle dans lâÃ©criture. Faut-il dÃ©sormais juger les romans autrementÂ ? On en dÃ©bat avec nos invitÃ©s.",
+   "image": "https://www.radiofrance.fr/pikapi/images/feaf5183-38f8-4816-aeeb-d49ca768a5b4/2048",
+   "date": null,
+   "pubdate": "2026-11-06T23:14:32.799846+00:00"
+  },
   {
    "title": "MidtermsÂ : Trump sous contrÃ´le ou incontrÃ´lableÂ ?",
    "link": "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/midterms-trump-sous-controle-ou-incontrolable-2549983",
@@ -158,14 +166,6 @@
    "image": "https://www.radiofrance.fr/pikapi/images/dee7d2d9-e7cc-4cd8-be54-c84251048971/2048",
    "date": null,
    "pubdate": "2026-10-13T16:59:23.968521+00:00"
-  },
-  {
-   "title": "LVMH sur les Champs-ÃlysÃ©esÂ : peut-on privatiser la villeÂ ?",
-   "link": "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/lvmh-sur-les-champs-elysees-peut-on-privatiser-la-ville-7456257",
-   "summary": "Deux rues aujourdâhui, un quartier demainÂ ? En confiant Ã LVMH le rÃ©amÃ©nagement des rues Bassano et GalilÃ©e, la ville de Paris ouvre un dÃ©bat explosif sur la privatisation de lâespace public et lâÃ©volution de la gouvernance urbaine.",
-   "image": "https://www.radiofrance.fr/pikapi/images/9d5625d7-0944-408d-892a-9f50f5e66860/2048",
-   "date": "2026-10-12T11:00:00+00:00",
-   "pubdate": "2026-10-12T11:00:00+00:00"
   }
  ]
 }
