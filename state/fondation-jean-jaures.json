@@ -1,16 +1,32 @@
 {
  "etag": "",
- "last_modified": "Fri, 06 Nov 2026 06:41:46 GMT",
+ "last_modified": "Fri, 06 Nov 2026 16:34:50 GMT",
  "first_seen": {
   "https://www.jean-jaures.org/publication/du-reve-continental-au-marketing-politique-quand-le-panafricanisme-devient-une-ressource-de-pouvoir/": "2026-11-03T11:00:00+00:00",
   "https://www.jean-jaures.org/publication/24-heures-en-france-le-travail-une-colonne-encore-vertebrale/": "2026-11-03T11:00:00+00:00",
   "https://www.jean-jaures.org/publication/populisme-europeen-et-discours-anti-genre-focus-sur-la-macedoine-du-nord/": "2026-10-30T11:00:00+00:00",
-  "https://www.jean-jaures.org/publication/sommet-russie-afrique-2026-enjeux-et-lecons-dun-exercice-diplomatique-a-forte-portee-symbolique/": "2026-10-30T11:00:00+00:00",
-  "https://www.jean-jaures.org/publication/les-francais-et-le-futur-analyse-des-visions-concurrentes-a-lapproche-de-2027/": "2026-10-29T11:00:00+00:00",
-  "https://www.jean-jaures.org/publication/payetavocation-quand-prendre-soin-dautrui-rend-pauvre/": "2026-11-02T11:00:00+00:00"
+  "https://www.jean-jaures.org/publication/payetavocation-quand-prendre-soin-dautrui-rend-pauvre/": "2026-11-02T11:00:00+00:00",
+  "https://www.jean-jaures.org/publication/leducation-des-filles-en-afrique-subsaharienne-ce-que-la-parite-ne-change-pas/": "2026-11-06T11:00:00+00:00",
+  "https://www.jean-jaures.org/publication/concilier-le-front-populaire-et-lunion-nationale-une-tentative-de-leon-blum-en-mars-1938/": "2026-11-06T11:00:00+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "L’éducation des filles en Afrique subsaharienne : ce que la parité ne change pas",
+   "link": "https://www.jean-jaures.org/publication/leducation-des-filles-en-afrique-subsaharienne-ce-que-la-parite-ne-change-pas/",
+   "summary": "",
+   "image": "",
+   "date": "2026-11-06T11:00:00+00:00",
+   "pubdate": "2026-11-06T11:00:00+00:00"
+  },
+  {
+   "title": "Concilier le Front populaire et l’Union nationale ? Une tentative de Léon Blum en mars 1938",
+   "link": "https://www.jean-jaures.org/publication/concilier-le-front-populaire-et-lunion-nationale-une-tentative-de-leon-blum-en-mars-1938/",
+   "summary": "",
+   "image": "",
+   "date": "2026-11-06T11:00:00+00:00",
+   "pubdate": "2026-11-06T11:00:00+00:00"
+  },
   {
    "title": "Du rêve continental au marketing politique : quand le panafricanisme devient une ressource de pouvoir",
    "link": "https://www.jean-jaures.org/publication/du-reve-continental-au-marketing-politique-quand-le-panafricanisme-devient-une-ressource-de-pouvoir/",
@@ -42,22 +58,6 @@
    "image": "",
    "date": "2026-10-30T11:00:00+00:00",
    "pubdate": "2026-10-30T11:00:00+00:00"
-  },
-  {
-   "title": "Sommet Russie-Afrique 2026 : enjeux et leçons d’un exercice diplomatique à forte portée symbolique",
-   "link": "https://www.jean-jaures.org/publication/sommet-russie-afrique-2026-enjeux-et-lecons-dun-exercice-diplomatique-a-forte-portee-symbolique/",
-   "summary": "",
-   "image": "",
-   "date": "2026-10-30T11:00:00+00:00",
-   "pubdate": "2026-10-30T11:00:00+00:00"
-  },
-  {
-   "title": "Les Français et le futur. Analyse des visions concurrentes à l’approche de 2027",
-   "link": "https://www.jean-jaures.org/publication/les-francais-et-le-futur-analyse-des-visions-concurrentes-a-lapproche-de-2027/",
-   "summary": "",
-   "image": "",
-   "date": "2026-10-29T11:00:00+00:00",
-   "pubdate": "2026-10-29T11:00:00+00:00"
   }
  ]
 }
