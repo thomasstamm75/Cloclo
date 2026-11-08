@@ -1,11 +1,10 @@
 {
- "etag": "\"1e0bde914234b0b44ed6b1fe277c3725-gzip\"",
+ "etag": "\"501d5e16da89d02c62a41a940e6b0346-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/reportage-plus-de-huit-millions-de-livres-pour-enfants-partis-en-fumee-l-ukraine-face-a-une-penurie-de-manuels-scolaires-apres-des-frappes-russes_8192342.html": "2026-10-27T00:31:28.943056+00:00",
   "https://www.franceinfo.fr/monde/russie/enquete-franceinfo-on-l-appelait-poutine-girl-comment-la-france-verrouille-les-demandes-de-visas-diplomatiques-russes-pour-limiter-les-risques-d-espionnage_8204495.html": "2026-10-27T09:06:52.195523+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/temoignages-simulacres-d-execution-tortures-physiques-un-ancien-prisonnier-ukrainien-en-russie-raconte-les-sevices-subis-apres-sa-capture-dans-le-donbass_8202320.html": "2026-10-27T09:06:52.195523+00:00",
-  "https://www.franceinfo.fr/replay-radio/les-informes-de-france-info/quel-scenario-pour-donald-trump-en-cas-de-defaite-aux-midterms-les-informes-de-franceinfo-du-mardi-3-novembre-2026_8244823.html": "2026-11-03T11:00:00+00:00",
   "https://www.franceinfo.fr/monde/europe/crise-en-pologne-peut-on-parler-d-un-coup-d-etat_8267939.html": "2026-11-04T17:19:33.406625+00:00",
   "https://www.franceinfo.fr/politique/grand-entretien-en-belgique-un-cordon-sanitaire-mediatique-empeche-toute-forme-de-banalisation-de-l-extreme-droite-un-outil-difficile-a-imaginer-en-france_8265599.html": "2026-11-04T17:19:33.406625+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-volodymyr-zelensky-accorde-une-decoration-a-melania-trump-pour-son-engagement-humanitaire_8268350.html": "2026-11-04T23:44:31.937857+00:00",
@@ -21,23 +20,48 @@
   "https://www.franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/le-parquet-europeen-lance-une-enquete-sur-d-eventuelles-fraudes-aux-aides-apres-le-drame-ferroviaire-d-urda_8270771.html": "2026-11-06T16:48:45.513479+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/vos-questions-sur-l-effort-de-guerre-de-la-france/": "2026-11-07T06:07:51.006265+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-un-pont-et-des-infrastructures-energetiques-endommages-par-des-frappes-russes-dans-la-region-de-kiev_8272043.html": "2026-11-07T13:13:18.883917+00:00",
-  "https://www.franceinfo.fr/monde/europe/union-europeenne/c-est-un-probleme-nouvelle-vague-d-alertes-a-la-bombe-en-europe_8272019.html": "2026-11-07T13:13:18.883917+00:00",
   "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/investissements-accrus-dans-des-domaines-strategiques-rapprochement-avec-l-ue-comment-le-canada-de-mark-carney-continue-a-s-eloigner-du-voisin-americain_8251738.html": "2026-11-07T19:28:40.162870+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/volodymyr-zelensky-accuse-la-russie-d-intensifier-ses-frappes-pour-mettre-la-pression-avant-les-negociations-trilaterales_8272400.html": "2026-11-07T19:28:40.162870+00:00",
-  "https://www.franceinfo.fr/replay-magazine/france-2/nous-les-europeens/video-nee-dans-l-ombre-du-nazisme-volkswagen-s-impose-un-devoir-de-memoire-pour-plus-de-responsabilite-pour-le-present-et-l-avenir_8271062.html": "2026-11-07T19:28:40.162870+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/des-centaines-de-milliers-d-ukrainiens-se-trouvent-sans-electricite-apres-des-frappes-russes_8273186.html": "2026-11-08T10:30:11.496650+00:00",
   "https://www.franceinfo.fr/monde/afrique/senegal/au-large-du-senegal-21-personnes-sont-mortes-dans-le-naufrage-d-une-pirogue-de-migrants_8273174.html": "2026-11-08T10:30:11.496650+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-kiev-visee-par-172-drones-et-36-missiles_8273060.html": "2026-11-08T10:30:11.496650+00:00",
   "https://www.franceinfo.fr/faits-divers/police/fusillade-a-cracovie-donald-tusk-denonce-un-acte-de-terrorisme_8273030.html": "2026-11-08T10:30:11.496650+00:00",
-  "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-que-sait-on-d-un-suppose-centre-de-torture-militaire-ukrainien_8269061.html": "2026-11-08T10:30:11.496650+00:00"
+  "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-que-sait-on-d-un-suppose-centre-de-torture-militaire-ukrainien_8269061.html": "2026-11-08T10:30:11.496650+00:00",
+  "https://www.franceinfo.fr/monde/europe/ce-que-l-on-sait-de-l-attentat-en-pologne-qui-a-fait-six-morts-et-quinze-blesses-dans-le-centre-de-cracovie_8273087.html": "2026-11-08T17:57:39.273179+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-les-europeens-dont-la-france-seront-representes-lors-des-negociations-a-abu-dhabi-rapporte-le-ministre-des-affaires-etrangeres_8273333.html": "2026-11-08T17:57:39.273179+00:00",
+  "https://www.franceinfo.fr/economie/automobile/25-000-euros-pour-arreter-de-conduire_8266292.html": "2026-11-08T17:57:39.273179+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "Des centaines de milliers d'Ukrainiens se trouvent sans électricité après des frappes russes Les infrastructures énergétiques de deux régions ont été ciblées, celle de Dnipropetrovsk et de Kharkiv, dans la nuit de samedi à dimanche, après une attaque similaire la veille. Aujourd'hui",
+   "title": "Six personnes abattues dans la rue, un suspect aux idées \"ultranationalistes\", trois corps retrouvés chez lui... Ce que l'on sait de l'attentat en Pologne En plus des six victimes tuées par l'assaillant dans le centre de Cracovie, trois personnes ont été retrouvées mortes à son domicile. Le suspect est un jeune homme \"fasciné\" par les idées d'extrême droite, selon les autorités. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/europe/ce-que-l-on-sait-de-l-attentat-en-pologne-qui-a-fait-six-morts-et-quinze-blesses-dans-le-centre-de-cracovie_8273087.html",
+   "summary": "Six personnes abattues dans la rue, un suspect aux idées \"ultranationalistes\", trois corps retrouvés chez lui... Ce que l'on sait de l'attentat en Pologne",
+   "image": "https://www.franceinfo.fr/pictures/hw2i6O3WUdG5Eoqr8zgBX6D7uPI/119x0:7760x5253/432x297/filters:format(jpg)/2026/11/08/6af0408e9c290691697674.jpg",
+   "date": null,
+   "pubdate": "2026-11-08T17:57:39.273179+00:00"
+  },
+  {
+   "title": "Les Européens, dont la France, seront \"représentés\" lors des négociations sur l'Ukraine à Abu Dhabi, rapporte le ministre des Affaires étrangères Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-les-europeens-dont-la-france-seront-representes-lors-des-negociations-a-abu-dhabi-rapporte-le-ministre-des-affaires-etrangeres_8273333.html",
+   "summary": "Les Européens, dont la France, seront \"représentés\" lors des négociations sur l'Ukraine à Abu Dhabi, rapporte le ministre des Affaires étrangères",
+   "image": "https://www.franceinfo.fr/pictures/Md27i77o5N-x97EM1hPAjSxZrnk/0x59:1024x635/432x243/filters:format(jpg)/2026/11/08/6af06889d78f8298228587.jpg",
+   "date": null,
+   "pubdate": "2026-11-08T17:57:39.273179+00:00"
+  },
+  {
+   "title": "25 000 euros pour arrêter de conduire Aujourd'hui 1:58 vidéo 1 minute 58",
+   "link": "https://www.franceinfo.fr/economie/automobile/25-000-euros-pour-arreter-de-conduire_8266292.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/ERZYncExAKHGuqwnNVwIB8VqhMQ/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/03/6aea14af0dd84213448250.png",
+   "date": null,
+   "pubdate": "2026-11-08T17:57:39.273179+00:00"
+  },
+  {
+   "title": "Des centaines de milliers d'Ukrainiens se trouvent sans électricité après des frappes russes Aujourd'hui",
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/des-centaines-de-milliers-d-ukrainiens-se-trouvent-sans-electricite-apres-des-frappes-russes_8273186.html",
    "summary": "Des centaines de milliers d'Ukrainiens se trouvent sans électricité après des frappes russes",
-   "image": "https://www.franceinfo.fr/pictures/zGC32DSo9SZJ9ovZ70JxzpWRBDg/0x0:990x681/432x297/filters:format(jpg)/2026/11/08/6af04afd9ed6b794206062.jpg",
+   "image": "https://www.franceinfo.fr/pictures/rLP8iNV9y9dvjTuFBb1SNzNh8Ds/0x105:1024x681/432x243/filters:format(jpg)/2026/11/08/6af04afd9ed6b794206062.jpg",
    "date": null,
    "pubdate": "2026-11-08T10:30:11.496650+00:00"
   },
@@ -90,26 +114,10 @@
    "pubdate": "2026-11-07T19:28:40.162870+00:00"
   },
   {
-   "title": ": Vidéo Née dans l'ombre du nazisme, Volkswagen s'impose un devoir de mémoire pour plus de responsabilité pour le présent et l'avenir 7 novembre : Vidéo 3:17 vidéo 3 minutes 17",
-   "link": "https://www.franceinfo.fr/replay-magazine/france-2/nous-les-europeens/video-nee-dans-l-ombre-du-nazisme-volkswagen-s-impose-un-devoir-de-memoire-pour-plus-de-responsabilite-pour-le-present-et-l-avenir_8271062.html",
-   "summary": "Née dans l'ombre du nazisme, Volkswagen s'impose un devoir de mémoire pour plus de responsabilité pour le présent et l'avenir",
-   "image": "https://www.franceinfo.fr/pictures/Z3038kcc9pD_7ehySEaS6336RYY/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/06/6aee3b34b2f4b188431178.jpg",
-   "date": null,
-   "pubdate": "2026-11-07T19:28:40.162870+00:00"
-  },
-  {
-   "title": "L'Ukraine frappée par des bombardements nocturnes russes \"massifs\" contre ses infrastructures énergétiques 7 novembre",
+   "title": "L'Ukraine frappée par des bombardements nocturnes russes \"massifs\" contre ses infrastructures énergétiques Selon Volodymyr Zelensky, au moins neuf personnes ont été blessées, dont un enfant, lors de ces attaques qui ont touché une dizaine de régions du pays. Le président ukrainien a par ailleurs affirmé que l'armée russe avait notamment utilisé des missiles fabriqués en Corée du Nord lors de ces frappes. 7 novembre",
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-un-pont-et-des-infrastructures-energetiques-endommages-par-des-frappes-russes-dans-la-region-de-kiev_8272043.html",
    "summary": "L'Ukraine frappée par des bombardements nocturnes russes \"massifs\" contre ses infrastructures énergétiques",
    "image": "https://www.franceinfo.fr/pictures/gopz2TUkXObSA3PSj2WrLR31t_g/0x93:1024x669/432x243/filters:format(jpg)/2026/11/07/6aeedbf540531692941003.jpg",
-   "date": null,
-   "pubdate": "2026-11-07T13:13:18.883917+00:00"
-  },
-  {
-   "title": "\"C'est un problème\" : nouvelle vague d'alertes à la bombe en Europe 7 novembre 1:25 vidéo 1 minute 25",
-   "link": "https://www.franceinfo.fr/monde/europe/union-europeenne/c-est-un-probleme-nouvelle-vague-d-alertes-a-la-bombe-en-europe_8272019.html",
-   "summary": "\"C'est un problème\" : nouvelle vague d'alertes à la bombe en Europe",
-   "image": "https://www.franceinfo.fr/pictures/xm-iA41104kA-NpFoYL-2Q38egQ/76x0:1459x778/432x243/filters:format(jpg)/2026/11/07/6aeece727aad6084690977.jpg",
    "date": null,
    "pubdate": "2026-11-07T13:13:18.883917+00:00"
   },
@@ -224,14 +232,6 @@
    "image": "https://www.franceinfo.fr/pictures/aBuMGtTWLBvuq7DjHojZp4eNryM/0x63:1200x738/432x243/filters:format(jpg)/2026/11/04/6aeb4f8943eca514532379.jpg",
    "date": null,
    "pubdate": "2026-11-04T17:19:33.406625+00:00"
-  },
-  {
-   "title": "Quel scénario pour Donald Trump en cas de défaite aux midterms ?...Les informés de franceinfo du mardi 3 novembre 2026 Tous les soirs, les informés débattent de l'actualité, cette semaine autour de Hadrien Bect. 3 novembre 55:16 audio 55 minutes 16",
-   "link": "https://www.franceinfo.fr/replay-radio/les-informes-de-france-info/quel-scenario-pour-donald-trump-en-cas-de-defaite-aux-midterms-les-informes-de-franceinfo-du-mardi-3-novembre-2026_8244823.html",
-   "summary": "Quel scénario pour Donald Trump en cas de défaite aux midterms ?...Les informés de franceinfo du mardi 3 novembre 2026",
-   "image": "https://www.franceinfo.fr/pictures/IiirTeaA_W9WjpMU3kfyzX79C2k/212x68:1067x549/432x243/filters:format(jpg)/2026/11/03/6aea32aecfefb580914052.png",
-   "date": "2026-11-03T11:00:00+00:00",
-   "pubdate": "2026-11-03T11:00:00+00:00"
   },
   {
    "title": ": Enquête franceinfo \"On l'appelait 'Poutine Girl'\" : comment la France verrouille les demandes de visas diplomatiques russes pour limiter les risques d'espionnage : Enquête franceinfo 7:00 article 7 minutes",
