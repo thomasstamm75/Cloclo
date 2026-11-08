@@ -1,8 +1,7 @@
 {
- "etag": "\"cff737299694bb7d774ea0e8938e82cc-gzip\"",
+ "etag": "\"36ffe5f6557f8d896e32f6ca4283be8d-gzip\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/bon-courage-a-ceux-qui-arrivent-l-election-presidentielle-permettra-t-elle-vraiment-de-sortir-de-la-crise-politique-et-sociale-qui-secoue-le-pays_8245624.html": "2026-10-27T00:31:27.475048+00:00",
   "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/reportage-on-fait-croire-qu-ici-c-est-dangereux-apres-l-attentat-de-trappes-des-habitants-denoncent-un-acharnement-contre-leur-ville_8257315.html": "2026-10-30T10:09:05.409994+00:00",
   "https://www.franceinfo.fr/politique/grand-entretien-en-belgique-un-cordon-sanitaire-mediatique-empeche-toute-forme-de-banalisation-de-l-extreme-droite-un-outil-difficile-a-imaginer-en-france_8265599.html": "2026-11-04T17:19:31.505349+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-ce-serait-presque-drole-si-ca-ne-montait-pas-les-gens-les-uns-contre-les-autres-apres-l-incendie-de-la-mairie-de-limoges-le-plateau-de-millevaches-pointe-du-doigt-comme-un-bastion-de-l-ultragauche_8249923.html": "2026-11-06T06:56:06.440234+00:00",
@@ -11,12 +10,9 @@
   "https://www.franceinfo.fr/economie/medias/je-suis-scandalisee-quand-on-s-en-prend-aux-journalistes-assure-la-ministre-de-la-culture-apres-l-interview-de-sarah-knafo-sur-franceinfo_8266601.html": "2026-11-06T16:48:43.494267+00:00",
   "https://www.franceinfo.fr/societe/manifestations/plusieurs-avocats-annoncent-saisir-la-cour-de-justice-de-la-republique-contre-le-ministre-de-l-interieur-laurent-nunez-apres-les-blessures-infligees-a-des-manifestants_8270813.html": "2026-11-06T16:48:43.494267+00:00",
   "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/au-japon-l-ia-aide-les-ministres-a-repondre-aux-questions-piegeuses-des-parlementaires_8249878.html": "2026-11-06T16:48:43.494267+00:00",
-  "https://www.franceinfo.fr/replay-radio/les-informes-du-matin/les-informes-du-matin-du-vendredi-06-novembre-2026_8249929.html": "2026-11-06T11:00:00+00:00",
   "https://www.franceinfo.fr/politique/affaire/financement-de-la-campagne-de-sarkozy/soupcons-de-financement-libyen-tout-comprendre-a-l-affaire/": "2026-11-06T16:48:43.494267+00:00",
   "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/tout-comprendre-au-proces-des-assistants-parlementaires-fn/": "2026-11-06T16:48:43.494267+00:00",
-  "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-une-fin-de-regne-bien-solitaire-pour-emmanuel-macron_8249893.html": "2026-11-06T16:48:43.494267+00:00",
   "https://www.franceinfo.fr/replay-magazine/france-2/franc-jeu/franc-jeu-avec-laurent-wauquiez_8269838.html": "2026-11-06T23:14:20.703935+00:00",
-  "https://www.franceinfo.fr/societe/manifestations/direct-mobilisation-sociale-le-ministre-du-travail-juge-important-d-essayer-de-relever-le-smic-au-dela-de-la-barre-des-1-500-euros-net_8270366.html": "2026-11-06T23:14:20.703935+00:00",
   "https://www.franceinfo.fr/societe/manifestations/un-tournant-le-17-octobre-un-pic-le-5-novembre-visualisez-comment-la-mobilisation-dans-les-manifestations-en-france-a-evolue-depuis-septembre_8270384.html": "2026-11-07T06:07:49.284148+00:00",
   "https://www.franceinfo.fr/economie/greve/greve/l-accueil-dans-les-manifs-je-n-ai-jamais-vu-ca-comment-jean-luc-melenchon-surfe-sur-la-contestation-sociale-en-vue-de-la-presidentielle_8267927.html": "2026-11-07T06:07:49.284148+00:00",
   "https://www.franceinfo.fr/politique/front-national/sebastien-chenu-estime-que-la-ciivise-a-les-oreilles-fragiles-apres-les-propos-de-julien-odoul-qualifiant-cette-commission-de-service-sanitaire-du-hamas_8272253.html": "2026-11-07T13:13:17.064323+00:00",
@@ -28,10 +24,14 @@
   "https://www.franceinfo.fr/politique/les-deputes-communistes-qui-soutiennent-la-france-insoumise-se-sont-mis-en-dehors-du-parti-estime-le-pcf_8272592.html": "2026-11-07T19:28:38.223679+00:00",
   "https://www.franceinfo.fr/replay-radio/l-info-de-l-histoire/les-automnes-de-la-presidentielle_8251696.html": "2026-11-07T19:28:38.223679+00:00",
   "https://www.franceinfo.fr/politique/le-ministre-delegue-mathieu-lefevre-va-etre-nomme-porte-parole-du-gouvernement-par-interim_8272532.html": "2026-11-07T19:28:38.223679+00:00",
-  "https://www.franceinfo.fr/replay-radio/le-rendez-vous-du-mediateur/l-interview-de-sarah-knafo-dans-la-matinale-de-franceinfo_8251666.html": "2026-11-07T19:28:38.223679+00:00",
   "https://www.franceinfo.fr/replay-magazine/france-2/20h30-le-samedi/20h30-le-samedi-stars-et-politiques-qui-mene-la-danse_8246392.html": "2026-11-07T19:28:38.223679+00:00",
   "https://www.franceinfo.fr/elections/presidentielle/reportage-nous-allons-gagner-au-bourget-jean-luc-melenchon-devoile-son-programme-pour-2027-et-poursuit-sa-demonstration-de-force_8272679.html": "2026-11-08T00:42:41.784677+00:00",
-  "https://www.franceinfo.fr/politique/melenchon/il-faut-tout-changer-scande-jean-luc-melenchon-lors-de-son-grand-meeting-du-bourget_8272676.html": "2026-11-08T00:42:41.784677+00:00"
+  "https://www.franceinfo.fr/politique/melenchon/il-faut-tout-changer-scande-jean-luc-melenchon-lors-de-son-grand-meeting-du-bourget_8272676.html": "2026-11-08T00:42:41.784677+00:00",
+  "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/revalorisation-du-smic-mobilisation-sociale-campagne-presidentielle-de-jean-luc-melenchon-le-8h30-franceinfo-d-antoine-leaument_8232082.html": "2026-11-08T10:30:09.852050+00:00",
+  "https://www.franceinfo.fr/politique/direct-politique-je-n-attends-plus-grand-chose-de-ce-gouvernement-a-part-de-le-remplacer-par-nous-memes-tacle-le-depute-lfi-antoine-leaument_8273093.html": "2026-11-08T10:30:09.852050+00:00",
+  "https://www.franceinfo.fr/economie/entreprises/en-dessous-de-1-700-euros-net-toute-revalorisation-du-smic-equivaudrait-a-des-miettes-accordees-par-des-gens-qui-ont-distribues-des-milliards-aux-plus-riches-declare-le-depute-lfi-antoine-leaument_8273108.html": "2026-11-08T10:30:09.852050+00:00",
+  "https://www.franceinfo.fr/politique/melenchon/on-me-demande-de-mettre-de-l-eau-dans-mon-vin-je-ne-le-ferai-pas_8273105.html": "2026-11-08T10:30:09.852050+00:00",
+  "https://www.franceinfo.fr/elections/quatre-choses-a-ne-pas-oublier-pour-faire-bon-usage-des-sondages-et-enquetes-d-opinion-en-periode-electorale_8270903.html": "2026-11-08T10:30:09.852050+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
@@ -44,7 +44,7 @@
    "pubdate": "2027-01-01T11:00:00+00:00"
   },
   {
-   "title": "\"Franc-Jeu\". Avec Laurent Wauquiez Dans la perspective de l'élection présidentielle de 2027, à travers des interviews et des débats, Benjamin Duhamel interroge celles et ceux qui participent aux choix proposés aux Français pour l’avenir du pays. Le 8 novembre 2026, il reçoit Laurent Wauquiez, président du groupe Droite républicaine à l’Assemblée nationale et député de la Haute-Loire. 8 novembre 45:00 vidéo 45 minutes",
+   "title": "\"Franc-Jeu\". Avec Laurent Wauquiez Dans la perspective de l'élection présidentielle de 2027, à travers des interviews et des débats, Benjamin Duhamel interroge celles et ceux qui participent aux choix proposés aux Français pour l’avenir du pays. Le 8 novembre 2026, il reçoit Laurent Wauquiez, président du groupe Droite républicaine à l’Assemblée nationale et député de la Haute-Loire. Aujourd'hui 45:00 vidéo 45 minutes",
    "link": "https://www.franceinfo.fr/replay-magazine/france-2/franc-jeu/franc-jeu-avec-laurent-wauquiez_8269838.html",
    "summary": "Dans la perspective de l'élection présidentielle de 2027, à travers des interviews et des débats, Benjamin Duhamel interroge celles et ceux qui participent aux choix proposés aux Français pour l’avenir du pays. Le 8 novembre 2026, il reçoit Laurent Wauquiez, président du groupe Droite républicaine à l’Assemblée nationale et député de la Haute-Loire.",
    "image": "https://www.franceinfo.fr/pictures/Fbh26rz7pEi0zniuyMT1nNCPA3k/0x0:680x382/432x243/filters:format(jpg)/2026/08/28/6a919b42820e4536048985.jpg",
@@ -52,15 +52,55 @@
    "pubdate": "2026-11-08T11:00:00+00:00"
   },
   {
-   "title": ": Reportage \"Nous allons gagner\" : au Bourget, Jean-Luc Mélenchon dévoile son programme pour 2027 et poursuit sa démonstration de force Devant plus de 20 000 personnes, le prétendant insoumis à l'Elysée a présenté la version actualisée de son programme l'Avenir en commun avec plus de 1 000 propositions, entre pouvoir d'achat, écologie et santé. Aujourd'hui : Reportage",
+   "title": "Revalorisation du Smic, mobilisation sociale, campagne présidentielle de Jean-Luc Mélenchon... Le \"8h30 franceinfo\" d'Antoine Léaument Le député La France insoumise de l'Essonne était l'invité du \"8h30 franceinfo\" dimanche. Il répondait aux questions de Camille Girerd et Benjamin Recouvreur. Aujourd'hui 19:00 audio 19 minutes",
+   "link": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/revalorisation-du-smic-mobilisation-sociale-campagne-presidentielle-de-jean-luc-melenchon-le-8h30-franceinfo-d-antoine-leaument_8232082.html",
+   "summary": "Revalorisation du Smic, mobilisation sociale, campagne présidentielle de Jean-Luc Mélenchon... Le \"8h30 franceinfo\" d'Antoine Léaument",
+   "image": "https://www.franceinfo.fr/pictures/z7qN5qaVXZEE-X0vVRID71V3LPY/183x0:1448x869/432x297/filters:format(jpg)/2026/11/08/6af0375c11cb0618801754.jpg",
+   "date": null,
+   "pubdate": "2026-11-08T10:30:09.852050+00:00"
+  },
+  {
+   "title": "• Direct Politique : \"Je n'attends plus grand-chose de ce gouvernement, à part de le remplacer par nous-mêmes\", tacle le député LFI Antoine Léaument Aujourd'hui • Direct",
+   "link": "https://www.franceinfo.fr/politique/direct-politique-je-n-attends-plus-grand-chose-de-ce-gouvernement-a-part-de-le-remplacer-par-nous-memes-tacle-le-depute-lfi-antoine-leaument_8273093.html",
+   "summary": "Politique : \"Je n'attends plus grand-chose de ce gouvernement, à part de le remplacer par nous-mêmes\", tacle le député LFI Antoine Léaument",
+   "image": "https://www.franceinfo.fr/pictures/fDYNkNvySy6ATnNWa1Wztn3hLrM/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/08/6af037d366c93954687835.jpg",
+   "date": null,
+   "pubdate": "2026-11-08T10:30:09.852050+00:00"
+  },
+  {
+   "title": "En dessous de 1 700 euros net, toute revalorisation du Smic équivaudrait à \"des miettes accordées par des gens qui ont distribué des milliards aux plus riches\", déclare le député LFI Antoine Léaument Aujourd'hui",
+   "link": "https://www.franceinfo.fr/economie/entreprises/en-dessous-de-1-700-euros-net-toute-revalorisation-du-smic-equivaudrait-a-des-miettes-accordees-par-des-gens-qui-ont-distribues-des-milliards-aux-plus-riches-declare-le-depute-lfi-antoine-leaument_8273108.html",
+   "summary": "En dessous de 1 700 euros net, toute revalorisation du Smic équivaudrait à \"des miettes accordées par des gens qui ont distribué des milliards aux plus riches\", déclare le député LFI Antoine Léaument",
+   "image": "https://www.franceinfo.fr/pictures/Z4J-X_K3npEeFkRTrDOcEO5G0D4/42x0:1589x869/432x243/filters:format(jpg)/2026/11/08/6af0375c11cb0618801754.jpg",
+   "date": null,
+   "pubdate": "2026-11-08T10:30:09.852050+00:00"
+  },
+  {
+   "title": "\"On me demande de mettre de l'eau dans mon vin, je ne le ferai pas\" Aujourd'hui 1:34 vidéo 1 minute 34",
+   "link": "https://www.franceinfo.fr/politique/melenchon/on-me-demande-de-mettre-de-l-eau-dans-mon-vin-je-ne-le-ferai-pas_8273105.html",
+   "summary": "\"On me demande de mettre de l'eau dans mon vin, je ne le ferai pas\"",
+   "image": "https://www.franceinfo.fr/pictures/hbVHf5Z0YVX4hohn8ykCyuVaPD0/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/08/6af0349fef880436980447.jpg",
+   "date": null,
+   "pubdate": "2026-11-08T10:30:09.852050+00:00"
+  },
+  {
+   "title": "Quatre choses à ne pas oublier pour faire bon usage des sondages et enquêtes d'opinion en période électorale 3:00 article 3 minutes",
+   "link": "https://www.franceinfo.fr/elections/quatre-choses-a-ne-pas-oublier-pour-faire-bon-usage-des-sondages-et-enquetes-d-opinion-en-periode-electorale_8270903.html",
+   "summary": "Quatre choses à ne pas oublier pour faire bon usage des sondages et enquêtes d'opinion en période électorale",
+   "image": "https://www.franceinfo.fr/pictures/NgdX-9M3zydTtnbjuioqwcKqGKs/0x478:9186x5645/432x243/filters:format(jpg)/2026/11/06/6aee40116c20a280238590.jpg",
+   "date": null,
+   "pubdate": "2026-11-08T10:30:09.852050+00:00"
+  },
+  {
+   "title": ": Reportage \"Nous allons gagner\" : au Bourget, Jean-Luc Mélenchon dévoile son programme pour 2027 et poursuit sa démonstration de force 7 novembre : Reportage",
    "link": "https://www.franceinfo.fr/elections/presidentielle/reportage-nous-allons-gagner-au-bourget-jean-luc-melenchon-devoile-son-programme-pour-2027-et-poursuit-sa-demonstration-de-force_8272679.html",
    "summary": "\"Nous allons gagner\" : au Bourget, Jean-Luc Mélenchon dévoile son programme pour 2027 et poursuit sa démonstration de force",
-   "image": "https://www.franceinfo.fr/pictures/mdOvvbPkTeQwL_byHM_wmNbHlqg/0x0:4619x3176/432x297/filters:format(jpg)/2026/11/07/6aef87f45ac61035951835.jpg",
+   "image": "https://www.franceinfo.fr/pictures/gjLgGrTfNdrU2VxlV4bEfMsC9H4/0x184:4764x2864/432x243/filters:format(jpg)/2026/11/07/6aef87f45ac61035951835.jpg",
    "date": null,
    "pubdate": "2026-11-08T00:42:41.784677+00:00"
   },
   {
-   "title": "\"Il faut tout changer !\", scande Jean-Luc Mélenchon lors de son grand meeting du Bourget Aujourd'hui 2:01 vidéo 2 minutes 1",
+   "title": "\"Il faut tout changer !\", scande Jean-Luc Mélenchon lors de son grand meeting du Bourget 7 novembre 2:01 vidéo 2 minutes 1",
    "link": "https://www.franceinfo.fr/politique/melenchon/il-faut-tout-changer-scande-jean-luc-melenchon-lors-de-son-grand-meeting-du-bourget_8272676.html",
    "summary": "\"Il faut tout changer !\", scande Jean-Luc Mélenchon lors de son grand meeting du Bourget",
    "image": "https://www.franceinfo.fr/pictures/kqRva0KlpIjk64r6ZDk2VbuPaDQ/0x103:1022x678/432x243/filters:format(jpg)/2026/11/07/6aef7f64bd4e5156312364.png",
@@ -68,7 +108,7 @@
    "pubdate": "2026-11-08T00:42:41.784677+00:00"
   },
   {
-   "title": "Depuis son meeting au Bourget, Jean-Luc Mélenchon refuse de mettre \"de l'eau dans\" son \"vin pour séduire et être moins clivant\" Aujourd'hui",
+   "title": "Depuis son meeting au Bourget, Jean-Luc Mélenchon refuse de mettre \"de l'eau dans\" son \"vin pour séduire et être moins clivant\" 7 novembre",
    "link": "https://www.franceinfo.fr/politique/melenchon/depuis-son-meeting-au-bourget-jean-luc-melenchon-refuse-de-mettre-de-l-eau-dans-son-vin-pour-seduire-et-etre-moins-clivant_8272640.html",
    "summary": "Depuis son meeting au Bourget, Jean-Luc Mélenchon refuse de mettre \"de l'eau dans\" son \"vin pour séduire et être moins clivant\"",
    "image": "https://www.franceinfo.fr/pictures/FQe6SFt6rabz24Do1bYfHebDZy8/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/07/6aef4919c04e3436802011.jpg",
@@ -76,7 +116,7 @@
    "pubdate": "2026-11-07T19:28:38.223679+00:00"
   },
   {
-   "title": "Meeting de Jean-Luc Mélenchon au Bourget : \"Peu de candidats ou candidates à l'élection présidentielle sont capables de remplir une salle aussi grande\", souligne le rédacteur en chef de \"Regards\" Aujourd'hui 28:00 vidéo 28 minutes",
+   "title": "Meeting de Jean-Luc Mélenchon au Bourget : \"Peu de candidats ou candidates à l'élection présidentielle sont capables de remplir une salle aussi grande\", souligne le rédacteur en chef de \"Regards\" 7 novembre 28:00 vidéo 28 minutes",
    "link": "https://www.franceinfo.fr/replay-magazine/franceinfo/avant-le-20h/meeting-de-jean-luc-melenchon-au-bourget-peu-de-candidats-ou-candidates-a-l-election-presidentielle-sont-capables-de-remplir-une-salle-aussi-grande-souligne-le-redacteur-en-chef-de-de-regards_8272619.html",
    "summary": "Meeting de Jean-Luc Mélenchon au Bourget : \"Peu de candidats ou candidates à l'élection présidentielle sont capables de remplir une salle aussi grande\", souligne le rédacteur en chef de \"Regards\"",
    "image": "https://www.franceinfo.fr/pictures/Jg_CFupvNz4kyQ2jZxjGgE1LKNs/0x64:1446x877/432x243/filters:format(jpg)/2026/11/07/6aef713b353b1576043868.png",
@@ -84,7 +124,7 @@
    "pubdate": "2026-11-07T19:28:38.223679+00:00"
   },
   {
-   "title": "Les députés communistes qui soutiennent La France insoumise se sont mis \"en dehors du parti\", estime le PCF Aujourd'hui",
+   "title": "Les députés communistes qui soutiennent La France insoumise se sont mis \"en dehors du parti\", estime le PCF 7 novembre",
    "link": "https://www.franceinfo.fr/politique/les-deputes-communistes-qui-soutiennent-la-france-insoumise-se-sont-mis-en-dehors-du-parti-estime-le-pcf_8272592.html",
    "summary": "Les députés communistes qui soutiennent La France insoumise se sont mis \"en dehors du parti\", estime le PCF",
    "image": "https://www.franceinfo.fr/pictures/VI4q75FVrWt1wXAVoLBBFbYFJGc/0x53:1024x629/432x243/filters:format(jpg)/2026/11/07/6aef29bf42bab285258073.jpg",
@@ -92,7 +132,7 @@
    "pubdate": "2026-11-07T19:28:38.223679+00:00"
   },
   {
-   "title": "Les automnes de la Présidentielle Aujourd'hui 4:59 audio 4 minutes 59",
+   "title": "Les automnes de la Présidentielle 7 novembre 4:59 audio 4 minutes 59",
    "link": "https://www.franceinfo.fr/replay-radio/l-info-de-l-histoire/les-automnes-de-la-presidentielle_8251696.html",
    "summary": "",
    "image": "https://www.franceinfo.fr/pictures/Je8Nn0hZEKgGLKX88pTlW709u98/0x54:1024x630/432x243/filters:format(jpg)/2026/11/07/6aeede6184a00258185708.jpg",
@@ -100,7 +140,7 @@
    "pubdate": "2026-11-07T19:28:38.223679+00:00"
   },
   {
-   "title": "Le ministre délégué Mathieu Lefèvre va être nommé porte-parole du gouvernement par intérim Aujourd'hui",
+   "title": "Le ministre délégué Mathieu Lefèvre va être nommé porte-parole du gouvernement par intérim Cette nomination intervient alors que l'actuelle porte-parole du gouvernement, Maud Bregeon, va bientôt entamer son congé maternité. 7 novembre",
    "link": "https://www.franceinfo.fr/politique/le-ministre-delegue-mathieu-lefevre-va-etre-nomme-porte-parole-du-gouvernement-par-interim_8272532.html",
    "summary": "Le ministre délégué Mathieu Lefèvre va être nommé porte-parole du gouvernement par intérim",
    "image": "https://www.franceinfo.fr/pictures/PnAxPD4mdc40y2w5f_gpspG8vHc/0x0:1024x576/432x243/filters:format(jpg)/2026/11/07/6aef551654a20231648237.jpg",
@@ -108,15 +148,7 @@
    "pubdate": "2026-11-07T19:28:38.223679+00:00"
   },
   {
-   "title": "Retour sur l'interview de Sarah Knafo dans la matinale de franceinfo Aujourd'hui 4:21 audio 4 minutes 21",
-   "link": "https://www.franceinfo.fr/replay-radio/le-rendez-vous-du-mediateur/l-interview-de-sarah-knafo-dans-la-matinale-de-franceinfo_8251666.html",
-   "summary": "Retour sur l'interview de Sarah Knafo dans la matinale de franceinfo",
-   "image": "https://www.franceinfo.fr/pictures/1oKpJa7uF5lm4jAy6ZODWXInmQw/0x0:1280x720/432x243/filters:format(jpg)/2026/10/28/6ae1a635b7ae1847504170.jpg",
-   "date": null,
-   "pubdate": "2026-11-07T19:28:38.223679+00:00"
-  },
-  {
-   "title": "\"20h30 le samedi\". Stars et politiques : qui mène la danse ? Aujourd'hui 21:53 vidéo 21 minutes 53",
+   "title": "\"20h30 le samedi\". Stars et politiques : qui mène la danse ? Le magazine \"20h30 le samedi\", présenté par Laurent Delahousse juste après le journal de 20 heures sur France 2, dévoile la petite histoire dans la grande, à feuilleter comme un album de famille. 7 novembre 21:53 vidéo 21 minutes 53",
    "link": "https://www.franceinfo.fr/replay-magazine/france-2/20h30-le-samedi/20h30-le-samedi-stars-et-politiques-qui-mene-la-danse_8246392.html",
    "summary": "\"20h30 le samedi\". Stars et politiques : qui mène la danse ?",
    "image": "https://www.franceinfo.fr/pictures/3dhzCqY0dqhCBfw4G8XQjg2UaS0/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/05/6aec9c4daa65e866382136.png",
@@ -124,7 +156,7 @@
    "pubdate": "2026-11-07T19:28:38.223679+00:00"
   },
   {
-   "title": "Sébastien Chenu estime que la Ciivise a les oreilles \"fragiles\", après les propos du député RN Julien Odoul qualifiant cette commission de \"service sanitaire du Hamas\" Aujourd'hui",
+   "title": "Sébastien Chenu estime que la Ciivise a les oreilles \"fragiles\", après les propos du député RN Julien Odoul qualifiant cette commission de \"service sanitaire du Hamas\" La directrice de la Ciivise, Maryse Le Men-Régnier, a saisi la présidente de l'Assemblée nationale mercredi, dénonçant dans une lettre ouverte des propos \"inadmissibles\". 7 novembre",
    "link": "https://www.franceinfo.fr/politique/front-national/sebastien-chenu-estime-que-la-ciivise-a-les-oreilles-fragiles-apres-les-propos-de-julien-odoul-qualifiant-cette-commission-de-service-sanitaire-du-hamas_8272253.html",
    "summary": "Sébastien Chenu estime que la Ciivise a les oreilles \"fragiles\", après les propos du député RN Julien Odoul qualifiant cette commission de \"service sanitaire du Hamas\"",
    "image": "https://www.franceinfo.fr/pictures/oi3G8bSa1g773uO-jNbVuAwqrGk/0x66:1024x642/432x243/filters:format(jpg)/2026/11/07/6aef0e73069db575532737.jpg",
@@ -132,7 +164,7 @@
    "pubdate": "2026-11-07T13:13:17.064323+00:00"
   },
   {
-   "title": "Augmentation du Smic, primaire de la droite et du centre, propos d'Edouard Philippe sur les pillards du 17 octobre... Le \"8h30 franceinfo\" de Jérémie Patrier-Leitus Le député Horizons du Calvados, soutien d'Edouard Philippe pour l'élection présidentielle de 2027, répondait aux questions de Camille Girerd et Benjamin Recouvreur. Aujourd'hui 17:52 audio 17 minutes 52",
+   "title": "Augmentation du Smic, primaire de la droite et du centre, propos d'Edouard Philippe sur les pillards du 17 octobre... Le \"8h30 franceinfo\" de Jérémie Patrier-Leitus Le député Horizons du Calvados, soutien d'Edouard Philippe pour l'élection présidentielle de 2027, répondait aux questions de Camille Girerd et Benjamin Recouvreur. 7 novembre 17:52 audio 17 minutes 52",
    "link": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/augmentation-du-smic-primaire-de-la-droite-et-du-centre-propos-d-edouard-philippe-sur-les-pillards-du-17-octobre-le-8h30-franceinfo-de-jeremie-patrier-leitus_8251732.html",
    "summary": "Augmentation du Smic, primaire de la droite et du centre, propos d'Edouard Philippe sur les pillards du 17 octobre... Le \"8h30 franceinfo\" de Jérémie Patrier-Leitus",
    "image": "https://www.franceinfo.fr/pictures/NEouMQivkToH5zrAjImSj6stngo/54x0:1577x856/432x243/filters:format(jpg)/2026/11/07/6aeee2cb52e10628606358.jpg",
@@ -140,7 +172,7 @@
    "pubdate": "2026-11-07T13:13:17.064323+00:00"
   },
   {
-   "title": "Mobilisation du 7 novembre : \"Le gouvernement est à l'écoute\", assure Éléonore Caroit, ministre déléguée chargée de la Francophonie Éléonore Caroit, ministre déléguée chargée de la Francophonie, des Partenariats internationaux et des Français de l'étranger, est l'invitée politique de la matinale de franceinfo, samedi 7 novembre. L'occasion d'évoquer le rôle du gouvernement dans les mobilisations sociales actuelles. Aujourd'hui 10:56 vidéo 10 minutes 56",
+   "title": "Mobilisation du 7 novembre : \"Le gouvernement est à l'écoute\", assure Éléonore Caroit, ministre déléguée chargée de la Francophonie Éléonore Caroit, ministre déléguée chargée de la Francophonie, des Partenariats internationaux et des Français de l'étranger, est l'invitée politique de la matinale de franceinfo, samedi 7 novembre. L'occasion d'évoquer le rôle du gouvernement dans les mobilisations sociales actuelles. 7 novembre 10:56 vidéo 10 minutes 56",
    "link": "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/le-7-40-franceinfo-du-samedi-07-novembre-2026_8244943.html",
    "summary": "Mobilisation du 7 novembre : \"Le gouvernement est à l'écoute\", assure Éléonore Caroit, ministre déléguée chargée de la Francophonie",
    "image": "https://www.franceinfo.fr/pictures/jYrdvNKcKUzJxHZAekKUSFhzxkA/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/07/6aef1107a69a6347681871.jpg",
@@ -148,7 +180,7 @@
    "pubdate": "2026-11-07T13:13:17.064323+00:00"
   },
   {
-   "title": "\"Il n'y en a qu'un qui ne veut pas de cette primaire\" : Édouard Philippe peut-il encore échapper à une primaire de la droite et du centre ? Proposée par Gabriel Attal, l'idée fait son chemin et a reçu cette semaine le soutien de Bruno Retailleau. Édouard Philippe, qui y voit un risque de confusion et de divisions, continue de faire de la résistance. Aujourd'hui 2:54 audio 2 minutes 54",
+   "title": "\"Il n'y en a qu'un qui ne veut pas de cette primaire\" : Édouard Philippe peut-il encore échapper à une primaire de la droite et du centre ? Proposée par Gabriel Attal, l'idée fait son chemin et a reçu cette semaine le soutien de Bruno Retailleau. Édouard Philippe, qui y voit un risque de confusion et de divisions, continue de faire de la résistance. 7 novembre 2:54 audio 2 minutes 54",
    "link": "https://www.franceinfo.fr/replay-radio/le-brief-politique/il-n-y-en-a-qu-un-qui-ne-veut-pas-de-cette-primaire-sous-pression-edouard-philippe-peut-il-encore-echapper-a-une-primaire-de-la-droite-et-du-centre_8251654.html",
    "summary": "\"Il n'y en a qu'un qui ne veut pas de cette primaire\" : Édouard Philippe peut-il encore échapper à une primaire de la droite et du centre ?",
    "image": "https://www.franceinfo.fr/pictures/eZ-vSSQSzx7bWYVtkYWUbcuhEB4/0x346:6646x4084/432x243/filters:format(jpg)/2026/11/07/6aeec61ab9b55716011964.jpg",
@@ -156,7 +188,7 @@
    "pubdate": "2026-11-07T13:13:17.064323+00:00"
   },
   {
-   "title": "Un tournant le 17 octobre, un pic le 5 novembre… Visualisez comment la mobilisation dans les manifestations en France a évolué depuis septembre Le premier grand rassemblement s'est déroulé le 29 septembre. Sept autres journées de mobilisation ont ensuite marqué le pays, sans que le mouvement faiblisse. Aujourd'hui",
+   "title": "Un tournant le 17 octobre, un pic le 5 novembre… Visualisez comment la mobilisation dans les manifestations en France a évolué depuis septembre Le premier grand rassemblement s'est déroulé le 29 septembre. Sept autres journées de mobilisation ont ensuite marqué le pays, sans que le mouvement faiblisse. 7 novembre",
    "link": "https://www.franceinfo.fr/societe/manifestations/un-tournant-le-17-octobre-un-pic-le-5-novembre-visualisez-comment-la-mobilisation-dans-les-manifestations-en-france-a-evolue-depuis-septembre_8270384.html",
    "summary": "Un tournant le 17 octobre, un pic le 5 novembre… Visualisez comment la mobilisation dans les manifestations en France a évolué depuis septembre",
    "image": "https://www.franceinfo.fr/pictures/DoTZ8qKhyQn67569eJjniLwxlVk/0x0:6000x3375/432x243/filters:format(jpg)/2026/11/06/6aed8ed7b4319809996467.jpg",
@@ -164,20 +196,12 @@
    "pubdate": "2026-11-07T06:07:49.284148+00:00"
   },
   {
-   "title": "\"L'accueil dans les manifs, je n'ai jamais vu ça\" : comment Jean-Luc Mélenchon surfe sur la contestation sociale en vue de la présidentielle Avant la mise à jour de son programme et la convention présidentielle qui lance officiellement sa campagne, le candidat de La France insoumise était dans la rue, jeudi, pour une nouvelle journée de mobilisation. Aujourd'hui",
+   "title": "\"L'accueil dans les manifs, je n'ai jamais vu ça\" : comment Jean-Luc Mélenchon surfe sur la contestation sociale en vue de la présidentielle Avant la mise à jour de son programme et la convention présidentielle qui lance officiellement sa campagne, le candidat de La France insoumise était dans la rue, jeudi, pour une nouvelle journée de mobilisation. 7 novembre",
    "link": "https://www.franceinfo.fr/economie/greve/greve/l-accueil-dans-les-manifs-je-n-ai-jamais-vu-ca-comment-jean-luc-melenchon-surfe-sur-la-contestation-sociale-en-vue-de-la-presidentielle_8267927.html",
    "summary": "\"L'accueil dans les manifs, je n'ai jamais vu ça\" : comment Jean-Luc Mélenchon surfe sur la contestation sociale en vue de la présidentielle",
    "image": "https://www.franceinfo.fr/pictures/UWa_402kb6XjRycSfD0f1mjxXq0/0x212:5472x3290/432x243/filters:format(jpg)/2026/11/04/6aeb5490ad4f0174810539.jpg",
    "date": null,
    "pubdate": "2026-11-07T06:07:49.284148+00:00"
-  },
-  {
-   "title": "Mobilisation de la jeunesse : Sébastien Lecornu recevra les représentants des lycéens et des étudiants lundi Les organisations de jeunesse seront réunies à partir de 15h30, avant une réunion du comité de réforme de Parcoursup, qui doit rendre ses premières recommandations dans les prochaines semaines. 6 novembre",
-   "link": "https://www.franceinfo.fr/societe/manifestations/direct-mobilisation-sociale-le-ministre-du-travail-juge-important-d-essayer-de-relever-le-smic-au-dela-de-la-barre-des-1-500-euros-net_8270366.html",
-   "summary": "Mobilisation de la jeunesse : Sébastien Lecornu recevra les représentants des lycéens et des étudiants lundi",
-   "image": "https://www.franceinfo.fr/pictures/mNV6yAzNNN4CM-fczbmKPOGE3jI/0x53:1024x629/432x243/filters:format(jpg)/2026/11/06/6aee2988a4e7f368906761.jpg",
-   "date": null,
-   "pubdate": "2026-11-06T23:14:20.703935+00:00"
   },
   {
    "title": "Soupçons de financement libyen : tout comprendre à l'affaire 29 contenus",
@@ -228,22 +252,6 @@
    "pubdate": "2026-11-06T16:48:43.494267+00:00"
   },
   {
-   "title": ": Édito Une fin de règne bien solitaire pour Emmanuel Macron Impopulaire, abandonné et même renié, le président s'est livré ces deux dernières années à la journaliste Françoise Degois, lors d'échanges privés par sms. Un livre tiré de ses messages est paru jeudi, intitulé \"Vous êtes tous trop durs avec moi\". 6 novembre : Édito 2:58 audio 2 minutes 58",
-   "link": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-une-fin-de-regne-bien-solitaire-pour-emmanuel-macron_8249893.html",
-   "summary": "Une fin de règne bien solitaire pour Emmanuel Macron",
-   "image": "https://www.franceinfo.fr/pictures/cARymiVNH6Pz8O2RVysoJ-As2hk/0x0:1024x576/432x243/filters:format(jpg)/2026/11/06/6aed6c9bd3386719695449.jpg",
-   "date": null,
-   "pubdate": "2026-11-06T16:48:43.494267+00:00"
-  },
-  {
-   "title": "Les informés du matin du vendredi 06 novembre 2026 Les informés débattent de l'actualité autour de Benjamin Recouvreur et Renaud Dély. 6 novembre 20:52 audio 20 minutes 52",
-   "link": "https://www.franceinfo.fr/replay-radio/les-informes-du-matin/les-informes-du-matin-du-vendredi-06-novembre-2026_8249929.html",
-   "summary": "Les informés du matin du vendredi 06 novembre 2026",
-   "image": "https://www.franceinfo.fr/pictures/TKWb09bmk3TJazMzKgqtt36pV4Q/0x292:5616x3451/432x243/filters:format(jpg)/2026/07/08/6a4e52a5b634b233317025.jpg",
-   "date": "2026-11-06T11:00:00+00:00",
-   "pubdate": "2026-11-06T11:00:00+00:00"
-  },
-  {
    "title": ": Reportage \"Ce serait presque drôle, si ça ne montait pas les gens les uns contre les autres\" : après l'incendie de la mairie de Limoges, le plateau de Millevaches pointé du doigt comme un bastion de \"l'ultragauche\" : Reportage 5:15 audio 5 minutes 15",
    "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-ce-serait-presque-drole-si-ca-ne-montait-pas-les-gens-les-uns-contre-les-autres-apres-l-incendie-de-la-mairie-de-limoges-le-plateau-de-millevaches-pointe-du-doigt-comme-un-bastion-de-l-ultragauche_8249923.html",
    "summary": "\"Ce serait presque drôle, si ça ne montait pas les gens les uns contre les autres\" : après l'incendie de la mairie de Limoges, le plateau de Millevaches pointé du doigt comme un bastion de \"l'ultragauche\"",
@@ -266,14 +274,6 @@
    "image": "https://www.franceinfo.fr/pictures/9wBDn24KBsJgzMHOfUA8Hv0ZGdE/0x405:1920x1485/432x243/filters:format(jpg)/2026/10/28/6ae2299064244646221451.jpg",
    "date": null,
    "pubdate": "2026-10-30T10:09:05.409994+00:00"
-  },
-  {
-   "title": "\"Bon courage à ceux qui arrivent\" : l'élection présidentielle permettra-t-elle vraiment de sortir de la crise politique et sociale qui secoue le pays ? 6:00 article 6 minutes",
-   "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/bon-courage-a-ceux-qui-arrivent-l-election-presidentielle-permettra-t-elle-vraiment-de-sortir-de-la-crise-politique-et-sociale-qui-secoue-le-pays_8245624.html",
-   "summary": "\"Bon courage à ceux qui arrivent\" : l'élection présidentielle permettra-t-elle vraiment de sortir de la crise politique et sociale qui secoue le pays ?",
-   "image": "https://www.franceinfo.fr/pictures/9P8VKRRN3A9DqkEJYglVQaeKemE/0x196:3778x2322/432x243/filters:format(jpg)/2026/10/20/6ad783d4703a2085671736.jpg",
-   "date": null,
-   "pubdate": "2026-10-27T00:31:27.475048+00:00"
   }
  ]
 }
