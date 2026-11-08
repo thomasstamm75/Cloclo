@@ -52,6 +52,17 @@ def texte_propre(s):
     return re.sub(r"\s+", " ", s or "").strip()
 
 
+def texte_reponse(r):
+    """Décode la page avec le bon encodage.
+
+    Sans charset dans l'en-tête, requests suppose ISO-8859-1 et casse les
+    accents des pages en UTF-8. On laisse alors le contenu trancher.
+    """
+    if "charset" not in r.headers.get("Content-Type", "").lower():
+        r.encoding = r.apparent_encoding
+    return r.text
+
+
 def analyser_date(brut, reference=None):
     """Comprend les dates ISO, JJ/MM/AAAA, « 12 mars 2026 » et « il y a N heures »."""
     if not brut:
@@ -250,7 +261,7 @@ def texte_integral(session, url, cache):
         r.raise_for_status()
     except requests.RequestException:
         return ""
-    soup = BeautifulSoup(r.text, "lxml")
+    soup = BeautifulSoup(texte_reponse(r), "lxml")
     for indesirable in soup(["script", "style", "nav", "header", "footer", "aside"]):
         indesirable.decompose()
     meilleur, taille_max = None, 0
@@ -333,7 +344,7 @@ def traiter_source(session, source, base_url):
             r.raise_for_status()
             etat["etag"] = r.headers.get("ETag", "")
             etat["last_modified"] = r.headers.get("Last-Modified", "")
-            items = extraire_items(r.text, source["url"], source.get("item"))
+            items = extraire_items(texte_reponse(r), source["url"], source.get("item"))
     except requests.RequestException as e:
         items = etat.get("last_good_items")
         avertissement = "site injoignable (%s), dernier flux connu reconduit" % type(e).__name__
