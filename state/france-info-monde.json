@@ -1,71 +1,221 @@
 {
- "etag": "\"a1fbc49ce772a88e5266d077235a0ccd-gzip\"",
+ "etag": "\"c5464fcf113928ba3a80d55c56bfd737-gzip\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/des-centaines-de-milliers-d-ukrainiens-se-trouvent-sans-electricite-apres-des-frappes-russes_8273186.html": "2026-11-08T10:30:12.629941+00:00",
-  "https://www.franceinfo.fr/monde/afrique/senegal/au-large-du-senegal-21-personnes-sont-mortes-dans-le-naufrage-d-une-pirogue-de-migrants_8273174.html": "2026-11-08T10:30:12.629941+00:00",
-  "https://www.franceinfo.fr/monde/moyen-orient/un-batiment-d-aramco-a-riyad-a-ete-la-cible-d-une-tentative-d-attaque-affirme-l-arabie-saoudite_8273063.html": "2026-11-08T10:30:12.629941+00:00",
-  "https://www.franceinfo.fr/monde/iran/en-iran-trois-hommes-soupconnes-d-avoir-agi-pour-israel-et-les-etats-unis-vont-etre-executes_8273084.html": "2026-11-08T10:30:12.629941+00:00",
-  "https://www.franceinfo.fr/monde/israel/qui-est-gadi-eisenkot-le-possible-successeur-de-benyamin-netanyahou_8273612.html": "2026-11-08T17:57:41.144057+00:00",
-  "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/apres-la-victoire-democrate-le-tout-petrole-va-t-il-etre-remis-en-cause-aux-etats-unis_8232076.html": "2026-11-08T17:57:41.144057+00:00",
-  "https://www.franceinfo.fr/monde/israel/en-israel-gadi-eisenkot-affirme-que-le-likoud-parti-de-benyamin-netanyahou-est-bienvenu-pour-former-une-coalition-gouvernementale_8273507.html": "2026-11-08T17:57:41.144057+00:00",
-  "https://www.franceinfo.fr/monde/palestine/gaza/dans-la-bande-de-gaza-des-milliers-de-deplaces-prives-d-abri-a-cause-d-importantes-intemperies_8273447.html": "2026-11-08T17:57:41.144057+00:00",
-  "https://www.franceinfo.fr/monde/usa/midterms-2018/la-victoire-des-democrates-est-un-gigantesque-pas-en-arriere-dans-l-histoire-des-etats-unis-affirme-donald-trump_8273432.html": "2026-11-08T17:57:41.144057+00:00",
-  "https://www.franceinfo.fr/monde/europe/ce-que-l-on-sait-de-l-attentat-en-pologne-qui-a-fait-six-morts-et-quinze-blesses-dans-le-centre-de-cracovie_8273087.html": "2026-11-08T17:57:41.144057+00:00",
-  "https://www.franceinfo.fr/societe/drogue/un-reseau-de-quatorze-ports-va-etre-lance-pour-lutter-contre-le-narcotrafic_8273384.html": "2026-11-08T17:57:41.144057+00:00",
-  "https://www.franceinfo.fr/monde/israel/reportage-la-seule-option-est-un-gouvernement-de-gauche-avec-nous-en-israel-les-citoyens-arabes-esperent-etre-representes-dans-le-prochain-gouvernement_8273099.html": "2026-11-08T17:57:41.144057+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-les-europeens-dont-la-france-seront-representes-lors-des-negociations-a-abu-dhabi-rapporte-le-ministre-des-affaires-etrangeres_8273333.html": "2026-11-08T17:57:41.144057+00:00",
-  "https://www.franceinfo.fr/monde/conflit-israel-iran/la-mission-d-israel-en-iran-n-est-pas-terminee-previent-le-ministre-de-la-defense_8273243.html": "2026-11-08T17:57:41.144057+00:00",
-  "https://www.franceinfo.fr/culture/musique/k-pop-chansons-d-amour-et-beatboxing-l-eurovision-lance-sa-premiere-edition-en-asie_8273135.html": "2026-11-08T17:57:41.144057+00:00",
-  "https://www.franceinfo.fr/internet/le-geant-de-la-tech-nvidia-lance-une-enquete-interne-sur-son-patron-qui-a-entretenu-une-relation-avec-une-femme-soupconnee-d-etre-une-espionne-chinoise_8273777.html": "2026-11-08T22:01:09.189098+00:00",
-  "https://www.franceinfo.fr/replay-jt/france-2/20-heures/la-guerre-des-cables-sous-marins-les-premieres-etapes-d-une-attaque-de-plus-grande-ampleur_8273729.html": "2026-11-08T22:01:09.189098+00:00",
-  "https://www.franceinfo.fr/monde/afrique/egypte/en-egypte-une-collision-de-deux-trains-fait-au-moins-sept-morts-et-une-centaine-de-blesses_8273720.html": "2026-11-08T22:01:09.189098+00:00",
-  "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/donald-trump-juge-tres-improbable-une-reprise-de-la-guerre-contre-l-iran-pour-le-moment_8273696.html": "2026-11-08T22:01:09.189098+00:00",
-  "https://www.franceinfo.fr/replay-jt/france-2/20-heures/attentat-en-pologne-j-ai-vu-des-personnes-tomber-a-un-metre-de-moi-une-temoin-raconte_8273690.html": "2026-11-08T22:01:09.189098+00:00",
-  "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/ce-n-est-pas-une-vie-la-detresse-des-refugies-de-gaza-inondes-par-les-pluies_8273663.html": "2026-11-08T22:01:09.189098+00:00",
   "https://www.franceinfo.fr/economie/visite-exclusive-de-l-une-des-plus-grandes-plateformes-d-extraction-de-gaz-au-monde-geree-par-total_8268395.html": "2026-11-08T22:01:09.189098+00:00",
-  "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/pouvoir-d-achat-prix-du-carburant-ces-americains-expliquent-le-blunami-cette-vague-bleue-aux-midterms-2026-qui-destabilise-donald-trump_8246506.html": "2026-11-08T22:01:09.189098+00:00",
-  "https://www.franceinfo.fr/monde/europe/l-auteur-de-l-attentat-en-pologne-qui-a-tue-au-moins-six-personnes-a-cracovie-est-mort_8274095.html": "2026-11-09T06:46:11.519337+00:00",
-  "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/le-parti-de-nelson-mandela-en-afrique-du-sud-essuie-le-pire-score-de-son-histoire-lors-des-elections-municipales_8253682.html": "2026-11-09T06:46:11.519337+00:00",
-  "https://www.franceinfo.fr/monde/afrique/maroc/sahara-occidental-les-consequences-du-depart-de-l-onu_8270687.html": "2026-11-09T06:46:11.519337+00:00",
   "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/reportage-tout-le-monde-est-malade-a-elbistan-l-extraction-du-charbon-brise-les-vies-des-habitants-loin-des-promesses-de-la-turquie-avant-la-cop31_8268068.html": "2026-11-09T06:46:11.519337+00:00",
   "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/leon-xiv-en-france-retrouvez-l-essentiel/": "2026-11-09T06:46:11.519337+00:00",
   "https://www.franceinfo.fr/monde/usa/affaire-jeffrey-epstein/l-essentiel-des-revelations-sur-l-affaire-epstein/": "2026-11-09T06:46:11.519337+00:00",
-  "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/tout-comprendre-a-la-guerre-au-moyen-orient/": "2026-11-09T06:46:11.519337+00:00"
+  "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/tout-comprendre-a-la-guerre-au-moyen-orient/": "2026-11-09T06:46:11.519337+00:00",
+  "https://www.franceinfo.fr/replay-jt/france-2/20-heures/piratage-des-frigos-la-france-accuse-l-iran-et-les-gardiens-de-la-revolution_8275106.html": "2026-11-09T19:53:21.541654+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/ukraine-des-milliers-d-habitants-prives-d-electricite_8274908.html": "2026-11-09T19:53:21.541654+00:00",
+  "https://www.franceinfo.fr/internet/les-etats-unis-ont-presque-un-droit-de-vie-et-de-mort-numerique-sur-chacun-d-entre-nous-denonce-nicolas-guillou-juge-de-la-cour-penale-internationale-sanctionne-par-washington_8275049.html": "2026-11-09T19:53:21.541654+00:00",
+  "https://www.franceinfo.fr/monde/italie/truffe-blanche-vendue-100-000-aux-encheres_8274923.html": "2026-11-09T19:53:21.541654+00:00",
+  "https://www.franceinfo.fr/internet/invisibles-et-strategiques-l-enjeu-des-cables-sous-marins_8274971.html": "2026-11-09T19:53:21.541654+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-la-coalition-des-volontaires-lance-un-exercice-grandeur-nature-inedit-en-pologne_8274764.html": "2026-11-09T19:53:21.541654+00:00",
+  "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/cyberattaque-contre-des-frigos-de-supermarches-le-parquet-de-paris-ouvre-une-enquete-visant-une-unite-des-gardiens-de-la-revolution-iraniens_8274806.html": "2026-11-09T19:53:21.541654+00:00",
+  "https://www.franceinfo.fr/societe/justice/le-comedien-britannique-russell-brand-condamne-a-dix-ans-de-prison-pour-viol-et-agressions-sexuelles_8274767.html": "2026-11-09T19:53:21.541654+00:00",
+  "https://www.franceinfo.fr/monde/palestine/gaza/nous-dormions-quand-la-pluie-a-commence-a-tomber-a-gaza-des-refugies-temoignent-apres-un-deluge-mortel_8274725.html": "2026-11-09T19:53:21.541654+00:00",
+  "https://www.franceinfo.fr/monde/japon/un-seisme-de-magnitude-5-7-dans-le-centre-du-japon-fait-plusieurs-blesses_8274590.html": "2026-11-09T19:53:21.541654+00:00",
+  "https://www.franceinfo.fr/monde/russie/reportage-tout-media-jouissant-d-une-grande-popularite-doit-etre-sous-la-coupe-du-kremlin-comment-poutine-a-fait-taire-la-presse-independante-en-russie_8274161.html": "2026-11-09T19:53:21.541654+00:00",
+  "https://www.franceinfo.fr/monde/usa/midterms-2018/midterms-2026-l-essentiel-des-elections-de-mi-mandat/": "2026-11-09T19:53:21.541654+00:00",
+  "https://www.franceinfo.fr/monde/usa/midterms-2018/direct-trump-quand-l-amerique-dit-stop-regardez-le-documentaire-consacre-aux-midterms-et-a-leurs-consequences_8270936.html": "2026-11-09T19:53:21.541654+00:00",
+  "https://www.franceinfo.fr/monde/espagne/scandales-de-corruption-accidents-de-trains-comment-le-ministere-des-transports-est-devenu-le-cauchemar-du-chef-du-gouvernement-espagnol-pedro-sanchez_8274596.html": "2026-11-09T19:53:21.541654+00:00",
+  "https://www.franceinfo.fr/environnement/energie/le-prix-de-reference-du-gaz-augmentera-encore-en-decembre-de-5-8_8274680.html": "2026-11-09T19:53:21.541654+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/depuis-qu-il-fait-froid-les-russes-frappent-violemment-la-centrale-electrique-les-habitants-de-dnipro-s-appretent-a-vivre-leur-pire-hiver_8274572.html": "2026-11-09T19:53:21.541654+00:00",
+  "https://www.franceinfo.fr/economie/automobile/le-constructeur-automobile-chinois-byd-accuse-de-contrefacon-par-land-rover_8274491.html": "2026-11-09T19:53:21.541654+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-le-canada-annonce-des-sanctions-supplementaires-contre-la-russie_8274593.html": "2026-11-09T19:53:21.541654+00:00",
+  "https://www.franceinfo.fr/replay-radio/histoire-du-jour/une-histoire-d-adultere-secoue-le-geant-de-la-tech-nvidia-son-patron-jensen-huang-est-soupconne-d-une-liaison-avec-une-espionne-chinoise_8274065.html": "2026-11-09T19:53:21.541654+00:00",
+  "https://www.franceinfo.fr/replay-radio/le-brief-eco/qui-pour-succeder-a-christine-lagarde-a-la-presidence-de-la-banque-centrale-europeenne_8253664.html": "2026-11-09T19:53:21.541654+00:00",
+  "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-reconnait-une-politique-d-expulsions-d-immigres-trop-dure_8274197.html": "2026-11-09T19:53:21.541654+00:00",
+  "https://www.franceinfo.fr/replay-radio/ca-dit-quoi/podcast-sante-mentale-mise-a-l-epreuve-par-les-blocus-nouvelle-cop-et-blague-de-donald-trump-ca-dit-quoi-ce-9-novembre_8264843.html": "2026-11-09T19:53:21.541654+00:00",
+  "https://www.franceinfo.fr/monde/europe/migrants/huit-personnes-sont-mortes-dans-le-naufrage-d-une-embarcation-de-migrants-au-large-de-la-grece_8274113.html": "2026-11-09T19:53:21.541654+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "L'auteur de l'attentat en Pologne, qui a tué au moins six personnes à Cracovie, est mort Ce Polonais de 24 ans, est soupçonné d'avoir fait au total neuf morts après la découverte de ses parents et de sa sœur, gisant à leur domicile avec des blessures par balles. Il avait été grièvement blessé par des policiers samedi. Aujourd'hui",
-   "link": "https://www.franceinfo.fr/monde/europe/l-auteur-de-l-attentat-en-pologne-qui-a-tue-au-moins-six-personnes-a-cracovie-est-mort_8274095.html",
-   "summary": "L'auteur de l'attentat en Pologne, qui a tué au moins six personnes à Cracovie, est mort",
-   "image": "https://www.franceinfo.fr/pictures/cmQMQc3VCRM4tqPCOM7HRnjFBIY/0x0:1008x693/432x297/filters:format(jpg)/2026/11/09/6af1685e8d9fa862201665.jpg",
+   "title": "Piratage des frigos : la France accuse l’Iran et les Gardiens de la révolution Derrière l’attaque des réfrigérateurs de supermarchés piratés à distance, la piste de l’Iran semble apparaître. C'est la direction que prend l'enquête sur ces appareils mis hors service en octobre. La justice française vise trois responsables d’un groupe de pirates liés aux Gardiens de la révolution. Aujourd'hui 1:45 vidéo 1 minute 45",
+   "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/piratage-des-frigos-la-france-accuse-l-iran-et-les-gardiens-de-la-revolution_8275106.html",
+   "summary": "Piratage des frigos : la France accuse l’Iran et les Gardiens de la révolution",
+   "image": "https://www.franceinfo.fr/pictures/l1KE_RpykF1yH8jWQ_kGsDjj9xo/174x0:1745x1080/432x297/filters:format(jpg)/2026/11/09/6af221d49db0f569364704.jpg",
    "date": null,
-   "pubdate": "2026-11-09T06:46:11.519337+00:00"
+   "pubdate": "2026-11-09T19:53:21.541654+00:00"
   },
   {
-   "title": "Le parti de Nelson Mandela en Afrique du Sud essuie le pire score de son histoire lors des élections municipales Aujourd'hui 2:30 audio 2 minutes 30",
-   "link": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/le-parti-de-nelson-mandela-en-afrique-du-sud-essuie-le-pire-score-de-son-histoire-lors-des-elections-municipales_8253682.html",
-   "summary": "Le parti de Nelson Mandela en Afrique du Sud essuie le pire score de son histoire lors des élections municipales",
-   "image": "https://www.franceinfo.fr/pictures/enujV07PBnh-tnkfbirEoocQydk/0x53:1024x629/432x243/filters:format(jpg)/2026/11/09/6af16189c9519836650133.jpg",
+   "title": "Ukraine, des milliers d'habitants privés d'électricité Aujourd'hui 1:41 vidéo 1 minute 41",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/ukraine-des-milliers-d-habitants-prives-d-electricite_8274908.html",
+   "summary": "Ukraine, des milliers d'habitants privés d'électricité",
+   "image": "https://www.franceinfo.fr/pictures/mM6jTIyBt8d5iVfSPGVpUTYiJ4s/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/09/6af1fcca96ecc482306543.jpg",
    "date": null,
-   "pubdate": "2026-11-09T06:46:11.519337+00:00"
+   "pubdate": "2026-11-09T19:53:21.541654+00:00"
   },
   {
-   "title": "Sahara occidental : les conséquences du départ de l’ONU Aujourd'hui 2:57 vidéo 2 minutes 57",
-   "link": "https://www.franceinfo.fr/monde/afrique/maroc/sahara-occidental-les-consequences-du-depart-de-l-onu_8270687.html",
-   "summary": "Sahara occidental : les conséquences du départ de l’ONU",
-   "image": "https://www.franceinfo.fr/pictures/Hqxn0iDP9S94P_F8qUJPN2HqtpA/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/06/6aedaf3a54a03538414053.jpg",
+   "title": "\"Les Etats-Unis ont presque un droit de vie et de mort numérique sur chacun d'entre nous\", dénonce Nicolas Guillou, juge de la Cour pénale internationale sanctionné par Washington Aujourd'hui",
+   "link": "https://www.franceinfo.fr/internet/les-etats-unis-ont-presque-un-droit-de-vie-et-de-mort-numerique-sur-chacun-d-entre-nous-denonce-nicolas-guillou-juge-de-la-cour-penale-internationale-sanctionne-par-washington_8275049.html",
+   "summary": "\"Les Etats-Unis ont presque un droit de vie et de mort numérique sur chacun d'entre nous\", dénonce Nicolas Guillou, juge de la Cour pénale internationale sanctionné par Washington",
+   "image": "https://www.franceinfo.fr/pictures/UryttVjbPuhM7M66st7F4ljXjzA/0x0:8192x4608/432x243/filters:format(jpg)/2026/11/09/6af2134ba7f4b324804308.jpg",
    "date": null,
-   "pubdate": "2026-11-09T06:46:11.519337+00:00"
+   "pubdate": "2026-11-09T19:53:21.541654+00:00"
   },
   {
-   "title": ": Reportage \"Tout le monde est malade\" : à Elbistan, l'extraction du charbon brise les vies des habitants, loin des promesses de la Turquie avant la COP31 : Reportage 8:00 article 8 minutes",
-   "link": "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/reportage-tout-le-monde-est-malade-a-elbistan-l-extraction-du-charbon-brise-les-vies-des-habitants-loin-des-promesses-de-la-turquie-avant-la-cop31_8268068.html",
-   "summary": "\"Tout le monde est malade\" : à Elbistan, l'extraction du charbon brise les vies des habitants, loin des promesses de la Turquie avant la COP31",
-   "image": "https://www.franceinfo.fr/pictures/5UpfkX797QceR__PCjmJGqacvD4/0x598:5745x3830/432x243/filters:format(jpg)/2026/11/04/6aeb8737908e7222497953.jpg",
+   "title": "Truffe blanche vendue 100 000 € aux enchères Aujourd'hui 1:21 vidéo 1 minute 21",
+   "link": "https://www.franceinfo.fr/monde/italie/truffe-blanche-vendue-100-000-aux-encheres_8274923.html",
+   "summary": "Truffe blanche vendue 100 000 € aux enchères",
+   "image": "https://www.franceinfo.fr/pictures/AUcN_jCF4giz1MGhqqclA4LIITA/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/09/6af1fe839c400840531718.png",
    "date": null,
-   "pubdate": "2026-11-09T06:46:11.519337+00:00"
+   "pubdate": "2026-11-09T19:53:21.541654+00:00"
+  },
+  {
+   "title": "Invisibles et stratégiques, l'enjeu des câbles sous-marins Aujourd'hui 1:52 vidéo 1 minute 52",
+   "link": "https://www.franceinfo.fr/internet/invisibles-et-strategiques-l-enjeu-des-cables-sous-marins_8274971.html",
+   "summary": "Invisibles et stratégiques, l'enjeu des câbles sous-marins",
+   "image": "https://www.franceinfo.fr/pictures/Qe_sDMDqIeiGMYU5g9iLzvB3tPw/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/09/6af2051f2c8c7894463038.jpg",
+   "date": null,
+   "pubdate": "2026-11-09T19:53:21.541654+00:00"
+  },
+  {
+   "title": "Guerre en Ukraine : la coalition des volontaires lance un exercice grandeur nature inédit en Pologne Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-la-coalition-des-volontaires-lance-un-exercice-grandeur-nature-inedit-en-pologne_8274764.html",
+   "summary": "Guerre en Ukraine : la coalition des volontaires lance un exercice grandeur nature inédit en Pologne",
+   "image": "https://www.franceinfo.fr/pictures/qfMJa5wejsPJ81OzLfrBo_TmNik/0x53:1024x629/432x243/filters:format(jpg)/2026/11/09/6af1f29e5f37b185090376.jpg",
+   "date": null,
+   "pubdate": "2026-11-09T19:53:21.541654+00:00"
+  },
+  {
+   "title": "La France accuse l'Iran de la cyberattaque contre des frigos de supermarchés, une unité des Gardiens de la Révolution visée par une enquête Aujourd'hui",
+   "link": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/cyberattaque-contre-des-frigos-de-supermarches-le-parquet-de-paris-ouvre-une-enquete-visant-une-unite-des-gardiens-de-la-revolution-iraniens_8274806.html",
+   "summary": "La France accuse l'Iran de la cyberattaque contre des frigos de supermarchés, une unité des Gardiens de la Révolution visée par une enquête",
+   "image": "https://www.franceinfo.fr/pictures/s0K9roCldnersCx9JUb1KMj0wN0/0x0:1024x576/432x243/filters:format(jpg)/2026/11/09/6af1f29cea26a294292620.jpg",
+   "date": null,
+   "pubdate": "2026-11-09T19:53:21.541654+00:00"
+  },
+  {
+   "title": "Le comédien britannique Russell Brand condamné à dix ans de prison pour viol et agressions sexuelles Aujourd'hui",
+   "link": "https://www.franceinfo.fr/societe/justice/le-comedien-britannique-russell-brand-condamne-a-dix-ans-de-prison-pour-viol-et-agressions-sexuelles_8274767.html",
+   "summary": "Le comédien britannique Russell Brand condamné à dix ans de prison pour viol et agressions sexuelles",
+   "image": "https://www.franceinfo.fr/pictures/RwY5x3C0LlPUBLfxYq9DeuZ6k5A/0x0:1024x576/432x243/filters:format(jpg)/2026/11/09/6af1eedca20ee114516653.jpg",
+   "date": null,
+   "pubdate": "2026-11-09T19:53:21.541654+00:00"
+  },
+  {
+   "title": "\"Nous dormions quand la pluie a commencé à tomber\" : à Gaza, des réfugiés témoignent après un déluge mortel Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/palestine/gaza/nous-dormions-quand-la-pluie-a-commence-a-tomber-a-gaza-des-refugies-temoignent-apres-un-deluge-mortel_8274725.html",
+   "summary": "\"Nous dormions quand la pluie a commencé à tomber\" : à Gaza, des réfugiés témoignent après un déluge mortel",
+   "image": "https://www.franceinfo.fr/pictures/1OjzN54vJf3PVD-g5_MdoGGrrQ4/0x53:1024x629/432x243/filters:format(jpg)/2026/11/09/6af1eaa44bf06161527667.jpg",
+   "date": null,
+   "pubdate": "2026-11-09T19:53:21.541654+00:00"
+  },
+  {
+   "title": "Un séisme de magnitude 5,7 dans le centre du Japon fait plusieurs blessés Aujourd'hui vidéo",
+   "link": "https://www.franceinfo.fr/monde/japon/un-seisme-de-magnitude-5-7-dans-le-centre-du-japon-fait-plusieurs-blesses_8274590.html",
+   "summary": "Un séisme de magnitude 5,7 dans le centre du Japon fait plusieurs blessés",
+   "image": "https://www.franceinfo.fr/pictures/49qWuUBHJwAzjOkocma97tHMOPI/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/09/6af1cc450e93b815931855.png",
+   "date": null,
+   "pubdate": "2026-11-09T19:53:21.541654+00:00"
+  },
+  {
+   "title": ": Reportage \"Tout média jouissant d'une grande popularité doit être sous la coupe du Kremlin\" : comment Poutine a fait taire la presse indépendante en Russie : Reportage 6:00 article 6 minutes",
+   "link": "https://www.franceinfo.fr/monde/russie/reportage-tout-media-jouissant-d-une-grande-popularite-doit-etre-sous-la-coupe-du-kremlin-comment-poutine-a-fait-taire-la-presse-independante-en-russie_8274161.html",
+   "summary": "\"Tout média jouissant d'une grande popularité doit être sous la coupe du Kremlin\" : comment Poutine a fait taire la presse indépendante en Russie",
+   "image": "https://www.franceinfo.fr/pictures/wgLEq15ZaB2vlk03x5CnatBhoFI/0x0:2000x1125/432x243/filters:format(jpg)/2026/11/09/6af187cfcd335944895649.jpg",
+   "date": null,
+   "pubdate": "2026-11-09T19:53:21.541654+00:00"
+  },
+  {
+   "title": "Midterms 2026 : l'essentiel des élections de mi-mandat 28 contenus",
+   "link": "https://www.franceinfo.fr/monde/usa/midterms-2018/midterms-2026-l-essentiel-des-elections-de-mi-mandat/",
+   "summary": "Midterms 2026 : l'essentiel des élections de mi-mandat",
+   "image": "https://www.franceinfo.fr/pictures/brT3BkVaFOL26KI_ApRVmr8Jytk/432x297/filters:format(jpg)/2026/10/29/6ae37a1b0991c168765960.jpg",
+   "date": null,
+   "pubdate": "2026-11-09T19:53:21.541654+00:00"
+  },
+  {
+   "title": ": Replay \"Trump : quand l'Amérique dit stop\" : regardez le documentaire consacré aux midterms et à leurs conséquences : Replay 13:54 vidéo 13 minutes 54",
+   "link": "https://www.franceinfo.fr/monde/usa/midterms-2018/direct-trump-quand-l-amerique-dit-stop-regardez-le-documentaire-consacre-aux-midterms-et-a-leurs-consequences_8270936.html",
+   "summary": "\"Trump : quand l'Amérique dit stop\" : regardez le documentaire consacré aux midterms et à leurs conséquences",
+   "image": "https://www.franceinfo.fr/pictures/11DRsp2vZVKReYlokw1KJgVOAEs/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/07/6aeee1636a043149436112.jpg",
+   "date": null,
+   "pubdate": "2026-11-09T19:53:21.541654+00:00"
+  },
+  {
+   "title": "Scandales de corruption, accidents de trains... Comment le ministère des Transports est devenu le cauchemar du chef du gouvernement espagnol, Pedro Sanchez Alors que le réseau ferroviaire espagnol a enregistré trois accidents mortels en un an, le ministère des Transports a été secoué par un vaste scandale qui a notamment impliqué un ministre. La RTVE, média public espagnol, revient sur ces différentes affaires. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/espagne/scandales-de-corruption-accidents-de-trains-comment-le-ministere-des-transports-est-devenu-le-cauchemar-du-chef-du-gouvernement-espagnol-pedro-sanchez_8274596.html",
+   "summary": "Scandales de corruption, accidents de trains... Comment le ministère des Transports est devenu le cauchemar du chef du gouvernement espagnol, Pedro Sanchez",
+   "image": "https://www.franceinfo.fr/pictures/LHTx5lxJT5Q8NIq6sBV9QqyldWc/0x0:1024x576/432x243/filters:format(jpg)/2026/11/09/6af1e3004d33c916127067.jpg",
+   "date": null,
+   "pubdate": "2026-11-09T19:53:21.541654+00:00"
+  },
+  {
+   "title": "Le prix de référence du gaz augmentera encore en décembre, de 5,8% \"On subit un prix de marché international, on importe 95% de notre gaz\", a déclaré Emmanuelle Wargon, la présidente de la CRE, qui fixe cette valeur repère suivie par une partie des contrats. Sa hausse \"reflète le fait qu'il y a moins d'offre depuis la crise dans le détroit d'Ormuz\". Aujourd'hui",
+   "link": "https://www.franceinfo.fr/environnement/energie/le-prix-de-reference-du-gaz-augmentera-encore-en-decembre-de-5-8_8274680.html",
+   "summary": "Le prix de référence du gaz augmentera encore en décembre, de 5,8%",
+   "image": "https://www.franceinfo.fr/pictures/hfsLVsS4uQZyhKmFXBkItiJMq5s/0x40:1024x616/432x243/filters:format(jpg)/2026/11/09/6af1dd17655b4314346204.jpg",
+   "date": null,
+   "pubdate": "2026-11-09T19:53:21.541654+00:00"
+  },
+  {
+   "title": "\"Depuis qu'il fait froid, les Russes frappent violemment la centrale électrique\" : les habitants de Dnipro s'apprêtent à vivre leur \"pire hiver\" En Ukraine, il est devenu particulièrement dangereux d'habiter à proximité d'une centrale électrique. La Russie a encore frappé ce week-end des installations énergétiques, à la veille de pourparlers qui débutent mardi à Abu Dhabi. Reportage dans la grande ville de Dnipro, dans le sud-est du pays. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/depuis-qu-il-fait-froid-les-russes-frappent-violemment-la-centrale-electrique-les-habitants-de-dnipro-s-appretent-a-vivre-leur-pire-hiver_8274572.html",
+   "summary": "\"Depuis qu'il fait froid, les Russes frappent violemment la centrale électrique\" : les habitants de Dnipro s'apprêtent à vivre leur \"pire hiver\"",
+   "image": "https://www.franceinfo.fr/pictures/F01FNFQU9SjBKCcegVzPoNR0miA/0x57:1024x633/432x243/filters:format(jpg)/2026/11/09/6af1d2c9734c4250140326.jpg",
+   "date": null,
+   "pubdate": "2026-11-09T19:53:21.541654+00:00"
+  },
+  {
+   "title": "Le constructeur automobile chinois BYD accusé de contrefaçon par Land Rover Le groupe britannique accuse le constructeur chinois d'avoir copié son emblématique Defender pour concevoir le SUV Ti7. Le litige doit être examiné par un tribunal de La Haye, après une saisie de documents dans les bureaux néerlandais du groupe chinois. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/economie/automobile/le-constructeur-automobile-chinois-byd-accuse-de-contrefacon-par-land-rover_8274491.html",
+   "summary": "Le constructeur automobile chinois BYD accusé de contrefaçon par Land Rover",
+   "image": "https://www.franceinfo.fr/pictures/WW0wcfTiGZRqODNTResoQ7tV6Wc/0x224:4300x2643/432x243/filters:format(jpg)/2025/02/19/maxnewsfrfive503242-67b5ac721fe36694744738.jpg",
+   "date": null,
+   "pubdate": "2026-11-09T19:53:21.541654+00:00"
+  },
+  {
+   "title": "Guerre en Ukraine : le Canada annonce des sanctions supplémentaires contre la Russie Le Canada cible en particulier la base industrielle de défense avec des sanctions contre \"des acteurs impliqués dans le développement de la technologie des missiles balistiques et dans les activités cyber de la Russie\". Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-le-canada-annonce-des-sanctions-supplementaires-contre-la-russie_8274593.html",
+   "summary": "Guerre en Ukraine : le Canada annonce des sanctions supplémentaires contre la Russie",
+   "image": "https://www.franceinfo.fr/pictures/nYmXk5aooR4IQkwDpdL5-1RCu7c/0x157:1024x733/432x243/filters:format(jpg)/2026/11/09/6af1cde7e3cc6868304932.jpg",
+   "date": null,
+   "pubdate": "2026-11-09T19:53:21.541654+00:00"
+  },
+  {
+   "title": "Une histoire d'adultère secoue le géant de la tech Nvidia : son patron, Jensen Huang est soupçonné d'une liaison avec une espionne chinoise Le conseil d'administration du géant des semi-conducteurs, acteur majeur de l'écosystème de l'intelligence artificielle, a annoncé dimanche l'ouverture d'une enquête indépendante sur son fondateur. Jensen Huang, reconnaît avoir eu une relation extraconjugale. Aujourd'hui 2:56 audio 2 minutes 56",
+   "link": "https://www.franceinfo.fr/replay-radio/histoire-du-jour/une-histoire-d-adultere-secoue-le-geant-de-la-tech-nvidia-son-patron-jensen-huang-est-soupconne-d-une-liaison-avec-une-espionne-chinoise_8274065.html",
+   "summary": "Une histoire d'adultère secoue le géant de la tech Nvidia : son patron, Jensen Huang est soupçonné d'une liaison avec une espionne chinoise",
+   "image": "https://www.franceinfo.fr/pictures/tW0n96BfwSekjJxras__3nXEYz8/0x53:1024x629/432x243/filters:format(jpg)/2026/11/09/6af18e126d64b066211281.jpg",
+   "date": null,
+   "pubdate": "2026-11-09T19:53:21.541654+00:00"
+  },
+  {
+   "title": "Qui pour succéder à Christine Lagarde à la présidence de la Banque centrale européenne ? La succession de Christine Lagarde à Francfort va se jouer entre le Néerlandais Klaas Knot et l'Espagnol Pablo Hernández de Cos, les deux candidats officiellement en lice pour remplacer la présidente de la Banque centrale européenne (BCE), qui a annoncé fin octobre son départ anticipé de l'institution monétaire. Aujourd'hui 2:57 audio 2 minutes 57",
+   "link": "https://www.franceinfo.fr/replay-radio/le-brief-eco/qui-pour-succeder-a-christine-lagarde-a-la-presidence-de-la-banque-centrale-europeenne_8253664.html",
+   "summary": "Qui pour succéder à Christine Lagarde à la présidence de la Banque centrale européenne ?",
+   "image": "https://www.franceinfo.fr/pictures/NquNaX7RY4rZ34ov_jlY18RE5yw/0x0:4930x2773/432x243/filters:format(jpg)/2026/11/09/6af17346b632d123206079.jpg",
+   "date": null,
+   "pubdate": "2026-11-09T19:53:21.541654+00:00"
+  },
+  {
+   "title": "Donald Trump reconnaît que la politique d'expulsions d'immigrés de son administration est \"trop dure\" La déclaration du président américain intervient quelques jours après la débâcle de son camp lors des élections de mi-mandat. Il n'a cependant pas précisé s'il entendait modifier son approche en la matière. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-reconnait-une-politique-d-expulsions-d-immigres-trop-dure_8274197.html",
+   "summary": "Donald Trump reconnaît que la politique d'expulsions d'immigrés de son administration est \"trop dure\"",
+   "image": "https://www.franceinfo.fr/pictures/Q9vFpJ73udtsfgnRDKsWP6gW9k0/0x0:1024x576/432x243/filters:format(jpg)/2026/11/09/6af1853045332432412694.jpg",
+   "date": null,
+   "pubdate": "2026-11-09T19:53:21.541654+00:00"
+  },
+  {
+   "title": ": Podcast Santé mentale mise à l'épreuve par les blocus, nouvelle COP et \"blague\" de Donald Trump : ça dit quoi ce 9 novembre ? Ce lundi 9 novembre, les blocus des universités ravivent de mauvais souvenirs de confinement, la COP 31 s'ouvre en Turquie et Donald Trump a annoncé vouloir nommer Dana White porte-parole de la Maison blanche, avant de rétropédaler. Aujourd'hui : Podcast 5:58 audio 5 minutes 58",
+   "link": "https://www.franceinfo.fr/replay-radio/ca-dit-quoi/podcast-sante-mentale-mise-a-l-epreuve-par-les-blocus-nouvelle-cop-et-blague-de-donald-trump-ca-dit-quoi-ce-9-novembre_8264843.html",
+   "summary": "Santé mentale mise à l'épreuve par les blocus, nouvelle COP et \"blague\" de Donald Trump : ça dit quoi ce 9 novembre ?",
+   "image": "https://www.franceinfo.fr/pictures/M3Gb_yJAFCa1NH0n0EhetfGlu8Q/0x233:5540x3347/432x243/filters:format(jpg)/2025/07/04/000-49l62j9-6867b7d8a80bf418868774.jpg",
+   "date": null,
+   "pubdate": "2026-11-09T19:53:21.541654+00:00"
+  },
+  {
+   "title": "Vingt migrants retrouvés morts sur deux embarcations au large de la Crète Cette île grecque est l'un des principaux points d'entrée dans l'Union européenne des migrants. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/europe/migrants/huit-personnes-sont-mortes-dans-le-naufrage-d-une-embarcation-de-migrants-au-large-de-la-grece_8274113.html",
+   "summary": "Vingt migrants retrouvés morts sur deux embarcations au large de la Crète",
+   "image": "https://www.franceinfo.fr/pictures/Gfm6VchzvgRgLPhSBVJx6vb0CXw/0x87:1024x663/432x243/filters:format(jpg)/2026/11/09/6af170e715ff3343724942.jpg",
+   "date": null,
+   "pubdate": "2026-11-09T19:53:21.541654+00:00"
   },
   {
    "title": "Léon XIV en France : l'essentiel de la visite du pape 15 contenus",
@@ -92,52 +242,12 @@
    "pubdate": "2026-11-09T06:46:11.519337+00:00"
   },
   {
-   "title": "Le géant de la tech Nvidia lance une enquête interne sur son patron, qui a entretenu une relation avec une femme soupçonnée d'être une espionne chinoise 8 novembre",
-   "link": "https://www.franceinfo.fr/internet/le-geant-de-la-tech-nvidia-lance-une-enquete-interne-sur-son-patron-qui-a-entretenu-une-relation-avec-une-femme-soupconnee-d-etre-une-espionne-chinoise_8273777.html",
-   "summary": "Le géant de la tech Nvidia lance une enquête interne sur son patron, qui a entretenu une relation avec une femme soupçonnée d'être une espionne chinoise",
-   "image": "https://www.franceinfo.fr/pictures/vznY3SoeRXYadVjF-bKItHaBov0/0x0:3846x2163/432x243/filters:format(jpg)/2026/11/08/6af0ec0ae9607734739680.jpg",
+   "title": ": Reportage \"Tout le monde est malade\" : à Elbistan, l'extraction du charbon brise les vies des habitants, loin des promesses de la Turquie avant la COP31 : Reportage 8:00 article 8 minutes",
+   "link": "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/reportage-tout-le-monde-est-malade-a-elbistan-l-extraction-du-charbon-brise-les-vies-des-habitants-loin-des-promesses-de-la-turquie-avant-la-cop31_8268068.html",
+   "summary": "\"Tout le monde est malade\" : à Elbistan, l'extraction du charbon brise les vies des habitants, loin des promesses de la Turquie avant la COP31",
+   "image": "https://www.franceinfo.fr/pictures/5UpfkX797QceR__PCjmJGqacvD4/0x598:5745x3830/432x243/filters:format(jpg)/2026/11/04/6aeb8737908e7222497953.jpg",
    "date": null,
-   "pubdate": "2026-11-08T22:01:09.189098+00:00"
-  },
-  {
-   "title": "La guerre des câbles sous-marins : \"les premières étapes d'une attaque de plus grande ampleur\" 8 novembre 2:26 vidéo 2 minutes 26",
-   "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/la-guerre-des-cables-sous-marins-les-premieres-etapes-d-une-attaque-de-plus-grande-ampleur_8273729.html",
-   "summary": "La guerre des câbles sous-marins : \"les premières étapes d'une attaque de plus grande ampleur\"",
-   "image": "https://www.franceinfo.fr/pictures/Frxyyjy0yuBtQjK4Awngi9HAtj0/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/08/6af0d70a0859e430600611.jpg",
-   "date": null,
-   "pubdate": "2026-11-08T22:01:09.189098+00:00"
-  },
-  {
-   "title": "En Egypte, une collision de deux trains fait au moins sept morts et une centaine de blessés 8 novembre",
-   "link": "https://www.franceinfo.fr/monde/afrique/egypte/en-egypte-une-collision-de-deux-trains-fait-au-moins-sept-morts-et-une-centaine-de-blesses_8273720.html",
-   "summary": "En Egypte, une collision de deux trains fait au moins sept morts et une centaine de blessés",
-   "image": "https://www.franceinfo.fr/pictures/53eAt83vk7Oa-KwnpV1gSbEQ0_Q/0x46:1024x622/432x243/filters:format(jpg)/2026/11/08/6af0d3c61cf6e580341440.jpg",
-   "date": null,
-   "pubdate": "2026-11-08T22:01:09.189098+00:00"
-  },
-  {
-   "title": "Donald Trump juge \"très improbable\" une reprise de la guerre contre l'Iran pour le moment 8 novembre",
-   "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/donald-trump-juge-tres-improbable-une-reprise-de-la-guerre-contre-l-iran-pour-le-moment_8273696.html",
-   "summary": "Donald Trump juge \"très improbable\" une reprise de la guerre contre l'Iran pour le moment",
-   "image": "https://www.franceinfo.fr/pictures/AzTVw6lug4MdK3EfgTDe21KHXlY/0x63:1024x639/432x243/filters:format(jpg)/2026/11/08/6af0cfda284d3322669044.jpg",
-   "date": null,
-   "pubdate": "2026-11-08T22:01:09.189098+00:00"
-  },
-  {
-   "title": "Attentat en Pologne : \"J'ai vu des personnes tomber à un mètre de moi\", une témoin raconte 8 novembre 2:33 vidéo 2 minutes 33",
-   "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/attentat-en-pologne-j-ai-vu-des-personnes-tomber-a-un-metre-de-moi-une-temoin-raconte_8273690.html",
-   "summary": "Attentat en Pologne : \"J'ai vu des personnes tomber à un mètre de moi\", une témoin raconte",
-   "image": "https://www.franceinfo.fr/pictures/eyhFt2XWoVAwlBvSCLbsWYUmPV4/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/08/6af0cdf89f6b8111463247.jpg",
-   "date": null,
-   "pubdate": "2026-11-08T22:01:09.189098+00:00"
-  },
-  {
-   "title": "\"Ce n'est pas une vie\" : la détresse des réfugiés de Gaza inondés par les pluies 8 novembre 1:31 vidéo 1 minute 31",
-   "link": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/ce-n-est-pas-une-vie-la-detresse-des-refugies-de-gaza-inondes-par-les-pluies_8273663.html",
-   "summary": "\"Ce n'est pas une vie\" : la détresse des réfugiés de Gaza inondés par les pluies",
-   "image": "https://www.franceinfo.fr/pictures/fG3coCildvAGGfmJ4s89XHLMaiI/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/08/6af0bdedc626a528303466.jpg",
-   "date": null,
-   "pubdate": "2026-11-08T22:01:09.189098+00:00"
+   "pubdate": "2026-11-09T06:46:11.519337+00:00"
   },
   {
    "title": "Visite exclusive de l'une des plus grandes plateformes d'extraction de gaz au monde gérée par Total 7:19 vidéo 7 minutes 19",
@@ -146,134 +256,6 @@
    "image": "https://www.franceinfo.fr/pictures/60nR6sy5swxWhcpQ8ja2MqzVd3U/39x0:1231x670/432x243/filters:format(jpg)/2026/11/04/6aeb905915121268755850.jpg",
    "date": null,
    "pubdate": "2026-11-08T22:01:09.189098+00:00"
-  },
-  {
-   "title": "Pouvoir d'achat, prix du carburant... Ces Américains expliquent le \"Blue-nami\", cette \"vague bleue\" aux midterms 2026 qui déstabilise Donald Trump 7:42 audio 7 minutes 42",
-   "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/pouvoir-d-achat-prix-du-carburant-ces-americains-expliquent-le-blunami-cette-vague-bleue-aux-midterms-2026-qui-destabilise-donald-trump_8246506.html",
-   "summary": "Pouvoir d'achat, prix du carburant... Ces Américains expliquent le \"Blue-nami\", cette \"vague bleue\" aux midterms 2026 qui déstabilise Donald Trump",
-   "image": "https://www.franceinfo.fr/pictures/AkYh3weX8R2nkJ3a7FbsGXaL2ls/0x285:5472x3363/432x243/filters:format(jpg)/2026/11/04/6aeaeff3e2db7183174731.jpg",
-   "date": null,
-   "pubdate": "2026-11-08T22:01:09.189098+00:00"
-  },
-  {
-   "title": "Qui est Gadi Eisenkot, le possible successeur de Benyamin Nétanyahou ? 8 novembre 1:52 vidéo 1 minute 52",
-   "link": "https://www.franceinfo.fr/monde/israel/qui-est-gadi-eisenkot-le-possible-successeur-de-benyamin-netanyahou_8273612.html",
-   "summary": "Qui est Gadi Eisenkot, le possible successeur de Benyamin Nétanyahou ?",
-   "image": "https://www.franceinfo.fr/pictures/sn1J2jBWHVNtRHOxopEDZI5T9Q8/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/08/6af0b3f3d7f8f334210970.jpg",
-   "date": null,
-   "pubdate": "2026-11-08T17:57:41.144057+00:00"
-  },
-  {
-   "title": "Après la victoire démocrate, le \"tout pétrole\" va-t-il être remis en cause aux États-Unis ? Sous sa présidence, Donald Trump a favorisé les compagnies pétrolières. La vague bleue au Congrès américain fera-t-elle bouger les lignes ? 8 novembre 2:41 audio 2 minutes 41",
-   "link": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/apres-la-victoire-democrate-le-tout-petrole-va-t-il-etre-remis-en-cause-aux-etats-unis_8232076.html",
-   "summary": "Après la victoire démocrate, le \"tout pétrole\" va-t-il être remis en cause aux États-Unis ?",
-   "image": "https://www.franceinfo.fr/pictures/NeqlRGwjBh25MG8CurBvi2RVGj8/0x15:5182x2930/432x243/filters:format(jpg)/2026/11/08/6af056612401e828923368.jpg",
-   "date": null,
-   "pubdate": "2026-11-08T17:57:41.144057+00:00"
-  },
-  {
-   "title": "En Israël, Gadi Eisenkot affirme que le Likoud, parti de Benyamin Nétanyahou, est bienvenu pour former une coalition gouvernementale Le président israélien a officiellement remis dimanche à Gadi Eisenkot, chef du principal bloc d'opposition, le mandat de former le prochain gouvernement. 8 novembre",
-   "link": "https://www.franceinfo.fr/monde/israel/en-israel-gadi-eisenkot-affirme-que-le-likoud-parti-de-benyamin-netanyahou-est-bienvenu-pour-former-une-coalition-gouvernementale_8273507.html",
-   "summary": "En Israël, Gadi Eisenkot affirme que le Likoud, parti de Benyamin Nétanyahou, est bienvenu pour former une coalition gouvernementale",
-   "image": "https://www.franceinfo.fr/pictures/cJKpS-vA0jbWlRmFqUlQVmhe9Fo/0x46:1024x622/432x243/filters:format(jpg)/2026/11/08/6af09a12d797a775922896.jpg",
-   "date": null,
-   "pubdate": "2026-11-08T17:57:41.144057+00:00"
-  },
-  {
-   "title": "Dans la bande de Gaza, des dizaines de milliers de déplacés privés d'abri à cause de pluies diluviennes Environ \"70 000 tentes abritant des dizaines de milliers de personnes déplacées ont été inondées\", ont déclaré samedi les autorités locales. 8 novembre",
-   "link": "https://www.franceinfo.fr/monde/palestine/gaza/dans-la-bande-de-gaza-des-milliers-de-deplaces-prives-d-abri-a-cause-d-importantes-intemperies_8273447.html",
-   "summary": "Dans la bande de Gaza, des dizaines de milliers de déplacés privés d'abri à cause de pluies diluviennes",
-   "image": "https://www.franceinfo.fr/pictures/dKKMz8Xu4Xde9wpRTHqcPeUQurY/0x0:1024x576/432x243/filters:format(jpg)/2026/11/08/6af09144b19f8770714553.jpg",
-   "date": null,
-   "pubdate": "2026-11-08T17:57:41.144057+00:00"
-  },
-  {
-   "title": "La victoire des démocrates est un \"gigantesque pas en arrière dans l'histoire\" des Etats-Unis, affirme Donald Trump Les élections de mi-mandat ont été marquées par une vague bleue, dont l'ampleur a sidéré les observateurs et assommé les républicains. 8 novembre",
-   "link": "https://www.franceinfo.fr/monde/usa/midterms-2018/la-victoire-des-democrates-est-un-gigantesque-pas-en-arriere-dans-l-histoire-des-etats-unis-affirme-donald-trump_8273432.html",
-   "summary": "La victoire des démocrates est un \"gigantesque pas en arrière dans l'histoire\" des Etats-Unis, affirme Donald Trump",
-   "image": "https://www.franceinfo.fr/pictures/iHWoqPgtIizaMLfbkyxTkTYA30M/0x53:1024x629/432x243/filters:format(jpg)/2026/11/08/6af089c281983560200684.jpg",
-   "date": null,
-   "pubdate": "2026-11-08T17:57:41.144057+00:00"
-  },
-  {
-   "title": "Six personnes abattues dans la rue, un suspect aux idées \"ultranationalistes\", trois corps retrouvés chez lui... Ce que l'on sait de l'attentat en Pologne En plus des six victimes tuées par l'assaillant dans le centre de Cracovie, trois personnes ont été retrouvées mortes à son domicile. Le suspect est un jeune homme \"fasciné\" par les idées d'extrême droite, selon les autorités. 8 novembre",
-   "link": "https://www.franceinfo.fr/monde/europe/ce-que-l-on-sait-de-l-attentat-en-pologne-qui-a-fait-six-morts-et-quinze-blesses-dans-le-centre-de-cracovie_8273087.html",
-   "summary": "Six personnes abattues dans la rue, un suspect aux idées \"ultranationalistes\", trois corps retrouvés chez lui... Ce que l'on sait de l'attentat en Pologne",
-   "image": "https://www.franceinfo.fr/pictures/pnaNfaLlUJw20QZShLj2Ku5do4s/0x410:7880x4842/432x243/filters:format(jpg)/2026/11/08/6af0408e9c290691697674.jpg",
-   "date": null,
-   "pubdate": "2026-11-08T17:57:41.144057+00:00"
-  },
-  {
-   "title": "Un réseau de 14 ports mondiaux va être lancé pour lutter contre le narcotrafic Le but est de \"traquer les cargaisons, grâce à des outils comme l'intelligence artificielle\", a expliqué dimanche le ministre des Affaires étrangères, Jean-Noël Barrot. 8 novembre",
-   "link": "https://www.franceinfo.fr/societe/drogue/un-reseau-de-quatorze-ports-va-etre-lance-pour-lutter-contre-le-narcotrafic_8273384.html",
-   "summary": "Un réseau de 14 ports mondiaux va être lancé pour lutter contre le narcotrafic",
-   "image": "https://www.franceinfo.fr/pictures/0O3Riz3elk6q7fvcnblnCeJd2gU/0x106:1024x682/432x243/filters:format(jpg)/2026/11/08/6af07ab9d7783797543611.jpg",
-   "date": null,
-   "pubdate": "2026-11-08T17:57:41.144057+00:00"
-  },
-  {
-   "title": ": Reportage \"La seule option est un gouvernement de gauche avec nous\" : en Israël, les citoyens arabes espèrent être représentés dans le prochain gouvernement Dans le désert du Néguev, les habitants bédouins dénoncent les discriminations et les expulsions dont ils sont victimes. Après quatre ans de politique menée par l'extrême droite, ils espèrent que les élections permettront de changer leur quotidien. 8 novembre : Reportage",
-   "link": "https://www.franceinfo.fr/monde/israel/reportage-la-seule-option-est-un-gouvernement-de-gauche-avec-nous-en-israel-les-citoyens-arabes-esperent-etre-representes-dans-le-prochain-gouvernement_8273099.html",
-   "summary": "\"La seule option est un gouvernement de gauche avec nous\" : en Israël, les citoyens arabes espèrent être représentés dans le prochain gouvernement",
-   "image": "https://www.franceinfo.fr/pictures/NeG9qNWS6ZG65r7Od5CDheNtgOA/0x0:4000x2250/432x243/filters:format(jpg)/2026/11/08/6af0819b49063151724264.jpg",
-   "date": null,
-   "pubdate": "2026-11-08T17:57:41.144057+00:00"
-  },
-  {
-   "title": "Les Européens, dont la France, seront \"représentés\" lors des négociations sur l'Ukraine à Abu Dhabi, rapporte le ministre des Affaires étrangères Invité dimanche de RTL-Public Sénat, Jean-Noël Barrot n'a pas précisé qui représenterait Paris durant ces pourparlers, qui doivent se dérouler les 10 et 11 novembre. 8 novembre",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-les-europeens-dont-la-france-seront-representes-lors-des-negociations-a-abu-dhabi-rapporte-le-ministre-des-affaires-etrangeres_8273333.html",
-   "summary": "Les Européens, dont la France, seront \"représentés\" lors des négociations sur l'Ukraine à Abu Dhabi, rapporte le ministre des Affaires étrangères",
-   "image": "https://www.franceinfo.fr/pictures/Md27i77o5N-x97EM1hPAjSxZrnk/0x59:1024x635/432x243/filters:format(jpg)/2026/11/08/6af06889d78f8298228587.jpg",
-   "date": null,
-   "pubdate": "2026-11-08T17:57:41.144057+00:00"
-  },
-  {
-   "title": "La mission d'Israël en Iran n'est \"pas terminée\", prévient le ministre de la Défense de l'Etat hébreu Ces déclarations d'Israël Katz interviennent alors que le chef du bloc de l'opposition, Gadi Eisenkot, a été chargé de former un gouvernement, ce qui pourrait mettre fin à l'ère du Premier ministre sortant, Benyamin Nétanyahou. 8 novembre",
-   "link": "https://www.franceinfo.fr/monde/conflit-israel-iran/la-mission-d-israel-en-iran-n-est-pas-terminee-previent-le-ministre-de-la-defense_8273243.html",
-   "summary": "La mission d'Israël en Iran n'est \"pas terminée\", prévient le ministre de la Défense de l'Etat hébreu",
-   "image": "https://www.franceinfo.fr/pictures/KuEnpB1ediVr8O2w5b_ZvRZEbPE/0x0:1024x576/432x243/filters:format(jpg)/2026/11/08/6af05f009906d039604152.jpg",
-   "date": null,
-   "pubdate": "2026-11-08T17:57:41.144057+00:00"
-  },
-  {
-   "title": "K-pop, chansons d'amour et beatboxing : l'Eurovision lance sa première édition en Asie Du Laos à la Mongolie en passant par les Philippines, 11 pays s'affronteront à Bangkok lors du Concours Eurovision Asie de la chanson. Les finalistes ont été sélectionnés à l'issue de concours nationaux. 8 novembre",
-   "link": "https://www.franceinfo.fr/culture/musique/k-pop-chansons-d-amour-et-beatboxing-l-eurovision-lance-sa-premiere-edition-en-asie_8273135.html",
-   "summary": "K-pop, chansons d'amour et beatboxing : l'Eurovision lance sa première édition en Asie",
-   "image": "https://www.franceinfo.fr/pictures/-vuITUAJv6dFd82fPFafDk6w774/96x0:933x471/432x243/filters:format(jpg)/2026/11/08/6af0518888ba5043109275.jpg",
-   "date": null,
-   "pubdate": "2026-11-08T17:57:41.144057+00:00"
-  },
-  {
-   "title": "Des centaines de milliers d'Ukrainiens se trouvent sans électricité après des frappes russes Les infrastructures énergétiques de deux régions ont été ciblées, celle de Dnipropetrovsk et de Kharkiv, dans la nuit de samedi à dimanche, après une attaque similaire la veille. 8 novembre",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/des-centaines-de-milliers-d-ukrainiens-se-trouvent-sans-electricite-apres-des-frappes-russes_8273186.html",
-   "summary": "Des centaines de milliers d'Ukrainiens se trouvent sans électricité après des frappes russes",
-   "image": "https://www.franceinfo.fr/pictures/rLP8iNV9y9dvjTuFBb1SNzNh8Ds/0x105:1024x681/432x243/filters:format(jpg)/2026/11/08/6af04afd9ed6b794206062.jpg",
-   "date": null,
-   "pubdate": "2026-11-08T10:30:12.629941+00:00"
-  },
-  {
-   "title": "Au large du Sénégal, au moins 35 personnes sont mortes dans le naufrage d'une pirogue de migrants Selon le bilan provisoire donné dimanche par les autorités du pays, un rescapé a été retrouvé. 8 novembre",
-   "link": "https://www.franceinfo.fr/monde/afrique/senegal/au-large-du-senegal-21-personnes-sont-mortes-dans-le-naufrage-d-une-pirogue-de-migrants_8273174.html",
-   "summary": "Au large du Sénégal, au moins 35 personnes sont mortes dans le naufrage d'une pirogue de migrants",
-   "image": "https://www.franceinfo.fr/pictures/tCpkSLAY-3nPXW6wKHgNZ1r8i2c/0x437:4200x2800/432x243/filters:format(jpg)/2026/11/08/6af046d6379ea647615467.jpg",
-   "date": null,
-   "pubdate": "2026-11-08T10:30:12.629941+00:00"
-  },
-  {
-   "title": "Un bâtiment d'Aramco à Riyad a été la cible d'une \"tentative\" d'attaque, affirme l'Arabie saoudite La coalition dirigée par l'Arabie saoudite avait annoncé plus tôt dimanche matin l'interception de deux missiles balistiques, tirés par les houthis et visant la capitale saoudienne. 8 novembre",
-   "link": "https://www.franceinfo.fr/monde/moyen-orient/un-batiment-d-aramco-a-riyad-a-ete-la-cible-d-une-tentative-d-attaque-affirme-l-arabie-saoudite_8273063.html",
-   "summary": "Un bâtiment d'Aramco à Riyad a été la cible d'une \"tentative\" d'attaque, affirme l'Arabie saoudite",
-   "image": "https://www.franceinfo.fr/pictures/oXngDDi_ADVcQbUutBZnWn_FIaw/0x39:1024x615/432x243/filters:format(jpg)/2026/11/08/6af041abf3e91645153993.jpg",
-   "date": null,
-   "pubdate": "2026-11-08T10:30:12.629941+00:00"
-  },
-  {
-   "title": "En Iran, trois hommes soupçonnés d'avoir agi pour Israël et les Etats-Unis vont être exécutés Depuis le début de l'année, les arrestations et les exécutions se sont multipliées dans le pays, en lien avec les manifestations antigouvernementales, puis la guerre déclenchée en février par des frappes israélo-américaines contre Téhéran. 8 novembre",
-   "link": "https://www.franceinfo.fr/monde/iran/en-iran-trois-hommes-soupconnes-d-avoir-agi-pour-israel-et-les-etats-unis-vont-etre-executes_8273084.html",
-   "summary": "En Iran, trois hommes soupçonnés d'avoir agi pour Israël et les Etats-Unis vont être exécutés",
-   "image": "https://www.franceinfo.fr/pictures/iJNR6jDr_HfoqC77mJmU2dtaQkI/0x33:1024x609/432x243/filters:format(jpg)/2026/11/08/6af030fb4ef43844991253.jpg",
-   "date": null,
-   "pubdate": "2026-11-08T10:30:12.629941+00:00"
   }
  ]
 }

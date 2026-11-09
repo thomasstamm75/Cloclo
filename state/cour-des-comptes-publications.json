@@ -1,20 +1,52 @@
 {
- "etag": "W/\"1794206773\"",
- "last_modified": "Mon, 09 Nov 2026 06:46:13 GMT",
+ "etag": "W/\"1794253832\"",
+ "last_modified": "Mon, 09 Nov 2026 19:50:32 GMT",
  "first_seen": {
-  "https://www.ccomptes.fr/fr/publications/les-unites-mixtes-de-recherche-umr": "2026-10-08T11:00:00+00:00",
-  "https://www.ccomptes.fr/fr/publications/lencadrement-des-loyers": "2026-10-14T11:00:00+00:00",
-  "https://www.ccomptes.fr/fr/publications/le-troisieme-cycle-des-etudes-de-medecine": "2026-10-14T11:00:00+00:00",
-  "https://www.ccomptes.fr/fr/publications/commune-de-grand-champ-morbihan-1": "2026-10-16T11:00:00+00:00",
   "https://www.ccomptes.fr/fr/publications/la-situation-financiere-de-la-securite-sociale-un-redressement-imperatif-en-2027": "2026-10-20T11:00:00+00:00",
   "https://www.ccomptes.fr/fr/publications/commune-de-capesterre-belle-eau-guadeloupe-14": "2026-10-22T11:00:00+00:00",
   "https://www.ccomptes.fr/fr/publications/les-outils-bureautiques-et-collaboratifs-au-sein-de-letat": "2026-10-22T11:00:00+00:00",
   "https://www.ccomptes.fr/fr/publications/le-plan-dinvestissement-france-2030": "2026-10-28T11:00:00+00:00",
   "https://www.ccomptes.fr/fr/publications/levolution-du-budget-du-ministere-de-la-culture-depuis-2015": "2026-11-03T11:00:00+00:00",
-  "https://www.ccomptes.fr/fr/publications/le-fonds-de-prevention-des-risques-naturels-majeurs-0": "2026-11-05T11:00:00+00:00"
+  "https://www.ccomptes.fr/fr/publications/le-fonds-de-prevention-des-risques-naturels-majeurs-0": "2026-11-05T11:00:00+00:00",
+  "https://www.ccomptes.fr/fr/publications/financement-des-indemnites-journalieres-des-professions-liberales": "2026-11-09T11:00:00+00:00",
+  "https://www.ccomptes.fr/fr/publications/contribution-au-retablissement-des-finances-publiques": "2026-11-09T11:00:00+00:00",
+  "https://www.ccomptes.fr/fr/publications/note-thematique-les-depenses-fiscales": "2026-11-09T11:00:00+00:00",
+  "https://www.ccomptes.fr/fr/publications/rapport-sur-les-credits-du-budget-de-letat-ouverts-par-decrets-davance": "2026-11-09T11:00:00+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "Financement des indemnités journalières des professions libérales",
+   "link": "https://www.ccomptes.fr/fr/publications/financement-des-indemnites-journalieres-des-professions-liberales",
+   "summary": "À l’occasion de la certification des comptes 2025 de la branche maladie du régime général de sécurité sociale, la Cour des comptes a examiné le financement du dispositif d’indemnités journalières des professions libérales, créé en 2021 pour permettre aux professionnels concernés de bénéficier d’une ...",
+   "image": "https://www.ccomptes.fr/sites/default/files/styles/teaser_182x98/public/2023-11/Fiscalite-du-logement-182x98.png?itok=O4sVQ4UW",
+   "date": "2026-11-09T11:00:00+00:00",
+   "pubdate": "2026-11-09T11:00:00+00:00"
+  },
+  {
+   "title": "Contribution au rétablissement des finances publiques",
+   "link": "https://www.ccomptes.fr/fr/publications/contribution-au-retablissement-des-finances-publiques",
+   "summary": "Dans le prolongement des alertes formulées dans son rapport La situation et les perspectives des finances publiques, publié en juin dernier, et alors que la dégradation des perspectives économiques renforce l'urgence du rétablissement des finances publiques, la Cour des comptes entend, à travers deu...",
+   "image": "https://www.ccomptes.fr/sites/default/files/styles/teaser_182x98/public/2024-10/Les-taxes-a-faible-rendement-182x98.jpg?itok=uZIMJAv0",
+   "date": "2026-11-09T11:00:00+00:00",
+   "pubdate": "2026-11-09T11:00:00+00:00"
+  },
+  {
+   "title": "Note thématique - Les dépenses fiscales",
+   "link": "https://www.ccomptes.fr/fr/publications/note-thematique-les-depenses-fiscales",
+   "summary": "La Cour des comptes publie des synthèses thématiques par grandes politiques publiques, utiles à nourrir le débat public. Ces notes identifient à la fois les principaux défis auxquels seront confrontés les décideurs publics au cours des prochaines années, et les leviers susceptibles de les relever. C...",
+   "image": "https://www.ccomptes.fr/sites/default/files/styles/teaser_182x98/public/2026-09/Notes%20structurelles-182x98.jpg?itok=s2UZMOhh",
+   "date": "2026-11-09T11:00:00+00:00",
+   "pubdate": "2026-11-09T11:00:00+00:00"
+  },
+  {
+   "title": "Rapport sur les crédits du budget de l'État ouverts par décrets d'avance",
+   "link": "https://www.ccomptes.fr/fr/publications/rapport-sur-les-credits-du-budget-de-letat-ouverts-par-decrets-davance",
+   "summary": "En application de l'article 58-6° de la loi organique relative aux lois de finances (LOLF), la Cour des comptes publie un rapport qui porte sur les mouvements de crédits effectués par les décrets d’avance du 11 juin 2026 et du 14 octobre 2026.",
+   "image": "https://www.ccomptes.fr/sites/default/files/styles/teaser_182x98/public/2026-11/decretsavance-dircom-Fotolia-182x98.jpg?itok=T8A9SiOK",
+   "date": "2026-11-09T11:00:00+00:00",
+   "pubdate": "2026-11-09T11:00:00+00:00"
+  },
   {
    "title": "Le fonds de prévention des risques naturels majeurs",
    "link": "https://www.ccomptes.fr/fr/publications/le-fonds-de-prevention-des-risques-naturels-majeurs-0",
@@ -62,38 +94,6 @@
    "image": "https://www.ccomptes.fr/sites/default/files/styles/teaser_182x98/public/2026-09/Situation-financiere-de-la-securite-sociale-182x98.jpg?itok=wuUPfKJr",
    "date": "2026-10-20T11:00:00+00:00",
    "pubdate": "2026-10-20T11:00:00+00:00"
-  },
-  {
-   "title": "Commune de Grand-Champ (Morbihan)",
-   "link": "https://www.ccomptes.fr/fr/publications/commune-de-grand-champ-morbihan-1",
-   "summary": "La procureure générale près la Cour des comptes avait renvoyé devant la Cour l’ancien maire de la commune de Grand-Champ ainsi qu’un chef d’entreprise, pour qu’il soit statué sur leur responsabilité au regard de l’infraction de gestion de fait prévue à l’article L. 131-15 du code desjuridictions fin...",
-   "image": "https://www.ccomptes.fr/sites/default/files/styles/teaser_182x98/public/2024-07/balance-182x98.jpg?itok=LL1Wvw-F",
-   "date": "2026-10-16T11:00:00+00:00",
-   "pubdate": "2026-10-16T11:00:00+00:00"
-  },
-  {
-   "title": "L'encadrement des loyers",
-   "link": "https://www.ccomptes.fr/fr/publications/lencadrement-des-loyers",
-   "summary": "Dans les grandes agglomérations, où la demande de logements reste forte face à une offre insuffisante, quels constats peut-on dresser de l’expérimentation sur l’encadrement des loyers ? À la demande de la commission des finances de l’Assemblée nationale, la Cour des comptes a examiné la mise en...",
-   "image": "https://www.ccomptes.fr/sites/default/files/styles/teaser_182x98/public/2024-08/Faut-il-taxer-davantage-les-loyers-des-meubles-182x98.jpg?itok=LcUZeNIm",
-   "date": "2026-10-14T11:00:00+00:00",
-   "pubdate": "2026-10-14T11:00:00+00:00"
-  },
-  {
-   "title": "Le troisième cycle des études de médecine",
-   "link": "https://www.ccomptes.fr/fr/publications/le-troisieme-cycle-des-etudes-de-medecine",
-   "summary": "La Cour des comptes a réalisé, à la demande de la commission des affaires sociales du Sénat, une enquête portant sur « le troisième cycle des études de médecine ». Menée par une formation interchambres de la Cour, elle a donné lieu à plus d’une centaine d’entretiens avec des représentants de l’ensem...",
-   "image": "https://www.ccomptes.fr/sites/default/files/styles/teaser_182x98/public/2024-12/Acces-aux-Etudes-de-sante-182x98.jpg?itok=3XiHKASM",
-   "date": "2026-10-14T11:00:00+00:00",
-   "pubdate": "2026-10-14T11:00:00+00:00"
-  },
-  {
-   "title": "Les unités mixtes de recherche (UMR)",
-   "link": "https://www.ccomptes.fr/fr/publications/les-unites-mixtes-de-recherche-umr",
-   "summary": "Nées dans les années 1960 sous l’impulsion du Centre national de la recherche scientifique (CNRS), les unités mixtes de recherche (UMR), qui ont permis aux organismes nationaux de recherche (ONR) et aux universités de constituer des laboratoires de recherche de niveau mondial, présentent aujourd’hui...",
-   "image": "https://www.ccomptes.fr/sites/default/files/styles/teaser_182x98/public/2025-03/Centre-national-de-la-recherche-scientifique-CNRS-182x98.jpg?itok=VCTjs68t",
-   "date": "2026-10-08T11:00:00+00:00",
-   "pubdate": "2026-10-08T11:00:00+00:00"
   }
  ]
 }

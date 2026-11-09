@@ -1,119 +1,203 @@
 {
- "etag": "\"a75a1dda6582143826dbddb7f04ae9c2-gzip\"",
+ "etag": "\"8707d92d4943a11ce2e3181ede5c7c0b-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/societe/nos-jours-heureux/": "2026-11-05T17:27:47.452200+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-ce-serait-presque-drole-si-ca-ne-montait-pas-les-gens-les-uns-contre-les-autres-apres-l-incendie-de-la-mairie-de-limoges-le-plateau-de-millevaches-pointe-du-doigt-comme-un-bastion-de-l-ultragauche_8249923.html": "2026-11-06T06:56:03.517297+00:00",
   "https://www.franceinfo.fr/societe/racisme/temoignages-le-racisme-est-malheureusement-quotidien-vises-par-des-menaces-de-mort-sur-x-les-livreurs-de-repas-de-nouveau-confrontes-a-la-haine_8267852.html": "2026-11-06T06:56:03.517297+00:00",
-  "https://www.franceinfo.fr/societe/manifestations/clermont-ferrand-pau-angouleme-les-premiers-corteges-et-rassemblements-du-7-novembre-en-regions_8272346.html": "2026-11-07T13:13:14.591354+00:00",
-  "https://www.franceinfo.fr/culture/series/la-serie-l-affaire-laura-stern-recompensee-aux-prix-metoomedia-pour-sa-mise-en-lumiere-des-violences-faites-aux-femmes_8272211.html": "2026-11-07T13:13:14.591354+00:00",
-  "https://www.franceinfo.fr/societe/manifestations/pres-de-146-000-personnes-ont-defile-en-france-samedi-7-novembre-selon-le-ministere-de-l-interieur-250-000-selon-l-intersyndicale-de-la-jeunesse_8272610.html": "2026-11-07T19:28:35.927746+00:00",
-  "https://www.franceinfo.fr/replay-radio/j-ai-teste-pour-vous/j-ai-teste-pour-vous-un-cours-pour-apprendre-la-langue-des-signes-francaise-lsf_8251648.html": "2026-11-07T19:28:35.927746+00:00",
-  "https://www.franceinfo.fr/societe/familles-royales/ce-que-l-on-sait-de-l-arrestation-du-pere-de-meghan-markle-pour-detention-d-images-pedopornographiques_8272070.html": "2026-11-07T19:28:35.927746+00:00",
-  "https://www.franceinfo.fr/societe/manifestations/nous-esperons-que-les-mobilisations-lyceennes-finissent-par-cesser-nous-sommes-epuises-avertit-le-principal-syndicat-des-chefs-d-etablissement_8272466.html": "2026-11-07T19:28:35.927746+00:00",
-  "https://www.franceinfo.fr/replay-magazine/france-2/13h15/13h15-le-dimanche-pauline-et-laure-l-amour-du-jeu_8246371.html": "2026-11-07T19:28:35.927746+00:00",
-  "https://www.franceinfo.fr/societe/manifestations/deux-porte-parole-des-gilets-jaunes-interpelles-a-paris-avant-leur-rassemblement-interdit-a-la-concorde_8272388.html": "2026-11-07T19:28:35.927746+00:00",
-  "https://www.franceinfo.fr/societe/manifestations/reportage-on-entend-beaucoup-de-revendications-mais-pas-de-reponses-concretes-a-paris-la-mobilisation-se-poursuit-malgre-les-annonces-du-gouvernement_8272733.html": "2026-11-08T00:42:38.650394+00:00",
-  "https://www.franceinfo.fr/economie/entreprises/en-dessous-de-1-700-euros-net-toute-revalorisation-du-smic-equivaudrait-a-des-miettes-accordees-par-des-gens-qui-ont-distribues-des-milliards-aux-plus-riches-declare-le-depute-lfi-antoine-leaument_8273108.html": "2026-11-08T10:30:06.618122+00:00",
-  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/reportage-il-faut-appuyer-encore-jusqu-a-ce-qu-on-obtienne-gain-de-cause-dans-l-attente-de-reponses-du-gouvernement-les-jeunes-prets-a-poursuivre-les-mobilisations_8273057.html": "2026-11-08T10:30:06.618122+00:00",
-  "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/le-7-40-franceinfo-du-dimanche-08-novembre-2026_8244871.html": "2026-11-08T10:30:06.618122+00:00",
-  "https://www.franceinfo.fr/replay-radio/l-il-de-julie/vous-etes-devenus-quoi-les-gars-sur-tiktok-des-internautes-publient-leurs-vieilles-photos-de-classes-et-esperent-retrouver-d-anciens-camarades_8232058.html": "2026-11-08T10:30:06.618122+00:00",
-  "https://www.franceinfo.fr/societe/education/le-ministre-de-l-education-nationale-refuse-de-modifier-le-calendrier-du-bac-en-depit-des-heures-perdues-dans-les-lycees-bloques_8273054.html": "2026-11-08T10:30:06.618122+00:00",
-  "https://www.franceinfo.fr/economie/transports/infographie-il-y-a-un-climat-d-agressivite-generale-ce-que-montrent-les-chiffres-des-violences-motorisees-dont-sont-victimes-les-cyclistes-en-france_8263571.html": "2026-11-08T10:30:06.618122+00:00",
-  "https://www.franceinfo.fr/economie/transports/gilets-jaunes/les-deux-chefs-de-file-des-gilets-jaunes-interpelles-samedi-a-paris-sont-sortis-libres-de-garde-a-vue_8273513.html": "2026-11-08T17:57:34.117914+00:00",
-  "https://www.franceinfo.fr/societe/drogue/un-reseau-de-quatorze-ports-va-etre-lance-pour-lutter-contre-le-narcotrafic_8273384.html": "2026-11-08T17:57:34.117914+00:00",
-  "https://www.franceinfo.fr/france/ile-de-france/seine-saint-denis/le-lyceen-de-la-courneuve-soupconne-d-avoir-poignarde-son-camarade-a-ete-mis-en-examen-et-place-sous-controle-judiciaire_8273318.html": "2026-11-08T17:57:34.117914+00:00",
-  "https://www.franceinfo.fr/societe/racisme/mission-info-comment-peut-on-lutter-contre-le-racisme_8270927.html": "2026-11-08T17:57:34.117914+00:00",
   "https://www.franceinfo.fr/societe/euthanasie/comprendre-les-debats-sur-la-fin-de-vie/": "2026-11-08T17:57:34.117914+00:00",
   "https://www.franceinfo.fr/politique/grand-entretien-en-belgique-un-cordon-sanitaire-mediatique-empeche-toute-forme-de-banalisation-de-l-extreme-droite-un-outil-difficile-a-imaginer-en-france_8265599.html": "2026-11-08T17:57:34.117914+00:00",
-  "https://www.franceinfo.fr/replay-jt/france-2/20-heures/des-cours-de-self-defense-pour-apprendre-aux-enseignants-a-se-defendre_8273756.html": "2026-11-08T22:01:03.208694+00:00",
-  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/le-ministre-de-l-enseignement-superieur-exclut-tout-semestre-valide-d-office-pour-les-etudiants-pendant-la-mobilisation-sociale-en-cours_8273630.html": "2026-11-08T22:01:03.208694+00:00",
-  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/temoignages-mes-journees-ne-ressemblent-plus-a-grand-chose-deux-etudiants-racontent-l-impact-des-blocus-universitaires-sur-leur-sante-mentale_8273399.html": "2026-11-09T06:46:04.654838+00:00",
-  "https://www.franceinfo.fr/faits-divers/justice-proces/le-proces-du-navigateur-kevin-escoffier-accuse-d-avoir-agresse-sexuellement-quatre-femmes-s-ouvre-lundi_8263967.html": "2026-11-09T06:46:04.654838+00:00",
-  "https://www.franceinfo.fr/economie/greve/direct-conference-sociale-pour-repondre-a-la-colere-le-premier-ministre-reunit-lundi-matin-les-syndicats_8273954.html": "2026-11-09T06:46:04.654838+00:00",
-  "https://www.franceinfo.fr/economie/pouvoir-achat/revendications-des-syndicats-pistes-du-gouvernement-fonction-publique-absente-trois-questions-sur-la-conference-sociale-organisee-a-matignon_8273354.html": "2026-11-09T06:46:04.654838+00:00"
+  "https://www.franceinfo.fr/faits-divers/police/un-lyceen-de-15-ans-interpelle-en-calecon-que-s-est-il-passe-a-aulnay-sous-bois_8275082.html": "2026-11-09T19:53:16.976697+00:00",
+  "https://www.franceinfo.fr/replay-radio/les-informes-de-france-info/peut-on-augmenter-les-salaires-dans-la-conjoncture-economique-actuelle-les-informes-de-franceinfo-du-lundi-9-novembre-2026_8253646.html": "2026-11-09T11:00:00+00:00",
+  "https://www.franceinfo.fr/replay-magazine/franceinfo/avant-le-20h/hausse-du-smic-un-coup-de-pouce-tres-largement-insuffisant-estime-cyrielle-chatelain-presidente-du-groupe-ecologiste-a-l-assemblee_8275052.html": "2026-11-09T19:53:16.976697+00:00",
+  "https://www.franceinfo.fr/sante/les-overdoses-ont-plus-que-double-en-10-ans-alerte-l-office-antistupefiants_8275040.html": "2026-11-09T19:53:16.976697+00:00",
+  "https://www.franceinfo.fr/l-actu-pour-les-jeunes/le-bac-ne-sera-pas-reporte-qu-en-penses-les-lyceens_8275028.html": "2026-11-09T19:53:16.976697+00:00",
+  "https://www.franceinfo.fr/societe/education/a-l-ecole-la-commemoration-du-11-novembre-fait-des-vagues-chez-certains-syndicats_8274968.html": "2026-11-09T19:53:16.976697+00:00",
+  "https://www.franceinfo.fr/l-actu-pour-les-jeunes/rattraper-pendant-les-vacances-des-cours-manques-qu-en-pensent-les-lyceens_8275007.html": "2026-11-09T19:53:16.976697+00:00",
+  "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-elles-sont-ou-les-petites-filles-de-la-com-alors-que-le-proces-escoffier-debute-des-femmes-temoignent-du-sexisme-dans-la-voile_8253670.html": "2026-11-09T19:53:16.976697+00:00",
+  "https://www.franceinfo.fr/societe/justice/le-bhv-en-redressement-judiciaire-a-ete-contraint-de-fermer-ses-portes-lundi_8274869.html": "2026-11-09T19:53:16.976697+00:00",
+  "https://www.franceinfo.fr/faits-divers/incendie-dans-un-bar-de-crans-montana-en-suisse/incendie-de-crans-montana-un-des-restaurants-du-couple-moretti-proprietaire-du-bar-le-constellation-mis-en-faillite_8274818.html": "2026-11-09T19:53:16.976697+00:00",
+  "https://www.franceinfo.fr/societe/justice/le-comedien-britannique-russell-brand-condamne-a-dix-ans-de-prison-pour-viol-et-agressions-sexuelles_8274767.html": "2026-11-09T19:53:16.976697+00:00",
+  "https://www.franceinfo.fr/societe/harcelement-sexuel/l-etablissement-catholique-stanislas-n-a-pas-tenu-compte-d-accusations-de-violences-sexuelles-visant-l-un-de-ses-professeurs-selon-mediapart_8274278.html": "2026-11-09T19:53:16.976697+00:00",
+  "https://www.franceinfo.fr/societe/pauvrete/environ-350-000-femmes-veuves-de-plus-de-60-ans-vivent-sous-le-seuil-de-pauvrete-en-france-selon-une-etude-de-la-fondation-des-femmes_8274353.html": "2026-11-09T19:53:16.976697+00:00",
+  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/quatre-personnes-interpellees-apres-qu-un-proviseur-de-lycee-pres-de-bordeaux-a-ete-touche-a-la-tete-par-un-projectile_8274296.html": "2026-11-09T19:53:16.976697+00:00",
+  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-des-lyceens-les-representants-du-mouvement-recus-par-le-premier-ministre-lundi-apres-midi_8274272.html": "2026-11-09T19:53:16.976697+00:00",
+  "https://www.franceinfo.fr/societe/manifestations/consultations-a-matignon-manifestations-en-quete-d-une-sortie-de-crise-le-gouvernement-entame-une-nouvelle-semaine-sociale-chargee_8274125.html": "2026-11-09T19:53:16.976697+00:00",
+  "https://www.franceinfo.fr/societe/racisme/la-france-n-est-pas-un-pays-raciste-elle-n-exerce-pas-de-discriminations-estime-le-depute-rn-sebastien-chenu_8274200.html": "2026-11-09T19:53:16.976697+00:00",
+  "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/vrai-ou-faux-les-coups-de-pouce-au-smic-sont-ils-exceptionnels-et-pas-frequents-comme-l-affirme-le-ministre-du-travail_8253661.html": "2026-11-09T19:53:16.976697+00:00",
+  "https://www.franceinfo.fr/sante/psycho-bien-etre/sante-mentale/la-sante-mentale-des-11-17-ans-se-degrade-et-on-constate-une-acceleration-ces-dernieres-annees-alerte-le-directeur-de-sante-publique-france_8274152.html": "2026-11-09T19:53:16.976697+00:00",
+  "https://www.franceinfo.fr/replay-radio/ca-dit-quoi/podcast-sante-mentale-mise-a-l-epreuve-par-les-blocus-nouvelle-cop-et-blague-de-donald-trump-ca-dit-quoi-ce-9-novembre_8264843.html": "2026-11-09T19:53:16.976697+00:00",
+  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/une-cinquantaine-d-eleves-supplementaires-ont-ete-blesses-par-leurs-camarades-durant-la-semaine-de-la-rentree-selon-le-ministre-de-l-education-nationale_8274140.html": "2026-11-09T19:53:16.976697+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": ": Témoignages \"Mes journées ne ressemblent plus à grand-chose\" : deux étudiants racontent l'impact des blocus universitaires sur leur santé mentale Tiraillés entre le soutien au mouvement social en cours et l'isolement ainsi que l'angoisse de valider leur année, Lohann et Samuel décrivent les effets de cette période sur leur santé mentale. Aujourd'hui : Témoignages",
-   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/temoignages-mes-journees-ne-ressemblent-plus-a-grand-chose-deux-etudiants-racontent-l-impact-des-blocus-universitaires-sur-leur-sante-mentale_8273399.html",
-   "summary": "\"Mes journées ne ressemblent plus à grand-chose\" : deux étudiants racontent l'impact des blocus universitaires sur leur santé mentale",
-   "image": "https://www.franceinfo.fr/pictures/anBt0sPI4w5y5kWBgKHQU8KMoQU/90x0:3104x2072/432x297/filters:format(jpg)/2026/11/08/6af0ac6e87614084772583.jpg",
+   "title": "Un lycéen de 15 ans interpellé en caleçon : que s'est-il passé à Aulnay-sous-Bois ? Une vidéo montrant un lycéen de 15 ans emmené en caleçon par des policiers à Aulnay-sous-Bois (Seine-Saint-Denis), jeudi 5 novembre, a largement circulé sur les réseaux sociaux. Les circonstances de son interpellation, lors d'un blocus de son établissement, font l'objet de versions contradictoires. Aujourd'hui 4:10 vidéo 4 minutes 10",
+   "link": "https://www.franceinfo.fr/faits-divers/police/un-lyceen-de-15-ans-interpelle-en-calecon-que-s-est-il-passe-a-aulnay-sous-bois_8275082.html",
+   "summary": "Un lycéen de 15 ans interpellé en caleçon : que s'est-il passé à Aulnay-sous-Bois ?",
+   "image": "https://www.franceinfo.fr/pictures/A6RlhT6iLrrA1tArhkonZ1Hb5iY/93x0:918x567/432x297/filters:format(jpg)/2026/11/09/6af21e531f4bf488531663.jpg",
    "date": null,
-   "pubdate": "2026-11-09T06:46:04.654838+00:00"
+   "pubdate": "2026-11-09T19:53:16.976697+00:00"
   },
   {
-   "title": "Le procès du navigateur Kevin Escoffier, accusé d'avoir agressé sexuellement quatre femmes, s'ouvre lundi Aujourd'hui",
-   "link": "https://www.franceinfo.fr/faits-divers/justice-proces/le-proces-du-navigateur-kevin-escoffier-accuse-d-avoir-agresse-sexuellement-quatre-femmes-s-ouvre-lundi_8263967.html",
-   "summary": "Le procès du navigateur Kevin Escoffier, accusé d'avoir agressé sexuellement quatre femmes, s'ouvre lundi",
-   "image": "https://www.franceinfo.fr/pictures/SG_-jwjnhiIt-2e32ObKzDzyZPU/0x0:3522x1981/432x243/filters:format(jpg)/2026/11/08/6af0e8276968a490164725.jpg",
+   "title": "Hausse du SMIC : \"Un coup de pouce très largement insuffisant\", estime Cyrielle Chatelain, présidente du groupe écologiste à l’Assemblée Aujourd'hui 24:46 vidéo 24 minutes 46",
+   "link": "https://www.franceinfo.fr/replay-magazine/franceinfo/avant-le-20h/hausse-du-smic-un-coup-de-pouce-tres-largement-insuffisant-estime-cyrielle-chatelain-presidente-du-groupe-ecologiste-a-l-assemblee_8275052.html",
+   "summary": "Hausse du SMIC : \"Un coup de pouce très largement insuffisant\", estime Cyrielle Chatelain, présidente du groupe écologiste à l’Assemblée",
+   "image": "https://www.franceinfo.fr/pictures/REeM9HGrFqWB7trXFifHSCAnxhQ/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/09/6af2166b49ad6805063585.jpg",
    "date": null,
-   "pubdate": "2026-11-09T06:46:04.654838+00:00"
+   "pubdate": "2026-11-09T19:53:16.976697+00:00"
   },
   {
-   "title": "• Direct Conférence sociale : pour répondre à la colère, le Premier ministre réunit lundi matin les syndicats Aujourd'hui • Direct",
-   "link": "https://www.franceinfo.fr/economie/greve/direct-conference-sociale-pour-repondre-a-la-colere-le-premier-ministre-reunit-lundi-matin-les-syndicats_8273954.html",
-   "summary": "Conférence sociale : pour répondre à la colère, le Premier ministre réunit lundi matin les syndicats",
-   "image": "https://www.franceinfo.fr/pictures/tLzqZ5N1SRRtZ6kWgmvsYi0hZtI/0x0:1024x576/432x243/filters:format(jpg)/2026/11/09/6af15766a179f157808398.jpg",
+   "title": "Le nombre d'overdoses mortelles a plus que doublé en 10 ans en France, alerte l'Office antistupéfiants Aujourd'hui",
+   "link": "https://www.franceinfo.fr/sante/les-overdoses-ont-plus-que-double-en-10-ans-alerte-l-office-antistupefiants_8275040.html",
+   "summary": "Le nombre d'overdoses mortelles a plus que doublé en 10 ans en France, alerte l'Office antistupéfiants",
+   "image": "https://www.franceinfo.fr/pictures/LA7FenaVnAu2fn2sCAcNxBgD888/0x0:1024x576/432x243/filters:format(jpg)/2026/11/09/6af21012f38f5863608774.jpg",
    "date": null,
-   "pubdate": "2026-11-09T06:46:04.654838+00:00"
+   "pubdate": "2026-11-09T19:53:16.976697+00:00"
   },
   {
-   "title": "Revendications des syndicats, pistes du gouvernement, fonction publique absente… Trois questions sur la conférence sociale organisée à Matignon Aujourd'hui",
-   "link": "https://www.franceinfo.fr/economie/pouvoir-achat/revendications-des-syndicats-pistes-du-gouvernement-fonction-publique-absente-trois-questions-sur-la-conference-sociale-organisee-a-matignon_8273354.html",
-   "summary": "Revendications des syndicats, pistes du gouvernement, fonction publique absente… Trois questions sur la conférence sociale organisée à Matignon",
-   "image": "https://www.franceinfo.fr/pictures/AnpblS7TlfDn2CnFWk_sDUv147I/0x285:5472x3363/432x243/filters:format(jpg)/2026/11/08/6af07d24a8ffa334318329.jpg",
+   "title": "Le bac ne sera pas reporté, qu'en penses les lycéens ? Aujourd'hui 0:40 vidéo 40 secondes",
+   "link": "https://www.franceinfo.fr/l-actu-pour-les-jeunes/le-bac-ne-sera-pas-reporte-qu-en-penses-les-lyceens_8275028.html",
+   "summary": "Le bac ne sera pas reporté, qu'en penses les lycéens ?",
+   "image": "https://www.franceinfo.fr/pictures/S95w8_12A-_nwZDBfKMfcWhEtr8/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/09/6af20a4615698938626598.jpg",
    "date": null,
-   "pubdate": "2026-11-09T06:46:04.654838+00:00"
+   "pubdate": "2026-11-09T19:53:16.976697+00:00"
   },
   {
-   "title": "Des cours de self-défense pour apprendre aux enseignants à se défendre 8 novembre 2:44 vidéo 2 minutes 44",
-   "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/des-cours-de-self-defense-pour-apprendre-aux-enseignants-a-se-defendre_8273756.html",
-   "summary": "Des cours de self-défense pour apprendre aux enseignants à se défendre",
-   "image": "https://www.franceinfo.fr/pictures/6x6IyCBfxs9CfH_bkTHHX7bRU-c/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/08/6af0dfa4eff34676138044.jpg",
+   "title": "A l'approche du 11-Novembre, des syndicats d'enseignants critiquent la nouvelle commémoration instaurée pour les élèves du CM1 à la terminale Aujourd'hui",
+   "link": "https://www.franceinfo.fr/societe/education/a-l-ecole-la-commemoration-du-11-novembre-fait-des-vagues-chez-certains-syndicats_8274968.html",
+   "summary": "A l'approche du 11-Novembre, des syndicats d'enseignants critiquent la nouvelle commémoration instaurée pour les élèves du CM1 à la terminale",
+   "image": "https://www.franceinfo.fr/pictures/sTVlPrUSveoPK5i1xDNSCOZ-7fk/0x25:1024x601/432x243/filters:format(jpg)/2026/11/09/6af20ae83df64774515256.jpg",
    "date": null,
-   "pubdate": "2026-11-08T22:01:03.208694+00:00"
+   "pubdate": "2026-11-09T19:53:16.976697+00:00"
   },
   {
-   "title": "Le ministre de l'Enseignement supérieur exclut tout semestre validé d'office pour les étudiants pendant la mobilisation sociale en cours 8 novembre",
-   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/le-ministre-de-l-enseignement-superieur-exclut-tout-semestre-valide-d-office-pour-les-etudiants-pendant-la-mobilisation-sociale-en-cours_8273630.html",
-   "summary": "Le ministre de l'Enseignement supérieur exclut tout semestre validé d'office pour les étudiants pendant la mobilisation sociale en cours",
-   "image": "https://www.franceinfo.fr/pictures/5iAtw1PYniE3Pz7TXDDgxyo6piI/0x0:8192x4608/432x243/filters:format(jpg)/2026/11/08/6af0bcef4a193141401849.jpg",
+   "title": "Rattraper pendant les vacances des cours manqués, qu'en pensent les lycéens ? Aujourd'hui 0:47 vidéo 47 secondes",
+   "link": "https://www.franceinfo.fr/l-actu-pour-les-jeunes/rattraper-pendant-les-vacances-des-cours-manques-qu-en-pensent-les-lyceens_8275007.html",
+   "summary": "Rattraper pendant les vacances des cours manqués, qu'en pensent les lycéens ?",
+   "image": "https://www.franceinfo.fr/pictures/zP5WDj-6yx_NBEnxh7q20KS8FjQ/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/09/6af208bb9d6a1781127040.jpg",
    "date": null,
-   "pubdate": "2026-11-08T22:01:03.208694+00:00"
+   "pubdate": "2026-11-09T19:53:16.976697+00:00"
   },
   {
-   "title": "Les deux chefs de file des gilets jaunes interpellés samedi à Paris sont sortis libres de garde à vue 8 novembre",
-   "link": "https://www.franceinfo.fr/economie/transports/gilets-jaunes/les-deux-chefs-de-file-des-gilets-jaunes-interpelles-samedi-a-paris-sont-sortis-libres-de-garde-a-vue_8273513.html",
-   "summary": "Les deux chefs de file des gilets jaunes interpellés samedi à Paris sont sortis libres de garde à vue",
-   "image": "https://www.franceinfo.fr/pictures/b7nuIOyRD7lJRy_ya4XaPhnJtxE/0x5:1024x581/432x243/filters:format(jpg)/2026/11/08/6af0a249a3e10011312517.jpg",
+   "title": "Alors que le procès Escoffier débute, des skippeuses dépeignent un monde de la voile structuré par la domination masculine Aujourd'hui",
+   "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-elles-sont-ou-les-petites-filles-de-la-com-alors-que-le-proces-escoffier-debute-des-femmes-temoignent-du-sexisme-dans-la-voile_8253670.html",
+   "summary": "Alors que le procès Escoffier débute, des skippeuses dépeignent un monde de la voile structuré par la domination masculine",
+   "image": "https://www.franceinfo.fr/assets/common/images/logos/placeholder-4e7f49f2.png",
    "date": null,
-   "pubdate": "2026-11-08T17:57:34.117914+00:00"
+   "pubdate": "2026-11-09T19:53:16.976697+00:00"
   },
   {
-   "title": "Un réseau de 14 ports mondiaux va être lancé pour lutter contre le narcotrafic 8 novembre",
-   "link": "https://www.franceinfo.fr/societe/drogue/un-reseau-de-quatorze-ports-va-etre-lance-pour-lutter-contre-le-narcotrafic_8273384.html",
-   "summary": "Un réseau de 14 ports mondiaux va être lancé pour lutter contre le narcotrafic",
-   "image": "https://www.franceinfo.fr/pictures/0O3Riz3elk6q7fvcnblnCeJd2gU/0x106:1024x682/432x243/filters:format(jpg)/2026/11/08/6af07ab9d7783797543611.jpg",
+   "title": "Le BHV, emblématique grand magasin parisien placé en redressement judiciaire, a été contraint de fermer ses portes lundi Aujourd'hui",
+   "link": "https://www.franceinfo.fr/societe/justice/le-bhv-en-redressement-judiciaire-a-ete-contraint-de-fermer-ses-portes-lundi_8274869.html",
+   "summary": "Le BHV, emblématique grand magasin parisien placé en redressement judiciaire, a été contraint de fermer ses portes lundi",
+   "image": "https://www.franceinfo.fr/pictures/kOcb_zV6W3v29zsIu0wagpcctYE/0x87:1024x663/432x243/filters:format(jpg)/2026/11/09/6af1f6d4545ea326382572.jpg",
    "date": null,
-   "pubdate": "2026-11-08T17:57:34.117914+00:00"
+   "pubdate": "2026-11-09T19:53:16.976697+00:00"
   },
   {
-   "title": "Le lycéen de La Courneuve soupçonné d'avoir poignardé son camarade a été mis en examen et placé sous contrôle judiciaire 8 novembre",
-   "link": "https://www.franceinfo.fr/france/ile-de-france/seine-saint-denis/le-lyceen-de-la-courneuve-soupconne-d-avoir-poignarde-son-camarade-a-ete-mis-en-examen-et-place-sous-controle-judiciaire_8273318.html",
-   "summary": "Le lycéen de La Courneuve soupçonné d'avoir poignardé son camarade a été mis en examen et placé sous contrôle judiciaire",
-   "image": "https://www.franceinfo.fr/pictures/v0wv0MDSZ7-234kMpgSRsnwFsBw/0x106:1024x682/432x243/filters:format(jpg)/2026/11/08/6af063047e81f648369763.jpg",
+   "title": "Incendie de Crans-Montana : un des restaurants du couple Moretti, propriétaire du bar Le Constellation, mis en faillite Aujourd'hui",
+   "link": "https://www.franceinfo.fr/faits-divers/incendie-dans-un-bar-de-crans-montana-en-suisse/incendie-de-crans-montana-un-des-restaurants-du-couple-moretti-proprietaire-du-bar-le-constellation-mis-en-faillite_8274818.html",
+   "summary": "Incendie de Crans-Montana : un des restaurants du couple Moretti, propriétaire du bar Le Constellation, mis en faillite",
+   "image": "https://www.franceinfo.fr/pictures/3Qv-Xo_hlP55FkVMAKlkiVfR2GM/0x0:1024x576/432x243/filters:format(jpg)/2026/11/09/6af1f1396013c224617048.jpg",
    "date": null,
-   "pubdate": "2026-11-08T17:57:34.117914+00:00"
+   "pubdate": "2026-11-09T19:53:16.976697+00:00"
   },
   {
-   "title": "\"Mission info\" : comment peut-on lutter contre le racisme ? 8 novembre 11:35 vidéo 11 minutes 35",
-   "link": "https://www.franceinfo.fr/societe/racisme/mission-info-comment-peut-on-lutter-contre-le-racisme_8270927.html",
-   "summary": "\"Mission info\" : comment peut-on lutter contre le racisme ?",
-   "image": "https://www.franceinfo.fr/pictures/y63ksv4BmoL3VXpW6Oc1IaOKQc4/0x0:1280x720/432x243/filters:format(jpg)/2026/11/06/6aeddd06dc127526868950.jpg",
+   "title": "Le comédien britannique Russell Brand condamné à dix ans de prison pour viol et agressions sexuelles Pour le juge, son \"statut\" avait \"protégé\" Russell Brand jusqu'en 2023, quand des journalistes ont révélé pour la première fois une longue série d'infractions sexuelles, ce qui a conduit des femmes à porter plainte. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/societe/justice/le-comedien-britannique-russell-brand-condamne-a-dix-ans-de-prison-pour-viol-et-agressions-sexuelles_8274767.html",
+   "summary": "Le comédien britannique Russell Brand condamné à dix ans de prison pour viol et agressions sexuelles",
+   "image": "https://www.franceinfo.fr/pictures/RwY5x3C0LlPUBLfxYq9DeuZ6k5A/0x0:1024x576/432x243/filters:format(jpg)/2026/11/09/6af1eedca20ee114516653.jpg",
    "date": null,
-   "pubdate": "2026-11-08T17:57:34.117914+00:00"
+   "pubdate": "2026-11-09T19:53:16.976697+00:00"
+  },
+  {
+   "title": "L'établissement catholique Stanislas n'a pas tenu compte d'accusations de violences sexuelles visant l'un de ses professeurs, selon Mediapart D'après le média d'investigation, Olivier Parent a été recruté en 2013 par l'établissement parisien comme maître d'internat et professeur de musique, alors qu'il était déjà accusé de viol sur mineur. En 2017, il a de nouveau été accusé de viol par un mineur. Il a finalement été licencié en 2018, après avoir consulté des contenus pédopornographiques. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/societe/harcelement-sexuel/l-etablissement-catholique-stanislas-n-a-pas-tenu-compte-d-accusations-de-violences-sexuelles-visant-l-un-de-ses-professeurs-selon-mediapart_8274278.html",
+   "summary": "L'établissement catholique Stanislas n'a pas tenu compte d'accusations de violences sexuelles visant l'un de ses professeurs, selon Mediapart",
+   "image": "https://www.franceinfo.fr/pictures/VwSfruAC_I0FlfG6YaZy3X5MGZY/0x105:1024x681/432x243/filters:format(jpg)/2026/11/09/6af1b5e3d1164149777208.jpg",
+   "date": null,
+   "pubdate": "2026-11-09T19:53:16.976697+00:00"
+  },
+  {
+   "title": "Environ 350 000 femmes veuves de plus de 60 ans vivent sous le seuil de pauvreté en France, selon une étude de la Fondation des femmes Dans une note, la Fondation des femmes précisent que ce chiffre n'est qu'une estimation car il ne prend en compte que les femmes vivant à domicile. 11 recommandations sont formulées dans le document publié lundi. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/societe/pauvrete/environ-350-000-femmes-veuves-de-plus-de-60-ans-vivent-sous-le-seuil-de-pauvrete-en-france-selon-une-etude-de-la-fondation-des-femmes_8274353.html",
+   "summary": "Environ 350 000 femmes veuves de plus de 60 ans vivent sous le seuil de pauvreté en France, selon une étude de la Fondation des femmes",
+   "image": "https://www.franceinfo.fr/pictures/6S0hUovEK04FppX3SxmWdWSPUsE/0x0:5557x3125/432x243/filters:format(jpg)/2025/10/31/fondation-femmes-6904c8ffd3ae8917208114.jpg",
+   "date": null,
+   "pubdate": "2026-11-09T19:53:16.976697+00:00"
+  },
+  {
+   "title": "Quatre jeunes interpellés après l'agression du proviseur d'un lycée de Bègles, près de Bordeaux, deux enquêtes ouvertes \"Une scène chaotique\", selon la mairie de Bègles après qu'un proviseur a été touché à la tête par un jet de projectile, devant le lycée professionnel Emile Combes. Une plainte va être déposée par le rectorat de Bordeaux. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/quatre-personnes-interpellees-apres-qu-un-proviseur-de-lycee-pres-de-bordeaux-a-ete-touche-a-la-tete-par-un-projectile_8274296.html",
+   "summary": "Quatre jeunes interpellés après l'agression du proviseur d'un lycée de Bègles, près de Bordeaux, deux enquêtes ouvertes",
+   "image": "https://www.franceinfo.fr/pictures/Z6xcOF0oBpitdUFXOIVdTRXfDJw/0x2:1028x580/432x243/filters:format(jpg)/2026/11/09/6af1991a22fe2857354642.jpeg",
+   "date": null,
+   "pubdate": "2026-11-09T19:53:16.976697+00:00"
+  },
+  {
+   "title": "• Direct Mobilisation des lycéens et étudiants : des représentants des élèves ont quitté une réunion sur Parcoursup pour protester contre la présence de l'extrême droite La réception des représentants des lycéens et des étudiants par Sébastien Lecornu était suivie d'une première réunion de travail sur la réforme de la plateforme contestée, autour du Premier ministre et en présence d'élus. Aujourd'hui • Direct",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-des-lyceens-les-representants-du-mouvement-recus-par-le-premier-ministre-lundi-apres-midi_8274272.html",
+   "summary": "Mobilisation des lycéens et étudiants : des représentants des élèves ont quitté une réunion sur Parcoursup pour protester contre la présence de l'extrême droite",
+   "image": "https://www.franceinfo.fr/pictures/OnjTMENvNZZvrxptjVPw4Zu7EyM/0x12:1024x588/432x243/filters:format(jpg)/2026/11/09/6af21d8c85d0b128338403.jpg",
+   "date": null,
+   "pubdate": "2026-11-09T19:53:16.976697+00:00"
+  },
+  {
+   "title": "Consultations à Matignon, manifestations… En quête d'une sortie de crise, le gouvernement entame une nouvelle semaine sociale chargée Le Premier ministre reçoit lundi matin à Matignon les partenaires sociaux, avant de rencontrer dans l'après-midi les représentants de la jeunesse. Un appel à faire grève et à manifester a déjà été lancé par l'intersyndicale de l'Education pour mardi. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/societe/manifestations/consultations-a-matignon-manifestations-en-quete-d-une-sortie-de-crise-le-gouvernement-entame-une-nouvelle-semaine-sociale-chargee_8274125.html",
+   "summary": "Consultations à Matignon, manifestations… En quête d'une sortie de crise, le gouvernement entame une nouvelle semaine sociale chargée",
+   "image": "https://www.franceinfo.fr/pictures/VaGVqnrhYXN9QGePhTsrDq9KwvA/0x39:1024x615/432x243/filters:format(jpg)/2026/11/09/6af17da0842c4414179196.jpg",
+   "date": null,
+   "pubdate": "2026-11-09T19:53:16.976697+00:00"
+  },
+  {
+   "title": "\"La France n'est pas un pays raciste, elle n'exerce pas de discriminations\", estime le député RN Sébastien Chenu Invité du 8h30 de franceinfo, le président du groupe RN à l'Assemblée nationale est notamment revenu sur l'intervention de Marine Le Pen sur la chaîne américaine CBS où elle assure qu'\"il n'y a pas de discriminations\" en France. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/societe/racisme/la-france-n-est-pas-un-pays-raciste-elle-n-exerce-pas-de-discriminations-estime-le-depute-rn-sebastien-chenu_8274200.html",
+   "summary": "\"La France n'est pas un pays raciste, elle n'exerce pas de discriminations\", estime le député RN Sébastien Chenu",
+   "image": "https://www.franceinfo.fr/pictures/sw4owJudaX5Q7AcasApGF5xjilI/0x0:661x371/432x243/filters:format(jpg)/2026/11/09/6af188b1e208e924731691.png",
+   "date": null,
+   "pubdate": "2026-11-09T19:53:16.976697+00:00"
+  },
+  {
+   "title": ": Vrai ou faux Les coups de pouce au smic sont-ils \"exceptionnels\", comme l'affirme le ministre du Travail ? Reçues à Matignon lundi pour une conférence sociale, les organisations syndicales attendaient une hausse significative du smic. Elle sera finalement de 1,6% a annoncé le Premier ministre. Aujourd'hui : Vrai ou faux 1:59 audio 1 minute 59",
+   "link": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/vrai-ou-faux-les-coups-de-pouce-au-smic-sont-ils-exceptionnels-et-pas-frequents-comme-l-affirme-le-ministre-du-travail_8253661.html",
+   "summary": "Les coups de pouce au smic sont-ils \"exceptionnels\", comme l'affirme le ministre du Travail ?",
+   "image": "https://www.franceinfo.fr/pictures/icEZ08ufCLh0o9kKU5H0MxcIrmg/0x24:3999x2271/432x243/filters:format(jpg)/2024/06/19/maxstockworld351880-667281cdd615e000973807.jpg",
+   "date": null,
+   "pubdate": "2026-11-09T19:53:16.976697+00:00"
+  },
+  {
+   "title": "La santé mentale des \"11-17 ans se dégrade et on constate une accélération\" ces dernières années, alerte le directeur de Santé publique France Etienne Pot s'est exprimé sur l'état de santé des jeunes sur franceinfo. \"Ce qui est particulier, c'est que chaque année, ça a tendance à s'aggraver un petit peu\" s'interroge le nouveau directeur général de Santé publique France. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/sante/psycho-bien-etre/sante-mentale/la-sante-mentale-des-11-17-ans-se-degrade-et-on-constate-une-acceleration-ces-dernieres-annees-alerte-le-directeur-de-sante-publique-france_8274152.html",
+   "summary": "La santé mentale des \"11-17 ans se dégrade et on constate une accélération\" ces dernières années, alerte le directeur de Santé publique France",
+   "image": "https://www.franceinfo.fr/pictures/qaBvw4aRk4EDfK4vaOMiY02TcmY/82x0:1894x1019/432x243/filters:format(jpg)/2026/11/09/6af17c2c4a827086249250.png",
+   "date": null,
+   "pubdate": "2026-11-09T19:53:16.976697+00:00"
+  },
+  {
+   "title": ": Podcast Santé mentale mise à l'épreuve par les blocus, nouvelle COP et \"blague\" de Donald Trump : ça dit quoi ce 9 novembre ? Ce lundi 9 novembre, les blocus des universités ravivent de mauvais souvenirs de confinement, la COP 31 s'ouvre en Turquie et Donald Trump a annoncé vouloir nommer Dana White porte-parole de la Maison blanche, avant de rétropédaler. Aujourd'hui : Podcast 5:58 audio 5 minutes 58",
+   "link": "https://www.franceinfo.fr/replay-radio/ca-dit-quoi/podcast-sante-mentale-mise-a-l-epreuve-par-les-blocus-nouvelle-cop-et-blague-de-donald-trump-ca-dit-quoi-ce-9-novembre_8264843.html",
+   "summary": "Santé mentale mise à l'épreuve par les blocus, nouvelle COP et \"blague\" de Donald Trump : ça dit quoi ce 9 novembre ?",
+   "image": "https://www.franceinfo.fr/pictures/M3Gb_yJAFCa1NH0n0EhetfGlu8Q/0x233:5540x3347/432x243/filters:format(jpg)/2025/07/04/000-49l62j9-6867b7d8a80bf418868774.jpg",
+   "date": null,
+   "pubdate": "2026-11-09T19:53:16.976697+00:00"
+  },
+  {
+   "title": "\"Une cinquantaine d'élèves supplémentaires ont été blessés par leurs camarades\" durant la semaine de la rentrée, selon le ministre de l'Education nationale Edouard Geffray a affirmé lundi sur le plateau des \"4 Vérités\" sur France 2 que \"des élèves ont été blessés assez sérieusement au niveau de la perte d'audition avec des éclats de tirs de mortiers\". Aujourd'hui",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/une-cinquantaine-d-eleves-supplementaires-ont-ete-blesses-par-leurs-camarades-durant-la-semaine-de-la-rentree-selon-le-ministre-de-l-education-nationale_8274140.html",
+   "summary": "\"Une cinquantaine d'élèves supplémentaires ont été blessés par leurs camarades\" durant la semaine de la rentrée, selon le ministre de l'Education nationale",
+   "image": "https://www.franceinfo.fr/pictures/0e7zwRado6TjGoDKjLXuwRrlycI/0x0:1024x576/432x243/filters:format(jpg)/2026/11/09/6af17b065bcc9894404703.jpg",
+   "date": null,
+   "pubdate": "2026-11-09T19:53:16.976697+00:00"
+  },
+  {
+   "title": "Peut-on augmenter les salaires dans la conjoncture économique actuelle ? Les informés de franceinfo du lundi 9 novembre 2026 Aujourd'hui 52:00 audio 52 minutes",
+   "link": "https://www.franceinfo.fr/replay-radio/les-informes-de-france-info/peut-on-augmenter-les-salaires-dans-la-conjoncture-economique-actuelle-les-informes-de-franceinfo-du-lundi-9-novembre-2026_8253646.html",
+   "summary": "Peut-on augmenter les salaires dans la conjoncture économique actuelle ? Les informés de franceinfo du lundi 9 novembre 2026",
+   "image": "https://www.franceinfo.fr/pictures/sNF7PaqjLhS9JIcLEeDAR3vu20Y/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/09/6af21a9af0ab1254807824.png",
+   "date": "2026-11-09T11:00:00+00:00",
+   "pubdate": "2026-11-09T11:00:00+00:00"
   },
   {
    "title": "Comprendre les débats sur la fin de vie 15 contenus",
@@ -130,126 +214,6 @@
    "image": "https://www.franceinfo.fr/pictures/8jhw81QIhD7mLmBqp2LCi5CRN2I/0x0:4300x2418/432x243/filters:format(jpg)/2026/11/03/6aea17e3db34d727066316.jpg",
    "date": null,
    "pubdate": "2026-11-08T17:57:34.117914+00:00"
-  },
-  {
-   "title": ": Infographie \"Il y a un climat d’agressivité générale\" : ce que montrent les chiffres des violences motorisées dont sont victimes les cyclistes en France : Infographie 7:00 article 7 minutes",
-   "link": "https://www.franceinfo.fr/economie/transports/infographie-il-y-a-un-climat-d-agressivite-generale-ce-que-montrent-les-chiffres-des-violences-motorisees-dont-sont-victimes-les-cyclistes-en-france_8263571.html",
-   "summary": "\"Il y a un climat d’agressivité générale\" : ce que montrent les chiffres des violences motorisées dont sont victimes les cyclistes en France",
-   "image": "https://www.franceinfo.fr/pictures/inb-6viyn_ZULwKYkAeaPjOWZDw/0x106:1024x682/432x243/filters:format(jpg)/2026/11/03/6ae98fccf05fe057590364.jpg",
-   "date": null,
-   "pubdate": "2026-11-08T10:30:06.618122+00:00"
-  },
-  {
-   "title": "En dessous de 1 700 euros net, toute revalorisation du Smic équivaudrait à \"des miettes accordées par des gens qui ont distribué des milliards aux plus riches\", déclare le député LFI Antoine Léaument Le député La France insoumise de l'Essonne affirme que \"ce qui s'est passé dans les années précédentes avec Emmanuel Macron, c'est un appauvrissement généralisé de la population.\" 8 novembre",
-   "link": "https://www.franceinfo.fr/economie/entreprises/en-dessous-de-1-700-euros-net-toute-revalorisation-du-smic-equivaudrait-a-des-miettes-accordees-par-des-gens-qui-ont-distribues-des-milliards-aux-plus-riches-declare-le-depute-lfi-antoine-leaument_8273108.html",
-   "summary": "En dessous de 1 700 euros net, toute revalorisation du Smic équivaudrait à \"des miettes accordées par des gens qui ont distribué des milliards aux plus riches\", déclare le député LFI Antoine Léaument",
-   "image": "https://www.franceinfo.fr/pictures/Z4J-X_K3npEeFkRTrDOcEO5G0D4/42x0:1589x869/432x243/filters:format(jpg)/2026/11/08/6af0375c11cb0618801754.jpg",
-   "date": null,
-   "pubdate": "2026-11-08T10:30:06.618122+00:00"
-  },
-  {
-   "title": ": Reportage \"Il faut appuyer encore, jusqu'à ce qu'on obtienne gain de cause\" : dans l'attente de réponses du gouvernement, les jeunes prêts à poursuivre les mobilisations À Paris, étudiants et lycéens ont dénoncé samedi la précarité, la vie chère et le manque de moyens dans l'Éducation nationale. Ils se disent prêts à manifester à nouveau mardi. 8 novembre : Reportage",
-   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/reportage-il-faut-appuyer-encore-jusqu-a-ce-qu-on-obtienne-gain-de-cause-dans-l-attente-de-reponses-du-gouvernement-les-jeunes-prets-a-poursuivre-les-mobilisations_8273057.html",
-   "summary": "\"Il faut appuyer encore, jusqu'à ce qu'on obtienne gain de cause\" : dans l'attente de réponses du gouvernement, les jeunes prêts à poursuivre les mobilisations",
-   "image": "https://www.franceinfo.fr/pictures/XPv58ayo9H6YjCQa4xT7-8__DqM/0x270:5201x3196/432x243/filters:format(jpg)/2026/11/08/6af020eb91a63870350574.jpg",
-   "date": null,
-   "pubdate": "2026-11-08T10:30:06.618122+00:00"
-  },
-  {
-   "title": "Augmentation du Smic : \"On est dans une situation extrêmement critique\", juge Bernard Cohen-Hadad Bernard Cohen-Hadad, président du Cercle de réflexion Étienne Marcel, est l'invité politique de la matinale de franceinfo, dimanche 8 novembre. Il est revenu sur une éventuelle augmentation du Smic. 8 novembre 10:59 vidéo 10 minutes 59",
-   "link": "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/le-7-40-franceinfo-du-dimanche-08-novembre-2026_8244871.html",
-   "summary": "Augmentation du Smic : \"On est dans une situation extrêmement critique\", juge Bernard Cohen-Hadad",
-   "image": "https://www.franceinfo.fr/pictures/Jp3O9d560znl9YM-MzrrtpvhLMs/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/08/6af07a25ba1d6937403247.jpg",
-   "date": null,
-   "pubdate": "2026-11-08T10:30:06.618122+00:00"
-  },
-  {
-   "title": "« Vous êtes devenus quoi les gars ? » : sur TikTok, des internautes publient leurs vieilles photos de classes et espèrent retrouver d'anciens camarades De la nostalgie, en ce moment, sur les réseaux sociaux. Sur TikTok, des internautes postent leurs vieilles photos de classe en espérant avoir des nouvelles de leurs anciens camarades. 8 novembre 2:25 audio 2 minutes 25",
-   "link": "https://www.franceinfo.fr/replay-radio/l-il-de-julie/vous-etes-devenus-quoi-les-gars-sur-tiktok-des-internautes-publient-leurs-vieilles-photos-de-classes-et-esperent-retrouver-d-anciens-camarades_8232058.html",
-   "summary": "« Vous êtes devenus quoi les gars ? » : sur TikTok, des internautes publient leurs vieilles photos de classes et espèrent retrouver d'anciens camarades",
-   "image": "https://www.franceinfo.fr/pictures/1aolka3_5eo2qeIiFZO2eqxvWfQ/0x111:2119x1302/432x243/filters:format(jpg)/2026/11/06/6aed7679134a8491389400.jpg",
-   "date": null,
-   "pubdate": "2026-11-08T10:30:06.618122+00:00"
-  },
-  {
-   "title": "Le ministre de l'Education nationale refuse de modifier le calendrier du bac, en dépit des heures perdues dans les lycées bloqués Dans une interview au \"Parisien\" publiée samedi, Edouard Geffray a toutefois rappelé qu'il souhaitait ramener de la transparence sur Parcoursup. 8 novembre",
-   "link": "https://www.franceinfo.fr/societe/education/le-ministre-de-l-education-nationale-refuse-de-modifier-le-calendrier-du-bac-en-depit-des-heures-perdues-dans-les-lycees-bloques_8273054.html",
-   "summary": "Le ministre de l'Education nationale refuse de modifier le calendrier du bac, en dépit des heures perdues dans les lycées bloqués",
-   "image": "https://www.franceinfo.fr/pictures/pbZAOodxXSs5g4W-MdDghCAsswI/0x32:1024x608/432x243/filters:format(jpg)/2026/11/08/6af01be437e08548306750.jpg",
-   "date": null,
-   "pubdate": "2026-11-08T10:30:06.618122+00:00"
-  },
-  {
-   "title": ": Reportage \"On entend beaucoup de revendications mais pas de réponses concrètes\" : à Paris, la mobilisation se poursuit malgré les annonces du gouvernement Le cortège qui s'est élancé depuis la place de la République jusqu'à celle de la Nation s'est déroulé en grande majorité dans le calme, même si les quelques milliers de personnes présentes ne décolèrent pas après les propositions du gouvernement qu'ils jugent insuffisantes. 7 novembre : Reportage",
-   "link": "https://www.franceinfo.fr/societe/manifestations/reportage-on-entend-beaucoup-de-revendications-mais-pas-de-reponses-concretes-a-paris-la-mobilisation-se-poursuit-malgre-les-annonces-du-gouvernement_8272733.html",
-   "summary": "\"On entend beaucoup de revendications mais pas de réponses concrètes\" : à Paris, la mobilisation se poursuit malgré les annonces du gouvernement",
-   "image": "https://www.franceinfo.fr/pictures/wr_L-Sl0MVJgYx_iiyymbPqfjj8/0x135:7239x4207/432x243/filters:format(jpg)/2026/11/07/6aef9b7862ac2172949076.jpg",
-   "date": null,
-   "pubdate": "2026-11-08T00:42:38.650394+00:00"
-  },
-  {
-   "title": "Près de 146 000 personnes ont défilé en France samedi 7 novembre selon le ministère de l'Intérieur, 250 000 selon l'intersyndicale de la jeunesse La mobilisation de samedi est en recul par rapport à jeudi et par rapport aux trois précédents samedis de mobilisation sociale. 7 novembre",
-   "link": "https://www.franceinfo.fr/societe/manifestations/pres-de-146-000-personnes-ont-defile-en-france-samedi-7-novembre-selon-le-ministere-de-l-interieur-250-000-selon-l-intersyndicale-de-la-jeunesse_8272610.html",
-   "summary": "Près de 146 000 personnes ont défilé en France samedi 7 novembre selon le ministère de l'Intérieur, 250 000 selon l'intersyndicale de la jeunesse",
-   "image": "https://www.franceinfo.fr/pictures/pYjSDCcdrAVkjjEQEQlk4PAfWRc/0x106:1024x682/432x243/filters:format(jpg)/2026/11/07/6aef6c73e48d2976248127.jpg",
-   "date": null,
-   "pubdate": "2026-11-07T19:28:35.927746+00:00"
-  },
-  {
-   "title": "J'ai testé pour vous un cours pour apprendre la Langue des signes française (LSF) Pour sa nouvelle immersion, Ingrid Pohu s'est rendue au Centre Paris Anim’ Richet. Elle a choisi le niveau débutant, accessible dès 14 ans. Durée du cours : une heure et demie. 7 novembre 2:49 audio 2 minutes 49",
-   "link": "https://www.franceinfo.fr/replay-radio/j-ai-teste-pour-vous/j-ai-teste-pour-vous-un-cours-pour-apprendre-la-langue-des-signes-francaise-lsf_8251648.html",
-   "summary": "J'ai testé pour vous un cours pour apprendre la Langue des signes française (LSF)",
-   "image": "https://www.franceinfo.fr/pictures/d7BQHSoOF69tsqa_T8sATRGoLiE/0x1651:4284x4060/432x243/filters:format(jpg)/2026/11/03/6ae9f709c1867474899047.jpg",
-   "date": null,
-   "pubdate": "2026-11-07T19:28:35.927746+00:00"
-  },
-  {
-   "title": "Ce que l'on sait de l'arrestation du père de Meghan Markle pour détention d'images pédopornographiques Des diapositives, des magazines ou encore du matériel informatique ont été retrouvés lors de perquisitions aux Etats-Unis, aux Philippines et au Mexique. La duchesse de Sussex, qui avait pris ses distances avec son père depuis plusieurs années, se dit \"bouleversée\". 7 novembre",
-   "link": "https://www.franceinfo.fr/societe/familles-royales/ce-que-l-on-sait-de-l-arrestation-du-pere-de-meghan-markle-pour-detention-d-images-pedopornographiques_8272070.html",
-   "summary": "Ce que l'on sait de l'arrestation du père de Meghan Markle pour détention d'images pédopornographiques",
-   "image": "https://www.franceinfo.fr/pictures/L2H5HPqehcTYonl0GSAWaMQJD3U/0x213:1800x1226/432x243/filters:format(jpg)/2026/11/07/6aef320bb7a34248539339.jpg",
-   "date": null,
-   "pubdate": "2026-11-07T19:28:35.927746+00:00"
-  },
-  {
-   "title": "\"Nous espérons que les mobilisations lycéennes finissent par cesser, nous sommes épuisés\", avertit le principal syndicat des chefs d'établissement De nombreuses villes de France vivent un quatrième samedi de manifestations, deux jours après une mobilisation nationale de grande ampleur à l'appel des syndicats et alors qu'un nouvel appel à la grève dans l'Education nationale est lancé pour mardi. 7 novembre",
-   "link": "https://www.franceinfo.fr/societe/manifestations/nous-esperons-que-les-mobilisations-lyceennes-finissent-par-cesser-nous-sommes-epuises-avertit-le-principal-syndicat-des-chefs-d-etablissement_8272466.html",
-   "summary": "\"Nous espérons que les mobilisations lycéennes finissent par cesser, nous sommes épuisés\", avertit le principal syndicat des chefs d'établissement",
-   "image": "https://www.franceinfo.fr/pictures/cAZv0Q7yCKIDbCXYW6bvi4qYs6U/0x0:1280x720/432x243/filters:format(jpg)/2026/10/07/6ac5e18e3b5b7045298909.jpg",
-   "date": null,
-   "pubdate": "2026-11-07T19:28:35.927746+00:00"
-  },
-  {
-   "title": "\"13h15 le dimanche\". Pauline et Laure, l’amour du jeu Elles forment l'un des couples stars du rugby féminin. Pauline et Laure Bourdon Sansus partagent leur quotidien sur le terrain, l'une en tant que joueuse du XV de France, l'autre en tant qu'entraîneuse, mais aussi leur vie de famille avec l'arrivée en 2025 de leur premier enfant. 8 novembre 45:46 vidéo 45 minutes 46",
-   "link": "https://www.franceinfo.fr/replay-magazine/france-2/13h15/13h15-le-dimanche-pauline-et-laure-l-amour-du-jeu_8246371.html",
-   "summary": "\"13h15 le dimanche\". Pauline et Laure, l’amour du jeu",
-   "image": "https://www.franceinfo.fr/pictures/B_VX698MX-TXelq3JnYA339KY9U/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/06/6aeda9d0acc28410625273.png",
-   "date": null,
-   "pubdate": "2026-11-07T19:28:35.927746+00:00"
-  },
-  {
-   "title": "Deux porte-parole des gilets jaunes interpellés à Paris avant leur rassemblement interdit à la Concorde La coordination des gilets jaunes a appelé à un rassemblement sur la place de la Concorde, dans le cadre de la mobilisation contre la vie chère et pour la jeunesse. La manifestation a été interdite par la préfecture de police de Paris. 7 novembre",
-   "link": "https://www.franceinfo.fr/societe/manifestations/deux-porte-parole-des-gilets-jaunes-interpelles-a-paris-avant-leur-rassemblement-interdit-a-la-concorde_8272388.html",
-   "summary": "Deux porte-parole des gilets jaunes interpellés à Paris avant leur rassemblement interdit à la Concorde",
-   "image": "https://www.franceinfo.fr/pictures/J4Wkq2G6hGQwer2JS5yKO4LakdY/0x732:7952x5205/432x243/filters:format(jpg)/2026/11/07/6aef2a7019c59925608356.jpg",
-   "date": null,
-   "pubdate": "2026-11-07T19:28:35.927746+00:00"
-  },
-  {
-   "title": "Amiens, Rouen, Montpellier… Le point sur les manifestations du 7 novembre en régions Plusieurs dizaines de manifestations sont en cours samedi lors de ce quatrième samedi de mobilisation, pour maintenir la pression sur le gouvernement deux jours avant une conférence sociale avec les syndicats et le patronat, convoquée lundi matin à Matignon. 7 novembre",
-   "link": "https://www.franceinfo.fr/societe/manifestations/clermont-ferrand-pau-angouleme-les-premiers-corteges-et-rassemblements-du-7-novembre-en-regions_8272346.html",
-   "summary": "Amiens, Rouen, Montpellier… Le point sur les manifestations du 7 novembre en régions",
-   "image": "https://www.franceinfo.fr/pictures/Ma-l5lsGhGhJmlqo9nNSYSE9m-0/0x5:1200x680/432x243/filters:format(jpg)/2026/11/07/6aef2322ae6b2178793878.jpeg",
-   "date": null,
-   "pubdate": "2026-11-07T13:13:14.591354+00:00"
-  },
-  {
-   "title": "La série \"L'Affaire Laura Stern\" récompensée aux prix MeTooMedia pour sa mise en lumière des violences faites aux femmes Au total, dix prix distinguant des travaux qui contribuent à une meilleure compréhension des violences sexistes et sexuelles composent le palmarès de la deuxième édition des prix MeTooMedia. 7 novembre",
-   "link": "https://www.franceinfo.fr/culture/series/la-serie-l-affaire-laura-stern-recompensee-aux-prix-metoomedia-pour-sa-mise-en-lumiere-des-violences-faites-aux-femmes_8272211.html",
-   "summary": "La série \"L'Affaire Laura Stern\" récompensée aux prix MeTooMedia pour sa mise en lumière des violences faites aux femmes",
-   "image": "https://www.franceinfo.fr/pictures/NweIkiNJ3r88fj_XaX4e_UVYKko/291x85:1095x537/432x243/filters:format(jpg)/2026/11/07/6aef072f90ce8874889696.jpeg",
-   "date": null,
-   "pubdate": "2026-11-07T13:13:14.591354+00:00"
   },
   {
    "title": ": Reportage \"Ce serait presque drôle, si ça ne montait pas les gens les uns contre les autres\" : après l'incendie de la mairie de Limoges, le plateau de Millevaches pointé du doigt comme un bastion de \"l'ultragauche\" : Reportage 5:15 audio 5 minutes 15",

@@ -1,8 +1,7 @@
 {
- "etag": "\"ohluty\"",
+ "etag": "\"pt9i9r\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/trump-a-t-il-sauve-poutine-3268912": "2026-10-13T16:59:23.968521+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/faut-il-supprimer-parcoursup-8683880": "2026-10-14T17:17:57.294392+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/le-made-in-europe-peut-il-sauver-l-industrie-europeenne-5438299": "2026-10-15T11:00:00+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/glucksmann-candidat-de-la-gauche-la-social-democratie-fait-elle-rever-6421240": "2026-10-16T16:44:29.073698+00:00",
@@ -19,10 +18,19 @@
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/ou-doit-on-placer-le-curseur-entre-libertes-et-securite-8407505": "2026-11-02T11:00:00+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/faut-il-augmenter-le-smic-1087463": "2026-11-03T11:00:00+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/midterms-trump-sous-controle-ou-incontrolable-2549983": "2026-11-04T23:44:42.905624+00:00",
-  "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/prix-litteraire-qu-est-ce-qu-un-bon-roman-8992280": "2026-11-06T23:14:32.799846+00:00"
+  "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/prix-litteraire-qu-est-ce-qu-un-bon-roman-8992280": "2026-11-06T23:14:32.799846+00:00",
+  "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/trappes-la-recuperation-politique-est-elle-inevitable-6057460": "2026-11-09T19:53:30.223464+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "Trappes : la récupération politique est-elle inévitable ?",
+   "link": "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/trappes-la-recuperation-politique-est-elle-inevitable-6057460",
+   "summary": "Après l’attaque raciste de Trappes, plusieurs responsables de gauche dénoncent l’influence de l’extrême droite et certains discours médiatiques. Une mobilisation jugée indispensable par les uns, dénoncée comme une récupération politique par les autres. Où se situe la frontière ?",
+   "image": "https://www.radiofrance.fr/pikapi/images/1898a489-6bbb-403f-9205-d9db1438b5a2/2048",
+   "date": null,
+   "pubdate": "2026-11-09T19:53:30.223464+00:00"
+  },
   {
    "title": "Prix littéraire : qu'est-ce qu'un bon roman ?",
    "link": "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/prix-litteraire-qu-est-ce-qu-un-bon-roman-8992280",
@@ -158,14 +166,6 @@
    "image": "https://www.radiofrance.fr/pikapi/images/b09e98ec-6c4f-4ef0-b972-c84808c5e15c/2048",
    "date": "2026-10-14T11:00:00+00:00",
    "pubdate": "2026-10-14T11:00:00+00:00"
-  },
-  {
-   "title": "Accord sur le diesel : Trump cherche-t-il à sauver Poutine ?",
-   "link": "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/trump-a-t-il-sauve-poutine-3268912",
-   "summary": "En rouvrant la porte au diesel russe, Donald Trump relance les spéculations sur sa stratégie envers Vladimir Poutine. Cette décision peut-elle influer sur la guerre en Ukraine, les relations avec l’Europe ou l’économie russe ? Analyse des enjeux avec nos invités.",
-   "image": "https://www.radiofrance.fr/pikapi/images/dee7d2d9-e7cc-4cd8-be54-c84251048971/2048",
-   "date": "2026-10-13T11:00:00+00:00",
-   "pubdate": "2026-10-13T11:00:00+00:00"
   }
  ]
 }

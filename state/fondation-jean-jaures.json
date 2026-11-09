@@ -1,16 +1,32 @@
 {
  "etag": "",
- "last_modified": "Sun, 08 Nov 2026 20:37:21 GMT",
+ "last_modified": "Mon, 09 Nov 2026 17:45:48 GMT",
  "first_seen": {
   "https://www.jean-jaures.org/publication/du-reve-continental-au-marketing-politique-quand-le-panafricanisme-devient-une-ressource-de-pouvoir/": "2026-11-03T11:00:00+00:00",
   "https://www.jean-jaures.org/publication/24-heures-en-france-le-travail-une-colonne-encore-vertebrale/": "2026-11-03T11:00:00+00:00",
-  "https://www.jean-jaures.org/publication/populisme-europeen-et-discours-anti-genre-focus-sur-la-macedoine-du-nord/": "2026-10-30T11:00:00+00:00",
-  "https://www.jean-jaures.org/publication/payetavocation-quand-prendre-soin-dautrui-rend-pauvre/": "2026-11-02T11:00:00+00:00",
   "https://www.jean-jaures.org/publication/leducation-des-filles-en-afrique-subsaharienne-ce-que-la-parite-ne-change-pas/": "2026-11-06T11:00:00+00:00",
-  "https://www.jean-jaures.org/publication/concilier-le-front-populaire-et-lunion-nationale-une-tentative-de-leon-blum-en-mars-1938/": "2026-11-06T11:00:00+00:00"
+  "https://www.jean-jaures.org/publication/concilier-le-front-populaire-et-lunion-nationale-une-tentative-de-leon-blum-en-mars-1938/": "2026-11-06T11:00:00+00:00",
+  "https://www.jean-jaures.org/publication/de-linfluence-a-la-confiance-faut-il-repenser-la-diplomatie-culturelle/": "2026-11-09T11:00:00+00:00",
+  "https://www.jean-jaures.org/publication/taux-longs-jusquou-peuvent-ils-encore-monter/": "2026-11-09T11:00:00+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "De l’influence à la confiance : faut-il repenser la diplomatie culturelle ?",
+   "link": "https://www.jean-jaures.org/publication/de-linfluence-a-la-confiance-faut-il-repenser-la-diplomatie-culturelle/",
+   "summary": "",
+   "image": "",
+   "date": "2026-11-09T11:00:00+00:00",
+   "pubdate": "2026-11-09T11:00:00+00:00"
+  },
+  {
+   "title": "Taux longs : jusqu’où peuvent-ils encore monter ?",
+   "link": "https://www.jean-jaures.org/publication/taux-longs-jusquou-peuvent-ils-encore-monter/",
+   "summary": "",
+   "image": "",
+   "date": "2026-11-09T11:00:00+00:00",
+   "pubdate": "2026-11-09T11:00:00+00:00"
+  },
   {
    "title": "L’éducation des filles en Afrique subsaharienne : ce que la parité ne change pas",
    "link": "https://www.jean-jaures.org/publication/leducation-des-filles-en-afrique-subsaharienne-ce-que-la-parite-ne-change-pas/",
@@ -42,22 +58,6 @@
    "image": "",
    "date": "2026-11-03T11:00:00+00:00",
    "pubdate": "2026-11-03T11:00:00+00:00"
-  },
-  {
-   "title": "#PayeTaVocation : quand prendre soin d’autrui rend pauvre",
-   "link": "https://www.jean-jaures.org/publication/payetavocation-quand-prendre-soin-dautrui-rend-pauvre/",
-   "summary": "",
-   "image": "",
-   "date": "2026-11-02T11:00:00+00:00",
-   "pubdate": "2026-11-02T11:00:00+00:00"
-  },
-  {
-   "title": "Populisme européen et discours anti-genre : focus sur la Macédoine du Nord",
-   "link": "https://www.jean-jaures.org/publication/populisme-europeen-et-discours-anti-genre-focus-sur-la-macedoine-du-nord/",
-   "summary": "",
-   "image": "",
-   "date": "2026-10-30T11:00:00+00:00",
-   "pubdate": "2026-10-30T11:00:00+00:00"
   }
  ]
 }
