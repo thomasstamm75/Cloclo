@@ -1,69 +1,183 @@
 {
- "etag": "\"d725db79e08b5ef612612e3f65b03ed1-gzip\"",
+ "etag": "\"79adba1d4be82c609a9ca1842f62dd04-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/reportage-on-fait-croire-qu-ici-c-est-dangereux-apres-l-attentat-de-trappes-des-habitants-denoncent-un-acharnement-contre-leur-ville_8257315.html": "2026-10-30T10:09:05.409994+00:00",
   "https://www.franceinfo.fr/politique/grand-entretien-en-belgique-un-cordon-sanitaire-mediatique-empeche-toute-forme-de-banalisation-de-l-extreme-droite-un-outil-difficile-a-imaginer-en-france_8265599.html": "2026-11-04T17:19:31.505349+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-ce-serait-presque-drole-si-ca-ne-montait-pas-les-gens-les-uns-contre-les-autres-apres-l-incendie-de-la-mairie-de-limoges-le-plateau-de-millevaches-pointe-du-doigt-comme-un-bastion-de-l-ultragauche_8249923.html": "2026-11-06T06:56:06.440234+00:00",
-  "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/revalorisation-du-smic-mobilisation-sociale-campagne-presidentielle-de-jean-luc-melenchon-le-8h30-franceinfo-d-antoine-leaument_8232082.html": "2026-11-08T10:30:09.852050+00:00",
-  "https://www.franceinfo.fr/politique/direct-politique-je-n-attends-plus-grand-chose-de-ce-gouvernement-a-part-de-le-remplacer-par-nous-memes-tacle-le-depute-lfi-antoine-leaument_8273093.html": "2026-11-08T10:30:09.852050+00:00",
-  "https://www.franceinfo.fr/economie/entreprises/en-dessous-de-1-700-euros-net-toute-revalorisation-du-smic-equivaudrait-a-des-miettes-accordees-par-des-gens-qui-ont-distribues-des-milliards-aux-plus-riches-declare-le-depute-lfi-antoine-leaument_8273108.html": "2026-11-08T10:30:09.852050+00:00",
   "https://www.franceinfo.fr/elections/quatre-choses-a-ne-pas-oublier-pour-faire-bon-usage-des-sondages-et-enquetes-d-opinion-en-periode-electorale_8270903.html": "2026-11-08T10:30:09.852050+00:00",
-  "https://www.franceinfo.fr/elections/presidentielle/que-ce-jeu-de-massacre-cesse-laurent-wauquiez-veut-une-rencontre-des-candidats-de-droite-a-la-presidentielle-dans-les-15-jours-pour-aboutir-a-un-seul-nom_8273387.html": "2026-11-08T17:57:37.329729+00:00",
-  "https://www.franceinfo.fr/elections/presidentielle/gabriel-attal-juge-siderant-le-peu-de-place-de-l-intelligence-artificielle-dans-la-presidentielle-cle-pour-faire-monter-les-salaires_8273348.html": "2026-11-08T17:57:37.329729+00:00",
-  "https://www.franceinfo.fr/faits-divers/la-deputee-de-la-france-insoumise-farida-amrani-legerement-blessee-par-un-tir-de-mortier-dans-un-salon-de-coiffure_8273474.html": "2026-11-08T22:01:05.766488+00:00",
-  "https://www.franceinfo.fr/elections/presidentielle/ca-ne-peut-qu-apporter-au-pays-emmanuel-macron-felicite-teddy-riner-pour-sa-candidature-a-l-election-presidentielle_8275085.html": "2026-11-09T19:53:19.226284+00:00",
-  "https://www.franceinfo.fr/politique/la-france-insoumise/une-deputee-lfi-blessee-par-un-tir-de-mortier-dans-un-salon-de-coiffure_8274902.html": "2026-11-09T19:53:19.226284+00:00",
   "https://www.franceinfo.fr/economie/syndicats/hausse-du-smic-une-augmentation-insuffisante-pour-la-cfdt-des-miettes-selon-la-cgt_8274710.html": "2026-11-09T19:53:19.226284+00:00",
   "https://www.franceinfo.fr/economie/greve/augmentation-du-smic-allegements-de-charges-pour-les-entreprises-ce-qu-il-faut-retenir-des-annonces-du-gouvernement-a-l-issue-de-la-conference-sociale_8274527.html": "2026-11-09T19:53:19.226284+00:00",
-  "https://www.franceinfo.fr/politique/marine-le-pen/marine-le-pen-affirme-que-la-france-est-le-pays-le-moins-raciste-et-suscite-la-polemique_8274581.html": "2026-11-09T19:53:19.226284+00:00",
   "https://www.franceinfo.fr/politique/raphael-glucksmann/raphael-glucksmann-affirme-avoir-refuse-d-etre-premier-ministre-en-2024_8274305.html": "2026-11-09T19:53:19.226284+00:00",
   "https://www.franceinfo.fr/societe/manifestations/consultations-a-matignon-manifestations-en-quete-d-une-sortie-de-crise-le-gouvernement-entame-une-nouvelle-semaine-sociale-chargee_8274125.html": "2026-11-09T19:53:19.226284+00:00",
-  "https://www.franceinfo.fr/politique/marine-le-pen/marine-le-pen-nie-l-existence-de-discriminations-en-france-dans-une-interview-a-la-television-americaine_8274212.html": "2026-11-09T19:53:19.226284+00:00",
-  "https://www.franceinfo.fr/elections/presidentielle/thierry-breton-ne-ferme-pas-la-porte-a-une-candidature-pour-l-election-presidentielle-en-2027_8274176.html": "2026-11-09T19:53:19.226284+00:00",
-  "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-la-conference-sociale-un-objet-plus-politique-qu-il-n-y-parait_8253658.html": "2026-11-09T19:53:19.226284+00:00",
-  "https://www.franceinfo.fr/politique/marine-le-pen/pas-de-discriminations-en-france-les-affirmations-de-marine-le-pen-sur-la-chaine-americaine-cbs-a-l-epreuve-des-chiffres_8275217.html": "2026-11-10T03:37:16.158562+00:00",
-  "https://www.franceinfo.fr/politique/marine-le-pen/il-n-y-a-pas-de-discriminations-en-france-pour-marine-le-pen_8275169.html": "2026-11-10T03:37:16.158562+00:00",
-  "https://www.franceinfo.fr/economie/entreprises/si-le-smic-augmente-je-suis-oblige-d-augmenter-les-autres-la-hausse-du-salaire-minimum-vue-par-des-salaries-et-dirigeants-de-pme_8275166.html": "2026-11-10T03:37:16.158562+00:00",
-  "https://www.franceinfo.fr/environnement/actions-ecologiques/gestion-des-dechets/cameras-brigade-de-surveillance-ces-communes-qui-luttent-activement-contre-les-depots-sauvages-d-ordures_8275148.html": "2026-11-10T03:37:16.158562+00:00",
-  "https://www.franceinfo.fr/elections/municipales/le-maire-d-evreux-dans-l-eure-a-saisi-le-conseil-d-etat-pour-contester-l-annulation-des-deux-tours-de-l-election-municipale_8275130.html": "2026-11-10T03:37:16.158562+00:00"
+  "https://www.franceinfo.fr/elections/municipales/le-maire-d-evreux-dans-l-eure-a-saisi-le-conseil-d-etat-pour-contester-l-annulation-des-deux-tours-de-l-election-municipale_8275130.html": "2026-11-10T03:37:16.158562+00:00",
+  "https://www.franceinfo.fr/elections/presidentielle/la-candidature-ni-de-droite-ni-de-gauche-de-teddy-riner-fait-reagir-a-l-assemblee-nationale_8276381.html": "2026-11-10T14:58:50.784357+00:00",
+  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/jet-de-bouteille-d-essence-enquete-ouverte-ce-que-l-on-sait-de-l-agression-d-une-conseillere-regionale-devant-un-lycee-de-chelles_8276324.html": "2026-11-10T14:58:50.784357+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/c-est-au-peuple-de-decider-lui-meme-ce-qu-il-veut-on-vous-resume-la-polemique-suscitee-par-les-propos-de-jean-luc-melenchon-sur-l-ukraine_8276072.html": "2026-11-10T14:58:50.784357+00:00",
+  "https://www.franceinfo.fr/politique/la-petition-appelant-a-supprimer-cnews-de-l-audiovisuel-francais-classee-par-la-commission-de-l-assemblee-nationale_8276303.html": "2026-11-10T14:58:50.784357+00:00",
+  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/pres-de-300-membres-de-l-education-nationale-ont-ete-blesses-lors-du-mouvement-lyceen-selon-le-gouvernement_8276330.html": "2026-11-10T14:58:50.784357+00:00",
+  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/une-conseillere-regionale-porte-plainte-apres-avoir-ete-visee-par-un-jet-de-bouteille-d-essence-devant-un-lycee-a-chelles-en-banlieue-parisienne_8276198.html": "2026-11-10T14:58:50.784357+00:00",
+  "https://www.franceinfo.fr/politique/front-national/info-franceinfo-le-rn-a-un-obtenu-un-pre-accord-de-deux-banques-europeennes-pour-financer-sa-campagne-pour-la-presidentielle_8276195.html": "2026-11-10T14:58:50.784357+00:00",
+  "https://www.franceinfo.fr/replay-radio/le-monde-et-vous/de-la-stasi-a-nvidia-les-pieges-amoureux-une-vieille-arme-de-l-espionnage_8254990.html": "2026-11-10T14:58:50.784357+00:00",
+  "https://www.franceinfo.fr/politique/revalorisation-du-smic-c-est-une-avancee-importante-parce-qu-on-va-enfin-pouvoir-faire-la-verite-des-prix-sur-les-salaires-avec-la-volonte-ou-non-reelle-des-employeurs-d-avancer-affirme-marylise-leon-secretaire-generale-de-la-cfdt_8275934.html": "2026-11-10T14:58:50.784357+00:00",
+  "https://www.franceinfo.fr/politique/affaire/financement-de-la-campagne-de-sarkozy/soupcons-de-financement-libyen-tout-comprendre-a-l-affaire/": "2026-11-10T14:58:50.784357+00:00",
+  "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/tout-comprendre-au-proces-des-assistants-parlementaires-fn/": "2026-11-10T14:58:50.784357+00:00",
+  "https://www.franceinfo.fr/elections/presidentielle/candidats/gabriel-attal-dit-bienvenue-a-teddy-riner-dans-cette-course-a-l-election-presidentielle_8275922.html": "2026-11-10T14:58:50.784357+00:00",
+  "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/comment-le-gouvernement-remet-au-gout-du-jour-les-primes-macron_8255020.html": "2026-11-10T14:58:50.784357+00:00",
+  "https://www.franceinfo.fr/politique/emmanuel-macron/brigitte-macron/le-couple-presidentiel-a-depose-une-nouvelle-plainte-en-diffamation-contre-l-influenceuse-complotiste-candace-owens_8275838.html": "2026-11-10T14:58:50.784357+00:00",
+  "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/le-pape-leon-xiv-la-voix-politique-qu-on-n-attendait-pas_8254999.html": "2026-11-10T14:58:50.784357+00:00",
+  "https://www.franceinfo.fr/politique/emmanuel-macron/emmanuel-macron-estime-qu-il-faut-interdire-l-ia-la-ou-elle-comporte-un-risque-pour-les-enfants_8275799.html": "2026-11-10T14:58:50.784357+00:00",
+  "https://www.franceinfo.fr/economie/reportage-c-est-un-peu-comme-si-on-etait-des-mendiants-la-hausse-du-smic-ne-convainc-pas-les-salaries-concernes_8275127.html": "2026-11-10T14:58:50.784357+00:00",
+  "https://www.franceinfo.fr/societe/education/cours-de-soutien-allegement-du-programme-modification-des-epreuves-le-bac-doit-il-etre-adapte-en-raison-de-la-mobilisation-lyceenne_8274485.html": "2026-11-10T14:58:50.784357+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "\"Pas de discriminations en France\" : les affirmations de Marine Le Pen sur la chaîne américaine CBS à l'épreuve des chiffres \"La France est le pays le moins raciste au monde\", c’est ce qu’a affirmé Marine Le Pen à la télévision américaine. La cheffe de file du Rassemblement national et candidate à l'élection présidentielle assure aussi qu’il n’y a pas de discriminations dans notre pays. Mais sur quoi peut-on s’appuyer pour le dire ? À l’embauche, dans la vie quotidienne, des études permettent de mesurer ces inégalités. Nous avons confronté ses propos aux chiffres disponibles. Aujourd'hui 2:13 vidéo 2 minutes 13",
-   "link": "https://www.franceinfo.fr/politique/marine-le-pen/pas-de-discriminations-en-france-les-affirmations-de-marine-le-pen-sur-la-chaine-americaine-cbs-a-l-epreuve-des-chiffres_8275217.html",
-   "summary": "\"Pas de discriminations en France\" : les affirmations de Marine Le Pen sur la chaîne américaine CBS à l'épreuve des chiffres",
-   "image": "https://www.franceinfo.fr/pictures/zQcgDpl8scjzbxrudLrdojOxFs4/127x0:1239x765/432x297/filters:format(jpg)/2026/11/09/6af23e75ac2cb651002270.jpg",
+   "title": "La candidature \"ni de droite ni de gauche\" de Teddy Riner fait réagir à l'Assemblée nationale La vidéo de la candidature surprise de Teddy Riner dépasse désormais les 10 millions de vues sur X comme sur Instagram, en une seule journée. Cette annonce a surpris jusqu'au sein de l'Assemblée nationale, où elle divise. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/elections/presidentielle/la-candidature-ni-de-droite-ni-de-gauche-de-teddy-riner-fait-reagir-a-l-assemblee-nationale_8276381.html",
+   "summary": "La candidature \"ni de droite ni de gauche\" de Teddy Riner fait réagir à l'Assemblée nationale",
+   "image": "https://www.franceinfo.fr/pictures/J_ApcBQFY9L_YApu5Lf75Dotix8/0x10:4300x2967/432x297/filters:format(jpg)/2026/11/10/6af326ce1ee02755167865.jpg",
    "date": null,
-   "pubdate": "2026-11-10T03:37:16.158562+00:00"
+   "pubdate": "2026-11-10T14:58:50.784357+00:00"
   },
   {
-   "title": "\"Il n'y a pas de discriminations en France\" pour Marine Le Pen Aujourd'hui 2:16 vidéo 2 minutes 16",
-   "link": "https://www.franceinfo.fr/politique/marine-le-pen/il-n-y-a-pas-de-discriminations-en-france-pour-marine-le-pen_8275169.html",
-   "summary": "\"Il n'y a pas de discriminations en France\" pour Marine Le Pen",
-   "image": "https://www.franceinfo.fr/pictures/Fl6SRjFTQRJo88cwERIBJjqxrgM/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/09/6af22f30bb9db981719909.jpg",
+   "title": "Jet de bouteille d'essence, enquête ouverte… Ce que l'on sait de l'agression d'une conseillère régionale devant un lycée de Chelles Aujourd'hui",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/jet-de-bouteille-d-essence-enquete-ouverte-ce-que-l-on-sait-de-l-agression-d-une-conseillere-regionale-devant-un-lycee-de-chelles_8276324.html",
+   "summary": "Jet de bouteille d'essence, enquête ouverte… Ce que l'on sait de l'agression d'une conseillère régionale devant un lycée de Chelles",
+   "image": "https://www.franceinfo.fr/pictures/VaN9d19WfNDALSMw_9Szfq35q4U/210x0:1294x610/432x243/filters:format(jpg)/2026/11/10/6af317fe6eb5f952536032.png",
    "date": null,
-   "pubdate": "2026-11-10T03:37:16.158562+00:00"
+   "pubdate": "2026-11-10T14:58:50.784357+00:00"
   },
   {
-   "title": "\"Si le Smic augmente, je suis obligé d'augmenter les autres\" : la hausse du salaire minimum vue par des salariés et dirigeants de PME Aujourd'hui 2:06 vidéo 2 minutes 6",
-   "link": "https://www.franceinfo.fr/economie/entreprises/si-le-smic-augmente-je-suis-oblige-d-augmenter-les-autres-la-hausse-du-salaire-minimum-vue-par-des-salaries-et-dirigeants-de-pme_8275166.html",
-   "summary": "\"Si le Smic augmente, je suis obligé d'augmenter les autres\" : la hausse du salaire minimum vue par des salariés et dirigeants de PME",
-   "image": "https://www.franceinfo.fr/pictures/NpVHp_eX4mAngEQ5GiZ8vghOOAA/109x0:1109x562/432x243/filters:format(jpg)/2026/11/09/6af2325e86a72614139309.jpg",
+   "title": "\"C'est au peuple de décider ce qu'il veut\" : on vous résume la polémique suscitée par les propos de Jean-Luc Mélenchon sur l'Ukraine Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/c-est-au-peuple-de-decider-lui-meme-ce-qu-il-veut-on-vous-resume-la-polemique-suscitee-par-les-propos-de-jean-luc-melenchon-sur-l-ukraine_8276072.html",
+   "summary": "\"C'est au peuple de décider ce qu'il veut\" : on vous résume la polémique suscitée par les propos de Jean-Luc Mélenchon sur l'Ukraine",
+   "image": "https://www.franceinfo.fr/pictures/4pJWV6LjlZ_f9QY0FX7A7BzM8tY/0x79:1024x655/432x243/filters:format(jpg)/2026/11/10/6af307e08b15a792970968.jpg",
    "date": null,
-   "pubdate": "2026-11-10T03:37:16.158562+00:00"
+   "pubdate": "2026-11-10T14:58:50.784357+00:00"
   },
   {
-   "title": "Caméras, brigade de surveillance… Ces communes qui luttent activement contre les dépôts sauvages d'ordures Aujourd'hui 2:14 vidéo 2 minutes 14",
-   "link": "https://www.franceinfo.fr/environnement/actions-ecologiques/gestion-des-dechets/cameras-brigade-de-surveillance-ces-communes-qui-luttent-activement-contre-les-depots-sauvages-d-ordures_8275148.html",
-   "summary": "Caméras, brigade de surveillance… Ces communes qui luttent activement contre les dépôts sauvages d'ordures",
-   "image": "https://www.franceinfo.fr/pictures/pIA_paSC5ky7GxvJtHwewLNXX78/117x0:1373x707/432x243/filters:format(jpg)/2026/11/09/6af22be4d4d1a408828103.jpg",
+   "title": "La pétition appelant à \"supprimer CNews de l'audiovisuel français\" classée en commission à l'Assemblée nationale Aujourd'hui",
+   "link": "https://www.franceinfo.fr/politique/la-petition-appelant-a-supprimer-cnews-de-l-audiovisuel-francais-classee-par-la-commission-de-l-assemblee-nationale_8276303.html",
+   "summary": "La pétition appelant à \"supprimer CNews de l'audiovisuel français\" classée en commission à l'Assemblée nationale",
+   "image": "https://www.franceinfo.fr/pictures/T9vUVyI6PQcWRsL_M6YDOTK690A/0x4:1024x580/432x243/filters:format(jpg)/2026/11/10/6af30a9dd820f631326094.jpg",
    "date": null,
-   "pubdate": "2026-11-10T03:37:16.158562+00:00"
+   "pubdate": "2026-11-10T14:58:50.784357+00:00"
   },
   {
-   "title": "Le maire d'Evreux, dans l'Eure, a saisi le Conseil d'Etat pour contester l'annulation des deux tours de l'élection municipale Aujourd'hui",
+   "title": "Quelque 240 membres de l'Education nationale ont été blessés lors du mouvement lycéen, annonce le gouvernement Aujourd'hui",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/pres-de-300-membres-de-l-education-nationale-ont-ete-blesses-lors-du-mouvement-lyceen-selon-le-gouvernement_8276330.html",
+   "summary": "Quelque 240 membres de l'Education nationale ont été blessés lors du mouvement lycéen, annonce le gouvernement",
+   "image": "https://www.franceinfo.fr/pictures/p7aQ1sK_6iZYbAkYlnmng55ouCE/0x0:1024x576/432x243/filters:format(jpg)/2026/11/10/6af30faebc0d6864844533.jpg",
+   "date": null,
+   "pubdate": "2026-11-10T14:58:50.784357+00:00"
+  },
+  {
+   "title": "Une conseillère régionale porte plainte après avoir été visée par un jet de bouteille d'essence devant un lycée à Chelles, en banlieue parisienne Aujourd'hui",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/une-conseillere-regionale-porte-plainte-apres-avoir-ete-visee-par-un-jet-de-bouteille-d-essence-devant-un-lycee-a-chelles-en-banlieue-parisienne_8276198.html",
+   "summary": "Une conseillère régionale porte plainte après avoir été visée par un jet de bouteille d'essence devant un lycée à Chelles, en banlieue parisienne",
+   "image": "https://www.franceinfo.fr/pictures/5qUAkHdZ5KhGyAjNl9dSrNJ4_zo/0x29:934x555/432x243/filters:format(jpg)/2026/11/10/6af2f271b9c85390132804.png",
+   "date": null,
+   "pubdate": "2026-11-10T14:58:50.784357+00:00"
+  },
+  {
+   "title": ": Info franceinfo Le RN a un obtenu un pré-accord de deux banques européennes pour financer sa campagne pour la présidentielle Aujourd'hui : Info franceinfo",
+   "link": "https://www.franceinfo.fr/politique/front-national/info-franceinfo-le-rn-a-un-obtenu-un-pre-accord-de-deux-banques-europeennes-pour-financer-sa-campagne-pour-la-presidentielle_8276195.html",
+   "summary": "Le RN a un obtenu un pré-accord de deux banques européennes pour financer sa campagne pour la présidentielle",
+   "image": "https://www.franceinfo.fr/pictures/yL7MGPpEpS0At5S_LxtmA9QzMtM/0x0:1024x576/432x243/filters:format(jpg)/2026/11/10/6af3010ddd460805874363.png",
+   "date": null,
+   "pubdate": "2026-11-10T14:58:50.784357+00:00"
+  },
+  {
+   "title": "De la Stasi à Nvidia : les pièges amoureux, une vieille arme de l'espionnage Aujourd'hui 2:28 audio 2 minutes 28",
+   "link": "https://www.franceinfo.fr/replay-radio/le-monde-et-vous/de-la-stasi-a-nvidia-les-pieges-amoureux-une-vieille-arme-de-l-espionnage_8254990.html",
+   "summary": "De la Stasi à Nvidia : les pièges amoureux, une vieille arme de l'espionnage",
+   "image": "https://www.franceinfo.fr/pictures/sx8OlbYMnUCMEtyDt5PtO7bgvVU/0x118:2107x1304/432x243/filters:format(jpg)/2026/11/10/6af2dbbde99d3161992176.jpg",
+   "date": null,
+   "pubdate": "2026-11-10T14:58:50.784357+00:00"
+  },
+  {
+   "title": "Revalorisation du smic : \"On va enfin pouvoir faire la vérité des prix sur les salaires\", affirme la secrétaire générale de la CFDT Aujourd'hui 8:27 vidéo 8 minutes 27",
+   "link": "https://www.franceinfo.fr/politique/revalorisation-du-smic-c-est-une-avancee-importante-parce-qu-on-va-enfin-pouvoir-faire-la-verite-des-prix-sur-les-salaires-avec-la-volonte-ou-non-reelle-des-employeurs-d-avancer-affirme-marylise-leon-secretaire-generale-de-la-cfdt_8275934.html",
+   "summary": "Revalorisation du smic : \"On va enfin pouvoir faire la vérité des prix sur les salaires\", affirme la secrétaire générale de la CFDT",
+   "image": "https://www.franceinfo.fr/pictures/rT23cQcQCk8wlYGQxL2s4G47G7w/0x19:2334x1332/432x243/filters:format(jpg)/2026/11/10/6af2d56973718511793953.png",
+   "date": null,
+   "pubdate": "2026-11-10T14:58:50.784357+00:00"
+  },
+  {
+   "title": "Soupçons de financement libyen : tout comprendre à l'affaire 29 contenus",
+   "link": "https://www.franceinfo.fr/politique/affaire/financement-de-la-campagne-de-sarkozy/soupcons-de-financement-libyen-tout-comprendre-a-l-affaire/",
+   "summary": "Soupçons de financement libyen : tout comprendre à l'affaire",
+   "image": "https://www.franceinfo.fr/pictures/v8aRR1aSuiF4ZIj9DIPv2bzZJf8/432x297/filters:format(jpg)/2025/10/22/sarkozymontage-68f8fa8dd58da459326159.jpg",
+   "date": null,
+   "pubdate": "2026-11-10T14:58:50.784357+00:00"
+  },
+  {
+   "title": "Tout comprendre au procès des assistants parlementaires FN 20 contenus",
+   "link": "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/tout-comprendre-au-proces-des-assistants-parlementaires-fn/",
+   "summary": "Tout comprendre au procès des assistants parlementaires FN",
+   "image": "https://www.franceinfo.fr/pictures/iHJ4ZCCHTABB8-X6GO7CrL-9zcI/432x297/filters:format(jpg)/2026/01/28/marine-le-pen-a-son-proces-en-appel-697a50d594f91234092099.jpg",
+   "date": null,
+   "pubdate": "2026-11-10T14:58:50.784357+00:00"
+  },
+  {
+   "title": "Gabriel Attal souhaite la \"bienvenue\" à Teddy Riner \"dans cette course\" à l’élection présidentielle L'ancien Premier ministre et candidat Renaissance à l'élection présidentielle de 2027 parle sur France Inter d'une candidature qui vient \"enrichir l'offre politique existante\". Aujourd'hui",
+   "link": "https://www.franceinfo.fr/elections/presidentielle/candidats/gabriel-attal-dit-bienvenue-a-teddy-riner-dans-cette-course-a-l-election-presidentielle_8275922.html",
+   "summary": "Gabriel Attal souhaite la \"bienvenue\" à Teddy Riner \"dans cette course\" à l’élection présidentielle",
+   "image": "https://www.franceinfo.fr/pictures/XYHj5tbXqpZxHmXebJthLGy-9Ng/0x0:1833x1031/432x243/filters:format(jpg)/2026/11/10/6af2ccdf0f372172203286.png",
+   "date": null,
+   "pubdate": "2026-11-10T14:58:50.784357+00:00"
+  },
+  {
+   "title": "Comment le gouvernement remet au goût du jour les primes Macron Exonération de la CSG, heures supplémentaires défiscalisées, prime carburant... Le gouvernement a annoncé l'augmentation du smic, mais il mise aussi sur les primes pour soutenir le pouvoir d'achat des salariés. Aujourd'hui 2:04 audio 2 minutes 4",
+   "link": "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/comment-le-gouvernement-remet-au-gout-du-jour-les-primes-macron_8255020.html",
+   "summary": "Comment le gouvernement remet au goût du jour les primes Macron",
+   "image": "https://www.franceinfo.fr/pictures/vWNzmYkbYy33BxgPNXfUZYyqg4w/0x625:6000x4000/432x243/filters:format(jpg)/2026/11/10/6af2bfe3963a8642660854.jpg",
+   "date": null,
+   "pubdate": "2026-11-10T14:58:50.784357+00:00"
+  },
+  {
+   "title": "Le couple présidentiel a déposé une nouvelle plainte en diffamation contre l'influenceuse complotiste Candace Owens Cette Américaine est accusée d'avoir diffusé et exploité la fausse information selon laquelle Brigitte Macron serait une personne transgenre. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/politique/emmanuel-macron/brigitte-macron/le-couple-presidentiel-a-depose-une-nouvelle-plainte-en-diffamation-contre-l-influenceuse-complotiste-candace-owens_8275838.html",
+   "summary": "Le couple présidentiel a déposé une nouvelle plainte en diffamation contre l'influenceuse complotiste Candace Owens",
+   "image": "https://www.franceinfo.fr/pictures/h4eWvLh_n4VpE1fjRuxTss6ui8I/0x66:1024x642/432x243/filters:format(jpg)/2026/11/10/6af2bb5be31ca060945686.jpg",
+   "date": null,
+   "pubdate": "2026-11-10T14:58:50.784357+00:00"
+  },
+  {
+   "title": "Le pape Léon XIV, la voix politique qu'on n'attendait pas Le souverain pontife effectue une tournée en Amérique du Sud. Argentine, Uruguay, Pérou, le chef de l'Église catholique, âgé de 71 ans, entend redonner de la voix à l'Église. Aujourd'hui 2:40 audio 2 minutes 40",
+   "link": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/le-pape-leon-xiv-la-voix-politique-qu-on-n-attendait-pas_8254999.html",
+   "summary": "Le pape Léon XIV, la voix politique qu'on n'attendait pas",
+   "image": "https://www.franceinfo.fr/pictures/7yTpG4VWcsQo1CVSZ38PNv6tr9I/0x738:7087x4725/432x243/filters:format(jpg)/2026/11/10/6af2b10bb3da6238386077.jpg",
+   "date": null,
+   "pubdate": "2026-11-10T14:58:50.784357+00:00"
+  },
+  {
+   "title": "Emmanuel Macron estime qu'il faut \"interdire\" l'IA là où elle comporte un \"risque\" pour les enfants Cette déclaration, relayée par le quotidien \"Les Echos\", intervient à la veille de l'adoption d'une charte en la matière au Forum de Paris sur la paix. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/politique/emmanuel-macron/emmanuel-macron-estime-qu-il-faut-interdire-l-ia-la-ou-elle-comporte-un-risque-pour-les-enfants_8275799.html",
+   "summary": "Emmanuel Macron estime qu'il faut \"interdire\" l'IA là où elle comporte un \"risque\" pour les enfants",
+   "image": "https://www.franceinfo.fr/pictures/0xNaAe0Tpdc8fH_zvi47tl0Npxc/0x0:1024x576/432x243/filters:format(jpg)/2026/11/10/6af2b7a25d9f4313988542.jpg",
+   "date": null,
+   "pubdate": "2026-11-10T14:58:50.784357+00:00"
+  },
+  {
+   "title": ": Reportage \"C'est un peu comme si on était des mendiants\", la hausse du smic ne convainc pas les salariés concernés Le salaire minimum atteindra environ 1 502 euros par mois, soit près de 24 euros supplémentaires par rapport à aujourd'hui. Une revalorisation qui ne convainc pas les premiers concernés, ceux qui sont payés au smic. Aujourd'hui : Reportage",
+   "link": "https://www.franceinfo.fr/economie/reportage-c-est-un-peu-comme-si-on-etait-des-mendiants-la-hausse-du-smic-ne-convainc-pas-les-salaries-concernes_8275127.html",
+   "summary": "\"C'est un peu comme si on était des mendiants\", la hausse du smic ne convainc pas les salariés concernés",
+   "image": "https://www.franceinfo.fr/pictures/mF3RNvL2-HJk7FJST_VhzMcrsLQ/0x218:5000x3031/432x243/filters:format(jpg)/2026/05/28/6a17dae05617d614864510.jpg",
+   "date": null,
+   "pubdate": "2026-11-10T14:58:50.784357+00:00"
+  },
+  {
+   "title": "Cours de soutien, allégement du programme, modification des épreuves… Le bac doit-il être adapté en raison de la mobilisation lycéenne ? Malgré le retard pris dans l'apprentissage des programmes, le gouvernement ferme pour l'instant la porte à un report des épreuves. Il plaide plutôt pour l'instauration de cours supplémentaires. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/societe/education/cours-de-soutien-allegement-du-programme-modification-des-epreuves-le-bac-doit-il-etre-adapte-en-raison-de-la-mobilisation-lyceenne_8274485.html",
+   "summary": "Cours de soutien, allégement du programme, modification des épreuves… Le bac doit-il être adapté en raison de la mobilisation lycéenne ?",
+   "image": "https://www.franceinfo.fr/pictures/4h8JGFX35iyAD_Iw6IpPeqcf2Zg/0x304:5184x3220/432x243/filters:format(jpg)/2026/11/09/6af1b2b0cda2d267278611.jpg",
+   "date": null,
+   "pubdate": "2026-11-10T14:58:50.784357+00:00"
+  },
+  {
+   "title": "Le maire d'Evreux, dans l'Eure, a saisi le Conseil d'Etat pour contester l'annulation des deux tours de l'élection municipale En cas de confirmation du jugement rendu par le tribunal administratif de Rouen, de nouvelles élections devront être organisées au plus tard début août 2027. 9 novembre",
    "link": "https://www.franceinfo.fr/elections/municipales/le-maire-d-evreux-dans-l-eure-a-saisi-le-conseil-d-etat-pour-contester-l-annulation-des-deux-tours-de-l-election-municipale_8275130.html",
    "summary": "Le maire d'Evreux, dans l'Eure, a saisi le Conseil d'Etat pour contester l'annulation des deux tours de l'élection municipale",
    "image": "https://www.franceinfo.fr/pictures/akOEiXXRv5UYQ1W0skPDtvuYYxU/0x864:4608x3456/432x243/filters:format(jpg)/2026/11/09/6af22a41122b8714227794.jpg",
@@ -71,23 +185,7 @@
    "pubdate": "2026-11-10T03:37:16.158562+00:00"
   },
   {
-   "title": ": Vidéo \"Ça ne peut qu'apporter au pays\" : Emmanuel Macron félicite Teddy Riner pour sa candidature à l'élection présidentielle Aujourd'hui : Vidéo 0:32 vidéo 32 secondes",
-   "link": "https://www.franceinfo.fr/elections/presidentielle/ca-ne-peut-qu-apporter-au-pays-emmanuel-macron-felicite-teddy-riner-pour-sa-candidature-a-l-election-presidentielle_8275085.html",
-   "summary": "\"Ça ne peut qu'apporter au pays\" : Emmanuel Macron félicite Teddy Riner pour sa candidature à l'élection présidentielle",
-   "image": "https://www.franceinfo.fr/pictures/R7L6YTamT5uBoFgKHgQzPPvJk2g/0x18:1024x594/432x243/filters:format(jpg)/2026/11/09/6af21a89be701513138555.jpg",
-   "date": null,
-   "pubdate": "2026-11-09T19:53:19.226284+00:00"
-  },
-  {
-   "title": "Une députée LFI blessée par un tir de mortier dans un salon de coiffure Aujourd'hui 1:15 vidéo 1 minute 15",
-   "link": "https://www.franceinfo.fr/politique/la-france-insoumise/une-deputee-lfi-blessee-par-un-tir-de-mortier-dans-un-salon-de-coiffure_8274902.html",
-   "summary": "Une députée LFI blessée par un tir de mortier dans un salon de coiffure",
-   "image": "https://www.franceinfo.fr/pictures/rElXfrYpkjrS475Mxqd7MWi6RL8/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/09/6af1fb7487186127137111.png",
-   "date": null,
-   "pubdate": "2026-11-09T19:53:19.226284+00:00"
-  },
-  {
-   "title": "L'augmentation du smic annoncée par le gouvernement est \"insuffisante\" pour la CFDT, et représente \"des miettes\" pour la CGT Aujourd'hui",
+   "title": "L'augmentation du smic annoncée par le gouvernement est \"insuffisante\" pour la CFDT, et représente \"des miettes\" pour la CGT A l'issue d'une conférence sociale à Matignon, le gouvernement a annoncé une hausse anticipée d'un mois et supérieure de 5 euros par rapport à celle qui devait s'appliquer automatiquement le 1er janvier. 9 novembre",
    "link": "https://www.franceinfo.fr/economie/syndicats/hausse-du-smic-une-augmentation-insuffisante-pour-la-cfdt-des-miettes-selon-la-cgt_8274710.html",
    "summary": "L'augmentation du smic annoncée par le gouvernement est \"insuffisante\" pour la CFDT, et représente \"des miettes\" pour la CGT",
    "image": "https://www.franceinfo.fr/pictures/PvJ3vaAEQ_PtAZQSKSX5s1RbxR0/0x0:4272x2403/432x243/filters:format(jpg)/2026/11/09/6af1e53114f91423689603.jpg",
@@ -95,7 +193,7 @@
    "pubdate": "2026-11-09T19:53:19.226284+00:00"
   },
   {
-   "title": "Augmentation du smic, allègements de charges pour les entreprises... Ce qu'il faut retenir des annonces du gouvernement à l'issue de la conférence sociale Aujourd'hui",
+   "title": "Augmentation du smic, allègements de charges pour les entreprises... Ce qu'il faut retenir des annonces du gouvernement à l'issue de la conférence sociale Le Premier ministre Sébastien Lecornu a notamment promis une revalorisation du smic au-delà de l'inflation dès le 1er décembre. Non satisfaits, les syndicats ont appelé à poursuivre la mobilisation sociale entamée fin septembre par les lycéens. 9 novembre",
    "link": "https://www.franceinfo.fr/economie/greve/augmentation-du-smic-allegements-de-charges-pour-les-entreprises-ce-qu-il-faut-retenir-des-annonces-du-gouvernement-a-l-issue-de-la-conference-sociale_8274527.html",
    "summary": "Augmentation du smic, allègements de charges pour les entreprises... Ce qu'il faut retenir des annonces du gouvernement à l'issue de la conférence sociale",
    "image": "https://www.franceinfo.fr/pictures/jA5l8YLDVXFT4MCDmwOHowenIAk/0x106:1024x682/432x243/filters:format(jpg)/2026/11/09/6af1c698c6cbf513265732.jpg",
@@ -103,15 +201,7 @@
    "pubdate": "2026-11-09T19:53:19.226284+00:00"
   },
   {
-   "title": "Marine Le Pen affirme que la France est \"le pays le moins raciste\" et suscite la polémique Aujourd'hui 1:44 vidéo 1 minute 44",
-   "link": "https://www.franceinfo.fr/politique/marine-le-pen/marine-le-pen-affirme-que-la-france-est-le-pays-le-moins-raciste-et-suscite-la-polemique_8274581.html",
-   "summary": "Marine Le Pen affirme que la France est \"le pays le moins raciste\" et suscite la polémique",
-   "image": "https://www.franceinfo.fr/pictures/0tJ0tV3XXB7kfbcbbq82H9Z_aSs/0x44:2694x1559/432x243/filters:format(jpg)/2026/11/09/6af1cb6c74003241498946.png",
-   "date": null,
-   "pubdate": "2026-11-09T19:53:19.226284+00:00"
-  },
-  {
-   "title": "Raphaël Glucksmann affirme qu'il a refusé d'être Premier ministre d'Emmanuel Macron en 2024, après la dissolution Une preuve, selon le candidat à la présidentielle PS-Place publique, de sa distance idéologique avec le macronisme. Aujourd'hui",
+   "title": "Raphaël Glucksmann affirme qu'il a refusé d'être Premier ministre d'Emmanuel Macron en 2024, après la dissolution Une preuve, selon le candidat à la présidentielle PS-Place publique, de sa distance idéologique avec le macronisme. 9 novembre",
    "link": "https://www.franceinfo.fr/politique/raphael-glucksmann/raphael-glucksmann-affirme-avoir-refuse-d-etre-premier-ministre-en-2024_8274305.html",
    "summary": "Raphaël Glucksmann affirme qu'il a refusé d'être Premier ministre d'Emmanuel Macron en 2024, après la dissolution",
    "image": "https://www.franceinfo.fr/pictures/oMPlnVntpjCqo_cDhfHdfuRyYIg/0x106:1024x682/432x243/filters:format(jpg)/2026/11/09/6af19872d116b302821243.jpg",
@@ -119,7 +209,7 @@
    "pubdate": "2026-11-09T19:53:19.226284+00:00"
   },
   {
-   "title": "Consultations à Matignon, manifestations… En quête d'une sortie de crise, le gouvernement entame une nouvelle semaine sociale chargée Le Premier ministre reçoit lundi matin à Matignon les partenaires sociaux, avant de rencontrer dans l'après-midi les représentants de la jeunesse. Un appel à faire grève et à manifester a déjà été lancé par l'intersyndicale de l'Education pour mardi. Aujourd'hui",
+   "title": "Consultations à Matignon, manifestations… En quête d'une sortie de crise, le gouvernement entame une nouvelle semaine sociale chargée Le Premier ministre reçoit lundi matin à Matignon les partenaires sociaux, avant de rencontrer dans l'après-midi les représentants de la jeunesse. Un appel à faire grève et à manifester a déjà été lancé par l'intersyndicale de l'Education pour mardi. 9 novembre",
    "link": "https://www.franceinfo.fr/societe/manifestations/consultations-a-matignon-manifestations-en-quete-d-une-sortie-de-crise-le-gouvernement-entame-une-nouvelle-semaine-sociale-chargee_8274125.html",
    "summary": "Consultations à Matignon, manifestations… En quête d'une sortie de crise, le gouvernement entame une nouvelle semaine sociale chargée",
    "image": "https://www.franceinfo.fr/pictures/VaGVqnrhYXN9QGePhTsrDq9KwvA/0x39:1024x615/432x243/filters:format(jpg)/2026/11/09/6af17da0842c4414179196.jpg",
@@ -127,82 +217,10 @@
    "pubdate": "2026-11-09T19:53:19.226284+00:00"
   },
   {
-   "title": "Marine Le Pen nie l'existence de discriminations en France dans une interview à la télévision américaine La candidate du Rassemblement nationale à la présidentielle, interrogée par le média américain CBS, a également affirmé que la France est \"le pays le moins raciste au monde\", sans citer d'étude comparative. Aujourd'hui",
-   "link": "https://www.franceinfo.fr/politique/marine-le-pen/marine-le-pen-nie-l-existence-de-discriminations-en-france-dans-une-interview-a-la-television-americaine_8274212.html",
-   "summary": "Marine Le Pen nie l'existence de discriminations en France dans une interview à la télévision américaine",
-   "image": "https://www.franceinfo.fr/pictures/nMO5DQhd6-PRXSWHEGn9Ebeb214/0x18:1024x594/432x243/filters:format(jpg)/2026/11/09/6af189ee4e757479357135.jpg",
-   "date": null,
-   "pubdate": "2026-11-09T19:53:19.226284+00:00"
-  },
-  {
-   "title": "Thierry Breton \"ne ferme pas la porte\" à une candidature pour l'élection présidentielle en 2027 L'ancien ministre de l'Économie dit attendre de \"voir ce qui émerge dans le bloc central\". Interrogé sur France Inter, Thierry Breton assure également qu'il y a \"un problème absolument majeur en France de pouvoir d'achat\", avant la \"conférence sociale\". Aujourd'hui",
-   "link": "https://www.franceinfo.fr/elections/presidentielle/thierry-breton-ne-ferme-pas-la-porte-a-une-candidature-pour-l-election-presidentielle-en-2027_8274176.html",
-   "summary": "Thierry Breton \"ne ferme pas la porte\" à une candidature pour l'élection présidentielle en 2027",
-   "image": "https://www.franceinfo.fr/pictures/xUzGssE1e-jcAWavsx2IgDUDccA/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/09/6af17fd72941e807600637.png",
-   "date": null,
-   "pubdate": "2026-11-09T19:53:19.226284+00:00"
-  },
-  {
-   "title": ": Édito La conférence sociale, un objet plus politique qu’il n’y paraît Le Premier ministre va en personne se charger des annonces lors d’une conférence de presse à l’issue, fidèle à la ligne de l’exécutif : que la démocratie sociale prenne le pas sur la rue. Aujourd'hui : Édito 2:43 audio 2 minutes 43",
-   "link": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-la-conference-sociale-un-objet-plus-politique-qu-il-n-y-parait_8253658.html",
-   "summary": "La conférence sociale, un objet plus politique qu’il n’y paraît",
-   "image": "https://www.franceinfo.fr/pictures/W_62XGiroseqDfkJ-ngDZ1g9vOY/0x45:1024x621/432x243/filters:format(jpg)/2026/11/09/6af166d77cc36402678981.jpg",
-   "date": null,
-   "pubdate": "2026-11-09T19:53:19.226284+00:00"
-  },
-  {
-   "title": "La députée de La France insoumise Farida Amrani, \"légèrement blessée\" par un tir de mortier dans un salon de coiffure L'élue a été \"légèrement touchée aux jambes\" samedi à Evry-Courcouronnes (Essonne). Elle est \"particulièrement choquée\" par cet événement, selon la même source. 8 novembre",
-   "link": "https://www.franceinfo.fr/faits-divers/la-deputee-de-la-france-insoumise-farida-amrani-legerement-blessee-par-un-tir-de-mortier-dans-un-salon-de-coiffure_8273474.html",
-   "summary": "La députée de La France insoumise Farida Amrani, \"légèrement blessée\" par un tir de mortier dans un salon de coiffure",
-   "image": "https://www.franceinfo.fr/pictures/w4yIsttMX50OOqNohr6H35c-HSE/0x18:1024x594/432x243/filters:format(jpg)/2026/11/08/6af0b9e4a18eb147959570.jpg",
-   "date": null,
-   "pubdate": "2026-11-08T22:01:05.766488+00:00"
-  },
-  {
-   "title": "\"Que ce jeu de massacre cesse\" : Laurent Wauquiez veut une rencontre des candidats de droite à la présidentielle dans les 15 jours pour s'accorder sur un nom Le patron des Républicains à l'Assemblée nationale souhaite un candidat \"avec un programme unique à droite\" et ce, \"avant Noël\" afin d'établir une rupture claire avec le macronisme. 8 novembre",
-   "link": "https://www.franceinfo.fr/elections/presidentielle/que-ce-jeu-de-massacre-cesse-laurent-wauquiez-veut-une-rencontre-des-candidats-de-droite-a-la-presidentielle-dans-les-15-jours-pour-aboutir-a-un-seul-nom_8273387.html",
-   "summary": "\"Que ce jeu de massacre cesse\" : Laurent Wauquiez veut une rencontre des candidats de droite à la présidentielle dans les 15 jours pour s'accorder sur un nom",
-   "image": "https://www.franceinfo.fr/pictures/-h5OrcQnGptqEZSPYsK6KxUQ32Y/67x0:1844x1000/432x243/filters:format(jpg)/2026/11/08/6af082194c92d327961501.png",
-   "date": null,
-   "pubdate": "2026-11-08T17:57:37.329729+00:00"
-  },
-  {
-   "title": "Gabriel Attal juge \"sidérant\" le peu de place de l'intelligence artificielle dans la présidentielle, \"clé\" pour \"faire monter les salaires\" Le candidat Renaissance à la présidentielle a suggéré dimanche qu'il y avait \"deux batailles\" à mener, celle pour avoir \"les meilleurs modèles\" et celle pour diffuser à grande échelle l'IA dans la société et l'économie. 8 novembre",
-   "link": "https://www.franceinfo.fr/elections/presidentielle/gabriel-attal-juge-siderant-le-peu-de-place-de-l-intelligence-artificielle-dans-la-presidentielle-cle-pour-faire-monter-les-salaires_8273348.html",
-   "summary": "Gabriel Attal juge \"sidérant\" le peu de place de l'intelligence artificielle dans la présidentielle, \"clé\" pour \"faire monter les salaires\"",
-   "image": "https://www.franceinfo.fr/pictures/GF2ClWhg31kzdxwuf33NfYMesmw/0x87:1024x663/432x243/filters:format(jpg)/2026/11/08/6af053863e9f8866631855.jpg",
-   "date": null,
-   "pubdate": "2026-11-08T17:57:37.329729+00:00"
-  },
-  {
    "title": "Quatre choses à ne pas oublier pour faire bon usage des sondages et enquêtes d'opinion en période électorale 3:00 article 3 minutes",
    "link": "https://www.franceinfo.fr/elections/quatre-choses-a-ne-pas-oublier-pour-faire-bon-usage-des-sondages-et-enquetes-d-opinion-en-periode-electorale_8270903.html",
    "summary": "Quatre choses à ne pas oublier pour faire bon usage des sondages et enquêtes d'opinion en période électorale",
    "image": "https://www.franceinfo.fr/pictures/NgdX-9M3zydTtnbjuioqwcKqGKs/0x478:9186x5645/432x243/filters:format(jpg)/2026/11/06/6aee40116c20a280238590.jpg",
-   "date": null,
-   "pubdate": "2026-11-08T10:30:09.852050+00:00"
-  },
-  {
-   "title": "Revalorisation du Smic, mobilisation sociale, campagne présidentielle de Jean-Luc Mélenchon... Le \"8h30 franceinfo\" d'Antoine Léaument Le député La France insoumise de l'Essonne était l'invité du \"8h30 franceinfo\" dimanche. Il répondait aux questions de Camille Girerd et Benjamin Recouvreur. 8 novembre 17:38 audio 17 minutes 38",
-   "link": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/revalorisation-du-smic-mobilisation-sociale-campagne-presidentielle-de-jean-luc-melenchon-le-8h30-franceinfo-d-antoine-leaument_8232082.html",
-   "summary": "Revalorisation du Smic, mobilisation sociale, campagne présidentielle de Jean-Luc Mélenchon... Le \"8h30 franceinfo\" d'Antoine Léaument",
-   "image": "https://www.franceinfo.fr/pictures/Z4J-X_K3npEeFkRTrDOcEO5G0D4/42x0:1589x869/432x243/filters:format(jpg)/2026/11/08/6af0375c11cb0618801754.jpg",
-   "date": null,
-   "pubdate": "2026-11-08T10:30:09.852050+00:00"
-  },
-  {
-   "title": "Présidentielle : contraint de quitter le cortège parisien jeudi, Raphaël Glucksmann affirme qu'il retournera aux prochaines manifestations de l'intersyndicale Le candidat social-démocrate à la présidentielle a également déclaré dimanche soir vouloir \"mettre fin à l’hégémonie de Jean-Luc Mélenchon sur la gauche française\". 8 novembre",
-   "link": "https://www.franceinfo.fr/politique/direct-politique-je-n-attends-plus-grand-chose-de-ce-gouvernement-a-part-de-le-remplacer-par-nous-memes-tacle-le-depute-lfi-antoine-leaument_8273093.html",
-   "summary": "Présidentielle : contraint de quitter le cortège parisien jeudi, Raphaël Glucksmann affirme qu'il retournera aux prochaines manifestations de l'intersyndicale",
-   "image": "https://www.franceinfo.fr/pictures/gm3iqLViyQn9PO3Ah_556S4Jx8k/0x11:1024x587/432x243/filters:format(jpg)/2026/10/28/6ae20951d153f520192312.jpg",
-   "date": null,
-   "pubdate": "2026-11-08T10:30:09.852050+00:00"
-  },
-  {
-   "title": "En dessous de 1 700 euros net, toute revalorisation du Smic équivaudrait à \"des miettes accordées par des gens qui ont distribué des milliards aux plus riches\", déclare le député LFI Antoine Léaument Le député La France insoumise de l'Essonne affirme que \"ce qui s'est passé dans les années précédentes avec Emmanuel Macron, c'est un appauvrissement généralisé de la population.\" 8 novembre",
-   "link": "https://www.franceinfo.fr/economie/entreprises/en-dessous-de-1-700-euros-net-toute-revalorisation-du-smic-equivaudrait-a-des-miettes-accordees-par-des-gens-qui-ont-distribues-des-milliards-aux-plus-riches-declare-le-depute-lfi-antoine-leaument_8273108.html",
-   "summary": "En dessous de 1 700 euros net, toute revalorisation du Smic équivaudrait à \"des miettes accordées par des gens qui ont distribué des milliards aux plus riches\", déclare le député LFI Antoine Léaument",
-   "image": "https://www.franceinfo.fr/pictures/Z4J-X_K3npEeFkRTrDOcEO5G0D4/42x0:1589x869/432x243/filters:format(jpg)/2026/11/08/6af0375c11cb0618801754.jpg",
    "date": null,
    "pubdate": "2026-11-08T10:30:09.852050+00:00"
   },

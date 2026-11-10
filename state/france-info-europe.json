@@ -1,14 +1,10 @@
 {
- "etag": "\"317f43f4d8b701162939130ef6fd105f-gzip\"",
+ "etag": "\"f40fc2d61056d05065955071d9c54e15-gzip\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/reportage-plus-de-huit-millions-de-livres-pour-enfants-partis-en-fumee-l-ukraine-face-a-une-penurie-de-manuels-scolaires-apres-des-frappes-russes_8192342.html": "2026-10-27T00:31:28.943056+00:00",
   "https://www.franceinfo.fr/monde/russie/enquete-franceinfo-on-l-appelait-poutine-girl-comment-la-france-verrouille-les-demandes-de-visas-diplomatiques-russes-pour-limiter-les-risques-d-espionnage_8204495.html": "2026-10-27T09:06:52.195523+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/temoignages-simulacres-d-execution-tortures-physiques-un-ancien-prisonnier-ukrainien-en-russie-raconte-les-sevices-subis-apres-sa-capture-dans-le-donbass_8202320.html": "2026-10-27T09:06:52.195523+00:00",
   "https://www.franceinfo.fr/politique/grand-entretien-en-belgique-un-cordon-sanitaire-mediatique-empeche-toute-forme-de-banalisation-de-l-extreme-droite-un-outil-difficile-a-imaginer-en-france_8265599.html": "2026-11-04T17:19:33.406625+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/donald-trump-predit-un-accord-avec-la-russie-sur-l-ukraine-et-meme-sur-toute-l-europe_8269949.html": "2026-11-05T23:41:02.497194+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-premiere-dame-americaine-melania-trump-appelle-a-un-cessez-le-feu-durable-en-ukraine_8269724.html": "2026-11-05T23:41:02.497194+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/il-y-a-donc-maintenant-de-l-espoir-que-pourrait-changer-pour-l-ukraine-la-victoire-des-democrates-aux-midterms-2026-aux-etats-unis_8269337.html": "2026-11-06T06:56:07.683931+00:00",
   "https://www.franceinfo.fr/internet/intelligence-artificielle/des-ong-de-protection-de-l-environnement-demandent-un-moratoire-sur-l-expansion-des-data-centers-en-france-et-en-europe_8270879.html": "2026-11-06T16:48:45.513479+00:00",
   "https://www.franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/le-parquet-europeen-lance-une-enquete-sur-d-eventuelles-fraudes-aux-aides-apres-le-drame-ferroviaire-d-urda_8270771.html": "2026-11-06T16:48:45.513479+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/vos-questions-sur-l-effort-de-guerre-de-la-france/": "2026-11-07T06:07:51.006265+00:00",
@@ -20,8 +16,6 @@
   "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-que-sait-on-d-un-suppose-centre-de-torture-militaire-ukrainien_8269061.html": "2026-11-08T10:30:11.496650+00:00",
   "https://www.franceinfo.fr/monde/europe/ce-que-l-on-sait-de-l-attentat-en-pologne-qui-a-fait-six-morts-et-quinze-blesses-dans-le-centre-de-cracovie_8273087.html": "2026-11-08T17:57:39.273179+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-les-europeens-dont-la-france-seront-representes-lors-des-negociations-a-abu-dhabi-rapporte-le-ministre-des-affaires-etrangeres_8273333.html": "2026-11-08T17:57:39.273179+00:00",
-  "https://www.franceinfo.fr/replay-jt/france-2/20-heures/la-guerre-des-cables-sous-marins-les-premieres-etapes-d-une-attaque-de-plus-grande-ampleur_8273729.html": "2026-11-08T22:01:07.525074+00:00",
-  "https://www.franceinfo.fr/replay-jt/france-2/20-heures/attentat-en-pologne-j-ai-vu-des-personnes-tomber-a-un-metre-de-moi-une-temoin-raconte_8273690.html": "2026-11-08T22:01:07.525074+00:00",
   "https://www.franceinfo.fr/monde/europe/l-auteur-de-l-attentat-en-pologne-qui-a-tue-au-moins-six-personnes-a-cracovie-est-mort_8274095.html": "2026-11-09T06:46:09.491065+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/ukraine-des-milliers-d-habitants-prives-d-electricite_8274908.html": "2026-11-09T19:53:20.422805+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-la-coalition-des-volontaires-lance-un-exercice-grandeur-nature-inedit-en-pologne_8274764.html": "2026-11-09T19:53:20.422805+00:00",
@@ -29,20 +23,56 @@
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/depuis-qu-il-fait-froid-les-russes-frappent-violemment-la-centrale-electrique-les-habitants-de-dnipro-s-appretent-a-vivre-leur-pire-hiver_8274572.html": "2026-11-09T19:53:20.422805+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-le-canada-annonce-des-sanctions-supplementaires-contre-la-russie_8274593.html": "2026-11-09T19:53:20.422805+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-a-kiev-les-habitants-redoutent-l-hiver-face-aux-coupures-d-electricite_8274575.html": "2026-11-09T19:53:20.422805+00:00",
-  "https://www.franceinfo.fr/monde/europe/migrants/huit-personnes-sont-mortes-dans-le-naufrage-d-une-embarcation-de-migrants-au-large-de-la-grece_8274113.html": "2026-11-09T19:53:20.422805+00:00"
+  "https://www.franceinfo.fr/monde/europe/migrants/huit-personnes-sont-mortes-dans-le-naufrage-d-une-embarcation-de-migrants-au-large-de-la-grece_8274113.html": "2026-11-09T19:53:20.422805+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/c-est-au-peuple-de-decider-lui-meme-ce-qu-il-veut-on-vous-resume-la-polemique-suscitee-par-les-propos-de-jean-luc-melenchon-sur-l-ukraine_8276072.html": "2026-11-10T14:58:52.045882+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/alors-que-les-pourparlers-entre-la-russie-et-l-ukraine-deputent-a-abou-dhabi-on-fait-le-point-sur-les-exigences-de-chaque-partie_8275871.html": "2026-11-10T14:58:52.045882+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-reprise-des-negociations-directes-entre-kiev-et-moscou-apres-plus-de-huit-mois-d-interruption_8275967.html": "2026-11-10T14:58:52.045882+00:00",
+  "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-couper-le-robinet-de-petrole-russe-en-mission-avec-les-oiseaux-de-madyar-la-brigade-de-dronistes-ukrainiens-la-plus-pourchassee-par-les-russes_8255023.html": "2026-11-10T14:58:52.045882+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "Ukraine, des milliers d'habitants privés d'électricité En Ukraine, des villes entières sont plongées dans le noir, à l’approche de l’hiver. La Russie s’acharne sur le réseau électrique du pays, alors que les négociations doivent reprendre demain à Abu Dhabi. Ce week-end, plus de 850.000 habitants ont été privés d'électricité. Aujourd'hui 1:41 vidéo 1 minute 41",
+   "title": "\"C'est au peuple de décider ce qu'il veut\" : on vous résume la polémique suscitée par les propos de Jean-Luc Mélenchon sur l'Ukraine Le candidat de La France insoumise à la présidentielle a proposé que la population ukrainienne du Donbass, en grande partie occupée par les Russes, soit consultée pour savoir si elle voulait rester ukrainienne ou devenir russe, au cas où une concession territoriale soit envisagée par les deux pays pour mettre fin au conflit. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/c-est-au-peuple-de-decider-lui-meme-ce-qu-il-veut-on-vous-resume-la-polemique-suscitee-par-les-propos-de-jean-luc-melenchon-sur-l-ukraine_8276072.html",
+   "summary": "\"C'est au peuple de décider ce qu'il veut\" : on vous résume la polémique suscitée par les propos de Jean-Luc Mélenchon sur l'Ukraine",
+   "image": "https://www.franceinfo.fr/pictures/YaM187Oi1EstKE8sWXBflkiR9TQ/33x0:1024x681/432x297/filters:format(jpg)/2026/11/10/6af307e08b15a792970968.jpg",
+   "date": null,
+   "pubdate": "2026-11-10T14:58:52.045882+00:00"
+  },
+  {
+   "title": "Alors que les pourparlers entre la Russie et l'Ukraine députent à Abou Dhabi, on fait le point sur les exigences de chaque partie Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/alors-que-les-pourparlers-entre-la-russie-et-l-ukraine-deputent-a-abou-dhabi-on-fait-le-point-sur-les-exigences-de-chaque-partie_8275871.html",
+   "summary": "Alors que les pourparlers entre la Russie et l'Ukraine députent à Abou Dhabi, on fait le point sur les exigences de chaque partie",
+   "image": "https://www.franceinfo.fr/pictures/yeDfi0mAaJj_JMl7mClhcHDfqD4/0x106:1024x682/432x243/filters:format(jpg)/2026/11/10/6af2f7979c23a583802776.jpg",
+   "date": null,
+   "pubdate": "2026-11-10T14:58:52.045882+00:00"
+  },
+  {
+   "title": "• Direct Négociations Ukraine-Russie : la première journée de pourparlers à Abou Dhabi, sous la médiation des États-Unis, s'est achevée Aujourd'hui • Direct",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-reprise-des-negociations-directes-entre-kiev-et-moscou-apres-plus-de-huit-mois-d-interruption_8275967.html",
+   "summary": "Négociations Ukraine-Russie : la première journée de pourparlers à Abou Dhabi, sous la médiation des États-Unis, s'est achevée",
+   "image": "https://www.franceinfo.fr/pictures/l4DtoJ-ljMIOaC0t6urw7RC_l2c/0x106:1024x682/432x243/filters:format(jpg)/2026/11/10/6af2e18949179112917421.jpg",
+   "date": null,
+   "pubdate": "2026-11-10T14:58:52.045882+00:00"
+  },
+  {
+   "title": ": Reportage \"Ce soir, on est en mission pour qu'ils passent une mauvaise nuit\" : en immersion avec une brigade de dronistes ukrainiens qui vise les raffineries russes : Reportage 4:55 audio 4 minutes 55",
+   "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-couper-le-robinet-de-petrole-russe-en-mission-avec-les-oiseaux-de-madyar-la-brigade-de-dronistes-ukrainiens-la-plus-pourchassee-par-les-russes_8255023.html",
+   "summary": "\"Ce soir, on est en mission pour qu'ils passent une mauvaise nuit\" : en immersion avec une brigade de dronistes ukrainiens qui vise les raffineries russes",
+   "image": "https://www.franceinfo.fr/pictures/ccQT4F940EBl9FupZfobrD39RI8/0x150:1600x1050/432x243/filters:format(jpg)/2026/11/09/6af22c0dbfe8f915408614.jpg",
+   "date": null,
+   "pubdate": "2026-11-10T14:58:52.045882+00:00"
+  },
+  {
+   "title": "Ukraine, des milliers d'habitants privés d'électricité 9 novembre 1:41 vidéo 1 minute 41",
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/ukraine-des-milliers-d-habitants-prives-d-electricite_8274908.html",
    "summary": "Ukraine, des milliers d'habitants privés d'électricité",
-   "image": "https://www.franceinfo.fr/pictures/hZJHNWBAiToe5YgcS2ODufIjbyA/0x0:1080x1920/fit-in/432x297/filters:upscale():fill(blur):format(jpg)/2026/11/09/6af1fcca96ecc482306543.jpg",
+   "image": "https://www.franceinfo.fr/pictures/mM6jTIyBt8d5iVfSPGVpUTYiJ4s/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/09/6af1fcca96ecc482306543.jpg",
    "date": null,
    "pubdate": "2026-11-09T19:53:20.422805+00:00"
   },
   {
-   "title": "Guerre en Ukraine : la coalition des volontaires lance un exercice grandeur nature inédit en Pologne Aujourd'hui",
+   "title": "Guerre en Ukraine : la coalition des volontaires lance un exercice grandeur nature inédit en Pologne 9 novembre",
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-la-coalition-des-volontaires-lance-un-exercice-grandeur-nature-inedit-en-pologne_8274764.html",
    "summary": "Guerre en Ukraine : la coalition des volontaires lance un exercice grandeur nature inédit en Pologne",
    "image": "https://www.franceinfo.fr/pictures/qfMJa5wejsPJ81OzLfrBo_TmNik/0x53:1024x629/432x243/filters:format(jpg)/2026/11/09/6af1f29e5f37b185090376.jpg",
@@ -50,7 +80,7 @@
    "pubdate": "2026-11-09T19:53:20.422805+00:00"
   },
   {
-   "title": "Les secrets de la conservation exceptionnelle des épaves suédoises, dont le célèbre Vasa, navire du XVIIe siècle le mieux préservé au monde Aujourd'hui 4:55 vidéo 4 minutes 55",
+   "title": "Les secrets de la conservation exceptionnelle des épaves suédoises, dont le célèbre Vasa, navire du XVIIe siècle le mieux préservé au monde 9 novembre 4:55 vidéo 4 minutes 55",
    "link": "https://www.franceinfo.fr/culture/patrimoine/les-secrets-de-la-conservation-exceptionnelle-des-epaves-suedoises-dont-le-celebre-vasa-navire-du-xviie-siecle-le-mieux-preserve-au-monde_8274674.html",
    "summary": "Les secrets de la conservation exceptionnelle des épaves suédoises, dont le célèbre Vasa, navire du XVIIe siècle le mieux préservé au monde",
    "image": "https://www.franceinfo.fr/pictures/akha1F8WRfFEHXXNXybMJNoUyzg/139x0:1533x784/432x243/filters:format(jpg)/2026/11/09/6af1eb009b26d711990966.jpg",
@@ -58,7 +88,7 @@
    "pubdate": "2026-11-09T19:53:20.422805+00:00"
   },
   {
-   "title": "\"Depuis qu'il fait froid, les Russes frappent violemment la centrale électrique\" : les habitants de Dnipro s'apprêtent à vivre leur \"pire hiver\" Aujourd'hui",
+   "title": "\"Depuis qu'il fait froid, les Russes frappent violemment la centrale électrique\" : les habitants de Dnipro s'apprêtent à vivre leur \"pire hiver\" 9 novembre",
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/depuis-qu-il-fait-froid-les-russes-frappent-violemment-la-centrale-electrique-les-habitants-de-dnipro-s-appretent-a-vivre-leur-pire-hiver_8274572.html",
    "summary": "\"Depuis qu'il fait froid, les Russes frappent violemment la centrale électrique\" : les habitants de Dnipro s'apprêtent à vivre leur \"pire hiver\"",
    "image": "https://www.franceinfo.fr/pictures/F01FNFQU9SjBKCcegVzPoNR0miA/0x57:1024x633/432x243/filters:format(jpg)/2026/11/09/6af1d2c9734c4250140326.jpg",
@@ -66,7 +96,7 @@
    "pubdate": "2026-11-09T19:53:20.422805+00:00"
   },
   {
-   "title": "Guerre en Ukraine : le Canada annonce des sanctions supplémentaires contre la Russie Aujourd'hui",
+   "title": "Guerre en Ukraine : le Canada annonce des sanctions supplémentaires contre la Russie 9 novembre",
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-le-canada-annonce-des-sanctions-supplementaires-contre-la-russie_8274593.html",
    "summary": "Guerre en Ukraine : le Canada annonce des sanctions supplémentaires contre la Russie",
    "image": "https://www.franceinfo.fr/pictures/nYmXk5aooR4IQkwDpdL5-1RCu7c/0x157:1024x733/432x243/filters:format(jpg)/2026/11/09/6af1cde7e3cc6868304932.jpg",
@@ -74,7 +104,7 @@
    "pubdate": "2026-11-09T19:53:20.422805+00:00"
   },
   {
-   "title": "Guerre en Ukraine : à Kiev, les habitants redoutent l'hiver face aux coupures d'électricité Aujourd'hui 1:37 vidéo 1 minute 37",
+   "title": "Guerre en Ukraine : à Kiev, les habitants redoutent l'hiver face aux coupures d'électricité 9 novembre 1:37 vidéo 1 minute 37",
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-a-kiev-les-habitants-redoutent-l-hiver-face-aux-coupures-d-electricite_8274575.html",
    "summary": "Guerre en Ukraine : à Kiev, les habitants redoutent l'hiver face aux coupures d'électricité",
    "image": "https://www.franceinfo.fr/pictures/gYaJHPfpYj3HvU4PCn4DiLPMKzI/0x41:2650x1532/432x243/filters:format(jpg)/2026/11/09/6af1c8858ecc6455623775.png",
@@ -82,7 +112,7 @@
    "pubdate": "2026-11-09T19:53:20.422805+00:00"
   },
   {
-   "title": "Vingt migrants retrouvés morts sur deux embarcations au large de la Crète Aujourd'hui",
+   "title": "Vingt migrants retrouvés morts sur deux embarcations au large de la Crète 9 novembre",
    "link": "https://www.franceinfo.fr/monde/europe/migrants/huit-personnes-sont-mortes-dans-le-naufrage-d-une-embarcation-de-migrants-au-large-de-la-grece_8274113.html",
    "summary": "Vingt migrants retrouvés morts sur deux embarcations au large de la Crète",
    "image": "https://www.franceinfo.fr/pictures/Gfm6VchzvgRgLPhSBVJx6vb0CXw/0x87:1024x663/432x243/filters:format(jpg)/2026/11/09/6af170e715ff3343724942.jpg",
@@ -90,28 +120,12 @@
    "pubdate": "2026-11-09T19:53:20.422805+00:00"
   },
   {
-   "title": "L'auteur de l'attentat en Pologne, qui a tué au moins six personnes à Cracovie, est mort Aujourd'hui",
+   "title": "L'auteur de l'attentat en Pologne, qui a tué au moins six personnes à Cracovie, est mort Ce Polonais de 24 ans avait été grièvement blessé par des policiers samedi. Il est soupçonné d'avoir fait au total neuf morts, après la découverte des corps de ses parents et de sa sœur à leur domicile. 9 novembre",
    "link": "https://www.franceinfo.fr/monde/europe/l-auteur-de-l-attentat-en-pologne-qui-a-tue-au-moins-six-personnes-a-cracovie-est-mort_8274095.html",
    "summary": "L'auteur de l'attentat en Pologne, qui a tué au moins six personnes à Cracovie, est mort",
    "image": "https://www.franceinfo.fr/pictures/5u-uNMAmjWmt4E2oyI-Pp5WGg0E/0x117:1024x693/432x243/filters:format(jpg)/2026/11/09/6af1685e8d9fa862201665.jpg",
    "date": null,
    "pubdate": "2026-11-09T06:46:09.491065+00:00"
-  },
-  {
-   "title": "La guerre des câbles sous-marins : \"les premières étapes d'une attaque de plus grande ampleur\" 8 novembre 2:26 vidéo 2 minutes 26",
-   "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/la-guerre-des-cables-sous-marins-les-premieres-etapes-d-une-attaque-de-plus-grande-ampleur_8273729.html",
-   "summary": "La guerre des câbles sous-marins : \"les premières étapes d'une attaque de plus grande ampleur\"",
-   "image": "https://www.franceinfo.fr/pictures/Frxyyjy0yuBtQjK4Awngi9HAtj0/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/08/6af0d70a0859e430600611.jpg",
-   "date": null,
-   "pubdate": "2026-11-08T22:01:07.525074+00:00"
-  },
-  {
-   "title": "Attentat en Pologne : \"J'ai vu des personnes tomber à un mètre de moi\", une témoin raconte 8 novembre 2:33 vidéo 2 minutes 33",
-   "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/attentat-en-pologne-j-ai-vu-des-personnes-tomber-a-un-metre-de-moi-une-temoin-raconte_8273690.html",
-   "summary": "Attentat en Pologne : \"J'ai vu des personnes tomber à un mètre de moi\", une témoin raconte",
-   "image": "https://www.franceinfo.fr/pictures/eyhFt2XWoVAwlBvSCLbsWYUmPV4/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/08/6af0cdf89f6b8111463247.jpg",
-   "date": null,
-   "pubdate": "2026-11-08T22:01:07.525074+00:00"
   },
   {
    "title": "Six personnes abattues dans la rue, un suspect aux idées \"ultranationalistes\", trois corps retrouvés chez lui... Ce que l'on sait de l'attentat en Pologne En plus des six victimes tuées par l'assaillant dans le centre de Cracovie, trois personnes ont été retrouvées mortes à son domicile. Le suspect est un jeune homme \"fasciné\" par les idées d'extrême droite, selon les autorités. 8 novembre",
@@ -202,30 +216,6 @@
    "pubdate": "2026-11-06T16:48:45.513479+00:00"
   },
   {
-   "title": "\"Il y a donc maintenant de l'espoir\" : que pourrait changer pour l'Ukraine la victoire des démocrates aux midterms 2026 aux Etats-Unis ? Kiev espère que les démocrates, désormais majoritaires au Congrès américain, pourront notamment remettre en cause les rapprochements opérés par le président républicain Donald Trump avec la Russie de Vladimir Poutine. 6 novembre",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/il-y-a-donc-maintenant-de-l-espoir-que-pourrait-changer-pour-l-ukraine-la-victoire-des-democrates-aux-midterms-2026-aux-etats-unis_8269337.html",
-   "summary": "\"Il y a donc maintenant de l'espoir\" : que pourrait changer pour l'Ukraine la victoire des démocrates aux midterms 2026 aux Etats-Unis ?",
-   "image": "https://www.franceinfo.fr/pictures/I9KBO0Q4hwMgzO8l5WI-EcVm-JE/0x0:1024x576/432x243/filters:format(jpg)/2026/11/05/6aec9ea10aa0c032456014.jpg",
-   "date": null,
-   "pubdate": "2026-11-06T06:56:07.683931+00:00"
-  },
-  {
-   "title": "Donald Trump prédit un accord avec la Russie sur l'Ukraine et même sur \"toute l'Europe\" \"Ce sera un grand et magnifique accord et tout le monde sera ravi\", a dit le président américain, alors que des pourparlers entre Russes et Ukrainiens doivent se dérouler les 10 et 11 novembre à Abou Dhabi. 5 novembre",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/donald-trump-predit-un-accord-avec-la-russie-sur-l-ukraine-et-meme-sur-toute-l-europe_8269949.html",
-   "summary": "Donald Trump prédit un accord avec la Russie sur l'Ukraine et même sur \"toute l'Europe\"",
-   "image": "https://www.franceinfo.fr/pictures/jdB34aOpDGfmVXEt7VRW6zt7UdA/0x0:1024x576/432x243/filters:format(jpg)/2026/11/05/6aecfde0f1188221856305.jpg",
-   "date": null,
-   "pubdate": "2026-11-05T23:41:02.497194+00:00"
-  },
-  {
-   "title": "La Première dame américaine, Melania Trump, appelle à un cessez-le-feu \"durable\" en Ukraine \"Ensemble, nous pouvons bâtir quelque chose de plus durable qu'un simple cessez-le-feu temporaire\", a-t-elle dit en recevant des représentants russes et ukrainiens à la Maison Blanche, quelques jours après la trêve humanitaire à Olechky. 5 novembre",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-premiere-dame-americaine-melania-trump-appelle-a-un-cessez-le-feu-durable-en-ukraine_8269724.html",
-   "summary": "La Première dame américaine, Melania Trump, appelle à un cessez-le-feu \"durable\" en Ukraine",
-   "image": "https://www.franceinfo.fr/pictures/J_0X4wkpG89IjBDE1FBBjP21U6I/0x0:1024x576/432x243/filters:format(jpg)/2026/11/05/6aecc0db4955d115629555.jpg",
-   "date": null,
-   "pubdate": "2026-11-05T23:41:02.497194+00:00"
-  },
-  {
    "title": ": Grand entretien En Belgique, un cordon sanitaire médiatique \"empêche toute forme de banalisation de l'extrême droite\", un outil \"difficile\" à imaginer en France : Grand entretien 5:00 article 5 minutes",
    "link": "https://www.franceinfo.fr/politique/grand-entretien-en-belgique-un-cordon-sanitaire-mediatique-empeche-toute-forme-de-banalisation-de-l-extreme-droite-un-outil-difficile-a-imaginer-en-france_8265599.html",
    "summary": "En Belgique, un cordon sanitaire médiatique \"empêche toute forme de banalisation de l'extrême droite\", un outil \"difficile\" à imaginer en France",
@@ -248,14 +238,6 @@
    "image": "https://www.franceinfo.fr/pictures/7_bzE0ign68h05W1IZk3LYJo598/0x113:4588x2694/432x243/filters:format(jpg)/2026/10/04/6ac2473171e26537594128.jpg",
    "date": null,
    "pubdate": "2026-10-27T09:06:52.195523+00:00"
-  },
-  {
-   "title": ": Reportage \"Plus de huit millions de livres pour enfants\" partis en fumée : l'Ukraine face à une pénurie de manuels scolaires après des frappes russes : Reportage 2:00 article 2 minutes",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/reportage-plus-de-huit-millions-de-livres-pour-enfants-partis-en-fumee-l-ukraine-face-a-une-penurie-de-manuels-scolaires-apres-des-frappes-russes_8192342.html",
-   "summary": "\"Plus de huit millions de livres pour enfants\" partis en fumée : l'Ukraine face à une pénurie de manuels scolaires après des frappes russes",
-   "image": "https://www.franceinfo.fr/pictures/cXyyBOTpHRayEAbsLyCoCBJyUsQ/0x0:1600x900/432x243/filters:format(jpg)/2026/09/14/6aa8420659848131991942.jpg",
-   "date": null,
-   "pubdate": "2026-10-27T00:31:28.943056+00:00"
   }
  ]
 }

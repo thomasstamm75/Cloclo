@@ -1,16 +1,40 @@
 {
  "etag": "",
- "last_modified": "Tue, 10 Nov 2026 00:45:56 GMT",
+ "last_modified": "Tue, 10 Nov 2026 14:58:23 GMT",
  "first_seen": {
-  "https://www.jean-jaures.org/publication/du-reve-continental-au-marketing-politique-quand-le-panafricanisme-devient-une-ressource-de-pouvoir/": "2026-11-03T11:00:00+00:00",
-  "https://www.jean-jaures.org/publication/24-heures-en-france-le-travail-une-colonne-encore-vertebrale/": "2026-11-03T11:00:00+00:00",
   "https://www.jean-jaures.org/publication/leducation-des-filles-en-afrique-subsaharienne-ce-que-la-parite-ne-change-pas/": "2026-11-06T11:00:00+00:00",
-  "https://www.jean-jaures.org/publication/concilier-le-front-populaire-et-lunion-nationale-une-tentative-de-leon-blum-en-mars-1938/": "2026-11-06T11:00:00+00:00",
   "https://www.jean-jaures.org/publication/de-linfluence-a-la-confiance-faut-il-repenser-la-diplomatie-culturelle/": "2026-11-09T11:00:00+00:00",
-  "https://www.jean-jaures.org/publication/taux-longs-jusquou-peuvent-ils-encore-monter/": "2026-11-09T11:00:00+00:00"
+  "https://www.jean-jaures.org/publication/taux-longs-jusquou-peuvent-ils-encore-monter/": "2026-11-09T11:00:00+00:00",
+  "https://www.jean-jaures.org/publication/de-laide-a-la-souverainete-reformer-larchitecture-mondiale-de-la-sante/": "2026-11-10T11:00:00+00:00",
+  "https://www.jean-jaures.org/publication/commemorations-du-11-novembre-quelle-memoire-et-quelle-histoire-transmettre-aux-jeunes-generations/": "2026-11-10T11:00:00+00:00",
+  "https://www.jean-jaures.org/publication/face-a-la-fragmentation-informationnelle-le-temps-politique-augmente-sur-youtube/": "2026-11-10T11:00:00+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "De l’aide à la souveraineté : réformer l’architecture mondiale de la santé",
+   "link": "https://www.jean-jaures.org/publication/de-laide-a-la-souverainete-reformer-larchitecture-mondiale-de-la-sante/",
+   "summary": "",
+   "image": "",
+   "date": "2026-11-10T11:00:00+00:00",
+   "pubdate": "2026-11-10T11:00:00+00:00"
+  },
+  {
+   "title": "Commémorations du 11-Novembre : quelle mémoire et quelle histoire transmettre aux jeunes générations ?",
+   "link": "https://www.jean-jaures.org/publication/commemorations-du-11-novembre-quelle-memoire-et-quelle-histoire-transmettre-aux-jeunes-generations/",
+   "summary": "",
+   "image": "",
+   "date": "2026-11-10T11:00:00+00:00",
+   "pubdate": "2026-11-10T11:00:00+00:00"
+  },
+  {
+   "title": "Face à la fragmentation informationnelle, le temps politique augmenté sur YouTube",
+   "link": "https://www.jean-jaures.org/publication/face-a-la-fragmentation-informationnelle-le-temps-politique-augmente-sur-youtube/",
+   "summary": "",
+   "image": "",
+   "date": "2026-11-10T11:00:00+00:00",
+   "pubdate": "2026-11-10T11:00:00+00:00"
+  },
   {
    "title": "De l’influence à la confiance : faut-il repenser la diplomatie culturelle ?",
    "link": "https://www.jean-jaures.org/publication/de-linfluence-a-la-confiance-faut-il-repenser-la-diplomatie-culturelle/",
@@ -34,30 +58,6 @@
    "image": "",
    "date": "2026-11-06T11:00:00+00:00",
    "pubdate": "2026-11-06T11:00:00+00:00"
-  },
-  {
-   "title": "Concilier le Front populaire et l’Union nationale ? Une tentative de Léon Blum en mars 1938",
-   "link": "https://www.jean-jaures.org/publication/concilier-le-front-populaire-et-lunion-nationale-une-tentative-de-leon-blum-en-mars-1938/",
-   "summary": "",
-   "image": "",
-   "date": "2026-11-06T11:00:00+00:00",
-   "pubdate": "2026-11-06T11:00:00+00:00"
-  },
-  {
-   "title": "Du rêve continental au marketing politique : quand le panafricanisme devient une ressource de pouvoir",
-   "link": "https://www.jean-jaures.org/publication/du-reve-continental-au-marketing-politique-quand-le-panafricanisme-devient-une-ressource-de-pouvoir/",
-   "summary": "",
-   "image": "",
-   "date": "2026-11-03T11:00:00+00:00",
-   "pubdate": "2026-11-03T11:00:00+00:00"
-  },
-  {
-   "title": "24 heures en France : le travail, une colonne encore vertébrale ?",
-   "link": "https://www.jean-jaures.org/publication/24-heures-en-france-le-travail-une-colonne-encore-vertebrale/",
-   "summary": "",
-   "image": "",
-   "date": "2026-11-03T11:00:00+00:00",
-   "pubdate": "2026-11-03T11:00:00+00:00"
   }
  ]
 }

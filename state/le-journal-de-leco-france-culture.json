@@ -1,8 +1,7 @@
 {
- "etag": "\"xqtx9m\"",
+ "etag": "\"1mmqlnv\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/etats-unis-le-seuil-de-40-000-milliards-de-dollars-de-dette-depasse-plus-vite-que-prevu-1435794": "2026-10-14T12:01:27.356488+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/senegal-pourquoi-le-fmi-exige-que-le-pays-restructure-sa-dette-9664100": "2026-10-15T11:38:27.123781+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/grece-une-dette-qui-recule-mais-une-precarite-qui-persiste-2812209": "2026-10-16T11:32:21.494398+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/reforme-du-lycee-la-promesse-de-l-emploi-a-t-elle-ete-tenue-4792528": "2026-10-19T13:29:21.119779+00:00",
@@ -19,10 +18,19 @@
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/les-ministeres-dopes-a-l-ia-pour-faire-des-economies-budgetaires-7507164": "2026-11-03T06:55:23.591112+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/le-casse-tete-du-nouveau-regime-europeen-des-societes-6410572": "2026-11-04T06:36:11.560873+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/tchequie-le-plafonnement-des-prix-des-carburants-prolonge-jusqu-a-fin-novembre-9710546": "2026-11-06T06:56:16.699370+00:00",
-  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/la-difficile-lutte-contre-le-non-recours-aux-aides-sociales-en-france-3253288": "2026-11-09T06:46:19.334333+00:00"
+  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/la-difficile-lutte-contre-le-non-recours-aux-aides-sociales-en-france-3253288": "2026-11-09T06:46:19.334333+00:00",
+  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/chili-les-fonds-de-pension-perdent-9-milliards-d-euros-les-retraites-trinquent-3310796": "2026-11-10T14:59:00.725584+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "Chili : les fonds de pension perdent 9 milliards d’euros, les retraités trinquent",
+   "link": "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/chili-les-fonds-de-pension-perdent-9-milliards-d-euros-les-retraites-trinquent-3310796",
+   "summary": "Au Chili, les fonds de pension privés ont perdu 9 milliards d’euros en neuf mois. En cause, des paris financiers risqués qui ont tourné au fiasco. Plus de deux millions de personnes sont touchées, notamment les retraités et les travailleurs en fin de carrière. Une enquête a été ouverte.",
+   "image": "https://www.radiofrance.fr/pikapi/images/ac199a05-22d9-425d-b4a6-50f2ca502d70/2048",
+   "date": null,
+   "pubdate": "2026-11-10T14:59:00.725584+00:00"
+  },
   {
    "title": "La difficile lutte contre le non-recours aux aides sociales en France",
    "link": "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/la-difficile-lutte-contre-le-non-recours-aux-aides-sociales-en-france-3253288",
@@ -158,14 +166,6 @@
    "image": "https://www.radiofrance.fr/pikapi/images/7ad09d3a-c5c5-43f9-bd32-bfb191f35aea/2048",
    "date": "2026-10-15T11:00:00+00:00",
    "pubdate": "2026-10-15T11:00:00+00:00"
-  },
-  {
-   "title": "Le prix de la dette 3/5 · États-Unis : le seuil de 40 000 milliards de dollars de dette dépassé plus vite que prévu",
-   "link": "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/etats-unis-le-seuil-de-40-000-milliards-de-dollars-de-dette-depasse-plus-vite-que-prevu-1435794",
-   "summary": "C'est le pays où la dette publique est la plus élevée du Globe en valeur : les États-Unis. La dette publique de la première puissance mondiale a franchi cet été le seuil des 40 000 milliards de dollars. Avec pour principale explication : l’inflation.",
-   "image": "https://www.radiofrance.fr/pikapi/images/0bac8513-92b5-4c8c-ade9-acf35ece2505/2048",
-   "date": null,
-   "pubdate": "2026-10-14T12:01:27.356488+00:00"
   }
  ]
 }
