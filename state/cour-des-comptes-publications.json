@@ -1,8 +1,7 @@
 {
- "etag": "W/\"1794321002\"",
- "last_modified": "Tue, 10 Nov 2026 14:30:02 GMT",
+ "etag": "W/\"1794345621\"",
+ "last_modified": "Tue, 10 Nov 2026 21:20:21 GMT",
  "first_seen": {
-  "https://www.ccomptes.fr/fr/publications/la-situation-financiere-de-la-securite-sociale-un-redressement-imperatif-en-2027": "2026-10-20T11:00:00+00:00",
   "https://www.ccomptes.fr/fr/publications/commune-de-capesterre-belle-eau-guadeloupe-14": "2026-10-22T11:00:00+00:00",
   "https://www.ccomptes.fr/fr/publications/les-outils-bureautiques-et-collaboratifs-au-sein-de-letat": "2026-10-22T11:00:00+00:00",
   "https://www.ccomptes.fr/fr/publications/le-plan-dinvestissement-france-2030": "2026-10-28T11:00:00+00:00",
@@ -11,10 +10,19 @@
   "https://www.ccomptes.fr/fr/publications/financement-des-indemnites-journalieres-des-professions-liberales": "2026-11-09T11:00:00+00:00",
   "https://www.ccomptes.fr/fr/publications/contribution-au-retablissement-des-finances-publiques": "2026-11-09T11:00:00+00:00",
   "https://www.ccomptes.fr/fr/publications/note-thematique-les-depenses-fiscales": "2026-11-09T11:00:00+00:00",
-  "https://www.ccomptes.fr/fr/publications/rapport-sur-les-credits-du-budget-de-letat-ouverts-par-decrets-davance": "2026-11-09T11:00:00+00:00"
+  "https://www.ccomptes.fr/fr/publications/rapport-sur-les-credits-du-budget-de-letat-ouverts-par-decrets-davance": "2026-11-09T11:00:00+00:00",
+  "https://www.ccomptes.fr/fr/publications/la-caisse-generale-de-securite-sociale-de-la-guadeloupe-et-de-saint-martin": "2026-11-10T11:00:00+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "La Caisse générale de sécurité sociale de la Guadeloupe et de Saint-Martin",
+   "link": "https://www.ccomptes.fr/fr/publications/la-caisse-generale-de-securite-sociale-de-la-guadeloupe-et-de-saint-martin",
+   "summary": "Dans le cadre de son cycle de contrôle des caisses générales de sécurité sociale (CGSS) engagé en 2024 avec la caisse de la Martinique et poursuivi en 2025 avec celle de La Réunion, la Cour des comptes publie un rapport sur la CGSS de la Guadeloupe et de Saint-Martin, portant sur les années 2020 à 2...",
+   "image": "https://www.ccomptes.fr/sites/default/files/styles/teaser_182x98/public/2024-10/Caisse-generale-securite-sociale-Martinique-182x98.jpg?itok=t2tIOffo",
+   "date": "2026-11-10T11:00:00+00:00",
+   "pubdate": "2026-11-10T11:00:00+00:00"
+  },
   {
    "title": "Financement des indemnités journalières des professions libérales",
    "link": "https://www.ccomptes.fr/fr/publications/financement-des-indemnites-journalieres-des-professions-liberales",
@@ -86,14 +94,6 @@
    "image": "https://www.ccomptes.fr/sites/default/files/styles/teaser_182x98/public/2025-02/Agence-France-locale-182x98.jpg?itok=Tpr1h9cL",
    "date": "2026-10-22T11:00:00+00:00",
    "pubdate": "2026-10-22T11:00:00+00:00"
-  },
-  {
-   "title": "La situation financière de la sécurité sociale : un redressement impératif en 2027",
-   "link": "https://www.ccomptes.fr/fr/publications/la-situation-financiere-de-la-securite-sociale-un-redressement-imperatif-en-2027",
-   "summary": "À l’occasion de l’examen parlementaire du projet de loi de financement de la sécurité sociale (PLFSS) pour 2027, et à la demande de la commission des affaires sociales de l’Assemblée nationale, la Cour a conduit une analyse sur les enjeux financiers liés à la sécurité sociale , qui actualise celle p...",
-   "image": "https://www.ccomptes.fr/sites/default/files/styles/teaser_182x98/public/2026-09/Situation-financiere-de-la-securite-sociale-182x98.jpg?itok=wuUPfKJr",
-   "date": "2026-10-20T11:00:00+00:00",
-   "pubdate": "2026-10-20T11:00:00+00:00"
   }
  ]
 }

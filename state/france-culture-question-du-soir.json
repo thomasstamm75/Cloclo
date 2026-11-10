@@ -1,8 +1,7 @@
 {
- "etag": "\"pt9i9r\"",
+ "etag": "\"ll3jft\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/faut-il-supprimer-parcoursup-8683880": "2026-10-14T17:17:57.294392+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/le-made-in-europe-peut-il-sauver-l-industrie-europeenne-5438299": "2026-10-15T11:00:00+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/glucksmann-candidat-de-la-gauche-la-social-democratie-fait-elle-rever-6421240": "2026-10-16T16:44:29.073698+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/la-violence-nuit-elle-au-mouvement-social-3848565": "2026-10-19T20:37:25.488771+00:00",
@@ -19,10 +18,19 @@
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/faut-il-augmenter-le-smic-1087463": "2026-11-03T11:00:00+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/midterms-trump-sous-controle-ou-incontrolable-2549983": "2026-11-04T23:44:42.905624+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/prix-litteraire-qu-est-ce-qu-un-bon-roman-8992280": "2026-11-06T23:14:32.799846+00:00",
-  "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/trappes-la-recuperation-politique-est-elle-inevitable-6057460": "2026-11-09T19:53:30.223464+00:00"
+  "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/trappes-la-recuperation-politique-est-elle-inevitable-6057460": "2026-11-09T19:53:30.223464+00:00",
+  "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/les-syndicats-ont-ils-les-moyens-de-repondre-a-la-colere-sociale-6296364": "2026-11-10T21:20:29.890598+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "Les syndicats ont-ils les moyens de porter la colère sociale ?",
+   "link": "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/les-syndicats-ont-ils-les-moyens-de-repondre-a-la-colere-sociale-6296364",
+   "summary": "Entre une colère sociale qui s’exprime dans la rue, souvent hors des syndicats, et des négociations qui se jouent dans les coulisses du pouvoir, les organisations syndicales ont-elles encore la capacité de transformer la mobilisation en avancées concrètes et de porter la voix des contestations ?",
+   "image": "https://www.radiofrance.fr/pikapi/images/958c5d45-2e3e-4aa2-b639-d5a9e842e015/2048",
+   "date": null,
+   "pubdate": "2026-11-10T21:20:29.890598+00:00"
+  },
   {
    "title": "Trappes : la récupération politique est-elle inévitable ?",
    "link": "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/trappes-la-recuperation-politique-est-elle-inevitable-6057460",
@@ -48,9 +56,9 @@
    "pubdate": "2026-11-04T11:00:00+00:00"
   },
   {
-   "title": "Faut-il augmenter le SMIC ?",
+   "title": "Faut-il augmenter le Smic ?",
    "link": "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/faut-il-augmenter-le-smic-1087463",
-   "summary": "Le SMIC sera-t-il revalorisé dès décembre 2026, avec en prime un coup de pouce inédit depuis 2012 ? Entre soutien au pouvoir d’achat, inquiétudes des entreprises et risque de tensions sociales, le débat divise. Faut-il augmenter le salaire minimum, et jusqu’où ?",
+   "summary": "Le Smic sera-t-il revalorisé dès décembre 2026, avec en prime un coup de pouce inédit depuis 2012 ? Entre soutien au pouvoir d’achat, inquiétudes des entreprises et risque de tensions sociales, le débat divise. Faut-il augmenter le salaire minimum, et jusqu’où ?",
    "image": "https://www.radiofrance.fr/pikapi/images/b1e53e8e-28b1-4fb6-993f-5476b6b2bfd5/2048",
    "date": "2026-11-03T11:00:00+00:00",
    "pubdate": "2026-11-03T11:00:00+00:00"
@@ -158,14 +166,6 @@
    "image": "https://www.radiofrance.fr/pikapi/images/8ef3ff45-09a2-4ecb-96d6-864c0cd088a1/2048",
    "date": "2026-10-15T11:00:00+00:00",
    "pubdate": "2026-10-15T11:00:00+00:00"
-  },
-  {
-   "title": "Faut-il supprimer Parcoursup ?",
-   "link": "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/faut-il-supprimer-parcoursup-8683880",
-   "summary": "Huit ans après sa création, Parcoursup cristallise la colère des lycéens. Accusée d’opacité et de renforcer les inégalités, la plateforme relance un débat de fond : faut-il réformer l’outil ou s’attaquer aux difficultés structurelles de l’enseignement supérieur qu’il met en lumière ?",
-   "image": "https://www.radiofrance.fr/pikapi/images/b09e98ec-6c4f-4ef0-b972-c84808c5e15c/2048",
-   "date": "2026-10-14T11:00:00+00:00",
-   "pubdate": "2026-10-14T11:00:00+00:00"
   }
  ]
 }

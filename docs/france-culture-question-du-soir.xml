@@ -5,8 +5,15 @@
     <link>https://www.radiofrance.fr/franceculture/podcasts/le-temps-du-debat</link>
     <description>Flux fabriqué par Cloclo à partir de https://www.radiofrance.fr/franceculture/podcasts/le-temps-du-debat</description>
     <language>fr</language>
-    <lastBuildDate>Tue, 10 Nov 2026 14:59:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 21:20:29 +0000</lastBuildDate>
     <atom:link href="https://thomasstamm75.github.io/Cloclo/france-culture-question-du-soir.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Les syndicats ont-ils les moyens de porter la colère sociale ?</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/les-syndicats-ont-ils-les-moyens-de-repondre-a-la-colere-sociale-6296364</link>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/les-syndicats-ont-ils-les-moyens-de-repondre-a-la-colere-sociale-6296364</guid>
+      <pubDate>Tue, 10 Nov 2026 21:20:29 +0000</pubDate>
+      <description>&lt;img src="https://www.radiofrance.fr/pikapi/images/958c5d45-2e3e-4aa2-b639-d5a9e842e015/2048" alt=""/&gt;&lt;p&gt;Entre une colère sociale qui s’exprime dans la rue, souvent hors des syndicats, et des négociations qui se jouent dans les coulisses du pouvoir, les organisations syndicales ont-elles encore la capacité de transformer la mobilisation en avancées concrètes et de porter la voix des contestations ?&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Trappes : la récupération politique est-elle inévitable ?</title>
       <link>https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/trappes-la-recuperation-politique-est-elle-inevitable-6057460</link>
@@ -29,11 +36,11 @@
       <description>&lt;img src="https://www.radiofrance.fr/pikapi/images/e80d4b34-b994-4bc9-ba97-3f783bcef798/2048" alt=""/&gt;&lt;p&gt;Après la défaite des républicains au Congrès et au Sénat, et la perte de bastions conservateurs historiques, Donald Trump est-il devenu incontrôlable ou, au contraire, davantage sous surveillance ? Entre contre-pouvoirs démocrates et enquêtes parlementaires, le débat est ouvert.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Faut-il augmenter le SMIC ?</title>
+      <title>Faut-il augmenter le Smic ?</title>
       <link>https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/faut-il-augmenter-le-smic-1087463</link>
       <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/faut-il-augmenter-le-smic-1087463</guid>
       <pubDate>Tue, 03 Nov 2026 11:00:00 +0000</pubDate>
-      <description>&lt;img src="https://www.radiofrance.fr/pikapi/images/b1e53e8e-28b1-4fb6-993f-5476b6b2bfd5/2048" alt=""/&gt;&lt;p&gt;Le SMIC sera-t-il revalorisé dès décembre 2026, avec en prime un coup de pouce inédit depuis 2012 ? Entre soutien au pouvoir d’achat, inquiétudes des entreprises et risque de tensions sociales, le débat divise. Faut-il augmenter le salaire minimum, et jusqu’où ?&lt;/p&gt;</description>
+      <description>&lt;img src="https://www.radiofrance.fr/pikapi/images/b1e53e8e-28b1-4fb6-993f-5476b6b2bfd5/2048" alt=""/&gt;&lt;p&gt;Le Smic sera-t-il revalorisé dès décembre 2026, avec en prime un coup de pouce inédit depuis 2012 ? Entre soutien au pouvoir d’achat, inquiétudes des entreprises et risque de tensions sociales, le débat divise. Faut-il augmenter le salaire minimum, et jusqu’où ?&lt;/p&gt;</description>
     </item>
     <item>
       <title>La sécurité est-elle la première des libertés ?</title>
@@ -125,13 +132,6 @@
       <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/le-made-in-europe-peut-il-sauver-l-industrie-europeenne-5438299</guid>
       <pubDate>Thu, 15 Oct 2026 11:00:00 +0000</pubDate>
       <description>&lt;img src="https://www.radiofrance.fr/pikapi/images/8ef3ff45-09a2-4ecb-96d6-864c0cd088a1/2048" alt=""/&gt;&lt;p&gt;Produire en Europe pour être soutenu par l’Europe : la Commission européenne veut faire du "Made in Europe" un levier de souveraineté économique. Mais où commence réellement la production européenne ? Nos invités en débattent.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Faut-il supprimer Parcoursup ?</title>
-      <link>https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/faut-il-supprimer-parcoursup-8683880</link>
-      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/faut-il-supprimer-parcoursup-8683880</guid>
-      <pubDate>Wed, 14 Oct 2026 11:00:00 +0000</pubDate>
-      <description>&lt;img src="https://www.radiofrance.fr/pikapi/images/b09e98ec-6c4f-4ef0-b972-c84808c5e15c/2048" alt=""/&gt;&lt;p&gt;Huit ans après sa création, Parcoursup cristallise la colère des lycéens. Accusée d’opacité et de renforcer les inégalités, la plateforme relance un débat de fond : faut-il réformer l’outil ou s’attaquer aux difficultés structurelles de l’enseignement supérieur qu’il met en lumière ?&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

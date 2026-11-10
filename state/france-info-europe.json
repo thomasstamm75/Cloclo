@@ -1,62 +1,85 @@
 {
- "etag": "\"f40fc2d61056d05065955071d9c54e15-gzip\"",
+ "etag": "\"b2c54332638c8e304ce1588e4da24c3f-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/monde/russie/enquete-franceinfo-on-l-appelait-poutine-girl-comment-la-france-verrouille-les-demandes-de-visas-diplomatiques-russes-pour-limiter-les-risques-d-espionnage_8204495.html": "2026-10-27T09:06:52.195523+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/temoignages-simulacres-d-execution-tortures-physiques-un-ancien-prisonnier-ukrainien-en-russie-raconte-les-sevices-subis-apres-sa-capture-dans-le-donbass_8202320.html": "2026-10-27T09:06:52.195523+00:00",
   "https://www.franceinfo.fr/politique/grand-entretien-en-belgique-un-cordon-sanitaire-mediatique-empeche-toute-forme-de-banalisation-de-l-extreme-droite-un-outil-difficile-a-imaginer-en-france_8265599.html": "2026-11-04T17:19:33.406625+00:00",
-  "https://www.franceinfo.fr/internet/intelligence-artificielle/des-ong-de-protection-de-l-environnement-demandent-un-moratoire-sur-l-expansion-des-data-centers-en-france-et-en-europe_8270879.html": "2026-11-06T16:48:45.513479+00:00",
-  "https://www.franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/le-parquet-europeen-lance-une-enquete-sur-d-eventuelles-fraudes-aux-aides-apres-le-drame-ferroviaire-d-urda_8270771.html": "2026-11-06T16:48:45.513479+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/vos-questions-sur-l-effort-de-guerre-de-la-france/": "2026-11-07T06:07:51.006265+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-un-pont-et-des-infrastructures-energetiques-endommages-par-des-frappes-russes-dans-la-region-de-kiev_8272043.html": "2026-11-07T13:13:18.883917+00:00",
-  "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/investissements-accrus-dans-des-domaines-strategiques-rapprochement-avec-l-ue-comment-le-canada-de-mark-carney-continue-a-s-eloigner-du-voisin-americain_8251738.html": "2026-11-07T19:28:40.162870+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/volodymyr-zelensky-accuse-la-russie-d-intensifier-ses-frappes-pour-mettre-la-pression-avant-les-negociations-trilaterales_8272400.html": "2026-11-07T19:28:40.162870+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/des-centaines-de-milliers-d-ukrainiens-se-trouvent-sans-electricite-apres-des-frappes-russes_8273186.html": "2026-11-08T10:30:11.496650+00:00",
   "https://www.franceinfo.fr/monde/afrique/senegal/au-large-du-senegal-21-personnes-sont-mortes-dans-le-naufrage-d-une-pirogue-de-migrants_8273174.html": "2026-11-08T10:30:11.496650+00:00",
   "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-que-sait-on-d-un-suppose-centre-de-torture-militaire-ukrainien_8269061.html": "2026-11-08T10:30:11.496650+00:00",
   "https://www.franceinfo.fr/monde/europe/ce-que-l-on-sait-de-l-attentat-en-pologne-qui-a-fait-six-morts-et-quinze-blesses-dans-le-centre-de-cracovie_8273087.html": "2026-11-08T17:57:39.273179+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-les-europeens-dont-la-france-seront-representes-lors-des-negociations-a-abu-dhabi-rapporte-le-ministre-des-affaires-etrangeres_8273333.html": "2026-11-08T17:57:39.273179+00:00",
   "https://www.franceinfo.fr/monde/europe/l-auteur-de-l-attentat-en-pologne-qui-a-tue-au-moins-six-personnes-a-cracovie-est-mort_8274095.html": "2026-11-09T06:46:09.491065+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/ukraine-des-milliers-d-habitants-prives-d-electricite_8274908.html": "2026-11-09T19:53:20.422805+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-la-coalition-des-volontaires-lance-un-exercice-grandeur-nature-inedit-en-pologne_8274764.html": "2026-11-09T19:53:20.422805+00:00",
-  "https://www.franceinfo.fr/culture/patrimoine/les-secrets-de-la-conservation-exceptionnelle-des-epaves-suedoises-dont-le-celebre-vasa-navire-du-xviie-siecle-le-mieux-preserve-au-monde_8274674.html": "2026-11-09T19:53:20.422805+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/depuis-qu-il-fait-froid-les-russes-frappent-violemment-la-centrale-electrique-les-habitants-de-dnipro-s-appretent-a-vivre-leur-pire-hiver_8274572.html": "2026-11-09T19:53:20.422805+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-le-canada-annonce-des-sanctions-supplementaires-contre-la-russie_8274593.html": "2026-11-09T19:53:20.422805+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-a-kiev-les-habitants-redoutent-l-hiver-face-aux-coupures-d-electricite_8274575.html": "2026-11-09T19:53:20.422805+00:00",
   "https://www.franceinfo.fr/monde/europe/migrants/huit-personnes-sont-mortes-dans-le-naufrage-d-une-embarcation-de-migrants-au-large-de-la-grece_8274113.html": "2026-11-09T19:53:20.422805+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/c-est-au-peuple-de-decider-lui-meme-ce-qu-il-veut-on-vous-resume-la-polemique-suscitee-par-les-propos-de-jean-luc-melenchon-sur-l-ukraine_8276072.html": "2026-11-10T14:58:52.045882+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/alors-que-les-pourparlers-entre-la-russie-et-l-ukraine-deputent-a-abou-dhabi-on-fait-le-point-sur-les-exigences-de-chaque-partie_8275871.html": "2026-11-10T14:58:52.045882+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-reprise-des-negociations-directes-entre-kiev-et-moscou-apres-plus-de-huit-mois-d-interruption_8275967.html": "2026-11-10T14:58:52.045882+00:00",
-  "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-couper-le-robinet-de-petrole-russe-en-mission-avec-les-oiseaux-de-madyar-la-brigade-de-dronistes-ukrainiens-la-plus-pourchassee-par-les-russes_8255023.html": "2026-11-10T14:58:52.045882+00:00"
+  "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-couper-le-robinet-de-petrole-russe-en-mission-avec-les-oiseaux-de-madyar-la-brigade-de-dronistes-ukrainiens-la-plus-pourchassee-par-les-russes_8255023.html": "2026-11-10T14:58:52.045882+00:00",
+  "https://www.franceinfo.fr/politique/melenchon/c-est-aux-ukrainiens-de-decider-la-france-insoumise-repond-a-la-polemique-sur-les-propos-de-jean-luc-melenchon-evoquant-le-donbass_8276936.html": "2026-11-10T21:20:18.508640+00:00",
+  "https://www.franceinfo.fr/replay-jt/france-2/20-heures/un-carambolage-fait-au-moins-11-morts-et-51-blesses-en-bulgarie_8276918.html": "2026-11-10T21:20:18.508640+00:00",
+  "https://www.franceinfo.fr/replay-jt/france-2/20-heures/au-moins-400-000-soldats-russes-seraient-morts-depuis-l-invasion-de-l-ukraine-en-2022-selon-des-pirates-informatiques_8276888.html": "2026-11-10T21:20:18.508640+00:00",
+  "https://www.franceinfo.fr/replay-radio/les-informes-de-france-info/que-retenir-des-discussions-entre-ukrainiens-et-russes-les-informes-de-franceinfo-du-mardi-10-novembre-2026_8255005.html": "2026-11-10T11:00:00+00:00",
+  "https://www.franceinfo.fr/monde/russie/quand-la-russie-s-approprie-la-tourte-de-l-independance-ukrainienne_8276564.html": "2026-11-10T21:20:18.508640+00:00",
+  "https://www.franceinfo.fr/monde/russie/pres-de-400-000-russes-sont-morts-au-combat-depuis-le-debut-de-l-invasion-de-l-ukraine-selon-une-fuite-de-donnees-inedite_8276057.html": "2026-11-10T21:20:18.508640+00:00",
+  "https://www.franceinfo.fr/faits-divers/police/l-auteur-de-la-tuerie-de-cracovie-en-pologne-s-interessait-au-neonazi-anders-behring-breivik_8276345.html": "2026-11-10T21:20:18.508640+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "\"C'est au peuple de décider ce qu'il veut\" : on vous résume la polémique suscitée par les propos de Jean-Luc Mélenchon sur l'Ukraine Le candidat de La France insoumise à la présidentielle a proposé que la population ukrainienne du Donbass, en grande partie occupée par les Russes, soit consultée pour savoir si elle voulait rester ukrainienne ou devenir russe, au cas où une concession territoriale soit envisagée par les deux pays pour mettre fin au conflit. Aujourd'hui",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/c-est-au-peuple-de-decider-lui-meme-ce-qu-il-veut-on-vous-resume-la-polemique-suscitee-par-les-propos-de-jean-luc-melenchon-sur-l-ukraine_8276072.html",
-   "summary": "\"C'est au peuple de décider ce qu'il veut\" : on vous résume la polémique suscitée par les propos de Jean-Luc Mélenchon sur l'Ukraine",
-   "image": "https://www.franceinfo.fr/pictures/YaM187Oi1EstKE8sWXBflkiR9TQ/33x0:1024x681/432x297/filters:format(jpg)/2026/11/10/6af307e08b15a792970968.jpg",
+   "title": "\"C'est aux Ukrainiens de décider\" : La France insoumise répond à la polémique sur les propos de Jean-Luc Mélenchon évoquant le Donbass Kiev a répondu à Jean-Luc Mélenchon. Samedi, le candidat à l'élection présidentielle a défendu le droit des habitants du Donbass à choisir entre l’Ukraine et la Russie, en cas d’accord entre les deux pays. La diplomatie ukrainienne lui rappelle qu’ils ont déjà voté pour l’indépendance de l’Ukraine en 1991. La France insoumise dénonce une déformation de ses propos. Qu’en est-il vraiment ? Aujourd'hui 2:15 vidéo 2 minutes 15",
+   "link": "https://www.franceinfo.fr/politique/melenchon/c-est-aux-ukrainiens-de-decider-la-france-insoumise-repond-a-la-polemique-sur-les-propos-de-jean-luc-melenchon-evoquant-le-donbass_8276936.html",
+   "summary": "\"C'est aux Ukrainiens de décider\" : La France insoumise répond à la polémique sur les propos de Jean-Luc Mélenchon évoquant le Donbass",
+   "image": "https://www.franceinfo.fr/pictures/_5wnOQOc4NWjfXYAoROy_R4Ovg8/75x0:1168x751/432x297/filters:format(jpg)/2026/11/10/6af386c678ce0628969355.jpg",
    "date": null,
-   "pubdate": "2026-11-10T14:58:52.045882+00:00"
+   "pubdate": "2026-11-10T21:20:18.508640+00:00"
   },
   {
-   "title": "Alors que les pourparlers entre la Russie et l'Ukraine députent à Abou Dhabi, on fait le point sur les exigences de chaque partie Aujourd'hui",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/alors-que-les-pourparlers-entre-la-russie-et-l-ukraine-deputent-a-abou-dhabi-on-fait-le-point-sur-les-exigences-de-chaque-partie_8275871.html",
-   "summary": "Alors que les pourparlers entre la Russie et l'Ukraine députent à Abou Dhabi, on fait le point sur les exigences de chaque partie",
-   "image": "https://www.franceinfo.fr/pictures/yeDfi0mAaJj_JMl7mClhcHDfqD4/0x106:1024x682/432x243/filters:format(jpg)/2026/11/10/6af2f7979c23a583802776.jpg",
+   "title": "Un carambolage fait au moins 11 morts et 51 blessés en Bulgarie Aujourd'hui 1:40 vidéo 1 minute 40",
+   "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/un-carambolage-fait-au-moins-11-morts-et-51-blesses-en-bulgarie_8276918.html",
+   "summary": "Un carambolage fait au moins 11 morts et 51 blessés en Bulgarie",
+   "image": "https://www.franceinfo.fr/pictures/FNZ0bqpaMI4SMcc_Em0FL2_vvTE/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/10/6af380b8d7aeb629220783.jpg",
    "date": null,
-   "pubdate": "2026-11-10T14:58:52.045882+00:00"
+   "pubdate": "2026-11-10T21:20:18.508640+00:00"
   },
   {
-   "title": "• Direct Négociations Ukraine-Russie : la première journée de pourparlers à Abou Dhabi, sous la médiation des États-Unis, s'est achevée Aujourd'hui • Direct",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-reprise-des-negociations-directes-entre-kiev-et-moscou-apres-plus-de-huit-mois-d-interruption_8275967.html",
-   "summary": "Négociations Ukraine-Russie : la première journée de pourparlers à Abou Dhabi, sous la médiation des États-Unis, s'est achevée",
-   "image": "https://www.franceinfo.fr/pictures/l4DtoJ-ljMIOaC0t6urw7RC_l2c/0x106:1024x682/432x243/filters:format(jpg)/2026/11/10/6af2e18949179112917421.jpg",
+   "title": "Au moins 400 000 soldats russes seraient morts depuis l'invasion de l’Ukraine en 2022 selon des pirates informatiques Aujourd'hui 1:50 vidéo 1 minute 50",
+   "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/au-moins-400-000-soldats-russes-seraient-morts-depuis-l-invasion-de-l-ukraine-en-2022-selon-des-pirates-informatiques_8276888.html",
+   "summary": "Au moins 400 000 soldats russes seraient morts depuis l'invasion de l’Ukraine en 2022 selon des pirates informatiques",
+   "image": "https://www.franceinfo.fr/pictures/QTvBlOwyPlhz0hYlVEc5HfEgXPs/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/10/6af3775a12b33081792865.jpg",
    "date": null,
-   "pubdate": "2026-11-10T14:58:52.045882+00:00"
+   "pubdate": "2026-11-10T21:20:18.508640+00:00"
   },
   {
-   "title": ": Reportage \"Ce soir, on est en mission pour qu'ils passent une mauvaise nuit\" : en immersion avec une brigade de dronistes ukrainiens qui vise les raffineries russes : Reportage 4:55 audio 4 minutes 55",
+   "title": "La Russie accusée de s'approprier \"la tourte de l'indépendance\" ukrainienne Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/russie/quand-la-russie-s-approprie-la-tourte-de-l-independance-ukrainienne_8276564.html",
+   "summary": "La Russie accusée de s'approprier \"la tourte de l'indépendance\" ukrainienne",
+   "image": "https://www.franceinfo.fr/pictures/_CAIsjnHAYsIn7Zac56P9apQVak/0x0:720x405/432x243/filters:format(jpg)/2026/11/10/6af343d05d575043072316.jpg",
+   "date": null,
+   "pubdate": "2026-11-10T21:20:18.508640+00:00"
+  },
+  {
+   "title": "Près de 400 000 Russes sont morts au combat depuis le début de l'invasion de l'Ukraine, selon une fuite de données inédite Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/russie/pres-de-400-000-russes-sont-morts-au-combat-depuis-le-debut-de-l-invasion-de-l-ukraine-selon-une-fuite-de-donnees-inedite_8276057.html",
+   "summary": "Près de 400 000 Russes sont morts au combat depuis le début de l'invasion de l'Ukraine, selon une fuite de données inédite",
+   "image": "https://www.franceinfo.fr/pictures/9Neq14IVO_5tXbDMfDD3e3mcVZw/0x450:4300x2869/432x243/filters:format(jpg)/2026/11/10/6af30aad270f5845874563.jpg",
+   "date": null,
+   "pubdate": "2026-11-10T21:20:18.508640+00:00"
+  },
+  {
+   "title": "L'auteur de la tuerie de Cracovie en Pologne s'intéressait au néonazi Anders Behring Breivik Aujourd'hui",
+   "link": "https://www.franceinfo.fr/faits-divers/police/l-auteur-de-la-tuerie-de-cracovie-en-pologne-s-interessait-au-neonazi-anders-behring-breivik_8276345.html",
+   "summary": "L'auteur de la tuerie de Cracovie en Pologne s'intéressait au néonazi Anders Behring Breivik",
+   "image": "https://www.franceinfo.fr/pictures/hIMGjmJG06eTwyvOcSWAJ1cbwBU/0x106:1024x682/432x243/filters:format(jpg)/2026/11/10/6af31ac835f43833710189.jpg",
+   "date": null,
+   "pubdate": "2026-11-10T21:20:18.508640+00:00"
+  },
+  {
+   "title": ": Reportage \"Ce soir, on est en mission pour qu'ils passent une mauvaise nuit\" : en immersion avec une brigade de dronistes ukrainiens qui vise les raffineries russes Aujourd'hui : Reportage",
    "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-couper-le-robinet-de-petrole-russe-en-mission-avec-les-oiseaux-de-madyar-la-brigade-de-dronistes-ukrainiens-la-plus-pourchassee-par-les-russes_8255023.html",
    "summary": "\"Ce soir, on est en mission pour qu'ils passent une mauvaise nuit\" : en immersion avec une brigade de dronistes ukrainiens qui vise les raffineries russes",
    "image": "https://www.franceinfo.fr/pictures/ccQT4F940EBl9FupZfobrD39RI8/0x150:1600x1050/432x243/filters:format(jpg)/2026/11/09/6af22c0dbfe8f915408614.jpg",
@@ -64,15 +87,39 @@
    "pubdate": "2026-11-10T14:58:52.045882+00:00"
   },
   {
-   "title": "Ukraine, des milliers d'habitants privés d'électricité 9 novembre 1:41 vidéo 1 minute 41",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/ukraine-des-milliers-d-habitants-prives-d-electricite_8274908.html",
-   "summary": "Ukraine, des milliers d'habitants privés d'électricité",
-   "image": "https://www.franceinfo.fr/pictures/mM6jTIyBt8d5iVfSPGVpUTYiJ4s/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/09/6af1fcca96ecc482306543.jpg",
+   "title": "\"C'est au peuple de décider ce qu'il veut\" : on vous résume la polémique suscitée par les propos de Jean-Luc Mélenchon sur l'Ukraine Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/c-est-au-peuple-de-decider-lui-meme-ce-qu-il-veut-on-vous-resume-la-polemique-suscitee-par-les-propos-de-jean-luc-melenchon-sur-l-ukraine_8276072.html",
+   "summary": "\"C'est au peuple de décider ce qu'il veut\" : on vous résume la polémique suscitée par les propos de Jean-Luc Mélenchon sur l'Ukraine",
+   "image": "https://www.franceinfo.fr/pictures/4pJWV6LjlZ_f9QY0FX7A7BzM8tY/0x79:1024x655/432x243/filters:format(jpg)/2026/11/10/6af307e08b15a792970968.jpg",
    "date": null,
-   "pubdate": "2026-11-09T19:53:20.422805+00:00"
+   "pubdate": "2026-11-10T14:58:52.045882+00:00"
   },
   {
-   "title": "Guerre en Ukraine : la coalition des volontaires lance un exercice grandeur nature inédit en Pologne 9 novembre",
+   "title": "Alors que les pourparlers entre la Russie et l'Ukraine débutent à Abou Dhabi, on fait le point sur les exigences de chaque partie Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/alors-que-les-pourparlers-entre-la-russie-et-l-ukraine-deputent-a-abou-dhabi-on-fait-le-point-sur-les-exigences-de-chaque-partie_8275871.html",
+   "summary": "Alors que les pourparlers entre la Russie et l'Ukraine débutent à Abou Dhabi, on fait le point sur les exigences de chaque partie",
+   "image": "https://www.franceinfo.fr/pictures/yeDfi0mAaJj_JMl7mClhcHDfqD4/0x106:1024x682/432x243/filters:format(jpg)/2026/11/10/6af2f7979c23a583802776.jpg",
+   "date": null,
+   "pubdate": "2026-11-10T14:58:52.045882+00:00"
+  },
+  {
+   "title": "• Direct Négociations Ukraine-Russie : Volodymyr Zelensky fait état d'une première journée de pourparlers \"constructifs et assez substantiels\" Les questions humanitaires et les garanties de sécurité ont été au cœur des discussions entre Russes et Ukrainiens sous médiation américaine, mardi à Abou Dhabi, d'après le président ukrainien, qui n'est pas présent. Aujourd'hui • Direct",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-reprise-des-negociations-directes-entre-kiev-et-moscou-apres-plus-de-huit-mois-d-interruption_8275967.html",
+   "summary": "Négociations Ukraine-Russie : Volodymyr Zelensky fait état d'une première journée de pourparlers \"constructifs et assez substantiels\"",
+   "image": "https://www.franceinfo.fr/pictures/a7OY89MrrBbeCo0CNyxLbEJQ7pw/0x0:4285x2410/432x243/filters:format(jpg)/2026/11/10/6af3330adf2c0203944226.jpg",
+   "date": null,
+   "pubdate": "2026-11-10T14:58:52.045882+00:00"
+  },
+  {
+   "title": "Que retenir des discussions entre Ukrainiens et Russes ? Les informés de franceinfo du mardi 10 novembre 2026 Aujourd'hui 54:06 audio 54 minutes 6",
+   "link": "https://www.franceinfo.fr/replay-radio/les-informes-de-france-info/que-retenir-des-discussions-entre-ukrainiens-et-russes-les-informes-de-franceinfo-du-mardi-10-novembre-2026_8255005.html",
+   "summary": "Que retenir des discussions entre Ukrainiens et Russes ? Les informés de franceinfo du mardi 10 novembre 2026",
+   "image": "https://www.franceinfo.fr/pictures/cKwYQSDkl69oFoh_EANpZtwtzc8/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/10/6af36b26c7e51313031857.png",
+   "date": "2026-11-10T11:00:00+00:00",
+   "pubdate": "2026-11-10T11:00:00+00:00"
+  },
+  {
+   "title": "Guerre en Ukraine : la coalition des volontaires lance un exercice grandeur nature inédit en Pologne Une manœuvre engageant 2 800 militaires, pilotée par la France et le Royaume-Uni, se déroule en Pologne, ce lundi. Cet exercice d'ampleur des alliés de Kiev est une première pour la coalition des volontaires. 9 novembre",
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-la-coalition-des-volontaires-lance-un-exercice-grandeur-nature-inedit-en-pologne_8274764.html",
    "summary": "Guerre en Ukraine : la coalition des volontaires lance un exercice grandeur nature inédit en Pologne",
    "image": "https://www.franceinfo.fr/pictures/qfMJa5wejsPJ81OzLfrBo_TmNik/0x53:1024x629/432x243/filters:format(jpg)/2026/11/09/6af1f29e5f37b185090376.jpg",
@@ -80,15 +127,7 @@
    "pubdate": "2026-11-09T19:53:20.422805+00:00"
   },
   {
-   "title": "Les secrets de la conservation exceptionnelle des épaves suédoises, dont le célèbre Vasa, navire du XVIIe siècle le mieux préservé au monde 9 novembre 4:55 vidéo 4 minutes 55",
-   "link": "https://www.franceinfo.fr/culture/patrimoine/les-secrets-de-la-conservation-exceptionnelle-des-epaves-suedoises-dont-le-celebre-vasa-navire-du-xviie-siecle-le-mieux-preserve-au-monde_8274674.html",
-   "summary": "Les secrets de la conservation exceptionnelle des épaves suédoises, dont le célèbre Vasa, navire du XVIIe siècle le mieux préservé au monde",
-   "image": "https://www.franceinfo.fr/pictures/akha1F8WRfFEHXXNXybMJNoUyzg/139x0:1533x784/432x243/filters:format(jpg)/2026/11/09/6af1eb009b26d711990966.jpg",
-   "date": null,
-   "pubdate": "2026-11-09T19:53:20.422805+00:00"
-  },
-  {
-   "title": "\"Depuis qu'il fait froid, les Russes frappent violemment la centrale électrique\" : les habitants de Dnipro s'apprêtent à vivre leur \"pire hiver\" 9 novembre",
+   "title": "\"Depuis qu'il fait froid, les Russes frappent violemment la centrale électrique\" : les habitants de Dnipro s'apprêtent à vivre leur \"pire hiver\" En Ukraine, il est devenu particulièrement dangereux d'habiter à proximité d'une centrale électrique. La Russie a encore frappé ce week-end des installations énergétiques, à la veille de pourparlers qui débutent mardi à Abu Dhabi. Reportage dans la grande ville de Dnipro, dans le sud-est du pays. 9 novembre",
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/depuis-qu-il-fait-froid-les-russes-frappent-violemment-la-centrale-electrique-les-habitants-de-dnipro-s-appretent-a-vivre-leur-pire-hiver_8274572.html",
    "summary": "\"Depuis qu'il fait froid, les Russes frappent violemment la centrale électrique\" : les habitants de Dnipro s'apprêtent à vivre leur \"pire hiver\"",
    "image": "https://www.franceinfo.fr/pictures/F01FNFQU9SjBKCcegVzPoNR0miA/0x57:1024x633/432x243/filters:format(jpg)/2026/11/09/6af1d2c9734c4250140326.jpg",
@@ -96,7 +135,7 @@
    "pubdate": "2026-11-09T19:53:20.422805+00:00"
   },
   {
-   "title": "Guerre en Ukraine : le Canada annonce des sanctions supplémentaires contre la Russie 9 novembre",
+   "title": "Guerre en Ukraine : le Canada annonce des sanctions supplémentaires contre la Russie Le Canada cible en particulier la base industrielle de défense avec des sanctions contre \"des acteurs impliqués dans le développement de la technologie des missiles balistiques et dans les activités cyber de la Russie\". 9 novembre",
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-le-canada-annonce-des-sanctions-supplementaires-contre-la-russie_8274593.html",
    "summary": "Guerre en Ukraine : le Canada annonce des sanctions supplémentaires contre la Russie",
    "image": "https://www.franceinfo.fr/pictures/nYmXk5aooR4IQkwDpdL5-1RCu7c/0x157:1024x733/432x243/filters:format(jpg)/2026/11/09/6af1cde7e3cc6868304932.jpg",
@@ -104,15 +143,7 @@
    "pubdate": "2026-11-09T19:53:20.422805+00:00"
   },
   {
-   "title": "Guerre en Ukraine : à Kiev, les habitants redoutent l'hiver face aux coupures d'électricité 9 novembre 1:37 vidéo 1 minute 37",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-a-kiev-les-habitants-redoutent-l-hiver-face-aux-coupures-d-electricite_8274575.html",
-   "summary": "Guerre en Ukraine : à Kiev, les habitants redoutent l'hiver face aux coupures d'électricité",
-   "image": "https://www.franceinfo.fr/pictures/gYaJHPfpYj3HvU4PCn4DiLPMKzI/0x41:2650x1532/432x243/filters:format(jpg)/2026/11/09/6af1c8858ecc6455623775.png",
-   "date": null,
-   "pubdate": "2026-11-09T19:53:20.422805+00:00"
-  },
-  {
-   "title": "Vingt migrants retrouvés morts sur deux embarcations au large de la Crète 9 novembre",
+   "title": "Vingt migrants retrouvés morts sur deux embarcations au large de la Crète Cette île grecque est l'un des principaux points d'entrée dans l'Union européenne des migrants. 9 novembre",
    "link": "https://www.franceinfo.fr/monde/europe/migrants/huit-personnes-sont-mortes-dans-le-naufrage-d-une-embarcation-de-migrants-au-large-de-la-grece_8274113.html",
    "summary": "Vingt migrants retrouvés morts sur deux embarcations au large de la Crète",
    "image": "https://www.franceinfo.fr/pictures/Gfm6VchzvgRgLPhSBVJx6vb0CXw/0x87:1024x663/432x243/filters:format(jpg)/2026/11/09/6af170e715ff3343724942.jpg",
@@ -168,52 +199,12 @@
    "pubdate": "2026-11-08T10:30:11.496650+00:00"
   },
   {
-   "title": "Investissements accrus dans des domaines stratégiques, rapprochement avec l'UE... Comment le Canada de Mark Carney continue à s'éloigner du voisin américain Malgré la victoire démocrate aux élections de mi-mandat aux Etats-Unis, le Canada maintient sa stratégie d'indépendance économique. 7 novembre 3:00 audio 3 minutes",
-   "link": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/investissements-accrus-dans-des-domaines-strategiques-rapprochement-avec-l-ue-comment-le-canada-de-mark-carney-continue-a-s-eloigner-du-voisin-americain_8251738.html",
-   "summary": "Investissements accrus dans des domaines stratégiques, rapprochement avec l'UE... Comment le Canada de Mark Carney continue à s'éloigner du voisin américain",
-   "image": "https://www.franceinfo.fr/pictures/ZRWjrafxyUWHCkx4jC92MFClH2Y/0x44:5563x3173/432x243/filters:format(jpg)/2026/11/06/6aedbbb52f86d672386481.jpg",
-   "date": null,
-   "pubdate": "2026-11-07T19:28:40.162870+00:00"
-  },
-  {
-   "title": "Volodymyr Zelensky accuse la Russie d'intensifier ses frappes pour \"mettre la pression\" avant les négociations trilatérales Le président ukrainien a par ailleurs estimé que l'armée russe avait notamment utilisé des missiles fabriqués en Corée du Nord lors des frappes contre les infrastructures énergétiques dans la nuit de vendredi à samedi. 7 novembre",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/volodymyr-zelensky-accuse-la-russie-d-intensifier-ses-frappes-pour-mettre-la-pression-avant-les-negociations-trilaterales_8272400.html",
-   "summary": "Volodymyr Zelensky accuse la Russie d'intensifier ses frappes pour \"mettre la pression\" avant les négociations trilatérales",
-   "image": "https://www.franceinfo.fr/pictures/q-0Q5USRFfWaEYYLDTrHw6IWNyI/0x74:1024x650/432x243/filters:format(jpg)/2026/11/07/6aef306535e08757823868.jpg",
-   "date": null,
-   "pubdate": "2026-11-07T19:28:40.162870+00:00"
-  },
-  {
-   "title": "L'Ukraine frappée par des bombardements nocturnes russes \"massifs\" contre ses infrastructures énergétiques Selon Volodymyr Zelensky, au moins neuf personnes ont été blessées, dont un enfant, lors de ces attaques qui ont touché une dizaine de régions du pays. Le président ukrainien a par ailleurs affirmé que l'armée russe avait notamment utilisé des missiles fabriqués en Corée du Nord lors de ces frappes. 7 novembre",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-un-pont-et-des-infrastructures-energetiques-endommages-par-des-frappes-russes-dans-la-region-de-kiev_8272043.html",
-   "summary": "L'Ukraine frappée par des bombardements nocturnes russes \"massifs\" contre ses infrastructures énergétiques",
-   "image": "https://www.franceinfo.fr/pictures/gopz2TUkXObSA3PSj2WrLR31t_g/0x93:1024x669/432x243/filters:format(jpg)/2026/11/07/6aeedbf540531692941003.jpg",
-   "date": null,
-   "pubdate": "2026-11-07T13:13:18.883917+00:00"
-  },
-  {
    "title": "Vos questions sur l'effort de guerre de la France 6 contenus",
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/vos-questions-sur-l-effort-de-guerre-de-la-france/",
    "summary": "Vos questions sur l'effort de guerre de la France",
    "image": "https://www.franceinfo.fr/pictures/ntZoU9VrwR_yrQmHdJn-AC2Tq7o/432x297/filters:format(jpg)/2025/04/01/effort-de-guerre-couverture-de-dossier-01-light-67eba0e5ca0a7848911582.jpg",
    "date": null,
    "pubdate": "2026-11-07T06:07:51.006265+00:00"
-  },
-  {
-   "title": "Des ONG de protection de l'environnement demandent un \"moratoire\" sur l'expansion des data centers en France et en Europe Elles se mobilisent dans plusieurs pays, vendredi 6 et samedi 7 novembre sous le slogan \"Stop aux centres de données polluants\", rapporte France Inter vendredi. 6 novembre",
-   "link": "https://www.franceinfo.fr/internet/intelligence-artificielle/des-ong-de-protection-de-l-environnement-demandent-un-moratoire-sur-l-expansion-des-data-centers-en-france-et-en-europe_8270879.html",
-   "summary": "Des ONG de protection de l'environnement demandent un \"moratoire\" sur l'expansion des data centers en France et en Europe",
-   "image": "https://www.franceinfo.fr/pictures/Rp1NKDdmzVJx64Nmest0lXeWQH4/0x442:4800x3142/432x243/filters:format(jpg)/2026/11/06/6aedd5d1945be118422487.jpg",
-   "date": null,
-   "pubdate": "2026-11-06T16:48:45.513479+00:00"
-  },
-  {
-   "title": "Après la collision d'Urda en Espagne, le Parquet européen ouvre une enquête sur d'éventuelles fraudes aux aides destinées à la rénovation de la ligne ferroviaire Une collision de trains avait provoqué la mort de 69 personnes, le 28 octobre. La juridiction rappelle qu'elle avait déjà ouvert une première enquête similaire portant sur la même ligne ferroviaire, après un premier drame survenu en janvier. 6 novembre",
-   "link": "https://www.franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/le-parquet-europeen-lance-une-enquete-sur-d-eventuelles-fraudes-aux-aides-apres-le-drame-ferroviaire-d-urda_8270771.html",
-   "summary": "Après la collision d'Urda en Espagne, le Parquet européen ouvre une enquête sur d'éventuelles fraudes aux aides destinées à la rénovation de la ligne ferroviaire",
-   "image": "https://www.franceinfo.fr/pictures/zOh9JXlWSPvXW6LT6OOaO7lp8Jc/0x40:5000x2852/432x243/filters:format(jpg)/2026/11/06/6aedbd029ccae184020696.jpg",
-   "date": null,
-   "pubdate": "2026-11-06T16:48:45.513479+00:00"
   },
   {
    "title": ": Grand entretien En Belgique, un cordon sanitaire médiatique \"empêche toute forme de banalisation de l'extrême droite\", un outil \"difficile\" à imaginer en France : Grand entretien 5:00 article 5 minutes",
