@@ -1,5 +1,5 @@
 {
- "etag": "\"8707d92d4943a11ce2e3181ede5c7c0b-gzip\"",
+ "etag": "\"77bde0b5d9cee5629bb41c662e2e7564-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/societe/nos-jours-heureux/": "2026-11-05T17:27:47.452200+00:00",
@@ -11,9 +11,7 @@
   "https://www.franceinfo.fr/replay-radio/les-informes-de-france-info/peut-on-augmenter-les-salaires-dans-la-conjoncture-economique-actuelle-les-informes-de-franceinfo-du-lundi-9-novembre-2026_8253646.html": "2026-11-09T11:00:00+00:00",
   "https://www.franceinfo.fr/replay-magazine/franceinfo/avant-le-20h/hausse-du-smic-un-coup-de-pouce-tres-largement-insuffisant-estime-cyrielle-chatelain-presidente-du-groupe-ecologiste-a-l-assemblee_8275052.html": "2026-11-09T19:53:16.976697+00:00",
   "https://www.franceinfo.fr/sante/les-overdoses-ont-plus-que-double-en-10-ans-alerte-l-office-antistupefiants_8275040.html": "2026-11-09T19:53:16.976697+00:00",
-  "https://www.franceinfo.fr/l-actu-pour-les-jeunes/le-bac-ne-sera-pas-reporte-qu-en-penses-les-lyceens_8275028.html": "2026-11-09T19:53:16.976697+00:00",
   "https://www.franceinfo.fr/societe/education/a-l-ecole-la-commemoration-du-11-novembre-fait-des-vagues-chez-certains-syndicats_8274968.html": "2026-11-09T19:53:16.976697+00:00",
-  "https://www.franceinfo.fr/l-actu-pour-les-jeunes/rattraper-pendant-les-vacances-des-cours-manques-qu-en-pensent-les-lyceens_8275007.html": "2026-11-09T19:53:16.976697+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-elles-sont-ou-les-petites-filles-de-la-com-alors-que-le-proces-escoffier-debute-des-femmes-temoignent-du-sexisme-dans-la-voile_8253670.html": "2026-11-09T19:53:16.976697+00:00",
   "https://www.franceinfo.fr/societe/justice/le-bhv-en-redressement-judiciaire-a-ete-contraint-de-fermer-ses-portes-lundi_8274869.html": "2026-11-09T19:53:16.976697+00:00",
   "https://www.franceinfo.fr/faits-divers/incendie-dans-un-bar-de-crans-montana-en-suisse/incendie-de-crans-montana-un-des-restaurants-du-couple-moretti-proprietaire-du-bar-le-constellation-mis-en-faillite_8274818.html": "2026-11-09T19:53:16.976697+00:00",
@@ -23,24 +21,82 @@
   "https://www.franceinfo.fr/societe/education/blocage-des-lycees/quatre-personnes-interpellees-apres-qu-un-proviseur-de-lycee-pres-de-bordeaux-a-ete-touche-a-la-tete-par-un-projectile_8274296.html": "2026-11-09T19:53:16.976697+00:00",
   "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-des-lyceens-les-representants-du-mouvement-recus-par-le-premier-ministre-lundi-apres-midi_8274272.html": "2026-11-09T19:53:16.976697+00:00",
   "https://www.franceinfo.fr/societe/manifestations/consultations-a-matignon-manifestations-en-quete-d-une-sortie-de-crise-le-gouvernement-entame-une-nouvelle-semaine-sociale-chargee_8274125.html": "2026-11-09T19:53:16.976697+00:00",
-  "https://www.franceinfo.fr/societe/racisme/la-france-n-est-pas-un-pays-raciste-elle-n-exerce-pas-de-discriminations-estime-le-depute-rn-sebastien-chenu_8274200.html": "2026-11-09T19:53:16.976697+00:00",
-  "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/vrai-ou-faux-les-coups-de-pouce-au-smic-sont-ils-exceptionnels-et-pas-frequents-comme-l-affirme-le-ministre-du-travail_8253661.html": "2026-11-09T19:53:16.976697+00:00",
-  "https://www.franceinfo.fr/sante/psycho-bien-etre/sante-mentale/la-sante-mentale-des-11-17-ans-se-degrade-et-on-constate-une-acceleration-ces-dernieres-annees-alerte-le-directeur-de-sante-publique-france_8274152.html": "2026-11-09T19:53:16.976697+00:00",
-  "https://www.franceinfo.fr/replay-radio/ca-dit-quoi/podcast-sante-mentale-mise-a-l-epreuve-par-les-blocus-nouvelle-cop-et-blague-de-donald-trump-ca-dit-quoi-ce-9-novembre_8264843.html": "2026-11-09T19:53:16.976697+00:00",
-  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/une-cinquantaine-d-eleves-supplementaires-ont-ete-blesses-par-leurs-camarades-durant-la-semaine-de-la-rentree-selon-le-ministre-de-l-education-nationale_8274140.html": "2026-11-09T19:53:16.976697+00:00"
+  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/on-ne-rentrera-jamais-dans-une-salle-avec-l-extreme-droite-la-premiere-reunion-du-comite-de-reforme-parcoursup-tourne-court_8275253.html": "2026-11-10T03:37:13.425810+00:00",
+  "https://www.franceinfo.fr/politique/marine-le-pen/pas-de-discriminations-en-france-les-affirmations-de-marine-le-pen-sur-la-chaine-americaine-cbs-a-l-epreuve-des-chiffres_8275217.html": "2026-11-10T03:37:13.425810+00:00",
+  "https://www.franceinfo.fr/societe/violences-faites-aux-femmes/deux-ans-de-prison-avec-sursis-ont-ete-requis-contre-le-navigateur-kevin-escoffier-juge-pour-agressions-sexuelles_8275199.html": "2026-11-10T03:37:13.425810+00:00",
+  "https://www.franceinfo.fr/societe/education/quand-est-ce-que-ca-va-s-arreter-la-proviseure-du-lycee-francoise-de-tournefeuille-incendie-jeudi-dernier-se-confie-apres-plusieurs-tentatives-d-intrusion-dans-son-etablissement_8275193.html": "2026-11-10T03:37:13.425810+00:00",
+  "https://www.franceinfo.fr/politique/marine-le-pen/il-n-y-a-pas-de-discriminations-en-france-pour-marine-le-pen_8275169.html": "2026-11-10T03:37:13.425810+00:00",
+  "https://www.franceinfo.fr/replay-jt/france-2/20-heures/le-smic-a-1500-euros-un-coup-de-pouce-insuffisant-pour-les-syndicats_8275157.html": "2026-11-10T03:37:13.425810+00:00",
+  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/nous-sommes-devenus-des-cibles-le-principal-syndicat-des-proviseurs-appelle-au-rassemblement-vendredi-13-novembre_8275154.html": "2026-11-10T03:37:13.425810+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "Un lycéen de 15 ans interpellé en caleçon : que s'est-il passé à Aulnay-sous-Bois ? Une vidéo montrant un lycéen de 15 ans emmené en caleçon par des policiers à Aulnay-sous-Bois (Seine-Saint-Denis), jeudi 5 novembre, a largement circulé sur les réseaux sociaux. Les circonstances de son interpellation, lors d'un blocus de son établissement, font l'objet de versions contradictoires. Aujourd'hui 4:10 vidéo 4 minutes 10",
+   "title": "\"On ne rentrera jamais dans une salle avec l'extrême droite\" : la première réunion du comité de réforme Parcoursup tourne court Plusieurs représentants de l'intersyndicale lycéenne et étudiante ont quitté lundi soir cette réunion organisée à Matignon autour du Premier ministre. 9 novembre",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/on-ne-rentrera-jamais-dans-une-salle-avec-l-extreme-droite-la-premiere-reunion-du-comite-de-reforme-parcoursup-tourne-court_8275253.html",
+   "summary": "\"On ne rentrera jamais dans une salle avec l'extrême droite\" : la première réunion du comité de réforme Parcoursup tourne court",
+   "image": "https://www.franceinfo.fr/pictures/rsMqlzRgnx8gYXz4unLuiCgF5zg/16x0:1008x682/432x297/filters:format(jpg)/2026/11/09/6af24ad642186529658466.jpg",
+   "date": null,
+   "pubdate": "2026-11-10T03:37:13.425810+00:00"
+  },
+  {
+   "title": "\"Pas de discriminations en France\" : les affirmations de Marine Le Pen sur la chaîne américaine CBS à l'épreuve des chiffres 9 novembre 2:13 vidéo 2 minutes 13",
+   "link": "https://www.franceinfo.fr/politique/marine-le-pen/pas-de-discriminations-en-france-les-affirmations-de-marine-le-pen-sur-la-chaine-americaine-cbs-a-l-epreuve-des-chiffres_8275217.html",
+   "summary": "\"Pas de discriminations en France\" : les affirmations de Marine Le Pen sur la chaîne américaine CBS à l'épreuve des chiffres",
+   "image": "https://www.franceinfo.fr/pictures/o15o3DiF2XNMrpFZ18ODVm0j_M8/3x0:1363x765/432x243/filters:format(jpg)/2026/11/09/6af23e75ac2cb651002270.jpg",
+   "date": null,
+   "pubdate": "2026-11-10T03:37:13.425810+00:00"
+  },
+  {
+   "title": "Deux ans de prison avec sursis ont été requis contre le navigateur Kevin Escoffier, jugé pour agressions sexuelles 9 novembre",
+   "link": "https://www.franceinfo.fr/societe/violences-faites-aux-femmes/deux-ans-de-prison-avec-sursis-ont-ete-requis-contre-le-navigateur-kevin-escoffier-juge-pour-agressions-sexuelles_8275199.html",
+   "summary": "Deux ans de prison avec sursis ont été requis contre le navigateur Kevin Escoffier, jugé pour agressions sexuelles",
+   "image": "https://www.franceinfo.fr/pictures/HXFkHephK-3Q1hIgc6eEt09NF78/0x0:1024x576/432x243/filters:format(jpg)/2026/11/09/6af235cd40164542438199.jpg",
+   "date": null,
+   "pubdate": "2026-11-10T03:37:13.425810+00:00"
+  },
+  {
+   "title": "\"Quand est-ce que ça va s'arrêter ?\" : la proviseure du lycée Françoise de Tournefeuille, incendié jeudi dernier, se confie après plusieurs tentatives d'intrusion dans son établissement 9 novembre 2:11 vidéo 2 minutes 11",
+   "link": "https://www.franceinfo.fr/societe/education/quand-est-ce-que-ca-va-s-arreter-la-proviseure-du-lycee-francoise-de-tournefeuille-incendie-jeudi-dernier-se-confie-apres-plusieurs-tentatives-d-intrusion-dans-son-etablissement_8275193.html",
+   "summary": "\"Quand est-ce que ça va s'arrêter ?\" : la proviseure du lycée Françoise de Tournefeuille, incendié jeudi dernier, se confie après plusieurs tentatives d'intrusion dans son établissement",
+   "image": "https://www.franceinfo.fr/pictures/9mALHOLw6UGeTRb_TpcUTirROSQ/32x0:1338x735/432x243/filters:format(jpg)/2026/11/09/6af238ea3ee2b899143272.jpg",
+   "date": null,
+   "pubdate": "2026-11-10T03:37:13.425810+00:00"
+  },
+  {
+   "title": "\"Il n'y a pas de discriminations en France\" pour Marine Le Pen 9 novembre 2:16 vidéo 2 minutes 16",
+   "link": "https://www.franceinfo.fr/politique/marine-le-pen/il-n-y-a-pas-de-discriminations-en-france-pour-marine-le-pen_8275169.html",
+   "summary": "\"Il n'y a pas de discriminations en France\" pour Marine Le Pen",
+   "image": "https://www.franceinfo.fr/pictures/Fl6SRjFTQRJo88cwERIBJjqxrgM/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/09/6af22f30bb9db981719909.jpg",
+   "date": null,
+   "pubdate": "2026-11-10T03:37:13.425810+00:00"
+  },
+  {
+   "title": "Le SMIC à 1500 euros : un coup de pouce insuffisant pour les syndicats 9 novembre 1:46 vidéo 1 minute 46",
+   "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/le-smic-a-1500-euros-un-coup-de-pouce-insuffisant-pour-les-syndicats_8275157.html",
+   "summary": "Le SMIC à 1500 euros : un coup de pouce insuffisant pour les syndicats",
+   "image": "https://www.franceinfo.fr/pictures/r1S4LanwmZNNZTCCasT1P2Nhm7A/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/09/6af22ed96f474462726799.jpg",
+   "date": null,
+   "pubdate": "2026-11-10T03:37:13.425810+00:00"
+  },
+  {
+   "title": "\"Nous sommes devenus des cibles\" : le principal syndicat des proviseurs appelle au rassemblement vendredi 13 novembre 9 novembre",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/nous-sommes-devenus-des-cibles-le-principal-syndicat-des-proviseurs-appelle-au-rassemblement-vendredi-13-novembre_8275154.html",
+   "summary": "\"Nous sommes devenus des cibles\" : le principal syndicat des proviseurs appelle au rassemblement vendredi 13 novembre",
+   "image": "https://www.franceinfo.fr/pictures/rvHWe5Fk28bgN67uU126GTHsxng/0x137:3543x2130/432x243/filters:format(jpg)/2026/11/09/6af22f36d8533912854540.jpg",
+   "date": null,
+   "pubdate": "2026-11-10T03:37:13.425810+00:00"
+  },
+  {
+   "title": "Un lycéen de 15 ans interpellé en caleçon : que s'est-il passé à Aulnay-sous-Bois ? 9 novembre 4:10 vidéo 4 minutes 10",
    "link": "https://www.franceinfo.fr/faits-divers/police/un-lyceen-de-15-ans-interpelle-en-calecon-que-s-est-il-passe-a-aulnay-sous-bois_8275082.html",
    "summary": "Un lycéen de 15 ans interpellé en caleçon : que s'est-il passé à Aulnay-sous-Bois ?",
-   "image": "https://www.franceinfo.fr/pictures/A6RlhT6iLrrA1tArhkonZ1Hb5iY/93x0:918x567/432x297/filters:format(jpg)/2026/11/09/6af21e531f4bf488531663.jpg",
+   "image": "https://www.franceinfo.fr/pictures/g6Jh0f66NGyOBxBO_w4MjgC3ZBs/2x0:1010x567/432x243/filters:format(jpg)/2026/11/09/6af21e531f4bf488531663.jpg",
    "date": null,
    "pubdate": "2026-11-09T19:53:16.976697+00:00"
   },
   {
-   "title": "Hausse du SMIC : \"Un coup de pouce très largement insuffisant\", estime Cyrielle Chatelain, présidente du groupe écologiste à l’Assemblée Aujourd'hui 24:46 vidéo 24 minutes 46",
+   "title": "Hausse du SMIC : \"Un coup de pouce très largement insuffisant\", estime Cyrielle Chatelain, présidente du groupe écologiste à l’Assemblée 9 novembre 24:46 vidéo 24 minutes 46",
    "link": "https://www.franceinfo.fr/replay-magazine/franceinfo/avant-le-20h/hausse-du-smic-un-coup-de-pouce-tres-largement-insuffisant-estime-cyrielle-chatelain-presidente-du-groupe-ecologiste-a-l-assemblee_8275052.html",
    "summary": "Hausse du SMIC : \"Un coup de pouce très largement insuffisant\", estime Cyrielle Chatelain, présidente du groupe écologiste à l’Assemblée",
    "image": "https://www.franceinfo.fr/pictures/REeM9HGrFqWB7trXFifHSCAnxhQ/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/09/6af2166b49ad6805063585.jpg",
@@ -48,7 +104,15 @@
    "pubdate": "2026-11-09T19:53:16.976697+00:00"
   },
   {
-   "title": "Le nombre d'overdoses mortelles a plus que doublé en 10 ans en France, alerte l'Office antistupéfiants Aujourd'hui",
+   "title": ": Reportage Alors que le procès Escoffier débute, des skippeuses dépeignent un monde de la voile structuré par la domination masculine : Reportage 4:23 audio 4 minutes 23",
+   "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-elles-sont-ou-les-petites-filles-de-la-com-alors-que-le-proces-escoffier-debute-des-femmes-temoignent-du-sexisme-dans-la-voile_8253670.html",
+   "summary": "Alors que le procès Escoffier débute, des skippeuses dépeignent un monde de la voile structuré par la domination masculine",
+   "image": "https://www.franceinfo.fr/pictures/4djOtGaJyoIq0Lh1q9LjkmHyQ0A/0x418:8038x4939/432x243/filters:format(jpg)/2026/11/09/6af16cef78c30535552297.jpg",
+   "date": null,
+   "pubdate": "2026-11-09T19:53:16.976697+00:00"
+  },
+  {
+   "title": "Le nombre d'overdoses mortelles a plus que doublé en 10 ans en France, alerte l'Office antistupéfiants Les drogues de synthèse, très accessibles et en plein essor, représentent une menace supplémentaire, pointe l'Ofast dans une note consultée lundi par l'AFP. 9 novembre",
    "link": "https://www.franceinfo.fr/sante/les-overdoses-ont-plus-que-double-en-10-ans-alerte-l-office-antistupefiants_8275040.html",
    "summary": "Le nombre d'overdoses mortelles a plus que doublé en 10 ans en France, alerte l'Office antistupéfiants",
    "image": "https://www.franceinfo.fr/pictures/LA7FenaVnAu2fn2sCAcNxBgD888/0x0:1024x576/432x243/filters:format(jpg)/2026/11/09/6af21012f38f5863608774.jpg",
@@ -56,15 +120,7 @@
    "pubdate": "2026-11-09T19:53:16.976697+00:00"
   },
   {
-   "title": "Le bac ne sera pas reporté, qu'en penses les lycéens ? Aujourd'hui 0:40 vidéo 40 secondes",
-   "link": "https://www.franceinfo.fr/l-actu-pour-les-jeunes/le-bac-ne-sera-pas-reporte-qu-en-penses-les-lyceens_8275028.html",
-   "summary": "Le bac ne sera pas reporté, qu'en penses les lycéens ?",
-   "image": "https://www.franceinfo.fr/pictures/S95w8_12A-_nwZDBfKMfcWhEtr8/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/09/6af20a4615698938626598.jpg",
-   "date": null,
-   "pubdate": "2026-11-09T19:53:16.976697+00:00"
-  },
-  {
-   "title": "A l'approche du 11-Novembre, des syndicats d'enseignants critiquent la nouvelle commémoration instaurée pour les élèves du CM1 à la terminale Aujourd'hui",
+   "title": "A l'approche du 11-Novembre, des syndicats d'enseignants critiquent la nouvelle commémoration instaurée pour les élèves du CM1 à la terminale Plusieurs organisations craignent une forme d'embrigadement des jeunes, mais aussi une instrumentalisation politique de cette journée à laquelle pourront être conviés des élus, à quelques mois de la présidentielle. 9 novembre",
    "link": "https://www.franceinfo.fr/societe/education/a-l-ecole-la-commemoration-du-11-novembre-fait-des-vagues-chez-certains-syndicats_8274968.html",
    "summary": "A l'approche du 11-Novembre, des syndicats d'enseignants critiquent la nouvelle commémoration instaurée pour les élèves du CM1 à la terminale",
    "image": "https://www.franceinfo.fr/pictures/sTVlPrUSveoPK5i1xDNSCOZ-7fk/0x25:1024x601/432x243/filters:format(jpg)/2026/11/09/6af20ae83df64774515256.jpg",
@@ -72,23 +128,7 @@
    "pubdate": "2026-11-09T19:53:16.976697+00:00"
   },
   {
-   "title": "Rattraper pendant les vacances des cours manqués, qu'en pensent les lycéens ? Aujourd'hui 0:47 vidéo 47 secondes",
-   "link": "https://www.franceinfo.fr/l-actu-pour-les-jeunes/rattraper-pendant-les-vacances-des-cours-manques-qu-en-pensent-les-lyceens_8275007.html",
-   "summary": "Rattraper pendant les vacances des cours manqués, qu'en pensent les lycéens ?",
-   "image": "https://www.franceinfo.fr/pictures/zP5WDj-6yx_NBEnxh7q20KS8FjQ/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/09/6af208bb9d6a1781127040.jpg",
-   "date": null,
-   "pubdate": "2026-11-09T19:53:16.976697+00:00"
-  },
-  {
-   "title": "Alors que le procès Escoffier débute, des skippeuses dépeignent un monde de la voile structuré par la domination masculine Aujourd'hui",
-   "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-elles-sont-ou-les-petites-filles-de-la-com-alors-que-le-proces-escoffier-debute-des-femmes-temoignent-du-sexisme-dans-la-voile_8253670.html",
-   "summary": "Alors que le procès Escoffier débute, des skippeuses dépeignent un monde de la voile structuré par la domination masculine",
-   "image": "https://www.franceinfo.fr/assets/common/images/logos/placeholder-4e7f49f2.png",
-   "date": null,
-   "pubdate": "2026-11-09T19:53:16.976697+00:00"
-  },
-  {
-   "title": "Le BHV, emblématique grand magasin parisien placé en redressement judiciaire, a été contraint de fermer ses portes lundi Aujourd'hui",
+   "title": "Le BHV, emblématique grand magasin parisien placé en redressement judiciaire, a été contraint de fermer ses portes lundi L'établissement, revendu à perte en juin par la SGM de Frédéric Merlin à certains de ses dirigeants, traverse de nombreuses turbulences depuis plusieurs mois. 9 novembre",
    "link": "https://www.franceinfo.fr/societe/justice/le-bhv-en-redressement-judiciaire-a-ete-contraint-de-fermer-ses-portes-lundi_8274869.html",
    "summary": "Le BHV, emblématique grand magasin parisien placé en redressement judiciaire, a été contraint de fermer ses portes lundi",
    "image": "https://www.franceinfo.fr/pictures/kOcb_zV6W3v29zsIu0wagpcctYE/0x87:1024x663/432x243/filters:format(jpg)/2026/11/09/6af1f6d4545ea326382572.jpg",
@@ -96,7 +136,7 @@
    "pubdate": "2026-11-09T19:53:16.976697+00:00"
   },
   {
-   "title": "Incendie de Crans-Montana : un des restaurants du couple Moretti, propriétaire du bar Le Constellation, mis en faillite Aujourd'hui",
+   "title": "Incendie de Crans-Montana : un des restaurants du couple Moretti, propriétaire du bar Le Constellation, mis en faillite Le sinistre, qui s'était déclaré la nuit du Nouvel An, avait tué 41 personnes, principalement des adolescents et de jeunes adultes, dont de nombreux Italiens et Français. 9 novembre",
    "link": "https://www.franceinfo.fr/faits-divers/incendie-dans-un-bar-de-crans-montana-en-suisse/incendie-de-crans-montana-un-des-restaurants-du-couple-moretti-proprietaire-du-bar-le-constellation-mis-en-faillite_8274818.html",
    "summary": "Incendie de Crans-Montana : un des restaurants du couple Moretti, propriétaire du bar Le Constellation, mis en faillite",
    "image": "https://www.franceinfo.fr/pictures/3Qv-Xo_hlP55FkVMAKlkiVfR2GM/0x0:1024x576/432x243/filters:format(jpg)/2026/11/09/6af1f1396013c224617048.jpg",
@@ -104,7 +144,7 @@
    "pubdate": "2026-11-09T19:53:16.976697+00:00"
   },
   {
-   "title": "Le comédien britannique Russell Brand condamné à dix ans de prison pour viol et agressions sexuelles Pour le juge, son \"statut\" avait \"protégé\" Russell Brand jusqu'en 2023, quand des journalistes ont révélé pour la première fois une longue série d'infractions sexuelles, ce qui a conduit des femmes à porter plainte. Aujourd'hui",
+   "title": "Le comédien britannique Russell Brand condamné à dix ans de prison pour viol et agressions sexuelles Pour le juge, son \"statut\" avait \"protégé\" Russell Brand jusqu'en 2023, quand des journalistes ont révélé pour la première fois une longue série d'infractions sexuelles, ce qui a conduit des femmes à porter plainte. 9 novembre",
    "link": "https://www.franceinfo.fr/societe/justice/le-comedien-britannique-russell-brand-condamne-a-dix-ans-de-prison-pour-viol-et-agressions-sexuelles_8274767.html",
    "summary": "Le comédien britannique Russell Brand condamné à dix ans de prison pour viol et agressions sexuelles",
    "image": "https://www.franceinfo.fr/pictures/RwY5x3C0LlPUBLfxYq9DeuZ6k5A/0x0:1024x576/432x243/filters:format(jpg)/2026/11/09/6af1eedca20ee114516653.jpg",
@@ -112,7 +152,7 @@
    "pubdate": "2026-11-09T19:53:16.976697+00:00"
   },
   {
-   "title": "L'établissement catholique Stanislas n'a pas tenu compte d'accusations de violences sexuelles visant l'un de ses professeurs, selon Mediapart D'après le média d'investigation, Olivier Parent a été recruté en 2013 par l'établissement parisien comme maître d'internat et professeur de musique, alors qu'il était déjà accusé de viol sur mineur. En 2017, il a de nouveau été accusé de viol par un mineur. Il a finalement été licencié en 2018, après avoir consulté des contenus pédopornographiques. Aujourd'hui",
+   "title": "L'établissement catholique Stanislas n'a pas tenu compte d'accusations de violences sexuelles visant l'un de ses professeurs, selon Mediapart D'après le média d'investigation, Olivier Parent a été recruté en 2013 par l'établissement parisien comme maître d'internat et professeur de musique, alors qu'il était déjà accusé de viol sur mineur. En 2017, il a de nouveau été accusé de viol par un mineur. Il a finalement été licencié en 2018, après avoir consulté des contenus pédopornographiques. 9 novembre",
    "link": "https://www.franceinfo.fr/societe/harcelement-sexuel/l-etablissement-catholique-stanislas-n-a-pas-tenu-compte-d-accusations-de-violences-sexuelles-visant-l-un-de-ses-professeurs-selon-mediapart_8274278.html",
    "summary": "L'établissement catholique Stanislas n'a pas tenu compte d'accusations de violences sexuelles visant l'un de ses professeurs, selon Mediapart",
    "image": "https://www.franceinfo.fr/pictures/VwSfruAC_I0FlfG6YaZy3X5MGZY/0x105:1024x681/432x243/filters:format(jpg)/2026/11/09/6af1b5e3d1164149777208.jpg",
@@ -120,7 +160,7 @@
    "pubdate": "2026-11-09T19:53:16.976697+00:00"
   },
   {
-   "title": "Environ 350 000 femmes veuves de plus de 60 ans vivent sous le seuil de pauvreté en France, selon une étude de la Fondation des femmes Dans une note, la Fondation des femmes précisent que ce chiffre n'est qu'une estimation car il ne prend en compte que les femmes vivant à domicile. 11 recommandations sont formulées dans le document publié lundi. Aujourd'hui",
+   "title": "Environ 350 000 femmes veuves de plus de 60 ans vivent sous le seuil de pauvreté en France, selon une étude de la Fondation des femmes Dans une note, la Fondation des femmes précisent que ce chiffre n'est qu'une estimation car il ne prend en compte que les femmes vivant à domicile. 11 recommandations sont formulées dans le document publié lundi. 9 novembre",
    "link": "https://www.franceinfo.fr/societe/pauvrete/environ-350-000-femmes-veuves-de-plus-de-60-ans-vivent-sous-le-seuil-de-pauvrete-en-france-selon-une-etude-de-la-fondation-des-femmes_8274353.html",
    "summary": "Environ 350 000 femmes veuves de plus de 60 ans vivent sous le seuil de pauvreté en France, selon une étude de la Fondation des femmes",
    "image": "https://www.franceinfo.fr/pictures/6S0hUovEK04FppX3SxmWdWSPUsE/0x0:5557x3125/432x243/filters:format(jpg)/2025/10/31/fondation-femmes-6904c8ffd3ae8917208114.jpg",
@@ -128,7 +168,7 @@
    "pubdate": "2026-11-09T19:53:16.976697+00:00"
   },
   {
-   "title": "Quatre jeunes interpellés après l'agression du proviseur d'un lycée de Bègles, près de Bordeaux, deux enquêtes ouvertes \"Une scène chaotique\", selon la mairie de Bègles après qu'un proviseur a été touché à la tête par un jet de projectile, devant le lycée professionnel Emile Combes. Une plainte va être déposée par le rectorat de Bordeaux. Aujourd'hui",
+   "title": "Quatre jeunes interpellés après l'agression du proviseur d'un lycée de Bègles, près de Bordeaux, deux enquêtes ouvertes \"Une scène chaotique\", selon la mairie de Bègles après qu'un proviseur a été touché à la tête par un jet de projectile, devant le lycée professionnel Emile Combes. Une plainte va être déposée par le rectorat de Bordeaux. 9 novembre",
    "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/quatre-personnes-interpellees-apres-qu-un-proviseur-de-lycee-pres-de-bordeaux-a-ete-touche-a-la-tete-par-un-projectile_8274296.html",
    "summary": "Quatre jeunes interpellés après l'agression du proviseur d'un lycée de Bègles, près de Bordeaux, deux enquêtes ouvertes",
    "image": "https://www.franceinfo.fr/pictures/Z6xcOF0oBpitdUFXOIVdTRXfDJw/0x2:1028x580/432x243/filters:format(jpg)/2026/11/09/6af1991a22fe2857354642.jpeg",
@@ -136,15 +176,15 @@
    "pubdate": "2026-11-09T19:53:16.976697+00:00"
   },
   {
-   "title": "• Direct Mobilisation des lycéens et étudiants : des représentants des élèves ont quitté une réunion sur Parcoursup pour protester contre la présence de l'extrême droite La réception des représentants des lycéens et des étudiants par Sébastien Lecornu était suivie d'une première réunion de travail sur la réforme de la plateforme contestée, autour du Premier ministre et en présence d'élus. Aujourd'hui • Direct",
+   "title": "Mobilisation des lycéens et étudiants : la réunion du comité de réforme de Parcoursup s'est achevée peu avant 21 heures La réception des représentants des lycéens et des étudiants par Sébastien Lecornu était suivie d'une première réunion de travail sur la réforme de la plateforme contestée, autour du Premier ministre et en présence d'élus. 9 novembre",
    "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-des-lyceens-les-representants-du-mouvement-recus-par-le-premier-ministre-lundi-apres-midi_8274272.html",
-   "summary": "Mobilisation des lycéens et étudiants : des représentants des élèves ont quitté une réunion sur Parcoursup pour protester contre la présence de l'extrême droite",
+   "summary": "Mobilisation des lycéens et étudiants : la réunion du comité de réforme de Parcoursup s'est achevée peu avant 21 heures",
    "image": "https://www.franceinfo.fr/pictures/OnjTMENvNZZvrxptjVPw4Zu7EyM/0x12:1024x588/432x243/filters:format(jpg)/2026/11/09/6af21d8c85d0b128338403.jpg",
    "date": null,
    "pubdate": "2026-11-09T19:53:16.976697+00:00"
   },
   {
-   "title": "Consultations à Matignon, manifestations… En quête d'une sortie de crise, le gouvernement entame une nouvelle semaine sociale chargée Le Premier ministre reçoit lundi matin à Matignon les partenaires sociaux, avant de rencontrer dans l'après-midi les représentants de la jeunesse. Un appel à faire grève et à manifester a déjà été lancé par l'intersyndicale de l'Education pour mardi. Aujourd'hui",
+   "title": "Consultations à Matignon, manifestations… En quête d'une sortie de crise, le gouvernement entame une nouvelle semaine sociale chargée Le Premier ministre reçoit lundi matin à Matignon les partenaires sociaux, avant de rencontrer dans l'après-midi les représentants de la jeunesse. Un appel à faire grève et à manifester a déjà été lancé par l'intersyndicale de l'Education pour mardi. 9 novembre",
    "link": "https://www.franceinfo.fr/societe/manifestations/consultations-a-matignon-manifestations-en-quete-d-une-sortie-de-crise-le-gouvernement-entame-une-nouvelle-semaine-sociale-chargee_8274125.html",
    "summary": "Consultations à Matignon, manifestations… En quête d'une sortie de crise, le gouvernement entame une nouvelle semaine sociale chargée",
    "image": "https://www.franceinfo.fr/pictures/VaGVqnrhYXN9QGePhTsrDq9KwvA/0x39:1024x615/432x243/filters:format(jpg)/2026/11/09/6af17da0842c4414179196.jpg",
@@ -152,47 +192,7 @@
    "pubdate": "2026-11-09T19:53:16.976697+00:00"
   },
   {
-   "title": "\"La France n'est pas un pays raciste, elle n'exerce pas de discriminations\", estime le député RN Sébastien Chenu Invité du 8h30 de franceinfo, le président du groupe RN à l'Assemblée nationale est notamment revenu sur l'intervention de Marine Le Pen sur la chaîne américaine CBS où elle assure qu'\"il n'y a pas de discriminations\" en France. Aujourd'hui",
-   "link": "https://www.franceinfo.fr/societe/racisme/la-france-n-est-pas-un-pays-raciste-elle-n-exerce-pas-de-discriminations-estime-le-depute-rn-sebastien-chenu_8274200.html",
-   "summary": "\"La France n'est pas un pays raciste, elle n'exerce pas de discriminations\", estime le député RN Sébastien Chenu",
-   "image": "https://www.franceinfo.fr/pictures/sw4owJudaX5Q7AcasApGF5xjilI/0x0:661x371/432x243/filters:format(jpg)/2026/11/09/6af188b1e208e924731691.png",
-   "date": null,
-   "pubdate": "2026-11-09T19:53:16.976697+00:00"
-  },
-  {
-   "title": ": Vrai ou faux Les coups de pouce au smic sont-ils \"exceptionnels\", comme l'affirme le ministre du Travail ? Reçues à Matignon lundi pour une conférence sociale, les organisations syndicales attendaient une hausse significative du smic. Elle sera finalement de 1,6% a annoncé le Premier ministre. Aujourd'hui : Vrai ou faux 1:59 audio 1 minute 59",
-   "link": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/vrai-ou-faux-les-coups-de-pouce-au-smic-sont-ils-exceptionnels-et-pas-frequents-comme-l-affirme-le-ministre-du-travail_8253661.html",
-   "summary": "Les coups de pouce au smic sont-ils \"exceptionnels\", comme l'affirme le ministre du Travail ?",
-   "image": "https://www.franceinfo.fr/pictures/icEZ08ufCLh0o9kKU5H0MxcIrmg/0x24:3999x2271/432x243/filters:format(jpg)/2024/06/19/maxstockworld351880-667281cdd615e000973807.jpg",
-   "date": null,
-   "pubdate": "2026-11-09T19:53:16.976697+00:00"
-  },
-  {
-   "title": "La santé mentale des \"11-17 ans se dégrade et on constate une accélération\" ces dernières années, alerte le directeur de Santé publique France Etienne Pot s'est exprimé sur l'état de santé des jeunes sur franceinfo. \"Ce qui est particulier, c'est que chaque année, ça a tendance à s'aggraver un petit peu\" s'interroge le nouveau directeur général de Santé publique France. Aujourd'hui",
-   "link": "https://www.franceinfo.fr/sante/psycho-bien-etre/sante-mentale/la-sante-mentale-des-11-17-ans-se-degrade-et-on-constate-une-acceleration-ces-dernieres-annees-alerte-le-directeur-de-sante-publique-france_8274152.html",
-   "summary": "La santé mentale des \"11-17 ans se dégrade et on constate une accélération\" ces dernières années, alerte le directeur de Santé publique France",
-   "image": "https://www.franceinfo.fr/pictures/qaBvw4aRk4EDfK4vaOMiY02TcmY/82x0:1894x1019/432x243/filters:format(jpg)/2026/11/09/6af17c2c4a827086249250.png",
-   "date": null,
-   "pubdate": "2026-11-09T19:53:16.976697+00:00"
-  },
-  {
-   "title": ": Podcast Santé mentale mise à l'épreuve par les blocus, nouvelle COP et \"blague\" de Donald Trump : ça dit quoi ce 9 novembre ? Ce lundi 9 novembre, les blocus des universités ravivent de mauvais souvenirs de confinement, la COP 31 s'ouvre en Turquie et Donald Trump a annoncé vouloir nommer Dana White porte-parole de la Maison blanche, avant de rétropédaler. Aujourd'hui : Podcast 5:58 audio 5 minutes 58",
-   "link": "https://www.franceinfo.fr/replay-radio/ca-dit-quoi/podcast-sante-mentale-mise-a-l-epreuve-par-les-blocus-nouvelle-cop-et-blague-de-donald-trump-ca-dit-quoi-ce-9-novembre_8264843.html",
-   "summary": "Santé mentale mise à l'épreuve par les blocus, nouvelle COP et \"blague\" de Donald Trump : ça dit quoi ce 9 novembre ?",
-   "image": "https://www.franceinfo.fr/pictures/M3Gb_yJAFCa1NH0n0EhetfGlu8Q/0x233:5540x3347/432x243/filters:format(jpg)/2025/07/04/000-49l62j9-6867b7d8a80bf418868774.jpg",
-   "date": null,
-   "pubdate": "2026-11-09T19:53:16.976697+00:00"
-  },
-  {
-   "title": "\"Une cinquantaine d'élèves supplémentaires ont été blessés par leurs camarades\" durant la semaine de la rentrée, selon le ministre de l'Education nationale Edouard Geffray a affirmé lundi sur le plateau des \"4 Vérités\" sur France 2 que \"des élèves ont été blessés assez sérieusement au niveau de la perte d'audition avec des éclats de tirs de mortiers\". Aujourd'hui",
-   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/une-cinquantaine-d-eleves-supplementaires-ont-ete-blesses-par-leurs-camarades-durant-la-semaine-de-la-rentree-selon-le-ministre-de-l-education-nationale_8274140.html",
-   "summary": "\"Une cinquantaine d'élèves supplémentaires ont été blessés par leurs camarades\" durant la semaine de la rentrée, selon le ministre de l'Education nationale",
-   "image": "https://www.franceinfo.fr/pictures/0e7zwRado6TjGoDKjLXuwRrlycI/0x0:1024x576/432x243/filters:format(jpg)/2026/11/09/6af17b065bcc9894404703.jpg",
-   "date": null,
-   "pubdate": "2026-11-09T19:53:16.976697+00:00"
-  },
-  {
-   "title": "Peut-on augmenter les salaires dans la conjoncture économique actuelle ? Les informés de franceinfo du lundi 9 novembre 2026 Aujourd'hui 52:00 audio 52 minutes",
+   "title": "Peut-on augmenter les salaires dans la conjoncture économique actuelle ? Les informés de franceinfo du lundi 9 novembre 2026 9 novembre 51:12 audio 51 minutes 12",
    "link": "https://www.franceinfo.fr/replay-radio/les-informes-de-france-info/peut-on-augmenter-les-salaires-dans-la-conjoncture-economique-actuelle-les-informes-de-franceinfo-du-lundi-9-novembre-2026_8253646.html",
    "summary": "Peut-on augmenter les salaires dans la conjoncture économique actuelle ? Les informés de franceinfo du lundi 9 novembre 2026",
    "image": "https://www.franceinfo.fr/pictures/sNF7PaqjLhS9JIcLEeDAR3vu20Y/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/09/6af21a9af0ab1254807824.png",
