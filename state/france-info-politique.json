@@ -1,16 +1,10 @@
 {
- "etag": "\"420960db85c0225425703d4f3187e596-gzip\"",
+ "etag": "\"c9f2dcf073024fcf76407eb18a562d30-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/politique/grand-entretien-en-belgique-un-cordon-sanitaire-mediatique-empeche-toute-forme-de-banalisation-de-l-extreme-droite-un-outil-difficile-a-imaginer-en-france_8265599.html": "2026-11-04T17:19:31.505349+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-ce-serait-presque-drole-si-ca-ne-montait-pas-les-gens-les-uns-contre-les-autres-apres-l-incendie-de-la-mairie-de-limoges-le-plateau-de-millevaches-pointe-du-doigt-comme-un-bastion-de-l-ultragauche_8249923.html": "2026-11-06T06:56:06.440234+00:00",
   "https://www.franceinfo.fr/elections/quatre-choses-a-ne-pas-oublier-pour-faire-bon-usage-des-sondages-et-enquetes-d-opinion-en-periode-electorale_8270903.html": "2026-11-08T10:30:09.852050+00:00",
-  "https://www.franceinfo.fr/elections/presidentielle/la-candidature-ni-de-droite-ni-de-gauche-de-teddy-riner-fait-reagir-a-l-assemblee-nationale_8276381.html": "2026-11-10T14:58:50.784357+00:00",
-  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/jet-de-bouteille-d-essence-enquete-ouverte-ce-que-l-on-sait-de-l-agression-d-une-conseillere-regionale-devant-un-lycee-de-chelles_8276324.html": "2026-11-10T14:58:50.784357+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/c-est-au-peuple-de-decider-lui-meme-ce-qu-il-veut-on-vous-resume-la-polemique-suscitee-par-les-propos-de-jean-luc-melenchon-sur-l-ukraine_8276072.html": "2026-11-10T14:58:50.784357+00:00",
-  "https://www.franceinfo.fr/politique/la-petition-appelant-a-supprimer-cnews-de-l-audiovisuel-francais-classee-par-la-commission-de-l-assemblee-nationale_8276303.html": "2026-11-10T14:58:50.784357+00:00",
-  "https://www.franceinfo.fr/elections/presidentielle/eric-zemmour-leader-du-parti-d-extreme-droite-reconquete-officialise-sa-candidature-a-la-presidentielle_8276858.html": "2026-11-10T21:20:16.605337+00:00",
-  "https://www.franceinfo.fr/politique/nous-avons-le-choix-entre-le-mauvais-et-le-pire-les-deputes-arabes-israeliens-soutiennent-gadi-eizenkot-du-bout-des-levres_8276405.html": "2026-11-10T21:20:16.605337+00:00",
   "https://www.franceinfo.fr/societe/guerre-de-14-18/11-novembre/direct-ceremonie-du-11-novembre-suivez-les-commemorations-et-l-emission-speciale-de-france-2_8276093.html": "2026-11-11T06:36:44.446666+00:00",
   "https://www.franceinfo.fr/elections/presidentielle/candidats/elle-va-apporter-son-capital-popularite-quel-sera-le-role-de-sarah-knafo-aupres-d-eric-zemmour-dans-la-campagne-pour-la-presidentielle_8269433.html": "2026-11-11T06:36:44.446666+00:00",
   "https://www.franceinfo.fr/societe/guerre-de-14-18/11-novembre/emmanuel-macron-a-preside-sa-derniere-ceremonie-du-11-novembre_8278010.html": "2026-11-11T17:13:53.243344+00:00",
@@ -25,23 +19,112 @@
   "https://www.franceinfo.fr/elections/presidentielle/candidats/la-primaire-c-est-deux-a-trois-mois-de-division-deplore-mael-de-calan-soutien-d-edouard-philippe_8278346.html": "2026-11-12T00:48:08.857911+00:00",
   "https://www.franceinfo.fr/societe/guerre-de-14-18/11-novembre/marine-le-pen-appelle-a-l-unite-et-jean-luc-melenchon-a-se-souvenir-de-l-histoire-lors-des-commemorations-du-11-novembre_8278301.html": "2026-11-12T00:48:08.857911+00:00",
   "https://www.franceinfo.fr/societe/education/blocage-des-lycees/sebastien-lecornu-formalise-la-creation-de-5-000-places-supplementaires-en-licence_8278265.html": "2026-11-12T00:48:08.857911+00:00",
-  "https://www.franceinfo.fr/vrai-ou-fake/referendum-dans-le-donbass-pourquoi-la-proposition-de-jean-luc-melenchon-fait-reagir-jusqu-a-kiev_8278241.html": "2026-11-12T00:48:08.857911+00:00",
   "https://www.franceinfo.fr/culture/livres/le-livre-programme-de-jean-luc-melenchon-attire-plus-de-lecteurs-que-le-laureat-du-goncourt_8278001.html": "2026-11-12T00:48:08.857911+00:00",
   "https://www.franceinfo.fr/societe/racisme/un-conseiller-municipal-de-sancoins-dans-le-cher-porte-plainte-pour-injure-raciste-apres-un-commentaire-sur-facebook_8278121.html": "2026-11-12T00:48:08.857911+00:00",
-  "https://www.franceinfo.fr/societe/guerre-de-14-18/11-novembre/la-polemique-autour-de-la-commemoration-du-11-novembre-a-l-ecole-est-tres-regrettable-deplore-la-ministre-deleguee-aux-armees-et-aux-anciens-combattants_8277551.html": "2026-11-12T00:48:08.857911+00:00"
+  "https://www.franceinfo.fr/societe/guerre-de-14-18/11-novembre/la-polemique-autour-de-la-commemoration-du-11-novembre-a-l-ecole-est-tres-regrettable-deplore-la-ministre-deleguee-aux-armees-et-aux-anciens-combattants_8277551.html": "2026-11-12T00:48:08.857911+00:00",
+  "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/attentat-raciste-de-trappes-l-extreme-droite-tue-la-democratie-et-l-extreme-droite-tue-meme-celles-et-ceux-qui-l-exercent-denonce-fabien-roussel_8279168.html": "2026-11-12T11:25:37.367200+00:00",
+  "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/la-region-ile-de-france-s-engage-a-continuer-de-soutenir-les-associations-de-lutte-contre-toutes-les-formes-de-discrimination-en-reponse-a-l-attentat-raciste-de-trappes_8279129.html": "2026-11-12T11:25:37.367200+00:00",
+  "https://www.franceinfo.fr/elections/presidentielle/presidentielle-le-candidat-renaissance-gabriel-attal-promet-qu-il-n-y-aura-pas-de-poste-supprime-dans-l-education-nationale-s-il-est-elu_8278985.html": "2026-11-12T11:25:37.367200+00:00",
+  "https://www.franceinfo.fr/elections/presidentielle/primaire-de-la-droite-et-du-centre-il-y-aura-un-siege-pour-edouard-philippe-dans-toutes-les-reunions-assure-gabriel-attal_8279009.html": "2026-11-12T11:25:37.367200+00:00",
+  "https://www.franceinfo.fr/monde/chine/qui-est-alice-huang-la-femme-mysterieuse-au-c-ur-du-scandale-nvidia_8278904.html": "2026-11-12T11:25:37.367200+00:00",
+  "https://www.franceinfo.fr/societe/services-publics-ce-n-est-pas-qu-une-question-de-budget-c-est-une-question-aussi-parfois-de-structuration-estime-le-politologue-brice-soccol_8278940.html": "2026-11-12T11:25:37.367200+00:00",
+  "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/vrai-ou-faux-ecole-maternite-bureaux-de-poste-les-services-publics-reculent-ils-en-zone-rurale_8258096.html": "2026-11-12T11:25:37.367200+00:00",
+  "https://www.franceinfo.fr/politique/nous-devons-aller-vers-des-solutions-beaucoup-plus-radicales-affirme-bruno-le-maire-a-propos-des-augmentations-de-salaires_8278877.html": "2026-11-12T11:25:37.367200+00:00",
+  "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/le-gouvernement-va-annoncer-un-nouveau-plan-de-relance-de-l-agriculture-apres-un-ete-caniculaire_8278871.html": "2026-11-12T11:25:37.367200+00:00",
+  "https://www.franceinfo.fr/elections/presidentielle/quand-avec-qui-comment-a-droite-et-au-centre-l-idee-d-une-primaire-fait-encore-debat-a-six-mois-de-la-presidentielle_8277515.html": "2026-11-12T11:25:37.367200+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "Plus de cent constitutionnalistes critiquent le référendum pour changer la Constitution tel que proposé par Marine Le Pen Tout comme le président du Conseil constitutionnel Richard Ferrand mi-octobre, ils estiment irrégulière la proposition phare du programme du RN. Aujourd'hui",
+   "title": "Attentat raciste de Trappes : \"L'extrême droite tue la démocratie et l'extrême droite tue même celles et ceux qui l'exercent\", dénonce Fabien Roussel Invité de la journée évènement franceinfo consacrée aux services publics, jeudi 12 novembre, Fabien Roussel réagit à ces noms de personnalité de gauche retrouvés sur un post-it au domicile de Kévin Tessier, le suspect de l'attentat terroriste raciste dans les Yvelines, le 23 octobre. Aujourd'hui vidéo",
+   "link": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/attentat-raciste-de-trappes-l-extreme-droite-tue-la-democratie-et-l-extreme-droite-tue-meme-celles-et-ceux-qui-l-exercent-denonce-fabien-roussel_8279168.html",
+   "summary": "Attentat raciste de Trappes : \"L'extrême droite tue la démocratie et l'extrême droite tue même celles et ceux qui l'exercent\", dénonce Fabien Roussel",
+   "image": "https://www.franceinfo.fr/pictures/BYpDIqMHVQ_U9AdLkh94ORmU6CA/361x0:1433x737/432x297/filters:format(jpg)/2026/11/12/6af59aa644d9b485730086.png",
+   "date": null,
+   "pubdate": "2026-11-12T11:25:37.367200+00:00"
+  },
+  {
+   "title": "La région Île-de-France \"s'engage à continuer de soutenir\" les associations de lutte \"contre toutes les formes de discrimination\" en réponse à l'attentat raciste de Trappes Aujourd'hui",
+   "link": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/la-region-ile-de-france-s-engage-a-continuer-de-soutenir-les-associations-de-lutte-contre-toutes-les-formes-de-discrimination-en-reponse-a-l-attentat-raciste-de-trappes_8279129.html",
+   "summary": "La région Île-de-France \"s'engage à continuer de soutenir\" les associations de lutte \"contre toutes les formes de discrimination\" en réponse à l'attentat raciste de Trappes",
+   "image": "https://www.franceinfo.fr/pictures/jEqftHs19i76OADECBIvLCKaVlA/0x32:1024x608/432x243/filters:format(jpg)/2025/05/06/000-36n66rp-6819b617bd9fb606923195.jpg",
+   "date": null,
+   "pubdate": "2026-11-12T11:25:37.367200+00:00"
+  },
+  {
+   "title": "Présidentielle 2027 : Gabriel Attal promet qu'il n'y aura \"pas de poste supprimé\" dans l'Éducation nationale s'il est élu Aujourd'hui vidéo",
+   "link": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-le-candidat-renaissance-gabriel-attal-promet-qu-il-n-y-aura-pas-de-poste-supprime-dans-l-education-nationale-s-il-est-elu_8278985.html",
+   "summary": "Présidentielle 2027 : Gabriel Attal promet qu'il n'y aura \"pas de poste supprimé\" dans l'Éducation nationale s'il est élu",
+   "image": "https://www.franceinfo.fr/pictures/rOPXNZ9EktQFlpcT51rCFgchpdI/88x0:1511x800/432x243/filters:format(jpg)/2026/11/12/6af5854349f5d421905079.jpg",
+   "date": null,
+   "pubdate": "2026-11-12T11:25:37.367200+00:00"
+  },
+  {
+   "title": "Primaire de la droite et du centre : \"Il y aura un siège\" pour Edouard Philippe \"dans toutes les réunions\", assure Gabriel Attal Aujourd'hui",
+   "link": "https://www.franceinfo.fr/elections/presidentielle/primaire-de-la-droite-et-du-centre-il-y-aura-un-siege-pour-edouard-philippe-dans-toutes-les-reunions-assure-gabriel-attal_8279009.html",
+   "summary": "Primaire de la droite et du centre : \"Il y aura un siège\" pour Edouard Philippe \"dans toutes les réunions\", assure Gabriel Attal",
+   "image": "https://www.franceinfo.fr/pictures/ClkL3TVGhkDle1GGhNTqcxC9i-w/250x20:1614x788/432x243/filters:format(jpg)/2026/11/12/6af588b7d1236919458502.jpg",
+   "date": null,
+   "pubdate": "2026-11-12T11:25:37.367200+00:00"
+  },
+  {
+   "title": "Qui est Alice Huang, la femme mystérieuse au cœur du scandale Nvidia ? Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/chine/qui-est-alice-huang-la-femme-mysterieuse-au-c-ur-du-scandale-nvidia_8278904.html",
+   "summary": "Qui est Alice Huang, la femme mystérieuse au cœur du scandale Nvidia ?",
+   "image": "https://www.franceinfo.fr/pictures/mlXlgeL83h6XsSQCn-uvcIgC3FQ/0x0:2800x1575/432x243/filters:format(jpg)/2026/11/12/6af57743567a8070695305.jpg",
+   "date": null,
+   "pubdate": "2026-11-12T11:25:37.367200+00:00"
+  },
+  {
+   "title": "Services publics : \"Ce n'est pas qu'une question de budget, c'est une question aussi parfois de structuration\", estime le politologue Brice Soccol Aujourd'hui 8:59 vidéo 8 minutes 59",
+   "link": "https://www.franceinfo.fr/societe/services-publics-ce-n-est-pas-qu-une-question-de-budget-c-est-une-question-aussi-parfois-de-structuration-estime-le-politologue-brice-soccol_8278940.html",
+   "summary": "Services publics : \"Ce n'est pas qu'une question de budget, c'est une question aussi parfois de structuration\", estime le politologue Brice Soccol",
+   "image": "https://www.franceinfo.fr/pictures/dSXWZINUH7z6xIEQuH3COEVeVoo/0x0:1527x858/432x243/filters:format(jpg)/2026/11/12/6af57fae7d9d1227480166.jpg",
+   "date": null,
+   "pubdate": "2026-11-12T11:25:37.367200+00:00"
+  },
+  {
+   "title": ": Vrai ou faux École, maternité, bureaux de poste... Les services publics reculent-ils en zone rurale ? Aujourd'hui : Vrai ou faux 1:35 audio 1 minute 35",
+   "link": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/vrai-ou-faux-ecole-maternite-bureaux-de-poste-les-services-publics-reculent-ils-en-zone-rurale_8258096.html",
+   "summary": "École, maternité, bureaux de poste... Les services publics reculent-ils en zone rurale ?",
+   "image": "https://www.franceinfo.fr/pictures/Puc01OsKl_8KLsywHUIXd2QLEsw/0x38:2048x1190/432x243/filters:format(jpg)/2026/11/12/6af57dc0a5ab2917295957.jpg",
+   "date": null,
+   "pubdate": "2026-11-12T11:25:37.367200+00:00"
+  },
+  {
+   "title": "\"Nous devons aller vers des solutions beaucoup plus radicales\", affirme Bruno Le Maire à propos des augmentations de salaires Aujourd'hui 7:50 vidéo 7 minutes 50",
+   "link": "https://www.franceinfo.fr/politique/nous-devons-aller-vers-des-solutions-beaucoup-plus-radicales-affirme-bruno-le-maire-a-propos-des-augmentations-de-salaires_8278877.html",
+   "summary": "\"Nous devons aller vers des solutions beaucoup plus radicales\", affirme Bruno Le Maire à propos des augmentations de salaires",
+   "image": "https://www.franceinfo.fr/pictures/Cdm5B9CzEibF0kbJRE5W1r4R1LY/0x0:1479x831/432x243/filters:format(jpg)/2026/11/12/6af5741cd4513670740958.jpg",
+   "date": null,
+   "pubdate": "2026-11-12T11:25:37.367200+00:00"
+  },
+  {
+   "title": "Le gouvernement va annoncer un nouveau plan de relance de l'agriculture, après un été caniculaire Aujourd'hui",
+   "link": "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/le-gouvernement-va-annoncer-un-nouveau-plan-de-relance-de-l-agriculture-apres-un-ete-caniculaire_8278871.html",
+   "summary": "Le gouvernement va annoncer un nouveau plan de relance de l'agriculture, après un été caniculaire",
+   "image": "https://www.franceinfo.fr/pictures/tHtLhx-if9ccHuEF7hOkN2MeJBI/0x0:5190x2919/432x243/filters:format(jpg)/2026/11/12/6af56faf8aa63118768860.jpg",
+   "date": null,
+   "pubdate": "2026-11-12T11:25:37.367200+00:00"
+  },
+  {
+   "title": "Quand ? Avec qui ? Comment ? A droite et au centre, l'idée d'une primaire fait encore débat à six mois de la présidentielle Aujourd'hui",
+   "link": "https://www.franceinfo.fr/elections/presidentielle/quand-avec-qui-comment-a-droite-et-au-centre-l-idee-d-une-primaire-fait-encore-debat-a-six-mois-de-la-presidentielle_8277515.html",
+   "summary": "Quand ? Avec qui ? Comment ? A droite et au centre, l'idée d'une primaire fait encore débat à six mois de la présidentielle",
+   "image": "https://www.franceinfo.fr/pictures/j7kQ9LPi900yFk-v2Zu9JDR6jfA/0x0:3744x2106/432x243/filters:format(jpg)/2026/11/11/6af4a3218f655548650003.jpg",
+   "date": null,
+   "pubdate": "2026-11-12T11:25:37.367200+00:00"
+  },
+  {
+   "title": "Plus de cent constitutionnalistes critiquent le référendum pour changer la Constitution tel que proposé par Marine Le Pen Tout comme le président du Conseil constitutionnel Richard Ferrand mi-octobre, ils estiment irrégulière la proposition phare du programme du RN. 11 novembre",
    "link": "https://www.franceinfo.fr/politique/marine-le-pen/plus-de-cent-constitutionnalistes-critiquent-le-referendum-pour-changer-la-constitution-tel-que-propose-par-marine-le-pen_8278388.html",
    "summary": "Plus de cent constitutionnalistes critiquent le référendum pour changer la Constitution tel que proposé par Marine Le Pen",
-   "image": "https://www.franceinfo.fr/pictures/Sd1TEoNGbI_U42mUCJyY4jOkNd8/0x0:1024x704/432x297/filters:format(jpg)/2026/11/11/6af4f172788b3313313529.jpg",
+   "image": "https://www.franceinfo.fr/pictures/reqzzcouYDDft0Qbs9z1XKKAo5Q/0x0:1024x576/432x243/filters:format(jpg)/2026/11/11/6af4f172788b3313313529.jpg",
    "date": null,
    "pubdate": "2026-11-12T00:48:08.857911+00:00"
   },
   {
-   "title": "\"La primaire, c’est deux à trois mois de division\", déplore Maël de Calan, soutien d’Edouard Philippe Aujourd'hui",
+   "title": "\"La primaire, c’est deux à trois mois de division\", déplore Maël de Calan, soutien d’Edouard Philippe Une primaire serait un \"suicide collectif\", estime, mercredi sur franceinfo, celui qui est aussi président du conseil départemental du Finistère. 11 novembre",
    "link": "https://www.franceinfo.fr/elections/presidentielle/candidats/la-primaire-c-est-deux-a-trois-mois-de-division-deplore-mael-de-calan-soutien-d-edouard-philippe_8278346.html",
    "summary": "\"La primaire, c’est deux à trois mois de division\", déplore Maël de Calan, soutien d’Edouard Philippe",
    "image": "https://www.franceinfo.fr/pictures/cwEtSH4guYPqUl8_ollfbApENwI/0x41:1024x617/432x243/filters:format(jpg)/2026/11/11/6af4dbb30f589951346590.jpg",
@@ -49,7 +132,7 @@
    "pubdate": "2026-11-12T00:48:08.857911+00:00"
   },
   {
-   "title": "Marine Le Pen appelle à \"l'unité\" et Jean-Luc Mélenchon à se souvenir de l'Histoire, lors des commémorations du 11-Novembre Aujourd'hui",
+   "title": "Marine Le Pen appelle à \"l'unité\" et Jean-Luc Mélenchon à se souvenir de l'Histoire, lors des commémorations du 11-Novembre Dans le même temps, Emmanuel Macron a commémoré mercredi l'anniversaire de l'Armistice de 1918 pour la dixième et dernière fois en tant que chef de l'Etat. 11 novembre",
    "link": "https://www.franceinfo.fr/societe/guerre-de-14-18/11-novembre/marine-le-pen-appelle-a-l-unite-et-jean-luc-melenchon-a-se-souvenir-de-l-histoire-lors-des-commemorations-du-11-novembre_8278301.html",
    "summary": "Marine Le Pen appelle à \"l'unité\" et Jean-Luc Mélenchon à se souvenir de l'Histoire, lors des commémorations du 11-Novembre",
    "image": "https://www.franceinfo.fr/pictures/8fMwB3rxYJFjjxyR86ILSu3qr3M/0x18:1024x594/432x243/filters:format(jpg)/2026/11/11/6af47bfbb7c8e302962740.jpg",
@@ -57,7 +140,7 @@
    "pubdate": "2026-11-12T00:48:08.857911+00:00"
   },
   {
-   "title": "Sébastien Lecornu formalise la création de 5 000 places supplémentaires en licence Aujourd'hui",
+   "title": "Sébastien Lecornu formalise la création de 5 000 places supplémentaires en licence Dans une lettre adressée aux présidents d'universités, le Premier ministre évoque également son \"soutien personnel et celui du gouvernement\", dans \"cette période de fortes tensions\". 11 novembre",
    "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/sebastien-lecornu-formalise-la-creation-de-5-000-places-supplementaires-en-licence_8278265.html",
    "summary": "Sébastien Lecornu formalise la création de 5 000 places supplémentaires en licence",
    "image": "https://www.franceinfo.fr/pictures/Ym8RVZrxGsAu5KUJqiDqGv6fpos/0x26:1024x602/432x243/filters:format(jpg)/2026/11/11/6af4c3651a9d8051947714.jpg",
@@ -65,15 +148,7 @@
    "pubdate": "2026-11-12T00:48:08.857911+00:00"
   },
   {
-   "title": "Référendum dans le Donbass : pourquoi la proposition de Jean-Luc Mélenchon fait réagir jusqu’à Kiev Aujourd'hui 5:31 vidéo 5 minutes 31",
-   "link": "https://www.franceinfo.fr/vrai-ou-fake/referendum-dans-le-donbass-pourquoi-la-proposition-de-jean-luc-melenchon-fait-reagir-jusqu-a-kiev_8278241.html",
-   "summary": "Référendum dans le Donbass : pourquoi la proposition de Jean-Luc Mélenchon fait réagir jusqu’à Kiev",
-   "image": "https://www.franceinfo.fr/pictures/jX9uR6A8to7QwhG6hASnLHYLOII/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/11/6af4bd4e5c567783927083.jpg",
-   "date": null,
-   "pubdate": "2026-11-12T00:48:08.857911+00:00"
-  },
-  {
-   "title": "Le livre-programme de Jean-Luc Mélenchon pour la présidentielle se vend davantage que le roman de Philippe Jaenada lauréat du prix Goncourt Aujourd'hui",
+   "title": "Le livre-programme de Jean-Luc Mélenchon pour la présidentielle se vend davantage que le roman de Philippe Jaenada lauréat du prix Goncourt \"L'Avenir en commun, le programme de la Nouvelle France\", distribué en librairie, était le livre le plus vendu en France la semaine de sa publication, devançant \"L'inconnue du quai de Javel\", mais aussi le nouvel ouvrage de Jordan Bardella. 11 novembre",
    "link": "https://www.franceinfo.fr/culture/livres/le-livre-programme-de-jean-luc-melenchon-attire-plus-de-lecteurs-que-le-laureat-du-goncourt_8278001.html",
    "summary": "Le livre-programme de Jean-Luc Mélenchon pour la présidentielle se vend davantage que le roman de Philippe Jaenada lauréat du prix Goncourt",
    "image": "https://www.franceinfo.fr/pictures/Gtv3UXJFhQKOBBYIxngMoW2pmGs/0x53:1024x629/432x243/filters:format(jpg)/2026/11/11/6af4ad5fd5e2f407960439.jpg",
@@ -81,7 +156,7 @@
    "pubdate": "2026-11-12T00:48:08.857911+00:00"
   },
   {
-   "title": "Un conseiller municipal de Sancoins, dans le Cher, porte plainte pour \"injure raciste\" après un commentaire sur Facebook Aujourd'hui",
+   "title": "Un conseiller municipal de Sancoins, dans le Cher, porte plainte pour \"injure raciste\" après un commentaire sur Facebook Le message en question a été posté sous une publication de l'élu écologiste Mansour Thiamsur la cantine à un euro. \"Aujourd'hui, la honte et la peur doivent changer de camp\", a-t-il commenté. 11 novembre",
    "link": "https://www.franceinfo.fr/societe/racisme/un-conseiller-municipal-de-sancoins-dans-le-cher-porte-plainte-pour-injure-raciste-apres-un-commentaire-sur-facebook_8278121.html",
    "summary": "Un conseiller municipal de Sancoins, dans le Cher, porte plainte pour \"injure raciste\" après un commentaire sur Facebook",
    "image": "https://www.franceinfo.fr/pictures/AebLLL_LpznoL-FRkA2HODEVTFc/0x442:5168x3349/432x243/filters:format(jpg)/2026/11/11/6af4a431e6b9a043427415.jpg",
@@ -89,36 +164,12 @@
    "pubdate": "2026-11-12T00:48:08.857911+00:00"
   },
   {
-   "title": "\"Un temps de concorde\" : Sébastien Lecornu vante les commémorations du 11-Novembre instaurées dans les écoles Le ministre de l'Education nationale a pour sa part assuré mercredi sur BFMTV/RMC n'avoir eu \"aucun écho de moment de tension ou de refus sur le terrain à ce stade\". Aujourd'hui",
+   "title": "\"Un temps de concorde\" : Sébastien Lecornu vante les commémorations du 11-Novembre instaurées dans les écoles Le ministre de l'Education nationale a pour sa part assuré mercredi sur BFMTV/RMC n'avoir eu \"aucun écho de moment de tension ou de refus sur le terrain à ce stade\". 11 novembre",
    "link": "https://www.franceinfo.fr/societe/guerre-de-14-18/11-novembre/la-polemique-autour-de-la-commemoration-du-11-novembre-a-l-ecole-est-tres-regrettable-deplore-la-ministre-deleguee-aux-armees-et-aux-anciens-combattants_8277551.html",
    "summary": "\"Un temps de concorde\" : Sébastien Lecornu vante les commémorations du 11-Novembre instaurées dans les écoles",
    "image": "https://www.franceinfo.fr/pictures/eLy0EI6orFvfp_gW6ECd2a0nS90/0x0:1024x576/432x243/filters:format(jpg)/2026/11/11/6af49ac5e1a2d566065671.jpg",
    "date": null,
    "pubdate": "2026-11-12T00:48:08.857911+00:00"
-  },
-  {
-   "title": "\"C'est une immense fierté pour moi (...) d'être là où je suis\" : Emmanuel Macron a présidé sa dernière cérémonie du 11-Novembre Aujourd'hui",
-   "link": "https://www.franceinfo.fr/societe/guerre-de-14-18/11-novembre/emmanuel-macron-a-preside-sa-derniere-ceremonie-du-11-novembre_8278010.html",
-   "summary": "\"C'est une immense fierté pour moi (...) d'être là où je suis\" : Emmanuel Macron a présidé sa dernière cérémonie du 11-Novembre",
-   "image": "https://www.franceinfo.fr/pictures/e9fY4d_fMpMukk1aEX4MzVfJ7iw/0x0:1024x576/432x243/filters:format(jpg)/2026/11/11/6af4932477e39402819634.jpg",
-   "date": null,
-   "pubdate": "2026-11-11T17:13:53.243344+00:00"
-  },
-  {
-   "title": ": Reportage 11-Novembre : \"On ne construit pas la paix ni le sentiment d'appartenance nationale sur l'oubli\", prononce Marine Le Pen à Hénin-Beaumont après les refus d'hommages dans certaines écoles Aujourd'hui : Reportage",
-   "link": "https://www.franceinfo.fr/societe/guerre-de-14-18/11-novembre/11-novembre-on-ne-construit-pas-la-paix-ni-le-sentiment-d-appartenance-nationale-sur-l-oubli-prononce-marine-le-pen-a-henin-beaumont-apres-les-refus-d-hommages-dans-certaines-ecoles_8277827.html",
-   "summary": "11-Novembre : \"On ne construit pas la paix ni le sentiment d'appartenance nationale sur l'oubli\", prononce Marine Le Pen à Hénin-Beaumont après les refus d'hommages dans certaines écoles",
-   "image": "https://www.franceinfo.fr/pictures/FOG4AlJfH1qdEntckNfx_KA1jRw/0x189:5895x3505/432x243/filters:format(jpg)/2026/11/11/6af4745b158a7933641150.jpg",
-   "date": null,
-   "pubdate": "2026-11-11T17:13:53.243344+00:00"
-  },
-  {
-   "title": "La Russie interdit de territoire deux députés et deux journalistes français, en réponse à l'expulsion de Xenia Fedorova Aujourd'hui",
-   "link": "https://www.franceinfo.fr/monde/russie/la-russie-interdit-l-entree-sur-son-territoire-a-deux-deputes-et-deux-journalistes-francais-en-reponse-a-l-expulsion-de-xenia-fedorova_8277836.html",
-   "summary": "La Russie interdit de territoire deux députés et deux journalistes français, en réponse à l'expulsion de Xenia Fedorova",
-   "image": "https://www.franceinfo.fr/pictures/8sBf9o0M8tyYSXG8yUP-7QuGZvo/0x73:1024x649/432x243/filters:format(jpg)/2026/11/11/6af46d951c47a957434820.jpg",
-   "date": null,
-   "pubdate": "2026-11-11T17:13:53.243344+00:00"
   },
   {
    "title": ": Reportage \"On fait croire qu'ici, c'est dangereux\" : après l'attentat de Trappes, des habitants dénoncent un \"acharnement\" contre leur ville : Reportage 7:00 article 7 minutes",
@@ -129,7 +180,31 @@
    "pubdate": "2026-11-11T17:13:53.243344+00:00"
   },
   {
-   "title": "Bruno Retailleau propose une primaire de la droite et du centre les 31 janvier et 7 février Parmi les quatre candidats à qui le président des Républicains a adressé une lettre allant dans ce sens, seul Edouard Philippe (Horizons) est opposé à l'idée d'une primaire. Aujourd'hui",
+   "title": "\"C'est une immense fierté pour moi (...) d'être là où je suis\" : Emmanuel Macron a présidé sa dernière cérémonie du 11-Novembre Le président de la République a exprimé, d'un ton ému, son \"immense gratitude\" envers les anciens combattants. \"C'est une immense fierté pour moi, depuis près de dix ans, d'être là où je suis\", a-t-il déclaré. 11 novembre",
+   "link": "https://www.franceinfo.fr/societe/guerre-de-14-18/11-novembre/emmanuel-macron-a-preside-sa-derniere-ceremonie-du-11-novembre_8278010.html",
+   "summary": "\"C'est une immense fierté pour moi (...) d'être là où je suis\" : Emmanuel Macron a présidé sa dernière cérémonie du 11-Novembre",
+   "image": "https://www.franceinfo.fr/pictures/e9fY4d_fMpMukk1aEX4MzVfJ7iw/0x0:1024x576/432x243/filters:format(jpg)/2026/11/11/6af4932477e39402819634.jpg",
+   "date": null,
+   "pubdate": "2026-11-11T17:13:53.243344+00:00"
+  },
+  {
+   "title": ": Reportage 11-Novembre : \"On ne construit pas la paix ni le sentiment d'appartenance nationale sur l'oubli\", prononce Marine Le Pen à Hénin-Beaumont après les refus d'hommages dans certaines écoles Prenant la parole, mercredi, pour les commémorations du 11-Novembre dans son fief de Hénin-Beaumont, dans le Pas-de-Calais, Marine Le Pen répond à ceux qui, dans les établissements scolaires, ont refusé d'organiser un temps pour les \"Morts pour la France\". 11 novembre : Reportage",
+   "link": "https://www.franceinfo.fr/societe/guerre-de-14-18/11-novembre/11-novembre-on-ne-construit-pas-la-paix-ni-le-sentiment-d-appartenance-nationale-sur-l-oubli-prononce-marine-le-pen-a-henin-beaumont-apres-les-refus-d-hommages-dans-certaines-ecoles_8277827.html",
+   "summary": "11-Novembre : \"On ne construit pas la paix ni le sentiment d'appartenance nationale sur l'oubli\", prononce Marine Le Pen à Hénin-Beaumont après les refus d'hommages dans certaines écoles",
+   "image": "https://www.franceinfo.fr/pictures/FOG4AlJfH1qdEntckNfx_KA1jRw/0x189:5895x3505/432x243/filters:format(jpg)/2026/11/11/6af4745b158a7933641150.jpg",
+   "date": null,
+   "pubdate": "2026-11-11T17:13:53.243344+00:00"
+  },
+  {
+   "title": "La Russie interdit de territoire deux députés et deux journalistes français, en réponse à l'expulsion de Xenia Fedorova La décision, qui vise les élus Sacha Houlié et Arthur Delaporte et les reporters Ariane Chemin et Paul Gogo, a été prise \"en raison de leur participation au harcèlement\" de la chroniqueuse pro-Kremlin de CNews, expulsée de France fin juillet, a revendiqué Moscou. 11 novembre",
+   "link": "https://www.franceinfo.fr/monde/russie/la-russie-interdit-l-entree-sur-son-territoire-a-deux-deputes-et-deux-journalistes-francais-en-reponse-a-l-expulsion-de-xenia-fedorova_8277836.html",
+   "summary": "La Russie interdit de territoire deux députés et deux journalistes français, en réponse à l'expulsion de Xenia Fedorova",
+   "image": "https://www.franceinfo.fr/pictures/8sBf9o0M8tyYSXG8yUP-7QuGZvo/0x73:1024x649/432x243/filters:format(jpg)/2026/11/11/6af46d951c47a957434820.jpg",
+   "date": null,
+   "pubdate": "2026-11-11T17:13:53.243344+00:00"
+  },
+  {
+   "title": "Bruno Retailleau propose une primaire de la droite et du centre les 31 janvier et 7 février Parmi les quatre candidats à qui le président des Républicains a adressé une lettre allant dans ce sens, seul Edouard Philippe (Horizons) est opposé à l'idée d'une primaire. 11 novembre",
    "link": "https://www.franceinfo.fr/elections/presidentielle/bruno-retailleau-propose-une-primaire-de-la-droite-et-du-centre-les-31-janvier-et-7-fevrier_8277581.html",
    "summary": "Bruno Retailleau propose une primaire de la droite et du centre les 31 janvier et 7 février",
    "image": "https://www.franceinfo.fr/pictures/zvVkqdyO_yDrVAf5HyfaDHwXODM/0x39:1024x615/432x243/filters:format(jpg)/2026/11/11/6af43b2b8a1cf465542442.jpg",
@@ -137,7 +212,7 @@
    "pubdate": "2026-11-11T17:13:53.243344+00:00"
   },
   {
-   "title": "Le gouvernement envisage de puiser une nouvelle fois dans les stocks stratégiques pour maintenir les prix à la pompe Le prix du gazole recule grâce au déblocage des stocks stratégiques décidé par le gouvernement. Les cours du pétrole sont également en baisse. Mais les automobilistes sont encore loin d'avoir retrouvé les prix d'avant la guerre en Iran. Pour éviter une nouvelle flambée, l'exécutif envisage de libérer des barils supplémentaires. Aujourd'hui 2:08 audio 2 minutes 8",
+   "title": "Le gouvernement envisage de puiser une nouvelle fois dans les stocks stratégiques pour maintenir les prix à la pompe Le prix du gazole recule grâce au déblocage des stocks stratégiques décidé par le gouvernement. Les cours du pétrole sont également en baisse. Mais les automobilistes sont encore loin d'avoir retrouvé les prix d'avant la guerre en Iran. Pour éviter une nouvelle flambée, l'exécutif envisage de libérer des barils supplémentaires. 11 novembre 2:08 audio 2 minutes 8",
    "link": "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/le-gouvernement-pret-a-puiser-une-nouvelle-fois-dans-les-stocks-strategiques-pour-maintenir-les-prix-a-la-pompe_8256619.html",
    "summary": "Le gouvernement envisage de puiser une nouvelle fois dans les stocks stratégiques pour maintenir les prix à la pompe",
    "image": "https://www.franceinfo.fr/pictures/LzKqRkKSn1vOwSWQz2i16HgGWUg/0x250:4800x2950/432x243/filters:format(jpg)/2026/11/11/6af41ca5353d7767957622.jpg",
@@ -145,15 +220,15 @@
    "pubdate": "2026-11-11T17:13:53.243344+00:00"
   },
   {
-   "title": "\"Complément d'enquête\". Gabriel Attal, l'enfant pas si chéri de la Macronie Jusqu'à présent, son histoire était celle d'une ascension fulgurante, portée par une communication de choc. \"Complément d’enquête\" sur un ambitieux plus que jamais \"en marche\"... mais qui pourrait être contraint de renoncer à ses ambitions élyséennes. 12 novembre 1:10:00 vidéo 1 heure 10 minutes",
+   "title": "\"Complément d'enquête\". Gabriel Attal, l'enfant pas si chéri de la Macronie Jusqu'à présent, son histoire était celle d'une ascension fulgurante, portée par une communication de choc. \"Complément d’enquête\" sur un ambitieux plus que jamais \"en marche\"... mais qui pourrait être contraint de renoncer à ses ambitions élyséennes. Aujourd'hui 1:10:00 vidéo 1 heure 10 minutes",
    "link": "https://www.franceinfo.fr/replay-magazine/france-2/complement-d-enquete/complement-d-enquete-gabriel-attal-l-enfant-pas-si-cheri-de-la-macronie_8249824.html",
    "summary": "\"Complément d'enquête\". Gabriel Attal, l'enfant pas si chéri de la Macronie",
-   "image": "https://www.franceinfo.fr/pictures/e5Iqhfjg4pd2xEFsGCDiBHa5MPU/0x0:1920x1080/432x243/filters:format(jpg)/2024/02/14/3f75375c-35cd-4347-9306-a30441c7036a-65ccebefd8af0374064490.jpg",
+   "image": "https://www.franceinfo.fr/pictures/BD5jsPgD5XRjlMA1G29Z7cQIIfY/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/12/6af57b66408a5751520723.jpg",
    "date": null,
    "pubdate": "2026-11-11T17:13:53.243344+00:00"
   },
   {
-   "title": "Les informés du matin du mercredi 11 novembre 2026 Les informés débattent de l'actualité autour de Paul Barcelonne. Aujourd'hui 20:15 audio 20 minutes 15",
+   "title": "Les informés du matin du mercredi 11 novembre 2026 Les informés débattent de l'actualité autour de Paul Barcelonne. 11 novembre 20:15 audio 20 minutes 15",
    "link": "https://www.franceinfo.fr/replay-radio/les-informes-du-matin/les-informes-du-matin-du-mercredi-11-novembre-2026_8256628.html",
    "summary": "Les informés du matin du mercredi 11 novembre 2026",
    "image": "https://www.franceinfo.fr/pictures/TKWb09bmk3TJazMzKgqtt36pV4Q/0x292:5616x3451/432x243/filters:format(jpg)/2026/07/08/6a4e52a5b634b233317025.jpg",
@@ -161,7 +236,7 @@
    "pubdate": "2026-11-11T11:00:00+00:00"
   },
   {
-   "title": "• Direct Cérémonie du 11-Novembre : Sébastien Lecornu défend l'instauration d'une cérémonie de l'école au lycée, \"un temps de concorde\" nécessaire Les élèves du CM1 à la terminale participeront désormais tous les ans, autour du 11-Novembre, à un \"temps mémoriel\" en hommage à \"tous les Morts pour la France\". Aujourd'hui • Direct",
+   "title": "Cérémonie du 11-Novembre : Sébastien Lecornu défend l'instauration d'une cérémonie de l'école au lycée, \"un temps de concorde\" nécessaire Les élèves du CM1 à la terminale participeront désormais tous les ans, autour du 11-Novembre, à un \"temps mémoriel\" en hommage à \"tous les Morts pour la France\". 11 novembre",
    "link": "https://www.franceinfo.fr/societe/guerre-de-14-18/11-novembre/direct-ceremonie-du-11-novembre-suivez-les-commemorations-et-l-emission-speciale-de-france-2_8276093.html",
    "summary": "Cérémonie du 11-Novembre : Sébastien Lecornu défend l'instauration d'une cérémonie de l'école au lycée, \"un temps de concorde\" nécessaire",
    "image": "https://www.franceinfo.fr/pictures/f50SLT4YQAEF1L3ovmWu3u7L_H8/0x0:1024x576/432x243/filters:format(jpg)/2026/11/11/6af4adf95ae71888816677.jpg",
@@ -169,60 +244,12 @@
    "pubdate": "2026-11-11T06:36:44.446666+00:00"
   },
   {
-   "title": "\"Elle va apporter son capital popularité\" : quel sera le rôle de Sarah Knafo auprès d'Eric Zemmour dans la campagne pour la présidentielle ? Le président de Reconquête a officialisé sa candidature à l'Elysée. Concurrencé par l'émergence à droite de David Lisnard, il aura besoin de l'aide de sa compagne Sara Knafo, très populaire au sein du mouvement. Aujourd'hui",
+   "title": "\"Elle va apporter son capital popularité\" : quel sera le rôle de Sarah Knafo auprès d'Eric Zemmour dans la campagne pour la présidentielle ? Le président de Reconquête a officialisé sa candidature à l'Elysée. Concurrencé par l'émergence à droite de David Lisnard, il aura besoin de l'aide de sa compagne Sara Knafo, très populaire au sein du mouvement. 11 novembre",
    "link": "https://www.franceinfo.fr/elections/presidentielle/candidats/elle-va-apporter-son-capital-popularite-quel-sera-le-role-de-sarah-knafo-aupres-d-eric-zemmour-dans-la-campagne-pour-la-presidentielle_8269433.html",
    "summary": "\"Elle va apporter son capital popularité\" : quel sera le rôle de Sarah Knafo auprès d'Eric Zemmour dans la campagne pour la présidentielle ?",
    "image": "https://www.franceinfo.fr/pictures/iuqZo8QWun-sGSdYaZSGD0HYCLs/0x0:3000x1687/432x243/filters:format(jpg)/2026/11/09/6af1af17df75c180325759.jpg",
    "date": null,
    "pubdate": "2026-11-11T06:36:44.446666+00:00"
-  },
-  {
-   "title": "Eric Zemmour, leader du parti d'extrême droite Reconquête, officialise sa candidature à l'élection présidentielle de 2027 Déjà en lice en 2022, le polémiste plusieurs fois condamné avait fini quatrième du premier tour de l'élection présidentielle, avec 7% des voix. Il avait déjà fait un grand pas vers une candidature en septembre. 10 novembre",
-   "link": "https://www.franceinfo.fr/elections/presidentielle/eric-zemmour-leader-du-parti-d-extreme-droite-reconquete-officialise-sa-candidature-a-la-presidentielle_8276858.html",
-   "summary": "Eric Zemmour, leader du parti d'extrême droite Reconquête, officialise sa candidature à l'élection présidentielle de 2027",
-   "image": "https://www.franceinfo.fr/pictures/2q-gceBddd8UttUGC6OxXtoBRYQ/0x0:1024x576/432x243/filters:format(jpg)/2026/11/10/6af36a8ab2853906494533.jpg",
-   "date": null,
-   "pubdate": "2026-11-10T21:20:16.605337+00:00"
-  },
-  {
-   "title": "\"Nous avons le choix entre le mauvais et le pire\" : les députés arabes israéliens soutiennent Gadi Eizenkot du bout des lèvres Les 120 parlementaires israéliens élus lors des élections législatives du 27 octobre font leur rentrée à la Knesset ce mardi. Pour former le gouvernement, qui va succéder à celui de Benyamin Nétanyahou, Gadi Eizenkot va devoir faire des compromis. 10 novembre",
-   "link": "https://www.franceinfo.fr/politique/nous-avons-le-choix-entre-le-mauvais-et-le-pire-les-deputes-arabes-israeliens-soutiennent-gadi-eizenkot-du-bout-des-levres_8276405.html",
-   "summary": "\"Nous avons le choix entre le mauvais et le pire\" : les députés arabes israéliens soutiennent Gadi Eizenkot du bout des lèvres",
-   "image": "https://www.franceinfo.fr/pictures/kEpcESGeGYvSgzbAWWXnp0ssYyw/0x428:8192x5036/432x243/filters:format(jpg)/2026/11/10/6af339f85c19c700570448.jpg",
-   "date": null,
-   "pubdate": "2026-11-10T21:20:16.605337+00:00"
-  },
-  {
-   "title": ": Reportage La candidature \"ni de droite ni de gauche\" de Teddy Riner fait réagir à l'Assemblée nationale La vidéo de la candidature surprise de Teddy Riner dépasse désormais les 10 millions de vues sur X comme sur Instagram, en une seule journée. Cette annonce a surpris jusqu'au sein de l'Assemblée nationale, où elle divise. 10 novembre : Reportage",
-   "link": "https://www.franceinfo.fr/elections/presidentielle/la-candidature-ni-de-droite-ni-de-gauche-de-teddy-riner-fait-reagir-a-l-assemblee-nationale_8276381.html",
-   "summary": "La candidature \"ni de droite ni de gauche\" de Teddy Riner fait réagir à l'Assemblée nationale",
-   "image": "https://www.franceinfo.fr/pictures/uxe9FujnJzWgDDsrLTpyq7XmnSs/0x279:4300x2698/432x243/filters:format(jpg)/2026/11/10/6af326ce1ee02755167865.jpg",
-   "date": null,
-   "pubdate": "2026-11-10T14:58:50.784357+00:00"
-  },
-  {
-   "title": "Jet de bouteille d'essence, enquête ouverte… Ce que l'on sait de l'agression d'une conseillère régionale devant un lycée de Chelles Une élue régionale LR a reçu une bouteille d'essence dans la poitrine, mardi matin, alors qu'elle était venue négocier le retour en classe des élèves d'un lycée de cette ville de région parisienne. Elle a déposé plainte. 10 novembre",
-   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/jet-de-bouteille-d-essence-enquete-ouverte-ce-que-l-on-sait-de-l-agression-d-une-conseillere-regionale-devant-un-lycee-de-chelles_8276324.html",
-   "summary": "Jet de bouteille d'essence, enquête ouverte… Ce que l'on sait de l'agression d'une conseillère régionale devant un lycée de Chelles",
-   "image": "https://www.franceinfo.fr/pictures/VaN9d19WfNDALSMw_9Szfq35q4U/210x0:1294x610/432x243/filters:format(jpg)/2026/11/10/6af317fe6eb5f952536032.png",
-   "date": null,
-   "pubdate": "2026-11-10T14:58:50.784357+00:00"
-  },
-  {
-   "title": "\"C'est au peuple de décider ce qu'il veut\" : on vous résume la polémique suscitée par les propos de Jean-Luc Mélenchon sur l'Ukraine Le candidat de La France insoumise à la présidentielle a proposé que la population ukrainienne du Donbass, en grande partie occupée par les Russes, soit consultée pour savoir si elle voulait rester ukrainienne ou devenir russe, au cas où une concession territoriale soit envisagée par les deux pays pour mettre fin au conflit. 10 novembre",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/c-est-au-peuple-de-decider-lui-meme-ce-qu-il-veut-on-vous-resume-la-polemique-suscitee-par-les-propos-de-jean-luc-melenchon-sur-l-ukraine_8276072.html",
-   "summary": "\"C'est au peuple de décider ce qu'il veut\" : on vous résume la polémique suscitée par les propos de Jean-Luc Mélenchon sur l'Ukraine",
-   "image": "https://www.franceinfo.fr/pictures/4pJWV6LjlZ_f9QY0FX7A7BzM8tY/0x79:1024x655/432x243/filters:format(jpg)/2026/11/10/6af307e08b15a792970968.jpg",
-   "date": null,
-   "pubdate": "2026-11-10T14:58:50.784357+00:00"
-  },
-  {
-   "title": "La pétition appelant à \"supprimer CNews de l'audiovisuel français\" classée en commission à l'Assemblée nationale Les députés de la commission des affaires culturelles et de l'éducation se sont opposés, d'une courte majorité, à l'organisation d'un débat dans l'hémicycle sur ce texte, qui a recueilli plus d'un million de signatures. 10 novembre",
-   "link": "https://www.franceinfo.fr/politique/la-petition-appelant-a-supprimer-cnews-de-l-audiovisuel-francais-classee-par-la-commission-de-l-assemblee-nationale_8276303.html",
-   "summary": "La pétition appelant à \"supprimer CNews de l'audiovisuel français\" classée en commission à l'Assemblée nationale",
-   "image": "https://www.franceinfo.fr/pictures/T9vUVyI6PQcWRsL_M6YDOTK690A/0x4:1024x580/432x243/filters:format(jpg)/2026/11/10/6af30a9dd820f631326094.jpg",
-   "date": null,
-   "pubdate": "2026-11-10T14:58:50.784357+00:00"
   },
   {
    "title": "Quatre choses à ne pas oublier pour faire bon usage des sondages et enquêtes d'opinion en période électorale 3:00 article 3 minutes",

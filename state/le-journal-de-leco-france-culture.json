@@ -1,8 +1,7 @@
 {
- "etag": "\"f1o1oi\"",
+ "etag": "\"1dift9z\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/grece-une-dette-qui-recule-mais-une-precarite-qui-persiste-2812209": "2026-10-16T11:32:21.494398+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/reforme-du-lycee-la-promesse-de-l-emploi-a-t-elle-ete-tenue-4792528": "2026-10-19T13:29:21.119779+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/l-entreprenariat-par-necessite-2795523": "2026-10-20T08:39:13.495148+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/pekin-traque-les-milliards-des-grandes-fortunes-chinoises-a-l-etranger-4732139": "2026-10-22T12:00:53.779488+00:00",
@@ -19,10 +18,19 @@
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/tchequie-le-plafonnement-des-prix-des-carburants-prolonge-jusqu-a-fin-novembre-9710546": "2026-11-06T06:56:16.699370+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/la-difficile-lutte-contre-le-non-recours-aux-aides-sociales-en-france-3253288": "2026-11-09T06:46:19.334333+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/chili-les-fonds-de-pension-perdent-9-milliards-d-euros-les-retraites-trinquent-3310796": "2026-11-10T14:59:00.725584+00:00",
-  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/l-opep-ne-fait-plus-la-pluie-et-le-beau-temps-sur-le-cours-mondial-du-petrole-7311578": "2026-11-11T11:00:00+00:00"
+  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/l-opep-ne-fait-plus-la-pluie-et-le-beau-temps-sur-le-cours-mondial-du-petrole-7311578": "2026-11-11T11:00:00+00:00",
+  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/le-marche-des-paiements-champ-de-bataille-et-levier-de-souverainete-1045640": "2026-11-12T11:25:47.061626+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "Le marché des paiements, champ de bataille et levier de souveraineté",
+   "link": "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/le-marche-des-paiements-champ-de-bataille-et-levier-de-souverainete-1045640",
+   "summary": "Dans le secteur des paiements se joue ce qui pourrait paraître n'être qu'une bataille de logos, sur les cartes bancaires, en ligne et dans les magasins. Bataille entre Visa et Mastercard, d'un côté, et le réseau français CB - pour Cartes Bancaires - géré par un groupement de banques, de l'autre.",
+   "image": "https://www.radiofrance.fr/pikapi/images/dab88bf6-531c-4af7-9265-5f15141d933a/2048",
+   "date": null,
+   "pubdate": "2026-11-12T11:25:47.061626+00:00"
+  },
   {
    "title": "L'OPEP ne fait plus la pluie et le beau temps sur le cours mondial du pétrole",
    "link": "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/l-opep-ne-fait-plus-la-pluie-et-le-beau-temps-sur-le-cours-mondial-du-petrole-7311578",
@@ -158,14 +166,6 @@
    "image": "https://www.radiofrance.fr/pikapi/images/6972ac23-9164-45c9-bf95-e2df9e7f5075/2048",
    "date": "2026-10-19T11:00:00+00:00",
    "pubdate": "2026-10-19T11:00:00+00:00"
-  },
-  {
-   "title": "Le prix de la dette 5/5 · Grèce : une dette qui recule mais une précarité qui persiste",
-   "link": "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/grece-une-dette-qui-recule-mais-une-precarite-qui-persiste-2812209",
-   "summary": "Après une crise majeure de la dette, la Grèce a bénéficié de trois plans de sauvetage, entre 2009 et 2015, en échange d’une austérité drastique. Aujourd’hui, le pays se présente comme un modèle de désendettement. Mais à quel prix pour sa population ?",
-   "image": "https://www.radiofrance.fr/pikapi/images/8fd168b0-9d87-4f18-8c07-1833b39ee5a7/2048",
-   "date": null,
-   "pubdate": "2026-10-16T11:32:21.494398+00:00"
   }
  ]
 }

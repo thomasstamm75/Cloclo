@@ -1,9 +1,8 @@
 {
- "etag": "W/\"1794444493\"",
- "last_modified": "Thu, 12 Nov 2026 00:48:13 GMT",
+ "etag": "W/\"1794482741\"",
+ "last_modified": "Thu, 12 Nov 2026 11:25:41 GMT",
  "first_seen": {
   "https://www.ccomptes.fr/fr/publications/commune-de-capesterre-belle-eau-guadeloupe-14": "2026-10-22T11:00:00+00:00",
-  "https://www.ccomptes.fr/fr/publications/les-outils-bureautiques-et-collaboratifs-au-sein-de-letat": "2026-10-22T11:00:00+00:00",
   "https://www.ccomptes.fr/fr/publications/le-plan-dinvestissement-france-2030": "2026-10-28T11:00:00+00:00",
   "https://www.ccomptes.fr/fr/publications/levolution-du-budget-du-ministere-de-la-culture-depuis-2015": "2026-11-03T11:00:00+00:00",
   "https://www.ccomptes.fr/fr/publications/le-fonds-de-prevention-des-risques-naturels-majeurs-0": "2026-11-05T11:00:00+00:00",
@@ -11,10 +10,19 @@
   "https://www.ccomptes.fr/fr/publications/contribution-au-retablissement-des-finances-publiques": "2026-11-09T11:00:00+00:00",
   "https://www.ccomptes.fr/fr/publications/note-thematique-les-depenses-fiscales": "2026-11-09T11:00:00+00:00",
   "https://www.ccomptes.fr/fr/publications/rapport-sur-les-credits-du-budget-de-letat-ouverts-par-decrets-davance": "2026-11-09T11:00:00+00:00",
-  "https://www.ccomptes.fr/fr/publications/la-caisse-generale-de-securite-sociale-de-la-guadeloupe-et-de-saint-martin": "2026-11-10T11:00:00+00:00"
+  "https://www.ccomptes.fr/fr/publications/la-caisse-generale-de-securite-sociale-de-la-guadeloupe-et-de-saint-martin": "2026-11-10T11:00:00+00:00",
+  "https://www.ccomptes.fr/fr/publications/la-fondation-louis-lepine": "2026-11-12T11:00:00+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "La fondation Louis Lépine",
+   "link": "https://www.ccomptes.fr/fr/publications/la-fondation-louis-lepine",
+   "summary": "Créée et reconnue d’utilité publique en 1950 pour délivrer des prestations d’action sociale aux agents et personnels retraités de la préfecture de police de Paris, la fondation Louis Lépine avait fait l’objet de nombreuses critiques de la part de la Cour des comptes lors de sa précédente interventio...",
+   "image": "https://www.ccomptes.fr/sites/default/files/styles/teaser_182x98/public/2026-11/Fondation-Louis-Lepine-182x98.jpg?itok=NTIUfE2j",
+   "date": "2026-11-12T11:00:00+00:00",
+   "pubdate": "2026-11-12T11:00:00+00:00"
+  },
   {
    "title": "La Caisse générale de sécurité sociale de la Guadeloupe et de Saint-Martin",
    "link": "https://www.ccomptes.fr/fr/publications/la-caisse-generale-de-securite-sociale-de-la-guadeloupe-et-de-saint-martin",
@@ -84,14 +92,6 @@
    "link": "https://www.ccomptes.fr/fr/publications/commune-de-capesterre-belle-eau-guadeloupe-14",
    "summary": "La Procureure générale près la Cour des comptes avait renvoyé devant celle-ci le maire et la directrice générale des services de la commune de Capesterre-Belle-Eau pour qu’il soit statué sur leur responsabilité au regard de l’infraction résultant du défaut de mandatement dans les deux mois de sommes...",
    "image": "https://www.ccomptes.fr/sites/default/files/styles/teaser_182x98/public/2024-07/balance-182x98.jpg?itok=LL1Wvw-F",
-   "date": "2026-10-22T11:00:00+00:00",
-   "pubdate": "2026-10-22T11:00:00+00:00"
-  },
-  {
-   "title": "Les outils bureautiques et collaboratifs au sein de l'Etat",
-   "link": "https://www.ccomptes.fr/fr/publications/les-outils-bureautiques-et-collaboratifs-au-sein-de-letat",
-   "summary": "Suite à sa campagne d’initiative citoyenne menée en septembre 2024, dans un contexte marqué par les enjeux de souveraineté numérique et de maîtrise des dépenses publiques, la Cour publie un rapport sur les usages et le coût des outils bureautiques et collaboratifs par les ministères. L’étude s’...",
-   "image": "https://www.ccomptes.fr/sites/default/files/styles/teaser_182x98/public/2025-02/Agence-France-locale-182x98.jpg?itok=Tpr1h9cL",
    "date": "2026-10-22T11:00:00+00:00",
    "pubdate": "2026-10-22T11:00:00+00:00"
   }

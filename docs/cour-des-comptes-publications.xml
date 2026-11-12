@@ -5,8 +5,15 @@
     <link>https://www.ccomptes.fr/fr/publications?f%5B0%5D=institution%3A98</link>
     <description>Flux fabriqué par Cloclo à partir de https://www.ccomptes.fr/fr/publications?f%5B0%5D=institution%3A98</description>
     <language>fr</language>
-    <lastBuildDate>Thu, 12 Nov 2026 00:48:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 11:25:42 +0000</lastBuildDate>
     <atom:link href="https://thomasstamm75.github.io/Cloclo/cour-des-comptes-publications.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La fondation Louis Lépine</title>
+      <link>https://www.ccomptes.fr/fr/publications/la-fondation-louis-lepine</link>
+      <guid isPermaLink="true">https://www.ccomptes.fr/fr/publications/la-fondation-louis-lepine</guid>
+      <pubDate>Thu, 12 Nov 2026 11:00:00 +0000</pubDate>
+      <description>&lt;img src="https://www.ccomptes.fr/sites/default/files/styles/teaser_182x98/public/2026-11/Fondation-Louis-Lepine-182x98.jpg?itok=NTIUfE2j" alt=""/&gt;&lt;p&gt;Créée et reconnue d’utilité publique en 1950 pour délivrer des prestations d’action sociale aux agents et personnels retraités de la préfecture de police de Paris, la fondation Louis Lépine avait fait l’objet de nombreuses critiques de la part de la Cour des comptes lors de sa précédente interventio...&lt;/p&gt;</description>
+    </item>
     <item>
       <title>La Caisse générale de sécurité sociale de la Guadeloupe et de Saint-Martin</title>
       <link>https://www.ccomptes.fr/fr/publications/la-caisse-generale-de-securite-sociale-de-la-guadeloupe-et-de-saint-martin</link>
@@ -69,13 +76,6 @@
       <guid isPermaLink="true">https://www.ccomptes.fr/fr/publications/commune-de-capesterre-belle-eau-guadeloupe-14</guid>
       <pubDate>Thu, 22 Oct 2026 11:00:00 +0000</pubDate>
       <description>&lt;img src="https://www.ccomptes.fr/sites/default/files/styles/teaser_182x98/public/2024-07/balance-182x98.jpg?itok=LL1Wvw-F" alt=""/&gt;&lt;p&gt;La Procureure générale près la Cour des comptes avait renvoyé devant celle-ci le maire et la directrice générale des services de la commune de Capesterre-Belle-Eau pour qu’il soit statué sur leur responsabilité au regard de l’infraction résultant du défaut de mandatement dans les deux mois de sommes...&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Les outils bureautiques et collaboratifs au sein de l'Etat</title>
-      <link>https://www.ccomptes.fr/fr/publications/les-outils-bureautiques-et-collaboratifs-au-sein-de-letat</link>
-      <guid isPermaLink="true">https://www.ccomptes.fr/fr/publications/les-outils-bureautiques-et-collaboratifs-au-sein-de-letat</guid>
-      <pubDate>Thu, 22 Oct 2026 11:00:00 +0000</pubDate>
-      <description>&lt;img src="https://www.ccomptes.fr/sites/default/files/styles/teaser_182x98/public/2025-02/Agence-France-locale-182x98.jpg?itok=Tpr1h9cL" alt=""/&gt;&lt;p&gt;Suite à sa campagne d’initiative citoyenne menée en septembre 2024, dans un contexte marqué par les enjeux de souveraineté numérique et de maîtrise des dépenses publiques, la Cour publie un rapport sur les usages et le coût des outils bureautiques et collaboratifs par les ministères. L’étude s’...&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
