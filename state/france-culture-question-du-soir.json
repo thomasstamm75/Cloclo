@@ -1,8 +1,7 @@
 {
- "etag": "\"ll3jft\"",
+ "etag": "\"15r8vlv\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/le-made-in-europe-peut-il-sauver-l-industrie-europeenne-5438299": "2026-10-15T11:00:00+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/glucksmann-candidat-de-la-gauche-la-social-democratie-fait-elle-rever-6421240": "2026-10-16T16:44:29.073698+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/la-violence-nuit-elle-au-mouvement-social-3848565": "2026-10-19T20:37:25.488771+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/questions-du-soir-le-debat-emission-du-mardi-20-octobre-2026-7533340": "2026-10-17T11:00:00+00:00",
@@ -19,10 +18,19 @@
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/midterms-trump-sous-controle-ou-incontrolable-2549983": "2026-11-04T23:44:42.905624+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/prix-litteraire-qu-est-ce-qu-un-bon-roman-8992280": "2026-11-06T23:14:32.799846+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/trappes-la-recuperation-politique-est-elle-inevitable-6057460": "2026-11-09T19:53:30.223464+00:00",
-  "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/les-syndicats-ont-ils-les-moyens-de-repondre-a-la-colere-sociale-6296364": "2026-11-10T21:20:29.890598+00:00"
+  "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/les-syndicats-ont-ils-les-moyens-de-repondre-a-la-colere-sociale-6296364": "2026-11-10T21:20:29.890598+00:00",
+  "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/secheresse-comment-repartir-l-eau-en-france-4438144": "2026-11-11T11:00:00+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "Sécheresse : comment répartir l’eau en France ?",
+   "link": "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/secheresse-comment-repartir-l-eau-en-france-4438144",
+   "summary": "Nous sommes en novembre, il pleut peut-être chez vous, mais cela ne suffira pas. La Bretagne elle-même n’est plus à l’abri. Partout, la fin de la canicule n'a pas signé la fin de la sécheresse : les nappes peinent à se recharger.",
+   "image": "https://www.radiofrance.fr/pikapi/images/e7660bbb-5654-4137-87a5-3c9b7432e339/2048",
+   "date": "2026-11-11T11:00:00+00:00",
+   "pubdate": "2026-11-11T11:00:00+00:00"
+  },
   {
    "title": "Les syndicats ont-ils les moyens de porter la colère sociale ?",
    "link": "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/les-syndicats-ont-ils-les-moyens-de-repondre-a-la-colere-sociale-6296364",
@@ -158,14 +166,6 @@
    "image": "https://www.radiofrance.fr/pikapi/images/93094e24-4070-4bf4-8315-781f5ced9987/2048",
    "date": null,
    "pubdate": "2026-10-16T16:44:29.073698+00:00"
-  },
-  {
-   "title": "Le \"Made in Europe\" peut-il sauver l'industrie européenne ?",
-   "link": "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/le-made-in-europe-peut-il-sauver-l-industrie-europeenne-5438299",
-   "summary": "Produire en Europe pour être soutenu par l’Europe : la Commission européenne veut faire du \"Made in Europe\" un levier de souveraineté économique. Mais où commence réellement la production européenne ? Nos invités en débattent.",
-   "image": "https://www.radiofrance.fr/pikapi/images/8ef3ff45-09a2-4ecb-96d6-864c0cd088a1/2048",
-   "date": "2026-10-15T11:00:00+00:00",
-   "pubdate": "2026-10-15T11:00:00+00:00"
   }
  ]
 }
