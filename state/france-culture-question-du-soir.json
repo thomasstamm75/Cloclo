@@ -1,8 +1,7 @@
 {
- "etag": "\"1racwco\"",
+ "etag": "\"x0s3d6\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/glucksmann-candidat-de-la-gauche-la-social-democratie-fait-elle-rever-6421240": "2026-10-16T16:44:29.073698+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/la-violence-nuit-elle-au-mouvement-social-3848565": "2026-10-19T20:37:25.488771+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/questions-du-soir-le-debat-emission-du-mardi-20-octobre-2026-7533340": "2026-10-17T11:00:00+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/le-dialogue-avec-la-jeunesse-est-il-rompu-1650906": "2026-10-21T17:18:27.511303+00:00",
@@ -19,10 +18,19 @@
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/prix-litteraire-qu-est-ce-qu-un-bon-roman-8992280": "2026-11-06T23:14:32.799846+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/trappes-la-recuperation-politique-est-elle-inevitable-6057460": "2026-11-09T19:53:30.223464+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/les-syndicats-ont-ils-les-moyens-de-repondre-a-la-colere-sociale-6296364": "2026-11-10T21:20:29.890598+00:00",
-  "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/secheresse-comment-repartir-l-eau-en-france-4438144": "2026-11-11T11:00:00+00:00"
+  "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/secheresse-comment-repartir-l-eau-en-france-4438144": "2026-11-11T11:00:00+00:00",
+  "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/la-candidature-de-teddy-riner-est-elle-le-symptome-d-un-malaise-politique-1887264": "2026-11-12T11:00:00+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "Pourquoi la candidature de Teddy Riner est-elle prise au sérieux ?",
+   "link": "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/la-candidature-de-teddy-riner-est-elle-le-symptome-d-un-malaise-politique-1887264",
+   "summary": "Personnalité parmi les plus populaires du pays, Teddy Riner s’invite dans la bataille présidentielle. Coup médiatique ou symptôme d’un profond rejet des élites politiques ? Sa candidature éclaire les fractures et les attentes de la France de 2027.",
+   "image": "https://www.radiofrance.fr/pikapi/images/9f66c342-0d53-4862-a567-230a783922b2/2048",
+   "date": "2026-11-12T11:00:00+00:00",
+   "pubdate": "2026-11-12T11:00:00+00:00"
+  },
   {
    "title": "Sécheresse : comment répartir l’eau en France ?",
    "link": "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/secheresse-comment-repartir-l-eau-en-france-4438144",
@@ -158,14 +166,6 @@
    "image": "https://www.radiofrance.fr/pikapi/images/ebde49ef-baf5-4676-b8dc-49e8444eaa25/2048",
    "date": "2026-10-17T11:00:00+00:00",
    "pubdate": "2026-10-17T11:00:00+00:00"
-  },
-  {
-   "title": "Glucksmann candidat de la gauche : la social-démocratie fait-elle rêver ?",
-   "link": "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/glucksmann-candidat-de-la-gauche-la-social-democratie-fait-elle-rever-6421240",
-   "summary": "Vainqueur de la primaire de la gauche sociale et démocrate avec près de 66 % des voix, Raphaël Glucksmann revendique une ligne social-démocrate, sans alliance avec LFI. Peut-elle encore convaincre et répondre aux crises d’aujourd’hui ? Débat avec nos invités.",
-   "image": "https://www.radiofrance.fr/pikapi/images/93094e24-4070-4bf4-8315-781f5ced9987/2048",
-   "date": null,
-   "pubdate": "2026-10-16T16:44:29.073698+00:00"
   }
  ]
 }

@@ -2,22 +2,54 @@
  "etag": "",
  "last_modified": "",
  "first_seen": {
-  "https://www.publicsenat.fr/emission/bonjour-chez-vous": "2026-11-09T08:58:00+00:00",
-  "https://www.courrier-picard.fr/id757826/article/2026-11-07/leditorial-economie-un-coup-de-pouce-au-smic-tres-attendu": "2026-11-07T15:53:00+00:00",
-  "https://www.europe1.fr/emissions/ledito-eco/stop-a-la-spoliation-qui-vient-1221839": "2026-11-10T09:46:00+00:00",
-  "https://rmc.bfmtv.com/replay-emissions/estelle-midi/l-integrale-d-estelle-midi-du-mardi-10-novembre-2026_EN-202611100604.html": "2026-11-12T09:09:00+00:00",
   "https://www.lejdd.fr/economie/racket-fiscal-agnes-verdier-molinie-alerte-sur-la-spoliation-qui-vient-188298": "2026-11-10T17:27:00+00:00",
-  "https://www.capital.fr/economie-politique/spolier-peu-ou-prou-les-francais-agnes-verdier-molinie-alerte-sur-le-programme-de-la-france-insoumise-1531737": "2026-11-10T11:04:00+00:00"
+  "https://www.radiofrance.fr/franceinfo/podcasts/le-9h30-midi/le-9h30-midi-du-jeudi-12-novembre-2026-5814133": "2026-11-12T11:33:00+00:00",
+  "https://www.capital.fr/economie-politique/hausse-du-smic-la-facture-est-enorme-pour-les-entreprises-alerte-agnes-verdier-molinie-1531779": "2026-11-12T08:41:00+00:00",
+  "https://www.europe1.fr/emissions/ledito-eco/hausse-du-smic-combien-ca-va-couter-aux-entreprises-1227179": "2026-11-12T07:39:00+00:00",
+  "https://www.cnews.fr/emission/2026-11-12/la-matinale-emission-du-12112026-1952602": "2026-11-12T07:37:00+00:00",
+  "https://www.tf1info.fr/economie/verif-salaires-un-smic-a-1700-euros-net-detruirait-il-230000-emplois-comme-le-dit-le-gouvernement-2475210.html": "2026-11-11T16:43:00+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "Y a t'il trop d'aides en France ?",
-   "link": "https://rmc.bfmtv.com/replay-emissions/estelle-midi/l-integrale-d-estelle-midi-du-mardi-10-novembre-2026_EN-202611100604.html",
+   "title": "La dégradation des services publics : comment garantir des services efficaces ?",
+   "link": "https://www.radiofrance.fr/franceinfo/podcasts/le-9h30-midi/le-9h30-midi-du-jeudi-12-novembre-2026-5814133",
    "summary": "",
-   "image": "https://www.ifrap.org/sites/default/files/styles/100x/public/images/import/rmc_5.jpeg?itok=9LIEkXZj",
-   "date": "2026-11-12T09:09:00+00:00",
-   "pubdate": "2026-11-12T09:09:00+00:00"
+   "image": "",
+   "date": "2026-11-12T11:33:00+00:00",
+   "pubdate": "2026-11-12T11:33:00+00:00"
+  },
+  {
+   "title": "Hausse du SMIC : « La facture est énorme » pour les entreprises, alerte Agnès Verdier-Molinié",
+   "link": "https://www.capital.fr/economie-politique/hausse-du-smic-la-facture-est-enorme-pour-les-entreprises-alerte-agnes-verdier-molinie-1531779",
+   "summary": "",
+   "image": "https://www.ifrap.org/sites/default/files/styles/100x/public/images/2023-10/capital.jpg?itok=NAVpztHz",
+   "date": "2026-11-12T08:41:00+00:00",
+   "pubdate": "2026-11-12T08:41:00+00:00"
+  },
+  {
+   "title": "Le gouvernement veut bien augmenter le SMIC mais ne veut pas en payer le coût",
+   "link": "https://www.europe1.fr/emissions/ledito-eco/hausse-du-smic-combien-ca-va-couter-aux-entreprises-1227179",
+   "summary": "",
+   "image": "https://www.ifrap.org/sites/default/files/styles/100x/public/images/import/logo_europe1_6.jpg?itok=6FMdFcfZ",
+   "date": "2026-11-12T07:39:00+00:00",
+   "pubdate": "2026-11-12T07:39:00+00:00"
+  },
+  {
+   "title": "Hausse du SMIC, quel coût pour les entreprises ?",
+   "link": "https://www.cnews.fr/emission/2026-11-12/la-matinale-emission-du-12112026-1952602",
+   "summary": "",
+   "image": "https://www.ifrap.org/sites/default/files/styles/100x/public/images/2025-01/images_nl_29.png?itok=gFuWqP5h",
+   "date": "2026-11-12T07:37:00+00:00",
+   "pubdate": "2026-11-12T07:37:00+00:00"
+  },
+  {
+   "title": "Un Smic à 1 700 euros net détruirait-il 230 000 emplois, comme le dit le gouvernement ?",
+   "link": "https://www.tf1info.fr/economie/verif-salaires-un-smic-a-1700-euros-net-detruirait-il-230000-emplois-comme-le-dit-le-gouvernement-2475210.html",
+   "summary": "",
+   "image": "https://www.ifrap.org/sites/default/files/styles/100x/public/images/2024-02/capture_decran_2024-02-13_181121.png?itok=hBlB-EzA",
+   "date": "2026-11-11T16:43:00+00:00",
+   "pubdate": "2026-11-11T16:43:00+00:00"
   },
   {
    "title": "Racket fiscal : Agnès Verdier-Molinié alerte sur «la spoliation qui vient»",
@@ -26,38 +58,6 @@
    "image": "https://www.ifrap.org/sites/default/files/styles/100x/public/images/2025-01/images_nl_33.png?itok=vv7Yrt5H",
    "date": "2026-11-10T17:27:00+00:00",
    "pubdate": "2026-11-10T17:27:00+00:00"
-  },
-  {
-   "title": "\"Spolier peu ou prou les Français\", Agnès Verdier-Molinié alerte sur le programme de la France insoumise",
-   "link": "https://www.capital.fr/economie-politique/spolier-peu-ou-prou-les-francais-agnes-verdier-molinie-alerte-sur-le-programme-de-la-france-insoumise-1531737",
-   "summary": "",
-   "image": "https://www.ifrap.org/sites/default/files/styles/100x/public/images/2023-10/capital.jpg?itok=NAVpztHz",
-   "date": "2026-11-10T11:04:00+00:00",
-   "pubdate": "2026-11-10T11:04:00+00:00"
-  },
-  {
-   "title": "Stop à la spoliation qui vient !",
-   "link": "https://www.europe1.fr/emissions/ledito-eco/stop-a-la-spoliation-qui-vient-1221839",
-   "summary": "",
-   "image": "https://www.ifrap.org/sites/default/files/styles/100x/public/images/import/logo_europe1_6.jpg?itok=6FMdFcfZ",
-   "date": "2026-11-10T09:46:00+00:00",
-   "pubdate": "2026-11-10T09:46:00+00:00"
-  },
-  {
-   "title": "L'augmentation du SMIC pourrait détruire des emplois",
-   "link": "https://www.publicsenat.fr/emission/bonjour-chez-vous",
-   "summary": "",
-   "image": "https://www.ifrap.org/sites/default/files/styles/100x/public/images/2026-11/images_21.png?itok=EjhqxWv5",
-   "date": "2026-11-09T08:58:00+00:00",
-   "pubdate": "2026-11-09T08:58:00+00:00"
-  },
-  {
-   "title": "Un coup de pouce au Smic très attendu !",
-   "link": "https://www.courrier-picard.fr/id757826/article/2026-11-07/leditorial-economie-un-coup-de-pouce-au-smic-tres-attendu",
-   "summary": "",
-   "image": "https://www.ifrap.org/sites/default/files/styles/100x/public/images/2026-11/design_sans_titre_1.png?itok=jDnOGCuN",
-   "date": "2026-11-07T15:53:00+00:00",
-   "pubdate": "2026-11-07T15:53:00+00:00"
   }
  ]
 }
