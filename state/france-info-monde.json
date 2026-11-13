@@ -1,55 +1,178 @@
 {
- "etag": "\"b37e0a1cee1f1ddfa22d00a5092b02ab-gzip\"",
+ "etag": "\"fad11d5ce66d5c42f18e38bfabf846fd-gzip\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/leon-xiv-en-france-retrouvez-l-essentiel/": "2026-11-11T06:36:46.730787+00:00",
-  "https://www.franceinfo.fr/monde/usa/affaire-jeffrey-epstein/l-essentiel-des-revelations-sur-l-affaire-epstein/": "2026-11-11T06:36:46.730787+00:00",
-  "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/tout-comprendre-a-la-guerre-au-moyen-orient/": "2026-11-11T06:36:46.730787+00:00",
-  "https://www.franceinfo.fr/monde/russie/reportage-tout-media-jouissant-d-une-grande-popularite-doit-etre-sous-la-coupe-du-kremlin-comment-poutine-a-fait-taire-la-presse-independante-en-russie_8274161.html": "2026-11-12T00:48:11.591075+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-couper-le-robinet-de-petrole-russe-en-mission-avec-les-oiseaux-de-madyar-la-brigade-de-dronistes-ukrainiens-la-plus-pourchassee-par-les-russes_8255023.html": "2026-11-12T11:25:39.912149+00:00",
   "https://www.franceinfo.fr/monde/usa/midterms-2018/midterms-2026-l-essentiel-des-elections-de-mi-mandat/": "2026-11-12T11:25:39.912149+00:00",
   "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/reportage-tout-le-monde-est-malade-a-elbistan-l-extraction-du-charbon-brise-les-vies-des-habitants-loin-des-promesses-de-la-turquie-avant-la-cop31_8268068.html": "2026-11-12T11:25:39.912149+00:00",
-  "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/dans-la-bande-de-gaza-au-moins-11-personnes-sont-mortes-dans-des-frappes-israeliennes-jour-le-plus-meurtrier-depuis-les-elections-en-israel_8279927.html": "2026-11-12T20:01:29.127757+00:00",
-  "https://www.franceinfo.fr/monde/israel/je-regrette-que-le-gouvernement-d-israel-me-poursuive-de-cette-maniere-denonce-jean-luc-melenchon-interdit-de-territoire-en-israel_8279831.html": "2026-11-12T20:01:29.127757+00:00",
-  "https://www.franceinfo.fr/politique/la-france-insoumise/israel-interdit-a-jean-luc-melenchon-et-mathilde-panot-l-entree-sur-son-territoire-denoncant-la-position-extremement-anti-israelienne-de-la-france-insoumise_8279801.html": "2026-11-12T20:01:29.127757+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-vladimir-poutine-refuse-la-possibilite-d-etablir-des-zones-grises-face-aux-emissaires-americains_8280119.html": "2026-11-13T01:53:47.553877+00:00",
-  "https://www.franceinfo.fr/monde/europe/une-quarantaine-de-pays-europeens-inscrivent-leurs-principes-cles-de-securite-dans-une-charte_8280113.html": "2026-11-13T01:53:47.553877+00:00",
-  "https://www.franceinfo.fr/monde/norvege/la-norvege-va-interdire-aux-athletes-russes-de-participer-a-des-competitions-sur-son-territoire_8280068.html": "2026-11-13T01:53:47.553877+00:00",
-  "https://www.franceinfo.fr/societe/droits-des-femmes/la-hongrie-va-ratifier-la-convention-d-istanbul-qui-lutte-contre-les-violences-faites-aux-femmes_8280047.html": "2026-11-13T01:53:47.553877+00:00",
   "https://www.franceinfo.fr/environnement/biodiversite/animaux/deja-12-ou-13-personnes-dans-le-village-qui-ont-ete-tuees-en-inde-les-tensions-territoriales-entre-habitants-et-elephants-sauvages-font-des-centaines-de-morts-chaque-annee_8280089.html": "2026-11-13T01:53:47.553877+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-la-russie-veut-connaitre-les-intentions-des-europeens-avant-de-les-laisser-participer-aux-pourparlers_8280860.html": "2026-11-13T11:08:54.708843+00:00",
-  "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/paraguay-les-epargnants-partiellement-rembourses_8280779.html": "2026-11-13T11:08:54.708843+00:00",
   "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/la-tres-contestee-methode-anti-gangs-du-president-salvadorien-bukele-porte-ses-premiers-fruits-en-haiti_8259701.html": "2026-11-13T11:08:54.708843+00:00",
   "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/avoir-un-chien-divise-par-deux-le-risque-de-maladies-comme-alzheimer-selon-des-chercheurs-japonais_8259698.html": "2026-11-13T11:08:54.708843+00:00",
   "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/melenchon-interdit-d-entree-en-israel-suppressions-de-postes-dans-la-fonction-publique-le-smic-et-les-salaires-le-8h30-franceinfo-d-elisabeth-borne_8259692.html": "2026-11-13T11:08:54.708843+00:00",
   "https://www.franceinfo.fr/replay-radio/le-monde-et-vous/la-suede-ouvre-la-voie-a-la-decheance-de-nationalite-pour-certains-binationaux_8259659.html": "2026-11-13T11:08:54.708843+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-russie-affirme-avoir-abattu-1-198-drones-ukrainiens-dans-la-nuit-de-jeudi-a-vendredi_8280572.html": "2026-11-13T11:08:54.708843+00:00",
   "https://www.franceinfo.fr/monde/europe/allemagne/faut-il-reconstruire-le-nid-d-aigle-cet-endroit-prise-d-adolf-hitler-et-des-nazis-apres-l-incendie-qui-l-a-ravage_8279987.html": "2026-11-13T11:08:54.708843+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/a-suivre-loic-de-la-mornais-ukraine-poutine-l-inflexible_8280491.html": "2026-11-13T11:08:54.708843+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/kiev-et-washington-affirment-que-les-europeens-seront-presents-aux-prochaines-negociations-sur-l-ukraine_8280449.html": "2026-11-13T11:08:54.708843+00:00",
   "https://www.franceinfo.fr/sports/hockey-sur-glace/boycott-refus-d-octroyer-des-visas-jusqu-ou-peuvent-aller-les-opposants-a-la-reintegration-des-hockeyeurs-russes-dans-les-championnats-du-monde_8279339.html": "2026-11-13T11:08:54.708843+00:00",
-  "https://www.franceinfo.fr/elections/presidentielle/on-cree-de-la-proximite-comment-la-france-insoumise-s-inspire-de-la-campagne-presidentielle-de-lula-sur-les-reseaux-sociaux_8279390.html": "2026-11-13T11:08:54.708843+00:00"
+  "https://www.franceinfo.fr/elections/presidentielle/on-cree-de-la-proximite-comment-la-france-insoumise-s-inspire-de-la-campagne-presidentielle-de-lula-sur-les-reseaux-sociaux_8279390.html": "2026-11-13T11:08:54.708843+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-le-systeme-satellitaire-militaire-americain-starshield-a-nouveau-perturbe-annonce-volodymyr-zelensky_8281142.html": "2026-11-13T19:48:30.039536+00:00",
+  "https://www.franceinfo.fr/monde/inde/des-elephants-sement-la-terreur-en-inde_8281397.html": "2026-11-13T19:48:30.039536+00:00",
+  "https://www.franceinfo.fr/economie/commerce/commerce-en-ligne-l-europe-en-guerre-contre-les-dark-patterns_8281340.html": "2026-11-13T19:48:30.039536+00:00",
+  "https://www.franceinfo.fr/environnement/energie/energies-fossiles/l-agence-internationale-de-l-energie-prevoit-que-l-offre-mondiale-de-petrole-va-depasser-la-demande-en-fin-d-annee_8281379.html": "2026-11-13T19:48:30.039536+00:00",
+  "https://www.franceinfo.fr/monde/russie/la-chroniqueuse-pro-kremlin-xenia-fedorova-juge-la-diplomatie-russe-plus-mesuree-que-l-etat-francais_8281559.html": "2026-11-13T19:48:30.039536+00:00",
+  "https://www.franceinfo.fr/politique/marine-le-pen/si-je-peux-le-rencontrer-a-bruxelles-je-le-dirai-a-l-ambassadeur-d-ukraine-marine-le-pen-se-dit-prete-a-echanger-avec-volodymyr-zelensky_8281529.html": "2026-11-13T19:48:30.039536+00:00",
+  "https://www.franceinfo.fr/internet/nvidia/direct-chine-dans-les-secrets-des-nouveaux-maitres-espions-suivez-le-documentaire-de-franceinfo-apres-le-scandale-nvidia_8281100.html": "2026-11-13T19:48:30.039536+00:00",
+  "https://www.franceinfo.fr/internet/drones/1200-drones-ukrainiens-attaquent-la-russie_8281253.html": "2026-11-13T19:48:30.039536+00:00",
+  "https://www.franceinfo.fr/monde/europe/on-a-vraiment-un-air-pur-on-pense-que-les-odeurs-sont-vraiment-incroyables-l-archipel-de-turku-en-finlande-recrute-un-nez_8281274.html": "2026-11-13T19:48:30.039536+00:00",
+  "https://www.franceinfo.fr/monde/russie/la-russie-visee-par-une-attaque-de-drones-massive_8281175.html": "2026-11-13T19:48:30.039536+00:00",
+  "https://www.franceinfo.fr/replay-radio/complorama/podcast-la-fin-de-10-ans-de-post-verite_8279000.html": "2026-11-13T19:48:30.039536+00:00",
+  "https://www.franceinfo.fr/internet/nvidia/recit-des-premieres-revelations-a-la-chute-du-pdg-de-nvidia-comment-une-affaire-d-adultere-provoque-un-seisme-dans-le-secteur-de-l-ia_8280752.html": "2026-11-13T19:48:30.039536+00:00",
+  "https://www.franceinfo.fr/internet/intelligence-artificielle/le-patron-de-mistral-ai-arthur-mensch-appelle-l-europe-a-agir-maintenant-pour-rester-dans-la-course-en-matiere-d-intelligence-artificielle_8281193.html": "2026-11-13T19:48:30.039536+00:00",
+  "https://www.franceinfo.fr/monde/palestine/gaza/je-ne-demande-pas-l-impossible-juste-etre-en-bonne-sante-et-vivre-a-gaza-des-habitants-craignent-de-mourir-du-diabete_8280014.html": "2026-11-13T19:48:30.039536+00:00",
+  "https://www.franceinfo.fr/environnement/en-norvege-la-cour-supreme-invalide-trois-licences-petrolieres-en-mer-du-nord-contestees-par-les-ecologistes_8281109.html": "2026-11-13T19:48:30.039536+00:00",
+  "https://www.franceinfo.fr/culture/livres/les-cendres-de-l-ecrivain-miguel-angel-asturias-mort-en-1974-sont-arrivees-au-guatemala_8280740.html": "2026-11-13T19:48:30.039536+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "• Direct Guerre en Ukraine : la Russie veut connaître les \"intentions\" des Européens avant de les laisser participer aux pourparlers La cheffe de la diplomatie de l'Union européenne a de son côté exclu vendredi que la Russie ait son mot à dire pour choisir les représentants européens pour de futures négociations. Aujourd'hui • Direct",
+   "title": "Guerre en Ukraine : le système satellitaire militaire américain Starshield à nouveau perturbé, annonce Volodymyr Zelensky Selon Kiev, les terminaux Starshield cessent actuellement d'émettre au-delà d'une vitesse de déplacement de 160 km/h, comme cela avait déjà été observé en octobre. L'Ukraine avait alors dénoncé les conséquences de ces perturbations sur la défense antiaérienne. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-le-systeme-satellitaire-militaire-americain-starshield-a-nouveau-perturbe-annonce-volodymyr-zelensky_8281142.html",
+   "summary": "Guerre en Ukraine : le système satellitaire militaire américain Starshield à nouveau perturbé, annonce Volodymyr Zelensky",
+   "image": "https://www.franceinfo.fr/pictures/4FIxbs5rwLZ5SyKHZIB2xiUJtgQ/0x0:992x682/432x297/filters:format(jpg)/2026/11/13/6af716c23cc81367792238.jpg",
+   "date": null,
+   "pubdate": "2026-11-13T19:48:30.039536+00:00"
+  },
+  {
+   "title": "Des éléphants sèment la terreur en Inde Aujourd'hui 2:45 vidéo 2 minutes 45",
+   "link": "https://www.franceinfo.fr/monde/inde/des-elephants-sement-la-terreur-en-inde_8281397.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/IKeeKlM03gHat1SLjJ8SBYGyF_I/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/13/6af73c8345a96413478553.jpg",
+   "date": null,
+   "pubdate": "2026-11-13T19:48:30.039536+00:00"
+  },
+  {
+   "title": "Commerce en ligne : l’Europe en guerre contre les “dark patterns“ Aujourd'hui 1:52 vidéo 1 minute 52",
+   "link": "https://www.franceinfo.fr/economie/commerce/commerce-en-ligne-l-europe-en-guerre-contre-les-dark-patterns_8281340.html",
+   "summary": "Commerce en ligne : l’Europe en guerre contre les “dark patterns“",
+   "image": "https://www.franceinfo.fr/pictures/ETazAHaT5RqBIylwyYTRI54m2MU/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/13/6af734c8d09f2589004201.jpg",
+   "date": null,
+   "pubdate": "2026-11-13T19:48:30.039536+00:00"
+  },
+  {
+   "title": "L'Agence internationale de l'énergie prévoit que l'offre mondiale de pétrole va dépasser la demande en fin d'année Aujourd'hui",
+   "link": "https://www.franceinfo.fr/environnement/energie/energies-fossiles/l-agence-internationale-de-l-energie-prevoit-que-l-offre-mondiale-de-petrole-va-depasser-la-demande-en-fin-d-annee_8281379.html",
+   "summary": "L'Agence internationale de l'énergie prévoit que l'offre mondiale de pétrole va dépasser la demande en fin d'année",
+   "image": "https://www.franceinfo.fr/pictures/f7PqgUHqj5AKzaTKc4RLJ-hQMOQ/0x450:8640x5310/432x243/filters:format(jpg)/2026/11/13/6af73e322ae75303747468.jpg",
+   "date": null,
+   "pubdate": "2026-11-13T19:48:30.039536+00:00"
+  },
+  {
+   "title": "La chroniqueuse pro-Kremlin Xenia Fedorova juge l'interdiction de territoire infligée par la Russie à deux députés et deux journalistes français \"plus mesurée\" que son expulsion par la France Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/russie/la-chroniqueuse-pro-kremlin-xenia-fedorova-juge-la-diplomatie-russe-plus-mesuree-que-l-etat-francais_8281559.html",
+   "summary": "La chroniqueuse pro-Kremlin Xenia Fedorova juge l'interdiction de territoire infligée par la Russie à deux députés et deux journalistes français \"plus mesurée\" que son expulsion par la France",
+   "image": "https://www.franceinfo.fr/pictures/SBpL5YdIL18LnXVBTka9xewrwf8/0x53:1024x629/432x243/filters:format(jpg)/2026/11/13/6af7537e9f9ba431417805.jpg",
+   "date": null,
+   "pubdate": "2026-11-13T19:48:30.039536+00:00"
+  },
+  {
+   "title": "Marine Le Pen se dit prête à rencontrer le président ukrainien Volodymyr Zelensky à Bruxelles Aujourd'hui",
+   "link": "https://www.franceinfo.fr/politique/marine-le-pen/si-je-peux-le-rencontrer-a-bruxelles-je-le-dirai-a-l-ambassadeur-d-ukraine-marine-le-pen-se-dit-prete-a-echanger-avec-volodymyr-zelensky_8281529.html",
+   "summary": "Marine Le Pen se dit prête à rencontrer le président ukrainien Volodymyr Zelensky à Bruxelles",
+   "image": "https://www.franceinfo.fr/pictures/_bttZ5-qBe7o3KVLxIoXociZ0es/0x26:1024x602/432x243/filters:format(jpg)/2026/11/13/6af74ee18e839084486683.jpg",
+   "date": null,
+   "pubdate": "2026-11-13T19:48:30.039536+00:00"
+  },
+  {
+   "title": "• Direct \"Chine, dans les secrets des nouveaux maîtres-espions\" : suivez le documentaire de franceinfo après le scandale Nvidia Aujourd'hui • Direct 45:00 vidéo 45 minutes",
+   "link": "https://www.franceinfo.fr/internet/nvidia/direct-chine-dans-les-secrets-des-nouveaux-maitres-espions-suivez-le-documentaire-de-franceinfo-apres-le-scandale-nvidia_8281100.html",
+   "summary": "\"Chine, dans les secrets des nouveaux maîtres-espions\" : suivez le documentaire de franceinfo après le scandale Nvidia",
+   "image": "https://www.franceinfo.fr/pictures/Q-P_5K1oX9iPHDxzeQf_pivCdSs/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/13/6af7100ff3770695411811.png",
+   "date": null,
+   "pubdate": "2026-11-13T19:48:30.039536+00:00"
+  },
+  {
+   "title": "1200 drones ukrainiens attaquent la Russie Aujourd'hui 1:10 vidéo 1 minute 10",
+   "link": "https://www.franceinfo.fr/internet/drones/1200-drones-ukrainiens-attaquent-la-russie_8281253.html",
+   "summary": "1200 drones ukrainiens attaquent la Russie",
+   "image": "https://www.franceinfo.fr/pictures/5ojlbynzT-qWPA1lXTcl-MZE9Hg/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/13/6af72a69db913353850842.jpg",
+   "date": null,
+   "pubdate": "2026-11-13T19:48:30.039536+00:00"
+  },
+  {
+   "title": "\"On a vraiment un air pur, on pense que les odeurs sont vraiment incroyables\" : l'archipel de Turku en Finlande recrute un nez Aujourd'hui 3:24 vidéo 3 minutes 24",
+   "link": "https://www.franceinfo.fr/monde/europe/on-a-vraiment-un-air-pur-on-pense-que-les-odeurs-sont-vraiment-incroyables-l-archipel-de-turku-en-finlande-recrute-un-nez_8281274.html",
+   "summary": "\"On a vraiment un air pur, on pense que les odeurs sont vraiment incroyables\" : l'archipel de Turku en Finlande recrute un nez",
+   "image": "https://www.franceinfo.fr/pictures/MwF2KuGeF97jagtYoEp014cRsiY/0x6:1341x761/432x243/filters:format(jpg)/2026/11/13/6af731a8732dc911825717.jpg",
+   "date": null,
+   "pubdate": "2026-11-13T19:48:30.039536+00:00"
+  },
+  {
+   "title": "La Russie visée par une attaque de drones massive Aujourd'hui 1:32 vidéo 1 minute 32",
+   "link": "https://www.franceinfo.fr/monde/russie/la-russie-visee-par-une-attaque-de-drones-massive_8281175.html",
+   "summary": "La Russie visée par une attaque de drones massive",
+   "image": "https://www.franceinfo.fr/pictures/qJJ4dlCIrLwCKBbAjGoZ3m0erTM/102x0:1451x759/432x243/filters:format(jpg)/2026/11/13/6af7283033c39346322772.jpg",
+   "date": null,
+   "pubdate": "2026-11-13T19:48:30.039536+00:00"
+  },
+  {
+   "title": ": Podcast La fin de 10 ans de post-vérité ? Rudy Reichstadt et Tristan Mendès France décryptent, dans ce nouvel épisode de Complorama, ces dix dernières années marquées par la post-vérité. Aujourd'hui : Podcast 23:45 audio 23 minutes 45",
+   "link": "https://www.franceinfo.fr/replay-radio/complorama/podcast-la-fin-de-10-ans-de-post-verite_8279000.html",
+   "summary": "Rudy Reichstadt et Tristan Mendès France décryptent, dans ce nouvel épisode de Complorama, ces dix dernières années marquées par la post-vérité.",
+   "image": "https://www.franceinfo.fr/pictures/rjNaE_5Fa6T-jB-0rjFmeJXx770/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/13/6af712e503957235327451.jpg",
+   "date": null,
+   "pubdate": "2026-11-13T19:48:30.039536+00:00"
+  },
+  {
+   "title": ": Récit Des premières révélations à la chute du PDG de Nvidia, comment une affaire d'adultère provoque un séisme dans le secteur de l'IA Jensen Huang, l'emblématique patron du géant des puces électroniques, a quitté son poste jeudi. Il n'a pas résisté au scandale lié à ses relations extraconjugales, dont sa liaison avec Alice Huang, une dirigeante d'entreprise accusée d'espionnage industriel pour la Chine. Aujourd'hui : Récit",
+   "link": "https://www.franceinfo.fr/internet/nvidia/recit-des-premieres-revelations-a-la-chute-du-pdg-de-nvidia-comment-une-affaire-d-adultere-provoque-un-seisme-dans-le-secteur-de-l-ia_8280752.html",
+   "summary": "Des premières révélations à la chute du PDG de Nvidia, comment une affaire d'adultère provoque un séisme dans le secteur de l'IA",
+   "image": "https://www.franceinfo.fr/pictures/ZPKyOonYQjhlMEznvbpsmTtkLlM/0x0:1024x576/432x243/filters:format(jpg)/2026/11/13/6af6dd6862607518184331.jpg",
+   "date": null,
+   "pubdate": "2026-11-13T19:48:30.039536+00:00"
+  },
+  {
+   "title": "Le patron de Mistral AI, Arthur Mensch, appelle l'Europe à \"agir maintenant\" pour rester dans la course en matière d'intelligence artificielle \"Les décisions prises au cours des deux prochaines années façonneront ce secteur pour la décennie à venir\", a déclaré le Français devant des dirigeants des Vingt-Sept lors du premier sommet de l'Union européenne consacré à l'IA, organisé à Dublin. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/internet/intelligence-artificielle/le-patron-de-mistral-ai-arthur-mensch-appelle-l-europe-a-agir-maintenant-pour-rester-dans-la-course-en-matiere-d-intelligence-artificielle_8281193.html",
+   "summary": "Le patron de Mistral AI, Arthur Mensch, appelle l'Europe à \"agir maintenant\" pour rester dans la course en matière d'intelligence artificielle",
+   "image": "https://www.franceinfo.fr/pictures/R3oWctJTX0P_-alHsAzapzD3PUA/382x64:1024x425/432x243/filters:format(jpg)/2026/11/13/6af720c0ad7fd736967661.jpg",
+   "date": null,
+   "pubdate": "2026-11-13T19:48:30.039536+00:00"
+  },
+  {
+   "title": "\"Je ne demande pas l'impossible, juste être en bonne santé et vivre\" : à Gaza, des habitants craignent de mourir du diabète Après un nouveau bombardement à Gaza, jeudi, le Conseil de paix a encore appelé à la mise en œuvre immédiate du plan d'après-guerre prévu par Donald Trump à Gaza. Les médicaments manquent et on commence à observer de fortes détériorations de santé à cause du diabète. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/palestine/gaza/je-ne-demande-pas-l-impossible-juste-etre-en-bonne-sante-et-vivre-a-gaza-des-habitants-craignent-de-mourir-du-diabete_8280014.html",
+   "summary": "\"Je ne demande pas l'impossible, juste être en bonne santé et vivre\" : à Gaza, des habitants craignent de mourir du diabète",
+   "image": "https://www.franceinfo.fr/pictures/2MuoD2mxPZ0pVznjOeSw-zPX_e0/0x53:1024x629/432x243/filters:format(jpg)/2026/11/12/6af622f14ee90780485777.jpg",
+   "date": null,
+   "pubdate": "2026-11-13T19:48:30.039536+00:00"
+  },
+  {
+   "title": "En Norvège, la Cour suprême invalide trois licences pétrolières en mer du Nord, contestées par les écologistes Pour les juges, \"les études d'impact environnemental et les évaluations réalisées par les autorités étaient insuffisantes\". Aujourd'hui",
+   "link": "https://www.franceinfo.fr/environnement/en-norvege-la-cour-supreme-invalide-trois-licences-petrolieres-en-mer-du-nord-contestees-par-les-ecologistes_8281109.html",
+   "summary": "En Norvège, la Cour suprême invalide trois licences pétrolières en mer du Nord, contestées par les écologistes",
+   "image": "https://www.franceinfo.fr/pictures/B4jQlnCr1w0wkiDF5iSBvXbJzlg/0x0:1024x576/432x243/filters:format(jpg)/2026/11/13/6af710e364cb5728172376.jpg",
+   "date": null,
+   "pubdate": "2026-11-13T19:48:30.039536+00:00"
+  },
+  {
+   "title": "Les cendres de l'écrivain Miguel Angel Asturias, mort en 1974, sont arrivées au Guatemala Ramenées de France où reposait l'ancien lauréat du prix Nobel de littérature, les cendres doivent être inhumées dans le principal complexe culturel du pays, qui porte le nom de l'écrivain. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/culture/livres/les-cendres-de-l-ecrivain-miguel-angel-asturias-mort-en-1974-sont-arrivees-au-guatemala_8280740.html",
+   "summary": "Les cendres de l'écrivain Miguel Angel Asturias, mort en 1974, sont arrivées au Guatemala",
+   "image": "https://www.franceinfo.fr/pictures/VMfcrL1RaBAaWz6QMt76G2VU3y0/0x93:2400x1443/432x243/filters:format(jpg)/2026/11/13/6af6e14aa41e8600143005.jpg",
+   "date": null,
+   "pubdate": "2026-11-13T19:48:30.039536+00:00"
+  },
+  {
+   "title": "• Direct Guerre en Ukraine : les Européens veulent être représentés par cinq pays, dont la France, lors des prochaines négociations Ce format a été annoncé par le président du Conseil européen, vendredi à l'issue d'un sommet à Dublin. Mais Moscou a semé le doute en assurant n'avoir nullement levé son veto sur la présence des Européens. Aujourd'hui • Direct",
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-la-russie-veut-connaitre-les-intentions-des-europeens-avant-de-les-laisser-participer-aux-pourparlers_8280860.html",
-   "summary": "Guerre en Ukraine : la Russie veut connaître les \"intentions\" des Européens avant de les laisser participer aux pourparlers",
-   "image": "https://www.franceinfo.fr/pictures/Qn764DnpQ5ISOIag0eBlnYTxi4U/32x0:1024x682/432x297/filters:format(jpg)/2026/11/13/6af6ea34145ad858070166.jpg",
+   "summary": "Guerre en Ukraine : les Européens veulent être représentés par cinq pays, dont la France, lors des prochaines négociations",
+   "image": "https://www.franceinfo.fr/pictures/3uS0yqM48mI1rPF8z1IwxLq7oxY/0x0:1024x576/432x243/filters:format(jpg)/2026/11/13/6af7620ec1844604908214.jpg",
    "date": null,
    "pubdate": "2026-11-13T11:08:54.708843+00:00"
   },
   {
-   "title": "Crise bancaire au Paraguay : les épargnants partiellement remboursés Aujourd'hui 1:46 vidéo 1 minute 46",
-   "link": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/paraguay-les-epargnants-partiellement-rembourses_8280779.html",
-   "summary": "Crise bancaire au Paraguay : les épargnants partiellement remboursés",
-   "image": "https://www.franceinfo.fr/pictures/kJIS3jm7B-eJmTi4vhtAFq9in3Y/150x0:1147x561/432x243/filters:format(jpg)/2026/11/13/6af6e2508d229481975095.png",
-   "date": null,
-   "pubdate": "2026-11-13T11:08:54.708843+00:00"
-  },
-  {
-   "title": "La très contestée méthode anti-gangs du président salvadorien Bukele porte ses premiers fruits en Haïti Aujourd'hui 2:28 audio 2 minutes 28",
+   "title": "La très contestée méthode anti-gangs du président salvadorien Bukele porte ses premiers fruits en Haïti La police de Port au Prince annonce vendredi matin avoir repris le contrôle du stade national de football, occupé depuis deux ans par un gang. Un symbole fort. Les autorités haïtiennes mènent une guerre depuis plus de 30 ans contre la criminalité en vain. Les forces salvadoriennes envoyé en renfort ont obtenu des résultats en à peine 15 jours. Aujourd'hui 2:28 audio 2 minutes 28",
    "link": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/la-tres-contestee-methode-anti-gangs-du-president-salvadorien-bukele-porte-ses-premiers-fruits-en-haiti_8259701.html",
    "summary": "La très contestée méthode anti-gangs du président salvadorien Bukele porte ses premiers fruits en Haïti",
    "image": "https://www.franceinfo.fr/pictures/tmzFogClj0upfG7fstJImAJRDUg/0x0:4678x2631/432x243/filters:format(jpg)/2026/11/13/6af6d6c452d8e843074347.jpg",
@@ -57,7 +180,7 @@
    "pubdate": "2026-11-13T11:08:54.708843+00:00"
   },
   {
-   "title": "Avoir un chien divise par deux le risque de maladies comme Alzheimer, selon des chercheurs japonais Aujourd'hui 2:22 audio 2 minutes 22",
+   "title": "Avoir un chien divise par deux le risque de maladies comme Alzheimer, selon des chercheurs japonais Pour faire des économies dans les dépenses de santé, la solution est-elle de donner un chiot à tout le monde ? Des scientifiques japonais ont scruté pendant plus de sept ans un échantillon de la population. Et les résultats démontre que s'occuper d'un chien est un vrai exercice pour le cerveau. Aujourd'hui 2:22 audio 2 minutes 22",
    "link": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/avoir-un-chien-divise-par-deux-le-risque-de-maladies-comme-alzheimer-selon-des-chercheurs-japonais_8259698.html",
    "summary": "Avoir un chien divise par deux le risque de maladies comme Alzheimer, selon des chercheurs japonais",
    "image": "https://www.franceinfo.fr/pictures/THQTpzjab29XDKOAm2biPF9_x2k/0x53:1024x629/432x243/filters:format(jpg)/2026/11/13/6af6b48d666c1909658985.jpg",
@@ -65,15 +188,7 @@
    "pubdate": "2026-11-13T11:08:54.708843+00:00"
   },
   {
-   "title": "Mélenchon interdit d'entrée en Israël, suppressions de postes dans la Fonction publique, le smic et les salaires... Le \"8h30 franceinfo\" d'Élisabeth Borne Aujourd'hui 22:59 audio 22 minutes 59",
-   "link": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/melenchon-interdit-d-entree-en-israel-suppressions-de-postes-dans-la-fonction-publique-le-smic-et-les-salaires-le-8h30-franceinfo-d-elisabeth-borne_8259692.html",
-   "summary": "Mélenchon interdit d'entrée en Israël, suppressions de postes dans la Fonction publique, le smic et les salaires... Le \"8h30 franceinfo\" d'Élisabeth Borne",
-   "image": "https://www.franceinfo.fr/pictures/Km0_OSqY64-Cv8vn0afv8BufY-A/168x0:1086x516/432x243/filters:format(jpg)/2026/11/13/6af6c3afaad04854087773.jpg",
-   "date": null,
-   "pubdate": "2026-11-13T11:08:54.708843+00:00"
-  },
-  {
-   "title": "La Suède ouvre la voie à la déchéance de nationalité pour certains binationaux Aujourd'hui 2:37 audio 2 minutes 37",
+   "title": "La Suède ouvre la voie à la déchéance de nationalité pour certains binationaux Le Parlement suédois a adopté une révision constitutionnelle permettant, à terme, de retirer la nationalité à certains citoyens possédant un autre passeport. Une réforme soutenue par la droite et les sociaux-démocrates, mais dénoncée par ses opposants, qui craignent la création de deux catégories de citoyens. Aujourd'hui 2:37 audio 2 minutes 37",
    "link": "https://www.franceinfo.fr/replay-radio/le-monde-et-vous/la-suede-ouvre-la-voie-a-la-decheance-de-nationalite-pour-certains-binationaux_8259659.html",
    "summary": "La Suède ouvre la voie à la déchéance de nationalité pour certains binationaux",
    "image": "https://www.franceinfo.fr/pictures/jQ7xOLG6NM_sojSpRwx6uRNiK_w/0x44:1024x620/432x243/filters:format(jpg)/2026/11/13/6af6c04a304b0965913418.jpg",
@@ -81,15 +196,15 @@
    "pubdate": "2026-11-13T11:08:54.708843+00:00"
   },
   {
-   "title": "La Russie affirme avoir abattu 1 198 drones ukrainiens dans la nuit de jeudi à vendredi et fait état de quatre morts dans la région de Volgograd Aujourd'hui",
+   "title": "La Russie affirme avoir abattu 1 198 drones ukrainiens dans la nuit de jeudi à vendredi et fait état de neuf morts Il s'agit d'une des attaques les plus importantes ayant visé le territoire russe depuis le début de la guerre. Les autorités ukrainiennes ont de leur côté fait état d'une nouvelle nuit de frappes russes qui ont fait trois morts et causé d'importants dégâts dans plusieurs régions du pays. Aujourd'hui",
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-russie-affirme-avoir-abattu-1-198-drones-ukrainiens-dans-la-nuit-de-jeudi-a-vendredi_8280572.html",
-   "summary": "La Russie affirme avoir abattu 1 198 drones ukrainiens dans la nuit de jeudi à vendredi et fait état de quatre morts dans la région de Volgograd",
+   "summary": "La Russie affirme avoir abattu 1 198 drones ukrainiens dans la nuit de jeudi à vendredi et fait état de neuf morts",
    "image": "https://www.franceinfo.fr/pictures/UtG9kCIYbkL4g2IYT-rH_aIiD7w/0x53:1024x629/432x243/filters:format(jpg)/2026/11/13/6af6bc6a2b5d3790482769.jpg",
    "date": null,
    "pubdate": "2026-11-13T11:08:54.708843+00:00"
   },
   {
-   "title": "Faut-il reconstruire le \"nid d'aigle\", cet endroit prisé d'Adolf Hitler et des nazis, après l'incendie qui l'a ravagé ? Aujourd'hui",
+   "title": "Faut-il reconstruire le \"nid d'aigle\", cet endroit prisé d'Adolf Hitler et des nazis, après l'incendie qui l'a ravagé ? Faut-il détruire ou conserver les vestiges du nazisme ? Le débat agite une nouvelle fois la société allemande, après un incendie survenu fin octobre, qui a détruit le célèbre chalet, près de la frontière autrichienne, ayant servi de lieu de réception aux dignitaires nazis. Aujourd'hui",
    "link": "https://www.franceinfo.fr/monde/europe/allemagne/faut-il-reconstruire-le-nid-d-aigle-cet-endroit-prise-d-adolf-hitler-et-des-nazis-apres-l-incendie-qui-l-a-ravage_8279987.html",
    "summary": "Faut-il reconstruire le \"nid d'aigle\", cet endroit prisé d'Adolf Hitler et des nazis, après l'incendie qui l'a ravagé ?",
    "image": "https://www.franceinfo.fr/pictures/09y4yW3sCDcj22dFNTqEzLEFGbI/0x95:1024x671/432x243/filters:format(jpg)/2026/11/12/6af61bced9581178331837.jpg",
@@ -97,15 +212,7 @@
    "pubdate": "2026-11-13T11:08:54.708843+00:00"
   },
   {
-   "title": "A suivre Loïc de la Mornais : Ukraine, Poutine l'inflexible ? Aujourd'hui 18:55 vidéo 18 minutes 55",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/a-suivre-loic-de-la-mornais-ukraine-poutine-l-inflexible_8280491.html",
-   "summary": "A suivre Loïc de la Mornais : Ukraine, Poutine l'inflexible ?",
-   "image": "https://www.franceinfo.fr/pictures/XWFHce7EI5U0o2CdRGAfTPyuNGo/0x0:1498x843/432x243/filters:format(jpg)/2026/11/13/6af6a68239fa2910331578.jpg",
-   "date": null,
-   "pubdate": "2026-11-13T11:08:54.708843+00:00"
-  },
-  {
-   "title": "L'Ukraine, les Etats-Unis et l'UE affirment que les Européens seront présents lors des prochaines négociations pour mettre fin à la guerre, la Russie ne commente pas Aujourd'hui",
+   "title": "L'Ukraine, les Etats-Unis et l'UE affirment que les Européens seront présents lors des prochaines négociations pour mettre fin à la guerre, la Russie ne commente pas Le Kremlin n'a pas confirmé que Vladimir Poutine avait accepté d'inclure l'Europe dans de futurs pourparlers de paix. Aujourd'hui",
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/kiev-et-washington-affirment-que-les-europeens-seront-presents-aux-prochaines-negociations-sur-l-ukraine_8280449.html",
    "summary": "L'Ukraine, les Etats-Unis et l'UE affirment que les Européens seront présents lors des prochaines négociations pour mettre fin à la guerre, la Russie ne commente pas",
    "image": "https://www.franceinfo.fr/pictures/HiGB-f2vjBYHpKyG-hbVlz0JKBk/0x0:1024x576/432x243/filters:format(jpg)/2026/11/13/6af6a2c7e8180362494975.jpg",
@@ -129,68 +236,20 @@
    "pubdate": "2026-11-13T11:08:54.708843+00:00"
   },
   {
+   "title": "Mélenchon interdit d'entrée en Israël, suppressions de postes dans la Fonction publique, le smic et les salaires... Le \"8h30 franceinfo\" d'Élisabeth Borne Élisabeth Borne, ancienne Première ministre, députée Renaissance du Calvados, est l'invitée du \"8h30 franceinfo\" le 13 novembre 2026. Aujourd'hui 22:59 audio 22 minutes 59",
+   "link": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/melenchon-interdit-d-entree-en-israel-suppressions-de-postes-dans-la-fonction-publique-le-smic-et-les-salaires-le-8h30-franceinfo-d-elisabeth-borne_8259692.html",
+   "summary": "Mélenchon interdit d'entrée en Israël, suppressions de postes dans la Fonction publique, le smic et les salaires... Le \"8h30 franceinfo\" d'Élisabeth Borne",
+   "image": "https://www.franceinfo.fr/pictures/Km0_OSqY64-Cv8vn0afv8BufY-A/168x0:1086x516/432x243/filters:format(jpg)/2026/11/13/6af6c3afaad04854087773.jpg",
+   "date": "2026-11-13T11:00:00+00:00",
+   "pubdate": "2026-11-13T11:00:00+00:00"
+  },
+  {
    "title": "\"Déjà 12 ou 13 personnes dans le village ont été tuées\" : en Inde, les tensions territoriales entre habitants et éléphants sauvages font des centaines de morts chaque année 6:21 vidéo 6 minutes 21",
    "link": "https://www.franceinfo.fr/environnement/biodiversite/animaux/deja-12-ou-13-personnes-dans-le-village-qui-ont-ete-tuees-en-inde-les-tensions-territoriales-entre-habitants-et-elephants-sauvages-font-des-centaines-de-morts-chaque-annee_8280089.html",
    "summary": "\"Déjà 12 ou 13 personnes dans le village ont été tuées\" : en Inde, les tensions territoriales entre habitants et éléphants sauvages font des centaines de morts chaque année",
    "image": "https://www.franceinfo.fr/pictures/ciAD_XHXWtfFpmhEWMsfEI-RlpY/0x22:1116x650/432x243/filters:format(jpg)/2026/11/12/6af6341c8db2f361371949.jpg",
    "date": null,
    "pubdate": "2026-11-13T01:53:47.553877+00:00"
-  },
-  {
-   "title": "Guerre en Ukraine : face aux émissaires américains, Vladimir Poutine refuse la possibilité d'établir des \"zones grises\" Le président russe a de nouveau qualifié \"d'absolument inacceptable\" l'hypothèse d'un déploiement de troupes étrangères en Ukraine, demandé par Kiev comme garantie de sécurité pour éviter une reprise du conflit. Aujourd'hui",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-vladimir-poutine-refuse-la-possibilite-d-etablir-des-zones-grises-face-aux-emissaires-americains_8280119.html",
-   "summary": "Guerre en Ukraine : face aux émissaires américains, Vladimir Poutine refuse la possibilité d'établir des \"zones grises\"",
-   "image": "https://www.franceinfo.fr/pictures/MD0oRZseZBnROWDzwRe5h63_SUs/0x0:1024x576/432x243/filters:format(jpg)/2026/11/12/6af5f6e6f1738040501589.jpg",
-   "date": null,
-   "pubdate": "2026-11-13T01:53:47.553877+00:00"
-  },
-  {
-   "title": "Une quarantaine de pays européens inscrivent leurs \"principes-clés\" de sécurité dans une \"charte\" Cette déclaration, qui a été adoptée jeudi par 39 Etats, dont la France, l'Allemagne, le Royaume-Uni et l'Ukraine, acte \"la nécessité d'un sursaut de cette Europe large\", a estimé Emmanuel Macron. 12 novembre",
-   "link": "https://www.franceinfo.fr/monde/europe/une-quarantaine-de-pays-europeens-inscrivent-leurs-principes-cles-de-securite-dans-une-charte_8280113.html",
-   "summary": "Une quarantaine de pays européens inscrivent leurs \"principes-clés\" de sécurité dans une \"charte\"",
-   "image": "https://www.franceinfo.fr/pictures/mkyLJftqaMJJPSSermjMTJZVriI/0x0:1024x576/432x243/filters:format(jpg)/2026/11/12/6af63c319d965953775904.jpg",
-   "date": null,
-   "pubdate": "2026-11-13T01:53:47.553877+00:00"
-  },
-  {
-   "title": "La Norvège va interdire aux athlètes russes de participer à des compétitions sur son territoire Le sport de haut niveau russe entretient des liens étroits avec les autorités et ne peut donc pas être \"considéré indépendamment\" de la guerre en Ukraine, justifie le gouvernement norvégien. 12 novembre",
-   "link": "https://www.franceinfo.fr/monde/norvege/la-norvege-va-interdire-aux-athletes-russes-de-participer-a-des-competitions-sur-son-territoire_8280068.html",
-   "summary": "La Norvège va interdire aux athlètes russes de participer à des compétitions sur son territoire",
-   "image": "https://www.franceinfo.fr/pictures/8n0_7bZcqyGq8Lc68KaW1-sc5uA/0x53:1024x629/432x243/filters:format(jpg)/2026/11/12/6af62c9116ada678795759.jpg",
-   "date": null,
-   "pubdate": "2026-11-13T01:53:47.553877+00:00"
-  },
-  {
-   "title": "La Hongrie va ratifier la Convention d’Istanbul, qui lutte contre les violences faites aux femmes Le Premier ministre, Péter Magyar, a aussi annoncé la suppression d'une réglementation hongroise qui obligeait les femmes à écouter les battements du cœur de leur fœtus avant un avortement. 12 novembre",
-   "link": "https://www.franceinfo.fr/societe/droits-des-femmes/la-hongrie-va-ratifier-la-convention-d-istanbul-qui-lutte-contre-les-violences-faites-aux-femmes_8280047.html",
-   "summary": "La Hongrie va ratifier la Convention d’Istanbul, qui lutte contre les violences faites aux femmes",
-   "image": "https://www.franceinfo.fr/pictures/YuDSiHa0A-A3olrgiIWg55OQXKU/0x73:1024x649/432x243/filters:format(jpg)/2026/11/12/6af628c558d14615548423.jpg",
-   "date": null,
-   "pubdate": "2026-11-13T01:53:47.553877+00:00"
-  },
-  {
-   "title": "Des frappes israéliennes tuent au moins 11 personnes dans la bande de Gaza, le jour le plus meurtrier depuis les élections en Israël Une attaque a notamment ciblé l'hôpital Nasser à Khan Younès et fait six morts, selon la défense civile gazaouie. L'armée israélienne affirme avoir visé \"un haut responsable du Hamas\". 12 novembre",
-   "link": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/dans-la-bande-de-gaza-au-moins-11-personnes-sont-mortes-dans-des-frappes-israeliennes-jour-le-plus-meurtrier-depuis-les-elections-en-israel_8279927.html",
-   "summary": "Des frappes israéliennes tuent au moins 11 personnes dans la bande de Gaza, le jour le plus meurtrier depuis les élections en Israël",
-   "image": "https://www.franceinfo.fr/pictures/cfCguNIj4CJCrDmotrAELVa-6Qk/0x25:1024x601/432x243/filters:format(jpg)/2026/11/12/6af60802315fe543798304.jpg",
-   "date": null,
-   "pubdate": "2026-11-12T20:01:29.127757+00:00"
-  },
-  {
-   "title": "\"Je regrette que le gouvernement d'Israël me poursuive de cette manière\", dénonce Jean-Luc Mélenchon, interdit de territoire en Israël Israël a annoncé jeudi qu'il interdisait l'entrée sur son territoire au dirigeant de la France insoumise, imputant à sa formation une \"position extrêmement hostile à Israël\". 12 novembre",
-   "link": "https://www.franceinfo.fr/monde/israel/je-regrette-que-le-gouvernement-d-israel-me-poursuive-de-cette-maniere-denonce-jean-luc-melenchon-interdit-de-territoire-en-israel_8279831.html",
-   "summary": "\"Je regrette que le gouvernement d'Israël me poursuive de cette manière\", dénonce Jean-Luc Mélenchon, interdit de territoire en Israël",
-   "image": "https://www.franceinfo.fr/pictures/Ib1vEZQjYRAWucxW9IFayBxZTi8/34x0:1027x559/432x243/filters:format(jpg)/2026/11/12/6af5f7f0b5f05961176063.jpg",
-   "date": null,
-   "pubdate": "2026-11-12T20:01:29.127757+00:00"
-  },
-  {
-   "title": "Israël interdit à Jean-Luc Mélenchon et Mathilde Panot l'entrée sur son territoire, dénonçant \"la position anti-israélienne virulente\" de La France insoumise \"Je regrette que le gouvernement d'Israël me poursuive de cette manière\", a réagi Jean-Luc Mélenchon sur franceinfo, assurant qu'il ne changerait pas son discours sur le pays s'il était élu. 12 novembre",
-   "link": "https://www.franceinfo.fr/politique/la-france-insoumise/israel-interdit-a-jean-luc-melenchon-et-mathilde-panot-l-entree-sur-son-territoire-denoncant-la-position-extremement-anti-israelienne-de-la-france-insoumise_8279801.html",
-   "summary": "Israël interdit à Jean-Luc Mélenchon et Mathilde Panot l'entrée sur son territoire, dénonçant \"la position anti-israélienne virulente\" de La France insoumise",
-   "image": "https://www.franceinfo.fr/pictures/aU53GbvNofNNhEJi92PvrUdOuXQ/0x106:1024x682/432x243/filters:format(jpg)/2026/11/12/6af5f46aa7449465996574.jpg",
-   "date": null,
-   "pubdate": "2026-11-12T20:01:29.127757+00:00"
   },
   {
    "title": "Midterms 2026 : l'essentiel des élections de mi-mandat 28 contenus",
@@ -215,38 +274,6 @@
    "image": "https://www.franceinfo.fr/pictures/5UpfkX797QceR__PCjmJGqacvD4/0x598:5745x3830/432x243/filters:format(jpg)/2026/11/04/6aeb8737908e7222497953.jpg",
    "date": null,
    "pubdate": "2026-11-12T11:25:39.912149+00:00"
-  },
-  {
-   "title": ": Reportage \"Tout média jouissant d'une grande popularité doit être sous la coupe du Kremlin\" : comment Poutine a fait taire la presse indépendante en Russie : Reportage 6:00 article 6 minutes",
-   "link": "https://www.franceinfo.fr/monde/russie/reportage-tout-media-jouissant-d-une-grande-popularite-doit-etre-sous-la-coupe-du-kremlin-comment-poutine-a-fait-taire-la-presse-independante-en-russie_8274161.html",
-   "summary": "\"Tout média jouissant d'une grande popularité doit être sous la coupe du Kremlin\" : comment Poutine a fait taire la presse indépendante en Russie",
-   "image": "https://www.franceinfo.fr/pictures/wgLEq15ZaB2vlk03x5CnatBhoFI/0x0:2000x1125/432x243/filters:format(jpg)/2026/11/09/6af187cfcd335944895649.jpg",
-   "date": null,
-   "pubdate": "2026-11-12T00:48:11.591075+00:00"
-  },
-  {
-   "title": "Léon XIV en France : l'essentiel de la visite du pape 15 contenus",
-   "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/leon-xiv-en-france-retrouvez-l-essentiel/",
-   "summary": "Léon XIV en France : l'essentiel de la visite du pape",
-   "image": "https://www.franceinfo.fr/pictures/bgiweXyFgu0BUNMikE3oBZK0JG4/432x297/filters:format(jpg)/2026/09/24/6ab4f4233a728679965697.jpg",
-   "date": null,
-   "pubdate": "2026-11-11T06:36:46.730787+00:00"
-  },
-  {
-   "title": "L'essentiel des révélations sur l'affaire Epstein 14 contenus",
-   "link": "https://www.franceinfo.fr/monde/usa/affaire-jeffrey-epstein/l-essentiel-des-revelations-sur-l-affaire-epstein/",
-   "summary": "L'essentiel des révélations sur l'affaire Epstein",
-   "image": "https://www.franceinfo.fr/pictures/btENVL4vmQDLNvnJ4uUtTATvN9k/432x297/filters:format(jpg)/2026/02/12/000-96rl2gk-1-698def9a11d8a867290796.jpg",
-   "date": null,
-   "pubdate": "2026-11-11T06:36:46.730787+00:00"
-  },
-  {
-   "title": "Tout comprendre à la guerre au Moyen-Orient 27 contenus",
-   "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/tout-comprendre-a-la-guerre-au-moyen-orient/",
-   "summary": "Tout comprendre à la guerre au Moyen-Orient",
-   "image": "https://www.franceinfo.fr/pictures/1mjbL6KrEfhdf8kkM-fiwv8Aqs4/432x297/filters:format(jpg)/2026/03/01/075-nikoubazl-mourning260301-npgop-69a44a7350cd8738092334.jpg",
-   "date": null,
-   "pubdate": "2026-11-11T06:36:46.730787+00:00"
   }
  ]
 }

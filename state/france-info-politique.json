@@ -1,51 +1,142 @@
 {
- "etag": "\"b6f0f186ac1903e9fcadd48657bc54bb-gzip\"",
+ "etag": "\"30adf278e1e3f56718fd3f6bedc189f0-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/politique/grand-entretien-en-belgique-un-cordon-sanitaire-mediatique-empeche-toute-forme-de-banalisation-de-l-extreme-droite-un-outil-difficile-a-imaginer-en-france_8265599.html": "2026-11-04T17:19:31.505349+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-ce-serait-presque-drole-si-ca-ne-montait-pas-les-gens-les-uns-contre-les-autres-apres-l-incendie-de-la-mairie-de-limoges-le-plateau-de-millevaches-pointe-du-doigt-comme-un-bastion-de-l-ultragauche_8249923.html": "2026-11-06T06:56:06.440234+00:00",
   "https://www.franceinfo.fr/elections/quatre-choses-a-ne-pas-oublier-pour-faire-bon-usage-des-sondages-et-enquetes-d-opinion-en-periode-electorale_8270903.html": "2026-11-08T10:30:09.852050+00:00",
   "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/reportage-on-fait-croire-qu-ici-c-est-dangereux-apres-l-attentat-de-trappes-des-habitants-denoncent-un-acharnement-contre-leur-ville_8257315.html": "2026-11-11T17:13:53.243344+00:00",
-  "https://www.franceinfo.fr/monde/israel/je-regrette-que-le-gouvernement-d-israel-me-poursuive-de-cette-maniere-denonce-jean-luc-melenchon-interdit-de-territoire-en-israel_8279831.html": "2026-11-12T20:01:26.850454+00:00",
-  "https://www.franceinfo.fr/politique/la-france-insoumise/israel-interdit-a-jean-luc-melenchon-et-mathilde-panot-l-entree-sur-son-territoire-denoncant-la-position-extremement-anti-israelienne-de-la-france-insoumise_8279801.html": "2026-11-12T20:01:26.850454+00:00",
-  "https://www.franceinfo.fr/elections/presidentielle-2027-je-ne-me-soumettrai-pas-a-une-primaire-repete-edouard-philippe-candidat-horizons_8279726.html": "2026-11-12T20:01:26.850454+00:00",
-  "https://www.franceinfo.fr/elections/programmes-election-presidentielle-2022/info-franceinfo-lfi-presente-un-plan-d-investissement-de-3-45-milliards-d-euros-pour-le-textile-francais_8279693.html": "2026-11-12T20:01:26.850454+00:00",
-  "https://www.franceinfo.fr/elections/presidentielle/j-arrive-avec-un-projet-bruno-le-maire-presente-un-programme-pour-une-autre-france-mais-reste-flou-sur-une-candidature-a-la-presidentielle_8279576.html": "2026-11-12T20:01:26.850454+00:00",
   "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/vrai-ou-faux-nos-services-publics-nous-avons-verifie-des-declarations-des-huit-candidats-a-la-presidentielle_8259722.html": "2026-11-13T11:08:52.185807+00:00",
-  "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/tirs-de-mortiers-dans-les-lycees-sebastien-lecornu-denonce-des-complicites-internes_8280776.html": "2026-11-13T11:08:52.185807+00:00",
   "https://www.franceinfo.fr/elections/le-candidat-des-republicains-a-la-presidentielle-bruno-retailleau-n-a-pas-de-pret-bancaire-et-accuse-le-gouvernement_8280719.html": "2026-11-13T11:08:52.185807+00:00",
   "https://www.franceinfo.fr/politique/ingerence/les-fausses-alertes-a-la-bombe-sont-concertees-et-relevent-possiblement-d-une-ingerence-etrangere-affirme-laurent-nunez_8280764.html": "2026-11-13T11:08:52.185807+00:00",
   "https://www.franceinfo.fr/economie/transports/mobilisation-du-17-novembre/que-demandent-les-syndicats-de-fonctionnaires-recus-a-matignon-vendredi_8280539.html": "2026-11-13T11:08:52.185807+00:00",
   "https://www.franceinfo.fr/elections/elisabeth-borne-ecarte-une-primaire-allant-jusqu-a-david-lisnard-en-vue-de-l-election-presidentielle-de-2027_8280728.html": "2026-11-13T11:08:52.185807+00:00",
-  "https://www.franceinfo.fr/replay-magazine/france-2/complement-d-enquete/video-dans-les-fauteuils-rouges-de-complement-d-enquete-prisca-thevenot-directrice-de-campagne-de-gabriel-attal_8280116.html": "2026-11-13T11:08:52.185807+00:00",
-  "https://www.franceinfo.fr/politique/vous-avez-en-france-des-minorites-bruyantes-agissantes-violentes-qu-on-laisse-agir-affirme-bruno-retailleau-a-propos-du-mouvement-social_8280638.html": "2026-11-13T11:08:52.185807+00:00",
   "https://www.franceinfo.fr/politique/la-france-insoumise/francois-ruffin-denonce-la-censure-d-israel-apres-l-interdiction-de-territoire-visant-jean-luc-melenchon_8280653.html": "2026-11-13T11:08:52.185807+00:00",
   "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/melenchon-interdit-d-entree-en-israel-suppressions-de-postes-dans-la-fonction-publique-le-smic-et-les-salaires-le-8h30-franceinfo-d-elisabeth-borne_8259692.html": "2026-11-13T11:08:52.185807+00:00",
   "https://www.franceinfo.fr/replay-radio/le-monde-et-vous/la-suede-ouvre-la-voie-a-la-decheance-de-nationalite-pour-certains-binationaux_8259659.html": "2026-11-13T11:08:52.185807+00:00",
   "https://www.franceinfo.fr/elections/presidentielle/on-cree-de-la-proximite-comment-la-france-insoumise-s-inspire-de-la-campagne-presidentielle-de-lula-sur-les-reseaux-sociaux_8279390.html": "2026-11-13T11:08:52.185807+00:00",
-  "https://www.franceinfo.fr/elections/presidentielle/presidentielle-marine-tondelier-promet-l-ouverture-de-2-000-centres-de-sante-d-ici-2030-en-france_8279639.html": "2026-11-13T11:08:52.185807+00:00",
-  "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-je-ne-veux-pas-d-une-societe-ou-les-grands-medias-sont-controles-par-quelques-oligarques-assure-raphael-glucksmann_8279636.html": "2026-11-13T11:08:52.185807+00:00"
+  "https://www.franceinfo.fr/politique/marine-le-pen/si-je-peux-le-rencontrer-a-bruxelles-je-le-dirai-a-l-ambassadeur-d-ukraine-marine-le-pen-se-dit-prete-a-echanger-avec-volodymyr-zelensky_8281529.html": "2026-11-13T19:48:26.417701+00:00",
+  "https://www.franceinfo.fr/elections/candidats-a-la-presidentielle-que-veulent-ils-faire-des-fonctionnaires_8281235.html": "2026-11-13T19:48:26.417701+00:00",
+  "https://www.franceinfo.fr/replay-magazine/france-2/franc-jeu/franc-jeu-avec-michel-edouard-leclerc_8279501.html": "2026-11-13T19:48:26.417701+00:00",
+  "https://www.franceinfo.fr/economie/greve/la-cfdt-rejoint-l-appel-a-la-greve-dans-la-fonction-publique-le-17-novembre-estimant-que-les-propositions-du-gouvernement-ne-constituent-pas-de-veritables-avancees_8281298.html": "2026-11-13T19:48:26.417701+00:00",
+  "https://www.franceinfo.fr/france/grand-est/haut-rhin/voitures-en-centres-villes-mulhouse-retropedale-et-rouvre-l-une-de-ses-principales-rues-commercantes-a-la-circulation_8281196.html": "2026-11-13T19:48:26.417701+00:00",
+  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/sebastien-lecornu-pointe-du-doigt-certains-agents-de-l-education-nationale-complices-de-violences-lors-du-mouvement-lyceen_8281178.html": "2026-11-13T19:48:26.417701+00:00",
+  "https://www.franceinfo.fr/economie/syndicats/sebastien-lecornu-ouvre-une-discussion-d-un-mois-avec-les-syndicats-de-fonctionnaires-portant-notamment-sur-une-revalorisation-des-bas-salaires_8281073.html": "2026-11-13T19:48:26.417701+00:00",
+  "https://www.franceinfo.fr/elections/candidats-a-la-presidentielle-quelle-sante-en-france-apres-2027_8280977.html": "2026-11-13T19:48:26.417701+00:00",
+  "https://www.franceinfo.fr/replay-radio/les-informes-du-matin/les-informes-du-matin-du-vendredi-13-novembre-2026_8259743.html": "2026-11-13T11:00:00+00:00",
+  "https://www.franceinfo.fr/politique/affaire/financement-de-la-campagne-de-sarkozy/soupcons-de-financement-libyen-tout-comprendre-a-l-affaire/": "2026-11-13T19:48:26.417701+00:00",
+  "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/tout-comprendre-au-proces-des-assistants-parlementaires-fn/": "2026-11-13T19:48:26.417701+00:00",
+  "https://www.franceinfo.fr/monde/afrique/senegal/quand-les-senegalais-scrutent-la-crise-francaise_8279525.html": "2026-11-13T19:48:26.417701+00:00",
+  "https://www.franceinfo.fr/replay-magazine/france-2/complement-d-enquete/video-complement-d-enquete-j-ai-decide-qu-on-ne-pourrait-plus-porter-l-abaya-a-l-ecole-les-coulisses-d-une-operation-de-communication-en-2023-qui-a-fait-bondir-la-popularite-de-gabriel-attal_8278169.html": "2026-11-13T19:48:26.417701+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": ": Vrai ou faux \"Nos services publics\" : nous avons vérifié des déclarations des huit candidats à la présidentielle Des candidats à l'élection présidentielle ont été interviewé sur le sujet des services publics, jeudi par franceinfo. Le Vrai ou Faux a vérifié plusieurs de leurs déclarations sur le salaire des profs, la justice présumée laxiste, la petite enfance et les conséquences des privatisations. Aujourd'hui : Vrai ou faux 4:05 audio 4 minutes 5",
+   "title": "Marine Le Pen se dit prête à rencontrer le président ukrainien Volodymyr Zelensky à Bruxelles Par le passé, la candidate du Rassemblement national à la présidentielle avait déclaré que, si elle était élue, elle \"maintiendrait durant six mois\" l'aide financière à l'Ukraine, envahie depuis 2022 par la Russie, \"cesserait\" ce soutien au-delà. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/politique/marine-le-pen/si-je-peux-le-rencontrer-a-bruxelles-je-le-dirai-a-l-ambassadeur-d-ukraine-marine-le-pen-se-dit-prete-a-echanger-avec-volodymyr-zelensky_8281529.html",
+   "summary": "Marine Le Pen se dit prête à rencontrer le président ukrainien Volodymyr Zelensky à Bruxelles",
+   "image": "https://www.franceinfo.fr/pictures/Uh7Q2szBG3wvbsj_SKf5ryoCaTU/0x0:1024x704/432x297/filters:format(jpg)/2026/11/13/6af74ee18e839084486683.jpg",
+   "date": null,
+   "pubdate": "2026-11-13T19:48:26.417701+00:00"
+  },
+  {
+   "title": "Candidats à la présidentielle : que veulent-ils faire des fonctionnaires ? Aujourd'hui 2:14 vidéo 2 minutes 14",
+   "link": "https://www.franceinfo.fr/elections/candidats-a-la-presidentielle-que-veulent-ils-faire-des-fonctionnaires_8281235.html",
+   "summary": "Candidats à la présidentielle : que veulent-ils faire des fonctionnaires ?",
+   "image": "https://www.franceinfo.fr/pictures/fkNM3uMRPfZ24CEkfbLPmsw3c98/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/13/6af728f6258ed220823879.png",
+   "date": null,
+   "pubdate": "2026-11-13T19:48:26.417701+00:00"
+  },
+  {
+   "title": "\"Franc-Jeu\". Avec Michel-Edouard Leclerc 15 novembre 45:00 vidéo 45 minutes",
+   "link": "https://www.franceinfo.fr/replay-magazine/france-2/franc-jeu/franc-jeu-avec-michel-edouard-leclerc_8279501.html",
+   "summary": "\"Franc-Jeu\". Avec Michel-Edouard Leclerc",
+   "image": "https://www.franceinfo.fr/pictures/WAB1r5o-KhxKEVuWdHT16XGVMxo/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/12/6af5ce9948992423621468.jpg",
+   "date": null,
+   "pubdate": "2026-11-13T19:48:26.417701+00:00"
+  },
+  {
+   "title": "La CFDT rejoint l'appel à la grève dans la fonction publique le 17 novembre, estimant que les propositions du gouvernement \"ne constituent pas de véritables avancées\" Aujourd'hui",
+   "link": "https://www.franceinfo.fr/economie/greve/la-cfdt-rejoint-l-appel-a-la-greve-dans-la-fonction-publique-le-17-novembre-estimant-que-les-propositions-du-gouvernement-ne-constituent-pas-de-veritables-avancees_8281298.html",
+   "summary": "La CFDT rejoint l'appel à la grève dans la fonction publique le 17 novembre, estimant que les propositions du gouvernement \"ne constituent pas de véritables avancées\"",
+   "image": "https://www.franceinfo.fr/pictures/Ns72V85T1oWQrDiGqM2N20nnjoY/0x0:1024x576/432x243/filters:format(jpg)/2026/11/13/6af700b6b4116511464260.jpg",
+   "date": null,
+   "pubdate": "2026-11-13T19:48:26.417701+00:00"
+  },
+  {
+   "title": "Voitures en centres-villes : Mulhouse rétropédale et rouvre l'une de ses principales rues commerçantes à la circulation Aujourd'hui 2:09 vidéo 2 minutes 9",
+   "link": "https://www.franceinfo.fr/france/grand-est/haut-rhin/voitures-en-centres-villes-mulhouse-retropedale-et-rouvre-l-une-de-ses-principales-rues-commercantes-a-la-circulation_8281196.html",
+   "summary": "Voitures en centres-villes : Mulhouse rétropédale et rouvre l'une de ses principales rues commerçantes à la circulation",
+   "image": "https://www.franceinfo.fr/pictures/ShwOo7z1F1ZO5YfvmOURgChN7Ro/114x0:1283x658/432x243/filters:format(jpg)/2026/11/13/6af7289ae71a1876968707.jpg",
+   "date": null,
+   "pubdate": "2026-11-13T19:48:26.417701+00:00"
+  },
+  {
+   "title": "Sébastien Lecornu pointe du doigt certains agents de l'Education nationale complices de violences lors du mouvement lycéen Aujourd'hui 0:56 vidéo 56 secondes",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/sebastien-lecornu-pointe-du-doigt-certains-agents-de-l-education-nationale-complices-de-violences-lors-du-mouvement-lyceen_8281178.html",
+   "summary": "Sébastien Lecornu pointe du doigt certains agents de l'Education nationale complices de violences lors du mouvement lycéen",
+   "image": "https://www.franceinfo.fr/pictures/BOM0eedl1LJXy8v94UpQUDQ8vA0/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/13/6af71c15ac8d1187180448.jpg",
+   "date": null,
+   "pubdate": "2026-11-13T19:48:26.417701+00:00"
+  },
+  {
+   "title": "Sébastien Lecornu ouvre une discussion d'un mois avec les syndicats de fonctionnaires portant notamment sur une \"revalorisation des bas salaires\" Aujourd'hui",
+   "link": "https://www.franceinfo.fr/economie/syndicats/sebastien-lecornu-ouvre-une-discussion-d-un-mois-avec-les-syndicats-de-fonctionnaires-portant-notamment-sur-une-revalorisation-des-bas-salaires_8281073.html",
+   "summary": "Sébastien Lecornu ouvre une discussion d'un mois avec les syndicats de fonctionnaires portant notamment sur une \"revalorisation des bas salaires\"",
+   "image": "https://www.franceinfo.fr/pictures/XtdvfjiR42AuZG7cPgFthtPETTk/0x0:1024x576/432x243/filters:format(jpg)/2026/11/13/6af709187c9ae288459564.jpg",
+   "date": null,
+   "pubdate": "2026-11-13T19:48:26.417701+00:00"
+  },
+  {
+   "title": "Candidats à la présidentielle : quelle santé en France après 2027 ? Aujourd'hui 2:12 vidéo 2 minutes 12",
+   "link": "https://www.franceinfo.fr/elections/candidats-a-la-presidentielle-quelle-sante-en-france-apres-2027_8280977.html",
+   "summary": "Candidats à la présidentielle : quelle santé en France après 2027 ?",
+   "image": "https://www.franceinfo.fr/pictures/-L-cmGf3dOrcX1L1Ec4948R_8GI/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/13/6af6f43d31a07150660035.png",
+   "date": null,
+   "pubdate": "2026-11-13T19:48:26.417701+00:00"
+  },
+  {
+   "title": "Soupçons de financement libyen : tout comprendre à l'affaire 29 contenus",
+   "link": "https://www.franceinfo.fr/politique/affaire/financement-de-la-campagne-de-sarkozy/soupcons-de-financement-libyen-tout-comprendre-a-l-affaire/",
+   "summary": "Soupçons de financement libyen : tout comprendre à l'affaire",
+   "image": "https://www.franceinfo.fr/pictures/v8aRR1aSuiF4ZIj9DIPv2bzZJf8/432x297/filters:format(jpg)/2025/10/22/sarkozymontage-68f8fa8dd58da459326159.jpg",
+   "date": null,
+   "pubdate": "2026-11-13T19:48:26.417701+00:00"
+  },
+  {
+   "title": "Tout comprendre au procès des assistants parlementaires FN 20 contenus",
+   "link": "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/tout-comprendre-au-proces-des-assistants-parlementaires-fn/",
+   "summary": "Tout comprendre au procès des assistants parlementaires FN",
+   "image": "https://www.franceinfo.fr/pictures/iHJ4ZCCHTABB8-X6GO7CrL-9zcI/432x297/filters:format(jpg)/2026/01/28/marine-le-pen-a-son-proces-en-appel-697a50d594f91234092099.jpg",
+   "date": null,
+   "pubdate": "2026-11-13T19:48:26.417701+00:00"
+  },
+  {
+   "title": "Quand les Sénégalais scrutent la crise française 🇸🇳🔎🇫🇷 Alors que les Jeux olympiques de la jeunesse battent leur plein à Dakar, les yeux des Sénégalais se tournent aussi vers la France, où les manifestations perdurent. Également en surchauffe politique et économique, les problématiques françaises résonnent au Sénégal… 12 novembre 2:27 vidéo 2 minutes 27",
+   "link": "https://www.franceinfo.fr/monde/afrique/senegal/quand-les-senegalais-scrutent-la-crise-francaise_8279525.html",
+   "summary": "Quand les Sénégalais scrutent la crise française",
+   "image": "https://www.franceinfo.fr/pictures/pBW0DkTFhxYWGskajO8vJdrndb0/0x0:900x1600/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/12/6af5d10750510839245024.jpg",
+   "date": null,
+   "pubdate": "2026-11-13T19:48:26.417701+00:00"
+  },
+  {
+   "title": ": Vidéo \"Complément d'enquête\". \"J'ai décidé qu'on ne pourrait plus porter l'abaya à l'école\" : les coulisses d'une opération de communication en 2023 qui a fait bondir la popularité de Gabriel Attal Selon ses détracteurs, la méthode Gabriel Attal, ce serait beaucoup de com, au détriment parfois du fond. Cet extrait de \"Complément d'enquête\" sur l'enfant (pas si) chéri de la macronie révèle les coulisses de son annonce choc sur l’interdiction à l’école de l’abaya, à la rentrée 2023, alors qu'il venait d'arriver Rue de Grenelle. 12 novembre : Vidéo 5:30 vidéo 5 minutes 30",
+   "link": "https://www.franceinfo.fr/replay-magazine/france-2/complement-d-enquete/video-complement-d-enquete-j-ai-decide-qu-on-ne-pourrait-plus-porter-l-abaya-a-l-ecole-les-coulisses-d-une-operation-de-communication-en-2023-qui-a-fait-bondir-la-popularite-de-gabriel-attal_8278169.html",
+   "summary": "\"Complément d'enquête\". \"J'ai décidé qu'on ne pourrait plus porter l'abaya à l'école\" : les coulisses d'une opération de communication en 2023 qui a fait bondir la popularité de Gabriel Attal",
+   "image": "https://www.franceinfo.fr/pictures/pOrW9hQzgqjePHzzwatARw3mmdU/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/12/6af59030ba169420187642.jpg",
+   "date": null,
+   "pubdate": "2026-11-13T19:48:26.417701+00:00"
+  },
+  {
+   "title": ": Vrai ou faux \"Nos services publics\" : nous avons vérifié des déclarations des huit candidats à la présidentielle Aujourd'hui : Vrai ou faux 4:05 audio 4 minutes 5",
    "link": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/vrai-ou-faux-nos-services-publics-nous-avons-verifie-des-declarations-des-huit-candidats-a-la-presidentielle_8259722.html",
    "summary": "\"Nos services publics\" : nous avons vérifié des déclarations des huit candidats à la présidentielle",
-   "image": "https://www.franceinfo.fr/pictures/1aTOQikHG4UTwV-kqnb3omjU67k/81x0:796x492/432x297/filters:format(jpg)/2026/11/13/6af6e8786355c754415851.png",
+   "image": "https://www.franceinfo.fr/pictures/NqKrlOFJwD1JORvA5G0qtsmalkk/1x0:876x492/432x243/filters:format(jpg)/2026/11/13/6af6e8786355c754415851.png",
    "date": null,
    "pubdate": "2026-11-13T11:08:52.185807+00:00"
   },
   {
-   "title": "Tirs de mortiers dans les lycées : Sébastien Lecornu dénonce des complicités internes Aujourd'hui 1:12 vidéo 1 minute 12",
-   "link": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/tirs-de-mortiers-dans-les-lycees-sebastien-lecornu-denonce-des-complicites-internes_8280776.html",
-   "summary": "Tirs de mortiers dans les lycées : Sébastien Lecornu dénonce des complicités internes",
-   "image": "https://www.franceinfo.fr/pictures/p8P82frD-2dAmyemiQFZ-DaFIWg/170x0:1098x522/432x243/filters:format(jpg)/2026/11/13/6af6ddf74229a586022364.png",
-   "date": null,
-   "pubdate": "2026-11-13T11:08:52.185807+00:00"
-  },
-  {
-   "title": "Bruno Retailleau, le candidat des Républicains à la présidentielle, n'a \"pas de prêt bancaire\" et accuse le gouvernement Aujourd'hui",
+   "title": "Bruno Retailleau, le candidat des Républicains à la présidentielle, n'a \"pas de prêt bancaire\" et accuse le gouvernement En juillet dernier, l'exécutif avait entrepris de chercher avec les banques françaises une solution pour fournir des prêts aux candidats. Mais plusieurs groupes bancaires ont opposé des refus définitifs. Aujourd'hui",
    "link": "https://www.franceinfo.fr/elections/le-candidat-des-republicains-a-la-presidentielle-bruno-retailleau-n-a-pas-de-pret-bancaire-et-accuse-le-gouvernement_8280719.html",
    "summary": "Bruno Retailleau, le candidat des Républicains à la présidentielle, n'a \"pas de prêt bancaire\" et accuse le gouvernement",
    "image": "https://www.franceinfo.fr/pictures/00v_-NNy1ayZAD_Zs0KUSGNhzEU/0x0:1024x576/432x243/filters:format(jpg)/2026/11/13/6af6dfb636f73942706825.jpg",
@@ -53,7 +144,7 @@
    "pubdate": "2026-11-13T11:08:52.185807+00:00"
   },
   {
-   "title": "Les fausses alertes à la bombe sont \"concertées\" et relèvent possiblement d'une \"ingérence étrangère\", affirme Laurent Nuñez Aujourd'hui",
+   "title": "Les fausses alertes à la bombe sont \"concertées\" et relèvent possiblement d'une \"ingérence étrangère\", affirme Laurent Nuñez Des écoles en Italie, en Irlande et au Royaume-Uni ont fait l'objet de fausses alertes à la bombe mercredi. En France, trois établissements scolaires ont reçu le même type de menaces jeudi. Aujourd'hui",
    "link": "https://www.franceinfo.fr/politique/ingerence/les-fausses-alertes-a-la-bombe-sont-concertees-et-relevent-possiblement-d-une-ingerence-etrangere-affirme-laurent-nunez_8280764.html",
    "summary": "Les fausses alertes à la bombe sont \"concertées\" et relèvent possiblement d'une \"ingérence étrangère\", affirme Laurent Nuñez",
    "image": "https://www.franceinfo.fr/pictures/RvfpLVHLuf0mtwNdj6UsKtvVmmI/0x53:1024x629/432x243/filters:format(jpg)/2026/11/13/6af6d8e9cfef1699077909.jpg",
@@ -61,7 +152,7 @@
    "pubdate": "2026-11-13T11:08:52.185807+00:00"
   },
   {
-   "title": "Que demandent les syndicats de fonctionnaires, reçus à Matignon vendredi ? Aujourd'hui",
+   "title": "Que demandent les syndicats de fonctionnaires, reçus à Matignon vendredi ? Après celles du privé mardi, les organisations syndicales de la fonction publique sont reçues vendredi matin par Sébastien Lecornu. Elles souhaitent principalement la revalorisation du point d'indice, sur la base duquel est calculée la rémunération des agents publics. Aujourd'hui",
    "link": "https://www.franceinfo.fr/economie/transports/mobilisation-du-17-novembre/que-demandent-les-syndicats-de-fonctionnaires-recus-a-matignon-vendredi_8280539.html",
    "summary": "Que demandent les syndicats de fonctionnaires, reçus à Matignon vendredi ?",
    "image": "https://www.franceinfo.fr/pictures/6H6Uwz_h7pwzlb9kcRy2yrftLYI/0x66:1024x642/432x243/filters:format(jpg)/2026/11/13/6af6c77142e11776219802.jpg",
@@ -69,7 +160,7 @@
    "pubdate": "2026-11-13T11:08:52.185807+00:00"
   },
   {
-   "title": "Élisabeth Borne écarte une primaire allant jusqu'à David Lisnard en vue de l'élection présidentielle de 2027 Aujourd'hui",
+   "title": "Élisabeth Borne écarte une primaire allant jusqu'à David Lisnard en vue de l'élection présidentielle de 2027 L'ancienne Première ministre plaide plutôt pour un rassemblement \"de Bernard Cazeneuve à Xavier Bertrand\" et assure ne pas avoir de doute \"sur le fait qu'il faut se rassembler\". Aujourd'hui",
    "link": "https://www.franceinfo.fr/elections/elisabeth-borne-ecarte-une-primaire-allant-jusqu-a-david-lisnard-en-vue-de-l-election-presidentielle-de-2027_8280728.html",
    "summary": "Élisabeth Borne écarte une primaire allant jusqu'à David Lisnard en vue de l'élection présidentielle de 2027",
    "image": "https://www.franceinfo.fr/pictures/voPTenvbkU5CVsV8TT9UyIIRn54/0x0:1530x861/432x243/filters:format(jpg)/2026/11/13/6af6d3f62bad5541122682.png",
@@ -77,34 +168,10 @@
    "pubdate": "2026-11-13T11:08:52.185807+00:00"
   },
   {
-   "title": ": Vidéo Dans les fauteuils rouges de \"Complément d'enquête\" : Prisca Thevenot, directrice de campagne de Gabriel Attal Aujourd'hui : Vidéo 18:29 vidéo 18 minutes 29",
-   "link": "https://www.franceinfo.fr/replay-magazine/france-2/complement-d-enquete/video-dans-les-fauteuils-rouges-de-complement-d-enquete-prisca-thevenot-directrice-de-campagne-de-gabriel-attal_8280116.html",
-   "summary": "Dans les fauteuils rouges de \"Complément d'enquête\" : Prisca Thevenot, directrice de campagne de Gabriel Attal",
-   "image": "https://www.franceinfo.fr/pictures/q_6YVWXJt8vD5vJkaWYwH92eCHY/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/12/6af63df36473e295942025.jpg",
-   "date": null,
-   "pubdate": "2026-11-13T11:08:52.185807+00:00"
-  },
-  {
-   "title": "\"Vous avez en France des minorités bruyantes, agissantes, violentes, qu'on laisse agir\", affirme Bruno Retailleau à propos du mouvement social Aujourd'hui 10:44 vidéo 10 minutes 44",
-   "link": "https://www.franceinfo.fr/politique/vous-avez-en-france-des-minorites-bruyantes-agissantes-violentes-qu-on-laisse-agir-affirme-bruno-retailleau-a-propos-du-mouvement-social_8280638.html",
-   "summary": "\"Vous avez en France des minorités bruyantes, agissantes, violentes, qu'on laisse agir\", affirme Bruno Retailleau à propos du mouvement social",
-   "image": "https://www.franceinfo.fr/pictures/yOcMcBBUeW22eUKdleJwhqxWnHU/0x49:1403x838/432x243/filters:format(jpg)/2026/11/13/6af6c96fe31d8153350685.jpg",
-   "date": null,
-   "pubdate": "2026-11-13T11:08:52.185807+00:00"
-  },
-  {
-   "title": "François Ruffin dénonce \"la censure\" d'Israël après l'interdiction de territoire visant Jean-Luc Mélenchon Aujourd'hui",
+   "title": "François Ruffin dénonce \"la censure\" d'Israël après l'interdiction de territoire visant Jean-Luc Mélenchon Israël a annoncé jeudi l'interdiction d'entrée sur son territoire au dirigeant de la France insoumise, considérant sa formation comme une \"position extrêmement hostile à Israël\". Aujourd'hui",
    "link": "https://www.franceinfo.fr/politique/la-france-insoumise/francois-ruffin-denonce-la-censure-d-israel-apres-l-interdiction-de-territoire-visant-jean-luc-melenchon_8280653.html",
    "summary": "François Ruffin dénonce \"la censure\" d'Israël après l'interdiction de territoire visant Jean-Luc Mélenchon",
    "image": "https://www.franceinfo.fr/pictures/u3xtOSb7vBfLiwk64k5VNf2jR50/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/13/6af6c54438f06956199557.png",
-   "date": null,
-   "pubdate": "2026-11-13T11:08:52.185807+00:00"
-  },
-  {
-   "title": "Mélenchon interdit d'entrée en Israël, suppressions de postes dans la Fonction publique, le smic et les salaires... Le \"8h30 franceinfo\" d'Élisabeth Borne Aujourd'hui 22:59 audio 22 minutes 59",
-   "link": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/melenchon-interdit-d-entree-en-israel-suppressions-de-postes-dans-la-fonction-publique-le-smic-et-les-salaires-le-8h30-franceinfo-d-elisabeth-borne_8259692.html",
-   "summary": "Mélenchon interdit d'entrée en Israël, suppressions de postes dans la Fonction publique, le smic et les salaires... Le \"8h30 franceinfo\" d'Élisabeth Borne",
-   "image": "https://www.franceinfo.fr/pictures/Km0_OSqY64-Cv8vn0afv8BufY-A/168x0:1086x516/432x243/filters:format(jpg)/2026/11/13/6af6c3afaad04854087773.jpg",
    "date": null,
    "pubdate": "2026-11-13T11:08:52.185807+00:00"
   },
@@ -125,60 +192,20 @@
    "pubdate": "2026-11-13T11:08:52.185807+00:00"
   },
   {
-   "title": "Présidentielle 2027 : Marine Tondelier promet l'ouverture de 2 000 centres de santé d'ici 2030 en France Dans le cadre de la journée évènement franceinfo consacrée aux services publics, Marine Tondelier, candidate écologiste à la présidentielle, a détaillé son programme sur cet enjeu majeur du scrutin, jeudi 12 novembre, au studio 104 de la Maison de la Radio et de la Musique. 12 novembre vidéo",
-   "link": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-marine-tondelier-promet-l-ouverture-de-2-000-centres-de-sante-d-ici-2030-en-france_8279639.html",
-   "summary": "Présidentielle 2027 : Marine Tondelier promet l'ouverture de 2 000 centres de santé d'ici 2030 en France",
-   "image": "https://www.franceinfo.fr/pictures/HBpMRH7juMz1tuFUxtCwxNUn8Cw/225x0:1633x792/432x243/filters:format(jpg)/2026/11/12/6af5e29e5a388154189430.png",
-   "date": null,
-   "pubdate": "2026-11-13T11:08:52.185807+00:00"
+   "title": "Les informés du matin du vendredi 13 novembre 2026 Aujourd'hui 20:15 audio 20 minutes 15",
+   "link": "https://www.franceinfo.fr/replay-radio/les-informes-du-matin/les-informes-du-matin-du-vendredi-13-novembre-2026_8259743.html",
+   "summary": "Les informés du matin du vendredi 13 novembre 2026",
+   "image": "https://www.franceinfo.fr/pictures/TKWb09bmk3TJazMzKgqtt36pV4Q/0x292:5616x3451/432x243/filters:format(jpg)/2026/07/08/6a4e52a5b634b233317025.jpg",
+   "date": "2026-11-13T11:00:00+00:00",
+   "pubdate": "2026-11-13T11:00:00+00:00"
   },
   {
-   "title": "Présidentielle 2027 : \"Je ne veux pas d'une société où les grands médias sont contrôlés par quelques oligarques\", assure Raphaël Glucksmann Dans le cadre de la journée évènement franceinfo consacrée aux services publics, Raphaël Glucksmann, candidat PS/Place publique a détaillé son programme sur cet enjeu majeur du scrutin, jeudi 12 novembre, au studio 104 de la Maison de la Radio et de la Musique. 12 novembre vidéo",
-   "link": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-je-ne-veux-pas-d-une-societe-ou-les-grands-medias-sont-controles-par-quelques-oligarques-assure-raphael-glucksmann_8279636.html",
-   "summary": "Présidentielle 2027 : \"Je ne veux pas d'une société où les grands médias sont contrôlés par quelques oligarques\", assure Raphaël Glucksmann",
-   "image": "https://www.franceinfo.fr/pictures/qdcmFFiNz7NU_DkuItRDN--DJ2Y/0x5:988x560/432x243/filters:format(jpg)/2026/11/12/6af5e147c8c60008983813.jpg",
-   "date": null,
-   "pubdate": "2026-11-13T11:08:52.185807+00:00"
-  },
-  {
-   "title": "\"Je regrette que le gouvernement d'Israël me poursuive de cette manière\", dénonce Jean-Luc Mélenchon, interdit de territoire en Israël Israël a annoncé jeudi qu'il interdisait l'entrée sur son territoire au dirigeant de la France insoumise, imputant à sa formation une \"position extrêmement hostile à Israël\". 12 novembre",
-   "link": "https://www.franceinfo.fr/monde/israel/je-regrette-que-le-gouvernement-d-israel-me-poursuive-de-cette-maniere-denonce-jean-luc-melenchon-interdit-de-territoire-en-israel_8279831.html",
-   "summary": "\"Je regrette que le gouvernement d'Israël me poursuive de cette manière\", dénonce Jean-Luc Mélenchon, interdit de territoire en Israël",
-   "image": "https://www.franceinfo.fr/pictures/Ib1vEZQjYRAWucxW9IFayBxZTi8/34x0:1027x559/432x243/filters:format(jpg)/2026/11/12/6af5f7f0b5f05961176063.jpg",
-   "date": null,
-   "pubdate": "2026-11-12T20:01:26.850454+00:00"
-  },
-  {
-   "title": "Israël interdit à Jean-Luc Mélenchon et Mathilde Panot l'entrée sur son territoire, dénonçant \"la position anti-israélienne virulente\" de La France insoumise \"Je regrette que le gouvernement d'Israël me poursuive de cette manière\", a réagi Jean-Luc Mélenchon sur franceinfo, assurant qu'il ne changerait pas son discours sur le pays s'il était élu. 12 novembre",
-   "link": "https://www.franceinfo.fr/politique/la-france-insoumise/israel-interdit-a-jean-luc-melenchon-et-mathilde-panot-l-entree-sur-son-territoire-denoncant-la-position-extremement-anti-israelienne-de-la-france-insoumise_8279801.html",
-   "summary": "Israël interdit à Jean-Luc Mélenchon et Mathilde Panot l'entrée sur son territoire, dénonçant \"la position anti-israélienne virulente\" de La France insoumise",
-   "image": "https://www.franceinfo.fr/pictures/aU53GbvNofNNhEJi92PvrUdOuXQ/0x106:1024x682/432x243/filters:format(jpg)/2026/11/12/6af5f46aa7449465996574.jpg",
-   "date": null,
-   "pubdate": "2026-11-12T20:01:26.850454+00:00"
-  },
-  {
-   "title": "Présidentielle 2027 : \"Je ne me soumettrai pas à une primaire\", répète Édouard Philippe Invité de la journée évènement franceinfo consacrée aux services publics, Edouard Philippe, candidat Horizons, affirme de nouveau son rejet d'une primaire de la droite et du centre. 12 novembre",
-   "link": "https://www.franceinfo.fr/elections/presidentielle-2027-je-ne-me-soumettrai-pas-a-une-primaire-repete-edouard-philippe-candidat-horizons_8279726.html",
-   "summary": "Présidentielle 2027 : \"Je ne me soumettrai pas à une primaire\", répète Édouard Philippe",
-   "image": "https://www.franceinfo.fr/pictures/yljGt_p3PuShBMxst8h-KyHMqbI/200x0:1649x815/432x243/filters:format(jpg)/2026/11/12/6af5eb12b603e284755207.png",
-   "date": null,
-   "pubdate": "2026-11-12T20:01:26.850454+00:00"
-  },
-  {
-   "title": ": Info franceinfo LFI présente un plan d'investissement de 3,45 milliards d'euros pour le textile français Ce plan consiste en une dizaine de mesures qui doivent enrichir le programme du parti pour la présidentielle. Il s'agit notamment d'augmenter la part de vêtements produits en France de 3% à 10% ou de développer la filière lin et chanvre. 12 novembre : Info franceinfo",
-   "link": "https://www.franceinfo.fr/elections/programmes-election-presidentielle-2022/info-franceinfo-lfi-presente-un-plan-d-investissement-de-3-45-milliards-d-euros-pour-le-textile-francais_8279693.html",
-   "summary": "LFI présente un plan d'investissement de 3,45 milliards d'euros pour le textile français",
-   "image": "https://www.franceinfo.fr/pictures/T05i7GpdAv0Lj3MQDVlMA9cod1Q/0x12:1024x588/432x243/filters:format(jpg)/2026/11/12/6af5e5779786e182918205.jpg",
-   "date": null,
-   "pubdate": "2026-11-12T20:01:26.850454+00:00"
-  },
-  {
-   "title": "\"J'arrive avec un projet\" : Bruno Le Maire présente un programme pour \"une autre France\" mais reste flou sur une candidature à la présidentielle L'ancien ministre de l'Economie d'Emmanuel Macron tente un retour dans le débat public et ne veut pas se résigner au scénario d'un second tour entre Jean-Luc Mélenchon et Marine Le Pen. 12 novembre",
-   "link": "https://www.franceinfo.fr/elections/presidentielle/j-arrive-avec-un-projet-bruno-le-maire-presente-un-programme-pour-une-autre-france-mais-reste-flou-sur-une-candidature-a-la-presidentielle_8279576.html",
-   "summary": "\"J'arrive avec un projet\" : Bruno Le Maire présente un programme pour \"une autre France\" mais reste flou sur une candidature à la présidentielle",
-   "image": "https://www.franceinfo.fr/pictures/vus5HKmc7knMKET1Mb4Nc4B5vSY/0x0:6000x3375/432x243/filters:format(jpg)/2026/11/12/6af5e04f35a00532253713.jpg",
-   "date": null,
-   "pubdate": "2026-11-12T20:01:26.850454+00:00"
+   "title": "Mélenchon interdit d'entrée en Israël, suppressions de postes dans la Fonction publique, le smic et les salaires... Le \"8h30 franceinfo\" d'Élisabeth Borne Élisabeth Borne, ancienne Première ministre, députée Renaissance du Calvados, est l'invitée du \"8h30 franceinfo\" le 13 novembre 2026. Aujourd'hui 22:59 audio 22 minutes 59",
+   "link": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/melenchon-interdit-d-entree-en-israel-suppressions-de-postes-dans-la-fonction-publique-le-smic-et-les-salaires-le-8h30-franceinfo-d-elisabeth-borne_8259692.html",
+   "summary": "Mélenchon interdit d'entrée en Israël, suppressions de postes dans la Fonction publique, le smic et les salaires... Le \"8h30 franceinfo\" d'Élisabeth Borne",
+   "image": "https://www.franceinfo.fr/pictures/Km0_OSqY64-Cv8vn0afv8BufY-A/168x0:1086x516/432x243/filters:format(jpg)/2026/11/13/6af6c3afaad04854087773.jpg",
+   "date": "2026-11-13T11:00:00+00:00",
+   "pubdate": "2026-11-13T11:00:00+00:00"
   },
   {
    "title": ": Reportage \"On fait croire qu'ici, c'est dangereux\" : après l'attentat de Trappes, des habitants dénoncent un \"acharnement\" contre leur ville : Reportage 7:00 article 7 minutes",

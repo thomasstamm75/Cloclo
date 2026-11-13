@@ -1,21 +1,12 @@
 {
- "etag": "\"13db7973f11cb9f62091b15fc0c75307-gzip\"",
+ "etag": "\"7b126db93e63f6a6325f7eb6ec52194d-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-ce-serait-presque-drole-si-ca-ne-montait-pas-les-gens-les-uns-contre-les-autres-apres-l-incendie-de-la-mairie-de-limoges-le-plateau-de-millevaches-pointe-du-doigt-comme-un-bastion-de-l-ultragauche_8249923.html": "2026-11-06T06:56:03.517297+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-elles-sont-ou-les-petites-filles-de-la-com-alors-que-le-proces-escoffier-debute-des-femmes-temoignent-du-sexisme-dans-la-voile_8253670.html": "2026-11-09T19:53:16.976697+00:00",
-  "https://www.franceinfo.fr/faits-divers/disparition-de-lyhanna-dans-le-gers/affaire-lyhanna-gerald-darmanin-saisit-le-conseil-superieur-de-la-magistrature-contre-une-substitut-du-procureur-d-auch-pour-ne-pas-avoir-verifie-les-antecedents-du-suspect_8279870.html": "2026-11-12T20:01:24.303539+00:00",
-  "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/pillages-a-paris-le-week-end-du-17-octobre-800-dossiers-de-videos-amateurs-transmis-a-la-plateforme-mise-en-place-par-la-prefecture-de-police_8279804.html": "2026-11-12T20:01:24.303539+00:00",
   "https://www.franceinfo.fr/marseille/la-jeunesse-dans-les-quartiers-populaires-elle-n-a-pas-le-droit-a-l-erreur-48-heures-dans-les-quartiers-nord-de-marseille_8280122.html": "2026-11-13T01:53:41.163748+00:00",
-  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/c-est-plus-jeter-de-l-huile-sur-le-feu-qu-eteindre-l-incendie-juge-le-syndicat-national-des-lycees-et-colleges-alors-que-des-enseignants-sont-accuses-de-complicite-sur-les-violences_8280095.html": "2026-11-13T01:53:41.163748+00:00",
-  "https://www.franceinfo.fr/societe/droits-des-femmes/la-hongrie-va-ratifier-la-convention-d-istanbul-qui-lutte-contre-les-violences-faites-aux-femmes_8280047.html": "2026-11-13T01:53:41.163748+00:00",
-  "https://www.franceinfo.fr/societe/justice/pierre-edouard-sterin-milliardaire-proche-de-l-extreme-droite-sera-juge-en-janvier-pour-son-refus-de-venir-devant-les-deputes_8280011.html": "2026-11-13T01:53:41.163748+00:00",
-  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/les-aides-de-l-ile-de-france-vont-etre-suspendues-pour-les-auteurs-de-degradations-dans-les-lycees-annonce-valerie-pecresse_8279999.html": "2026-11-13T01:53:41.163748+00:00",
   "https://www.franceinfo.fr/replay-radio/l-il-de-julie/sur-les-reseaux-sociaux-les-internautes-se-donnent-des-conseils-juridiques-en-marge-des-manifestations_8259719.html": "2026-11-13T11:08:49.553232+00:00",
-  "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/tirs-de-mortiers-dans-les-lycees-sebastien-lecornu-denonce-des-complicites-internes_8280776.html": "2026-11-13T11:08:49.553232+00:00",
   "https://www.franceinfo.fr/societe/salon-de-l-agriculture/la-corse-absente-du-prochain-salon-de-l-agriculture-a-paris-en-raison-des-aleas-climatiques_8280743.html": "2026-11-13T11:08:49.553232+00:00",
-  "https://www.franceinfo.fr/politique/vous-avez-en-france-des-minorites-bruyantes-agissantes-violentes-qu-on-laisse-agir-affirme-bruno-retailleau-a-propos-du-mouvement-social_8280638.html": "2026-11-13T11:08:49.553232+00:00",
-  "https://www.franceinfo.fr/societe/immigration/le-depute-renaissance-charles-rodwell-propose-de-refonder-notre-politique-migratoire-et-de-creer-des-quotas_8280626.html": "2026-11-13T11:08:49.553232+00:00",
   "https://www.franceinfo.fr/societe/education/blocage-des-lycees/on-n-a-jamais-vecu-de-situation-aussi-violente-denonce-le-premier-syndicat-des-proviseurs-face-a-la-mobilisation-des-lyceens_8280587.html": "2026-11-13T11:08:49.553232+00:00",
   "https://www.franceinfo.fr/societe/justice/il-prend-mon-visage-dans-les-mains-et-il-m-embrasse-de-force-une-femme-temoigne-apres-avoir-porte-plainte-contre-l-homme-d-affaires-mohamed-al-fayed_8280560.html": "2026-11-13T11:08:49.553232+00:00",
   "https://www.franceinfo.fr/societe/education/affaire-de-violences-sexuelles-a-notre-dame-de-betharram/affaire-betharram-dialogue-rompu-entre-la-congregation-et-l-ong-mandatee-pour-faire-un-rapport-sur-les-centaines-d-enfants-victimes-de-violences-dans-l-etablissement_8280542.html": "2026-11-13T11:08:49.553232+00:00",
@@ -23,28 +14,144 @@
   "https://www.franceinfo.fr/societe/education/blocage-des-lycees/comment-voulez-vous-qu-on-rattrape-ca-face-aux-blocages-de-leur-lycee-des-proviseurs-parisiens-racontent-leur-desarroi_8279750.html": "2026-11-13T11:08:49.553232+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/on-peut-critiquer-la-police-sans-forcement-lui-manquer-de-respect-comment-les-jeunes-candidats-a-l-ecole-de-police-vivent-le-climat-ambiant-des-manifestations-lyceennes_8259737.html": "2026-11-13T11:08:49.553232+00:00",
   "https://www.franceinfo.fr/monde/europe/allemagne/faut-il-reconstruire-le-nid-d-aigle-cet-endroit-prise-d-adolf-hitler-et-des-nazis-apres-l-incendie-qui-l-a-ravage_8279987.html": "2026-11-13T11:08:49.553232+00:00",
-  "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-une-hausse-du-smic-a-1-700-euros-entrainerait-elle-la-destruction-de-230-000-emplois-comme-l-affirme-le-gouvernement_8274335.html": "2026-11-13T11:08:49.553232+00:00"
+  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/le-lycee-brequigny-a-rennes-ferme-du-16-au-20-novembre-en-raison-de-degradations_8281622.html": "2026-11-13T19:48:23.266234+00:00",
+  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/il-faut-dire-la-verite-sur-ce-qui-se-passe-le-premier-syndicat-des-chefs-d-etablissement-conteste-les-chiffres-du-ministere-sur-les-lycees-bloques_8281568.html": "2026-11-13T19:48:23.266234+00:00",
+  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/il-faut-entendre-les-revendications-legitimes-des-lyceens-estime-la-fcpe_8281472.html": "2026-11-13T19:48:23.266234+00:00",
+  "https://www.franceinfo.fr/societe/manifestations/la-prefecture-de-police-valide-l-itineraire-commun-republique-nation-a-paris-declare-par-trois-organisateurs-distincts-pour-la-mobilisation-du-14-novembre_8281439.html": "2026-11-13T19:48:23.266234+00:00",
+  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/l-academie-de-poitiers-va-deposer-deux-plaintes-pour-des-intimidations-et-une-tentative-d-incendie-survenues-au-lycee-victor-hugo_8281406.html": "2026-11-13T19:48:23.266234+00:00",
+  "https://www.franceinfo.fr/faits-divers/l-homme-juge-pour-avoir-drogue-viole-et-filme-six-femmes-dans-le-gard-condamne-a-18-ans-de-reclusion-criminelle_8281277.html": "2026-11-13T19:48:23.266234+00:00",
+  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/l-organisation-les-lyceens-condamne-toutes-les-violences-particulierement-celles-faites-sur-les-personnels-de-l-education-nationale_8281259.html": "2026-11-13T19:48:23.266234+00:00",
+  "https://www.franceinfo.fr/france/grand-est/haut-rhin/voitures-en-centres-villes-mulhouse-retropedale-et-rouvre-l-une-de-ses-principales-rues-commercantes-a-la-circulation_8281196.html": "2026-11-13T19:48:23.266234+00:00",
+  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/blocus-10-des-cours-de-l-annee-perdus_8281223.html": "2026-11-13T19:48:23.266234+00:00",
+  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/sebastien-lecornu-pointe-du-doigt-certains-agents-de-l-education-nationale-complices-de-violences-lors-du-mouvement-lyceen_8281178.html": "2026-11-13T19:48:23.266234+00:00",
+  "https://www.franceinfo.fr/societe/manifestations/convergence-de-differents-mots-d-ordre-important-dispositif-policier-a-quoi-s-attendre-pour-la-journee-de-mobilisation-du-samedi-14-novembre_8280806.html": "2026-11-13T19:48:23.266234+00:00",
+  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/on-n-a-vraiment-plus-le-choix-apres-un-mois-et-demi-de-mobilisation-lyceens-et-enseignants-s-inquietent-des-consequences-sur-les-notes_8280770.html": "2026-11-13T19:48:23.266234+00:00",
+  "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/reportage-on-entend-parler-d-islam-tous-les-jours-a-mantes-la-jolie-des-habitants-tentent-de-surmonter-le-traumatisme-de-l-attentat-raciste-de-trappes_8280035.html": "2026-11-13T19:48:23.266234+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
+   "title": "Le lycée Brequigny à Rennes sera fermé du 16 au 20 novembre en raison de dégradations Selon le rectorat, un groupe de personnes \"parmi lesquelles figuraient des élèves du lycée\" a \"saccagé des portes de classes, des parois vitrées et un bureau de la vie scolaire à coups d’extincteurs\" jeudi. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/le-lycee-brequigny-a-rennes-ferme-du-16-au-20-novembre-en-raison-de-degradations_8281622.html",
+   "summary": "Le lycée Brequigny à Rennes sera fermé du 16 au 20 novembre en raison de dégradations",
+   "image": "https://www.franceinfo.fr/pictures/XVqf5u6Ai-VtPzj101hH3o5-KW4/0x2:2048x1410/432x297/filters:format(jpg)/2026/11/13/6af768aeb84af300644068.jpg",
+   "date": null,
+   "pubdate": "2026-11-13T19:48:23.266234+00:00"
+  },
+  {
+   "title": "\"Il faut dire la vérité sur ce qui se passe\" : le premier syndicat des chefs d'établissement conteste les chiffres de l'Education nationale sur le nombre de lycées bloqués Aujourd'hui",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/il-faut-dire-la-verite-sur-ce-qui-se-passe-le-premier-syndicat-des-chefs-d-etablissement-conteste-les-chiffres-du-ministere-sur-les-lycees-bloques_8281568.html",
+   "summary": "\"Il faut dire la vérité sur ce qui se passe\" : le premier syndicat des chefs d'établissement conteste les chiffres de l'Education nationale sur le nombre de lycées bloqués",
+   "image": "https://www.franceinfo.fr/pictures/zgnfHoujJty_09ZBRPylkx_MQT4/0x66:1024x642/432x243/filters:format(jpg)/2026/11/13/6af759ce63f2d202374203.jpg",
+   "date": null,
+   "pubdate": "2026-11-13T19:48:23.266234+00:00"
+  },
+  {
+   "title": "\"Il faut entendre les revendications légitimes des lycéens\", estime la FCPE Aujourd'hui",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/il-faut-entendre-les-revendications-legitimes-des-lyceens-estime-la-fcpe_8281472.html",
+   "summary": "\"Il faut entendre les revendications légitimes des lycéens\", estime la FCPE",
+   "image": "https://www.franceinfo.fr/pictures/kkLyGFDg3VvFQGE9IfAAYJaFGu4/0x364:5568x3496/432x243/filters:format(jpg)/2026/10/06/6ac4d2420eeb4577071470.jpg",
+   "date": null,
+   "pubdate": "2026-11-13T19:48:23.266234+00:00"
+  },
+  {
+   "title": "La préfecture de police valide l'itinéraire commun République-Nation à Paris, déclaré par trois organisateurs distincts pour la mobilisation du 14 novembre Aujourd'hui",
+   "link": "https://www.franceinfo.fr/societe/manifestations/la-prefecture-de-police-valide-l-itineraire-commun-republique-nation-a-paris-declare-par-trois-organisateurs-distincts-pour-la-mobilisation-du-14-novembre_8281439.html",
+   "summary": "La préfecture de police valide l'itinéraire commun République-Nation à Paris, déclaré par trois organisateurs distincts pour la mobilisation du 14 novembre",
+   "image": "https://www.franceinfo.fr/pictures/Tht7lWZDGKloLFv3Ec-2nA2H8Go/0x522:5000x3335/432x243/filters:format(jpg)/2026/11/13/6af743610e6f6648414944.jpg",
+   "date": null,
+   "pubdate": "2026-11-13T19:48:23.266234+00:00"
+  },
+  {
+   "title": "L'académie de Poitiers va déposer deux plaintes pour \"des intimidations\" et \"une tentative d'incendie\" survenues au lycée Victor-Hugo Aujourd'hui",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/l-academie-de-poitiers-va-deposer-deux-plaintes-pour-des-intimidations-et-une-tentative-d-incendie-survenues-au-lycee-victor-hugo_8281406.html",
+   "summary": "L'académie de Poitiers va déposer deux plaintes pour \"des intimidations\" et \"une tentative d'incendie\" survenues au lycée Victor-Hugo",
+   "image": "https://www.franceinfo.fr/pictures/eOJcpc4eYg6DhIHYFmos5C-57bo/0x0:959x539/432x243/filters:format(jpg)/2026/11/13/6af73f540074e240495185.jpg",
+   "date": null,
+   "pubdate": "2026-11-13T19:48:23.266234+00:00"
+  },
+  {
+   "title": "L'homme jugé pour avoir drogué, violé et filmé six femmes dans le Gard condamné à 18 ans de réclusion criminelle Aujourd'hui",
+   "link": "https://www.franceinfo.fr/faits-divers/l-homme-juge-pour-avoir-drogue-viole-et-filme-six-femmes-dans-le-gard-condamne-a-18-ans-de-reclusion-criminelle_8281277.html",
+   "summary": "L'homme jugé pour avoir drogué, violé et filmé six femmes dans le Gard condamné à 18 ans de réclusion criminelle",
+   "image": "https://www.franceinfo.fr/pictures/mb1LbtBJWxiqcSHY0dlwmtVAw4A/0x166:1200x841/432x243/filters:format(jpg)/2026/11/02/6ae881e18d782642222117.jpg",
+   "date": null,
+   "pubdate": "2026-11-13T19:48:23.266234+00:00"
+  },
+  {
+   "title": "L'organisation Les lycéens ! \"condamne toutes les violences, particulièrement celles faites sur les personnels de l'Education nationale\" Aujourd'hui",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/l-organisation-les-lyceens-condamne-toutes-les-violences-particulierement-celles-faites-sur-les-personnels-de-l-education-nationale_8281259.html",
+   "summary": "L'organisation Les lycéens ! \"condamne toutes les violences, particulièrement celles faites sur les personnels de l'Education nationale\"",
+   "image": "https://www.franceinfo.fr/pictures/YmsgAEdSmQnmDggzbTHXTaGJRx8/0x80:1024x656/432x243/filters:format(jpg)/2026/10/06/6ac48d4105b1e550760662.jpg",
+   "date": null,
+   "pubdate": "2026-11-13T19:48:23.266234+00:00"
+  },
+  {
+   "title": "Voitures en centres-villes : Mulhouse rétropédale et rouvre l'une de ses principales rues commerçantes à la circulation Aujourd'hui 2:09 vidéo 2 minutes 9",
+   "link": "https://www.franceinfo.fr/france/grand-est/haut-rhin/voitures-en-centres-villes-mulhouse-retropedale-et-rouvre-l-une-de-ses-principales-rues-commercantes-a-la-circulation_8281196.html",
+   "summary": "Voitures en centres-villes : Mulhouse rétropédale et rouvre l'une de ses principales rues commerçantes à la circulation",
+   "image": "https://www.franceinfo.fr/pictures/ShwOo7z1F1ZO5YfvmOURgChN7Ro/114x0:1283x658/432x243/filters:format(jpg)/2026/11/13/6af7289ae71a1876968707.jpg",
+   "date": null,
+   "pubdate": "2026-11-13T19:48:23.266234+00:00"
+  },
+  {
+   "title": "Blocus : 10% des cours de l'année perdus Aujourd'hui 0:55 vidéo 55 secondes",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/blocus-10-des-cours-de-l-annee-perdus_8281223.html",
+   "summary": "Blocus : 10% des cours de l'année perdus",
+   "image": "https://www.franceinfo.fr/pictures/lEtnT7rDmpmO-syq36aHJaTef4c/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/13/6af725682c7cf381464922.jpg",
+   "date": null,
+   "pubdate": "2026-11-13T19:48:23.266234+00:00"
+  },
+  {
+   "title": "Sébastien Lecornu pointe du doigt certains agents de l'Education nationale complices de violences lors du mouvement lycéen Aujourd'hui 0:56 vidéo 56 secondes",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/sebastien-lecornu-pointe-du-doigt-certains-agents-de-l-education-nationale-complices-de-violences-lors-du-mouvement-lyceen_8281178.html",
+   "summary": "Sébastien Lecornu pointe du doigt certains agents de l'Education nationale complices de violences lors du mouvement lycéen",
+   "image": "https://www.franceinfo.fr/pictures/BOM0eedl1LJXy8v94UpQUDQ8vA0/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/13/6af71c15ac8d1187180448.jpg",
+   "date": null,
+   "pubdate": "2026-11-13T19:48:23.266234+00:00"
+  },
+  {
+   "title": "Convergence de différents mots d'ordre, important dispositif policier… A quoi s'attendre pour la journée de mobilisation du samedi 14 novembre ? La coordination des gilets jaunes et des organisations de jeunesse appellent à défiler samedi \"contre la vie chère\". D'autres manifestations – pour le climat, contre les violences policières ou les violences faites aux mineurs – sont aussi prévues. A Paris, un cortège unique défilera entre les places de la République et de la Nation. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/societe/manifestations/convergence-de-differents-mots-d-ordre-important-dispositif-policier-a-quoi-s-attendre-pour-la-journee-de-mobilisation-du-samedi-14-novembre_8280806.html",
+   "summary": "Convergence de différents mots d'ordre, important dispositif policier… A quoi s'attendre pour la journée de mobilisation du samedi 14 novembre ?",
+   "image": "https://www.franceinfo.fr/pictures/8jwJBnNIEabHPI8xf8iXFSxiGAc/0x0:1024x576/432x243/filters:format(jpg)/2026/11/13/6af6f6bbe003c118773177.jpg",
+   "date": null,
+   "pubdate": "2026-11-13T19:48:23.266234+00:00"
+  },
+  {
+   "title": "\"On n'a vraiment plus le choix\" : après un mois et demi de mobilisation, lycéens et enseignants s'inquiètent des conséquences sur les notes À l'approche de la fin du trimestre, les enseignants tentent de calculer une moyenne, avec très peu de notes. Chaque établissement bricole de son côté. Les élèves et les enseignants craignent des inégalités. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/on-n-a-vraiment-plus-le-choix-apres-un-mois-et-demi-de-mobilisation-lyceens-et-enseignants-s-inquietent-des-consequences-sur-les-notes_8280770.html",
+   "summary": "\"On n'a vraiment plus le choix\" : après un mois et demi de mobilisation, lycéens et enseignants s'inquiètent des conséquences sur les notes",
+   "image": "https://www.franceinfo.fr/pictures/SNpz5SU8QYpCS6E-Q3au9FI8-QY/0x208:4000x2458/432x243/filters:format(jpg)/2026/11/13/6af6ef5053d1b647856333.jpg",
+   "date": null,
+   "pubdate": "2026-11-13T19:48:23.266234+00:00"
+  },
+  {
+   "title": ": Reportage \"On entend parler d'islam tous les jours\" : à Mantes-la-Jolie, des habitants tentent de surmonter le traumatisme de l'attentat raciste de Trappes Dans les Yvelines, le choc est encore profond après l'attentat raciste de Trappes et de la Verrière survenu le 23 octobre. À Mantes-la-Jolie, les habitants craignent d’être devenus des cibles en raison de leurs origines. Aujourd'hui : Reportage",
+   "link": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/reportage-on-entend-parler-d-islam-tous-les-jours-a-mantes-la-jolie-des-habitants-tentent-de-surmonter-le-traumatisme-de-l-attentat-raciste-de-trappes_8280035.html",
+   "summary": "\"On entend parler d'islam tous les jours\" : à Mantes-la-Jolie, des habitants tentent de surmonter le traumatisme de l'attentat raciste de Trappes",
+   "image": "https://www.franceinfo.fr/pictures/wSSiXqlI9mU_ac4kf_7rtUV6xto/0x53:1024x629/432x243/filters:format(jpg)/2026/11/12/6af629d1a6ecc230632527.jpg",
+   "date": null,
+   "pubdate": "2026-11-13T19:48:23.266234+00:00"
+  },
+  {
+   "title": "\"On peut critiquer la police sans forcément lui manquer de respect\" : comment les jeunes candidats à l'école de police vivent le climat ambiant des manifestations lycéennes 4:56 audio 4 minutes 56",
+   "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/on-peut-critiquer-la-police-sans-forcement-lui-manquer-de-respect-comment-les-jeunes-candidats-a-l-ecole-de-police-vivent-le-climat-ambiant-des-manifestations-lyceennes_8259737.html",
+   "summary": "\"On peut critiquer la police sans forcément lui manquer de respect\" : comment les jeunes candidats à l'école de police vivent le climat ambiant des manifestations lycéennes",
+   "image": "https://www.franceinfo.fr/pictures/3tgZMoD1zzUzJ9p8W8TuRnhX0jU/0x250:4800x2950/432x243/filters:format(jpg)/2026/11/12/6af5fe4443f8d433419322.jpg",
+   "date": null,
+   "pubdate": "2026-11-13T11:08:49.553232+00:00"
+  },
+  {
    "title": "Sur les réseaux sociaux, les internautes se donnent des conseils juridiques en marge des manifestations Samedi, acte 5 du mouvement contre la vie chère. Sur les réseaux sociaux, depuis le début des mobilisations, des internautes se donnent des conseils juridiques en cas de contrôle, d’arrestation ou de garde-à-vue pendant les manifestations. Aujourd'hui 2:47 audio 2 minutes 47",
    "link": "https://www.franceinfo.fr/replay-radio/l-il-de-julie/sur-les-reseaux-sociaux-les-internautes-se-donnent-des-conseils-juridiques-en-marge-des-manifestations_8259719.html",
    "summary": "Sur les réseaux sociaux, les internautes se donnent des conseils juridiques en marge des manifestations",
-   "image": "https://www.franceinfo.fr/pictures/8OS0BbsPi9DqPFTEeF8AL4MKh8A/16x0:1008x682/432x297/filters:format(jpg)/2026/11/13/6af6ef2a3a606018018696.jpg",
+   "image": "https://www.franceinfo.fr/pictures/tOG64_xsKeMcAgZhYiO2DQaygFU/0x53:1024x629/432x243/filters:format(jpg)/2026/11/13/6af6ef2a3a606018018696.jpg",
    "date": null,
    "pubdate": "2026-11-13T11:08:49.553232+00:00"
   },
   {
-   "title": "Tirs de mortiers dans les lycées : Sébastien Lecornu dénonce des complicités internes Aujourd'hui 1:12 vidéo 1 minute 12",
-   "link": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/tirs-de-mortiers-dans-les-lycees-sebastien-lecornu-denonce-des-complicites-internes_8280776.html",
-   "summary": "Tirs de mortiers dans les lycées : Sébastien Lecornu dénonce des complicités internes",
-   "image": "https://www.franceinfo.fr/pictures/p8P82frD-2dAmyemiQFZ-DaFIWg/170x0:1098x522/432x243/filters:format(jpg)/2026/11/13/6af6ddf74229a586022364.png",
-   "date": null,
-   "pubdate": "2026-11-13T11:08:49.553232+00:00"
-  },
-  {
-   "title": "La Corse absente du prochain Salon de l'agriculture à Paris en raison des aléas climatiques Aujourd'hui",
+   "title": "La Corse absente du prochain Salon de l'agriculture à Paris en raison des aléas climatiques Après les récentes inondations en Corse et la sécheresse de cet été, de nombreux exploitants corses sont en difficultés financières. L'argent prévu pour la participation de la Corse au Salon de l'agriculture sera donc redistribué aux agriculteurs affectés. Aujourd'hui",
    "link": "https://www.franceinfo.fr/societe/salon-de-l-agriculture/la-corse-absente-du-prochain-salon-de-l-agriculture-a-paris-en-raison-des-aleas-climatiques_8280743.html",
    "summary": "La Corse absente du prochain Salon de l'agriculture à Paris en raison des aléas climatiques",
    "image": "https://www.franceinfo.fr/pictures/0Uiuo4iqxUs5aE2YIGE6i1248Os/0x0:5337x3002/432x243/filters:format(jpg)/2026/03/06/maxnewsspecialtwo511898-69aacfd16ad91005772950.jpg",
@@ -52,23 +159,7 @@
    "pubdate": "2026-11-13T11:08:49.553232+00:00"
   },
   {
-   "title": "\"Vous avez en France des minorités bruyantes, agissantes, violentes, qu'on laisse agir\", affirme Bruno Retailleau à propos du mouvement social Aujourd'hui 10:44 vidéo 10 minutes 44",
-   "link": "https://www.franceinfo.fr/politique/vous-avez-en-france-des-minorites-bruyantes-agissantes-violentes-qu-on-laisse-agir-affirme-bruno-retailleau-a-propos-du-mouvement-social_8280638.html",
-   "summary": "\"Vous avez en France des minorités bruyantes, agissantes, violentes, qu'on laisse agir\", affirme Bruno Retailleau à propos du mouvement social",
-   "image": "https://www.franceinfo.fr/pictures/yOcMcBBUeW22eUKdleJwhqxWnHU/0x49:1403x838/432x243/filters:format(jpg)/2026/11/13/6af6c96fe31d8153350685.jpg",
-   "date": null,
-   "pubdate": "2026-11-13T11:08:49.553232+00:00"
-  },
-  {
-   "title": "Le député Renaissance Charles Rodwell propose de \"refonder notre politique migratoire\" et de créer des quotas Aujourd'hui vidéo",
-   "link": "https://www.franceinfo.fr/societe/immigration/le-depute-renaissance-charles-rodwell-propose-de-refonder-notre-politique-migratoire-et-de-creer-des-quotas_8280626.html",
-   "summary": "Le député Renaissance Charles Rodwell propose de \"refonder notre politique migratoire\" et de créer des quotas",
-   "image": "https://www.franceinfo.fr/pictures/Gs3QL_wqDMSY06I2cpVpcY8YL5A/18x0:1313x728/432x243/filters:format(jpg)/2026/11/13/6af6befbdf5f4266614798.png",
-   "date": null,
-   "pubdate": "2026-11-13T11:08:49.553232+00:00"
-  },
-  {
-   "title": "\"On n'a jamais vécu de situation aussi violente\", dénonce le premier syndicat des proviseurs face à la mobilisation des lycéens Aujourd'hui",
+   "title": "\"On n'a jamais vécu de situation aussi violente\", dénonce le premier syndicat des proviseurs face à la mobilisation des lycéens Sur France Inter, Bruno Bobkiewicz, le secrétaire général du SNPDEN, regrette le caractère inédit des violences en marge des blocages de lycées. Le mode opératoire a évolué\" et \"c'est encore plus dangereux\", dénonce-t-il. Aujourd'hui",
    "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/on-n-a-jamais-vecu-de-situation-aussi-violente-denonce-le-premier-syndicat-des-proviseurs-face-a-la-mobilisation-des-lyceens_8280587.html",
    "summary": "\"On n'a jamais vécu de situation aussi violente\", dénonce le premier syndicat des proviseurs face à la mobilisation des lycéens",
    "image": "https://www.franceinfo.fr/pictures/_1rmwEuot-VQGmG2B1bTZEhNloM/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/13/6af6b4f5d8a20689013254.png",
@@ -76,7 +167,7 @@
    "pubdate": "2026-11-13T11:08:49.553232+00:00"
   },
   {
-   "title": ": Témoignage \"Il prend mon visage dans les mains et m'embrasse de force\" : l'ex-assistante personnelle de Mohamed Al-Fayed dénonce des agressions sexuelles Aujourd'hui : Témoignage",
+   "title": ": Témoignage \"Il prend mon visage dans les mains et m'embrasse de force\" : l'ex-assistante personnelle de Mohamed Al-Fayed dénonce des agressions sexuelles Pelham Spong, l'ancienne assistante de l'homme d’affaires, dénonce des faits qui auraient eu lieu en 2017 en Grande-Bretagne, et en 2025 à Paris. Elle met en cause également la responsabilité du Ritz. Aujourd'hui : Témoignage",
    "link": "https://www.franceinfo.fr/societe/justice/il-prend-mon-visage-dans-les-mains-et-il-m-embrasse-de-force-une-femme-temoigne-apres-avoir-porte-plainte-contre-l-homme-d-affaires-mohamed-al-fayed_8280560.html",
    "summary": "\"Il prend mon visage dans les mains et m'embrasse de force\" : l'ex-assistante personnelle de Mohamed Al-Fayed dénonce des agressions sexuelles",
    "image": "https://www.franceinfo.fr/pictures/LKaOBQ3RgHiVXrtmEjv0901eyh8/0x520:5000x3333/432x243/filters:format(jpg)/2026/11/13/6af6b10b68828771212101.jpg",
@@ -84,7 +175,7 @@
    "pubdate": "2026-11-13T11:08:49.553232+00:00"
   },
   {
-   "title": "Affaire Bétharram : dialogue rompu entre la congrégation et l'ONG mandatée pour faire un rapport sur les centaines d'enfants victimes de violences dans l'établissement Aujourd'hui",
+   "title": "Affaire Bétharram : dialogue rompu entre la congrégation et l'ONG mandatée pour faire un rapport sur les centaines d'enfants victimes de violences dans l'établissement La congrégation de Bétharram assure que le comité de suivi évoqué par l'Institut Louis Joinet répondait uniquement \"à une initiative\" de l'association. Elle estime que la mission confiée à l'ONG \"s'est achevée\" avec la publication de son rapport. Aujourd'hui",
    "link": "https://www.franceinfo.fr/societe/education/affaire-de-violences-sexuelles-a-notre-dame-de-betharram/affaire-betharram-dialogue-rompu-entre-la-congregation-et-l-ong-mandatee-pour-faire-un-rapport-sur-les-centaines-d-enfants-victimes-de-violences-dans-l-etablissement_8280542.html",
    "summary": "Affaire Bétharram : dialogue rompu entre la congrégation et l'ONG mandatée pour faire un rapport sur les centaines d'enfants victimes de violences dans l'établissement",
    "image": "https://www.franceinfo.fr/pictures/_wsNHKetSif-JiuGgUooPXcZL3U/0x87:1024x663/432x243/filters:format(jpg)/2026/11/13/6af6b0e518824014126493.jpg",
@@ -92,7 +183,7 @@
    "pubdate": "2026-11-13T11:08:49.553232+00:00"
   },
   {
-   "title": "\"Forme de provocation\", \"petite musique de l'extrême droite\"... Les syndicats de l'Education nationale vent debout après les propos de Sébastien Lecornu sur la \"complicité\" d'enseignants lors des violences lycéennes Aujourd'hui",
+   "title": "\"Forme de provocation\", \"petite musique de l'extrême droite\"... Les syndicats de l'Education nationale vent debout après les propos de Sébastien Lecornu sur la \"complicité\" d'enseignants lors des violences lycéennes Sébastien Lecornu a estimé, jeudi, que certains personnels de l'Éducation nationale sont \"complices\" des violences qui émaillent le mouvement lycéen ces derniers jours. Aujourd'hui",
    "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/il-y-a-une-forme-de-provocation-reagit-un-syndicat-a-l-accusation-des-enseignants-de-complicite-aux-violences-lyceennes_8280518.html",
    "summary": "\"Forme de provocation\", \"petite musique de l'extrême droite\"... Les syndicats de l'Education nationale vent debout après les propos de Sébastien Lecornu sur la \"complicité\" d'enseignants lors des violences lycéennes",
    "image": "https://www.franceinfo.fr/pictures/1-3QZkceXvEBGvXmEv1V7ZdiTFQ/0x276:3000x1963/432x243/filters:format(jpg)/2025/08/28/maxnewsworldsix429705-68b090d62366e529607209.jpg",
@@ -100,18 +191,10 @@
    "pubdate": "2026-11-13T11:08:49.553232+00:00"
   },
   {
-   "title": "\"Comment voulez-vous qu'on rattrape ça ?\" : face aux blocages de leur lycée, des proviseurs parisiens racontent leur désarroi Aujourd'hui",
+   "title": "\"Comment voulez-vous qu'on rattrape ça ?\" : face aux blocages de leur lycée, des proviseurs parisiens racontent leur désarroi Le syndicat SNPDEN-Unsa appelle les proviseurs à se rassembler devant leur établissement vendredi à 15 heures. Deux chefs d'établissement interrogés par franceinfo déplorent une situation \"intenable\". Aujourd'hui",
    "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/comment-voulez-vous-qu-on-rattrape-ca-face-aux-blocages-de-leur-lycee-des-proviseurs-parisiens-racontent-leur-desarroi_8279750.html",
    "summary": "\"Comment voulez-vous qu'on rattrape ça ?\" : face aux blocages de leur lycée, des proviseurs parisiens racontent leur désarroi",
    "image": "https://www.franceinfo.fr/pictures/s8IgAIDDp2Fic-uIKunaUNDV9l4/0x53:1024x629/432x243/filters:format(jpg)/2026/11/12/6af5eebfec07a899903904.jpg",
-   "date": null,
-   "pubdate": "2026-11-13T11:08:49.553232+00:00"
-  },
-  {
-   "title": "\"On peut critiquer la police sans forcément lui manquer de respect\" : comment les jeunes candidats à l'école de police vivent le climat ambiant des manifestations lycéennes 4:56 audio 4 minutes 56",
-   "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/on-peut-critiquer-la-police-sans-forcement-lui-manquer-de-respect-comment-les-jeunes-candidats-a-l-ecole-de-police-vivent-le-climat-ambiant-des-manifestations-lyceennes_8259737.html",
-   "summary": "\"On peut critiquer la police sans forcément lui manquer de respect\" : comment les jeunes candidats à l'école de police vivent le climat ambiant des manifestations lycéennes",
-   "image": "https://www.franceinfo.fr/pictures/3tgZMoD1zzUzJ9p8W8TuRnhX0jU/0x250:4800x2950/432x243/filters:format(jpg)/2026/11/12/6af5fe4443f8d433419322.jpg",
    "date": null,
    "pubdate": "2026-11-13T11:08:49.553232+00:00"
   },
@@ -124,60 +207,12 @@
    "pubdate": "2026-11-13T11:08:49.553232+00:00"
   },
   {
-   "title": ": Vrai ou faux Une hausse du smic à 1 700 euros entraînerait-elle la destruction de 230 000 emplois, comme l'affirme le gouvernement ? \"Une augmentation du smic plus importante aurait, de manière structurelle et structurée, engendré une destruction importante d'emplois\", a soutenu le Premier ministre Sébastien Lecornu pour justifier une hausse du salaire minimum limitée à 1,6%. Aujourd'hui : Vrai ou faux",
-   "link": "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-une-hausse-du-smic-a-1-700-euros-entrainerait-elle-la-destruction-de-230-000-emplois-comme-l-affirme-le-gouvernement_8274335.html",
-   "summary": "Une hausse du smic à 1 700 euros entraînerait-elle la destruction de 230 000 emplois, comme l'affirme le gouvernement ?",
-   "image": "https://www.franceinfo.fr/pictures/7ALxQHUu_ElQ354qaOyGVRHAsSY/0x0:1024x576/432x243/filters:format(jpg)/2026/11/10/6af3413f7344a530073957.jpg",
-   "date": null,
-   "pubdate": "2026-11-13T11:08:49.553232+00:00"
-  },
-  {
    "title": "\"La jeunesse dans les quartiers populaires, elle n'a pas le droit à l'erreur\" : 48 heures dans les quartiers nord de Marseille 18:36 vidéo 18 minutes 36",
    "link": "https://www.franceinfo.fr/marseille/la-jeunesse-dans-les-quartiers-populaires-elle-n-a-pas-le-droit-a-l-erreur-48-heures-dans-les-quartiers-nord-de-marseille_8280122.html",
    "summary": "\"La jeunesse dans les quartiers populaires, elle n'a pas le droit à l'erreur\" : 48 heures dans les quartiers nord de Marseille",
    "image": "https://www.franceinfo.fr/pictures/jJf1HmLZtFYdo-w2t6vMAyPxFis/184x0:1480x729/432x243/filters:format(jpg)/2026/11/12/6af6438ca56b1677162354.jpg",
    "date": null,
    "pubdate": "2026-11-13T01:53:41.163748+00:00"
-  },
-  {
-   "title": "\"C'est plus jeter de l'huile sur le feu qu'éteindre l'incendie\", juge le syndicat national des lycées et collèges, alors que des enseignants sont accusés de \"complicité\" sur les violences Invité jeudi sur franceinfo, le président du Snalc Jean-Rémi Girard rejette les soupçons de \"complicité passive\" et de \"laisser-faire\" dont les enseignants font l'objet. Le Premier ministre estime que certains personnels sont \"complices\" des violences qui émaillent dernièrement le mouvement lycéen. 12 novembre",
-   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/c-est-plus-jeter-de-l-huile-sur-le-feu-qu-eteindre-l-incendie-juge-le-syndicat-national-des-lycees-et-colleges-alors-que-des-enseignants-sont-accuses-de-complicite-sur-les-violences_8280095.html",
-   "summary": "\"C'est plus jeter de l'huile sur le feu qu'éteindre l'incendie\", juge le syndicat national des lycées et collèges, alors que des enseignants sont accusés de \"complicité\" sur les violences",
-   "image": "https://www.franceinfo.fr/pictures/s8QiliHJw8xOqzm4tT8YCXi1rCc/0x86:4608x2678/432x243/filters:format(jpg)/2026/11/12/6af632a5f03e3222025616.jpg",
-   "date": null,
-   "pubdate": "2026-11-13T01:53:41.163748+00:00"
-  },
-  {
-   "title": "La Hongrie va ratifier la Convention d’Istanbul, qui lutte contre les violences faites aux femmes Le Premier ministre, Péter Magyar, a aussi annoncé la suppression d'une réglementation hongroise qui obligeait les femmes à écouter les battements du cœur de leur fœtus avant un avortement. 12 novembre",
-   "link": "https://www.franceinfo.fr/societe/droits-des-femmes/la-hongrie-va-ratifier-la-convention-d-istanbul-qui-lutte-contre-les-violences-faites-aux-femmes_8280047.html",
-   "summary": "La Hongrie va ratifier la Convention d’Istanbul, qui lutte contre les violences faites aux femmes",
-   "image": "https://www.franceinfo.fr/pictures/YuDSiHa0A-A3olrgiIWg55OQXKU/0x73:1024x649/432x243/filters:format(jpg)/2026/11/12/6af628c558d14615548423.jpg",
-   "date": null,
-   "pubdate": "2026-11-13T01:53:41.163748+00:00"
-  },
-  {
-   "title": "Les aides de la Région Ile-de-France vont être suspendues pour les auteurs de dégradations dans les lycées, annonce Valérie Pécresse La présidente LR du conseil régional a aussi proposé jeudi d'installer des caméras dans les établissements où des intrusions violentes ont eu lieu. 12 novembre",
-   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/les-aides-de-l-ile-de-france-vont-etre-suspendues-pour-les-auteurs-de-degradations-dans-les-lycees-annonce-valerie-pecresse_8279999.html",
-   "summary": "Les aides de la Région Ile-de-France vont être suspendues pour les auteurs de dégradations dans les lycées, annonce Valérie Pécresse",
-   "image": "https://www.franceinfo.fr/pictures/iTw1r3eeX0-FWp1-nyjNT2BHMe4/0x73:1024x649/432x243/filters:format(jpg)/2026/11/12/6af61cc8ea886901870246.jpg",
-   "date": null,
-   "pubdate": "2026-11-13T01:53:41.163748+00:00"
-  },
-  {
-   "title": "Affaire Lyhanna : Gérald Darmanin saisit le Conseil supérieur de la magistrature contre une substitut du procureur d'Auch Le garde des Sceaux a saisi le CSM contre une substitut du parquet d'Auch après l'enquête administrative de l'Inspection générale judiciaire. 12 novembre",
-   "link": "https://www.franceinfo.fr/faits-divers/disparition-de-lyhanna-dans-le-gers/affaire-lyhanna-gerald-darmanin-saisit-le-conseil-superieur-de-la-magistrature-contre-une-substitut-du-procureur-d-auch-pour-ne-pas-avoir-verifie-les-antecedents-du-suspect_8279870.html",
-   "summary": "Affaire Lyhanna : Gérald Darmanin saisit le Conseil supérieur de la magistrature contre une substitut du procureur d'Auch",
-   "image": "https://www.franceinfo.fr/pictures/t0V3k67eRqrNoZFzznIr8MMZ1Ss/0x53:1024x629/432x243/filters:format(jpg)/2026/11/12/6af5ff31d6507980838544.jpg",
-   "date": null,
-   "pubdate": "2026-11-12T20:01:24.303539+00:00"
-  },
-  {
-   "title": "Pillages à Paris le week-end du 17 octobre : 800 dossiers de vidéos amateurs transmis à la plateforme mise en place par la préfecture de police Le travail de la cellule d'enquête dédiée a permis depuis près d'un mois d'interpeller 80 personnes. La sûreté territoriale de Paris, qui coordonne cette cellule d'enquête, espère \"des dizaines d'autres interpellations dans les semaines à venir\". 12 novembre",
-   "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/pillages-a-paris-le-week-end-du-17-octobre-800-dossiers-de-videos-amateurs-transmis-a-la-plateforme-mise-en-place-par-la-prefecture-de-police_8279804.html",
-   "summary": "Pillages à Paris le week-end du 17 octobre : 800 dossiers de vidéos amateurs transmis à la plateforme mise en place par la préfecture de police",
-   "image": "https://www.franceinfo.fr/pictures/zsNd5rUvS8AUiRWg2mYtddluR8A/0x522:5000x3335/432x243/filters:format(jpg)/2026/11/12/6af5f7026ce32166181455.jpg",
-   "date": null,
-   "pubdate": "2026-11-12T20:01:24.303539+00:00"
   },
   {
    "title": ": Reportage Alors que le procès Escoffier débute, des skippeuses dépeignent un monde de la voile structuré par la domination masculine : Reportage 4:23 audio 4 minutes 23",
@@ -194,14 +229,6 @@
    "image": "https://www.franceinfo.fr/pictures/IY0v0dzIMlWA-UnjKzd2whY8bFQ/0x0:3011x1694/432x243/filters:format(jpg)/2026/11/04/6aeb56e2472bf118122098.jpg",
    "date": null,
    "pubdate": "2026-11-06T06:56:03.517297+00:00"
-  },
-  {
-   "title": "Pierre-Edouard Stérin, milliardaire proche de l'extrême droite, sera jugé en janvier pour son refus de se présenter devant une commission d'enquête parlementaire Il avait refusé à deux reprises, les 14 et 20 mai 2025, de se rendre à des convocations à l'Assemblée nationale pour être auditionné par des députés sur \"l'organisation des élections en France\". 12 novembre",
-   "link": "https://www.franceinfo.fr/societe/justice/pierre-edouard-sterin-milliardaire-proche-de-l-extreme-droite-sera-juge-en-janvier-pour-son-refus-de-venir-devant-les-deputes_8280011.html",
-   "summary": "Pierre-Edouard Stérin, milliardaire proche de l'extrême droite, sera jugé en janvier pour son refus de se présenter devant une commission d'enquête parlementaire",
-   "image": "https://www.franceinfo.fr/pictures/ArSx9PkHqV_8ZrZ7ZGOqf6HYuD8/0x19:1024x595/432x243/filters:format(jpg)/2026/11/12/6af623ac4f0ad451941067.jpg",
-   "date": "2025-05-20T11:00:00+00:00",
-   "pubdate": "2025-05-20T11:00:00+00:00"
   }
  ]
 }
