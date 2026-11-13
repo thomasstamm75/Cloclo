@@ -1,16 +1,32 @@
 {
  "etag": "",
- "last_modified": "Thu, 12 Nov 2026 17:10:23 GMT",
+ "last_modified": "Fri, 13 Nov 2026 11:06:26 GMT",
  "first_seen": {
-  "https://www.jean-jaures.org/publication/leducation-des-filles-en-afrique-subsaharienne-ce-que-la-parite-ne-change-pas/": "2026-11-06T11:00:00+00:00",
   "https://www.jean-jaures.org/publication/de-linfluence-a-la-confiance-faut-il-repenser-la-diplomatie-culturelle/": "2026-11-09T11:00:00+00:00",
-  "https://www.jean-jaures.org/publication/taux-longs-jusquou-peuvent-ils-encore-monter/": "2026-11-09T11:00:00+00:00",
   "https://www.jean-jaures.org/publication/de-laide-a-la-souverainete-reformer-larchitecture-mondiale-de-la-sante/": "2026-11-10T11:00:00+00:00",
   "https://www.jean-jaures.org/publication/commemorations-du-11-novembre-quelle-memoire-et-quelle-histoire-transmettre-aux-jeunes-generations/": "2026-11-10T11:00:00+00:00",
-  "https://www.jean-jaures.org/publication/face-a-la-fragmentation-informationnelle-le-temps-politique-augmente-sur-youtube/": "2026-11-10T11:00:00+00:00"
+  "https://www.jean-jaures.org/publication/face-a-la-fragmentation-informationnelle-le-temps-politique-augmente-sur-youtube/": "2026-11-10T11:00:00+00:00",
+  "https://www.jean-jaures.org/publication/de-limportance-de-la-democratie-sociale-la-lettre-de-lobservatoire-du-dialogue-social/": "2026-11-13T11:00:00+00:00",
+  "https://www.jean-jaures.org/publication/lia-est-bel-et-bien-entree-dans-latelier-des-mondes-academiques/": "2026-11-13T11:00:00+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "De l’importance de la démocratie sociale – La lettre de l’Observatoire du dialogue social",
+   "link": "https://www.jean-jaures.org/publication/de-limportance-de-la-democratie-sociale-la-lettre-de-lobservatoire-du-dialogue-social/",
+   "summary": "",
+   "image": "",
+   "date": "2026-11-13T11:00:00+00:00",
+   "pubdate": "2026-11-13T11:00:00+00:00"
+  },
+  {
+   "title": "L’IA est bel et bien entrée dans l’atelier des mondes académiques",
+   "link": "https://www.jean-jaures.org/publication/lia-est-bel-et-bien-entree-dans-latelier-des-mondes-academiques/",
+   "summary": "",
+   "image": "",
+   "date": "2026-11-13T11:00:00+00:00",
+   "pubdate": "2026-11-13T11:00:00+00:00"
+  },
   {
    "title": "De l’aide à la souveraineté : réformer l’architecture mondiale de la santé",
    "link": "https://www.jean-jaures.org/publication/de-laide-a-la-souverainete-reformer-larchitecture-mondiale-de-la-sante/",
@@ -42,22 +58,6 @@
    "image": "",
    "date": "2026-11-09T11:00:00+00:00",
    "pubdate": "2026-11-09T11:00:00+00:00"
-  },
-  {
-   "title": "Taux longs : jusqu’où peuvent-ils encore monter ?",
-   "link": "https://www.jean-jaures.org/publication/taux-longs-jusquou-peuvent-ils-encore-monter/",
-   "summary": "",
-   "image": "",
-   "date": "2026-11-09T11:00:00+00:00",
-   "pubdate": "2026-11-09T11:00:00+00:00"
-  },
-  {
-   "title": "L’éducation des filles en Afrique subsaharienne : ce que la parité ne change pas",
-   "link": "https://www.jean-jaures.org/publication/leducation-des-filles-en-afrique-subsaharienne-ce-que-la-parite-ne-change-pas/",
-   "summary": "",
-   "image": "",
-   "date": "2026-11-06T11:00:00+00:00",
-   "pubdate": "2026-11-06T11:00:00+00:00"
   }
  ]
 }

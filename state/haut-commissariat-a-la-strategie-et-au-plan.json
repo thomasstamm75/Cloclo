@@ -1,27 +1,27 @@
 {
- "etag": "W/\"1794527086\"",
- "last_modified": "Thu, 12 Nov 2026 23:44:46 GMT",
+ "etag": "W/\"1794562030\"",
+ "last_modified": "Fri, 13 Nov 2026 09:27:10 GMT",
  "first_seen": {
   "https://www.strategie-plan.gouv.fr/france-2035-france-2050-decouvrez-le-projet": "2026-09-10T11:00:00+00:00",
   "https://www.strategie-plan.gouv.fr/conference-presentation-densemble-du-rapport-de-prospective-france-2035-france-2050": "2026-10-06T11:00:00+00:00",
   "https://www.strategie-plan.gouv.fr/webconference-evenements-climatiques-extremes-tirer-les-lecons-de-lete-2026-pour-mieux-preparer": "2026-09-30T11:00:00+00:00",
   "https://www.strategie-plan.gouv.fr/publications/hcfips-salaire-brut-salaire-net-evolutions-comparees-et-constats": "2026-06-16T11:00:00+00:00",
-  "https://www.strategie-plan.gouv.fr/publications/sobriete-des-gestes-individuels-aux-choix-collectifs": "2026-11-06T16:48:52.325951+00:00",
   "https://www.strategie-plan.gouv.fr/publications/hcfea-les-politiques-sociales-et-fiscales-en-direction-des-jeunes-adultes-de-18-24-ans": "2026-11-06T11:00:00+00:00",
   "https://www.strategie-plan.gouv.fr/actualites/remise-du-prix-jean-monnet-pour-la-jeunesse-du-haut-commissariat-la-strategie-et-au-plan": "2026-11-10T14:58:59.104471+00:00",
   "https://www.strategie-plan.gouv.fr/publications/hcaam-rapport-du-hcaam-trois-scenarios-pour-une-reforme-des-depassements-dhonoraires": "2026-06-09T11:00:00+00:00",
   "https://www.strategie-plan.gouv.fr/publications/et-si-financait-le-budget-europeen-autrement-sortir-du-juste-retour-pour-donner": "2026-11-12T11:25:45.636738+00:00",
-  "https://www.strategie-plan.gouv.fr/evenements/conference-la-sobriete-ce-nest-pas-quune-question-de-volonte": "2026-11-12T11:25:45.636738+00:00"
+  "https://www.strategie-plan.gouv.fr/evenements/conference-la-sobriete-ce-nest-pas-quune-question-de-volonte": "2026-11-12T11:25:45.636738+00:00",
+  "https://www.strategie-plan.gouv.fr/publications/pour-un-budget-europeen-la-hauteur-des-enjeux": "2026-11-13T11:08:59.537129+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
    "title": "Bienvenue sur le site du Haut-commissariat à la Stratégie et au Plan",
-   "link": "https://www.strategie-plan.gouv.fr/publications/et-si-financait-le-budget-europeen-autrement-sortir-du-juste-retour-pour-donner",
+   "link": "https://www.strategie-plan.gouv.fr/publications/pour-un-budget-europeen-la-hauteur-des-enjeux",
    "summary": "Le Haut-commissariat à la Stratégie et au Plan contribue à l’action publique par ses analyses et ses propositions. Il éclaire les choix collectifs sur les enjeux démographiques, économiques, sociaux, environnementaux, sanitaires, technologiques et culturels, dans un cadre national et européen.",
    "image": "https://www.strategie-plan.gouv.fr/files/styles/ds_image_paragraphe/public/files/accueil-fstrat.png?itok=ZH0UHCYU",
    "date": null,
-   "pubdate": "2026-11-12T11:25:45.636738+00:00"
+   "pubdate": "2026-11-13T11:08:59.537129+00:00"
   },
   {
    "title": "Conférence | La sobriété, ce n’est pas q...",
@@ -32,20 +32,20 @@
    "pubdate": "2026-11-12T11:25:45.636738+00:00"
   },
   {
+   "title": "Et si on finançait le budget européen autrement ? Sortir du juste retour pour donner à l’Europe les moyens de ses ambitions",
+   "link": "https://www.strategie-plan.gouv.fr/publications/et-si-financait-le-budget-europeen-autrement-sortir-du-juste-retour-pour-donner",
+   "summary": "Haut-commissariat à la Stratégie et au Plan",
+   "image": "",
+   "date": "2026-11-12T11:00:00+00:00",
+   "pubdate": "2026-11-12T11:00:00+00:00"
+  },
+  {
    "title": "Remise du Prix Jean Monnet pour la Jeunesse du Haut-commissariat à la Stratégie et au Plan",
    "link": "https://www.strategie-plan.gouv.fr/actualites/remise-du-prix-jean-monnet-pour-la-jeunesse-du-haut-commissariat-la-strategie-et-au-plan",
    "summary": "",
    "image": "",
    "date": null,
    "pubdate": "2026-11-10T14:58:59.104471+00:00"
-  },
-  {
-   "title": "Sobriété. Des gestes individuels aux choix collectifs",
-   "link": "https://www.strategie-plan.gouv.fr/publications/sobriete-des-gestes-individuels-aux-choix-collectifs",
-   "summary": "Haut-commissariat à la Stratégie et au Plan",
-   "image": "",
-   "date": "2026-11-06T11:00:00+00:00",
-   "pubdate": "2026-11-06T11:00:00+00:00"
   },
   {
    "title": "HCFEA | Les politiques sociales et fiscales en direction des jeunes adultes de 18 à 24 ans et de leurs familles",

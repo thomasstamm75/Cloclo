@@ -1,8 +1,7 @@
 {
- "etag": "\"1dift9z\"",
+ "etag": "\"1i71opk\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/reforme-du-lycee-la-promesse-de-l-emploi-a-t-elle-ete-tenue-4792528": "2026-10-19T13:29:21.119779+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/l-entreprenariat-par-necessite-2795523": "2026-10-20T08:39:13.495148+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/pekin-traque-les-milliards-des-grandes-fortunes-chinoises-a-l-etranger-4732139": "2026-10-22T12:00:53.779488+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/bientot-une-agence-de-notation-africaine-9756036": "2026-10-23T11:46:37.660008+00:00",
@@ -19,10 +18,19 @@
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/la-difficile-lutte-contre-le-non-recours-aux-aides-sociales-en-france-3253288": "2026-11-09T06:46:19.334333+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/chili-les-fonds-de-pension-perdent-9-milliards-d-euros-les-retraites-trinquent-3310796": "2026-11-10T14:59:00.725584+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/l-opep-ne-fait-plus-la-pluie-et-le-beau-temps-sur-le-cours-mondial-du-petrole-7311578": "2026-11-11T11:00:00+00:00",
-  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/le-marche-des-paiements-champ-de-bataille-et-levier-de-souverainete-1045640": "2026-11-12T11:25:47.061626+00:00"
+  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/le-marche-des-paiements-champ-de-bataille-et-levier-de-souverainete-1045640": "2026-11-12T11:25:47.061626+00:00",
+  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/le-groupe-ubs-menace-de-quitter-la-suisse-face-au-durcissement-des-regles-bancaires-7619418": "2026-11-13T11:09:00.958139+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "Le groupe UBS menace de quitter la Suisse face au durcissement des règles bancaires",
+   "link": "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/le-groupe-ubs-menace-de-quitter-la-suisse-face-au-durcissement-des-regles-bancaires-7619418",
+   "summary": "Depuis le naufrage de Crédit Suisse, Berne veut imposer à UBS des exigences accrues en fonds propres. La première banque du pays dénonce des règles trop contraignantes et brandit la menace d’un départ à l’étranger, notamment vers les États-Unis. Une pression sur les autorités suisses.",
+   "image": "https://www.radiofrance.fr/pikapi/images/1920c2e1-531e-4b67-83ec-8fda2edbeb59/2048",
+   "date": null,
+   "pubdate": "2026-11-13T11:09:00.958139+00:00"
+  },
   {
    "title": "Le marché des paiements, champ de bataille et levier de souveraineté",
    "link": "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/le-marche-des-paiements-champ-de-bataille-et-levier-de-souverainete-1045640",
@@ -158,14 +166,6 @@
    "image": "https://www.radiofrance.fr/pikapi/images/17a9b36f-fabf-465b-a3f7-20b716445264/2048",
    "date": "2026-10-20T11:00:00+00:00",
    "pubdate": "2026-10-20T11:00:00+00:00"
-  },
-  {
-   "title": "Réforme du lycée : la promesse de l'emploi a-t-elle été tenue ?",
-   "link": "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/reforme-du-lycee-la-promesse-de-l-emploi-a-t-elle-ete-tenue-4792528",
-   "summary": "Pensée pour rapprocher l’école du monde du travail, la réforme du lycée devait faciliter l’insertion professionnelle des jeunes et répondre aux besoins des entreprises. Plusieurs années après sa mise en place, quel bilan peut-on tirer de cette promesse ?",
-   "image": "https://www.radiofrance.fr/pikapi/images/6972ac23-9164-45c9-bf95-e2df9e7f5075/2048",
-   "date": "2026-10-19T11:00:00+00:00",
-   "pubdate": "2026-10-19T11:00:00+00:00"
   }
  ]
 }
