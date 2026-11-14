@@ -1,17 +1,11 @@
 {
- "etag": "\"3f8758a9d45816efa3371bffb4dc968a-gzip\"",
+ "etag": "\"850e19a5eba994cf48202049291f14a0-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/marseille/la-jeunesse-dans-les-quartiers-populaires-elle-n-a-pas-le-droit-a-l-erreur-48-heures-dans-les-quartiers-nord-de-marseille_8280122.html": "2026-11-13T01:53:41.163748+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/on-peut-critiquer-la-police-sans-forcement-lui-manquer-de-respect-comment-les-jeunes-candidats-a-l-ecole-de-police-vivent-le-climat-ambiant-des-manifestations-lyceennes_8259737.html": "2026-11-13T11:08:49.553232+00:00",
-  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/le-lycee-brequigny-a-rennes-ferme-du-16-au-20-novembre-en-raison-de-degradations_8281622.html": "2026-11-13T19:48:23.266234+00:00",
-  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/il-faut-dire-la-verite-sur-ce-qui-se-passe-le-premier-syndicat-des-chefs-d-etablissement-conteste-les-chiffres-du-ministere-sur-les-lycees-bloques_8281568.html": "2026-11-13T19:48:23.266234+00:00",
-  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/il-faut-entendre-les-revendications-legitimes-des-lyceens-estime-la-fcpe_8281472.html": "2026-11-13T19:48:23.266234+00:00",
-  "https://www.franceinfo.fr/societe/manifestations/la-prefecture-de-police-valide-l-itineraire-commun-republique-nation-a-paris-declare-par-trois-organisateurs-distincts-pour-la-mobilisation-du-14-novembre_8281439.html": "2026-11-13T19:48:23.266234+00:00",
   "https://www.franceinfo.fr/societe/education/blocage-des-lycees/le-gouvernement-veut-systematiser-les-sanctions-disciplinaires-contre-les-eleves-impliques-dans-les-blocages-de-lycees_8281724.html": "2026-11-14T01:28:36.475809+00:00",
-  "https://www.franceinfo.fr/faits-divers/police/laurent-nunez-promet-aux-policiers-une-revalorisation-de-leur-prime-de-risque-les-syndicats-mecontents_8281625.html": "2026-11-14T01:28:36.475809+00:00",
   "https://www.franceinfo.fr/societe/education/violences-dans-le-periscolaire/periscolaire-a-paris-une-famille-de-l-ecole-saint-dominique-somme-la-mairie-de-fournir-les-plannings-des-animateurs_8282189.html": "2026-11-14T10:36:06.602569+00:00",
-  "https://www.franceinfo.fr/societe/en-cas-de-coup-dur-plus-d-un-tiers-des-francais-n-ont-personne-sur-qui-compter_8279780.html": "2026-11-14T10:36:06.602569+00:00",
   "https://www.franceinfo.fr/replay-radio/l-il-de-julie/le-mogging-ou-l-art-de-surpasser-les-autres_8261258.html": "2026-11-14T10:36:06.602569+00:00",
   "https://www.franceinfo.fr/faits-divers/appel-a-temoins-reconstitution-adn-trente-ans-apres-la-disparition-de-marion-wagon-l-enquete-relancee_8280797.html": "2026-11-14T10:36:06.602569+00:00",
   "https://www.franceinfo.fr/societe/education/blocage-des-lycees/c-est-comme-avoir-un-professeur-particulier-des-eleves-de-normale-sup-donnent-des-cours-gratuits-a-des-lyceens_8281418.html": "2026-11-14T10:36:06.602569+00:00",
@@ -19,96 +13,105 @@
   "https://www.franceinfo.fr/replay-radio/c-est-mon-boulot/un-metier-junior-sur-cinq-exige-desormais-des-competences-en-intelligence-artificielle_8261264.html": "2026-11-14T10:36:06.602569+00:00",
   "https://www.franceinfo.fr/replay-radio/les-experts-cinema/15-18-cedric-khan-nous-immerge-dans-la-psychiatrie-adolescente_8261261.html": "2026-11-14T10:36:06.602569+00:00",
   "https://www.franceinfo.fr/societe/education/blocage-des-lycees/le-gouvernement-joue-la-strategie-du-pourrissement-deplore-l-union-syndicale-lyceenne_8282162.html": "2026-11-14T10:36:06.602569+00:00",
-  "https://www.franceinfo.fr/faits-divers/police/les-syndicats-des-forces-de-l-ordre-restent-insatisfaits-de-la-hausse-de-la-prime-de-risque-proposee-par-laurent-nunez_8282171.html": "2026-11-14T10:36:06.602569+00:00",
   "https://www.franceinfo.fr/societe/manifestations/interdictions-de-manifestations-couvre-feux-parcours-hors-des-centres-villes-comment-les-prefets-multiplient-les-mesures-administratives-en-amont-des-mobilisations_8274263.html": "2026-11-14T10:36:06.602569+00:00",
   "https://www.franceinfo.fr/societe/nos-jours-heureux/": "2026-11-14T10:36:06.602569+00:00",
   "https://www.franceinfo.fr/societe/euthanasie/comprendre-les-debats-sur-la-fin-de-vie/": "2026-11-14T10:36:06.602569+00:00",
   "https://www.franceinfo.fr/economie/pouvoir-achat/temoignages-j-ai-l-impression-de-travailler-a-perte-salaries-au-smic-ils-racontent-un-quotidien-de-privations-de-galeres-et-de-declassement_8276399.html": "2026-11-14T10:36:06.602569+00:00",
   "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-le-ministere-de-l-education-nationale-minimise-t-il-le-nombre-de-lycees-bloques_8280680.html": "2026-11-14T10:36:06.602569+00:00",
   "https://www.franceinfo.fr/societe/manifestations/direct-manifestations-du-14-novembre-suivez-la-journee-de-mobilisation-a-l-appel-de-gilets-jaunes-et-d-organisations-de-jeunesse_8281187.html": "2026-11-14T10:36:06.602569+00:00",
-  "https://www.franceinfo.fr/faits-divers/le-vice-president-d-une-universite-en-ile-de-france-agresse-a-l-arme-blanche_8281703.html": "2026-11-14T10:36:06.602569+00:00"
+  "https://www.franceinfo.fr/faits-divers/le-vice-president-d-une-universite-en-ile-de-france-agresse-a-l-arme-blanche_8281703.html": "2026-11-14T10:36:06.602569+00:00",
+  "https://www.franceinfo.fr/societe/manifestations/manifestations-du-14-novembre-une-equipe-de-bfmtv-agressee-en-marge-de-la-mobilisation-a-lyon_8282714.html": "2026-11-14T18:13:14.577226+00:00",
+  "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux-junior/pourquoi-les-epreuves-du-bac-2027-ne-sont-elles-pas-reportees-ou-amenagees_8261252.html": "2026-11-14T18:13:14.577226+00:00",
+  "https://www.franceinfo.fr/replay-radio/l-info-de-l-histoire/comment-finissent-les-greves_8261279.html": "2026-11-14T18:13:14.577226+00:00",
+  "https://www.franceinfo.fr/societe/feminicides/un-homme-place-en-garde-a-vue-apres-la-decouverte-du-corps-de-son-ex-conjointe-a-charleville-mezieres_8282465.html": "2026-11-14T18:13:14.577226+00:00",
+  "https://www.franceinfo.fr/societe/manifestations/il-est-temps-de-se-mettre-a-hauteur-d-enfants-dans-ce-pays-lance-l-association-mouv-enfants_8282561.html": "2026-11-14T18:13:14.577226+00:00",
+  "https://www.franceinfo.fr/economie/surendettement-10-2-de-dossiers-supplementaires-deposes-a-la-banque-de-france-depuis-le-debut-de-l-annee-2026_8282537.html": "2026-11-14T18:13:14.577226+00:00",
+  "https://www.franceinfo.fr/societe/la-poste-pourrait-fermer-471-bureaux-les-habitants-denoncent-un-abandon-des-territoires_8282513.html": "2026-11-14T18:13:14.577226+00:00",
+  "https://www.franceinfo.fr/faits-divers/yvelines-le-vice-president-d-une-universite-agresse-au-cutter-dans-son-bureau_8282477.html": "2026-11-14T18:13:14.577226+00:00",
+  "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/violences-du-17-octobre-jusqu-a-500-millions-d-euros-de-degats-estimes-par-les-assureurs_8282438.html": "2026-11-14T18:13:14.577226+00:00",
+  "https://www.franceinfo.fr/internet/reseaux-sociaux/le-but-est-de-toucher-un-maximum-de-personnes-des-caisses-de-stream-lances-en-soutien-aux-grevistes-et-aux-lyceens-mobilises_8282198.html": "2026-11-14T18:13:14.577226+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "Périscolaire à Paris: une famille de l'école Saint-Dominique somme la mairie de fournir les plannings des animateurs La ville de Paris a déclaré à l'AFP qu'elle \"s'est engagée à transmettre aux familles les plannings vérifiés, la semaine prochaine\". Aujourd'hui",
-   "link": "https://www.franceinfo.fr/societe/education/violences-dans-le-periscolaire/periscolaire-a-paris-une-famille-de-l-ecole-saint-dominique-somme-la-mairie-de-fournir-les-plannings-des-animateurs_8282189.html",
-   "summary": "Périscolaire à Paris: une famille de l'école Saint-Dominique somme la mairie de fournir les plannings des animateurs",
-   "image": "https://www.franceinfo.fr/pictures/KNJq-fNIPAD-H2ylse50J967EnQ/0x62:2000x1437/432x297/filters:format(jpg)/2026/11/14/6af8339b0a228033678137.jpg",
+   "title": "Manifestations du 14 novembre : une équipe de BFMTV agressée en marge de la mobilisation à Lyon Le préfet a condamné \"avec la plus grande fermeté les agressions commises aujourd'hui à l'encontre de journalistes\", rappelant que \"la liberté de la presse et le droit d'informer sont des piliers fondamentaux de notre démocratie\". Aujourd'hui",
+   "link": "https://www.franceinfo.fr/societe/manifestations/manifestations-du-14-novembre-une-equipe-de-bfmtv-agressee-en-marge-de-la-mobilisation-a-lyon_8282714.html",
+   "summary": "Manifestations du 14 novembre : une équipe de BFMTV agressée en marge de la mobilisation à Lyon",
+   "image": "https://www.franceinfo.fr/pictures/Mzrois1w_dTLjZeRaPAC4K24m0g/106x0:6901x4672/432x297/filters:format(jpg)/2026/11/14/6af89afb5293b276235078.jpg",
    "date": null,
-   "pubdate": "2026-11-14T10:36:06.602569+00:00"
+   "pubdate": "2026-11-14T18:13:14.577226+00:00"
   },
   {
-   "title": "En cas de coup dur, plus d’un tiers des Français n’ont personne sur qui compter Aujourd'hui 1:03 vidéo 1 minute 3",
-   "link": "https://www.franceinfo.fr/societe/en-cas-de-coup-dur-plus-d-un-tiers-des-francais-n-ont-personne-sur-qui-compter_8279780.html",
-   "summary": "En cas de coup dur, plus d’un tiers des Français n’ont personne sur qui compter",
-   "image": "https://www.franceinfo.fr/pictures/Af-xf15RjgkWYM-qHlqT9d3x7ks/0x0:900x1600/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/12/6af5ee0441634707732798.jpg",
+   "title": "Pourquoi les épreuves du bac 2027 ne sont-elles pas reportées ou aménagées ? Aujourd'hui 2:44 audio 2 minutes 44",
+   "link": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux-junior/pourquoi-les-epreuves-du-bac-2027-ne-sont-elles-pas-reportees-ou-amenagees_8261252.html",
+   "summary": "Pourquoi les épreuves du bac 2027 ne sont-elles pas reportées ou aménagées ?",
+   "image": "https://www.franceinfo.fr/pictures/lBVEuemseGu3CcDnOYpBkUngMYc/0x305:5856x3599/432x243/filters:format(jpg)/2026/11/11/6af48f64c7b91305793044.jpg",
    "date": null,
-   "pubdate": "2026-11-14T10:36:06.602569+00:00"
+   "pubdate": "2026-11-14T18:13:14.577226+00:00"
   },
   {
-   "title": "Le \"mogging\", ou l'art de surpasser les autres Aujourd'hui 2:27 audio 2 minutes 27",
-   "link": "https://www.franceinfo.fr/replay-radio/l-il-de-julie/le-mogging-ou-l-art-de-surpasser-les-autres_8261258.html",
-   "summary": "Le \"mogging\", ou l'art de surpasser les autres",
-   "image": "https://www.franceinfo.fr/pictures/rV8F-vtrrrW6PF37HPfhwvSuN54/0x110:2121x1303/432x243/filters:format(jpg)/2026/11/14/6af8170d68eee520102684.jpg",
+   "title": "Comment finissent les grèves ? Aujourd'hui 5:01 audio 5 minutes 1",
+   "link": "https://www.franceinfo.fr/replay-radio/l-info-de-l-histoire/comment-finissent-les-greves_8261279.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/7ZUZQkHGKqDCkvtSoDIrX5CuQvE/0x78:2100x1260/432x243/filters:format(jpg)/2026/11/13/6af745aaa87c2772438978.jpg",
    "date": null,
-   "pubdate": "2026-11-14T10:36:06.602569+00:00"
+   "pubdate": "2026-11-14T18:13:14.577226+00:00"
   },
   {
-   "title": "Appel à témoins, reconstitution ADN… Trente ans après la disparition de Marion Wagon, l'enquête relancée Aujourd'hui",
-   "link": "https://www.franceinfo.fr/faits-divers/appel-a-temoins-reconstitution-adn-trente-ans-apres-la-disparition-de-marion-wagon-l-enquete-relancee_8280797.html",
-   "summary": "Appel à témoins, reconstitution ADN… Trente ans après la disparition de Marion Wagon, l'enquête relancée",
-   "image": "https://www.franceinfo.fr/pictures/2GYwwng7uQCKrhTIxl5JgGSKhkY/0x31:582x358/432x243/filters:format(jpg)/2026/11/13/6af717f8227c5551776033.jpg",
+   "title": "Un homme placé en garde à vue après la découverte du corps de son ex-conjointe à Charleville-Mézières Aujourd'hui",
+   "link": "https://www.franceinfo.fr/societe/feminicides/un-homme-place-en-garde-a-vue-apres-la-decouverte-du-corps-de-son-ex-conjointe-a-charleville-mezieres_8282465.html",
+   "summary": "Un homme placé en garde à vue après la découverte du corps de son ex-conjointe à Charleville-Mézières",
+   "image": "https://www.franceinfo.fr/pictures/7b0qYNeNmH1esIwR_JYFABOqG34/0x0:5472x3078/432x243/filters:format(jpg)/2026/11/14/6af882d16e03a510023838.jpg",
    "date": null,
-   "pubdate": "2026-11-14T10:36:06.602569+00:00"
+   "pubdate": "2026-11-14T18:13:14.577226+00:00"
   },
   {
-   "title": "\"C'est comme avoir un professeur particulier\" : des élèves de Normale sup donnent des cours gratuits à des lycéens Aujourd'hui",
-   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/c-est-comme-avoir-un-professeur-particulier-des-eleves-de-normale-sup-donnent-des-cours-gratuits-a-des-lyceens_8281418.html",
-   "summary": "\"C'est comme avoir un professeur particulier\" : des élèves de Normale sup donnent des cours gratuits à des lycéens",
-   "image": "https://www.franceinfo.fr/pictures/Nm_0nCWtvRgAHJ3ckA36yglYVWs/0x53:1024x629/432x243/filters:format(jpg)/2026/11/13/6af744bde6303583103792.jpg",
+   "title": "\"Il est temps de se mettre à hauteur d'enfants dans ce pays\", lance l'association \"Mouv'Enfants\" Aujourd'hui",
+   "link": "https://www.franceinfo.fr/societe/manifestations/il-est-temps-de-se-mettre-a-hauteur-d-enfants-dans-ce-pays-lance-l-association-mouv-enfants_8282561.html",
+   "summary": "\"Il est temps de se mettre à hauteur d'enfants dans ce pays\", lance l'association \"Mouv'Enfants\"",
+   "image": "https://www.franceinfo.fr/pictures/QbkqWVIKJtfBm6V7A8vxqNOcl7U/0x227:5000x3040/432x243/filters:format(jpg)/2025/11/15/maxnewsspecialtwo081417-691862f05dd48725157672.jpg",
    "date": null,
-   "pubdate": "2026-11-14T10:36:06.602569+00:00"
+   "pubdate": "2026-11-14T18:13:14.577226+00:00"
   },
   {
-   "title": "L'effet nocebo : avoir mal par peur d'avoir mal Aujourd'hui 2:19 audio 2 minutes 19",
-   "link": "https://www.franceinfo.fr/replay-radio/c-est-ma-sante/l-effet-nocebo-avoir-mal-par-peur-d-avoir-mal_8261297.html",
-   "summary": "L'effet nocebo : avoir mal par peur d'avoir mal",
-   "image": "https://www.franceinfo.fr/pictures/h0WVqfELjo5LEhXVKLW5E0gLEDI/0x110:2121x1303/432x243/filters:format(jpg)/2026/11/12/6af55b13143f1327565805.jpg",
+   "title": "Surendettement : 10,2% de dossiers supplémentaires déposés à la Banque de France depuis le début de l'année 2026 Aujourd'hui",
+   "link": "https://www.franceinfo.fr/economie/surendettement-10-2-de-dossiers-supplementaires-deposes-a-la-banque-de-france-depuis-le-debut-de-l-annee-2026_8282537.html",
+   "summary": "Surendettement : 10,2% de dossiers supplémentaires déposés à la Banque de France depuis le début de l'année 2026",
+   "image": "https://www.franceinfo.fr/pictures/UI1OvQwLAyB3p3pAxGQzC_SXgMQ/0x436:4288x2848/432x243/filters:format(jpg)/2022/06/02/phpDsvMTe.jpg",
    "date": null,
-   "pubdate": "2026-11-14T10:36:06.602569+00:00"
+   "pubdate": "2026-11-14T18:13:14.577226+00:00"
   },
   {
-   "title": "Un métier junior sur cinq exige désormais des compétences en intelligence artificielle Aujourd'hui 2:39 audio 2 minutes 39",
-   "link": "https://www.franceinfo.fr/replay-radio/c-est-mon-boulot/un-metier-junior-sur-cinq-exige-desormais-des-competences-en-intelligence-artificielle_8261264.html",
-   "summary": "Un métier junior sur cinq exige désormais des compétences en intelligence artificielle",
-   "image": "https://www.franceinfo.fr/pictures/vTEiDD4myGoPQmqHTgXtolYsMsY/0x196:1844x1233/432x243/filters:format(jpg)/2026/11/12/6af59b20a3b98485695939.jpg",
+   "title": "La Poste pourrait fermer 471 bureaux, les habitants dénoncent un abandon des territoires Aujourd'hui 1:55 vidéo 1 minute 55",
+   "link": "https://www.franceinfo.fr/societe/la-poste-pourrait-fermer-471-bureaux-les-habitants-denoncent-un-abandon-des-territoires_8282513.html",
+   "summary": "La Poste pourrait fermer 471 bureaux, les habitants dénoncent un abandon des territoires",
+   "image": "https://www.franceinfo.fr/pictures/7v4o5LFi3IXutyBdMh0KZL1OuRY/34x0:1442x792/432x243/filters:format(jpg)/2026/11/14/6af86520b7f6f064126552.png",
    "date": null,
-   "pubdate": "2026-11-14T10:36:06.602569+00:00"
+   "pubdate": "2026-11-14T18:13:14.577226+00:00"
   },
   {
-   "title": "\"15/18\" : Cédric Khan nous immerge dans la psychiatrie adolescente Aujourd'hui 7:33 audio 7 minutes 33",
-   "link": "https://www.franceinfo.fr/replay-radio/les-experts-cinema/15-18-cedric-khan-nous-immerge-dans-la-psychiatrie-adolescente_8261261.html",
-   "summary": "\"15/18\" : Cédric Khan nous immerge dans la psychiatrie adolescente",
-   "image": "https://www.franceinfo.fr/pictures/3G3Gm9FScgi5EL7MOuqF5-RcM5Y/0x107:1539x972/432x243/filters:format(jpg)/2026/11/12/6af56df4c7c69803794477.jpeg",
+   "title": "Yvelines : le vice-président d'une université agressé au cutter dans son bureau Aujourd'hui 1:30 vidéo 1 minute 30",
+   "link": "https://www.franceinfo.fr/faits-divers/yvelines-le-vice-president-d-une-universite-agresse-au-cutter-dans-son-bureau_8282477.html",
+   "summary": "Yvelines : le vice-président d'une université agressé au cutter dans son bureau",
+   "image": "https://www.franceinfo.fr/pictures/ugjmCOFCuhrzrvjIb-3m8Hg5Um8/34x0:1442x792/432x243/filters:format(jpg)/2026/11/14/6af85c407e348600802430.png",
    "date": null,
-   "pubdate": "2026-11-14T10:36:06.602569+00:00"
+   "pubdate": "2026-11-14T18:13:14.577226+00:00"
   },
   {
-   "title": "Le gouvernement \"joue la stratégie du pourrissement\", déplore l'Union syndicale lycéenne Aujourd'hui",
-   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/le-gouvernement-joue-la-strategie-du-pourrissement-deplore-l-union-syndicale-lyceenne_8282162.html",
-   "summary": "Le gouvernement \"joue la stratégie du pourrissement\", déplore l'Union syndicale lycéenne",
-   "image": "https://www.franceinfo.fr/pictures/07LrujOEl6ujMY709v31uEne804/0x605:5808x3872/432x243/filters:format(jpg)/2026/11/14/6af8093edf185115201716.jpg",
+   "title": "Violences du 17 octobre : jusqu'à 500 millions d'euros de dégâts estimés par des assureurs Aujourd'hui",
+   "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/violences-du-17-octobre-jusqu-a-500-millions-d-euros-de-degats-estimes-par-les-assureurs_8282438.html",
+   "summary": "Violences du 17 octobre : jusqu'à 500 millions d'euros de dégâts estimés par des assureurs",
+   "image": "https://www.franceinfo.fr/pictures/AoqroToggFXQus4B_SDvfQn3We8/432x243/filters:format(jpg)/2026/10/19/6ad62d312a700783270468.jpg",
    "date": null,
-   "pubdate": "2026-11-14T10:36:06.602569+00:00"
+   "pubdate": "2026-11-14T18:13:14.577226+00:00"
   },
   {
-   "title": "Les syndicats des forces de l'ordre restent insatisfaits de la hausse de la prime de risque proposée par Laurent Nuñez Aujourd'hui 1:16 vidéo 1 minute 16",
-   "link": "https://www.franceinfo.fr/faits-divers/police/les-syndicats-des-forces-de-l-ordre-restent-insatisfaits-de-la-hausse-de-la-prime-de-risque-proposee-par-laurent-nunez_8282171.html",
-   "summary": "Les syndicats des forces de l'ordre restent insatisfaits de la hausse de la prime de risque proposée par Laurent Nuñez",
-   "image": "https://www.franceinfo.fr/pictures/QV5wP-DE4fQJUmkEIEOGNCi1Cl0/0x1:1500x844/432x243/filters:format(jpg)/2026/11/14/6af808852619f271112559.jpg",
+   "title": "\"Le but est de toucher un maximum de personnes\" : des \"caisses de stream\" lancés en soutien aux grévistes et aux lycéens mobilisés Aujourd'hui",
+   "link": "https://www.franceinfo.fr/internet/reseaux-sociaux/le-but-est-de-toucher-un-maximum-de-personnes-des-caisses-de-stream-lances-en-soutien-aux-grevistes-et-aux-lyceens-mobilises_8282198.html",
+   "summary": "\"Le but est de toucher un maximum de personnes\" : des \"caisses de stream\" lancés en soutien aux grévistes et aux lycéens mobilisés",
+   "image": "https://www.franceinfo.fr/pictures/dc8F531sdPsyn-yhTp-OfU3USEQ/33x0:1366x750/432x243/filters:format(jpg)/2026/11/14/6af83c54d2066148180564.jpg",
    "date": null,
-   "pubdate": "2026-11-14T10:36:06.602569+00:00"
+   "pubdate": "2026-11-14T18:13:14.577226+00:00"
   },
   {
    "title": "Interdictions de manifestations, couvre-feux, parcours hors des centres-villes… Comment les préfets multiplient les mesures administratives en amont des mobilisations 7:00 article 7 minutes",
@@ -143,6 +146,62 @@
    "pubdate": "2026-11-14T10:36:06.602569+00:00"
   },
   {
+   "title": "Violences dans le périscolaire : une famille de l'école Saint-Dominique à Paris somme la mairie de fournir les plannings des animateurs La ville de Paris a déclaré à l'AFP qu'elle \"s'est engagée à transmettre aux familles les plannings vérifiés, la semaine prochaine\". Aujourd'hui",
+   "link": "https://www.franceinfo.fr/societe/education/violences-dans-le-periscolaire/periscolaire-a-paris-une-famille-de-l-ecole-saint-dominique-somme-la-mairie-de-fournir-les-plannings-des-animateurs_8282189.html",
+   "summary": "Violences dans le périscolaire : une famille de l'école Saint-Dominique à Paris somme la mairie de fournir les plannings des animateurs",
+   "image": "https://www.franceinfo.fr/pictures/yGlyvkZwsX38dGjk8HA_bjavVEo/0x187:2000x1312/432x243/filters:format(jpg)/2026/11/14/6af8339b0a228033678137.jpg",
+   "date": null,
+   "pubdate": "2026-11-14T10:36:06.602569+00:00"
+  },
+  {
+   "title": "Le \"mogging\", ou l'art de surpasser les autres Chaque année, 150 mots apparaissent dans le Petit Robert ou le Larousse. Nous allons en apprendre un nouveau, issu des réseaux sociaux : \"mogging\". Aujourd'hui 2:27 audio 2 minutes 27",
+   "link": "https://www.franceinfo.fr/replay-radio/l-il-de-julie/le-mogging-ou-l-art-de-surpasser-les-autres_8261258.html",
+   "summary": "Le \"mogging\", ou l'art de surpasser les autres",
+   "image": "https://www.franceinfo.fr/pictures/rV8F-vtrrrW6PF37HPfhwvSuN54/0x110:2121x1303/432x243/filters:format(jpg)/2026/11/14/6af8170d68eee520102684.jpg",
+   "date": null,
+   "pubdate": "2026-11-14T10:36:06.602569+00:00"
+  },
+  {
+   "title": "\"C'est comme avoir un professeur particulier\" : des élèves de Normale sup donnent des cours gratuits à des lycéens Face au retard accumulé dans les programmes, des étudiants de l'École normale supérieure proposent depuis près d'un mois des cours de soutien gratuits à des lycéens. Une initiative qui vise aussi à réduire les inégalités scolaires. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/c-est-comme-avoir-un-professeur-particulier-des-eleves-de-normale-sup-donnent-des-cours-gratuits-a-des-lyceens_8281418.html",
+   "summary": "\"C'est comme avoir un professeur particulier\" : des élèves de Normale sup donnent des cours gratuits à des lycéens",
+   "image": "https://www.franceinfo.fr/pictures/Nm_0nCWtvRgAHJ3ckA36yglYVWs/0x53:1024x629/432x243/filters:format(jpg)/2026/11/13/6af744bde6303583103792.jpg",
+   "date": null,
+   "pubdate": "2026-11-14T10:36:06.602569+00:00"
+  },
+  {
+   "title": "L'effet nocebo : avoir mal par peur d'avoir mal C'est l'inverse de l'effet placebo, quand on va mieux parce qu'on a la conviction d'être soigné (même si ce n'est pas le cas). L'effet nocebo est la crainte d'avoir mal, qui à elle seule engendre des effets secondaires. Aujourd'hui 2:19 audio 2 minutes 19",
+   "link": "https://www.franceinfo.fr/replay-radio/c-est-ma-sante/l-effet-nocebo-avoir-mal-par-peur-d-avoir-mal_8261297.html",
+   "summary": "L'effet nocebo : avoir mal par peur d'avoir mal",
+   "image": "https://www.franceinfo.fr/pictures/h0WVqfELjo5LEhXVKLW5E0gLEDI/0x110:2121x1303/432x243/filters:format(jpg)/2026/11/12/6af55b13143f1327565805.jpg",
+   "date": null,
+   "pubdate": "2026-11-14T10:36:06.602569+00:00"
+  },
+  {
+   "title": "Un métier junior sur cinq exige désormais des compétences en intelligence artificielle Pour trouver un emploi, les jeunes doivent de plus en plus maîtriser des compétences liées à l'intelligence artificielle. C'est ce que montre une étude du site internet Jobteaser, spécialisé dans le recrutement des étudiants et des jeunes diplômés. Aujourd'hui 2:39 audio 2 minutes 39",
+   "link": "https://www.franceinfo.fr/replay-radio/c-est-mon-boulot/un-metier-junior-sur-cinq-exige-desormais-des-competences-en-intelligence-artificielle_8261264.html",
+   "summary": "Un métier junior sur cinq exige désormais des compétences en intelligence artificielle",
+   "image": "https://www.franceinfo.fr/pictures/vTEiDD4myGoPQmqHTgXtolYsMsY/0x196:1844x1233/432x243/filters:format(jpg)/2026/11/12/6af59b20a3b98485695939.jpg",
+   "date": null,
+   "pubdate": "2026-11-14T10:36:06.602569+00:00"
+  },
+  {
+   "title": "\"15/18\" : Cédric Khan nous immerge dans la psychiatrie adolescente Thierry Fiorile et Matteu Maestracci évoquent cette semaine les films \"15/18\" de Cédric Kahn et \"Ce qui nous mène à toi\" de Khalil Cherti. Aujourd'hui 7:33 audio 7 minutes 33",
+   "link": "https://www.franceinfo.fr/replay-radio/les-experts-cinema/15-18-cedric-khan-nous-immerge-dans-la-psychiatrie-adolescente_8261261.html",
+   "summary": "\"15/18\" : Cédric Khan nous immerge dans la psychiatrie adolescente",
+   "image": "https://www.franceinfo.fr/pictures/3G3Gm9FScgi5EL7MOuqF5-RcM5Y/0x107:1539x972/432x243/filters:format(jpg)/2026/11/12/6af56df4c7c69803794477.jpeg",
+   "date": null,
+   "pubdate": "2026-11-14T10:36:06.602569+00:00"
+  },
+  {
+   "title": "Le gouvernement \"joue la stratégie du pourrissement\", déplore l'Union syndicale lycéenne Différentes manifestations vont se tenir samedi en France pour un cinquième week-end consécutif à l'appel de la coordination des gilets jaunes ainsi que des organisations de jeunesse. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/le-gouvernement-joue-la-strategie-du-pourrissement-deplore-l-union-syndicale-lyceenne_8282162.html",
+   "summary": "Le gouvernement \"joue la stratégie du pourrissement\", déplore l'Union syndicale lycéenne",
+   "image": "https://www.franceinfo.fr/pictures/07LrujOEl6ujMY709v31uEne804/0x605:5808x3872/432x243/filters:format(jpg)/2026/11/14/6af8093edf185115201716.jpg",
+   "date": null,
+   "pubdate": "2026-11-14T10:36:06.602569+00:00"
+  },
+  {
    "title": ": Vrai ou faux Le ministère de l'Education nationale minimise-t-il le nombre de lycées bloqués ? Depuis la rentrée de la Toussaint, les décomptes communiqués par le ministère de l’Education nationale interpellent, tant l'écart est grand avec les chiffres des syndicats de lycéens, de professeurs et de proviseurs. Aujourd'hui : Vrai ou faux",
    "link": "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-le-ministere-de-l-education-nationale-minimise-t-il-le-nombre-de-lycees-bloques_8280680.html",
    "summary": "Le ministère de l'Education nationale minimise-t-il le nombre de lycées bloqués ?",
@@ -151,10 +210,10 @@
    "pubdate": "2026-11-14T10:36:06.602569+00:00"
   },
   {
-   "title": "• Direct Manifestations du 14 novembre : entre 70 000 et 120 000 manifestants attendus partout en France, hors Paris, à l'appel de gilets jaunes et d'organisations de jeunesse Le ministre de l'Intérieur prévoit \"entre 50 ou 60 défilés\" sur le territoire. Entre 30 000 et 60 000 manifestants sont attendus à Paris, selon les autorités. Quelque 70 000 policiers et gendarmes sont mobilisés. Aujourd'hui • Direct",
+   "title": "• Direct Manifestations du 14 novembre : entre 106 000 et 200 000 personnes ont défilé en France, selon les estimations du ministère de l'Intérieur et de l'intersyndicale de la jeunesse A Paris, la manifestation s'est déroulée \"sans incident\", selon la préfecture de police. Aujourd'hui • Direct",
    "link": "https://www.franceinfo.fr/societe/manifestations/direct-manifestations-du-14-novembre-suivez-la-journee-de-mobilisation-a-l-appel-de-gilets-jaunes-et-d-organisations-de-jeunesse_8281187.html",
-   "summary": "Manifestations du 14 novembre : entre 70 000 et 120 000 manifestants attendus partout en France, hors Paris, à l'appel de gilets jaunes et d'organisations de jeunesse",
-   "image": "https://www.franceinfo.fr/pictures/oIBcZ2XDfDlakbyCZxxNzdFdXTY/0x0:4919x2766/432x243/filters:format(jpg)/2026/11/14/6af835cf35276136102303.jpg",
+   "summary": "Manifestations du 14 novembre : entre 106 000 et 200 000 personnes ont défilé en France, selon les estimations du ministère de l'Intérieur et de l'intersyndicale de la jeunesse",
+   "image": "https://www.franceinfo.fr/pictures/dnMDVCapN1lXzm0jesfdeo0K9OA/0x625:6000x4000/432x243/filters:format(jpg)/2026/11/14/6af88c76dfad9399075291.jpg",
    "date": null,
    "pubdate": "2026-11-14T10:36:06.602569+00:00"
   },
@@ -175,46 +234,6 @@
    "pubdate": "2026-11-14T01:28:36.475809+00:00"
   },
   {
-   "title": "Laurent Nuñez promet aux policiers une revalorisation de leur prime de risque, les syndicats insatisfaits Cette proposition faite par le ministre de l'Intérieur lors d'une réunion vendredi place Beauvau est jugée \"insuffisante\", voire \"inadmissible\", par les syndicats. 13 novembre",
-   "link": "https://www.franceinfo.fr/faits-divers/police/laurent-nunez-promet-aux-policiers-une-revalorisation-de-leur-prime-de-risque-les-syndicats-mecontents_8281625.html",
-   "summary": "Laurent Nuñez promet aux policiers une revalorisation de leur prime de risque, les syndicats insatisfaits",
-   "image": "https://www.franceinfo.fr/pictures/yg5vKaQWs3k66v2j5E6T4j1_qVQ/0x0:1024x576/432x243/filters:format(jpg)/2026/11/13/6af76cfe982d2204201577.jpg",
-   "date": null,
-   "pubdate": "2026-11-14T01:28:36.475809+00:00"
-  },
-  {
-   "title": "Le lycée Brequigny à Rennes sera fermé du 16 au 20 novembre en raison de dégradations Selon le rectorat, un groupe de personnes \"parmi lesquelles figuraient des élèves du lycée\" a \"saccagé des portes de classes, des parois vitrées et un bureau de la vie scolaire à coups d’extincteurs\" jeudi. 13 novembre",
-   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/le-lycee-brequigny-a-rennes-ferme-du-16-au-20-novembre-en-raison-de-degradations_8281622.html",
-   "summary": "Le lycée Brequigny à Rennes sera fermé du 16 au 20 novembre en raison de dégradations",
-   "image": "https://www.franceinfo.fr/pictures/NrgljQP7BFJ5MHJxhfuUaXavvI4/0x130:2048x1282/432x243/filters:format(jpg)/2026/11/13/6af768aeb84af300644068.jpg",
-   "date": null,
-   "pubdate": "2026-11-13T19:48:23.266234+00:00"
-  },
-  {
-   "title": "\"Il faut dire la vérité sur ce qui se passe\" : le premier syndicat des chefs d'établissement conteste les chiffres de l'Education nationale sur le nombre de lycées bloqués Selon le ministère, seule une dizaine de lycées étaient encore bloqués vendredi matin. Le SNPDEN-Unsa juge que ce décompte est minoré depuis le retour des vacances, et appelle à inclure tous les établissements où une partie des élèves sont empêchés d'entrer. 13 novembre",
-   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/il-faut-dire-la-verite-sur-ce-qui-se-passe-le-premier-syndicat-des-chefs-d-etablissement-conteste-les-chiffres-du-ministere-sur-les-lycees-bloques_8281568.html",
-   "summary": "\"Il faut dire la vérité sur ce qui se passe\" : le premier syndicat des chefs d'établissement conteste les chiffres de l'Education nationale sur le nombre de lycées bloqués",
-   "image": "https://www.franceinfo.fr/pictures/zgnfHoujJty_09ZBRPylkx_MQT4/0x66:1024x642/432x243/filters:format(jpg)/2026/11/13/6af759ce63f2d202374203.jpg",
-   "date": null,
-   "pubdate": "2026-11-13T19:48:23.266234+00:00"
-  },
-  {
-   "title": "\"Il faut entendre les revendications légitimes des lycéens\", estime la FCPE Mustafa Ozcelik, vice-président de la Fédération des conseils de parents d’élèves (FCPE), répond ainsi à l'appel du ministre de l'Education national aux parents de \"parler avec leurs enfants\" pour que cessent les violences. 13 novembre",
-   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/il-faut-entendre-les-revendications-legitimes-des-lyceens-estime-la-fcpe_8281472.html",
-   "summary": "\"Il faut entendre les revendications légitimes des lycéens\", estime la FCPE",
-   "image": "https://www.franceinfo.fr/pictures/kkLyGFDg3VvFQGE9IfAAYJaFGu4/0x364:5568x3496/432x243/filters:format(jpg)/2026/10/06/6ac4d2420eeb4577071470.jpg",
-   "date": null,
-   "pubdate": "2026-11-13T19:48:23.266234+00:00"
-  },
-  {
-   "title": "La préfecture de police valide l'itinéraire commun République-Nation à Paris, déclaré par trois organisateurs distincts pour la mobilisation du 14 novembre Selon une note de la Direction du renseignement de la préfecture de police de Paris consultée par franceinfo, entre 30 000 et 60 000 manifestants sont attendus dans la capitale samedi. 13 novembre",
-   "link": "https://www.franceinfo.fr/societe/manifestations/la-prefecture-de-police-valide-l-itineraire-commun-republique-nation-a-paris-declare-par-trois-organisateurs-distincts-pour-la-mobilisation-du-14-novembre_8281439.html",
-   "summary": "La préfecture de police valide l'itinéraire commun République-Nation à Paris, déclaré par trois organisateurs distincts pour la mobilisation du 14 novembre",
-   "image": "https://www.franceinfo.fr/pictures/Tht7lWZDGKloLFv3Ec-2nA2H8Go/0x522:5000x3335/432x243/filters:format(jpg)/2026/11/13/6af743610e6f6648414944.jpg",
-   "date": null,
-   "pubdate": "2026-11-13T19:48:23.266234+00:00"
-  },
-  {
    "title": "\"On peut critiquer la police sans forcément lui manquer de respect\" : comment les jeunes candidats à l'école de police vivent le climat ambiant des manifestations lycéennes 4:56 audio 4 minutes 56",
    "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/on-peut-critiquer-la-police-sans-forcement-lui-manquer-de-respect-comment-les-jeunes-candidats-a-l-ecole-de-police-vivent-le-climat-ambiant-des-manifestations-lyceennes_8259737.html",
    "summary": "\"On peut critiquer la police sans forcément lui manquer de respect\" : comment les jeunes candidats à l'école de police vivent le climat ambiant des manifestations lycéennes",
@@ -229,6 +248,14 @@
    "image": "https://www.franceinfo.fr/pictures/jJf1HmLZtFYdo-w2t6vMAyPxFis/184x0:1480x729/432x243/filters:format(jpg)/2026/11/12/6af6438ca56b1677162354.jpg",
    "date": null,
    "pubdate": "2026-11-13T01:53:41.163748+00:00"
+  },
+  {
+   "title": "Appel à témoins, reconstitution ADN… Trente ans après la disparition de Marion Wagon, l'enquête relancée Cette petite fille s'est volatilisée à l'âge de 10 ans, le 14 novembre 1996, à Agen. L'identification de son profil génétique ainsi qu'un appel à témoins ravivent l'espoir d'élucider ce mystère, qui figure parmi les affaires de disparition d'enfants les plus marquantes en France. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/faits-divers/appel-a-temoins-reconstitution-adn-trente-ans-apres-la-disparition-de-marion-wagon-l-enquete-relancee_8280797.html",
+   "summary": "Appel à témoins, reconstitution ADN… Trente ans après la disparition de Marion Wagon, l'enquête relancée",
+   "image": "https://www.franceinfo.fr/pictures/2GYwwng7uQCKrhTIxl5JgGSKhkY/0x31:582x358/432x243/filters:format(jpg)/2026/11/13/6af717f8227c5551776033.jpg",
+   "date": "1996-11-14T11:00:00+00:00",
+   "pubdate": "1996-11-14T11:00:00+00:00"
   }
  ]
 }

@@ -1,79 +1,127 @@
 {
- "etag": "\"91381ba2d3eaecd67a00a62971533163-gzip\"",
+ "etag": "\"d1b0e338b0a7481692048e011d1260ea-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/environnement/biodiversite/animaux/deja-12-ou-13-personnes-dans-le-village-qui-ont-ete-tuees-en-inde-les-tensions-territoriales-entre-habitants-et-elephants-sauvages-font-des-centaines-de-morts-chaque-annee_8280089.html": "2026-11-13T01:53:47.553877+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-la-russie-veut-connaitre-les-intentions-des-europeens-avant-de-les-laisser-participer-aux-pourparlers_8280860.html": "2026-11-13T11:08:54.708843+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-le-systeme-satellitaire-militaire-americain-starshield-a-nouveau-perturbe-annonce-volodymyr-zelensky_8281142.html": "2026-11-13T19:48:30.039536+00:00",
   "https://www.franceinfo.fr/environnement/energie/energies-fossiles/l-agence-internationale-de-l-energie-prevoit-que-l-offre-mondiale-de-petrole-va-depasser-la-demande-en-fin-d-annee_8281379.html": "2026-11-13T19:48:30.039536+00:00",
   "https://www.franceinfo.fr/monde/russie/la-chroniqueuse-pro-kremlin-xenia-fedorova-juge-la-diplomatie-russe-plus-mesuree-que-l-etat-francais_8281559.html": "2026-11-13T19:48:30.039536+00:00",
   "https://www.franceinfo.fr/politique/marine-le-pen/si-je-peux-le-rencontrer-a-bruxelles-je-le-dirai-a-l-ambassadeur-d-ukraine-marine-le-pen-se-dit-prete-a-echanger-avec-volodymyr-zelensky_8281529.html": "2026-11-13T19:48:30.039536+00:00",
   "https://www.franceinfo.fr/internet/nvidia/direct-chine-dans-les-secrets-des-nouveaux-maitres-espions-suivez-le-documentaire-de-franceinfo-apres-le-scandale-nvidia_8281100.html": "2026-11-13T19:48:30.039536+00:00",
-  "https://www.franceinfo.fr/replay-radio/complorama/podcast-la-fin-de-10-ans-de-post-verite_8279000.html": "2026-11-13T19:48:30.039536+00:00",
-  "https://www.franceinfo.fr/internet/nvidia/recit-des-premieres-revelations-a-la-chute-du-pdg-de-nvidia-comment-une-affaire-d-adultere-provoque-un-seisme-dans-le-secteur-de-l-ia_8280752.html": "2026-11-13T19:48:30.039536+00:00",
-  "https://www.franceinfo.fr/internet/intelligence-artificielle/le-patron-de-mistral-ai-arthur-mensch-appelle-l-europe-a-agir-maintenant-pour-rester-dans-la-course-en-matiere-d-intelligence-artificielle_8281193.html": "2026-11-13T19:48:30.039536+00:00",
-  "https://www.franceinfo.fr/monde/palestine/gaza/je-ne-demande-pas-l-impossible-juste-etre-en-bonne-sante-et-vivre-a-gaza-des-habitants-craignent-de-mourir-du-diabete_8280014.html": "2026-11-13T19:48:30.039536+00:00",
-  "https://www.franceinfo.fr/environnement/en-norvege-la-cour-supreme-invalide-trois-licences-petrolieres-en-mer-du-nord-contestees-par-les-ecologistes_8281109.html": "2026-11-13T19:48:30.039536+00:00",
-  "https://www.franceinfo.fr/culture/livres/les-cendres-de-l-ecrivain-miguel-angel-asturias-mort-en-1974-sont-arrivees-au-guatemala_8280740.html": "2026-11-13T19:48:30.039536+00:00",
   "https://www.franceinfo.fr/internet/drones/l-armee-americaine-rapporte-qu-elle-a-repondu-a-une-activite-de-drone-detectee-au-dessus-d-une-base-britannique_8281700.html": "2026-11-14T01:28:41.083332+00:00",
   "https://www.franceinfo.fr/monde/usa/aux-etats-unis-l-administration-federale-de-l-aviation-ordonne-l-arret-de-tous-les-vols-a-cause-d-un-probleme-de-communication_8281691.html": "2026-11-14T01:28:41.083332+00:00",
   "https://www.franceinfo.fr/monde/usa/un-porte-conteneurs-et-un-bateau-de-croisiere-sont-entres-en-collision-dans-le-port-de-la-nouvelle-orleans_8281676.html": "2026-11-14T01:28:41.083332+00:00",
-  "https://www.franceinfo.fr/monde/usa/menace-nucleaire-catastrophes-naturelles-intrusions-quand-les-americains-se-bunkerisent_8281655.html": "2026-11-14T01:28:41.083332+00:00",
-  "https://www.franceinfo.fr/faits-divers/braquage/bijouterie-de-luxe-braquee-a-paris-que-vont-devenir-les-diamants_8281619.html": "2026-11-14T01:28:41.083332+00:00",
   "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/leon-xiv-en-france-retrouvez-l-essentiel/": "2026-11-14T01:28:41.083332+00:00",
   "https://www.franceinfo.fr/monde/usa/affaire-jeffrey-epstein/l-essentiel-des-revelations-sur-l-affaire-epstein/": "2026-11-14T01:28:41.083332+00:00",
   "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/tout-comprendre-a-la-guerre-au-moyen-orient/": "2026-11-14T01:28:41.083332+00:00",
   "https://www.franceinfo.fr/monde/russie/reportage-tout-media-jouissant-d-une-grande-popularite-doit-etre-sous-la-coupe-du-kremlin-comment-poutine-a-fait-taire-la-presse-independante-en-russie_8274161.html": "2026-11-14T01:28:41.083332+00:00",
-  "https://www.franceinfo.fr/monde/usa/collision-spectaculaire-entre-un-porte-conteneurs-et-un-bateau-de-croisiere-a-la-nouvelle-orleans_8282324.html": "2026-11-14T10:36:12.935548+00:00",
-  "https://www.franceinfo.fr/monde/usa/l-espace-aerien-des-etats-unis-a-rouvert-apres-l-annulation-de-6-000-vols_8282255.html": "2026-11-14T10:36:12.935548+00:00",
   "https://www.franceinfo.fr/monde/usa/reportage-pour-l-instant-j-ai-tres-peu-d-informations-a-l-aeroport-d-atlanta-la-galere-des-passagers-apres-la-fermeture-de-l-espace-aerien-americain_8282159.html": "2026-11-14T10:36:12.935548+00:00",
   "https://www.franceinfo.fr/monde/usa/donald-trump-xi-jinping-et-vladimir-poutine-se-reuniront-jeudi-en-chine-annonce-la-maison-blanche_8282168.html": "2026-11-14T10:36:12.935548+00:00",
   "https://www.franceinfo.fr/monde/usa/l-espace-aerien-des-etats-unis-a-rouvert-apres-l-annulation-de-6-000-vols_8282150.html": "2026-11-14T10:36:12.935548+00:00",
   "https://www.franceinfo.fr/monde/usa/midterms-2018/midterms-2026-l-essentiel-des-elections-de-mi-mandat/": "2026-11-14T10:36:12.935548+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-couper-le-robinet-de-petrole-russe-en-mission-avec-les-oiseaux-de-madyar-la-brigade-de-dronistes-ukrainiens-la-plus-pourchassee-par-les-russes_8255023.html": "2026-11-14T10:36:12.935548+00:00",
-  "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/reportage-tout-le-monde-est-malade-a-elbistan-l-extraction-du-charbon-brise-les-vies-des-habitants-loin-des-promesses-de-la-turquie-avant-la-cop31_8268068.html": "2026-11-14T10:36:12.935548+00:00"
+  "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/reportage-tout-le-monde-est-malade-a-elbistan-l-extraction-du-charbon-brise-les-vies-des-habitants-loin-des-promesses-de-la-turquie-avant-la-cop31_8268068.html": "2026-11-14T10:36:12.935548+00:00",
+  "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/que-faut-il-attendre-du-sommet-inedit-entre-xi-jinping-vladimir-poutine-et-donald-trump-attendu-jeudi-en-chine_8282519.html": "2026-11-14T18:13:19.891469+00:00",
+  "https://www.franceinfo.fr/culture/musique/classique/sous-la-baguette-de-barenboim-israeliens-et-palestiniens-a-l-unisson-pour-la-paix-au-sein-du-west-eastern-divan-orchestra_8282642.html": "2026-11-14T18:13:19.891469+00:00",
+  "https://www.franceinfo.fr/replay-magazine/franceinfo/vrai-ou-fake-l-emission/les-fonctionnaires-europeens-sont-ils-trop-payes_8282585.html": "2026-11-14T18:13:19.891469+00:00",
+  "https://www.franceinfo.fr/decouverte/orchidees-arbres-geants-au-sri-lanka-les-tresors-du-jardin-botanique-de-kandy_8282522.html": "2026-11-14T18:13:19.891469+00:00",
+  "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/l-union-europeenne-exhorte-israel-a-permettre-l-acces-immediat-et-sans-entrave-de-l-aide-humanitaire-a-gaza_8282525.html": "2026-11-14T18:13:19.891469+00:00",
+  "https://www.franceinfo.fr/replay-radio/l-invite-culture/hugo-becker-c-est-un-honneur-de-se-dedier-a-quelque-chose-plus-important-que-soi_8261237.html": "2026-11-14T18:13:19.891469+00:00",
+  "https://www.franceinfo.fr/faits-divers/etats-unis-un-porte-conteneurs-percute-un-bateau-de-croisiere-qui-chavire-au-port-de-la-nouvelle-orleans_8282495.html": "2026-11-14T18:13:19.891469+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/reportage-mon-appli-me-dit-que-je-suis-a-lima-en-ukraine-le-brouillage-gps-pour-detourner-les-missiles-russes-s-invite-dans-le-quotidien-des-habitants_8282297.html": "2026-11-14T18:13:19.891469+00:00",
+  "https://www.franceinfo.fr/economie/aeronautique/pres-de-6-000-vols-annules-aux-etats-unis-apres-des-defaillances-techniques_8282456.html": "2026-11-14T18:13:19.891469+00:00",
+  "https://www.franceinfo.fr/monde/usa/panne-du-systeme-de-communication-centaines-de-milliers-de-passagers-touches-ce-que-l-on-sait-de-la-suspension-massive-et-rarissime-des-vols-aux-etats-unis_8282207.html": "2026-11-14T18:13:19.891469+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-volodymy-zelensky-affirme-que-les-etats-unis-ont-propose-des-concessions-territoriales-en-echange-d-une-adhesion-de-kiev-a-l-otan_8282333.html": "2026-11-14T18:13:19.891469+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "Collision spectaculaire entre un porte-conteneurs et un bateau de croisière à La Nouvelle-Orléans Un porte-conteneurs et un bateau de croisière sont entrés en collision dans le port de La Nouvelle-Orléans, aux États-Unis, vendredi 13 novembre. Le bateau de croisière a fini par chavirer, alors qu’il était en cours d’évacuation. Plusieurs personnes ont été blessées. Aujourd'hui 1:02 vidéo 1 minute 2",
-   "link": "https://www.franceinfo.fr/monde/usa/collision-spectaculaire-entre-un-porte-conteneurs-et-un-bateau-de-croisiere-a-la-nouvelle-orleans_8282324.html",
-   "summary": "Collision spectaculaire entre un porte-conteneurs et un bateau de croisière à La Nouvelle-Orléans",
-   "image": "https://www.franceinfo.fr/pictures/A91XHITDzZRKuLK119oTEOdhTXQ/0x0:1080x1920/fit-in/432x297/filters:upscale():fill(blur):format(jpg)/2026/11/14/6af833dd7fbc1176436184.png",
+   "title": "Que faut-il attendre du sommet inédit entre Xi Jinping, Vladimir Poutine et Donald Trump, prévu jeudi en Chine ? Selon la présidence américaine, les dirigeants de la Chine, de la Russie et des Etats-Unis se retrouveront à Shenzhen. Au-delà du symbole, les experts ne s'attendent pas à des annonces importantes. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/que-faut-il-attendre-du-sommet-inedit-entre-xi-jinping-vladimir-poutine-et-donald-trump-attendu-jeudi-en-chine_8282519.html",
+   "summary": "Que faut-il attendre du sommet inédit entre Xi Jinping, Vladimir Poutine et Donald Trump, prévu jeudi en Chine ?",
+   "image": "https://www.franceinfo.fr/pictures/OZXCSguKs7NJzFPfDFp_3x4Q8tU/100x0:6512x4408/432x297/filters:format(jpg)/2026/11/14/6af8646b20578252255303.jpg",
    "date": null,
-   "pubdate": "2026-11-14T10:36:12.935548+00:00"
+   "pubdate": "2026-11-14T18:13:19.891469+00:00"
   },
   {
-   "title": "L'espace aérien des Etats-Unis a rouvert après l'annulation de 6 000 vols Aujourd'hui 1:14 vidéo 1 minute 14",
-   "link": "https://www.franceinfo.fr/monde/usa/l-espace-aerien-des-etats-unis-a-rouvert-apres-l-annulation-de-6-000-vols_8282255.html",
-   "summary": "L'espace aérien des Etats-Unis a rouvert après l'annulation de 6 000 vols",
-   "image": "https://www.franceinfo.fr/pictures/3TiIQH2bKJXHVZCSh12u-Di1wxM/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/14/6af824c129391030007577.png",
+   "title": "Sous la baguette de Barenboim, Israéliens et Palestiniens à l'unisson pour la paix au sein du West-Eastern Divan Orchestra Aujourd'hui",
+   "link": "https://www.franceinfo.fr/culture/musique/classique/sous-la-baguette-de-barenboim-israeliens-et-palestiniens-a-l-unisson-pour-la-paix-au-sein-du-west-eastern-divan-orchestra_8282642.html",
+   "summary": "Sous la baguette de Barenboim, Israéliens et Palestiniens à l'unisson pour la paix au sein du West-Eastern Divan Orchestra",
+   "image": "https://www.franceinfo.fr/pictures/ZwpTkHofbksdOHDuxXWxkUmD9nQ/0x0:1024x576/432x243/filters:format(jpg)/2026/11/14/6af88919c7ab9777445860.jpg",
    "date": null,
-   "pubdate": "2026-11-14T10:36:12.935548+00:00"
+   "pubdate": "2026-11-14T18:13:19.891469+00:00"
   },
   {
-   "title": ": Reportage \"Pour l'instant, j'ai très peu d'informations\" : à l'aéroport d'Atlanta, la galère des passagers après la fermeture de l'espace aérien américain Aujourd'hui : Reportage",
-   "link": "https://www.franceinfo.fr/monde/usa/reportage-pour-l-instant-j-ai-tres-peu-d-informations-a-l-aeroport-d-atlanta-la-galere-des-passagers-apres-la-fermeture-de-l-espace-aerien-americain_8282159.html",
-   "summary": "\"Pour l'instant, j'ai très peu d'informations\" : à l'aéroport d'Atlanta, la galère des passagers après la fermeture de l'espace aérien américain",
-   "image": "https://www.franceinfo.fr/pictures/nF51AkVC-FeY0xW29MH9oZ_priQ/0x315:6049x3717/432x243/filters:format(jpg)/2026/11/14/6af812b4d6a71898768864.jpg",
+   "title": "Les fonctionnaires européens sont-ils trop payés ? Aujourd'hui 2:01 vidéo 2 minutes 1",
+   "link": "https://www.franceinfo.fr/replay-magazine/franceinfo/vrai-ou-fake-l-emission/les-fonctionnaires-europeens-sont-ils-trop-payes_8282585.html",
+   "summary": "Les fonctionnaires européens sont-ils trop payés ?",
+   "image": "https://www.franceinfo.fr/pictures/JXpsKNszOrYehZoQ3NgcvWO3Pbo/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/14/6af87d249753d209756689.jpg",
    "date": null,
-   "pubdate": "2026-11-14T10:36:12.935548+00:00"
+   "pubdate": "2026-11-14T18:13:19.891469+00:00"
   },
   {
-   "title": "Donald Trump, Xi Jinping et Vladimir Poutine se réuniront jeudi en Chine, annonce la Maison Blanche Aujourd'hui",
-   "link": "https://www.franceinfo.fr/monde/usa/donald-trump-xi-jinping-et-vladimir-poutine-se-reuniront-jeudi-en-chine-annonce-la-maison-blanche_8282168.html",
-   "summary": "Donald Trump, Xi Jinping et Vladimir Poutine se réuniront jeudi en Chine, annonce la Maison Blanche",
-   "image": "https://www.franceinfo.fr/pictures/QjWlh_dgnVR1JfZmJ03rCCJ4Ys8/0x59:1024x635/432x243/filters:format(jpg)/2026/11/14/6af807ae58c0f758597297.jpg",
+   "title": "Orchidées, arbres géants... Au Sri Lanka, les trésors du jardin botanique de Kandy Aujourd'hui 3:14 vidéo 3 minutes 14",
+   "link": "https://www.franceinfo.fr/decouverte/orchidees-arbres-geants-au-sri-lanka-les-tresors-du-jardin-botanique-de-kandy_8282522.html",
+   "summary": "Orchidées, arbres géants... Au Sri Lanka, les trésors du jardin botanique de Kandy",
+   "image": "https://www.franceinfo.fr/pictures/qqIRTzPSTFZe3XqH5LPwYxVkr8I/34x0:1442x792/432x243/filters:format(jpg)/2026/11/14/6af86ae989f50936254711.png",
    "date": null,
-   "pubdate": "2026-11-14T10:36:12.935548+00:00"
+   "pubdate": "2026-11-14T18:13:19.891469+00:00"
   },
   {
-   "title": "L'espace aérien des Etats-Unis a rouvert après une annulation de 6 000 vols liée à une panne de communication Aujourd'hui",
-   "link": "https://www.franceinfo.fr/monde/usa/l-espace-aerien-des-etats-unis-a-rouvert-apres-l-annulation-de-6-000-vols_8282150.html",
-   "summary": "L'espace aérien des Etats-Unis a rouvert après une annulation de 6 000 vols liée à une panne de communication",
-   "image": "https://www.franceinfo.fr/pictures/t-hAD9cNtzyYmcgQmbM8VvNuO_g/0x46:1024x622/432x243/filters:format(jpg)/2026/11/14/6af801d812626777005837.jpg",
+   "title": "L'Union européenne exhorte Israël à permettre l'accès \"immédiat\" et \"sans entrave\" de l'aide humanitaire à Gaza, touchée par de fortes intempéries Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/l-union-europeenne-exhorte-israel-a-permettre-l-acces-immediat-et-sans-entrave-de-l-aide-humanitaire-a-gaza_8282525.html",
+   "summary": "L'Union européenne exhorte Israël à permettre l'accès \"immédiat\" et \"sans entrave\" de l'aide humanitaire à Gaza, touchée par de fortes intempéries",
+   "image": "https://www.franceinfo.fr/pictures/hwxOVbq6rkY0LQNtw2XegbMQqyg/0x300:5760x3540/432x243/filters:format(jpg)/2026/11/14/6af86aa3a93ca689449195.jpg",
    "date": null,
-   "pubdate": "2026-11-14T10:36:12.935548+00:00"
+   "pubdate": "2026-11-14T18:13:19.891469+00:00"
+  },
+  {
+   "title": "Hugo Becker : \"C'est un honneur de se dédier à quelque chose plus important que soi\" Aujourd'hui 7:00 audio 7 minutes",
+   "link": "https://www.franceinfo.fr/replay-radio/l-invite-culture/hugo-becker-c-est-un-honneur-de-se-dedier-a-quelque-chose-plus-important-que-soi_8261237.html",
+   "summary": "Hugo Becker : \"C'est un honneur de se dédier à quelque chose plus important que soi\"",
+   "image": "https://www.franceinfo.fr/pictures/3P_g9EfyGEXZ9yPVAjD29uyKLZI/0x425:5600x3575/432x243/filters:format(jpg)/2026/11/11/6af465c848a83094233126.jpg",
+   "date": null,
+   "pubdate": "2026-11-14T18:13:19.891469+00:00"
+  },
+  {
+   "title": "États-Unis : un porte-conteneurs percute un bateau de croisière, qui chavire au port de la Nouvelle-Orléans Aujourd'hui 1:38 vidéo 1 minute 38",
+   "link": "https://www.franceinfo.fr/faits-divers/etats-unis-un-porte-conteneurs-percute-un-bateau-de-croisiere-qui-chavire-au-port-de-la-nouvelle-orleans_8282495.html",
+   "summary": "États-Unis : un porte-conteneurs percute un bateau de croisière, qui chavire au port de la Nouvelle-Orléans",
+   "image": "https://www.franceinfo.fr/pictures/Rybk_Y3FaJv8uTbOFT8lvL4bLUA/123x0:1670x870/432x243/filters:format(jpg)/2026/11/14/6af85f1343054327913022.png",
+   "date": null,
+   "pubdate": "2026-11-14T18:13:19.891469+00:00"
+  },
+  {
+   "title": ": Reportage \"Mon appli me dit que je suis à Lima\" : en Ukraine, le brouillage GPS pour détourner les missiles russes s'invite dans le quotidien des habitants Aujourd'hui : Reportage",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/reportage-mon-appli-me-dit-que-je-suis-a-lima-en-ukraine-le-brouillage-gps-pour-detourner-les-missiles-russes-s-invite-dans-le-quotidien-des-habitants_8282297.html",
+   "summary": "\"Mon appli me dit que je suis à Lima\" : en Ukraine, le brouillage GPS pour détourner les missiles russes s'invite dans le quotidien des habitants",
+   "image": "https://www.franceinfo.fr/pictures/eTAC_3mhlTwZ34GJqijwoGcv7yg/0x0:4751x2672/432x243/filters:format(jpg)/2026/11/14/6af858f6bda33552503859.jpg",
+   "date": null,
+   "pubdate": "2026-11-14T18:13:19.891469+00:00"
+  },
+  {
+   "title": "Près de 6 000 vols annulés aux États-Unis après des défaillances techniques Aujourd'hui 1:56 vidéo 1 minute 56",
+   "link": "https://www.franceinfo.fr/economie/aeronautique/pres-de-6-000-vols-annules-aux-etats-unis-apres-des-defaillances-techniques_8282456.html",
+   "summary": "Près de 6 000 vols annulés aux États-Unis après des défaillances techniques",
+   "image": "https://www.franceinfo.fr/pictures/7BcJpBuf37tCSJlI0GtJb2UlRVI/32x0:1459x803/432x243/filters:format(jpg)/2026/11/14/6af859ae3740f865710161.png",
+   "date": null,
+   "pubdate": "2026-11-14T18:13:19.891469+00:00"
+  },
+  {
+   "title": "Panne du système de communication, centaines de milliers de passagers touchés… Ce que l'on sait de la suspension massive et rarissime des vols aux Etats-Unis Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/usa/panne-du-systeme-de-communication-centaines-de-milliers-de-passagers-touches-ce-que-l-on-sait-de-la-suspension-massive-et-rarissime-des-vols-aux-etats-unis_8282207.html",
+   "summary": "Panne du système de communication, centaines de milliers de passagers touchés… Ce que l'on sait de la suspension massive et rarissime des vols aux Etats-Unis",
+   "image": "https://www.franceinfo.fr/pictures/7vEV_ibLA2yVspHpNr___Wy_nI8/0x322:3088x2059/432x243/filters:format(jpg)/2026/11/14/6af8190e3c3b2960562574.jpg",
+   "date": null,
+   "pubdate": "2026-11-14T18:13:19.891469+00:00"
+  },
+  {
+   "title": "Guerre en Ukraine : les Etats-Unis ont proposé des concessions territoriales en échange d'une adhésion de Kiev à l'Otan, selon Volodymyr Zelensky Le président ukrainien a également annoncé vendredi que son pays était en pourparlers pour obtenir \"des garanties de sécurité spécifiques de la part de l'Otan et de l'UE\". Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-volodymy-zelensky-affirme-que-les-etats-unis-ont-propose-des-concessions-territoriales-en-echange-d-une-adhesion-de-kiev-a-l-otan_8282333.html",
+   "summary": "Guerre en Ukraine : les Etats-Unis ont proposé des concessions territoriales en échange d'une adhésion de Kiev à l'Otan, selon Volodymyr Zelensky",
+   "image": "https://www.franceinfo.fr/pictures/qKOKb50U-rV4sJ6hZHsGPL9W6mo/0x0:5396x3035/432x243/filters:format(jpg)/2026/11/14/6af83e0216aca168047724.jpg",
+   "date": null,
+   "pubdate": "2026-11-14T18:13:19.891469+00:00"
   },
   {
    "title": "Midterms 2026 : l'essentiel des élections de mi-mandat 28 contenus",
@@ -100,44 +148,28 @@
    "pubdate": "2026-11-14T10:36:12.935548+00:00"
   },
   {
-   "title": "L'armée américaine rapporte qu'elle a répondu à une activité de drone détectée au-dessus d'une base britannique 13 novembre",
-   "link": "https://www.franceinfo.fr/internet/drones/l-armee-americaine-rapporte-qu-elle-a-repondu-a-une-activite-de-drone-detectee-au-dessus-d-une-base-britannique_8281700.html",
-   "summary": "L'armée américaine rapporte qu'elle a répondu à une activité de drone détectée au-dessus d'une base britannique",
-   "image": "https://www.franceinfo.fr/pictures/jBYE_QEVJBUsVrDNZL38cE6l818/0x0:1024x576/432x243/filters:format(jpg)/2026/11/13/6af78ac611e07805383833.jpg",
+   "title": ": Reportage \"Pour l'instant, j'ai très peu d'informations\" : à l'aéroport d'Atlanta, la galère des passagers après la fermeture de l'espace aérien américain Au moins 6 000 vols ont été annulés en raison de problèmes de communication causés par du \"vieux matériel\", selon le gouvernement. Un événement rarissime qui a paralysé le trafic aérien dans tout le pays. Aujourd'hui : Reportage",
+   "link": "https://www.franceinfo.fr/monde/usa/reportage-pour-l-instant-j-ai-tres-peu-d-informations-a-l-aeroport-d-atlanta-la-galere-des-passagers-apres-la-fermeture-de-l-espace-aerien-americain_8282159.html",
+   "summary": "\"Pour l'instant, j'ai très peu d'informations\" : à l'aéroport d'Atlanta, la galère des passagers après la fermeture de l'espace aérien américain",
+   "image": "https://www.franceinfo.fr/pictures/nF51AkVC-FeY0xW29MH9oZ_priQ/0x315:6049x3717/432x243/filters:format(jpg)/2026/11/14/6af812b4d6a71898768864.jpg",
    "date": null,
-   "pubdate": "2026-11-14T01:28:41.083332+00:00"
+   "pubdate": "2026-11-14T10:36:12.935548+00:00"
   },
   {
-   "title": "Aux Etats-Unis, l'administration fédérale de l'aviation ordonne l'arrêt de tous les vols à cause d'un \"problème de communication\" 13 novembre",
-   "link": "https://www.franceinfo.fr/monde/usa/aux-etats-unis-l-administration-federale-de-l-aviation-ordonne-l-arret-de-tous-les-vols-a-cause-d-un-probleme-de-communication_8281691.html",
-   "summary": "Aux Etats-Unis, l'administration fédérale de l'aviation ordonne l'arrêt de tous les vols à cause d'un \"problème de communication\"",
-   "image": "https://www.franceinfo.fr/pictures/R96VDEHvQuRMqyRYEls7Z1P59Tg/0x106:1024x682/432x243/filters:format(jpg)/2026/11/13/6af7865b60cda344133010.jpg",
+   "title": "Donald Trump, Xi Jinping et Vladimir Poutine se réuniront jeudi en Chine, annonce la Maison Blanche Ni Pékin ni Moscou n'ont pour l'instant confirmé cette rencontre, qui se tiendra selon les Etats-Unis en marge de la réunion de la Coopération économique Asie-Pacifique (Apec) à Shenzhen. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/usa/donald-trump-xi-jinping-et-vladimir-poutine-se-reuniront-jeudi-en-chine-annonce-la-maison-blanche_8282168.html",
+   "summary": "Donald Trump, Xi Jinping et Vladimir Poutine se réuniront jeudi en Chine, annonce la Maison Blanche",
+   "image": "https://www.franceinfo.fr/pictures/QjWlh_dgnVR1JfZmJ03rCCJ4Ys8/0x59:1024x635/432x243/filters:format(jpg)/2026/11/14/6af807ae58c0f758597297.jpg",
    "date": null,
-   "pubdate": "2026-11-14T01:28:41.083332+00:00"
+   "pubdate": "2026-11-14T10:36:12.935548+00:00"
   },
   {
-   "title": "Un porte-conteneurs et un bateau de croisière sont entrés en collision dans le port de La Nouvelle-Orléans 13 novembre",
-   "link": "https://www.franceinfo.fr/monde/usa/un-porte-conteneurs-et-un-bateau-de-croisiere-sont-entres-en-collision-dans-le-port-de-la-nouvelle-orleans_8281676.html",
-   "summary": "Un porte-conteneurs et un bateau de croisière sont entrés en collision dans le port de La Nouvelle-Orléans",
-   "image": "https://www.franceinfo.fr/pictures/27Sqqo2tbqi5wWY_FT5teOUoyaY/0x75:1285x798/432x243/filters:format(jpg)/2026/11/13/6af78c456817f945515059.jpg",
+   "title": "L'espace aérien des Etats-Unis a rouvert après une annulation de 6 000 vols liée à une panne de communication L'administration Trump avait décidé vendredi de suspendre tous les décollages sur le sol américain car les communications et les radars fonctionnaient seulement de manière \"intermittente\" dans plusieurs centres de contrôle aérien, a expliqué le ministre des Transports, Sean Duffy. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/usa/l-espace-aerien-des-etats-unis-a-rouvert-apres-l-annulation-de-6-000-vols_8282150.html",
+   "summary": "L'espace aérien des Etats-Unis a rouvert après une annulation de 6 000 vols liée à une panne de communication",
+   "image": "https://www.franceinfo.fr/pictures/t-hAD9cNtzyYmcgQmbM8VvNuO_g/0x46:1024x622/432x243/filters:format(jpg)/2026/11/14/6af801d812626777005837.jpg",
    "date": null,
-   "pubdate": "2026-11-14T01:28:41.083332+00:00"
-  },
-  {
-   "title": "Menace nucléaire, catastrophes naturelles, intrusions... Quand les Américains se bunkerisent 13 novembre 4:51 vidéo 4 minutes 51",
-   "link": "https://www.franceinfo.fr/monde/usa/menace-nucleaire-catastrophes-naturelles-intrusions-quand-les-americains-se-bunkerisent_8281655.html",
-   "summary": "Menace nucléaire, catastrophes naturelles, intrusions... Quand les Américains se bunkerisent",
-   "image": "https://www.franceinfo.fr/pictures/DVZk6ge74Xg6Djy6bx3kFeSssSU/2x0:1229x690/432x243/filters:format(jpg)/2026/11/13/6af775633f024099113753.jpg",
-   "date": null,
-   "pubdate": "2026-11-14T01:28:41.083332+00:00"
-  },
-  {
-   "title": "Bijouterie de luxe braquée à Paris : que vont devenir les diamants ? 13 novembre 1:52 vidéo 1 minute 52",
-   "link": "https://www.franceinfo.fr/faits-divers/braquage/bijouterie-de-luxe-braquee-a-paris-que-vont-devenir-les-diamants_8281619.html",
-   "summary": "Bijouterie de luxe braquée à Paris : que vont devenir les diamants ?",
-   "image": "https://www.franceinfo.fr/pictures/Y9xPWFt6v6z3HU71VTJkEc_5Ocw/0x18:1259x726/432x243/filters:format(jpg)/2026/11/13/6af76b9e75943710077926.jpg",
-   "date": null,
-   "pubdate": "2026-11-14T01:28:41.083332+00:00"
+   "pubdate": "2026-11-14T10:36:12.935548+00:00"
   },
   {
    "title": "Léon XIV en France : l'essentiel de la visite du pape 15 contenus",
@@ -168,6 +200,30 @@
    "link": "https://www.franceinfo.fr/monde/russie/reportage-tout-media-jouissant-d-une-grande-popularite-doit-etre-sous-la-coupe-du-kremlin-comment-poutine-a-fait-taire-la-presse-independante-en-russie_8274161.html",
    "summary": "\"Tout média jouissant d'une grande popularité doit être sous la coupe du Kremlin\" : comment Poutine a fait taire la presse indépendante en Russie",
    "image": "https://www.franceinfo.fr/pictures/wgLEq15ZaB2vlk03x5CnatBhoFI/0x0:2000x1125/432x243/filters:format(jpg)/2026/11/09/6af187cfcd335944895649.jpg",
+   "date": null,
+   "pubdate": "2026-11-14T01:28:41.083332+00:00"
+  },
+  {
+   "title": "L'armée américaine rapporte qu'elle a répondu à une activité de drone détectée au-dessus d'une base britannique \"Aucun membre du personnel, aucun avion ni aucune infrastructure n'ont été touchés\", a assuré vendredi un porte-parole de l'armée de l'air américaine. 13 novembre",
+   "link": "https://www.franceinfo.fr/internet/drones/l-armee-americaine-rapporte-qu-elle-a-repondu-a-une-activite-de-drone-detectee-au-dessus-d-une-base-britannique_8281700.html",
+   "summary": "L'armée américaine rapporte qu'elle a répondu à une activité de drone détectée au-dessus d'une base britannique",
+   "image": "https://www.franceinfo.fr/pictures/jBYE_QEVJBUsVrDNZL38cE6l818/0x0:1024x576/432x243/filters:format(jpg)/2026/11/13/6af78ac611e07805383833.jpg",
+   "date": null,
+   "pubdate": "2026-11-14T01:28:41.083332+00:00"
+  },
+  {
+   "title": "Aux Etats-Unis, l'administration fédérale de l'aviation ordonne l'arrêt de tous les vols à cause d'un \"problème de communication\" Le ministre américain des Transports, Sean Duffy, a expliqué vendredi que des techniciens \"enquêtent\" actuellement \"sur le problème\". 13 novembre",
+   "link": "https://www.franceinfo.fr/monde/usa/aux-etats-unis-l-administration-federale-de-l-aviation-ordonne-l-arret-de-tous-les-vols-a-cause-d-un-probleme-de-communication_8281691.html",
+   "summary": "Aux Etats-Unis, l'administration fédérale de l'aviation ordonne l'arrêt de tous les vols à cause d'un \"problème de communication\"",
+   "image": "https://www.franceinfo.fr/pictures/R96VDEHvQuRMqyRYEls7Z1P59Tg/0x106:1024x682/432x243/filters:format(jpg)/2026/11/13/6af7865b60cda344133010.jpg",
+   "date": null,
+   "pubdate": "2026-11-14T01:28:41.083332+00:00"
+  },
+  {
+   "title": "Un porte-conteneurs et un bateau de croisière sont entrés en collision dans le port de La Nouvelle-Orléans Sur près de 200 passagers du navire de croisière, 32 ont été hospitalisés, a annoncé la maire de la ville, précisant qu'\"aucun ne présente de blessures graves\". 13 novembre",
+   "link": "https://www.franceinfo.fr/monde/usa/un-porte-conteneurs-et-un-bateau-de-croisiere-sont-entres-en-collision-dans-le-port-de-la-nouvelle-orleans_8281676.html",
+   "summary": "Un porte-conteneurs et un bateau de croisière sont entrés en collision dans le port de La Nouvelle-Orléans",
+   "image": "https://www.franceinfo.fr/pictures/27Sqqo2tbqi5wWY_FT5teOUoyaY/0x75:1285x798/432x243/filters:format(jpg)/2026/11/13/6af78c456817f945515059.jpg",
    "date": null,
    "pubdate": "2026-11-14T01:28:41.083332+00:00"
   },
@@ -210,62 +266,6 @@
    "image": "https://www.franceinfo.fr/pictures/Q-P_5K1oX9iPHDxzeQf_pivCdSs/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/13/6af7100ff3770695411811.png",
    "date": null,
    "pubdate": "2026-11-13T19:48:30.039536+00:00"
-  },
-  {
-   "title": ": Podcast La fin de 10 ans de post-vérité ? Rudy Reichstadt et Tristan Mendès France décryptent, dans ce nouvel épisode de Complorama, ces dix dernières années marquées par la post-vérité. 13 novembre : Podcast 23:45 audio 23 minutes 45",
-   "link": "https://www.franceinfo.fr/replay-radio/complorama/podcast-la-fin-de-10-ans-de-post-verite_8279000.html",
-   "summary": "Rudy Reichstadt et Tristan Mendès France décryptent, dans ce nouvel épisode de Complorama, ces dix dernières années marquées par la post-vérité.",
-   "image": "https://www.franceinfo.fr/pictures/rjNaE_5Fa6T-jB-0rjFmeJXx770/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/13/6af712e503957235327451.jpg",
-   "date": null,
-   "pubdate": "2026-11-13T19:48:30.039536+00:00"
-  },
-  {
-   "title": ": Récit Des premières révélations à la chute du PDG de Nvidia, comment une affaire d'adultère provoque un séisme dans le secteur de l'IA Jensen Huang, l'emblématique patron du géant des puces électroniques, a quitté son poste jeudi. Il n'a pas résisté au scandale lié à ses relations extraconjugales, dont sa liaison avec Alice Huang, une dirigeante d'entreprise accusée d'espionnage industriel pour la Chine. 13 novembre : Récit",
-   "link": "https://www.franceinfo.fr/internet/nvidia/recit-des-premieres-revelations-a-la-chute-du-pdg-de-nvidia-comment-une-affaire-d-adultere-provoque-un-seisme-dans-le-secteur-de-l-ia_8280752.html",
-   "summary": "Des premières révélations à la chute du PDG de Nvidia, comment une affaire d'adultère provoque un séisme dans le secteur de l'IA",
-   "image": "https://www.franceinfo.fr/pictures/ZPKyOonYQjhlMEznvbpsmTtkLlM/0x0:1024x576/432x243/filters:format(jpg)/2026/11/13/6af6dd6862607518184331.jpg",
-   "date": null,
-   "pubdate": "2026-11-13T19:48:30.039536+00:00"
-  },
-  {
-   "title": "Le patron de Mistral AI, Arthur Mensch, appelle l'Europe à \"agir maintenant\" pour rester dans la course en matière d'intelligence artificielle \"Les décisions prises au cours des deux prochaines années façonneront ce secteur pour la décennie à venir\", a déclaré le Français devant des dirigeants des Vingt-Sept lors du premier sommet de l'Union européenne consacré à l'IA, organisé à Dublin. 13 novembre",
-   "link": "https://www.franceinfo.fr/internet/intelligence-artificielle/le-patron-de-mistral-ai-arthur-mensch-appelle-l-europe-a-agir-maintenant-pour-rester-dans-la-course-en-matiere-d-intelligence-artificielle_8281193.html",
-   "summary": "Le patron de Mistral AI, Arthur Mensch, appelle l'Europe à \"agir maintenant\" pour rester dans la course en matière d'intelligence artificielle",
-   "image": "https://www.franceinfo.fr/pictures/R3oWctJTX0P_-alHsAzapzD3PUA/382x64:1024x425/432x243/filters:format(jpg)/2026/11/13/6af720c0ad7fd736967661.jpg",
-   "date": null,
-   "pubdate": "2026-11-13T19:48:30.039536+00:00"
-  },
-  {
-   "title": "\"Je ne demande pas l'impossible, juste être en bonne santé et vivre\" : à Gaza, des habitants craignent de mourir du diabète Après un nouveau bombardement à Gaza, jeudi, le Conseil de paix a encore appelé à la mise en œuvre immédiate du plan d'après-guerre prévu par Donald Trump à Gaza. Les médicaments manquent et on commence à observer de fortes détériorations de santé à cause du diabète. 13 novembre",
-   "link": "https://www.franceinfo.fr/monde/palestine/gaza/je-ne-demande-pas-l-impossible-juste-etre-en-bonne-sante-et-vivre-a-gaza-des-habitants-craignent-de-mourir-du-diabete_8280014.html",
-   "summary": "\"Je ne demande pas l'impossible, juste être en bonne santé et vivre\" : à Gaza, des habitants craignent de mourir du diabète",
-   "image": "https://www.franceinfo.fr/pictures/2MuoD2mxPZ0pVznjOeSw-zPX_e0/0x53:1024x629/432x243/filters:format(jpg)/2026/11/12/6af622f14ee90780485777.jpg",
-   "date": null,
-   "pubdate": "2026-11-13T19:48:30.039536+00:00"
-  },
-  {
-   "title": "En Norvège, la Cour suprême invalide trois licences pétrolières en mer du Nord, contestées par les écologistes Pour les juges, \"les études d'impact environnemental et les évaluations réalisées par les autorités étaient insuffisantes\". 13 novembre",
-   "link": "https://www.franceinfo.fr/environnement/en-norvege-la-cour-supreme-invalide-trois-licences-petrolieres-en-mer-du-nord-contestees-par-les-ecologistes_8281109.html",
-   "summary": "En Norvège, la Cour suprême invalide trois licences pétrolières en mer du Nord, contestées par les écologistes",
-   "image": "https://www.franceinfo.fr/pictures/B4jQlnCr1w0wkiDF5iSBvXbJzlg/0x0:1024x576/432x243/filters:format(jpg)/2026/11/13/6af710e364cb5728172376.jpg",
-   "date": null,
-   "pubdate": "2026-11-13T19:48:30.039536+00:00"
-  },
-  {
-   "title": "Les cendres de l'écrivain Miguel Angel Asturias, mort en 1974, sont arrivées au Guatemala Ramenées de France où reposait l'ancien lauréat du prix Nobel de littérature, les cendres doivent être inhumées dans le principal complexe culturel du pays, qui porte le nom de l'écrivain. 13 novembre",
-   "link": "https://www.franceinfo.fr/culture/livres/les-cendres-de-l-ecrivain-miguel-angel-asturias-mort-en-1974-sont-arrivees-au-guatemala_8280740.html",
-   "summary": "Les cendres de l'écrivain Miguel Angel Asturias, mort en 1974, sont arrivées au Guatemala",
-   "image": "https://www.franceinfo.fr/pictures/VMfcrL1RaBAaWz6QMt76G2VU3y0/0x93:2400x1443/432x243/filters:format(jpg)/2026/11/13/6af6e14aa41e8600143005.jpg",
-   "date": null,
-   "pubdate": "2026-11-13T19:48:30.039536+00:00"
-  },
-  {
-   "title": "Guerre en Ukraine : les Européens veulent être représentés par cinq pays, dont la France, lors des prochaines négociations Ce format a été annoncé par le président du Conseil européen, vendredi à l'issue d'un sommet à Dublin. Mais Moscou a semé le doute en assurant n'avoir nullement levé son veto sur la présence des Européens. 13 novembre",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-la-russie-veut-connaitre-les-intentions-des-europeens-avant-de-les-laisser-participer-aux-pourparlers_8280860.html",
-   "summary": "Guerre en Ukraine : les Européens veulent être représentés par cinq pays, dont la France, lors des prochaines négociations",
-   "image": "https://www.franceinfo.fr/pictures/3uS0yqM48mI1rPF8z1IwxLq7oxY/0x0:1024x576/432x243/filters:format(jpg)/2026/11/13/6af7620ec1844604908214.jpg",
-   "date": null,
-   "pubdate": "2026-11-13T11:08:54.708843+00:00"
   },
   {
    "title": "\"Déjà 12 ou 13 personnes dans le village ont été tuées\" : en Inde, les tensions territoriales entre habitants et éléphants sauvages font des centaines de morts chaque année 6:21 vidéo 6 minutes 21",
