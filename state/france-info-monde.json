@@ -1,17 +1,10 @@
 {
- "etag": "\"1fdc85916b8627729dbf62a9334e829e-gzip\"",
+ "etag": "\"91381ba2d3eaecd67a00a62971533163-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/environnement/biodiversite/animaux/deja-12-ou-13-personnes-dans-le-village-qui-ont-ete-tuees-en-inde-les-tensions-territoriales-entre-habitants-et-elephants-sauvages-font-des-centaines-de-morts-chaque-annee_8280089.html": "2026-11-13T01:53:47.553877+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-la-russie-veut-connaitre-les-intentions-des-europeens-avant-de-les-laisser-participer-aux-pourparlers_8280860.html": "2026-11-13T11:08:54.708843+00:00",
-  "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/la-tres-contestee-methode-anti-gangs-du-president-salvadorien-bukele-porte-ses-premiers-fruits-en-haiti_8259701.html": "2026-11-13T11:08:54.708843+00:00",
-  "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/avoir-un-chien-divise-par-deux-le-risque-de-maladies-comme-alzheimer-selon-des-chercheurs-japonais_8259698.html": "2026-11-13T11:08:54.708843+00:00",
-  "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/melenchon-interdit-d-entree-en-israel-suppressions-de-postes-dans-la-fonction-publique-le-smic-et-les-salaires-le-8h30-franceinfo-d-elisabeth-borne_8259692.html": "2026-11-13T11:08:54.708843+00:00",
-  "https://www.franceinfo.fr/replay-radio/le-monde-et-vous/la-suede-ouvre-la-voie-a-la-decheance-de-nationalite-pour-certains-binationaux_8259659.html": "2026-11-13T11:08:54.708843+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-russie-affirme-avoir-abattu-1-198-drones-ukrainiens-dans-la-nuit-de-jeudi-a-vendredi_8280572.html": "2026-11-13T11:08:54.708843+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-le-systeme-satellitaire-militaire-americain-starshield-a-nouveau-perturbe-annonce-volodymyr-zelensky_8281142.html": "2026-11-13T19:48:30.039536+00:00",
-  "https://www.franceinfo.fr/monde/inde/des-elephants-sement-la-terreur-en-inde_8281397.html": "2026-11-13T19:48:30.039536+00:00",
-  "https://www.franceinfo.fr/economie/commerce/commerce-en-ligne-l-europe-en-guerre-contre-les-dark-patterns_8281340.html": "2026-11-13T19:48:30.039536+00:00",
   "https://www.franceinfo.fr/environnement/energie/energies-fossiles/l-agence-internationale-de-l-energie-prevoit-que-l-offre-mondiale-de-petrole-va-depasser-la-demande-en-fin-d-annee_8281379.html": "2026-11-13T19:48:30.039536+00:00",
   "https://www.franceinfo.fr/monde/russie/la-chroniqueuse-pro-kremlin-xenia-fedorova-juge-la-diplomatie-russe-plus-mesuree-que-l-etat-francais_8281559.html": "2026-11-13T19:48:30.039536+00:00",
   "https://www.franceinfo.fr/politique/marine-le-pen/si-je-peux-le-rencontrer-a-bruxelles-je-le-dirai-a-l-ambassadeur-d-ukraine-marine-le-pen-se-dit-prete-a-echanger-avec-volodymyr-zelensky_8281529.html": "2026-11-13T19:48:30.039536+00:00",
@@ -27,19 +20,90 @@
   "https://www.franceinfo.fr/monde/usa/un-porte-conteneurs-et-un-bateau-de-croisiere-sont-entres-en-collision-dans-le-port-de-la-nouvelle-orleans_8281676.html": "2026-11-14T01:28:41.083332+00:00",
   "https://www.franceinfo.fr/monde/usa/menace-nucleaire-catastrophes-naturelles-intrusions-quand-les-americains-se-bunkerisent_8281655.html": "2026-11-14T01:28:41.083332+00:00",
   "https://www.franceinfo.fr/faits-divers/braquage/bijouterie-de-luxe-braquee-a-paris-que-vont-devenir-les-diamants_8281619.html": "2026-11-14T01:28:41.083332+00:00",
-  "https://www.franceinfo.fr/monde/usa/apres-l-effondrement-mortel-d-un-immeuble-a-new-york-les-questions-se-multiplient_8281634.html": "2026-11-14T01:28:41.083332+00:00",
   "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/leon-xiv-en-france-retrouvez-l-essentiel/": "2026-11-14T01:28:41.083332+00:00",
   "https://www.franceinfo.fr/monde/usa/affaire-jeffrey-epstein/l-essentiel-des-revelations-sur-l-affaire-epstein/": "2026-11-14T01:28:41.083332+00:00",
   "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/tout-comprendre-a-la-guerre-au-moyen-orient/": "2026-11-14T01:28:41.083332+00:00",
-  "https://www.franceinfo.fr/monde/russie/reportage-tout-media-jouissant-d-une-grande-popularite-doit-etre-sous-la-coupe-du-kremlin-comment-poutine-a-fait-taire-la-presse-independante-en-russie_8274161.html": "2026-11-14T01:28:41.083332+00:00"
+  "https://www.franceinfo.fr/monde/russie/reportage-tout-media-jouissant-d-une-grande-popularite-doit-etre-sous-la-coupe-du-kremlin-comment-poutine-a-fait-taire-la-presse-independante-en-russie_8274161.html": "2026-11-14T01:28:41.083332+00:00",
+  "https://www.franceinfo.fr/monde/usa/collision-spectaculaire-entre-un-porte-conteneurs-et-un-bateau-de-croisiere-a-la-nouvelle-orleans_8282324.html": "2026-11-14T10:36:12.935548+00:00",
+  "https://www.franceinfo.fr/monde/usa/l-espace-aerien-des-etats-unis-a-rouvert-apres-l-annulation-de-6-000-vols_8282255.html": "2026-11-14T10:36:12.935548+00:00",
+  "https://www.franceinfo.fr/monde/usa/reportage-pour-l-instant-j-ai-tres-peu-d-informations-a-l-aeroport-d-atlanta-la-galere-des-passagers-apres-la-fermeture-de-l-espace-aerien-americain_8282159.html": "2026-11-14T10:36:12.935548+00:00",
+  "https://www.franceinfo.fr/monde/usa/donald-trump-xi-jinping-et-vladimir-poutine-se-reuniront-jeudi-en-chine-annonce-la-maison-blanche_8282168.html": "2026-11-14T10:36:12.935548+00:00",
+  "https://www.franceinfo.fr/monde/usa/l-espace-aerien-des-etats-unis-a-rouvert-apres-l-annulation-de-6-000-vols_8282150.html": "2026-11-14T10:36:12.935548+00:00",
+  "https://www.franceinfo.fr/monde/usa/midterms-2018/midterms-2026-l-essentiel-des-elections-de-mi-mandat/": "2026-11-14T10:36:12.935548+00:00",
+  "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-couper-le-robinet-de-petrole-russe-en-mission-avec-les-oiseaux-de-madyar-la-brigade-de-dronistes-ukrainiens-la-plus-pourchassee-par-les-russes_8255023.html": "2026-11-14T10:36:12.935548+00:00",
+  "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/reportage-tout-le-monde-est-malade-a-elbistan-l-extraction-du-charbon-brise-les-vies-des-habitants-loin-des-promesses-de-la-turquie-avant-la-cop31_8268068.html": "2026-11-14T10:36:12.935548+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "L'armée américaine rapporte qu'elle a répondu à une activité de drone détectée au-dessus d'une base britannique \"Aucun membre du personnel, aucun avion ni aucune infrastructure n'ont été touchés\", a assuré vendredi un porte-parole de l'armée de l'air américaine. 13 novembre",
+   "title": "Collision spectaculaire entre un porte-conteneurs et un bateau de croisière à La Nouvelle-Orléans Un porte-conteneurs et un bateau de croisière sont entrés en collision dans le port de La Nouvelle-Orléans, aux États-Unis, vendredi 13 novembre. Le bateau de croisière a fini par chavirer, alors qu’il était en cours d’évacuation. Plusieurs personnes ont été blessées. Aujourd'hui 1:02 vidéo 1 minute 2",
+   "link": "https://www.franceinfo.fr/monde/usa/collision-spectaculaire-entre-un-porte-conteneurs-et-un-bateau-de-croisiere-a-la-nouvelle-orleans_8282324.html",
+   "summary": "Collision spectaculaire entre un porte-conteneurs et un bateau de croisière à La Nouvelle-Orléans",
+   "image": "https://www.franceinfo.fr/pictures/A91XHITDzZRKuLK119oTEOdhTXQ/0x0:1080x1920/fit-in/432x297/filters:upscale():fill(blur):format(jpg)/2026/11/14/6af833dd7fbc1176436184.png",
+   "date": null,
+   "pubdate": "2026-11-14T10:36:12.935548+00:00"
+  },
+  {
+   "title": "L'espace aérien des Etats-Unis a rouvert après l'annulation de 6 000 vols Aujourd'hui 1:14 vidéo 1 minute 14",
+   "link": "https://www.franceinfo.fr/monde/usa/l-espace-aerien-des-etats-unis-a-rouvert-apres-l-annulation-de-6-000-vols_8282255.html",
+   "summary": "L'espace aérien des Etats-Unis a rouvert après l'annulation de 6 000 vols",
+   "image": "https://www.franceinfo.fr/pictures/3TiIQH2bKJXHVZCSh12u-Di1wxM/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/14/6af824c129391030007577.png",
+   "date": null,
+   "pubdate": "2026-11-14T10:36:12.935548+00:00"
+  },
+  {
+   "title": ": Reportage \"Pour l'instant, j'ai très peu d'informations\" : à l'aéroport d'Atlanta, la galère des passagers après la fermeture de l'espace aérien américain Aujourd'hui : Reportage",
+   "link": "https://www.franceinfo.fr/monde/usa/reportage-pour-l-instant-j-ai-tres-peu-d-informations-a-l-aeroport-d-atlanta-la-galere-des-passagers-apres-la-fermeture-de-l-espace-aerien-americain_8282159.html",
+   "summary": "\"Pour l'instant, j'ai très peu d'informations\" : à l'aéroport d'Atlanta, la galère des passagers après la fermeture de l'espace aérien américain",
+   "image": "https://www.franceinfo.fr/pictures/nF51AkVC-FeY0xW29MH9oZ_priQ/0x315:6049x3717/432x243/filters:format(jpg)/2026/11/14/6af812b4d6a71898768864.jpg",
+   "date": null,
+   "pubdate": "2026-11-14T10:36:12.935548+00:00"
+  },
+  {
+   "title": "Donald Trump, Xi Jinping et Vladimir Poutine se réuniront jeudi en Chine, annonce la Maison Blanche Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/usa/donald-trump-xi-jinping-et-vladimir-poutine-se-reuniront-jeudi-en-chine-annonce-la-maison-blanche_8282168.html",
+   "summary": "Donald Trump, Xi Jinping et Vladimir Poutine se réuniront jeudi en Chine, annonce la Maison Blanche",
+   "image": "https://www.franceinfo.fr/pictures/QjWlh_dgnVR1JfZmJ03rCCJ4Ys8/0x59:1024x635/432x243/filters:format(jpg)/2026/11/14/6af807ae58c0f758597297.jpg",
+   "date": null,
+   "pubdate": "2026-11-14T10:36:12.935548+00:00"
+  },
+  {
+   "title": "L'espace aérien des Etats-Unis a rouvert après une annulation de 6 000 vols liée à une panne de communication Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/usa/l-espace-aerien-des-etats-unis-a-rouvert-apres-l-annulation-de-6-000-vols_8282150.html",
+   "summary": "L'espace aérien des Etats-Unis a rouvert après une annulation de 6 000 vols liée à une panne de communication",
+   "image": "https://www.franceinfo.fr/pictures/t-hAD9cNtzyYmcgQmbM8VvNuO_g/0x46:1024x622/432x243/filters:format(jpg)/2026/11/14/6af801d812626777005837.jpg",
+   "date": null,
+   "pubdate": "2026-11-14T10:36:12.935548+00:00"
+  },
+  {
+   "title": "Midterms 2026 : l'essentiel des élections de mi-mandat 28 contenus",
+   "link": "https://www.franceinfo.fr/monde/usa/midterms-2018/midterms-2026-l-essentiel-des-elections-de-mi-mandat/",
+   "summary": "Midterms 2026 : l'essentiel des élections de mi-mandat",
+   "image": "https://www.franceinfo.fr/pictures/brT3BkVaFOL26KI_ApRVmr8Jytk/432x297/filters:format(jpg)/2026/10/29/6ae37a1b0991c168765960.jpg",
+   "date": null,
+   "pubdate": "2026-11-14T10:36:12.935548+00:00"
+  },
+  {
+   "title": ": Reportage \"Ce soir, on est en mission pour qu'ils passent une mauvaise nuit\" : en immersion avec une brigade de dronistes ukrainiens qui vise les raffineries russes : Reportage 4:55 audio 4 minutes 55",
+   "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-couper-le-robinet-de-petrole-russe-en-mission-avec-les-oiseaux-de-madyar-la-brigade-de-dronistes-ukrainiens-la-plus-pourchassee-par-les-russes_8255023.html",
+   "summary": "\"Ce soir, on est en mission pour qu'ils passent une mauvaise nuit\" : en immersion avec une brigade de dronistes ukrainiens qui vise les raffineries russes",
+   "image": "https://www.franceinfo.fr/pictures/ccQT4F940EBl9FupZfobrD39RI8/0x150:1600x1050/432x243/filters:format(jpg)/2026/11/09/6af22c0dbfe8f915408614.jpg",
+   "date": null,
+   "pubdate": "2026-11-14T10:36:12.935548+00:00"
+  },
+  {
+   "title": ": Reportage \"Tout le monde est malade\" : à Elbistan, l'extraction du charbon brise les vies des habitants, loin des promesses de la Turquie avant la COP31 : Reportage 8:00 article 8 minutes",
+   "link": "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/reportage-tout-le-monde-est-malade-a-elbistan-l-extraction-du-charbon-brise-les-vies-des-habitants-loin-des-promesses-de-la-turquie-avant-la-cop31_8268068.html",
+   "summary": "\"Tout le monde est malade\" : à Elbistan, l'extraction du charbon brise les vies des habitants, loin des promesses de la Turquie avant la COP31",
+   "image": "https://www.franceinfo.fr/pictures/5UpfkX797QceR__PCjmJGqacvD4/0x598:5745x3830/432x243/filters:format(jpg)/2026/11/04/6aeb8737908e7222497953.jpg",
+   "date": null,
+   "pubdate": "2026-11-14T10:36:12.935548+00:00"
+  },
+  {
+   "title": "L'armée américaine rapporte qu'elle a répondu à une activité de drone détectée au-dessus d'une base britannique 13 novembre",
    "link": "https://www.franceinfo.fr/internet/drones/l-armee-americaine-rapporte-qu-elle-a-repondu-a-une-activite-de-drone-detectee-au-dessus-d-une-base-britannique_8281700.html",
    "summary": "L'armée américaine rapporte qu'elle a répondu à une activité de drone détectée au-dessus d'une base britannique",
-   "image": "https://www.franceinfo.fr/pictures/JxKOgzbq7YgyrvqrLMc5YE10l40/0x0:992x682/432x297/filters:format(jpg)/2026/11/13/6af78ac611e07805383833.jpg",
+   "image": "https://www.franceinfo.fr/pictures/jBYE_QEVJBUsVrDNZL38cE6l818/0x0:1024x576/432x243/filters:format(jpg)/2026/11/13/6af78ac611e07805383833.jpg",
    "date": null,
    "pubdate": "2026-11-14T01:28:41.083332+00:00"
   },
@@ -76,14 +140,6 @@
    "pubdate": "2026-11-14T01:28:41.083332+00:00"
   },
   {
-   "title": "Après l'effondrement mortel d'un immeuble à New York, les questions se multiplient 13 novembre 1:22 vidéo 1 minute 22",
-   "link": "https://www.franceinfo.fr/monde/usa/apres-l-effondrement-mortel-d-un-immeuble-a-new-york-les-questions-se-multiplient_8281634.html",
-   "summary": "Après l'effondrement mortel d'un immeuble à New York, les questions se multiplient",
-   "image": "https://www.franceinfo.fr/pictures/xNfb-tKXPFEaWzeu7NcYcDvgUNk/39x0:1387x758/432x243/filters:format(jpg)/2026/11/13/6af76ad8f2af2742078122.jpg",
-   "date": null,
-   "pubdate": "2026-11-14T01:28:41.083332+00:00"
-  },
-  {
    "title": "Léon XIV en France : l'essentiel de la visite du pape 15 contenus",
    "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/leon-xiv-en-france-retrouvez-l-essentiel/",
    "summary": "Léon XIV en France : l'essentiel de la visite du pape",
@@ -116,7 +172,7 @@
    "pubdate": "2026-11-14T01:28:41.083332+00:00"
   },
   {
-   "title": "Guerre en Ukraine : le système satellitaire militaire américain Starshield à nouveau perturbé, annonce Volodymyr Zelensky 13 novembre",
+   "title": "Guerre en Ukraine : le système satellitaire militaire américain Starshield à nouveau perturbé, annonce Volodymyr Zelensky Selon Kiev, les terminaux Starshield cessent actuellement d'émettre au-delà d'une vitesse de déplacement de 160 km/h, comme cela avait déjà été observé en octobre. L'Ukraine avait alors dénoncé les conséquences de ces perturbations sur la défense antiaérienne. 13 novembre",
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-le-systeme-satellitaire-militaire-americain-starshield-a-nouveau-perturbe-annonce-volodymyr-zelensky_8281142.html",
    "summary": "Guerre en Ukraine : le système satellitaire militaire américain Starshield à nouveau perturbé, annonce Volodymyr Zelensky",
    "image": "https://www.franceinfo.fr/pictures/HJa9f1_9Wk3TOA2qkTsdcNUgey0/0x0:1024x576/432x243/filters:format(jpg)/2026/11/13/6af716c23cc81367792238.jpg",
@@ -124,23 +180,7 @@
    "pubdate": "2026-11-13T19:48:30.039536+00:00"
   },
   {
-   "title": "Des éléphants sèment la terreur en Inde 13 novembre 2:45 vidéo 2 minutes 45",
-   "link": "https://www.franceinfo.fr/monde/inde/des-elephants-sement-la-terreur-en-inde_8281397.html",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/IKeeKlM03gHat1SLjJ8SBYGyF_I/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/13/6af73c8345a96413478553.jpg",
-   "date": null,
-   "pubdate": "2026-11-13T19:48:30.039536+00:00"
-  },
-  {
-   "title": "Commerce en ligne : l’Europe en guerre contre les “dark patterns“ 13 novembre 1:52 vidéo 1 minute 52",
-   "link": "https://www.franceinfo.fr/economie/commerce/commerce-en-ligne-l-europe-en-guerre-contre-les-dark-patterns_8281340.html",
-   "summary": "Commerce en ligne : l’Europe en guerre contre les “dark patterns“",
-   "image": "https://www.franceinfo.fr/pictures/ETazAHaT5RqBIylwyYTRI54m2MU/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/13/6af734c8d09f2589004201.jpg",
-   "date": null,
-   "pubdate": "2026-11-13T19:48:30.039536+00:00"
-  },
-  {
-   "title": "L'Agence internationale de l'énergie prévoit que l'offre mondiale de pétrole va dépasser la demande en fin d'année 13 novembre",
+   "title": "L'Agence internationale de l'énergie prévoit que l'offre mondiale de pétrole va dépasser la demande en fin d'année C'est une première depuis le début de la guerre en Iran. Dans son rapport mensuel, l'Agence internationale de l'énergie note jeudi que le marché du pétrole montre des signes de rééquilibrage. 13 novembre",
    "link": "https://www.franceinfo.fr/environnement/energie/energies-fossiles/l-agence-internationale-de-l-energie-prevoit-que-l-offre-mondiale-de-petrole-va-depasser-la-demande-en-fin-d-annee_8281379.html",
    "summary": "L'Agence internationale de l'énergie prévoit que l'offre mondiale de pétrole va dépasser la demande en fin d'année",
    "image": "https://www.franceinfo.fr/pictures/f7PqgUHqj5AKzaTKc4RLJ-hQMOQ/0x450:8640x5310/432x243/filters:format(jpg)/2026/11/13/6af73e322ae75303747468.jpg",
@@ -226,46 +266,6 @@
    "image": "https://www.franceinfo.fr/pictures/3uS0yqM48mI1rPF8z1IwxLq7oxY/0x0:1024x576/432x243/filters:format(jpg)/2026/11/13/6af7620ec1844604908214.jpg",
    "date": null,
    "pubdate": "2026-11-13T11:08:54.708843+00:00"
-  },
-  {
-   "title": "La très contestée méthode anti-gangs du président salvadorien Bukele porte ses premiers fruits en Haïti La police de Port au Prince annonce vendredi matin avoir repris le contrôle du stade national de football, occupé depuis deux ans par un gang. Un symbole fort. Les autorités haïtiennes mènent une guerre depuis plus de 30 ans contre la criminalité en vain. Les forces salvadoriennes envoyé en renfort ont obtenu des résultats en à peine 15 jours. 13 novembre 2:28 audio 2 minutes 28",
-   "link": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/la-tres-contestee-methode-anti-gangs-du-president-salvadorien-bukele-porte-ses-premiers-fruits-en-haiti_8259701.html",
-   "summary": "La très contestée méthode anti-gangs du président salvadorien Bukele porte ses premiers fruits en Haïti",
-   "image": "https://www.franceinfo.fr/pictures/tmzFogClj0upfG7fstJImAJRDUg/0x0:4678x2631/432x243/filters:format(jpg)/2026/11/13/6af6d6c452d8e843074347.jpg",
-   "date": null,
-   "pubdate": "2026-11-13T11:08:54.708843+00:00"
-  },
-  {
-   "title": "Avoir un chien divise par deux le risque de maladies comme Alzheimer, selon des chercheurs japonais Pour faire des économies dans les dépenses de santé, la solution est-elle de donner un chiot à tout le monde ? Des scientifiques japonais ont scruté pendant plus de sept ans un échantillon de la population. Et les résultats démontre que s'occuper d'un chien est un vrai exercice pour le cerveau. 13 novembre 2:22 audio 2 minutes 22",
-   "link": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/avoir-un-chien-divise-par-deux-le-risque-de-maladies-comme-alzheimer-selon-des-chercheurs-japonais_8259698.html",
-   "summary": "Avoir un chien divise par deux le risque de maladies comme Alzheimer, selon des chercheurs japonais",
-   "image": "https://www.franceinfo.fr/pictures/THQTpzjab29XDKOAm2biPF9_x2k/0x53:1024x629/432x243/filters:format(jpg)/2026/11/13/6af6b48d666c1909658985.jpg",
-   "date": null,
-   "pubdate": "2026-11-13T11:08:54.708843+00:00"
-  },
-  {
-   "title": "La Suède ouvre la voie à la déchéance de nationalité pour certains binationaux Le Parlement suédois a adopté une révision constitutionnelle permettant, à terme, de retirer la nationalité à certains citoyens possédant un autre passeport. Une réforme soutenue par la droite et les sociaux-démocrates, mais dénoncée par ses opposants, qui craignent la création de deux catégories de citoyens. 13 novembre 2:37 audio 2 minutes 37",
-   "link": "https://www.franceinfo.fr/replay-radio/le-monde-et-vous/la-suede-ouvre-la-voie-a-la-decheance-de-nationalite-pour-certains-binationaux_8259659.html",
-   "summary": "La Suède ouvre la voie à la déchéance de nationalité pour certains binationaux",
-   "image": "https://www.franceinfo.fr/pictures/jQ7xOLG6NM_sojSpRwx6uRNiK_w/0x44:1024x620/432x243/filters:format(jpg)/2026/11/13/6af6c04a304b0965913418.jpg",
-   "date": null,
-   "pubdate": "2026-11-13T11:08:54.708843+00:00"
-  },
-  {
-   "title": "La Russie affirme avoir abattu 1 198 drones ukrainiens dans la nuit de jeudi à vendredi et fait état de neuf morts Il s'agit d'une des attaques les plus importantes ayant visé le territoire russe depuis le début de la guerre. Les autorités ukrainiennes ont de leur côté fait état d'une nouvelle nuit de frappes russes qui ont fait trois morts et causé d'importants dégâts dans plusieurs régions du pays. 13 novembre",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-russie-affirme-avoir-abattu-1-198-drones-ukrainiens-dans-la-nuit-de-jeudi-a-vendredi_8280572.html",
-   "summary": "La Russie affirme avoir abattu 1 198 drones ukrainiens dans la nuit de jeudi à vendredi et fait état de neuf morts",
-   "image": "https://www.franceinfo.fr/pictures/UtG9kCIYbkL4g2IYT-rH_aIiD7w/0x53:1024x629/432x243/filters:format(jpg)/2026/11/13/6af6bc6a2b5d3790482769.jpg",
-   "date": null,
-   "pubdate": "2026-11-13T11:08:54.708843+00:00"
-  },
-  {
-   "title": "Mélenchon interdit d'entrée en Israël, suppressions de postes dans la Fonction publique, le smic et les salaires... Le \"8h30 franceinfo\" d'Élisabeth Borne Élisabeth Borne, ancienne Première ministre, députée Renaissance du Calvados, est l'invitée du \"8h30 franceinfo\" le 13 novembre 2026. 13 novembre 22:59 audio 22 minutes 59",
-   "link": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/melenchon-interdit-d-entree-en-israel-suppressions-de-postes-dans-la-fonction-publique-le-smic-et-les-salaires-le-8h30-franceinfo-d-elisabeth-borne_8259692.html",
-   "summary": "Mélenchon interdit d'entrée en Israël, suppressions de postes dans la Fonction publique, le smic et les salaires... Le \"8h30 franceinfo\" d'Élisabeth Borne",
-   "image": "https://www.franceinfo.fr/pictures/Km0_OSqY64-Cv8vn0afv8BufY-A/168x0:1086x516/432x243/filters:format(jpg)/2026/11/13/6af6c3afaad04854087773.jpg",
-   "date": "2026-11-13T11:00:00+00:00",
-   "pubdate": "2026-11-13T11:00:00+00:00"
   },
   {
    "title": "\"Déjà 12 ou 13 personnes dans le village ont été tuées\" : en Inde, les tensions territoriales entre habitants et éléphants sauvages font des centaines de morts chaque année 6:21 vidéo 6 minutes 21",
