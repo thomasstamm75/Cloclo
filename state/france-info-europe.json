@@ -1,13 +1,11 @@
 {
- "etag": "\"5755a3df6cd15caf393f38176105ef1b-gzip\"",
+ "etag": "\"106c75e6603929bd59ae9f0166c0c75a-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/monde/russie/enquete-franceinfo-on-l-appelait-poutine-girl-comment-la-france-verrouille-les-demandes-de-visas-diplomatiques-russes-pour-limiter-les-risques-d-espionnage_8204495.html": "2026-10-27T09:06:52.195523+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/temoignages-simulacres-d-execution-tortures-physiques-un-ancien-prisonnier-ukrainien-en-russie-raconte-les-sevices-subis-apres-sa-capture-dans-le-donbass_8202320.html": "2026-10-27T09:06:52.195523+00:00",
   "https://www.franceinfo.fr/politique/grand-entretien-en-belgique-un-cordon-sanitaire-mediatique-empeche-toute-forme-de-banalisation-de-l-extreme-droite-un-outil-difficile-a-imaginer-en-france_8265599.html": "2026-11-04T17:19:33.406625+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-couper-le-robinet-de-petrole-russe-en-mission-avec-les-oiseaux-de-madyar-la-brigade-de-dronistes-ukrainiens-la-plus-pourchassee-par-les-russes_8255023.html": "2026-11-10T14:58:52.045882+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/reportage-on-etait-coupe-du-monde-on-crevait-de-faim-une-habitante-d-olechky-raconte-le-calvaire-avant-son-evacuation_8278928.html": "2026-11-12T11:25:38.814935+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-les-emissaires-americains-sont-arrives-en-russie-pour-une-rencontre-avec-vladimir-poutine_8278706.html": "2026-11-12T11:25:38.814935+00:00",
   "https://www.franceinfo.fr/monde/europe/entre-sabotages-cyberattaques-et-agents-au-service-des-puissances-rivales-comment-l-europe-se-retrouve-sous-la-pression-de-la-guerre-hybride_8279402.html": "2026-11-12T20:01:27.989112+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-vladimir-poutine-refuse-la-possibilite-d-etablir-des-zones-grises-face-aux-emissaires-americains_8280119.html": "2026-11-13T01:53:46.407763+00:00",
   "https://www.franceinfo.fr/monde/europe/une-quarantaine-de-pays-europeens-inscrivent-leurs-principes-cles-de-securite-dans-une-charte_8280113.html": "2026-11-13T01:53:46.407763+00:00",
@@ -19,24 +17,49 @@
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/kiev-et-washington-affirment-que-les-europeens-seront-presents-aux-prochaines-negociations-sur-l-ukraine_8280449.html": "2026-11-13T11:08:53.387912+00:00",
   "https://www.franceinfo.fr/sports/hockey-sur-glace/boycott-refus-d-octroyer-des-visas-jusqu-ou-peuvent-aller-les-opposants-a-la-reintegration-des-hockeyeurs-russes-dans-les-championnats-du-monde_8279339.html": "2026-11-13T11:08:53.387912+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-le-systeme-satellitaire-militaire-americain-starshield-a-nouveau-perturbe-annonce-volodymyr-zelensky_8281142.html": "2026-11-13T19:48:28.233425+00:00",
-  "https://www.franceinfo.fr/economie/commerce/commerce-en-ligne-l-europe-en-guerre-contre-les-dark-patterns_8281340.html": "2026-11-13T19:48:28.233425+00:00",
   "https://www.franceinfo.fr/politique/marine-le-pen/si-je-peux-le-rencontrer-a-bruxelles-je-le-dirai-a-l-ambassadeur-d-ukraine-marine-le-pen-se-dit-prete-a-echanger-avec-volodymyr-zelensky_8281529.html": "2026-11-13T19:48:28.233425+00:00",
-  "https://www.franceinfo.fr/internet/drones/1200-drones-ukrainiens-attaquent-la-russie_8281253.html": "2026-11-13T19:48:28.233425+00:00",
   "https://www.franceinfo.fr/internet/intelligence-artificielle/le-patron-de-mistral-ai-arthur-mensch-appelle-l-europe-a-agir-maintenant-pour-rester-dans-la-course-en-matiere-d-intelligence-artificielle_8281193.html": "2026-11-13T19:48:28.233425+00:00",
   "https://www.franceinfo.fr/faits-divers/braquage/bijouterie-de-luxe-braquee-a-paris-que-vont-devenir-les-diamants_8281619.html": "2026-11-14T01:28:39.945506+00:00",
   "https://www.franceinfo.fr/replay-magazine/franceinfo/vrai-ou-fake-l-emission/les-fonctionnaires-europeens-sont-ils-trop-payes_8282585.html": "2026-11-14T18:13:18.727694+00:00",
   "https://www.franceinfo.fr/replay-radio/l-invite-culture/hugo-becker-c-est-un-honneur-de-se-dedier-a-quelque-chose-plus-important-que-soi_8261237.html": "2026-11-14T18:13:18.727694+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/reportage-mon-appli-me-dit-que-je-suis-a-lima-en-ukraine-le-brouillage-gps-pour-detourner-les-missiles-russes-s-invite-dans-le-quotidien-des-habitants_8282297.html": "2026-11-14T18:13:18.727694+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/aide-a-l-ukraine-e-diaz-assume-vouloir-stopper-les-financements-francais_8282348.html": "2026-11-14T18:13:18.727694+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-volodymy-zelensky-affirme-que-les-etats-unis-ont-propose-des-concessions-territoriales-en-echange-d-une-adhesion-de-kiev-a-l-otan_8282333.html": "2026-11-14T18:13:18.727694+00:00"
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-volodymy-zelensky-affirme-que-les-etats-unis-ont-propose-des-concessions-territoriales-en-echange-d-une-adhesion-de-kiev-a-l-otan_8282333.html": "2026-11-14T18:13:18.727694+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/emmanuel-macron-affirme-que-ceux-qui-veulent-rationner-l-aide-a-l-ukraine-veulent-l-obliger-a-une-paix-injuste_8282819.html": "2026-11-14T22:31:59.190428+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/volodymyr-zelensky-affirme-que-washington-a-propose-des-concessions-territoriales-en-echange-d-une-adhesion-de-l-ukraine-a-l-otan_8282804.html": "2026-11-14T22:31:59.190428+00:00",
+  "https://www.franceinfo.fr/economie/pouvoir-achat/logement/des-milliers-de-portugais-manifestent-contre-la-crise-du-logement_8282765.html": "2026-11-14T22:31:59.190428+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "Les fonctionnaires européens sont-ils trop payés ? À l'heure où l'État cherche à réduire ses dépenses, un poste en particulier essuie les critiques de certains politiques : l'argent que la France donne à l'Europe. Sont notamment visés les salaires des fonctionnaires européens, qui seraient exorbitants d'après les critiques qui ont pu être entendues. Aujourd'hui 2:01 vidéo 2 minutes 1",
+   "title": "Emmanuel Macron affirme que \"ceux qui veulent rationner\" l'aide à l'Ukraine veulent \"l'obliger à une paix injuste\" Marine Le Pen entend, si elle est élue, cesser l'aide financière à l'Ukraine, envahie depuis 2022 par la Russie, après une période de six mois. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/emmanuel-macron-affirme-que-ceux-qui-veulent-rationner-l-aide-a-l-ukraine-veulent-l-obliger-a-une-paix-injuste_8282819.html",
+   "summary": "Emmanuel Macron affirme que \"ceux qui veulent rationner\" l'aide à l'Ukraine veulent \"l'obliger à une paix injuste\"",
+   "image": "https://www.franceinfo.fr/pictures/yeuF45obXdQS1vOb2NBepI8LhxU/34x0:4328x2952/432x297/filters:format(jpg)/2026/11/14/6af8b6d12a35b449101827.jpg",
+   "date": null,
+   "pubdate": "2026-11-14T22:31:59.190428+00:00"
+  },
+  {
+   "title": "Volodymyr Zelensky affirme que Washington a proposé des concessions territoriales en échange d'une adhésion de l'Ukraine à l'Otan Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/volodymyr-zelensky-affirme-que-washington-a-propose-des-concessions-territoriales-en-echange-d-une-adhesion-de-l-ukraine-a-l-otan_8282804.html",
+   "summary": "Volodymyr Zelensky affirme que Washington a proposé des concessions territoriales en échange d'une adhésion de l'Ukraine à l'Otan",
+   "image": "https://www.franceinfo.fr/pictures/uAkFDVfCrXIpGXuXztfJUDgAHgQ/0x0:6550x3684/432x243/filters:format(jpg)/2026/11/14/6af8b2b9ba900879057743.jpg",
+   "date": null,
+   "pubdate": "2026-11-14T22:31:59.190428+00:00"
+  },
+  {
+   "title": "Des milliers de Portugais manifestent contre la crise du logement Aujourd'hui",
+   "link": "https://www.franceinfo.fr/economie/pouvoir-achat/logement/des-milliers-de-portugais-manifestent-contre-la-crise-du-logement_8282765.html",
+   "summary": "Des milliers de Portugais manifestent contre la crise du logement",
+   "image": "https://www.franceinfo.fr/pictures/wRFYlky8C6OjRIX3lS8LMBPl9Tg/0x625:6000x4000/432x243/filters:format(jpg)/2026/11/14/6af8a5a2e62f2110709803.jpg",
+   "date": null,
+   "pubdate": "2026-11-14T22:31:59.190428+00:00"
+  },
+  {
+   "title": "Les fonctionnaires européens sont-ils trop payés ? Aujourd'hui 2:01 vidéo 2 minutes 1",
    "link": "https://www.franceinfo.fr/replay-magazine/franceinfo/vrai-ou-fake-l-emission/les-fonctionnaires-europeens-sont-ils-trop-payes_8282585.html",
    "summary": "Les fonctionnaires européens sont-ils trop payés ?",
-   "image": "https://www.franceinfo.fr/pictures/Q0vByWlIPbQGHDsuWWBZn08hKPQ/174x0:1745x1080/432x297/filters:format(jpg)/2026/11/14/6af87d249753d209756689.jpg",
+   "image": "https://www.franceinfo.fr/pictures/JXpsKNszOrYehZoQ3NgcvWO3Pbo/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/14/6af87d249753d209756689.jpg",
    "date": null,
    "pubdate": "2026-11-14T18:13:18.727694+00:00"
   },
@@ -89,26 +112,10 @@
    "pubdate": "2026-11-13T19:48:28.233425+00:00"
   },
   {
-   "title": "Commerce en ligne : l’Europe en guerre contre les “dark patterns“ 13 novembre 1:52 vidéo 1 minute 52",
-   "link": "https://www.franceinfo.fr/economie/commerce/commerce-en-ligne-l-europe-en-guerre-contre-les-dark-patterns_8281340.html",
-   "summary": "Commerce en ligne : l’Europe en guerre contre les “dark patterns“",
-   "image": "https://www.franceinfo.fr/pictures/ETazAHaT5RqBIylwyYTRI54m2MU/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/13/6af734c8d09f2589004201.jpg",
-   "date": null,
-   "pubdate": "2026-11-13T19:48:28.233425+00:00"
-  },
-  {
-   "title": "Marine Le Pen se dit prête à rencontrer le président ukrainien Volodymyr Zelensky à Bruxelles 13 novembre",
+   "title": "Marine Le Pen se dit prête à rencontrer le président ukrainien Volodymyr Zelensky à Bruxelles Par le passé, la candidate du Rassemblement national à la présidentielle avait déclaré que, si elle était élue, elle \"maintiendrait durant six mois\" l'aide financière à l'Ukraine, envahie depuis 2022 par la Russie, \"cesserait\" ce soutien au-delà. 13 novembre",
    "link": "https://www.franceinfo.fr/politique/marine-le-pen/si-je-peux-le-rencontrer-a-bruxelles-je-le-dirai-a-l-ambassadeur-d-ukraine-marine-le-pen-se-dit-prete-a-echanger-avec-volodymyr-zelensky_8281529.html",
    "summary": "Marine Le Pen se dit prête à rencontrer le président ukrainien Volodymyr Zelensky à Bruxelles",
    "image": "https://www.franceinfo.fr/pictures/_bttZ5-qBe7o3KVLxIoXociZ0es/0x26:1024x602/432x243/filters:format(jpg)/2026/11/13/6af74ee18e839084486683.jpg",
-   "date": null,
-   "pubdate": "2026-11-13T19:48:28.233425+00:00"
-  },
-  {
-   "title": "1200 drones ukrainiens attaquent la Russie 13 novembre 1:10 vidéo 1 minute 10",
-   "link": "https://www.franceinfo.fr/internet/drones/1200-drones-ukrainiens-attaquent-la-russie_8281253.html",
-   "summary": "1200 drones ukrainiens attaquent la Russie",
-   "image": "https://www.franceinfo.fr/pictures/5ojlbynzT-qWPA1lXTcl-MZE9Hg/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/13/6af72a69db913353850842.jpg",
    "date": null,
    "pubdate": "2026-11-13T19:48:28.233425+00:00"
   },
@@ -199,22 +206,6 @@
    "image": "https://www.franceinfo.fr/pictures/RX9GYdKGsEZAqvRNR04730hu4Mk/0x0:4000x2250/432x243/filters:format(jpg)/2026/11/12/6af5c8d931740255628082.jpg",
    "date": null,
    "pubdate": "2026-11-12T20:01:27.989112+00:00"
-  },
-  {
-   "title": ": Reportage \"On était coupés du monde, on crevait de faim\" : une habitante d'Olechky raconte le calvaire avant son évacuation Fin octobre, après plus d'un an coincés au milieu du front, plusieurs centaines de civils ont pu être évacuées de la ville d'Olechky, dans le sud de l'Ukraine. Olga, une des habitantes qui a désormais trouvé refuge à Kiev, raconte le quotidien des habitants, privés d'eau, d'électricité et de nourriture. 12 novembre : Reportage",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/reportage-on-etait-coupe-du-monde-on-crevait-de-faim-une-habitante-d-olechky-raconte-le-calvaire-avant-son-evacuation_8278928.html",
-   "summary": "\"On était coupés du monde, on crevait de faim\" : une habitante d'Olechky raconte le calvaire avant son évacuation",
-   "image": "https://www.franceinfo.fr/pictures/dRnrauPXxukc_rimmCL19R4xIHw/0x139:2856x1745/432x243/filters:format(jpg)/2026/11/12/6af58b06ed613241922772.jpg",
-   "date": null,
-   "pubdate": "2026-11-12T11:25:38.814935+00:00"
-  },
-  {
-   "title": "Guerre en Ukraine : depuis Dublin, Volodymyr Zelensky affirme que l'Europe sera à la table des \"prochaines\" négociations A ses côtés, Jared Kushner, l'un des deux émissaires de Donald Trump, a déclaré jeudi soir que \"nous ne pouvons pas conclure cet accord\" entre Moscou et Kiev \"sans que les Européens soient\" présents. 12 novembre",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-les-emissaires-americains-sont-arrives-en-russie-pour-une-rencontre-avec-vladimir-poutine_8278706.html",
-   "summary": "Guerre en Ukraine : depuis Dublin, Volodymyr Zelensky affirme que l'Europe sera à la table des \"prochaines\" négociations",
-   "image": "https://www.franceinfo.fr/pictures/5swluOoVj4SRXMPcNX-9klTHN9k/0x0:1024x576/432x243/filters:format(jpg)/2026/11/12/6af63f5054e39958827036.jpg",
-   "date": null,
-   "pubdate": "2026-11-12T11:25:38.814935+00:00"
   },
   {
    "title": ": Reportage \"Ce soir, on est en mission pour qu'ils passent une mauvaise nuit\" : en immersion avec une brigade de dronistes ukrainiens qui vise les raffineries russes : Reportage 4:55 audio 4 minutes 55",
