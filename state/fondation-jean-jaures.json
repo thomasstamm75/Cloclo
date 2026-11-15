@@ -1,13 +1,13 @@
 {
  "etag": "",
- "last_modified": "Sun, 15 Nov 2026 16:07:24 GMT",
+ "last_modified": "Sun, 15 Nov 2026 17:48:23 GMT",
  "first_seen": {
-  "https://www.jean-jaures.org/publication/de-linfluence-a-la-confiance-faut-il-repenser-la-diplomatie-culturelle/": "2026-11-09T11:00:00+00:00",
   "https://www.jean-jaures.org/publication/de-laide-a-la-souverainete-reformer-larchitecture-mondiale-de-la-sante/": "2026-11-10T11:00:00+00:00",
   "https://www.jean-jaures.org/publication/commemorations-du-11-novembre-quelle-memoire-et-quelle-histoire-transmettre-aux-jeunes-generations/": "2026-11-10T11:00:00+00:00",
   "https://www.jean-jaures.org/publication/face-a-la-fragmentation-informationnelle-le-temps-politique-augmente-sur-youtube/": "2026-11-10T11:00:00+00:00",
   "https://www.jean-jaures.org/publication/de-limportance-de-la-democratie-sociale-la-lettre-de-lobservatoire-du-dialogue-social/": "2026-11-13T11:00:00+00:00",
-  "https://www.jean-jaures.org/publication/lia-est-bel-et-bien-entree-dans-latelier-des-mondes-academiques/": "2026-11-13T11:00:00+00:00"
+  "https://www.jean-jaures.org/publication/lia-est-bel-et-bien-entree-dans-latelier-des-mondes-academiques/": "2026-11-13T11:00:00+00:00",
+  "https://www.jean-jaures.org/publication/le-modele-chinois-sapparente-davantage-a-une-economie-socialiste-de-marche-qua-un-capitalisme-detat/": "2026-11-12T11:00:00+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
@@ -26,6 +26,14 @@
    "image": "",
    "date": "2026-11-13T11:00:00+00:00",
    "pubdate": "2026-11-13T11:00:00+00:00"
+  },
+  {
+   "title": "« Le modèle chinois s’apparente davantage à une économie socialiste de marché qu’à un capitalisme d’État »",
+   "link": "https://www.jean-jaures.org/publication/le-modele-chinois-sapparente-davantage-a-une-economie-socialiste-de-marche-qua-un-capitalisme-detat/",
+   "summary": "",
+   "image": "",
+   "date": "2026-11-12T11:00:00+00:00",
+   "pubdate": "2026-11-12T11:00:00+00:00"
   },
   {
    "title": "De l’aide à la souveraineté : réformer l’architecture mondiale de la santé",
@@ -50,14 +58,6 @@
    "image": "",
    "date": "2026-11-10T11:00:00+00:00",
    "pubdate": "2026-11-10T11:00:00+00:00"
-  },
-  {
-   "title": "De l’influence à la confiance : faut-il repenser la diplomatie culturelle ?",
-   "link": "https://www.jean-jaures.org/publication/de-linfluence-a-la-confiance-faut-il-repenser-la-diplomatie-culturelle/",
-   "summary": "",
-   "image": "",
-   "date": "2026-11-09T11:00:00+00:00",
-   "pubdate": "2026-11-09T11:00:00+00:00"
   }
  ]
 }
