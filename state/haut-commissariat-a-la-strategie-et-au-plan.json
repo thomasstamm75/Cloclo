@@ -1,20 +1,28 @@
 {
- "etag": "W/\"1794808099\"",
- "last_modified": "Mon, 16 Nov 2026 05:48:19 GMT",
+ "etag": "W/\"1794851339\"",
+ "last_modified": "Mon, 16 Nov 2026 17:48:59 GMT",
  "first_seen": {
   "https://www.strategie-plan.gouv.fr/france-2035-france-2050-decouvrez-le-projet": "2026-09-10T11:00:00+00:00",
   "https://www.strategie-plan.gouv.fr/conference-presentation-densemble-du-rapport-de-prospective-france-2035-france-2050": "2026-10-06T11:00:00+00:00",
-  "https://www.strategie-plan.gouv.fr/webconference-evenements-climatiques-extremes-tirer-les-lecons-de-lete-2026-pour-mieux-preparer": "2026-09-30T11:00:00+00:00",
   "https://www.strategie-plan.gouv.fr/publications/hcfips-salaire-brut-salaire-net-evolutions-comparees-et-constats": "2026-06-16T11:00:00+00:00",
   "https://www.strategie-plan.gouv.fr/publications/hcfea-les-politiques-sociales-et-fiscales-en-direction-des-jeunes-adultes-de-18-24-ans": "2026-11-06T11:00:00+00:00",
   "https://www.strategie-plan.gouv.fr/actualites/remise-du-prix-jean-monnet-pour-la-jeunesse-du-haut-commissariat-la-strategie-et-au-plan": "2026-11-10T14:58:59.104471+00:00",
   "https://www.strategie-plan.gouv.fr/publications/hcaam-rapport-du-hcaam-trois-scenarios-pour-une-reforme-des-depassements-dhonoraires": "2026-06-09T11:00:00+00:00",
   "https://www.strategie-plan.gouv.fr/publications/et-si-financait-le-budget-europeen-autrement-sortir-du-juste-retour-pour-donner": "2026-11-12T11:25:45.636738+00:00",
   "https://www.strategie-plan.gouv.fr/evenements/conference-la-sobriete-ce-nest-pas-quune-question-de-volonte": "2026-11-12T11:25:45.636738+00:00",
-  "https://www.strategie-plan.gouv.fr/publications/pour-un-budget-europeen-la-hauteur-des-enjeux": "2026-11-13T11:08:59.537129+00:00"
+  "https://www.strategie-plan.gouv.fr/publications/pour-un-budget-europeen-la-hauteur-des-enjeux": "2026-11-13T11:08:59.537129+00:00",
+  "https://www.strategie-plan.gouv.fr/focus-finances-publiques-politiques-inchangees-comment-evolueraient-les-depenses-et-les-recettes": "2026-11-16T11:00:00+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "Focus Finances publiques | À politiques inchangées, comment évolueraient les dépenses et les recettes des administrations publiques ?",
+   "link": "https://www.strategie-plan.gouv.fr/focus-finances-publiques-politiques-inchangees-comment-evolueraient-les-depenses-et-les-recettes",
+   "summary": "",
+   "image": "https://www.strategie-plan.gouv.fr/files/styles/ds_image_paragraphe/public/files/Publications/2026/2026-07-17%20-%20Focus%20Finances%20publiques/France%202035%20France%202050%20-%20Finances%20publiques.png?itok=HrTq4XG1",
+   "date": "2026-11-16T11:00:00+00:00",
+   "pubdate": "2026-11-16T11:00:00+00:00"
+  },
   {
    "title": "Bienvenue sur le site du Haut-commissariat à la Stratégie et au Plan",
    "link": "https://www.strategie-plan.gouv.fr/publications/pour-un-budget-europeen-la-hauteur-des-enjeux",
@@ -62,14 +70,6 @@
    "image": "https://www.strategie-plan.gouv.fr/files/styles/ds_image_paragraphe/public/files/%C3%89v%C3%A9nement/Conf%C3%A9rence%20-%20France%202035%2C%20France%202050.png?itok=9BkJhdKU",
    "date": "2026-10-06T11:00:00+00:00",
    "pubdate": "2026-10-06T11:00:00+00:00"
-  },
-  {
-   "title": "Webconférence | Événements climatiques extrêmes : tirer les leçons de l’été 2026 pour mieux préparer l’avenir",
-   "link": "https://www.strategie-plan.gouv.fr/webconference-evenements-climatiques-extremes-tirer-les-lecons-de-lete-2026-pour-mieux-preparer",
-   "summary": "",
-   "image": "https://www.strategie-plan.gouv.fr/files/styles/ds_image_paragraphe/public/files/%C3%89v%C3%A9nement/2026-09-30%20-%20Webconf%20Bilan%20de%20l%27%C3%A9t%C3%A9/Webconf%C3%A9rence%20-%20Bilan%20de%20l%27%C3%A9t%C3%A9%202026.png?itok=81fX92rL",
-   "date": "2026-09-30T11:00:00+00:00",
-   "pubdate": "2026-09-30T11:00:00+00:00"
   },
   {
    "title": "« France 2035, France 2050 » - Découvrez le projet",
