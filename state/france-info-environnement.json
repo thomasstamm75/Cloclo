@@ -1,13 +1,21 @@
 {
- "etag": "\"1hczy2s-gzip\"",
+ "etag": "\"1fqepfn-gzip\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-couper-le-robinet-de-petrole-russe-en-mission-avec-les-oiseaux-de-madyar-la-brigade-de-dronistes-ukrainiens-la-plus-pourchassee-par-les-russes_8255023.html": "2026-11-10T14:58:49.141557+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/temoignage-plus-d-energie-en-pleurs-a-bout-de-forces-un-eleveur-qui-a-craque-raconte-comment-il-s-est-releve-grace-aux-accompagnements-mis-en-place_8258105.html": "2026-11-12T11:25:36.277052+00:00",
-  "https://www.franceinfo.fr/environnement/biodiversite/animaux/deja-12-ou-13-personnes-dans-le-village-qui-ont-ete-tuees-en-inde-les-tensions-territoriales-entre-habitants-et-elephants-sauvages-font-des-centaines-de-morts-chaque-annee_8280089.html": "2026-11-13T01:53:43.150186+00:00"
+  "https://www.franceinfo.fr/environnement/biodiversite/animaux/deja-12-ou-13-personnes-dans-le-village-qui-ont-ete-tuees-en-inde-les-tensions-territoriales-entre-habitants-et-elephants-sauvages-font-des-centaines-de-morts-chaque-annee_8280089.html": "2026-11-13T01:53:43.150186+00:00",
+  "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/reportage-des-etincelles-tombaient-du-ciel-comme-de-la-pluie-la-cop31-a-l-epreuve-des-incendies-a-repetition-dans-la-region-d-antalya_8276642.html": "2026-11-16T06:42:08.402892+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "REPORTAGE. \"Des étincelles tombaient du ciel comme de la pluie\" : la COP31 à l'épreuve des incendies à répétition dans la région d'Antalya",
+   "link": "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/reportage-des-etincelles-tombaient-du-ciel-comme-de-la-pluie-la-cop31-a-l-epreuve-des-incendies-a-repetition-dans-la-region-d-antalya_8276642.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/V0iFBDsq1_PsFe7tZnnbbWr8D3g/496x279/filters:format(webp)/2026/11/10/6af34c16a031a270730326.jpg",
+   "date": null,
+   "pubdate": "2026-11-16T06:42:08.402892+00:00"
+  },
   {
    "title": "\"Déjà 12 ou 13 personnes dans le village ont été tuées\" : en Inde, les tensions territoriales entre habitants et éléphants sauvages font des centaines de morts chaque année",
    "link": "https://www.franceinfo.fr/environnement/biodiversite/animaux/deja-12-ou-13-personnes-dans-le-village-qui-ont-ete-tuees-en-inde-les-tensions-territoriales-entre-habitants-et-elephants-sauvages-font-des-centaines-de-morts-chaque-annee_8280089.html",
@@ -23,14 +31,6 @@
    "image": "https://www.franceinfo.fr/pictures/qiYwlgcHmIX3EDC7wI5wn0J4UGs/496x279/filters:format(webp)/2026/11/11/6af4b79c7abf0497533421.jpg",
    "date": null,
    "pubdate": "2026-11-12T11:25:36.277052+00:00"
-  },
-  {
-   "title": "REPORTAGE. \"Ce soir, on est en mission pour qu'ils passent une mauvaise nuit\" : en immersion avec une brigade de dronistes ukrainiens qui vise les raffineries russes",
-   "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-couper-le-robinet-de-petrole-russe-en-mission-avec-les-oiseaux-de-madyar-la-brigade-de-dronistes-ukrainiens-la-plus-pourchassee-par-les-russes_8255023.html",
-   "summary": "Présenté par franceinfo, Boris Loumagne, Yashar Fazylov",
-   "image": "https://www.franceinfo.fr/pictures/5K46V1_fBRXicAaihgr2K69SIJk/496x279/filters:format(webp)/2026/11/09/6af22c0dbfe8f915408614.jpg",
-   "date": null,
-   "pubdate": "2026-11-10T14:58:49.141557+00:00"
   }
  ]
 }
