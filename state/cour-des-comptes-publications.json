@@ -1,8 +1,7 @@
 {
- "etag": "W/\"1794887855\"",
- "last_modified": "Tue, 17 Nov 2026 03:57:35 GMT",
+ "etag": "W/\"1794931192\"",
+ "last_modified": "Tue, 17 Nov 2026 15:59:52 GMT",
  "first_seen": {
-  "https://www.ccomptes.fr/fr/publications/le-plan-dinvestissement-france-2030": "2026-10-28T11:00:00+00:00",
   "https://www.ccomptes.fr/fr/publications/levolution-du-budget-du-ministere-de-la-culture-depuis-2015": "2026-11-03T11:00:00+00:00",
   "https://www.ccomptes.fr/fr/publications/le-fonds-de-prevention-des-risques-naturels-majeurs-0": "2026-11-05T11:00:00+00:00",
   "https://www.ccomptes.fr/fr/publications/financement-des-indemnites-journalieres-des-professions-liberales": "2026-11-09T11:00:00+00:00",
@@ -11,10 +10,19 @@
   "https://www.ccomptes.fr/fr/publications/rapport-sur-les-credits-du-budget-de-letat-ouverts-par-decrets-davance": "2026-11-09T11:00:00+00:00",
   "https://www.ccomptes.fr/fr/publications/la-caisse-generale-de-securite-sociale-de-la-guadeloupe-et-de-saint-martin": "2026-11-10T11:00:00+00:00",
   "https://www.ccomptes.fr/fr/publications/la-fondation-louis-lepine": "2026-11-12T11:00:00+00:00",
-  "https://www.ccomptes.fr/fr/publications/la-cour-des-comptes-publie-trois-nouvelles-notes-thematiques-consacrees-aux-politiques": "2026-11-16T11:00:00+00:00"
+  "https://www.ccomptes.fr/fr/publications/la-cour-des-comptes-publie-trois-nouvelles-notes-thematiques-consacrees-aux-politiques": "2026-11-16T11:00:00+00:00",
+  "https://www.ccomptes.fr/fr/publications/lassociation-sos-villages-denfants": "2026-11-17T11:00:00+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "L'association SOS Villages d'Enfants",
+   "link": "https://www.ccomptes.fr/fr/publications/lassociation-sos-villages-denfants",
+   "summary": "L’association SOS Villages d’Enfants a été fondée en 1956 par Gilbert Cotteau dans le département du Nord. Initialement créée pour recueillir les orphelins, l’association est devenue un acteur important de la protection de l’enfance opérant en France métropolitaine principalement sous forme de « vil...",
+   "image": "https://www.ccomptes.fr/sites/default/files/styles/teaser_182x98/public/2026-06/SOS-village-d-enfants-182x98.jpg?itok=MvGeHTgT",
+   "date": "2026-11-17T11:00:00+00:00",
+   "pubdate": "2026-11-17T11:00:00+00:00"
+  },
   {
    "title": "La Cour des comptes publie trois nouvelles notes thématiques consacrées aux politiques publiques sur l’agriculture, les transports et l’énergie",
    "link": "https://www.ccomptes.fr/fr/publications/la-cour-des-comptes-publie-trois-nouvelles-notes-thematiques-consacrees-aux-politiques",
@@ -86,14 +94,6 @@
    "image": "https://www.ccomptes.fr/sites/default/files/styles/teaser_182x98/public/2026-11/AdobeStock_154249693-2024-Evolution-budget-ministere-de-la-culture-depuis-2015-182x98.jpg?itok=vRNHzkaW",
    "date": "2026-11-03T11:00:00+00:00",
    "pubdate": "2026-11-03T11:00:00+00:00"
-  },
-  {
-   "title": "Le plan d’investissement France 2030",
-   "link": "https://www.ccomptes.fr/fr/publications/le-plan-dinvestissement-france-2030",
-   "summary": "Annoncé en octobre 2021 et doté de 54 milliards d’euros, le plan France 2030 vise à soutenir des transformations économiques et technologiques de long terme. Il prolonge les programmes d’investissements d’avenir (PIA) engagés depuis 2010, avec des moyens d’une ampleur inédite et un soutien étendu ju...",
-   "image": "https://www.ccomptes.fr/sites/default/files/styles/teaser_182x98/public/2026-10/France-2030-182x98.jpg?itok=Ffbbbg63",
-   "date": "2026-10-28T11:00:00+00:00",
-   "pubdate": "2026-10-28T11:00:00+00:00"
   }
  ]
 }

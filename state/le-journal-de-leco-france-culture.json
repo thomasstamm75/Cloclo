@@ -1,10 +1,9 @@
 {
- "etag": "\"1tbpqfb\"",
+ "etag": "\"1q307wm\"",
  "last_modified": "",
  "first_seen": {
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/pekin-traque-les-milliards-des-grandes-fortunes-chinoises-a-l-etranger-4732139": "2026-10-22T12:00:53.779488+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/bientot-une-agence-de-notation-africaine-9756036": "2026-10-23T11:46:37.660008+00:00",
-  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/inflation-en-thailande-le-gouvernement-paie-l-addition-pour-soulager-la-population-8024973": "2026-10-25T20:56:17.333805+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/donald-trump-n-a-pas-tenu-ses-promesses-sur-le-pouvoir-d-achat-9916072": "2026-10-26T13:13:23.491705+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/etats-unis-de-donald-trump-l-economie-se-porte-bien-mais-les-inegalites-se-creusent-9130920": "2026-10-27T11:00:00+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/droits-de-douane-et-relocalisation-donald-trump-a-t-il-tenu-ses-promesses-1853800": "2026-10-28T13:06:43.111709+00:00",
@@ -19,10 +18,19 @@
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/l-opep-ne-fait-plus-la-pluie-et-le-beau-temps-sur-le-cours-mondial-du-petrole-7311578": "2026-11-11T11:00:00+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/le-marche-des-paiements-champ-de-bataille-et-levier-de-souverainete-1045640": "2026-11-12T11:25:47.061626+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/le-groupe-ubs-menace-de-quitter-la-suisse-face-au-durcissement-des-regles-bancaires-7619418": "2026-11-13T11:09:00.958139+00:00",
-  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/la-crise-d-ormuz-a-t-elle-relance-l-exploration-petroliere-a-travers-le-monde-2712121": "2026-11-16T06:43:06.612025+00:00"
+  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/la-crise-d-ormuz-a-t-elle-relance-l-exploration-petroliere-a-travers-le-monde-2712121": "2026-11-16T06:43:06.612025+00:00",
+  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/guerre-des-puces-la-chine-peut-elle-se-passer-de-nvidia-2157143": "2026-11-17T16:09:19.487338+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "Guerre des puces : la Chine peut-elle se passer de Nvidia ?",
+   "link": "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/guerre-des-puces-la-chine-peut-elle-se-passer-de-nvidia-2157143",
+   "summary": "Alors que l’APEC s’ouvre en Chine, la guerre des puces devrait s’inviter dans les discussions entre Donald Trump et Xi Jinping. Moins d’une semaine après la démission du patron de Nvidia, le Congrès américain veut restreindre davantage l’accès de Pékin aux semi-conducteurs indispensables à l’IA.",
+   "image": "https://www.radiofrance.fr/pikapi/images/52b5ad73-05ab-43b7-b600-aeb10eaf752f/2048",
+   "date": null,
+   "pubdate": "2026-11-17T16:09:19.487338+00:00"
+  },
   {
    "title": "La crise d'Ormuz a-t-elle relancé l'exploration pétrolière à travers le monde ?",
    "link": "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/la-crise-d-ormuz-a-t-elle-relance-l-exploration-petroliere-a-travers-le-monde-2712121",
@@ -142,14 +150,6 @@
    "image": "https://www.radiofrance.fr/pikapi/images/97ae5636-eac0-40c6-bdce-e5d0628d8627/2048",
    "date": null,
    "pubdate": "2026-10-26T13:13:23.491705+00:00"
-  },
-  {
-   "title": "Inflation en Thaïlande : le gouvernement paie l'addition pour soulager la population",
-   "link": "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/inflation-en-thailande-le-gouvernement-paie-l-addition-pour-soulager-la-population-8024973",
-   "summary": "Face à l'inflation, le gouvernement thaïlandais cherche à soulager le porte-monnaie des ménages en payant directement une partie de leurs factures chez les commerçants. 26 millions de personnes soit les deux-tiers de la population active. Une mesure populiste qui ne grève pas encore le budget.",
-   "image": "https://www.radiofrance.fr/pikapi/images/dde19536-ebb3-4272-b7b2-ae43c3d16c23/2048",
-   "date": null,
-   "pubdate": "2026-10-25T20:56:17.333805+00:00"
   },
   {
    "title": "Bientôt une agence de notation africaine",
