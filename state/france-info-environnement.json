@@ -1,13 +1,21 @@
 {
- "etag": "\"1n583mn-gzip\"",
+ "etag": "\"1fi2wi9-gzip\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/temoignage-plus-d-energie-en-pleurs-a-bout-de-forces-un-eleveur-qui-a-craque-raconte-comment-il-s-est-releve-grace-aux-accompagnements-mis-en-place_8258105.html": "2026-11-12T11:25:36.277052+00:00",
   "https://www.franceinfo.fr/environnement/biodiversite/animaux/deja-12-ou-13-personnes-dans-le-village-qui-ont-ete-tuees-en-inde-les-tensions-territoriales-entre-habitants-et-elephants-sauvages-font-des-centaines-de-morts-chaque-annee_8280089.html": "2026-11-13T01:53:43.150186+00:00",
-  "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/reportage-des-etincelles-tombaient-du-ciel-comme-de-la-pluie-la-cop31-a-l-epreuve-des-incendies-a-repetition-dans-la-region-d-antalya_8276642.html": "2026-11-16T06:42:08.402892+00:00"
+  "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/reportage-des-etincelles-tombaient-du-ciel-comme-de-la-pluie-la-cop31-a-l-epreuve-des-incendies-a-repetition-dans-la-region-d-antalya_8276642.html": "2026-11-16T06:42:08.402892+00:00",
+  "https://www.franceinfo.fr/economie/immobilier/immobilier-indigne/temoignages-il-fait-11-c-chez-moi-cinq-francais-mal-chauffes-proposent-cinq-mesures-pour-lutter-contre-la-precarite-energetique_8278916.html": "2026-11-18T11:52:02.641017+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "TEMOIGNAGES. \"Il fait 11°C chez moi\" : cinq Français mal chauffés proposent cinq mesures pour lutter contre la précarité énergétique",
+   "link": "https://www.franceinfo.fr/economie/immobilier/immobilier-indigne/temoignages-il-fait-11-c-chez-moi-cinq-francais-mal-chauffes-proposent-cinq-mesures-pour-lutter-contre-la-precarite-energetique_8278916.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/BK-FQMuh3g1I7MuyKAq4R1ghhDQ/496x279/filters:format(webp)/2026/11/17/6afc503b52cf6861011379.jpg",
+   "date": null,
+   "pubdate": "2026-11-18T11:52:02.641017+00:00"
+  },
   {
    "title": "REPORTAGE. \"Des étincelles tombaient du ciel comme de la pluie\" : autour d'Antalya, la ville turque hôte de la COP31, la population éprouvée par les incendies à répétition",
    "link": "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/reportage-des-etincelles-tombaient-du-ciel-comme-de-la-pluie-la-cop31-a-l-epreuve-des-incendies-a-repetition-dans-la-region-d-antalya_8276642.html",
@@ -23,14 +31,6 @@
    "image": "https://www.franceinfo.fr/pictures/vlHYhHF0rA1UJio5aYFo-QPhaTE/496x279/filters:format(webp)/2026/11/12/6af6341c8db2f361371949.jpg",
    "date": null,
    "pubdate": "2026-11-13T01:53:43.150186+00:00"
-  },
-  {
-   "title": "TEMOIGNAGE. \"Plus d'énergie, en pleurs, à bout de forces\" : un éleveur qui a \"craqué\" raconte comment il s'est relevé grâce aux accompagnements mis en place",
-   "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/temoignage-plus-d-energie-en-pleurs-a-bout-de-forces-un-eleveur-qui-a-craque-raconte-comment-il-s-est-releve-grace-aux-accompagnements-mis-en-place_8258105.html",
-   "summary": "Présenté par franceinfo, Edouard Marguier",
-   "image": "https://www.franceinfo.fr/pictures/qiYwlgcHmIX3EDC7wI5wn0J4UGs/496x279/filters:format(webp)/2026/11/11/6af4b79c7abf0497533421.jpg",
-   "date": null,
-   "pubdate": "2026-11-12T11:25:36.277052+00:00"
   }
  ]
 }

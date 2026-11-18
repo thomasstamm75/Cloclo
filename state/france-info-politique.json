@@ -1,74 +1,152 @@
 {
- "etag": "\"dd4bb0adb582df50bfdb132d0ad2275d-gzip\"",
+ "etag": "\"799cd3201b209017c3066a2798380028-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-ce-serait-presque-drole-si-ca-ne-montait-pas-les-gens-les-uns-contre-les-autres-apres-l-incendie-de-la-mairie-de-limoges-le-plateau-de-millevaches-pointe-du-doigt-comme-un-bastion-de-l-ultragauche_8249923.html": "2026-11-06T06:56:06.440234+00:00",
   "https://www.franceinfo.fr/elections/quatre-choses-a-ne-pas-oublier-pour-faire-bon-usage-des-sondages-et-enquetes-d-opinion-en-periode-electorale_8270903.html": "2026-11-08T10:30:09.852050+00:00",
   "https://www.franceinfo.fr/economie/pouvoir-achat/temoignages-j-ai-l-impression-de-travailler-a-perte-salaries-au-smic-ils-racontent-un-quotidien-de-privations-de-galeres-et-de-declassement_8276399.html": "2026-11-14T10:36:09.591293+00:00",
-  "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/charente-maritime/la-rochelle/l-ex-depute-raphael-gerard-lanceur-d-alerte-sur-le-covid-19-meurt-de-la-grippe-a-58-ans-3450492.html": "2026-11-16T19:40:14.426418+00:00",
-  "https://www.franceinfo.fr/economie/budget/des-promesses-qui-ne-pourront-pas-etre-tenues-deplore-le-president-udi-du-loiret-qui-decline-l-invitation-a-matignon-concernant-le-budget-2027_8285018.html": "2026-11-16T19:40:14.426418+00:00",
-  "https://www.franceinfo.fr/societe/antisemitisme/un-quart-des-francais-adhere-encore-a-des-prejuges-antisemites-alerte-une-etude_8284583.html": "2026-11-16T19:40:14.426418+00:00",
-  "https://www.franceinfo.fr/politique/gabriel-attal/appel-a-temoignages-presidentielle-2027-posez-vos-questions-a-gabriel-attal-invite-de-l-heure-de-verite_8284901.html": "2026-11-16T19:40:14.426418+00:00",
-  "https://www.franceinfo.fr/economie/pouvoir-achat/l-assemblee-adopte-un-texte-soutenu-par-le-gouvernement-pour-faciliter-le-deblocage-de-l-epargne-salariale_8285510.html": "2026-11-17T03:57:30.396865+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/marine-le-pen-reitere-aupres-de-l-ambassadeur-ukrainien-que-la-france-ne-pourrait-plus-aider-financierement-kiev-si-elle-est-elue_8285462.html": "2026-11-17T03:57:30.396865+00:00",
-  "https://www.franceinfo.fr/elections/j-ai-fait-de-mon-mieux-a-six-mois-de-la-fin-de-son-mandat-emmanuel-macron-reconnait-des-erreurs-au-cours-de-ses-dix-ans-au-pouvoir_8285318.html": "2026-11-17T03:57:30.396865+00:00",
   "https://www.franceinfo.fr/economie/retraite/reforme-des-retraites/age-de-depart-part-de-capitalisation-referendum-que-propose-le-rassemblement-national-pour-reformer-les-retraites_8286419.html": "2028-01-01T11:00:00+00:00",
-  "https://www.franceinfo.fr/elections/edito-y-a-t-il-trop-de-fonctionnaires-en-france_8286494.html": "2026-11-17T16:09:09.931940+00:00",
   "https://www.franceinfo.fr/economie/medias/info-franceinfo-l-assemblee-nationale-va-debattre-du-pluralisme-dans-les-medias-meme-si-la-petition-contre-cnews-ne-sera-pas-examinee-dans-l-hemicycle_8286251.html": "2026-11-17T16:09:09.931940+00:00",
   "https://www.franceinfo.fr/replay-radio/les-informes-du-matin/les-informes-du-matin-du-mardi-17-novembre-2026_8265104.html": "2026-11-17T11:00:00+00:00",
   "https://www.franceinfo.fr/politique/la-france-insoumise/ce-n-est-pas-un-diner-c-est-une-presentation-de-programme-explique-manuel-bompard-alors-que-jean-luc-melenchon-rencontre-des-grands-patrons_8286200.html": "2026-11-17T16:09:09.931940+00:00",
   "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/smic-mobilisation-des-lyceens-diner-avec-les-grands-patrons-le-8h30-franceinfo-de-manuel-bompard_8265098.html": "2026-11-17T16:09:09.931940+00:00",
-  "https://www.franceinfo.fr/economie/budget/le-senat-rejette-la-desindexation-des-retraites-sur-l-inflation-prevue-dans-le-budget-de-la-securite-sociale_8286014.html": "2026-11-17T16:09:09.931940+00:00",
   "https://www.franceinfo.fr/politique/affaire/financement-de-la-campagne-de-sarkozy/soupcons-de-financement-libyen-tout-comprendre-a-l-affaire/": "2026-11-17T16:09:09.931940+00:00",
   "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/tout-comprendre-au-proces-des-assistants-parlementaires-fn/": "2026-11-17T16:09:09.931940+00:00",
-  "https://www.franceinfo.fr/elections/primaire-ou-pas-primaire-gabriel-attal-bruno-retailleau-et-david-lisnard-semblent-favorables_8285471.html": "2026-11-17T16:09:09.931940+00:00",
-  "https://www.franceinfo.fr/politique/front-national/retour-de-l-age-legal-de-depart-a-62-ans-capitalisation-obligatoire-le-rn-presente-sa-reforme-des-retraites_8285453.html": "2026-11-17T16:09:09.931940+00:00",
-  "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/un-veritable-changement-de-paradigme-ce-que-contient-le-projet-de-loi-relatif-a-la-resilience-des-infrastructures-critiques-qui-doit-renforcer-la-cybersecurite-en-france_8284760.html": "2026-11-17T16:09:09.931940+00:00",
-  "https://www.franceinfo.fr/replay-jt/france-2/20-heures/comment-marine-le-pen-veut-elle-financer-son-plan-pour-les-retraites_8287178.html": "2026-11-18T00:59:48.854665+00:00",
-  "https://www.franceinfo.fr/societe/manifestations/greve-du-17-novembre-on-les-a-fait-bouger-sur-le-smic-on-va-les-faire-bouger-sur-la-question-du-point-d-indice-assure-thomas-vacheron-secretaire-confederal-de-la-cgt_8287019.html": "2026-11-18T00:59:48.854665+00:00",
-  "https://www.franceinfo.fr/politique/c-est-benjamin-a-l-ex-usine-whirlpool-a-amiens_8286821.html": "2026-11-18T00:59:48.854665+00:00",
   "https://www.franceinfo.fr/elections/refus-d-alliance-avec-les-extremes-participation-a-deux-euros-les-premieres-modalites-de-la-primaire-de-la-droite-et-du-centre-devoilees_8286980.html": "2026-11-18T00:59:48.854665+00:00",
   "https://www.franceinfo.fr/replay-radio/la-question-des-informes/on-souhaite-sortir-de-ce-carcan-de-contraintes-qui-ne-fonctionne-pas-le-rn-veut-revenir-a-un-dpe-purement-informatif_8265083.html": "2026-11-18T00:59:48.854665+00:00",
   "https://www.franceinfo.fr/culture/musique/chanson-francaise/la-chanson-les-antisemites-de-pierre-perret-qui-cible-lfi-avec-virulence-suscite-la-peine-de-jean-luc-melenchon_8286701.html": "2026-11-18T00:59:48.854665+00:00",
   "https://www.franceinfo.fr/politique/marine-le-pen/la-ligue-des-droits-de-l-homme-accuse-marine-le-pen-de-vouloir-supprimer-tous-les-contre-pouvoirs-apres-ses-declarations-sur-des-associations-jugees-politisees_8286773.html": "2026-11-18T00:59:48.854665+00:00",
-  "https://france3-regions.franceinfo.fr/normandie/eure/le-couple-balkany-va-pouvoir-reintegrer-son-moulin-de-giverny-3451356.html": "2026-11-18T00:59:48.854665+00:00"
+  "https://france3-regions.franceinfo.fr/normandie/eure/le-couple-balkany-va-pouvoir-reintegrer-son-moulin-de-giverny-3451356.html": "2026-11-18T00:59:48.854665+00:00",
+  "https://www.franceinfo.fr/elections/edito-presidentielle-2027-gabriel-attal-bruno-retailleau-et-david-lisnard-se-preparent-a-l-epreuve-des-poteaux_8288219.html": "2026-11-18T11:52:03.766194+00:00",
+  "https://www.franceinfo.fr/elections/presidentielle/vous-allez-voir-qu-il-est-de-gauche-un-mois-apres-la-primaire-raphael-glucksmann-veut-donner-des-gages-a-son-camp_8288081.html": "2026-11-18T11:52:03.766194+00:00",
+  "https://www.franceinfo.fr/politique/edouard-philippe/priorite-donnee-a-l-ecole-retablissement-des-comptes-publics-edouard-philippe-met-en-lumiere-plusieurs-mesures-de-son-programme-presidentiel_8287970.html": "2026-11-18T11:52:03.766194+00:00",
+  "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/la-reforme-des-retraites-de-marine-le-pen-decryptee-un-depart-a-60-ans-mais-a-quelles-conditions-et-a-quel-prix_8266760.html": "2026-11-18T11:52:03.766194+00:00",
+  "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/primaire-a-droite-et-au-centre-presidentielle-retraites-le-8h30-franceinfo-de-jean-francois-cope_8266766.html": "2026-11-18T11:52:03.766194+00:00",
+  "https://www.franceinfo.fr/societe/racisme/le-colloque-sur-la-negrophobie-a-l-assemblee-est-un-debat-necessaire-pour-faire-bouger-les-lignes-assure-un-depute-de-guyane_8287850.html": "2026-11-18T11:52:03.766194+00:00",
+  "https://www.franceinfo.fr/replay-magazine/france-2/l-heure-de-verite/l-heure-de-verite-avec-gabriel-attal_8284823.html": "2026-11-18T11:52:03.766194+00:00",
+  "https://www.franceinfo.fr/politique/avec-l-augmentation-du-smic-on-peut-craindre-250-000-suppressions-d-emplois-affirme-patrick-martin-president-du-medef_8287838.html": "2026-11-18T11:52:03.766194+00:00",
+  "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/marseille/une-balle-recue-par-courrier-des-menaces-de-mort-le-depute-lfi-sebastien-delogu-porte-plainte-contre-x-3451554.html": "2026-11-18T11:52:03.766194+00:00",
+  "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/vrai-ou-faux-est-il-possible-d-arreter-de-subventionner-des-associations-parce-qu-elles-sont-politisees-comme-le-souhaite-marine-le-pen_8266754.html": "2026-11-18T11:52:03.766194+00:00",
+  "https://www.franceinfo.fr/politique/grand-entretien-en-belgique-un-cordon-sanitaire-mediatique-empeche-toute-forme-de-banalisation-de-l-extreme-droite-un-outil-difficile-a-imaginer-en-france_8265599.html": "2026-11-18T11:52:03.766194+00:00",
+  "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-la-primaire-koh-lanta-a-droite-et-au-centre-les-candidats-face-a-l-epreuve-des-poteaux_8266721.html": "2026-11-18T11:52:03.766194+00:00",
+  "https://www.franceinfo.fr/elections/il-est-deja-au-coin-du-ring-il-pourrait-en-tomber-comment-edouard-philippe-a-perdu-son-statut-d-ultra-favori-de-la-droite-et-du-centre-pour-la-presidentielle_8286176.html": "2026-11-18T11:52:03.766194+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "Age de départ, part de capitalisation, possible référendum… Que propose le Rassemblement national pour réformer les retraites ? Aujourd'hui",
+   "title": "Age de départ, part de capitalisation, possible référendum… Que propose le Rassemblement national pour réformer les retraites ? Si elle est élue présidente, Marine Le Pen promet d'abolir au \"1er janvier 2028\" la réforme actuelle des retraites, suspendue en 2025 mais qui prévoit de reculer l'âge de départ à 64 ans. 17 novembre",
    "link": "https://www.franceinfo.fr/economie/retraite/reforme-des-retraites/age-de-depart-part-de-capitalisation-referendum-que-propose-le-rassemblement-national-pour-reformer-les-retraites_8286419.html",
    "summary": "Age de départ, part de capitalisation, possible référendum… Que propose le Rassemblement national pour réformer les retraites ?",
    "image": "https://www.franceinfo.fr/pictures/yeiJ5cikrD86IE8y89XRMnTnQUQ/0x27:4963x2818/432x243/filters:format(jpg)/2026/11/17/6afc369759dd4448045503.jpg",
-   "date": null,
+   "date": "2028-01-01T11:00:00+00:00",
    "pubdate": "2028-01-01T11:00:00+00:00"
   },
   {
-   "title": "Comment Marine Le Pen veut-elle financer son plan pour les retraites ? Partir à la retraite à 62 ans, voire 60 ans : Marine Le Pen a détaillé son projet mardi 17 novembre. Il y aura une nouveauté : une part de capitalisation obligatoire. Mais son plan durcirait aussi les règles pour les carrières incomplètes. Ses adversaires dénoncent une réforme qui pénaliserait les plus fragiles. Aujourd'hui 2:11 vidéo 2 minutes 11",
-   "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/comment-marine-le-pen-veut-elle-financer-son-plan-pour-les-retraites_8287178.html",
-   "summary": "Comment Marine Le Pen veut-elle financer son plan pour les retraites ?",
-   "image": "https://www.franceinfo.fr/pictures/Wb5rP_GPzx3B4BKTd9XrLPVR2AI/174x0:1745x1080/432x297/filters:format(jpg)/2026/11/17/6afcbc1f6feab789597290.jpg",
+   "title": ": Édito Présidentielle 2027 : Gabriel Attal, Bruno Retailleau et David Lisnard se préparent à l'épreuve des poteaux La primaire de la droite et du centre s'annonce comme une compétition à trois, avec David Lisnard, Gabriel Attal et Bruno Retailleau en lice. Mais plus qu'une primaire de rassemblement, cette primaire ressemble à un règlement de comptes interne, avec Édouard Philippe en ligne de mire. Une bataille qui pourrait finalement affaiblir tout le camp de la droite et du centre. Aujourd'hui : Édito 2:06 vidéo 2 minutes 6",
+   "link": "https://www.franceinfo.fr/elections/edito-presidentielle-2027-gabriel-attal-bruno-retailleau-et-david-lisnard-se-preparent-a-l-epreuve-des-poteaux_8288219.html",
+   "summary": "Présidentielle 2027 : Gabriel Attal, Bruno Retailleau et David Lisnard se préparent à l'épreuve des poteaux",
+   "image": "https://www.franceinfo.fr/pictures/YYeUGX0GX6HyZWX_IaJyqksqldw/0x0:1080x1920/fit-in/432x297/filters:upscale():fill(blur):format(jpg)/2026/11/18/6afd908b3e831426443091.png",
    "date": null,
-   "pubdate": "2026-11-18T00:59:48.854665+00:00"
+   "pubdate": "2026-11-18T11:52:03.766194+00:00"
   },
   {
-   "title": "Grève du 17 novembre : \"On les a fait bouger sur le Smic, on va les faire bouger sur la question du point d'indice\", assure Thomas Vacheron, secrétaire confédéral de la CGT Aujourd'hui 22:22 vidéo 22 minutes 22",
-   "link": "https://www.franceinfo.fr/societe/manifestations/greve-du-17-novembre-on-les-a-fait-bouger-sur-le-smic-on-va-les-faire-bouger-sur-la-question-du-point-d-indice-assure-thomas-vacheron-secretaire-confederal-de-la-cgt_8287019.html",
-   "summary": "Grève du 17 novembre : \"On les a fait bouger sur le Smic, on va les faire bouger sur la question du point d'indice\", assure Thomas Vacheron, secrétaire confédéral de la CGT",
-   "image": "https://www.franceinfo.fr/pictures/HGGhBbGJX3xU5gQVFO5hs4326ME/0x0:774x436/432x243/filters:format(jpg)/2026/11/17/6afca62f362c7908395411.jpg",
+   "title": "\"Vous allez voir qu'il est de gauche !\" : un mois après la primaire, Raphaël Glucksmann veut donner des gages à son camp Aujourd'hui",
+   "link": "https://www.franceinfo.fr/elections/presidentielle/vous-allez-voir-qu-il-est-de-gauche-un-mois-apres-la-primaire-raphael-glucksmann-veut-donner-des-gages-a-son-camp_8288081.html",
+   "summary": "\"Vous allez voir qu'il est de gauche !\" : un mois après la primaire, Raphaël Glucksmann veut donner des gages à son camp",
+   "image": "https://www.franceinfo.fr/pictures/RU--dCUIL_fdN59APk8AjlNBHiY/0x277:5331x3276/432x243/filters:format(jpg)/2026/11/18/6afd867253e9b561911684.jpg",
    "date": null,
-   "pubdate": "2026-11-18T00:59:48.854665+00:00"
+   "pubdate": "2026-11-18T11:52:03.766194+00:00"
   },
   {
-   "title": "C’est Benjamin... à l'ex-usine Whirlpool, à Amiens Aujourd'hui 2:58 vidéo 2 minutes 58",
-   "link": "https://www.franceinfo.fr/politique/c-est-benjamin-a-l-ex-usine-whirlpool-a-amiens_8286821.html",
-   "summary": "C’est Benjamin... à l'ex-usine Whirlpool, à Amiens",
-   "image": "https://www.franceinfo.fr/pictures/NHq-X61SJJCQ2yj61r9rYvept2A/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/17/6afc7d1fbcea8862025908.jpg",
+   "title": "Priorité donnée à l'école, rétablissement des comptes publics... Edouard Philippe met en lumière plusieurs mesures de son programme présidentiel Aujourd'hui",
+   "link": "https://www.franceinfo.fr/politique/edouard-philippe/priorite-donnee-a-l-ecole-retablissement-des-comptes-publics-edouard-philippe-met-en-lumiere-plusieurs-mesures-de-son-programme-presidentiel_8287970.html",
+   "summary": "Priorité donnée à l'école, rétablissement des comptes publics... Edouard Philippe met en lumière plusieurs mesures de son programme présidentiel",
+   "image": "https://www.franceinfo.fr/pictures/qofw9GK18r6Sv4NpqEJzy_JXxXw/0x0:1024x576/432x243/filters:format(jpg)/2026/11/18/6afd8560a34cc650238937.jpg",
    "date": null,
-   "pubdate": "2026-11-18T00:59:48.854665+00:00"
+   "pubdate": "2026-11-18T11:52:03.766194+00:00"
   },
   {
-   "title": "Refus d'\"alliance avec les extrêmes\", participation à deux euros... les premières modalités de la primaire de la droite et du centre dévoilées Aujourd'hui",
+   "title": "La réforme des retraites de Marine Le Pen décryptée : un départ à 60 ans mais à quelles conditions et à quel prix ? Aujourd'hui 2:52 audio 2 minutes 52",
+   "link": "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/la-reforme-des-retraites-de-marine-le-pen-decryptee-un-depart-a-60-ans-mais-a-quelles-conditions-et-a-quel-prix_8266760.html",
+   "summary": "La réforme des retraites de Marine Le Pen décryptée : un départ à 60 ans mais à quelles conditions et à quel prix ?",
+   "image": "https://www.franceinfo.fr/pictures/uve3ZgIOBY6rP6r81gcdCKtLpTQ/0x0:5667x3187/432x243/filters:format(jpg)/2026/11/18/6afd52e7bc216767193761.jpg",
+   "date": null,
+   "pubdate": "2026-11-18T11:52:03.766194+00:00"
+  },
+  {
+   "title": "Primaire à droite et au centre, présidentielle, retraites... Le \"8h30 franceinfo\" de Jean-François Copé Aujourd'hui 24:20 audio 24 minutes 20",
+   "link": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/primaire-a-droite-et-au-centre-presidentielle-retraites-le-8h30-franceinfo-de-jean-francois-cope_8266766.html",
+   "summary": "Primaire à droite et au centre, présidentielle, retraites... Le \"8h30 franceinfo\" de Jean-François Copé",
+   "image": "https://www.franceinfo.fr/pictures/Okx-lV9chDNA_D0QrIA77Ifpxy8/125x0:1128x564/432x243/filters:format(jpg)/2026/11/18/6afd58cf0bcec611991822.jpg",
+   "date": null,
+   "pubdate": "2026-11-18T11:52:03.766194+00:00"
+  },
+  {
+   "title": "Le colloque sur la \"négrophobie\" à l'Assemblée est un débat nécessaire pour \"faire bouger les lignes\", assure un député de Guyane Aujourd'hui",
+   "link": "https://www.franceinfo.fr/societe/racisme/le-colloque-sur-la-negrophobie-a-l-assemblee-est-un-debat-necessaire-pour-faire-bouger-les-lignes-assure-un-depute-de-guyane_8287850.html",
+   "summary": "Le colloque sur la \"négrophobie\" à l'Assemblée est un débat nécessaire pour \"faire bouger les lignes\", assure un député de Guyane",
+   "image": "https://www.franceinfo.fr/pictures/ErzkROsF5f_rMYAsJEy4bH2ZuXg/432x243/filters:format(jpg)/2026/10/05/6ac3a03e6b231986618477.jpg",
+   "date": null,
+   "pubdate": "2026-11-18T11:52:03.766194+00:00"
+  },
+  {
+   "title": "\"L'heure de vérité\". Avec Gabriel Attal 19 novembre 1:50:00 vidéo 1 heure 50 minutes",
+   "link": "https://www.franceinfo.fr/replay-magazine/france-2/l-heure-de-verite/l-heure-de-verite-avec-gabriel-attal_8284823.html",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/kVnA8Lnu2_Z7awOE0hwOTljBkro/0x0:680x382/432x243/filters:format(jpg)/2026/11/16/6afb5e2abaf93641447129.jpg",
+   "date": null,
+   "pubdate": "2026-11-18T11:52:03.766194+00:00"
+  },
+  {
+   "title": "Avec l'augmentation du smic, \"on peut craindre 250 000 suppressions d'emplois\", affirme Patrick Martin, président du Medef Aujourd'hui 8:01 vidéo 8 minutes 1",
+   "link": "https://www.franceinfo.fr/politique/avec-l-augmentation-du-smic-on-peut-craindre-250-000-suppressions-d-emplois-affirme-patrick-martin-president-du-medef_8287838.html",
+   "summary": "Avec l'augmentation du smic, \"on peut craindre 250 000 suppressions d'emplois\", affirme Patrick Martin, président du Medef",
+   "image": "https://www.franceinfo.fr/pictures/HVYECdYgUwz4uMQtdgo0YAlB_E4/0x0:1479x832/432x243/filters:format(jpg)/2026/11/18/6afd59d82f95f494826840.jpg",
+   "date": null,
+   "pubdate": "2026-11-18T11:52:03.766194+00:00"
+  },
+  {
+   "title": "Une balle reçue par courrier, des menaces de mort... Le député LFI Sébastien Delogu porte plainte contre X Aujourd'hui",
+   "link": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/marseille/une-balle-recue-par-courrier-des-menaces-de-mort-le-depute-lfi-sebastien-delogu-porte-plainte-contre-x-3451554.html",
+   "summary": "Une balle reçue par courrier, des menaces de mort... Le député LFI Sébastien Delogu porte plainte contre X",
+   "image": "https://www.franceinfo.fr/pictures/m_sQZmtDaF57sn8TCvcaEyl51f0/432x243/filters:format(jpg)/2026/11/18/6afd5b4b4f3ab970954932.jpg",
+   "date": null,
+   "pubdate": "2026-11-18T11:52:03.766194+00:00"
+  },
+  {
+   "title": ": Vrai ou faux Est-il possible d'arrêter de subventionner des associations parce qu'elles sont \"politisées\", comme le souhaite Marine Le Pen ? Aujourd'hui : Vrai ou faux 2:08 audio 2 minutes 8",
+   "link": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/vrai-ou-faux-est-il-possible-d-arreter-de-subventionner-des-associations-parce-qu-elles-sont-politisees-comme-le-souhaite-marine-le-pen_8266754.html",
+   "summary": "Est-il possible d'arrêter de subventionner des associations parce qu'elles sont \"politisées\", comme le souhaite Marine Le Pen ?",
+   "image": "https://www.franceinfo.fr/pictures/9CNfbkFMuisO9TVZsULNjT_tT_U/0x0:1024x576/432x243/filters:format(jpg)/2026/11/18/6afd512caa981189176118.jpg",
+   "date": null,
+   "pubdate": "2026-11-18T11:52:03.766194+00:00"
+  },
+  {
+   "title": ": Grand entretien En Belgique, un cordon sanitaire médiatique \"empêche toute forme de banalisation de l'extrême droite\", un outil \"difficile\" à imaginer en France : Grand entretien 5:00 article 5 minutes",
+   "link": "https://www.franceinfo.fr/politique/grand-entretien-en-belgique-un-cordon-sanitaire-mediatique-empeche-toute-forme-de-banalisation-de-l-extreme-droite-un-outil-difficile-a-imaginer-en-france_8265599.html",
+   "summary": "En Belgique, un cordon sanitaire médiatique \"empêche toute forme de banalisation de l'extrême droite\", un outil \"difficile\" à imaginer en France",
+   "image": "https://www.franceinfo.fr/pictures/8jhw81QIhD7mLmBqp2LCi5CRN2I/0x0:4300x2418/432x243/filters:format(jpg)/2026/11/03/6aea17e3db34d727066316.jpg",
+   "date": null,
+   "pubdate": "2026-11-18T11:52:03.766194+00:00"
+  },
+  {
+   "title": ": Édito La primaire Koh-Lanta à droite et au centre : David Lisnard, Gabriel Attal et Bruno Retailleau face à l'épreuve des poteaux Après une première réunion des équipes des candidats mardi, l’idée d’une primaire de la droite et du centre fin janvier prend forme, même si Édouard Philippe refuse toujours d'y participer. Aujourd'hui : Édito 2:40 audio 2 minutes 40",
+   "link": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-la-primaire-koh-lanta-a-droite-et-au-centre-les-candidats-face-a-l-epreuve-des-poteaux_8266721.html",
+   "summary": "La primaire Koh-Lanta à droite et au centre : David Lisnard, Gabriel Attal et Bruno Retailleau face à l'épreuve des poteaux",
+   "image": "https://www.franceinfo.fr/pictures/q9O4JlQT9nLXVK7w5WkRFPKcuBo/0x29:572x350/432x243/filters:format(jpg)/2026/11/18/6afd4b90b4124624890968.jpg",
+   "date": null,
+   "pubdate": "2026-11-18T11:52:03.766194+00:00"
+  },
+  {
+   "title": "\"Il est déjà au coin du ring, il pourrait en tomber\" : comment Edouard Philippe a perdu son statut d'ultra-favori de la droite et du centre pour la présidentielle L'ancien Premier ministre n'en finit pas de dégringoler dans les sondages, qui ne lui prédisent désormais plus une accession au second tour. Ses soutiens s'inquiètent d'une campagne \"convenue\" et ses rivaux accentuent la pression pour lui imposer une primaire, qu'il refuse catégoriquement. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/elections/il-est-deja-au-coin-du-ring-il-pourrait-en-tomber-comment-edouard-philippe-a-perdu-son-statut-d-ultra-favori-de-la-droite-et-du-centre-pour-la-presidentielle_8286176.html",
+   "summary": "\"Il est déjà au coin du ring, il pourrait en tomber\" : comment Edouard Philippe a perdu son statut d'ultra-favori de la droite et du centre pour la présidentielle",
+   "image": "https://www.franceinfo.fr/pictures/ykomir9GE2WiHt5igGjff_VFD3I/0x0:5950x3346/432x243/filters:format(jpg)/2026/11/17/6afc5c395f944690295111.jpg",
+   "date": null,
+   "pubdate": "2026-11-18T11:52:03.766194+00:00"
+  },
+  {
+   "title": "Refus d'\"alliance avec les extrêmes\", participation à deux euros... les premières modalités de la primaire de la droite et du centre dévoilées L'entourage de Gabriel Attal affirme que les premières modalités de la primaire de la droite et du centre ont été acceptées par les trois principaux candidats. 17 novembre",
    "link": "https://www.franceinfo.fr/elections/refus-d-alliance-avec-les-extremes-participation-a-deux-euros-les-premieres-modalites-de-la-primaire-de-la-droite-et-du-centre-devoilees_8286980.html",
    "summary": "Refus d'\"alliance avec les extrêmes\", participation à deux euros... les premières modalités de la primaire de la droite et du centre dévoilées",
    "image": "https://www.franceinfo.fr/pictures/XWx6X6Ls7F3NqW5smc_KLbF_QN4/0x255:4903x3013/432x243/filters:format(jpg)/2026/11/17/6afc9a465aaf0440509830.jpg",
@@ -76,7 +154,7 @@
    "pubdate": "2026-11-18T00:59:48.854665+00:00"
   },
   {
-   "title": "\"On souhaite sortir de ce carcan de contraintes qui ne fonctionne pas\" : le RN veut revenir à un DPE purement informatif Aujourd'hui 9:29 audio 9 minutes 29",
+   "title": "\"On souhaite sortir de ce carcan de contraintes qui ne fonctionne pas\" : le RN veut revenir à un DPE purement informatif Le Rassemblement national souhaite supprimer les obligations liées au diagnostic de performance énergétique (DPE) pour les propriétaires bailleurs. Invité de franceinfo, Frédéric Falcon, député RN de l'Aude chargé des questions de logement, défend un DPE qui redeviendrait \"informatif purement et simplement\" 17 novembre 9:29 audio 9 minutes 29",
    "link": "https://www.franceinfo.fr/replay-radio/la-question-des-informes/on-souhaite-sortir-de-ce-carcan-de-contraintes-qui-ne-fonctionne-pas-le-rn-veut-revenir-a-un-dpe-purement-informatif_8265083.html",
    "summary": "\"On souhaite sortir de ce carcan de contraintes qui ne fonctionne pas\" : le RN veut revenir à un DPE purement informatif",
    "image": "https://www.franceinfo.fr/pictures/OZKpuFjN_tiCh6TYrl4aS23UWqU/0x438:4198x2800/432x243/filters:format(jpg)/2025/10/01/maxstockworld466659-68dcc315cd06a633518878.jpg",
@@ -84,7 +162,7 @@
    "pubdate": "2026-11-18T00:59:48.854665+00:00"
   },
   {
-   "title": "La chanson \"Les Antisémites\" de Pierre Perret, qui cible LFI avec virulence, suscite la \"peine\" de Jean-Luc Mélenchon Aujourd'hui",
+   "title": "La chanson \"Les Antisémites\" de Pierre Perret, qui cible LFI avec virulence, suscite la \"peine\" de Jean-Luc Mélenchon Le candidat à la présidentielle de La France insoumise, qui dénonce les exactions de l'armée israélienne à Gaza, est régulièrement taxé d'ambiguïté sur la question de l'antisémitisme. 17 novembre",
    "link": "https://www.franceinfo.fr/culture/musique/chanson-francaise/la-chanson-les-antisemites-de-pierre-perret-qui-cible-lfi-avec-virulence-suscite-la-peine-de-jean-luc-melenchon_8286701.html",
    "summary": "La chanson \"Les Antisémites\" de Pierre Perret, qui cible LFI avec virulence, suscite la \"peine\" de Jean-Luc Mélenchon",
    "image": "https://www.franceinfo.fr/pictures/o4T8czcGH5lsPtWIIwizqrUonX0/0x0:2000x1125/432x243/filters:format(jpg)/2026/11/17/6afc7a9c7b8e2774281735.jpg",
@@ -92,7 +170,7 @@
    "pubdate": "2026-11-18T00:59:48.854665+00:00"
   },
   {
-   "title": "La Ligue des droits de l'homme accuse Marine Le Pen de vouloir \"supprimer tous les contre-pouvoirs\", après ses déclarations sur des associations jugées \"politisées\" Aujourd'hui",
+   "title": "La Ligue des droits de l'homme accuse Marine Le Pen de vouloir \"supprimer tous les contre-pouvoirs\", après ses déclarations sur des associations jugées \"politisées\" Lundi soir, la candidate d'extrême droite a déclaré vouloir \"arrêter de subventionner les associations politisées\", qualifiant la LDH de \"ramassis de gauchistes\". 17 novembre",
    "link": "https://www.franceinfo.fr/politique/marine-le-pen/la-ligue-des-droits-de-l-homme-accuse-marine-le-pen-de-vouloir-supprimer-tous-les-contre-pouvoirs-apres-ses-declarations-sur-des-associations-jugees-politisees_8286773.html",
    "summary": "La Ligue des droits de l'homme accuse Marine Le Pen de vouloir \"supprimer tous les contre-pouvoirs\", après ses déclarations sur des associations jugées \"politisées\"",
    "image": "https://www.franceinfo.fr/pictures/YXc2DQolKZC5pAKPXtNBrXmghJg/0x0:1024x576/432x243/filters:format(jpg)/2026/11/17/6afc7c5bc5630033518290.jpg",
@@ -100,20 +178,12 @@
    "pubdate": "2026-11-18T00:59:48.854665+00:00"
   },
   {
-   "title": "Expulsés fin octobre, Patrick et Isabelle Balkany vont finalement pouvoir réintégrer leur moulin de Giverny, après un accord avec l'Etat Aujourd'hui",
+   "title": "Expulsés fin octobre, Patrick et Isabelle Balkany vont finalement pouvoir réintégrer leur moulin de Giverny, après un accord avec l'Etat Expulsés fin octobre 2026 de leur moulin de Giverny (Eure), Patrick et Isabelle Balkany vont pouvoir revenir dans leur demeure après un accord avec l'agence de l'État qui l'avait saisie. 17 novembre",
    "link": "https://france3-regions.franceinfo.fr/normandie/eure/le-couple-balkany-va-pouvoir-reintegrer-son-moulin-de-giverny-3451356.html",
    "summary": "Expulsés fin octobre, Patrick et Isabelle Balkany vont finalement pouvoir réintégrer leur moulin de Giverny, après un accord avec l'Etat",
    "image": "https://www.franceinfo.fr/pictures/NFazJlEBQMroBs1ayXQp7CKrSaU/432x243/filters:format(jpg)/2026/11/17/6afc782d18e9f448309792.jpg",
    "date": null,
    "pubdate": "2026-11-18T00:59:48.854665+00:00"
-  },
-  {
-   "title": ": Édito Y a-t-il trop de fonctionnaires en France ? Aujourd'hui : Édito 2:12 vidéo 2 minutes 12",
-   "link": "https://www.franceinfo.fr/elections/edito-y-a-t-il-trop-de-fonctionnaires-en-france_8286494.html",
-   "summary": "Y a-t-il trop de fonctionnaires en France ?",
-   "image": "https://www.franceinfo.fr/pictures/FUPT7xiq07HflEGpTvbE3bWeOhA/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/17/6afc436fe5db0977893337.png",
-   "date": null,
-   "pubdate": "2026-11-17T16:09:09.931940+00:00"
   },
   {
    "title": "Soupçons de financement libyen : tout comprendre à l'affaire 29 contenus",
@@ -132,7 +202,7 @@
    "pubdate": "2026-11-17T16:09:09.931940+00:00"
   },
   {
-   "title": ": Info franceinfo La pétition contre CNews définitivement classée, mais l'Assemblée nationale va débattre du pluralisme dans les médias Les instances du Palais-Bourbon ont voté pour qu'un débat se tienne sur la liberté d'expression, mais il ne portera pas seulement sur la chaîne d'information en continu du groupe Bolloré, spécifiquement visée par le texte qui a recueilli plus d'un million de signatures. Aujourd'hui : Info franceinfo",
+   "title": ": Info franceinfo La pétition contre CNews définitivement classée, mais l'Assemblée nationale va débattre du pluralisme dans les médias Les instances du Palais-Bourbon ont voté pour qu'un débat se tienne sur la liberté d'expression, mais il ne portera pas seulement sur la chaîne d'information en continu du groupe Bolloré, spécifiquement visée par le texte qui a recueilli plus d'un million de signatures. 17 novembre : Info franceinfo",
    "link": "https://www.franceinfo.fr/economie/medias/info-franceinfo-l-assemblee-nationale-va-debattre-du-pluralisme-dans-les-medias-meme-si-la-petition-contre-cnews-ne-sera-pas-examinee-dans-l-hemicycle_8286251.html",
    "summary": "La pétition contre CNews définitivement classée, mais l'Assemblée nationale va débattre du pluralisme dans les médias",
    "image": "https://www.franceinfo.fr/pictures/rtpE6vuirtRbI4j71tNbK1-w5qw/0x285:5472x3363/432x243/filters:format(jpg)/2026/11/17/6afc21702b7cf032973421.jpg",
@@ -140,7 +210,7 @@
    "pubdate": "2026-11-17T16:09:09.931940+00:00"
   },
   {
-   "title": "\"Ce n'est pas un dîner, c'est une présentation de programme\", explique Manuel Bompard alors que Jean-Luc Mélenchon rencontre des grands patrons Le chef de file de LFI et candidat à la présidentielle rencontre mardi soir des grands patrons afin d'expliquer le programme du parti : \"mettre davantage à contribution les grandes entreprises et les grands groupes\". Aujourd'hui",
+   "title": "\"Ce n'est pas un dîner, c'est une présentation de programme\", explique Manuel Bompard alors que Jean-Luc Mélenchon rencontre des grands patrons Le chef de file de LFI et candidat à la présidentielle rencontre mardi soir des grands patrons afin d'expliquer le programme du parti : \"mettre davantage à contribution les grandes entreprises et les grands groupes\". 17 novembre",
    "link": "https://www.franceinfo.fr/politique/la-france-insoumise/ce-n-est-pas-un-diner-c-est-une-presentation-de-programme-explique-manuel-bompard-alors-que-jean-luc-melenchon-rencontre-des-grands-patrons_8286200.html",
    "summary": "\"Ce n'est pas un dîner, c'est une présentation de programme\", explique Manuel Bompard alors que Jean-Luc Mélenchon rencontre des grands patrons",
    "image": "https://www.franceinfo.fr/pictures/gCJmabvKpG7SV7ywdkCOzHfO1Y0/0x0:929x523/432x243/filters:format(jpg)/2026/11/17/6afc12b0683ba850917717.png",
@@ -148,39 +218,7 @@
    "pubdate": "2026-11-17T16:09:09.931940+00:00"
   },
   {
-   "title": "Le Sénat rejette la désindexation des retraites sur l'inflation prévue dans le budget de la Sécurité sociale Les sénateurs ont adopté des amendements supprimant entièrement cette mesure susceptible de rapporter environ 4 milliards d'euros. La majorité de droite et du centre a toutefois promis d'accepter une part d'effort des retraités pour freiner le déficit. Aujourd'hui",
-   "link": "https://www.franceinfo.fr/economie/budget/le-senat-rejette-la-desindexation-des-retraites-sur-l-inflation-prevue-dans-le-budget-de-la-securite-sociale_8286014.html",
-   "summary": "Le Sénat rejette la désindexation des retraites sur l'inflation prévue dans le budget de la Sécurité sociale",
-   "image": "https://www.franceinfo.fr/pictures/MdIJW2kGyUxQ88jwvaOV5c7Bz_8/0x520:5000x3333/432x243/filters:format(jpg)/2026/11/17/6afbee039123f567917071.jpg",
-   "date": null,
-   "pubdate": "2026-11-17T16:09:09.931940+00:00"
-  },
-  {
-   "title": "Les équipes de Gabriel Attal, Bruno Retailleau et David Lisnard négocient les modalités d'une potentielle primaire de la droite et du centre Le sujet agite la droite et le centre en ce moment, en vue de l'élection présidentielle. Edouard Philippe répète qu'il n'y participera pas, mais les trois autres candidats appelés par Gérard Larcher semblent s'y préparer. Aujourd'hui",
-   "link": "https://www.franceinfo.fr/elections/primaire-ou-pas-primaire-gabriel-attal-bruno-retailleau-et-david-lisnard-semblent-favorables_8285471.html",
-   "summary": "Les équipes de Gabriel Attal, Bruno Retailleau et David Lisnard négocient les modalités d'une potentielle primaire de la droite et du centre",
-   "image": "https://www.franceinfo.fr/pictures/YpuP_iYrclOYUpM16m_74cjCvYY/0x261:5015x3081/432x243/filters:format(jpg)/2026/11/16/6afb6f2da2de6322672123.jpg",
-   "date": null,
-   "pubdate": "2026-11-17T16:09:09.931940+00:00"
-  },
-  {
-   "title": "Retour de l'âge légal de départ à 62 ans, capitalisation obligatoire… Le RN présente sa réforme des retraites La candidate Marine Le Pen, le patron du RN Jordan Bardella et le député Jean-Philippe Tanguy présentent mardi matin l'un des projets phares de leur programme : leur réforme des retraites, en vue de la présidentielle. Aujourd'hui",
-   "link": "https://www.franceinfo.fr/politique/front-national/retour-de-l-age-legal-de-depart-a-62-ans-capitalisation-obligatoire-le-rn-presente-sa-reforme-des-retraites_8285453.html",
-   "summary": "Retour de l'âge légal de départ à 62 ans, capitalisation obligatoire… Le RN présente sa réforme des retraites",
-   "image": "https://www.franceinfo.fr/pictures/rgk2nuKgBPR4pUezGWb1ZUNBiS8/0x53:1024x629/432x243/filters:format(jpg)/2026/11/16/6afb68f418ab4029172697.jpg",
-   "date": null,
-   "pubdate": "2026-11-17T16:09:09.931940+00:00"
-  },
-  {
-   "title": "\"Un véritable changement de paradigme\" : ce que contient le projet de loi relatif à la résilience des infrastructures critiques, qui doit renforcer la cybersécurité en France Le texte prévoit de durcir les obligations de sécurité informatique pour de nombreuses entreprises et administrations, et doit renforcer les pouvoirs du \"cyber-pompier\" français. Aujourd'hui",
-   "link": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/un-veritable-changement-de-paradigme-ce-que-contient-le-projet-de-loi-relatif-a-la-resilience-des-infrastructures-critiques-qui-doit-renforcer-la-cybersecurite-en-france_8284760.html",
-   "summary": "\"Un véritable changement de paradigme\" : ce que contient le projet de loi relatif à la résilience des infrastructures critiques, qui doit renforcer la cybersécurité en France",
-   "image": "https://www.franceinfo.fr/pictures/anSYSg6vV1MlsPu--MXcPqZgnlc/0x106:1024x682/432x243/filters:format(jpg)/2026/11/16/6afaf95e69e69200842938.jpg",
-   "date": null,
-   "pubdate": "2026-11-17T16:09:09.931940+00:00"
-  },
-  {
-   "title": "Les informés du matin du mardi 17 novembre 2026 Les informés débattent de l'actualité autour d'Agathe Lambret et Renaud Dély. Aujourd'hui 20:16 audio 20 minutes 16",
+   "title": "Les informés du matin du mardi 17 novembre 2026 Les informés débattent de l'actualité autour d'Agathe Lambret et Renaud Dély. 17 novembre 20:16 audio 20 minutes 16",
    "link": "https://www.franceinfo.fr/replay-radio/les-informes-du-matin/les-informes-du-matin-du-mardi-17-novembre-2026_8265104.html",
    "summary": "Les informés du matin du mardi 17 novembre 2026",
    "image": "https://www.franceinfo.fr/pictures/TKWb09bmk3TJazMzKgqtt36pV4Q/0x292:5616x3451/432x243/filters:format(jpg)/2026/07/08/6a4e52a5b634b233317025.jpg",
@@ -188,68 +226,12 @@
    "pubdate": "2026-11-17T11:00:00+00:00"
   },
   {
-   "title": "Smic, mobilisation des lycéens, dîner avec les grands patrons... Le \"8h30 franceinfo\" de Manuel Bompard Manuel Bompard, coordinateur national de la France insoumise, député des Bouches-du-Rhône, est l'invité du \"8h30 franceinfo\", le 17 novembre 2026. Aujourd'hui 23:37 audio 23 minutes 37",
+   "title": "Smic, mobilisation des lycéens, dîner avec les grands patrons... Le \"8h30 franceinfo\" de Manuel Bompard Manuel Bompard, coordinateur national de la France insoumise, député des Bouches-du-Rhône, est l'invité du \"8h30 franceinfo\", le 17 novembre 2026. 17 novembre 23:37 audio 23 minutes 37",
    "link": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/smic-mobilisation-des-lyceens-diner-avec-les-grands-patrons-le-8h30-franceinfo-de-manuel-bompard_8265098.html",
    "summary": "Smic, mobilisation des lycéens, dîner avec les grands patrons... Le \"8h30 franceinfo\" de Manuel Bompard",
    "image": "https://www.franceinfo.fr/pictures/5YrSVtDWcbaHqSWslqt4qM_P_H4/120x0:1134x570/432x243/filters:format(jpg)/2026/11/17/6afc0981bed99371343936.jpg",
    "date": "2026-11-17T11:00:00+00:00",
    "pubdate": "2026-11-17T11:00:00+00:00"
-  },
-  {
-   "title": "L'Assemblée adopte un texte soutenu par le gouvernement pour faciliter le déblocage de l'épargne salariale La proposition de loi doit désormais faire l'objet d'un compromis entre députés et sénateurs lors d'une prochaine commission mixte paritaire. 16 novembre",
-   "link": "https://www.franceinfo.fr/economie/pouvoir-achat/l-assemblee-adopte-un-texte-soutenu-par-le-gouvernement-pour-faciliter-le-deblocage-de-l-epargne-salariale_8285510.html",
-   "summary": "L'Assemblée adopte un texte soutenu par le gouvernement pour faciliter le déblocage de l'épargne salariale",
-   "image": "https://www.franceinfo.fr/pictures/nHvee55K3tEEMGcylUOj_FVKXJs/0x0:1024x576/432x243/filters:format(jpg)/2026/11/16/6afb774978f11762985316.jpg",
-   "date": null,
-   "pubdate": "2026-11-17T03:57:30.396865+00:00"
-  },
-  {
-   "title": "Marine Le Pen réitère auprès de l'ambassadeur ukrainien que la France ne pourra \"plus aider financièrement\" Kiev si elle est élue La candidate du RN à la présidentielle a cependant assuré qu'elle \"tiendrait les engagements pris jusqu'à présent par la France\". 16 novembre",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/marine-le-pen-reitere-aupres-de-l-ambassadeur-ukrainien-que-la-france-ne-pourrait-plus-aider-financierement-kiev-si-elle-est-elue_8285462.html",
-   "summary": "Marine Le Pen réitère auprès de l'ambassadeur ukrainien que la France ne pourra \"plus aider financièrement\" Kiev si elle est élue",
-   "image": "https://www.franceinfo.fr/pictures/p9CChblbe0-UJT0Cpz3VKGjqhTA/0x0:1024x576/432x243/filters:format(jpg)/2026/11/16/6afb6d7c88474908424505.jpg",
-   "date": null,
-   "pubdate": "2026-11-17T03:57:30.396865+00:00"
-  },
-  {
-   "title": "\"J'ai fait de mon mieux\" : à six mois de la fin de son mandat, Emmanuel Macron reconnaît \"des erreurs\" au cours de ses dix ans au pouvoir Le président de la République s'est exprimé lundi sur X à l'occasion des dix ans de l'annonce de sa première candidature à la présidentielle. 16 novembre",
-   "link": "https://www.franceinfo.fr/elections/j-ai-fait-de-mon-mieux-a-six-mois-de-la-fin-de-son-mandat-emmanuel-macron-reconnait-des-erreurs-au-cours-de-ses-dix-ans-au-pouvoir_8285318.html",
-   "summary": "\"J'ai fait de mon mieux\" : à six mois de la fin de son mandat, Emmanuel Macron reconnaît \"des erreurs\" au cours de ses dix ans au pouvoir",
-   "image": "https://www.franceinfo.fr/pictures/izQJ5PMUXr-6C22CfOWQASAnr3c/0x53:1024x629/432x243/filters:format(jpg)/2026/11/16/6afb597e4670a357573193.jpg",
-   "date": null,
-   "pubdate": "2026-11-17T03:57:30.396865+00:00"
-  },
-  {
-   "title": "L'ex-député Raphaël Gérard, lanceur d'alerte sur le Covid-19, meurt de la grippe à 58 ans Récemment élu maire de Lonzac en Charente-Maritime, il avait aussi représenté le sud Saintonge sur les bancs de la majorité présidentielle à l'Assemblée nationale. Deux mandats marqués par l'emprise du Covid-19 sur sa santé et sa vie. Une fragilité qui se révèle fatale aujourd'hui. 16 novembre",
-   "link": "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/charente-maritime/la-rochelle/l-ex-depute-raphael-gerard-lanceur-d-alerte-sur-le-covid-19-meurt-de-la-grippe-a-58-ans-3450492.html",
-   "summary": "L'ex-député Raphaël Gérard, lanceur d'alerte sur le Covid-19, meurt de la grippe à 58 ans",
-   "image": "https://www.franceinfo.fr/pictures/i-n0in39gBvij8Yll0KLTZWlBLU/432x243/filters:format(jpg)/2026/11/16/6afb1f1adddc1939668671.jpg",
-   "date": null,
-   "pubdate": "2026-11-16T19:40:14.426418+00:00"
-  },
-  {
-   "title": "\"Des promesses qui ne pourront pas être tenues\", déplore le président UDI du Loiret qui décline l'invitation à Matignon concernant le budget 2027 Le Premier ministre Sébastien Lecornu a invité lundi après-midi des présidents de départements et de collectivités territoriales à compétences départementales en métropole et en Outre-mer afin de répondre aux inquiétudes concernant le budget 2027. 16 novembre",
-   "link": "https://www.franceinfo.fr/economie/budget/des-promesses-qui-ne-pourront-pas-etre-tenues-deplore-le-president-udi-du-loiret-qui-decline-l-invitation-a-matignon-concernant-le-budget-2027_8285018.html",
-   "summary": "\"Des promesses qui ne pourront pas être tenues\", déplore le président UDI du Loiret qui décline l'invitation à Matignon concernant le budget 2027",
-   "image": "https://www.franceinfo.fr/pictures/m7xyrMmzKF7RhRx96iQW5HG3tDE/432x243/filters:format(jpg)/2026/11/14/6af7ed3217ea8891489730.jpg",
-   "date": null,
-   "pubdate": "2026-11-16T19:40:14.426418+00:00"
-  },
-  {
-   "title": "Un quart des Français adhèrent encore à des préjugés antisémites, alerte une étude Selon un sondage de l'Ifop et de la Fondapol pour l'American Jewish Committee, paru lundi, 24% des Français pensent que les juifs ont \"trop de pouvoir dans le domaine des médias\" ou \"dans le domaine de l'économie et de la finance\". Des niveaux comparables à ceux d'il y a douze ans. 16 novembre",
-   "link": "https://www.franceinfo.fr/societe/antisemitisme/un-quart-des-francais-adhere-encore-a-des-prejuges-antisemites-alerte-une-etude_8284583.html",
-   "summary": "Un quart des Français adhèrent encore à des préjugés antisémites, alerte une étude",
-   "image": "https://www.franceinfo.fr/pictures/2yI3KLHEqm9OJg9N2H8EZRf9P2I/0x94:1024x670/432x243/filters:format(jpg)/2026/11/16/6afaf7518cd92738247462.jpg",
-   "date": null,
-   "pubdate": "2026-11-16T19:40:14.426418+00:00"
-  },
-  {
-   "title": ": Appel à témoignages Présidentielle 2027 : posez vos questions à Gabriel Attal, invité de \"L'Heure de vérité\" L'ancien Premier ministre, candidat Renaissance à la présidentielle de 2027, est l'invité de Caroline Roux, jeudi soir sur France 2. 16 novembre : Appel à témoignages",
-   "link": "https://www.franceinfo.fr/politique/gabriel-attal/appel-a-temoignages-presidentielle-2027-posez-vos-questions-a-gabriel-attal-invite-de-l-heure-de-verite_8284901.html",
-   "summary": "Présidentielle 2027 : posez vos questions à Gabriel Attal, invité de \"L'Heure de vérité\"",
-   "image": "https://www.franceinfo.fr/pictures/mz17vmRR2eulLxWAUO11M8xqCGE/0x0:1181x664/432x243/filters:format(jpg)/2026/10/05/6ac4094ad59fe971436910.png",
-   "date": null,
-   "pubdate": "2026-11-16T19:40:14.426418+00:00"
   },
   {
    "title": ": Témoignages \"J'ai l'impression de travailler à perte\" : salariés au smic, ils racontent un quotidien de privations, de galères et de déclassement : Témoignages 9:00 article 9 minutes",

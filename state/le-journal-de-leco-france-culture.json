@@ -1,8 +1,7 @@
 {
- "etag": "\"1q307wm\"",
+ "etag": "\"nvydow\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/pekin-traque-les-milliards-des-grandes-fortunes-chinoises-a-l-etranger-4732139": "2026-10-22T12:00:53.779488+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/bientot-une-agence-de-notation-africaine-9756036": "2026-10-23T11:46:37.660008+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/donald-trump-n-a-pas-tenu-ses-promesses-sur-le-pouvoir-d-achat-9916072": "2026-10-26T13:13:23.491705+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/etats-unis-de-donald-trump-l-economie-se-porte-bien-mais-les-inegalites-se-creusent-9130920": "2026-10-27T11:00:00+00:00",
@@ -19,10 +18,19 @@
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/le-marche-des-paiements-champ-de-bataille-et-levier-de-souverainete-1045640": "2026-11-12T11:25:47.061626+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/le-groupe-ubs-menace-de-quitter-la-suisse-face-au-durcissement-des-regles-bancaires-7619418": "2026-11-13T11:09:00.958139+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/la-crise-d-ormuz-a-t-elle-relance-l-exploration-petroliere-a-travers-le-monde-2712121": "2026-11-16T06:43:06.612025+00:00",
-  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/guerre-des-puces-la-chine-peut-elle-se-passer-de-nvidia-2157143": "2026-11-17T16:09:19.487338+00:00"
+  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/guerre-des-puces-la-chine-peut-elle-se-passer-de-nvidia-2157143": "2026-11-17T16:09:19.487338+00:00",
+  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/le-journal-de-l-eco-du-mercredi-18-novembre-2026-5186070": "2026-11-18T11:52:13.962103+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "Les batteries électriques allemandes accroissent la dépendance à la Chine",
+   "link": "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/le-journal-de-l-eco-du-mercredi-18-novembre-2026-5186070",
+   "summary": "En plein essor en Allemagne, les batteries géantes sont essentielles pour stocker l’électricité renouvelable. Mais leur développement se heurte à plusieurs obstacles et à une forte dépendance envers la Chine, qui domine la production des cellules. Berlin tente de rattraper son retard.",
+   "image": "https://www.radiofrance.fr/pikapi/images/30be30b6-491a-467d-a063-2b940802fb14/2048",
+   "date": null,
+   "pubdate": "2026-11-18T11:52:13.962103+00:00"
+  },
   {
    "title": "Guerre des puces : la Chine peut-elle se passer de Nvidia ?",
    "link": "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/guerre-des-puces-la-chine-peut-elle-se-passer-de-nvidia-2157143",
@@ -158,14 +166,6 @@
    "image": "https://www.radiofrance.fr/pikapi/images/25c57c9a-16d1-45cb-a36d-e2d277a93d84/2048",
    "date": "2026-10-23T11:00:00+00:00",
    "pubdate": "2026-10-23T11:00:00+00:00"
-  },
-  {
-   "title": "Pékin traque les milliards des grandes fortunes chinoises à l'étranger",
-   "link": "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/pekin-traque-les-milliards-des-grandes-fortunes-chinoises-a-l-etranger-4732139",
-   "summary": "La Chine durcit la réglementation sur les trusts offshore, utilisés par les grandes fortunes pour réduire leurs impôts. Le pays compte plus de 1 000 milliardaires et 5 millions de millionnaires. Les détenteurs de trusts à l’étranger avaient jusqu’au 22 octobre pour déclarer leurs revenus.",
-   "image": "https://www.radiofrance.fr/pikapi/images/e1f8f11d-3cfd-4914-b115-5cc63214079b/2048",
-   "date": null,
-   "pubdate": "2026-10-22T12:00:53.779488+00:00"
   }
  ]
 }
