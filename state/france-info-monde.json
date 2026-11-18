@@ -1,19 +1,11 @@
 {
- "etag": "\"f65e3c2346801fde717c0eb9e5d80164-gzip\"",
+ "etag": "\"77a547767934e24caf178f3591c08b95-gzip\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.franceinfo.fr/environnement/biodiversite/animaux/deja-12-ou-13-personnes-dans-le-village-qui-ont-ete-tuees-en-inde-les-tensions-territoriales-entre-habitants-et-elephants-sauvages-font-des-centaines-de-morts-chaque-annee_8280089.html": "2026-11-15T16:25:12.506035+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/reportage-ca-facilite-grandement-le-travail-de-nos-soldats-les-robots-de-combat-ukrainiens-deviennent-incontournables-sur-le-front-et-permettent-de-reprendre-du-terrain-aux-russes_8284292.html": "2026-11-16T06:42:11.669259+00:00",
-  "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/reportage-des-etincelles-tombaient-du-ciel-comme-de-la-pluie-la-cop31-a-l-epreuve-des-incendies-a-repetition-dans-la-region-d-antalya_8276642.html": "2026-11-16T06:42:11.669259+00:00",
-  "https://www.franceinfo.fr/monde/turquie/en-turquie-la-police-organise-une-descente-dans-une-chaine-de-television-d-opposition-et-procede-a-des-arrestations_8287241.html": "2026-11-18T00:59:52.808337+00:00",
-  "https://www.franceinfo.fr/monde/usa/des-systemes-internes-de-la-nsa-l-agence-americaine-de-renseignement-affectes-durant-une-operation-de-maintenance_8287238.html": "2026-11-18T00:59:52.808337+00:00",
-  "https://www.franceinfo.fr/monde/israel/elections-legislatives-en-israel/matan-kahana-un-fidele-de-gadi-eisenkot-elu-president-du-parlement-en-israel-coup-dur-pour-benyamin-netanyahou_8287226.html": "2026-11-18T00:59:52.808337+00:00",
-  "https://www.franceinfo.fr/monde/russie/un-avion-de-transport-militaire-s-est-ecrase-en-siberie-faisant-19-morts_8287073.html": "2026-11-18T00:59:52.808337+00:00",
   "https://www.franceinfo.fr/monde/usa/midterms-2018/midterms-2026-l-essentiel-des-elections-de-mi-mandat/": "2026-11-18T00:59:52.808337+00:00",
   "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/leon-xiv-en-france-retrouvez-l-essentiel/": "2026-11-18T00:59:52.808337+00:00",
   "https://www.franceinfo.fr/monde/usa/affaire-jeffrey-epstein/l-essentiel-des-revelations-sur-l-affaire-epstein/": "2026-11-18T00:59:52.808337+00:00",
   "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/tout-comprendre-a-la-guerre-au-moyen-orient/": "2026-11-18T00:59:52.808337+00:00",
-  "https://www.franceinfo.fr/sante/les-etats-unis-perdent-leur-statut-de-pays-ayant-elimine-la-rougeole-a-l-instar-du-mexique-et-de-la-bolivie_8286896.html": "2026-11-18T00:59:52.808337+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-union-europeenne-propose-un-nouveau-pret-de-45-milliards-d-euros-a-l-ukraine-pour-2027_8288159.html": "2026-11-18T11:52:06.516843+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/reportage-ils-envoient-leurs-hommes-a-la-mort-des-militaires-ukrainiens-decrivent-l-impreparation-des-soldats-russes-envoyes-au-front_8287886.html": "2026-11-18T11:52:06.516843+00:00",
   "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/attaque-americaine-sur-l-ile-de-qeshm-replique-iranienne-sur-les-pays-du-golfe-on-fait-le-point-sur-le-regain-de-tensions-entre-l-iran-et-les-etats-unis_8287895.html": "2026-11-18T11:52:06.516843+00:00",
@@ -22,27 +14,149 @@
   "https://www.franceinfo.fr/replay-radio/le-tour-de-la-question/bruxelles-menace-temu-d-une-nouvelle-amende-pour-non-respect-des-regles-europeennes_8287730.html": "2026-11-18T11:52:06.516843+00:00",
   "https://www.franceinfo.fr/monde/usa/midterms-2018/les-democrates-s-imposent-en-alaska-et-obtiennent-leur-plus-large-majorite-au-senat-depuis-seize-ans_8287943.html": "2026-11-18T11:52:06.516843+00:00",
   "https://www.franceinfo.fr/replay-radio/le-monde-et-vous/de-fausses-reunions-zoom-pour-voler-des-millions-le-fbi-devoile-une-vaste-arnaque-attribuee-a-la-coree-du-nord_8266715.html": "2026-11-18T11:52:06.516843+00:00",
-  "https://www.franceinfo.fr/monde/vladimir-poutine-recu-par-xi-jinping-avant-un-sommet-historique-avec-donald-trump_8287814.html": "2026-11-18T11:52:06.516843+00:00",
   "https://www.franceinfo.fr/replay-radio/ca-dit-quoi/podcast-termine-le-3-fois-sans-frais-gta-avant-tout-le-monde-et-soldats-francais-en-ukraine-ca-dit-quoi-ce-18-novembre_8278361.html": "2026-11-18T11:52:06.516843+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-couper-le-robinet-de-petrole-russe-en-mission-avec-les-oiseaux-de-madyar-la-brigade-de-dronistes-ukrainiens-la-plus-pourchassee-par-les-russes_8255023.html": "2026-11-18T11:52:06.516843+00:00",
   "https://www.franceinfo.fr/internet/marco-rubio-chef-de-la-diplomatie-americaine-tente-de-rassurer-ses-compatriotes-apres-une-serie-de-pannes-informatiques_8287763.html": "2026-11-18T11:52:06.516843+00:00",
   "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/ni-avenir-ni-humanite-le-premier-ministre-espagnol-pedro-sanchez-s-oppose-au-projet-europeen-de-centre-pour-migrants-au-rwanda_8266730.html": "2026-11-18T11:52:06.516843+00:00",
   "https://www.franceinfo.fr/monde/xi-jinping-recoit-vladimir-poutine-avant-un-sommet-inedit-avec-donald-trump-pour-evoquer-les-crises-internationales_8287652.html": "2026-11-18T11:52:06.516843+00:00",
-  "https://www.franceinfo.fr/replay-radio/complorama/la-fin-de-10-ans-de-post-verite_8286962.html": "2026-11-18T11:52:06.516843+00:00",
-  "https://www.franceinfo.fr/monde/serbie-la-liste-etudiante-entre-au-parlement_8286926.html": "2026-10-25T11:00:00+00:00"
+  "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/trump-poutine-xi-une-rencontre-qui-intrigue-le-monde_8288915.html": "2026-11-18T20:38:32.138801+00:00",
+  "https://www.franceinfo.fr/monde/usa/petrole-au-texas-le-fleau-des-puits-abandonnes_8288708.html": "2026-11-18T20:38:32.138801+00:00",
+  "https://www.franceinfo.fr/replay-jt/france-2/20-heures/donald-trump-vladimir-poutine-xi-jinping-la-rencontre-qui-intrigue-le-monde_8288891.html": "2026-11-18T20:38:32.138801+00:00",
+  "https://www.franceinfo.fr/monde/chine/rencontre-en-chine-xi-trump-poutine-a-chacun-ses-interets_8288681.html": "2026-11-18T20:38:32.138801+00:00",
+  "https://www.franceinfo.fr/monde/europe/migrants/un-campement-evacue-a-paris-pres-de-la-station-de-metro-stalingrad-172-personnes-mises-a-l-abri-selon-les-autorites_8288762.html": "2026-11-18T20:38:32.138801+00:00",
+  "https://www.franceinfo.fr/monde/usa/midterms-2018/hakeem-jeffries-designe-par-les-democrates-devrait-devenir-le-premier-president-noir-de-la-chambre-des-representants-americaine_8288528.html": "2026-11-18T20:38:32.138801+00:00",
+  "https://www.franceinfo.fr/monde/palestine/face-a-face-violent-avec-des-colons-israeliens-a-jericho_8288540.html": "2026-11-18T20:38:32.138801+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/n-apportons-pas-d-eau-au-moulin-de-la-propagande-russe-previent-le-depute-pieyre-alexandre-anglade_8288240.html": "2026-11-18T20:38:32.138801+00:00",
+  "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/l-armee-israelienne-annonce-le-lancement-d-une-operation-dans-une-zone-de-la-bande-de-gaza-controlee-par-le-hamas_8288417.html": "2026-11-18T20:38:32.138801+00:00",
+  "https://www.franceinfo.fr/replay-jt/france-2/13-heures/donald-trump-vladimir-poutine-et-xi-jinping-une-rencontre-historique-entre-les-trois-dirigeants_8288420.html": "2026-11-18T20:38:32.138801+00:00",
+  "https://www.franceinfo.fr/environnement/energie/nucleaire/la-course-au-nucleaire-au-c-ur-de-la-rencontre-entre-trump-poutine-et-xi-en-chine_8288201.html": "2026-11-18T20:38:32.138801+00:00",
+  "https://www.franceinfo.fr/monde/chine/premiers-entretiens-accolade-banquet-vladimir-poutine-et-donald-trump-sont-arrives-en-chine-avant-leur-reunion-tripartie-avec-xi-jinping_8288336.html": "2026-11-18T20:38:32.138801+00:00",
+  "https://www.franceinfo.fr/culture/la-justice-espagnole-ouvre-une-enquete-contre-le-chanteur-julio-iglesias-accuse-d-agressions-sexuelles-par-deux-anciennes-employees_8288225.html": "2026-11-18T20:38:32.138801+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "L'Union européenne propose un nouveau prêt de 45 milliards d'euros à l'Ukraine pour 2027 Kiev ne devra rembourser \"qu'une fois que la Russie aura payé pour les destructions qu'elle a causées en Ukraine\", a déclaré mercredi la présidente de la Commission européenne, Ursula von der Leyen. Aujourd'hui",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-union-europeenne-propose-un-nouveau-pret-de-45-milliards-d-euros-a-l-ukraine-pour-2027_8288159.html",
-   "summary": "L'Union européenne propose un nouveau prêt de 45 milliards d'euros à l'Ukraine pour 2027",
-   "image": "https://www.franceinfo.fr/pictures/eCO7YJ-ZvsKQD_cgeWXePKjxUrc/32x0:1024x682/432x297/filters:format(jpg)/2026/11/18/6afd8f2b5252f213122423.jpg",
+   "title": "Trump, Poutine, Xi, une rencontre qui intrigue le monde Donald Trump, Vladimir Poutine et Xi Jinping sont réunis à Shenzen, en Chine. Lors du sommet de l'Apec, les dirigeants américain, russe et chinois doivent notamment parler du nucléaire. Les trois pays détiennent le plus grand nombre de têtes nucléaires au monde. Aujourd'hui 1:57 vidéo 1 minute 57",
+   "link": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/trump-poutine-xi-une-rencontre-qui-intrigue-le-monde_8288915.html",
+   "summary": "Trump, Poutine, Xi, une rencontre qui intrigue le monde",
+   "image": "https://www.franceinfo.fr/pictures/ALD90nAOMyqiGeD9mBKrWAlWZB0/0x0:1080x1920/fit-in/432x297/filters:upscale():fill(blur):format(jpg)/2026/11/18/6afdff7baba57213897783.jpg",
+   "date": null,
+   "pubdate": "2026-11-18T20:38:32.138801+00:00"
+  },
+  {
+   "title": "Pétrole au Texas : le fléau des puits abandonnés Aujourd'hui 0:55 vidéo 55 secondes",
+   "link": "https://www.franceinfo.fr/monde/usa/petrole-au-texas-le-fleau-des-puits-abandonnes_8288708.html",
+   "summary": "Pétrole au Texas : le fléau des puits abandonnés",
+   "image": "https://www.franceinfo.fr/pictures/5Hn48BAIPrEFit6zTURJJaOTRdU/0x0:253x449/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/18/6afdd8decaf1f607524349.jpg",
+   "date": null,
+   "pubdate": "2026-11-18T20:38:32.138801+00:00"
+  },
+  {
+   "title": "Donald Trump, Vladimir Poutine, Xi Jinping : la rencontre qui intrigue le monde Aujourd'hui 1:55 vidéo 1 minute 55",
+   "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/donald-trump-vladimir-poutine-xi-jinping-la-rencontre-qui-intrigue-le-monde_8288891.html",
+   "summary": "Donald Trump, Vladimir Poutine, Xi Jinping : la rencontre qui intrigue le monde",
+   "image": "https://www.franceinfo.fr/pictures/mIO9Kv9KtRaw-c3BX56FCX8q6cY/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/18/6afdfbc63c7e5316043057.jpg",
+   "date": null,
+   "pubdate": "2026-11-18T20:38:32.138801+00:00"
+  },
+  {
+   "title": "Rencontre en Chine : XI, TRUMP, POUTINE, à chacun ses intérêts Aujourd'hui 0:55 vidéo 55 secondes",
+   "link": "https://www.franceinfo.fr/monde/chine/rencontre-en-chine-xi-trump-poutine-a-chacun-ses-interets_8288681.html",
+   "summary": "Rencontre en Chine : XI, TRUMP, POUTINE, à chacun ses intérêts",
+   "image": "https://www.franceinfo.fr/pictures/-ZKAUt6DYSWSeVgqjWPHWwLYqw4/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/18/6afdda2ba5efb728454035.png",
+   "date": null,
+   "pubdate": "2026-11-18T20:38:32.138801+00:00"
+  },
+  {
+   "title": "Un campement évacué à Paris près de la station de métro Stalingrad, 172 personnes \"mises à l'abri\" selon les autorités Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/europe/migrants/un-campement-evacue-a-paris-pres-de-la-station-de-metro-stalingrad-172-personnes-mises-a-l-abri-selon-les-autorites_8288762.html",
+   "summary": "Un campement évacué à Paris près de la station de métro Stalingrad, 172 personnes \"mises à l'abri\" selon les autorités",
+   "image": "https://www.franceinfo.fr/pictures/PCXwb1saFGPALFUtkLu0IP29fv8/0x221:4252x2613/432x243/filters:format(jpg)/2026/11/18/6afde07fbe647558638914.jpg",
+   "date": null,
+   "pubdate": "2026-11-18T20:38:32.138801+00:00"
+  },
+  {
+   "title": "Le démocrate Hakeem Jeffries devrait devenir le premier président noir de la Chambre des représentants américaine Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/usa/midterms-2018/hakeem-jeffries-designe-par-les-democrates-devrait-devenir-le-premier-president-noir-de-la-chambre-des-representants-americaine_8288528.html",
+   "summary": "Le démocrate Hakeem Jeffries devrait devenir le premier président noir de la Chambre des représentants américaine",
+   "image": "https://www.franceinfo.fr/pictures/Csc1OQxkegPtE-oQocACjufQahE/0x0:1024x576/432x243/filters:format(jpg)/2026/11/18/6afdcd78295ff272846402.jpg",
+   "date": null,
+   "pubdate": "2026-11-18T20:38:32.138801+00:00"
+  },
+  {
+   "title": "Face-à-face violent avec des colons israéliens à Jéricho Aujourd'hui 1:57 vidéo 1 minute 57",
+   "link": "https://www.franceinfo.fr/monde/palestine/face-a-face-violent-avec-des-colons-israeliens-a-jericho_8288540.html",
+   "summary": "Face-à-face violent avec des colons israéliens à Jéricho",
+   "image": "https://www.franceinfo.fr/pictures/_RSFPJ-_VfM4hWpiHVXhgHLyWv8/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/18/6afdc72ce81f4952198267.jpg",
+   "date": null,
+   "pubdate": "2026-11-18T20:38:32.138801+00:00"
+  },
+  {
+   "title": "\"N’apportons pas d’eau au moulin de la propagande russe\", prévient le député Pieyre-Alexandre Anglade Aujourd'hui 1:32 vidéo 1 minute 32",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/n-apportons-pas-d-eau-au-moulin-de-la-propagande-russe-previent-le-depute-pieyre-alexandre-anglade_8288240.html",
+   "summary": "\"N’apportons pas d’eau au moulin de la propagande russe\", prévient le député Pieyre-Alexandre Anglade",
+   "image": "https://www.franceinfo.fr/pictures/9LL0I0Myd5uvAsmhKV-04H4ZUQU/0x0:900x1600/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/18/6afd972531e56849812933.jpg",
+   "date": null,
+   "pubdate": "2026-11-18T20:38:32.138801+00:00"
+  },
+  {
+   "title": "L'armée israélienne annonce le lancement d'une opération dans une zone de la bande de Gaza contrôlée par le Hamas Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/l-armee-israelienne-annonce-le-lancement-d-une-operation-dans-une-zone-de-la-bande-de-gaza-controlee-par-le-hamas_8288417.html",
+   "summary": "L'armée israélienne annonce le lancement d'une opération dans une zone de la bande de Gaza contrôlée par le Hamas",
+   "image": "https://www.franceinfo.fr/pictures/mrcncmUCTmC3s89I8kZKCyrqLdw/0x106:1024x682/432x243/filters:format(jpg)/2026/11/18/6afdbc2339d0e882256855.jpg",
+   "date": null,
+   "pubdate": "2026-11-18T20:38:32.138801+00:00"
+  },
+  {
+   "title": "Donald Trump, Vladimir Poutine et Xi Jinping : une rencontre historique entre les trois dirigeants Aujourd'hui 1:31 vidéo 1 minute 31",
+   "link": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/donald-trump-vladimir-poutine-et-xi-jinping-une-rencontre-historique-entre-les-trois-dirigeants_8288420.html",
+   "summary": "Donald Trump, Vladimir Poutine et Xi Jinping : une rencontre historique entre les trois dirigeants",
+   "image": "https://www.franceinfo.fr/pictures/AibC9ygVYCq2Be9hGIBlysgI5EQ/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/18/6afdb99459826203743771.jpg",
+   "date": null,
+   "pubdate": "2026-11-18T20:38:32.138801+00:00"
+  },
+  {
+   "title": "La course au nucléaire au cœur de la rencontre entre Trump, Poutine et Xi en Chine Donald Trump, Vladimir Poutine et Xi Jinping sont réunis à Shenzen, en Chine. Lors du sommet de l'Apec, les dirigeants américain, russe et chinois doivent notamment parler du nucléaire. Les trois pays détiennent le plus grand nombre de têtes nucléaires au monde. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/environnement/energie/nucleaire/la-course-au-nucleaire-au-c-ur-de-la-rencontre-entre-trump-poutine-et-xi-en-chine_8288201.html",
+   "summary": "La course au nucléaire au cœur de la rencontre entre Trump, Poutine et Xi en Chine",
+   "image": "https://www.franceinfo.fr/pictures/9TZlbokRFxKWMbqW3L-cNocrvl4/0x47:3313x1910/432x243/filters:format(jpg)/2026/11/18/6afdb3a8b1753348825323.jpg",
+   "date": null,
+   "pubdate": "2026-11-18T20:38:32.138801+00:00"
+  },
+  {
+   "title": "Premiers entretiens, accolade, banquet… Vladimir Poutine et Donald Trump sont arrivés en Chine avant leur réunion tripartie avec Xi Jinping La rencontre entre les trois présidents américain, russe et chinois retient toute l'attention lors de ce sommet de la région Asie-Pacifique. Et Xi Jinping a réservé un accueil tout particulier à son homologue américain. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/chine/premiers-entretiens-accolade-banquet-vladimir-poutine-et-donald-trump-sont-arrives-en-chine-avant-leur-reunion-tripartie-avec-xi-jinping_8288336.html",
+   "summary": "Premiers entretiens, accolade, banquet… Vladimir Poutine et Donald Trump sont arrivés en Chine avant leur réunion tripartie avec Xi Jinping",
+   "image": "https://www.franceinfo.fr/pictures/yfZ2aC8xJMF97aQavFSnVPspK6U/0x347:6676x4103/432x243/filters:format(jpg)/2026/11/18/6afdaf2e24857045863491.jpg",
+   "date": null,
+   "pubdate": "2026-11-18T20:38:32.138801+00:00"
+  },
+  {
+   "title": "La justice espagnole ouvre une enquête contre le chanteur Julio Iglesias, accusé d'agressions sexuelles par deux anciennes employées Les plaignantes affirment avoir subi des agressions sexuelles et d'autres mauvais traitements lorsqu'elles travaillaient dans des propriétés de l'artiste, en 2021. Julio Iglesias dénonce des accusations \"absolument fausses\". Aujourd'hui",
+   "link": "https://www.franceinfo.fr/culture/la-justice-espagnole-ouvre-une-enquete-contre-le-chanteur-julio-iglesias-accuse-d-agressions-sexuelles-par-deux-anciennes-employees_8288225.html",
+   "summary": "La justice espagnole ouvre une enquête contre le chanteur Julio Iglesias, accusé d'agressions sexuelles par deux anciennes employées",
+   "image": "https://www.franceinfo.fr/pictures/Nes2jLOpxh16VAQSDf9Wp_iKyTk/0x0:1024x576/432x243/filters:format(jpg)/2026/11/18/6afd933e8ffae201174268.jpg",
+   "date": null,
+   "pubdate": "2026-11-18T20:38:32.138801+00:00"
+  },
+  {
+   "title": ": Reportage \"Ce soir, on est en mission pour qu'ils passent une mauvaise nuit\" : en immersion avec une brigade de dronistes ukrainiens qui vise les raffineries russes : Reportage 4:55 audio 4 minutes 55",
+   "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-couper-le-robinet-de-petrole-russe-en-mission-avec-les-oiseaux-de-madyar-la-brigade-de-dronistes-ukrainiens-la-plus-pourchassee-par-les-russes_8255023.html",
+   "summary": "\"Ce soir, on est en mission pour qu'ils passent une mauvaise nuit\" : en immersion avec une brigade de dronistes ukrainiens qui vise les raffineries russes",
+   "image": "https://www.franceinfo.fr/pictures/ccQT4F940EBl9FupZfobrD39RI8/0x150:1600x1050/432x243/filters:format(jpg)/2026/11/09/6af22c0dbfe8f915408614.jpg",
    "date": null,
    "pubdate": "2026-11-18T11:52:06.516843+00:00"
   },
   {
-   "title": ": Reportage \"Ils envoient leurs hommes à la mort\" : des militaires ukrainiens décrivent l'impréparation des soldats russes envoyés au front Aujourd'hui : Reportage",
+   "title": "L'Union européenne propose un nouveau prêt de 45 milliards d'euros à l'Ukraine pour 2027 Kiev ne devra rembourser \"qu'une fois que la Russie aura payé pour les destructions qu'elle a causées en Ukraine\", a déclaré mercredi la présidente de la Commission européenne, Ursula von der Leyen. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-union-europeenne-propose-un-nouveau-pret-de-45-milliards-d-euros-a-l-ukraine-pour-2027_8288159.html",
+   "summary": "L'Union européenne propose un nouveau prêt de 45 milliards d'euros à l'Ukraine pour 2027",
+   "image": "https://www.franceinfo.fr/pictures/OeF3DHLVKzCoJk67KgU0PaVstu0/0x0:1024x576/432x243/filters:format(jpg)/2026/11/18/6afd8f2b5252f213122423.jpg",
+   "date": null,
+   "pubdate": "2026-11-18T11:52:06.516843+00:00"
+  },
+  {
+   "title": ": Reportage \"Ils envoient leurs hommes à la mort\" : des militaires ukrainiens décrivent l'impréparation des soldats russes envoyés au front Avec plus de 400 000 morts, les pertes de l'armée russe seraient trois fois supérieures à celles de l'armée ukrainienne. Non loin du front, dans la ville d'Izium, des militaires ukrainiens décrivent les méthodes de Moscou, qui envoie au combat des hommes parfois âgés, blessés ou insuffisamment formés. Aujourd'hui : Reportage",
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/reportage-ils-envoient-leurs-hommes-a-la-mort-des-militaires-ukrainiens-decrivent-l-impreparation-des-soldats-russes-envoyes-au-front_8287886.html",
    "summary": "\"Ils envoient leurs hommes à la mort\" : des militaires ukrainiens décrivent l'impréparation des soldats russes envoyés au front",
    "image": "https://www.franceinfo.fr/pictures/y95OR32eANi7SR5rh7OORQVrrlM/0x316:6016x3700/432x243/filters:format(jpg)/2026/11/18/6afd690724e1c720200665.jpg",
@@ -50,7 +164,7 @@
    "pubdate": "2026-11-18T11:52:06.516843+00:00"
   },
   {
-   "title": "Attaque américaine sur l'île de Qeshm, réplique iranienne sur les pays du Golfe… On fait le point sur le regain de tensions entre l'Iran et les Etats-Unis Aujourd'hui",
+   "title": "Attaque américaine sur l'île de Qeshm, réplique iranienne sur les pays du Golfe… On fait le point sur le regain de tensions entre l'Iran et les Etats-Unis Ces nouvelles tensions au Moyen-Orient interviennent alors que Donald Trump est attendu en Chine pour un sommet inédit avec ses homologues chinois et russe. Aujourd'hui",
    "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/attaque-americaine-sur-l-ile-de-qeshm-replique-iranienne-sur-les-pays-du-golfe-on-fait-le-point-sur-le-regain-de-tensions-entre-l-iran-et-les-etats-unis_8287895.html",
    "summary": "Attaque américaine sur l'île de Qeshm, réplique iranienne sur les pays du Golfe… On fait le point sur le regain de tensions entre l'Iran et les Etats-Unis",
    "image": "https://www.franceinfo.fr/pictures/POKMakvzdnUYBbftPUGPUGvA0Ew/0x349:6706x4121/432x243/filters:format(jpg)/2026/11/18/6afd6cea74a49389799165.jpg",
@@ -58,15 +172,15 @@
    "pubdate": "2026-11-18T11:52:06.516843+00:00"
   },
   {
-   "title": "Une voiture dépolluante testée au Japon Aujourd'hui 2:18 audio 2 minutes 18",
+   "title": "Une voiture dépolluante testée au Japon Le constructeur automobile japonais Mazda travaille sur un modèle non polluant, capable non seulement de capter le CO2 qu'il émet, mais aussi d'aspirer un peu de celui présent dans l'atmosphère. Aujourd'hui 2:18 audio 2 minutes 18",
    "link": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/une-voiture-depolluante-testee-au-japon_8266727.html",
-   "summary": "",
+   "summary": "Le constructeur automobile japonais Mazda travaille sur un modèle non polluant, capable non seulement de capter le CO2 qu'il émet, mais aussi d'aspirer un peu de celui présent dans l'atmosphère.",
    "image": "https://www.franceinfo.fr/pictures/xskHiraBKeZKF8M9NaxCKPMLkdE/0x283:5857x3578/432x243/filters:format(jpg)/2026/11/18/6afd763dc7356091540361.jpg",
    "date": null,
    "pubdate": "2026-11-18T11:52:06.516843+00:00"
   },
   {
-   "title": "Bruxelles menace Temu d'une nouvelle amende pour non-respect des règles européennes Aujourd'hui 3:36 audio 3 minutes 36",
+   "title": "Bruxelles menace Temu d'une nouvelle amende pour non-respect des règles européennes Pointé du doigt à plusieurs reprises pour avoir mis en vente des produits dangereux ou défectueux, le géant chinois du commerce en ligne risque une nouvelle sanction. La Commission européenne reproche de nouveau à Temu son manque de vigilance quant à la qualité et la sécurité des produits proposés, sur sa plateforme, par certains vendeurs. Aujourd'hui 3:36 audio 3 minutes 36",
    "link": "https://www.franceinfo.fr/replay-radio/le-tour-de-la-question/bruxelles-menace-temu-d-une-nouvelle-amende-pour-non-respect-des-regles-europeennes_8287730.html",
    "summary": "Bruxelles menace Temu d'une nouvelle amende pour non-respect des règles européennes",
    "image": "https://www.franceinfo.fr/pictures/qKZBK0a1YebVoLhbJ54Qibdk0e0/0x312:6000x3687/432x243/filters:format(jpg)/2026/11/18/6afd62e893a09037650089.jpg",
@@ -74,7 +188,7 @@
    "pubdate": "2026-11-18T11:52:06.516843+00:00"
   },
   {
-   "title": "Les démocrates s'imposent en Alaska et obtiennent leur plus large majorité au Sénat depuis seize ans Aujourd'hui",
+   "title": "Les démocrates s'imposent en Alaska et obtiennent leur plus large majorité au Sénat depuis seize ans La victoire de Mary Peltola renforce la vague bleue démocrate aux Etats-Unis lors des élections de mi-mandat, et parachève le camouflet infligé au président Donald Trump. Aujourd'hui",
    "link": "https://www.franceinfo.fr/monde/usa/midterms-2018/les-democrates-s-imposent-en-alaska-et-obtiennent-leur-plus-large-majorite-au-senat-depuis-seize-ans_8287943.html",
    "summary": "Les démocrates s'imposent en Alaska et obtiennent leur plus large majorité au Sénat depuis seize ans",
    "image": "https://www.franceinfo.fr/pictures/yQazKNH_2ZGcDyJ3XPwAlLM6jUE/0x236:4800x2936/432x243/filters:format(jpg)/2026/11/18/6afd67e225dd1229594111.jpg",
@@ -82,7 +196,7 @@
    "pubdate": "2026-11-18T11:52:06.516843+00:00"
   },
   {
-   "title": "De fausses réunions Zoom pour voler des millions : le FBI dévoile une vaste arnaque attribuée à la Corée du Nord Aujourd'hui 2:36 audio 2 minutes 36",
+   "title": "De fausses réunions Zoom pour voler des millions : le FBI dévoile une vaste arnaque attribuée à la Corée du Nord Le FBI affirme avoir démantelé une infrastructure utilisée par des pirates nord-coréens pour dérober des cryptomonnaies. Leur méthode : attirer leurs victimes dans de fausses réunions Zoom ou Teams, en utilisant des vidéos volées pour usurper l'identité de personnes de confiance. Aujourd'hui 2:36 audio 2 minutes 36",
    "link": "https://www.franceinfo.fr/replay-radio/le-monde-et-vous/de-fausses-reunions-zoom-pour-voler-des-millions-le-fbi-devoile-une-vaste-arnaque-attribuee-a-la-coree-du-nord_8266715.html",
    "summary": "De fausses réunions Zoom pour voler des millions : le FBI dévoile une vaste arnaque attribuée à la Corée du Nord",
    "image": "https://www.franceinfo.fr/pictures/e86LsM_RRisDOOA5Kdo5MkAfex8/0x0:4256x2393/432x243/filters:format(jpg)/2025/12/11/080-hl-mthomasset-2978225-693b372d4e08b534821988.jpg",
@@ -90,26 +204,10 @@
    "pubdate": "2026-11-18T11:52:06.516843+00:00"
   },
   {
-   "title": "Vladimir Poutine reçu par Xi Jinping avant un sommet historique avec Donald Trump Aujourd'hui 1:07 vidéo 1 minute 7",
-   "link": "https://www.franceinfo.fr/monde/vladimir-poutine-recu-par-xi-jinping-avant-un-sommet-historique-avec-donald-trump_8287814.html",
-   "summary": "Vladimir Poutine reçu par Xi Jinping avant un sommet historique avec Donald Trump",
-   "image": "https://www.franceinfo.fr/pictures/4ftburxztTupEnfeOLKsvJ4qULI/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/18/6afd5b6856b17954429634.png",
-   "date": null,
-   "pubdate": "2026-11-18T11:52:06.516843+00:00"
-  },
-  {
-   "title": ": Podcast Terminé le 3 fois sans frais, GTA avant tout le monde et soldats français en Ukraine : ça dit quoi ce 18 novembre ? Aujourd'hui : Podcast 5:48 audio 5 minutes 48",
+   "title": ": Podcast Terminé le 3 fois sans frais, GTA avant tout le monde et soldats français en Ukraine : ça dit quoi ce 18 novembre ? Ce mercredi 18 novembre, les paiements fractionnés seront bientôt considérés comme des prêts à la consommation, des astuces émergent pour jouer à GTA plusieurs heures avant la sortie officielle et la Russie n'a pas aimé apprendre la présence de soldats français en Ukraine. Aujourd'hui : Podcast 5:48 audio 5 minutes 48",
    "link": "https://www.franceinfo.fr/replay-radio/ca-dit-quoi/podcast-termine-le-3-fois-sans-frais-gta-avant-tout-le-monde-et-soldats-francais-en-ukraine-ca-dit-quoi-ce-18-novembre_8278361.html",
    "summary": "Terminé le 3 fois sans frais, GTA avant tout le monde et soldats français en Ukraine : ça dit quoi ce 18 novembre ?",
    "image": "https://www.franceinfo.fr/pictures/dwD_zxzcAmkBf-K34b_0PDtxmww/432x243/filters:format(jpg)/2026/11/18/6afd05e79d62e818366781.jpg",
-   "date": null,
-   "pubdate": "2026-11-18T11:52:06.516843+00:00"
-  },
-  {
-   "title": ": Reportage \"Ce soir, on est en mission pour qu'ils passent une mauvaise nuit\" : en immersion avec une brigade de dronistes ukrainiens qui vise les raffineries russes : Reportage 4:55 audio 4 minutes 55",
-   "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-couper-le-robinet-de-petrole-russe-en-mission-avec-les-oiseaux-de-madyar-la-brigade-de-dronistes-ukrainiens-la-plus-pourchassee-par-les-russes_8255023.html",
-   "summary": "\"Ce soir, on est en mission pour qu'ils passent une mauvaise nuit\" : en immersion avec une brigade de dronistes ukrainiens qui vise les raffineries russes",
-   "image": "https://www.franceinfo.fr/pictures/ccQT4F940EBl9FupZfobrD39RI8/0x150:1600x1050/432x243/filters:format(jpg)/2026/11/09/6af22c0dbfe8f915408614.jpg",
    "date": null,
    "pubdate": "2026-11-18T11:52:06.516843+00:00"
   },
@@ -138,15 +236,7 @@
    "pubdate": "2026-11-18T11:52:06.516843+00:00"
   },
   {
-   "title": "La fin de 10 ans de post vérité ? Après les revers électoraux des républicains aux élections de mi-mandat, plusieurs figures de la complosphère américaine prennent leurs distances avec Donald Trump. Dix ans après le début de son premier mandat à la présidence des Etats-Unis, la séquence marque-t-elle la fin d’un cycle, celui de la post-vérité ? Décryptage dans le 117e numéro de Complorama. 17 novembre 1:47 vidéo 1 minute 47",
-   "link": "https://www.franceinfo.fr/replay-radio/complorama/la-fin-de-10-ans-de-post-verite_8286962.html",
-   "summary": "Après les revers électoraux des républicains aux élections de mi-mandat, plusieurs figures de la complosphère américaine prennent leurs distances avec Donald Trump. Dix ans après le début de son premier mandat à la présidence des Etats-Unis, la séquence marque-t-elle la fin d’un cycle, celui de la post-vérité ? Décryptage dans le 117e numéro de Complorama.",
-   "image": "https://www.franceinfo.fr/pictures/LgPcrnJh8iPMwgbbaOTYg-6wr6Y/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/17/6afc93760befb493712060.jpg",
-   "date": null,
-   "pubdate": "2026-11-18T11:52:06.516843+00:00"
-  },
-  {
-   "title": "Les informés du matin du mercredi 18 novembre 2026 Aujourd'hui 22:06 audio 22 minutes 6",
+   "title": "Les informés du matin du mercredi 18 novembre 2026 Les informés débattent de l'actualité autour d'Agathe Lambret et Renaud Dély. Aujourd'hui 22:06 audio 22 minutes 6",
    "link": "https://www.franceinfo.fr/replay-radio/les-informes-du-matin/les-informes-du-matin-du-mercredi-18-novembre-2026_8266724.html",
    "summary": "Les informés du matin du mercredi 18 novembre 2026",
    "image": "https://www.franceinfo.fr/pictures/TKWb09bmk3TJazMzKgqtt36pV4Q/0x292:5616x3451/432x243/filters:format(jpg)/2026/07/08/6a4e52a5b634b233317025.jpg",
@@ -184,78 +274,6 @@
    "image": "https://www.franceinfo.fr/pictures/1mjbL6KrEfhdf8kkM-fiwv8Aqs4/432x297/filters:format(jpg)/2026/03/01/075-nikoubazl-mourning260301-npgop-69a44a7350cd8738092334.jpg",
    "date": null,
    "pubdate": "2026-11-18T00:59:52.808337+00:00"
-  },
-  {
-   "title": "En Turquie, la police organise une descente dans une chaîne de télévision d'opposition et procède à des arrestations Cette opération au siège de Sözcü TV et de son groupe intervient un mois après la prise de contrôle par les autorités de la chaîne d'information la plus regardée du pays, Halk TV. 17 novembre",
-   "link": "https://www.franceinfo.fr/monde/turquie/en-turquie-la-police-organise-une-descente-dans-une-chaine-de-television-d-opposition-et-procede-a-des-arrestations_8287241.html",
-   "summary": "En Turquie, la police organise une descente dans une chaîne de télévision d'opposition et procède à des arrestations",
-   "image": "https://www.franceinfo.fr/pictures/waPWPhVYGHtZwiS6XhvQgWrnIe4/0x60:1024x636/432x243/filters:format(jpg)/2026/11/17/6afcd95d05e4e145939880.jpg",
-   "date": null,
-   "pubdate": "2026-11-18T00:59:52.808337+00:00"
-  },
-  {
-   "title": "Des systèmes internes de la NSA, l'agence américaine de renseignement, \"affectés\" durant une opération de maintenance La NSA a expliqué que ses services ont connu \"une dégradation temporaire pendant une opération de maintenance de routine programmée\" dans un communiqué transmis à l'AFP. 17 novembre",
-   "link": "https://www.franceinfo.fr/monde/usa/des-systemes-internes-de-la-nsa-l-agence-americaine-de-renseignement-affectes-durant-une-operation-de-maintenance_8287238.html",
-   "summary": "Des systèmes internes de la NSA, l'agence américaine de renseignement, \"affectés\" durant une opération de maintenance",
-   "image": "https://www.franceinfo.fr/pictures/XZJUIilKoz5lOHs0tog97_aLDsc/0x25:1024x601/432x243/filters:format(jpg)/2026/11/17/6afcd3647a15e511570690.jpg",
-   "date": null,
-   "pubdate": "2026-11-18T00:59:52.808337+00:00"
-  },
-  {
-   "title": "Matan Kahana, fidèle de Gadi Eisenkot, élu président du Parlement en Israël, un coup dur pour Benyamin Nétanyahou Cet ancien membre des forces spéciales israéliennes, âgé de 54 ans, a été élu après avoir reçu le soutien de 66 des 120 députés de la Knesset. 17 novembre",
-   "link": "https://www.franceinfo.fr/monde/israel/elections-legislatives-en-israel/matan-kahana-un-fidele-de-gadi-eisenkot-elu-president-du-parlement-en-israel-coup-dur-pour-benyamin-netanyahou_8287226.html",
-   "summary": "Matan Kahana, fidèle de Gadi Eisenkot, élu président du Parlement en Israël, un coup dur pour Benyamin Nétanyahou",
-   "image": "https://www.franceinfo.fr/pictures/DFCK2zcQRTqtozOC4HSfCfATpGo/0x0:1024x576/432x243/filters:format(jpg)/2026/11/17/6afcd137db49a413004413.jpg",
-   "date": null,
-   "pubdate": "2026-11-18T00:59:52.808337+00:00"
-  },
-  {
-   "title": "Un avion de transport militaire russe s'est écrasé en Sibérie, faisant 19 morts L'appareil, qui effectuait \"un vol régulier\", s'est crashé dans \"une zone inhabitée\" dans la région de Kemerovo, selon le ministère de la Défense russe. 17 novembre",
-   "link": "https://www.franceinfo.fr/monde/russie/un-avion-de-transport-militaire-s-est-ecrase-en-siberie-faisant-19-morts_8287073.html",
-   "summary": "Un avion de transport militaire russe s'est écrasé en Sibérie, faisant 19 morts",
-   "image": "https://www.franceinfo.fr/pictures/dZ0MpD7fTNUQXdWQVWjTH_NAcSE/0x53:1024x629/432x243/filters:format(jpg)/2026/11/17/6afcae1120a95472014880.jpg",
-   "date": null,
-   "pubdate": "2026-11-18T00:59:52.808337+00:00"
-  },
-  {
-   "title": "Les Etats-Unis perdent leur statut de pays ayant éliminé la rougeole, à l'instar du Mexique et de la Bolivie Le gouvernement de Donald Trump est accusé d'avoir largement contribué à cette crise sanitaire, du fait de ses coupes dans les budgets de santé et de ses discours antivaccins. 17 novembre",
-   "link": "https://www.franceinfo.fr/sante/les-etats-unis-perdent-leur-statut-de-pays-ayant-elimine-la-rougeole-a-l-instar-du-mexique-et-de-la-bolivie_8286896.html",
-   "summary": "Les Etats-Unis perdent leur statut de pays ayant éliminé la rougeole, à l'instar du Mexique et de la Bolivie",
-   "image": "https://www.franceinfo.fr/pictures/kTfXsiBwT7fjzNWmLUpwlFaJJYo/0x0:1024x576/432x243/filters:format(jpg)/2026/11/17/6afc8c2fd7006303369901.jpg",
-   "date": null,
-   "pubdate": "2026-11-18T00:59:52.808337+00:00"
-  },
-  {
-   "title": ": Reportage \"Ça facilite grandement le travail de nos soldats\" : les robots de combat ukrainiens deviennent incontournables sur le front et permettent de reprendre du terrain aux Russes : Reportage 3:00 article 3 minutes",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/reportage-ca-facilite-grandement-le-travail-de-nos-soldats-les-robots-de-combat-ukrainiens-deviennent-incontournables-sur-le-front-et-permettent-de-reprendre-du-terrain-aux-russes_8284292.html",
-   "summary": "\"Ça facilite grandement le travail de nos soldats\" : les robots de combat ukrainiens deviennent incontournables sur le front et permettent de reprendre du terrain aux Russes",
-   "image": "https://www.franceinfo.fr/pictures/JAwCDnFb5QmRIAw7_8lDXZHiNKY/0x194:1920x1274/432x243/filters:format(jpg)/2026/11/16/6afa9f046fea1146091106.png",
-   "date": null,
-   "pubdate": "2026-11-16T06:42:11.669259+00:00"
-  },
-  {
-   "title": ": Reportage \"Des étincelles tombaient du ciel comme de la pluie\" : autour d'Antalya, la ville turque hôte de la COP31, la population éprouvée par les incendies à répétition : Reportage 5:00 article 5 minutes",
-   "link": "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/reportage-des-etincelles-tombaient-du-ciel-comme-de-la-pluie-la-cop31-a-l-epreuve-des-incendies-a-repetition-dans-la-region-d-antalya_8276642.html",
-   "summary": "\"Des étincelles tombaient du ciel comme de la pluie\" : autour d'Antalya, la ville turque hôte de la COP31, la population éprouvée par les incendies à répétition",
-   "image": "https://www.franceinfo.fr/pictures/ablMjM9PiVaRi25Cc_RNQ8TOFmE/0x700:6720x4480/432x243/filters:format(jpg)/2026/11/10/6af34c16a031a270730326.jpg",
-   "date": null,
-   "pubdate": "2026-11-16T06:42:11.669259+00:00"
-  },
-  {
-   "title": "\"Déjà 12 ou 13 personnes dans le village ont été tuées\" : en Inde, les tensions territoriales entre habitants et éléphants sauvages font des centaines de morts chaque année 6:21 vidéo 6 minutes 21",
-   "link": "https://www.franceinfo.fr/environnement/biodiversite/animaux/deja-12-ou-13-personnes-dans-le-village-qui-ont-ete-tuees-en-inde-les-tensions-territoriales-entre-habitants-et-elephants-sauvages-font-des-centaines-de-morts-chaque-annee_8280089.html",
-   "summary": "\"Déjà 12 ou 13 personnes dans le village ont été tuées\" : en Inde, les tensions territoriales entre habitants et éléphants sauvages font des centaines de morts chaque année",
-   "image": "https://www.franceinfo.fr/pictures/ciAD_XHXWtfFpmhEWMsfEI-RlpY/0x22:1116x650/432x243/filters:format(jpg)/2026/11/12/6af6341c8db2f361371949.jpg",
-   "date": null,
-   "pubdate": "2026-11-15T16:25:12.506035+00:00"
-  },
-  {
-   "title": "Serbie : la liste étudiante entre au Parlement Les 140 nouveaux députés serbes de la liste étudiante, élus le 25 octobre 2026, ont finalement pris place à l'Assemblée du pays ce matin. Ils ont repris la majorité absolue à la liste de l'ancien Président nationaliste, Aleksandar Vucic. Les étudiants serbes étaient nombreux à réagir avec émotions. 17 novembre 1:57 vidéo 1 minute 57",
-   "link": "https://www.franceinfo.fr/monde/serbie-la-liste-etudiante-entre-au-parlement_8286926.html",
-   "summary": "Serbie : la liste étudiante entre au Parlement",
-   "image": "https://www.franceinfo.fr/pictures/Z31-v01_DuvQg9Djtan5BPrSwM0/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/17/6afc8dd35a5a4060118908.jpg",
-   "date": "2026-10-25T11:00:00+00:00",
-   "pubdate": "2026-10-25T11:00:00+00:00"
   }
  ]
 }
