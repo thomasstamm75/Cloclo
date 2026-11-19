@@ -1,8 +1,7 @@
 {
- "etag": "\"68ddb5c16ba861c142b3edacbdc3afc3-gzip\"",
+ "etag": "\"b4a749880745179688b6fa4bcc875f47-gzip\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-l-ascenseur-social-est-un-peu-en-panne-trouver-un-stage-de-seconde-ou-de-3e-est-encore-complique-pour-les-adolescents-les-moins-favorises_8263367.html": "2026-11-16T06:42:07.274993+00:00",
   "https://www.franceinfo.fr/faits-divers/incendie/on-comprend-qu-on-n-a-vraiment-plus-rien-qu-il-faut-recommencer-a-zero-ils-ont-vu-leur-maison-bruler-et-tentent-de-se-relever_8287193.html": "2026-11-18T00:59:45.438136+00:00",
   "https://www.franceinfo.fr/societe/manifestation-des-policiers/des-dizaines-de-policiers-manifestent-devant-le-ministere-de-l-interieur-lors-d-une-action-surprise_8288123.html": "2026-11-18T11:52:01.501886+00:00",
   "https://www.franceinfo.fr/societe/justice/les-avocats-de-la-france-insoumise-annoncent-saisir-le-conseil-d-etat-dans-l-affaire-des-ingerences-etrangeres-aux-elections-municipales-a-toulouse_8288102.html": "2026-11-18T11:52:01.501886+00:00",
@@ -11,12 +10,9 @@
   "https://www.franceinfo.fr/societe/racisme/le-colloque-sur-la-negrophobie-a-l-assemblee-est-un-debat-necessaire-pour-faire-bouger-les-lignes-assure-un-depute-de-guyane_8287850.html": "2026-11-18T11:52:01.501886+00:00",
   "https://www.franceinfo.fr/societe/justice/des-avocats-portent-plainte-contre-laurent-nunez-pour-diffusion-presumee-de-fausses-nouvelles-concernant-les-policiers-blesses-en-marge-des-manifestations_8287880.html": "2026-11-18T11:52:01.501886+00:00",
   "https://www.franceinfo.fr/societe/education/blocage-des-lycees/reportage-on-est-juste-la-et-on-subit-dans-les-etablissements-bloques-la-crainte-de-decrochage-de-certains-etudiants_8287778.html": "2026-11-18T11:52:01.501886+00:00",
-  "https://www.franceinfo.fr/societe/education/scolarite/guide-parents/college/une-baisse-en-francais-un-niveau-stable-en-mathematiques-quelles-sont-les-conclusions-des-evaluations-nationales-pour-les-eleves_8286749.html": "2026-11-18T11:52:01.501886+00:00",
-  "https://www.franceinfo.fr/societe/antisemitisme/une-ecole-de-bergerac-en-dordogne-a-pris-le-nom-d-irene-sapir-ex-elue-communiste-victime-de-la-rafle-du-vel-d-hiv_8287793.html": "2026-11-18T11:52:01.501886+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/temoignage-des-qu-il-y-a-un-nouveau-telephone-tout-le-monde-fait-un-credit-comment-le-surendettement-explose-chez-les-moins-de-30-ans_8266763.html": "2026-11-18T11:52:01.501886+00:00",
   "https://www.franceinfo.fr/societe/nos-jours-heureux/": "2026-11-18T11:52:01.501886+00:00",
   "https://www.franceinfo.fr/societe/euthanasie/comprendre-les-debats-sur-la-fin-de-vie/": "2026-11-18T11:52:01.501886+00:00",
-  "https://www.franceinfo.fr/societe/education/la-federation-nationale-des-sourds-de-france-denonce-les-discriminations-systemiques-qui-touchent-les-eleves-dans-l-enseignement-de-la-langue-des-signes_8287769.html": "2026-11-18T11:52:01.501886+00:00",
   "https://www.franceinfo.fr/societe/justice/des-escroqueries-de-haute-intensite-quasiment-du-grand-banditisme-le-profil-atypique-d-un-suspect-de-l-enquete-sur-les-pillages-du-17-octobre_8288918.html": "2026-11-18T20:38:26.442026+00:00",
   "https://www.franceinfo.fr/faits-divers/police/violences-policieres/presomption-de-legitime-defense-pour-les-forces-de-l-ordre-ce-que-j-ai-vecu-fait-que-cette-loi-me-fait-extremement-peur-temoigne-le-producteur-michel-zecler-qui-se-dit-horrifie_8288912.html": "2026-11-18T20:38:26.442026+00:00",
   "https://www.franceinfo.fr/vrai-ou-fake/mobilisation-lyceenne-40-membres-de-l-education-nationale-ont-ils-ete-complices-de-violences-commises-comme-l-avance-sebastien-lecornu_8288870.html": "2026-11-18T20:38:26.442026+00:00",
@@ -24,29 +20,81 @@
   "https://www.franceinfo.fr/societe/violences-faites-aux-femmes/un-homme-de-18-ans-retrouve-mort-en-seine-et-marne-apres-avoir-indique-ou-se-situe-le-corps-d-une-jeune-femme_8288669.html": "2026-11-18T20:38:26.442026+00:00",
   "https://www.franceinfo.fr/societe/harcelement-sexuel/un-proces-requis-a-l-encontre-du-comedien-philippe-caubere-pour-viols-et-agressions-sexuelles-aggraves-proxenetisme-et-corruption-de-mineure_8288639.html": "2026-11-18T20:38:26.442026+00:00",
   "https://www.franceinfo.fr/societe/education/le-defenseur-des-droits-note-une-deshumanisation-des-liens-entre-les-eleves-et-l-institution-scolaire_8288624.html": "2026-11-18T20:38:26.442026+00:00",
-  "https://www.franceinfo.fr/faits-divers/un-micro-pour-espionner-l-enseignante-de-son-fils_8288603.html": "2026-11-18T20:38:26.442026+00:00",
   "https://www.franceinfo.fr/societe/education/blocage-des-lycees/huit-lyceens-a-saint-cloud-dans-les-hauts-de-seine-pris-en-charge-par-les-pompiers-apres-des-tirs-de-mortiers-d-artifice-dans-leur-lycee_8288516.html": "2026-11-18T20:38:26.442026+00:00",
-  "https://www.franceinfo.fr/replay-jt/france-2/13-heures/cela-vaut-mille-legions-d-honneur-une-ecole-prend-le-nom-d-une-rescapee-du-vel-d-hiv_8288483.html": "2026-11-18T20:38:26.442026+00:00",
   "https://www.franceinfo.fr/societe/armee-securite-defense/la-securite-en-tete-des-preoccupations-des-maires-de-petites-villes_8288330.html": "2026-11-18T20:38:26.442026+00:00",
   "https://www.franceinfo.fr/societe/education/les-parents-d-eleves-vont-recevoir-douze-fiches-du-ministere-de-l-education-nationale-pour-mieux-accompagner-leurs-enfants-dans-leur-scolarite_8288312.html": "2026-11-18T20:38:26.442026+00:00",
   "https://www.franceinfo.fr/societe/education/blocage-des-lycees/quelque-3-000-eleves-sont-passes-en-conseil-de-discipline-entre-septembre-et-debut-novembre-du-fait-de-violences-lors-de-la-mobilisation-lyceenne_8288273.html": "2026-11-18T20:38:26.442026+00:00",
   "https://www.franceinfo.fr/replay-radio/histoire-du-jour/irene-sapir-rescapee-de-la-shoah-et-passeuse-de-memoire-donne-son-nom-a-une-ecole-primaire-de-bergerac_8287697.html": "2026-11-18T20:38:26.442026+00:00",
-  "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/si-des-failles-sont-constituees-on-l-enoncera-clairement-106-saisines-recues-par-le-defenseur-des-droits-depuis-les-mobilisations-sociales-en-septembre_8288195.html": "2026-11-18T20:38:26.442026+00:00"
+  "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/si-des-failles-sont-constituees-on-l-enoncera-clairement-106-saisines-recues-par-le-defenseur-des-droits-depuis-les-mobilisations-sociales-en-septembre_8288195.html": "2026-11-18T20:38:26.442026+00:00",
+  "https://www.franceinfo.fr/monde/proche-orient/offensive-jihadiste-en-irak/trois-revenantes-francaises-condamnees-a-des-peines-de-cinq-a-douze-ans-de-prison-pour-avoir-rejoint-l-organisation-etat-islamique-en-syrie_8289047.html": "2026-11-19T02:37:23.135880+00:00",
+  "https://www.franceinfo.fr/monde/coree-du-sud/en-coree-du-sud-la-triche-d-un-etudiant-a-ses-examens-declenche-une-traque-nationale-pour-l-equivalent-du-bac_8289002.html": "2026-11-19T02:37:23.135880+00:00",
+  "https://www.franceinfo.fr/societe/violences-faites-aux-femmes/un-garagiste-mis-en-examen-et-ecroue-pour-feminicide-en-seine-saint-denis_8288963.html": "2026-11-19T02:37:23.135880+00:00",
+  "https://www.franceinfo.fr/replay-jt/france-2/20-heures/incendie-de-la-mairie-de-limoges-la-videosurveillance-relance-l-enquete_8288966.html": "2026-11-19T02:37:23.135880+00:00",
+  "https://www.franceinfo.fr/societe/antisemitisme/seine-saint-denis-une-assistante-de-direction-d-un-lycee-de-rosny-sous-bois-porte-plainte-apres-la-decouverte-d-un-tag-la-menacant-au-sein-de-l-etablissement_8288978.html": "2026-11-19T02:37:23.135880+00:00",
+  "https://www.franceinfo.fr/societe/manifestations/interdictions-de-manifestations-couvre-feux-parcours-hors-des-centres-villes-comment-les-prefets-multiplient-les-mesures-administratives-en-amont-des-mobilisations_8274263.html": "2026-11-19T02:37:23.135880+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "\"Des escroqueries de haute intensité, quasiment du grand banditisme\" : le profil atypique d'un suspect de l'enquête sur les pillages du 17 octobre Un mois après les pillages du 17 octobre à Paris, que sont devenus les objets volés ? Les enquêteurs ont retrouvé la trace de plusieurs sacs de luxe sur Vinted. La piste les a menés jusqu'à Villejuif, dans le Val-de-Marne. Un étudiant de 21 ans est soupçonné d'avoir revendu au moins six des sacs. Il conteste les faits, mais a été mis en examen et placé en détention provisoire. Aujourd'hui 2:03 vidéo 2 minutes 3",
+   "title": "Trois \"revenantes\" françaises condamnées à des peines de cinq à douze ans de prison pour avoir rejoint l'organisation Etat islamique en Syrie Deux ex-épouses d'Adrien Guihal, haut cadre de l'EI qui avait revendiqué en 2016 les attentats de Nice et de Magnanville, ont notamment été condamnées par la cour d'assises spéciale de Paris. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/proche-orient/offensive-jihadiste-en-irak/trois-revenantes-francaises-condamnees-a-des-peines-de-cinq-a-douze-ans-de-prison-pour-avoir-rejoint-l-organisation-etat-islamique-en-syrie_8289047.html",
+   "summary": "Trois \"revenantes\" françaises condamnées à des peines de cinq à douze ans de prison pour avoir rejoint l'organisation Etat islamique en Syrie",
+   "image": "https://www.franceinfo.fr/pictures/c6MC95kvjzlRd50eADYQfOEoigo/15x0:1008x683/432x297/filters:format(jpg)/2026/11/18/6afe2a92568b0220860319.jpg",
+   "date": null,
+   "pubdate": "2026-11-19T02:37:23.135880+00:00"
+  },
+  {
+   "title": "En Corée du Sud, la triche d'un étudiant à ses examens déclenche une traque nationale pour l'équivalent du bac Aujourd'hui 2:00 vidéo 2 minutes",
+   "link": "https://www.franceinfo.fr/monde/coree-du-sud/en-coree-du-sud-la-triche-d-un-etudiant-a-ses-examens-declenche-une-traque-nationale-pour-l-equivalent-du-bac_8289002.html",
+   "summary": "En Corée du Sud, la triche d'un étudiant à ses examens déclenche une traque nationale pour l'équivalent du bac",
+   "image": "https://www.franceinfo.fr/pictures/7mtkUIWf2RsBxedbWRsYYNmAf-0/49x0:796x420/432x243/filters:format(jpg)/2026/11/18/6afe19b14219e857790485.jpg",
+   "date": null,
+   "pubdate": "2026-11-19T02:37:23.135880+00:00"
+  },
+  {
+   "title": "Un garagiste mis en examen et écroué pour féminicide en Seine-Saint-Denis Aujourd'hui",
+   "link": "https://www.franceinfo.fr/societe/violences-faites-aux-femmes/un-garagiste-mis-en-examen-et-ecroue-pour-feminicide-en-seine-saint-denis_8288963.html",
+   "summary": "Un garagiste mis en examen et écroué pour féminicide en Seine-Saint-Denis",
+   "image": "https://www.franceinfo.fr/pictures/PasmMHWs4bJ3TpSi6BDbS-wkFEo/0x53:1024x629/432x243/filters:format(jpg)/2026/11/18/6afe140abd861038622527.jpg",
+   "date": null,
+   "pubdate": "2026-11-19T02:37:23.135880+00:00"
+  },
+  {
+   "title": "Incendie de la mairie de Limoges : la vidéosurveillance relance l'enquête Aujourd'hui 2:01 vidéo 2 minutes 1",
+   "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/incendie-de-la-mairie-de-limoges-la-videosurveillance-relance-l-enquete_8288966.html",
+   "summary": "Incendie de la mairie de Limoges : la vidéosurveillance relance l'enquête",
+   "image": "https://www.franceinfo.fr/pictures/ggYycZQU3D2AFvftRnuhGQVGsyk/105x0:1209x621/432x243/filters:format(jpg)/2026/11/18/6afe0f9f25304069317113.png",
+   "date": null,
+   "pubdate": "2026-11-19T02:37:23.135880+00:00"
+  },
+  {
+   "title": "Une assistante de direction d'un lycée de Rosny-Sous-Bois porte plainte après la découverte d'un tag la menaçant au sein de l'établissement Aujourd'hui",
+   "link": "https://www.franceinfo.fr/societe/antisemitisme/seine-saint-denis-une-assistante-de-direction-d-un-lycee-de-rosny-sous-bois-porte-plainte-apres-la-decouverte-d-un-tag-la-menacant-au-sein-de-l-etablissement_8288978.html",
+   "summary": "Une assistante de direction d'un lycée de Rosny-Sous-Bois porte plainte après la découverte d'un tag la menaçant au sein de l'établissement",
+   "image": "https://www.franceinfo.fr/pictures/j1af88AXys2048YY_DPSNVRdgq4/432x243/filters:format(jpg)/2026/10/08/6ac70eb8c48cd822547657.jpg",
+   "date": null,
+   "pubdate": "2026-11-19T02:37:23.135880+00:00"
+  },
+  {
+   "title": "Interdictions de manifestations, couvre-feux, parcours hors des centres-villes… Comment les préfets multiplient les mesures administratives en amont des mobilisations 7:00 article 7 minutes",
+   "link": "https://www.franceinfo.fr/societe/manifestations/interdictions-de-manifestations-couvre-feux-parcours-hors-des-centres-villes-comment-les-prefets-multiplient-les-mesures-administratives-en-amont-des-mobilisations_8274263.html",
+   "summary": "Interdictions de manifestations, couvre-feux, parcours hors des centres-villes… Comment les préfets multiplient les mesures administratives en amont des mobilisations",
+   "image": "https://www.franceinfo.fr/pictures/-TvsmB4XeLJ_KtApHrJmrHwpc_A/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/13/6af6cbdbef77c753960787.png",
+   "date": null,
+   "pubdate": "2026-11-19T02:37:23.135880+00:00"
+  },
+  {
+   "title": "\"Des escroqueries de haute intensité, quasiment du grand banditisme\" : le profil atypique d'un suspect de l'enquête sur les pillages du 17 octobre Aujourd'hui 2:03 vidéo 2 minutes 3",
    "link": "https://www.franceinfo.fr/societe/justice/des-escroqueries-de-haute-intensite-quasiment-du-grand-banditisme-le-profil-atypique-d-un-suspect-de-l-enquete-sur-les-pillages-du-17-octobre_8288918.html",
    "summary": "\"Des escroqueries de haute intensité, quasiment du grand banditisme\" : le profil atypique d'un suspect de l'enquête sur les pillages du 17 octobre",
-   "image": "https://www.franceinfo.fr/pictures/Xw941GFofJEg93_bVzGdw6aiH5E/181x0:972x544/432x297/filters:format(jpg)/2026/11/18/6afe041b338f4851021202.jpg",
+   "image": "https://www.franceinfo.fr/pictures/QXv4VFF0pXlFTpcIbPKTVPdPhow/93x0:1060x544/432x243/filters:format(jpg)/2026/11/18/6afe041b338f4851021202.jpg",
    "date": null,
    "pubdate": "2026-11-18T20:38:26.442026+00:00"
   },
   {
-   "title": "Présomption de légitime défense pour les forces de l'ordre : \"Ce que j'ai vécu fait que cette loi me fait extrêmement peur\", témoigne le producteur Michel Zecler qui se dit \"horrifié\" Aujourd'hui",
+   "title": "Présomption de légitime défense pour les forces de l'ordre : \"Ce que j'ai vécu fait que cette loi me fait extrêmement peur\", témoigne le producteur Michel Zecler Aujourd'hui",
    "link": "https://www.franceinfo.fr/faits-divers/police/violences-policieres/presomption-de-legitime-defense-pour-les-forces-de-l-ordre-ce-que-j-ai-vecu-fait-que-cette-loi-me-fait-extremement-peur-temoigne-le-producteur-michel-zecler-qui-se-dit-horrifie_8288912.html",
-   "summary": "Présomption de légitime défense pour les forces de l'ordre : \"Ce que j'ai vécu fait que cette loi me fait extrêmement peur\", témoigne le producteur Michel Zecler qui se dit \"horrifié\"",
+   "summary": "Présomption de légitime défense pour les forces de l'ordre : \"Ce que j'ai vécu fait que cette loi me fait extrêmement peur\", témoigne le producteur Michel Zecler",
    "image": "https://www.franceinfo.fr/pictures/bIVebiArpOdSphClhk5JcJk-52o/432x243/filters:format(jpg)/2026/11/13/6af68b6023ba6800821555.jpg",
    "date": null,
    "pubdate": "2026-11-18T20:38:26.442026+00:00"
@@ -76,7 +124,7 @@
    "pubdate": "2026-11-18T20:38:26.442026+00:00"
   },
   {
-   "title": "Un procès requis à l'encontre du comédien Philippe Caubère pour viols et agressions sexuelles aggravés, proxénétisme et corruption de mineure Aujourd'hui",
+   "title": "Un procès requis à l'encontre du comédien Philippe Caubère pour viols et agressions sexuelles aggravés, proxénétisme et corruption de mineure L'une de ses victimes, Agathe Pujol, avait raconté que le comédien l'avait \"faite violer\" pendant des années, en postant des annonces sur des sites internet pour des rencontres tarifées. Aujourd'hui",
    "link": "https://www.franceinfo.fr/societe/harcelement-sexuel/un-proces-requis-a-l-encontre-du-comedien-philippe-caubere-pour-viols-et-agressions-sexuelles-aggraves-proxenetisme-et-corruption-de-mineure_8288639.html",
    "summary": "Un procès requis à l'encontre du comédien Philippe Caubère pour viols et agressions sexuelles aggravés, proxénétisme et corruption de mineure",
    "image": "https://www.franceinfo.fr/pictures/_9yjradvYpaEgnW8V_A_DJ7nqGo/0x360:6490x4011/432x243/filters:format(jpg)/2026/11/18/6afdd398a3b66188298496.jpg",
@@ -84,7 +132,7 @@
    "pubdate": "2026-11-18T20:38:26.442026+00:00"
   },
   {
-   "title": "Le Défenseur des droits note une déshumanisation des liens entre les élèves et l'institution scolaire Aujourd'hui",
+   "title": "Le Défenseur des droits note une déshumanisation des liens entre les élèves et l'institution scolaire Dans un rapport mercredi, François-Noël Buffet évoque une orientation des élèves \"profondément transformée par le recours à des outils algorithmiques\" pour les candidatures. Aujourd'hui",
    "link": "https://www.franceinfo.fr/societe/education/le-defenseur-des-droits-note-une-deshumanisation-des-liens-entre-les-eleves-et-l-institution-scolaire_8288624.html",
    "summary": "Le Défenseur des droits note une déshumanisation des liens entre les élèves et l'institution scolaire",
    "image": "https://www.franceinfo.fr/pictures/jL0DMEJGmkGv8lm0ik6yDZWrugo/0x0:1024x576/432x243/filters:format(jpg)/2026/11/18/6afdd16a2fbbb452719060.jpg",
@@ -92,26 +140,10 @@
    "pubdate": "2026-11-18T20:38:26.442026+00:00"
   },
   {
-   "title": "Un micro pour espionner l'enseignante de son fils Aujourd'hui 2:07 vidéo 2 minutes 7",
-   "link": "https://www.franceinfo.fr/faits-divers/un-micro-pour-espionner-l-enseignante-de-son-fils_8288603.html",
-   "summary": "Un micro pour espionner l'enseignante de son fils",
-   "image": "https://www.franceinfo.fr/pictures/2BOBjJad000JLEfvr4rz-WJe1V4/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/18/6afdcced74961057199929.jpg",
-   "date": null,
-   "pubdate": "2026-11-18T20:38:26.442026+00:00"
-  },
-  {
-   "title": "Huit lycéens à Saint-Cloud, dans les Hauts-de-Seine, pris en charge par les pompiers après des tirs de mortiers d'artifice dans leur lycée Aujourd'hui",
+   "title": "Huit lycéens blessés à Saint-Cloud après des tirs de mortiers d'artifice dans leur établissement Deux des lycéens ont été conduits à l'hôpital par les pompiers, sans que l'on connaisse la gravité de leurs blessures. Aujourd'hui",
    "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/huit-lyceens-a-saint-cloud-dans-les-hauts-de-seine-pris-en-charge-par-les-pompiers-apres-des-tirs-de-mortiers-d-artifice-dans-leur-lycee_8288516.html",
-   "summary": "Huit lycéens à Saint-Cloud, dans les Hauts-de-Seine, pris en charge par les pompiers après des tirs de mortiers d'artifice dans leur lycée",
+   "summary": "Huit lycéens blessés à Saint-Cloud après des tirs de mortiers d'artifice dans leur établissement",
    "image": "https://www.franceinfo.fr/pictures/lwcq3i_46ddQh7OrRKl4z5fw0e8/0x224:4300x2643/432x243/filters:format(jpg)/2026/11/18/6afdc68cdee10814772955.jpg",
-   "date": null,
-   "pubdate": "2026-11-18T20:38:26.442026+00:00"
-  },
-  {
-   "title": "\"Cela vaut mille Légions d'honneur\" : une école prend le nom d'une rescapée du Vél' d'Hiv Aujourd'hui 2:05 vidéo 2 minutes 5",
-   "link": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/cela-vaut-mille-legions-d-honneur-une-ecole-prend-le-nom-d-une-rescapee-du-vel-d-hiv_8288483.html",
-   "summary": "\"Cela vaut mille Légions d'honneur\" : une école prend le nom d'une rescapée du Vél' d'Hiv",
-   "image": "https://www.franceinfo.fr/pictures/sgjy1XPjGvcIP5dTNjRwO4oanV4/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/18/6afdc4a1da990941056541.jpg",
    "date": null,
    "pubdate": "2026-11-18T20:38:26.442026+00:00"
   },
@@ -236,44 +268,12 @@
    "pubdate": "2026-11-18T11:52:01.501886+00:00"
   },
   {
-   "title": "Une baisse en français, un niveau stable en mathématiques… Quelles sont les conclusions des évaluations nationales pour les élèves ? En classe de quatrième, les scores moyens en français ont chuté de sept points depuis 2023. Aujourd'hui",
-   "link": "https://www.franceinfo.fr/societe/education/scolarite/guide-parents/college/une-baisse-en-francais-un-niveau-stable-en-mathematiques-quelles-sont-les-conclusions-des-evaluations-nationales-pour-les-eleves_8286749.html",
-   "summary": "Une baisse en français, un niveau stable en mathématiques… Quelles sont les conclusions des évaluations nationales pour les élèves ?",
-   "image": "https://www.franceinfo.fr/pictures/PCJtKCkz9Ls1wV9U_0PU9EGuE3A/0x472:6000x3847/432x243/filters:format(jpg)/2026/11/17/6afc874bc5e75278538711.jpg",
-   "date": null,
-   "pubdate": "2026-11-18T11:52:01.501886+00:00"
-  },
-  {
-   "title": "Une école de Bergerac en Dordogne a pris le nom d'Irène Sapir, ex-élue communiste victime de la Rafle du Vel' d'Hiv' Cette reconnaissance est rendue possible par une délibération du maire, malgré l'opposition d'élus du Rassemblement national. Ils invoquaient le militantisme communiste d'Irène Sapir, et son refus de leur serrer la main lors de cérémonies. Aujourd'hui",
-   "link": "https://www.franceinfo.fr/societe/antisemitisme/une-ecole-de-bergerac-en-dordogne-a-pris-le-nom-d-irene-sapir-ex-elue-communiste-victime-de-la-rafle-du-vel-d-hiv_8287793.html",
-   "summary": "Une école de Bergerac en Dordogne a pris le nom d'Irène Sapir, ex-élue communiste victime de la Rafle du Vel' d'Hiv'",
-   "image": "https://www.franceinfo.fr/pictures/8i-1I_dgHAGyxEzIJNu4swB0Zhw/0x2:1200x677/432x243/filters:format(jpg)/2026/11/18/6afd4aa7157ef163787900.jpeg",
-   "date": null,
-   "pubdate": "2026-11-18T11:52:01.501886+00:00"
-  },
-  {
-   "title": "La Fédération nationale des sourds de France dénonce les \"discriminations systémiques\" qui touchent les élèves dans l'enseignement de la langue des signes Louise, 13 ans, subit par exemple une exclusion dans son parcours scolaire. Sourde de naissance, la jeune fille n'a pas de professeur spécialisé, ni d'interprète. \"Je suis une élève comme les autres (...) alors pourquoi je me sens à part ?\", écrit-elle dans une lettre. Aujourd'hui",
-   "link": "https://www.franceinfo.fr/societe/education/la-federation-nationale-des-sourds-de-france-denonce-les-discriminations-systemiques-qui-touchent-les-eleves-dans-l-enseignement-de-la-langue-des-signes_8287769.html",
-   "summary": "La Fédération nationale des sourds de France dénonce les \"discriminations systémiques\" qui touchent les élèves dans l'enseignement de la langue des signes",
-   "image": "https://www.franceinfo.fr/pictures/p1IjY8M-fC4NV9ysOdtXkDEJmiM/0x428:8192x5036/432x243/filters:format(jpg)/2026/11/18/6afd48046cb97851294594.jpg",
-   "date": null,
-   "pubdate": "2026-11-18T11:52:01.501886+00:00"
-  },
-  {
    "title": "\"On comprend qu'on n'a vraiment plus rien, qu'il faut recommencer à zéro\" : ils ont vu leur maison brûler et tentent de se relever 5:32 vidéo 5 minutes 32",
    "link": "https://www.franceinfo.fr/faits-divers/incendie/on-comprend-qu-on-n-a-vraiment-plus-rien-qu-il-faut-recommencer-a-zero-ils-ont-vu-leur-maison-bruler-et-tentent-de-se-relever_8287193.html",
    "summary": "\"On comprend qu'on n'a vraiment plus rien, qu'il faut recommencer à zéro\" : ils ont vu leur maison brûler et tentent de se relever",
    "image": "https://www.franceinfo.fr/pictures/sKWobtY44pcYT93UKpJrPjOg5WU/99x0:1363x711/432x243/filters:format(jpg)/2026/11/17/6afcc4bb0b829632305263.jpg",
    "date": null,
    "pubdate": "2026-11-18T00:59:45.438136+00:00"
-  },
-  {
-   "title": ": Reportage \"L'ascenseur social est un peu en panne\" : trouver un stage dans une grande entreprise est encore compliqué pour les élèves issus de milieux défavorisés : Reportage 5:16 audio 5 minutes 16",
-   "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-l-ascenseur-social-est-un-peu-en-panne-trouver-un-stage-de-seconde-ou-de-3e-est-encore-complique-pour-les-adolescents-les-moins-favorises_8263367.html",
-   "summary": "\"L'ascenseur social est un peu en panne\" : trouver un stage dans une grande entreprise est encore compliqué pour les élèves issus de milieux défavorisés",
-   "image": "https://www.franceinfo.fr/pictures/UpDjrC4y2vG1YYye1cu5K0ZpOcM/0x591:8192x5199/432x243/filters:format(jpg)/2026/11/15/6af9ddad887ff205140763.jpg",
-   "date": null,
-   "pubdate": "2026-11-16T06:42:07.274993+00:00"
   }
  ]
 }

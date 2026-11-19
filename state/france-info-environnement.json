@@ -1,36 +1,63 @@
 {
- "etag": "\"vsarer-gzip\"",
+ "etag": "\"12sx9xv-gzip\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.franceinfo.fr/environnement/biodiversite/animaux/deja-12-ou-13-personnes-dans-le-village-qui-ont-ete-tuees-en-inde-les-tensions-territoriales-entre-habitants-et-elephants-sauvages-font-des-centaines-de-morts-chaque-annee_8280089.html": "2026-11-13T01:53:43.150186+00:00",
-  "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/reportage-des-etincelles-tombaient-du-ciel-comme-de-la-pluie-la-cop31-a-l-epreuve-des-incendies-a-repetition-dans-la-region-d-antalya_8276642.html": "2026-11-16T06:42:08.402892+00:00",
-  "https://www.franceinfo.fr/economie/immobilier/immobilier-indigne/temoignages-il-fait-11-c-chez-moi-cinq-francais-mal-chauffes-proposent-cinq-mesures-pour-lutter-contre-la-precarite-energetique_8278916.html": "2026-11-18T11:52:02.641017+00:00"
+  "https://www.franceinfo.fr/environnement/outils-de-l-ademe/que-faire-de-mes-dechets.html": "2026-11-19T02:37:24.283139+00:00",
+  "https://www.franceinfo.fr/environnement/outils-de-l-ademe/calculateur-empreinte-carbone.html": "2026-11-19T02:37:24.283139+00:00",
+  "https://www.franceinfo.fr/environnement/outils-de-l-ademe/calculer-emissions-co2-de-mes-trajets.html": "2026-11-19T02:37:24.283139+00:00",
+  "https://www.franceinfo.fr/environnement/outils-environnement/simulateur-aides-renovation-energetique": "2026-11-19T02:37:24.283139+00:00",
+  "https://www.franceinfo.fr/environnement/outils-environnement/restrictions-eau/": "2026-11-19T02:37:24.283139+00:00",
+  "https://www.franceinfo.fr/environnement/outils-de-l-ademe/saisons-des-fruits-et-legumes.html": "2026-11-19T02:37:24.283139+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "TEMOIGNAGES. \"Il fait 11°C chez moi\" : cinq Français mal chauffés proposent cinq mesures pour lutter contre la précarité énergétique",
-   "link": "https://www.franceinfo.fr/economie/immobilier/immobilier-indigne/temoignages-il-fait-11-c-chez-moi-cinq-francais-mal-chauffes-proposent-cinq-mesures-pour-lutter-contre-la-precarite-energetique_8278916.html",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/BK-FQMuh3g1I7MuyKAq4R1ghhDQ/496x279/filters:format(webp)/2026/11/17/6afc503b52cf6861011379.jpg",
+   "title": "Comment gérer vos déchets ?",
+   "link": "https://www.franceinfo.fr/environnement/outils-de-l-ademe/que-faire-de-mes-dechets.html",
+   "summary": "Saisissez le type de déchets dont vous voulez vous débarrasser pour découvrir les options de collecte près de chez vous.",
+   "image": "",
    "date": null,
-   "pubdate": "2026-11-18T11:52:02.641017+00:00"
+   "pubdate": "2026-11-19T02:37:24.283139+00:00"
   },
   {
-   "title": "REPORTAGE. \"Des étincelles tombaient du ciel comme de la pluie\" : autour d'Antalya, la ville turque hôte de la COP31, la population éprouvée par les incendies à répétition",
-   "link": "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/reportage-des-etincelles-tombaient-du-ciel-comme-de-la-pluie-la-cop31-a-l-epreuve-des-incendies-a-repetition-dans-la-region-d-antalya_8276642.html",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/V0iFBDsq1_PsFe7tZnnbbWr8D3g/496x279/filters:format(webp)/2026/11/10/6af34c16a031a270730326.jpg",
+   "title": "Quelle est votre empreinte carbone ?",
+   "link": "https://www.franceinfo.fr/environnement/outils-de-l-ademe/calculateur-empreinte-carbone.html",
+   "summary": "Alimentation, logement, déplacements, calculez votre empreinte carbone annuelle.",
+   "image": "",
    "date": null,
-   "pubdate": "2026-11-16T06:42:08.402892+00:00"
+   "pubdate": "2026-11-19T02:37:24.283139+00:00"
   },
   {
-   "title": "\"Déjà 12 ou 13 personnes dans le village ont été tuées\" : en Inde, les tensions territoriales entre habitants et éléphants sauvages font des centaines de morts chaque année",
-   "link": "https://www.franceinfo.fr/environnement/biodiversite/animaux/deja-12-ou-13-personnes-dans-le-village-qui-ont-ete-tuees-en-inde-les-tensions-territoriales-entre-habitants-et-elephants-sauvages-font-des-centaines-de-morts-chaque-annee_8280089.html",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/vlHYhHF0rA1UJio5aYFo-QPhaTE/496x279/filters:format(webp)/2026/11/12/6af6341c8db2f361371949.jpg",
+   "title": "Calculez l’empreinte carbone de vos déplacements",
+   "link": "https://www.franceinfo.fr/environnement/outils-de-l-ademe/calculer-emissions-co2-de-mes-trajets.html",
+   "summary": "Mesurez l'impact en Co2 de vos trajets que ce soit en voiture, en vélo, ou en transport en commun.",
+   "image": "",
    "date": null,
-   "pubdate": "2026-11-13T01:53:43.150186+00:00"
+   "pubdate": "2026-11-19T02:37:24.283139+00:00"
+  },
+  {
+   "title": "Simulateur d’aide à la rénovation énergétique",
+   "link": "https://www.franceinfo.fr/environnement/outils-environnement/simulateur-aides-renovation-energetique",
+   "summary": "Estimez vos aides pour rénover votre logement",
+   "image": "",
+   "date": null,
+   "pubdate": "2026-11-19T02:37:24.283139+00:00"
+  },
+  {
+   "title": "Êtes-vous concerné par les restrictions d’eau ?",
+   "link": "https://www.franceinfo.fr/environnement/outils-environnement/restrictions-eau/",
+   "summary": "Vérifiez les limitations d’usage de l’eau qui vous concernent en fonction de votre situation.",
+   "image": "",
+   "date": null,
+   "pubdate": "2026-11-19T02:37:24.283139+00:00"
+  },
+  {
+   "title": "Calendrier des fruits et légumes de saison",
+   "link": "https://www.franceinfo.fr/environnement/outils-de-l-ademe/saisons-des-fruits-et-legumes.html",
+   "summary": "Optez pour des produits de saison pour faire des choix plus écologiques, plus savoureux et plus nutritifs.",
+   "image": "",
+   "date": null,
+   "pubdate": "2026-11-19T02:37:24.283139+00:00"
   }
  ]
 }
