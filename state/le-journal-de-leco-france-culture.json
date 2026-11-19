@@ -1,8 +1,7 @@
 {
- "etag": "\"klvy6j\"",
+ "etag": "\"12kkqhk\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/bientot-une-agence-de-notation-africaine-9756036": "2026-10-23T11:46:37.660008+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/donald-trump-n-a-pas-tenu-ses-promesses-sur-le-pouvoir-d-achat-9916072": "2026-10-26T13:13:23.491705+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/etats-unis-de-donald-trump-l-economie-se-porte-bien-mais-les-inegalites-se-creusent-9130920": "2026-10-27T11:00:00+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/droits-de-douane-et-relocalisation-donald-trump-a-t-il-tenu-ses-promesses-1853800": "2026-10-28T13:06:43.111709+00:00",
@@ -19,10 +18,19 @@
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/le-groupe-ubs-menace-de-quitter-la-suisse-face-au-durcissement-des-regles-bancaires-7619418": "2026-11-13T11:09:00.958139+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/la-crise-d-ormuz-a-t-elle-relance-l-exploration-petroliere-a-travers-le-monde-2712121": "2026-11-16T06:43:06.612025+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/guerre-des-puces-la-chine-peut-elle-se-passer-de-nvidia-2157143": "2026-11-17T16:09:19.487338+00:00",
-  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/le-journal-de-l-eco-du-mercredi-18-novembre-2026-5186070": "2026-11-18T11:52:13.962103+00:00"
+  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/le-journal-de-l-eco-du-mercredi-18-novembre-2026-5186070": "2026-11-18T11:52:13.962103+00:00",
+  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/la-rue-belge-se-mobilise-contre-la-vie-chere-4886214": "2026-11-19T11:00:00+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "La rue belge se mobilise contre la vie chère",
+   "link": "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/la-rue-belge-se-mobilise-contre-la-vie-chere-4886214",
+   "summary": "Demain et tout ce week-end, plusieurs mobilisations sont annoncées dans sept pays d’Europe – France, Belgique, Espagne, Portugal, Grèce, Italie et Royaume-Uni – pour protester contre la vie chère. En Belgique, l'inflation est au plus haut.",
+   "image": "https://www.radiofrance.fr/pikapi/images/7fa6ca6f-91af-4403-9ca2-49563d29f2eb/2048",
+   "date": "2026-11-19T11:00:00+00:00",
+   "pubdate": "2026-11-19T11:00:00+00:00"
+  },
   {
    "title": "Les batteries électriques allemandes accroissent la dépendance à la Chine",
    "link": "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/le-journal-de-l-eco-du-mercredi-18-novembre-2026-5186070",
@@ -158,14 +166,6 @@
    "image": "https://www.radiofrance.fr/pikapi/images/97ae5636-eac0-40c6-bdce-e5d0628d8627/2048",
    "date": null,
    "pubdate": "2026-10-26T13:13:23.491705+00:00"
-  },
-  {
-   "title": "Bientôt une agence de notation africaine",
-   "link": "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/bientot-une-agence-de-notation-africaine-9756036",
-   "summary": "Les pays africains veulent redéfinir les règles du jeu en matière de notation de crédit. L’Union africaine, l’organisme qui rassemble les pays du continent, a lancé au début du mois d'octobre à Port-Louis, sur l’île Maurice, une agence de notation propre à l’Afrique. Un défi.",
-   "image": "https://www.radiofrance.fr/pikapi/images/25c57c9a-16d1-45cb-a36d-e2d277a93d84/2048",
-   "date": "2026-10-23T11:00:00+00:00",
-   "pubdate": "2026-10-23T11:00:00+00:00"
   }
  ]
 }

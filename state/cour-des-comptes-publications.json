@@ -1,9 +1,7 @@
 {
- "etag": "W/\"1795055851\"",
- "last_modified": "Thu, 19 Nov 2026 02:37:31 GMT",
+ "etag": "W/\"1795088442\"",
+ "last_modified": "Thu, 19 Nov 2026 11:40:42 GMT",
  "first_seen": {
-  "https://www.ccomptes.fr/fr/publications/levolution-du-budget-du-ministere-de-la-culture-depuis-2015": "2026-11-03T11:00:00+00:00",
-  "https://www.ccomptes.fr/fr/publications/le-fonds-de-prevention-des-risques-naturels-majeurs-0": "2026-11-05T11:00:00+00:00",
   "https://www.ccomptes.fr/fr/publications/financement-des-indemnites-journalieres-des-professions-liberales": "2026-11-09T11:00:00+00:00",
   "https://www.ccomptes.fr/fr/publications/contribution-au-retablissement-des-finances-publiques": "2026-11-09T11:00:00+00:00",
   "https://www.ccomptes.fr/fr/publications/note-thematique-les-depenses-fiscales": "2026-11-09T11:00:00+00:00",
@@ -11,10 +9,28 @@
   "https://www.ccomptes.fr/fr/publications/la-caisse-generale-de-securite-sociale-de-la-guadeloupe-et-de-saint-martin": "2026-11-10T11:00:00+00:00",
   "https://www.ccomptes.fr/fr/publications/la-fondation-louis-lepine": "2026-11-12T11:00:00+00:00",
   "https://www.ccomptes.fr/fr/publications/la-cour-des-comptes-publie-trois-nouvelles-notes-thematiques-consacrees-aux-politiques": "2026-11-16T11:00:00+00:00",
-  "https://www.ccomptes.fr/fr/publications/lassociation-sos-villages-denfants": "2026-11-17T11:00:00+00:00"
+  "https://www.ccomptes.fr/fr/publications/lassociation-sos-villages-denfants": "2026-11-17T11:00:00+00:00",
+  "https://www.ccomptes.fr/fr/publications/note-thematique-les-soutiens-de-letat-en-faveur-du-sport": "2026-11-19T11:00:00+00:00",
+  "https://www.ccomptes.fr/fr/publications/les-jeux-olympiques-et-paralympiques-de-paris-2024-bilan-financier-et-heritage": "2026-11-19T11:00:00+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "Note thématique - Les soutiens de l'État en faveur du sport",
+   "link": "https://www.ccomptes.fr/fr/publications/note-thematique-les-soutiens-de-letat-en-faveur-du-sport",
+   "summary": "Dans le prolongement des premières séries de travaux thématiques, publiées en septembre et novembre derniers, la Cour des comptes présente une nouvelle note de synthèse portant, pour la première fois dans ce format, sur les financements publics dédiés au sport. Dans un contexte de forte contrainte b...",
+   "image": "https://www.ccomptes.fr/sites/default/files/styles/teaser_182x98/public/2026-09/Notes%20structurelles-182x98.jpg?itok=s2UZMOhh",
+   "date": "2026-11-19T11:00:00+00:00",
+   "pubdate": "2026-11-19T11:00:00+00:00"
+  },
+  {
+   "title": "Les Jeux olympiques et paralympiques de Paris 2024 : bilan financier et héritage",
+   "link": "https://www.ccomptes.fr/fr/publications/les-jeux-olympiques-et-paralympiques-de-paris-2024-bilan-financier-et-heritage",
+   "summary": "Dans le prolongement des premières séries de travaux thématiques, publiées en septembre et novembre derniers, la Cour des comptes présente une nouvelle note de synthèse portant, pour la première fois dans ce format, sur les financements publics dédiés au sport. Dans un contexte de forte contrainte b...",
+   "image": "https://www.ccomptes.fr/sites/default/files/styles/teaser_182x98/public/2023-01/JO-Paris-2024-182x98.png?itok=1j89x8sF",
+   "date": "2026-11-19T11:00:00+00:00",
+   "pubdate": "2026-11-19T11:00:00+00:00"
+  },
   {
    "title": "L'association SOS Villages d'Enfants",
    "link": "https://www.ccomptes.fr/fr/publications/lassociation-sos-villages-denfants",
@@ -78,22 +94,6 @@
    "image": "https://www.ccomptes.fr/sites/default/files/styles/teaser_182x98/public/2026-11/decretsavance-dircom-Fotolia-182x98.jpg?itok=T8A9SiOK",
    "date": "2026-11-09T11:00:00+00:00",
    "pubdate": "2026-11-09T11:00:00+00:00"
-  },
-  {
-   "title": "Le fonds de prévention des risques naturels majeurs",
-   "link": "https://www.ccomptes.fr/fr/publications/le-fonds-de-prevention-des-risques-naturels-majeurs-0",
-   "summary": "À l’heure des débats sur le budget 2027 et les priorités de la dépense publique, la Cour des comptes apporte un éclairage sur le financement de la prévention des risques naturels. Son rapport examine la place du fonds de prévention des risques naturels majeurs (FPRNM), dit « fonds Barnier », et les ...",
-   "image": "https://www.ccomptes.fr/sites/default/files/styles/teaser_182x98/public/2026-09/Fonds-prevention-des-risques-naturels-majeurs-182x98.jpg?itok=6l8h9Upn",
-   "date": "2026-11-05T11:00:00+00:00",
-   "pubdate": "2026-11-05T11:00:00+00:00"
-  },
-  {
-   "title": "L’évolution du budget du ministère de la culture depuis 2015",
-   "link": "https://www.ccomptes.fr/fr/publications/levolution-du-budget-du-ministere-de-la-culture-depuis-2015",
-   "summary": "Pour éclairer le débat public la Cour des comptes retrace pour la première fois l’évolution du budget du ministère de la culture entre 2015 et 2025, en s’appuyant sur la synthèse de 33 notes d’exécution budgétaire (une NEB analyse chaque année l’utilisation des crédits votés pour une mission du budg...",
-   "image": "https://www.ccomptes.fr/sites/default/files/styles/teaser_182x98/public/2026-11/AdobeStock_154249693-2024-Evolution-budget-ministere-de-la-culture-depuis-2015-182x98.jpg?itok=vRNHzkaW",
-   "date": "2026-11-03T11:00:00+00:00",
-   "pubdate": "2026-11-03T11:00:00+00:00"
   }
  ]
 }
