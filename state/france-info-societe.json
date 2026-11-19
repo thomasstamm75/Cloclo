@@ -1,120 +1,153 @@
 {
- "etag": "\"6233416a8b4f791192060d20df1b8818-gzip\"",
+ "etag": "\"5b97b54621934047156d57e27e7257a9-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/faits-divers/incendie/on-comprend-qu-on-n-a-vraiment-plus-rien-qu-il-faut-recommencer-a-zero-ils-ont-vu-leur-maison-bruler-et-tentent-de-se-relever_8287193.html": "2026-11-18T00:59:45.438136+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/temoignage-des-qu-il-y-a-un-nouveau-telephone-tout-le-monde-fait-un-credit-comment-le-surendettement-explose-chez-les-moins-de-30-ans_8266763.html": "2026-11-18T11:52:01.501886+00:00",
   "https://www.franceinfo.fr/societe/nos-jours-heureux/": "2026-11-18T11:52:01.501886+00:00",
   "https://www.franceinfo.fr/societe/euthanasie/comprendre-les-debats-sur-la-fin-de-vie/": "2026-11-18T11:52:01.501886+00:00",
-  "https://www.franceinfo.fr/faits-divers/police/violences-policieres/presomption-de-legitime-defense-pour-les-forces-de-l-ordre-ce-que-j-ai-vecu-fait-que-cette-loi-me-fait-extremement-peur-temoigne-le-producteur-michel-zecler-qui-se-dit-horrifie_8288912.html": "2026-11-18T20:38:26.442026+00:00",
-  "https://www.franceinfo.fr/internet/reseaux-sociaux/facebook-instagram-tiktok-un-organisme-europeen-desavoue-leurs-decisions-de-moderation-dans-74-des-cas_8288738.html": "2026-11-18T20:38:26.442026+00:00",
-  "https://www.franceinfo.fr/societe/violences-faites-aux-femmes/un-homme-de-18-ans-retrouve-mort-en-seine-et-marne-apres-avoir-indique-ou-se-situe-le-corps-d-une-jeune-femme_8288669.html": "2026-11-18T20:38:26.442026+00:00",
-  "https://www.franceinfo.fr/societe/harcelement-sexuel/un-proces-requis-a-l-encontre-du-comedien-philippe-caubere-pour-viols-et-agressions-sexuelles-aggraves-proxenetisme-et-corruption-de-mineure_8288639.html": "2026-11-18T20:38:26.442026+00:00",
-  "https://www.franceinfo.fr/societe/education/le-defenseur-des-droits-note-une-deshumanisation-des-liens-entre-les-eleves-et-l-institution-scolaire_8288624.html": "2026-11-18T20:38:26.442026+00:00",
-  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/huit-lyceens-a-saint-cloud-dans-les-hauts-de-seine-pris-en-charge-par-les-pompiers-apres-des-tirs-de-mortiers-d-artifice-dans-leur-lycee_8288516.html": "2026-11-18T20:38:26.442026+00:00",
-  "https://www.franceinfo.fr/societe/armee-securite-defense/la-securite-en-tete-des-preoccupations-des-maires-de-petites-villes_8288330.html": "2026-11-18T20:38:26.442026+00:00",
-  "https://www.franceinfo.fr/monde/proche-orient/offensive-jihadiste-en-irak/trois-revenantes-francaises-condamnees-a-des-peines-de-cinq-a-douze-ans-de-prison-pour-avoir-rejoint-l-organisation-etat-islamique-en-syrie_8289047.html": "2026-11-19T02:37:23.135880+00:00",
-  "https://www.franceinfo.fr/societe/violences-faites-aux-femmes/un-garagiste-mis-en-examen-et-ecroue-pour-feminicide-en-seine-saint-denis_8288963.html": "2026-11-19T02:37:23.135880+00:00",
-  "https://www.franceinfo.fr/societe/antisemitisme/seine-saint-denis-une-assistante-de-direction-d-un-lycee-de-rosny-sous-bois-porte-plainte-apres-la-decouverte-d-un-tag-la-menacant-au-sein-de-l-etablissement_8288978.html": "2026-11-19T02:37:23.135880+00:00",
-  "https://www.franceinfo.fr/elections/mouvement-lyceen-faut-il-abaisser-le-droit-de-vote-a-16-ans_8289932.html": "2026-11-19T11:49:02.021102+00:00",
   "https://www.franceinfo.fr/societe/education/blocage-des-lycees/deux-enseignants-et-onze-eleves-blesses-ou-choques-dans-des-lycees-d-ile-de-france-en-marge-des-mobilisations-lyceennes_8289917.html": "2026-11-19T11:49:02.021102+00:00",
   "https://www.franceinfo.fr/replay-radio/le-tour-de-la-question/trente-ans-apres-sa-suppression-le-service-national-redevient-un-enjeu-politique-pour-la-presidentielle_8289488.html": "2026-11-19T11:49:02.021102+00:00",
   "https://www.franceinfo.fr/societe/euthanasie/la-haute-autorite-de-sante-presente-60-recommandations-officielles-pour-encadrer-la-pratique-de-l-aide-a-mourir_8289761.html": "2026-11-19T11:49:02.021102+00:00",
   "https://www.franceinfo.fr/societe/plus-de-2-100-mineurs-isoles-etrangers-vivent-en-errance-en-france-precise-une-enquete-d-utopia-56_8289737.html": "2026-11-19T11:49:02.021102+00:00",
   "https://www.franceinfo.fr/societe/justice/la-justice-saisie-pour-des-propos-discriminatoires-de-policiers-municipaux-a-toulouse_8289725.html": "2026-11-19T11:49:02.021102+00:00",
   "https://www.franceinfo.fr/societe/justice/7-et-9-mois-de-prison-ferme-requis-contre-deux-assistantes-maternelles-de-l-essonne-jugees-pour-avoir-entasse-des-enfants-dans-une-voiture_8289686.html": "2026-11-19T11:49:02.021102+00:00",
-  "https://www.franceinfo.fr/societe/education/en-estonie-les-eleves-utilisent-le-chatgpt-scolaire_8289680.html": "2026-11-19T11:49:02.021102+00:00",
   "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-des-membres-du-personnel-de-l-education-nationale-sont-ils-complices-des-violences-commises-en-marge-des-mobilisations-lyceennes-comme-l-affirme-le-gouvernement_8286719.html": "2026-11-19T11:49:02.021102+00:00",
   "https://www.franceinfo.fr/societe/education/violences-dans-le-periscolaire/la-deleguee-a-la-protection-des-enfants-a-l-ecole-appelle-a-ameliorer-la-culture-du-signalement-a-la-suite-du-scandale-dans-le-periscolaire_8289422.html": "2026-11-19T11:49:02.021102+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/cet-outil-ne-va-pas-tout-faire-a-la-place-de-l-eleve-en-estonie-une-version-specifique-de-chatgpt-fait-son-entree-dans-les-salles-de-classe_8268662.html": "2026-11-19T11:49:02.021102+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-l-ascenseur-social-est-un-peu-en-panne-trouver-un-stage-de-seconde-ou-de-3e-est-encore-complique-pour-les-adolescents-les-moins-favorises_8263367.html": "2026-11-19T11:49:02.021102+00:00",
-  "https://www.franceinfo.fr/economie/disparites-salariales/les-femmes-travaillent-gratuitement-a-partir-de-jeudi-a-10h51-jusqu-a-la-fin-de-l-annee-selon-les-glorieuses_8289371.html": "2026-11-19T11:49:02.021102+00:00",
-  "https://www.franceinfo.fr/societe/armee-securite-defense/reportage-mon-objectif-c-est-de-ne-pas-le-perdre-et-surtout-d-etre-en-mesure-de-l-attaquer-sur-ordre-comment-la-marine-francaise-s-entraine-a-prendre-des-sous-marins-en-chasse-dans-la-baltique_8288747.html": "2026-11-19T11:49:02.021102+00:00"
+  "https://www.franceinfo.fr/faits-divers/il-y-a-longtemps-que-le-probleme-est-la-il-est-en-train-d-empirer-pourquoi-les-fusillades-mortelles-s-enchainent-elles-a-toulouse_8290691.html": "2026-11-19T20:44:22.600271+00:00",
+  "https://www.franceinfo.fr/faits-divers/producteur-passe-a-tabac-par-des-policiers/c-est-bien-que-la-justice-se-montre-a-la-hauteur-michel-zecler-salue-le-requisitoire-de-l-avocate-generale-face-aux-policiers-soupconnes-de-l-avoir-passe-a-tabac_8290628.html": "2026-11-19T20:44:22.600271+00:00",
+  "https://www.franceinfo.fr/replay-jt/france-2/20-heures/des-tirs-de-mortiers-font-plus-de-20-blesses-dans-des-lycees-en-france_8290592.html": "2026-11-19T20:44:22.600271+00:00",
+  "https://www.franceinfo.fr/faits-divers/justice-proces/au-proces-des-masculinistes-de-telegram-un-createur-plaque-par-sa-fiancee-des-contributeurs-en-manque-de-lien-social-et-des-requisitions-exemplaires_8289575.html": "2026-11-19T20:44:22.600271+00:00",
+  "https://www.franceinfo.fr/societe/education/une-professeure-d-economie-de-grenoble-convoquee-le-26-novembre-au-rectorat-pour-recueillir-son-point-de-vue-apres-un-devoir-faisant-echo-au-mouvement-lyceen_8290589.html": "2026-11-19T20:44:22.600271+00:00",
+  "https://www.franceinfo.fr/politique/presomption-de-legitime-defense-pour-les-forces-de-l-ordre-ce-texte-au-mieux-est-inutile-au-pire-il-est-dangereux-estime-harold-huwart-maire-dvg-d-eure-et-loir_8290574.html": "2026-11-19T20:44:22.600271+00:00",
+  "https://www.franceinfo.fr/faits-divers/police/je-vais-t-egorger-a-la-samuel-paty-un-adolescent-en-garde-a-vue-apres-des-menaces-de-mort-proferees-contre-un-professeur-lors-d-un-cours-virtuel_8290568.html": "2026-11-19T20:44:22.600271+00:00",
+  "https://www.franceinfo.fr/culture/cinema/depardieu/gerard-depardieu-vise-par-une-nouvelle-plainte-pour-viol-et-agressions-sexuelles-en-reunion-michel-houellebecq-pour-complicite_8290478.html": "2026-11-19T20:44:22.600271+00:00",
+  "https://www.franceinfo.fr/societe/a-limoges-fleur-recycle-les-vieilles-assiettes-pour-en-faire-des-mosaiques-qui-egayent-la-ville-de-la-porcelaine_8290256.html": "2026-11-19T20:44:22.600271+00:00",
+  "https://www.franceinfo.fr/sante/aide-a-mourir-ce-qu-il-y-a-de-primordial-c-est-la-formation-technique-et-humaine-pour-le-president-de-la-federation-nationale-des-infirmiers_8290340.html": "2026-11-19T20:44:22.600271+00:00",
+  "https://www.franceinfo.fr/monde/usa/un-composant-fabrique-uniquement-a-bordeaux-pourrait-freiner-la-production-des-missiles-patriot-americains_8290079.html": "2026-11-19T20:44:22.600271+00:00",
+  "https://www.franceinfo.fr/societe/pedocriminalite/le-directeur-de-la-prison-d-aix-luynes-mis-en-examen-et-ecroue-pour-detention-offre-et-mise-a-disposition-d-images-pedocriminelles_8290181.html": "2026-11-19T20:44:22.600271+00:00",
+  "https://france3-regions.franceinfo.fr/hauts-de-france/somme/amiens/de-nouveaux-tirs-de-mortiers-devant-la-cite-scolaire-sud-d-amiens-neuf-eleves-legerement-blesses-et-un-enseignant-en-etat-de-choc-3452493.html": "2026-11-19T11:00:00+00:00",
+  "https://www.franceinfo.fr/societe/harcelement/cyberharcelement-la-presidente-de-la-fondation-des-femmes-anne-cecile-mailfert-va-porter-plainte-apres-des-insultes-et-menaces-recues-sur-les-reseaux-sociaux_8290067.html": "2026-11-19T20:44:22.600271+00:00",
+  "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/france-assureurs-estime-a-plus-de-200-millions-d-euros-le-cout-des-degats-engendres-par-les-violences-urbaines-et-les-pillages-des-17-et-18-octobre_8290007.html": "2026-11-19T20:44:22.600271+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "Mouvement lycéen : faut-il abaisser le droit de vote à 16 ans ? Le mouvement lycéen, qui s’étend depuis le mois de septembre, a remis le sujet du droit de vote à 16 ans sur le devant de la scène. Les adolescents pourront-ils porter leurs revendications autrement qu’en bloquant leurs établissements et en manifestant dans les rues ? Jean-Luc Mélenchon, Raphaël Glucksmann ou encore Marine Tondelier y sont favorables. Dans le reste du monde, le Brésil, l’Argentine et l'Équateur autorisent le vote dès 16 ans pour toutes les élections. En Europe, l’Autriche a sauté le pas en 2007. Si la France abaisse à son tour l’âge du droit de vote à 16 ans, 1,5 million de nouveaux électeurs pourraient être appelés aux urnes. Aujourd'hui 2:49 vidéo 2 minutes 49",
-   "link": "https://www.franceinfo.fr/elections/mouvement-lyceen-faut-il-abaisser-le-droit-de-vote-a-16-ans_8289932.html",
-   "summary": "Mouvement lycéen : faut-il abaisser le droit de vote à 16 ans ?",
-   "image": "https://www.franceinfo.fr/pictures/bJS1c_vt9p2KDS6rllaRl8QtsOc/0x0:900x1600/fit-in/432x297/filters:upscale():fill(blur):format(jpg)/2026/11/19/6afedf9eb55f9267975508.jpg",
+   "title": "\"Il y a longtemps que le problème est là, il est en train d'empirer\" : pourquoi les fusillades mortelles s'enchaînent-elles à Toulouse ? À Toulouse (Haute-Garonne), pourquoi tant de fusillades en si peu de temps ? Des coups de feu ont retenti dans plusieurs quartiers de la ville et deux hommes ont été tués en trois jours. Après le dernier meurtre, à la Reynerie, le procureur évoque une guerre de territoire. Que se disputent les trafiquants ? Aujourd'hui 2:00 vidéo 2 minutes",
+   "link": "https://www.franceinfo.fr/faits-divers/il-y-a-longtemps-que-le-probleme-est-la-il-est-en-train-d-empirer-pourquoi-les-fusillades-mortelles-s-enchainent-elles-a-toulouse_8290691.html",
+   "summary": "\"Il y a longtemps que le problème est là, il est en train d'empirer\" : pourquoi les fusillades mortelles s'enchaînent-elles à Toulouse ?",
+   "image": "https://www.franceinfo.fr/pictures/UrfklFYL2Kc6w9qdEaXK81ZBzhY/165x0:1221x726/432x297/filters:format(jpg)/2026/11/19/6aff5ec8a9a6c493812253.jpg",
    "date": null,
-   "pubdate": "2026-11-19T11:49:02.021102+00:00"
+   "pubdate": "2026-11-19T20:44:22.600271+00:00"
   },
   {
-   "title": "Deux enseignants et onze élèves blessés ou choqués dans des lycées d'Île-de-France en marge des mobilisations lycéennes Aujourd'hui",
-   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/deux-enseignants-et-onze-eleves-blesses-ou-choques-dans-des-lycees-d-ile-de-france-en-marge-des-mobilisations-lyceennes_8289917.html",
-   "summary": "Deux enseignants et onze élèves blessés ou choqués dans des lycées d'Île-de-France en marge des mobilisations lycéennes",
-   "image": "https://www.franceinfo.fr/pictures/2ui0D4PrAdtsoYjOqpFIsLqx5UU/432x243/filters:format(jpg)/2026/11/13/6af73747478c4213992342.jpg",
+   "title": "\"C'est bien que la justice se montre à la hauteur\" : Michel Zecler salue le réquisitoire de l'avocate générale face aux policiers soupçonnés de l'avoir passé à tabac Aujourd'hui 1:42 vidéo 1 minute 42",
+   "link": "https://www.franceinfo.fr/faits-divers/producteur-passe-a-tabac-par-des-policiers/c-est-bien-que-la-justice-se-montre-a-la-hauteur-michel-zecler-salue-le-requisitoire-de-l-avocate-generale-face-aux-policiers-soupconnes-de-l-avoir-passe-a-tabac_8290628.html",
+   "summary": "\"C'est bien que la justice se montre à la hauteur\" : Michel Zecler salue le réquisitoire de l'avocate générale face aux policiers soupçonnés de l'avoir passé à tabac",
+   "image": "https://www.franceinfo.fr/pictures/rjjH2sEsOOn8Nj99P9CgVDaAMfc/0x64:1175x724/432x243/filters:format(jpg)/2026/11/19/6aff56995d0f9654839215.jpg",
    "date": null,
-   "pubdate": "2026-11-19T11:49:02.021102+00:00"
+   "pubdate": "2026-11-19T20:44:22.600271+00:00"
   },
   {
-   "title": "Trente ans après sa suppression, le service national redevient un enjeu politique pour la présidentielle Aujourd'hui 4:22 audio 4 minutes 22",
-   "link": "https://www.franceinfo.fr/replay-radio/le-tour-de-la-question/trente-ans-apres-sa-suppression-le-service-national-redevient-un-enjeu-politique-pour-la-presidentielle_8289488.html",
-   "summary": "Trente ans après sa suppression, le service national redevient un enjeu politique pour la présidentielle",
-   "image": "https://www.franceinfo.fr/pictures/GCHHVN0z95MIPv48zBJICUdPonY/0x297:5706x3506/432x243/filters:format(jpg)/2026/11/19/6afeb686b4acc847415773.jpg",
+   "title": "Des tirs de mortiers font plus de 20 blessés dans des lycées en France Aujourd'hui 1:52 vidéo 1 minute 52",
+   "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/des-tirs-de-mortiers-font-plus-de-20-blesses-dans-des-lycees-en-france_8290592.html",
+   "summary": "Des tirs de mortiers font plus de 20 blessés dans des lycées en France",
+   "image": "https://www.franceinfo.fr/pictures/FjBtioE7vWC8r7SSuhMCtb12OlE/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/19/6aff50e35970b065712630.jpg",
    "date": null,
-   "pubdate": "2026-11-19T11:49:02.021102+00:00"
+   "pubdate": "2026-11-19T20:44:22.600271+00:00"
   },
   {
-   "title": "Un nombre de produits limités, des recours en cas de complications... La Haute Autorité de santé présente 60 recommandations pour encadrer l'aide à mourir Aujourd'hui",
-   "link": "https://www.franceinfo.fr/societe/euthanasie/la-haute-autorite-de-sante-presente-60-recommandations-officielles-pour-encadrer-la-pratique-de-l-aide-a-mourir_8289761.html",
-   "summary": "Un nombre de produits limités, des recours en cas de complications... La Haute Autorité de santé présente 60 recommandations pour encadrer l'aide à mourir",
-   "image": "https://www.franceinfo.fr/pictures/VmUWc-LilQnvYxTX1htBr4P_hV8/432x243/filters:format(jpg)/2026/07/15/6a570cdf54b74143611822.png",
+   "title": "Au procès des masculinistes de Telegram, un créateur \"plaqué\" par sa fiancée, des contributeurs en manque de \"lien social\" et des réquisitions exemplaires Aujourd'hui",
+   "link": "https://www.franceinfo.fr/faits-divers/justice-proces/au-proces-des-masculinistes-de-telegram-un-createur-plaque-par-sa-fiancee-des-contributeurs-en-manque-de-lien-social-et-des-requisitions-exemplaires_8289575.html",
+   "summary": "Au procès des masculinistes de Telegram, un créateur \"plaqué\" par sa fiancée, des contributeurs en manque de \"lien social\" et des réquisitions exemplaires",
+   "image": "https://www.franceinfo.fr/pictures/J4JUfeCen4ezhj25HxjfVf4TZG4/0x622:6048x4024/432x243/filters:format(jpg)/2026/11/19/6aff01c790fb8843291818.jpg",
    "date": null,
-   "pubdate": "2026-11-19T11:49:02.021102+00:00"
+   "pubdate": "2026-11-19T20:44:22.600271+00:00"
   },
   {
-   "title": "Plus de 2 100 mineurs isolés étrangers vivent \"en errance en France\" précise une enquête d'Utopia 56 Aujourd'hui",
-   "link": "https://www.franceinfo.fr/societe/plus-de-2-100-mineurs-isoles-etrangers-vivent-en-errance-en-france-precise-une-enquete-d-utopia-56_8289737.html",
-   "summary": "Plus de 2 100 mineurs isolés étrangers vivent \"en errance en France\" précise une enquête d'Utopia 56",
-   "image": "https://www.franceinfo.fr/pictures/3d39dUjczC8YfXiBjVh9qfwq_vA/0x52:960x592/432x243/filters:format(jpg)/2017/05/04/php70JDeK_1.jpg",
+   "title": "Une professeure d'économie de Grenoble convoquée le 26 novembre au rectorat \"pour recueillir son point de vue\", après un devoir faisant écho au mouvement lycéen Aujourd'hui",
+   "link": "https://www.franceinfo.fr/societe/education/une-professeure-d-economie-de-grenoble-convoquee-le-26-novembre-au-rectorat-pour-recueillir-son-point-de-vue-apres-un-devoir-faisant-echo-au-mouvement-lyceen_8290589.html",
+   "summary": "Une professeure d'économie de Grenoble convoquée le 26 novembre au rectorat \"pour recueillir son point de vue\", après un devoir faisant écho au mouvement lycéen",
+   "image": "https://www.franceinfo.fr/pictures/Ce3AwARUSp-O-6bGWGwK_qCi_oo/0x162:4256x2556/432x243/filters:format(jpg)/2026/11/19/6aff4c4fa1d38114545771.jpg",
    "date": null,
-   "pubdate": "2026-11-19T11:49:02.021102+00:00"
+   "pubdate": "2026-11-19T20:44:22.600271+00:00"
   },
   {
-   "title": "La mairie de Toulouse saisit la justice pour des propos de policiers municipaux \"susceptibles de présenter un caractère raciste, sexiste et homophobe\" Aujourd'hui",
-   "link": "https://www.franceinfo.fr/societe/justice/la-justice-saisie-pour-des-propos-discriminatoires-de-policiers-municipaux-a-toulouse_8289725.html",
-   "summary": "La mairie de Toulouse saisit la justice pour des propos de policiers municipaux \"susceptibles de présenter un caractère raciste, sexiste et homophobe\"",
-   "image": "https://www.franceinfo.fr/pictures/zY5E0i1fiVqr2Hn-R3e6xAX7Y-M/0x0:4320x2430/432x243/filters:format(jpg)/2026/11/19/6afec663d0cd7754262141.jpg",
+   "title": "Présomption de légitime défense pour les forces de l'ordre : \"Ce texte, au mieux, est inutile, au pire, il est dangereux\", estime Harold Huwart, maire DVG d'Eure-et-Loir Aujourd'hui 18:51 vidéo 18 minutes 51",
+   "link": "https://www.franceinfo.fr/politique/presomption-de-legitime-defense-pour-les-forces-de-l-ordre-ce-texte-au-mieux-est-inutile-au-pire-il-est-dangereux-estime-harold-huwart-maire-dvg-d-eure-et-loir_8290574.html",
+   "summary": "Présomption de légitime défense pour les forces de l'ordre : \"Ce texte, au mieux, est inutile, au pire, il est dangereux\", estime Harold Huwart, maire DVG d'Eure-et-Loir",
+   "image": "https://www.franceinfo.fr/pictures/VPjGp1nQ3sSbn1lNJmqboJZQlgs/15x0:1934x1079/432x243/filters:format(jpg)/2026/11/19/6aff4aa13e187696495786.jpg",
    "date": null,
-   "pubdate": "2026-11-19T11:49:02.021102+00:00"
+   "pubdate": "2026-11-19T20:44:22.600271+00:00"
   },
   {
-   "title": "7 à 9 mois de prison ferme sous bracelet électronique requis contre deux assistantes maternelles de l'Essonne jugées pour avoir entassé des enfants dans une voiture Aujourd'hui",
-   "link": "https://www.franceinfo.fr/societe/justice/7-et-9-mois-de-prison-ferme-requis-contre-deux-assistantes-maternelles-de-l-essonne-jugees-pour-avoir-entasse-des-enfants-dans-une-voiture_8289686.html",
-   "summary": "7 à 9 mois de prison ferme sous bracelet électronique requis contre deux assistantes maternelles de l'Essonne jugées pour avoir entassé des enfants dans une voiture",
-   "image": "https://www.franceinfo.fr/pictures/SrbEx69aL0OP5w2_oV1UN73H4dk/0x622:6048x4024/432x243/filters:format(jpg)/2022/06/03/phpiMbCec.jpg",
+   "title": "\"Je vais t'égorger à la Samuel Paty\" : un adolescent en garde à vue après des menaces de mort proférées contre un professeur lors d'un cours virtuel Aujourd'hui",
+   "link": "https://www.franceinfo.fr/faits-divers/police/je-vais-t-egorger-a-la-samuel-paty-un-adolescent-en-garde-a-vue-apres-des-menaces-de-mort-proferees-contre-un-professeur-lors-d-un-cours-virtuel_8290568.html",
+   "summary": "\"Je vais t'égorger à la Samuel Paty\" : un adolescent en garde à vue après des menaces de mort proférées contre un professeur lors d'un cours virtuel",
+   "image": "https://www.franceinfo.fr/pictures/aH73Wrdasoh0zHQtonPVkviWkPQ/253x35:1024x469/432x243/filters:format(jpg)/2026/11/19/6aff44bc297b4707316172.jpg",
    "date": null,
-   "pubdate": "2026-11-19T11:49:02.021102+00:00"
+   "pubdate": "2026-11-19T20:44:22.600271+00:00"
   },
   {
-   "title": "En Estonie, les élèves utilisent le ChatGPT scolaire Aujourd'hui 0:55 vidéo 55 secondes",
-   "link": "https://www.franceinfo.fr/societe/education/en-estonie-les-eleves-utilisent-le-chatgpt-scolaire_8289680.html",
-   "summary": "En Estonie, les élèves utilisent le ChatGPT scolaire",
-   "image": "https://www.franceinfo.fr/pictures/7h_tkQnlhJp0uJm25Ei3gUnTdHA/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/19/6afebf8c4b7d5996160833.png",
+   "title": "Gérard Depardieu visé par une nouvelle plainte pour viol et agressions sexuelles en réunion, Michel Houellebecq pour complicité Aujourd'hui",
+   "link": "https://www.franceinfo.fr/culture/cinema/depardieu/gerard-depardieu-vise-par-une-nouvelle-plainte-pour-viol-et-agressions-sexuelles-en-reunion-michel-houellebecq-pour-complicite_8290478.html",
+   "summary": "Gérard Depardieu visé par une nouvelle plainte pour viol et agressions sexuelles en réunion, Michel Houellebecq pour complicité",
+   "image": "https://www.franceinfo.fr/pictures/KofoRrFZ08uQXPkFGNKTvRLkQ84/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/19/6aff3890240e1154079026.png",
    "date": null,
-   "pubdate": "2026-11-19T11:49:02.021102+00:00"
+   "pubdate": "2026-11-19T20:44:22.600271+00:00"
   },
   {
-   "title": ": Vrai ou faux Des membres du personnel de l'Education nationale sont-ils complices des violences commises en marge des mobilisations lycéennes, comme l'affirme le gouvernement ? Aujourd'hui : Vrai ou faux",
-   "link": "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-des-membres-du-personnel-de-l-education-nationale-sont-ils-complices-des-violences-commises-en-marge-des-mobilisations-lyceennes-comme-l-affirme-le-gouvernement_8286719.html",
-   "summary": "Des membres du personnel de l'Education nationale sont-ils complices des violences commises en marge des mobilisations lycéennes, comme l'affirme le gouvernement ?",
-   "image": "https://www.franceinfo.fr/pictures/4HXkqA8GUVX4b2vnsAZVqKFhsXE/0x25:1024x601/432x243/filters:format(jpg)/2026/11/18/6afdb53db8c47608275594.jpg",
+   "title": "À Limoges, Fleur recycle les vieilles assiettes pour en faire des mosaïques, qui égayent la ville de la porcelaine Aujourd'hui 3:38 vidéo 3 minutes 38",
+   "link": "https://www.franceinfo.fr/societe/a-limoges-fleur-recycle-les-vieilles-assiettes-pour-en-faire-des-mosaiques-qui-egayent-la-ville-de-la-porcelaine_8290256.html",
+   "summary": "À Limoges, Fleur recycle les vieilles assiettes pour en faire des mosaïques, qui égayent la ville de la porcelaine",
+   "image": "https://www.franceinfo.fr/pictures/0hYRE50SsfNZ5Qf4OmB7Ix8BRQ0/0x9:1234x703/432x243/filters:format(jpg)/2026/11/19/6aff25481a461596419024.jpg",
    "date": null,
-   "pubdate": "2026-11-19T11:49:02.021102+00:00"
+   "pubdate": "2026-11-19T20:44:22.600271+00:00"
   },
   {
-   "title": "La déléguée à la protection des enfants à l'école appelle à améliorer la \"culture\" du signalement à la suite du scandale dans le périscolaire Aujourd'hui",
-   "link": "https://www.franceinfo.fr/societe/education/violences-dans-le-periscolaire/la-deleguee-a-la-protection-des-enfants-a-l-ecole-appelle-a-ameliorer-la-culture-du-signalement-a-la-suite-du-scandale-dans-le-periscolaire_8289422.html",
-   "summary": "La déléguée à la protection des enfants à l'école appelle à améliorer la \"culture\" du signalement à la suite du scandale dans le périscolaire",
-   "image": "https://www.franceinfo.fr/pictures/jB0prd3tX2JX96ejMlB4Ovj1alQ/432x243/filters:format(jpg)/2026/09/10/6aa2c97d53d53289173425.jpg",
+   "title": "Aide à mourir : \"Ce qu'il y a de primordial, c'est la formation technique et humaine\" pour le président de la Fédération nationale des infirmiers Aujourd'hui",
+   "link": "https://www.franceinfo.fr/sante/aide-a-mourir-ce-qu-il-y-a-de-primordial-c-est-la-formation-technique-et-humaine-pour-le-president-de-la-federation-nationale-des-infirmiers_8290340.html",
+   "summary": "Aide à mourir : \"Ce qu'il y a de primordial, c'est la formation technique et humaine\" pour le président de la Fédération nationale des infirmiers",
+   "image": "https://www.franceinfo.fr/pictures/gIfNu9OHC9sGZJt49y7rtdFjFFk/0x223:4299x2642/432x243/filters:format(jpg)/2026/11/19/6aff217ea1621467605739.jpg",
    "date": null,
-   "pubdate": "2026-11-19T11:49:02.021102+00:00"
+   "pubdate": "2026-11-19T20:44:22.600271+00:00"
   },
   {
-   "title": "\"Cet outil ne va pas tout faire à la place de l'élève\" : en Estonie, une version spécifique de ChatGPT fait son entrée dans les salles de classe 5:10 audio 5 minutes 10",
+   "title": "Un composant fabriqué uniquement à Bordeaux pourrait freiner la production des missiles Patriot américains L'Ukraine réclame davantage de missiles antimissiles Patriot pour se défendre contre les frappes russes, mais un composant indispensable à leur fabrication pourrait venir à manquer. Selon le \"Wall Street Journal\", cette pièce stratégique est produite exclusivement par ArianeGroup, dans une usine près de Bordeaux, dont les capacités sont limitées. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/usa/un-composant-fabrique-uniquement-a-bordeaux-pourrait-freiner-la-production-des-missiles-patriot-americains_8290079.html",
+   "summary": "Un composant fabriqué uniquement à Bordeaux pourrait freiner la production des missiles Patriot américains",
+   "image": "https://www.franceinfo.fr/pictures/eftZSWJ9OkHzC3SbMgnjdXNb8Ek/0x53:1024x629/432x243/filters:format(jpg)/2026/11/19/6aff044000c3c055649252.jpg",
+   "date": null,
+   "pubdate": "2026-11-19T20:44:22.600271+00:00"
+  },
+  {
+   "title": "Le directeur de la prison d'Aix-Luynes mis en examen et écroué pour détention, offre et mise à disposition d'images pédopornographiques Le directeur de l'établissement a été identifié après avoir téléchargé \"un fichier cible violent à partir du début de l'année 2026\", selon le parquet de Nîmes. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/societe/pedocriminalite/le-directeur-de-la-prison-d-aix-luynes-mis-en-examen-et-ecroue-pour-detention-offre-et-mise-a-disposition-d-images-pedocriminelles_8290181.html",
+   "summary": "Le directeur de la prison d'Aix-Luynes mis en examen et écroué pour détention, offre et mise à disposition d'images pédopornographiques",
+   "image": "https://www.franceinfo.fr/assets/common/images/logos/placeholder-4e7f49f2.png",
+   "date": null,
+   "pubdate": "2026-11-19T20:44:22.600271+00:00"
+  },
+  {
+   "title": "Cyberharcèlement : la présidente de la Fondation des femmes Anne-Cécile Mailfert va porter plainte après des insultes et menaces reçues sur les réseaux sociaux Lors d'un débat au sujet de l'affaire Gérard Depardieu lundi sur franceinfo canal 16, il avait été précisé par la présentatrice que la militante féministe était en couple avec l'un des directeurs de France Télévisions, Aujourd'hui",
+   "link": "https://www.franceinfo.fr/societe/harcelement/cyberharcelement-la-presidente-de-la-fondation-des-femmes-anne-cecile-mailfert-va-porter-plainte-apres-des-insultes-et-menaces-recues-sur-les-reseaux-sociaux_8290067.html",
+   "summary": "Cyberharcèlement : la présidente de la Fondation des femmes Anne-Cécile Mailfert va porter plainte après des insultes et menaces reçues sur les réseaux sociaux",
+   "image": "https://www.franceinfo.fr/pictures/D757e-mnUasdskwHVBCt83lsPzQ/0x301:4429x2791/432x243/filters:format(jpg)/2023/11/20/anne-cecile-mailfert-655b735ac0879407935374.jpg",
+   "date": null,
+   "pubdate": "2026-11-19T20:44:22.600271+00:00"
+  },
+  {
+   "title": "France Assureurs estime à \"plus de 200 millions d'euros\" le coût des dégâts engendrés par les violences urbaines et les pillages des 17 et 18 octobre Ce montant \"est particulièrement élevé au regard de la brièveté des événements\", a déclaré jeudi la présidente de la fédération, Florence Lustman. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/france-assureurs-estime-a-plus-de-200-millions-d-euros-le-cout-des-degats-engendres-par-les-violences-urbaines-et-les-pillages-des-17-et-18-octobre_8290007.html",
+   "summary": "France Assureurs estime à \"plus de 200 millions d'euros\" le coût des dégâts engendrés par les violences urbaines et les pillages des 17 et 18 octobre",
+   "image": "https://www.franceinfo.fr/pictures/ZZshYAjdZ-VQ5Vs3Df8rFntS5VM/0x106:1024x682/432x243/filters:format(jpg)/2026/11/19/6afeee1e95728347720433.jpg",
+   "date": null,
+   "pubdate": "2026-11-19T20:44:22.600271+00:00"
+  },
+  {
+   "title": ": Reportage \"Cet outil ne va pas tout faire à la place de l'élève\" : en Estonie, une version spécifique de ChatGPT fait son entrée dans les salles de classe : Reportage 5:10 audio 5 minutes 10",
    "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/cet-outil-ne-va-pas-tout-faire-a-la-place-de-l-eleve-en-estonie-une-version-specifique-de-chatgpt-fait-son-entree-dans-les-salles-de-classe_8268662.html",
    "summary": "\"Cet outil ne va pas tout faire à la place de l'élève\" : en Estonie, une version spécifique de ChatGPT fait son entrée dans les salles de classe",
    "image": "https://www.franceinfo.fr/pictures/5Fj9_fuB2l4Ytt9udxg3Sr6HzL8/0x0:8192x4608/432x243/filters:format(jpg)/2026/11/19/6afe8d5d83b2c564518561.jpg",
@@ -130,100 +163,76 @@
    "pubdate": "2026-11-19T11:49:02.021102+00:00"
   },
   {
-   "title": "Les femmes travaillent \"gratuitement\" à partir de jeudi à 10h51 jusqu'à la fin de l'année, selon Les Glorieuses Même si cette date arrive douze jours plus tard en dix ans, les inégalités salariales entre femmes et hommes sont toujours présentes. La lettre d'information des Glorieuses précise aussi qu'il existe des écarts de patrimoine et sur les placements financiers. Aujourd'hui",
-   "link": "https://www.franceinfo.fr/economie/disparites-salariales/les-femmes-travaillent-gratuitement-a-partir-de-jeudi-a-10h51-jusqu-a-la-fin-de-l-annee-selon-les-glorieuses_8289371.html",
-   "summary": "Les femmes travaillent \"gratuitement\" à partir de jeudi à 10h51 jusqu'à la fin de l'année, selon Les Glorieuses",
-   "image": "https://www.franceinfo.fr/pictures/Z9jBeTFOrib1m921gv8_ocOx3_M/0x27:4447x2527/432x243/filters:format(jpg)/2025/11/09/glorieuses-691073cdc0354363109764.jpg",
+   "title": "Deux enseignants et onze élèves blessés ou choqués dans des lycées d'Île-de-France en marge des mobilisations lycéennes À Argenteuil, les blessés ont été accompagnés dans la salle des lycéens et pris en charge par un médecin. La région recense des tirs de mortiers dans certains établissements avec des évacuations. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/deux-enseignants-et-onze-eleves-blesses-ou-choques-dans-des-lycees-d-ile-de-france-en-marge-des-mobilisations-lyceennes_8289917.html",
+   "summary": "Deux enseignants et onze élèves blessés ou choqués dans des lycées d'Île-de-France en marge des mobilisations lycéennes",
+   "image": "https://www.franceinfo.fr/pictures/2ui0D4PrAdtsoYjOqpFIsLqx5UU/432x243/filters:format(jpg)/2026/11/13/6af73747478c4213992342.jpg",
    "date": null,
    "pubdate": "2026-11-19T11:49:02.021102+00:00"
   },
   {
-   "title": ": Reportage \"Mon objectif, c'est de ne pas le perdre et surtout d'être en mesure de l'attaquer sur ordre\" : comment la marine française s'entraîne à prendre des sous-marins en chasse dans la Baltique Dans la mer Baltique, huit pays alliés de l'Otan ont participé à un exercice organisé par la Suède pour traquer les menaces sous-marines. La France y a engagé un Atlantique 2, un avion chasseur de sous-marins. Franceinfo a embarqué à bord. Aujourd'hui : Reportage",
-   "link": "https://www.franceinfo.fr/societe/armee-securite-defense/reportage-mon-objectif-c-est-de-ne-pas-le-perdre-et-surtout-d-etre-en-mesure-de-l-attaquer-sur-ordre-comment-la-marine-francaise-s-entraine-a-prendre-des-sous-marins-en-chasse-dans-la-baltique_8288747.html",
-   "summary": "\"Mon objectif, c'est de ne pas le perdre et surtout d'être en mesure de l'attaquer sur ordre\" : comment la marine française s'entraîne à prendre des sous-marins en chasse dans la Baltique",
-   "image": "https://www.franceinfo.fr/pictures/oNd6-VFj7Ma9qPdYLBvGNZVy_1k/0x43:1024x619/432x243/filters:format(jpg)/2026/11/18/6afdeb4ded01b973750294.jpg",
+   "title": "Trente ans après sa suppression, le service national redevient un enjeu politique pour la présidentielle Le service national obligatoire peut-il faire son retour, comme le propose Édouard Philippe ? Le candidat Horizons à l'élection présidentielle a présenté son programme à la presse mercredi. Il plaide, pour un \"effort de défense\". Aujourd'hui 4:22 audio 4 minutes 22",
+   "link": "https://www.franceinfo.fr/replay-radio/le-tour-de-la-question/trente-ans-apres-sa-suppression-le-service-national-redevient-un-enjeu-politique-pour-la-presidentielle_8289488.html",
+   "summary": "Trente ans après sa suppression, le service national redevient un enjeu politique pour la présidentielle",
+   "image": "https://www.franceinfo.fr/pictures/GCHHVN0z95MIPv48zBJICUdPonY/0x297:5706x3506/432x243/filters:format(jpg)/2026/11/19/6afeb686b4acc847415773.jpg",
    "date": null,
    "pubdate": "2026-11-19T11:49:02.021102+00:00"
   },
   {
-   "title": "Trois \"revenantes\" françaises condamnées à des peines de cinq à douze ans de prison pour avoir rejoint l'organisation Etat islamique en Syrie Deux ex-épouses d'Adrien Guihal, haut cadre de l'EI qui avait revendiqué en 2016 les attentats de Nice et de Magnanville, ont notamment été condamnées par la cour d'assises spéciale de Paris. 18 novembre",
-   "link": "https://www.franceinfo.fr/monde/proche-orient/offensive-jihadiste-en-irak/trois-revenantes-francaises-condamnees-a-des-peines-de-cinq-a-douze-ans-de-prison-pour-avoir-rejoint-l-organisation-etat-islamique-en-syrie_8289047.html",
-   "summary": "Trois \"revenantes\" françaises condamnées à des peines de cinq à douze ans de prison pour avoir rejoint l'organisation Etat islamique en Syrie",
-   "image": "https://www.franceinfo.fr/pictures/Kjpf0rsQPNKRZXcDy44aAUBHAtU/0x53:1024x629/432x243/filters:format(jpg)/2026/11/18/6afe2a92568b0220860319.jpg",
+   "title": "Un nombre de produits limités, des recours en cas de complications... La Haute Autorité de santé présente 60 recommandations pour encadrer l'aide à mourir L'autorité publique indépendante avait notamment été chargée de définir quels produits létaux devaient être utilisés. Elle préconise de rendre leur administration la plus simple possible via \"des kits prêts à l'emploi\". Aujourd'hui",
+   "link": "https://www.franceinfo.fr/societe/euthanasie/la-haute-autorite-de-sante-presente-60-recommandations-officielles-pour-encadrer-la-pratique-de-l-aide-a-mourir_8289761.html",
+   "summary": "Un nombre de produits limités, des recours en cas de complications... La Haute Autorité de santé présente 60 recommandations pour encadrer l'aide à mourir",
+   "image": "https://www.franceinfo.fr/pictures/VmUWc-LilQnvYxTX1htBr4P_hV8/432x243/filters:format(jpg)/2026/07/15/6a570cdf54b74143611822.png",
    "date": null,
-   "pubdate": "2026-11-19T02:37:23.135880+00:00"
+   "pubdate": "2026-11-19T11:49:02.021102+00:00"
   },
   {
-   "title": "Un garagiste mis en examen et écroué pour féminicide en Seine-Saint-Denis Le corps sans vie d'une femme avait été découvert samedi dans une camionnette. Au cours son audition, l'homme âgé de 51 ans \"a reconnu être à l'origine du décès de la victime\", selon le parquet. 18 novembre",
-   "link": "https://www.franceinfo.fr/societe/violences-faites-aux-femmes/un-garagiste-mis-en-examen-et-ecroue-pour-feminicide-en-seine-saint-denis_8288963.html",
-   "summary": "Un garagiste mis en examen et écroué pour féminicide en Seine-Saint-Denis",
-   "image": "https://www.franceinfo.fr/pictures/PasmMHWs4bJ3TpSi6BDbS-wkFEo/0x53:1024x629/432x243/filters:format(jpg)/2026/11/18/6afe140abd861038622527.jpg",
+   "title": "Plus de 2 100 mineurs isolés étrangers vivent \"en errance en France\" précise une enquête d'Utopia 56 Ces jeunes sans solution d'hébergement, recensés par l'association Utopia 56, vivent dans la rue, dans des squats ou alors dans des campements. Le chiffre est en diminution depuis quelques années. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/societe/plus-de-2-100-mineurs-isoles-etrangers-vivent-en-errance-en-france-precise-une-enquete-d-utopia-56_8289737.html",
+   "summary": "Plus de 2 100 mineurs isolés étrangers vivent \"en errance en France\" précise une enquête d'Utopia 56",
+   "image": "https://www.franceinfo.fr/pictures/3d39dUjczC8YfXiBjVh9qfwq_vA/0x52:960x592/432x243/filters:format(jpg)/2017/05/04/php70JDeK_1.jpg",
    "date": null,
-   "pubdate": "2026-11-19T02:37:23.135880+00:00"
+   "pubdate": "2026-11-19T11:49:02.021102+00:00"
   },
   {
-   "title": "Une assistante de direction d'un lycée de Rosny-Sous-Bois porte plainte après la découverte d'un tag la menaçant au sein de l'établissement L’inscription gravée sur une porte des toilettes du lycée de Seine-Saint-Denis mentionne son prénom, son nom et les termes \"la sioniste\", \"brûlez-la\" ainsi qu’une étoile de David. 18 novembre",
-   "link": "https://www.franceinfo.fr/societe/antisemitisme/seine-saint-denis-une-assistante-de-direction-d-un-lycee-de-rosny-sous-bois-porte-plainte-apres-la-decouverte-d-un-tag-la-menacant-au-sein-de-l-etablissement_8288978.html",
-   "summary": "Une assistante de direction d'un lycée de Rosny-Sous-Bois porte plainte après la découverte d'un tag la menaçant au sein de l'établissement",
-   "image": "https://www.franceinfo.fr/pictures/j1af88AXys2048YY_DPSNVRdgq4/432x243/filters:format(jpg)/2026/10/08/6ac70eb8c48cd822547657.jpg",
+   "title": "La mairie de Toulouse saisit la justice pour des propos de policiers municipaux \"susceptibles de présenter un caractère raciste, sexiste et homophobe\" \"Le service des ressources humaines examine actuellement les suites disciplinaires à donner à cette affaire\", a précisé la municipalité jeudi dans un communiqué. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/societe/justice/la-justice-saisie-pour-des-propos-discriminatoires-de-policiers-municipaux-a-toulouse_8289725.html",
+   "summary": "La mairie de Toulouse saisit la justice pour des propos de policiers municipaux \"susceptibles de présenter un caractère raciste, sexiste et homophobe\"",
+   "image": "https://www.franceinfo.fr/pictures/zY5E0i1fiVqr2Hn-R3e6xAX7Y-M/0x0:4320x2430/432x243/filters:format(jpg)/2026/11/19/6afec663d0cd7754262141.jpg",
    "date": null,
-   "pubdate": "2026-11-19T02:37:23.135880+00:00"
+   "pubdate": "2026-11-19T11:49:02.021102+00:00"
   },
   {
-   "title": "Présomption de légitime défense pour les forces de l'ordre : \"Ce que j'ai vécu fait que cette loi me fait extrêmement peur\", témoigne le producteur Michel Zecler La loi sur la présomption de légitime défense pour les forces de l'ordre doit être étudiée par le Sénat à partir de ce jeudi, après avoir été adoptée à l'Assemblée nationale en juillet dernier. 18 novembre",
-   "link": "https://www.franceinfo.fr/faits-divers/police/violences-policieres/presomption-de-legitime-defense-pour-les-forces-de-l-ordre-ce-que-j-ai-vecu-fait-que-cette-loi-me-fait-extremement-peur-temoigne-le-producteur-michel-zecler-qui-se-dit-horrifie_8288912.html",
-   "summary": "Présomption de légitime défense pour les forces de l'ordre : \"Ce que j'ai vécu fait que cette loi me fait extrêmement peur\", témoigne le producteur Michel Zecler",
-   "image": "https://www.franceinfo.fr/pictures/bIVebiArpOdSphClhk5JcJk-52o/432x243/filters:format(jpg)/2026/11/13/6af68b6023ba6800821555.jpg",
+   "title": "7 à 9 mois de prison ferme sous bracelet électronique requis contre deux assistantes maternelles de l'Essonne jugées pour avoir entassé des enfants dans une voiture Deux assistantes maternelles de Yerres, âgées de 49 et 41 ans, ont été jugées mercredi après-midi devant le tribunal d'Évry (Essonne). Elles sont notamment accusées d'avoir entassé dans un véhicule 12 enfants, âgés de 6 mois à 7 ans. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/societe/justice/7-et-9-mois-de-prison-ferme-requis-contre-deux-assistantes-maternelles-de-l-essonne-jugees-pour-avoir-entasse-des-enfants-dans-une-voiture_8289686.html",
+   "summary": "7 à 9 mois de prison ferme sous bracelet électronique requis contre deux assistantes maternelles de l'Essonne jugées pour avoir entassé des enfants dans une voiture",
+   "image": "https://www.franceinfo.fr/pictures/SrbEx69aL0OP5w2_oV1UN73H4dk/0x622:6048x4024/432x243/filters:format(jpg)/2022/06/03/phpiMbCec.jpg",
    "date": null,
-   "pubdate": "2026-11-18T20:38:26.442026+00:00"
+   "pubdate": "2026-11-19T11:49:02.021102+00:00"
   },
   {
-   "title": "Facebook, Instagram, TikTok: un organisme européen désavoue leurs décisions de modération dans 74% des cas La France est le premier pays de l'Union européenne comptant le plus de litiges éligibles, en nombre absolu. La procédure pour effectuer ces recours est gratuite. 18 novembre",
-   "link": "https://www.franceinfo.fr/internet/reseaux-sociaux/facebook-instagram-tiktok-un-organisme-europeen-desavoue-leurs-decisions-de-moderation-dans-74-des-cas_8288738.html",
-   "summary": "Facebook, Instagram, TikTok: un organisme européen désavoue leurs décisions de modération dans 74% des cas",
-   "image": "https://www.franceinfo.fr/pictures/MG5tQ1V6pJz5T4e-TCwxGnhVFag/0x250:4800x2950/432x243/filters:format(jpg)/2026/11/18/6afddee55ab6c191881685.jpg",
+   "title": ": Vrai ou faux Des membres du personnel de l'Education nationale sont-ils complices des violences commises en marge des mobilisations lycéennes, comme l'affirme le gouvernement ? Cette accusation a été portée par le Premier ministre, Sébastien Lecornu, ainsi que par les ministres de l'Intérieur, Laurent Nuñez, et de l'Education, Edouard Geffray. Or, les quelques cas signalés par les autorités judiciaires n'ont aucun lien avec la fourniture de mortiers d'artifice à des élèves et concernent des enseignants qui ne sont plus en exercice ou ont agi hors du cadre du lycée. Aujourd'hui : Vrai ou faux",
+   "link": "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-des-membres-du-personnel-de-l-education-nationale-sont-ils-complices-des-violences-commises-en-marge-des-mobilisations-lyceennes-comme-l-affirme-le-gouvernement_8286719.html",
+   "summary": "Des membres du personnel de l'Education nationale sont-ils complices des violences commises en marge des mobilisations lycéennes, comme l'affirme le gouvernement ?",
+   "image": "https://www.franceinfo.fr/pictures/4HXkqA8GUVX4b2vnsAZVqKFhsXE/0x25:1024x601/432x243/filters:format(jpg)/2026/11/18/6afdb53db8c47608275594.jpg",
    "date": null,
-   "pubdate": "2026-11-18T20:38:26.442026+00:00"
+   "pubdate": "2026-11-19T11:49:02.021102+00:00"
   },
   {
-   "title": "Un homme de 18 ans retrouvé mort en Seine-et-Marne après avoir indiqué où se situe le corps d'une jeune femme Cette jeune femme, âgée de 18 ans, a été retrouvée morte dans la commune de Neufmoutiers-en-Brie dans la nuit de mardi à mercredi. 18 novembre",
-   "link": "https://www.franceinfo.fr/societe/violences-faites-aux-femmes/un-homme-de-18-ans-retrouve-mort-en-seine-et-marne-apres-avoir-indique-ou-se-situe-le-corps-d-une-jeune-femme_8288669.html",
-   "summary": "Un homme de 18 ans retrouvé mort en Seine-et-Marne après avoir indiqué où se situe le corps d'une jeune femme",
-   "image": "https://www.franceinfo.fr/pictures/HJ5PowAWJGUmanE-Qi14T_kyQAo/432x243/filters:format(jpg)/2026/09/24/6ab4a59f988c0452929224.jpg",
+   "title": "La déléguée à la protection des enfants à l'école appelle à améliorer la \"culture\" du signalement à la suite du scandale dans le périscolaire Cristelle Gillard rend un rapport jeudi avec ses premières observations sur près de 200 dossiers étudiés. Avec ce rapport, elle veut \"contribuer à l’amélioration de la chaîne de protection des enfants confrontés aux violences subies ou révélées à l’école\". Aujourd'hui",
+   "link": "https://www.franceinfo.fr/societe/education/violences-dans-le-periscolaire/la-deleguee-a-la-protection-des-enfants-a-l-ecole-appelle-a-ameliorer-la-culture-du-signalement-a-la-suite-du-scandale-dans-le-periscolaire_8289422.html",
+   "summary": "La déléguée à la protection des enfants à l'école appelle à améliorer la \"culture\" du signalement à la suite du scandale dans le périscolaire",
+   "image": "https://www.franceinfo.fr/pictures/jB0prd3tX2JX96ejMlB4Ovj1alQ/432x243/filters:format(jpg)/2026/09/10/6aa2c97d53d53289173425.jpg",
    "date": null,
-   "pubdate": "2026-11-18T20:38:26.442026+00:00"
+   "pubdate": "2026-11-19T11:49:02.021102+00:00"
   },
   {
-   "title": "Un procès requis à l'encontre du comédien Philippe Caubère pour viols et agressions sexuelles aggravés, proxénétisme et corruption de mineure L'une de ses victimes, Agathe Pujol, avait raconté que le comédien l'avait \"faite violer\" pendant des années, en postant des annonces sur des sites internet pour des rencontres tarifées. 18 novembre",
-   "link": "https://www.franceinfo.fr/societe/harcelement-sexuel/un-proces-requis-a-l-encontre-du-comedien-philippe-caubere-pour-viols-et-agressions-sexuelles-aggraves-proxenetisme-et-corruption-de-mineure_8288639.html",
-   "summary": "Un procès requis à l'encontre du comédien Philippe Caubère pour viols et agressions sexuelles aggravés, proxénétisme et corruption de mineure",
-   "image": "https://www.franceinfo.fr/pictures/_9yjradvYpaEgnW8V_A_DJ7nqGo/0x360:6490x4011/432x243/filters:format(jpg)/2026/11/18/6afdd398a3b66188298496.jpg",
-   "date": null,
-   "pubdate": "2026-11-18T20:38:26.442026+00:00"
-  },
-  {
-   "title": "Le Défenseur des droits note une déshumanisation des liens entre les élèves et l'institution scolaire Dans un rapport mercredi, François-Noël Buffet évoque une orientation des élèves \"profondément transformée par le recours à des outils algorithmiques\" pour les candidatures. 18 novembre",
-   "link": "https://www.franceinfo.fr/societe/education/le-defenseur-des-droits-note-une-deshumanisation-des-liens-entre-les-eleves-et-l-institution-scolaire_8288624.html",
-   "summary": "Le Défenseur des droits note une déshumanisation des liens entre les élèves et l'institution scolaire",
-   "image": "https://www.franceinfo.fr/pictures/jL0DMEJGmkGv8lm0ik6yDZWrugo/0x0:1024x576/432x243/filters:format(jpg)/2026/11/18/6afdd16a2fbbb452719060.jpg",
-   "date": null,
-   "pubdate": "2026-11-18T20:38:26.442026+00:00"
-  },
-  {
-   "title": "Huit lycéens blessés à Saint-Cloud après des tirs de mortiers d'artifice dans leur établissement Deux des lycéens ont été conduits à l'hôpital par les pompiers, sans que l'on connaisse la gravité de leurs blessures. 18 novembre",
-   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/huit-lyceens-a-saint-cloud-dans-les-hauts-de-seine-pris-en-charge-par-les-pompiers-apres-des-tirs-de-mortiers-d-artifice-dans-leur-lycee_8288516.html",
-   "summary": "Huit lycéens blessés à Saint-Cloud après des tirs de mortiers d'artifice dans leur établissement",
-   "image": "https://www.franceinfo.fr/pictures/lwcq3i_46ddQh7OrRKl4z5fw0e8/0x224:4300x2643/432x243/filters:format(jpg)/2026/11/18/6afdc68cdee10814772955.jpg",
-   "date": null,
-   "pubdate": "2026-11-18T20:38:26.442026+00:00"
-  },
-  {
-   "title": "Les maires de petites villes placent la sécurité en tête de leurs préoccupations, selon une étude Quelque 600 élus de communes de 2 500 à 25 000 habitants ont répondu à une enquête réalisée pour l'Association des petites villes de France. 18 novembre",
-   "link": "https://www.franceinfo.fr/societe/armee-securite-defense/la-securite-en-tete-des-preoccupations-des-maires-de-petites-villes_8288330.html",
-   "summary": "Les maires de petites villes placent la sécurité en tête de leurs préoccupations, selon une étude",
-   "image": "https://www.franceinfo.fr/pictures/lJGmiFkdi3NesieRwW77I6OhJZY/0x25:1024x601/432x243/filters:format(jpg)/2026/11/18/6afdafaf23ab6003444321.jpg",
-   "date": null,
-   "pubdate": "2026-11-18T20:38:26.442026+00:00"
+   "title": "De nouveaux tirs de mortiers devant la cité scolaire d'Amiens : neuf élèves légèrement blessés et un enseignant en état de choc Des mortiers d'artifice ont été tirés devant la cité scolaire d'Amiens, dans la matinée de ce jeudi 19 novembre 2026, blessant légèrement 9 élèves. Un enseignant, en état de choc, a également été pris en charge. Ces méfaits ont entraîné des dégradations. Aujourd'hui",
+   "link": "https://france3-regions.franceinfo.fr/hauts-de-france/somme/amiens/de-nouveaux-tirs-de-mortiers-devant-la-cite-scolaire-sud-d-amiens-neuf-eleves-legerement-blesses-et-un-enseignant-en-etat-de-choc-3452493.html",
+   "summary": "De nouveaux tirs de mortiers devant la cité scolaire d'Amiens : neuf élèves légèrement blessés et un enseignant en état de choc",
+   "image": "https://www.franceinfo.fr/pictures/4asM8YiouBOWYzn57kV6kbLyEYE/432x243/filters:format(jpg)/2026/11/19/6aff0ba5b4025947428808.jpg",
+   "date": "2026-11-19T11:00:00+00:00",
+   "pubdate": "2026-11-19T11:00:00+00:00"
   },
   {
    "title": "Nos jours heureux 5 contenus",
