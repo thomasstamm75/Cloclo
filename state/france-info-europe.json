@@ -1,45 +1,119 @@
 {
- "etag": "\"85013aed7b1ad2ce23a9de0e732ceb00-gzip\"",
+ "etag": "\"9fa6c2253e146b0ba2be9b16d8ab2bf9-gzip\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.franceinfo.fr/monde/russie/enquete-franceinfo-on-l-appelait-poutine-girl-comment-la-france-verrouille-les-demandes-de-visas-diplomatiques-russes-pour-limiter-les-risques-d-espionnage_8204495.html": "2026-10-27T09:06:52.195523+00:00",
   "https://www.franceinfo.fr/politique/grand-entretien-en-belgique-un-cordon-sanitaire-mediatique-empeche-toute-forme-de-banalisation-de-l-extreme-droite-un-outil-difficile-a-imaginer-en-france_8265599.html": "2026-11-04T17:19:33.406625+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-couper-le-robinet-de-petrole-russe-en-mission-avec-les-oiseaux-de-madyar-la-brigade-de-dronistes-ukrainiens-la-plus-pourchassee-par-les-russes_8255023.html": "2026-11-10T14:58:52.045882+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/reportage-ca-facilite-grandement-le-travail-de-nos-soldats-les-robots-de-combat-ukrainiens-deviennent-incontournables-sur-le-front-et-permettent-de-reprendre-du-terrain-aux-russes_8284292.html": "2026-11-16T06:42:10.582662+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/pourquoi-la-russie-accuse-la-france-de-participer-directement-a-la-guerre-en-ukraine_8286422.html": "2026-11-17T16:09:11.299889+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-union-europeenne-propose-un-nouveau-pret-de-45-milliards-d-euros-a-l-ukraine-pour-2027_8288159.html": "2026-11-18T11:52:05.373858+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/reportage-ils-envoient-leurs-hommes-a-la-mort-des-militaires-ukrainiens-decrivent-l-impreparation-des-soldats-russes-envoyes-au-front_8287886.html": "2026-11-18T11:52:05.373858+00:00",
   "https://www.franceinfo.fr/replay-radio/les-informes-du-matin/les-informes-du-matin-du-mercredi-18-novembre-2026_8266724.html": "2026-11-18T11:00:00+00:00",
   "https://www.franceinfo.fr/replay-radio/le-tour-de-la-question/bruxelles-menace-temu-d-une-nouvelle-amende-pour-non-respect-des-regles-europeennes_8287730.html": "2026-11-18T11:52:05.373858+00:00",
   "https://www.franceinfo.fr/replay-radio/ca-dit-quoi/podcast-termine-le-3-fois-sans-frais-gta-avant-tout-le-monde-et-soldats-francais-en-ukraine-ca-dit-quoi-ce-18-novembre_8278361.html": "2026-11-18T11:52:05.373858+00:00",
-  "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/ni-avenir-ni-humanite-le-premier-ministre-espagnol-pedro-sanchez-s-oppose-au-projet-europeen-de-centre-pour-migrants-au-rwanda_8266730.html": "2026-11-18T11:52:05.373858+00:00",
   "https://www.franceinfo.fr/monde/europe/migrants/un-campement-evacue-a-paris-pres-de-la-station-de-metro-stalingrad-172-personnes-mises-a-l-abri-selon-les-autorites_8288762.html": "2026-11-18T20:38:30.769595+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/le-pont-de-crimee-a-de-nouveau-ete-nouveau-attaque-deux-jours-apres-des-frappes-ukrainiennes-ayant-serieusement-endommage-l-infrastructure_8289056.html": "2026-11-19T02:37:27.795559+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/vos-questions-sur-l-effort-de-guerre-de-la-france/": "2026-11-19T02:37:27.795559+00:00",
-  "https://www.franceinfo.fr/monde/europe/migrants/europe-des-migrants-expulses-vers-le-rwanda_8288939.html": "2026-11-19T11:49:06.779533+00:00",
-  "https://www.franceinfo.fr/monde/europe/migrants/a-suivre-alban-mikoczy-des-migrants-expulses-d-europe-vers-le-rwanda_8289521.html": "2026-11-19T11:49:06.779533+00:00",
   "https://www.franceinfo.fr/replay-radio/le-brief-eco/baisse-de-la-taxe-sur-l-electricite-plafonnement-du-prix-des-carburants-l-allemagne-prend-des-mesures-concretes-pour-lutter-contre-la-vie-chere_8268656.html": "2026-11-19T11:49:06.779533+00:00",
   "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/direct-rencontre-donald-trump-vladimir-poutine-xi-jinping-suivez-l-entretien-inedit-entre-les-trois-presidents-en-chine_8288564.html": "2026-11-19T11:49:06.779533+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/qui-est-fire-point-l-entreprise-ukrainienne-dont-les-drones-et-missiles-ont-joue-un-role-dans-l-attaque-contre-le-pont-de-crimee_8287982.html": "2026-11-19T11:49:06.779533+00:00",
   "https://www.franceinfo.fr/monde/usa/un-composant-fabrique-uniquement-a-bordeaux-pourrait-freiner-la-production-des-missiles-patriot-americains_8290079.html": "2026-11-19T20:44:30.904935+00:00",
-  "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/sommet-tripartite-entre-donald-trump-vladimir-poutine-et-xi-jinping-une-reunion-historique-aux-forts-enjeux-pour-les-trois-dirigeants_8290145.html": "2026-11-19T20:44:30.904935+00:00",
   "https://www.franceinfo.fr/monde/europe/union-europeenne/la-commission-europeenne-annonce-avoir-ete-la-cible-d-une-cyberattaque-assistee-par-l-intelligence-artificielle-en-octobre_8289959.html": "2026-11-19T20:44:30.904935+00:00",
   "https://www.franceinfo.fr/replay-jt/france-2/20-heures/si-on-avait-su-ce-qu-allait-donner-le-brexit-pas-grand-monde-n-aurait-vote-pour-ces-anglais-prets-a-revenir-dans-l-europe_8290721.html": "2026-11-20T02:22:26.826723+00:00",
   "https://www.franceinfo.fr/monde/europe/la-grande-bretagne-et-l-ue/six-ans-apres-le-brexit-le-royaume-uni-a-t-il-gagne-au-change-en-quittant-l-europe_8290727.html": "2026-11-20T02:22:26.826723+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/un-quart-des-enfants-du-monde-vivent-dans-une-zone-de-conflit-alerte-l-ong-save-the-children_8290703.html": "2026-11-20T02:22:26.826723+00:00"
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/un-quart-des-enfants-du-monde-vivent-dans-une-zone-de-conflit-alerte-l-ong-save-the-children_8290703.html": "2026-11-20T02:22:26.826723+00:00",
+  "https://www.franceinfo.fr/monde/europe/migrants/seize-migrants-decouverts-dans-un-camion-au-terminal-ferry-a-ouistreham-sur-le-point-de-partir-pour-la-grande-bretagne_8292182.html": "2026-11-20T11:50:12.898520+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-un-missile-russe-tombe-dans-le-sud-est-de-la-pologne-sans-faire-de-blesse_8292080.html": "2026-11-20T11:50:12.898520+00:00",
+  "https://www.franceinfo.fr/monde/europe/la-grande-bretagne-et-l-ue/la-moitie-des-britanniques-favorables-a-un-retour-dans-l-union-europeenne_8292098.html": "2026-11-20T11:50:12.898520+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/une-usine-d-armement-basee-dans-le-cher-doit-augmenter-sa-production-de-60-000-a-150-000-obus-fabriques-par-an_8291966.html": "2026-11-20T11:50:12.898520+00:00",
+  "https://www.franceinfo.fr/monde/chine/vladimir-poutine-xi-jinping-et-donald-trump-signent-une-declaration-de-paix-lors-d-un-sommet-inedit-en-chine_8291768.html": "2026-11-20T11:50:12.898520+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/trois-personnes-sont-mortes-a-kiev-apres-des-frappes-russes-sur-l-ukraine_8291687.html": "2026-11-20T11:50:12.898520+00:00",
+  "https://www.franceinfo.fr/monde/royaume-uni/nous-avons-perdu-plus-que-nous-avons-gagne-dix-ans-apres-le-brexit-le-royaume-uni-veut-a-nouveau-se-rapprocher-de-l-union-europeenne_8288675.html": "2026-11-20T11:50:12.898520+00:00",
+  "https://www.franceinfo.fr/monde/europe/de-l-espagne-a-l-albanie-en-passant-par-la-france-une-jeunesse-europeenne-unie-par-des-causes-communes-descend-dans-la-rue_8290049.html": "2026-11-20T11:50:12.898520+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "\"Si on avait su ce qu'allait donner le Brexit, pas grand monde n'aurait voté pour\" : ces Anglais prêts à revenir dans l'Europe Vendredi 20 novembre, c’est à Bruxelles que se poursuit le rapprochement entre Londres et l’Union européenne. L’occasion de retrouver ceux qui avaient voté pour le Brexit. Dix ans après le référendum, plus de la moitié des Britanniques se disent favorables à un retour du Royaume-Uni dans l’Union européenne. Qu’est-ce qui les a fait changer d’avis ? Aujourd'hui 6:17 vidéo 6 minutes 17",
+   "title": "Baisse de la taxe sur l'électricité, plafonnement du prix des carburants... l’Allemagne prend des mesures concrètes pour lutter contre la vie chère La coalition au pouvoir en Allemagne a décidé de réduire fortement la taxe sur l’électricité dès le 1er janvier 2027. Une mesure destinée à soutenir le pouvoir d’achat des ménages et les entreprises, qui constitue aussi une victoire politique pour le chancelier Friedrich Merz. Cette coalition est également parvenue à un accord pour plafonner les prix des carburants. 19 novembre 2:30 audio 2 minutes 30",
+   "link": "https://www.franceinfo.fr/replay-radio/le-brief-eco/baisse-de-la-taxe-sur-l-electricite-plafonnement-du-prix-des-carburants-l-allemagne-prend-des-mesures-concretes-pour-lutter-contre-la-vie-chere_8268656.html",
+   "summary": "Baisse de la taxe sur l'électricité, plafonnement du prix des carburants... l’Allemagne prend des mesures concrètes pour lutter contre la vie chère",
+   "image": "https://www.franceinfo.fr/pictures/go15OaF59sLJtfXDZsUMx3Cffrs/0x47:1024x623/432x243/filters:format(jpg)/2026/11/19/6afe95d16b7ef135407551.jpg",
+   "date": "2027-01-01T11:00:00+00:00",
+   "pubdate": "2027-01-01T11:00:00+00:00"
+  },
+  {
+   "title": "Seize migrants découverts dans un camion au terminal ferry à Ouistreham, sur le point de partir pour la Grande-Bretagne Montés dans un camion dans le secteur de Tours, ils ont été découverts quelques heures avant le départ du bateau qui partait en direction de Portsmouth, en Angleterre. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/europe/migrants/seize-migrants-decouverts-dans-un-camion-au-terminal-ferry-a-ouistreham-sur-le-point-de-partir-pour-la-grande-bretagne_8292182.html",
+   "summary": "Seize migrants découverts dans un camion au terminal ferry à Ouistreham, sur le point de partir pour la Grande-Bretagne",
+   "image": "https://www.franceinfo.fr/pictures/AHknoXWDhZ1_N2ffaHS9Ra3Wpvo/210x0:1200x680/432x297/filters:format(jpg)/2026/11/20/6b003029050ec858784235.jpeg",
+   "date": null,
+   "pubdate": "2026-11-20T11:50:12.898520+00:00"
+  },
+  {
+   "title": "• Direct Guerre en Ukraine : un missile russe tombé dans le sud-est de la Pologne, sans faire de blessé Aujourd'hui • Direct",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-un-missile-russe-tombe-dans-le-sud-est-de-la-pologne-sans-faire-de-blesse_8292080.html",
+   "summary": "Guerre en Ukraine : un missile russe tombé dans le sud-est de la Pologne, sans faire de blessé",
+   "image": "https://www.franceinfo.fr/pictures/QemzggAKAV7PKqyBtFwH3wwb1OU/0x0:1024x576/432x243/filters:format(jpg)/2026/11/20/6b002fe0d6b39161825273.jpg",
+   "date": null,
+   "pubdate": "2026-11-20T11:50:12.898520+00:00"
+  },
+  {
+   "title": "La moitié des Britanniques favorables à un retour dans l'Union européenne Aujourd'hui 2:52 vidéo 2 minutes 52",
+   "link": "https://www.franceinfo.fr/monde/europe/la-grande-bretagne-et-l-ue/la-moitie-des-britanniques-favorables-a-un-retour-dans-l-union-europeenne_8292098.html",
+   "summary": "La moitié des Britanniques favorables à un retour dans l'Union européenne",
+   "image": "https://www.franceinfo.fr/pictures/zOI-QyE-Uub0p02n5edS43l_VUM/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/20/6b0027b53349f180468100.jpg",
+   "date": null,
+   "pubdate": "2026-11-20T11:50:12.898520+00:00"
+  },
+  {
+   "title": "Une usine d'armement basée dans le Cher doit augmenter sa production de 60 000 à 150 000 obus fabriqués par an Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/une-usine-d-armement-basee-dans-le-cher-doit-augmenter-sa-production-de-60-000-a-150-000-obus-fabriques-par-an_8291966.html",
+   "summary": "Une usine d'armement basée dans le Cher doit augmenter sa production de 60 000 à 150 000 obus fabriqués par an",
+   "image": "https://www.franceinfo.fr/pictures/lisDBYCQkbfjtew-FHZYiNdqQoM/0x0:1000x562/432x243/filters:format(jpg)/2026/11/20/6b0015a7b3eec830419977.jpeg",
+   "date": null,
+   "pubdate": "2026-11-20T11:50:12.898520+00:00"
+  },
+  {
+   "title": "Vladimir Poutine, Xi Jinping et Donald Trump signent une \"déclaration de paix\" lors d'un sommet inédit en Chine Aujourd'hui 2:04 vidéo 2 minutes 4",
+   "link": "https://www.franceinfo.fr/monde/chine/vladimir-poutine-xi-jinping-et-donald-trump-signent-une-declaration-de-paix-lors-d-un-sommet-inedit-en-chine_8291768.html",
+   "summary": "Vladimir Poutine, Xi Jinping et Donald Trump signent une \"déclaration de paix\" lors d'un sommet inédit en Chine",
+   "image": "https://www.franceinfo.fr/pictures/uFx22S8uPdVeEny0DiMHOq9p5Ig/0x28:1085x638/432x243/filters:format(jpg)/2026/11/20/6affeff26baa4688698355.jpg",
+   "date": null,
+   "pubdate": "2026-11-20T11:50:12.898520+00:00"
+  },
+  {
+   "title": "Six personnes sont mortes à Kiev après des frappes russes sur l'Ukraine Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/trois-personnes-sont-mortes-a-kiev-apres-des-frappes-russes-sur-l-ukraine_8291687.html",
+   "summary": "Six personnes sont mortes à Kiev après des frappes russes sur l'Ukraine",
+   "image": "https://www.franceinfo.fr/pictures/F83CjXBEVuSAF_t2Z_JP-l5M1v4/0x596:5725x3817/432x243/filters:format(jpg)/2026/11/20/6affe22072823604007453.jpg",
+   "date": null,
+   "pubdate": "2026-11-20T11:50:12.898520+00:00"
+  },
+  {
+   "title": "\"Nous avons perdu plus que nous avons gagné\" : dix ans après le Brexit, le Royaume-Uni veut à nouveau se rapprocher de l'Union européenne Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/royaume-uni/nous-avons-perdu-plus-que-nous-avons-gagne-dix-ans-apres-le-brexit-le-royaume-uni-veut-a-nouveau-se-rapprocher-de-l-union-europeenne_8288675.html",
+   "summary": "\"Nous avons perdu plus que nous avons gagné\" : dix ans après le Brexit, le Royaume-Uni veut à nouveau se rapprocher de l'Union européenne",
+   "image": "https://www.franceinfo.fr/pictures/GP0t0o4Bi_UULZeFChdiFs7slJs/0x100:1024x676/432x243/filters:format(jpg)/2026/11/18/6afdd5eb87aea530253435.jpg",
+   "date": null,
+   "pubdate": "2026-11-20T11:50:12.898520+00:00"
+  },
+  {
+   "title": "De l'Espagne à l'Albanie en passant par la France, une jeunesse européenne unie par des causes communes descend dans la rue 9:00 article 9 minutes",
+   "link": "https://www.franceinfo.fr/monde/europe/de-l-espagne-a-l-albanie-en-passant-par-la-france-une-jeunesse-europeenne-unie-par-des-causes-communes-descend-dans-la-rue_8290049.html",
+   "summary": "De l'Espagne à l'Albanie en passant par la France, une jeunesse européenne unie par des causes communes descend dans la rue",
+   "image": "https://www.franceinfo.fr/pictures/wottJ-87phlwjr0-rP4_iBtRMBs/0x0:2000x1125/432x243/filters:format(jpg)/2026/11/19/6afef8f20352c032597013.jpg",
+   "date": null,
+   "pubdate": "2026-11-20T11:50:12.898520+00:00"
+  },
+  {
+   "title": "\"Si on avait su ce qu'allait donner le Brexit, pas grand monde n'aurait voté pour\" : ces Anglais prêts à revenir dans l'Europe 19 novembre 6:17 vidéo 6 minutes 17",
    "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/si-on-avait-su-ce-qu-allait-donner-le-brexit-pas-grand-monde-n-aurait-vote-pour-ces-anglais-prets-a-revenir-dans-l-europe_8290721.html",
    "summary": "\"Si on avait su ce qu'allait donner le Brexit, pas grand monde n'aurait voté pour\" : ces Anglais prêts à revenir dans l'Europe",
-   "image": "https://www.franceinfo.fr/pictures/cT1QJn3X_llSTEldLbR8vEWzjW4/174x0:1745x1080/432x297/filters:format(jpg)/2026/11/19/6aff6714a7d88508783959.jpg",
+   "image": "https://www.franceinfo.fr/pictures/QJuYa84rblKeELuIN5MdBnHQzG0/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/19/6aff6714a7d88508783959.jpg",
    "date": null,
    "pubdate": "2026-11-20T02:22:26.826723+00:00"
   },
   {
-   "title": "Six ans après le Brexit, le Royaume-Uni a-t-il gagné au change en quittant l'Europe ? Aujourd'hui 1:16 vidéo 1 minute 16",
+   "title": "Six ans après le Brexit, le Royaume-Uni a-t-il gagné au change en quittant l'Europe ? 19 novembre 1:16 vidéo 1 minute 16",
    "link": "https://www.franceinfo.fr/monde/europe/la-grande-bretagne-et-l-ue/six-ans-apres-le-brexit-le-royaume-uni-a-t-il-gagne-au-change-en-quittant-l-europe_8290727.html",
    "summary": "Six ans après le Brexit, le Royaume-Uni a-t-il gagné au change en quittant l'Europe ?",
    "image": "https://www.franceinfo.fr/pictures/cCiK2RuRUFlVpneVrtpMuBbeH2U/265x0:1238x547/432x243/filters:format(jpg)/2026/11/19/6aff68894a07e603929518.jpg",
@@ -47,7 +121,7 @@
    "pubdate": "2026-11-20T02:22:26.826723+00:00"
   },
   {
-   "title": "Un quart des enfants du monde vivent dans une zone de conflit, alerte l'ONG Save The Children Aujourd'hui",
+   "title": "Un quart des enfants du monde vivent dans une zone de conflit, alerte l'ONG Save The Children 19 novembre",
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/un-quart-des-enfants-du-monde-vivent-dans-une-zone-de-conflit-alerte-l-ong-save-the-children_8290703.html",
    "summary": "Un quart des enfants du monde vivent dans une zone de conflit, alerte l'ONG Save The Children",
    "image": "https://www.franceinfo.fr/pictures/kxfEwg4PgdQ5dHZGhh56X0zwjS4/0x53:1024x629/432x243/filters:format(jpg)/2026/11/19/6aff65d407d57395997344.jpg",
@@ -55,7 +129,7 @@
    "pubdate": "2026-11-20T02:22:26.826723+00:00"
   },
   {
-   "title": "Un composant fabriqué uniquement à Bordeaux pourrait freiner la production des missiles Patriot américains Aujourd'hui",
+   "title": "Un composant fabriqué uniquement à Bordeaux pourrait freiner la production des missiles Patriot américains L'Ukraine réclame davantage de missiles antimissiles Patriot pour se défendre contre les frappes russes, mais un composant indispensable à leur fabrication pourrait venir à manquer. Selon le \"Wall Street Journal\", cette pièce stratégique est produite exclusivement par ArianeGroup, dans une usine près de Bordeaux, dont les capacités sont limitées. 19 novembre",
    "link": "https://www.franceinfo.fr/monde/usa/un-composant-fabrique-uniquement-a-bordeaux-pourrait-freiner-la-production-des-missiles-patriot-americains_8290079.html",
    "summary": "Un composant fabriqué uniquement à Bordeaux pourrait freiner la production des missiles Patriot américains",
    "image": "https://www.franceinfo.fr/pictures/eftZSWJ9OkHzC3SbMgnjdXNb8Ek/0x53:1024x629/432x243/filters:format(jpg)/2026/11/19/6aff044000c3c055649252.jpg",
@@ -63,15 +137,7 @@
    "pubdate": "2026-11-19T20:44:30.904935+00:00"
   },
   {
-   "title": "Sommet tripartite entre Donald Trump, Vladimir Poutine et Xi Jinping : une réunion historique aux forts enjeux pour les trois dirigeants Aujourd'hui 2:15 vidéo 2 minutes 15",
-   "link": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/sommet-tripartite-entre-donald-trump-vladimir-poutine-et-xi-jinping-une-reunion-historique-aux-forts-enjeux-pour-les-trois-dirigeants_8290145.html",
-   "summary": "Sommet tripartite entre Donald Trump, Vladimir Poutine et Xi Jinping : une réunion historique aux forts enjeux pour les trois dirigeants",
-   "image": "https://www.franceinfo.fr/pictures/6at1Q_pGKGTbTbhVE7jqKoyj98I/175x0:1034x483/432x243/filters:format(jpg)/2026/11/19/6aff0ba4d483f936910033.jpg",
-   "date": null,
-   "pubdate": "2026-11-19T20:44:30.904935+00:00"
-  },
-  {
-   "title": "La Commission européenne annonce avoir été la cible d'une cyberattaque assistée par l'intelligence artificielle en octobre Aujourd'hui",
+   "title": "La Commission européenne annonce avoir été la cible d'une cyberattaque assistée par l'intelligence artificielle en octobre Un porte-parole a précisé jeudi qu'à ce stade, la Commission européenne n'avait pas la preuve de vol de données personnelles. 19 novembre",
    "link": "https://www.franceinfo.fr/monde/europe/union-europeenne/la-commission-europeenne-annonce-avoir-ete-la-cible-d-une-cyberattaque-assistee-par-l-intelligence-artificielle-en-octobre_8289959.html",
    "summary": "La Commission européenne annonce avoir été la cible d'une cyberattaque assistée par l'intelligence artificielle en octobre",
    "image": "https://www.franceinfo.fr/pictures/BmHogpXBQg429Npzk80XG1rlrGY/0x630:6048x4032/432x243/filters:format(jpg)/2026/11/19/6afedf5283d0d937894845.jpg",
@@ -79,31 +145,7 @@
    "pubdate": "2026-11-19T20:44:30.904935+00:00"
   },
   {
-   "title": "Europe, des migrants expulsés vers le Rwanda ? Aujourd'hui 2:01 vidéo 2 minutes 1",
-   "link": "https://www.franceinfo.fr/monde/europe/migrants/europe-des-migrants-expulses-vers-le-rwanda_8288939.html",
-   "summary": "Europe, des migrants expulsés vers le Rwanda ?",
-   "image": "https://www.franceinfo.fr/pictures/TRbV34qtLblXeFZOSVCCCf3EtzI/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/18/6afe06b42366e174329981.jpg",
-   "date": null,
-   "pubdate": "2026-11-19T11:49:06.779533+00:00"
-  },
-  {
-   "title": "A suivre Alban Mikoczy : des migrants expulsés d'Europe vers le Rwanda ? Aujourd'hui 22:13 vidéo 22 minutes 13",
-   "link": "https://www.franceinfo.fr/monde/europe/migrants/a-suivre-alban-mikoczy-des-migrants-expulses-d-europe-vers-le-rwanda_8289521.html",
-   "summary": "A suivre Alban Mikoczy : des migrants expulsés d'Europe vers le Rwanda ?",
-   "image": "https://www.franceinfo.fr/pictures/DJ6v_EaoXtbuVBCnfjzj42y2a6I/0x0:1525x857/432x243/filters:format(jpg)/2026/11/19/6afe9ade43a5b936133733.jpg",
-   "date": null,
-   "pubdate": "2026-11-19T11:49:06.779533+00:00"
-  },
-  {
-   "title": "Baisse de la taxe sur l'électricité, plafonnement du prix des carburants... l’Allemagne prend des mesures concrètes pour lutter contre la vie chère Aujourd'hui 2:30 audio 2 minutes 30",
-   "link": "https://www.franceinfo.fr/replay-radio/le-brief-eco/baisse-de-la-taxe-sur-l-electricite-plafonnement-du-prix-des-carburants-l-allemagne-prend-des-mesures-concretes-pour-lutter-contre-la-vie-chere_8268656.html",
-   "summary": "Baisse de la taxe sur l'électricité, plafonnement du prix des carburants... l’Allemagne prend des mesures concrètes pour lutter contre la vie chère",
-   "image": "https://www.franceinfo.fr/pictures/go15OaF59sLJtfXDZsUMx3Cffrs/0x47:1024x623/432x243/filters:format(jpg)/2026/11/19/6afe95d16b7ef135407551.jpg",
-   "date": null,
-   "pubdate": "2026-11-19T11:49:06.779533+00:00"
-  },
-  {
-   "title": "Rencontre entre Trump, Poutine et Xi : le président russe affirme avoir eu une discussion \"ouverte\" et \"très utile\" avec ses homologues Aujourd'hui",
+   "title": "Rencontre entre Trump, Poutine et Xi : le président russe affirme avoir eu une discussion \"ouverte\" et \"très utile\" avec ses homologues Les chefs d'Etat américain, russe et chinois se sont réunis jeudi pour un sommet tripartite pour \"préserver la paix mondiale\". 19 novembre",
    "link": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/direct-rencontre-donald-trump-vladimir-poutine-xi-jinping-suivez-l-entretien-inedit-entre-les-trois-presidents-en-chine_8288564.html",
    "summary": "Rencontre entre Trump, Poutine et Xi : le président russe affirme avoir eu une discussion \"ouverte\" et \"très utile\" avec ses homologues",
    "image": "https://www.franceinfo.fr/pictures/Uen5_O2QVqpaG_T1q8kTdBvGCYQ/0x576:7101x4571/432x243/filters:format(jpg)/2026/11/19/6afeca271ef91832674172.jpg",
@@ -111,7 +153,7 @@
    "pubdate": "2026-11-19T11:49:06.779533+00:00"
   },
   {
-   "title": "Qui est Fire Point, l'entreprise ukrainienne dont les drones et missiles ont joué un rôle dans l'attaque contre le pont de Crimée ? Cette opération complexe, minutieusement préparée pendant des semaines, a nécessité l'emploi d'une douzaine d'armes différentes. La firme, fer de lance de l'industrie ukrainienne de la défense, a largement commenté ce succès. Aujourd'hui",
+   "title": "Qui est Fire Point, l'entreprise ukrainienne dont les drones et missiles ont joué un rôle dans l'attaque contre le pont de Crimée ? Cette opération complexe, minutieusement préparée pendant des semaines, a nécessité l'emploi d'une douzaine d'armes différentes. La firme, fer de lance de l'industrie ukrainienne de la défense, a largement commenté ce succès. 19 novembre",
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/qui-est-fire-point-l-entreprise-ukrainienne-dont-les-drones-et-missiles-ont-joue-un-role-dans-l-attaque-contre-le-pont-de-crimee_8287982.html",
    "summary": "Qui est Fire Point, l'entreprise ukrainienne dont les drones et missiles ont joué un rôle dans l'attaque contre le pont de Crimée ?",
    "image": "https://www.franceinfo.fr/pictures/WagpxFktX6aAS0A41tYlK-P8R7o/54x0:1945x1064/432x243/filters:format(jpg)/2026/11/18/6afd91183a18b773638443.jpg",
@@ -127,7 +169,7 @@
    "pubdate": "2026-11-19T02:37:27.795559+00:00"
   },
   {
-   "title": "Le pont de Crimée de nouveau attaqué, deux jours après des frappes ukrainiennes qui ont endommagé l'infrastructure La circulation sur l'ouvrage, qui relie la Crimée annexée à la Russie, \"est temporairement interrompue\", a annoncé mercredi soir un responsable local russe. Aujourd'hui",
+   "title": "Le pont de Crimée de nouveau attaqué, deux jours après des frappes ukrainiennes qui ont endommagé l'infrastructure La circulation sur l'ouvrage, qui relie la Crimée annexée à la Russie, \"est temporairement interrompue\", a annoncé mercredi soir un responsable local russe. 19 novembre",
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/le-pont-de-crimee-a-de-nouveau-ete-nouveau-attaque-deux-jours-apres-des-frappes-ukrainiennes-ayant-serieusement-endommage-l-infrastructure_8289056.html",
    "summary": "Le pont de Crimée de nouveau attaqué, deux jours après des frappes ukrainiennes qui ont endommagé l'infrastructure",
    "image": "https://www.franceinfo.fr/pictures/FThduinxN8W23zmCZGJJM4P1U3A/0x0:1024x576/432x243/filters:format(jpg)/2026/11/18/6afe2de6c5900212535077.jpg",
@@ -175,28 +217,12 @@
    "pubdate": "2026-11-18T11:52:05.373858+00:00"
   },
   {
-   "title": "\"Ni avenir ni humanité\" : le Premier ministre espagnol, Pedro Sanchez, s'oppose au projet européen de centre pour migrants au Rwanda Le projet a été présenté par l’Allemagne, l’Autriche, le Danemark, la Grèce et les Pays-Bas pour durcir la lutte contre l'immigration illégale. 18 novembre 2:55 audio 2 minutes 55",
-   "link": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/ni-avenir-ni-humanite-le-premier-ministre-espagnol-pedro-sanchez-s-oppose-au-projet-europeen-de-centre-pour-migrants-au-rwanda_8266730.html",
-   "summary": "\"Ni avenir ni humanité\" : le Premier ministre espagnol, Pedro Sanchez, s'oppose au projet européen de centre pour migrants au Rwanda",
-   "image": "https://www.franceinfo.fr/pictures/A3j6p_0OCObf1JtF8YWu2KjYGxY/0x0:1024x576/432x243/filters:format(jpg)/2026/11/18/6afd4511f1785524512375.jpg",
-   "date": null,
-   "pubdate": "2026-11-18T11:52:05.373858+00:00"
-  },
-  {
    "title": "Les informés du matin du mercredi 18 novembre 2026 Les informés débattent de l'actualité autour d'Agathe Lambret et Renaud Dély. 18 novembre 22:06 audio 22 minutes 6",
    "link": "https://www.franceinfo.fr/replay-radio/les-informes-du-matin/les-informes-du-matin-du-mercredi-18-novembre-2026_8266724.html",
    "summary": "Les informés du matin du mercredi 18 novembre 2026",
    "image": "https://www.franceinfo.fr/pictures/TKWb09bmk3TJazMzKgqtt36pV4Q/0x292:5616x3451/432x243/filters:format(jpg)/2026/07/08/6a4e52a5b634b233317025.jpg",
    "date": "2026-11-18T11:00:00+00:00",
    "pubdate": "2026-11-18T11:00:00+00:00"
-  },
-  {
-   "title": "Pourquoi la Russie accuse la France de \"participer directement\" à la guerre en Ukraine Radio France internationale a révélé l'existence d'un détachement de l'armée française sur le sol ukrainien. Le gouvernement français assure que ces militaires ne participent pas aux combats. 17 novembre",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/pourquoi-la-russie-accuse-la-france-de-participer-directement-a-la-guerre-en-ukraine_8286422.html",
-   "summary": "Pourquoi la Russie accuse la France de \"participer directement\" à la guerre en Ukraine",
-   "image": "https://www.franceinfo.fr/pictures/tdwE0ZXOt_-F8mV4_A2_zmbbOMA/0x138:1760x1128/432x243/filters:format(jpg)/2026/11/17/6afc65e2ca498602240298.jpg",
-   "date": null,
-   "pubdate": "2026-11-17T16:09:11.299889+00:00"
   },
   {
    "title": ": Reportage \"Ça facilite grandement le travail de nos soldats\" : les robots de combat ukrainiens deviennent incontournables sur le front et permettent de reprendre du terrain aux Russes : Reportage 3:00 article 3 minutes",
@@ -221,14 +247,6 @@
    "image": "https://www.franceinfo.fr/pictures/8jhw81QIhD7mLmBqp2LCi5CRN2I/0x0:4300x2418/432x243/filters:format(jpg)/2026/11/03/6aea17e3db34d727066316.jpg",
    "date": null,
    "pubdate": "2026-11-04T17:19:33.406625+00:00"
-  },
-  {
-   "title": ": Enquête franceinfo \"On l'appelait 'Poutine Girl'\" : comment la France verrouille les demandes de visas diplomatiques russes pour limiter les risques d'espionnage : Enquête franceinfo 7:00 article 7 minutes",
-   "link": "https://www.franceinfo.fr/monde/russie/enquete-franceinfo-on-l-appelait-poutine-girl-comment-la-france-verrouille-les-demandes-de-visas-diplomatiques-russes-pour-limiter-les-risques-d-espionnage_8204495.html",
-   "summary": "\"On l'appelait 'Poutine Girl'\" : comment la France verrouille les demandes de visas diplomatiques russes pour limiter les risques d'espionnage",
-   "image": "https://www.franceinfo.fr/pictures/V7Ibpoeuv2Zaalwt_XKuMO7Dkug/0x0:3840x2160/432x243/filters:format(jpg)/2026/10/13/6acdf7b4ac2f8834592008.jpg",
-   "date": null,
-   "pubdate": "2026-10-27T09:06:52.195523+00:00"
   }
  ]
 }

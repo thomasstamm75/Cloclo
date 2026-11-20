@@ -2,15 +2,55 @@
  "etag": "",
  "last_modified": "",
  "first_seen": {
-  "https://www.cnews.fr/emission/2026-11-16/la-matinale-emission-du-16112026-1955018": "2026-11-16T06:29:00+00:00",
-  "https://www.europe1.fr/emissions/europe-1-matin-1/europe-1-matin-alexis-de-la-flechere-14-11-2026-1232603": "2026-11-14T07:26:00+00:00",
-  "https://www.capital.fr/immobilier/presidentielle-2027-ce-que-proposent-les-candidats-pour-les-proprietaires-1531813": "2026-11-13T14:17:00+00:00",
-  "https://www.sudradio.fr/emission/faut-quon-sorganise-11": "2026-11-13T12:12:00+00:00",
   "https://www.capital.fr/economie-politique/les-plus-riches-ont-paye-9-dimpot-en-moins-et-pas-vous-agnes-verdier-molinie-explique-pourquoi-1531898": "2026-11-17T09:31:00+00:00",
-  "https://www.europe1.fr/emissions/ledito-eco/le-faux-proces-fiscal-des-grandes-fortunes-1238448": "2026-11-17T08:25:00+00:00"
+  "https://www.cnews.fr/emission/2026-11-20/la-matinale-emission-du-20112026-1957937": "2026-11-20T07:09:00+00:00",
+  "https://www.cnews.fr/podcast/lheuredeslivres/2025-11-20/lheure-des-livres-emission-du-20112025": "2026-11-20T07:05:00+00:00",
+  "https://www.cnews.fr/emission/2026-11-19/la-matinale-emission-du-19112026-1957217": "2026-11-19T08:57:00+00:00",
+  "https://www.europe1.fr/emissions/ledito-eco/fonctionnaires-le-mensonge-du-pouvoir-dachat-1240092": "2026-11-19T07:08:00+00:00",
+  "https://www.bfmtv.com/replay-emissions/100-mabrouk/video-invitee-catherine-nay_VN-202611181053.html": "2026-11-18T19:50:00+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "Stop à la folie fiscale !",
+   "link": "https://www.cnews.fr/emission/2026-11-20/la-matinale-emission-du-20112026-1957937",
+   "summary": "",
+   "image": "https://www.ifrap.org/sites/default/files/styles/100x/public/images/2025-01/images_nl_29.png?itok=gFuWqP5h",
+   "date": "2026-11-20T07:09:00+00:00",
+   "pubdate": "2026-11-20T07:09:00+00:00"
+  },
+  {
+   "title": "Arrêtez de nous taxer ! : une mise en garde à quelques mois de la présidentielle",
+   "link": "https://www.cnews.fr/podcast/lheuredeslivres/2025-11-20/lheure-des-livres-emission-du-20112025",
+   "summary": "",
+   "image": "https://www.ifrap.org/sites/default/files/styles/100x/public/images/2025-01/images_nl_29.png?itok=gFuWqP5h",
+   "date": "2026-11-20T07:05:00+00:00",
+   "pubdate": "2026-11-20T07:05:00+00:00"
+  },
+  {
+   "title": "Les agents publics ont gagné du pouvoir d'achat",
+   "link": "https://www.cnews.fr/emission/2026-11-19/la-matinale-emission-du-19112026-1957217",
+   "summary": "",
+   "image": "https://www.ifrap.org/sites/default/files/styles/100x/public/images/2025-01/images_nl_29.png?itok=gFuWqP5h",
+   "date": "2026-11-19T08:57:00+00:00",
+   "pubdate": "2026-11-19T08:57:00+00:00"
+  },
+  {
+   "title": "Fonctionnaires : le mensonge du pouvoir d’achat",
+   "link": "https://www.europe1.fr/emissions/ledito-eco/fonctionnaires-le-mensonge-du-pouvoir-dachat-1240092",
+   "summary": "",
+   "image": "https://www.ifrap.org/sites/default/files/styles/100x/public/images/import/logo_europe1_6.jpg?itok=6FMdFcfZ",
+   "date": "2026-11-19T07:08:00+00:00",
+   "pubdate": "2026-11-19T07:08:00+00:00"
+  },
+  {
+   "title": "2027 : dette, retraites... qui dit la vérité ?",
+   "link": "https://www.bfmtv.com/replay-emissions/100-mabrouk/video-invitee-catherine-nay_VN-202611181053.html",
+   "summary": "",
+   "image": "https://www.ifrap.org/sites/default/files/styles/100x/public/images/2024-02/bfm_logo.png?itok=H-GCw7a5",
+   "date": "2026-11-18T19:50:00+00:00",
+   "pubdate": "2026-11-18T19:50:00+00:00"
+  },
   {
    "title": "Les plus riches ont payé 9 % d’impôt en moins, et pas vous ? Agnès Verdier-Molinié explique pourquoi",
    "link": "https://www.capital.fr/economie-politique/les-plus-riches-ont-paye-9-dimpot-en-moins-et-pas-vous-agnes-verdier-molinie-explique-pourquoi-1531898",
@@ -18,46 +58,6 @@
    "image": "https://www.ifrap.org/sites/default/files/styles/100x/public/images/2023-10/capital.jpg?itok=NAVpztHz",
    "date": "2026-11-17T09:31:00+00:00",
    "pubdate": "2026-11-17T09:31:00+00:00"
-  },
-  {
-   "title": "Le faux procès fiscal des grandes fortunes",
-   "link": "https://www.europe1.fr/emissions/ledito-eco/le-faux-proces-fiscal-des-grandes-fortunes-1238448",
-   "summary": "",
-   "image": "https://www.ifrap.org/sites/default/files/styles/100x/public/images/import/logo_europe1_6.jpg?itok=6FMdFcfZ",
-   "date": "2026-11-17T08:25:00+00:00",
-   "pubdate": "2026-11-17T08:25:00+00:00"
-  },
-  {
-   "title": "Augmenter les fonctionnaires : oui mais...",
-   "link": "https://www.cnews.fr/emission/2026-11-16/la-matinale-emission-du-16112026-1955018",
-   "summary": "",
-   "image": "https://www.ifrap.org/sites/default/files/styles/100x/public/images/2025-01/images_nl_29.png?itok=gFuWqP5h",
-   "date": "2026-11-16T06:29:00+00:00",
-   "pubdate": "2026-11-16T06:29:00+00:00"
-  },
-  {
-   "title": "Stop à la spoliation qui vient !",
-   "link": "https://www.europe1.fr/emissions/europe-1-matin-1/europe-1-matin-alexis-de-la-flechere-14-11-2026-1232603",
-   "summary": "",
-   "image": "https://www.ifrap.org/sites/default/files/styles/100x/public/images/import/logo_europe1_6.jpg?itok=6FMdFcfZ",
-   "date": "2026-11-14T07:26:00+00:00",
-   "pubdate": "2026-11-14T07:26:00+00:00"
-  },
-  {
-   "title": "Présidentielle 2027 : ce que proposent les candidats pour les propriétaires",
-   "link": "https://www.capital.fr/immobilier/presidentielle-2027-ce-que-proposent-les-candidats-pour-les-proprietaires-1531813",
-   "summary": "",
-   "image": "https://www.ifrap.org/sites/default/files/styles/100x/public/images/2023-10/capital.jpg?itok=NAVpztHz",
-   "date": "2026-11-13T14:17:00+00:00",
-   "pubdate": "2026-11-13T14:17:00+00:00"
-  },
-  {
-   "title": "Stop aux taxes !",
-   "link": "https://www.sudradio.fr/emission/faut-quon-sorganise-11",
-   "summary": "",
-   "image": "https://www.ifrap.org/sites/default/files/styles/100x/public/images/2026-11/design_sans_titre_3.png?itok=r-eM5HPY",
-   "date": "2026-11-13T12:12:00+00:00",
-   "pubdate": "2026-11-13T12:12:00+00:00"
   }
  ]
 }
