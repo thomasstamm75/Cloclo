@@ -1,13 +1,13 @@
 {
  "etag": "",
- "last_modified": "Fri, 20 Nov 2026 10:42:12 GMT",
+ "last_modified": "Fri, 20 Nov 2026 16:07:43 GMT",
  "first_seen": {
   "https://www.jean-jaures.org/publication/lia-est-bel-et-bien-entree-dans-latelier-des-mondes-academiques/": "2026-11-13T11:00:00+00:00",
-  "https://www.jean-jaures.org/publication/le-modele-chinois-sapparente-davantage-a-une-economie-socialiste-de-marche-qua-un-capitalisme-detat/": "2026-11-12T11:00:00+00:00",
   "https://www.jean-jaures.org/publication/la-vague-democrate-aux-etats-unis-ne-fera-pas-baisser-la-facture-energetique-et-geopolitique-des-europeens/": "2026-11-16T11:00:00+00:00",
   "https://www.jean-jaures.org/publication/et-si-nous-avions-encore-besoin-deducation-populaire/": "2026-11-17T11:00:00+00:00",
   "https://www.jean-jaures.org/publication/la-france-en-3d-declinisme-declassement-defiance/": "2026-11-18T11:00:00+00:00",
-  "https://www.jean-jaures.org/publication/troyes-et-laube-de-la-revolution-de-1848-a-lassassinat-de-jean-jaures-en-1914-tome-2/": "2026-11-19T11:00:00+00:00"
+  "https://www.jean-jaures.org/publication/troyes-et-laube-de-la-revolution-de-1848-a-lassassinat-de-jean-jaures-en-1914-tome-2/": "2026-11-19T11:00:00+00:00",
+  "https://www.jean-jaures.org/publication/les-sympathisants-dextreme-droite-sont-ils-dextreme-droite/": "2026-11-15T11:00:00+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
@@ -44,20 +44,20 @@
    "pubdate": "2026-11-16T11:00:00+00:00"
   },
   {
+   "title": "Les sympathisants d’extrême droite sont-ils… d’extrême droite ?",
+   "link": "https://www.jean-jaures.org/publication/les-sympathisants-dextreme-droite-sont-ils-dextreme-droite/",
+   "summary": "",
+   "image": "",
+   "date": "2026-11-15T11:00:00+00:00",
+   "pubdate": "2026-11-15T11:00:00+00:00"
+  },
+  {
    "title": "L’IA est bel et bien entrée dans l’atelier des mondes académiques",
    "link": "https://www.jean-jaures.org/publication/lia-est-bel-et-bien-entree-dans-latelier-des-mondes-academiques/",
    "summary": "",
    "image": "",
    "date": "2026-11-13T11:00:00+00:00",
    "pubdate": "2026-11-13T11:00:00+00:00"
-  },
-  {
-   "title": "« Le modèle chinois s’apparente davantage à une économie socialiste de marché qu’à un capitalisme d’État »",
-   "link": "https://www.jean-jaures.org/publication/le-modele-chinois-sapparente-davantage-a-une-economie-socialiste-de-marche-qua-un-capitalisme-detat/",
-   "summary": "",
-   "image": "",
-   "date": "2026-11-12T11:00:00+00:00",
-   "pubdate": "2026-11-12T11:00:00+00:00"
   }
  ]
 }

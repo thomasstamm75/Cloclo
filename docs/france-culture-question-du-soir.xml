@@ -5,8 +5,15 @@
     <link>https://www.radiofrance.fr/franceculture/podcasts/le-temps-du-debat</link>
     <description>Flux fabriqué par Cloclo à partir de https://www.radiofrance.fr/franceculture/podcasts/le-temps-du-debat</description>
     <language>fr</language>
-    <lastBuildDate>Fri, 20 Nov 2026 11:50:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 20:28:31 +0000</lastBuildDate>
     <atom:link href="https://thomasstamm75.github.io/Cloclo/france-culture-question-du-soir.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Peut-on exiger la neutralité des associations ?</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/la-liberte-associative-est-elle-menacee-7367372</link>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/la-liberte-associative-est-elle-menacee-7367372</guid>
+      <pubDate>Fri, 20 Nov 2026 11:00:00 +0000</pubDate>
+      <description>&lt;img src="https://www.radiofrance.fr/pikapi/images/20c7a2fa-9926-4795-8c91-b156771200aa/2048" alt=""/&gt;&lt;p&gt;Depuis les propos de la candidate (RN) Marine Le Pen, les associations et les subventions publiques qui les finance ont suscité de vives polémiques. Nous revenons sur ces débats, aux côtés de nos invités, entre exigence de neutralité et préservation des libertés associatives.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>COP 31 : Le multilatéralisme est-il mort ?</title>
       <link>https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/cop-31-le-multilateralisme-est-il-mort-8910641</link>
@@ -118,13 +125,6 @@
       <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/reelection-de-lula-le-bresil-a-t-il-sauve-sa-democratie-8269925</guid>
       <pubDate>Tue, 27 Oct 2026 22:20:50 +0000</pubDate>
       <description>&lt;img src="https://www.radiofrance.fr/pikapi/images/06db54d1-14d8-495b-87b3-2108ca2dabd6/2048" alt=""/&gt;&lt;p&gt;La réélection de Lula constitue un revers pour l’extrême droite brésilienne, mais le bolsonarisme reste puissant au Congrès. Entre institutions démocratiques résistantes, mobilisation populaire et gauche fragilisée, quelles sont les forces et les limites du progressisme brésilien ?&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>À quoi reconnaît-on le début d'une guerre civile ?</title>
-      <link>https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/a-quoi-reconnait-on-le-debut-d-une-guerre-civile-3831508</link>
-      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/a-quoi-reconnait-on-le-debut-d-une-guerre-civile-3831508</guid>
-      <pubDate>Mon, 26 Oct 2026 20:33:58 +0000</pubDate>
-      <description>&lt;img src="https://www.radiofrance.fr/pikapi/images/a68fb5dd-418d-4edc-97d2-021be5c8ed61/2048" alt=""/&gt;&lt;p&gt;Guerre civile. L’expression effraie, tant elle renvoie aux heures les plus sombres de notre histoire nationale. Pourtant, elle s’impose de nouveau dans le débat public. Au-delà de son instrumentalisation politique, elle invite à interroger les fractures d’une société marquée par la polarisation.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
