@@ -1,11 +1,8 @@
 {
- "etag": "\"17c0a1af3d37a493b7a05862b1ed29a5-gzip\"",
+ "etag": "\"ae7ea2b8a82ab07b695a5e0f08b8525e-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/monde/usa/midterms-2018/midterms-2026-l-essentiel-des-elections-de-mi-mandat/": "2026-11-18T00:59:52.808337+00:00",
-  "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/leon-xiv-en-france-retrouvez-l-essentiel/": "2026-11-18T00:59:52.808337+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/le-pont-de-crimee-a-de-nouveau-ete-nouveau-attaque-deux-jours-apres-des-frappes-ukrainiennes-ayant-serieusement-endommage-l-infrastructure_8289056.html": "2026-11-19T02:37:29.665893+00:00",
-  "https://www.franceinfo.fr/monde/proche-orient/offensive-jihadiste-en-irak/trois-revenantes-francaises-condamnees-a-des-peines-de-cinq-a-douze-ans-de-prison-pour-avoir-rejoint-l-organisation-etat-islamique-en-syrie_8289047.html": "2026-11-19T02:37:29.665893+00:00",
   "https://www.franceinfo.fr/environnement/energie/energies-fossiles/au-texas-la-pollution-liee-a-l-exploitation-du-petrole-et-du-gaz-inquiete-les-habitants-et-reste-taboue-au-pays-de-l-or-noir_8288936.html": "2026-11-19T02:37:29.665893+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/reportage-ca-facilite-grandement-le-travail-de-nos-soldats-les-robots-de-combat-ukrainiens-deviennent-incontournables-sur-le-front-et-permettent-de-reprendre-du-terrain-aux-russes_8284292.html": "2026-11-19T02:37:29.665893+00:00",
   "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/reportage-des-etincelles-tombaient-du-ciel-comme-de-la-pluie-la-cop31-a-l-epreuve-des-incendies-a-repetition-dans-la-region-d-antalya_8276642.html": "2026-11-19T02:37:29.665893+00:00",
@@ -27,11 +24,14 @@
   "https://www.franceinfo.fr/monde/usa/un-composant-fabrique-uniquement-a-bordeaux-pourrait-freiner-la-production-des-missiles-patriot-americains_8290079.html": "2026-11-19T20:44:32.512160+00:00",
   "https://www.franceinfo.fr/culture/livres/plus-de-350-ecrivains-dans-le-monde-exhortent-l-iran-a-epargner-un-poete-menace-de-peine-de-mort_8290106.html": "2026-11-19T20:44:32.512160+00:00",
   "https://www.franceinfo.fr/monde/chine/xi-jinping-au-centre-du-monde-mais-pas-maitre-du-monde_8290184.html": "2026-11-19T20:44:32.512160+00:00",
-  "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/sommet-tripartite-entre-donald-trump-vladimir-poutine-et-xi-jinping-une-reunion-historique-aux-forts-enjeux-pour-les-trois-dirigeants_8290145.html": "2026-11-19T20:44:32.512160+00:00",
   "https://www.franceinfo.fr/environnement/energie/pic-du-petrole-vers-2030-boom-des-renouvelables-impact-de-la-guerre-au-moyen-orient-ce-qu-il-faut-retenir-du-rapport-de-l-agence-internationale-de-l-energie_8289644.html": "2026-11-19T20:44:32.512160+00:00",
   "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/xi-jinping-vladimir-poutine-et-donald-trump-adoptent-une-declaration-de-paix-apres-un-sommet-inedit_8290064.html": "2026-11-19T20:44:32.512160+00:00",
-  "https://www.franceinfo.fr/monde/russie/valise-nucleaire-quand-la-russie-la-met-en-scene_8290001.html": "2026-11-19T20:44:32.512160+00:00",
-  "https://www.franceinfo.fr/monde/europe/union-europeenne/la-commission-europeenne-annonce-avoir-ete-la-cible-d-une-cyberattaque-assistee-par-l-intelligence-artificielle-en-octobre_8289959.html": "2026-11-19T20:44:32.512160+00:00"
+  "https://www.franceinfo.fr/monde/europe/union-europeenne/la-commission-europeenne-annonce-avoir-ete-la-cible-d-une-cyberattaque-assistee-par-l-intelligence-artificielle-en-octobre_8289959.html": "2026-11-19T20:44:32.512160+00:00",
+  "https://www.franceinfo.fr/replay-jt/france-2/20-heures/les-murs-de-belfast-des-tensions-toujours-presentes-entre-catholiques-et-protestants_8290742.html": "2026-11-20T02:22:29.251241+00:00",
+  "https://www.franceinfo.fr/replay-jt/france-2/20-heures/si-on-avait-su-ce-qu-allait-donner-le-brexit-pas-grand-monde-n-aurait-vote-pour-ces-anglais-prets-a-revenir-dans-l-europe_8290721.html": "2026-11-20T02:22:29.251241+00:00",
+  "https://www.franceinfo.fr/monde/europe/la-grande-bretagne-et-l-ue/six-ans-apres-le-brexit-le-royaume-uni-a-t-il-gagne-au-change-en-quittant-l-europe_8290727.html": "2026-11-20T02:22:29.251241+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/un-quart-des-enfants-du-monde-vivent-dans-une-zone-de-conflit-alerte-l-ong-save-the-children_8290703.html": "2026-11-20T02:22:29.251241+00:00",
+  "https://www.franceinfo.fr/vrai-ou-fake/jeffrey-epstein-a-t-il-ete-assassine-en-prison-comme-l-affirme-une-etude-independante_8290571.html": "2026-11-20T02:22:29.251241+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
@@ -42,6 +42,46 @@
    "image": "https://www.franceinfo.fr/pictures/go15OaF59sLJtfXDZsUMx3Cffrs/0x47:1024x623/432x243/filters:format(jpg)/2026/11/19/6afe95d16b7ef135407551.jpg",
    "date": "2027-01-01T11:00:00+00:00",
    "pubdate": "2027-01-01T11:00:00+00:00"
+  },
+  {
+   "title": "Les murs de Belfast : des tensions toujours présentes entre catholiques et protestants Près de 30 ans après l’accord de paix, entre l’Irlande du Nord et la République d’Irlande, la tension reste présente entre les communautés catholiques et protestantes, toujours divisées. Aujourd'hui 3:48 vidéo 3 minutes 48",
+   "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/les-murs-de-belfast-des-tensions-toujours-presentes-entre-catholiques-et-protestants_8290742.html",
+   "summary": "Les murs de Belfast : des tensions toujours présentes entre catholiques et protestants",
+   "image": "https://www.franceinfo.fr/pictures/D4H4lTFdlYXwCREp6erH-RvMD8Q/174x0:1745x1080/432x297/filters:format(jpg)/2026/11/19/6aff6f2619070547308558.jpg",
+   "date": null,
+   "pubdate": "2026-11-20T02:22:29.251241+00:00"
+  },
+  {
+   "title": "\"Si on avait su ce qu'allait donner le Brexit, pas grand monde n'aurait voté pour\" : ces Anglais prêts à revenir dans l'Europe Aujourd'hui 6:17 vidéo 6 minutes 17",
+   "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/si-on-avait-su-ce-qu-allait-donner-le-brexit-pas-grand-monde-n-aurait-vote-pour-ces-anglais-prets-a-revenir-dans-l-europe_8290721.html",
+   "summary": "\"Si on avait su ce qu'allait donner le Brexit, pas grand monde n'aurait voté pour\" : ces Anglais prêts à revenir dans l'Europe",
+   "image": "https://www.franceinfo.fr/pictures/QJuYa84rblKeELuIN5MdBnHQzG0/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/19/6aff6714a7d88508783959.jpg",
+   "date": null,
+   "pubdate": "2026-11-20T02:22:29.251241+00:00"
+  },
+  {
+   "title": "Six ans après le Brexit, le Royaume-Uni a-t-il gagné au change en quittant l'Europe ? Aujourd'hui 1:16 vidéo 1 minute 16",
+   "link": "https://www.franceinfo.fr/monde/europe/la-grande-bretagne-et-l-ue/six-ans-apres-le-brexit-le-royaume-uni-a-t-il-gagne-au-change-en-quittant-l-europe_8290727.html",
+   "summary": "Six ans après le Brexit, le Royaume-Uni a-t-il gagné au change en quittant l'Europe ?",
+   "image": "https://www.franceinfo.fr/pictures/cCiK2RuRUFlVpneVrtpMuBbeH2U/265x0:1238x547/432x243/filters:format(jpg)/2026/11/19/6aff68894a07e603929518.jpg",
+   "date": null,
+   "pubdate": "2026-11-20T02:22:29.251241+00:00"
+  },
+  {
+   "title": "Un quart des enfants du monde vivent dans une zone de conflit, alerte l'ONG Save The Children Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/un-quart-des-enfants-du-monde-vivent-dans-une-zone-de-conflit-alerte-l-ong-save-the-children_8290703.html",
+   "summary": "Un quart des enfants du monde vivent dans une zone de conflit, alerte l'ONG Save The Children",
+   "image": "https://www.franceinfo.fr/pictures/kxfEwg4PgdQ5dHZGhh56X0zwjS4/0x53:1024x629/432x243/filters:format(jpg)/2026/11/19/6aff65d407d57395997344.jpg",
+   "date": null,
+   "pubdate": "2026-11-20T02:22:29.251241+00:00"
+  },
+  {
+   "title": "Jeffrey Epstein a-t-il été assassiné en prison, comme l’affirme une étude indépendante ? Aujourd'hui 2:55 vidéo 2 minutes 55",
+   "link": "https://www.franceinfo.fr/vrai-ou-fake/jeffrey-epstein-a-t-il-ete-assassine-en-prison-comme-l-affirme-une-etude-independante_8290571.html",
+   "summary": "Jeffrey Epstein a-t-il été assassiné en prison, comme l’affirme une étude indépendante ?",
+   "image": "https://www.franceinfo.fr/pictures/rV7H1UUN0gIeOAEQrg3B7YNDLZU/128x0:1148x574/432x243/filters:format(jpg)/2026/11/19/6aff435e7a08c399162607.png",
+   "date": null,
+   "pubdate": "2026-11-20T02:22:29.251241+00:00"
   },
   {
    "title": "Dans un monde \"conflictuel\", une 16e Biennale de Dakar \"pour transformer la fragilité en force\" Aujourd'hui",
@@ -84,15 +124,7 @@
    "pubdate": "2026-11-19T20:44:32.512160+00:00"
   },
   {
-   "title": "Sommet tripartite entre Donald Trump, Vladimir Poutine et Xi Jinping : une réunion historique aux forts enjeux pour les trois dirigeants Aujourd'hui 2:15 vidéo 2 minutes 15",
-   "link": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/sommet-tripartite-entre-donald-trump-vladimir-poutine-et-xi-jinping-une-reunion-historique-aux-forts-enjeux-pour-les-trois-dirigeants_8290145.html",
-   "summary": "Sommet tripartite entre Donald Trump, Vladimir Poutine et Xi Jinping : une réunion historique aux forts enjeux pour les trois dirigeants",
-   "image": "https://www.franceinfo.fr/pictures/6at1Q_pGKGTbTbhVE7jqKoyj98I/175x0:1034x483/432x243/filters:format(jpg)/2026/11/19/6aff0ba4d483f936910033.jpg",
-   "date": null,
-   "pubdate": "2026-11-19T20:44:32.512160+00:00"
-  },
-  {
-   "title": "Pic du pétrole vers 2030, boom des renouvelables, impact de la guerre au Moyen-Orient... Ce qu'il faut retenir du rapport de l'Agence internationale de l'énergie Aujourd'hui",
+   "title": "Pic du pétrole vers 2030, boom des renouvelables, impact de la guerre au Moyen-Orient... Ce qu'il faut retenir du rapport de l'Agence internationale de l'énergie Alors que la COP31 se déroule en Turquie, ces experts prévoient une électrification massive des usages, soutenue par les énergies renouvelables... mais toujours à un niveau insuffisant pour limiter le réchauffement climatique. Aujourd'hui",
    "link": "https://www.franceinfo.fr/environnement/energie/pic-du-petrole-vers-2030-boom-des-renouvelables-impact-de-la-guerre-au-moyen-orient-ce-qu-il-faut-retenir-du-rapport-de-l-agence-internationale-de-l-energie_8289644.html",
    "summary": "Pic du pétrole vers 2030, boom des renouvelables, impact de la guerre au Moyen-Orient... Ce qu'il faut retenir du rapport de l'Agence internationale de l'énergie",
    "image": "https://www.franceinfo.fr/pictures/YqP3qna5dmVtiCqmLiIn5qI9cok/0x0:8192x4608/432x243/filters:format(jpg)/2026/11/19/6afed47e21671613988957.jpg",
@@ -100,18 +132,10 @@
    "pubdate": "2026-11-19T20:44:32.512160+00:00"
   },
   {
-   "title": "Xi Jinping, Vladimir Poutine et Donald Trump adoptent une \"déclaration de paix\" après un sommet inédit Aujourd'hui",
+   "title": "Xi Jinping, Vladimir Poutine et Donald Trump adoptent une \"déclaration de paix\" après un sommet inédit Les trois dirigeants, réunis à Shenzhen (Chine) jeudi, \"se sont engagés à préserver la stabilité stratégique et la sécurité internationale\", est-il écrit dans leur déclaration. Aujourd'hui",
    "link": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/xi-jinping-vladimir-poutine-et-donald-trump-adoptent-une-declaration-de-paix-apres-un-sommet-inedit_8290064.html",
    "summary": "Xi Jinping, Vladimir Poutine et Donald Trump adoptent une \"déclaration de paix\" après un sommet inédit",
    "image": "https://www.franceinfo.fr/pictures/ootkb7xjQifoZzu2FdVz4Mcb5gw/0x64:1024x640/432x243/filters:format(jpg)/2026/11/19/6afefc0de190b521010050.jpg",
-   "date": null,
-   "pubdate": "2026-11-19T20:44:32.512160+00:00"
-  },
-  {
-   "title": "Valise nucléaire : quand la Russie la met en scène Aujourd'hui 1:14 vidéo 1 minute 14",
-   "link": "https://www.franceinfo.fr/monde/russie/valise-nucleaire-quand-la-russie-la-met-en-scene_8290001.html",
-   "summary": "Valise nucléaire : quand la Russie la met en scène",
-   "image": "https://www.franceinfo.fr/pictures/R9_fbPoAMIDabrFcA7FKkHKBy4M/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/19/6aff124cebc23964283727.png",
    "date": null,
    "pubdate": "2026-11-19T20:44:32.512160+00:00"
   },
@@ -180,7 +204,7 @@
    "pubdate": "2026-11-19T11:49:08.662892+00:00"
   },
   {
-   "title": "• Direct Rencontre entre Trump, Poutine et Xi : le président russe affirme avoir eu une discussion \"ouverte\" et \"très utile\" avec ses homologues Les chefs d'Etat américain, russe et chinois se sont réunis jeudi pour un sommet tripartite pour \"préserver la paix mondiale\". Aujourd'hui • Direct",
+   "title": "Rencontre entre Trump, Poutine et Xi : le président russe affirme avoir eu une discussion \"ouverte\" et \"très utile\" avec ses homologues Les chefs d'Etat américain, russe et chinois se sont réunis jeudi pour un sommet tripartite pour \"préserver la paix mondiale\". Aujourd'hui",
    "link": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/direct-rencontre-donald-trump-vladimir-poutine-xi-jinping-suivez-l-entretien-inedit-entre-les-trois-presidents-en-chine_8288564.html",
    "summary": "Rencontre entre Trump, Poutine et Xi : le président russe affirme avoir eu une discussion \"ouverte\" et \"très utile\" avec ses homologues",
    "image": "https://www.franceinfo.fr/pictures/Uen5_O2QVqpaG_T1q8kTdBvGCYQ/0x576:7101x4571/432x243/filters:format(jpg)/2026/11/19/6afeca271ef91832674172.jpg",
@@ -244,34 +268,10 @@
    "pubdate": "2026-11-19T02:37:29.665893+00:00"
   },
   {
-   "title": "Le pont de Crimée de nouveau attaqué, deux jours après des frappes ukrainiennes qui ont endommagé l'infrastructure La circulation sur l'ouvrage, qui relie la Crimée annexée à la Russie, \"est temporairement interrompue\", a annoncé mercredi soir un responsable local russe. Aujourd'hui",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/le-pont-de-crimee-a-de-nouveau-ete-nouveau-attaque-deux-jours-apres-des-frappes-ukrainiennes-ayant-serieusement-endommage-l-infrastructure_8289056.html",
-   "summary": "Le pont de Crimée de nouveau attaqué, deux jours après des frappes ukrainiennes qui ont endommagé l'infrastructure",
-   "image": "https://www.franceinfo.fr/pictures/FThduinxN8W23zmCZGJJM4P1U3A/0x0:1024x576/432x243/filters:format(jpg)/2026/11/18/6afe2de6c5900212535077.jpg",
-   "date": null,
-   "pubdate": "2026-11-19T02:37:29.665893+00:00"
-  },
-  {
-   "title": "Trois \"revenantes\" françaises condamnées à des peines de cinq à douze ans de prison pour avoir rejoint l'organisation Etat islamique en Syrie Deux ex-épouses d'Adrien Guihal, haut cadre de l'EI qui avait revendiqué en 2016 les attentats de Nice et de Magnanville, ont notamment été condamnées par la cour d'assises spéciale de Paris. 18 novembre",
-   "link": "https://www.franceinfo.fr/monde/proche-orient/offensive-jihadiste-en-irak/trois-revenantes-francaises-condamnees-a-des-peines-de-cinq-a-douze-ans-de-prison-pour-avoir-rejoint-l-organisation-etat-islamique-en-syrie_8289047.html",
-   "summary": "Trois \"revenantes\" françaises condamnées à des peines de cinq à douze ans de prison pour avoir rejoint l'organisation Etat islamique en Syrie",
-   "image": "https://www.franceinfo.fr/pictures/Kjpf0rsQPNKRZXcDy44aAUBHAtU/0x53:1024x629/432x243/filters:format(jpg)/2026/11/18/6afe2a92568b0220860319.jpg",
-   "date": null,
-   "pubdate": "2026-11-19T02:37:29.665893+00:00"
-  },
-  {
    "title": "Midterms 2026 : l'essentiel des élections de mi-mandat 28 contenus",
    "link": "https://www.franceinfo.fr/monde/usa/midterms-2018/midterms-2026-l-essentiel-des-elections-de-mi-mandat/",
    "summary": "Midterms 2026 : l'essentiel des élections de mi-mandat",
    "image": "https://www.franceinfo.fr/pictures/brT3BkVaFOL26KI_ApRVmr8Jytk/432x297/filters:format(jpg)/2026/10/29/6ae37a1b0991c168765960.jpg",
-   "date": null,
-   "pubdate": "2026-11-18T00:59:52.808337+00:00"
-  },
-  {
-   "title": "Léon XIV en France : l'essentiel de la visite du pape 15 contenus",
-   "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/leon-xiv-en-france-retrouvez-l-essentiel/",
-   "summary": "Léon XIV en France : l'essentiel de la visite du pape",
-   "image": "https://www.franceinfo.fr/pictures/bgiweXyFgu0BUNMikE3oBZK0JG4/432x297/filters:format(jpg)/2026/09/24/6ab4f4233a728679965697.jpg",
    "date": null,
    "pubdate": "2026-11-18T00:59:52.808337+00:00"
   }
