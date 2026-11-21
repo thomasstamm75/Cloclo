@@ -1,15 +1,12 @@
 {
- "etag": "\"548279f907d5f5d0287eccd188789716-gzip\"",
+ "etag": "\"0ac547c5bc5a2c8d7504a3b6de8fc0b9-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/politique/grand-entretien-en-belgique-un-cordon-sanitaire-mediatique-empeche-toute-forme-de-banalisation-de-l-extreme-droite-un-outil-difficile-a-imaginer-en-france_8265599.html": "2026-11-04T17:19:33.406625+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-couper-le-robinet-de-petrole-russe-en-mission-avec-les-oiseaux-de-madyar-la-brigade-de-dronistes-ukrainiens-la-plus-pourchassee-par-les-russes_8255023.html": "2026-11-10T14:58:52.045882+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/reportage-ca-facilite-grandement-le-travail-de-nos-soldats-les-robots-de-combat-ukrainiens-deviennent-incontournables-sur-le-front-et-permettent-de-reprendre-du-terrain-aux-russes_8284292.html": "2026-11-16T06:42:10.582662+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/vos-questions-sur-l-effort-de-guerre-de-la-france/": "2026-11-19T02:37:27.795559+00:00",
-  "https://www.franceinfo.fr/replay-radio/le-brief-eco/baisse-de-la-taxe-sur-l-electricite-plafonnement-du-prix-des-carburants-l-allemagne-prend-des-mesures-concretes-pour-lutter-contre-la-vie-chere_8268656.html": "2026-11-19T11:49:06.779533+00:00",
-  "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/direct-rencontre-donald-trump-vladimir-poutine-xi-jinping-suivez-l-entretien-inedit-entre-les-trois-presidents-en-chine_8288564.html": "2026-11-19T11:49:06.779533+00:00",
   "https://www.franceinfo.fr/monde/usa/un-composant-fabrique-uniquement-a-bordeaux-pourrait-freiner-la-production-des-missiles-patriot-americains_8290079.html": "2026-11-19T20:44:30.904935+00:00",
-  "https://www.franceinfo.fr/monde/europe/union-europeenne/la-commission-europeenne-annonce-avoir-ete-la-cible-d-une-cyberattaque-assistee-par-l-intelligence-artificielle-en-octobre_8289959.html": "2026-11-19T20:44:30.904935+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/un-quart-des-enfants-du-monde-vivent-dans-une-zone-de-conflit-alerte-l-ong-save-the-children_8290703.html": "2026-11-20T02:22:26.826723+00:00",
   "https://www.franceinfo.fr/monde/europe/migrants/seize-migrants-decouverts-dans-un-camion-au-terminal-ferry-a-ouistreham-sur-le-point-de-partir-pour-la-grande-bretagne_8292182.html": "2026-11-20T11:50:12.898520+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-un-missile-russe-tombe-dans-le-sud-est-de-la-pologne-sans-faire-de-blesse_8292080.html": "2026-11-20T11:50:12.898520+00:00",
@@ -23,28 +20,65 @@
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-france-demande-une-reunion-du-conseil-de-securite-de-l-onu-apres-de-nouvelles-frappes-russes-en-ukraine_8292527.html": "2026-11-20T20:28:22.149167+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/reportage-la-nuit-a-ete-terrible-a-kiev-les-habitants-epuises-apres-une-nuit-de-bombardements-russes-massifs_8292332.html": "2026-11-20T20:28:22.149167+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/deux-missiles-russes-tombent-dans-le-sud-est-de-la-pologne-sans-faire-de-blesse_8292359.html": "2026-11-20T20:28:22.149167+00:00",
-  "https://www.franceinfo.fr/monde/europe/vie-chere-climat-droit-au-logement-la-jeunesse-d-europe-se-mobilise-ce-week-end_8292383.html": "2026-11-20T20:28:22.149167+00:00",
   "https://www.franceinfo.fr/monde/royaume-uni/le-royaume-uni-annonce-un-accord-historique-avec-l-union-europeenne-bruxelles-salue-un-tournant-dix-ans-apres-le-referendum-sur-le-brexit_8292233.html": "2026-11-20T20:28:22.149167+00:00",
   "https://www.franceinfo.fr/replay-magazine/france-2/nous-les-europeens/nous-les-europeens-danemark-le-pays-ou-il-fait-bon-travailler_8266784.html": "2026-11-20T20:28:22.149167+00:00",
   "https://www.franceinfo.fr/monde/europe/sommet-de-l-ue/le-president-du-conseil-europeen-propose-un-budget-de-l-ue-en-baisse-de-204-milliards-d-euros-aussitot-rejete-par-la-france_8293637.html": "2026-11-21T11:16:24.042759+00:00",
   "https://www.franceinfo.fr/monde/europe/reportage-les-medias-ont-clairement-ete-le-declencheur-en-republique-tcheque-une-reforme-de-l-audiovisuel-public-a-l-origine-d-une-vaste-mobilisation_8292938.html": "2026-11-21T11:16:24.042759+00:00",
-  "https://www.franceinfo.fr/societe/manifestations/des-syndicats-de-sept-pays-europeens-appellent-a-des-manifestations-coordonnees-contre-la-vie-chere-vendredi-samedi-et-dimanche_8292320.html": "2026-11-21T11:16:24.042759+00:00"
+  "https://www.franceinfo.fr/societe/manifestations/des-syndicats-de-sept-pays-europeens-appellent-a-des-manifestations-coordonnees-contre-la-vie-chere-vendredi-samedi-et-dimanche_8292320.html": "2026-11-21T11:16:24.042759+00:00",
+  "https://www.franceinfo.fr/monde/royaume-uni/mobilite-des-jeunes-commerce-quotas-d-emissions-carbone-ce-que-prevoient-les-accords-conclus-entre-le-royaume-uni-et-l-union-europeenne_8293715.html": "2026-11-21T19:24:04.955434+00:00",
+  "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/franceinfo-monde-du-samedi-21-novembre-2026_8271698.html": "2026-11-21T11:00:00+00:00",
+  "https://www.franceinfo.fr/monde/russie/la-finlande-soupconne-un-helicoptere-russe-d-avoir-viole-son-espace-aerien_8293799.html": "2026-11-21T19:24:04.955434+00:00",
+  "https://www.franceinfo.fr/monde/otan/nous-nous-sentons-ici-chez-nous-une-brigade-allemande-de-5-000-soldats-s-apprete-a-mener-des-exercices-pendant-un-mois-en-lituanie_8293721.html": "2026-11-21T19:24:04.955434+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-des-frappes-russes-font-deux-morts-et-58-blesses-a-kryvyi-rih-ville-natale-de-volodymyr-zelensky_8293700.html": "2026-11-21T19:24:04.955434+00:00",
+  "https://www.franceinfo.fr/societe/manifestations/reportage-ce-sont-les-patients-qui-en-patissent-au-portugal-les-syndicats-denoncent-la-degradation-des-services-publics_8293640.html": "2026-11-21T19:24:04.955434+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "Baisse de la taxe sur l'électricité, plafonnement du prix des carburants... l’Allemagne prend des mesures concrètes pour lutter contre la vie chère La coalition au pouvoir en Allemagne a décidé de réduire fortement la taxe sur l’électricité dès le 1er janvier 2027. Une mesure destinée à soutenir le pouvoir d’achat des ménages et les entreprises, qui constitue aussi une victoire politique pour le chancelier Friedrich Merz. Cette coalition est également parvenue à un accord pour plafonner les prix des carburants. 19 novembre 2:30 audio 2 minutes 30",
-   "link": "https://www.franceinfo.fr/replay-radio/le-brief-eco/baisse-de-la-taxe-sur-l-electricite-plafonnement-du-prix-des-carburants-l-allemagne-prend-des-mesures-concretes-pour-lutter-contre-la-vie-chere_8268656.html",
-   "summary": "Baisse de la taxe sur l'électricité, plafonnement du prix des carburants... l’Allemagne prend des mesures concrètes pour lutter contre la vie chère",
-   "image": "https://www.franceinfo.fr/pictures/go15OaF59sLJtfXDZsUMx3Cffrs/0x47:1024x623/432x243/filters:format(jpg)/2026/11/19/6afe95d16b7ef135407551.jpg",
-   "date": "2027-01-01T11:00:00+00:00",
-   "pubdate": "2027-01-01T11:00:00+00:00"
+   "title": "Mobilité des jeunes, commerce, quotas d'émissions carbone… Ce que prévoient les accords conclus entre le Royaume-Uni et l'Union européenne Cette nouvelle alliance, destinée à rapprocher les deux côtés de la Manche après les années houleuses du Brexit, a été qualifiée vendredi de \"tournant\" par la Commission européenne. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/royaume-uni/mobilite-des-jeunes-commerce-quotas-d-emissions-carbone-ce-que-prevoient-les-accords-conclus-entre-le-royaume-uni-et-l-union-europeenne_8293715.html",
+   "summary": "Mobilité des jeunes, commerce, quotas d'émissions carbone… Ce que prévoient les accords conclus entre le Royaume-Uni et l'Union européenne",
+   "image": "https://www.franceinfo.fr/pictures/JD3wsxt6rkxsQoELhpeFJmMR-Hc/32x0:1024x682/432x297/filters:format(jpg)/2026/11/21/6b01af35df473235762087.jpg",
+   "date": null,
+   "pubdate": "2026-11-21T19:24:04.955434+00:00"
   },
   {
-   "title": "Le président du Conseil européen propose un budget de l'UE en baisse de 204 milliards d'euros, aussitôt rejeté par la France Cette version revue à la baisse intègre également une proposition de nouvelle taxe sur les grandes entreprises du secteur numérique, a confirmé Antonio Costa, qui veut aussi mettre à l'étude la taxation des cryptoactifs. Aujourd'hui",
+   "title": "La Finlande soupçonne un hélicoptère russe d'avoir violé son espace aérien Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/russie/la-finlande-soupconne-un-helicoptere-russe-d-avoir-viole-son-espace-aerien_8293799.html",
+   "summary": "La Finlande soupçonne un hélicoptère russe d'avoir violé son espace aérien",
+   "image": "https://www.franceinfo.fr/pictures/dzl70O5wmble6f9aN4HYt3m3SWs/0x53:1024x629/432x243/filters:format(jpg)/2026/11/21/6b01ac8904cf5326131943.jpg",
+   "date": null,
+   "pubdate": "2026-11-21T19:24:04.955434+00:00"
+  },
+  {
+   "title": ": Reportage \"Nous nous sentons ici chez nous\" : une brigade allemande de 5 000 soldats s'apprête à mener des exercices pendant un mois en Lituanie Aujourd'hui : Reportage",
+   "link": "https://www.franceinfo.fr/monde/otan/nous-nous-sentons-ici-chez-nous-une-brigade-allemande-de-5-000-soldats-s-apprete-a-mener-des-exercices-pendant-un-mois-en-lituanie_8293721.html",
+   "summary": "\"Nous nous sentons ici chez nous\" : une brigade allemande de 5 000 soldats s'apprête à mener des exercices pendant un mois en Lituanie",
+   "image": "https://www.franceinfo.fr/pictures/j6qBGrpSwwNujHD5YvWEvszKxrs/0x234:4500x2766/432x243/filters:format(jpg)/2026/11/21/6b018c756a75c012986106.jpg",
+   "date": null,
+   "pubdate": "2026-11-21T19:24:04.955434+00:00"
+  },
+  {
+   "title": "Guerre en Ukraine : des frappes russes font deux morts et 58 blessés à Kryvyï Rih, ville natale de Volodymyr Zelensky Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-des-frappes-russes-font-deux-morts-et-58-blesses-a-kryvyi-rih-ville-natale-de-volodymyr-zelensky_8293700.html",
+   "summary": "Guerre en Ukraine : des frappes russes font deux morts et 58 blessés à Kryvyï Rih, ville natale de Volodymyr Zelensky",
+   "image": "https://www.franceinfo.fr/pictures/CsrPPm9InM4527HOt9OpPrOPrlw/0x26:1024x602/432x243/filters:format(jpg)/2026/11/21/6b0185f534763222501770.jpg",
+   "date": null,
+   "pubdate": "2026-11-21T19:24:04.955434+00:00"
+  },
+  {
+   "title": ": Reportage \"Ce sont les patients qui en pâtissent\" : au Portugal, les syndicats dénoncent la dégradation des services publics Aujourd'hui : Reportage",
+   "link": "https://www.franceinfo.fr/societe/manifestations/reportage-ce-sont-les-patients-qui-en-patissent-au-portugal-les-syndicats-denoncent-la-degradation-des-services-publics_8293640.html",
+   "summary": "\"Ce sont les patients qui en pâtissent\" : au Portugal, les syndicats dénoncent la dégradation des services publics",
+   "image": "https://www.franceinfo.fr/pictures/skaF7kWXK5gwjLEs5UTbIUIBD-A/0x53:1024x629/432x243/filters:format(jpg)/2026/11/21/6b01991f1fc6b523805019.jpg",
+   "date": null,
+   "pubdate": "2026-11-21T19:24:04.955434+00:00"
+  },
+  {
+   "title": "Le président du Conseil européen propose un budget de l'UE en baisse de 204 milliards d'euros, aussitôt rejeté par la France Aujourd'hui",
    "link": "https://www.franceinfo.fr/monde/europe/sommet-de-l-ue/le-president-du-conseil-europeen-propose-un-budget-de-l-ue-en-baisse-de-204-milliards-d-euros-aussitot-rejete-par-la-france_8293637.html",
    "summary": "Le président du Conseil européen propose un budget de l'UE en baisse de 204 milliards d'euros, aussitôt rejeté par la France",
-   "image": "https://www.franceinfo.fr/pictures/eoy6_4ZuJlmf7tAQiNY86XZtOOw/0x0:992x682/432x297/filters:format(jpg)/2026/11/21/6b017adb55f2b118022145.jpg",
+   "image": "https://www.franceinfo.fr/pictures/OQbr4M5cITa36USiD95xDrW13aw/0x0:1024x576/432x243/filters:format(jpg)/2026/11/21/6b017adb55f2b118022145.jpg",
    "date": null,
    "pubdate": "2026-11-21T11:16:24.042759+00:00"
   },
@@ -65,6 +99,14 @@
    "pubdate": "2026-11-21T11:16:24.042759+00:00"
   },
   {
+   "title": "franceinfo monde du samedi 21 novembre 2026 Aujourd'hui 3:06 audio 3 minutes 6",
+   "link": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/franceinfo-monde-du-samedi-21-novembre-2026_8271698.html",
+   "summary": "franceinfo monde du samedi 21 novembre 2026",
+   "image": "https://www.franceinfo.fr/pictures/juGlkUbO9b77DKPj1sechHIrD7E/0x0:5000x2812/432x243/filters:format(jpg)/2026/11/21/6b01b5e4be341098591974.jpg",
+   "date": "2026-11-21T11:00:00+00:00",
+   "pubdate": "2026-11-21T11:00:00+00:00"
+  },
+  {
    "title": "Royaume-Uni : dix ans après le Brexit, le come-back ? 20 novembre 1:33 vidéo 1 minute 33",
    "link": "https://www.franceinfo.fr/monde/royaume-uni/brexit-royaume-uni-le-come-back_8292755.html",
    "summary": "Royaume-Uni : dix ans après le Brexit, le come-back ?",
@@ -73,7 +115,7 @@
    "pubdate": "2026-11-20T20:28:22.149167+00:00"
   },
   {
-   "title": "Le Danemark soupçonne la Russie d'avoir planifié l'assassinat d'un rappeur ukrainien sur son sol 20 novembre",
+   "title": "Le Danemark soupçonne la Russie d'avoir planifié l'assassinat d'un rappeur ukrainien sur son sol Les faits remontent au 25 septembre et la cible présumée a été identifiée par la presse danoise comme le rappeur Kyivstoner. 20 novembre",
    "link": "https://www.franceinfo.fr/monde/europe/union-europeenne/le-danemark-soupconne-la-russie-d-avoir-planifie-l-assassinat-d-un-ukrainien-sur-son-sol_8292689.html",
    "summary": "Le Danemark soupçonne la Russie d'avoir planifié l'assassinat d'un rappeur ukrainien sur son sol",
    "image": "https://www.franceinfo.fr/pictures/6cvksXLLYFqWaI10pKj-zNiA834/0x53:1024x629/432x243/filters:format(jpg)/2026/11/20/6b0080df6e055703366761.jpg",
@@ -81,7 +123,7 @@
    "pubdate": "2026-11-20T20:28:22.149167+00:00"
   },
   {
-   "title": ": Reportage \"C'était une grave erreur\" : à Londres, des Britanniques regrettent le Brexit et se disent prêts à revenir dans l'Union européenne 20 novembre : Reportage",
+   "title": ": Reportage \"C'était une grave erreur\" : à Londres, des Britanniques regrettent le Brexit et se disent prêts à revenir dans l'Union européenne Dix ans après le référendum sur le Brexit, le Royaume-Uni et l'UE viennent de conclure des premiers accords salués notamment par le Premier ministre britannique. Selon un sondage, une majorité de citoyens Outre-Manche envisagent de revenir dans l'UE. 20 novembre : Reportage",
    "link": "https://www.franceinfo.fr/monde/royaume-uni/reportage-c-etait-une-grave-erreur-a-londres-des-britanniques-regrettent-le-brexit-et-se-disent-prets-a-revenir-dans-l-union-europeenne_8292533.html",
    "summary": "\"C'était une grave erreur\" : à Londres, des Britanniques regrettent le Brexit et se disent prêts à revenir dans l'Union européenne",
    "image": "https://www.franceinfo.fr/pictures/3PHBhRvsrXjEmmRapxqcggBUdTw/0x54:1024x630/432x243/filters:format(jpg)/2026/11/20/6b0071c3c8a49631090152.jpg",
@@ -89,7 +131,7 @@
    "pubdate": "2026-11-20T20:28:22.149167+00:00"
   },
   {
-   "title": "La France demande une réunion du Conseil de sécurité de l'ONU après de nouvelles frappes russes en Ukraine 20 novembre",
+   "title": "La France demande une réunion du Conseil de sécurité de l'ONU après de nouvelles frappes russes en Ukraine Plus de 110 missiles russes et 400 drones ont été lancés dans la nuit de jeudi à vendredi en Ukraine, a annoncé le président ukrainien Volodymyr Zelensky. 20 novembre",
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-france-demande-une-reunion-du-conseil-de-securite-de-l-onu-apres-de-nouvelles-frappes-russes-en-ukraine_8292527.html",
    "summary": "La France demande une réunion du Conseil de sécurité de l'ONU après de nouvelles frappes russes en Ukraine",
    "image": "https://www.franceinfo.fr/pictures/T8DuzyoZFKFaUApBPw73oJ15dWQ/0x0:1024x576/432x243/filters:format(jpg)/2026/11/20/6b0068eb1a626412555665.jpg",
@@ -97,7 +139,7 @@
    "pubdate": "2026-11-20T20:28:22.149167+00:00"
   },
   {
-   "title": ": Reportage \"La nuit a été terrible\" : à Kiev, les habitants épuisés après une nuit de bombardements russes massifs 20 novembre : Reportage",
+   "title": ": Reportage \"La nuit a été terrible\" : à Kiev, les habitants épuisés après une nuit de bombardements russes massifs Une pluie de missiles et de drones se sont abattue sur l'Ukraine dans la nuit de jeudi à vendredi. Le bilan est d'au moins huit morts. Le président russe avait annoncé des représailles après l'attaque du pont de Crimée par l'Ukraine, en début de semaine. 20 novembre : Reportage",
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/reportage-la-nuit-a-ete-terrible-a-kiev-les-habitants-epuises-apres-une-nuit-de-bombardements-russes-massifs_8292332.html",
    "summary": "\"La nuit a été terrible\" : à Kiev, les habitants épuisés après une nuit de bombardements russes massifs",
    "image": "https://www.franceinfo.fr/pictures/IzHOYQeqkiLwqAwV-8-QI1uIYec/0x53:1024x629/432x243/filters:format(jpg)/2026/11/20/6b0053a434cf9981013096.jpg",
@@ -105,18 +147,10 @@
    "pubdate": "2026-11-20T20:28:22.149167+00:00"
   },
   {
-   "title": "Deux missiles russes tombent dans le sud-est de la Pologne, sans faire de blessé 20 novembre",
+   "title": "Deux missiles russes tombent dans le sud-est de la Pologne, sans faire de blessé Le Premier ministre polonais a dénoncé \"une provocation\" russe, qui \"pourrait avoir un rapport avec le fait que des exercices [militaires] ont lieu\" en ce moment dans le pays 20 novembre",
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/deux-missiles-russes-tombent-dans-le-sud-est-de-la-pologne-sans-faire-de-blesse_8292359.html",
    "summary": "Deux missiles russes tombent dans le sud-est de la Pologne, sans faire de blessé",
    "image": "https://www.franceinfo.fr/pictures/pL2lBpTaxy8U-AA6_9VOH8f1Dag/0x30:1024x606/432x243/filters:format(jpg)/2026/11/20/6b0056b44057b846234088.jpg",
-   "date": null,
-   "pubdate": "2026-11-20T20:28:22.149167+00:00"
-  },
-  {
-   "title": "Vie chère, climat, droit au logement... La jeunesse d'Europe se mobilise ce week-end 20 novembre 1:07 vidéo 1 minute 7",
-   "link": "https://www.franceinfo.fr/monde/europe/vie-chere-climat-droit-au-logement-la-jeunesse-d-europe-se-mobilise-ce-week-end_8292383.html",
-   "summary": "Vie chère, climat, droit au logement... La jeunesse d'Europe se mobilise ce week-end",
-   "image": "https://www.franceinfo.fr/pictures/8Rzd03-Gsvb8MRyUwiTSluVDvMw/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/20/6b005523557a1148026944.jpg",
    "date": null,
    "pubdate": "2026-11-20T20:28:22.149167+00:00"
   },
@@ -199,22 +233,6 @@
    "image": "https://www.franceinfo.fr/pictures/eftZSWJ9OkHzC3SbMgnjdXNb8Ek/0x53:1024x629/432x243/filters:format(jpg)/2026/11/19/6aff044000c3c055649252.jpg",
    "date": null,
    "pubdate": "2026-11-19T20:44:30.904935+00:00"
-  },
-  {
-   "title": "La Commission européenne annonce avoir été la cible d'une cyberattaque assistée par l'intelligence artificielle en octobre Un porte-parole a précisé jeudi qu'à ce stade, la Commission européenne n'avait pas la preuve de vol de données personnelles. 19 novembre",
-   "link": "https://www.franceinfo.fr/monde/europe/union-europeenne/la-commission-europeenne-annonce-avoir-ete-la-cible-d-une-cyberattaque-assistee-par-l-intelligence-artificielle-en-octobre_8289959.html",
-   "summary": "La Commission européenne annonce avoir été la cible d'une cyberattaque assistée par l'intelligence artificielle en octobre",
-   "image": "https://www.franceinfo.fr/pictures/BmHogpXBQg429Npzk80XG1rlrGY/0x630:6048x4032/432x243/filters:format(jpg)/2026/11/19/6afedf5283d0d937894845.jpg",
-   "date": null,
-   "pubdate": "2026-11-19T20:44:30.904935+00:00"
-  },
-  {
-   "title": "Rencontre entre Trump, Poutine et Xi : le président russe affirme avoir eu une discussion \"ouverte\" et \"très utile\" avec ses homologues Les chefs d'Etat américain, russe et chinois se sont réunis jeudi pour un sommet tripartite pour \"préserver la paix mondiale\". 19 novembre",
-   "link": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/direct-rencontre-donald-trump-vladimir-poutine-xi-jinping-suivez-l-entretien-inedit-entre-les-trois-presidents-en-chine_8288564.html",
-   "summary": "Rencontre entre Trump, Poutine et Xi : le président russe affirme avoir eu une discussion \"ouverte\" et \"très utile\" avec ses homologues",
-   "image": "https://www.franceinfo.fr/pictures/Uen5_O2QVqpaG_T1q8kTdBvGCYQ/0x576:7101x4571/432x243/filters:format(jpg)/2026/11/19/6afeca271ef91832674172.jpg",
-   "date": null,
-   "pubdate": "2026-11-19T11:49:06.779533+00:00"
   },
   {
    "title": "Vos questions sur l'effort de guerre de la France 6 contenus",
