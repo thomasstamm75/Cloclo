@@ -1,5 +1,5 @@
 {
- "etag": "\"4312ad21e26f8ba3b11a719004ede586-gzip\"",
+ "etag": "\"a3fe05fdca50a9f2c8ae2dc2e2d8cbfe-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-ce-serait-presque-drole-si-ca-ne-montait-pas-les-gens-les-uns-contre-les-autres-apres-l-incendie-de-la-mairie-de-limoges-le-plateau-de-millevaches-pointe-du-doigt-comme-un-bastion-de-l-ultragauche_8249923.html": "2026-11-06T06:56:06.440234+00:00",
@@ -8,40 +8,87 @@
   "https://www.franceinfo.fr/politique/grand-entretien-en-belgique-un-cordon-sanitaire-mediatique-empeche-toute-forme-de-banalisation-de-l-extreme-droite-un-outil-difficile-a-imaginer-en-france_8265599.html": "2026-11-18T11:52:03.766194+00:00",
   "https://www.franceinfo.fr/politique/affaire/financement-de-la-campagne-de-sarkozy/soupcons-de-financement-libyen-tout-comprendre-a-l-affaire/": "2026-11-19T02:37:26.178207+00:00",
   "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/tout-comprendre-au-proces-des-assistants-parlementaires-fn/": "2026-11-19T02:37:26.178207+00:00",
-  "https://www.franceinfo.fr/politique/gabriel-attal/primaire-racisme-referendums-ia-ce-qu-il-faut-retenir-de-l-interview-de-gabriel-attal-dans-l-emission-l-heure-de-verite-sur-france-2_8290544.html": "2026-11-20T02:22:24.980603+00:00",
   "https://www.franceinfo.fr/politique/front-national/la-procureure-generale-de-paris-a-remis-son-rapport-a-gerald-darmanin-sur-la-presence-d-un-procureur-lors-d-une-perquisition-au-siege-du-rn_8292188.html": "2026-11-20T11:50:11.093891+00:00",
   "https://www.franceinfo.fr/politique/front-national/perquisition-enquete-ouverte-prefet-mis-en-cause-ce-que-l-on-sait-des-soupcons-de-fuites-d-informations-dont-aurait-beneficie-le-rassemblement-national_8291804.html": "2026-11-20T11:50:11.093891+00:00",
   "https://www.franceinfo.fr/economie/budget/au-moins-6-milliards-d-euros-d-economies-supplementaires-sont-necessaires-pour-boucler-le-budget-2027-reconnait-le-ministre-des-comptes-publics_8291879.html": "2026-11-20T11:50:11.093891+00:00",
   "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/perquisitions-au-siege-du-rn-presomption-de-legitime-defense-reforme-des-retraites-le-8h30-franceinfo-de-julien-odoul_8270117.html": "2026-11-20T11:50:11.093891+00:00",
   "https://www.franceinfo.fr/politique/front-national/des-rumeurs-et-des-accusations-sans-fondement-reagit-jean-philippe-tanguy-dans-l-affaire-du-prefet-soupconne-d-avoir-renseigne-le-rn-sur-des-affaires-en-cours_8291828.html": "2026-11-20T11:50:11.093891+00:00",
-  "https://www.franceinfo.fr/politique/front-national/julien-odoul-appelle-a-preserver-le-secret-de-l-instruction-dans-l-affaire-du-prefet-soupconne-d-avoir-renseigne-le-rn-sur-des-affaires-et-denonce-l-instrumentalisation-par-jean-luc-melenchon_8291837.html": "2026-11-20T11:50:11.093891+00:00",
-  "https://www.franceinfo.fr/societe/justice/direct-si-les-faits-sont-averes-ils-sont-evidemment-tres-graves-laurent-nunez-convoque-le-prefet-hugues-moutouh-soupconne-d-avoir-transmis-des-informations-sensibles-au-rassemblement-national_8291756.html": "2026-11-20T11:50:11.093891+00:00",
-  "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-presidentielle-2027-l-eternel-rendez-vous-manque-des-ecologistes-avec-l-elysee_8270120.html": "2026-11-20T11:50:11.093891+00:00",
-  "https://www.franceinfo.fr/elections/dominique-de-villepin-des-coups-par-sa-droite_8292857.html": "2026-11-20T20:28:20.619689+00:00",
   "https://www.franceinfo.fr/faits-divers/police/le-parlement-adopte-definitivement-la-presomption-d-usage-legal-des-armes-par-les-forces-de-l-ordre_8292845.html": "2026-11-20T20:28:20.619689+00:00",
   "https://www.franceinfo.fr/elections/je-ne-savais-pas-qu-il-etait-encore-la-reagit-marine-tondelier-apres-le-depart-de-yannick-jadot-des-ecologistes_8292785.html": "2026-11-20T20:28:20.619689+00:00",
   "https://www.franceinfo.fr/replay-magazine/france-2/franc-jeu/franc-jeu-avec-marine-le-pen_8266898.html": "2026-11-20T20:28:20.619689+00:00",
-  "https://www.franceinfo.fr/politique/dominique-de-villepin-le-pari-de-l-elysee-on-off-episode-10_8292278.html": "2026-11-20T20:28:20.619689+00:00",
   "https://www.franceinfo.fr/politique/l-elu-rn-qui-a-recu-un-procureur-au-siege-du-parti-evoque-une-discussion-entre-professionnels-qui-se-connaissent-depuis-pres-de-trente-ans_8292344.html": "2026-11-20T20:28:20.619689+00:00",
   "https://www.franceinfo.fr/elections/exclue-de-lfi-en-2024-clementine-autain-appelle-a-son-tour-a-se-rallier-a-la-candidature-de-jean-luc-melenchon_8292170.html": "2026-11-20T20:28:20.619689+00:00",
   "https://www.franceinfo.fr/faits-divers/l-auteur-du-tir-de-mortier-d-artifice-contre-la-deputee-lfi-farida-amrani-a-ete-condamne-a-10mois-de-bracelet-electronique_8293004.html": "2026-11-21T02:24:24.741890+00:00",
   "https://www.franceinfo.fr/elections/presidentielle-2027-ces-maires-reticents-a-l-idee-de-donner-leur-parrainage_8292998.html": "2026-11-21T02:24:24.741890+00:00",
   "https://www.franceinfo.fr/economie/budget/deputes-et-senateurs-parviennent-a-un-accord-sur-le-projet-de-budget-de-fin-de-gestion-pour-2026-avant-une-possible-adoption-definitive-mardi_8292914.html": "2026-11-21T02:24:24.741890+00:00",
   "https://www.franceinfo.fr/societe/justice/prefet-soupconne-d-avoir-renseigne-le-rn-tout-le-monde-savait-qu-il-etait-proche-du-rassemblement-national-confie-un-conseiller-de-l-executif-a-propos-d-hugues-moutouh_8292974.html": "2026-11-21T02:24:24.741890+00:00",
-  "https://www.franceinfo.fr/politique/prefet-soupconne-d-avoir-renseigne-le-rn-j-espere-que-ce-n-est-pas-une-pression-pour-tous-ceux-qui-oseraient-discuter-avec-nous-reagit-l-eurodepute-rn-aleksandar-nikolic_8292947.html": "2026-11-21T02:24:24.741890+00:00"
+  "https://www.franceinfo.fr/politique/prefet-soupconne-d-avoir-renseigne-le-rn-j-espere-que-ce-n-est-pas-une-pression-pour-tous-ceux-qui-oseraient-discuter-avec-nous-reagit-l-eurodepute-rn-aleksandar-nikolic_8292947.html": "2026-11-21T02:24:24.741890+00:00",
+  "https://www.franceinfo.fr/faits-divers/police/violences-policieres/presomption-d-usage-legal-des-armes-par-les-forces-de-l-ordre-la-loi-definitivement-adoptee_8293631.html": "2026-11-21T11:16:22.690075+00:00",
+  "https://www.franceinfo.fr/france/centre-val-de-loire/loiret/prefet-soupconne-de-fuites-vers-le-rn-il-doit-etre-mis-a-pied-estime-la-depute-ecologiste-sandrine-rousseau_8293574.html": "2026-11-21T11:16:22.690075+00:00",
+  "https://www.franceinfo.fr/societe/armee-securite-defense/la-dissuasion-nucleaire-en-france-c-est-quoi_8292410.html": "2026-11-21T11:16:22.690075+00:00",
+  "https://www.franceinfo.fr/faits-divers/police/presomption-d-usage-legal-des-armes-par-les-forces-de-l-ordre-ce-n-est-en-aucun-cas-un-permis-de-tuer-estime-le-syndicat-unsa-police_8293457.html": "2026-11-21T11:16:22.690075+00:00",
+  "https://www.franceinfo.fr/politique/front-national/bulldozer-super-sherif-et-serviteur-de-l-etat-qui-est-hugues-moutouh-le-prefet-soupconne-d-avoir-fait-fuiter-des-informations-au-rn_8292374.html": "2026-11-21T11:16:22.690075+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "L'auteur du tir de mortier d'artifice contre la députée LFI Farida Amrani a été condamné à 10 mois de bracelet électronique Le 7 novembre, un individu masqué était entré dans un salon de coiffure d'Evry-Courcouronnes (Essonne) où se trouvait l'élue. Elle avait été légèrement blessée. Aujourd'hui",
+   "title": "\"Franc-Jeu\". Avec Marine Le Pen Dans la perspective de l'élection présidentielle de 2027, à travers des interviews et des débats, Benjamin Duhamel interroge celles et ceux qui participent aux choix proposés aux Français pour l’avenir du pays. Le 22 novembre 2026, il reçoit Marine Le Pen, candidate du Rassemblement national à l’élection présidentielle. 22 novembre 45:00 vidéo 45 minutes",
+   "link": "https://www.franceinfo.fr/replay-magazine/france-2/franc-jeu/franc-jeu-avec-marine-le-pen_8266898.html",
+   "summary": "Dans la perspective de l'élection présidentielle de 2027, à travers des interviews et des débats, Benjamin Duhamel interroge celles et ceux qui participent aux choix proposés aux Français pour l’avenir du pays. Le 22 novembre 2026, il reçoit Marine Le Pen, candidate du Rassemblement national à l’élection présidentielle.",
+   "image": "https://www.franceinfo.fr/pictures/Fbh26rz7pEi0zniuyMT1nNCPA3k/0x0:680x382/432x243/filters:format(jpg)/2026/08/28/6a919b42820e4536048985.jpg",
+   "date": "2026-11-22T11:00:00+00:00",
+   "pubdate": "2026-11-22T11:00:00+00:00"
+  },
+  {
+   "title": "Présomption d'usage légal des armes par les forces de l'ordre : la loi définitivement adoptée Le Parlement a définitivement adopté vendredi 20 novembre la loi de présomption d’usage légal des armes par les forces de l’ordre, après le vote du Sénat. Face à une mesure qu’elle juge “dangereuse”, la gauche sénatoriale a annoncé qu’elle allait saisir le Conseil constitutionnel. Aujourd'hui 1:05 vidéo 1 minute 5",
+   "link": "https://www.franceinfo.fr/faits-divers/police/violences-policieres/presomption-d-usage-legal-des-armes-par-les-forces-de-l-ordre-la-loi-definitivement-adoptee_8293631.html",
+   "summary": "Présomption d'usage légal des armes par les forces de l'ordre : la loi définitivement adoptée",
+   "image": "https://www.franceinfo.fr/pictures/h8rwMbRnLbQs8-EvqYeumhVmq1M/0x0:1080x1920/fit-in/432x297/filters:upscale():fill(blur):format(jpg)/2026/11/21/6b01759f0274d988819205.png",
+   "date": null,
+   "pubdate": "2026-11-21T11:16:22.690075+00:00"
+  },
+  {
+   "title": "Préfet soupçonné de fuites vers le RN : \"Il doit être mis à pied\", estime la députée écologiste Sandrine Rousseau Aujourd'hui 0:41 vidéo 41 secondes",
+   "link": "https://www.franceinfo.fr/france/centre-val-de-loire/loiret/prefet-soupconne-de-fuites-vers-le-rn-il-doit-etre-mis-a-pied-estime-la-depute-ecologiste-sandrine-rousseau_8293574.html",
+   "summary": "Préfet soupçonné de fuites vers le RN : \"Il doit être mis à pied\", estime la députée écologiste Sandrine Rousseau",
+   "image": "https://www.franceinfo.fr/pictures/kyBKhRSt4s2i12XMm0ycHZhei7Y/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/21/6b01697299033851356226.png",
+   "date": null,
+   "pubdate": "2026-11-21T11:16:22.690075+00:00"
+  },
+  {
+   "title": "La dissuasion nucléaire en France, c'est quoi ? Aujourd'hui 2:40 vidéo 2 minutes 40",
+   "link": "https://www.franceinfo.fr/societe/armee-securite-defense/la-dissuasion-nucleaire-en-france-c-est-quoi_8292410.html",
+   "summary": "La dissuasion nucléaire en France, c'est quoi ?",
+   "image": "https://www.franceinfo.fr/pictures/eO0PKwJpyFJfSq2lnVGyKXEq3hk/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/20/6b00574f7638c712150897.jpg",
+   "date": null,
+   "pubdate": "2026-11-21T11:16:22.690075+00:00"
+  },
+  {
+   "title": "Présomption d’usage légal des armes par les forces de l’ordre : \"Ce n'est en aucun cas un permis de tuer\", estime le syndicat Unsa Police Aujourd'hui",
+   "link": "https://www.franceinfo.fr/faits-divers/police/presomption-d-usage-legal-des-armes-par-les-forces-de-l-ordre-ce-n-est-en-aucun-cas-un-permis-de-tuer-estime-le-syndicat-unsa-police_8293457.html",
+   "summary": "Présomption d’usage légal des armes par les forces de l’ordre : \"Ce n'est en aucun cas un permis de tuer\", estime le syndicat Unsa Police",
+   "image": "https://www.franceinfo.fr/pictures/B3pCEq21lhRZwdWjTiFrMCdGYMc/0x113:3543x2106/432x243/filters:format(jpg)/2019/10/11/phpgenH6I.jpg",
+   "date": null,
+   "pubdate": "2026-11-21T11:16:22.690075+00:00"
+  },
+  {
+   "title": "\"Bulldozer\", \"super shérif\" et \"serviteur de l'Etat\" : qui est Hugues Moutouh, le préfet soupçonné d'avoir fait fuiter des informations au RN ? Aujourd'hui",
+   "link": "https://www.franceinfo.fr/politique/front-national/bulldozer-super-sherif-et-serviteur-de-l-etat-qui-est-hugues-moutouh-le-prefet-soupconne-d-avoir-fait-fuiter-des-informations-au-rn_8292374.html",
+   "summary": "\"Bulldozer\", \"super shérif\" et \"serviteur de l'Etat\" : qui est Hugues Moutouh, le préfet soupçonné d'avoir fait fuiter des informations au RN ?",
+   "image": "https://www.franceinfo.fr/pictures/t0-OF-jC00lJxy756EzaVpQbCok/0x93:1024x669/432x243/filters:format(jpg)/2026/11/20/6b0073cf537b1273286007.jpg",
+   "date": null,
+   "pubdate": "2026-11-21T11:16:22.690075+00:00"
+  },
+  {
+   "title": "L'auteur du tir de mortier d'artifice contre la députée LFI Farida Amrani a été condamné à 10 mois de bracelet électronique 20 novembre",
    "link": "https://www.franceinfo.fr/faits-divers/l-auteur-du-tir-de-mortier-d-artifice-contre-la-deputee-lfi-farida-amrani-a-ete-condamne-a-10mois-de-bracelet-electronique_8293004.html",
    "summary": "L'auteur du tir de mortier d'artifice contre la députée LFI Farida Amrani a été condamné à 10 mois de bracelet électronique",
-   "image": "https://www.franceinfo.fr/pictures/gP8ywD4tFhlfF6kge1dfL8qlq4A/0x0:992x682/432x297/filters:format(jpg)/2026/11/20/6b00bf7a5344f160884588.jpg",
+   "image": "https://www.franceinfo.fr/pictures/gT6RiLwc-e10hQDvcBrahV2b2SE/0x0:1024x576/432x243/filters:format(jpg)/2026/11/20/6b00bf7a5344f160884588.jpg",
    "date": null,
    "pubdate": "2026-11-21T02:24:24.741890+00:00"
   },
   {
-   "title": "Présidentielle 2027 : ces maires réticents à l'idée de donner leur parrainage Aujourd'hui 1:58 vidéo 1 minute 58",
+   "title": "Présidentielle 2027 : ces maires réticents à l'idée de donner leur parrainage 20 novembre 1:58 vidéo 1 minute 58",
    "link": "https://www.franceinfo.fr/elections/presidentielle-2027-ces-maires-reticents-a-l-idee-de-donner-leur-parrainage_8292998.html",
    "summary": "Présidentielle 2027 : ces maires réticents à l'idée de donner leur parrainage",
    "image": "https://www.franceinfo.fr/pictures/lNF-3HUExuz8Rc1b7mwl1XfGktU/0x13:1313x751/432x243/filters:format(jpg)/2026/11/20/6b00c0a96a948257010015.jpg",
@@ -49,7 +96,7 @@
    "pubdate": "2026-11-21T02:24:24.741890+00:00"
   },
   {
-   "title": "Députés et sénateurs parviennent à un accord sur le projet de budget de \"fin de gestion\" pour 2026, avant une possible adoption définitive mardi Aujourd'hui",
+   "title": "Députés et sénateurs parviennent à un accord sur le projet de budget de \"fin de gestion\" pour 2026, avant une possible adoption définitive mardi 20 novembre",
    "link": "https://www.franceinfo.fr/economie/budget/deputes-et-senateurs-parviennent-a-un-accord-sur-le-projet-de-budget-de-fin-de-gestion-pour-2026-avant-une-possible-adoption-definitive-mardi_8292914.html",
    "summary": "Députés et sénateurs parviennent à un accord sur le projet de budget de \"fin de gestion\" pour 2026, avant une possible adoption définitive mardi",
    "image": "https://www.franceinfo.fr/pictures/T3RQHlyV5gPBqLB7Ou9Q7C6C120/0x53:1024x629/432x243/filters:format(jpg)/2026/11/20/6b00b4274f82f346232064.jpg",
@@ -57,7 +104,7 @@
    "pubdate": "2026-11-21T02:24:24.741890+00:00"
   },
   {
-   "title": "Préfet soupçonné d'avoir renseigné le RN : \"Tout le monde savait qu'il était proche du Rassemblement national\", confie un conseiller de l'exécutif à propos d'Hugues Moutouh Aujourd'hui 1:51 vidéo 1 minute 51",
+   "title": "Préfet soupçonné d'avoir renseigné le RN : \"Tout le monde savait qu'il était proche du Rassemblement national\", confie un conseiller de l'exécutif à propos d'Hugues Moutouh 20 novembre 1:51 vidéo 1 minute 51",
    "link": "https://www.franceinfo.fr/societe/justice/prefet-soupconne-d-avoir-renseigne-le-rn-tout-le-monde-savait-qu-il-etait-proche-du-rassemblement-national-confie-un-conseiller-de-l-executif-a-propos-d-hugues-moutouh_8292974.html",
    "summary": "Préfet soupçonné d'avoir renseigné le RN : \"Tout le monde savait qu'il était proche du Rassemblement national\", confie un conseiller de l'exécutif à propos d'Hugues Moutouh",
    "image": "https://www.franceinfo.fr/pictures/Aah8-up1IFuWTeY9ljTJm1H49d8/0x14:1363x781/432x243/filters:format(jpg)/2026/11/20/6b00bbcb2d115416724375.jpg",
@@ -65,7 +112,7 @@
    "pubdate": "2026-11-21T02:24:24.741890+00:00"
   },
   {
-   "title": "Préfet soupçonné d'avoir renseigné le RN : \"J'espère que ce n'est pas une pression pour tous ceux qui oseraient discuter avec nous\", réagit l'eurodéputé RN Aleksandar Nikolic Aujourd'hui 29:09 vidéo 29 minutes 9",
+   "title": "Préfet soupçonné d'avoir renseigné le RN : \"J'espère que ce n'est pas une pression pour tous ceux qui oseraient discuter avec nous\", réagit l'eurodéputé RN Aleksandar Nikolic 20 novembre 29:09 vidéo 29 minutes 9",
    "link": "https://www.franceinfo.fr/politique/prefet-soupconne-d-avoir-renseigne-le-rn-j-espere-que-ce-n-est-pas-une-pression-pour-tous-ceux-qui-oseraient-discuter-avec-nous-reagit-l-eurodepute-rn-aleksandar-nikolic_8292947.html",
    "summary": "Préfet soupçonné d'avoir renseigné le RN : \"J'espère que ce n'est pas une pression pour tous ceux qui oseraient discuter avec nous\", réagit l'eurodéputé RN Aleksandar Nikolic",
    "image": "https://www.franceinfo.fr/pictures/K6moTav8Pk9igaqRs_GL82BWV0Q/0x9:1072x612/432x243/filters:format(jpg)/2026/11/20/6b00adfee290a838987441.jpg",
@@ -73,15 +120,7 @@
    "pubdate": "2026-11-21T02:24:24.741890+00:00"
   },
   {
-   "title": "Dominique de Villepin : des coups par sa droite Aujourd'hui 0:56 vidéo 56 secondes",
-   "link": "https://www.franceinfo.fr/elections/dominique-de-villepin-des-coups-par-sa-droite_8292857.html",
-   "summary": "Dominique de Villepin : des coups par sa droite",
-   "image": "https://www.franceinfo.fr/pictures/GLvRty1kTp-bp2WGwu6CBqlq1U0/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/20/6b0092da29cb7396390682.jpg",
-   "date": null,
-   "pubdate": "2026-11-20T20:28:20.619689+00:00"
-  },
-  {
-   "title": "Le Parlement adopte définitivement la présomption d'usage légal des armes par les forces de l'ordre Aujourd'hui",
+   "title": "Le Parlement adopte définitivement la présomption d'usage légal des armes par les forces de l'ordre La proposition de loi, soutenue par le centre, la droite et l'extrême droite, a été adoptée à 205 voix pour et 110 contre au Sénat. 20 novembre",
    "link": "https://www.franceinfo.fr/faits-divers/police/le-parlement-adopte-definitivement-la-presomption-d-usage-legal-des-armes-par-les-forces-de-l-ordre_8292845.html",
    "summary": "Le Parlement adopte définitivement la présomption d'usage légal des armes par les forces de l'ordre",
    "image": "https://www.franceinfo.fr/pictures/ANaBRiIoGbgZNVzfFdLLANufcuE/0x53:1024x629/432x243/filters:format(jpg)/2026/11/20/6b0094f3dedce223130921.jpg",
@@ -89,7 +128,7 @@
    "pubdate": "2026-11-20T20:28:20.619689+00:00"
   },
   {
-   "title": "\"Je ne savais pas qu'il était encore là\", réagit Marine Tondelier après le départ de Yannick Jadot des Ecologistes Aujourd'hui",
+   "title": "\"Je ne savais pas qu'il était encore là\", réagit Marine Tondelier après le départ de Yannick Jadot des Ecologistes Yannick Jadot a annoncé quitter les Ecologistes après la main tendue de Marine Tondelier à Jean-Luc Mélenchon pour la présidentielle 2027. Le désormais ex-membre du parti était déjà suspendu pour avoir rejoint Raphaël Glucksmann. 20 novembre",
    "link": "https://www.franceinfo.fr/elections/je-ne-savais-pas-qu-il-etait-encore-la-reagit-marine-tondelier-apres-le-depart-de-yannick-jadot-des-ecologistes_8292785.html",
    "summary": "\"Je ne savais pas qu'il était encore là\", réagit Marine Tondelier après le départ de Yannick Jadot des Ecologistes",
    "image": "https://www.franceinfo.fr/pictures/RELBHL1Cdf7e6DBxGxVo59BFOc0/0x428:8192x5036/432x243/filters:format(jpg)/2026/11/20/6b008a4e4e537262998415.jpg",
@@ -97,23 +136,7 @@
    "pubdate": "2026-11-20T20:28:20.619689+00:00"
   },
   {
-   "title": "\"Franc-Jeu\". Avec Marine Le Pen 22 novembre 45:00 vidéo 45 minutes",
-   "link": "https://www.franceinfo.fr/replay-magazine/france-2/franc-jeu/franc-jeu-avec-marine-le-pen_8266898.html",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/Fbh26rz7pEi0zniuyMT1nNCPA3k/0x0:680x382/432x243/filters:format(jpg)/2026/08/28/6a919b42820e4536048985.jpg",
-   "date": null,
-   "pubdate": "2026-11-20T20:28:20.619689+00:00"
-  },
-  {
-   "title": "Dominique De Villepin, le pari de l'Elysée : \"On/Off\" épisode 10 Aujourd'hui vidéo",
-   "link": "https://www.franceinfo.fr/politique/dominique-de-villepin-le-pari-de-l-elysee-on-off-episode-10_8292278.html",
-   "summary": "Dominique De Villepin, le pari de l'Elysée : \"On/Off\" épisode 10",
-   "image": "https://www.franceinfo.fr/assets/common/images/logos/placeholder-4e7f49f2.png",
-   "date": null,
-   "pubdate": "2026-11-20T20:28:20.619689+00:00"
-  },
-  {
-   "title": "L'élu RN qui a reçu un procureur au siège du parti évoque \"une discussion entre professionnels\" qui se connaissent \"depuis près de trente ans\" Lors d'une perquisition au siège du parti Rassemblement national début novembre, les policiers en charge de l'enquête ont constaté la présence sur place du procureur adjoint du parquet de Paris. Il rendait visite à Jean-Paul Garraud, eurodéputé du Rassemblement national, qui s'explique. Aujourd'hui",
+   "title": "L'élu RN qui a reçu un procureur au siège du parti évoque \"une discussion entre professionnels\" qui se connaissent \"depuis près de trente ans\" Lors d'une perquisition au siège du parti Rassemblement national début novembre, les policiers en charge de l'enquête ont constaté la présence sur place du procureur adjoint du parquet de Paris. Il rendait visite à Jean-Paul Garraud, eurodéputé du Rassemblement national, qui s'explique. 20 novembre",
    "link": "https://www.franceinfo.fr/politique/l-elu-rn-qui-a-recu-un-procureur-au-siege-du-parti-evoque-une-discussion-entre-professionnels-qui-se-connaissent-depuis-pres-de-trente-ans_8292344.html",
    "summary": "L'élu RN qui a reçu un procureur au siège du parti évoque \"une discussion entre professionnels\" qui se connaissent \"depuis près de trente ans\"",
    "image": "https://www.franceinfo.fr/pictures/GUaEvCmZTbwhjorTZ7lad7CDJl0/0x169:3257x2001/432x243/filters:format(jpg)/2026/11/20/6b0059d57bc9d602728245.jpg",
@@ -121,7 +144,7 @@
    "pubdate": "2026-11-20T20:28:20.619689+00:00"
   },
   {
-   "title": "Partie de LFI en 2024, Clémentine Autain appelle à son tour à se rallier à la candidature de Jean-Luc Mélenchon Qualifié par plusieurs sondages au second tour de l'élection présidentielle, Jean-Luc Mélenchon commence à engranger ralliements et mains tendues. Ce vendredi, c'est la députée Clémentine Autain qui appelle à soutenir sa candidature à l'élection présidentielle. Aujourd'hui",
+   "title": "Partie de LFI en 2024, Clémentine Autain appelle à son tour à se rallier à la candidature de Jean-Luc Mélenchon Qualifié par plusieurs sondages au second tour de l'élection présidentielle, Jean-Luc Mélenchon commence à engranger ralliements et mains tendues. Ce vendredi, c'est la députée Clémentine Autain qui appelle à soutenir sa candidature à l'élection présidentielle. 20 novembre",
    "link": "https://www.franceinfo.fr/elections/exclue-de-lfi-en-2024-clementine-autain-appelle-a-son-tour-a-se-rallier-a-la-candidature-de-jean-luc-melenchon_8292170.html",
    "summary": "Partie de LFI en 2024, Clémentine Autain appelle à son tour à se rallier à la candidature de Jean-Luc Mélenchon",
    "image": "https://www.franceinfo.fr/pictures/Gpc2Ea_c3WnUV-7HQi4MJ9t4IUw/0x290:5568x3422/432x243/filters:format(jpg)/2026/11/20/6b0039285a64e667286909.jpg",
@@ -129,7 +152,7 @@
    "pubdate": "2026-11-20T20:28:20.619689+00:00"
   },
   {
-   "title": "La procureure générale de Paris doit rendre vendredi un rapport à Gérald Darmanin sur la présence d'un procureur lors d'une perquisition au siège du RN Lors d'une perquisition au siège du parti Rassemblement national début novembre, un procureur adjoint du parquet de Paris a été aperçu. Aujourd'hui",
+   "title": "La procureure générale de Paris doit rendre vendredi un rapport à Gérald Darmanin sur la présence d'un procureur lors d'une perquisition au siège du RN Lors d'une perquisition au siège du parti Rassemblement national début novembre, un procureur adjoint du parquet de Paris a été aperçu. 20 novembre",
    "link": "https://www.franceinfo.fr/politique/front-national/la-procureure-generale-de-paris-a-remis-son-rapport-a-gerald-darmanin-sur-la-presence-d-un-procureur-lors-d-une-perquisition-au-siege-du-rn_8292188.html",
    "summary": "La procureure générale de Paris doit rendre vendredi un rapport à Gérald Darmanin sur la présence d'un procureur lors d'une perquisition au siège du RN",
    "image": "https://www.franceinfo.fr/pictures/IctTv1tOPIL8zsaU4_ns_fyN-2s/0x0:6000x3375/432x243/filters:format(jpg)/2026/02/04/epaliveeight668092-6982f36d0a4b7015091609.jpg",
@@ -137,7 +160,7 @@
    "pubdate": "2026-11-20T11:50:11.093891+00:00"
   },
   {
-   "title": "Perquisition, enquête ouverte, préfet mis en cause… Ce que l'on sait des soupçons de fuites d'informations dont aurait bénéficié le Rassemblement national Le parti d'extrême droite est soupçonné d'avoir bénéficié de fuites sur des affaires en cours, avec des informations normalement couvertes par le secret de l'enquête. La participation d'un préfet est étudiée, selon plusieurs médias. Aujourd'hui",
+   "title": "Perquisition, enquête ouverte, préfet mis en cause… Ce que l'on sait des soupçons de fuites d'informations dont aurait bénéficié le Rassemblement national Le parti d'extrême droite est soupçonné d'avoir bénéficié de fuites sur des affaires en cours, avec des informations normalement couvertes par le secret de l'enquête. La participation d'un préfet est étudiée, selon plusieurs médias. 20 novembre",
    "link": "https://www.franceinfo.fr/politique/front-national/perquisition-enquete-ouverte-prefet-mis-en-cause-ce-que-l-on-sait-des-soupcons-de-fuites-d-informations-dont-aurait-beneficie-le-rassemblement-national_8291804.html",
    "summary": "Perquisition, enquête ouverte, préfet mis en cause… Ce que l'on sait des soupçons de fuites d'informations dont aurait bénéficié le Rassemblement national",
    "image": "https://www.franceinfo.fr/pictures/1E6TycB3NWeKm68Zylo9fRhMpPQ/0x5:1024x581/432x243/filters:format(jpg)/2026/11/20/6afff5ce2fec2387389828.jpg",
@@ -145,7 +168,7 @@
    "pubdate": "2026-11-20T11:50:11.093891+00:00"
   },
   {
-   "title": "Au moins 6 milliards d'euros d'économies supplémentaires sont nécessaires pour boucler le budget 2027, affirme le ministre des Comptes publics Le projet de loi de finances commence à être débattu au Sénat après son rejet à l'Assemblée nationale. Aujourd'hui",
+   "title": "Au moins 6 milliards d'euros d'économies supplémentaires sont nécessaires pour boucler le budget 2027, affirme le ministre des Comptes publics Le projet de loi de finances commence à être débattu au Sénat après son rejet à l'Assemblée nationale. 20 novembre",
    "link": "https://www.franceinfo.fr/economie/budget/au-moins-6-milliards-d-euros-d-economies-supplementaires-sont-necessaires-pour-boucler-le-budget-2027-reconnait-le-ministre-des-comptes-publics_8291879.html",
    "summary": "Au moins 6 milliards d'euros d'économies supplémentaires sont nécessaires pour boucler le budget 2027, affirme le ministre des Comptes publics",
    "image": "https://www.franceinfo.fr/pictures/oIfeq0CRS6u0IcyxaH7bd71_3h8/0x0:8061x4534/432x243/filters:format(jpg)/2026/11/20/6b0008cc8ef82660985598.jpg",
@@ -153,7 +176,7 @@
    "pubdate": "2026-11-20T11:50:11.093891+00:00"
   },
   {
-   "title": "Perquisitions au siège du RN, présomption de légitime défense, réforme des retraites... Le 8h30 franceinfo de Julien Odoul Julien Odoul, député de l’Yonne et porte-parole du Rassemblement national, est dans le 8h30 franceinfo. Aujourd'hui 24:00 audio 24 minutes",
+   "title": "Perquisitions au siège du RN, présomption de légitime défense, réforme des retraites... Le 8h30 franceinfo de Julien Odoul Julien Odoul, député de l’Yonne et porte-parole du Rassemblement national, est dans le 8h30 franceinfo. 20 novembre 24:00 audio 24 minutes",
    "link": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/perquisitions-au-siege-du-rn-presomption-de-legitime-defense-reforme-des-retraites-le-8h30-franceinfo-de-julien-odoul_8270117.html",
    "summary": "Perquisitions au siège du RN, présomption de légitime défense, réforme des retraites... Le 8h30 franceinfo de Julien Odoul",
    "image": "https://www.franceinfo.fr/pictures/BzFgaQGoDO9uLI56rKE8ktR9Vw8/0x0:1280x720/432x243/filters:format(jpg)/2026/11/20/6afffdc7bd23d184382933.jpg",
@@ -161,44 +184,12 @@
    "pubdate": "2026-11-20T11:50:11.093891+00:00"
   },
   {
-   "title": "\"Des rumeurs et des accusations sans fondement\", réagit Jean-Philippe Tanguy dans l'affaire du préfet soupçonné d'avoir renseigné le RN sur des affaires en cours Le député RN de la Somme s'exprime sur France Inter après les accusations visant Huges Moutouh d'avoir transmis des informations sensibles au Rassemblement national. Aujourd'hui",
+   "title": "\"Des rumeurs et des accusations sans fondement\", réagit Jean-Philippe Tanguy dans l'affaire du préfet soupçonné d'avoir renseigné le RN sur des affaires en cours Le député RN de la Somme s'exprime sur France Inter après les accusations visant Huges Moutouh d'avoir transmis des informations sensibles au Rassemblement national. 20 novembre",
    "link": "https://www.franceinfo.fr/politique/front-national/des-rumeurs-et-des-accusations-sans-fondement-reagit-jean-philippe-tanguy-dans-l-affaire-du-prefet-soupconne-d-avoir-renseigne-le-rn-sur-des-affaires-en-cours_8291828.html",
    "summary": "\"Des rumeurs et des accusations sans fondement\", réagit Jean-Philippe Tanguy dans l'affaire du préfet soupçonné d'avoir renseigné le RN sur des affaires en cours",
    "image": "https://www.franceinfo.fr/pictures/o_ZXOFAfrp-YP2OQi5OzXaaO5ag/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/20/6afffa52062b4913957809.png",
    "date": null,
    "pubdate": "2026-11-20T11:50:11.093891+00:00"
-  },
-  {
-   "title": "Julien Odoul appelle à \"préserver\" le secret de l'instruction dans l'affaire du préfet soupçonné d'avoir renseigné le RN sur des affaires en cours Invité du 8h30 de franceinfo, le porte-parole du Rassemblement national répond aux accusations visant le préfet du Loiret, soupçonné d'avoir transmis au Rassemblement national des informations sensibles sur des affaires en cours. Aujourd'hui",
-   "link": "https://www.franceinfo.fr/politique/front-national/julien-odoul-appelle-a-preserver-le-secret-de-l-instruction-dans-l-affaire-du-prefet-soupconne-d-avoir-renseigne-le-rn-sur-des-affaires-et-denonce-l-instrumentalisation-par-jean-luc-melenchon_8291837.html",
-   "summary": "Julien Odoul appelle à \"préserver\" le secret de l'instruction dans l'affaire du préfet soupçonné d'avoir renseigné le RN sur des affaires en cours",
-   "image": "https://www.franceinfo.fr/pictures/Z_1VhMlGhrbBYUIUEyNkJinp-rQ/0x0:1267x712/432x243/filters:format(jpg)/2026/11/20/6afffc4c5aa0a001444189.png",
-   "date": null,
-   "pubdate": "2026-11-20T11:50:11.093891+00:00"
-  },
-  {
-   "title": "Préfet soupçonné d'avoir renseigné le RN : \"Si les faits sont avérés, ils sont évidemment très graves\", déclare Laurent Nuñez, qui a convoqué Hugues Moutouh La justice a perquisitionné le siège du Rassemblement national début novembre à la suite d'une information judiciaire ouverte au mois de juillet. Aujourd'hui",
-   "link": "https://www.franceinfo.fr/societe/justice/direct-si-les-faits-sont-averes-ils-sont-evidemment-tres-graves-laurent-nunez-convoque-le-prefet-hugues-moutouh-soupconne-d-avoir-transmis-des-informations-sensibles-au-rassemblement-national_8291756.html",
-   "summary": "Préfet soupçonné d'avoir renseigné le RN : \"Si les faits sont avérés, ils sont évidemment très graves\", déclare Laurent Nuñez, qui a convoqué Hugues Moutouh",
-   "image": "https://www.franceinfo.fr/pictures/AmJvhovUEXDRFUKBtO5gCYFclfY/0x0:5472x3078/432x243/filters:format(jpg)/2026/11/20/6afff3d8c0be3889930017.jpg",
-   "date": null,
-   "pubdate": "2026-11-20T11:50:11.093891+00:00"
-  },
-  {
-   "title": ": Édito Présidentielle 2027, l’éternel rendez-vous manqué des écologistes avec l’Élysée Marine Tondelier s'est dite prête à négocier une coalition autour de Jean-Luc Mélenchon pour la présidentielle de 2027. Un nouveau retrait qui illustre les difficultés historiques des écologistes à s'imposer dans l'élection présidentielle et les divisions internes du parti. Aujourd'hui : Édito 2:41 audio 2 minutes 41",
-   "link": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-presidentielle-2027-l-eternel-rendez-vous-manque-des-ecologistes-avec-l-elysee_8270120.html",
-   "summary": "Présidentielle 2027, l’éternel rendez-vous manqué des écologistes avec l’Élysée",
-   "image": "https://www.franceinfo.fr/pictures/sPhkpD6gIV9ZmbSfs2wYFQPSxSI/0x0:1024x576/432x243/filters:format(jpg)/2026/11/20/6affd9fea6e78576564474.jpg",
-   "date": null,
-   "pubdate": "2026-11-20T11:50:11.093891+00:00"
-  },
-  {
-   "title": "Primaire, racisme, référendums, IA… Ce qu'il faut retenir de l'interview de Gabriel Attal dans l'émission \"L'Heure de vérité\" sur France 2 Le candidat Renaissance à la présidentielle était l'invité jeudi de l'émission politique de France 2. Voici les passages marquants à retenir de cette interview de plus de deux heures. 19 novembre",
-   "link": "https://www.franceinfo.fr/politique/gabriel-attal/primaire-racisme-referendums-ia-ce-qu-il-faut-retenir-de-l-interview-de-gabriel-attal-dans-l-emission-l-heure-de-verite-sur-france-2_8290544.html",
-   "summary": "Primaire, racisme, référendums, IA… Ce qu'il faut retenir de l'interview de Gabriel Attal dans l'émission \"L'Heure de vérité\" sur France 2",
-   "image": "https://www.franceinfo.fr/pictures/z0kA_3ivltMGHWIhQh2HTsUACAc/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/19/6aff6c587790d914013549.jpg",
-   "date": null,
-   "pubdate": "2026-11-20T02:22:24.980603+00:00"
   },
   {
    "title": "Soupçons de financement libyen : tout comprendre à l'affaire 29 contenus",
