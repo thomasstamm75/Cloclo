@@ -1,9 +1,7 @@
 {
- "etag": "\"8fbc85d0941102bb0a34767a7a3676eb-gzip\"",
+ "etag": "\"d7496886a82862861183a8cd18bcec72-gzip\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.franceinfo.fr/societe/nos-jours-heureux/": "2026-11-18T11:52:01.501886+00:00",
-  "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/cet-outil-ne-va-pas-tout-faire-a-la-place-de-l-eleve-en-estonie-une-version-specifique-de-chatgpt-fait-son-entree-dans-les-salles-de-classe_8268662.html": "2026-11-19T11:49:02.021102+00:00",
   "https://www.franceinfo.fr/monde/europe/de-l-espagne-a-l-albanie-en-passant-par-la-france-une-jeunesse-europeenne-unie-par-des-causes-communes-descend-dans-la-rue_8290049.html": "2026-11-20T11:50:07.901425+00:00",
   "https://www.franceinfo.fr/societe/harcelement-sexuel/un-directeur-d-ecole-maternelle-de-montpellier-mis-en-examen-pour-viol-et-agression-sexuelle_8293025.html": "2026-11-21T02:24:20.964002+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/temoignage-des-qu-il-y-a-un-nouveau-telephone-tout-le-monde-fait-un-credit-comment-le-surendettement-explose-chez-les-moins-de-30-ans_8266763.html": "2026-11-21T02:24:20.964002+00:00",
@@ -31,15 +29,33 @@
   "https://www.franceinfo.fr/societe/education/blocage-des-lycees/la-mobilisation-s-etend-au-dela-des-frontieres-francaises_8294573.html": "2026-11-22T11:35:32.801507+00:00",
   "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-sociale-le-mouvement-est-il-en-train-de-ralentir_8294564.html": "2026-11-22T11:35:32.801507+00:00",
   "https://www.franceinfo.fr/decouverte/noel/entre-contraintes-budgetaires-et-envie-de-faire-durer-les-fetes-pourquoi-noel-deboule-de-plus-en-plus-tot_8288288.html": "2026-11-22T11:35:32.801507+00:00",
-  "https://www.franceinfo.fr/sante/sida/video-au-debut-on-ne-sait-pas-ce-qu-est-ce-virus-l-affaire-du-sang-contamine-ou-la-lente-prise-de-conscience-de-la-dangerosite-du-sida_8270939.html": "2026-11-22T11:35:32.801507+00:00"
+  "https://www.franceinfo.fr/sante/sida/video-au-debut-on-ne-sait-pas-ce-qu-est-ce-virus-l-affaire-du-sang-contamine-ou-la-lente-prise-de-conscience-de-la-dangerosite-du-sida_8270939.html": "2026-11-22T11:35:32.801507+00:00",
+  "https://www.franceinfo.fr/societe/armee-securite-defense/que-sont-les-honorables-correspondants-des-services-de-renseignements-francais_8295161.html": "2026-11-22T19:47:14.955806+00:00",
+  "https://www.franceinfo.fr/replay-jt/france-2/13-heures/le-baron-de-la-drogue-chapo-isidro-capture-par-l-armee-mexicaine-dans-une-operation-spectaculaire_8294900.html": "2026-11-22T19:47:14.955806+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "Le Mexique annonce l'arrestation de Chapo Isidro, un baron de la drogue recherché par les Etats-Unis Chapo Isidro, âgé de 44 ans, fait l'objet de poursuites à la fois au Mexique et aux Etats-Unis, où le FBI offrait une récompense de cinq millions de dollars pour son arrestation. Aujourd'hui",
+   "title": "Que sont les \"honorables correspondants\" des services de renseignements français ? L'acteur Guy Marchand aurait durant plusieurs années apporté son soutien à la DGSE pour des rencontres clandestines. Qui sont ces hommes et femmes de l’ombre, que l'on appelle des \"honorables correspondants\", et comment sont-ils approchés ? Éléments de réponse. Aujourd'hui 3:31 vidéo 3 minutes 31",
+   "link": "https://www.franceinfo.fr/societe/armee-securite-defense/que-sont-les-honorables-correspondants-des-services-de-renseignements-francais_8295161.html",
+   "summary": "Que sont les \"honorables correspondants\" des services de renseignements français ?",
+   "image": "https://www.franceinfo.fr/pictures/0oGPmwlE3atmXZAUI73zpXpXOSQ/26x0:1466x990/432x297/filters:format(jpg)/2026/11/22/6b0342ce8c926194021928.png",
+   "date": null,
+   "pubdate": "2026-11-22T19:47:14.955806+00:00"
+  },
+  {
+   "title": "Une opération spectaculaire de l'armée mexicaine permet la capture du baron de la drogue Chapo Isidro Aujourd'hui 1:40 vidéo 1 minute 40",
+   "link": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/le-baron-de-la-drogue-chapo-isidro-capture-par-l-armee-mexicaine-dans-une-operation-spectaculaire_8294900.html",
+   "summary": "Une opération spectaculaire de l'armée mexicaine permet la capture du baron de la drogue Chapo Isidro",
+   "image": "https://www.franceinfo.fr/pictures/lfFbGvC4bFXes_lfVLOPr2nrGCk/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/22/6b02f4402a559871823153.jpg",
+   "date": null,
+   "pubdate": "2026-11-22T19:47:14.955806+00:00"
+  },
+  {
+   "title": "Le Mexique annonce l'arrestation de Chapo Isidro, un baron de la drogue recherché par les Etats-Unis Aujourd'hui",
    "link": "https://www.franceinfo.fr/societe/drogue/le-mexique-annonce-l-arrestation-de-chapo-isidro-un-baron-de-la-drogue-recherche-par-les-etats-unis_8294513.html",
    "summary": "Le Mexique annonce l'arrestation de Chapo Isidro, un baron de la drogue recherché par les Etats-Unis",
-   "image": "https://www.franceinfo.fr/pictures/N89inKZ7XqFwQCEH9Tq4x5wSldI/32x0:1024x682/432x297/filters:format(jpg)/2026/11/22/6b02b76ae8883917963460.jpg",
+   "image": "https://www.franceinfo.fr/pictures/dBAUKUhl0XoQ2k5heJLeTgsM_V0/0x0:1024x576/432x243/filters:format(jpg)/2026/11/22/6b02b76ae8883917963460.jpg",
    "date": null,
    "pubdate": "2026-11-22T11:35:32.801507+00:00"
   },
@@ -100,7 +116,7 @@
    "pubdate": "2026-11-22T01:23:48.531805+00:00"
   },
   {
-   "title": "La mobilisation du 21 novembre a rassemblé 82 500 manifestants dans l'Hexagone selon le ministère de l'Intérieur, 150 000 selon la CGT 21 novembre",
+   "title": "La mobilisation du 21 novembre a rassemblé 82 500 manifestants dans l'Hexagone selon le ministère de l'Intérieur, 150 000 selon la CGT Cette journée de mobilisation s'est inscrite dans le cadre d'un appel européen de syndicats et associations de défense du droit au logement à des actions coordonnées sur trois jours, de vendredi à dimanche. 21 novembre",
    "link": "https://www.franceinfo.fr/societe/manifestations/mobilisation-du-21-novembre-82-500-personnes-ont-manifeste-dans-l-hexagone-selon-le-ministere-de-l-interieur-150-000-selon-la-cgt_8294093.html",
    "summary": "La mobilisation du 21 novembre a rassemblé 82 500 manifestants dans l'Hexagone selon le ministère de l'Intérieur, 150 000 selon la CGT",
    "image": "https://www.franceinfo.fr/pictures/Dp1DAL_uqlCC9lfdn-PuBJnEFEY/0x53:1024x629/432x243/filters:format(jpg)/2026/11/21/6b01cbc538f07508938814.jpg",
@@ -108,7 +124,7 @@
    "pubdate": "2026-11-22T01:23:48.531805+00:00"
   },
   {
-   "title": "\"On n'attendra pas l'élection présidentielle, on veut que la vie des gens s'améliore maintenant\", pointe le secrétaire confédéral de la CGT 21 novembre",
+   "title": "\"On n'attendra pas l'élection présidentielle, on veut que la vie des gens s'améliore maintenant\", pointe le secrétaire confédéral de la CGT Alors que des dizaines de milliers de personnes ont encore manifesté dans les rues samedi, la CGT appelle à maintenir la pression sur le gouvernement pour obtenir, notamment, des hausses de salaires. 21 novembre",
    "link": "https://www.franceinfo.fr/societe/on-n-attendra-pas-l-election-presidentielle-on-veut-que-la-vie-des-gens-s-ameliore-maintenant-pointe-le-secretaire-confederal-de-la-cgt_8294036.html",
    "summary": "\"On n'attendra pas l'élection présidentielle, on veut que la vie des gens s'améliore maintenant\", pointe le secrétaire confédéral de la CGT",
    "image": "https://www.franceinfo.fr/pictures/z_96LSxXy773Em8rlXiLQDItTAw/0x282:5435x3340/432x243/filters:format(jpg)/2026/11/21/6b01d996544c5489466237.jpg",
@@ -258,22 +274,6 @@
    "image": "https://www.franceinfo.fr/pictures/wottJ-87phlwjr0-rP4_iBtRMBs/0x0:2000x1125/432x243/filters:format(jpg)/2026/11/19/6afef8f20352c032597013.jpg",
    "date": null,
    "pubdate": "2026-11-20T11:50:07.901425+00:00"
-  },
-  {
-   "title": ": Reportage \"Cet outil ne va pas tout faire à la place de l'élève\" : en Estonie, une version spécifique de ChatGPT fait son entrée dans les salles de classe : Reportage 5:10 audio 5 minutes 10",
-   "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/cet-outil-ne-va-pas-tout-faire-a-la-place-de-l-eleve-en-estonie-une-version-specifique-de-chatgpt-fait-son-entree-dans-les-salles-de-classe_8268662.html",
-   "summary": "\"Cet outil ne va pas tout faire à la place de l'élève\" : en Estonie, une version spécifique de ChatGPT fait son entrée dans les salles de classe",
-   "image": "https://www.franceinfo.fr/pictures/5Fj9_fuB2l4Ytt9udxg3Sr6HzL8/0x0:8192x4608/432x243/filters:format(jpg)/2026/11/19/6afe8d5d83b2c564518561.jpg",
-   "date": null,
-   "pubdate": "2026-11-19T11:49:02.021102+00:00"
-  },
-  {
-   "title": "Nos jours heureux 5 contenus",
-   "link": "https://www.franceinfo.fr/societe/nos-jours-heureux/",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/70hxXkCD_HnVl93vv3dfs138KJQ/432x297/filters:format(jpg)/2026/07/30/6a6b142e19c9c745704318.jpg",
-   "date": null,
-   "pubdate": "2026-11-18T11:52:01.501886+00:00"
   }
  ]
 }

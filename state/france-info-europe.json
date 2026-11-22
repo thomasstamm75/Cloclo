@@ -1,16 +1,13 @@
 {
- "etag": "\"1a7bb06b702c64426b7c901d13cd4648-gzip\"",
+ "etag": "\"554875460db048dab73234e89fb1ee32-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/politique/grand-entretien-en-belgique-un-cordon-sanitaire-mediatique-empeche-toute-forme-de-banalisation-de-l-extreme-droite-un-outil-difficile-a-imaginer-en-france_8265599.html": "2026-11-04T17:19:33.406625+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-couper-le-robinet-de-petrole-russe-en-mission-avec-les-oiseaux-de-madyar-la-brigade-de-dronistes-ukrainiens-la-plus-pourchassee-par-les-russes_8255023.html": "2026-11-10T14:58:52.045882+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/reportage-ca-facilite-grandement-le-travail-de-nos-soldats-les-robots-de-combat-ukrainiens-deviennent-incontournables-sur-le-front-et-permettent-de-reprendre-du-terrain-aux-russes_8284292.html": "2026-11-16T06:42:10.582662+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/vos-questions-sur-l-effort-de-guerre-de-la-france/": "2026-11-19T02:37:27.795559+00:00",
   "https://www.franceinfo.fr/monde/europe/migrants/seize-migrants-decouverts-dans-un-camion-au-terminal-ferry-a-ouistreham-sur-le-point-de-partir-pour-la-grande-bretagne_8292182.html": "2026-11-20T11:50:12.898520+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-un-missile-russe-tombe-dans-le-sud-est-de-la-pologne-sans-faire-de-blesse_8292080.html": "2026-11-20T11:50:12.898520+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/une-usine-d-armement-basee-dans-le-cher-doit-augmenter-sa-production-de-60-000-a-150-000-obus-fabriques-par-an_8291966.html": "2026-11-20T11:50:12.898520+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/trois-personnes-sont-mortes-a-kiev-apres-des-frappes-russes-sur-l-ukraine_8291687.html": "2026-11-20T11:50:12.898520+00:00",
-  "https://www.franceinfo.fr/monde/royaume-uni/nous-avons-perdu-plus-que-nous-avons-gagne-dix-ans-apres-le-brexit-le-royaume-uni-veut-a-nouveau-se-rapprocher-de-l-union-europeenne_8288675.html": "2026-11-20T11:50:12.898520+00:00",
   "https://www.franceinfo.fr/monde/europe/de-l-espagne-a-l-albanie-en-passant-par-la-france-une-jeunesse-europeenne-unie-par-des-causes-communes-descend-dans-la-rue_8290049.html": "2026-11-20T11:50:12.898520+00:00",
   "https://www.franceinfo.fr/monde/europe/union-europeenne/le-danemark-soupconne-la-russie-d-avoir-planifie-l-assassinat-d-un-ukrainien-sur-son-sol_8292689.html": "2026-11-20T20:28:22.149167+00:00",
   "https://www.franceinfo.fr/monde/royaume-uni/reportage-c-etait-une-grave-erreur-a-londres-des-britanniques-regrettent-le-brexit-et-se-disent-prets-a-revenir-dans-l-union-europeenne_8292533.html": "2026-11-20T20:28:22.149167+00:00",
@@ -31,15 +28,42 @@
   "https://www.franceinfo.fr/monde/europe/migrants/les-raids-anti-migrants-se-multiplient-au-royaume-uni-et-inquietent-le-gouvernement_8294159.html": "2026-11-22T01:23:52.951420+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-union-europeenne-sabote-la-paix-en-ukraine-selon-nicolas-dupont-aignan_8294792.html": "2026-11-22T11:35:36.363314+00:00",
   "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/guerre-en-ukraine-crise-sociale-sortie-de-l-ue-le-8h30-franceinfo-de-nicolas-dupont-aignan_8250490.html": "2026-11-22T11:35:36.363314+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-multiplication-des-incidents-militaires-fait-craindre-une-escalade-entre-la-russie-et-l-otan_8294615.html": "2026-11-22T11:35:36.363314+00:00"
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-multiplication-des-incidents-militaires-fait-craindre-une-escalade-entre-la-russie-et-l-otan_8294615.html": "2026-11-22T11:35:36.363314+00:00",
+  "https://www.franceinfo.fr/replay-jt/france-2/20-heures/la-tension-monte-entre-l-europe-et-la-russie-apres-plusieurs-incidents-militaires_8295158.html": "2026-11-22T19:47:19.158790+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/le-quai-d-orsay-repond-a-la-multiplication-des-incidents-entre-l-europe-et-la-russie-en-etant-calme-en-ne-se-laissant-pas-impressionner-et-en-renforcant-notre-determination_8295164.html": "2026-11-22T19:47:19.158790+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-les-ecoles-d-odessa-passent-a-l-enseignement-en-distanciel-apres-des-frappes-russes-sur-le-reseau-electrique_8294744.html": "2026-11-22T19:47:19.158790+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "L'Union européenne \"sabote la paix\" en Ukraine, selon Nicolas Dupont-Aignan Invité du 8.30 franceinfo ce dimanche, Nicolas Dupont-Aignan, candidat à l’élection présidentielle estime que la \"boucherie\" en Ukraine \"est alimentée notamment par l'Union européenne\" et \"les Européens devraient être à la table des négociations avec Donald Trump, avec Poutine pour régler ce problème avant qu'ils ne ruinent l'Europe\". C'est pourtant la Russie qui s'oppose régulièrement à la participation des Européens aux négociations de paix. Le pays dirigé par Vladimir Poutine est par ailleurs accusé par l'Ukraine d'avoir violé à plusieurs reprises des cessez-le-feu - Moscou accuse Kiev des mêmes faits. S'il est élu président, Nicolas Dupont-Aignan indique qu'il cessera les aides à l'Ukraine dès \"le premier jour\". #FranceinfoRF #Ukraine Aujourd'hui 1:53 vidéo 1 minute 53",
+   "title": "La tension monte entre l'Europe et la Russie après plusieurs incidents militaires La Finlande a dû alerter l'Otan après deux incidents qualifiés de graves, samedi 21 novembre. Il faut ajouter à cela une alerte aérienne sur la principale base navale russe dans l'enclave de Kaliningrad. La Finlande, qui partage 1 340 kilomètres de frontières avec la Russie, est la cible récurrente d'opérations hybrides de Moscou. Aujourd'hui 2:09 vidéo 2 minutes 9",
+   "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/la-tension-monte-entre-l-europe-et-la-russie-apres-plusieurs-incidents-militaires_8295158.html",
+   "summary": "La tension monte entre l'Europe et la Russie après plusieurs incidents militaires",
+   "image": "https://www.franceinfo.fr/pictures/7gj0GWbuRCWzJhe_qOhPj-2FyjE/174x0:1745x1080/432x297/filters:format(jpg)/2026/11/22/6b03452fa042e747058214.jpg",
+   "date": null,
+   "pubdate": "2026-11-22T19:47:19.158790+00:00"
+  },
+  {
+   "title": "Le Quai d'Orsay répond à la multiplication des incidents entre l'Europe et la Russie \"en étant calme, en ne se laissant pas impressionner et en renforçant notre détermination\" Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/le-quai-d-orsay-repond-a-la-multiplication-des-incidents-entre-l-europe-et-la-russie-en-etant-calme-en-ne-se-laissant-pas-impressionner-et-en-renforcant-notre-determination_8295164.html",
+   "summary": "Le Quai d'Orsay répond à la multiplication des incidents entre l'Europe et la Russie \"en étant calme, en ne se laissant pas impressionner et en renforçant notre détermination\"",
+   "image": "https://www.franceinfo.fr/pictures/UOgDiHCxcEGN0f59Y5_G90jGglQ/0x0:1194x671/432x243/filters:format(jpg)/2026/05/05/69f98a2717349871399109.jpg",
+   "date": null,
+   "pubdate": "2026-11-22T19:47:19.158790+00:00"
+  },
+  {
+   "title": "Guerre en Ukraine : les écoles d'Odessa passent à l'enseignement à distance après des frappes russes sur le réseau électrique Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-les-ecoles-d-odessa-passent-a-l-enseignement-en-distanciel-apres-des-frappes-russes-sur-le-reseau-electrique_8294744.html",
+   "summary": "Guerre en Ukraine : les écoles d'Odessa passent à l'enseignement à distance après des frappes russes sur le réseau électrique",
+   "image": "https://www.franceinfo.fr/pictures/3FaQ_4KbQhGQntQbvbr-utY4oHA/0x0:1024x576/432x243/filters:format(jpg)/2026/11/22/6b02d80381191001648364.jpg",
+   "date": null,
+   "pubdate": "2026-11-22T19:47:19.158790+00:00"
+  },
+  {
+   "title": "L'Union européenne \"sabote la paix\" en Ukraine, selon Nicolas Dupont-Aignan Aujourd'hui 1:53 vidéo 1 minute 53",
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-union-europeenne-sabote-la-paix-en-ukraine-selon-nicolas-dupont-aignan_8294792.html",
    "summary": "L'Union européenne \"sabote la paix\" en Ukraine, selon Nicolas Dupont-Aignan",
-   "image": "https://www.franceinfo.fr/pictures/XKupS9iyiKBBnY2QIQYMdjd3tqI/0x0:1080x1920/fit-in/432x297/filters:upscale():fill(blur):format(jpg)/2026/11/22/6b02cd7b632d1853397416.jpg",
+   "image": "https://www.franceinfo.fr/pictures/cYxSXlbBO3ESS6MWhQOAMlBe_Ds/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/22/6b02cd7b632d1853397416.jpg",
    "date": null,
    "pubdate": "2026-11-22T11:35:36.363314+00:00"
   },
@@ -84,7 +108,7 @@
    "pubdate": "2026-11-21T19:24:04.955434+00:00"
   },
   {
-   "title": ": Reportage \"Nous nous sentons ici chez nous\" : une brigade allemande de 5 000 soldats s'apprête à mener des exercices pendant un mois en Lituanie 21 novembre : Reportage",
+   "title": ": Reportage \"Nous nous sentons ici chez nous\" : une brigade allemande de 5 000 soldats s'apprête à mener des exercices pendant un mois en Lituanie Des renforts venus d’Allemagne participent à ces entraînements aux côtés du bataillon multinational de l’Otan, installé dans le pays depuis 2017. 21 novembre : Reportage",
    "link": "https://www.franceinfo.fr/monde/otan/nous-nous-sentons-ici-chez-nous-une-brigade-allemande-de-5-000-soldats-s-apprete-a-mener-des-exercices-pendant-un-mois-en-lituanie_8293721.html",
    "summary": "\"Nous nous sentons ici chez nous\" : une brigade allemande de 5 000 soldats s'apprête à mener des exercices pendant un mois en Lituanie",
    "image": "https://www.franceinfo.fr/pictures/j6qBGrpSwwNujHD5YvWEvszKxrs/0x234:4500x2766/432x243/filters:format(jpg)/2026/11/21/6b018c756a75c012986106.jpg",
@@ -92,7 +116,7 @@
    "pubdate": "2026-11-21T19:24:04.955434+00:00"
   },
   {
-   "title": "Guerre en Ukraine : des frappes russes font deux morts et 58 blessés à Kryvyï Rih, ville natale de Volodymyr Zelensky 21 novembre",
+   "title": "Guerre en Ukraine : des frappes russes font deux morts et 58 blessés à Kryvyï Rih, ville natale de Volodymyr Zelensky Six enfants figurent parmi les blessés, a précisé samedi le président ukrainien sur Telegram. 21 novembre",
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-des-frappes-russes-font-deux-morts-et-58-blesses-a-kryvyi-rih-ville-natale-de-volodymyr-zelensky_8293700.html",
    "summary": "Guerre en Ukraine : des frappes russes font deux morts et 58 blessés à Kryvyï Rih, ville natale de Volodymyr Zelensky",
    "image": "https://www.franceinfo.fr/pictures/CsrPPm9InM4527HOt9OpPrOPrlw/0x26:1024x602/432x243/filters:format(jpg)/2026/11/21/6b0185f534763222501770.jpg",
@@ -100,7 +124,7 @@
    "pubdate": "2026-11-21T19:24:04.955434+00:00"
   },
   {
-   "title": ": Reportage \"Ce sont les patients qui en pâtissent\" : au Portugal, les syndicats dénoncent la dégradation des services publics 21 novembre : Reportage",
+   "title": ": Reportage \"Ce sont les patients qui en pâtissent\" : au Portugal, les syndicats dénoncent la dégradation des services publics Nouvelle journée de mobilisation ce samedi contre la vie chère en France, mais également au Portugal. Les syndicats dénoncent la dégradation des services publics, à trois jours du vote du budget 2027 présenté par le gouvernement de centre droit de Luís Montenegro. 21 novembre : Reportage",
    "link": "https://www.franceinfo.fr/societe/manifestations/reportage-ce-sont-les-patients-qui-en-patissent-au-portugal-les-syndicats-denoncent-la-degradation-des-services-publics_8293640.html",
    "summary": "\"Ce sont les patients qui en pâtissent\" : au Portugal, les syndicats dénoncent la dégradation des services publics",
    "image": "https://www.franceinfo.fr/pictures/skaF7kWXK5gwjLEs5UTbIUIBD-A/0x53:1024x629/432x243/filters:format(jpg)/2026/11/21/6b01991f1fc6b523805019.jpg",
@@ -188,7 +212,7 @@
    "pubdate": "2026-11-20T20:28:22.149167+00:00"
   },
   {
-   "title": "\"Nous, les Européens\". Danemark, le pays où il fait bon travailler ? Grand reportage, invités et actualité européenne sont au sommaire de ce magazine d'information, présenté par Eléonore Gay et diffusé le jeudi en fin de soirée sur France 2, ainsi que le dimanche à 10h40 sur France 3. Aujourd'hui 30:00 vidéo 30 minutes",
+   "title": "\"Nous, les Européens\". Danemark, le pays où il fait bon travailler ? Grand reportage, invités et actualité européenne sont au sommaire de ce magazine d'information, présenté par Eléonore Gay et diffusé le jeudi en fin de soirée sur France 2, ainsi que le dimanche à 10h40 sur France 3. Aujourd'hui 28:43 vidéo 28 minutes 43",
    "link": "https://www.franceinfo.fr/replay-magazine/france-2/nous-les-europeens/nous-les-europeens-danemark-le-pays-ou-il-fait-bon-travailler_8266784.html",
    "summary": "\"Nous, les Européens\". Danemark, le pays où il fait bon travailler ?",
    "image": "https://www.franceinfo.fr/pictures/UqNLPa768CnK5bFdnSNtS7n81Uk/0x0:1920x1080/432x243/filters:format(jpg)/2026/04/23/69e9d64e15edf827378625.jpg",
@@ -226,30 +250,6 @@
    "image": "https://www.franceinfo.fr/pictures/lisDBYCQkbfjtew-FHZYiNdqQoM/0x0:1000x562/432x243/filters:format(jpg)/2026/11/20/6b0015a7b3eec830419977.jpeg",
    "date": null,
    "pubdate": "2026-11-20T11:50:12.898520+00:00"
-  },
-  {
-   "title": "Sept personnes sont mortes à Kiev après des frappes russes sur l'Ukraine, deux autres personnes tuées à Lviv Des ponts de la capitale ukrainienne ont été à nouveau endommagés lors de ces bombardements. 20 novembre",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/trois-personnes-sont-mortes-a-kiev-apres-des-frappes-russes-sur-l-ukraine_8291687.html",
-   "summary": "Sept personnes sont mortes à Kiev après des frappes russes sur l'Ukraine, deux autres personnes tuées à Lviv",
-   "image": "https://www.franceinfo.fr/pictures/F83CjXBEVuSAF_t2Z_JP-l5M1v4/0x596:5725x3817/432x243/filters:format(jpg)/2026/11/20/6affe22072823604007453.jpg",
-   "date": null,
-   "pubdate": "2026-11-20T11:50:12.898520+00:00"
-  },
-  {
-   "title": "\"Nous avons perdu plus que nous avons gagné\" : dix ans après le Brexit, le Royaume-Uni veut à nouveau se rapprocher de l'Union européenne Londres et les 27 Etats membres comptent annoncer plusieurs accords, vendredi, à l'occasion d'un sommet à Bruxelles. Une nouvelle étape dans l'approfondissement des relations souhaité par le Premier ministre britannique, Andy Burnham. 20 novembre",
-   "link": "https://www.franceinfo.fr/monde/royaume-uni/nous-avons-perdu-plus-que-nous-avons-gagne-dix-ans-apres-le-brexit-le-royaume-uni-veut-a-nouveau-se-rapprocher-de-l-union-europeenne_8288675.html",
-   "summary": "\"Nous avons perdu plus que nous avons gagné\" : dix ans après le Brexit, le Royaume-Uni veut à nouveau se rapprocher de l'Union européenne",
-   "image": "https://www.franceinfo.fr/pictures/GP0t0o4Bi_UULZeFChdiFs7slJs/0x100:1024x676/432x243/filters:format(jpg)/2026/11/18/6afdd5eb87aea530253435.jpg",
-   "date": null,
-   "pubdate": "2026-11-20T11:50:12.898520+00:00"
-  },
-  {
-   "title": "Vos questions sur l'effort de guerre de la France 6 contenus",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/vos-questions-sur-l-effort-de-guerre-de-la-france/",
-   "summary": "Vos questions sur l'effort de guerre de la France",
-   "image": "https://www.franceinfo.fr/pictures/ntZoU9VrwR_yrQmHdJn-AC2Tq7o/432x297/filters:format(jpg)/2025/04/01/effort-de-guerre-couverture-de-dossier-01-light-67eba0e5ca0a7848911582.jpg",
-   "date": null,
-   "pubdate": "2026-11-19T02:37:27.795559+00:00"
   },
   {
    "title": ": Reportage \"Ça facilite grandement le travail de nos soldats\" : les robots de combat ukrainiens deviennent incontournables sur le front et permettent de reprendre du terrain aux Russes : Reportage 3:00 article 3 minutes",
