@@ -1,15 +1,10 @@
 {
- "etag": "\"4ab116ae2a83d2acd0cf1dad79038e7b-gzip\"",
+ "etag": "\"8fbc85d0941102bb0a34767a7a3676eb-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/societe/nos-jours-heureux/": "2026-11-18T11:52:01.501886+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/cet-outil-ne-va-pas-tout-faire-a-la-place-de-l-eleve-en-estonie-une-version-specifique-de-chatgpt-fait-son-entree-dans-les-salles-de-classe_8268662.html": "2026-11-19T11:49:02.021102+00:00",
   "https://www.franceinfo.fr/monde/europe/de-l-espagne-a-l-albanie-en-passant-par-la-france-une-jeunesse-europeenne-unie-par-des-causes-communes-descend-dans-la-rue_8290049.html": "2026-11-20T11:50:07.901425+00:00",
-  "https://www.franceinfo.fr/societe/harcelement-sexuel/un-animateur-soupconne-de-violences-sexuelles-sur-des-enfants-pres-de-caen-remis-en-liberte-le-parquet-fait-appel_8292863.html": "2026-11-20T20:28:18.034757+00:00",
-  "https://www.franceinfo.fr/economie/greve/organisations-presentes-dispositif-de-securite-a-quoi-faut-il-s-attendre-pour-les-manifestations-du-samedi-21-novembre_8292461.html": "2026-11-20T20:28:18.034757+00:00",
-  "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/on-attend-un-peu-plus-de-solidarite-declare-le-president-de-la-confederation-des-commercants-apres-les-aides-annonces-apres-le-17-octobre_8292617.html": "2026-11-20T20:28:18.034757+00:00",
-  "https://www.franceinfo.fr/replay-magazine/france-2/affaires-sensibles/affaires-sensibles-okc-les-enfants-martyrs-face-a-leur-gourou_8287442.html": "2026-11-20T20:28:18.034757+00:00",
-  "https://www.franceinfo.fr/culture/cinema/depardieu/il-n-etait-absolument-pas-question-de-sexe-une-comedienne-accuse-gerard-depardieu-de-viol-en-reunion-lors-d-un-tournage-et-michel-houellebecq-de-complicite-revele-mediapart_8291927.html": "2026-11-20T20:28:18.034757+00:00",
   "https://www.franceinfo.fr/societe/harcelement-sexuel/un-directeur-d-ecole-maternelle-de-montpellier-mis-en-examen-pour-viol-et-agression-sexuelle_8293025.html": "2026-11-21T02:24:20.964002+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/temoignage-des-qu-il-y-a-un-nouveau-telephone-tout-le-monde-fait-un-credit-comment-le-surendettement-explose-chez-les-moins-de-30-ans_8266763.html": "2026-11-21T02:24:20.964002+00:00",
   "https://www.franceinfo.fr/faits-divers/incendie/on-comprend-qu-on-n-a-vraiment-plus-rien-qu-il-faut-recommencer-a-zero-ils-ont-vu-leur-maison-bruler-et-tentent-de-se-relever_8287193.html": "2026-11-21T02:24:20.964002+00:00",
@@ -24,26 +19,88 @@
   "https://www.franceinfo.fr/societe/euthanasie/comprendre-les-debats-sur-la-fin-de-vie/": "2026-11-21T11:16:20.238477+00:00",
   "https://www.franceinfo.fr/societe/manifestations/des-syndicats-de-sept-pays-europeens-appellent-a-des-manifestations-coordonnees-contre-la-vie-chere-vendredi-samedi-et-dimanche_8292320.html": "2026-11-21T11:16:20.238477+00:00",
   "https://www.franceinfo.fr/societe/on-n-attendra-pas-l-election-presidentielle-on-veut-que-la-vie-des-gens-s-ameliore-maintenant-pointe-le-secretaire-confederal-de-la-cgt_8294036.html": "2026-11-21T19:24:00.057665+00:00",
-  "https://www.franceinfo.fr/societe/manifestations/mobilisation-contre-la-vie-chere-les-gilets-jaunes-fetent-les-huit-ans-de-leur-mouvement_8294042.html": "2026-11-21T19:24:00.057665+00:00",
   "https://www.franceinfo.fr/societe/manifestations/j-ai-fait-une-formation-a-250-personnes-a-paris-les-formations-de-street-medics-attirent-de-plus-en-plus-de-militants_8293769.html": "2026-11-21T19:24:00.057665+00:00",
   "https://www.franceinfo.fr/societe/manifestations/une-enquete-ouverte-contre-des-policiers-pour-violences-et-agression-sexuelle-en-marge-de-la-manifestation-parisienne-du-31-octobre_8293754.html": "2026-11-21T19:24:00.057665+00:00",
   "https://www.franceinfo.fr/societe/harcelement-sexuel/des-manifestations-contre-les-violences-sexistes-organisees-durant-une-semaine-en-france_8293745.html": "2026-11-21T19:24:00.057665+00:00",
   "https://www.franceinfo.fr/societe/manifestations/reportage-ce-sont-les-patients-qui-en-patissent-au-portugal-les-syndicats-denoncent-la-degradation-des-services-publics_8293640.html": "2026-11-21T19:24:00.057665+00:00",
   "https://www.franceinfo.fr/societe/seconde-guerre-mondiale/jean-gabin-resistant-durant-la-seconde-guerre-mondiale-honore-par-la-marine-francaise_8294150.html": "2026-11-22T01:23:48.531805+00:00",
-  "https://www.franceinfo.fr/societe/manifestations/mobilisation-du-21-novembre-82-500-personnes-ont-manifeste-dans-l-hexagone-selon-le-ministere-de-l-interieur-150-000-selon-la-cgt_8294093.html": "2026-11-22T01:23:48.531805+00:00"
+  "https://www.franceinfo.fr/societe/manifestations/mobilisation-du-21-novembre-82-500-personnes-ont-manifeste-dans-l-hexagone-selon-le-ministere-de-l-interieur-150-000-selon-la-cgt_8294093.html": "2026-11-22T01:23:48.531805+00:00",
+  "https://www.franceinfo.fr/societe/drogue/le-mexique-annonce-l-arrestation-de-chapo-isidro-un-baron-de-la-drogue-recherche-par-les-etats-unis_8294513.html": "2026-11-22T11:35:32.801507+00:00",
+  "https://www.franceinfo.fr/replay-radio/livre-actu/quand-la-chine-manipule-le-monde-le-bluff-de-la-chine-pour-imposer-son-leadership-sur-la-planete_8250472.html": "2026-11-22T11:35:32.801507+00:00",
+  "https://www.franceinfo.fr/sante/le-syndicat-national-des-dermatologues-va-saisir-le-conseil-d-etat-sur-le-decret-sur-la-medecine-esthetique_8294621.html": "2026-11-22T11:35:32.801507+00:00",
+  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/la-mobilisation-s-etend-au-dela-des-frontieres-francaises_8294573.html": "2026-11-22T11:35:32.801507+00:00",
+  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-sociale-le-mouvement-est-il-en-train-de-ralentir_8294564.html": "2026-11-22T11:35:32.801507+00:00",
+  "https://www.franceinfo.fr/decouverte/noel/entre-contraintes-budgetaires-et-envie-de-faire-durer-les-fetes-pourquoi-noel-deboule-de-plus-en-plus-tot_8288288.html": "2026-11-22T11:35:32.801507+00:00",
+  "https://www.franceinfo.fr/sante/sida/video-au-debut-on-ne-sait-pas-ce-qu-est-ce-virus-l-affaire-du-sang-contamine-ou-la-lente-prise-de-conscience-de-la-dangerosite-du-sida_8270939.html": "2026-11-22T11:35:32.801507+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "Jean Gabin, résistant durant la Seconde Guerre mondiale, honoré par la Marine française À Royan, une flottille de réserve de la Marine nationale a pris le nom de Jean Moncorgé, le patronyme officiel de Jean Gabin, ce samedi 21 novembre. L'acteur fut également un fusilier marin et un libérateur, un engagement qui l’emmena jusqu’au nid d’aigle de Berchtesgaden d’Adolf Hitler. Récit. Aujourd'hui 2:27 vidéo 2 minutes 27",
+   "title": "Le Mexique annonce l'arrestation de Chapo Isidro, un baron de la drogue recherché par les Etats-Unis Chapo Isidro, âgé de 44 ans, fait l'objet de poursuites à la fois au Mexique et aux Etats-Unis, où le FBI offrait une récompense de cinq millions de dollars pour son arrestation. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/societe/drogue/le-mexique-annonce-l-arrestation-de-chapo-isidro-un-baron-de-la-drogue-recherche-par-les-etats-unis_8294513.html",
+   "summary": "Le Mexique annonce l'arrestation de Chapo Isidro, un baron de la drogue recherché par les Etats-Unis",
+   "image": "https://www.franceinfo.fr/pictures/N89inKZ7XqFwQCEH9Tq4x5wSldI/32x0:1024x682/432x297/filters:format(jpg)/2026/11/22/6b02b76ae8883917963460.jpg",
+   "date": null,
+   "pubdate": "2026-11-22T11:35:32.801507+00:00"
+  },
+  {
+   "title": "\"Quand la Chine manipule le monde\", le bluff de la Chine pour imposer son leadership sur la planète. Aujourd'hui 2:31 audio 2 minutes 31",
+   "link": "https://www.franceinfo.fr/replay-radio/livre-actu/quand-la-chine-manipule-le-monde-le-bluff-de-la-chine-pour-imposer-son-leadership-sur-la-planete_8250472.html",
+   "summary": "\"Quand la Chine manipule le monde\", le bluff de la Chine pour imposer son leadership sur la planète.",
+   "image": "https://www.franceinfo.fr/pictures/NMNfccrvNMMwGIpqjKUDF4Q5Hf8/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/19/6afeae5941a4e764965401.jpg",
+   "date": null,
+   "pubdate": "2026-11-22T11:35:32.801507+00:00"
+  },
+  {
+   "title": "Le Syndicat national des dermatologues \"va saisir le Conseil d'État\" sur le décret sur la médecine esthétique Aujourd'hui",
+   "link": "https://www.franceinfo.fr/sante/le-syndicat-national-des-dermatologues-va-saisir-le-conseil-d-etat-sur-le-decret-sur-la-medecine-esthetique_8294621.html",
+   "summary": "Le Syndicat national des dermatologues \"va saisir le Conseil d'État\" sur le décret sur la médecine esthétique",
+   "image": "https://www.franceinfo.fr/pictures/M-4vmnCd-cGgCT2vk0jX5ipxsLg/0x113:3543x2106/432x243/filters:format(jpg)/2026/11/22/6b02ae46e9c2e948313135.jpg",
+   "date": null,
+   "pubdate": "2026-11-22T11:35:32.801507+00:00"
+  },
+  {
+   "title": "La mobilisation s'étend au-delà des frontières françaises Aujourd'hui 1:46 vidéo 1 minute 46",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/la-mobilisation-s-etend-au-dela-des-frontieres-francaises_8294573.html",
+   "summary": "La mobilisation s'étend au-delà des frontières françaises",
+   "image": "https://www.franceinfo.fr/pictures/vTu0DOK2QJuTPbqE8HIDSfvnTLM/45x0:1369x745/432x243/filters:format(jpg)/2026/11/22/6b02a1e6595a4315489236.jpg",
+   "date": null,
+   "pubdate": "2026-11-22T11:35:32.801507+00:00"
+  },
+  {
+   "title": "Mobilisation sociale : le mouvement est-il en train de ralentir ? Aujourd'hui 1:33 vidéo 1 minute 33",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-sociale-le-mouvement-est-il-en-train-de-ralentir_8294564.html",
+   "summary": "Mobilisation sociale : le mouvement est-il en train de ralentir ?",
+   "image": "https://www.franceinfo.fr/pictures/Zj-Xw2bdQiaRN0RpE1Fjeqevi04/25x0:1449x801/432x243/filters:format(jpg)/2026/11/22/6b029ef7544b0088504727.jpg",
+   "date": null,
+   "pubdate": "2026-11-22T11:35:32.801507+00:00"
+  },
+  {
+   "title": "Entre contraintes budgétaires et envie de \"faire durer\" les fêtes, pourquoi Noël déboule de plus en plus tôt Aujourd'hui",
+   "link": "https://www.franceinfo.fr/decouverte/noel/entre-contraintes-budgetaires-et-envie-de-faire-durer-les-fetes-pourquoi-noel-deboule-de-plus-en-plus-tot_8288288.html",
+   "summary": "Entre contraintes budgétaires et envie de \"faire durer\" les fêtes, pourquoi Noël déboule de plus en plus tôt",
+   "image": "https://www.franceinfo.fr/pictures/HVMspPrxVOkIDkOR2Ol4xoI1jr0/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/18/6afdc3d25b431707533811.jpg",
+   "date": null,
+   "pubdate": "2026-11-22T11:35:32.801507+00:00"
+  },
+  {
+   "title": ": Vidéo \"Au début, on ne sait pas ce qu'est ce virus\" : l'affaire du sang contaminé ou la lente prise de conscience de la dangerosité du sida Aujourd'hui : Vidéo 2:52 vidéo 2 minutes 52",
+   "link": "https://www.franceinfo.fr/sante/sida/video-au-debut-on-ne-sait-pas-ce-qu-est-ce-virus-l-affaire-du-sang-contamine-ou-la-lente-prise-de-conscience-de-la-dangerosite-du-sida_8270939.html",
+   "summary": "\"Au début, on ne sait pas ce qu'est ce virus\" : l'affaire du sang contaminé ou la lente prise de conscience de la dangerosité du sida",
+   "image": "https://www.franceinfo.fr/pictures/Cwj4iP5G6b1mgmxYGNQZwFmWZ4Y/0x209:2048x1361/432x243/filters:format(jpg)/2026/11/18/6afd7ce07dfb5268573885.jpg",
+   "date": null,
+   "pubdate": "2026-11-22T11:35:32.801507+00:00"
+  },
+  {
+   "title": "Jean Gabin, résistant durant la Seconde Guerre mondiale, honoré par la Marine française 21 novembre 2:27 vidéo 2 minutes 27",
    "link": "https://www.franceinfo.fr/societe/seconde-guerre-mondiale/jean-gabin-resistant-durant-la-seconde-guerre-mondiale-honore-par-la-marine-francaise_8294150.html",
    "summary": "Jean Gabin, résistant durant la Seconde Guerre mondiale, honoré par la Marine française",
-   "image": "https://www.franceinfo.fr/pictures/CWlrZGlPsYvc0nMuwPEYq5_Dfso/10x0:1327x906/432x297/filters:format(jpg)/2026/11/21/6b020091935bf021167556.png",
+   "image": "https://www.franceinfo.fr/pictures/90IWQ91uvWguT9FiXOKqhj96A-w/0x76:1338x829/432x243/filters:format(jpg)/2026/11/21/6b020091935bf021167556.png",
    "date": null,
    "pubdate": "2026-11-22T01:23:48.531805+00:00"
   },
   {
-   "title": "La mobilisation du 21 novembre a rassemblé 82 500 manifestants dans l'Hexagone selon le ministère de l'Intérieur, 150 000 selon la CGT Aujourd'hui",
+   "title": "La mobilisation du 21 novembre a rassemblé 82 500 manifestants dans l'Hexagone selon le ministère de l'Intérieur, 150 000 selon la CGT 21 novembre",
    "link": "https://www.franceinfo.fr/societe/manifestations/mobilisation-du-21-novembre-82-500-personnes-ont-manifeste-dans-l-hexagone-selon-le-ministere-de-l-interieur-150-000-selon-la-cgt_8294093.html",
    "summary": "La mobilisation du 21 novembre a rassemblé 82 500 manifestants dans l'Hexagone selon le ministère de l'Intérieur, 150 000 selon la CGT",
    "image": "https://www.franceinfo.fr/pictures/Dp1DAL_uqlCC9lfdn-PuBJnEFEY/0x53:1024x629/432x243/filters:format(jpg)/2026/11/21/6b01cbc538f07508938814.jpg",
@@ -51,7 +108,7 @@
    "pubdate": "2026-11-22T01:23:48.531805+00:00"
   },
   {
-   "title": "\"On n'attendra pas l'élection présidentielle, on veut que la vie des gens s'améliore maintenant\", pointe le secrétaire confédéral de la CGT Aujourd'hui",
+   "title": "\"On n'attendra pas l'élection présidentielle, on veut que la vie des gens s'améliore maintenant\", pointe le secrétaire confédéral de la CGT 21 novembre",
    "link": "https://www.franceinfo.fr/societe/on-n-attendra-pas-l-election-presidentielle-on-veut-que-la-vie-des-gens-s-ameliore-maintenant-pointe-le-secretaire-confederal-de-la-cgt_8294036.html",
    "summary": "\"On n'attendra pas l'élection présidentielle, on veut que la vie des gens s'améliore maintenant\", pointe le secrétaire confédéral de la CGT",
    "image": "https://www.franceinfo.fr/pictures/z_96LSxXy773Em8rlXiLQDItTAw/0x282:5435x3340/432x243/filters:format(jpg)/2026/11/21/6b01d996544c5489466237.jpg",
@@ -59,15 +116,7 @@
    "pubdate": "2026-11-21T19:24:00.057665+00:00"
   },
   {
-   "title": "Mobilisation contre la vie chère : les gilets jaunes fêtent les huit ans de leur mouvement Aujourd'hui 1:34 vidéo 1 minute 34",
-   "link": "https://www.franceinfo.fr/societe/manifestations/mobilisation-contre-la-vie-chere-les-gilets-jaunes-fetent-les-huit-ans-de-leur-mouvement_8294042.html",
-   "summary": "Mobilisation contre la vie chère : les gilets jaunes fêtent les huit ans de leur mouvement",
-   "image": "https://www.franceinfo.fr/pictures/WiJbkFqEnWhv1hwz33NZ8IJxEt4/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/21/6b01d8358de2a246552517.png",
-   "date": null,
-   "pubdate": "2026-11-21T19:24:00.057665+00:00"
-  },
-  {
-   "title": ": Reportage \"J'ai fait une formation à 250 personnes\" : à Paris, les formations de street medics attirent de plus en plus de militants Aujourd'hui : Reportage",
+   "title": ": Reportage \"J'ai fait une formation à 250 personnes\" : à Paris, les formations de street medics attirent de plus en plus de militants En deux heures, les participants apprennent notamment à réagir face aux effets des gaz lacrymogènes, mais les formateurs insistent aussi sur les limites de leur rôle : les street medics ne sont pas des secouristes. 21 novembre : Reportage",
    "link": "https://www.franceinfo.fr/societe/manifestations/j-ai-fait-une-formation-a-250-personnes-a-paris-les-formations-de-street-medics-attirent-de-plus-en-plus-de-militants_8293769.html",
    "summary": "\"J'ai fait une formation à 250 personnes\" : à Paris, les formations de street medics attirent de plus en plus de militants",
    "image": "https://www.franceinfo.fr/pictures/ZHkRY69V7BTi1FAxqkxlbe2ILNo/0x430:8256x5074/432x243/filters:format(jpg)/2026/11/21/6b01a31385a08145106471.jpg",
@@ -75,7 +124,7 @@
    "pubdate": "2026-11-21T19:24:00.057665+00:00"
   },
   {
-   "title": "Une enquête ouverte contre des policiers pour violences et agression sexuelle en marge de la manifestation parisienne du 31 octobre Aujourd'hui",
+   "title": "Une enquête ouverte contre des policiers pour violences et agression sexuelle en marge de la manifestation parisienne du 31 octobre Les deux manifestants sont par ailleurs accusés d'avoir chacun frappé un policier, ce qu'ils contestent. 21 novembre",
    "link": "https://www.franceinfo.fr/societe/manifestations/une-enquete-ouverte-contre-des-policiers-pour-violences-et-agression-sexuelle-en-marge-de-la-manifestation-parisienne-du-31-octobre_8293754.html",
    "summary": "Une enquête ouverte contre des policiers pour violences et agression sexuelle en marge de la manifestation parisienne du 31 octobre",
    "image": "https://www.franceinfo.fr/pictures/8QhRM43ic9EQoSLT5WLlhvvecCc/0x53:1024x629/432x243/filters:format(jpg)/2026/11/21/6b01a3b255b6d716123531.jpg",
@@ -83,7 +132,7 @@
    "pubdate": "2026-11-21T19:24:00.057665+00:00"
   },
   {
-   "title": "Des manifestations contre les violences faites aux femmes organisées durant une semaine en France Aujourd'hui",
+   "title": "Des manifestations contre les violences faites aux femmes organisées durant une semaine en France Des dizaines d'associations féministes et de syndicats appellent à participer aux rassemblements, qui se tiennent cette année dans un contexte inédit, marqué par une forte mobilisation sociale pour défendre le pouvoir d'achat et les services publics. 21 novembre",
    "link": "https://www.franceinfo.fr/societe/harcelement-sexuel/des-manifestations-contre-les-violences-sexistes-organisees-durant-une-semaine-en-france_8293745.html",
    "summary": "Des manifestations contre les violences faites aux femmes organisées durant une semaine en France",
    "image": "https://www.franceinfo.fr/pictures/giIB9aRiHEPVLXP6EADxtSWQlaA/0x0:1024x576/432x243/filters:format(jpg)/2026/11/21/6b0197b49d84c340139100.jpg",
@@ -91,28 +140,12 @@
    "pubdate": "2026-11-21T19:24:00.057665+00:00"
   },
   {
-   "title": ": Reportage \"Ce sont les patients qui en pâtissent\" : au Portugal, les syndicats dénoncent la dégradation des services publics Aujourd'hui : Reportage",
+   "title": ": Reportage \"Ce sont les patients qui en pâtissent\" : au Portugal, les syndicats dénoncent la dégradation des services publics Nouvelle journée de mobilisation ce samedi contre la vie chère en France, mais également au Portugal. Les syndicats dénoncent la dégradation des services publics, à trois jours du vote du budget 2027 présenté par le gouvernement de centre droit de Luís Montenegro. 21 novembre : Reportage",
    "link": "https://www.franceinfo.fr/societe/manifestations/reportage-ce-sont-les-patients-qui-en-patissent-au-portugal-les-syndicats-denoncent-la-degradation-des-services-publics_8293640.html",
    "summary": "\"Ce sont les patients qui en pâtissent\" : au Portugal, les syndicats dénoncent la dégradation des services publics",
    "image": "https://www.franceinfo.fr/pictures/skaF7kWXK5gwjLEs5UTbIUIBD-A/0x53:1024x629/432x243/filters:format(jpg)/2026/11/21/6b01991f1fc6b523805019.jpg",
    "date": null,
    "pubdate": "2026-11-21T19:24:00.057665+00:00"
-  },
-  {
-   "title": "L'association Droit au logement appelle à \"renforcer l'encadrement des loyers\" et à \"produire du logement social\" Aujourd'hui",
-   "link": "https://www.franceinfo.fr/societe/manifestations/l-association-droit-au-logement-appelle-a-renforcer-l-encadrement-des-loyers-et-a-produire-du-logement-social_8293607.html",
-   "summary": "L'association Droit au logement appelle à \"renforcer l'encadrement des loyers\" et à \"produire du logement social\"",
-   "image": "https://www.franceinfo.fr/pictures/jPgTePLFG_KQaGrRG13dALZmHxE/0x0:1024x576/432x243/filters:format(jpg)/2022/04/12/phpzKAlJg.jpg",
-   "date": null,
-   "pubdate": "2026-11-21T11:16:20.238477+00:00"
-  },
-  {
-   "title": "Une conférence de l'ONU ouvre à la voie à un possible encadrement international des \"robots tueurs\" Aujourd'hui",
-   "link": "https://www.franceinfo.fr/societe/armee-securite-defense/une-conference-de-l-onu-ouvre-a-la-voie-a-un-possible-encadrement-international-des-robots-tueurs_8293439.html",
-   "summary": "Une conférence de l'ONU ouvre à la voie à un possible encadrement international des \"robots tueurs\"",
-   "image": "https://www.franceinfo.fr/pictures/QbB9hyjMs9xVP-L8cwUXYxfOWXE/0x0:1024x576/432x243/filters:format(jpg)/2026/11/21/6b016c88672b9095395569.jpg",
-   "date": null,
-   "pubdate": "2026-11-21T11:16:20.238477+00:00"
   },
   {
    "title": "Comprendre les débats sur la fin de vie 15 contenus",
@@ -123,7 +156,23 @@
    "pubdate": "2026-11-21T11:16:20.238477+00:00"
   },
   {
-   "title": ": Reportage \"Je vais aller brûler un cierge\" : à Lyon, les commerçants de la place Bellecour s'inquiètent du retour des cortèges en centre-ville La préfecture du Rhône a interdit les manifestations dans le centre-ville de Lyon, alors que les gilets jaunes ont annoncé une sixième journée de mobilisation, samedi 21 novembre. Trois rassemblements sont prévus, en évitant la place Bellecour, la plus grande place de la ville. Mais les commerçants s'inquiètent de la fin des cortèges. Aujourd'hui : Reportage",
+   "title": "L'association Droit au logement appelle à \"renforcer l'encadrement des loyers\" et à \"produire du logement social\" Encadrement des loyers, construction de logements sociaux et lutte contre les passoires thermiques : l'association Droit au logement entend faire du logement une revendication centrale de l'\"Acte VI\" de la mobilisation contre la vie chère. Son porte-parole, Jean-Baptiste Eyraud, dénonce notamment un amendement sur les passoires thermiques, qu'il juge \"criminel\". 21 novembre",
+   "link": "https://www.franceinfo.fr/societe/manifestations/l-association-droit-au-logement-appelle-a-renforcer-l-encadrement-des-loyers-et-a-produire-du-logement-social_8293607.html",
+   "summary": "L'association Droit au logement appelle à \"renforcer l'encadrement des loyers\" et à \"produire du logement social\"",
+   "image": "https://www.franceinfo.fr/pictures/jPgTePLFG_KQaGrRG13dALZmHxE/0x0:1024x576/432x243/filters:format(jpg)/2022/04/12/phpzKAlJg.jpg",
+   "date": null,
+   "pubdate": "2026-11-21T11:16:20.238477+00:00"
+  },
+  {
+   "title": "Une conférence de l'ONU ouvre à la voie à un possible encadrement international des \"robots tueurs\" Les armes autonomes soulèvent de nombreuses préoccupations, notamment concernant le risque de frappes sans discernement, l'absence de responsabilité humaine et le respect des règles de la guerre. 21 novembre",
+   "link": "https://www.franceinfo.fr/societe/armee-securite-defense/une-conference-de-l-onu-ouvre-a-la-voie-a-un-possible-encadrement-international-des-robots-tueurs_8293439.html",
+   "summary": "Une conférence de l'ONU ouvre à la voie à un possible encadrement international des \"robots tueurs\"",
+   "image": "https://www.franceinfo.fr/pictures/QbB9hyjMs9xVP-L8cwUXYxfOWXE/0x0:1024x576/432x243/filters:format(jpg)/2026/11/21/6b016c88672b9095395569.jpg",
+   "date": null,
+   "pubdate": "2026-11-21T11:16:20.238477+00:00"
+  },
+  {
+   "title": ": Reportage \"Je vais aller brûler un cierge\" : à Lyon, les commerçants de la place Bellecour s'inquiètent du retour des cortèges en centre-ville La préfecture du Rhône a interdit les manifestations dans le centre-ville de Lyon, alors que les gilets jaunes ont annoncé une sixième journée de mobilisation, samedi 21 novembre. Trois rassemblements sont prévus, en évitant la place Bellecour, la plus grande place de la ville. Mais les commerçants s'inquiètent de la fin des cortèges. 21 novembre : Reportage",
    "link": "https://www.franceinfo.fr/societe/manifestations/reportage-je-vais-aller-bruler-un-cierge-a-lyon-les-commercants-de-la-place-bellecour-s-inquietent-du-retour-des-corteges-en-centre-ville_8292824.html",
    "summary": "\"Je vais aller brûler un cierge\" : à Lyon, les commerçants de la place Bellecour s'inquiètent du retour des cortèges en centre-ville",
    "image": "https://www.franceinfo.fr/pictures/tT0i4J48ZfUsVERhtmQCbCh0bYc/0x260:5000x3072/432x243/filters:format(jpg)/2026/11/20/6b00990acda3f437639160.jpg",
@@ -131,7 +180,7 @@
    "pubdate": "2026-11-21T11:16:20.238477+00:00"
   },
   {
-   "title": ": Reportage Face à l'essoufflement du mouvement, des gilets jaunes appellent à \"trouver d'autres moyens d'action\" De Montauban à Toulouse, des militants historiques témoignent de leurs difficultés à mobiliser et évoquent les pistes pour redonner un nouvel élan au mouvement. Aujourd'hui : Reportage",
+   "title": ": Reportage Face à l'essoufflement du mouvement, des gilets jaunes appellent à \"trouver d'autres moyens d'action\" De Montauban à Toulouse, des militants historiques témoignent de leurs difficultés à mobiliser et évoquent les pistes pour redonner un nouvel élan au mouvement. 21 novembre : Reportage",
    "link": "https://www.franceinfo.fr/economie/transports/gilets-jaunes/face-a-l-essoufflement-du-mouvement-des-gilets-jaunes-appellent-a-trouver-d-autres-moyens-d-action_8293499.html",
    "summary": "Face à l'essoufflement du mouvement, des gilets jaunes appellent à \"trouver d'autres moyens d'action\"",
    "image": "https://www.franceinfo.fr/pictures/U2tTcEbmEy5Slds8Iji_iWieLsA/0x312:6000x3687/432x243/filters:format(jpg)/2026/11/21/6b015b69b4a89291415955.jpg",
@@ -139,7 +188,7 @@
    "pubdate": "2026-11-21T11:16:20.238477+00:00"
   },
   {
-   "title": "Italie, Grande-Bretagne, Espagne, la contestation s'étend dans toute l'Europe... Le 8h30 franceinfo de Philip Turle et Alberto Toscano De la France à l’Italie et au Royaume-Uni, la contestation contre la vie chère gagne plusieurs pays européens. Alberto Toscano, journaliste et politologue italien, et Philip Turle, journaliste britannique et chroniqueur international à France 24, analysent les ressorts de ces mobilisations, notamment chez les jeunes. Aujourd'hui 20:26 audio 20 minutes 26",
+   "title": "Italie, Grande-Bretagne, Espagne, la contestation s'étend dans toute l'Europe... Le 8h30 franceinfo de Philip Turle et Alberto Toscano De la France à l’Italie et au Royaume-Uni, la contestation contre la vie chère gagne plusieurs pays européens. Alberto Toscano, journaliste et politologue italien, et Philip Turle, journaliste britannique et chroniqueur international à France 24, analysent les ressorts de ces mobilisations, notamment chez les jeunes. 21 novembre 20:26 audio 20 minutes 26",
    "link": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/italie-grande-bretagne-espagne-la-contestation-s-etend-dans-toute-l-europe-le-8h30-franceinfo-de-philip-turle-et-alberto-toscano_8271740.html",
    "summary": "Italie, Grande-Bretagne, Espagne, la contestation s'étend dans toute l'Europe... Le 8h30 franceinfo de Philip Turle et Alberto Toscano",
    "image": "https://www.franceinfo.fr/pictures/Wm27coK4Q2r5smD0zmuLuCziRA8/0x0:1600x900/432x243/filters:format(jpg)/2026/11/21/6b0157092bc5b572229487.jpg",
@@ -147,7 +196,7 @@
    "pubdate": "2026-11-21T11:16:20.238477+00:00"
   },
   {
-   "title": "Mobilisation du 21 novembre : le ministère de l'Intérieur annonce 144 interpellations en France, selon un bilan provisoire à 18 heures Cette journée de mobilisation s'est inscrite dans le cadre d'un appel européen de syndicats et associations de défense du droit au logement à des actions coordonnées sur trois jours, de vendredi à dimanche. Aujourd'hui",
+   "title": "Mobilisation du 21 novembre : le ministère de l'Intérieur annonce 144 interpellations en France, selon un bilan provisoire à 18 heures Cette journée de mobilisation s'est inscrite dans le cadre d'un appel européen de syndicats et associations de défense du droit au logement à des actions coordonnées sur trois jours, de vendredi à dimanche. 21 novembre",
    "link": "https://www.franceinfo.fr/societe/manifestations/direct-mobilisation-du-21-novembre-syndicats-et-gilets-jaunes-appellent-a-manifester-pour-la-jeunesse-et-contre-la-vie-chere-pour-le-sixieme-samedi-d-affilee_8293460.html",
    "summary": "Mobilisation du 21 novembre : le ministère de l'Intérieur annonce 144 interpellations en France, selon un bilan provisoire à 18 heures",
    "image": "https://www.franceinfo.fr/pictures/b0ir2Ck3tZf35Fo9IbHJQ_CCkxM/0x97:1024x673/432x243/filters:format(jpg)/2026/11/21/6b01f32869ff6400717903.jpg",
@@ -155,7 +204,7 @@
    "pubdate": "2026-11-21T11:16:20.238477+00:00"
   },
   {
-   "title": "Pyrénées-Atlantiques : le mari de Laure Zacchello, disparue depuis deux ans, est désormais mis en examen pour assassinat Le mari de Laure Zacchello, disparue depuis deux ans, est désormais mis en examen pour assassinat, et non plus pour meurtre sur conjoint. Aujourd'hui",
+   "title": "Pyrénées-Atlantiques : le mari de Laure Zacchello, disparue depuis deux ans, est désormais mis en examen pour assassinat Le mari de Laure Zacchello, disparue depuis deux ans, est désormais mis en examen pour assassinat, et non plus pour meurtre sur conjoint. 21 novembre",
    "link": "https://www.franceinfo.fr/faits-divers/pyrenees-atlantiques-le-mari-de-laure-zacchello-disparue-depuis-deux-ans-est-desormais-mis-en-examen-pour-assassinat_8293466.html",
    "summary": "Pyrénées-Atlantiques : le mari de Laure Zacchello, disparue depuis deux ans, est désormais mis en examen pour assassinat",
    "image": "https://www.franceinfo.fr/pictures/DH-aDFYm0yGm3zL8THN772D2Ywk/432x243/filters:format(jpg)/2026/09/04/6a9af3a839308374919380.png",
@@ -163,7 +212,7 @@
    "pubdate": "2026-11-21T11:16:20.238477+00:00"
   },
   {
-   "title": "\"Bulldozer\", \"super shérif\" et \"serviteur de l'Etat\" : qui est Hugues Moutouh, le préfet soupçonné d'avoir fait fuiter des informations au RN ? Le haut fonctionnaire, qui a été le numéro deux du ministère de l'Intérieur entre avril 2025 et mai 2026, a été convoqué vendredi par Laurent Nuñez après l'ouverture d'une enquête pour \"violation du secret professionnel, violation du secret de l'enquête et recel de ces délits\". Aujourd'hui",
+   "title": "\"Bulldozer\", \"super shérif\" et \"serviteur de l'Etat\" : qui est Hugues Moutouh, le préfet soupçonné d'avoir fait fuiter des informations au RN ? Le haut fonctionnaire, qui a été le numéro deux du ministère de l'Intérieur entre avril 2025 et mai 2026, a été convoqué vendredi par Laurent Nuñez après l'ouverture d'une enquête pour \"violation du secret professionnel, violation du secret de l'enquête et recel de ces délits\". 21 novembre",
    "link": "https://www.franceinfo.fr/politique/front-national/bulldozer-super-sherif-et-serviteur-de-l-etat-qui-est-hugues-moutouh-le-prefet-soupconne-d-avoir-fait-fuiter-des-informations-au-rn_8292374.html",
    "summary": "\"Bulldozer\", \"super shérif\" et \"serviteur de l'Etat\" : qui est Hugues Moutouh, le préfet soupçonné d'avoir fait fuiter des informations au RN ?",
    "image": "https://www.franceinfo.fr/pictures/t0-OF-jC00lJxy756EzaVpQbCok/0x93:1024x669/432x243/filters:format(jpg)/2026/11/20/6b0073cf537b1273286007.jpg",
@@ -171,7 +220,7 @@
    "pubdate": "2026-11-21T11:16:20.238477+00:00"
   },
   {
-   "title": "Des syndicats de sept pays européens appellent à des \"manifestations coordonnées\" contre la vie chère vendredi, samedi et dimanche Les principales revendications des cortèges qui s'élanceront durant le week-end concernent la \"garantie du droit au logement\" et \"le contrôle des prix du logement, de l'alimentation et de l'énergie\". Aujourd'hui",
+   "title": "Des syndicats de sept pays européens appellent à des \"manifestations coordonnées\" contre la vie chère vendredi, samedi et dimanche Les principales revendications des cortèges qui s'élanceront durant le week-end concernent la \"garantie du droit au logement\" et \"le contrôle des prix du logement, de l'alimentation et de l'énergie\". 21 novembre",
    "link": "https://www.franceinfo.fr/societe/manifestations/des-syndicats-de-sept-pays-europeens-appellent-a-des-manifestations-coordonnees-contre-la-vie-chere-vendredi-samedi-et-dimanche_8292320.html",
    "summary": "Des syndicats de sept pays européens appellent à des \"manifestations coordonnées\" contre la vie chère vendredi, samedi et dimanche",
    "image": "https://www.franceinfo.fr/pictures/B66WnJE29SHhoTKzz-SjTbFVqcQ/0x760:8256x5404/432x243/filters:format(jpg)/2026/11/20/6b00789b6a1f1347406072.jpg",
@@ -201,46 +250,6 @@
    "image": "https://www.franceinfo.fr/pictures/BKovo4tkuGAqw9KoTb0vFntHU0E/0x53:1024x629/432x243/filters:format(jpg)/2026/11/20/6b00cf1de02bd414492259.jpg",
    "date": null,
    "pubdate": "2026-11-21T02:24:20.964002+00:00"
-  },
-  {
-   "title": "Un animateur soupçonné de violences sexuelles sur des enfants près de Caen remis en liberté, le parquet fait appel L'homme de 31 ans a été suspendu de ses fonctions en septembre. D'après le procureur de la République de Caen, certains fait reprochés à l'animateur \"sont susceptibles de recevoir une qualification pénale\". 20 novembre",
-   "link": "https://www.franceinfo.fr/societe/harcelement-sexuel/un-animateur-soupconne-de-violences-sexuelles-sur-des-enfants-pres-de-caen-remis-en-liberte-le-parquet-fait-appel_8292863.html",
-   "summary": "Un animateur soupçonné de violences sexuelles sur des enfants près de Caen remis en liberté, le parquet fait appel",
-   "image": "https://www.franceinfo.fr/pictures/BaUIrY-gj_mOctwGt0bFD4ovu5s/0x253:4928x3025/432x243/filters:format(jpg)/2026/11/20/6b009afbcbbf6836704151.jpg",
-   "date": null,
-   "pubdate": "2026-11-20T20:28:18.034757+00:00"
-  },
-  {
-   "title": "Organisations présentes, dispositif de sécurité... A quoi faut-il s'attendre pour les manifestations du samedi 21 novembre ? Le ministre de l'Intérieur a demandé aux préfets d'être \"particulièrement vigilants\" samedi, nouvelle journée de mobilisation sociale en France qui coïncide avec le huitième anniversaire du mouvement des gilets jaunes. 20 novembre",
-   "link": "https://www.franceinfo.fr/economie/greve/organisations-presentes-dispositif-de-securite-a-quoi-faut-il-s-attendre-pour-les-manifestations-du-samedi-21-novembre_8292461.html",
-   "summary": "Organisations présentes, dispositif de sécurité... A quoi faut-il s'attendre pour les manifestations du samedi 21 novembre ?",
-   "image": "https://www.franceinfo.fr/pictures/00Nt6QopDDeWtlvKXkrXwYlH0Xo/0x641:4341x3082/432x243/filters:format(jpg)/2026/11/20/6b006ce0a4d84867641623.jpg",
-   "date": null,
-   "pubdate": "2026-11-20T20:28:18.034757+00:00"
-  },
-  {
-   "title": "\"On attend un peu plus de solidarité\", déclare le président de la Confédération des commerçants après les aides annoncés après le 17 octobre Pierre Bosche assure qu'\"un certain nombre des 2 500 à 3 000 commerces\" sinistrés lors du 17 octobre, \"ne rouvriront jamais\". 20 novembre",
-   "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/on-attend-un-peu-plus-de-solidarite-declare-le-president-de-la-confederation-des-commercants-apres-les-aides-annonces-apres-le-17-octobre_8292617.html",
-   "summary": "\"On attend un peu plus de solidarité\", déclare le président de la Confédération des commerçants après les aides annoncés après le 17 octobre",
-   "image": "https://www.franceinfo.fr/pictures/RQQv0tPOj4HNjWcIEbgrj1uHOTY/432x243/filters:format(jpg)/2026/10/19/6ad6562b54876697724014.jpg",
-   "date": null,
-   "pubdate": "2026-11-20T20:28:18.034757+00:00"
-  },
-  {
-   "title": "\"Affaires sensibles\". OKC : les enfants martyrs face à leur gourou Privations, humiliations, châtiments violents, viols présumés... Ces enfants aujourd'hui adultes racontent de longues années passées dans la communauté bouddhiste Ogyen Kunzang Chöling, en Provence, sous le joug du gourou belge Robert Spatz. Aujourd'hui 46:25 vidéo 46 minutes 25",
-   "link": "https://www.franceinfo.fr/replay-magazine/france-2/affaires-sensibles/affaires-sensibles-okc-les-enfants-martyrs-face-a-leur-gourou_8287442.html",
-   "summary": "\"Affaires sensibles\". OKC : les enfants martyrs face à leur gourou",
-   "image": "https://www.franceinfo.fr/pictures/sSEEJp-SDriHT4wIlR-nByjqCjg/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/20/6b006299682c2083778525.jpg",
-   "date": null,
-   "pubdate": "2026-11-20T20:28:18.034757+00:00"
-  },
-  {
-   "title": "Une comédienne accuse Gérard Depardieu de viol en réunion lors d'un tournage et Michel Houellebecq de complicité, révèle Mediapart Une plainte a été déposée en mai 2025. Les faits ont eu lieu sur le tournage du film \"Thalasso\" en 2018. L'acteur et l'écrivain n'ont pas commenté ces révélations. 20 novembre",
-   "link": "https://www.franceinfo.fr/culture/cinema/depardieu/il-n-etait-absolument-pas-question-de-sexe-une-comedienne-accuse-gerard-depardieu-de-viol-en-reunion-lors-d-un-tournage-et-michel-houellebecq-de-complicite-revele-mediapart_8291927.html",
-   "summary": "Une comédienne accuse Gérard Depardieu de viol en réunion lors d'un tournage et Michel Houellebecq de complicité, révèle Mediapart",
-   "image": "https://www.franceinfo.fr/pictures/oFJUn9qGneeSTsOB6VbTqecUa0s/0x0:3072x1728/432x243/filters:format(jpg)/2026/11/20/6b00383623c89759243277.jpg",
-   "date": null,
-   "pubdate": "2026-11-20T20:28:18.034757+00:00"
   },
   {
    "title": "De l'Espagne à l'Albanie en passant par la France, une jeunesse européenne unie par des causes communes descend dans la rue 9:00 article 9 minutes",
