@@ -1,12 +1,11 @@
 {
- "etag": "\"0ac547c5bc5a2c8d7504a3b6de8fc0b9-gzip\"",
+ "etag": "\"d7a7a155ba29aace36695d314fd2fd66-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/politique/grand-entretien-en-belgique-un-cordon-sanitaire-mediatique-empeche-toute-forme-de-banalisation-de-l-extreme-droite-un-outil-difficile-a-imaginer-en-france_8265599.html": "2026-11-04T17:19:33.406625+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-couper-le-robinet-de-petrole-russe-en-mission-avec-les-oiseaux-de-madyar-la-brigade-de-dronistes-ukrainiens-la-plus-pourchassee-par-les-russes_8255023.html": "2026-11-10T14:58:52.045882+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/reportage-ca-facilite-grandement-le-travail-de-nos-soldats-les-robots-de-combat-ukrainiens-deviennent-incontournables-sur-le-front-et-permettent-de-reprendre-du-terrain-aux-russes_8284292.html": "2026-11-16T06:42:10.582662+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/vos-questions-sur-l-effort-de-guerre-de-la-france/": "2026-11-19T02:37:27.795559+00:00",
-  "https://www.franceinfo.fr/monde/usa/un-composant-fabrique-uniquement-a-bordeaux-pourrait-freiner-la-production-des-missiles-patriot-americains_8290079.html": "2026-11-19T20:44:30.904935+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/un-quart-des-enfants-du-monde-vivent-dans-une-zone-de-conflit-alerte-l-ong-save-the-children_8290703.html": "2026-11-20T02:22:26.826723+00:00",
   "https://www.franceinfo.fr/monde/europe/migrants/seize-migrants-decouverts-dans-un-camion-au-terminal-ferry-a-ouistreham-sur-le-point-de-partir-pour-la-grande-bretagne_8292182.html": "2026-11-20T11:50:12.898520+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-un-missile-russe-tombe-dans-le-sud-est-de-la-pologne-sans-faire-de-blesse_8292080.html": "2026-11-20T11:50:12.898520+00:00",
@@ -14,7 +13,6 @@
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/trois-personnes-sont-mortes-a-kiev-apres-des-frappes-russes-sur-l-ukraine_8291687.html": "2026-11-20T11:50:12.898520+00:00",
   "https://www.franceinfo.fr/monde/royaume-uni/nous-avons-perdu-plus-que-nous-avons-gagne-dix-ans-apres-le-brexit-le-royaume-uni-veut-a-nouveau-se-rapprocher-de-l-union-europeenne_8288675.html": "2026-11-20T11:50:12.898520+00:00",
   "https://www.franceinfo.fr/monde/europe/de-l-espagne-a-l-albanie-en-passant-par-la-france-une-jeunesse-europeenne-unie-par-des-causes-communes-descend-dans-la-rue_8290049.html": "2026-11-20T11:50:12.898520+00:00",
-  "https://www.franceinfo.fr/monde/royaume-uni/brexit-royaume-uni-le-come-back_8292755.html": "2026-11-20T20:28:22.149167+00:00",
   "https://www.franceinfo.fr/monde/europe/union-europeenne/le-danemark-soupconne-la-russie-d-avoir-planifie-l-assassinat-d-un-ukrainien-sur-son-sol_8292689.html": "2026-11-20T20:28:22.149167+00:00",
   "https://www.franceinfo.fr/monde/royaume-uni/reportage-c-etait-une-grave-erreur-a-londres-des-britanniques-regrettent-le-brexit-et-se-disent-prets-a-revenir-dans-l-union-europeenne_8292533.html": "2026-11-20T20:28:22.149167+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-france-demande-une-reunion-du-conseil-de-securite-de-l-onu-apres-de-nouvelles-frappes-russes-en-ukraine_8292527.html": "2026-11-20T20:28:22.149167+00:00",
@@ -30,15 +28,24 @@
   "https://www.franceinfo.fr/monde/russie/la-finlande-soupconne-un-helicoptere-russe-d-avoir-viole-son-espace-aerien_8293799.html": "2026-11-21T19:24:04.955434+00:00",
   "https://www.franceinfo.fr/monde/otan/nous-nous-sentons-ici-chez-nous-une-brigade-allemande-de-5-000-soldats-s-apprete-a-mener-des-exercices-pendant-un-mois-en-lituanie_8293721.html": "2026-11-21T19:24:04.955434+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-des-frappes-russes-font-deux-morts-et-58-blesses-a-kryvyi-rih-ville-natale-de-volodymyr-zelensky_8293700.html": "2026-11-21T19:24:04.955434+00:00",
-  "https://www.franceinfo.fr/societe/manifestations/reportage-ce-sont-les-patients-qui-en-patissent-au-portugal-les-syndicats-denoncent-la-degradation-des-services-publics_8293640.html": "2026-11-21T19:24:04.955434+00:00"
+  "https://www.franceinfo.fr/societe/manifestations/reportage-ce-sont-les-patients-qui-en-patissent-au-portugal-les-syndicats-denoncent-la-degradation-des-services-publics_8293640.html": "2026-11-21T19:24:04.955434+00:00",
+  "https://www.franceinfo.fr/monde/europe/migrants/les-raids-anti-migrants-se-multiplient-au-royaume-uni-et-inquietent-le-gouvernement_8294159.html": "2026-11-22T01:23:52.951420+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "Mobilité des jeunes, commerce, quotas d'émissions carbone… Ce que prévoient les accords conclus entre le Royaume-Uni et l'Union européenne Cette nouvelle alliance, destinée à rapprocher les deux côtés de la Manche après les années houleuses du Brexit, a été qualifiée vendredi de \"tournant\" par la Commission européenne. Aujourd'hui",
+   "title": "Les raids anti-migrants se multiplient au Royaume-Uni et inquiètent le gouvernement Les tentatives de traversée de la Manche s’intensifient avant l’arrivée de l’hiver. Du côté de Douvres, en Angleterre, un groupuscule d’extrême droite se mobilise pour empêcher l’accès aux migrants. Qui sont ses membres et que revendiquent-ils ? Aujourd'hui 4:20 vidéo 4 minutes 20",
+   "link": "https://www.franceinfo.fr/monde/europe/migrants/les-raids-anti-migrants-se-multiplient-au-royaume-uni-et-inquietent-le-gouvernement_8294159.html",
+   "summary": "Les raids anti-migrants se multiplient au Royaume-Uni et inquiètent le gouvernement",
+   "image": "https://www.franceinfo.fr/pictures/HtKuBMNNcwA6hzYUDOjsq5fJ_j8/0x11:1416x984/432x297/filters:format(jpg)/2026/11/21/6b0203e9ab9c4809150157.png",
+   "date": null,
+   "pubdate": "2026-11-22T01:23:52.951420+00:00"
+  },
+  {
+   "title": "Mobilité des jeunes, commerce, quotas d'émissions carbone… Ce que prévoient les accords conclus entre le Royaume-Uni et l'Union européenne Aujourd'hui",
    "link": "https://www.franceinfo.fr/monde/royaume-uni/mobilite-des-jeunes-commerce-quotas-d-emissions-carbone-ce-que-prevoient-les-accords-conclus-entre-le-royaume-uni-et-l-union-europeenne_8293715.html",
    "summary": "Mobilité des jeunes, commerce, quotas d'émissions carbone… Ce que prévoient les accords conclus entre le Royaume-Uni et l'Union européenne",
-   "image": "https://www.franceinfo.fr/pictures/JD3wsxt6rkxsQoELhpeFJmMR-Hc/32x0:1024x682/432x297/filters:format(jpg)/2026/11/21/6b01af35df473235762087.jpg",
+   "image": "https://www.franceinfo.fr/pictures/gE-b6gJBQe3z68U4B3NrH3K6pOQ/0x53:1024x629/432x243/filters:format(jpg)/2026/11/21/6b01af35df473235762087.jpg",
    "date": null,
    "pubdate": "2026-11-21T19:24:04.955434+00:00"
   },
@@ -105,14 +112,6 @@
    "image": "https://www.franceinfo.fr/pictures/juGlkUbO9b77DKPj1sechHIrD7E/0x0:5000x2812/432x243/filters:format(jpg)/2026/11/21/6b01b5e4be341098591974.jpg",
    "date": "2026-11-21T11:00:00+00:00",
    "pubdate": "2026-11-21T11:00:00+00:00"
-  },
-  {
-   "title": "Royaume-Uni : dix ans après le Brexit, le come-back ? 20 novembre 1:33 vidéo 1 minute 33",
-   "link": "https://www.franceinfo.fr/monde/royaume-uni/brexit-royaume-uni-le-come-back_8292755.html",
-   "summary": "Royaume-Uni : dix ans après le Brexit, le come-back ?",
-   "image": "https://www.franceinfo.fr/pictures/9GQL1sQe_3yCVZo3CBV0b_b_HB8/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/20/6b008346597ed852875458.png",
-   "date": null,
-   "pubdate": "2026-11-20T20:28:22.149167+00:00"
   },
   {
    "title": "Le Danemark soupçonne la Russie d'avoir planifié l'assassinat d'un rappeur ukrainien sur son sol Les faits remontent au 25 septembre et la cible présumée a été identifiée par la presse danoise comme le rappeur Kyivstoner. 20 novembre",
@@ -225,14 +224,6 @@
    "image": "https://www.franceinfo.fr/pictures/kxfEwg4PgdQ5dHZGhh56X0zwjS4/0x53:1024x629/432x243/filters:format(jpg)/2026/11/19/6aff65d407d57395997344.jpg",
    "date": null,
    "pubdate": "2026-11-20T02:22:26.826723+00:00"
-  },
-  {
-   "title": "Un composant fabriqué uniquement à Bordeaux pourrait freiner la production des missiles Patriot américains L'Ukraine réclame davantage de missiles antimissiles Patriot pour se défendre contre les frappes russes, mais un composant indispensable à leur fabrication pourrait venir à manquer. Selon le \"Wall Street Journal\", cette pièce stratégique est produite exclusivement par ArianeGroup, dans une usine près de Bordeaux, dont les capacités sont limitées. 19 novembre",
-   "link": "https://www.franceinfo.fr/monde/usa/un-composant-fabrique-uniquement-a-bordeaux-pourrait-freiner-la-production-des-missiles-patriot-americains_8290079.html",
-   "summary": "Un composant fabriqué uniquement à Bordeaux pourrait freiner la production des missiles Patriot américains",
-   "image": "https://www.franceinfo.fr/pictures/eftZSWJ9OkHzC3SbMgnjdXNb8Ek/0x53:1024x629/432x243/filters:format(jpg)/2026/11/19/6aff044000c3c055649252.jpg",
-   "date": null,
-   "pubdate": "2026-11-19T20:44:30.904935+00:00"
   },
   {
    "title": "Vos questions sur l'effort de guerre de la France 6 contenus",

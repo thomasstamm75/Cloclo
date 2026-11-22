@@ -1,12 +1,11 @@
 {
- "etag": "\"38f457cf6ecdd2230e4cbaf61392d70e-gzip\"",
+ "etag": "\"b02e86f195777ea07dcf7c024e46babc-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/environnement/energie/energies-fossiles/au-texas-la-pollution-liee-a-l-exploitation-du-petrole-et-du-gaz-inquiete-les-habitants-et-reste-taboue-au-pays-de-l-or-noir_8288936.html": "2026-11-19T02:37:29.665893+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/reportage-ca-facilite-grandement-le-travail-de-nos-soldats-les-robots-de-combat-ukrainiens-deviennent-incontournables-sur-le-front-et-permettent-de-reprendre-du-terrain-aux-russes_8284292.html": "2026-11-19T02:37:29.665893+00:00",
   "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/reportage-des-etincelles-tombaient-du-ciel-comme-de-la-pluie-la-cop31-a-l-epreuve-des-incendies-a-repetition-dans-la-region-d-antalya_8276642.html": "2026-11-19T02:37:29.665893+00:00",
   "https://www.franceinfo.fr/monde/europe/de-l-espagne-a-l-albanie-en-passant-par-la-france-une-jeunesse-europeenne-unie-par-des-causes-communes-descend-dans-la-rue_8290049.html": "2026-11-20T11:50:14.960111+00:00",
-  "https://www.franceinfo.fr/monde/europe/union-europeenne/le-danemark-soupconne-la-russie-d-avoir-planifie-l-assassinat-d-un-ukrainien-sur-son-sol_8292689.html": "2026-11-20T20:28:23.741882+00:00",
   "https://www.franceinfo.fr/monde/usa/un-condamne-a-mort-a-ete-execute-au-texas-apres-plus-d-une-heure-de-tentatives-infructueuses_8293013.html": "2026-11-21T02:24:27.670112+00:00",
   "https://www.franceinfo.fr/monde/europe/sommet-de-l-ue/le-president-du-conseil-europeen-propose-un-budget-de-l-ue-en-baisse-de-204-milliards-d-euros-aussitot-rejete-par-la-france_8293637.html": "2026-11-21T11:16:25.336984+00:00",
   "https://www.franceinfo.fr/monde/usa/incendies-en-californie/le-suspect-d-un-des-incendies-de-los-angeles-qui-avait-fait-12-morts-en-2025-reconnu-coupable-a-l-issue-d-un-deuxieme-proces_8293442.html": "2026-11-21T11:16:25.336984+00:00",
@@ -21,22 +20,56 @@
   "https://www.franceinfo.fr/replay-magazine/franceinfo/vrai-ou-fake-l-emission/vladimir-poutine-est-il-devenu-plus-raisonnable-dans-ses-revendications-concernant-l-ukraine_8293862.html": "2026-11-21T19:24:07.078797+00:00",
   "https://www.franceinfo.fr/monde/usa/les-etats-unis-declassifient-de-nouveaux-documents-concernant-des-ovnis-et-des-phenomenes-anormaux_8293832.html": "2026-11-21T19:24:07.078797+00:00",
   "https://www.franceinfo.fr/culture/cinema/documentaires/le-cancer-vous-change-la-princesse-kate-partage-son-experience-de-la-maladie-dans-un-documentaire-tres-personnel-intitule-guerir_8293802.html": "2026-11-21T19:24:07.078797+00:00",
-  "https://www.franceinfo.fr/culture/a-bord-du-train-d-or-pour-decouvrir-les-plus-beaux-paysages-de-la-norvege_8293826.html": "2026-11-21T19:24:07.078797+00:00",
   "https://www.franceinfo.fr/monde/russie/la-finlande-soupconne-un-helicoptere-russe-d-avoir-viole-son-espace-aerien_8293799.html": "2026-11-21T19:24:07.078797+00:00",
-  "https://www.franceinfo.fr/culture/la-maison-de-coup-de-foudre-a-notting-hill-a-vendre-pour-9-millions-d-euros_8292929.html": "2026-11-21T19:24:07.078797+00:00",
   "https://www.franceinfo.fr/culture/arts-expos/en-images-my-rock-stars-le-photographehassan-hajjaj-immortalise-ses-stars-de-la-musique_8289029.html": "2026-11-21T19:24:07.078797+00:00",
   "https://www.franceinfo.fr/monde/otan/nous-nous-sentons-ici-chez-nous-une-brigade-allemande-de-5-000-soldats-s-apprete-a-mener-des-exercices-pendant-un-mois-en-lituanie_8293721.html": "2026-11-21T19:24:07.078797+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-des-frappes-russes-font-deux-morts-et-58-blesses-a-kryvyi-rih-ville-natale-de-volodymyr-zelensky_8293700.html": "2026-11-21T19:24:07.078797+00:00",
   "https://www.franceinfo.fr/societe/manifestations/reportage-ce-sont-les-patients-qui-en-patissent-au-portugal-les-syndicats-denoncent-la-degradation-des-services-publics_8293640.html": "2026-11-21T19:24:07.078797+00:00",
-  "https://www.franceinfo.fr/internet/intelligence-artificielle/la-bourse-de-wall-street-enregistre-des-centaines-de-milliards-de-dollars-de-pertes-penalisee-par-le-secteur-de-l-ia_8293667.html": "2026-11-21T19:24:07.078797+00:00"
+  "https://www.franceinfo.fr/internet/intelligence-artificielle/la-bourse-de-wall-street-enregistre-des-centaines-de-milliards-de-dollars-de-pertes-penalisee-par-le-secteur-de-l-ia_8293667.html": "2026-11-21T19:24:07.078797+00:00",
+  "https://www.franceinfo.fr/monde/royaume-uni/kate-middleton/le-cancer-vous-change-kate-middleton-racontera-son-combat-contre-la-maladie-dans-un-documentaire-pour-la-bbc_8294162.html": "2026-11-22T01:23:54.542744+00:00",
+  "https://www.franceinfo.fr/monde/europe/migrants/les-raids-anti-migrants-se-multiplient-au-royaume-uni-et-inquietent-le-gouvernement_8294159.html": "2026-11-22T01:23:54.542744+00:00",
+  "https://www.franceinfo.fr/monde/bresil/l-ex-president-bresilien-jair-bolsonaro-en-soins-intensifs-pour-une-occlusion-intestinale_8294123.html": "2026-11-22T01:23:54.542744+00:00",
+  "https://www.franceinfo.fr/monde/bresil/en-les-privant-de-leur-territoire-on-les-tue-au-bresil-un-peuple-indigene-sort-de-son-isolement_8294120.html": "2026-11-22T01:23:54.542744+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "\"Les explosions ont secoué la mer autour de moi\" : le Britannique Lewis Pugh a nagé dans le détroit d'Ormuz pour alerter sur l'impact environnemental de la guerre Sur des photos publiées sur les réseaux sociaux par le sportif, figure notamment un navire en feu, vraisemblablement après une attaque survenue dans cette zone au cœur de la guerre qui oppose l'Iran et les Etats-Unis depuis février. Aujourd'hui",
+   "title": "\"Le cancer vous change\" : Kate Middleton racontera son combat contre la maladie dans un documentaire pour la BBC Le palais de Kensington a annoncé, ce samedi 21 novembre, la prochaine diffusion d’un documentaire intitulé \"Guérir\". La princesse Kate Middleton y partagera son expérience et son combat contre le cancer. Aujourd'hui 1:50 vidéo 1 minute 50",
+   "link": "https://www.franceinfo.fr/monde/royaume-uni/kate-middleton/le-cancer-vous-change-kate-middleton-racontera-son-combat-contre-la-maladie-dans-un-documentaire-pour-la-bbc_8294162.html",
+   "summary": "\"Le cancer vous change\" : Kate Middleton racontera son combat contre la maladie dans un documentaire pour la BBC",
+   "image": "https://www.franceinfo.fr/pictures/V9MrlWrvXTM-2DACn3pGoIH1Vlg/29x0:1064x712/432x297/filters:format(jpg)/2026/11/21/6b0205d85c866079675173.png",
+   "date": null,
+   "pubdate": "2026-11-22T01:23:54.542744+00:00"
+  },
+  {
+   "title": "Les raids anti-migrants se multiplient au Royaume-Uni et inquiètent le gouvernement Aujourd'hui 4:20 vidéo 4 minutes 20",
+   "link": "https://www.franceinfo.fr/monde/europe/migrants/les-raids-anti-migrants-se-multiplient-au-royaume-uni-et-inquietent-le-gouvernement_8294159.html",
+   "summary": "Les raids anti-migrants se multiplient au Royaume-Uni et inquiètent le gouvernement",
+   "image": "https://www.franceinfo.fr/pictures/oUiYNHVSBCWty92eShmgA6r7BtU/0x99:1416x896/432x243/filters:format(jpg)/2026/11/21/6b0203e9ab9c4809150157.png",
+   "date": null,
+   "pubdate": "2026-11-22T01:23:54.542744+00:00"
+  },
+  {
+   "title": "L'ex-président brésilien Jair Bolsonaro en soins intensifs pour une occlusion intestinale Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/bresil/l-ex-president-bresilien-jair-bolsonaro-en-soins-intensifs-pour-une-occlusion-intestinale_8294123.html",
+   "summary": "L'ex-président brésilien Jair Bolsonaro en soins intensifs pour une occlusion intestinale",
+   "image": "https://www.franceinfo.fr/pictures/qEnQfSBSqslI1EkPD6GR4utZtd4/0x53:1024x629/432x243/filters:format(jpg)/2026/11/21/6b01f7e25ff61777534564.jpg",
+   "date": null,
+   "pubdate": "2026-11-22T01:23:54.542744+00:00"
+  },
+  {
+   "title": "\"En les privant de leur territoire, on les tue\" : au Brésil, un peuple indigène sort de son isolement Aujourd'hui 2:11 vidéo 2 minutes 11",
+   "link": "https://www.franceinfo.fr/monde/bresil/en-les-privant-de-leur-territoire-on-les-tue-au-bresil-un-peuple-indigene-sort-de-son-isolement_8294120.html",
+   "summary": "\"En les privant de leur territoire, on les tue\" : au Brésil, un peuple indigène sort de son isolement",
+   "image": "https://www.franceinfo.fr/pictures/lJuaZELMO5RFJjHyXbKqelDynhw/0x97:764x526/432x243/filters:format(jpg)/2026/11/21/6b01f6583a141524149632.png",
+   "date": null,
+   "pubdate": "2026-11-22T01:23:54.542744+00:00"
+  },
+  {
+   "title": "\"Les explosions ont secoué la mer autour de moi\" : le Britannique Lewis Pugh a nagé dans le détroit d'Ormuz pour alerter sur l'impact environnemental de la guerre Aujourd'hui",
    "link": "https://www.franceinfo.fr/monde/moyen-orient/les-explosions-ont-secoue-la-mer-autour-de-moi-un-britannique-a-traverse-le-detroit-d-ormuz-pour-alerter-sur-l-impact-environnemental-de-la-guerre_8293931.html",
    "summary": "\"Les explosions ont secoué la mer autour de moi\" : le Britannique Lewis Pugh a nagé dans le détroit d'Ormuz pour alerter sur l'impact environnemental de la guerre",
-   "image": "https://www.franceinfo.fr/pictures/Gurpa7qsHs9CAyB2Gr7BgLoBSH4/90x0:5909x4000/432x297/filters:format(jpg)/2026/11/21/6b01dae4bc57c370644355.jpg",
+   "image": "https://www.franceinfo.fr/pictures/HzbbDCDBy68YDWLkym6BmLuUMss/0x312:6000x3687/432x243/filters:format(jpg)/2026/11/21/6b01dae4bc57c370644355.jpg",
    "date": null,
    "pubdate": "2026-11-21T19:24:07.078797+00:00"
   },
@@ -73,7 +106,7 @@
    "pubdate": "2026-11-21T19:24:07.078797+00:00"
   },
   {
-   "title": "\"Le cancer vous change \" : la princesse Kate partage son expérience de la maladie dans un documentaire très personnel intitulé \"Guérir\" Aujourd'hui",
+   "title": "\"Le cancer vous change \" : la princesse Kate partage son expérience de la maladie dans un documentaire très personnel intitulé \"Guérir\" En rémission depuis janvier 2025, l'épouse du prince William espère avec ce film aider d'autres personnes à traverser le diagnostic, la guérison et la vie après le cancer. Aujourd'hui",
    "link": "https://www.franceinfo.fr/culture/cinema/documentaires/le-cancer-vous-change-la-princesse-kate-partage-son-experience-de-la-maladie-dans-un-documentaire-tres-personnel-intitule-guerir_8293802.html",
    "summary": "\"Le cancer vous change \" : la princesse Kate partage son expérience de la maladie dans un documentaire très personnel intitulé \"Guérir\"",
    "image": "https://www.franceinfo.fr/pictures/wtnW_brEZ0nIelzB7XHiYlnqJqo/0x0:1024x576/432x243/filters:format(jpg)/2026/11/21/6b01b1ac4754e224576357.jpg",
@@ -81,26 +114,10 @@
    "pubdate": "2026-11-21T19:24:07.078797+00:00"
   },
   {
-   "title": "À bord du Train d'or pour découvrir les plus beaux paysages de la Norvège Aujourd'hui 3:11 vidéo 3 minutes 11",
-   "link": "https://www.franceinfo.fr/culture/a-bord-du-train-d-or-pour-decouvrir-les-plus-beaux-paysages-de-la-norvege_8293826.html",
-   "summary": "À bord du Train d'or pour découvrir les plus beaux paysages de la Norvège",
-   "image": "https://www.franceinfo.fr/pictures/T6nzts1Mn_UXDYouSNvtpGkZFTY/0x89:1574x974/432x243/filters:format(jpg)/2026/11/21/6b01afc28ea86607488600.png",
-   "date": null,
-   "pubdate": "2026-11-21T19:24:07.078797+00:00"
-  },
-  {
-   "title": "La Finlande soupçonne un hélicoptère russe d'avoir violé son espace aérien Aujourd'hui",
+   "title": "La Finlande soupçonne un hélicoptère russe d'avoir violé son espace aérien L'appareil a pénétré jusqu'à 4,1 km à l'intérieur du territoire finlandais, a précisé le ministère de la Défense. Aujourd'hui",
    "link": "https://www.franceinfo.fr/monde/russie/la-finlande-soupconne-un-helicoptere-russe-d-avoir-viole-son-espace-aerien_8293799.html",
    "summary": "La Finlande soupçonne un hélicoptère russe d'avoir violé son espace aérien",
    "image": "https://www.franceinfo.fr/pictures/dzl70O5wmble6f9aN4HYt3m3SWs/0x53:1024x629/432x243/filters:format(jpg)/2026/11/21/6b01ac8904cf5326131943.jpg",
-   "date": null,
-   "pubdate": "2026-11-21T19:24:07.078797+00:00"
-  },
-  {
-   "title": "La maison de \"Coup de foudre à Notting Hill\" à vendre pour 9 millions d'euros Aujourd'hui 1:35 vidéo 1 minute 35",
-   "link": "https://www.franceinfo.fr/culture/la-maison-de-coup-de-foudre-a-notting-hill-a-vendre-pour-9-millions-d-euros_8292929.html",
-   "summary": "La maison de \"Coup de foudre à Notting Hill\" à vendre pour 9 millions d'euros",
-   "image": "https://www.franceinfo.fr/pictures/S_mdRlaHhS7P3Fi8Hxlrg8GIMhw/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/20/6b00a5e312f18879738718.jpg",
    "date": null,
    "pubdate": "2026-11-21T19:24:07.078797+00:00"
   },
@@ -207,14 +224,6 @@
    "image": "https://www.franceinfo.fr/pictures/9ijxerc5U4oYIzAb1rWiotBVgNk/0x5:1024x581/432x243/filters:format(jpg)/2026/11/20/6b00ca7356fbf384340997.jpg",
    "date": null,
    "pubdate": "2026-11-21T02:24:27.670112+00:00"
-  },
-  {
-   "title": "Le Danemark soupçonne la Russie d'avoir planifié l'assassinat d'un rappeur ukrainien sur son sol Les faits remontent au 25 septembre et la cible présumée a été identifiée par la presse danoise comme le rappeur Kyivstoner. 20 novembre",
-   "link": "https://www.franceinfo.fr/monde/europe/union-europeenne/le-danemark-soupconne-la-russie-d-avoir-planifie-l-assassinat-d-un-ukrainien-sur-son-sol_8292689.html",
-   "summary": "Le Danemark soupçonne la Russie d'avoir planifié l'assassinat d'un rappeur ukrainien sur son sol",
-   "image": "https://www.franceinfo.fr/pictures/6cvksXLLYFqWaI10pKj-zNiA834/0x53:1024x629/432x243/filters:format(jpg)/2026/11/20/6b0080df6e055703366761.jpg",
-   "date": null,
-   "pubdate": "2026-11-20T20:28:23.741882+00:00"
   },
   {
    "title": "De l'Espagne à l'Albanie en passant par la France, une jeunesse européenne unie par des causes communes descend dans la rue 9:00 article 9 minutes",
