@@ -1,5 +1,5 @@
 {
- "etag": "\"b8dd16475569ee1bbe98508c1b27de95-gzip\"",
+ "etag": "\"43db466cdc7d033dfe8307b8103b1862-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-ce-serait-presque-drole-si-ca-ne-montait-pas-les-gens-les-uns-contre-les-autres-apres-l-incendie-de-la-mairie-de-limoges-le-plateau-de-millevaches-pointe-du-doigt-comme-un-bastion-de-l-ultragauche_8249923.html": "2026-11-06T06:56:06.440234+00:00",
@@ -10,7 +10,6 @@
   "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/tout-comprendre-au-proces-des-assistants-parlementaires-fn/": "2026-11-19T02:37:26.178207+00:00",
   "https://www.franceinfo.fr/faits-divers/police/le-parlement-adopte-definitivement-la-presomption-d-usage-legal-des-armes-par-les-forces-de-l-ordre_8292845.html": "2026-11-20T20:28:20.619689+00:00",
   "https://www.franceinfo.fr/elections/je-ne-savais-pas-qu-il-etait-encore-la-reagit-marine-tondelier-apres-le-depart-de-yannick-jadot-des-ecologistes_8292785.html": "2026-11-20T20:28:20.619689+00:00",
-  "https://www.franceinfo.fr/politique/l-elu-rn-qui-a-recu-un-procureur-au-siege-du-parti-evoque-une-discussion-entre-professionnels-qui-se-connaissent-depuis-pres-de-trente-ans_8292344.html": "2026-11-20T20:28:20.619689+00:00",
   "https://www.franceinfo.fr/faits-divers/l-auteur-du-tir-de-mortier-d-artifice-contre-la-deputee-lfi-farida-amrani-a-ete-condamne-a-10mois-de-bracelet-electronique_8293004.html": "2026-11-21T02:24:24.741890+00:00",
   "https://www.franceinfo.fr/economie/budget/deputes-et-senateurs-parviennent-a-un-accord-sur-le-projet-de-budget-de-fin-de-gestion-pour-2026-avant-une-possible-adoption-definitive-mardi_8292914.html": "2026-11-21T02:24:24.741890+00:00",
   "https://www.franceinfo.fr/faits-divers/police/presomption-d-usage-legal-des-armes-par-les-forces-de-l-ordre-ce-n-est-en-aucun-cas-un-permis-de-tuer-estime-le-syndicat-unsa-police_8293457.html": "2026-11-21T11:16:22.690075+00:00",
@@ -20,7 +19,6 @@
   "https://www.franceinfo.fr/politique/nouvelle-reunion-jeudi-prochain-entre-les-directeurs-de-campagne-de-gabriel-attal-bruno-retailleau-et-david-lisnard-pour-une-primaire-de-la-droite-et-du-centre_8294057.html": "2026-11-21T19:24:02.873966+00:00",
   "https://www.franceinfo.fr/faits-divers/police/nombre-de-tirs-enquetes-lien-de-confiance-les-questions-que-pose-la-loi-sur-la-presomption-d-usage-legal-des-armes-par-les-forces-de-l-ordre_8293529.html": "2026-11-21T19:24:02.873966+00:00",
   "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/guerre-en-ukraine-crise-sociale-sortie-de-l-ue-le-8h30-franceinfo-de-nicolas-dupont-aignan_8250490.html": "2026-11-22T11:35:35.235950+00:00",
-  "https://www.franceinfo.fr/politique/front-national/soupconne-de-fuites-vers-le-rn-le-prefet-du-loiret-hugues-moutouh-demande-a-etre-demis-de-ses-fonctions_8294663.html": "2026-11-22T11:35:35.235950+00:00",
   "https://www.franceinfo.fr/economie/info-france-info-sommet-choose-france-edition-france-l-entreprise-blanc-aero-industries-doit-investir-39-millions-d-euros-dans-le-pays_8294021.html": "2026-11-22T11:35:35.235950+00:00",
   "https://www.franceinfo.fr/economie/au-programme-du-sommet-choose-france-qui-s-ouvre-lundi-273-projets-valorises-et-pres-de-15-milliards-d-euros-d-investissements-nouveaux_8295146.html": "2026-11-22T19:47:17.584509+00:00",
   "https://www.franceinfo.fr/replay-magazine/franceinfo/le-grand-enjeu/presidentielle-2027-je-ne-me-resoudrai-jamais-a-ce-que-marine-le-pen-entre-a-l-elysee-lache-raphael-glucksman-candidat-ps-et-place-publique_8295134.html": "2026-11-22T19:47:17.584509+00:00",
@@ -29,22 +27,31 @@
   "https://www.franceinfo.fr/politique/front-national/un-mail-du-service-du-prefet-hugues-moutouh-soupconne-d-avoir-renseigne-le-rn-decouvert-lors-d-une-perquisition-chez-un-proche-de-marine-le-pen_8294915.html": "2026-11-22T19:47:17.584509+00:00",
   "https://www.franceinfo.fr/elections/la-candidate-a-l-election-presidentielle-marine-le-pen-estime-que-couper-les-subventions-aux-associations-politisees-n-est-pas-du-chantage_8294897.html": "2026-11-22T19:47:17.584509+00:00",
   "https://www.franceinfo.fr/politique/front-national/je-n-ai-jamais-recu-d-informations-confidentielles-affirme-marine-le-pen-au-sujet-du-prefet-hugues-moutouh-soupconne-d-avoir-renseigne-le-rn_8294876.html": "2026-11-22T19:47:17.584509+00:00",
-  "https://www.franceinfo.fr/replay-magazine/france-2/franc-jeu/franc-jeu-avec-marine-le-pen_8292911.html": "2026-11-22T19:47:17.584509+00:00"
+  "https://www.franceinfo.fr/replay-magazine/france-2/franc-jeu/franc-jeu-avec-marine-le-pen_8292911.html": "2026-11-22T19:47:17.584509+00:00",
+  "https://www.franceinfo.fr/politique/hugues-moutouh-un-prefet-au-c-ur-de-la-tourmente_8295203.html": "2026-11-23T01:47:34.510631+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "Au programme du sommet Choose France qui s'ouvre lundi, 273 projets valorisés et près de 15 milliards d'euros d'investissements nouveaux Lors de la première édition de l'\"édition France\", le gouvernement avait valorisé des investissements à hauteur de 30,4 milliards, pour 151 projets. Aujourd'hui",
+   "title": "Hugues Moutouh, un préfet au cœur de la tourmente Le préfet de la région Centre-Val de Loire a décidé de demander à être relevé de ses fonctions. Hugues Moutouh est soupçonné d’être impliqué dans des fuites sur des enquêtes confidentielles du ministère de l’Intérieur, liées au Rassemblement national. Les enquêteurs se concentrent sur un mail découvert lors d’une perquisition. Aujourd'hui 2:01 vidéo 2 minutes 1",
+   "link": "https://www.franceinfo.fr/politique/hugues-moutouh-un-prefet-au-c-ur-de-la-tourmente_8295203.html",
+   "summary": "Hugues Moutouh, un préfet au cœur de la tourmente",
+   "image": "https://www.franceinfo.fr/pictures/wACCbZQVZbDQlwFanllG5VkN6Nw/0x1:1422x978/432x297/filters:format(jpg)/2026/11/22/6b034faaca952026590131.png",
+   "date": null,
+   "pubdate": "2026-11-23T01:47:34.510631+00:00"
+  },
+  {
+   "title": "Au programme du sommet Choose France qui s'ouvre lundi, 273 projets valorisés et près de 15 milliards d'euros d'investissements nouveaux Aujourd'hui",
    "link": "https://www.franceinfo.fr/economie/au-programme-du-sommet-choose-france-qui-s-ouvre-lundi-273-projets-valorises-et-pres-de-15-milliards-d-euros-d-investissements-nouveaux_8295146.html",
    "summary": "Au programme du sommet Choose France qui s'ouvre lundi, 273 projets valorisés et près de 15 milliards d'euros d'investissements nouveaux",
-   "image": "https://www.franceinfo.fr/pictures/Dh8E2CJqZ-_Hy83gD-QptMqBN7g/16x0:1008x682/432x297/filters:format(jpg)/2026/11/22/6b0341a3861b9863618719.jpg",
+   "image": "https://www.franceinfo.fr/pictures/WWwDHxA44AQ05v1gZT4VHhapQts/0x53:1024x629/432x243/filters:format(jpg)/2026/11/22/6b0341a3861b9863618719.jpg",
    "date": null,
    "pubdate": "2026-11-22T19:47:17.584509+00:00"
   },
   {
-   "title": "Présidentielle 2027 : \"Je ne me résoudrai jamais à ce que Marine Le Pen entre à l'Élysée\", lâche Raphaël Glucksman, candidat PS et Place publique Aujourd'hui 48:19 vidéo 48 minutes 19",
+   "title": "Présidentielle 2027 : \"Je ne me résoudrai jamais à ce que Marine Le Pen entre à l'Élysée\", assure Raphaël Glucksman, candidat PS et Place publique Aujourd'hui 48:19 vidéo 48 minutes 19",
    "link": "https://www.franceinfo.fr/replay-magazine/franceinfo/le-grand-enjeu/presidentielle-2027-je-ne-me-resoudrai-jamais-a-ce-que-marine-le-pen-entre-a-l-elysee-lache-raphael-glucksman-candidat-ps-et-place-publique_8295134.html",
-   "summary": "Présidentielle 2027 : \"Je ne me résoudrai jamais à ce que Marine Le Pen entre à l'Élysée\", lâche Raphaël Glucksman, candidat PS et Place publique",
+   "summary": "Présidentielle 2027 : \"Je ne me résoudrai jamais à ce que Marine Le Pen entre à l'Élysée\", assure Raphaël Glucksman, candidat PS et Place publique",
    "image": "https://www.franceinfo.fr/pictures/F1YpAHJf-EdkcytKfJbzdnDV95E/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/22/6b03362f01cdd428798599.jpg",
    "date": null,
    "pubdate": "2026-11-22T19:47:17.584509+00:00"
@@ -102,14 +109,6 @@
    "link": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/guerre-en-ukraine-crise-sociale-sortie-de-l-ue-le-8h30-franceinfo-de-nicolas-dupont-aignan_8250490.html",
    "summary": "Guerre en Ukraine, crise sociale, sortie de l'UE... Le 8h30 franceinfo de Nicolas Dupont-Aignan",
    "image": "https://www.franceinfo.fr/pictures/w_jFJpek5-jPRDLNfBdpmTellTI/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/22/6b02c12492d6c751119068.jpg",
-   "date": null,
-   "pubdate": "2026-11-22T11:35:35.235950+00:00"
-  },
-  {
-   "title": "Soupçonné de fuites vers le RN, le préfet du Loiret Hugues Moutouh demande à être démis de ses fonctions Aujourd'hui 1:02 vidéo 1 minute 2",
-   "link": "https://www.franceinfo.fr/politique/front-national/soupconne-de-fuites-vers-le-rn-le-prefet-du-loiret-hugues-moutouh-demande-a-etre-demis-de-ses-fonctions_8294663.html",
-   "summary": "Soupçonné de fuites vers le RN, le préfet du Loiret Hugues Moutouh demande à être démis de ses fonctions",
-   "image": "https://www.franceinfo.fr/pictures/un9wilhPQv1oLpDod_-x_wSJI0M/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/22/6b02ba15ca64b574645154.jpg",
    "date": null,
    "pubdate": "2026-11-22T11:35:35.235950+00:00"
   },
@@ -198,14 +197,6 @@
    "link": "https://www.franceinfo.fr/elections/je-ne-savais-pas-qu-il-etait-encore-la-reagit-marine-tondelier-apres-le-depart-de-yannick-jadot-des-ecologistes_8292785.html",
    "summary": "\"Je ne savais pas qu'il était encore là\", réagit Marine Tondelier après le départ de Yannick Jadot des Ecologistes",
    "image": "https://www.franceinfo.fr/pictures/RELBHL1Cdf7e6DBxGxVo59BFOc0/0x428:8192x5036/432x243/filters:format(jpg)/2026/11/20/6b008a4e4e537262998415.jpg",
-   "date": null,
-   "pubdate": "2026-11-20T20:28:20.619689+00:00"
-  },
-  {
-   "title": "L'élu RN qui a reçu un procureur au siège du parti évoque \"une discussion entre professionnels\" qui se connaissent \"depuis près de trente ans\" Lors d'une perquisition au siège du parti Rassemblement national début novembre, les policiers en charge de l'enquête ont constaté la présence sur place du procureur adjoint du parquet de Paris. Il rendait visite à Jean-Paul Garraud, eurodéputé du Rassemblement national, qui s'explique. 20 novembre",
-   "link": "https://www.franceinfo.fr/politique/l-elu-rn-qui-a-recu-un-procureur-au-siege-du-parti-evoque-une-discussion-entre-professionnels-qui-se-connaissent-depuis-pres-de-trente-ans_8292344.html",
-   "summary": "L'élu RN qui a reçu un procureur au siège du parti évoque \"une discussion entre professionnels\" qui se connaissent \"depuis près de trente ans\"",
-   "image": "https://www.franceinfo.fr/pictures/GUaEvCmZTbwhjorTZ7lad7CDJl0/0x169:3257x2001/432x243/filters:format(jpg)/2026/11/20/6b0059d57bc9d602728245.jpg",
    "date": null,
    "pubdate": "2026-11-20T20:28:20.619689+00:00"
   },

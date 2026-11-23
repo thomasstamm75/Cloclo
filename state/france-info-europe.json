@@ -1,9 +1,7 @@
 {
- "etag": "\"554875460db048dab73234e89fb1ee32-gzip\"",
+ "etag": "\"901b5e37ff7ae8952061e6b520796ff2-gzip\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.franceinfo.fr/politique/grand-entretien-en-belgique-un-cordon-sanitaire-mediatique-empeche-toute-forme-de-banalisation-de-l-extreme-droite-un-outil-difficile-a-imaginer-en-france_8265599.html": "2026-11-04T17:19:33.406625+00:00",
-  "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-couper-le-robinet-de-petrole-russe-en-mission-avec-les-oiseaux-de-madyar-la-brigade-de-dronistes-ukrainiens-la-plus-pourchassee-par-les-russes_8255023.html": "2026-11-10T14:58:52.045882+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/reportage-ca-facilite-grandement-le-travail-de-nos-soldats-les-robots-de-combat-ukrainiens-deviennent-incontournables-sur-le-front-et-permettent-de-reprendre-du-terrain-aux-russes_8284292.html": "2026-11-16T06:42:10.582662+00:00",
   "https://www.franceinfo.fr/monde/europe/migrants/seize-migrants-decouverts-dans-un-camion-au-terminal-ferry-a-ouistreham-sur-le-point-de-partir-pour-la-grande-bretagne_8292182.html": "2026-11-20T11:50:12.898520+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-un-missile-russe-tombe-dans-le-sud-est-de-la-pologne-sans-faire-de-blesse_8292080.html": "2026-11-20T11:50:12.898520+00:00",
@@ -31,15 +29,33 @@
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-multiplication-des-incidents-militaires-fait-craindre-une-escalade-entre-la-russie-et-l-otan_8294615.html": "2026-11-22T11:35:36.363314+00:00",
   "https://www.franceinfo.fr/replay-jt/france-2/20-heures/la-tension-monte-entre-l-europe-et-la-russie-apres-plusieurs-incidents-militaires_8295158.html": "2026-11-22T19:47:19.158790+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/le-quai-d-orsay-repond-a-la-multiplication-des-incidents-entre-l-europe-et-la-russie-en-etant-calme-en-ne-se-laissant-pas-impressionner-et-en-renforcant-notre-determination_8295164.html": "2026-11-22T19:47:19.158790+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-les-ecoles-d-odessa-passent-a-l-enseignement-en-distanciel-apres-des-frappes-russes-sur-le-reseau-electrique_8294744.html": "2026-11-22T19:47:19.158790+00:00"
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-les-ecoles-d-odessa-passent-a-l-enseignement-en-distanciel-apres-des-frappes-russes-sur-le-reseau-electrique_8294744.html": "2026-11-22T19:47:19.158790+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/les-objets-volants-tombes-vendredi-en-pologne-etaient-des-missiles-de-croisiere-fabriques-en-russie-annonce-le-parquet-de-lublin_8295188.html": "2026-11-23T01:47:36.206555+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/vos-questions-sur-l-effort-de-guerre-de-la-france/": "2026-11-23T01:47:36.206555+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "La tension monte entre l'Europe et la Russie après plusieurs incidents militaires La Finlande a dû alerter l'Otan après deux incidents qualifiés de graves, samedi 21 novembre. Il faut ajouter à cela une alerte aérienne sur la principale base navale russe dans l'enclave de Kaliningrad. La Finlande, qui partage 1 340 kilomètres de frontières avec la Russie, est la cible récurrente d'opérations hybrides de Moscou. Aujourd'hui 2:09 vidéo 2 minutes 9",
+   "title": "Les objets volants tombés vendredi en Pologne étaient des missiles de croisière fabriqués en Russie, annonce le parquet de Lublin La chute de ces objets, suivie dans au moins un cas d'une explosion et d'un incendie, n'avait pas fait de blessés Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/les-objets-volants-tombes-vendredi-en-pologne-etaient-des-missiles-de-croisiere-fabriques-en-russie-annonce-le-parquet-de-lublin_8295188.html",
+   "summary": "Les objets volants tombés vendredi en Pologne étaient des missiles de croisière fabriqués en Russie, annonce le parquet de Lublin",
+   "image": "https://www.franceinfo.fr/pictures/NFbVNuLY0ecSXdYAjFMBTM1Dc6k/117x0:906x543/432x297/filters:format(jpg)/2026/11/22/6b034cd448212394756538.jpg",
+   "date": null,
+   "pubdate": "2026-11-23T01:47:36.206555+00:00"
+  },
+  {
+   "title": "Vos questions sur l'effort de guerre de la France 6 contenus",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/vos-questions-sur-l-effort-de-guerre-de-la-france/",
+   "summary": "Vos questions sur l'effort de guerre de la France",
+   "image": "https://www.franceinfo.fr/pictures/ntZoU9VrwR_yrQmHdJn-AC2Tq7o/432x297/filters:format(jpg)/2025/04/01/effort-de-guerre-couverture-de-dossier-01-light-67eba0e5ca0a7848911582.jpg",
+   "date": null,
+   "pubdate": "2026-11-23T01:47:36.206555+00:00"
+  },
+  {
+   "title": "La tension monte entre l'Europe et la Russie après plusieurs incidents militaires Aujourd'hui 2:09 vidéo 2 minutes 9",
    "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/la-tension-monte-entre-l-europe-et-la-russie-apres-plusieurs-incidents-militaires_8295158.html",
    "summary": "La tension monte entre l'Europe et la Russie après plusieurs incidents militaires",
-   "image": "https://www.franceinfo.fr/pictures/7gj0GWbuRCWzJhe_qOhPj-2FyjE/174x0:1745x1080/432x297/filters:format(jpg)/2026/11/22/6b03452fa042e747058214.jpg",
+   "image": "https://www.franceinfo.fr/pictures/3yZOwULT2axlqlUi1zAPQbG2qOc/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/22/6b03452fa042e747058214.jpg",
    "date": null,
    "pubdate": "2026-11-22T19:47:19.158790+00:00"
   },
@@ -100,7 +116,7 @@
    "pubdate": "2026-11-21T19:24:04.955434+00:00"
   },
   {
-   "title": "La Finlande soupçonne un hélicoptère russe d'avoir violé son espace aérien 21 novembre",
+   "title": "La Finlande soupçonne un hélicoptère russe d'avoir violé son espace aérien L'appareil a pénétré jusqu'à 4,1 km à l'intérieur du territoire finlandais, a précisé le ministère de la Défense. 21 novembre",
    "link": "https://www.franceinfo.fr/monde/russie/la-finlande-soupconne-un-helicoptere-russe-d-avoir-viole-son-espace-aerien_8293799.html",
    "summary": "La Finlande soupçonne un hélicoptère russe d'avoir violé son espace aérien",
    "image": "https://www.franceinfo.fr/pictures/dzl70O5wmble6f9aN4HYt3m3SWs/0x53:1024x629/432x243/filters:format(jpg)/2026/11/21/6b01ac8904cf5326131943.jpg",
@@ -258,22 +274,6 @@
    "image": "https://www.franceinfo.fr/pictures/JAwCDnFb5QmRIAw7_8lDXZHiNKY/0x194:1920x1274/432x243/filters:format(jpg)/2026/11/16/6afa9f046fea1146091106.png",
    "date": null,
    "pubdate": "2026-11-16T06:42:10.582662+00:00"
-  },
-  {
-   "title": ": Reportage \"Ce soir, on est en mission pour qu'ils passent une mauvaise nuit\" : en immersion avec une brigade de dronistes ukrainiens qui vise les raffineries russes : Reportage 4:55 audio 4 minutes 55",
-   "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-couper-le-robinet-de-petrole-russe-en-mission-avec-les-oiseaux-de-madyar-la-brigade-de-dronistes-ukrainiens-la-plus-pourchassee-par-les-russes_8255023.html",
-   "summary": "\"Ce soir, on est en mission pour qu'ils passent une mauvaise nuit\" : en immersion avec une brigade de dronistes ukrainiens qui vise les raffineries russes",
-   "image": "https://www.franceinfo.fr/pictures/ccQT4F940EBl9FupZfobrD39RI8/0x150:1600x1050/432x243/filters:format(jpg)/2026/11/09/6af22c0dbfe8f915408614.jpg",
-   "date": null,
-   "pubdate": "2026-11-10T14:58:52.045882+00:00"
-  },
-  {
-   "title": ": Grand entretien En Belgique, un cordon sanitaire médiatique \"empêche toute forme de banalisation de l'extrême droite\", un outil \"difficile\" à imaginer en France : Grand entretien 5:00 article 5 minutes",
-   "link": "https://www.franceinfo.fr/politique/grand-entretien-en-belgique-un-cordon-sanitaire-mediatique-empeche-toute-forme-de-banalisation-de-l-extreme-droite-un-outil-difficile-a-imaginer-en-france_8265599.html",
-   "summary": "En Belgique, un cordon sanitaire médiatique \"empêche toute forme de banalisation de l'extrême droite\", un outil \"difficile\" à imaginer en France",
-   "image": "https://www.franceinfo.fr/pictures/8jhw81QIhD7mLmBqp2LCi5CRN2I/0x0:4300x2418/432x243/filters:format(jpg)/2026/11/03/6aea17e3db34d727066316.jpg",
-   "date": null,
-   "pubdate": "2026-11-04T17:19:33.406625+00:00"
   }
  ]
 }

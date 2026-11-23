@@ -1,9 +1,7 @@
 {
- "etag": "\"d7496886a82862861183a8cd18bcec72-gzip\"",
+ "etag": "\"5d6cac9ddc4915dac3ab66556e2cd361-gzip\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.franceinfo.fr/monde/europe/de-l-espagne-a-l-albanie-en-passant-par-la-france-une-jeunesse-europeenne-unie-par-des-causes-communes-descend-dans-la-rue_8290049.html": "2026-11-20T11:50:07.901425+00:00",
-  "https://www.franceinfo.fr/societe/harcelement-sexuel/un-directeur-d-ecole-maternelle-de-montpellier-mis-en-examen-pour-viol-et-agression-sexuelle_8293025.html": "2026-11-21T02:24:20.964002+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/temoignage-des-qu-il-y-a-un-nouveau-telephone-tout-le-monde-fait-un-credit-comment-le-surendettement-explose-chez-les-moins-de-30-ans_8266763.html": "2026-11-21T02:24:20.964002+00:00",
   "https://www.franceinfo.fr/faits-divers/incendie/on-comprend-qu-on-n-a-vraiment-plus-rien-qu-il-faut-recommencer-a-zero-ils-ont-vu-leur-maison-bruler-et-tentent-de-se-relever_8287193.html": "2026-11-21T02:24:20.964002+00:00",
   "https://www.franceinfo.fr/societe/manifestations/l-association-droit-au-logement-appelle-a-renforcer-l-encadrement-des-loyers-et-a-produire-du-logement-social_8293607.html": "2026-11-21T11:16:20.238477+00:00",
@@ -21,7 +19,6 @@
   "https://www.franceinfo.fr/societe/manifestations/une-enquete-ouverte-contre-des-policiers-pour-violences-et-agression-sexuelle-en-marge-de-la-manifestation-parisienne-du-31-octobre_8293754.html": "2026-11-21T19:24:00.057665+00:00",
   "https://www.franceinfo.fr/societe/harcelement-sexuel/des-manifestations-contre-les-violences-sexistes-organisees-durant-une-semaine-en-france_8293745.html": "2026-11-21T19:24:00.057665+00:00",
   "https://www.franceinfo.fr/societe/manifestations/reportage-ce-sont-les-patients-qui-en-patissent-au-portugal-les-syndicats-denoncent-la-degradation-des-services-publics_8293640.html": "2026-11-21T19:24:00.057665+00:00",
-  "https://www.franceinfo.fr/societe/seconde-guerre-mondiale/jean-gabin-resistant-durant-la-seconde-guerre-mondiale-honore-par-la-marine-francaise_8294150.html": "2026-11-22T01:23:48.531805+00:00",
   "https://www.franceinfo.fr/societe/manifestations/mobilisation-du-21-novembre-82-500-personnes-ont-manifeste-dans-l-hexagone-selon-le-ministere-de-l-interieur-150-000-selon-la-cgt_8294093.html": "2026-11-22T01:23:48.531805+00:00",
   "https://www.franceinfo.fr/societe/drogue/le-mexique-annonce-l-arrestation-de-chapo-isidro-un-baron-de-la-drogue-recherche-par-les-etats-unis_8294513.html": "2026-11-22T11:35:32.801507+00:00",
   "https://www.franceinfo.fr/replay-radio/livre-actu/quand-la-chine-manipule-le-monde-le-bluff-de-la-chine-pour-imposer-son-leadership-sur-la-planete_8250472.html": "2026-11-22T11:35:32.801507+00:00",
@@ -31,15 +28,42 @@
   "https://www.franceinfo.fr/decouverte/noel/entre-contraintes-budgetaires-et-envie-de-faire-durer-les-fetes-pourquoi-noel-deboule-de-plus-en-plus-tot_8288288.html": "2026-11-22T11:35:32.801507+00:00",
   "https://www.franceinfo.fr/sante/sida/video-au-debut-on-ne-sait-pas-ce-qu-est-ce-virus-l-affaire-du-sang-contamine-ou-la-lente-prise-de-conscience-de-la-dangerosite-du-sida_8270939.html": "2026-11-22T11:35:32.801507+00:00",
   "https://www.franceinfo.fr/societe/armee-securite-defense/que-sont-les-honorables-correspondants-des-services-de-renseignements-francais_8295161.html": "2026-11-22T19:47:14.955806+00:00",
-  "https://www.franceinfo.fr/replay-jt/france-2/13-heures/le-baron-de-la-drogue-chapo-isidro-capture-par-l-armee-mexicaine-dans-une-operation-spectaculaire_8294900.html": "2026-11-22T19:47:14.955806+00:00"
+  "https://www.franceinfo.fr/replay-jt/france-2/13-heures/le-baron-de-la-drogue-chapo-isidro-capture-par-l-armee-mexicaine-dans-une-operation-spectaculaire_8294900.html": "2026-11-22T19:47:14.955806+00:00",
+  "https://www.franceinfo.fr/societe/drogue/mexique-l-arrestation-spectaculaire-du-baron-de-la-drogue-el-chapo-isidro_8295209.html": "2026-11-23T01:47:31.297444+00:00",
+  "https://www.franceinfo.fr/societe/nos-jours-heureux/": "2026-11-23T01:47:31.297444+00:00",
+  "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/cet-outil-ne-va-pas-tout-faire-a-la-place-de-l-eleve-en-estonie-une-version-specifique-de-chatgpt-fait-son-entree-dans-les-salles-de-classe_8268662.html": "2026-11-23T01:47:31.297444+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "Que sont les \"honorables correspondants\" des services de renseignements français ? L'acteur Guy Marchand aurait durant plusieurs années apporté son soutien à la DGSE pour des rencontres clandestines. Qui sont ces hommes et femmes de l’ombre, que l'on appelle des \"honorables correspondants\", et comment sont-ils approchés ? Éléments de réponse. Aujourd'hui 3:31 vidéo 3 minutes 31",
+   "title": "Mexique : l'arrestation spectaculaire du baron de la drogue El Chapo Isidro L'un des dix criminels les plus recherchés par le FBI et principaux barons de la drogue a été interpellé au Mexique. Les États-Unis ont salué le succès de l'opération, qui a fait 11 morts. Les cartels se vengent déjà et ont semé le chaos au cours des dernières heures sur le sol mexicain. Aujourd'hui 1:38 vidéo 1 minute 38",
+   "link": "https://www.franceinfo.fr/societe/drogue/mexique-l-arrestation-spectaculaire-du-baron-de-la-drogue-el-chapo-isidro_8295209.html",
+   "summary": "Mexique : l'arrestation spectaculaire du baron de la drogue El Chapo Isidro",
+   "image": "https://www.franceinfo.fr/pictures/Ds8hkSCnW6Vxd90etWTclEQxnqM/6x0:1387x950/432x297/filters:format(jpg)/2026/11/22/6b0352d69ff6b544641631.png",
+   "date": null,
+   "pubdate": "2026-11-23T01:47:31.297444+00:00"
+  },
+  {
+   "title": "Nos jours heureux 5 contenus",
+   "link": "https://www.franceinfo.fr/societe/nos-jours-heureux/",
+   "summary": "",
+   "image": "https://www.franceinfo.fr/pictures/70hxXkCD_HnVl93vv3dfs138KJQ/432x297/filters:format(jpg)/2026/07/30/6a6b142e19c9c745704318.jpg",
+   "date": null,
+   "pubdate": "2026-11-23T01:47:31.297444+00:00"
+  },
+  {
+   "title": ": Reportage \"Cet outil ne va pas tout faire à la place de l'élève\" : en Estonie, une version spécifique de ChatGPT fait son entrée dans les salles de classe : Reportage 5:10 audio 5 minutes 10",
+   "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/cet-outil-ne-va-pas-tout-faire-a-la-place-de-l-eleve-en-estonie-une-version-specifique-de-chatgpt-fait-son-entree-dans-les-salles-de-classe_8268662.html",
+   "summary": "\"Cet outil ne va pas tout faire à la place de l'élève\" : en Estonie, une version spécifique de ChatGPT fait son entrée dans les salles de classe",
+   "image": "https://www.franceinfo.fr/pictures/5Fj9_fuB2l4Ytt9udxg3Sr6HzL8/0x0:8192x4608/432x243/filters:format(jpg)/2026/11/19/6afe8d5d83b2c564518561.jpg",
+   "date": null,
+   "pubdate": "2026-11-23T01:47:31.297444+00:00"
+  },
+  {
+   "title": "Que sont les \"honorables correspondants\" des services de renseignements français ? Aujourd'hui 3:31 vidéo 3 minutes 31",
    "link": "https://www.franceinfo.fr/societe/armee-securite-defense/que-sont-les-honorables-correspondants-des-services-de-renseignements-francais_8295161.html",
    "summary": "Que sont les \"honorables correspondants\" des services de renseignements français ?",
-   "image": "https://www.franceinfo.fr/pictures/0oGPmwlE3atmXZAUI73zpXpXOSQ/26x0:1466x990/432x297/filters:format(jpg)/2026/11/22/6b0342ce8c926194021928.png",
+   "image": "https://www.franceinfo.fr/pictures/H80Z4OcP4jMmTNqkJ57SO7G4Ro0/0x75:1492x914/432x243/filters:format(jpg)/2026/11/22/6b0342ce8c926194021928.png",
    "date": null,
    "pubdate": "2026-11-22T19:47:14.955806+00:00"
   },
@@ -106,14 +130,6 @@
    "image": "https://www.franceinfo.fr/pictures/Cwj4iP5G6b1mgmxYGNQZwFmWZ4Y/0x209:2048x1361/432x243/filters:format(jpg)/2026/11/18/6afd7ce07dfb5268573885.jpg",
    "date": null,
    "pubdate": "2026-11-22T11:35:32.801507+00:00"
-  },
-  {
-   "title": "Jean Gabin, résistant durant la Seconde Guerre mondiale, honoré par la Marine française 21 novembre 2:27 vidéo 2 minutes 27",
-   "link": "https://www.franceinfo.fr/societe/seconde-guerre-mondiale/jean-gabin-resistant-durant-la-seconde-guerre-mondiale-honore-par-la-marine-francaise_8294150.html",
-   "summary": "Jean Gabin, résistant durant la Seconde Guerre mondiale, honoré par la Marine française",
-   "image": "https://www.franceinfo.fr/pictures/90IWQ91uvWguT9FiXOKqhj96A-w/0x76:1338x829/432x243/filters:format(jpg)/2026/11/21/6b020091935bf021167556.png",
-   "date": null,
-   "pubdate": "2026-11-22T01:23:48.531805+00:00"
   },
   {
    "title": "La mobilisation du 21 novembre a rassemblé 82 500 manifestants dans l'Hexagone selon le ministère de l'Intérieur, 150 000 selon la CGT Cette journée de mobilisation s'est inscrite dans le cadre d'un appel européen de syndicats et associations de défense du droit au logement à des actions coordonnées sur trois jours, de vendredi à dimanche. 21 novembre",
@@ -258,22 +274,6 @@
    "image": "https://www.franceinfo.fr/pictures/sKWobtY44pcYT93UKpJrPjOg5WU/99x0:1363x711/432x243/filters:format(jpg)/2026/11/17/6afcc4bb0b829632305263.jpg",
    "date": null,
    "pubdate": "2026-11-21T02:24:20.964002+00:00"
-  },
-  {
-   "title": "Un directeur d'école maternelle de Montpellier mis en examen pour viol et agression sexuelle L’homme a été placé sous contrôle judiciaire et a interdiction d'exercer une fonction au contact d'enfants. 20 novembre",
-   "link": "https://www.franceinfo.fr/societe/harcelement-sexuel/un-directeur-d-ecole-maternelle-de-montpellier-mis-en-examen-pour-viol-et-agression-sexuelle_8293025.html",
-   "summary": "Un directeur d'école maternelle de Montpellier mis en examen pour viol et agression sexuelle",
-   "image": "https://www.franceinfo.fr/pictures/BKovo4tkuGAqw9KoTb0vFntHU0E/0x53:1024x629/432x243/filters:format(jpg)/2026/11/20/6b00cf1de02bd414492259.jpg",
-   "date": null,
-   "pubdate": "2026-11-21T02:24:20.964002+00:00"
-  },
-  {
-   "title": "De l'Espagne à l'Albanie en passant par la France, une jeunesse européenne unie par des causes communes descend dans la rue 9:00 article 9 minutes",
-   "link": "https://www.franceinfo.fr/monde/europe/de-l-espagne-a-l-albanie-en-passant-par-la-france-une-jeunesse-europeenne-unie-par-des-causes-communes-descend-dans-la-rue_8290049.html",
-   "summary": "De l'Espagne à l'Albanie en passant par la France, une jeunesse européenne unie par des causes communes descend dans la rue",
-   "image": "https://www.franceinfo.fr/pictures/wottJ-87phlwjr0-rP4_iBtRMBs/0x0:2000x1125/432x243/filters:format(jpg)/2026/11/19/6afef8f20352c032597013.jpg",
-   "date": null,
-   "pubdate": "2026-11-20T11:50:07.901425+00:00"
   }
  ]
 }
