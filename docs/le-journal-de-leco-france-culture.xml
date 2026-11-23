@@ -5,8 +5,15 @@
     <link>https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco</link>
     <description>Flux fabriqué par Cloclo à partir de https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco</description>
     <language>fr</language>
-    <lastBuildDate>Mon, 23 Nov 2026 01:47:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 13:01:31 +0000</lastBuildDate>
     <atom:link href="https://thomasstamm75.github.io/Cloclo/le-journal-de-leco-france-culture.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Qu'est-ce qu'une entreprise française ?</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/qu-est-ce-qu-une-entreprise-francaise-5294417</link>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/qu-est-ce-qu-une-entreprise-francaise-5294417</guid>
+      <pubDate>Mon, 23 Nov 2026 11:00:00 +0000</pubDate>
+      <description>&lt;img src="https://www.radiofrance.fr/pikapi/images/6c63aac1-a454-497a-9c7f-20c12675d2aa/2048" alt=""/&gt;&lt;p&gt;Pour la deuxième année consécutive, l'Élysée organise ce lundi 23 novembre un sommet "Choose France" réservé aux entreprises françaises qui souhaitent investir sur le territoire. Mais qu'est-ce qu'une entreprise française ? Cette notion est plus complexe qu'il n'y paraît.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Italie : quand les salaires baissent</title>
       <link>https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/italie-quand-les-salaires-baissent-2536678</link>
@@ -125,13 +132,6 @@
       <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/droits-de-douane-et-relocalisation-donald-trump-a-t-il-tenu-ses-promesses-1853800</guid>
       <pubDate>Wed, 28 Oct 2026 13:06:43 +0000</pubDate>
       <description>&lt;img src="https://www.radiofrance.fr/pikapi/images/fb19c7fb-a258-41fc-8c29-f5d4222e02f8/2048" alt=""/&gt;&lt;p&gt;Rouvrir des usines et produire local a été un axe majeur de la politique économique de Donald Trump. À coups de multiples (annonces de) droits de douanes sur les importations. Pour quels résultats près de deux ans après sa réélection ?&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>État des lieux de l'économie américaine 2/5 · États-Unis de Donald Trump : l'économie se porte bien, mais les inégalités se creusent</title>
-      <link>https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/etats-unis-de-donald-trump-l-economie-se-porte-bien-mais-les-inegalites-se-creusent-9130920</link>
-      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/etats-unis-de-donald-trump-l-economie-se-porte-bien-mais-les-inegalites-se-creusent-9130920</guid>
-      <pubDate>Tue, 27 Oct 2026 11:00:00 +0000</pubDate>
-      <description>&lt;img src="https://www.radiofrance.fr/pikapi/images/1495265b-7b5f-41df-8e07-8470bf098538/2048" alt=""/&gt;&lt;p&gt;Les bons résultats macro-économiques des États-Unis de Donald Trump suffiront-ils à lui faire gagner les élections de mi-mandat ? Le coût de la vie et l’inflation restent une réalité tenace dans le quotidien des Américains.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

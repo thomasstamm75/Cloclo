@@ -1,60 +1,191 @@
 {
- "etag": "\"a7f9323ed00596ec23709af927a71de2-gzip\"",
+ "etag": "\"f03d9b65e74cda40ce164a5b8147b5e3-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/environnement/energie/energies-fossiles/au-texas-la-pollution-liee-a-l-exploitation-du-petrole-et-du-gaz-inquiete-les-habitants-et-reste-taboue-au-pays-de-l-or-noir_8288936.html": "2026-11-19T02:37:29.665893+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/reportage-ca-facilite-grandement-le-travail-de-nos-soldats-les-robots-de-combat-ukrainiens-deviennent-incontournables-sur-le-front-et-permettent-de-reprendre-du-terrain-aux-russes_8284292.html": "2026-11-19T02:37:29.665893+00:00",
   "https://www.franceinfo.fr/monde/europe/de-l-espagne-a-l-albanie-en-passant-par-la-france-une-jeunesse-europeenne-unie-par-des-causes-communes-descend-dans-la-rue_8290049.html": "2026-11-20T11:50:14.960111+00:00",
-  "https://www.franceinfo.fr/monde/moyen-orient/les-explosions-ont-secoue-la-mer-autour-de-moi-un-britannique-a-traverse-le-detroit-d-ormuz-pour-alerter-sur-l-impact-environnemental-de-la-guerre_8293931.html": "2026-11-21T19:24:07.078797+00:00",
-  "https://www.franceinfo.fr/culture/patrimoine/ecosse-un-francais-qui-voulait-s-assoir-sur-une-relique-royale-ancestrale-exposee-a-perth-plaide-coupable-pour-des-faits-de-degradation-volontaire_8293961.html": "2026-11-21T19:24:07.078797+00:00",
-  "https://www.franceinfo.fr/monde/royaume-uni/mobilite-des-jeunes-commerce-quotas-d-emissions-carbone-ce-que-prevoient-les-accords-conclus-entre-le-royaume-uni-et-l-union-europeenne_8293715.html": "2026-11-21T19:24:07.078797+00:00",
-  "https://www.franceinfo.fr/monde/bresil/l-ex-president-bresilien-jair-bolsonaro-en-soins-intensifs-pour-une-occlusion-intestinale_8294123.html": "2026-11-22T01:23:54.542744+00:00",
-  "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/guerre-en-ukraine-crise-sociale-sortie-de-l-ue-le-8h30-franceinfo-de-nicolas-dupont-aignan_8250490.html": "2026-11-22T11:35:37.599794+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-multiplication-des-incidents-militaires-fait-craindre-une-escalade-entre-la-russie-et-l-otan_8294615.html": "2026-11-22T11:35:37.599794+00:00",
-  "https://www.franceinfo.fr/societe/drogue/le-mexique-annonce-l-arrestation-de-chapo-isidro-un-baron-de-la-drogue-recherche-par-les-etats-unis_8294513.html": "2026-11-22T11:35:37.599794+00:00",
-  "https://www.franceinfo.fr/replay-radio/livre-actu/quand-la-chine-manipule-le-monde-le-bluff-de-la-chine-pour-imposer-son-leadership-sur-la-planete_8250472.html": "2026-11-22T11:35:37.599794+00:00",
-  "https://www.franceinfo.fr/monde/israel/elections-legislatives-en-israel/elections-legislatives-en-israel-le-centriste-gadi-eisenkot-invite-le-parti-de-benyamin-netanyahou-a-des-negociations-de-coalition_8294531.html": "2026-11-22T11:35:37.599794+00:00",
-  "https://www.franceinfo.fr/economie/bitcoin/donald-trump-recoit-les-plus-gros-detenteurs-de-sa-cryptomonnaie-qui-l-a-considerablement-enrichi_8294492.html": "2026-11-22T11:35:37.599794+00:00",
-  "https://www.franceinfo.fr/replay-jt/france-2/20-heures/la-tension-monte-entre-l-europe-et-la-russie-apres-plusieurs-incidents-militaires_8295158.html": "2026-11-22T19:47:20.739911+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/le-quai-d-orsay-repond-a-la-multiplication-des-incidents-entre-l-europe-et-la-russie-en-etant-calme-en-ne-se-laissant-pas-impressionner-et-en-renforcant-notre-determination_8295164.html": "2026-11-22T19:47:20.739911+00:00",
   "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/a-la-tete-de-vox-santiago-abascal-en-position-de-faiseur-de-roi-aux-elections-legislatives-en-espagne_8250499.html": "2026-11-22T19:47:20.739911+00:00",
-  "https://www.franceinfo.fr/replay-jt/france-2/13-heures/trois-jours-de-nage-dans-le-detroit-d-ormuz-le-britannique-lewis-pugh-denonce-les-consequences-environnementales-de-la-guerre-en-iran_8294930.html": "2026-11-22T19:47:20.739911+00:00",
   "https://www.franceinfo.fr/monde/espagne/on-a-decouvert-une-facette-plus-personnelle-des-candidats-en-espagne-un-youtubeur-catalan-s-invite-dans-la-campagne-electorale_8294702.html": "2026-11-22T19:47:20.739911+00:00",
   "https://www.franceinfo.fr/monde/moyen-orient/une-frappe-iranienne-sur-un-site-industriel-civil-fait-deux-blesses-a-bahrein_8294927.html": "2026-11-22T19:47:20.739911+00:00",
-  "https://www.franceinfo.fr/monde/iran/crise-dans-le-detroit-d-ormuz/en-pleine-guerre-un-nageur-britannique-traverse-une-partie-du-detroit-d-ormuz_8294921.html": "2026-11-22T19:47:20.739911+00:00",
   "https://www.franceinfo.fr/replay-radio/l-invite-culture/sabyl-ghoussoub-j-ai-avant-tout-ecrit-un-livre-d-amour_8250466.html": "2026-11-22T19:47:20.739911+00:00",
   "https://www.franceinfo.fr/monde/israel/une-enquete-ouverte-apres-des-incendies-imputes-a-des-colons-israeliens-en-cisjordanie-occupee_8294669.html": "2026-11-22T19:47:20.739911+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-les-ecoles-d-odessa-passent-a-l-enseignement-en-distanciel-apres-des-frappes-russes-sur-le-reseau-electrique_8294744.html": "2026-11-22T19:47:20.739911+00:00",
-  "https://www.franceinfo.fr/environnement/les-consequences-de-la-guerre-sont-tres-durables-trois-jours-de-nage-dans-le-detroit-d-ormuz-pour-denoncer-les-dommages-subis-par-l-environnement_8295212.html": "2026-11-23T01:47:38.291275+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/les-objets-volants-tombes-vendredi-en-pologne-etaient-des-missiles-de-croisiere-fabriques-en-russie-annonce-le-parquet-de-lublin_8295188.html": "2026-11-23T01:47:38.291275+00:00",
   "https://www.franceinfo.fr/monde/turquie/en-turquie-des-milliers-de-personnes-manifestent-a-istanbul-contre-la-fermeture-de-medias-d-opposition_8295182.html": "2026-11-23T01:47:38.291275+00:00",
-  "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/reportage-des-etincelles-tombaient-du-ciel-comme-de-la-pluie-la-cop31-a-l-epreuve-des-incendies-a-repetition-dans-la-region-d-antalya_8276642.html": "2026-11-23T01:47:38.291275+00:00"
+  "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/reportage-des-etincelles-tombaient-du-ciel-comme-de-la-pluie-la-cop31-a-l-epreuve-des-incendies-a-repetition-dans-la-region-d-antalya_8276642.html": "2026-11-23T01:47:38.291275+00:00",
+  "https://www.franceinfo.fr/monde/japon/on-m-a-d-abord-regardee-comme-une-personne-bizarre-au-japon-de-plus-en-plus-d-habitants-se-tournent-vers-des-dumbphones-sans-internet_8296001.html": "2026-11-23T13:01:24.247564+00:00",
+  "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/l-iran-dit-qu-il-usera-de-tous-les-moyens-disponibles-face-au-blocus-de-ses-ports-impose-par-les-etats-unis_8295947.html": "2026-11-23T13:01:24.247564+00:00",
+  "https://www.franceinfo.fr/monde/espagne/le-premier-ministre-espagnol-pedro-sanchez-propose-de-taxer-les-patrimoines-superieurs-a-100-millions-d-euros_8295806.html": "2026-11-23T13:01:24.247564+00:00",
+  "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/en-coree-du-sud-l-ia-passe-devant-les-stars-de-la-k-pop_8273894.html": "2026-11-23T13:01:24.247564+00:00",
+  "https://www.franceinfo.fr/monde/israel/reportage-vivre-ensemble-je-suis-tres-reserve-en-israel-les-tensions-au-parlement-se-reportent-dans-les-villes-ou-juifs-et-arabes-cohabitent_8295626.html": "2026-11-23T13:01:24.247564+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/une-operation-exemplaire-ce-que-l-on-sait-de-l-attaque-de-deux-navires-au-large-de-la-libye-revendiquee-par-l-ukraine_8295566.html": "2026-11-23T13:01:24.247564+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-volodymyr-zelensky-revendique-les-attaques-contre-deux-navires-russes-menees-au-large-de-la-libye_8295668.html": "2026-11-23T13:01:24.247564+00:00",
+  "https://www.franceinfo.fr/replay-radio/le-monde-et-vous/de-dalida-aux-manifestations-au-japon-un-refrain-francais-devient-l-hymne-des-manifestants_8273876.html": "2026-11-23T13:01:24.247564+00:00",
+  "https://www.franceinfo.fr/monde/royaume-uni/une-salle-de-concert-de-manchester-en-angleterre-evacuee-apres-la-diffusion-d-une-substance-inconnue_8295647.html": "2026-11-23T13:01:24.247564+00:00",
+  "https://www.franceinfo.fr/monde/usa/police-de-l-immigration-americaine/a-l-aeroport-de-seattle-deux-personnes-violemment-interpellees-par-l-ice_8295653.html": "2026-11-23T13:01:24.247564+00:00",
+  "https://www.franceinfo.fr/monde/usa/midterms-2018/midterms-2026-l-essentiel-des-elections-de-mi-mandat/": "2026-11-23T13:01:24.247564+00:00",
+  "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/leon-xiv-en-france-retrouvez-l-essentiel/": "2026-11-23T13:01:24.247564+00:00",
+  "https://www.franceinfo.fr/monde/usa/affaire-jeffrey-epstein/l-essentiel-des-revelations-sur-l-affaire-epstein/": "2026-11-23T13:01:24.247564+00:00",
+  "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/tout-comprendre-a-la-guerre-au-moyen-orient/": "2026-11-23T13:01:24.247564+00:00",
+  "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/echec-des-negociations-engagements-sur-l-electrification-financements-ce-qu-il-faut-retenir-de-la-cop31-d-antalya-sur-le-climat_8290226.html": "2026-11-23T13:01:24.247564+00:00",
+  "https://www.franceinfo.fr/monde/usa/midterms-2018/midterms-2026-l-essentiel-des-elections-de-mi-mandat/apres-les-elections-de-mi-mandat-aux-etats-unis-les-democrates-auront-la-plus-large-majorite-depuis-1992-a-la-chambre-des-representants_8295608.html": "2026-11-23T13:01:24.247564+00:00",
+  "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/une-police-de-l-immigration-hors-de-controle-aux-etats-unis-une-arrestation-dans-un-aeroport-relance-la-polemique-sur-les-methodes-de-l-ice_8273897.html": "2026-11-23T13:01:24.247564+00:00",
+  "https://www.franceinfo.fr/replay-radio/le-brief-eco/paris-et-berlin-critiquent-le-projet-de-budget-europeen_8273912.html": "2026-11-23T13:01:24.247564+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-des-frappes-russes-font-au-moins-14-morts-dans-la-region-de-kiev_8295389.html": "2026-11-23T13:01:24.247564+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "\"Les conséquences de la guerre sont très durables\" : trois jours de nage dans le détroit d'Ormuz pour dénoncer les dommages subis par l'environnement La COP 31 s’est clôturée sur un échec cuisant, anachronique face aux urgences climatiques et à leurs conséquences. Les pays du Golfe, notamment, se sont opposés à toute réduction de la production d’hydrocarbures. Direction le détroit d’Ormuz, où un nageur a décidé, en se filmant lors de sa traversée, d’envoyer un message sur l’impact écologique du conflit qui se joue depuis des mois sur place. Aujourd'hui 1:39 vidéo 1 minute 39",
-   "link": "https://www.franceinfo.fr/environnement/les-consequences-de-la-guerre-sont-tres-durables-trois-jours-de-nage-dans-le-detroit-d-ormuz-pour-denoncer-les-dommages-subis-par-l-environnement_8295212.html",
-   "summary": "\"Les conséquences de la guerre sont très durables\" : trois jours de nage dans le détroit d'Ormuz pour dénoncer les dommages subis par l'environnement",
-   "image": "https://www.franceinfo.fr/pictures/_AV7qXi2pj_r_kGIpTic3L0xdtE/58x0:1541x1020/432x297/filters:format(jpg)/2026/11/22/6b0354a38e83d302715446.png",
+   "title": "\"On m'a d'abord regardée comme une personne bizarre\" : au Japon, de plus en plus d'habitants se tournent vers des \"dumbphones\" sans internet Face à la demande grandissante, l'opérateur japonais KDDI ressortira en décembre un appareil juste... pour téléphoner et échanger des SMS. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/japon/on-m-a-d-abord-regardee-comme-une-personne-bizarre-au-japon-de-plus-en-plus-d-habitants-se-tournent-vers-des-dumbphones-sans-internet_8296001.html",
+   "summary": "\"On m'a d'abord regardée comme une personne bizarre\" : au Japon, de plus en plus d'habitants se tournent vers des \"dumbphones\" sans internet",
+   "image": "https://www.franceinfo.fr/pictures/CtVMS_ZjP3h_Gn4Nw6YXbbh5j1g/16x0:1008x682/432x297/filters:format(jpg)/2026/11/23/6b042daddfd30083510164.jpg",
    "date": null,
-   "pubdate": "2026-11-23T01:47:38.291275+00:00"
+   "pubdate": "2026-11-23T13:01:24.247564+00:00"
   },
   {
-   "title": "Les objets volants tombés vendredi en Pologne étaient des missiles de croisière fabriqués en Russie, annonce le parquet de Lublin Aujourd'hui",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/les-objets-volants-tombes-vendredi-en-pologne-etaient-des-missiles-de-croisiere-fabriques-en-russie-annonce-le-parquet-de-lublin_8295188.html",
-   "summary": "Les objets volants tombés vendredi en Pologne étaient des missiles de croisière fabriqués en Russie, annonce le parquet de Lublin",
-   "image": "https://www.franceinfo.fr/pictures/SwyRpU4ks3pdkWsoBwrDmWFFgOs/29x0:994x543/432x243/filters:format(jpg)/2026/11/22/6b034cd448212394756538.jpg",
+   "title": "L'Iran dit qu'il usera de \"tous les moyens\" disponibles face au blocus de ses ports imposé par les Etats-Unis Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/l-iran-dit-qu-il-usera-de-tous-les-moyens-disponibles-face-au-blocus-de-ses-ports-impose-par-les-etats-unis_8295947.html",
+   "summary": "L'Iran dit qu'il usera de \"tous les moyens\" disponibles face au blocus de ses ports imposé par les Etats-Unis",
+   "image": "https://www.franceinfo.fr/pictures/uX-OAQJun24RqZS2GMk7RkbxsaE/0x519:7200x4569/432x243/filters:format(jpg)/2026/11/23/6b0422e250428560709745.jpg",
    "date": null,
-   "pubdate": "2026-11-23T01:47:38.291275+00:00"
+   "pubdate": "2026-11-23T13:01:24.247564+00:00"
   },
   {
-   "title": "En Turquie, des milliers de personnes manifestent à Istanbul contre la fermeture de médias d'opposition Aujourd'hui",
-   "link": "https://www.franceinfo.fr/monde/turquie/en-turquie-des-milliers-de-personnes-manifestent-a-istanbul-contre-la-fermeture-de-medias-d-opposition_8295182.html",
-   "summary": "En Turquie, des milliers de personnes manifestent à Istanbul contre la fermeture de médias d'opposition",
-   "image": "https://www.franceinfo.fr/pictures/2Sjw3fRrYMws8nLJJFFIcj436x4/0x53:1024x629/432x243/filters:format(jpg)/2026/11/22/6b034ab6d9b37774545656.jpg",
+   "title": "Le Premier ministre espagnol, Pedro Sanchez, propose de taxer les patrimoines supérieurs à 100 millions d'euros Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/espagne/le-premier-ministre-espagnol-pedro-sanchez-propose-de-taxer-les-patrimoines-superieurs-a-100-millions-d-euros_8295806.html",
+   "summary": "Le Premier ministre espagnol, Pedro Sanchez, propose de taxer les patrimoines supérieurs à 100 millions d'euros",
+   "image": "https://www.franceinfo.fr/pictures/HlMmXw0hDMBc5rG_ONDGtaB3VwQ/0x285:3483x2245/432x243/filters:format(jpg)/2026/11/23/6b0418f44ebd3436061224.jpg",
    "date": null,
-   "pubdate": "2026-11-23T01:47:38.291275+00:00"
+   "pubdate": "2026-11-23T13:01:24.247564+00:00"
+  },
+  {
+   "title": "En Corée du Sud, l'IA passe devant les stars de la K-pop Aujourd'hui 2:42 audio 2 minutes 42",
+   "link": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/en-coree-du-sud-l-ia-passe-devant-les-stars-de-la-k-pop_8273894.html",
+   "summary": "En Corée du Sud, l'IA passe devant les stars de la K-pop",
+   "image": "https://www.franceinfo.fr/pictures/B92qlnw92Plj10oJtQecW1dpETE/0x0:1024x576/432x243/filters:format(jpg)/2026/11/23/6b040d1a42019587904430.jpg",
+   "date": null,
+   "pubdate": "2026-11-23T13:01:24.247564+00:00"
+  },
+  {
+   "title": ": Reportage \"Vivre ensemble ? Je suis très réservé\" : en Israël, les tensions au Parlement se reportent dans les villes où juifs et arabes cohabitent Aujourd'hui : Reportage",
+   "link": "https://www.franceinfo.fr/monde/israel/reportage-vivre-ensemble-je-suis-tres-reserve-en-israel-les-tensions-au-parlement-se-reportent-dans-les-villes-ou-juifs-et-arabes-cohabitent_8295626.html",
+   "summary": "\"Vivre ensemble ? Je suis très réservé\" : en Israël, les tensions au Parlement se reportent dans les villes où juifs et arabes cohabitent",
+   "image": "https://www.franceinfo.fr/pictures/ReBNfJiQ8ewZpSC2dge4lerezVY/0x53:1024x629/432x243/filters:format(jpg)/2026/11/23/6b03fa7d56461774783688.jpg",
+   "date": null,
+   "pubdate": "2026-11-23T13:01:24.247564+00:00"
+  },
+  {
+   "title": "\"Une opération exemplaire\" : ce que l'on sait de l'attaque de deux navires au large de la Libye revendiquée par l'Ukraine Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/une-operation-exemplaire-ce-que-l-on-sait-de-l-attaque-de-deux-navires-au-large-de-la-libye-revendiquee-par-l-ukraine_8295566.html",
+   "summary": "\"Une opération exemplaire\" : ce que l'on sait de l'attaque de deux navires au large de la Libye revendiquée par l'Ukraine",
+   "image": "https://www.franceinfo.fr/pictures/HUCT5qhB2YDrBnITzKhLojS-Ycg/0x0:1024x576/432x243/filters:format(jpg)/2026/11/23/6b03e95c99ff2242309389.jpg",
+   "date": null,
+   "pubdate": "2026-11-23T13:01:24.247564+00:00"
+  },
+  {
+   "title": "• Direct Guerre en Ukraine : Volodymyr Zelensky plaide pour des négociations de paix incluant l'Europe \"le plus tôt possible\" Aujourd'hui • Direct",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-volodymyr-zelensky-revendique-les-attaques-contre-deux-navires-russes-menees-au-large-de-la-libye_8295668.html",
+   "summary": "Guerre en Ukraine : Volodymyr Zelensky plaide pour des négociations de paix incluant l'Europe \"le plus tôt possible\"",
+   "image": "https://www.franceinfo.fr/pictures/ss_Il32p3qZ4jOsV5Oobruna1WM/0x137:3928x2347/432x243/filters:format(jpg)/2026/11/23/6b04014484cec667155238.jpg",
+   "date": null,
+   "pubdate": "2026-11-23T13:01:24.247564+00:00"
+  },
+  {
+   "title": "De Dalida aux manifestations au Japon, un refrain français devient l'hymne des manifestants Aujourd'hui 2:35 audio 2 minutes 35",
+   "link": "https://www.franceinfo.fr/replay-radio/le-monde-et-vous/de-dalida-aux-manifestations-au-japon-un-refrain-francais-devient-l-hymne-des-manifestants_8273876.html",
+   "summary": "De Dalida aux manifestations au Japon, un refrain français devient l'hymne des manifestants",
+   "image": "https://www.franceinfo.fr/pictures/mqRIchLVwyMZiQabaCxjVAZdm6Y/0x53:1024x629/432x243/filters:format(jpg)/2026/11/23/6b04005a37a6e028950887.jpg",
+   "date": null,
+   "pubdate": "2026-11-23T13:01:24.247564+00:00"
+  },
+  {
+   "title": "Une salle de concert de Manchester, en Angleterre, évacuée après la diffusion d'une \"substance inconnue\" Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/royaume-uni/une-salle-de-concert-de-manchester-en-angleterre-evacuee-apres-la-diffusion-d-une-substance-inconnue_8295647.html",
+   "summary": "Une salle de concert de Manchester, en Angleterre, évacuée après la diffusion d'une \"substance inconnue\"",
+   "image": "https://www.franceinfo.fr/pictures/HzQ-OpG9nKZq32GziEi7ih5ecYQ/0x0:3495x1965/432x243/filters:format(jpg)/2026/11/23/6b03f8c90c764237528096.jpg",
+   "date": null,
+   "pubdate": "2026-11-23T13:01:24.247564+00:00"
+  },
+  {
+   "title": "À l'aéroport de Seattle, deux personnes violemment interpellées par l'ICE Aujourd'hui 0:55 vidéo 55 secondes",
+   "link": "https://www.franceinfo.fr/monde/usa/police-de-l-immigration-americaine/a-l-aeroport-de-seattle-deux-personnes-violemment-interpellees-par-l-ice_8295653.html",
+   "summary": "À l'aéroport de Seattle, deux personnes violemment interpellées par l'ICE",
+   "image": "https://www.franceinfo.fr/pictures/49IIA09pW-9__O7GQ3oxIZy2Jh0/0x0:606x1078/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/23/6b03f89e75870010099377.png",
+   "date": null,
+   "pubdate": "2026-11-23T13:01:24.247564+00:00"
+  },
+  {
+   "title": "Midterms 2026 : l'essentiel des élections de mi-mandat 28 contenus",
+   "link": "https://www.franceinfo.fr/monde/usa/midterms-2018/midterms-2026-l-essentiel-des-elections-de-mi-mandat/",
+   "summary": "Midterms 2026 : l'essentiel des élections de mi-mandat",
+   "image": "https://www.franceinfo.fr/pictures/brT3BkVaFOL26KI_ApRVmr8Jytk/432x297/filters:format(jpg)/2026/10/29/6ae37a1b0991c168765960.jpg",
+   "date": null,
+   "pubdate": "2026-11-23T13:01:24.247564+00:00"
+  },
+  {
+   "title": "Léon XIV en France : l'essentiel de la visite du pape 15 contenus",
+   "link": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/leon-xiv-en-france-retrouvez-l-essentiel/",
+   "summary": "Léon XIV en France : l'essentiel de la visite du pape",
+   "image": "https://www.franceinfo.fr/pictures/bgiweXyFgu0BUNMikE3oBZK0JG4/432x297/filters:format(jpg)/2026/09/24/6ab4f4233a728679965697.jpg",
+   "date": null,
+   "pubdate": "2026-11-23T13:01:24.247564+00:00"
+  },
+  {
+   "title": "L'essentiel des révélations sur l'affaire Epstein 14 contenus",
+   "link": "https://www.franceinfo.fr/monde/usa/affaire-jeffrey-epstein/l-essentiel-des-revelations-sur-l-affaire-epstein/",
+   "summary": "L'essentiel des révélations sur l'affaire Epstein",
+   "image": "https://www.franceinfo.fr/pictures/btENVL4vmQDLNvnJ4uUtTATvN9k/432x297/filters:format(jpg)/2026/02/12/000-96rl2gk-1-698def9a11d8a867290796.jpg",
+   "date": null,
+   "pubdate": "2026-11-23T13:01:24.247564+00:00"
+  },
+  {
+   "title": "Tout comprendre à la guerre au Moyen-Orient 27 contenus",
+   "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/tout-comprendre-a-la-guerre-au-moyen-orient/",
+   "summary": "Tout comprendre à la guerre au Moyen-Orient",
+   "image": "https://www.franceinfo.fr/pictures/1mjbL6KrEfhdf8kkM-fiwv8Aqs4/432x297/filters:format(jpg)/2026/03/01/075-nikoubazl-mourning260301-npgop-69a44a7350cd8738092334.jpg",
+   "date": null,
+   "pubdate": "2026-11-23T13:01:24.247564+00:00"
+  },
+  {
+   "title": "Echec des négociations, engagements sur l'électrification, financements… Ce qu'il faut retenir de la COP31 d'Antalya sur le climat Après quinze jours de négociations, les pays du monde entier ont échoué à s'accorder sur un texte final. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/echec-des-negociations-engagements-sur-l-electrification-financements-ce-qu-il-faut-retenir-de-la-cop31-d-antalya-sur-le-climat_8290226.html",
+   "summary": "Echec des négociations, engagements sur l'électrification, financements… Ce qu'il faut retenir de la COP31 d'Antalya sur le climat",
+   "image": "https://www.franceinfo.fr/pictures/EkTVxgaTsdolUBu_rn1sYpmTX-M/0x134:3477x2090/432x243/filters:format(jpg)/2026/11/23/6b03f4efd77fa036958328.jpg",
+   "date": null,
+   "pubdate": "2026-11-23T13:01:24.247564+00:00"
+  },
+  {
+   "title": "Après les élections de mi-mandat aux Etats-Unis, les démocrates auront la plus large majorité depuis 1992 à la Chambre des représentants La victoire de leur candidat, Chuck Hubbard, en Caroline du Nord offre au parti démocrate un 258e siège sur 435 au sein de la prochaine Chambre. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/usa/midterms-2018/midterms-2026-l-essentiel-des-elections-de-mi-mandat/apres-les-elections-de-mi-mandat-aux-etats-unis-les-democrates-auront-la-plus-large-majorite-depuis-1992-a-la-chambre-des-representants_8295608.html",
+   "summary": "Après les élections de mi-mandat aux Etats-Unis, les démocrates auront la plus large majorité depuis 1992 à la Chambre des représentants",
+   "image": "https://www.franceinfo.fr/pictures/KbQnUWo54rkKkawoBuMk-mXXjk0/0x0:8383x4715/432x243/filters:format(jpg)/2026/11/23/6b03ef09ac5bc359584448.jpg",
+   "date": null,
+   "pubdate": "2026-11-23T13:01:24.247564+00:00"
+  },
+  {
+   "title": "Une police de l'immigration \"hors de contrôle\" : aux États-Unis, une arrestation dans un aéroport relance la polémique sur les méthodes de l'ICE Les images d'une arrestation brutale, dans un aéroport près de Seattle, de deux personnes par des agents de l'ICE, la police de l'immigration instaurée par Donald Trump, ont fait le tour du monde, entraînant de vives condamnations de ces méthodes. Aujourd'hui 3:05 audio 3 minutes 5",
+   "link": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/une-police-de-l-immigration-hors-de-controle-aux-etats-unis-une-arrestation-dans-un-aeroport-relance-la-polemique-sur-les-methodes-de-l-ice_8273897.html",
+   "summary": "Une police de l'immigration \"hors de contrôle\" : aux États-Unis, une arrestation dans un aéroport relance la polémique sur les méthodes de l'ICE",
+   "image": "https://www.franceinfo.fr/pictures/jwNucCDRcxIlnWpjCeJvZEcWbrk/132x0:1786x930/432x243/filters:format(jpg)/2026/11/23/6b03d71902638622192381.jpg",
+   "date": null,
+   "pubdate": "2026-11-23T13:01:24.247564+00:00"
+  },
+  {
+   "title": "Paris et Berlin critiquent le projet de budget européen Le débat autour du budget n’est pas uniquement franco-français, il est également européen. Paris et Berlin critiquent le dernier projet présenté ce week-end. Aujourd'hui 2:34 audio 2 minutes 34",
+   "link": "https://www.franceinfo.fr/replay-radio/le-brief-eco/paris-et-berlin-critiquent-le-projet-de-budget-europeen_8273912.html",
+   "summary": "Paris et Berlin critiquent le projet de budget européen",
+   "image": "https://www.franceinfo.fr/pictures/dsgGT2vUO5SyG5OHiOPBAsyUFUk/0x87:1024x663/432x243/filters:format(jpg)/2026/11/23/6b03e3abb6604406953317.jpg",
+   "date": null,
+   "pubdate": "2026-11-23T13:01:24.247564+00:00"
+  },
+  {
+   "title": "Des frappes russes font au moins 15 morts dans la région de Kiev, avant une réunion de l'Otan dans la journée sur la guerre en Ukraine Les bombardements ont touché un immeuble résidentiel, un supermarché et une habitation. La Russie a intensifié ses frappes contre la capitale ukrainienne ces six derniers mois et beaucoup redoutent que l'hiver soit le plus difficile depuis le début de la guerre. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-des-frappes-russes-font-au-moins-14-morts-dans-la-region-de-kiev_8295389.html",
+   "summary": "Des frappes russes font au moins 15 morts dans la région de Kiev, avant une réunion de l'Otan dans la journée sur la guerre en Ukraine",
+   "image": "https://www.franceinfo.fr/pictures/lTqzSfqYl5wJb2D51cGbZhjHZRI/0x0:3905x2196/432x243/filters:format(jpg)/2026/11/23/6b03cb5da432b679943522.jpg",
+   "date": null,
+   "pubdate": "2026-11-23T13:01:24.247564+00:00"
   },
   {
    "title": ": Reportage \"Des étincelles tombaient du ciel comme de la pluie\" : autour d'Antalya, la ville turque hôte de la COP31, la population éprouvée par les incendies à répétition : Reportage 5:00 article 5 minutes",
@@ -65,15 +196,23 @@
    "pubdate": "2026-11-23T01:47:38.291275+00:00"
   },
   {
-   "title": "La tension monte entre l'Europe et la Russie après plusieurs incidents militaires Aujourd'hui 2:09 vidéo 2 minutes 9",
-   "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/la-tension-monte-entre-l-europe-et-la-russie-apres-plusieurs-incidents-militaires_8295158.html",
-   "summary": "La tension monte entre l'Europe et la Russie après plusieurs incidents militaires",
-   "image": "https://www.franceinfo.fr/pictures/3yZOwULT2axlqlUi1zAPQbG2qOc/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/22/6b03452fa042e747058214.jpg",
+   "title": "Les objets volants tombés vendredi en Pologne étaient des missiles de croisière fabriqués en Russie, annonce le parquet de Lublin La chute de ces objets, suivie dans au moins un cas d'une explosion et d'un incendie, n'avait pas fait de blessés. 22 novembre",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/les-objets-volants-tombes-vendredi-en-pologne-etaient-des-missiles-de-croisiere-fabriques-en-russie-annonce-le-parquet-de-lublin_8295188.html",
+   "summary": "Les objets volants tombés vendredi en Pologne étaient des missiles de croisière fabriqués en Russie, annonce le parquet de Lublin",
+   "image": "https://www.franceinfo.fr/pictures/SwyRpU4ks3pdkWsoBwrDmWFFgOs/29x0:994x543/432x243/filters:format(jpg)/2026/11/22/6b034cd448212394756538.jpg",
    "date": null,
-   "pubdate": "2026-11-22T19:47:20.739911+00:00"
+   "pubdate": "2026-11-23T01:47:38.291275+00:00"
   },
   {
-   "title": "Le Quai d'Orsay répond à la multiplication des incidents entre l'Europe et la Russie \"en étant calme, en ne se laissant pas impressionner et en renforçant notre détermination\" Aujourd'hui",
+   "title": "En Turquie, des milliers de personnes manifestent à Istanbul contre la fermeture de médias d'opposition Cette mobilisation fait suite à une descente de police mardi au siège de la chaîne d'opposition Sözcü TV et de son groupe. 22 novembre",
+   "link": "https://www.franceinfo.fr/monde/turquie/en-turquie-des-milliers-de-personnes-manifestent-a-istanbul-contre-la-fermeture-de-medias-d-opposition_8295182.html",
+   "summary": "En Turquie, des milliers de personnes manifestent à Istanbul contre la fermeture de médias d'opposition",
+   "image": "https://www.franceinfo.fr/pictures/2Sjw3fRrYMws8nLJJFFIcj436x4/0x53:1024x629/432x243/filters:format(jpg)/2026/11/22/6b034ab6d9b37774545656.jpg",
+   "date": null,
+   "pubdate": "2026-11-23T01:47:38.291275+00:00"
+  },
+  {
+   "title": "Le Quai d'Orsay répond à la multiplication des incidents entre l'Europe et la Russie \"en étant calme, en ne se laissant pas impressionner et en renforçant notre détermination\" Pascal Confavreux, porte-parole du Quai d'Orsay, rappelle sur franceinfo que la réponse de la France s'articule autour d'un \"soutien à l'Ukraine\", d'une \"augmentation de la pression sur la Russie\" et de \"la préparation de l'après\". 22 novembre",
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/le-quai-d-orsay-repond-a-la-multiplication-des-incidents-entre-l-europe-et-la-russie-en-etant-calme-en-ne-se-laissant-pas-impressionner-et-en-renforcant-notre-determination_8295164.html",
    "summary": "Le Quai d'Orsay répond à la multiplication des incidents entre l'Europe et la Russie \"en étant calme, en ne se laissant pas impressionner et en renforçant notre détermination\"",
    "image": "https://www.franceinfo.fr/pictures/UOgDiHCxcEGN0f59Y5_G90jGglQ/0x0:1194x671/432x243/filters:format(jpg)/2026/05/05/69f98a2717349871399109.jpg",
@@ -81,7 +220,7 @@
    "pubdate": "2026-11-22T19:47:20.739911+00:00"
   },
   {
-   "title": "À la tête de Vox, Santiago Abascal en position de faiseur de roi aux élections législatives en Espagne Aujourd'hui 3:01 audio 3 minutes 1",
+   "title": "À la tête de Vox, Santiago Abascal en position de faiseur de roi aux élections législatives en Espagne Le 29 novembre, les Espagnols sont appelés aux urnes pour des législatives anticipées qui se tiennent avec près d'un an d'avance. Le parti d'extrême droite Vox est particulièrement scruté. 22 novembre 3:01 audio 3 minutes 1",
    "link": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/a-la-tete-de-vox-santiago-abascal-en-position-de-faiseur-de-roi-aux-elections-legislatives-en-espagne_8250499.html",
    "summary": "À la tête de Vox, Santiago Abascal en position de faiseur de roi aux élections législatives en Espagne",
    "image": "https://www.franceinfo.fr/pictures/v-P1Z7upEqZmIhcXa6HbvVWUJvE/0x522:5770x3769/432x243/filters:format(jpg)/2026/11/22/6b032c47e037b595310681.jpg",
@@ -89,15 +228,7 @@
    "pubdate": "2026-11-22T19:47:20.739911+00:00"
   },
   {
-   "title": "Après trois jours de nage dans le détroit d'Ormuz, le Britannique Lewis Pugh dénonce les conséquences environnementales de la guerre en Iran Aujourd'hui 1:40 vidéo 1 minute 40",
-   "link": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/trois-jours-de-nage-dans-le-detroit-d-ormuz-le-britannique-lewis-pugh-denonce-les-consequences-environnementales-de-la-guerre-en-iran_8294930.html",
-   "summary": "Après trois jours de nage dans le détroit d'Ormuz, le Britannique Lewis Pugh dénonce les conséquences environnementales de la guerre en Iran",
-   "image": "https://www.franceinfo.fr/pictures/quEv5B5cc-yYCbcb5-xrXmHqoG0/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/22/6b02fcab024b5775276651.jpg",
-   "date": null,
-   "pubdate": "2026-11-22T19:47:20.739911+00:00"
-  },
-  {
-   "title": "\"On a découvert une facette plus personnelle des candidats\" : en Espagne, un youtubeur catalan s’invite dans la campagne électorale Aujourd'hui",
+   "title": "\"On a découvert une facette plus personnelle des candidats\" : en Espagne, un youtubeur catalan s’invite dans la campagne électorale Le youtubeur Jordi Wild a reçu les principaux candidats dans son podcast, suivi par des millions de jeunes. Seul le leader de Vox, Santiago Abascal, a annulé son entretien au dernier moment. 22 novembre",
    "link": "https://www.franceinfo.fr/monde/espagne/on-a-decouvert-une-facette-plus-personnelle-des-candidats-en-espagne-un-youtubeur-catalan-s-invite-dans-la-campagne-electorale_8294702.html",
    "summary": "\"On a découvert une facette plus personnelle des candidats\" : en Espagne, un youtubeur catalan s’invite dans la campagne électorale",
    "image": "https://www.franceinfo.fr/pictures/qTKoQWlP71gdvBUcZcmzx7TMikE/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/22/6b02cd9641f85379054779.png",
@@ -105,7 +236,7 @@
    "pubdate": "2026-11-22T19:47:20.739911+00:00"
   },
   {
-   "title": "Une frappe iranienne sur un \"site industriel civil\" fait deux blessés à Bahreïn Aujourd'hui",
+   "title": "Une frappe iranienne sur un \"site industriel civil\" fait deux blessés à Bahreïn Les Gardiens de la Révolution ont revendiqué samedi soir des frappes contre des installations américaines en réponse aux \"violations continues de l'espace aérien\" iranien. 22 novembre",
    "link": "https://www.franceinfo.fr/monde/moyen-orient/une-frappe-iranienne-sur-un-site-industriel-civil-fait-deux-blesses-a-bahrein_8294927.html",
    "summary": "Une frappe iranienne sur un \"site industriel civil\" fait deux blessés à Bahreïn",
    "image": "https://www.franceinfo.fr/pictures/nmVbAoIPuX_VZ3RYz1OgO5j3gCQ/0x246:4718x2899/432x243/filters:format(jpg)/2026/11/22/6b02fe42e41d1059677693.jpg",
@@ -113,15 +244,7 @@
    "pubdate": "2026-11-22T19:47:20.739911+00:00"
   },
   {
-   "title": "En pleine guerre, un nageur britannique traverse une partie du détroit d'Ormuz Aujourd'hui 1:38 vidéo 1 minute 38",
-   "link": "https://www.franceinfo.fr/monde/iran/crise-dans-le-detroit-d-ormuz/en-pleine-guerre-un-nageur-britannique-traverse-une-partie-du-detroit-d-ormuz_8294921.html",
-   "summary": "En pleine guerre, un nageur britannique traverse une partie du détroit d'Ormuz",
-   "image": "https://www.franceinfo.fr/pictures/Dxq67HZnfMhFJaChQG1vZjNbHlI/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/22/6b02f8a50f8a8774683684.png",
-   "date": null,
-   "pubdate": "2026-11-22T19:47:20.739911+00:00"
-  },
-  {
-   "title": "Sabyl Ghoussoub : \"j'ai avant tout écrit un livre d'amour\" Dans \"Mon Imam\" Sabyl Ghoussoub brise des tabous sur la religion puisqu'il est question de sexualité dans l'Islam. Mais c'est avant tout un roman en liberté où l'auteur se cherche lui-même dans le chaos du Moyen-Orient. Aujourd'hui 8:11 audio 8 minutes 11",
+   "title": "Sabyl Ghoussoub : \"j'ai avant tout écrit un livre d'amour\" Dans \"Mon Imam\" Sabyl Ghoussoub brise des tabous sur la religion puisqu'il est question de sexualité dans l'Islam. Mais c'est avant tout un roman en liberté où l'auteur se cherche lui-même dans le chaos du Moyen-Orient. 22 novembre 8:11 audio 8 minutes 11",
    "link": "https://www.franceinfo.fr/replay-radio/l-invite-culture/sabyl-ghoussoub-j-ai-avant-tout-ecrit-un-livre-d-amour_8250466.html",
    "summary": "Sabyl Ghoussoub : \"j'ai avant tout écrit un livre d'amour\"",
    "image": "https://www.franceinfo.fr/pictures/kb8W8NgqFNI94RUR_WXCgFmL-J4/0x173:3336x2050/432x243/filters:format(jpg)/2023/08/10/64d4bbdaba273_000-32ta6x9.jpg",
@@ -129,100 +252,12 @@
    "pubdate": "2026-11-22T19:47:20.739911+00:00"
   },
   {
-   "title": "En Cisjordanie occupée, une enquête ouverte après des incendies imputés à des colons israéliens Gadi Eisenkot, rival du Premier ministre sortant Benyamin Nétanyahou et chargé par le chef de l'Etat de former un gouvernement, a dénoncé ces actes, qu'il a qualifiés de \"terrorisme juif\" ébranlant \"la stabilité régionale\". Aujourd'hui",
+   "title": "En Cisjordanie occupée, une enquête ouverte après des incendies imputés à des colons israéliens Gadi Eisenkot, rival du Premier ministre sortant Benyamin Nétanyahou et chargé par le chef de l'Etat de former un gouvernement, a dénoncé ces actes, qu'il a qualifiés de \"terrorisme juif\" ébranlant \"la stabilité régionale\". 22 novembre",
    "link": "https://www.franceinfo.fr/monde/israel/une-enquete-ouverte-apres-des-incendies-imputes-a-des-colons-israeliens-en-cisjordanie-occupee_8294669.html",
    "summary": "En Cisjordanie occupée, une enquête ouverte après des incendies imputés à des colons israéliens",
    "image": "https://www.franceinfo.fr/pictures/Yd2KJQH4vcgGaUVHg2I_xsPEdEU/0x0:1024x576/432x243/filters:format(jpg)/2026/11/22/6b02e664b7b85907440585.jpg",
    "date": null,
    "pubdate": "2026-11-22T19:47:20.739911+00:00"
-  },
-  {
-   "title": "Guerre en Ukraine : les écoles d'Odessa passent à l'enseignement à distance après des frappes russes sur le réseau électrique Le fournisseur d'énergie Ukrenergo a prévenu dimanche que \"l'ampleur des destructions\" rend \"physiquement impossible de fournir la quantité d'électricité requise aux consommateurs\" dans la région. Aujourd'hui",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-les-ecoles-d-odessa-passent-a-l-enseignement-en-distanciel-apres-des-frappes-russes-sur-le-reseau-electrique_8294744.html",
-   "summary": "Guerre en Ukraine : les écoles d'Odessa passent à l'enseignement à distance après des frappes russes sur le réseau électrique",
-   "image": "https://www.franceinfo.fr/pictures/3FaQ_4KbQhGQntQbvbr-utY4oHA/0x0:1024x576/432x243/filters:format(jpg)/2026/11/22/6b02d80381191001648364.jpg",
-   "date": null,
-   "pubdate": "2026-11-22T19:47:20.739911+00:00"
-  },
-  {
-   "title": "Guerre en Ukraine, crise sociale, sortie de l'UE... Le 8h30 franceinfo de Nicolas Dupont-Aignan Le 8h30 franceinfo de Nicolas Dupont-Aignan, candidat Debout la France à la présidentielle. Aujourd'hui 20:03 audio 20 minutes 3",
-   "link": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/guerre-en-ukraine-crise-sociale-sortie-de-l-ue-le-8h30-franceinfo-de-nicolas-dupont-aignan_8250490.html",
-   "summary": "Guerre en Ukraine, crise sociale, sortie de l'UE... Le 8h30 franceinfo de Nicolas Dupont-Aignan",
-   "image": "https://www.franceinfo.fr/pictures/w_jFJpek5-jPRDLNfBdpmTellTI/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/22/6b02c12492d6c751119068.jpg",
-   "date": null,
-   "pubdate": "2026-11-22T11:35:37.599794+00:00"
-  },
-  {
-   "title": "La multiplication des incidents militaires fait craindre une escalade entre la Russie et l'Otan Alors que la Finlande soupçonne un hélicoptère russe d'avoir violé son espace aérien, les incidents se multiplient sur tout l'arc est-européen, de la mer Baltique à la mer Noire. Aujourd'hui",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-multiplication-des-incidents-militaires-fait-craindre-une-escalade-entre-la-russie-et-l-otan_8294615.html",
-   "summary": "La multiplication des incidents militaires fait craindre une escalade entre la Russie et l'Otan",
-   "image": "https://www.franceinfo.fr/pictures/fWzVq8A7eNQqAiIsRfgMkjBAFbA/0x320:6144x3776/432x243/filters:format(jpg)/2026/11/22/6b02ad8bb8b6d381659529.jpg",
-   "date": null,
-   "pubdate": "2026-11-22T11:35:37.599794+00:00"
-  },
-  {
-   "title": "Le Mexique annonce l'arrestation de Chapo Isidro, un baron de la drogue recherché par les Etats-Unis Ce narcotrafiquant de 44 ans fait l'objet de poursuites dans les deux pays. Le FBI offrait une récompense de cinq millions de dollars pour son arrestation. Aujourd'hui",
-   "link": "https://www.franceinfo.fr/societe/drogue/le-mexique-annonce-l-arrestation-de-chapo-isidro-un-baron-de-la-drogue-recherche-par-les-etats-unis_8294513.html",
-   "summary": "Le Mexique annonce l'arrestation de Chapo Isidro, un baron de la drogue recherché par les Etats-Unis",
-   "image": "https://www.franceinfo.fr/pictures/dBAUKUhl0XoQ2k5heJLeTgsM_V0/0x0:1024x576/432x243/filters:format(jpg)/2026/11/22/6b02b76ae8883917963460.jpg",
-   "date": null,
-   "pubdate": "2026-11-22T11:35:37.599794+00:00"
-  },
-  {
-   "title": "\"Quand la Chine manipule le monde\", le bluff de la Chine pour imposer son leadership sur la planète. Cette semaine, une spécialiste des relations internationales montre comment la Chine met en scène sa puissance pour faire oublier ses faiblesses et décourager ses adversaires. Aujourd'hui 2:31 audio 2 minutes 31",
-   "link": "https://www.franceinfo.fr/replay-radio/livre-actu/quand-la-chine-manipule-le-monde-le-bluff-de-la-chine-pour-imposer-son-leadership-sur-la-planete_8250472.html",
-   "summary": "\"Quand la Chine manipule le monde\", le bluff de la Chine pour imposer son leadership sur la planète.",
-   "image": "https://www.franceinfo.fr/pictures/NMNfccrvNMMwGIpqjKUDF4Q5Hf8/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/19/6afeae5941a4e764965401.jpg",
-   "date": null,
-   "pubdate": "2026-11-22T11:35:37.599794+00:00"
-  },
-  {
-   "title": "Elections législatives en Israël : Gadi Eisenkot invite le parti de Benyamin Nétanyahou à des négociations de coalition Le bloc centriste reste divisé sur la marche à suivre pour s'assurer une majorité gouvernementale, entre alliance avec les ultra-orthodoxes, pacte avec les partis arabes ou gouvernement d'union nationale avec le Premier ministre sortant. Aujourd'hui",
-   "link": "https://www.franceinfo.fr/monde/israel/elections-legislatives-en-israel/elections-legislatives-en-israel-le-centriste-gadi-eisenkot-invite-le-parti-de-benyamin-netanyahou-a-des-negociations-de-coalition_8294531.html",
-   "summary": "Elections législatives en Israël : Gadi Eisenkot invite le parti de Benyamin Nétanyahou à des négociations de coalition",
-   "image": "https://www.franceinfo.fr/pictures/tyM5wInj3kGZX6ohoUfm2BKKi28/0x39:1024x615/432x243/filters:format(jpg)/2026/11/22/6b02a91e6b218880640774.jpg",
-   "date": null,
-   "pubdate": "2026-11-22T11:35:37.599794+00:00"
-  },
-  {
-   "title": "Donald Trump reçoit les plus gros détenteurs de sa cryptomonnaie, qui l'a considérablement enrichi Donald Trump reçoit ce dimanche 22 novembre les 185 plus gros détenteurs de sa cryptomonnaie, le Trump Coin, lors d'un gala organisé près de Washington. Une nouvelle illustration des liens étroits entre le président américain, son enrichissement personnel et une industrie qui a largement bénéficié de sa politique. Aujourd'hui",
-   "link": "https://www.franceinfo.fr/economie/bitcoin/donald-trump-recoit-les-plus-gros-detenteurs-de-sa-cryptomonnaie-qui-l-a-considerablement-enrichi_8294492.html",
-   "summary": "Donald Trump reçoit les plus gros détenteurs de sa cryptomonnaie, qui l'a considérablement enrichi",
-   "image": "https://www.franceinfo.fr/pictures/1Iar3DqphPW7rjpljouagCAeRHw/0x0:5979x3363/432x243/filters:format(jpg)/2026/11/22/6b028ff0741b0853142640.jpg",
-   "date": null,
-   "pubdate": "2026-11-22T11:35:37.599794+00:00"
-  },
-  {
-   "title": "L'ex-président brésilien Jair Bolsonaro en soins intensifs pour une occlusion intestinale L'ancien dirigeant souffre de séquelles d'un coup de couteau au ventre reçu pendant la campagne électorale de 2018 et a été opéré à plusieurs reprises. 21 novembre",
-   "link": "https://www.franceinfo.fr/monde/bresil/l-ex-president-bresilien-jair-bolsonaro-en-soins-intensifs-pour-une-occlusion-intestinale_8294123.html",
-   "summary": "L'ex-président brésilien Jair Bolsonaro en soins intensifs pour une occlusion intestinale",
-   "image": "https://www.franceinfo.fr/pictures/qEnQfSBSqslI1EkPD6GR4utZtd4/0x53:1024x629/432x243/filters:format(jpg)/2026/11/21/6b01f7e25ff61777534564.jpg",
-   "date": null,
-   "pubdate": "2026-11-22T01:23:54.542744+00:00"
-  },
-  {
-   "title": "\"Les explosions ont secoué la mer autour de moi\" : le Britannique Lewis Pugh a nagé dans le détroit d'Ormuz pour alerter sur l'impact environnemental de la guerre Sur des photos publiées sur les réseaux sociaux par le sportif, figure notamment un navire en feu, vraisemblablement après une attaque survenue dans cette zone au cœur de la guerre qui oppose l'Iran et les Etats-Unis depuis février. 21 novembre",
-   "link": "https://www.franceinfo.fr/monde/moyen-orient/les-explosions-ont-secoue-la-mer-autour-de-moi-un-britannique-a-traverse-le-detroit-d-ormuz-pour-alerter-sur-l-impact-environnemental-de-la-guerre_8293931.html",
-   "summary": "\"Les explosions ont secoué la mer autour de moi\" : le Britannique Lewis Pugh a nagé dans le détroit d'Ormuz pour alerter sur l'impact environnemental de la guerre",
-   "image": "https://www.franceinfo.fr/pictures/HzbbDCDBy68YDWLkym6BmLuUMss/0x312:6000x3687/432x243/filters:format(jpg)/2026/11/21/6b01dae4bc57c370644355.jpg",
-   "date": null,
-   "pubdate": "2026-11-21T19:24:07.078797+00:00"
-  },
-  {
-   "title": "Écosse : un Français qui voulait s'assoir sur une relique royale ancestrale exposée à Perth plaide coupable pour des faits de dégradation volontaire En 2025, cet homme de 36 ans avait attaqué à coups de marteau une vitrine contenant la \"Pierre du Destin\", un bloc de grès utilisé lors du couronnement des rois en Écosse. Il sera fixé sur son sort le 6 janvier. 21 novembre",
-   "link": "https://www.franceinfo.fr/culture/patrimoine/ecosse-un-francais-qui-voulait-s-assoir-sur-une-relique-royale-ancestrale-exposee-a-perth-plaide-coupable-pour-des-faits-de-degradation-volontaire_8293961.html",
-   "summary": "Écosse : un Français qui voulait s'assoir sur une relique royale ancestrale exposée à Perth plaide coupable pour des faits de dégradation volontaire",
-   "image": "https://www.franceinfo.fr/pictures/tmfTltjOfeVnC295LsUJ7BxCjHQ/0x190:1024x766/432x243/filters:format(jpg)/2026/11/21/6b01d06ff0196762575549.jpg",
-   "date": null,
-   "pubdate": "2026-11-21T19:24:07.078797+00:00"
-  },
-  {
-   "title": "Mobilité des jeunes, commerce, quotas d'émissions carbone… Ce que prévoient les accords conclus entre le Royaume-Uni et l'Union européenne Cette nouvelle alliance, destinée à rapprocher les deux côtés de la Manche après les années houleuses du Brexit, a été qualifiée vendredi de \"tournant\" par la Commission européenne. 21 novembre",
-   "link": "https://www.franceinfo.fr/monde/royaume-uni/mobilite-des-jeunes-commerce-quotas-d-emissions-carbone-ce-que-prevoient-les-accords-conclus-entre-le-royaume-uni-et-l-union-europeenne_8293715.html",
-   "summary": "Mobilité des jeunes, commerce, quotas d'émissions carbone… Ce que prévoient les accords conclus entre le Royaume-Uni et l'Union européenne",
-   "image": "https://www.franceinfo.fr/pictures/gE-b6gJBQe3z68U4B3NrH3K6pOQ/0x53:1024x629/432x243/filters:format(jpg)/2026/11/21/6b01af35df473235762087.jpg",
-   "date": null,
-   "pubdate": "2026-11-21T19:24:07.078797+00:00"
   },
   {
    "title": "De l'Espagne à l'Albanie en passant par la France, une jeunesse européenne unie par des causes communes descend dans la rue 9:00 article 9 minutes",
@@ -237,14 +272,6 @@
    "link": "https://www.franceinfo.fr/environnement/energie/energies-fossiles/au-texas-la-pollution-liee-a-l-exploitation-du-petrole-et-du-gaz-inquiete-les-habitants-et-reste-taboue-au-pays-de-l-or-noir_8288936.html",
    "summary": "Au Texas, la pollution liée à l'exploitation du pétrole et du gaz inquiète les habitants et reste taboue au pays de l'or noir",
    "image": "https://www.franceinfo.fr/pictures/ZxKSssSvFeklwyEjCpiiaAkSJRE/0x9:1277x728/432x243/filters:format(jpg)/2026/11/18/6afe118299c1f762938845.jpg",
-   "date": null,
-   "pubdate": "2026-11-19T02:37:29.665893+00:00"
-  },
-  {
-   "title": ": Reportage \"Ça facilite grandement le travail de nos soldats\" : les robots de combat ukrainiens deviennent incontournables sur le front et permettent de reprendre du terrain aux Russes : Reportage 3:00 article 3 minutes",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/reportage-ca-facilite-grandement-le-travail-de-nos-soldats-les-robots-de-combat-ukrainiens-deviennent-incontournables-sur-le-front-et-permettent-de-reprendre-du-terrain-aux-russes_8284292.html",
-   "summary": "\"Ça facilite grandement le travail de nos soldats\" : les robots de combat ukrainiens deviennent incontournables sur le front et permettent de reprendre du terrain aux Russes",
-   "image": "https://www.franceinfo.fr/pictures/JAwCDnFb5QmRIAw7_8lDXZHiNKY/0x194:1920x1274/432x243/filters:format(jpg)/2026/11/16/6afa9f046fea1146091106.png",
    "date": null,
    "pubdate": "2026-11-19T02:37:29.665893+00:00"
   }

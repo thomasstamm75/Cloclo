@@ -1,8 +1,7 @@
 {
- "etag": "\"13sc4l9\"",
+ "etag": "\"1i7qf95\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/etats-unis-de-donald-trump-l-economie-se-porte-bien-mais-les-inegalites-se-creusent-9130920": "2026-10-27T11:00:00+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/droits-de-douane-et-relocalisation-donald-trump-a-t-il-tenu-ses-promesses-1853800": "2026-10-28T13:06:43.111709+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/les-cryptomonnaies-qui-enrichissent-la-famille-trump-4253986": "2026-10-29T10:06:57.704936+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/l-ia-moteur-fragile-de-la-croissance-americaine-6786048": "2026-10-30T10:09:15.728182+00:00",
@@ -19,10 +18,19 @@
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/guerre-des-puces-la-chine-peut-elle-se-passer-de-nvidia-2157143": "2026-11-17T16:09:19.487338+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/le-journal-de-l-eco-du-mercredi-18-novembre-2026-5186070": "2026-11-18T11:52:13.962103+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/la-rue-belge-se-mobilise-contre-la-vie-chere-4886214": "2026-11-19T11:00:00+00:00",
-  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/italie-quand-les-salaires-baissent-2536678": "2026-11-20T11:00:00+00:00"
+  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/italie-quand-les-salaires-baissent-2536678": "2026-11-20T11:00:00+00:00",
+  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/qu-est-ce-qu-une-entreprise-francaise-5294417": "2026-11-23T11:00:00+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "Qu'est-ce qu'une entreprise française ?",
+   "link": "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/qu-est-ce-qu-une-entreprise-francaise-5294417",
+   "summary": "Pour la deuxième année consécutive, l'Élysée organise ce lundi 23 novembre un sommet \"Choose France\" réservé aux entreprises françaises qui souhaitent investir sur le territoire. Mais qu'est-ce qu'une entreprise française ? Cette notion est plus complexe qu'il n'y paraît.",
+   "image": "https://www.radiofrance.fr/pikapi/images/6c63aac1-a454-497a-9c7f-20c12675d2aa/2048",
+   "date": "2026-11-23T11:00:00+00:00",
+   "pubdate": "2026-11-23T11:00:00+00:00"
+  },
   {
    "title": "Italie : quand les salaires baissent",
    "link": "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/italie-quand-les-salaires-baissent-2536678",
@@ -158,14 +166,6 @@
    "image": "https://www.radiofrance.fr/pikapi/images/fb19c7fb-a258-41fc-8c29-f5d4222e02f8/2048",
    "date": null,
    "pubdate": "2026-10-28T13:06:43.111709+00:00"
-  },
-  {
-   "title": "État des lieux de l'économie américaine 2/5 · États-Unis de Donald Trump : l'économie se porte bien, mais les inégalités se creusent",
-   "link": "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/etats-unis-de-donald-trump-l-economie-se-porte-bien-mais-les-inegalites-se-creusent-9130920",
-   "summary": "Les bons résultats macro-économiques des États-Unis de Donald Trump suffiront-ils à lui faire gagner les élections de mi-mandat ? Le coût de la vie et l’inflation restent une réalité tenace dans le quotidien des Américains.",
-   "image": "https://www.radiofrance.fr/pikapi/images/1495265b-7b5f-41df-8e07-8470bf098538/2048",
-   "date": null,
-   "pubdate": "2026-10-27T11:00:00+00:00"
   }
  ]
 }
