@@ -1,8 +1,7 @@
 {
- "etag": "\"v0fcrt\"",
+ "etag": "\"n8y6qk\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/droits-de-douane-et-relocalisation-donald-trump-a-t-il-tenu-ses-promesses-1853800": "2026-10-28T13:06:43.111709+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/les-cryptomonnaies-qui-enrichissent-la-famille-trump-4253986": "2026-10-29T10:06:57.704936+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/l-ia-moteur-fragile-de-la-croissance-americaine-6786048": "2026-10-30T10:09:15.728182+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/territoires-zero-chomeur-de-longue-duree-un-retour-a-l-emploi-perenne-encore-menace-2176224": "2026-11-02T11:20:56.517484+00:00",
@@ -19,10 +18,19 @@
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/le-journal-de-l-eco-du-mercredi-18-novembre-2026-5186070": "2026-11-18T11:52:13.962103+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/la-rue-belge-se-mobilise-contre-la-vie-chere-4886214": "2026-11-19T11:00:00+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/italie-quand-les-salaires-baissent-2536678": "2026-11-20T11:00:00+00:00",
-  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/qu-est-ce-qu-une-entreprise-francaise-5294417": "2026-11-23T11:00:00+00:00"
+  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/qu-est-ce-qu-une-entreprise-francaise-5294417": "2026-11-23T11:00:00+00:00",
+  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/banques-europeennes-pourquoi-la-course-a-la-taille-s-accelere-2948376": "2026-11-24T13:52:24.669264+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "Banques européennes : pourquoi la course à la taille s'accélère",
+   "link": "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/banques-europeennes-pourquoi-la-course-a-la-taille-s-accelere-2948376",
+   "summary": "Portées par des bénéfices records et encouragées par les autorités européennes, les grandes banques européennes, notamment françaises, multiplient les acquisitions en Europe. Mais ces opérations de concentration ou fusion soulèvent des questions sur le financement des PME et les risques systémiques.",
+   "image": "https://www.radiofrance.fr/pikapi/images/f6e7eb0c-8744-4858-8226-9fd6a39e404e/2048",
+   "date": null,
+   "pubdate": "2026-11-24T13:52:24.669264+00:00"
+  },
   {
    "title": "Qu'est-ce qu'une entreprise française ?",
    "link": "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/qu-est-ce-qu-une-entreprise-francaise-5294417",
@@ -158,14 +166,6 @@
    "image": "https://www.radiofrance.fr/pikapi/images/ac46b7f8-5364-46cd-b84a-e87ebe9475b8/2048",
    "date": null,
    "pubdate": "2026-10-29T10:06:57.704936+00:00"
-  },
-  {
-   "title": "État des lieux de l'économie américaine 3/5 · Droits de douane et relocalisation : Donald Trump a-t-il tenu ses promesses ?",
-   "link": "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/droits-de-douane-et-relocalisation-donald-trump-a-t-il-tenu-ses-promesses-1853800",
-   "summary": "Rouvrir des usines et produire local a été un axe majeur de la politique économique de Donald Trump. À coups de multiples (annonces de) droits de douanes sur les importations. Pour quels résultats près de deux ans après sa réélection ?",
-   "image": "https://www.radiofrance.fr/pikapi/images/fb19c7fb-a258-41fc-8c29-f5d4222e02f8/2048",
-   "date": null,
-   "pubdate": "2026-10-28T13:06:43.111709+00:00"
   }
  ]
 }

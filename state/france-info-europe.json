@@ -1,14 +1,8 @@
 {
- "etag": "\"5361b8fa778ab41e326bf2b84dff8afa-gzip\"",
+ "etag": "\"f995c5cc8c6a0bd1ef54e1caf9416bb5-gzip\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.franceinfo.fr/monde/europe/sommet-de-l-ue/le-president-du-conseil-europeen-propose-un-budget-de-l-ue-en-baisse-de-204-milliards-d-euros-aussitot-rejete-par-la-france_8293637.html": "2026-11-21T11:16:24.042759+00:00",
-  "https://www.franceinfo.fr/societe/manifestations/des-syndicats-de-sept-pays-europeens-appellent-a-des-manifestations-coordonnees-contre-la-vie-chere-vendredi-samedi-et-dimanche_8292320.html": "2026-11-21T11:16:24.042759+00:00",
   "https://www.franceinfo.fr/monde/royaume-uni/mobilite-des-jeunes-commerce-quotas-d-emissions-carbone-ce-que-prevoient-les-accords-conclus-entre-le-royaume-uni-et-l-union-europeenne_8293715.html": "2026-11-21T19:24:04.955434+00:00",
-  "https://www.franceinfo.fr/monde/russie/la-finlande-soupconne-un-helicoptere-russe-d-avoir-viole-son-espace-aerien_8293799.html": "2026-11-21T19:24:04.955434+00:00",
-  "https://www.franceinfo.fr/monde/otan/nous-nous-sentons-ici-chez-nous-une-brigade-allemande-de-5-000-soldats-s-apprete-a-mener-des-exercices-pendant-un-mois-en-lituanie_8293721.html": "2026-11-21T19:24:04.955434+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-des-frappes-russes-font-deux-morts-et-58-blesses-a-kryvyi-rih-ville-natale-de-volodymyr-zelensky_8293700.html": "2026-11-21T19:24:04.955434+00:00",
-  "https://www.franceinfo.fr/societe/manifestations/reportage-ce-sont-les-patients-qui-en-patissent-au-portugal-les-syndicats-denoncent-la-degradation-des-services-publics_8293640.html": "2026-11-21T19:24:04.955434+00:00",
   "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/guerre-en-ukraine-crise-sociale-sortie-de-l-ue-le-8h30-franceinfo-de-nicolas-dupont-aignan_8250490.html": "2026-11-22T11:35:36.363314+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-multiplication-des-incidents-militaires-fait-craindre-une-escalade-entre-la-russie-et-l-otan_8294615.html": "2026-11-22T11:35:36.363314+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/le-quai-d-orsay-repond-a-la-multiplication-des-incidents-entre-l-europe-et-la-russie-en-etant-calme-en-ne-se-laissant-pas-impressionner-et-en-renforcant-notre-determination_8295164.html": "2026-11-22T19:47:19.158790+00:00",
@@ -29,17 +23,87 @@
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/temoignages-on-ne-sait-pas-si-on-sera-encore-en-vie-demain-a-izioum-des-jeunes-ukrainiens-grandissent-au-rythme-des-bombardements_8296220.html": "2026-11-24T02:16:12.496221+00:00",
   "https://www.franceinfo.fr/sports/l-union-europeenne-propose-d-interdire-de-competition-les-athletes-russes-sur-son-territoire_8296275.html": "2026-11-24T02:16:12.496221+00:00",
   "https://www.franceinfo.fr/monde/europe/allemagne/en-allemagne-le-frein-a-la-dette-est-inscrit-dans-la-constitution-depuis-2009-mais-a-ete-assoupli_8296088.html": "2026-11-24T02:16:12.496221+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/deux-navires-russes-attaques-par-l-ukraine-au-large-de-la-libye-l-operation-dont-s-est-felicitee-volodymyr-zelensky-filmee-par-des-drones_8296136.html": "2026-11-24T02:16:12.496221+00:00",
-  "https://www.franceinfo.fr/monde/l-ukraine-attaque-deux-navires-russes-en-libye_8296079.html": "2026-11-24T02:16:12.496221+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/reportage-ca-facilite-grandement-le-travail-de-nos-soldats-les-robots-de-combat-ukrainiens-deviennent-incontournables-sur-le-front-et-permettent-de-reprendre-du-terrain-aux-russes_8284292.html": "2026-11-24T02:16:12.496221+00:00"
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/reportage-ca-facilite-grandement-le-travail-de-nos-soldats-les-robots-de-combat-ukrainiens-deviennent-incontournables-sur-le-front-et-permettent-de-reprendre-du-terrain-aux-russes_8284292.html": "2026-11-24T02:16:12.496221+00:00",
+  "https://www.franceinfo.fr/economie/automobile/l-union-europeenne-va-plafonner-les-importations-de-voitures-hybrides-chinoises-a-partir-du-1er-decembre_8297406.html": "2026-11-24T13:52:16.165464+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-deux-morts-et-plus-de-40-blesses-dans-des-frappes-russes-sur-zaporijjia_8297385.html": "2026-11-24T13:52:16.165464+00:00",
+  "https://www.franceinfo.fr/replay-magazine/franceinfo/a-suivre-avec-loic-de-la-mornais/a-suivre-loic-de-la-mornais-comment-l-ukraine-peut-elle-frapper-jusqu-en-libye_8297256.html": "2026-11-24T13:52:16.165464+00:00",
+  "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/vrai-ou-faux-l-age-moyen-des-premieres-cotisations-retraite-est-il-vraiment-27-ans-en-france_8275382.html": "2026-11-24T13:52:16.165464+00:00",
+  "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/guerre-en-ukraine-un-conflit-sans-frontieres_8297181.html": "2026-11-24T13:52:16.165464+00:00",
+  "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/l-ue-veut-priver-les-athletes-russes-de-competitions-europeennes-une-sanction-symbolique-deja-utilisee-a-de-nombreuses-reprises-dans-l-histoire_8275370.html": "2026-11-24T13:52:16.165464+00:00",
+  "https://www.franceinfo.fr/monde/europe/de-l-espagne-a-l-albanie-en-passant-par-la-france-une-jeunesse-europeenne-unie-par-des-causes-communes-descend-dans-la-rue_8290049.html": "2026-11-24T13:52:16.165464+00:00",
+  "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/franceinfo-monde-du-samedi-21-novembre-2026_8271698.html": "2026-11-24T13:52:16.165464+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "Des Rafale français se posent sur une autoroute en Finlande Des Rafale français se sont posés sur une autoroute en Finlande et ont redécollé aussitôt. Une première pour l’armée française. Les pilotes s’entraînent avec leurs alliés à utiliser des routes comme pistes d'atterrissage au cas où leurs bases aériennes seraient prises pour cibles. 23 novembre 1:23 vidéo 1 minute 23",
+   "title": "L'Union européenne va plafonner les importations de voitures hybrides chinoises à partir du 1er décembre Cette mesure vise à \"protéger l'industrie\" européenne, alors que le déficit commercial avec la Chine atteint désormais environ un milliard d'euros par jour depuis 2025, explique la Commission européenne. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/economie/automobile/l-union-europeenne-va-plafonner-les-importations-de-voitures-hybrides-chinoises-a-partir-du-1er-decembre_8297406.html",
+   "summary": "L'Union européenne va plafonner les importations de voitures hybrides chinoises à partir du 1er décembre",
+   "image": "https://www.franceinfo.fr/pictures/siQWfrF1ZLYJYgVoFwP_3iY89Gk/107x0:3543x2362/432x297/filters:format(jpg)/2026/11/24/6b0562684a52b591784002.jpg",
+   "date": null,
+   "pubdate": "2026-11-24T13:52:16.165464+00:00"
+  },
+  {
+   "title": "En Ukraine, deux morts et plus de 40 blessés dans des frappes russes sur Zaporijjia Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-deux-morts-et-plus-de-40-blesses-dans-des-frappes-russes-sur-zaporijjia_8297385.html",
+   "summary": "En Ukraine, deux morts et plus de 40 blessés dans des frappes russes sur Zaporijjia",
+   "image": "https://www.franceinfo.fr/pictures/vyOMQIpkUM1Smr_spLbXN-jK9gM/0x321:5712x3534/432x243/filters:format(jpg)/2026/11/24/6b055bf8ca5c0217741183.jpg",
+   "date": null,
+   "pubdate": "2026-11-24T13:52:16.165464+00:00"
+  },
+  {
+   "title": "À suivre Loïc de la Mornais : comment l'Ukraine peut-elle frapper jusqu'en Libye ? Aujourd'hui 18:26 vidéo 18 minutes 26",
+   "link": "https://www.franceinfo.fr/replay-magazine/franceinfo/a-suivre-avec-loic-de-la-mornais/a-suivre-loic-de-la-mornais-comment-l-ukraine-peut-elle-frapper-jusqu-en-libye_8297256.html",
+   "summary": "À suivre Loïc de la Mornais : comment l'Ukraine peut-elle frapper jusqu'en Libye ?",
+   "image": "https://www.franceinfo.fr/pictures/pnxJcFhwp6sPC8du8Pu5tC0f6-E/226x0:1324x618/432x243/filters:format(jpg)/2026/11/24/6b0540cf3852f069436892.jpg",
+   "date": null,
+   "pubdate": "2026-11-24T13:52:16.165464+00:00"
+  },
+  {
+   "title": ": Vrai ou faux L'âge moyen des premières cotisations retraite est-il vraiment 27 ans en France ? Aujourd'hui : Vrai ou faux 1:55 audio 1 minute 55",
+   "link": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/vrai-ou-faux-l-age-moyen-des-premieres-cotisations-retraite-est-il-vraiment-27-ans-en-france_8275382.html",
+   "summary": "L'âge moyen des premières cotisations retraite est-il vraiment 27 ans en France ?",
+   "image": "https://www.franceinfo.fr/pictures/VB6SYrKJtC0JuOUjRQXEDkkfKHg/0x0:2121x1193/432x243/filters:format(jpg)/2026/11/24/6b053f4b4d03f157567530.jpg",
+   "date": null,
+   "pubdate": "2026-11-24T13:52:16.165464+00:00"
+  },
+  {
+   "title": "Guerre en Ukraine : un conflit sans frontières ? Aujourd'hui 1:48 vidéo 1 minute 48",
+   "link": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/guerre-en-ukraine-un-conflit-sans-frontieres_8297181.html",
+   "summary": "Guerre en Ukraine : un conflit sans frontières ?",
+   "image": "https://www.franceinfo.fr/pictures/DI1JmPG6-Xvv0RfPGZIBqGcil_8/183x0:1483x731/432x243/filters:format(jpg)/2026/11/24/6b0534b6931e1800863718.png",
+   "date": null,
+   "pubdate": "2026-11-24T13:52:16.165464+00:00"
+  },
+  {
+   "title": "L'UE veut priver les athlètes russes de compétitions européennes, une sanction symbolique déjà utilisée à de nombreuses reprises dans l'Histoire Aujourd'hui 2:58 audio 2 minutes 58",
+   "link": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/l-ue-veut-priver-les-athletes-russes-de-competitions-europeennes-une-sanction-symbolique-deja-utilisee-a-de-nombreuses-reprises-dans-l-histoire_8275370.html",
+   "summary": "L'UE veut priver les athlètes russes de compétitions européennes, une sanction symbolique déjà utilisée à de nombreuses reprises dans l'Histoire",
+   "image": "https://www.franceinfo.fr/pictures/c12kcNqhEqjEhHyVqhlI5-tnVX0/0x70:1024x646/432x243/filters:format(jpg)/2026/11/24/6b052b2cbdce2145218212.jpg",
+   "date": null,
+   "pubdate": "2026-11-24T13:52:16.165464+00:00"
+  },
+  {
+   "title": "De l'Espagne à l'Albanie en passant par la France, une jeunesse européenne unie par des causes communes descend dans la rue 9:00 article 9 minutes",
+   "link": "https://www.franceinfo.fr/monde/europe/de-l-espagne-a-l-albanie-en-passant-par-la-france-une-jeunesse-europeenne-unie-par-des-causes-communes-descend-dans-la-rue_8290049.html",
+   "summary": "De l'Espagne à l'Albanie en passant par la France, une jeunesse européenne unie par des causes communes descend dans la rue",
+   "image": "https://www.franceinfo.fr/pictures/HfyGcLM64b1Zmf-Qbz00_MsZ44g/437x0:1562x1125/100x100/filters:format(jpg)/2026/11/19/6afef8f20352c032597013.jpg",
+   "date": null,
+   "pubdate": "2026-11-24T13:52:16.165464+00:00"
+  },
+  {
+   "title": "\"Robots tueurs\", guerre en Ukraine, sommet en Chine... La difficile semaine des Européens sur la scène internationale La semaine aura été difficile pour les Européens qui sont absents de tous les grands rendez-vous internationaux. De Pékin, avec le sommet qui a réuni Trump, Poutine et Xi Jinping, à Genève où se déroulait une réunion importante sur l'avenir des armes autonomes, on n'a pas beaucoup vu ni entendu l'Europe. 21 novembre 3:06 audio 3 minutes 6",
+   "link": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/franceinfo-monde-du-samedi-21-novembre-2026_8271698.html",
+   "summary": "\"Robots tueurs\", guerre en Ukraine, sommet en Chine... La difficile semaine des Européens sur la scène internationale",
+   "image": "https://www.franceinfo.fr/pictures/juGlkUbO9b77DKPj1sechHIrD7E/0x0:5000x2812/432x243/filters:format(jpg)/2026/11/21/6b01b5e4be341098591974.jpg",
+   "date": null,
+   "pubdate": "2026-11-24T13:52:16.165464+00:00"
+  },
+  {
+   "title": "Des Rafale français se posent sur une autoroute en Finlande 23 novembre 1:23 vidéo 1 minute 23",
    "link": "https://www.franceinfo.fr/societe/armee-securite-defense/des-rafale-francais-se-posent-sur-une-autoroute-en-finlande_8296773.html",
    "summary": "Des Rafale français se posent sur une autoroute en Finlande",
-   "image": "https://www.franceinfo.fr/pictures/RnDTRqqV3vtBGDJKrVWlEiVe6GU/0x0:1080x1920/fit-in/432x297/filters:upscale():fill(blur):format(jpg)/2026/11/23/6b04a46d608ba136581776.jpg",
+   "image": "https://www.franceinfo.fr/pictures/MnwaDmnttb3fz0FzDeEwRsDWz1E/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/23/6b04a46d608ba136581776.jpg",
    "date": null,
    "pubdate": "2026-11-24T02:16:12.496221+00:00"
   },
@@ -68,7 +132,15 @@
    "pubdate": "2026-11-24T02:16:12.496221+00:00"
   },
   {
-   "title": "L'Otan est prête à se défendre sur \"chaque centimètre\", après des révélations sur un projet de satellite nucléaire russe 23 novembre",
+   "title": ": Reportage \"Ça facilite grandement le travail de nos soldats\" : les robots de combat ukrainiens deviennent incontournables sur le front et permettent de reprendre du terrain aux Russes : Reportage 3:00 article 3 minutes",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/reportage-ca-facilite-grandement-le-travail-de-nos-soldats-les-robots-de-combat-ukrainiens-deviennent-incontournables-sur-le-front-et-permettent-de-reprendre-du-terrain-aux-russes_8284292.html",
+   "summary": "\"Ça facilite grandement le travail de nos soldats\" : les robots de combat ukrainiens deviennent incontournables sur le front et permettent de reprendre du terrain aux Russes",
+   "image": "https://www.franceinfo.fr/pictures/upUwpsnDgNwStx2akoLHLfgaoGg/240x0:1680x1440/100x100/filters:format(jpg)/2026/11/16/6afa9f046fea1146091106.png",
+   "date": null,
+   "pubdate": "2026-11-24T02:16:12.496221+00:00"
+  },
+  {
+   "title": "L'Otan est prête à se défendre sur \"chaque centimètre\", après des révélations sur un projet de satellite nucléaire russe Plusieurs médias allemands ont révélé que Moscou prévoyait d'envoyer dans l'espace, dans les prochaines semaines, le satellite Spoutnik-S, équipé d'une tête nucléaire. 23 novembre",
    "link": "https://www.franceinfo.fr/monde/russie/l-otan-est-prete-a-se-defendre-sur-chaque-centimetre-apres-des-revelations-sur-un-projet-de-satellite-nucleaire-russe_8296413.html",
    "summary": "L'Otan est prête à se défendre sur \"chaque centimètre\", après des révélations sur un projet de satellite nucléaire russe",
    "image": "https://www.franceinfo.fr/pictures/d4kUV-W9rIz-QzBO8_jYFzxSw6w/0x595:8256x5239/432x243/filters:format(jpg)/2026/11/23/6b046d88b4c35728004553.jpg",
@@ -76,7 +148,7 @@
    "pubdate": "2026-11-24T02:16:12.496221+00:00"
   },
   {
-   "title": ": Témoignages \"On ne sait pas si on sera encore en vie demain\" : à Izioum, des jeunes Ukrainiens grandissent au rythme des bombardements 23 novembre : Témoignages",
+   "title": ": Témoignages \"On ne sait pas si on sera encore en vie demain\" : à Izioum, des jeunes Ukrainiens grandissent au rythme des bombardements Dans cette ville à l'est de l'Ukraine, proche de la ligne de front, les frappes sont quotidiennes. Dans cette atmosphère de peur et de violence, des adolescents ou des jeunes adultes tentent de vivre, malgré tout. 23 novembre : Témoignages",
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/temoignages-on-ne-sait-pas-si-on-sera-encore-en-vie-demain-a-izioum-des-jeunes-ukrainiens-grandissent-au-rythme-des-bombardements_8296220.html",
    "summary": "\"On ne sait pas si on sera encore en vie demain\" : à Izioum, des jeunes Ukrainiens grandissent au rythme des bombardements",
    "image": "https://www.franceinfo.fr/pictures/-5SIC-88_FyDk21a6C8mExvrLBM/0x301:5785x3555/432x243/filters:format(jpg)/2026/11/23/6b0463a5e0708024523190.jpg",
@@ -84,7 +156,7 @@
    "pubdate": "2026-11-24T02:16:12.496221+00:00"
   },
   {
-   "title": "L'Union européenne propose d'interdire de compétition les athlètes russes sur son territoire 23 novembre",
+   "title": "L'Union européenne propose d'interdire de compétition les athlètes russes sur son territoire Cette proposition, émise lundi par la Commission européenne, fait partie d'un nouveau lot de sanctions contre la Russie. 23 novembre",
    "link": "https://www.franceinfo.fr/sports/l-union-europeenne-propose-d-interdire-de-competition-les-athletes-russes-sur-son-territoire_8296275.html",
    "summary": "L'Union européenne propose d'interdire de compétition les athlètes russes sur son territoire",
    "image": "https://www.franceinfo.fr/pictures/z9eRRKKoY68jbS9Zid_WiOPftWs/0x29:6048x3431/432x243/filters:format(jpg)/2026/11/23/6b0459e3b6ecd156837384.jpg",
@@ -92,7 +164,7 @@
    "pubdate": "2026-11-24T02:16:12.496221+00:00"
   },
   {
-   "title": "En Allemagne, \"le frein à la dette\" est inscrit dans la Constitution depuis 2009 mais a été assoupli 23 novembre",
+   "title": "En Allemagne, \"le frein à la dette\" est inscrit dans la Constitution depuis 2009 mais a été assoupli Emmanuel Macron envisage d'inscrire dans la Constitution une \"règle d'or budgétaire\". Chez nos voisins allemands, ce concept est appliqué depuis 2009. 23 novembre",
    "link": "https://www.franceinfo.fr/monde/europe/allemagne/en-allemagne-le-frein-a-la-dette-est-inscrit-dans-la-constitution-depuis-2009-mais-a-ete-assoupli_8296088.html",
    "summary": "En Allemagne, \"le frein à la dette\" est inscrit dans la Constitution depuis 2009 mais a été assoupli",
    "image": "https://www.franceinfo.fr/pictures/xGm7iBgLSYOE7pmKkxA5ls-OkGw/0x0:2400x1349/432x243/filters:format(jpg)/2024/11/26/000-32c32jw-674569b90ef10535404763.jpg",
@@ -100,34 +172,10 @@
    "pubdate": "2026-11-24T02:16:12.496221+00:00"
   },
   {
-   "title": "Deux navires russes attaqués par l'Ukraine au large de la Libye : Volodymyr Zelensky se félicite de l'opération, filmée par des drones 23 novembre 1:45 vidéo 1 minute 45",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/deux-navires-russes-attaques-par-l-ukraine-au-large-de-la-libye-l-operation-dont-s-est-felicitee-volodymyr-zelensky-filmee-par-des-drones_8296136.html",
-   "summary": "Deux navires russes attaqués par l'Ukraine au large de la Libye : Volodymyr Zelensky se félicite de l'opération, filmée par des drones",
-   "image": "https://www.franceinfo.fr/pictures/kNfkCuNKQsIh3ePPz2QghTNrS5Q/78x0:1395x741/432x243/filters:format(jpg)/2026/11/23/6b0446463290b385828461.jpg",
-   "date": null,
-   "pubdate": "2026-11-24T02:16:12.496221+00:00"
-  },
-  {
-   "title": "L'Ukraine attaque deux navires russes en Libye 23 novembre 1:48 vidéo 1 minute 48",
-   "link": "https://www.franceinfo.fr/monde/l-ukraine-attaque-deux-navires-russes-en-libye_8296079.html",
-   "summary": "L'Ukraine attaque deux navires russes en Libye",
-   "image": "https://www.franceinfo.fr/pictures/VzSWlIRHQGEb17Yq_NfKgF00vcY/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/23/6b0439ba39e42558480787.jpg",
-   "date": null,
-   "pubdate": "2026-11-24T02:16:12.496221+00:00"
-  },
-  {
-   "title": ": Reportage \"Ça facilite grandement le travail de nos soldats\" : les robots de combat ukrainiens deviennent incontournables sur le front et permettent de reprendre du terrain aux Russes : Reportage 3:00 article 3 minutes",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/reportage-ca-facilite-grandement-le-travail-de-nos-soldats-les-robots-de-combat-ukrainiens-deviennent-incontournables-sur-le-front-et-permettent-de-reprendre-du-terrain-aux-russes_8284292.html",
-   "summary": "\"Ça facilite grandement le travail de nos soldats\" : les robots de combat ukrainiens deviennent incontournables sur le front et permettent de reprendre du terrain aux Russes",
-   "image": "https://www.franceinfo.fr/pictures/JAwCDnFb5QmRIAw7_8lDXZHiNKY/0x194:1920x1274/432x243/filters:format(jpg)/2026/11/16/6afa9f046fea1146091106.png",
-   "date": null,
-   "pubdate": "2026-11-24T02:16:12.496221+00:00"
-  },
-  {
    "title": ": Reportage \"Ce soir, on est en mission pour qu'ils passent une mauvaise nuit\" : en immersion avec une brigade de dronistes ukrainiens qui vise les raffineries russes : Reportage 4:55 audio 4 minutes 55",
    "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-couper-le-robinet-de-petrole-russe-en-mission-avec-les-oiseaux-de-madyar-la-brigade-de-dronistes-ukrainiens-la-plus-pourchassee-par-les-russes_8255023.html",
    "summary": "\"Ce soir, on est en mission pour qu'ils passent une mauvaise nuit\" : en immersion avec une brigade de dronistes ukrainiens qui vise les raffineries russes",
-   "image": "https://www.franceinfo.fr/pictures/ccQT4F940EBl9FupZfobrD39RI8/0x150:1600x1050/432x243/filters:format(jpg)/2026/11/09/6af22c0dbfe8f915408614.jpg",
+   "image": "https://www.franceinfo.fr/pictures/HhojOyKEnjff8FJ258_6fxmOmD0/200x0:1400x1200/100x100/filters:format(jpg)/2026/11/09/6af22c0dbfe8f915408614.jpg",
    "date": null,
    "pubdate": "2026-11-23T13:01:22.543299+00:00"
   },
@@ -135,7 +183,7 @@
    "title": ": Grand entretien En Belgique, un cordon sanitaire médiatique \"empêche toute forme de banalisation de l'extrême droite\", un outil \"difficile\" à imaginer en France : Grand entretien 5:00 article 5 minutes",
    "link": "https://www.franceinfo.fr/politique/grand-entretien-en-belgique-un-cordon-sanitaire-mediatique-empeche-toute-forme-de-banalisation-de-l-extreme-droite-un-outil-difficile-a-imaginer-en-france_8265599.html",
    "summary": "En Belgique, un cordon sanitaire médiatique \"empêche toute forme de banalisation de l'extrême droite\", un outil \"difficile\" à imaginer en France",
-   "image": "https://www.franceinfo.fr/pictures/8jhw81QIhD7mLmBqp2LCi5CRN2I/0x0:4300x2418/432x243/filters:format(jpg)/2026/11/03/6aea17e3db34d727066316.jpg",
+   "image": "https://www.franceinfo.fr/pictures/9LdUSK6oamqclaiDrAjSNcWmhIU/1437x0:4300x2863/100x100/filters:format(jpg)/2026/11/03/6aea17e3db34d727066316.jpg",
    "date": null,
    "pubdate": "2026-11-23T13:01:22.543299+00:00"
   },
@@ -226,54 +274,6 @@
    "image": "https://www.franceinfo.fr/pictures/gE-b6gJBQe3z68U4B3NrH3K6pOQ/0x53:1024x629/432x243/filters:format(jpg)/2026/11/21/6b01af35df473235762087.jpg",
    "date": null,
    "pubdate": "2026-11-21T19:24:04.955434+00:00"
-  },
-  {
-   "title": "La Finlande soupçonne un hélicoptère russe d'avoir violé son espace aérien L'appareil a pénétré jusqu'à 4,1 km à l'intérieur du territoire finlandais, a précisé le ministère de la Défense. 21 novembre",
-   "link": "https://www.franceinfo.fr/monde/russie/la-finlande-soupconne-un-helicoptere-russe-d-avoir-viole-son-espace-aerien_8293799.html",
-   "summary": "La Finlande soupçonne un hélicoptère russe d'avoir violé son espace aérien",
-   "image": "https://www.franceinfo.fr/pictures/dzl70O5wmble6f9aN4HYt3m3SWs/0x53:1024x629/432x243/filters:format(jpg)/2026/11/21/6b01ac8904cf5326131943.jpg",
-   "date": null,
-   "pubdate": "2026-11-21T19:24:04.955434+00:00"
-  },
-  {
-   "title": ": Reportage \"Nous nous sentons ici chez nous\" : une brigade allemande de 5 000 soldats s'apprête à mener des exercices pendant un mois en Lituanie Des renforts venus d’Allemagne participent à ces entraînements aux côtés du bataillon multinational de l’Otan, installé dans le pays depuis 2017. 21 novembre : Reportage",
-   "link": "https://www.franceinfo.fr/monde/otan/nous-nous-sentons-ici-chez-nous-une-brigade-allemande-de-5-000-soldats-s-apprete-a-mener-des-exercices-pendant-un-mois-en-lituanie_8293721.html",
-   "summary": "\"Nous nous sentons ici chez nous\" : une brigade allemande de 5 000 soldats s'apprête à mener des exercices pendant un mois en Lituanie",
-   "image": "https://www.franceinfo.fr/pictures/j6qBGrpSwwNujHD5YvWEvszKxrs/0x234:4500x2766/432x243/filters:format(jpg)/2026/11/21/6b018c756a75c012986106.jpg",
-   "date": null,
-   "pubdate": "2026-11-21T19:24:04.955434+00:00"
-  },
-  {
-   "title": "Guerre en Ukraine : des frappes russes font deux morts et 58 blessés à Kryvyï Rih, ville natale de Volodymyr Zelensky Six enfants figurent parmi les blessés, a précisé samedi le président ukrainien sur Telegram. 21 novembre",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-des-frappes-russes-font-deux-morts-et-58-blesses-a-kryvyi-rih-ville-natale-de-volodymyr-zelensky_8293700.html",
-   "summary": "Guerre en Ukraine : des frappes russes font deux morts et 58 blessés à Kryvyï Rih, ville natale de Volodymyr Zelensky",
-   "image": "https://www.franceinfo.fr/pictures/CsrPPm9InM4527HOt9OpPrOPrlw/0x26:1024x602/432x243/filters:format(jpg)/2026/11/21/6b0185f534763222501770.jpg",
-   "date": null,
-   "pubdate": "2026-11-21T19:24:04.955434+00:00"
-  },
-  {
-   "title": ": Reportage \"Ce sont les patients qui en pâtissent\" : au Portugal, les syndicats dénoncent la dégradation des services publics Nouvelle journée de mobilisation ce samedi contre la vie chère en France, mais également au Portugal. Les syndicats dénoncent la dégradation des services publics, à trois jours du vote du budget 2027 présenté par le gouvernement de centre droit de Luís Montenegro. 21 novembre : Reportage",
-   "link": "https://www.franceinfo.fr/societe/manifestations/reportage-ce-sont-les-patients-qui-en-patissent-au-portugal-les-syndicats-denoncent-la-degradation-des-services-publics_8293640.html",
-   "summary": "\"Ce sont les patients qui en pâtissent\" : au Portugal, les syndicats dénoncent la dégradation des services publics",
-   "image": "https://www.franceinfo.fr/pictures/skaF7kWXK5gwjLEs5UTbIUIBD-A/0x53:1024x629/432x243/filters:format(jpg)/2026/11/21/6b01991f1fc6b523805019.jpg",
-   "date": null,
-   "pubdate": "2026-11-21T19:24:04.955434+00:00"
-  },
-  {
-   "title": "Le président du Conseil européen propose un budget de l'UE en baisse de 204 milliards d'euros, aussitôt rejeté par la France Cette version revue à la baisse intègre également une proposition de nouvelle taxe sur les grandes entreprises du secteur numérique, a confirmé Antonio Costa, qui veut mettre à l'étude la taxation des cryptoactifs. 21 novembre",
-   "link": "https://www.franceinfo.fr/monde/europe/sommet-de-l-ue/le-president-du-conseil-europeen-propose-un-budget-de-l-ue-en-baisse-de-204-milliards-d-euros-aussitot-rejete-par-la-france_8293637.html",
-   "summary": "Le président du Conseil européen propose un budget de l'UE en baisse de 204 milliards d'euros, aussitôt rejeté par la France",
-   "image": "https://www.franceinfo.fr/pictures/OQbr4M5cITa36USiD95xDrW13aw/0x0:1024x576/432x243/filters:format(jpg)/2026/11/21/6b017adb55f2b118022145.jpg",
-   "date": null,
-   "pubdate": "2026-11-21T11:16:24.042759+00:00"
-  },
-  {
-   "title": "Des syndicats de sept pays européens appellent à des \"manifestations coordonnées\" contre la vie chère vendredi, samedi et dimanche Les principales revendications des cortèges qui s'élanceront durant le week-end concernent la \"garantie du droit au logement\" et \"le contrôle des prix du logement, de l'alimentation et de l'énergie\". 21 novembre",
-   "link": "https://www.franceinfo.fr/societe/manifestations/des-syndicats-de-sept-pays-europeens-appellent-a-des-manifestations-coordonnees-contre-la-vie-chere-vendredi-samedi-et-dimanche_8292320.html",
-   "summary": "Des syndicats de sept pays européens appellent à des \"manifestations coordonnées\" contre la vie chère vendredi, samedi et dimanche",
-   "image": "https://www.franceinfo.fr/pictures/B66WnJE29SHhoTKzz-SjTbFVqcQ/0x760:8256x5404/432x243/filters:format(jpg)/2026/11/20/6b00789b6a1f1347406072.jpg",
-   "date": null,
-   "pubdate": "2026-11-21T11:16:24.042759+00:00"
   }
  ]
 }

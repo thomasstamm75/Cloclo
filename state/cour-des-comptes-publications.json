@@ -1,20 +1,28 @@
 {
- "etag": "W/\"1795456771\"",
- "last_modified": "Mon, 23 Nov 2026 17:59:31 GMT",
+ "etag": "W/\"1795527375\"",
+ "last_modified": "Tue, 24 Nov 2026 13:36:15 GMT",
  "first_seen": {
   "https://www.ccomptes.fr/fr/publications/financement-des-indemnites-journalieres-des-professions-liberales": "2026-11-09T11:00:00+00:00",
   "https://www.ccomptes.fr/fr/publications/contribution-au-retablissement-des-finances-publiques": "2026-11-09T11:00:00+00:00",
   "https://www.ccomptes.fr/fr/publications/note-thematique-les-depenses-fiscales": "2026-11-09T11:00:00+00:00",
-  "https://www.ccomptes.fr/fr/publications/rapport-sur-les-credits-du-budget-de-letat-ouverts-par-decrets-davance": "2026-11-09T11:00:00+00:00",
   "https://www.ccomptes.fr/fr/publications/la-caisse-generale-de-securite-sociale-de-la-guadeloupe-et-de-saint-martin": "2026-11-10T11:00:00+00:00",
   "https://www.ccomptes.fr/fr/publications/la-fondation-louis-lepine": "2026-11-12T11:00:00+00:00",
   "https://www.ccomptes.fr/fr/publications/la-cour-des-comptes-publie-trois-nouvelles-notes-thematiques-consacrees-aux-politiques": "2026-11-16T11:00:00+00:00",
   "https://www.ccomptes.fr/fr/publications/lassociation-sos-villages-denfants": "2026-11-17T11:00:00+00:00",
   "https://www.ccomptes.fr/fr/publications/note-thematique-les-soutiens-de-letat-en-faveur-du-sport": "2026-11-19T11:00:00+00:00",
-  "https://www.ccomptes.fr/fr/publications/les-jeux-olympiques-et-paralympiques-de-paris-2024-bilan-financier-et-heritage": "2026-11-19T11:00:00+00:00"
+  "https://www.ccomptes.fr/fr/publications/les-jeux-olympiques-et-paralympiques-de-paris-2024-bilan-financier-et-heritage": "2026-11-19T11:00:00+00:00",
+  "https://www.ccomptes.fr/fr/publications/la-cour-des-comptes-publie-deux-nouvelles-notes-thematiques-retraites-et-politique": "2026-11-24T11:00:00+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "La Cour des comptes publie deux nouvelles notes thématiques : Retraites et politique familiale : des leviers pour rééquilibrer les comptes sociaux",
+   "link": "https://www.ccomptes.fr/fr/publications/la-cour-des-comptes-publie-deux-nouvelles-notes-thematiques-retraites-et-politique",
+   "summary": "Dans son rapport au Parlement sur la situation financière de la sécurité sociale, la Cour des comptes a montré qu’un retour à l’équilibre en 2030 était indispensable et restait possible. Il supposait de ramener le déficit des régimes obligatoires de base à 12,7 Md€ en 2027, conformément à la traject...",
+   "image": "https://www.ccomptes.fr/sites/default/files/styles/teaser_182x98/public/2026-09/Notes%20structurelles-182x98.jpg?itok=s2UZMOhh",
+   "date": "2026-11-24T11:00:00+00:00",
+   "pubdate": "2026-11-24T11:00:00+00:00"
+  },
   {
    "title": "Note thématique - Les soutiens de l'État en faveur du sport",
    "link": "https://www.ccomptes.fr/fr/publications/note-thematique-les-soutiens-de-letat-en-faveur-du-sport",
@@ -84,14 +92,6 @@
    "link": "https://www.ccomptes.fr/fr/publications/note-thematique-les-depenses-fiscales",
    "summary": "La Cour des comptes publie des synthèses thématiques par grandes politiques publiques, utiles à nourrir le débat public. Ces notes identifient à la fois les principaux défis auxquels seront confrontés les décideurs publics au cours des prochaines années, et les leviers susceptibles de les relever. C...",
    "image": "https://www.ccomptes.fr/sites/default/files/styles/teaser_182x98/public/2026-09/Notes%20structurelles-182x98.jpg?itok=s2UZMOhh",
-   "date": "2026-11-09T11:00:00+00:00",
-   "pubdate": "2026-11-09T11:00:00+00:00"
-  },
-  {
-   "title": "Rapport sur les crédits du budget de l'État ouverts par décrets d'avance",
-   "link": "https://www.ccomptes.fr/fr/publications/rapport-sur-les-credits-du-budget-de-letat-ouverts-par-decrets-davance",
-   "summary": "En application de l'article 58-6° de la loi organique relative aux lois de finances (LOLF), la Cour des comptes publie un rapport qui porte sur les mouvements de crédits effectués par les décrets d’avance du 11 juin 2026 et du 14 octobre 2026.",
-   "image": "https://www.ccomptes.fr/sites/default/files/styles/teaser_182x98/public/2026-11/decretsavance-dircom-Fotolia-182x98.jpg?itok=T8A9SiOK",
    "date": "2026-11-09T11:00:00+00:00",
    "pubdate": "2026-11-09T11:00:00+00:00"
   }
