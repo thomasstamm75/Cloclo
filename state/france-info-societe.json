@@ -1,5 +1,5 @@
 {
- "etag": "\"155376192a8b1ab13d6bc284dbe533c3-gzip\"",
+ "etag": "\"3039ec7d675a0ef7a723d689f8b7f95c-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/temoignage-des-qu-il-y-a-un-nouveau-telephone-tout-le-monde-fait-un-credit-comment-le-surendettement-explose-chez-les-moins-de-30-ans_8266763.html": "2026-11-21T02:24:20.964002+00:00",
@@ -8,66 +8,179 @@
   "https://www.franceinfo.fr/societe/nos-jours-heureux/": "2026-11-23T01:47:31.297444+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/cet-outil-ne-va-pas-tout-faire-a-la-place-de-l-eleve-en-estonie-une-version-specifique-de-chatgpt-fait-son-entree-dans-les-salles-de-classe_8268662.html": "2026-11-23T01:47:31.297444+00:00",
   "https://www.franceinfo.fr/monde/europe/de-l-espagne-a-l-albanie-en-passant-par-la-france-une-jeunesse-europeenne-unie-par-des-causes-communes-descend-dans-la-rue_8290049.html": "2026-11-23T13:01:18.596580+00:00",
-  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/une-intersyndicale-des-etudiants-et-des-enseignants-du-superieur-appelle-a-la-mobilisation-le-26-novembre_8296851.html": "2026-11-24T02:16:08.156584+00:00",
-  "https://www.franceinfo.fr/societe/justice/six-deputes-de-la-france-insoumise-vont-porter-plainte-pour-des-menaces-de-mort-anonymes_8296824.html": "2026-11-24T02:16:08.156584+00:00",
-  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/environ-50-000-etudiants-de-l-universite-de-lille-n-auront-plus-cours-en-presentiel-jusqu-a-la-fin-du-semestre_8296719.html": "2026-11-24T02:16:08.156584+00:00",
-  "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/une-personne-de-53-ans-mise-en-examen-apres-un-tir-de-mortier-qui-a-gravement-blesse-un-manifestant-a-montpellier-le-17-octobre_8296626.html": "2026-11-24T02:16:08.156584+00:00",
   "https://www.franceinfo.fr/societe/education/seuls-six-etudiants-sur-dix-ont-recu-une-proposition-de-master-en-2026_8297694.html": "2026-11-24T13:52:11.700891+00:00",
-  "https://www.franceinfo.fr/economie/pulmoll-valda-la-fin-des-ventes-de-pastilles-et-autres-confiseries-en-pharmacie-surprend-et-inquiete-la-filiere_8297733.html": "2026-11-24T13:52:11.700891+00:00",
-  "https://www.franceinfo.fr/l-actu-pour-les-jeunes/le-policier-qui-a-tue-nahel-sera-juge-pour-meurtre_8297709.html": "2026-11-24T13:52:11.700891+00:00",
   "https://www.franceinfo.fr/politique/edouard-philippe/une-enquete-ouverte-apres-un-signalement-pour-detournement-de-fonds-publics-a-l-agglomeration-du-havre-presidee-par-edouard-philippe_8297676.html": "2026-11-24T13:52:11.700891+00:00",
   "https://www.franceinfo.fr/societe/justice/nicolas-sarkozy-et-carla-bruni-sont-renvoyes-en-proces-dans-l-affaire-de-la-fausse-retractation-de-ziad-takieddine-notamment-pour-association-de-malfaiteurs_8297655.html": "2026-11-24T13:52:11.700891+00:00",
   "https://www.franceinfo.fr/societe/education/les-colleges-et-lycees-accueillent-pres-de-50-000-eleves-de-moins-que-l-an-dernier_8297508.html": "2026-11-24T13:52:11.700891+00:00",
   "https://www.franceinfo.fr/france/mayotte/les-mahorais-sont-terrorises-les-maires-de-mayotte-appellent-l-etat-a-l-aide-pour-endiguer-une-criminalite-devenue-incontrolable_8297352.html": "2026-11-24T13:52:11.700891+00:00",
   "https://www.franceinfo.fr/societe/education/seuls-six-parents-sur-dix-font-confiance-a-l-ecole-selon-un-sondage-un-niveau-historiquement-bas_8297481.html": "2026-11-24T13:52:11.700891+00:00",
-  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-des-etudiants-et-lyceens-le-dilemme-des-universites-en-cette-rentree-pour-sauver-l-annee_8297466.html": "2026-11-24T13:52:11.700891+00:00",
   "https://www.franceinfo.fr/societe/antisemitisme/on-vous-resume-la-polemique-autour-de-la-deputee-rn-laure-lavalette-accusee-d-avoir-cautionne-des-ecrits-antisemites_8297214.html": "2026-11-24T13:52:11.700891+00:00",
   "https://www.franceinfo.fr/replay-radio/le-tour-de-la-question/reportage-on-ne-peut-pas-juste-etre-neutres-les-futurs-medecins-se-preparent-a-l-entree-en-vigueur-de-l-aide-a-mourir_8289863.html": "2026-11-24T13:52:11.700891+00:00",
-  "https://www.franceinfo.fr/culture/cinema/face-a-la-sous-representation-des-femmes-aux-postes-d-encadrement-dans-le-cinema-le-cnc-va-mettre-en-place-un-nouveau-systeme-de-bonus-malus_8297346.html": "2026-11-24T13:52:11.700891+00:00",
-  "https://www.franceinfo.fr/societe/education/ils-ont-une-lassitude-du-lycee-un-nombre-inedit-proviseurs-demandent-leur-mutation-alerte-le-principal-syndicat-des-chefs-d-etablissement_8297274.html": "2026-11-24T13:52:11.700891+00:00",
-  "https://www.franceinfo.fr/monde/iran/l-iran-a-inflige-74-coups-de-fouet-a-une-chanteuse-qui-s-est-produite-sur-youtube-sans-voile_8297238.html": "2026-11-24T13:52:11.700891+00:00",
-  "https://www.franceinfo.fr/monde/ameriques/des-batiments-officiels-detruits-dans-l-explosion-d-une-voiture-piegee-dans-le-centre-de-la-colombie_8297034.html": "2026-11-24T13:52:11.700891+00:00",
-  "https://www.franceinfo.fr/sante/il-faut-se-battre-contre-la-banalisation-des-douleurs-des-femmes-exige-salome-saque_8297262.html": "2026-11-24T13:52:11.700891+00:00",
-  "https://www.franceinfo.fr/societe/feminicides/toujours-autant-de-femmes-sont-tuees-par-des-proches-dans-le-monde-en-2025-denonce-l-onu_8297208.html": "2026-11-24T13:52:11.700891+00:00",
-  "https://www.franceinfo.fr/faits-divers/info-radio-france-disparition-de-sophie-cheenne-en-1996-a-laval-de-nouvelles-investigations-vont-etre-menees-par-les-gendarmes_8297088.html": "2026-11-24T13:52:11.700891+00:00",
-  "https://www.franceinfo.fr/societe/justice/enquete-sur-des-fuites-presumees-vers-le-rn-qui-est-frederic-chatillon-ex-president-du-gud-et-ancien-proche-de-marine-le-pen_8296470.html": "2026-11-24T13:52:11.700891+00:00"
+  "https://www.franceinfo.fr/france/guadeloupe/en-guadeloupe-une-femme-tuee-par-son-mari-qui-s-est-ensuite-suicide_8298480.html": "2026-11-24T23:56:18.143692+00:00",
+  "https://www.franceinfo.fr/societe/education/la-revolution-haitienne-va-integrer-les-programmes-des-colleges-en-france-salue-la-fondation-pour-la-memoire-de-l-esclavage_8298450.html": "2026-11-24T23:56:18.143692+00:00",
+  "https://www.franceinfo.fr/societe/drogue/la-marine-francaise-saisit-plus-de-3-3-tonnes-de-methamphetamine-dans-l-ocean-pacifique_8298438.html": "2026-11-24T23:56:18.143692+00:00",
+  "https://www.franceinfo.fr/societe/affaire/les-affaires-sarkozy/affaire-de-la-fausse-retractation-de-ziad-takieddine-nicolas-sarkozy-et-carla-bruni-renvoyes-en-proces_8298432.html": "2026-11-24T23:56:18.143692+00:00",
+  "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/une-enquete-ouverte-pour-tentative-de-meurtre-sur-un-adolescent-a-paris-lors-de-la-manifestation-du-17-octobre_8298381.html": "2026-11-24T23:56:18.143692+00:00",
+  "https://www.franceinfo.fr/vrai-ou-fake/migrants-renvoyes-au-rwanda-un-accord-qui-change-tout_8298333.html": "2026-11-24T23:56:18.143692+00:00",
+  "https://www.franceinfo.fr/faits-divers/police/il-n-y-a-que-ca-des-p-tes-a-bougn-des-accusations-de-racisme-a-l-ecole-de-police_8298345.html": "2026-11-24T23:56:18.143692+00:00",
+  "https://www.franceinfo.fr/replay-radio/la-question-des-informes/pourquoi-autant-d-universites-restent-elles-fermees_8275337.html": "2026-11-24T23:56:18.143692+00:00",
+  "https://www.franceinfo.fr/societe/armee-securite-defense/plus-de-300-gendarmes-blesses-depuis-le-debut-de-la-crise-sociale-selon-la-gendarmerie-nationale_8297913.html": "2026-11-24T23:56:18.143692+00:00",
+  "https://www.franceinfo.fr/societe/armee-securite-defense/nucleaire-militaire/la-russie-soupconnee-de-vouloir-placer-une-arme-nucleaire-dans-l-espace_8297916.html": "2026-11-24T23:56:18.143692+00:00",
+  "https://www.franceinfo.fr/societe/violences-faites-aux-femmes/plus-de-90-des-plaintes-pour-viol-classees-sans-suite-en-france-selon-la-fondation-des-femmes_8297715.html": "2026-11-24T23:56:18.143692+00:00",
+  "https://www.franceinfo.fr/societe/drogue/trois-agents-du-port-de-dunkerque-mis-en-examen-et-ecroues-pour-des-soupcons-de-trafic-de-stupefiants-et-de-corruption_8298018.html": "2026-11-24T23:56:18.143692+00:00",
+  "https://www.franceinfo.fr/politique/eric-zemmour/eric-zemmour-definitivement-condamne-pour-contestation-de-l-existence-de-crime-contre-l-humanite-apres-avoir-affirme-que-le-marechal-petain-avait-sauve-les-juifs-francais_8297988.html": "2026-11-24T23:56:18.143692+00:00",
+  "https://www.franceinfo.fr/economie/croissance/presque-toutes-les-regions-francaises-atteindront-leur-pic-de-population-avant-2070-selon-l-insee_8297775.html": "2026-11-24T23:56:18.143692+00:00",
+  "https://www.franceinfo.fr/monde/royaume-uni/au-royaume-uni-une-tentative-de-cambriolage-signalee-dans-l-une-des-residences-de-william-et-kate-deux-hommes-arretes_8297766.html": "2026-11-24T23:56:18.143692+00:00",
+  "https://www.franceinfo.fr/faits-divers/dans-les-yvelines-deux-enfants-de-3-et-4-ans-decouverts-enfermes-dans-la-cave-d-un-pavillon-la-mere-de-famille-placee-en-garde-a-vue_8297799.html": "2026-11-24T23:56:18.143692+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "Seuls six étudiants sur dix ont reçu une proposition de master en 2026 Le nombre d'étudiants ayant reçu une proposition d'admission a chuté de sept points en un an. Aujourd'hui",
+   "title": "En Guadeloupe, une femme tuée par son mari, qui s'est ensuite suicidé Selon la procureure de Pointe-à-Pitre, \"un homme de 63 ans a tué sa femme de 65 ans à son domicile à Saint-François avant de se donner la mort\". Aujourd'hui",
+   "link": "https://www.franceinfo.fr/france/guadeloupe/en-guadeloupe-une-femme-tuee-par-son-mari-qui-s-est-ensuite-suicide_8298480.html",
+   "summary": "En Guadeloupe, une femme tuée par son mari, qui s'est ensuite suicidé",
+   "image": "https://www.franceinfo.fr/pictures/ohodvG7wMQf5R9-Hj1JgZK5dh7M/217x0:8595x5760/432x297/filters:format(jpg)/2026/11/25/6b0617c5e2559550312892.jpg",
+   "date": null,
+   "pubdate": "2026-11-24T23:56:18.143692+00:00"
+  },
+  {
+   "title": "La Révolution haïtienne va intégrer les programmes des collèges en France, salue la Fondation pour la mémoire de l’esclavage 24 novembre",
+   "link": "https://www.franceinfo.fr/societe/education/la-revolution-haitienne-va-integrer-les-programmes-des-colleges-en-france-salue-la-fondation-pour-la-memoire-de-l-esclavage_8298450.html",
+   "summary": "La Révolution haïtienne va intégrer les programmes des collèges en France, salue la Fondation pour la mémoire de l’esclavage",
+   "image": "https://www.franceinfo.fr/pictures/_ITh0Zq-UyQEWgDLoN882kKyLwM/0x368:7087x4355/432x243/filters:format(jpg)/2018/04/27/php1fum4D_1.jpg",
+   "date": null,
+   "pubdate": "2026-11-24T23:56:18.143692+00:00"
+  },
+  {
+   "title": "La marine française saisit plus de 3,3 tonnes de méthamphétamine dans l'océan Pacifique 24 novembre",
+   "link": "https://www.franceinfo.fr/societe/drogue/la-marine-francaise-saisit-plus-de-3-3-tonnes-de-methamphetamine-dans-l-ocean-pacifique_8298438.html",
+   "summary": "La marine française saisit plus de 3,3 tonnes de méthamphétamine dans l'océan Pacifique",
+   "image": "https://www.franceinfo.fr/pictures/-XBKqQweQ0lIId-mx00df2FEyYE/0x580:5568x3712/432x243/filters:format(jpg)/2026/11/24/6b0604732b969772270300.jpg",
+   "date": null,
+   "pubdate": "2026-11-24T23:56:18.143692+00:00"
+  },
+  {
+   "title": "Affaire de la fausse rétractation de Ziad Takieddine : Nicolas Sarkozy et Carla Bruni renvoyés en procès 24 novembre 0:43 vidéo 43 secondes",
+   "link": "https://www.franceinfo.fr/societe/affaire/les-affaires-sarkozy/affaire-de-la-fausse-retractation-de-ziad-takieddine-nicolas-sarkozy-et-carla-bruni-renvoyes-en-proces_8298432.html",
+   "summary": "Affaire de la fausse rétractation de Ziad Takieddine : Nicolas Sarkozy et Carla Bruni renvoyés en procès",
+   "image": "https://www.franceinfo.fr/pictures/QAaNHQzqhDCc9WM0KG8lLoEA8uc/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/24/6b05fdf0d4111418433754.jpg",
+   "date": null,
+   "pubdate": "2026-11-24T23:56:18.143692+00:00"
+  },
+  {
+   "title": "Une enquête ouverte pour tentative de meurtre sur un adolescent à Paris lors de la manifestation du 17 octobre 24 novembre",
+   "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/une-enquete-ouverte-pour-tentative-de-meurtre-sur-un-adolescent-a-paris-lors-de-la-manifestation-du-17-octobre_8298381.html",
+   "summary": "Une enquête ouverte pour tentative de meurtre sur un adolescent à Paris lors de la manifestation du 17 octobre",
+   "image": "https://www.franceinfo.fr/pictures/ILgrLl1O3SWYtpsMskrGqf7lc2o/0x622:4826x3337/432x243/filters:format(jpg)/2026/11/24/6b05f253a8bb7070345073.jpg",
+   "date": null,
+   "pubdate": "2026-11-24T23:56:18.143692+00:00"
+  },
+  {
+   "title": "Migrants renvoyés au Rwanda : un accord qui change tout ? 24 novembre 4:34 vidéo 4 minutes 34",
+   "link": "https://www.franceinfo.fr/vrai-ou-fake/migrants-renvoyes-au-rwanda-un-accord-qui-change-tout_8298333.html",
+   "summary": "Migrants renvoyés au Rwanda : un accord qui change tout ?",
+   "image": "https://www.franceinfo.fr/pictures/RVEc3FXsRjDJ3bxt2KpZ_U35l-4/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/24/6b05ea80bcb1c853404339.jpg",
+   "date": null,
+   "pubdate": "2026-11-24T23:56:18.143692+00:00"
+  },
+  {
+   "title": "\"Il n'y a que ça, des p*tes à bougn\" : des accusations de racisme à l'école de police 24 novembre 1:40 vidéo 1 minute 40",
+   "link": "https://www.franceinfo.fr/faits-divers/police/il-n-y-a-que-ca-des-p-tes-a-bougn-des-accusations-de-racisme-a-l-ecole-de-police_8298345.html",
+   "summary": "\"Il n'y a que ça, des p*tes à bougn\" : des accusations de racisme à l'école de police",
+   "image": "https://www.franceinfo.fr/pictures/8RjBsfP3rCnP4nvaXfiM3Gdl_jM/0x23:1336x774/432x243/filters:format(jpg)/2026/11/24/6b05e6bd072af230487962.png",
+   "date": null,
+   "pubdate": "2026-11-24T23:56:18.143692+00:00"
+  },
+  {
+   "title": "Pourquoi autant d'universités restent-elles fermées ? 24 novembre 8:23 audio 8 minutes 23",
+   "link": "https://www.franceinfo.fr/replay-radio/la-question-des-informes/pourquoi-autant-d-universites-restent-elles-fermees_8275337.html",
+   "summary": "Pourquoi autant d'universités restent-elles fermées ?",
+   "image": "https://www.franceinfo.fr/pictures/mOeVxdC9KWO9FWMdVr8ylSEshUw/0x0:5343x3005/432x243/filters:format(jpg)/2026/02/17/maxnewsspecialtwo374765-6994b302f21ec988028207.jpg",
+   "date": null,
+   "pubdate": "2026-11-24T23:56:18.143692+00:00"
+  },
+  {
+   "title": "Plus de 300 gendarmes blessés depuis le début de la crise sociale, selon la gendarmerie nationale 24 novembre",
+   "link": "https://www.franceinfo.fr/societe/armee-securite-defense/plus-de-300-gendarmes-blesses-depuis-le-debut-de-la-crise-sociale-selon-la-gendarmerie-nationale_8297913.html",
+   "summary": "Plus de 300 gendarmes blessés depuis le début de la crise sociale, selon la gendarmerie nationale",
+   "image": "https://www.franceinfo.fr/pictures/Vb3OzrQainC9yjkvfFP0b2ktQaM/0x350:5360x3365/432x243/filters:format(jpg)/2026/11/24/6b05bbf33c257602191136.jpg",
+   "date": null,
+   "pubdate": "2026-11-24T23:56:18.143692+00:00"
+  },
+  {
+   "title": "La Russie soupçonnée de vouloir placer une arme nucléaire dans l'espace 24 novembre",
+   "link": "https://www.franceinfo.fr/societe/armee-securite-defense/nucleaire-militaire/la-russie-soupconnee-de-vouloir-placer-une-arme-nucleaire-dans-l-espace_8297916.html",
+   "summary": "La Russie soupçonnée de vouloir placer une arme nucléaire dans l'espace",
+   "image": "https://www.franceinfo.fr/pictures/IKYez7Ykhg1J4ueOlw3QZ2zRzP8/248x264:2440x1497/432x243/filters:format(jpg)/2026/11/24/6b05bb2768647712122858.jpg",
+   "date": null,
+   "pubdate": "2026-11-24T23:56:18.143692+00:00"
+  },
+  {
+   "title": "Plus de 90% des plaintes pour viol classées sans suite en France, selon la Fondation des Femmes Dans sa nouvelle campagne de sensibilisation et d’appel aux dons, la Fondation des Femmes dit vouloir \"donner suite\" à la détresse des femmes victimes de violences. Cette campagne, intitulée #Nousdonnonssuite, est publiée à l'occasion du 25 novembre, Journée internationale pour l’élimination de la violence à l’égard des femmes, et dévoile des chiffres alarmants. 24 novembre",
+   "link": "https://www.franceinfo.fr/societe/violences-faites-aux-femmes/plus-de-90-des-plaintes-pour-viol-classees-sans-suite-en-france-selon-la-fondation-des-femmes_8297715.html",
+   "summary": "Plus de 90% des plaintes pour viol classées sans suite en France, selon la Fondation des Femmes",
+   "image": "https://www.franceinfo.fr/pictures/eaC0T4s8e50nSKo-d2WSLq7HN1U/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/24/6b059fbde1d47278941802.png",
+   "date": null,
+   "pubdate": "2026-11-24T23:56:18.143692+00:00"
+  },
+  {
+   "title": "Trois agents du port de Dunkerque mis en examen et écroués pour des soupçons de trafic de stupéfiants et de corruption En tout, sept personnes sont soupçonnées d'avoir importé en France de la drogue en provenance d'Amérique du Sud. 73 kilos de cocaïne ont été découverts dans un conteneur en provenance du Costa Rica. 24 novembre",
+   "link": "https://www.franceinfo.fr/societe/drogue/trois-agents-du-port-de-dunkerque-mis-en-examen-et-ecroues-pour-des-soupcons-de-trafic-de-stupefiants-et-de-corruption_8298018.html",
+   "summary": "Trois agents du port de Dunkerque mis en examen et écroués pour des soupçons de trafic de stupéfiants et de corruption",
+   "image": "https://www.franceinfo.fr/pictures/jMvEK5QznRgk5CY2K0a4gd7kO3Q/0x0:4300x2418/432x243/filters:format(jpg)/2025/03/04/maxnewsfrfive209362-67c75c302da60913810284.jpg",
+   "date": null,
+   "pubdate": "2026-11-24T23:56:18.143692+00:00"
+  },
+  {
+   "title": "Eric Zemmour définitivement condamné pour \"contestation de l'existence de crime contre l'humanité\" après avoir affirmé que le maréchal Pétain \"avait sauvé les juifs français\" Le candidat d'extrême droite à la présidentielle avait été relaxé en première instance et en appel, mais ces décisions avaient été annulées une première fois par la Cour de cassation. 24 novembre",
+   "link": "https://www.franceinfo.fr/politique/eric-zemmour/eric-zemmour-definitivement-condamne-pour-contestation-de-l-existence-de-crime-contre-l-humanite-apres-avoir-affirme-que-le-marechal-petain-avait-sauve-les-juifs-francais_8297988.html",
+   "summary": "Eric Zemmour définitivement condamné pour \"contestation de l'existence de crime contre l'humanité\" après avoir affirmé que le maréchal Pétain \"avait sauvé les juifs français\"",
+   "image": "https://www.franceinfo.fr/pictures/fVAI4XbnHpfMhLpdd3Y01Dnkrvc/0x0:1024x576/432x243/filters:format(jpg)/2026/11/24/6b05b1f6f1d28594358716.jpg",
+   "date": null,
+   "pubdate": "2026-11-24T23:56:18.143692+00:00"
+  },
+  {
+   "title": "Presque toutes les régions françaises atteindront leur pic de population avant 2070, selon l'Insee Alors que le pic démographique a déjà été atteint dans plusieurs régions, d'autres poursuivront leur croissance après 2050, avant de voir leur population diminuer. 24 novembre",
+   "link": "https://www.franceinfo.fr/economie/croissance/presque-toutes-les-regions-francaises-atteindront-leur-pic-de-population-avant-2070-selon-l-insee_8297775.html",
+   "summary": "Presque toutes les régions françaises atteindront leur pic de population avant 2070, selon l'Insee",
+   "image": "https://www.franceinfo.fr/pictures/KOtG7LGAkuY4MQbciPr321PhHgc/0x376:5760x3616/432x243/filters:format(jpg)/2026/11/24/6b05926c321cb440928312.jpg",
+   "date": null,
+   "pubdate": "2026-11-24T23:56:18.143692+00:00"
+  },
+  {
+   "title": "Au Royaume-Uni, une tentative de cambriolage signalée dans l'une des résidences de William et Kate, deux hommes arrêtés Les deux hommes ont été interpellés lundi sur le domaine du manoir d'Anmer Hall par les forces de l'ordre, qui avaient reçu le signalement d'une \"activité suspecte\" sur les lieux. 24 novembre",
+   "link": "https://www.franceinfo.fr/monde/royaume-uni/au-royaume-uni-une-tentative-de-cambriolage-signalee-dans-l-une-des-residences-de-william-et-kate-deux-hommes-arretes_8297766.html",
+   "summary": "Au Royaume-Uni, une tentative de cambriolage signalée dans l'une des résidences de William et Kate, deux hommes arrêtés",
+   "image": "https://www.franceinfo.fr/pictures/hGzgWQZtpL0tlPjs-yMLJGzjR54/0x106:1024x682/432x243/filters:format(jpg)/2026/11/24/6b05a1928d267453791349.jpg",
+   "date": null,
+   "pubdate": "2026-11-24T23:56:18.143692+00:00"
+  },
+  {
+   "title": "Dans les Yvelines, deux enfants de 3 et 4 ans découverts enfermés dans la cave d'un pavillon, la mère de famille placée en garde à vue La mère a été retrouvée et placée en garde à vue lundi, vers 17 heures, selon une source policière. 24 novembre",
+   "link": "https://www.franceinfo.fr/faits-divers/dans-les-yvelines-deux-enfants-de-3-et-4-ans-decouverts-enfermes-dans-la-cave-d-un-pavillon-la-mere-de-famille-placee-en-garde-a-vue_8297799.html",
+   "summary": "Dans les Yvelines, deux enfants de 3 et 4 ans découverts enfermés dans la cave d'un pavillon, la mère de famille placée en garde à vue",
+   "image": "https://www.franceinfo.fr/pictures/5wt16dF8F4YZrOYg3GUU6QnYHEU/0x46:1024x622/432x243/filters:format(jpg)/2026/11/24/6b05983dd141a406472108.jpg",
+   "date": null,
+   "pubdate": "2026-11-24T23:56:18.143692+00:00"
+  },
+  {
+   "title": "Seuls six étudiants sur dix ont reçu une proposition de master en 2026 Le nombre d'étudiants ayant reçu une proposition d'admission a chuté de sept points en un an. 24 novembre",
    "link": "https://www.franceinfo.fr/societe/education/seuls-six-etudiants-sur-dix-ont-recu-une-proposition-de-master-en-2026_8297694.html",
    "summary": "Seuls six étudiants sur dix ont reçu une proposition de master en 2026",
-   "image": "https://www.franceinfo.fr/pictures/-45Ujx1hGqus8OYFP0hmBOpJuKs/250x0:8256x5504/432x297/filters:format(jpg)/2026/11/24/6b0588eb24c1d307816254.jpg",
+   "image": "https://www.franceinfo.fr/pictures/rVUb2pWKtFHr7KWLH4nWR25NsVY/0x860:8256x5504/432x243/filters:format(jpg)/2026/11/24/6b0588eb24c1d307816254.jpg",
    "date": null,
    "pubdate": "2026-11-24T13:52:11.700891+00:00"
   },
   {
-   "title": "Pulmoll, Valda… La fin des ventes de pastilles et autres confiseries en pharmacie surprend et inquiète la filière Aujourd'hui 2:06 vidéo 2 minutes 6",
-   "link": "https://www.franceinfo.fr/economie/pulmoll-valda-la-fin-des-ventes-de-pastilles-et-autres-confiseries-en-pharmacie-surprend-et-inquiete-la-filiere_8297733.html",
-   "summary": "Pulmoll, Valda… La fin des ventes de pastilles et autres confiseries en pharmacie surprend et inquiète la filière",
-   "image": "https://www.franceinfo.fr/pictures/MUGgJYRApizDo5zXmVBSaYxmT9s/0x44:1187x711/432x243/filters:format(jpg)/2026/11/24/6b058e9426651888805561.jpg",
-   "date": null,
-   "pubdate": "2026-11-24T13:52:11.700891+00:00"
-  },
-  {
-   "title": "Le policier qui a tué Nahel sera jugé pour meurtre Aujourd'hui 1:10 vidéo 1 minute 10",
-   "link": "https://www.franceinfo.fr/l-actu-pour-les-jeunes/le-policier-qui-a-tue-nahel-sera-juge-pour-meurtre_8297709.html",
-   "summary": "Le policier qui a tué Nahel sera jugé pour meurtre",
-   "image": "https://www.franceinfo.fr/pictures/A1rtNVshhK_yzz3RhXMQ8B6LSas/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/24/6b0585f609e82542268543.jpg",
-   "date": null,
-   "pubdate": "2026-11-24T13:52:11.700891+00:00"
-  },
-  {
-   "title": "Une enquête ouverte après un signalement pour détournement de fonds publics à l'agglomération du Havre présidée par Edouard Philippe Aujourd'hui",
+   "title": "Une enquête ouverte après un signalement pour détournement de fonds publics à l'agglomération du Havre présidée par Edouard Philippe \"Une plainte a été adressée à mes services via le Parquet national financier initialement saisi, j'ai transmis en enquête au commissariat du Havre\", a expliqué la procureure de la République. 24 novembre",
    "link": "https://www.franceinfo.fr/politique/edouard-philippe/une-enquete-ouverte-apres-un-signalement-pour-detournement-de-fonds-publics-a-l-agglomeration-du-havre-presidee-par-edouard-philippe_8297676.html",
    "summary": "Une enquête ouverte après un signalement pour détournement de fonds publics à l'agglomération du Havre présidée par Edouard Philippe",
-   "image": "https://www.franceinfo.fr/pictures/rocH5OwFwZdy9PW1s9sujZILhFY/0x25:1024x601/432x243/filters:format(jpg)/2026/11/24/6b05847c7b697551898979.jpg",
+   "image": "https://www.franceinfo.fr/pictures/DW77LrJ3I1Kjltf8r8DgNygwtTU/0x66:1024x642/432x243/filters:format(jpg)/2026/11/24/6b05847c7b697551898979.jpg",
    "date": null,
    "pubdate": "2026-11-24T13:52:11.700891+00:00"
   },
   {
-   "title": "Nicolas Sarkozy et Carla Bruni renvoyés en procès dans l'affaire de la fausse rétractation de Ziad Takieddine, notamment pour association de malfaiteurs Aujourd'hui",
+   "title": "Nicolas Sarkozy et Carla Bruni renvoyés en procès dans l'affaire de la fausse rétractation de Ziad Takieddine, notamment pour association de malfaiteurs L'ancien président et son épouse sont renvoyés pour association de malfaiteurs en vue de préparer une escroquerie en bande organisée ainsi que recel de subornation de témoin. 24 novembre",
    "link": "https://www.franceinfo.fr/societe/justice/nicolas-sarkozy-et-carla-bruni-sont-renvoyes-en-proces-dans-l-affaire-de-la-fausse-retractation-de-ziad-takieddine-notamment-pour-association-de-malfaiteurs_8297655.html",
    "summary": "Nicolas Sarkozy et Carla Bruni renvoyés en procès dans l'affaire de la fausse rétractation de Ziad Takieddine, notamment pour association de malfaiteurs",
    "image": "https://www.franceinfo.fr/pictures/nAYSHWt8vioZUy73vpbR32hTsqg/0x39:1024x615/432x243/filters:format(jpg)/2026/11/24/6b058160d1a20817131527.jpg",
@@ -75,7 +188,7 @@
    "pubdate": "2026-11-24T13:52:11.700891+00:00"
   },
   {
-   "title": "Les collèges et lycées accueillent près de 50 000 élèves de moins que l'an dernier Aujourd'hui",
+   "title": "Les collèges et lycées accueillent près de 50 000 élèves de moins que l'an dernier Seule la voie professionnelle connaît une légère hausse de ses effectifs, conséquence des politiques menées ces dernières années pour renforcer son attractivité. 24 novembre",
    "link": "https://www.franceinfo.fr/societe/education/les-colleges-et-lycees-accueillent-pres-de-50-000-eleves-de-moins-que-l-an-dernier_8297508.html",
    "summary": "Les collèges et lycées accueillent près de 50 000 élèves de moins que l'an dernier",
    "image": "https://www.franceinfo.fr/pictures/d4HnOziel9MkpvMvY6p1b1xqhho/0x650:6240x4160/432x243/filters:format(jpg)/2026/11/24/6b0572fb928b2960778752.jpg",
@@ -83,7 +196,7 @@
    "pubdate": "2026-11-24T13:52:11.700891+00:00"
   },
   {
-   "title": "\"Les Mahorais sont terrorisés\" : les maires de Mayotte appellent l'État à l'aide pour endiguer une criminalité devenue incontrôlable Aujourd'hui",
+   "title": "\"Les Mahorais sont terrorisés\" : les maires de Mayotte appellent l'État à l'aide pour endiguer une criminalité devenue incontrôlable Les maires des 17 communes de Mayotte ont été reçus lundi à Matignon. Confrontés à une flambée de violence sans précédent depuis quelques semaines, ils appellent l'État à réagir. 24 novembre",
    "link": "https://www.franceinfo.fr/france/mayotte/les-mahorais-sont-terrorises-les-maires-de-mayotte-appellent-l-etat-a-l-aide-pour-endiguer-une-criminalite-devenue-incontrolable_8297352.html",
    "summary": "\"Les Mahorais sont terrorisés\" : les maires de Mayotte appellent l'État à l'aide pour endiguer une criminalité devenue incontrôlable",
    "image": "https://www.franceinfo.fr/pictures/4smyt2ESD-a1r1gqTkTttO3jYuI/0x312:6000x3687/432x243/filters:format(jpg)/2026/11/24/6b0566ee971f4874302830.jpg",
@@ -91,7 +204,7 @@
    "pubdate": "2026-11-24T13:52:11.700891+00:00"
   },
   {
-   "title": "Seuls six parents sur dix font confiance à l'école, selon un sondage, \"un niveau historiquement bas\" Aujourd'hui",
+   "title": "Seuls six parents sur dix font confiance à l'école, selon un sondage, \"un niveau historiquement bas\" A la question \"avez-vous confiance dans le système éducatif français pour assurer à tous l'acquisition des savoirs de base\", 59% des parents ont répondu oui, selon un sondage de l'institut OpinionWay. 24 novembre",
    "link": "https://www.franceinfo.fr/societe/education/seuls-six-parents-sur-dix-font-confiance-a-l-ecole-selon-un-sondage-un-niveau-historiquement-bas_8297481.html",
    "summary": "Seuls six parents sur dix font confiance à l'école, selon un sondage, \"un niveau historiquement bas\"",
    "image": "https://www.franceinfo.fr/pictures/uULCWv-MH3zLzb42Pu139ADLMqc/0x625:6000x4000/432x243/filters:format(jpg)/2026/11/24/6b056ea9d70aa115921079.jpg",
@@ -99,15 +212,7 @@
    "pubdate": "2026-11-24T13:52:11.700891+00:00"
   },
   {
-   "title": "Mobilisation des étudiants et lycéens : le dilemme des universités en cette rentrée pour sauver l'année Aujourd'hui 1:12 vidéo 1 minute 12",
-   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-des-etudiants-et-lyceens-le-dilemme-des-universites-en-cette-rentree-pour-sauver-l-annee_8297466.html",
-   "summary": "Mobilisation des étudiants et lycéens : le dilemme des universités en cette rentrée pour sauver l'année",
-   "image": "https://www.franceinfo.fr/pictures/hiktHXYIDQZlsUF3nywmbJyc9Ro/0x5:1311x743/432x243/filters:format(jpg)/2026/11/24/6b0566c098c28614353468.jpg",
-   "date": null,
-   "pubdate": "2026-11-24T13:52:11.700891+00:00"
-  },
-  {
-   "title": "On vous résume la polémique autour de la députée RN Laure Lavalette, accusée d'avoir cautionné des écrits antisémites Aujourd'hui",
+   "title": "On vous résume la polémique autour de la députée RN Laure Lavalette, accusée d'avoir cautionné des écrits antisémites Le site LesJours.fr a retrouvé des articles et une caricature antisémites dans la revue d'un syndicat étudiant que présidait la porte-parole de Marine Le Pen dans les années 1990. 24 novembre",
    "link": "https://www.franceinfo.fr/societe/antisemitisme/on-vous-resume-la-polemique-autour-de-la-deputee-rn-laure-lavalette-accusee-d-avoir-cautionne-des-ecrits-antisemites_8297214.html",
    "summary": "On vous résume la polémique autour de la députée RN Laure Lavalette, accusée d'avoir cautionné des écrits antisémites",
    "image": "https://www.franceinfo.fr/pictures/3rrl8XbOsdu505N6UKEqw5d67wc/0x0:1024x576/432x243/filters:format(jpg)/2026/11/24/6b0539cef2142682517322.jpg",
@@ -115,7 +220,7 @@
    "pubdate": "2026-11-24T13:52:11.700891+00:00"
   },
   {
-   "title": ": Reportage \"On ne peut pas juste être neutres\" : les futurs médecins se préparent à l'entrée en vigueur de l'aide à mourir Alors que la loi sur l'aide à mourir doit entrer en vigueur début janvier, à la faculté de médecine Paris Cité, des étudiants de troisième année suivent un cours d'éthique et de sensibilisation. Les futurs soignants s'interrogent sur ce nouveau droit et ses implications dans leur pratique. Aujourd'hui : Reportage 4:52 audio 4 minutes 52",
+   "title": ": Reportage \"On ne peut pas juste être neutres\" : les futurs médecins se préparent à l'entrée en vigueur de l'aide à mourir Alors que la loi sur l'aide à mourir doit entrer en vigueur début janvier, à la faculté de médecine Paris Cité, des étudiants de troisième année suivent un cours d'éthique et de sensibilisation. Les futurs soignants s'interrogent sur ce nouveau droit et ses implications dans leur pratique. 24 novembre : Reportage 4:52 audio 4 minutes 52",
    "link": "https://www.franceinfo.fr/replay-radio/le-tour-de-la-question/reportage-on-ne-peut-pas-juste-etre-neutres-les-futurs-medecins-se-preparent-a-l-entree-en-vigueur-de-l-aide-a-mourir_8289863.html",
    "summary": "\"On ne peut pas juste être neutres\" : les futurs médecins se préparent à l'entrée en vigueur de l'aide à mourir",
    "image": "https://www.franceinfo.fr/pictures/Znqb3Y1FzNH9RaKtrIkJI5huV6Y/0x710:4624x3311/432x243/filters:format(jpg)/2026/11/23/6b04ad196b63d427035906.jpg",
@@ -123,106 +228,10 @@
    "pubdate": "2026-11-24T13:52:11.700891+00:00"
   },
   {
-   "title": "Face à la sous-représentation des femmes aux postes d'encadrement dans le cinéma, le CNC va mettre en place un nouveau système de bonus-malus Le Centre national du cinéma a dévoilé, lundi, son rapport annuel sur l'égalité entre les femmes et les hommes, consulté par France Culture. Aujourd'hui",
-   "link": "https://www.franceinfo.fr/culture/cinema/face-a-la-sous-representation-des-femmes-aux-postes-d-encadrement-dans-le-cinema-le-cnc-va-mettre-en-place-un-nouveau-systeme-de-bonus-malus_8297346.html",
-   "summary": "Face à la sous-représentation des femmes aux postes d'encadrement dans le cinéma, le CNC va mettre en place un nouveau système de bonus-malus",
-   "image": "https://www.franceinfo.fr/pictures/1Wz4lM8rRtTTIRITZTS30qgs94A/0x0:1024x576/432x243/filters:format(jpg)/2026/11/24/6b055b9e3661b714984839.jpg",
-   "date": null,
-   "pubdate": "2026-11-24T13:52:11.700891+00:00"
-  },
-  {
-   "title": "\"Ils ont une lassitude du lycée\" : un nombre inédit de proviseurs envisagent leur mutation, alerte le principal syndicat des chefs d'établissement Le ministère de l'Education nationale indique à franceinfo qu'il n'y a pas de hausse significative des demandes de mutation des chefs d'établissement pour la rentrée prochaine. Pourtant, le syndicat SNPDEN-Unsa assure que les proviseurs de lycées pensent de plus en plus à changer de ville, voire de métier. Aujourd'hui",
-   "link": "https://www.franceinfo.fr/societe/education/ils-ont-une-lassitude-du-lycee-un-nombre-inedit-proviseurs-demandent-leur-mutation-alerte-le-principal-syndicat-des-chefs-d-etablissement_8297274.html",
-   "summary": "\"Ils ont une lassitude du lycée\" : un nombre inédit de proviseurs envisagent leur mutation, alerte le principal syndicat des chefs d'établissement",
-   "image": "https://www.franceinfo.fr/pictures/khM7KFJJKnb6dTWUtQcxmj0X3n4/0x184:3543x2177/432x243/filters:format(jpg)/2026/11/24/6b05491924a18824336244.jpg",
-   "date": null,
-   "pubdate": "2026-11-24T13:52:11.700891+00:00"
-  },
-  {
-   "title": "L'Iran a infligé 74 coups de fouet à une chanteuse qui s'est produite sur YouTube sans voile En Iran, chanter sans voile peut coûter très cher. La chanteuse Parastoo Ahmadi, une des figures du mouvement Femme Vie Liberté, vient de subir 74 coups de fouet pour s'être produite tête nue dans un concert diffusé sur YouTube. Aujourd'hui",
-   "link": "https://www.franceinfo.fr/monde/iran/l-iran-a-inflige-74-coups-de-fouet-a-une-chanteuse-qui-s-est-produite-sur-youtube-sans-voile_8297238.html",
-   "summary": "L'Iran a infligé 74 coups de fouet à une chanteuse qui s'est produite sur YouTube sans voile",
-   "image": "https://www.franceinfo.fr/pictures/L5wDo9l1EutlUeMUGkg1D39CSWc/55x0:1851x1010/432x243/filters:format(jpg)/2026/11/24/6b0541d0165e1143780287.jpg",
-   "date": null,
-   "pubdate": "2026-11-24T13:52:11.700891+00:00"
-  },
-  {
-   "title": "Des bâtiments officiels détruits dans l'explosion d'une voiture piégée dans le centre de la Colombie \"Le narcoterrorisme est désespéré car nous le combattons avec détermination. Il cherche à nous intimider et à nous forcer à reculer\", a dénoncé le président colombien. Aujourd'hui",
-   "link": "https://www.franceinfo.fr/monde/ameriques/des-batiments-officiels-detruits-dans-l-explosion-d-une-voiture-piegee-dans-le-centre-de-la-colombie_8297034.html",
-   "summary": "Des bâtiments officiels détruits dans l'explosion d'une voiture piégée dans le centre de la Colombie",
-   "image": "https://www.franceinfo.fr/pictures/CkEnvcUyV7YsG0v5BtHL2leUBWU/0x288:4000x2538/432x243/filters:format(jpg)/2026/11/24/6b0545161ef54050882561.jpg",
-   "date": null,
-   "pubdate": "2026-11-24T13:52:11.700891+00:00"
-  },
-  {
-   "title": "\"Il faut se battre contre la banalisation des douleurs des femmes\", exige Salomé Saqué Sur France Inter, la journaliste présente son dernier livre \"C'est dans votre tête. En finir avec le mépris pour la douleur des femmes\". Aujourd'hui",
-   "link": "https://www.franceinfo.fr/sante/il-faut-se-battre-contre-la-banalisation-des-douleurs-des-femmes-exige-salome-saque_8297262.html",
-   "summary": "\"Il faut se battre contre la banalisation des douleurs des femmes\", exige Salomé Saqué",
-   "image": "https://www.franceinfo.fr/pictures/RNkLIJbATTi6IOu0DFd0-tdnxNE/0x0:1280x720/432x243/filters:format(jpg)/2026/11/24/6b05427756764651249573.jpeg",
-   "date": null,
-   "pubdate": "2026-11-24T13:52:11.700891+00:00"
-  },
-  {
-   "title": "Toujours autant de femmes ont été tuées par des proches dans le monde en 2025, dénonce l'ONU L'an dernier, 47 000 femmes et filles ont été tuées par des membres de leur entourage dans le monde, selon un rapport des Nations unies. Aujourd'hui",
-   "link": "https://www.franceinfo.fr/societe/feminicides/toujours-autant-de-femmes-sont-tuees-par-des-proches-dans-le-monde-en-2025-denonce-l-onu_8297208.html",
-   "summary": "Toujours autant de femmes ont été tuées par des proches dans le monde en 2025, dénonce l'ONU",
-   "image": "https://www.franceinfo.fr/pictures/t-AO7oX7q0wIManfVsTR0IYHIzk/0x0:4724x2657/432x243/filters:format(jpg)/2026/11/24/6b053cb07ea52678919875.jpg",
-   "date": null,
-   "pubdate": "2026-11-24T13:52:11.700891+00:00"
-  },
-  {
-   "title": ": info radio france Disparition de Sophie Chéênne en 1996 à Laval : de nouvelles investigations vont être menées par les gendarmes Le pôle cold case de Nanterre a délivré une nouvelle commission rogatoire, qui va notamment permettre de réaliser des analyses scientifiques afin d'établir le profil génétique de la disparue. Aujourd'hui : info radio france",
-   "link": "https://www.franceinfo.fr/faits-divers/info-radio-france-disparition-de-sophie-cheenne-en-1996-a-laval-de-nouvelles-investigations-vont-etre-menees-par-les-gendarmes_8297088.html",
-   "summary": "Disparition de Sophie Chéênne en 1996 à Laval : de nouvelles investigations vont être menées par les gendarmes",
-   "image": "https://www.franceinfo.fr/pictures/6ZaRL231c4clniY7rtax8Dd7XVk/0x0:1080x607/432x243/filters:format(jpg)/2026/11/24/6b05224c328ad672212207.jpeg",
-   "date": null,
-   "pubdate": "2026-11-24T13:52:11.700891+00:00"
-  },
-  {
-   "title": "Enquête sur des fuites présumées vers le RN : qui est Frédéric Chatillon, ex-président du GUD et ancien proche de Marine Le Pen ? Le nom de ce prestataire du parti à la flamme apparaît dans l'enquête visant l'ancien préfet Hugues Moutouh sur les soupçons de fuites du ministère de l'Intérieur vers le Rassemblement national. Aujourd'hui",
-   "link": "https://www.franceinfo.fr/societe/justice/enquete-sur-des-fuites-presumees-vers-le-rn-qui-est-frederic-chatillon-ex-president-du-gud-et-ancien-proche-de-marine-le-pen_8296470.html",
-   "summary": "Enquête sur des fuites présumées vers le RN : qui est Frédéric Chatillon, ex-président du GUD et ancien proche de Marine Le Pen ?",
-   "image": "https://www.franceinfo.fr/pictures/3cObraTc2z2zmuNLYjtPUoQ7enY/0x300:5760x3540/432x243/filters:format(jpg)/2026/11/23/6b04791775176316667372.jpg",
-   "date": null,
-   "pubdate": "2026-11-24T13:52:11.700891+00:00"
-  },
-  {
-   "title": "Une intersyndicale des étudiants et des enseignants du supérieur appelle à la mobilisation le 26 novembre \"Après des semaines de mobilisation inédite, les réponses du gouvernement restent insuffisantes\", affirment lundi dans un communiqué commun des syndicats de l'enseignement supérieur et des organisations étudiantes. Aujourd'hui",
-   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/une-intersyndicale-des-etudiants-et-des-enseignants-du-superieur-appelle-a-la-mobilisation-le-26-novembre_8296851.html",
-   "summary": "Une intersyndicale des étudiants et des enseignants du supérieur appelle à la mobilisation le 26 novembre",
-   "image": "https://www.franceinfo.fr/pictures/L4SASGYfR07QN2mLhbc7JKWKDuQ/0x93:1024x669/432x243/filters:format(jpg)/2026/11/24/6b04cc5d4b330782695068.jpg",
-   "date": null,
-   "pubdate": "2026-11-24T02:16:08.156584+00:00"
-  },
-  {
-   "title": "Six députés de la France insoumise vont porter plainte pour des menaces de mort anonymes Les députés Eric Coquerel, Antoine Léaument, Sarah Legrain, Marie Mesmeur, Thomas Portes et Carlos Martens Bilongo doivent se rendre mardi au commissariat pour déposer cette plainte commune. 23 novembre",
-   "link": "https://www.franceinfo.fr/societe/justice/six-deputes-de-la-france-insoumise-vont-porter-plainte-pour-des-menaces-de-mort-anonymes_8296824.html",
-   "summary": "Six députés de la France insoumise vont porter plainte pour des menaces de mort anonymes",
-   "image": "https://www.franceinfo.fr/pictures/PRtXX4W3Njm2i84eYkgYEC9Fya0/0x0:1024x576/432x243/filters:format(jpg)/2026/11/23/6b04bb9a1ca26463198217.jpg",
-   "date": null,
-   "pubdate": "2026-11-24T02:16:08.156584+00:00"
-  },
-  {
-   "title": "Environ 50 000 étudiants de l'Université de Lille n'auront plus cours en présentiel jusqu'à la fin du semestre Suite à une décision du président de l'Université de Lille, Régis Bordet, la plupart des campus resteront fermés jusqu'au 18 décembre. Une décision prise dans un contexte de mobilisation des étudiants. 23 novembre",
-   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/environ-50-000-etudiants-de-l-universite-de-lille-n-auront-plus-cours-en-presentiel-jusqu-a-la-fin-du-semestre_8296719.html",
-   "summary": "Environ 50 000 étudiants de l'Université de Lille n'auront plus cours en présentiel jusqu'à la fin du semestre",
-   "image": "https://www.franceinfo.fr/pictures/OwePw2PytUd6Ev0ghjFrpKfhp2o/0x225:1200x900/432x243/filters:format(jpg)/2026/11/23/6b04993bb7972147638710.jpg",
-   "date": null,
-   "pubdate": "2026-11-24T02:16:08.156584+00:00"
-  },
-  {
-   "title": "Une personne de 53 ans mise en examen après un tir de mortier qui a gravement blessé un manifestant à Montpellier le 17 octobre La personne mise en examen ne reconnaît pas les faits. Elle a été placée en détention provisoire et a fait appel de cette décision. 23 novembre",
-   "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/une-personne-de-53-ans-mise-en-examen-apres-un-tir-de-mortier-qui-a-gravement-blesse-un-manifestant-a-montpellier-le-17-octobre_8296626.html",
-   "summary": "Une personne de 53 ans mise en examen après un tir de mortier qui a gravement blessé un manifestant à Montpellier le 17 octobre",
-   "image": "https://www.franceinfo.fr/pictures/NFAmGyy564UX_lUUsoxuyFRcrF8/432x243/filters:format(jpg)/2026/11/21/6b01d8c1038b9067518539.jpg",
-   "date": null,
-   "pubdate": "2026-11-24T02:16:08.156584+00:00"
-  },
-  {
    "title": "De l'Espagne à l'Albanie en passant par la France, une jeunesse européenne unie par des causes communes descend dans la rue 9:00 article 9 minutes",
    "link": "https://www.franceinfo.fr/monde/europe/de-l-espagne-a-l-albanie-en-passant-par-la-france-une-jeunesse-europeenne-unie-par-des-causes-communes-descend-dans-la-rue_8290049.html",
    "summary": "De l'Espagne à l'Albanie en passant par la France, une jeunesse européenne unie par des causes communes descend dans la rue",
-   "image": "https://www.franceinfo.fr/pictures/wottJ-87phlwjr0-rP4_iBtRMBs/0x0:2000x1125/432x243/filters:format(jpg)/2026/11/19/6afef8f20352c032597013.jpg",
+   "image": "https://www.franceinfo.fr/pictures/HfyGcLM64b1Zmf-Qbz00_MsZ44g/437x0:1562x1125/100x100/filters:format(jpg)/2026/11/19/6afef8f20352c032597013.jpg",
    "date": null,
    "pubdate": "2026-11-23T13:01:18.596580+00:00"
   },
@@ -238,7 +247,7 @@
    "title": ": Reportage \"Cet outil ne va pas tout faire à la place de l'élève\" : en Estonie, une version spécifique de ChatGPT fait son entrée dans les salles de classe : Reportage 5:10 audio 5 minutes 10",
    "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/cet-outil-ne-va-pas-tout-faire-a-la-place-de-l-eleve-en-estonie-une-version-specifique-de-chatgpt-fait-son-entree-dans-les-salles-de-classe_8268662.html",
    "summary": "\"Cet outil ne va pas tout faire à la place de l'élève\" : en Estonie, une version spécifique de ChatGPT fait son entrée dans les salles de classe",
-   "image": "https://www.franceinfo.fr/pictures/5Fj9_fuB2l4Ytt9udxg3Sr6HzL8/0x0:8192x4608/432x243/filters:format(jpg)/2026/11/19/6afe8d5d83b2c564518561.jpg",
+   "image": "https://www.franceinfo.fr/pictures/nO9YryGsyz6tWzUfcFFvUlI-Lyc/0x0:5464x5464/100x100/filters:format(jpg)/2026/11/19/6afe8d5d83b2c564518561.jpg",
    "date": null,
    "pubdate": "2026-11-23T01:47:31.297444+00:00"
   },
@@ -254,7 +263,7 @@
    "title": ": Témoignage \"C'est vrai que c'est devenu un peu banal\" : entre crédit à la consommation et paiement fractionné, le surendettement explose chez les moins de 30 ans : Témoignage 4:26 audio 4 minutes 26",
    "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/temoignage-des-qu-il-y-a-un-nouveau-telephone-tout-le-monde-fait-un-credit-comment-le-surendettement-explose-chez-les-moins-de-30-ans_8266763.html",
    "summary": "\"C'est vrai que c'est devenu un peu banal\" : entre crédit à la consommation et paiement fractionné, le surendettement explose chez les moins de 30 ans",
-   "image": "https://www.franceinfo.fr/pictures/0vJrzKv1xu28m8H3OOEfl2qpFp0/0x447:8600x5285/432x243/filters:format(jpg)/2026/11/17/6afc627606ac2930035633.jpg",
+   "image": "https://www.franceinfo.fr/pictures/dLymeSCwjQxA8hIDpW5YVM45nKk/1433x0:7166x5733/100x100/filters:format(jpg)/2026/11/17/6afc627606ac2930035633.jpg",
    "date": null,
    "pubdate": "2026-11-21T02:24:20.964002+00:00"
   },
@@ -262,7 +271,7 @@
    "title": "\"On comprend qu'on n'a vraiment plus rien, qu'il faut recommencer à zéro\" : ils ont vu leur maison brûler et tentent de se relever 5:32 vidéo 5 minutes 32",
    "link": "https://www.franceinfo.fr/faits-divers/incendie/on-comprend-qu-on-n-a-vraiment-plus-rien-qu-il-faut-recommencer-a-zero-ils-ont-vu-leur-maison-bruler-et-tentent-de-se-relever_8287193.html",
    "summary": "\"On comprend qu'on n'a vraiment plus rien, qu'il faut recommencer à zéro\" : ils ont vu leur maison brûler et tentent de se relever",
-   "image": "https://www.franceinfo.fr/pictures/sKWobtY44pcYT93UKpJrPjOg5WU/99x0:1363x711/432x243/filters:format(jpg)/2026/11/17/6afcc4bb0b829632305263.jpg",
+   "image": "https://www.franceinfo.fr/pictures/BAGwIvGmpaoLOwL2MQD67DFAI6M/375x0:1086x711/100x100/filters:format(jpg)/2026/11/17/6afcc4bb0b829632305263.jpg",
    "date": null,
    "pubdate": "2026-11-21T02:24:20.964002+00:00"
   }

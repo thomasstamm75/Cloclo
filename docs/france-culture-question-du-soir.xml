@@ -5,8 +5,15 @@
     <link>https://www.radiofrance.fr/franceculture/podcasts/le-temps-du-debat</link>
     <description>Flux fabriqué par Cloclo à partir de https://www.radiofrance.fr/franceculture/podcasts/le-temps-du-debat</description>
     <language>fr</language>
-    <lastBuildDate>Tue, 24 Nov 2026 13:52:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 23:57:20 +0000</lastBuildDate>
     <atom:link href="https://thomasstamm75.github.io/Cloclo/france-culture-question-du-soir.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Les hauts fonctionnaires peuvent-ils s'engager dans la présidentielle ?</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/les-hauts-fonctionnaires-peuvent-ils-s-engager-dans-la-presidentielle-5630984</link>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/les-hauts-fonctionnaires-peuvent-ils-s-engager-dans-la-presidentielle-5630984</guid>
+      <pubDate>Tue, 24 Nov 2026 23:57:20 +0000</pubDate>
+      <description>&lt;img src="https://www.radiofrance.fr/pikapi/images/ba65ebf3-2c70-4817-8d94-504b91800d02/2048" alt=""/&gt;&lt;p&gt;Cette semaine, la question de la place des hauts fonctionnaires face aux partis politiques a été remise sur le devant de la scène. Trois invités viennent discuter des spécificités de ce statut, entre neutralité, intérêt général et intérêt des gouvernements pour lesquels ils travaillent.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Faut-il une règle d'or budgétaire ?</title>
       <link>https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/faut-il-une-regle-d-or-budgetaire-9050437</link>
@@ -118,13 +125,6 @@
       <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/faut-il-assumer-la-selection-a-l-universite-4857739</guid>
       <pubDate>Thu, 29 Oct 2026 11:00:00 +0000</pubDate>
       <description>&lt;img src="https://www.radiofrance.fr/pikapi/images/8b14718c-e36d-48ab-9c3b-1fc6e28c7a0b/2048" alt=""/&gt;&lt;p&gt;La sélection est-elle un tabou français ? Présente à différents niveaux du système éducatif, elle suscite un débat sur ses finalités : outil de réussite et d’orientation pour certains, facteur d’exclusion sociale pour d’autres.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>État juif ou démocratique : Israël doit-il choisir ?</title>
-      <link>https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/retour-sur-les-elections-en-israel-7933436</link>
-      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/retour-sur-les-elections-en-israel-7933436</guid>
-      <pubDate>Wed, 28 Oct 2026 11:00:00 +0000</pubDate>
-      <description>&lt;img src="https://www.radiofrance.fr/pikapi/images/8b0b1eb7-9876-4b7e-86da-48212e2b3150/2048" alt=""/&gt;&lt;p&gt;Israël sort des urnes sans majorité claire. Si Netanyahou conserve un socle solide, la progression des partis arabes, jusqu’à 19 sièges possibles, place leur rôle au centre des négociations. Leur poids électoral relance le débat sur la définition d’Israël comme État juif et démocratique.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
