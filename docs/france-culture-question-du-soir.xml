@@ -5,8 +5,15 @@
     <link>https://www.radiofrance.fr/franceculture/podcasts/le-temps-du-debat</link>
     <description>Flux fabriqué par Cloclo à partir de https://www.radiofrance.fr/franceculture/podcasts/le-temps-du-debat</description>
     <language>fr</language>
-    <lastBuildDate>Mon, 23 Nov 2026 13:01:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 02:16:22 +0000</lastBuildDate>
     <atom:link href="https://thomasstamm75.github.io/Cloclo/france-culture-question-du-soir.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Faut-il une règle d'or budgétaire ?</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/faut-il-une-regle-d-or-budgetaire-9050437</link>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/faut-il-une-regle-d-or-budgetaire-9050437</guid>
+      <pubDate>Mon, 23 Nov 2026 11:00:00 +0000</pubDate>
+      <description>&lt;img src="https://www.radiofrance.fr/pikapi/images/2c4a1205-f09e-4d7c-a1a9-3aae3d0ec289/2048" alt=""/&gt;&lt;p&gt;Emmanuel Macron a confirmé au Figaro sa volonté d'inscrire dans la Constitution une règle d'or budgétaire, suivant les issues du débat budgétaire au Parlement et les "volatilités" sur les marchés. Quels sont les enjeux de cette proposition ? Deux économistes s'emparent de la question.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Peut-on exiger la neutralité des associations ?</title>
       <link>https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/la-liberte-associative-est-elle-menacee-7367372</link>
@@ -118,13 +125,6 @@
       <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/retour-sur-les-elections-en-israel-7933436</guid>
       <pubDate>Wed, 28 Oct 2026 11:00:00 +0000</pubDate>
       <description>&lt;img src="https://www.radiofrance.fr/pikapi/images/8b0b1eb7-9876-4b7e-86da-48212e2b3150/2048" alt=""/&gt;&lt;p&gt;Israël sort des urnes sans majorité claire. Si Netanyahou conserve un socle solide, la progression des partis arabes, jusqu’à 19 sièges possibles, place leur rôle au centre des négociations. Leur poids électoral relance le débat sur la définition d’Israël comme État juif et démocratique.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Réélection de Lula : le Brésil a-t-il sauvé sa démocratie ?</title>
-      <link>https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/reelection-de-lula-le-bresil-a-t-il-sauve-sa-democratie-8269925</link>
-      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/reelection-de-lula-le-bresil-a-t-il-sauve-sa-democratie-8269925</guid>
-      <pubDate>Tue, 27 Oct 2026 22:20:50 +0000</pubDate>
-      <description>&lt;img src="https://www.radiofrance.fr/pikapi/images/06db54d1-14d8-495b-87b3-2108ca2dabd6/2048" alt=""/&gt;&lt;p&gt;La réélection de Lula constitue un revers pour l’extrême droite brésilienne, mais le bolsonarisme reste puissant au Congrès. Entre institutions démocratiques résistantes, mobilisation populaire et gauche fragilisée, quelles sont les forces et les limites du progressisme brésilien ?&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -1,23 +1,13 @@
 {
- "etag": "\"d07af4273284e0e346189f4b9e3cd2aa-gzip\"",
+ "etag": "\"d6f3a6d6a8864e9eabadd1d8459050f0-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/temoignage-des-qu-il-y-a-un-nouveau-telephone-tout-le-monde-fait-un-credit-comment-le-surendettement-explose-chez-les-moins-de-30-ans_8266763.html": "2026-11-21T02:24:20.964002+00:00",
   "https://www.franceinfo.fr/faits-divers/incendie/on-comprend-qu-on-n-a-vraiment-plus-rien-qu-il-faut-recommencer-a-zero-ils-ont-vu-leur-maison-bruler-et-tentent-de-se-relever_8287193.html": "2026-11-21T02:24:20.964002+00:00",
   "https://www.franceinfo.fr/societe/euthanasie/comprendre-les-debats-sur-la-fin-de-vie/": "2026-11-21T11:16:20.238477+00:00",
-  "https://www.franceinfo.fr/societe/on-n-attendra-pas-l-election-presidentielle-on-veut-que-la-vie-des-gens-s-ameliore-maintenant-pointe-le-secretaire-confederal-de-la-cgt_8294036.html": "2026-11-21T19:24:00.057665+00:00",
-  "https://www.franceinfo.fr/societe/manifestations/j-ai-fait-une-formation-a-250-personnes-a-paris-les-formations-de-street-medics-attirent-de-plus-en-plus-de-militants_8293769.html": "2026-11-21T19:24:00.057665+00:00",
-  "https://www.franceinfo.fr/societe/manifestations/une-enquete-ouverte-contre-des-policiers-pour-violences-et-agression-sexuelle-en-marge-de-la-manifestation-parisienne-du-31-octobre_8293754.html": "2026-11-21T19:24:00.057665+00:00",
-  "https://www.franceinfo.fr/societe/manifestations/mobilisation-du-21-novembre-82-500-personnes-ont-manifeste-dans-l-hexagone-selon-le-ministere-de-l-interieur-150-000-selon-la-cgt_8294093.html": "2026-11-22T01:23:48.531805+00:00",
-  "https://www.franceinfo.fr/societe/drogue/le-mexique-annonce-l-arrestation-de-chapo-isidro-un-baron-de-la-drogue-recherche-par-les-etats-unis_8294513.html": "2026-11-22T11:35:32.801507+00:00",
-  "https://www.franceinfo.fr/replay-radio/livre-actu/quand-la-chine-manipule-le-monde-le-bluff-de-la-chine-pour-imposer-son-leadership-sur-la-planete_8250472.html": "2026-11-22T11:35:32.801507+00:00",
-  "https://www.franceinfo.fr/sante/le-syndicat-national-des-dermatologues-va-saisir-le-conseil-d-etat-sur-le-decret-sur-la-medecine-esthetique_8294621.html": "2026-11-22T11:35:32.801507+00:00",
-  "https://www.franceinfo.fr/decouverte/noel/entre-contraintes-budgetaires-et-envie-de-faire-durer-les-fetes-pourquoi-noel-deboule-de-plus-en-plus-tot_8288288.html": "2026-11-22T11:35:32.801507+00:00",
   "https://www.franceinfo.fr/societe/nos-jours-heureux/": "2026-11-23T01:47:31.297444+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/cet-outil-ne-va-pas-tout-faire-a-la-place-de-l-eleve-en-estonie-une-version-specifique-de-chatgpt-fait-son-entree-dans-les-salles-de-classe_8268662.html": "2026-11-23T01:47:31.297444+00:00",
   "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/une-marche-de-marseille-a-trappes-pour-le-vivre-ensemble-et-pour-rendre-hommage-aux-victimes-du-racisme_8296073.html": "2026-11-23T13:01:18.596580+00:00",
-  "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/cagnotte-repas-commun-a-ramecourt-dans-le-pas-de-calais-les-habitants-s-entraident-pour-aider-les-sinistres-des-crues_8296052.html": "2026-11-23T13:01:18.596580+00:00",
-  "https://www.franceinfo.fr/l-actu-pour-les-jeunes/une-interdiction-de-se-reunir-devant-ces-lycees-d-ile-de-france_8296067.html": "2026-11-23T13:01:18.596580+00:00",
   "https://www.franceinfo.fr/politique/anne-hidalgo/les-enquetes-sur-les-deplacements-de-l-ex-maire-ps-de-paris-anne-hidalgo-dont-un-en-polynesie-classees-sans-suite_8296004.html": "2026-11-23T13:01:18.596580+00:00",
   "https://www.franceinfo.fr/societe/harcelement-sexuel/loi-integrale-contre-les-violences-sexuelles-et-sexistes-les-syndicats-veulent-une-lutte-renforcee-sur-le-lieu-de-travail_8295830.html": "2026-11-23T13:01:18.596580+00:00",
   "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/temoignage-apres-cet-accident-ma-vie-a-bascule-explique-killian-godeau-victime-d-un-tir-de-mortier-en-marge-de-la-manifestation-du-17-octobre-a-montpellier_8295761.html": "2026-11-23T13:01:18.596580+00:00",
@@ -27,89 +17,99 @@
   "https://www.franceinfo.fr/societe/education/blocage-des-lycees/les-rassemblements-interdits-autour-de-plusieurs-etablissements-scolaires-dans-les-hauts-de-seine-dans-le-val-de-marne-et-en-seine-saint-denis_8295563.html": "2026-11-23T13:01:18.596580+00:00",
   "https://www.franceinfo.fr/monde/europe/de-l-espagne-a-l-albanie-en-passant-par-la-france-une-jeunesse-europeenne-unie-par-des-causes-communes-descend-dans-la-rue_8290049.html": "2026-11-23T13:01:18.596580+00:00",
   "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/une-police-de-l-immigration-hors-de-controle-aux-etats-unis-une-arrestation-dans-un-aeroport-relance-la-polemique-sur-les-methodes-de-l-ice_8273897.html": "2026-11-23T13:01:18.596580+00:00",
-  "https://www.franceinfo.fr/faits-divers/police/la-justice-saisie-apres-des-signalements-de-messages-racistes-dans-une-ecole-de-police_8295449.html": "2026-11-23T13:01:18.596580+00:00"
+  "https://www.franceinfo.fr/faits-divers/police/la-justice-saisie-apres-des-signalements-de-messages-racistes-dans-une-ecole-de-police_8295449.html": "2026-11-23T13:01:18.596580+00:00",
+  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/une-intersyndicale-des-etudiants-et-des-enseignants-du-superieur-appelle-a-la-mobilisation-le-26-novembre_8296851.html": "2026-11-24T02:16:08.156584+00:00",
+  "https://www.franceinfo.fr/societe/justice/six-deputes-de-la-france-insoumise-vont-porter-plainte-pour-des-menaces-de-mort-anonymes_8296824.html": "2026-11-24T02:16:08.156584+00:00",
+  "https://www.franceinfo.fr/societe/armee-securite-defense/des-rafale-francais-se-posent-sur-une-autoroute-en-finlande_8296773.html": "2026-11-24T02:16:08.156584+00:00",
+  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/environ-50-000-etudiants-de-l-universite-de-lille-n-auront-plus-cours-en-presentiel-jusqu-a-la-fin-du-semestre_8296719.html": "2026-11-24T02:16:08.156584+00:00",
+  "https://www.franceinfo.fr/societe/armee-securite-defense/defense-un-rafale-francais-effectue-une-man-uvre-perilleuse-sur-une-autoroute-finlandaise_8296677.html": "2026-11-24T02:16:08.156584+00:00",
+  "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/une-personne-de-53-ans-mise-en-examen-apres-un-tir-de-mortier-qui-a-gravement-blesse-un-manifestant-a-montpellier-le-17-octobre_8296626.html": "2026-11-24T02:16:08.156584+00:00",
+  "https://www.franceinfo.fr/l-actu-pour-les-jeunes/des-messages-a-caractere-raciste-retrouves-dans-les-messages-d-eleves-en-ecole-de-police_8296605.html": "2026-11-24T02:16:08.156584+00:00",
+  "https://www.franceinfo.fr/monde/ameriques/reportage-sans-eux-on-ne-pourrait-pas-revenir-en-haiti-l-intervention-militaire-salvadorienne-contre-les-gangs-largement-saluee-par-la-population_8296398.html": "2026-11-24T02:16:08.156584+00:00",
+  "https://www.franceinfo.fr/culture/jeux-video/gta-vi/le-jeune-hacker-qui-avait-fait-fuiter-des-videos-de-gta-vi-condamne-a-sept-ans-de-prison_8296395.html": "2026-11-24T02:16:08.156584+00:00",
+  "https://www.franceinfo.fr/faits-divers/un-morceau-de-plafond-s-effondre-dans-une-salle-de-classe-du-lycee-saint-charles-a-marseille_8296196.html": "2026-11-24T02:16:08.156584+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "Une marche de Marseille à Trappes \"pour le vivre-ensemble\" et \"pour rendre hommage aux victimes\" du racisme Il y a un mois, le 23 octobre, l'attentat raciste de Trappes a fait un mort, Pengo Bossio Wangi et plusieurs blessés. Aujourd'hui",
-   "link": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/une-marche-de-marseille-a-trappes-pour-le-vivre-ensemble-et-pour-rendre-hommage-aux-victimes-du-racisme_8296073.html",
-   "summary": "Une marche de Marseille à Trappes \"pour le vivre-ensemble\" et \"pour rendre hommage aux victimes\" du racisme",
-   "image": "https://www.franceinfo.fr/pictures/FbX8Ppj7WWRhDqZ-le-N6Od30qc/0x0:5632x3872/432x297/filters:format(jpg)/2026/11/23/6b043890a855a405247035.jpg",
+   "title": "Une intersyndicale des étudiants et des enseignants du supérieur appelle à la mobilisation le 26 novembre \"Après des semaines de mobilisation inédite, les réponses du gouvernement restent insuffisantes\", affirment lundi dans un communiqué commun des syndicats de l'enseignement supérieur et des organisations étudiantes. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/une-intersyndicale-des-etudiants-et-des-enseignants-du-superieur-appelle-a-la-mobilisation-le-26-novembre_8296851.html",
+   "summary": "Une intersyndicale des étudiants et des enseignants du supérieur appelle à la mobilisation le 26 novembre",
+   "image": "https://www.franceinfo.fr/pictures/jImzc6gh77n3FBi9nh515ZCW3UY/32x0:1024x682/432x297/filters:format(jpg)/2026/11/24/6b04cc5d4b330782695068.jpg",
    "date": null,
-   "pubdate": "2026-11-23T13:01:18.596580+00:00"
+   "pubdate": "2026-11-24T02:16:08.156584+00:00"
   },
   {
-   "title": "Cagnotte, repas commun… À Ramecourt, dans le Pas-de-Calais, les habitants s'entraident pour aider les sinistrés des crues Aujourd'hui 2:32 vidéo 2 minutes 32",
-   "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/cagnotte-repas-commun-a-ramecourt-dans-le-pas-de-calais-les-habitants-s-entraident-pour-aider-les-sinistres-des-crues_8296052.html",
-   "summary": "Cagnotte, repas commun… À Ramecourt, dans le Pas-de-Calais, les habitants s'entraident pour aider les sinistrés des crues",
-   "image": "https://www.franceinfo.fr/pictures/4u7a6paEJZ57XpVOTXn57pdrNNU/54x0:1273x686/432x243/filters:format(jpg)/2026/11/23/6b04363106499296765566.jpg",
+   "title": "Six députés de la France insoumise vont porter plainte pour des menaces de mort anonymes 23 novembre",
+   "link": "https://www.franceinfo.fr/societe/justice/six-deputes-de-la-france-insoumise-vont-porter-plainte-pour-des-menaces-de-mort-anonymes_8296824.html",
+   "summary": "Six députés de la France insoumise vont porter plainte pour des menaces de mort anonymes",
+   "image": "https://www.franceinfo.fr/pictures/PRtXX4W3Njm2i84eYkgYEC9Fya0/0x0:1024x576/432x243/filters:format(jpg)/2026/11/23/6b04bb9a1ca26463198217.jpg",
    "date": null,
-   "pubdate": "2026-11-23T13:01:18.596580+00:00"
+   "pubdate": "2026-11-24T02:16:08.156584+00:00"
   },
   {
-   "title": "Une interdiction de se réunir devant ces lycées d'Ile-de-France Aujourd'hui 1:05 vidéo 1 minute 5",
-   "link": "https://www.franceinfo.fr/l-actu-pour-les-jeunes/une-interdiction-de-se-reunir-devant-ces-lycees-d-ile-de-france_8296067.html",
-   "summary": "Une interdiction de se réunir devant ces lycées d'Ile-de-France",
-   "image": "https://www.franceinfo.fr/pictures/yIZNZEuvhErBXxnVcL6H16XPHFo/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/23/6b04352579a02289989099.jpg",
+   "title": "Des Rafale français se posent sur une autoroute en Finlande 23 novembre 1:23 vidéo 1 minute 23",
+   "link": "https://www.franceinfo.fr/societe/armee-securite-defense/des-rafale-francais-se-posent-sur-une-autoroute-en-finlande_8296773.html",
+   "summary": "Des Rafale français se posent sur une autoroute en Finlande",
+   "image": "https://www.franceinfo.fr/pictures/MnwaDmnttb3fz0FzDeEwRsDWz1E/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/23/6b04a46d608ba136581776.jpg",
    "date": null,
-   "pubdate": "2026-11-23T13:01:18.596580+00:00"
+   "pubdate": "2026-11-24T02:16:08.156584+00:00"
   },
   {
-   "title": "Les enquêtes sur les déplacements de l'ex-maire PS de Paris Anne Hidalgo, dont un en Polynésie, classées sans suite Aujourd'hui",
-   "link": "https://www.franceinfo.fr/politique/anne-hidalgo/les-enquetes-sur-les-deplacements-de-l-ex-maire-ps-de-paris-anne-hidalgo-dont-un-en-polynesie-classees-sans-suite_8296004.html",
-   "summary": "Les enquêtes sur les déplacements de l'ex-maire PS de Paris Anne Hidalgo, dont un en Polynésie, classées sans suite",
-   "image": "https://www.franceinfo.fr/pictures/FTh9SHDJV_tEWnIkWwN6OXG-Ea4/0x193:5000x3006/432x243/filters:format(jpg)/2026/11/23/6b042f2ed90b2588190069.jpg",
+   "title": "Environ 50 000 étudiants de l'Université de Lille n'auront plus cours en présentiel jusqu'à la fin du semestre 23 novembre",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/environ-50-000-etudiants-de-l-universite-de-lille-n-auront-plus-cours-en-presentiel-jusqu-a-la-fin-du-semestre_8296719.html",
+   "summary": "Environ 50 000 étudiants de l'Université de Lille n'auront plus cours en présentiel jusqu'à la fin du semestre",
+   "image": "https://www.franceinfo.fr/pictures/OwePw2PytUd6Ev0ghjFrpKfhp2o/0x225:1200x900/432x243/filters:format(jpg)/2026/11/23/6b04993bb7972147638710.jpg",
    "date": null,
-   "pubdate": "2026-11-23T13:01:18.596580+00:00"
+   "pubdate": "2026-11-24T02:16:08.156584+00:00"
   },
   {
-   "title": "Loi intégrale contre les violences sexuelles et sexistes : les syndicats veulent une lutte renforcée sur les lieu de travail Aujourd'hui",
-   "link": "https://www.franceinfo.fr/societe/harcelement-sexuel/loi-integrale-contre-les-violences-sexuelles-et-sexistes-les-syndicats-veulent-une-lutte-renforcee-sur-le-lieu-de-travail_8295830.html",
-   "summary": "Loi intégrale contre les violences sexuelles et sexistes : les syndicats veulent une lutte renforcée sur les lieu de travail",
-   "image": "https://www.franceinfo.fr/pictures/P89nLiftDCVs3UJ4PftZLxcupTc/0x0:7008x3942/432x243/filters:format(jpg)/2026/11/23/6b0419ca0a3ba239058380.jpg",
+   "title": "Défense : un Rafale français effectue une manœuvre périlleuse sur une autoroute finlandaise 23 novembre 1:23 vidéo 1 minute 23",
+   "link": "https://www.franceinfo.fr/societe/armee-securite-defense/defense-un-rafale-francais-effectue-une-man-uvre-perilleuse-sur-une-autoroute-finlandaise_8296677.html",
+   "summary": "Défense : un Rafale français effectue une manœuvre périlleuse sur une autoroute finlandaise",
+   "image": "https://www.franceinfo.fr/pictures/I46OnGnIsWW9s4YrXbbONssuOcs/0x38:968x583/432x243/filters:format(jpg)/2026/11/23/6b0491c9e7c05249363538.png",
    "date": null,
-   "pubdate": "2026-11-23T13:01:18.596580+00:00"
+   "pubdate": "2026-11-24T02:16:08.156584+00:00"
   },
   {
-   "title": ": Témoignage \"Après cet accident, ma vie a basculé\", explique Killian Godeau, victime d'un tir de mortier en marge de la manifestation du 17 octobre à Montpellier Aujourd'hui : Témoignage",
-   "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/temoignage-apres-cet-accident-ma-vie-a-bascule-explique-killian-godeau-victime-d-un-tir-de-mortier-en-marge-de-la-manifestation-du-17-octobre-a-montpellier_8295761.html",
-   "summary": "\"Après cet accident, ma vie a basculé\", explique Killian Godeau, victime d'un tir de mortier en marge de la manifestation du 17 octobre à Montpellier",
-   "image": "https://www.franceinfo.fr/pictures/CCmtnU0XR8o-e2aEQWcQy6_guik/0x0:1200x675/432x243/filters:format(jpg)/2026/11/23/6b040e7acd930190514782.jpeg",
+   "title": "Une personne de 53 ans mise en examen après un tir de mortier qui a gravement blessé un manifestant à Montpellier le 17 octobre 23 novembre",
+   "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/une-personne-de-53-ans-mise-en-examen-apres-un-tir-de-mortier-qui-a-gravement-blesse-un-manifestant-a-montpellier-le-17-octobre_8296626.html",
+   "summary": "Une personne de 53 ans mise en examen après un tir de mortier qui a gravement blessé un manifestant à Montpellier le 17 octobre",
+   "image": "https://www.franceinfo.fr/pictures/NFAmGyy564UX_lUUsoxuyFRcrF8/432x243/filters:format(jpg)/2026/11/21/6b01d8c1038b9067518539.jpg",
    "date": null,
-   "pubdate": "2026-11-23T13:01:18.596580+00:00"
+   "pubdate": "2026-11-24T02:16:08.156584+00:00"
   },
   {
-   "title": "Mobilisation lycéenne : Edouard Geffray fait état de 98 lycéens et d'une trentaine de professionnels blessés la semaine dernière Aujourd'hui",
-   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-lyceenne-edouard-geffray-fait-etat-de-98-lyceens-et-d-une-trentaine-de-professionnels-blesses-la-semaine-derniere_8295674.html",
-   "summary": "Mobilisation lycéenne : Edouard Geffray fait état de 98 lycéens et d'une trentaine de professionnels blessés la semaine dernière",
-   "image": "https://www.franceinfo.fr/pictures/vz0iIRhbQxqueBYYQDEIhH-MbbU/0x19:3543x2012/432x243/filters:format(jpg)/2026/11/23/6b04084181024010331544.jpg",
+   "title": "Des messages à caractère raciste retrouvés dans les messages d'élèves en école de police 23 novembre 1:04 vidéo 1 minute 4",
+   "link": "https://www.franceinfo.fr/l-actu-pour-les-jeunes/des-messages-a-caractere-raciste-retrouves-dans-les-messages-d-eleves-en-ecole-de-police_8296605.html",
+   "summary": "Des messages à caractère raciste retrouvés dans les messages d'élèves en école de police",
+   "image": "https://www.franceinfo.fr/pictures/CPQpdsONJ7p3eS3BwlSuk0Qku2E/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/23/6b047d86b1446370173607.jpg",
    "date": null,
-   "pubdate": "2026-11-23T13:01:18.596580+00:00"
+   "pubdate": "2026-11-24T02:16:08.156584+00:00"
   },
   {
-   "title": "Féminicide de Chahinez Daoud : le procès en appel est \"un supplice pour les parties civiles\", déclare l'avocate d'un fils de la victime Aujourd'hui",
-   "link": "https://www.franceinfo.fr/societe/feminicides/feminicide-de-chahinez-daoud-le-proces-en-appel-est-un-supplice-pour-les-parties-civiles-declare-l-avocate-d-un-fils-de-la-victime_8295650.html",
-   "summary": "Féminicide de Chahinez Daoud : le procès en appel est \"un supplice pour les parties civiles\", déclare l'avocate d'un fils de la victime",
-   "image": "https://www.franceinfo.fr/pictures/3AAEy-ehM661_Z0dG1lXb2NUe_o/0x317:4032x2585/432x243/filters:format(jpg)/2026/11/23/6b040b55eae40146352795.jpg",
+   "title": ": Reportage \"Sans eux, on ne pourrait pas revenir\" : en Haïti, l'intervention militaire salvadorienne contre les gangs largement saluée par la population 23 novembre : Reportage",
+   "link": "https://www.franceinfo.fr/monde/ameriques/reportage-sans-eux-on-ne-pourrait-pas-revenir-en-haiti-l-intervention-militaire-salvadorienne-contre-les-gangs-largement-saluee-par-la-population_8296398.html",
+   "summary": "\"Sans eux, on ne pourrait pas revenir\" : en Haïti, l'intervention militaire salvadorienne contre les gangs largement saluée par la population",
+   "image": "https://www.franceinfo.fr/pictures/ksRf4qyPjYMX7SjIyM2Ok8MPitw/0x312:6000x3687/432x243/filters:format(jpg)/2026/11/23/6b04772879b32994794954.jpg",
    "date": null,
-   "pubdate": "2026-11-23T13:01:18.596580+00:00"
+   "pubdate": "2026-11-24T02:16:08.156584+00:00"
   },
   {
-   "title": "Mobilisation sociale : l'ancien patron de la CFDT Laurent Berger dénonce \"une forme de mépris\" face aux difficultés du quotidien Aujourd'hui",
-   "link": "https://www.franceinfo.fr/societe/manifestations/mobilisation-sociale-l-ancien-patron-de-la-cfdt-laurent-berger-denonce-une-forme-de-mepris-face-aux-difficultes-du-quotidien_8295662.html",
-   "summary": "Mobilisation sociale : l'ancien patron de la CFDT Laurent Berger dénonce \"une forme de mépris\" face aux difficultés du quotidien",
-   "image": "https://www.franceinfo.fr/pictures/XZRLqFkVxqlL5LG2WNDhtVQ0WrQ/0x0:1280x720/432x243/filters:format(jpg)/2026/11/23/6b03fd5506c06352293386.jpeg",
+   "title": "Le jeune hackeur qui avait fait fuiter des vidéos de \"GTA VI\" condamné à sept ans de prison 23 novembre",
+   "link": "https://www.franceinfo.fr/culture/jeux-video/gta-vi/le-jeune-hacker-qui-avait-fait-fuiter-des-videos-de-gta-vi-condamne-a-sept-ans-de-prison_8296395.html",
+   "summary": "Le jeune hackeur qui avait fait fuiter des vidéos de \"GTA VI\" condamné à sept ans de prison",
+   "image": "https://www.franceinfo.fr/pictures/hx34a8s3Fyr6Uw6B_TbNQRUJOHU/0x552:6000x3927/432x243/filters:format(jpg)/2026/11/23/6b0473e3e61d0572258080.jpg",
    "date": null,
-   "pubdate": "2026-11-23T13:01:18.596580+00:00"
+   "pubdate": "2026-11-24T02:16:08.156584+00:00"
   },
   {
-   "title": "Les rassemblements interdits autour de plusieurs établissements scolaires dans les Hauts-de-Seine, dans le Val-de-Marne et en Seine-Saint-Denis Aujourd'hui",
-   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/les-rassemblements-interdits-autour-de-plusieurs-etablissements-scolaires-dans-les-hauts-de-seine-dans-le-val-de-marne-et-en-seine-saint-denis_8295563.html",
-   "summary": "Les rassemblements interdits autour de plusieurs établissements scolaires dans les Hauts-de-Seine, dans le Val-de-Marne et en Seine-Saint-Denis",
-   "image": "https://www.franceinfo.fr/pictures/C_Y5OkUDk-QSaifjMmDYt5tHn6g/432x243/filters:format(jpg)/2026/10/23/6adb72c171b7f628911953.jpg",
+   "title": "Un morceau de plafond s'effondre dans une salle de classe du lycée Saint-Charles à Marseille 23 novembre",
+   "link": "https://www.franceinfo.fr/faits-divers/un-morceau-de-plafond-s-effondre-dans-une-salle-de-classe-du-lycee-saint-charles-a-marseille_8296196.html",
+   "summary": "Un morceau de plafond s'effondre dans une salle de classe du lycée Saint-Charles à Marseille",
+   "image": "https://www.franceinfo.fr/pictures/WIXz1ssa_OwjyLX_Rw61cTWFcm0/432x243/filters:format(jpg)/2026/10/05/6ac3798e40d73973733034.jpg",
    "date": null,
-   "pubdate": "2026-11-23T13:01:18.596580+00:00"
+   "pubdate": "2026-11-24T02:16:08.156584+00:00"
   },
   {
    "title": "De l'Espagne à l'Albanie en passant par la France, une jeunesse européenne unie par des causes communes descend dans la rue 9:00 article 9 minutes",
@@ -120,7 +120,71 @@
    "pubdate": "2026-11-23T13:01:18.596580+00:00"
   },
   {
-   "title": "Une police de l'immigration \"hors de contrôle\" : aux États-Unis, une arrestation dans un aéroport relance la polémique sur les méthodes de l'ICE Les images d'une arrestation brutale, dans un aéroport près de Seattle, de deux personnes par des agents de l'ICE, la police de l'immigration instaurée par Donald Trump, ont fait le tour du monde, entraînant de vives condamnations de ces méthodes. Aujourd'hui 3:05 audio 3 minutes 5",
+   "title": "Une marche de Marseille à Trappes \"pour le vivre-ensemble\" et \"pour rendre hommage aux victimes\" du racisme Il y a un mois, le 23 octobre, l'attentat raciste de Trappes a fait un mort, Pengo Bossio Wangi et plusieurs blessés. 23 novembre",
+   "link": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/une-marche-de-marseille-a-trappes-pour-le-vivre-ensemble-et-pour-rendre-hommage-aux-victimes-du-racisme_8296073.html",
+   "summary": "Une marche de Marseille à Trappes \"pour le vivre-ensemble\" et \"pour rendre hommage aux victimes\" du racisme",
+   "image": "https://www.franceinfo.fr/pictures/U_TvWHs12L_Sh1Ke-keefZUeUio/0x108:5808x3375/432x243/filters:format(jpg)/2026/11/23/6b043890a855a405247035.jpg",
+   "date": null,
+   "pubdate": "2026-11-23T13:01:18.596580+00:00"
+  },
+  {
+   "title": "Les enquêtes sur les déplacements de l'ex-maire PS de Paris Anne Hidalgo, dont un en Polynésie, classées sans suite D'après le Parquet national financier, \"les déplacements en cause avaient été réalisés conformément aux intérêts et compétences\" de la Ville de Paris. 23 novembre",
+   "link": "https://www.franceinfo.fr/politique/anne-hidalgo/les-enquetes-sur-les-deplacements-de-l-ex-maire-ps-de-paris-anne-hidalgo-dont-un-en-polynesie-classees-sans-suite_8296004.html",
+   "summary": "Les enquêtes sur les déplacements de l'ex-maire PS de Paris Anne Hidalgo, dont un en Polynésie, classées sans suite",
+   "image": "https://www.franceinfo.fr/pictures/FTh9SHDJV_tEWnIkWwN6OXG-Ea4/0x193:5000x3006/432x243/filters:format(jpg)/2026/11/23/6b042f2ed90b2588190069.jpg",
+   "date": null,
+   "pubdate": "2026-11-23T13:01:18.596580+00:00"
+  },
+  {
+   "title": "Loi intégrale contre les violences sexuelles et sexistes : les syndicats veulent une lutte renforcée sur les lieu de travail Selon les syndicats, \"9% des viols ou tentatives de viol ont lieu au travail\" et \"30% des salariées ont déjà été harcelées ou agressées sexuellement sur leur lieu de travail\". 23 novembre",
+   "link": "https://www.franceinfo.fr/societe/harcelement-sexuel/loi-integrale-contre-les-violences-sexuelles-et-sexistes-les-syndicats-veulent-une-lutte-renforcee-sur-le-lieu-de-travail_8295830.html",
+   "summary": "Loi intégrale contre les violences sexuelles et sexistes : les syndicats veulent une lutte renforcée sur les lieu de travail",
+   "image": "https://www.franceinfo.fr/pictures/P89nLiftDCVs3UJ4PftZLxcupTc/0x0:7008x3942/432x243/filters:format(jpg)/2026/11/23/6b0419ca0a3ba239058380.jpg",
+   "date": null,
+   "pubdate": "2026-11-23T13:01:18.596580+00:00"
+  },
+  {
+   "title": ": Témoignage \"Après cet accident, ma vie a basculé\", explique Killian Godeau, victime d'un tir de mortier en marge de la manifestation du 17 octobre à Montpellier Le jeune homme de 21 ans, originaire du Gard, participait pour la première fois à une manifestation avec sa sœur et son cousin quand il a été touché au bras. 23 novembre : Témoignage",
+   "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/temoignage-apres-cet-accident-ma-vie-a-bascule-explique-killian-godeau-victime-d-un-tir-de-mortier-en-marge-de-la-manifestation-du-17-octobre-a-montpellier_8295761.html",
+   "summary": "\"Après cet accident, ma vie a basculé\", explique Killian Godeau, victime d'un tir de mortier en marge de la manifestation du 17 octobre à Montpellier",
+   "image": "https://www.franceinfo.fr/pictures/CCmtnU0XR8o-e2aEQWcQy6_guik/0x0:1200x675/432x243/filters:format(jpg)/2026/11/23/6b040e7acd930190514782.jpeg",
+   "date": null,
+   "pubdate": "2026-11-23T13:01:18.596580+00:00"
+  },
+  {
+   "title": "Mobilisation lycéenne : Edouard Geffray fait état de 98 lycéens et d'une trentaine de professionnels blessés la semaine dernière Le ministre de l'Education nationale promet que les actions \"violentes, délibérées, gravissimes\" en marge du mouvement lycéen seront \"pénalement sanctionnées\". 23 novembre",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-lyceenne-edouard-geffray-fait-etat-de-98-lyceens-et-d-une-trentaine-de-professionnels-blesses-la-semaine-derniere_8295674.html",
+   "summary": "Mobilisation lycéenne : Edouard Geffray fait état de 98 lycéens et d'une trentaine de professionnels blessés la semaine dernière",
+   "image": "https://www.franceinfo.fr/pictures/vz0iIRhbQxqueBYYQDEIhH-MbbU/0x19:3543x2012/432x243/filters:format(jpg)/2026/11/23/6b04084181024010331544.jpg",
+   "date": null,
+   "pubdate": "2026-11-23T13:01:18.596580+00:00"
+  },
+  {
+   "title": "Féminicide de Chahinez Daoud : le procès en appel est \"un supplice pour les parties civiles\", déclare l'avocate d'un fils de la victime L'ex-mari de la victime brûlée vive en 2021, reconnu coupable de l'avoir tuée en première instance, est à nouveau jugé de lundi à vendredi à Périgueux, en Dordogne. 23 novembre",
+   "link": "https://www.franceinfo.fr/societe/feminicides/feminicide-de-chahinez-daoud-le-proces-en-appel-est-un-supplice-pour-les-parties-civiles-declare-l-avocate-d-un-fils-de-la-victime_8295650.html",
+   "summary": "Féminicide de Chahinez Daoud : le procès en appel est \"un supplice pour les parties civiles\", déclare l'avocate d'un fils de la victime",
+   "image": "https://www.franceinfo.fr/pictures/3AAEy-ehM661_Z0dG1lXb2NUe_o/0x317:4032x2585/432x243/filters:format(jpg)/2026/11/23/6b040b55eae40146352795.jpg",
+   "date": null,
+   "pubdate": "2026-11-23T13:01:18.596580+00:00"
+  },
+  {
+   "title": "Mobilisation sociale : l'ancien patron de la CFDT Laurent Berger dénonce \"une forme de mépris\" face aux difficultés du quotidien Sur France Inter, le désormais directeur de l'Institut mutualiste pour l'environnement et la solidarité de Crédit Mutuel Alliance Fédérale s'inquiète de la réponse au mouvement social en cours. 23 novembre",
+   "link": "https://www.franceinfo.fr/societe/manifestations/mobilisation-sociale-l-ancien-patron-de-la-cfdt-laurent-berger-denonce-une-forme-de-mepris-face-aux-difficultes-du-quotidien_8295662.html",
+   "summary": "Mobilisation sociale : l'ancien patron de la CFDT Laurent Berger dénonce \"une forme de mépris\" face aux difficultés du quotidien",
+   "image": "https://www.franceinfo.fr/pictures/XZRLqFkVxqlL5LG2WNDhtVQ0WrQ/0x0:1280x720/432x243/filters:format(jpg)/2026/11/23/6b03fd5506c06352293386.jpeg",
+   "date": null,
+   "pubdate": "2026-11-23T13:01:18.596580+00:00"
+  },
+  {
+   "title": "Les rassemblements interdits autour de plusieurs établissements scolaires dans les Hauts-de-Seine, dans le Val-de-Marne et en Seine-Saint-Denis En tout, quarante établissements sont concernés par des restrictions lundi. Certaines mesures sont prolongées jusqu'à vendredi soir. 23 novembre",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/les-rassemblements-interdits-autour-de-plusieurs-etablissements-scolaires-dans-les-hauts-de-seine-dans-le-val-de-marne-et-en-seine-saint-denis_8295563.html",
+   "summary": "Les rassemblements interdits autour de plusieurs établissements scolaires dans les Hauts-de-Seine, dans le Val-de-Marne et en Seine-Saint-Denis",
+   "image": "https://www.franceinfo.fr/pictures/C_Y5OkUDk-QSaifjMmDYt5tHn6g/432x243/filters:format(jpg)/2026/10/23/6adb72c171b7f628911953.jpg",
+   "date": null,
+   "pubdate": "2026-11-23T13:01:18.596580+00:00"
+  },
+  {
+   "title": "Une police de l'immigration \"hors de contrôle\" : aux États-Unis, une arrestation dans un aéroport relance la polémique sur les méthodes de l'ICE Les images d'une arrestation brutale, dans un aéroport près de Seattle, de deux personnes par des agents de l'ICE, la police de l'immigration instaurée par Donald Trump, ont fait le tour du monde, entraînant de vives condamnations de ces méthodes. 23 novembre 3:05 audio 3 minutes 5",
    "link": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/une-police-de-l-immigration-hors-de-controle-aux-etats-unis-une-arrestation-dans-un-aeroport-relance-la-polemique-sur-les-methodes-de-l-ice_8273897.html",
    "summary": "Une police de l'immigration \"hors de contrôle\" : aux États-Unis, une arrestation dans un aéroport relance la polémique sur les méthodes de l'ICE",
    "image": "https://www.franceinfo.fr/pictures/jwNucCDRcxIlnWpjCeJvZEcWbrk/132x0:1786x930/432x243/filters:format(jpg)/2026/11/23/6b03d71902638622192381.jpg",
@@ -128,9 +192,9 @@
    "pubdate": "2026-11-23T13:01:18.596580+00:00"
   },
   {
-   "title": "La justice saisie après des signalements de messages racistes dans une école de police Deux enquêtes, l'une judiciaire et l'autre administrative, sont ouvertes dans cette affaire qui concerne les élèves de l'École nationale supérieure de la police (ENSP) de Cannes-Écluse (Seine-et-Marne), dont un a été suspendu. Aujourd'hui",
+   "title": "L'élève suspendu après des signalements de messages racistes dans une école de police, dénonce une agression sexuelle de la part d'un groupe d'élèves L'élève de l’École nationale supérieure de police de Cannes-Ecluse visé par une enquête administrative et suspendu pour des soupçons de propos racistes dans un groupe WhatsApp privé entre élèves, dénonce une agression sexuelle. 23 novembre",
    "link": "https://www.franceinfo.fr/faits-divers/police/la-justice-saisie-apres-des-signalements-de-messages-racistes-dans-une-ecole-de-police_8295449.html",
-   "summary": "La justice saisie après des signalements de messages racistes dans une école de police",
+   "summary": "L'élève suspendu après des signalements de messages racistes dans une école de police, dénonce une agression sexuelle de la part d'un groupe d'élèves",
    "image": "https://www.franceinfo.fr/pictures/swOAMXjarJm_TuB0solCHFsaaao/0x0:4200x2362/432x243/filters:format(jpg)/2026/11/23/6b03d1aad216f583533373.jpg",
    "date": null,
    "pubdate": "2026-11-23T13:01:18.596580+00:00"
@@ -150,70 +214,6 @@
    "image": "https://www.franceinfo.fr/pictures/5Fj9_fuB2l4Ytt9udxg3Sr6HzL8/0x0:8192x4608/432x243/filters:format(jpg)/2026/11/19/6afe8d5d83b2c564518561.jpg",
    "date": null,
    "pubdate": "2026-11-23T01:47:31.297444+00:00"
-  },
-  {
-   "title": "Le Mexique annonce l'arrestation de Chapo Isidro, un baron de la drogue recherché par les Etats-Unis Ce narcotrafiquant de 44 ans fait l'objet de poursuites dans les deux pays. Le FBI offrait une récompense de cinq millions de dollars pour son arrestation. 22 novembre",
-   "link": "https://www.franceinfo.fr/societe/drogue/le-mexique-annonce-l-arrestation-de-chapo-isidro-un-baron-de-la-drogue-recherche-par-les-etats-unis_8294513.html",
-   "summary": "Le Mexique annonce l'arrestation de Chapo Isidro, un baron de la drogue recherché par les Etats-Unis",
-   "image": "https://www.franceinfo.fr/pictures/dBAUKUhl0XoQ2k5heJLeTgsM_V0/0x0:1024x576/432x243/filters:format(jpg)/2026/11/22/6b02b76ae8883917963460.jpg",
-   "date": null,
-   "pubdate": "2026-11-22T11:35:32.801507+00:00"
-  },
-  {
-   "title": "\"Quand la Chine manipule le monde\", le bluff de la Chine pour imposer son leadership sur la planète. Cette semaine, une spécialiste des relations internationales montre comment la Chine met en scène sa puissance pour faire oublier ses faiblesses et décourager ses adversaires. 22 novembre 2:31 audio 2 minutes 31",
-   "link": "https://www.franceinfo.fr/replay-radio/livre-actu/quand-la-chine-manipule-le-monde-le-bluff-de-la-chine-pour-imposer-son-leadership-sur-la-planete_8250472.html",
-   "summary": "\"Quand la Chine manipule le monde\", le bluff de la Chine pour imposer son leadership sur la planète.",
-   "image": "https://www.franceinfo.fr/pictures/NMNfccrvNMMwGIpqjKUDF4Q5Hf8/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/19/6afeae5941a4e764965401.jpg",
-   "date": null,
-   "pubdate": "2026-11-22T11:35:32.801507+00:00"
-  },
-  {
-   "title": "Le Syndicat national des dermatologues \"va saisir le Conseil d'État\" sur le décret sur la médecine esthétique Le Syndicat national des dermatologues \"va saisir le Conseil d'État\", indique ce dimanche sur France Inter la Dr Catherine Oliveres Ghouti, membre de ce syndicat qui s'oppose au nouveau décret sur la médecine esthétique. 22 novembre",
-   "link": "https://www.franceinfo.fr/sante/le-syndicat-national-des-dermatologues-va-saisir-le-conseil-d-etat-sur-le-decret-sur-la-medecine-esthetique_8294621.html",
-   "summary": "Le Syndicat national des dermatologues \"va saisir le Conseil d'État\" sur le décret sur la médecine esthétique",
-   "image": "https://www.franceinfo.fr/pictures/M-4vmnCd-cGgCT2vk0jX5ipxsLg/0x113:3543x2106/432x243/filters:format(jpg)/2026/11/22/6b02ae46e9c2e948313135.jpg",
-   "date": null,
-   "pubdate": "2026-11-22T11:35:32.801507+00:00"
-  },
-  {
-   "title": "Entre contraintes budgétaires et envie de \"faire durer\" les fêtes, pourquoi Noël déboule de plus en plus tôt Difficile de passer un mois de novembre sans entendre parler de Noël. Comme les stratégies des entreprises, les pratiques des Français avancent progressivement la période commerciale de cette célébration. Un phénomène qui répond aux évolutions récentes de nos sociétés. 22 novembre",
-   "link": "https://www.franceinfo.fr/decouverte/noel/entre-contraintes-budgetaires-et-envie-de-faire-durer-les-fetes-pourquoi-noel-deboule-de-plus-en-plus-tot_8288288.html",
-   "summary": "Entre contraintes budgétaires et envie de \"faire durer\" les fêtes, pourquoi Noël déboule de plus en plus tôt",
-   "image": "https://www.franceinfo.fr/pictures/HVMspPrxVOkIDkOR2Ol4xoI1jr0/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/18/6afdc3d25b431707533811.jpg",
-   "date": null,
-   "pubdate": "2026-11-22T11:35:32.801507+00:00"
-  },
-  {
-   "title": "La mobilisation du 21 novembre a rassemblé 82 500 manifestants dans l'Hexagone selon le ministère de l'Intérieur, 150 000 selon la CGT Cette journée de mobilisation s'est inscrite dans le cadre d'un appel européen de syndicats et associations de défense du droit au logement à des actions coordonnées sur trois jours, de vendredi à dimanche. 21 novembre",
-   "link": "https://www.franceinfo.fr/societe/manifestations/mobilisation-du-21-novembre-82-500-personnes-ont-manifeste-dans-l-hexagone-selon-le-ministere-de-l-interieur-150-000-selon-la-cgt_8294093.html",
-   "summary": "La mobilisation du 21 novembre a rassemblé 82 500 manifestants dans l'Hexagone selon le ministère de l'Intérieur, 150 000 selon la CGT",
-   "image": "https://www.franceinfo.fr/pictures/Dp1DAL_uqlCC9lfdn-PuBJnEFEY/0x53:1024x629/432x243/filters:format(jpg)/2026/11/21/6b01cbc538f07508938814.jpg",
-   "date": null,
-   "pubdate": "2026-11-22T01:23:48.531805+00:00"
-  },
-  {
-   "title": "\"On n'attendra pas l'élection présidentielle, on veut que la vie des gens s'améliore maintenant\", pointe le secrétaire confédéral de la CGT Alors que des dizaines de milliers de personnes ont encore manifesté dans les rues samedi, la CGT appelle à maintenir la pression sur le gouvernement pour obtenir, notamment, des hausses de salaires. 21 novembre",
-   "link": "https://www.franceinfo.fr/societe/on-n-attendra-pas-l-election-presidentielle-on-veut-que-la-vie-des-gens-s-ameliore-maintenant-pointe-le-secretaire-confederal-de-la-cgt_8294036.html",
-   "summary": "\"On n'attendra pas l'élection présidentielle, on veut que la vie des gens s'améliore maintenant\", pointe le secrétaire confédéral de la CGT",
-   "image": "https://www.franceinfo.fr/pictures/z_96LSxXy773Em8rlXiLQDItTAw/0x282:5435x3340/432x243/filters:format(jpg)/2026/11/21/6b01d996544c5489466237.jpg",
-   "date": null,
-   "pubdate": "2026-11-21T19:24:00.057665+00:00"
-  },
-  {
-   "title": ": Reportage \"J'ai fait une formation à 250 personnes\" : à Paris, les formations de street medics attirent de plus en plus de militants En deux heures, les participants apprennent notamment à réagir face aux effets des gaz lacrymogènes, mais les formateurs insistent aussi sur les limites de leur rôle : les street medics ne sont pas des secouristes. 21 novembre : Reportage",
-   "link": "https://www.franceinfo.fr/societe/manifestations/j-ai-fait-une-formation-a-250-personnes-a-paris-les-formations-de-street-medics-attirent-de-plus-en-plus-de-militants_8293769.html",
-   "summary": "\"J'ai fait une formation à 250 personnes\" : à Paris, les formations de street medics attirent de plus en plus de militants",
-   "image": "https://www.franceinfo.fr/pictures/ZHkRY69V7BTi1FAxqkxlbe2ILNo/0x430:8256x5074/432x243/filters:format(jpg)/2026/11/21/6b01a31385a08145106471.jpg",
-   "date": null,
-   "pubdate": "2026-11-21T19:24:00.057665+00:00"
-  },
-  {
-   "title": "Une enquête ouverte contre des policiers pour violences et agression sexuelle en marge de la manifestation parisienne du 31 octobre Les deux manifestants sont par ailleurs accusés d'avoir chacun frappé un policier, ce qu'ils contestent. 21 novembre",
-   "link": "https://www.franceinfo.fr/societe/manifestations/une-enquete-ouverte-contre-des-policiers-pour-violences-et-agression-sexuelle-en-marge-de-la-manifestation-parisienne-du-31-octobre_8293754.html",
-   "summary": "Une enquête ouverte contre des policiers pour violences et agression sexuelle en marge de la manifestation parisienne du 31 octobre",
-   "image": "https://www.franceinfo.fr/pictures/8QhRM43ic9EQoSLT5WLlhvvecCc/0x53:1024x629/432x243/filters:format(jpg)/2026/11/21/6b01a3b255b6d716123531.jpg",
-   "date": null,
-   "pubdate": "2026-11-21T19:24:00.057665+00:00"
   },
   {
    "title": "Comprendre les débats sur la fin de vie 15 contenus",

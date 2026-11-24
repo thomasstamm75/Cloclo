@@ -1,8 +1,7 @@
 {
- "etag": "\"cffr2r\"",
+ "etag": "\"1funic0\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/reelection-de-lula-le-bresil-a-t-il-sauve-sa-democratie-8269925": "2026-10-27T22:20:50.125579+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/retour-sur-les-elections-en-israel-7933436": "2026-10-28T11:00:00+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/faut-il-assumer-la-selection-a-l-universite-4857739": "2026-10-29T11:00:00+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/quelles-ruines-laisserons-nous-derriere-nous-5610036": "2026-10-30T18:04:04.396175+00:00",
@@ -18,10 +17,19 @@
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/la-primaire-de-la-droite-et-du-centre-sert-elle-a-trouver-un-candidat-ou-des-idees-4618075": "2026-11-16T19:40:39.736805+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/trump-poutine-xi-a-shenzhen-le-nouveau-yalta-3676239": "2026-11-18T20:38:40.515878+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/cop-31-le-multilateralisme-est-il-mort-8910641": "2026-11-19T11:00:00+00:00",
-  "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/la-liberte-associative-est-elle-menacee-7367372": "2026-11-20T11:00:00+00:00"
+  "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/la-liberte-associative-est-elle-menacee-7367372": "2026-11-20T11:00:00+00:00",
+  "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/faut-il-une-regle-d-or-budgetaire-9050437": "2026-11-23T11:00:00+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "Faut-il une règle d'or budgétaire ?",
+   "link": "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/faut-il-une-regle-d-or-budgetaire-9050437",
+   "summary": "Emmanuel Macron a confirmé au Figaro sa volonté d'inscrire dans la Constitution une règle d'or budgétaire, suivant les issues du débat budgétaire au Parlement et les \"volatilités\" sur les marchés. Quels sont les enjeux de cette proposition ? Deux économistes s'emparent de la question.",
+   "image": "https://www.radiofrance.fr/pikapi/images/2c4a1205-f09e-4d7c-a1a9-3aae3d0ec289/2048",
+   "date": "2026-11-23T11:00:00+00:00",
+   "pubdate": "2026-11-23T11:00:00+00:00"
+  },
   {
    "title": "Peut-on exiger la neutralité des associations ?",
    "link": "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/la-liberte-associative-est-elle-menacee-7367372",
@@ -149,14 +157,6 @@
    "image": "https://www.radiofrance.fr/pikapi/images/8b0b1eb7-9876-4b7e-86da-48212e2b3150/2048",
    "date": null,
    "pubdate": "2026-10-28T11:00:00+00:00"
-  },
-  {
-   "title": "Réélection de Lula : le Brésil a-t-il sauvé sa démocratie ?",
-   "link": "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/reelection-de-lula-le-bresil-a-t-il-sauve-sa-democratie-8269925",
-   "summary": "La réélection de Lula constitue un revers pour l’extrême droite brésilienne, mais le bolsonarisme reste puissant au Congrès. Entre institutions démocratiques résistantes, mobilisation populaire et gauche fragilisée, quelles sont les forces et les limites du progressisme brésilien ?",
-   "image": "https://www.radiofrance.fr/pikapi/images/06db54d1-14d8-495b-87b3-2108ca2dabd6/2048",
-   "date": null,
-   "pubdate": "2026-10-27T22:20:50.125579+00:00"
   }
  ]
 }
