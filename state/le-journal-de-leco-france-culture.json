@@ -1,8 +1,7 @@
 {
- "etag": "\"1mujc9i\"",
+ "etag": "\"1n2yvva\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/les-cryptomonnaies-qui-enrichissent-la-famille-trump-4253986": "2026-10-29T10:06:57.704936+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/l-ia-moteur-fragile-de-la-croissance-americaine-6786048": "2026-10-30T10:09:15.728182+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/territoires-zero-chomeur-de-longue-duree-un-retour-a-l-emploi-perenne-encore-menace-2176224": "2026-11-02T11:20:56.517484+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/les-ministeres-dopes-a-l-ia-pour-faire-des-economies-budgetaires-7507164": "2026-11-03T06:55:23.591112+00:00",
@@ -19,10 +18,19 @@
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/la-rue-belge-se-mobilise-contre-la-vie-chere-4886214": "2026-11-19T11:00:00+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/italie-quand-les-salaires-baissent-2536678": "2026-11-20T11:00:00+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/qu-est-ce-qu-une-entreprise-francaise-5294417": "2026-11-23T11:00:00+00:00",
-  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/banques-europeennes-pourquoi-la-course-a-la-taille-s-accelere-2948376": "2026-11-24T13:52:24.669264+00:00"
+  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/banques-europeennes-pourquoi-la-course-a-la-taille-s-accelere-2948376": "2026-11-24T13:52:24.669264+00:00",
+  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/ue-mercosur-six-mois-apres-un-accord-qui-profite-surtout-au-bresil-2497693": "2026-11-25T08:44:56.625633+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "UE-Mercosur : six mois après, un accord qui profite surtout au Brésil",
+   "link": "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/ue-mercosur-six-mois-apres-un-accord-qui-profite-surtout-au-bresil-2497693",
+   "summary": "Six mois après son entrée en vigueur progressive, l'accord UE-Mercosur profite surtout au Brésil, dont les exportations vers l'Europe bondissent. La France peine encore à en tirer parti, tandis que les obstacles commerciaux, les tensions politiques et les inquiétudes environnementales persistent.",
+   "image": "https://www.radiofrance.fr/pikapi/images/24cadd94-be7e-44d0-a627-b6bfaaa00204/2048",
+   "date": null,
+   "pubdate": "2026-11-25T08:44:56.625633+00:00"
+  },
   {
    "title": "Banques européennes : pourquoi la course à la taille s'accélère",
    "link": "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/banques-europeennes-pourquoi-la-course-a-la-taille-s-accelere-2948376",
@@ -158,14 +166,6 @@
    "image": "https://www.radiofrance.fr/pikapi/images/41297182-3834-48bc-8570-9787c5ccb7d9/2048",
    "date": null,
    "pubdate": "2026-10-30T10:09:15.728182+00:00"
-  },
-  {
-   "title": "État des lieux de l'économie américaine 4/5 · Les cryptomonnaies qui enrichissent la famille Trump",
-   "link": "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/les-cryptomonnaies-qui-enrichissent-la-famille-trump-4253986",
-   "summary": "C'est un secteur aussi porteur que volatile : les cryptomonnaies. Porteur pour le président américain, ses proches et les acteurs du secteur; volatile surtout pour les petits investisseurs. La valeur des cryptomonnaies a explosé aux États-Unis, particulièrement grâce aux politiques de Donald Trump.",
-   "image": "https://www.radiofrance.fr/pikapi/images/ac46b7f8-5364-46cd-b84a-e87ebe9475b8/2048",
-   "date": null,
-   "pubdate": "2026-10-29T10:06:57.704936+00:00"
   }
  ]
 }

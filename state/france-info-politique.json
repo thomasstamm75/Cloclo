@@ -1,5 +1,5 @@
 {
- "etag": "\"68fd94680836466fd4b643ed095b4912-gzip\"",
+ "etag": "\"4de0b76b7aa9bd0f7761191883e2529c-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-ce-serait-presque-drole-si-ca-ne-montait-pas-les-gens-les-uns-contre-les-autres-apres-l-incendie-de-la-mairie-de-limoges-le-plateau-de-millevaches-pointe-du-doigt-comme-un-bastion-de-l-ultragauche_8249923.html": "2026-11-06T06:56:06.440234+00:00",
@@ -12,36 +12,106 @@
   "https://www.franceinfo.fr/politique/edouard-philippe/une-enquete-ouverte-apres-un-signalement-pour-detournement-de-fonds-publics-a-l-agglomeration-du-havre-presidee-par-edouard-philippe_8297676.html": "2026-11-24T13:52:14.570233+00:00",
   "https://www.franceinfo.fr/societe/justice/nicolas-sarkozy-et-carla-bruni-sont-renvoyes-en-proces-dans-l-affaire-de-la-fausse-retractation-de-ziad-takieddine-notamment-pour-association-de-malfaiteurs_8297655.html": "2026-11-24T13:52:14.570233+00:00",
   "https://www.franceinfo.fr/politique/direct-police-municipale-incendie-fiscalite-quinze-maires-repondent-a-vos-questions-depuis-le-congres-de-l-association-des-maires-de-france_8295998.html": "2026-11-24T13:52:14.570233+00:00",
-  "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/budget-2027-tout-le-monde-fait-des-efforts-il-n-y-a-pas-un-ciblage-des-retraites-assure-serge-papin-ministre-du-commerce-et-du-pouvoir-d-achat_8291498.html": "2026-11-24T13:52:14.570233+00:00",
-  "https://www.franceinfo.fr/societe/antisemitisme/on-vous-resume-la-polemique-autour-de-la-deputee-rn-laure-lavalette-accusee-d-avoir-cautionne-des-ecrits-antisemites_8297214.html": "2026-11-24T13:52:14.570233+00:00",
-  "https://www.franceinfo.fr/elections/francois-bayrou-opte-pour-le-ni-ni-en-cas-de-second-tour-le-pen-melenchon-qui-serait-mortel-pour-notre-pays_8297313.html": "2026-11-24T13:52:14.570233+00:00",
-  "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/presidentielle-primaire-du-bloc-central-regle-d-or-budgetaire-le-8h30-franceinfo-de-francois-bayrou_8275349.html": "2026-11-24T13:52:14.570233+00:00",
-  "https://www.franceinfo.fr/politique/congres-des-maires-des-consignes-transmises-aux-candidats-a-l-election-presidentielle-pour-eviter-que-l-evenement-ne-se-transforme-en-meeting_8297280.html": "2026-11-24T13:52:14.570233+00:00",
-  "https://www.franceinfo.fr/politique/david-lisnard/la-double-candidature-de-david-lisnard-pour-la-tete-de-l-association-des-maires-de-france-et-la-presidentielle-fait-grincer-des-dents_8297235.html": "2026-11-24T13:52:14.570233+00:00",
-  "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/vrai-ou-faux-l-age-moyen-des-premieres-cotisations-retraite-est-il-vraiment-27-ans-en-france_8275382.html": "2026-11-24T13:52:14.570233+00:00",
   "https://www.franceinfo.fr/elections/edouard-philippe-propose-un-debat-televise-avant-mi-decembre-a-david-lisnard-qu-il-soupconn-de-ne-pas-etre-etanche-avec-l-extreme-droite_8298417.html": "2026-11-24T23:56:21.361736+00:00",
   "https://www.franceinfo.fr/economie/budget/sebastien-lecornu-recevra-les-presidents-des-groupes-parlementaires-la-semaine-prochaine-pour-prolonger-les-discussions-sur-le-budget-2027_8298285.html": "2026-11-24T23:56:21.361736+00:00",
-  "https://www.franceinfo.fr/elections/c-est-benjamin-a-amiens-avec-l-epicier-du-quartier_8297910.html": "2026-11-24T23:56:21.361736+00:00",
   "https://www.franceinfo.fr/politique/l-assemblee-nationale-adopte-en-premiere-lecture-le-projet-de-loi-de-relance-du-logement_8298255.html": "2026-11-24T23:56:21.361736+00:00",
   "https://www.franceinfo.fr/politique/affaire/financement-de-la-campagne-de-sarkozy/nicolas-sarkozy-carla-bruni-mimi-marchand-qui-sont-les-principaux-protagonistes-de-l-affaire-de-la-fausse-retractation-de-ziad-takieddine_8297730.html": "2026-11-24T23:56:21.361736+00:00",
-  "https://www.franceinfo.fr/l-actu-pour-les-jeunes/filmer-a-l-assemblee-nationale-comme-ces-jeunes-est-ce-que-c-est-autorise_8298240.html": "2026-11-24T23:56:21.361736+00:00",
-  "https://www.franceinfo.fr/politique/la-france-insoumise/six-deputes-de-la-france-insoumise-portent-plainte-pour-des-menaces-de-mort-anonymes_8298216.html": "2026-11-24T23:56:21.361736+00:00",
   "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-les-visiteurs-de-l-assemblee-nationale-peuvent-ils-tourner-une-video-a-connotation-politique-dans-l-hemicycle_8297472.html": "2026-11-24T23:56:21.361736+00:00",
   "https://www.franceinfo.fr/politique/eric-zemmour/eric-zemmour-definitivement-condamne-pour-contestation-de-l-existence-de-crime-contre-l-humanite-apres-avoir-affirme-que-le-marechal-petain-avait-sauve-les-juifs-francais_8297988.html": "2026-11-24T23:56:21.361736+00:00",
-  "https://www.franceinfo.fr/politique/front-national/video-laurent-nunez-dit-avoir-propose-un-successeur-au-prefet-hugues-moutouh-accuse-d-avoir-fait-fuite-des-informations-au-rn_8297919.html": "2026-11-24T23:56:21.361736+00:00"
+  "https://www.franceinfo.fr/politique/eric-zemmour-definitivement-condamne-pour-contestation-de-l-existence-de-crime-contre-l-humanite_8298975.html": "2026-11-25T08:44:47.904305+00:00",
+  "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/reforme-des-retraites-presence-d-un-procureur-au-siege-du-rn-le-8h30-franceinfo-de-jean-philippe-tanguy_8277152.html": "2026-11-25T08:44:47.904305+00:00",
+  "https://www.franceinfo.fr/elections/un-second-tour-melenchon-le-pen-a-la-presidentielle-2027-mettrait-la-france-au-bord-de-la-guerre-civile-affirme-gerald-darmanin_8298966.html": "2026-11-25T08:44:47.904305+00:00",
+  "https://www.franceinfo.fr/politique/budget-2027-je-vais-sanctuariser-mon-budget-lycee-et-les-travaux-seront-faits-quoi-qu-il-en-soit-annonce-valerie-pecresse_8298933.html": "2026-11-25T08:44:47.904305+00:00",
+  "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-presidentielle-2027-francois-hollande-joue-la-montre-et-avec-les-nerfs-de-ses-concurrents_8277146.html": "2026-11-25T08:44:47.904305+00:00",
+  "https://www.franceinfo.fr/politique/front-national/presence-d-un-procureur-au-siege-du-rn-gerald-darmanin-annonce-avoir-saisi-l-inspection-generale-de-la-justice_8298930.html": "2026-11-25T08:44:47.904305+00:00",
+  "https://www.franceinfo.fr/replay-magazine/franceinfo/a-suivre-avec-loic-de-la-mornais/a-suivre-loic-de-la-mornais-la-guerre-nucleaire-aura-t-elle-lieu-dans-l-espace_8298912.html": "2026-11-25T08:44:47.904305+00:00",
+  "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/emmanuel-macron-recoit-les-agriculteurs-et-defend-une-sanctuarisation-de-la-politique-agricole-commune_8298876.html": "2026-11-25T08:44:47.904305+00:00",
+  "https://www.franceinfo.fr/faits-divers/police/presomption-d-usage-legal-des-armes-par-les-forces-de-l-ordre-une-marche-organisee-par-des-familles-de-victimes-de-tirs-policiers-a-paris_8298816.html": "2026-11-25T08:44:47.904305+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "Edouard Philippe propose un débat télévisé avant mi-décembre à David Lisnard, qu'il soupçonne de ne pas être \"étanche\" avec l'extrême droite Le maire du Havre considère par ailleurs que \"les points d'accord sont considérablement plus nombreux\" avec Gabriel Attal et Bruno Retailleau qu'avec le maire du Havre. 24 novembre",
+   "title": "Eric Zemmour définitivement condamné pour \"contestation de l'existence de crime contre l'humanité\" Éric Zemmour a été définitivement condamné pour “contestation de crime contre l’humanité” après avoir affirmé que le maréchal Pétain “avait sauvé les juifs français” durant la Seconde Guerre mondiale. La Cour de cassation a rejeté, mardi 24 novembre, le pourvoi du candidat d’extrême droite à l’élection présidentielle, condamné en avril 2025 à 10 000 euros d’amende. Aujourd'hui 0:39 vidéo 39 secondes",
+   "link": "https://www.franceinfo.fr/politique/eric-zemmour-definitivement-condamne-pour-contestation-de-l-existence-de-crime-contre-l-humanite_8298975.html",
+   "summary": "Eric Zemmour définitivement condamné pour \"contestation de l'existence de crime contre l'humanité\"",
+   "image": "https://www.franceinfo.fr/pictures/EhJ82E4ug3WWIs15Kq1E8eNip5c/0x0:1080x1920/fit-in/432x297/filters:upscale():fill(blur):format(jpg)/2026/11/25/6b069c6664a18354235133.jpg",
+   "date": null,
+   "pubdate": "2026-11-25T08:44:47.904305+00:00"
+  },
+  {
+   "title": "Réforme des retraites, présence d'un procureur au siège du RN... Le \"8h30 franceinfo\" de Jean-Philippe Tanguy Aujourd'hui 24:00 audio 24 minutes",
+   "link": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/reforme-des-retraites-presence-d-un-procureur-au-siege-du-rn-le-8h30-franceinfo-de-jean-philippe-tanguy_8277152.html",
+   "summary": "Réforme des retraites, présence d'un procureur au siège du RN... Le \"8h30 franceinfo\" de Jean-Philippe Tanguy",
+   "image": "https://www.franceinfo.fr/pictures/cUTDZZUot9U5hWTJNAHZV4CvD5A/142x0:1163x574/432x243/filters:format(jpg)/2026/11/25/6b069aaae3093613620595.jpg",
+   "date": null,
+   "pubdate": "2026-11-25T08:44:47.904305+00:00"
+  },
+  {
+   "title": "Un second tour Mélenchon-Le Pen à la présidentielle 2027 mettrait la France \"au bord de la guerre civile\", affirme Gérald Darmanin Aujourd'hui",
+   "link": "https://www.franceinfo.fr/elections/un-second-tour-melenchon-le-pen-a-la-presidentielle-2027-mettrait-la-france-au-bord-de-la-guerre-civile-affirme-gerald-darmanin_8298966.html",
+   "summary": "Un second tour Mélenchon-Le Pen à la présidentielle 2027 mettrait la France \"au bord de la guerre civile\", affirme Gérald Darmanin",
+   "image": "https://www.franceinfo.fr/pictures/2WS-80zJW_-MEl7fiby8sewgHJg/89x0:1904x1021/432x243/filters:format(jpg)/2026/11/25/6b068f4b8a7e7910915567.png",
+   "date": null,
+   "pubdate": "2026-11-25T08:44:47.904305+00:00"
+  },
+  {
+   "title": "Budget 2027 : \"Je vais sanctuariser mon budget lycée, et les travaux seront faits quoi qu'il en soit\", annonce Valérie Pécresse Aujourd'hui 7:42 vidéo 7 minutes 42",
+   "link": "https://www.franceinfo.fr/politique/budget-2027-je-vais-sanctuariser-mon-budget-lycee-et-les-travaux-seront-faits-quoi-qu-il-en-soit-annonce-valerie-pecresse_8298933.html",
+   "summary": "Budget 2027 : \"Je vais sanctuariser mon budget lycée, et les travaux seront faits quoi qu'il en soit\", annonce Valérie Pécresse",
+   "image": "https://www.franceinfo.fr/pictures/DH-6O2PgaI86Qe7K16R-SUtmOVY/0x24:1213x707/432x243/filters:format(jpg)/2026/11/25/6b069512d5b23251450157.jpg",
+   "date": null,
+   "pubdate": "2026-11-25T08:44:47.904305+00:00"
+  },
+  {
+   "title": ": Édito Présidentielle 2027 : François Hollande joue la montre... et avec les nerfs de ses concurrents Aujourd'hui : Édito 2:56 audio 2 minutes 56",
+   "link": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-presidentielle-2027-francois-hollande-joue-la-montre-et-avec-les-nerfs-de-ses-concurrents_8277146.html",
+   "summary": "Présidentielle 2027 : François Hollande joue la montre... et avec les nerfs de ses concurrents",
+   "image": "https://www.franceinfo.fr/pictures/h_eH2Rs3PMcDNiuiTUt2o6DmGjY/0x53:1024x629/432x243/filters:format(jpg)/2026/11/25/6b068bad021b1461979764.jpg",
+   "date": null,
+   "pubdate": "2026-11-25T08:44:47.904305+00:00"
+  },
+  {
+   "title": "Gérald Darmanin annonce avoir saisi l'Inspection générale de la justice après qu'un procureur a été surpris au siège du RN lors d'une perquisition Aujourd'hui",
+   "link": "https://www.franceinfo.fr/politique/front-national/presence-d-un-procureur-au-siege-du-rn-gerald-darmanin-annonce-avoir-saisi-l-inspection-generale-de-la-justice_8298930.html",
+   "summary": "Gérald Darmanin annonce avoir saisi l'Inspection générale de la justice après qu'un procureur a été surpris au siège du RN lors d'une perquisition",
+   "image": "https://www.franceinfo.fr/assets/common/images/logos/placeholder-4e7f49f2.png",
+   "date": null,
+   "pubdate": "2026-11-25T08:44:47.904305+00:00"
+  },
+  {
+   "title": "À suivre Loïc de la Mornais : la guerre nucléaire aura-t-elle lieu dans l'espace ? Aujourd'hui 19:37 vidéo 19 minutes 37",
+   "link": "https://www.franceinfo.fr/replay-magazine/franceinfo/a-suivre-avec-loic-de-la-mornais/a-suivre-loic-de-la-mornais-la-guerre-nucleaire-aura-t-elle-lieu-dans-l-espace_8298912.html",
+   "summary": "À suivre Loïc de la Mornais : la guerre nucléaire aura-t-elle lieu dans l'espace ?",
+   "image": "https://www.franceinfo.fr/pictures/9HtM4CvlYwyg1RXvvin-bXMCpeE/143x0:1118x548/432x243/filters:format(jpg)/2026/11/25/6b068d1b03012018256614.jpg",
+   "date": null,
+   "pubdate": "2026-11-25T08:44:47.904305+00:00"
+  },
+  {
+   "title": "Emmanuel Macron reçoit les agriculteurs et défend une \"sanctuarisation\" de la Politique agricole commune Aujourd'hui",
+   "link": "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/emmanuel-macron-recoit-les-agriculteurs-et-defend-une-sanctuarisation-de-la-politique-agricole-commune_8298876.html",
+   "summary": "Emmanuel Macron reçoit les agriculteurs et défend une \"sanctuarisation\" de la Politique agricole commune",
+   "image": "https://www.franceinfo.fr/pictures/AvA0Ng1ixGz8cDbmpd354wpsyIo/432x243/filters:format(jpg)/2026/08/01/6a6d6f79e830f232053448.jpg",
+   "date": null,
+   "pubdate": "2026-11-25T08:44:47.904305+00:00"
+  },
+  {
+   "title": "Présomption d’usage légal des armes par les forces de l’ordre : une marche organisée par des familles de victimes de tirs policiers à Paris Aujourd'hui",
+   "link": "https://www.franceinfo.fr/faits-divers/police/presomption-d-usage-legal-des-armes-par-les-forces-de-l-ordre-une-marche-organisee-par-des-familles-de-victimes-de-tirs-policiers-a-paris_8298816.html",
+   "summary": "Présomption d’usage légal des armes par les forces de l’ordre : une marche organisée par des familles de victimes de tirs policiers à Paris",
+   "image": "https://www.franceinfo.fr/pictures/1srA5MbXS1ZjO_sRqjLK6UrzNSo/0x199:7828x4602/432x243/filters:format(jpg)/2026/11/25/6b067eab813ac615110351.jpg",
+   "date": null,
+   "pubdate": "2026-11-25T08:44:47.904305+00:00"
+  },
+  {
+   "title": "Edouard Philippe propose un débat télévisé avant mi-décembre à David Lisnard, qu'il soupçonne de ne pas être \"étanche\" avec l'extrême droite Le maire du Havre considère par ailleurs que \"les points d'accord sont considérablement plus nombreux\" avec Gabriel Attal et Bruno Retailleau qu'avec le maire de Cannes. 24 novembre",
    "link": "https://www.franceinfo.fr/elections/edouard-philippe-propose-un-debat-televise-avant-mi-decembre-a-david-lisnard-qu-il-soupconn-de-ne-pas-etre-etanche-avec-l-extreme-droite_8298417.html",
    "summary": "Edouard Philippe propose un débat télévisé avant mi-décembre à David Lisnard, qu'il soupçonne de ne pas être \"étanche\" avec l'extrême droite",
-   "image": "https://www.franceinfo.fr/pictures/L76ZTaw8GyJGc9mLa2E_2ybP-jI/27x0:4373x2988/432x297/filters:format(jpg)/2026/11/24/6b05f8db528bd197991784.jpg",
+   "image": "https://www.franceinfo.fr/pictures/mDRw5lHmXvGWN9Wtk3Xv6UqNtyw/0x0:4491x2526/432x243/filters:format(jpg)/2026/11/24/6b05f8db528bd197991784.jpg",
    "date": null,
    "pubdate": "2026-11-24T23:56:21.361736+00:00"
   },
   {
-   "title": "Sébastien Lecornu recevra les présidents des groupes parlementaires début décembre pour prolonger les discussions sur le budget 2027 24 novembre",
+   "title": "Sébastien Lecornu recevra les présidents des groupes parlementaires début décembre pour prolonger les discussions sur le budget 2027 Le Premier ministre s'est également félicité de l'adoption du projet de loi de finances de fin de gestion pour 2026. 24 novembre",
    "link": "https://www.franceinfo.fr/economie/budget/sebastien-lecornu-recevra-les-presidents-des-groupes-parlementaires-la-semaine-prochaine-pour-prolonger-les-discussions-sur-le-budget-2027_8298285.html",
    "summary": "Sébastien Lecornu recevra les présidents des groupes parlementaires début décembre pour prolonger les discussions sur le budget 2027",
    "image": "https://www.franceinfo.fr/pictures/dhfCQvs76Us4CcR2FdT6jrNS6bE/0x0:6412x3606/432x243/filters:format(jpg)/2026/11/24/6b05df50b8361275285648.jpg",
@@ -49,15 +119,7 @@
    "pubdate": "2026-11-24T23:56:21.361736+00:00"
   },
   {
-   "title": "C’est Benjamin... à Amiens, avec l’épicier du quartier 24 novembre 2:50 vidéo 2 minutes 50",
-   "link": "https://www.franceinfo.fr/elections/c-est-benjamin-a-amiens-avec-l-epicier-du-quartier_8297910.html",
-   "summary": "C’est Benjamin... à Amiens, avec l’épicier du quartier",
-   "image": "https://www.franceinfo.fr/pictures/RzJanKg7WzXwRnrwcP-QyrPMbLA/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/24/6b05a5ae58688617793942.jpg",
-   "date": null,
-   "pubdate": "2026-11-24T23:56:21.361736+00:00"
-  },
-  {
-   "title": "L'Assemblée nationale adopte en première lecture le projet de loi de relance du logement 24 novembre",
+   "title": "L'Assemblée nationale adopte en première lecture le projet de loi de relance du logement Les députés se sont divisés sur la suppression de l'interdiction progressive de louer les logements les plus énergivores. 24 novembre",
    "link": "https://www.franceinfo.fr/politique/l-assemblee-nationale-adopte-en-premiere-lecture-le-projet-de-loi-de-relance-du-logement_8298255.html",
    "summary": "L'Assemblée nationale adopte en première lecture le projet de loi de relance du logement",
    "image": "https://www.franceinfo.fr/pictures/ksB_neqhuDTBDuP6_VQHDWvPdkE/0x430:5472x3508/432x243/filters:format(jpg)/2026/11/24/6b05d36cf0e9a633492831.jpg",
@@ -65,7 +127,7 @@
    "pubdate": "2026-11-24T23:56:21.361736+00:00"
   },
   {
-   "title": "Nicolas Sarkozy, Carla Bruni, Mimi Marchand… Qui sont les principaux protagonistes de l'affaire de la fausse rétractation de Ziad Takieddine ? 24 novembre",
+   "title": "Nicolas Sarkozy, Carla Bruni, Mimi Marchand… Qui sont les principaux protagonistes de l'affaire de la fausse rétractation de Ziad Takieddine ? Onze personnes sont renvoyées devant le tribunal correctionnel pour leur implication dans l'opération \"Sauver Sarko\". L'ancien chef de l'Etat et son épouse sont poursuivis pour \"association de malfaiteurs en vue de commettre une escroquerie en bande organisée\" et \"recel de subornation de témoin\". 24 novembre",
    "link": "https://www.franceinfo.fr/politique/affaire/financement-de-la-campagne-de-sarkozy/nicolas-sarkozy-carla-bruni-mimi-marchand-qui-sont-les-principaux-protagonistes-de-l-affaire-de-la-fausse-retractation-de-ziad-takieddine_8297730.html",
    "summary": "Nicolas Sarkozy, Carla Bruni, Mimi Marchand… Qui sont les principaux protagonistes de l'affaire de la fausse rétractation de Ziad Takieddine ?",
    "image": "https://www.franceinfo.fr/pictures/xQt74EZ3mVX4ldir4h8m7GySMi8/0x18:1024x594/432x243/filters:format(jpg)/2026/11/24/6b058bd854448361721958.jpg",
@@ -73,23 +135,7 @@
    "pubdate": "2026-11-24T23:56:21.361736+00:00"
   },
   {
-   "title": "Filmer à l'Assemblée nationale comme ces jeunes, est-ce que c'est autorisé ? 24 novembre 2:00 vidéo 2 minutes",
-   "link": "https://www.franceinfo.fr/l-actu-pour-les-jeunes/filmer-a-l-assemblee-nationale-comme-ces-jeunes-est-ce-que-c-est-autorise_8298240.html",
-   "summary": "Filmer à l'Assemblée nationale comme ces jeunes, est-ce que c'est autorisé ?",
-   "image": "https://www.franceinfo.fr/pictures/1JAZTg_JCvbGkjZAY62rJSgGsTM/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/24/6b05cf0f8e992459564033.jpg",
-   "date": null,
-   "pubdate": "2026-11-24T23:56:21.361736+00:00"
-  },
-  {
-   "title": "Six députés de La France Insoumise portent plainte pour des menaces de mort anonymes 24 novembre 2:00 vidéo 2 minutes",
-   "link": "https://www.franceinfo.fr/politique/la-france-insoumise/six-deputes-de-la-france-insoumise-portent-plainte-pour-des-menaces-de-mort-anonymes_8298216.html",
-   "summary": "Six députés de La France Insoumise portent plainte pour des menaces de mort anonymes",
-   "image": "https://www.franceinfo.fr/pictures/3SpIp0vrnVbcH7tAuz8aEBcMa8A/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/24/6b05cc696ff7b134645924.jpg",
-   "date": null,
-   "pubdate": "2026-11-24T23:56:21.361736+00:00"
-  },
-  {
-   "title": ": Vrai ou faux Les visiteurs de l'Assemblée nationale peuvent-ils tourner une vidéo à connotation politique dans l'hémicycle ? 24 novembre : Vrai ou faux",
+   "title": ": Vrai ou faux Les visiteurs de l'Assemblée nationale peuvent-ils tourner une vidéo à connotation politique dans l'hémicycle ? La présidente de l'Assemblée nationale a condamné lundi le tournage dans l'hémicycle d'une vidéo où six jeunes dénoncent l'adoption de la loi sur la présomption d'usage légal des armes par les forces de l'ordre. 24 novembre : Vrai ou faux",
    "link": "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-les-visiteurs-de-l-assemblee-nationale-peuvent-ils-tourner-une-video-a-connotation-politique-dans-l-hemicycle_8297472.html",
    "summary": "Les visiteurs de l'Assemblée nationale peuvent-ils tourner une vidéo à connotation politique dans l'hémicycle ?",
    "image": "https://www.franceinfo.fr/pictures/whXstrc53hq7tVh6SVfcVswhAf4/0x106:1024x682/432x243/filters:format(jpg)/2026/11/24/6b05a3b25bae4189459250.jpg",
@@ -97,18 +143,10 @@
    "pubdate": "2026-11-24T23:56:21.361736+00:00"
   },
   {
-   "title": "Eric Zemmour définitivement condamné pour \"contestation de l'existence de crime contre l'humanité\" après avoir affirmé que le maréchal Pétain \"avait sauvé les juifs français\" 24 novembre",
+   "title": "Eric Zemmour définitivement condamné pour \"contestation de l'existence de crime contre l'humanité\" après avoir affirmé que le maréchal Pétain \"avait sauvé les juifs français\" Le candidat d'extrême droite à la présidentielle avait été relaxé en première instance et en appel, mais ces décisions avaient été annulées une première fois par la Cour de cassation. 24 novembre",
    "link": "https://www.franceinfo.fr/politique/eric-zemmour/eric-zemmour-definitivement-condamne-pour-contestation-de-l-existence-de-crime-contre-l-humanite-apres-avoir-affirme-que-le-marechal-petain-avait-sauve-les-juifs-francais_8297988.html",
    "summary": "Eric Zemmour définitivement condamné pour \"contestation de l'existence de crime contre l'humanité\" après avoir affirmé que le maréchal Pétain \"avait sauvé les juifs français\"",
    "image": "https://www.franceinfo.fr/pictures/fVAI4XbnHpfMhLpdd3Y01Dnkrvc/0x0:1024x576/432x243/filters:format(jpg)/2026/11/24/6b05b1f6f1d28594358716.jpg",
-   "date": null,
-   "pubdate": "2026-11-24T23:56:21.361736+00:00"
-  },
-  {
-   "title": ": Vidéo Laurent Nuñez dit avoir proposé un successeur au préfet Hugues Moutouh, accusé d'avoir fait fuiter des informations au RN 24 novembre : Vidéo 2:02 vidéo 2 minutes 2",
-   "link": "https://www.franceinfo.fr/politique/front-national/video-laurent-nunez-dit-avoir-propose-un-successeur-au-prefet-hugues-moutouh-accuse-d-avoir-fait-fuite-des-informations-au-rn_8297919.html",
-   "summary": "Laurent Nuñez dit avoir proposé un successeur au préfet Hugues Moutouh, accusé d'avoir fait fuiter des informations au RN",
-   "image": "https://www.franceinfo.fr/pictures/-Tjkh4Kq9RvKOeEHWYmZaa3y_ww/0x60:1024x636/432x243/filters:format(jpg)/2026/11/24/6b05af86d41ee668589899.jpg",
    "date": null,
    "pubdate": "2026-11-24T23:56:21.361736+00:00"
   },
@@ -141,62 +179,6 @@
    "link": "https://www.franceinfo.fr/politique/direct-police-municipale-incendie-fiscalite-quinze-maires-repondent-a-vos-questions-depuis-le-congres-de-l-association-des-maires-de-france_8295998.html",
    "summary": "Police municipale, incendies, fiscalité… Quinze maires répondent à vos questions depuis le congrès de l'Association des maires de France",
    "image": "https://www.franceinfo.fr/pictures/B2FdXrxDOhRkwDfkG8ybxFoFK8k/0x0:1600x900/432x243/filters:format(jpg)/2026/11/23/6b042beb8c3f3895284073.jpg",
-   "date": null,
-   "pubdate": "2026-11-24T13:52:14.570233+00:00"
-  },
-  {
-   "title": "Budget 2027 : \"Tout le monde fait des efforts. Il n'y a pas un ciblage des retraités\", assure Serge Papin, ministre du Commerce et du Pouvoir d'achat Interrogé sur les compromis souhaités par Sébastien Lecornu avec les parlementaires sur le budget 2027, dans lequel le Sénat souhaite supprimer l'abattement des 10% des retraités, Serge Papin souligne que le vote du budget \"joue sur le pouvoir d'achat\", et rappelle que les mesures concernant les pensions sont \"encore en discussion\". 24 novembre 10:29 vidéo 10 minutes 29",
-   "link": "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/budget-2027-tout-le-monde-fait-des-efforts-il-n-y-a-pas-un-ciblage-des-retraites-assure-serge-papin-ministre-du-commerce-et-du-pouvoir-d-achat_8291498.html",
-   "summary": "Budget 2027 : \"Tout le monde fait des efforts. Il n'y a pas un ciblage des retraités\", assure Serge Papin, ministre du Commerce et du Pouvoir d'achat",
-   "image": "https://www.franceinfo.fr/pictures/PYq3rshXqLgLq1xYxWGX5IY-5tM/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/24/6b05b8568b22e379395337.jpg",
-   "date": null,
-   "pubdate": "2026-11-24T13:52:14.570233+00:00"
-  },
-  {
-   "title": "On vous résume la polémique autour de la députée RN Laure Lavalette, accusée d'avoir cautionné des écrits antisémites Le site LesJours.fr a retrouvé des articles et une caricature antisémites dans la revue d'un syndicat étudiant que présidait la porte-parole de Marine Le Pen dans les années 1990. 24 novembre",
-   "link": "https://www.franceinfo.fr/societe/antisemitisme/on-vous-resume-la-polemique-autour-de-la-deputee-rn-laure-lavalette-accusee-d-avoir-cautionne-des-ecrits-antisemites_8297214.html",
-   "summary": "On vous résume la polémique autour de la députée RN Laure Lavalette, accusée d'avoir cautionné des écrits antisémites",
-   "image": "https://www.franceinfo.fr/pictures/3rrl8XbOsdu505N6UKEqw5d67wc/0x0:1024x576/432x243/filters:format(jpg)/2026/11/24/6b0539cef2142682517322.jpg",
-   "date": null,
-   "pubdate": "2026-11-24T13:52:14.570233+00:00"
-  },
-  {
-   "title": "François Bayrou opte pour le \"ni ni\" en cas de second tour Le Pen-Mélenchon \"qui serait mortel pour notre pays\" L'ancien Premier ministre, invité du 8.30 franceinfo, a également défendu l'idée d'une primaire \"compromise de manière extrêmement grave\", notamment par David Lisnard. 24 novembre",
-   "link": "https://www.franceinfo.fr/elections/francois-bayrou-opte-pour-le-ni-ni-en-cas-de-second-tour-le-pen-melenchon-qui-serait-mortel-pour-notre-pays_8297313.html",
-   "summary": "François Bayrou opte pour le \"ni ni\" en cas de second tour Le Pen-Mélenchon \"qui serait mortel pour notre pays\"",
-   "image": "https://www.franceinfo.fr/pictures/qstDlds7aeel7h8hAcdQ5j0zjqg/108x0:1145x583/432x243/filters:format(jpg)/2026/11/24/6b055061f218f286320563.jpg",
-   "date": null,
-   "pubdate": "2026-11-24T13:52:14.570233+00:00"
-  },
-  {
-   "title": "Présidentielle, primaire du bloc central, règle d'or budgétaire... Le \"8h30 franceinfo\" de François Bayrou François Bayrou, ancien Premier ministre, président du MoDem, est l'invité du \"8h30 franceinfo\", le 24 novembre. 24 novembre 23:27 audio 23 minutes 27",
-   "link": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/presidentielle-primaire-du-bloc-central-regle-d-or-budgetaire-le-8h30-franceinfo-de-francois-bayrou_8275349.html",
-   "summary": "Présidentielle, primaire du bloc central, règle d'or budgétaire... Le \"8h30 franceinfo\" de François Bayrou",
-   "image": "https://www.franceinfo.fr/pictures/SihVqUPS6ocwufQINFrW8AlVNEc/123x0:1130x566/432x243/filters:format(jpg)/2026/11/24/6b0547a6cffd9358476679.jpg",
-   "date": null,
-   "pubdate": "2026-11-24T13:52:14.570233+00:00"
-  },
-  {
-   "title": "Congrès des maires : des consignes transmises aux candidats à l'élection présidentielle pour éviter que l'événement ne se transforme en \"meeting\" L'événement, qui se tient de mardi à jeudi à Paris, représente un enjeu pour les prétendants à la recherche de leurs 500 parrainages. 24 novembre",
-   "link": "https://www.franceinfo.fr/politique/congres-des-maires-des-consignes-transmises-aux-candidats-a-l-election-presidentielle-pour-eviter-que-l-evenement-ne-se-transforme-en-meeting_8297280.html",
-   "summary": "Congrès des maires : des consignes transmises aux candidats à l'élection présidentielle pour éviter que l'événement ne se transforme en \"meeting\"",
-   "image": "https://www.franceinfo.fr/pictures/w8N6U-hxbvG7dHI1XQsB3bjiYL8/0x0:1024x576/432x243/filters:format(jpg)/2026/11/24/6b0548f44ee04884847725.jpg",
-   "date": null,
-   "pubdate": "2026-11-24T13:52:14.570233+00:00"
-  },
-  {
-   "title": "La double candidature de David Lisnard, pour la tête de l'Association des maires de France et la présidentielle, fait grincer des dents Le maire de Cannes espère conserver la tête de l'AMF, qui a ouvert son congrès à Paris mardi. Il s'est aussi lancé dans la campagne présidentielle, où il gagne des points dans les sondages. 24 novembre",
-   "link": "https://www.franceinfo.fr/politique/david-lisnard/la-double-candidature-de-david-lisnard-pour-la-tete-de-l-association-des-maires-de-france-et-la-presidentielle-fait-grincer-des-dents_8297235.html",
-   "summary": "La double candidature de David Lisnard, pour la tête de l'Association des maires de France et la présidentielle, fait grincer des dents",
-   "image": "https://www.franceinfo.fr/pictures/dYEXkHHqjOnCtaUGfph84V-M2rU/0x53:1024x629/432x243/filters:format(jpg)/2026/11/24/6b054041ce390526720849.jpg",
-   "date": null,
-   "pubdate": "2026-11-24T13:52:14.570233+00:00"
-  },
-  {
-   "title": ": Vrai ou faux L'âge moyen des premières cotisations retraite est-il vraiment 27 ans en France ? Selon le porte-parole du Rassemblement national, Laurent Jacobelli, les jeunes travailleurs français ont en moyenne \"quatre ans de cotisation en moins\" par rapport aux jeunes travailleurs allemands. 24 novembre : Vrai ou faux 1:55 audio 1 minute 55",
-   "link": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/vrai-ou-faux-l-age-moyen-des-premieres-cotisations-retraite-est-il-vraiment-27-ans-en-france_8275382.html",
-   "summary": "L'âge moyen des premières cotisations retraite est-il vraiment 27 ans en France ?",
-   "image": "https://www.franceinfo.fr/pictures/VB6SYrKJtC0JuOUjRQXEDkkfKHg/0x0:2121x1193/432x243/filters:format(jpg)/2026/11/24/6b053f4b4d03f157567530.jpg",
    "date": null,
    "pubdate": "2026-11-24T13:52:14.570233+00:00"
   },
