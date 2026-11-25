@@ -1,16 +1,24 @@
 {
  "etag": "",
- "last_modified": "Wed, 25 Nov 2026 06:03:22 GMT",
+ "last_modified": "Wed, 25 Nov 2026 17:40:06 GMT",
  "first_seen": {
-  "https://www.jean-jaures.org/publication/la-vague-democrate-aux-etats-unis-ne-fera-pas-baisser-la-facture-energetique-et-geopolitique-des-europeens/": "2026-11-16T11:00:00+00:00",
   "https://www.jean-jaures.org/publication/et-si-nous-avions-encore-besoin-deducation-populaire/": "2026-11-17T11:00:00+00:00",
   "https://www.jean-jaures.org/publication/la-france-en-3d-declinisme-declassement-defiance/": "2026-11-18T11:00:00+00:00",
   "https://www.jean-jaures.org/publication/troyes-et-laube-de-la-revolution-de-1848-a-lassassinat-de-jean-jaures-en-1914-tome-2/": "2026-11-19T11:00:00+00:00",
-  "https://www.jean-jaures.org/publication/les-sympathisants-dextreme-droite-sont-ils-dextreme-droite/": "2026-11-15T11:00:00+00:00",
-  "https://www.jean-jaures.org/publication/apres-la-victoire-de-lula-un-modele-transposable-aux-gauches-americaines-et-europeennes/": "2026-11-24T11:00:00+00:00"
+  "https://www.jean-jaures.org/publication/apres-la-victoire-de-lula-un-modele-transposable-aux-gauches-americaines-et-europeennes/": "2026-11-24T11:00:00+00:00",
+  "https://www.jean-jaures.org/publication/la-presidentielle-comme-un-jeu-video/": "2026-11-25T11:00:00+00:00",
+  "https://www.jean-jaures.org/publication/pour-une-gouvernance-locale-feministe/": "2026-11-20T11:00:00+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "La présidentielle, comme un jeu vidéo",
+   "link": "https://www.jean-jaures.org/publication/la-presidentielle-comme-un-jeu-video/",
+   "summary": "",
+   "image": "",
+   "date": "2026-11-25T11:00:00+00:00",
+   "pubdate": "2026-11-25T11:00:00+00:00"
+  },
   {
    "title": "Après la victoire de Lula, un modèle transposable aux gauches américaines et européennes ?",
    "link": "https://www.jean-jaures.org/publication/apres-la-victoire-de-lula-un-modele-transposable-aux-gauches-americaines-et-europeennes/",
@@ -18,6 +26,14 @@
    "image": "",
    "date": "2026-11-24T11:00:00+00:00",
    "pubdate": "2026-11-24T11:00:00+00:00"
+  },
+  {
+   "title": "Pour une gouvernance locale féministe",
+   "link": "https://www.jean-jaures.org/publication/pour-une-gouvernance-locale-feministe/",
+   "summary": "",
+   "image": "",
+   "date": "2026-11-20T11:00:00+00:00",
+   "pubdate": "2026-11-20T11:00:00+00:00"
   },
   {
    "title": "Troyes et l’Aube, de la révolution de 1848 à l’assassinat de Jean Jaurès en 1914, tome 2",
@@ -42,22 +58,6 @@
    "image": "",
    "date": "2026-11-17T11:00:00+00:00",
    "pubdate": "2026-11-17T11:00:00+00:00"
-  },
-  {
-   "title": "La vague démocrate aux États-Unis ne fera pas baisser la facture énergétique et géopolitique des Européens",
-   "link": "https://www.jean-jaures.org/publication/la-vague-democrate-aux-etats-unis-ne-fera-pas-baisser-la-facture-energetique-et-geopolitique-des-europeens/",
-   "summary": "",
-   "image": "",
-   "date": "2026-11-16T11:00:00+00:00",
-   "pubdate": "2026-11-16T11:00:00+00:00"
-  },
-  {
-   "title": "Les sympathisants d’extrême droite sont-ils… d’extrême droite ?",
-   "link": "https://www.jean-jaures.org/publication/les-sympathisants-dextreme-droite-sont-ils-dextreme-droite/",
-   "summary": "",
-   "image": "",
-   "date": "2026-11-15T11:00:00+00:00",
-   "pubdate": "2026-11-15T11:00:00+00:00"
   }
  ]
 }

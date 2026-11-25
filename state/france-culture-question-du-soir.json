@@ -1,8 +1,7 @@
 {
- "etag": "\"1qiv2kd\"",
+ "etag": "\"1ts6n40\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/faut-il-assumer-la-selection-a-l-universite-4857739": "2026-10-29T11:00:00+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/quelles-ruines-laisserons-nous-derriere-nous-5610036": "2026-10-30T18:04:04.396175+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/ou-doit-on-placer-le-curseur-entre-libertes-et-securite-8407505": "2026-11-02T11:00:00+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/faut-il-augmenter-le-smic-1087463": "2026-11-03T11:00:00+00:00",
@@ -18,14 +17,23 @@
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/cop-31-le-multilateralisme-est-il-mort-8910641": "2026-11-19T11:00:00+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/la-liberte-associative-est-elle-menacee-7367372": "2026-11-20T11:00:00+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/faut-il-une-regle-d-or-budgetaire-9050437": "2026-11-23T11:00:00+00:00",
-  "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/les-hauts-fonctionnaires-peuvent-ils-s-engager-dans-la-presidentielle-5630984": "2026-11-24T23:57:20.677129+00:00"
+  "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/les-hauts-fonctionnaires-peuvent-ils-s-engager-dans-la-presidentielle-5630984": "2026-11-24T23:57:20.677129+00:00",
+  "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/comment-les-milliardaires-pesent-ils-sur-la-democratie-3733738": "2026-11-25T11:00:00+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
+   "title": "Comment les milliardaires pèsent-ils sur la démocratie ?",
+   "link": "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/comment-les-milliardaires-pesent-ils-sur-la-democratie-3733738",
+   "summary": "L'omniprésence des milliardaires dans les sphères médiatiques pose de plus en plus de questions sur le pluralisme et les ingérences susceptibles d'influencer l'information et la vie politique. Nous en discutons ce soir, aux côtés d'Emilie Lanez et de Vincent Beaufils.",
+   "image": "https://www.radiofrance.fr/pikapi/images/dac56e1c-4f12-496a-a881-8af9661ec04e/2048",
+   "date": "2026-11-25T11:00:00+00:00",
+   "pubdate": "2026-11-25T11:00:00+00:00"
+  },
+  {
    "title": "Les hauts fonctionnaires peuvent-ils s'engager dans la présidentielle ?",
    "link": "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/les-hauts-fonctionnaires-peuvent-ils-s-engager-dans-la-presidentielle-5630984",
-   "summary": "Cette semaine, la question de la place des hauts fonctionnaires face aux partis politiques a été remise sur le devant de la scène. Trois invités viennent discuter des spécificités de ce statut, entre neutralité, intérêt général et intérêt des gouvernements pour lesquels ils travaillent.",
+   "summary": "Cette semaine, la question de la neutralité des hauts fonctionnaires a été remise sur le devant de la scène. Trois invités viennent discuter des spécificités de ce statut, entre neutralité, intérêt général et intérêt des gouvernements pour lesquels ils travaillent.",
    "image": "https://www.radiofrance.fr/pikapi/images/ba65ebf3-2c70-4817-8d94-504b91800d02/2048",
    "date": null,
    "pubdate": "2026-11-24T23:57:20.677129+00:00"
@@ -149,14 +157,6 @@
    "image": "https://www.radiofrance.fr/pikapi/images/d1752a4b-a897-49cb-ad65-0f336147f3a9/2048",
    "date": "2026-10-30T11:00:00+00:00",
    "pubdate": "2026-10-30T11:00:00+00:00"
-  },
-  {
-   "title": "Enseignement supérieur : la sélection, totem ou tabou ?",
-   "link": "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/faut-il-assumer-la-selection-a-l-universite-4857739",
-   "summary": "La sélection est-elle un tabou français ? Présente à différents niveaux du système éducatif, elle suscite un débat sur ses finalités : outil de réussite et d’orientation pour certains, facteur d’exclusion sociale pour d’autres.",
-   "image": "https://www.radiofrance.fr/pikapi/images/8b14718c-e36d-48ab-9c3b-1fc6e28c7a0b/2048",
-   "date": "2026-10-29T11:00:00+00:00",
-   "pubdate": "2026-10-29T11:00:00+00:00"
   }
  ]
 }

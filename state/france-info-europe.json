@@ -1,47 +1,118 @@
 {
- "etag": "\"e042cffd21b9f02e1a543ca1ebd2d6d8-gzip\"",
+ "etag": "\"fa302ba763306d051dbe2b86b4531740-gzip\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/les-objets-volants-tombes-vendredi-en-pologne-etaient-des-missiles-de-croisiere-fabriques-en-russie-annonce-le-parquet-de-lublin_8295188.html": "2026-11-23T01:47:36.206555+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/vos-questions-sur-l-effort-de-guerre-de-la-france/": "2026-11-23T01:47:36.206555+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/une-operation-exemplaire-ce-que-l-on-sait-de-l-attaque-de-deux-navires-au-large-de-la-libye-revendiquee-par-l-ukraine_8295566.html": "2026-11-23T13:01:22.543299+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-volodymyr-zelensky-revendique-les-attaques-contre-deux-navires-russes-menees-au-large-de-la-libye_8295668.html": "2026-11-23T13:01:22.543299+00:00",
-  "https://www.franceinfo.fr/replay-radio/le-brief-eco/paris-et-berlin-critiquent-le-projet-de-budget-europeen_8273912.html": "2026-11-23T13:01:22.543299+00:00",
-  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-des-frappes-russes-font-au-moins-14-morts-dans-la-region-de-kiev_8295389.html": "2026-11-23T13:01:22.543299+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-couper-le-robinet-de-petrole-russe-en-mission-avec-les-oiseaux-de-madyar-la-brigade-de-dronistes-ukrainiens-la-plus-pourchassee-par-les-russes_8255023.html": "2026-11-23T13:01:22.543299+00:00",
   "https://www.franceinfo.fr/faits-divers/un-migrant-somalien-tue-par-balles-au-camp-de-loon-plage-dans-le-nord_8296638.html": "2026-11-24T02:16:12.496221+00:00",
   "https://www.franceinfo.fr/monde/russie/l-otan-est-prete-a-se-defendre-sur-chaque-centimetre-apres-des-revelations-sur-un-projet-de-satellite-nucleaire-russe_8296413.html": "2026-11-24T02:16:12.496221+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/temoignages-on-ne-sait-pas-si-on-sera-encore-en-vie-demain-a-izioum-des-jeunes-ukrainiens-grandissent-au-rythme-des-bombardements_8296220.html": "2026-11-24T02:16:12.496221+00:00",
-  "https://www.franceinfo.fr/sports/l-union-europeenne-propose-d-interdire-de-competition-les-athletes-russes-sur-son-territoire_8296275.html": "2026-11-24T02:16:12.496221+00:00",
-  "https://www.franceinfo.fr/monde/europe/allemagne/en-allemagne-le-frein-a-la-dette-est-inscrit-dans-la-constitution-depuis-2009-mais-a-ete-assoupli_8296088.html": "2026-11-24T02:16:12.496221+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/reportage-ca-facilite-grandement-le-travail-de-nos-soldats-les-robots-de-combat-ukrainiens-deviennent-incontournables-sur-le-front-et-permettent-de-reprendre-du-terrain-aux-russes_8284292.html": "2026-11-24T02:16:12.496221+00:00",
   "https://www.franceinfo.fr/economie/automobile/l-union-europeenne-va-plafonner-les-importations-de-voitures-hybrides-chinoises-a-partir-du-1er-decembre_8297406.html": "2026-11-24T13:52:16.165464+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-deux-morts-et-plus-de-40-blesses-dans-des-frappes-russes-sur-zaporijjia_8297385.html": "2026-11-24T13:52:16.165464+00:00",
   "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/vrai-ou-faux-l-age-moyen-des-premieres-cotisations-retraite-est-il-vraiment-27-ans-en-france_8275382.html": "2026-11-24T13:52:16.165464+00:00",
   "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/l-ue-veut-priver-les-athletes-russes-de-competitions-europeennes-une-sanction-symbolique-deja-utilisee-a-de-nombreuses-reprises-dans-l-histoire_8275370.html": "2026-11-24T13:52:16.165464+00:00",
   "https://www.franceinfo.fr/monde/europe/de-l-espagne-a-l-albanie-en-passant-par-la-france-une-jeunesse-europeenne-unie-par-des-causes-communes-descend-dans-la-rue_8290049.html": "2026-11-24T13:52:16.165464+00:00",
-  "https://www.franceinfo.fr/vrai-ou-fake/migrants-renvoyes-au-rwanda-un-accord-qui-change-tout_8298333.html": "2026-11-24T23:56:22.455156+00:00",
   "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/le-royaume-uni-alerte-ses-entreprises-fournissant-l-ukraine-sur-le-risque-de-sabotage-russe_8298273.html": "2026-11-24T23:56:22.455156+00:00",
   "https://www.franceinfo.fr/monde/afrique/libye/la-libye-nie-toute-entente-avec-kiev-apres-les-attaques-ukrainiennes-contre-des-navires-russes_8298132.html": "2026-11-24T23:56:22.455156+00:00",
   "https://www.franceinfo.fr/environnement/transition-ecologique-de-l-agriculture/pesticides/on-sacrifie-la-sante-pour-les-profits-a-strasbourg-les-manifestants-denoncent-l-ominibus-x-le-projet-de-simplification-europeen-sur-les-pesticides_8297778.html": "2026-11-24T23:56:22.455156+00:00",
   "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/vrai-ou-faux-parrainages-presidentiels-pourquoi-les-elus-signent-ils-moins-et-comment-font-nos-voisins-europeens_8277125.html": "2026-11-25T08:44:49.025213+00:00",
   "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/emmanuel-macron-recoit-les-agriculteurs-et-defend-une-sanctuarisation-de-la-politique-agricole-commune_8298876.html": "2026-11-25T08:44:49.025213+00:00",
-  "https://www.franceinfo.fr/replay-magazine/franceinfo/a-suivre-avec-loic-de-la-mornais/a-suivre-loic-de-la-mornais-les-dessous-de-la-vague-migratoire-de-ceuta-devoiles-dans-un-reportage-d-envoye-special_8298873.html": "2026-11-25T08:44:49.025213+00:00",
   "https://www.franceinfo.fr/monde/afrique/libye/deux-militaires-libyens-ont-succombe-a-leurs-blessures-apres-l-attaque-de-navires-russes-en-libye_8298696.html": "2026-11-25T08:44:49.025213+00:00",
-  "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/temoignages-j-ai-vraiment-cru-que-j-allais-y-rester-le-recit-de-soldats-ukrainiens-qui-ont-survecu-a-l-enfer-de-la-guerre-souterraine_8277137.html": "2026-11-25T08:44:49.025213+00:00"
+  "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/temoignages-j-ai-vraiment-cru-que-j-allais-y-rester-le-recit-de-soldats-ukrainiens-qui-ont-survecu-a-l-enfer-de-la-guerre-souterraine_8277137.html": "2026-11-25T08:44:49.025213+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/les-europeens-doivent-venir-s-expliquer-a-moscou-avant-de-participer-aux-negociations-sur-l-ukraine-affirme-l-ambassadeur-russe-en-allemagne_8299872.html": "2026-11-25T19:22:56.498687+00:00",
+  "https://www.franceinfo.fr/monde/europe/union-europeenne/l-ue-et-le-royaume-uni-infligent-pres-de-600-millions-d-euros-d-amendes-a-trois-industriels-accuses-d-avoir-forme-le-cartel-des-parfums_8300085.html": "2026-11-25T19:22:56.498687+00:00",
+  "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/au-moins-470-000-soldats-russes-sont-morts-depuis-le-debut-de-la-guerre-en-ukraine-selon-un-nouveau-decompte-issu-de-donnees-piratees_8299866.html": "2026-11-25T19:22:56.498687+00:00",
+  "https://www.franceinfo.fr/monde/usa/droits-de-douane/les-etats-unis-annoncent-de-nouveaux-droits-de-douane-contre-leurs-principaux-partenaires-commerciaux_8299734.html": "2026-11-25T19:22:56.498687+00:00",
+  "https://www.franceinfo.fr/economie/automobile/l-arrivee-d-une-usine-byd-en-france-va-dans-le-bon-sens-juge-sebastien-martin_8299752.html": "2026-11-25T19:22:56.498687+00:00",
+  "https://www.franceinfo.fr/monde/europe/union-europeenne/la-france-mettra-fin-aux-negociations-sur-le-budget-europeen-si-aucun-accord-n-est-trouve-au-dela-de-decembre_8299746.html": "2026-11-25T19:22:56.498687+00:00",
+  "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/la-coordination-rurale-va-demander-a-emmanuel-macron-de-refuser-tout-accord-sur-la-pac-qui-ne-permette-pas-aux-agriculteurs-de-vivre-de-leur-production_8299683.html": "2026-11-25T19:22:56.498687+00:00",
+  "https://www.franceinfo.fr/monde/europe/union-europeenne/leurs-vies-sont-devenues-du-jour-au-lendemain-un-enfer-pour-proteger-la-cpi-des-pressions-etrangeres-le-parlement-europeen-exige-de-la-commission-une-strategie-globale_8298972.html": "2026-11-25T19:22:56.498687+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": ": Vrai ou faux Parrainages présidentiels : pourquoi les élus signent-ils moins et comment font nos voisins européens ? La publication depuis 2017 du nom de tous les parrains a-t-elle fait baisser le nombre d'élus acceptant de donner leur signature à un candidat, comme l'affirme l'Association des maires de France ? Aujourd'hui : Vrai ou faux 2:06 audio 2 minutes 6",
-   "link": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/vrai-ou-faux-parrainages-presidentiels-pourquoi-les-elus-signent-ils-moins-et-comment-font-nos-voisins-europeens_8277125.html",
-   "summary": "Parrainages présidentiels : pourquoi les élus signent-ils moins et comment font nos voisins européens ?",
-   "image": "https://www.franceinfo.fr/pictures/l75A9fd0F2cxFjglyikbZoCRv0Y/24x0:1000x671/432x297/filters:format(jpg)/2026/11/25/6b069699d0d7f896645854.jpg",
+   "title": "Les Européens doivent venir s'expliquer à Moscou avant de participer aux négociations sur l'Ukraine, affirme l'ambassadeur russe en Allemagne Sergueï Netchaev a aussi déclaré ne pas être \"convaincu que les Européens souhaitent la paix\". Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/les-europeens-doivent-venir-s-expliquer-a-moscou-avant-de-participer-aux-negociations-sur-l-ukraine-affirme-l-ambassadeur-russe-en-allemagne_8299872.html",
+   "summary": "Les Européens doivent venir s'expliquer à Moscou avant de participer aux négociations sur l'Ukraine, affirme l'ambassadeur russe en Allemagne",
+   "image": "https://www.franceinfo.fr/pictures/nLjz1X9aDzrKkugGDbWhKfkyTNU/1662x0:5514x2648/432x297/filters:format(jpg)/2026/11/25/6b06fe508d3cd336444627.jpg",
+   "date": null,
+   "pubdate": "2026-11-25T19:22:56.498687+00:00"
+  },
+  {
+   "title": "L'UE et le Royaume-Uni infligent près de 600 millions d'euros d'amendes à trois industriels accusés d'avoir formé le \"cartel des parfums\" Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/europe/union-europeenne/l-ue-et-le-royaume-uni-infligent-pres-de-600-millions-d-euros-d-amendes-a-trois-industriels-accuses-d-avoir-forme-le-cartel-des-parfums_8300085.html",
+   "summary": "L'UE et le Royaume-Uni infligent près de 600 millions d'euros d'amendes à trois industriels accusés d'avoir formé le \"cartel des parfums\"",
+   "image": "https://www.franceinfo.fr/pictures/6arACFLZYvKVCdbYifaS8DKyRiw/0x392:6000x3767/432x243/filters:format(jpg)/2026/11/25/6b07144e6cf29745876658.jpg",
+   "date": null,
+   "pubdate": "2026-11-25T19:22:56.498687+00:00"
+  },
+  {
+   "title": "Au moins 470 000 soldats russes sont morts depuis le début de la guerre en Ukraine, selon un nouveau décompte issu de données piratées Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/au-moins-470-000-soldats-russes-sont-morts-depuis-le-debut-de-la-guerre-en-ukraine-selon-un-nouveau-decompte-issu-de-donnees-piratees_8299866.html",
+   "summary": "Au moins 470 000 soldats russes sont morts depuis le début de la guerre en Ukraine, selon un nouveau décompte issu de données piratées",
+   "image": "https://www.franceinfo.fr/pictures/duJEe_lSfYs-PcJ8RHqR4KV6ZPM/0x625:6000x4000/432x243/filters:format(jpg)/2026/11/25/6b06b061c149d845682756.jpg",
+   "date": null,
+   "pubdate": "2026-11-25T19:22:56.498687+00:00"
+  },
+  {
+   "title": "Les Etats-Unis annoncent de nouveaux droits de douane contre leurs principaux partenaires commerciaux Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/usa/droits-de-douane/les-etats-unis-annoncent-de-nouveaux-droits-de-douane-contre-leurs-principaux-partenaires-commerciaux_8299734.html",
+   "summary": "Les Etats-Unis annoncent de nouveaux droits de douane contre leurs principaux partenaires commerciaux",
+   "image": "https://www.franceinfo.fr/pictures/W_w1d8qxw3In_6jsmAejlFdDX7w/0x0:5513x3101/432x243/filters:format(jpg)/2026/11/25/6b06f6d9a7483001109443.jpg",
+   "date": null,
+   "pubdate": "2026-11-25T19:22:56.498687+00:00"
+  },
+  {
+   "title": "L'arrivée d'une usine BYD en France \"va dans le bon sens\", juge Sébastien Martin Aujourd'hui 2:07 vidéo 2 minutes 7",
+   "link": "https://www.franceinfo.fr/economie/automobile/l-arrivee-d-une-usine-byd-en-france-va-dans-le-bon-sens-juge-sebastien-martin_8299752.html",
+   "summary": "L'arrivée d'une usine BYD en France \"va dans le bon sens\", juge Sébastien Martin",
+   "image": "https://www.franceinfo.fr/pictures/7LAeXZujnyaRj0U0gQ4fzu0h-Jk/0x0:900x1600/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/25/6b06e5197afd0047077566.jpg",
+   "date": null,
+   "pubdate": "2026-11-25T19:22:56.498687+00:00"
+  },
+  {
+   "title": "La France mettra fin aux négociations sur le budget européen si aucun accord n'est trouvé \"au-delà de décembre\" Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/europe/union-europeenne/la-france-mettra-fin-aux-negociations-sur-le-budget-europeen-si-aucun-accord-n-est-trouve-au-dela-de-decembre_8299746.html",
+   "summary": "La France mettra fin aux négociations sur le budget européen si aucun accord n'est trouvé \"au-delà de décembre\"",
+   "image": "https://www.franceinfo.fr/pictures/9-lPG8UP4kv0ev1NJU4ty8rmA1s/0x430:8256x5074/432x243/filters:format(jpg)/2026/11/25/6b06ebacbfec7719783011.jpg",
+   "date": null,
+   "pubdate": "2026-11-25T19:22:56.498687+00:00"
+  },
+  {
+   "title": "La Coordination rurale va demander à Emmanuel Macron de refuser tout accord sur la PAC qui ne permette pas aux \"agriculteurs de vivre de leur production\" Aujourd'hui",
+   "link": "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/la-coordination-rurale-va-demander-a-emmanuel-macron-de-refuser-tout-accord-sur-la-pac-qui-ne-permette-pas-aux-agriculteurs-de-vivre-de-leur-production_8299683.html",
+   "summary": "La Coordination rurale va demander à Emmanuel Macron de refuser tout accord sur la PAC qui ne permette pas aux \"agriculteurs de vivre de leur production\"",
+   "image": "https://www.franceinfo.fr/pictures/_YVOCeEJx64SFqYr90LtcJJKeko/0x247:7712x4585/432x243/filters:format(jpg)/2026/11/25/6b06971b42252237825393.jpg",
+   "date": null,
+   "pubdate": "2026-11-25T19:22:56.498687+00:00"
+  },
+  {
+   "title": "\"Leurs vies sont devenues du jour au lendemain un enfer\" : pour protéger la CPI des pressions étrangères, le Parlement européen exige de la Commission une \"stratégie globale\" Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/europe/union-europeenne/leurs-vies-sont-devenues-du-jour-au-lendemain-un-enfer-pour-proteger-la-cpi-des-pressions-etrangeres-le-parlement-europeen-exige-de-la-commission-une-strategie-globale_8298972.html",
+   "summary": "\"Leurs vies sont devenues du jour au lendemain un enfer\" : pour protéger la CPI des pressions étrangères, le Parlement européen exige de la Commission une \"stratégie globale\"",
+   "image": "https://www.franceinfo.fr/pictures/sCV3jXluj72Yp6yGWBVhzKoKoY4/628x834:2946x2137/432x243/filters:format(jpg)/2026/11/25/6b06affc45129871519242.jpg",
+   "date": null,
+   "pubdate": "2026-11-25T19:22:56.498687+00:00"
+  },
+  {
+   "title": ": Témoignages \"J'ai vraiment cru que j'allais y rester\" : le récit de soldats ukrainiens qui ont survécu à l'enfer de la guerre souterraine Aujourd'hui : Témoignages",
+   "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/temoignages-j-ai-vraiment-cru-que-j-allais-y-rester-le-recit-de-soldats-ukrainiens-qui-ont-survecu-a-l-enfer-de-la-guerre-souterraine_8277137.html",
+   "summary": "\"J'ai vraiment cru que j'allais y rester\" : le récit de soldats ukrainiens qui ont survécu à l'enfer de la guerre souterraine",
+   "image": "https://www.franceinfo.fr/pictures/YdW69Eykw04QnhlSFMwH5SaaMjY/0x0:395x222/432x243/filters:format(jpg)/2026/11/25/6b06909b8f9a7577525878.png",
    "date": null,
    "pubdate": "2026-11-25T08:44:49.025213+00:00"
   },
   {
-   "title": "Emmanuel Macron reçoit les agriculteurs et défend une \"sanctuarisation\" de la Politique agricole commune Aujourd'hui",
+   "title": ": Vrai ou faux Parrainages présidentiels : pourquoi les élus signent-ils moins et comment font nos voisins européens ? Aujourd'hui : Vrai ou faux 2:06 audio 2 minutes 6",
+   "link": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/vrai-ou-faux-parrainages-presidentiels-pourquoi-les-elus-signent-ils-moins-et-comment-font-nos-voisins-europeens_8277125.html",
+   "summary": "Parrainages présidentiels : pourquoi les élus signent-ils moins et comment font nos voisins européens ?",
+   "image": "https://www.franceinfo.fr/pictures/e9o6AoSwXEyIZmtxGJv4pQFJmkY/0x47:1024x623/432x243/filters:format(jpg)/2026/11/25/6b069699d0d7f896645854.jpg",
+   "date": null,
+   "pubdate": "2026-11-25T08:44:49.025213+00:00"
+  },
+  {
+   "title": "Emmanuel Macron reçoit les agriculteurs et défend une \"sanctuarisation\" de la Politique agricole commune Les agriculteurs s'inquiètent notamment de l'avenir de la PAC, la Politique agricole commune, dont il sera question au sommet européen de jeudi, consacré au budget de l'Union européenne. Aujourd'hui",
    "link": "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/emmanuel-macron-recoit-les-agriculteurs-et-defend-une-sanctuarisation-de-la-politique-agricole-commune_8298876.html",
    "summary": "Emmanuel Macron reçoit les agriculteurs et défend une \"sanctuarisation\" de la Politique agricole commune",
    "image": "https://www.franceinfo.fr/pictures/AvA0Ng1ixGz8cDbmpd354wpsyIo/432x243/filters:format(jpg)/2026/08/01/6a6d6f79e830f232053448.jpg",
@@ -49,15 +120,7 @@
    "pubdate": "2026-11-25T08:44:49.025213+00:00"
   },
   {
-   "title": "À suivre Loïc de la Mornais : les dessous de la vague migratoire de Ceuta dévoilés dans un reportage d'Envoyé Spécial Aujourd'hui 5:53 vidéo 5 minutes 53",
-   "link": "https://www.franceinfo.fr/replay-magazine/franceinfo/a-suivre-avec-loic-de-la-mornais/a-suivre-loic-de-la-mornais-les-dessous-de-la-vague-migratoire-de-ceuta-devoiles-dans-un-reportage-d-envoye-special_8298873.html",
-   "summary": "À suivre Loïc de la Mornais : les dessous de la vague migratoire de Ceuta dévoilés dans un reportage d'Envoyé Spécial",
-   "image": "https://www.franceinfo.fr/pictures/YM0QaqenfIslHDc-v3TMAf75C8Q/0x0:1095x615/432x243/filters:format(jpg)/2026/11/25/6b0680601cd8d062614382.jpg",
-   "date": null,
-   "pubdate": "2026-11-25T08:44:49.025213+00:00"
-  },
-  {
-   "title": "Deux militaires libyens ont succombé à leurs blessures après l'attaque de navires russes en Libye Aujourd'hui",
+   "title": "Deux militaires libyens ont succombé à leurs blessures après l'attaque de navires russes en Libye Le président ukrainien Volodymyr Zelensky a revendiqué les attaques menées dimanche près de Benghazi. Aujourd'hui",
    "link": "https://www.franceinfo.fr/monde/afrique/libye/deux-militaires-libyens-ont-succombe-a-leurs-blessures-apres-l-attaque-de-navires-russes-en-libye_8298696.html",
    "summary": "Deux militaires libyens ont succombé à leurs blessures après l'attaque de navires russes en Libye",
    "image": "https://www.franceinfo.fr/pictures/I9Yu9xH5kvfi396VIm2HTZI2dso/70x0:1481x794/432x243/filters:format(jpg)/2026/11/25/6b06750c90aca850060546.jpg",
@@ -65,23 +128,7 @@
    "pubdate": "2026-11-25T08:44:49.025213+00:00"
   },
   {
-   "title": ": Témoignages \"J'ai vraiment cru que j'allais y rester\" : le récit de soldats ukrainiens qui ont survécu à l'enfer de la guerre souterraine : Témoignages 4:53 audio 4 minutes 53",
-   "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/temoignages-j-ai-vraiment-cru-que-j-allais-y-rester-le-recit-de-soldats-ukrainiens-qui-ont-survecu-a-l-enfer-de-la-guerre-souterraine_8277137.html",
-   "summary": "\"J'ai vraiment cru que j'allais y rester\" : le récit de soldats ukrainiens qui ont survécu à l'enfer de la guerre souterraine",
-   "image": "https://www.franceinfo.fr/pictures/s9xZcn-O_ATuq5juO7cYX93qcgQ/714x0:2856x2142/100x100/filters:format(jpg)/2026/11/25/6b068f2bb23c9648535518.jpg",
-   "date": null,
-   "pubdate": "2026-11-25T08:44:49.025213+00:00"
-  },
-  {
-   "title": "Migrants renvoyés au Rwanda : un accord qui change tout ? 24 novembre 4:34 vidéo 4 minutes 34",
-   "link": "https://www.franceinfo.fr/vrai-ou-fake/migrants-renvoyes-au-rwanda-un-accord-qui-change-tout_8298333.html",
-   "summary": "Migrants renvoyés au Rwanda : un accord qui change tout ?",
-   "image": "https://www.franceinfo.fr/pictures/RVEc3FXsRjDJ3bxt2KpZ_U35l-4/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/24/6b05ea80bcb1c853404339.jpg",
-   "date": null,
-   "pubdate": "2026-11-24T23:56:22.455156+00:00"
-  },
-  {
-   "title": "Le Royaume-Uni alerte ses entreprises fournissant l'Ukraine sur le risque de sabotage russe 24 novembre",
+   "title": "Le Royaume-Uni alerte ses entreprises fournissant l'Ukraine sur le risque de sabotage russe Londres recommande à ces compagnies de réduire leur exposition numérique et de mieux détecter et signaler les activités de reconnaissance hostiles. 24 novembre",
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/le-royaume-uni-alerte-ses-entreprises-fournissant-l-ukraine-sur-le-risque-de-sabotage-russe_8298273.html",
    "summary": "Le Royaume-Uni alerte ses entreprises fournissant l'Ukraine sur le risque de sabotage russe",
    "image": "https://www.franceinfo.fr/pictures/72nNO4zCzarYYgAkTz47WDXFFZg/0x93:5000x2906/432x243/filters:format(jpg)/2026/11/24/6b05d7e180053968767699.jpg",
@@ -89,7 +136,7 @@
    "pubdate": "2026-11-24T23:56:22.455156+00:00"
   },
   {
-   "title": "La Libye nie toute \"entente\" avec Kiev après les attaques ukrainiennes contre des navires russes 24 novembre",
+   "title": "La Libye nie toute \"entente\" avec Kiev après les attaques ukrainiennes contre des navires russes Le gouvernement libyen d'unité nationale, basé à Tripoli, a estimé que les \"allégations faisant état de l'existence de quelconques ententes avec la partie ukrainienne\" étaient \"sans fondement\". 24 novembre",
    "link": "https://www.franceinfo.fr/monde/afrique/libye/la-libye-nie-toute-entente-avec-kiev-apres-les-attaques-ukrainiennes-contre-des-navires-russes_8298132.html",
    "summary": "La Libye nie toute \"entente\" avec Kiev après les attaques ukrainiennes contre des navires russes",
    "image": "https://www.franceinfo.fr/pictures/cDpReKbOptT5l6FsjWbS3W7dKIA/0x591:5981x3955/432x243/filters:format(jpg)/2026/11/24/6b05c45663b5b139043467.jpg",
@@ -97,7 +144,7 @@
    "pubdate": "2026-11-24T23:56:22.455156+00:00"
   },
   {
-   "title": ": Reportage \"On sacrifie la santé pour les profits\" : à Strasbourg, les manifestants dénoncent l'Ominibus X, le projet de simplification européen sur les pesticides 24 novembre : Reportage",
+   "title": ": Reportage \"On sacrifie la santé pour les profits\" : à Strasbourg, les manifestants dénoncent l'Ominibus X, le projet de simplification européen sur les pesticides À l'appel de plus de 300 organisations, des manifestants se sont rassemblés mardi devant le Parlement européen, à Strasbourg, pour dénoncer le projet de simplification de la réglementation sur les pesticides. ONG et familles de malades redoutent les conséquences de ce texte sur la santé et l'environnement. 24 novembre : Reportage",
    "link": "https://www.franceinfo.fr/environnement/transition-ecologique-de-l-agriculture/pesticides/on-sacrifie-la-sante-pour-les-profits-a-strasbourg-les-manifestants-denoncent-l-ominibus-x-le-projet-de-simplification-europeen-sur-les-pesticides_8297778.html",
    "summary": "\"On sacrifie la santé pour les profits\" : à Strasbourg, les manifestants dénoncent l'Ominibus X, le projet de simplification européen sur les pesticides",
    "image": "https://www.franceinfo.fr/pictures/Scb36yjVH7URJHBFLZKppHXOzZU/0x625:6001x4001/432x243/filters:format(jpg)/2026/11/24/6b05a96dc308e433604027.jpg",
@@ -105,7 +152,15 @@
    "pubdate": "2026-11-24T23:56:22.455156+00:00"
   },
   {
-   "title": "L'Union européenne va plafonner les importations de voitures hybrides chinoises à partir du 1er décembre 24 novembre",
+   "title": "De l'Espagne à l'Albanie en passant par la France, une jeunesse européenne unie par des causes communes descend dans la rue 9:00 article 9 minutes",
+   "link": "https://www.franceinfo.fr/monde/europe/de-l-espagne-a-l-albanie-en-passant-par-la-france-une-jeunesse-europeenne-unie-par-des-causes-communes-descend-dans-la-rue_8290049.html",
+   "summary": "De l'Espagne à l'Albanie en passant par la France, une jeunesse européenne unie par des causes communes descend dans la rue",
+   "image": "https://www.franceinfo.fr/pictures/HfyGcLM64b1Zmf-Qbz00_MsZ44g/437x0:1562x1125/100x100/filters:format(jpg)/2026/11/19/6afef8f20352c032597013.jpg",
+   "date": null,
+   "pubdate": "2026-11-24T13:52:16.165464+00:00"
+  },
+  {
+   "title": "L'Union européenne va plafonner les importations de voitures hybrides chinoises à partir du 1er décembre Cette mesure vise à \"protéger l'industrie\" européenne, alors que le déficit commercial avec la Chine atteint désormais environ un milliard d'euros par jour depuis 2025, explique la Commission européenne. 24 novembre",
    "link": "https://www.franceinfo.fr/economie/automobile/l-union-europeenne-va-plafonner-les-importations-de-voitures-hybrides-chinoises-a-partir-du-1er-decembre_8297406.html",
    "summary": "L'Union européenne va plafonner les importations de voitures hybrides chinoises à partir du 1er décembre",
    "image": "https://www.franceinfo.fr/pictures/O937VOPsWFUJFoj1Xs5X2sdPuOQ/0x0:3543x1992/432x243/filters:format(jpg)/2026/11/24/6b0562684a52b591784002.jpg",
@@ -113,18 +168,10 @@
    "pubdate": "2026-11-24T13:52:16.165464+00:00"
   },
   {
-   "title": "En Ukraine, deux morts et plus de 40 blessés dans des frappes russes sur Zaporijjia 24 novembre",
+   "title": "En Ukraine, deux morts et plus de 40 blessés dans des frappes russes sur Zaporijjia Parmi les blessés, les autorités citent un nourrisson et trois enfants âgés de 4, 6 et 16 ans. 24 novembre",
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-deux-morts-et-plus-de-40-blesses-dans-des-frappes-russes-sur-zaporijjia_8297385.html",
    "summary": "En Ukraine, deux morts et plus de 40 blessés dans des frappes russes sur Zaporijjia",
    "image": "https://www.franceinfo.fr/pictures/vyOMQIpkUM1Smr_spLbXN-jK9gM/0x321:5712x3534/432x243/filters:format(jpg)/2026/11/24/6b055bf8ca5c0217741183.jpg",
-   "date": null,
-   "pubdate": "2026-11-24T13:52:16.165464+00:00"
-  },
-  {
-   "title": "De l'Espagne à l'Albanie en passant par la France, une jeunesse européenne unie par des causes communes descend dans la rue 9:00 article 9 minutes",
-   "link": "https://www.franceinfo.fr/monde/europe/de-l-espagne-a-l-albanie-en-passant-par-la-france-une-jeunesse-europeenne-unie-par-des-causes-communes-descend-dans-la-rue_8290049.html",
-   "summary": "De l'Espagne à l'Albanie en passant par la France, une jeunesse européenne unie par des causes communes descend dans la rue",
-   "image": "https://www.franceinfo.fr/pictures/HfyGcLM64b1Zmf-Qbz00_MsZ44g/437x0:1562x1125/100x100/filters:format(jpg)/2026/11/19/6afef8f20352c032597013.jpg",
    "date": null,
    "pubdate": "2026-11-24T13:52:16.165464+00:00"
   },
@@ -177,22 +224,6 @@
    "pubdate": "2026-11-24T02:16:12.496221+00:00"
   },
   {
-   "title": "L'Union européenne propose d'interdire de compétition les athlètes russes sur son territoire Cette proposition, émise lundi par la Commission européenne, fait partie d'un nouveau lot de sanctions contre la Russie. 23 novembre",
-   "link": "https://www.franceinfo.fr/sports/l-union-europeenne-propose-d-interdire-de-competition-les-athletes-russes-sur-son-territoire_8296275.html",
-   "summary": "L'Union européenne propose d'interdire de compétition les athlètes russes sur son territoire",
-   "image": "https://www.franceinfo.fr/pictures/z9eRRKKoY68jbS9Zid_WiOPftWs/0x29:6048x3431/432x243/filters:format(jpg)/2026/11/23/6b0459e3b6ecd156837384.jpg",
-   "date": null,
-   "pubdate": "2026-11-24T02:16:12.496221+00:00"
-  },
-  {
-   "title": "En Allemagne, \"le frein à la dette\" est inscrit dans la Constitution depuis 2009 mais a été assoupli Emmanuel Macron envisage d'inscrire dans la Constitution une \"règle d'or budgétaire\". Chez nos voisins allemands, ce concept est appliqué depuis 2009. 23 novembre",
-   "link": "https://www.franceinfo.fr/monde/europe/allemagne/en-allemagne-le-frein-a-la-dette-est-inscrit-dans-la-constitution-depuis-2009-mais-a-ete-assoupli_8296088.html",
-   "summary": "En Allemagne, \"le frein à la dette\" est inscrit dans la Constitution depuis 2009 mais a été assoupli",
-   "image": "https://www.franceinfo.fr/pictures/xGm7iBgLSYOE7pmKkxA5ls-OkGw/0x0:2400x1349/432x243/filters:format(jpg)/2024/11/26/000-32c32jw-674569b90ef10535404763.jpg",
-   "date": null,
-   "pubdate": "2026-11-24T02:16:12.496221+00:00"
-  },
-  {
    "title": ": Reportage \"Ce soir, on est en mission pour qu'ils passent une mauvaise nuit\" : en immersion avec une brigade de dronistes ukrainiens qui vise les raffineries russes : Reportage 4:55 audio 4 minutes 55",
    "link": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-couper-le-robinet-de-petrole-russe-en-mission-avec-les-oiseaux-de-madyar-la-brigade-de-dronistes-ukrainiens-la-plus-pourchassee-par-les-russes_8255023.html",
    "summary": "\"Ce soir, on est en mission pour qu'ils passent une mauvaise nuit\" : en immersion avec une brigade de dronistes ukrainiens qui vise les raffineries russes",
@@ -201,50 +232,10 @@
    "pubdate": "2026-11-23T13:01:22.543299+00:00"
   },
   {
-   "title": "\"Une opération exemplaire\" : ce que l'on sait de l'attaque de deux navires au large de la Libye revendiquée par l'Ukraine Volodymyr Zelensky s'est félicité d'avoir ciblé deux navires battant pavillon russe lors de deux attaques de drones menées dans le port et au large de la ville de Benghazi. 23 novembre",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/une-operation-exemplaire-ce-que-l-on-sait-de-l-attaque-de-deux-navires-au-large-de-la-libye-revendiquee-par-l-ukraine_8295566.html",
-   "summary": "\"Une opération exemplaire\" : ce que l'on sait de l'attaque de deux navires au large de la Libye revendiquée par l'Ukraine",
-   "image": "https://www.franceinfo.fr/pictures/HUCT5qhB2YDrBnITzKhLojS-Ycg/0x0:1024x576/432x243/filters:format(jpg)/2026/11/23/6b03e95c99ff2242309389.jpg",
-   "date": null,
-   "pubdate": "2026-11-23T13:01:22.543299+00:00"
-  },
-  {
-   "title": "Guerre en Ukraine : l'UE présente un 22e paquet de sanctions contre Moscou, ciblant notamment les banques, la flotte fantôme et les athlètes russes \"L'objectif est de maintenir la pression sur la Russie afin qu'elle mette fin à sa guerre d'agression en Ukraine\", met en avant Ursula von der Leyen, présidente de la Commission européenne. 23 novembre",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-volodymyr-zelensky-revendique-les-attaques-contre-deux-navires-russes-menees-au-large-de-la-libye_8295668.html",
-   "summary": "Guerre en Ukraine : l'UE présente un 22e paquet de sanctions contre Moscou, ciblant notamment les banques, la flotte fantôme et les athlètes russes",
-   "image": "https://www.franceinfo.fr/pictures/HCRZODuDPGiyYuMYWzp7N3psPT4/0x0:6551x3684/432x243/filters:format(jpg)/2026/11/23/6b045b943f8a1740395841.jpg",
-   "date": null,
-   "pubdate": "2026-11-23T13:01:22.543299+00:00"
-  },
-  {
-   "title": "Paris et Berlin critiquent le projet de budget européen Le débat autour du budget n’est pas uniquement franco-français, il est également européen. Paris et Berlin critiquent le dernier projet présenté ce week-end. 23 novembre 2:34 audio 2 minutes 34",
-   "link": "https://www.franceinfo.fr/replay-radio/le-brief-eco/paris-et-berlin-critiquent-le-projet-de-budget-europeen_8273912.html",
-   "summary": "Paris et Berlin critiquent le projet de budget européen",
-   "image": "https://www.franceinfo.fr/pictures/dsgGT2vUO5SyG5OHiOPBAsyUFUk/0x87:1024x663/432x243/filters:format(jpg)/2026/11/23/6b03e3abb6604406953317.jpg",
-   "date": null,
-   "pubdate": "2026-11-23T13:01:22.543299+00:00"
-  },
-  {
-   "title": "Des frappes russes font au moins 15 morts dans la région de Kiev, avant une réunion de l'Otan dans la journée sur la guerre en Ukraine Les bombardements ont touché un immeuble résidentiel, un supermarché et une habitation. La Russie a intensifié ses frappes contre la capitale ukrainienne ces six derniers mois et beaucoup redoutent que l'hiver soit le plus difficile depuis le début de la guerre. 23 novembre",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-des-frappes-russes-font-au-moins-14-morts-dans-la-region-de-kiev_8295389.html",
-   "summary": "Des frappes russes font au moins 15 morts dans la région de Kiev, avant une réunion de l'Otan dans la journée sur la guerre en Ukraine",
-   "image": "https://www.franceinfo.fr/pictures/lTqzSfqYl5wJb2D51cGbZhjHZRI/0x0:3905x2196/432x243/filters:format(jpg)/2026/11/23/6b03cb5da432b679943522.jpg",
-   "date": null,
-   "pubdate": "2026-11-23T13:01:22.543299+00:00"
-  },
-  {
    "title": "Vos questions sur l'effort de guerre de la France 6 contenus",
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/vos-questions-sur-l-effort-de-guerre-de-la-france/",
    "summary": "Vos questions sur l'effort de guerre de la France",
    "image": "https://www.franceinfo.fr/pictures/ntZoU9VrwR_yrQmHdJn-AC2Tq7o/432x297/filters:format(jpg)/2025/04/01/effort-de-guerre-couverture-de-dossier-01-light-67eba0e5ca0a7848911582.jpg",
-   "date": null,
-   "pubdate": "2026-11-23T01:47:36.206555+00:00"
-  },
-  {
-   "title": "Les objets volants tombés vendredi en Pologne étaient des missiles de croisière fabriqués en Russie, annonce le parquet de Lublin La chute de ces objets, suivie dans au moins un cas d'une explosion et d'un incendie, n'avait pas fait de blessés. 22 novembre",
-   "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/les-objets-volants-tombes-vendredi-en-pologne-etaient-des-missiles-de-croisiere-fabriques-en-russie-annonce-le-parquet-de-lublin_8295188.html",
-   "summary": "Les objets volants tombés vendredi en Pologne étaient des missiles de croisière fabriqués en Russie, annonce le parquet de Lublin",
-   "image": "https://www.franceinfo.fr/pictures/SwyRpU4ks3pdkWsoBwrDmWFFgOs/29x0:994x543/432x243/filters:format(jpg)/2026/11/22/6b034cd448212394756538.jpg",
    "date": null,
    "pubdate": "2026-11-23T01:47:36.206555+00:00"
   }

@@ -1,10 +1,9 @@
 {
- "etag": "W/\"1795595784\"",
- "last_modified": "Wed, 25 Nov 2026 08:36:24 GMT",
+ "etag": "W/\"1795623188\"",
+ "last_modified": "Wed, 25 Nov 2026 16:13:08 GMT",
  "first_seen": {
   "https://www.ccomptes.fr/fr/actualites/quen-dit-la-cour-une-nouvelle-porte-dentree-vers-nos-travaux": "2026-10-12T10:59:54.913691+00:00",
   "https://www.ccomptes.fr/fr/communiques-presse/renforcer-lacces-des-citoyens-aux-travaux-des-juridictions-financieres": "2026-09-21T11:00:00+00:00",
-  "https://www.ccomptes.fr/fr/actualites/technologies-quantiques-la-cour-des-comptes-et-son-homologue-allemand-presentent-leurs": "2026-10-21T11:00:00+00:00",
   "https://www.ccomptes.fr/fr/actualites/colloque-lagriculture-francaise-face-aux-crises-climatiques-le-24-novembre": "2026-11-04T17:19:38.401068+00:00",
   "https://www.ccomptes.fr/fr/actualites/conference-internationale-de-jurisai-le-25-novembre": "2026-11-13T11:00:00+00:00",
   "https://www.ccomptes.fr/fr/actualites/retour-sur-le-colloque-femmes-et-reindustrialisation-la-mixite-comme-levier-de": "2026-11-04T11:00:00+00:00"
@@ -20,14 +19,6 @@
    "pubdate": "2026-11-13T11:00:00+00:00"
   },
   {
-   "title": "Colloque : L’agriculture française face aux crises climatiques – le 24 novembre",
-   "link": "https://www.ccomptes.fr/fr/actualites/colloque-lagriculture-francaise-face-aux-crises-climatiques-le-24-novembre",
-   "summary": "Le colloque « L’agriculture française face aux crises climatiques : quelle contribution de la recherche et des évaluations de politiques publiques ? » est l'événement inaugural de la collaboration entre la Cour des comptes et INRAE récemment formalisée par la signature d'une convention-cadre.",
-   "image": "",
-   "date": null,
-   "pubdate": "2026-11-04T17:19:38.401068+00:00"
-  },
-  {
    "title": "Retour sur le colloque « Femmes et réindustrialisation : la mixité comme levier de performance »",
    "link": "https://www.ccomptes.fr/fr/actualites/retour-sur-le-colloque-femmes-et-reindustrialisation-la-mixite-comme-levier-de",
    "summary": "",
@@ -36,12 +27,12 @@
    "pubdate": "2026-11-04T11:00:00+00:00"
   },
   {
-   "title": "Technologies quantiques : la Cour des comptes et son homologue allemand présentent leurs travaux communs à l'ambassade d'Allemagne",
-   "link": "https://www.ccomptes.fr/fr/actualites/technologies-quantiques-la-cour-des-comptes-et-son-homologue-allemand-presentent-leurs",
+   "title": "Colloque : L’agriculture française face aux crises climatiques – le 24 novembre",
+   "link": "https://www.ccomptes.fr/fr/actualites/colloque-lagriculture-francaise-face-aux-crises-climatiques-le-24-novembre",
    "summary": "",
    "image": "",
-   "date": "2026-10-21T11:00:00+00:00",
-   "pubdate": "2026-10-21T11:00:00+00:00"
+   "date": "2026-11-04T11:00:00+00:00",
+   "pubdate": "2026-11-04T11:00:00+00:00"
   },
   {
    "title": "Qu’en dit la Cour ? Une nouvelle porte d’entrée vers nos travaux",

@@ -1,20 +1,28 @@
 {
- "etag": "W/\"1795527375\"",
- "last_modified": "Tue, 24 Nov 2026 13:36:15 GMT",
+ "etag": "W/\"1795623040\"",
+ "last_modified": "Wed, 25 Nov 2026 16:10:40 GMT",
  "first_seen": {
   "https://www.ccomptes.fr/fr/publications/financement-des-indemnites-journalieres-des-professions-liberales": "2026-11-09T11:00:00+00:00",
   "https://www.ccomptes.fr/fr/publications/contribution-au-retablissement-des-finances-publiques": "2026-11-09T11:00:00+00:00",
-  "https://www.ccomptes.fr/fr/publications/note-thematique-les-depenses-fiscales": "2026-11-09T11:00:00+00:00",
   "https://www.ccomptes.fr/fr/publications/la-caisse-generale-de-securite-sociale-de-la-guadeloupe-et-de-saint-martin": "2026-11-10T11:00:00+00:00",
   "https://www.ccomptes.fr/fr/publications/la-fondation-louis-lepine": "2026-11-12T11:00:00+00:00",
   "https://www.ccomptes.fr/fr/publications/la-cour-des-comptes-publie-trois-nouvelles-notes-thematiques-consacrees-aux-politiques": "2026-11-16T11:00:00+00:00",
   "https://www.ccomptes.fr/fr/publications/lassociation-sos-villages-denfants": "2026-11-17T11:00:00+00:00",
   "https://www.ccomptes.fr/fr/publications/note-thematique-les-soutiens-de-letat-en-faveur-du-sport": "2026-11-19T11:00:00+00:00",
   "https://www.ccomptes.fr/fr/publications/les-jeux-olympiques-et-paralympiques-de-paris-2024-bilan-financier-et-heritage": "2026-11-19T11:00:00+00:00",
-  "https://www.ccomptes.fr/fr/publications/la-cour-des-comptes-publie-deux-nouvelles-notes-thematiques-retraites-et-politique": "2026-11-24T11:00:00+00:00"
+  "https://www.ccomptes.fr/fr/publications/la-cour-des-comptes-publie-deux-nouvelles-notes-thematiques-retraites-et-politique": "2026-11-24T11:00:00+00:00",
+  "https://www.ccomptes.fr/fr/publications/les-abus-et-les-fraudes-aux-aides-lapprentissage": "2026-11-25T11:00:00+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "Les abus et les fraudes aux aides à l’apprentissage",
+   "link": "https://www.ccomptes.fr/fr/publications/les-abus-et-les-fraudes-aux-aides-lapprentissage",
+   "summary": "Instrument essentiel de formation et d’insertion professionnelle, en particulier pour les jeunes les moins qualifiés, l’apprentissage a connu un développement considérable depuis 2018. Pourtant, cette montée en puissance ne s’est pas accompagnée d’un renforcement des contrôles à la hauteur des enjeu...",
+   "image": "https://www.ccomptes.fr/sites/default/files/styles/teaser_182x98/public/2026-04/Fraude-aux-prelevements-sociaux-liee-au-travail-dissimule-182x98.jpg?itok=P4U8Bsjq",
+   "date": "2026-11-25T11:00:00+00:00",
+   "pubdate": "2026-11-25T11:00:00+00:00"
+  },
   {
    "title": "La Cour des comptes publie deux nouvelles notes thématiques : Retraites et politique familiale : des leviers pour rééquilibrer les comptes sociaux",
    "link": "https://www.ccomptes.fr/fr/publications/la-cour-des-comptes-publie-deux-nouvelles-notes-thematiques-retraites-et-politique",
@@ -84,14 +92,6 @@
    "link": "https://www.ccomptes.fr/fr/publications/contribution-au-retablissement-des-finances-publiques",
    "summary": "Dans le prolongement des alertes formulées dans son rapport La situation et les perspectives des finances publiques, publié en juin dernier, et alors que la dégradation des perspectives économiques renforce l'urgence du rétablissement des finances publiques, la Cour des comptes entend, à travers deu...",
    "image": "https://www.ccomptes.fr/sites/default/files/styles/teaser_182x98/public/2024-10/Les-taxes-a-faible-rendement-182x98.jpg?itok=uZIMJAv0",
-   "date": "2026-11-09T11:00:00+00:00",
-   "pubdate": "2026-11-09T11:00:00+00:00"
-  },
-  {
-   "title": "Note thématique - Les dépenses fiscales",
-   "link": "https://www.ccomptes.fr/fr/publications/note-thematique-les-depenses-fiscales",
-   "summary": "La Cour des comptes publie des synthèses thématiques par grandes politiques publiques, utiles à nourrir le débat public. Ces notes identifient à la fois les principaux défis auxquels seront confrontés les décideurs publics au cours des prochaines années, et les leviers susceptibles de les relever. C...",
-   "image": "https://www.ccomptes.fr/sites/default/files/styles/teaser_182x98/public/2026-09/Notes%20structurelles-182x98.jpg?itok=s2UZMOhh",
    "date": "2026-11-09T11:00:00+00:00",
    "pubdate": "2026-11-09T11:00:00+00:00"
   }

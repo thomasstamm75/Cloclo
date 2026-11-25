@@ -2,8 +2,6 @@
  "etag": "",
  "last_modified": "",
  "first_seen": {
-  "https://www.parlons-politique.fr/politique-locale/finances-locales-pourquoi-les-choix-budgetaires-des-maires-pesent-sur-les-services-et-lactivite-economique_31342/": "2026-11-17T16:09:05.679651+00:00",
-  "https://www.parlons-politique.fr/politique-locale/qui-decidera-des-services-de-proximite-la-region-sud-veut-tester-un-partage-accru-des-pouvoirs-locaux_31340/": "2026-11-17T16:09:05.679651+00:00",
   "https://www.parlons-politique.fr/politique-locale/echarpe-tricolore-en-manifestation-jusquou-un-elu-local-peut-il-afficher-son-mandat-sans-brouiller-les-regles_31494/": "2026-11-18T20:38:24.649213+00:00",
   "https://www.parlons-politique.fr/politique-locale/a-paris-la-baisse-des-aides-aux-illuminations-oblige-les-commercants-a-revoir-leurs-projets-de-noel-et-leurs-engagements_31584/": "2026-11-20T11:50:05.575633+00:00",
   "https://www.parlons-politique.fr/politique-locale/assiduite-au-conseil-de-paris-comment-verifier-les-accusations-visant-emmanuel-gregoire-et-ce-quelles-changent-pour-les-habitants_31624/": "2026-11-21T02:24:19.389237+00:00",
@@ -13,10 +11,28 @@
   "https://www.parlons-politique.fr/ephemerides/le-23-novembre-1944-strasbourg-liberee-une-victoire-francaise-et-alliee-qui-eclaire-notre-rapport-aux-frontieres_31626/": "1944-11-23T11:00:00+00:00",
   "https://www.parlons-politique.fr/politique-locale/reforme-institutionnelle-locale-les-maires-peuvent-ils-rapprocher-les-decisions-sans-creuser-les-inegalites_31768/": "2026-11-24T02:16:06.724124+00:00",
   "https://www.parlons-politique.fr/politique-locale/depenses-publiques-a-paris-ce-que-le-classement-des-enquetes-change-pour-les-contribuables-et-le-controle-des-elus_31742/": "2026-11-24T02:16:06.724124+00:00",
-  "https://www.parlons-politique.fr/politique-locale/au-havre-lenquete-sur-largent-public-pose-la-question-du-controle-des-depenses-dune-collectivite-locale_31822/": "2026-11-24T23:56:16.204787+00:00"
+  "https://www.parlons-politique.fr/politique-locale/au-havre-lenquete-sur-largent-public-pose-la-question-du-controle-des-depenses-dune-collectivite-locale_31822/": "2026-11-24T23:56:16.204787+00:00",
+  "https://www.parlons-politique.fr/politique-locale/a-cayenne-lengorgement-de-lasile-laisse-les-familles-sans-abri-et-met-les-capacites-daccueil-sous-pression_31924/": "2026-11-25T19:22:51.031123+00:00",
+  "https://www.parlons-politique.fr/politique-locale/qui-defendra-les-moyens-des-communes-la-victoire-de-lisnard-a-lamf-relance-le-debat-sur-son-independance_31885/": "2026-11-25T19:22:51.031123+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "À Cayenne, l’engorgement de l’asile laisse les familles sans abri et met les capacités d’accueil sous pression",
+   "link": "https://www.parlons-politique.fr/politique-locale/a-cayenne-lengorgement-de-lasile-laisse-les-familles-sans-abri-et-met-les-capacites-daccueil-sous-pression_31924/",
+   "summary": "À Cayenne, la hausse des demandes d’asile et les délais d’enregistrement alimentent la précarité autour des campements. Les élus réclament des réponses,…",
+   "image": "https://www.parlons-politique.fr/wp-content/uploads/2026/11/familles-campement-guyane-600x400.webp",
+   "date": null,
+   "pubdate": "2026-11-25T19:22:51.031123+00:00"
+  },
+  {
+   "title": "Qui défendra les moyens des communes ? La victoire de Lisnard à l’AMF relance le débat sur son indépendance",
+   "link": "https://www.parlons-politique.fr/politique-locale/qui-defendra-les-moyens-des-communes-la-victoire-de-lisnard-a-lamf-relance-le-debat-sur-son-independance_31885/",
+   "summary": "Réélu avec 72 % des voix face à Philippe Laurent, David Lisnard conserve la présidence de l’Association des maires de France. Sa…",
+   "image": "https://www.parlons-politique.fr/wp-content/uploads/2026/11/portrait-president-association-maires-600x400.webp",
+   "date": null,
+   "pubdate": "2026-11-25T19:22:51.031123+00:00"
+  },
   {
    "title": "Au Havre, l’enquête sur l’argent public pose la question du contrôle des dépenses d’une collectivité locale",
    "link": "https://www.parlons-politique.fr/politique-locale/au-havre-lenquete-sur-largent-public-pose-la-question-du-controle-des-depenses-dune-collectivite-locale_31822/",
@@ -88,22 +104,6 @@
    "image": "https://www.parlons-politique.fr/wp-content/uploads/2026/11/elue-lyceens-echarpe-tricolore-600x400.webp",
    "date": null,
    "pubdate": "2026-11-18T20:38:24.649213+00:00"
-  },
-  {
-   "title": "Finances locales : pourquoi les choix budgétaires des maires pèsent sur les services et l’activité économique",
-   "link": "https://www.parlons-politique.fr/politique-locale/finances-locales-pourquoi-les-choix-budgetaires-des-maires-pesent-sur-les-services-et-lactivite-economique_31342/",
-   "summary": "Les élus locaux alertent sur les effets des contraintes budgétaires, mais les comptes montrent des situations contrastées selon les territoires. Le ralentissement…",
-   "image": "https://www.parlons-politique.fr/wp-content/uploads/2026/11/chantier-equipement-public-600x400.webp",
-   "date": null,
-   "pubdate": "2026-11-17T16:09:05.679651+00:00"
-  },
-  {
-   "title": "Qui décidera des services de proximité ? La région Sud veut tester un partage accru des pouvoirs locaux",
-   "link": "https://www.parlons-politique.fr/politique-locale/qui-decidera-des-services-de-proximite-la-region-sud-veut-tester-un-partage-accru-des-pouvoirs-locaux_31340/",
-   "summary": "François de Canson propose de faire de la région Sud un territoire test des Mécanos de la République, initiative portée par Jean-Louis…",
-   "image": "https://www.parlons-politique.fr/wp-content/uploads/2026/11/maires-convention-pouvoirs-locaux-600x400.webp",
-   "date": null,
-   "pubdate": "2026-11-17T16:09:05.679651+00:00"
   },
   {
    "title": "Le 23 novembre 1944 : Strasbourg libérée, une victoire française et alliée qui éclaire notre rapport aux frontières",

@@ -5,8 +5,15 @@
     <link>https://www.ccomptes.fr/fr/publications?f%5B0%5D=institution%3A98</link>
     <description>Flux fabriqué par Cloclo à partir de https://www.ccomptes.fr/fr/publications?f%5B0%5D=institution%3A98</description>
     <language>fr</language>
-    <lastBuildDate>Wed, 25 Nov 2026 08:44:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 19:22:59 +0000</lastBuildDate>
     <atom:link href="https://thomasstamm75.github.io/Cloclo/cour-des-comptes-publications.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Les abus et les fraudes aux aides à l’apprentissage</title>
+      <link>https://www.ccomptes.fr/fr/publications/les-abus-et-les-fraudes-aux-aides-lapprentissage</link>
+      <guid isPermaLink="true">https://www.ccomptes.fr/fr/publications/les-abus-et-les-fraudes-aux-aides-lapprentissage</guid>
+      <pubDate>Wed, 25 Nov 2026 11:00:00 +0000</pubDate>
+      <description>&lt;img src="https://www.ccomptes.fr/sites/default/files/styles/teaser_182x98/public/2026-04/Fraude-aux-prelevements-sociaux-liee-au-travail-dissimule-182x98.jpg?itok=P4U8Bsjq" alt=""/&gt;&lt;p&gt;Instrument essentiel de formation et d’insertion professionnelle, en particulier pour les jeunes les moins qualifiés, l’apprentissage a connu un développement considérable depuis 2018. Pourtant, cette montée en puissance ne s’est pas accompagnée d’un renforcement des contrôles à la hauteur des enjeu...&lt;/p&gt;</description>
+    </item>
     <item>
       <title>La Cour des comptes publie deux nouvelles notes thématiques : Retraites et politique familiale : des leviers pour rééquilibrer les comptes sociaux</title>
       <link>https://www.ccomptes.fr/fr/publications/la-cour-des-comptes-publie-deux-nouvelles-notes-thematiques-retraites-et-politique</link>
@@ -69,13 +76,6 @@
       <guid isPermaLink="true">https://www.ccomptes.fr/fr/publications/contribution-au-retablissement-des-finances-publiques</guid>
       <pubDate>Mon, 09 Nov 2026 11:00:00 +0000</pubDate>
       <description>&lt;img src="https://www.ccomptes.fr/sites/default/files/styles/teaser_182x98/public/2024-10/Les-taxes-a-faible-rendement-182x98.jpg?itok=uZIMJAv0" alt=""/&gt;&lt;p&gt;Dans le prolongement des alertes formulées dans son rapport La situation et les perspectives des finances publiques, publié en juin dernier, et alors que la dégradation des perspectives économiques renforce l'urgence du rétablissement des finances publiques, la Cour des comptes entend, à travers deu...&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Note thématique - Les dépenses fiscales</title>
-      <link>https://www.ccomptes.fr/fr/publications/note-thematique-les-depenses-fiscales</link>
-      <guid isPermaLink="true">https://www.ccomptes.fr/fr/publications/note-thematique-les-depenses-fiscales</guid>
-      <pubDate>Mon, 09 Nov 2026 11:00:00 +0000</pubDate>
-      <description>&lt;img src="https://www.ccomptes.fr/sites/default/files/styles/teaser_182x98/public/2026-09/Notes%20structurelles-182x98.jpg?itok=s2UZMOhh" alt=""/&gt;&lt;p&gt;La Cour des comptes publie des synthèses thématiques par grandes politiques publiques, utiles à nourrir le débat public. Ces notes identifient à la fois les principaux défis auxquels seront confrontés les décideurs publics au cours des prochaines années, et les leviers susceptibles de les relever. C...&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
