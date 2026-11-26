@@ -1,24 +1,18 @@
 {
- "etag": "\"f998eb04a7efd08233564b435ed574b0-gzip\"",
+ "etag": "\"a7f6a270f99732fecf5ca6b783360597-gzip\"",
  "last_modified": "",
  "first_seen": {
   "https://www.franceinfo.fr/societe/euthanasie/comprendre-les-debats-sur-la-fin-de-vie/": "2026-11-21T11:16:20.238477+00:00",
   "https://www.franceinfo.fr/societe/nos-jours-heureux/": "2026-11-23T01:47:31.297444+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/cet-outil-ne-va-pas-tout-faire-a-la-place-de-l-eleve-en-estonie-une-version-specifique-de-chatgpt-fait-son-entree-dans-les-salles-de-classe_8268662.html": "2026-11-23T01:47:31.297444+00:00",
   "https://www.franceinfo.fr/monde/europe/de-l-espagne-a-l-albanie-en-passant-par-la-france-une-jeunesse-europeenne-unie-par-des-causes-communes-descend-dans-la-rue_8290049.html": "2026-11-23T13:01:18.596580+00:00",
-  "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/reforme-des-retraites-presence-d-un-procureur-au-siege-du-rn-le-8h30-franceinfo-de-jean-philippe-tanguy_8277152.html": "2026-11-25T11:00:00+00:00",
-  "https://www.franceinfo.fr/societe/harcelement-sexuel/harcelement-agressions-viols-30-des-pharmaciennes-se-disent-victimes-de-violences-sexistes-et-sexuelles_8298648.html": "2026-11-25T08:44:45.659366+00:00",
-  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/les-visios-ce-n-est-pas-viable-le-desarroi-d-etudiants-en-premiere-annee-apres-la-fermeture-administrative-de-l-universite-de-lille_8298867.html": "2026-11-25T08:44:45.659366+00:00",
   "https://www.franceinfo.fr/france/grand-est/haute-marne/saluts-nazis-propos-racistes-les-revelations-de-mediapart-sur-la-brigade-des-douanes-de-chaumont_8300223.html": "2026-11-25T19:22:52.476570+00:00",
-  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/professeurs-complices-des-violences-une-accusation-infondee_8300220.html": "2026-11-25T19:22:52.476570+00:00",
   "https://www.franceinfo.fr/societe/education/blocage-des-lycees/plus-de-400-eleves-ont-ete-exclus-definitivement-de-leur-etablissement-depuis-le-debut-du-mouvement-lyceen-selon-edouard-geffray_8300199.html": "2026-11-25T19:22:52.476570+00:00",
   "https://www.franceinfo.fr/societe/violences-faites-aux-femmes/garde-des-preuves-bloque-signale-la-maison-des-femmes-detourne-le-personnage-de-lucia-de-gta-vi_8299845.html": "2026-11-25T19:22:52.476570+00:00",
   "https://www.franceinfo.fr/economie/emploi/le-president-de-l-association-nationale-des-apprentis-de-france-appelle-a-ne-pas-minimiser-les-impacts-des-fraudes-dans-l-apprentissage_8299956.html": "2026-11-25T19:22:52.476570+00:00",
-  "https://www.franceinfo.fr/societe/education/fraude-a-l-apprentissage-jusqu-a-3-milliards-d-euros-detournes-selon-la-cour-des-comptes_8299800.html": "2026-11-25T19:22:52.476570+00:00",
   "https://www.franceinfo.fr/societe/education/blocage-des-lycees/etudiants-enseignants-du-superieur-policiers-a-quoi-faut-il-s-attendre-pour-la-mobilisation-de-jeudi_8299044.html": "2026-11-25T19:22:52.476570+00:00",
   "https://www.franceinfo.fr/societe/violences-faites-aux-femmes/les-policiers-manquent-de-formation-et-de-moyens-pour-accueillir-les-femmes-victimes-de-violences-sexuelles_8299716.html": "2026-11-25T19:22:52.476570+00:00",
   "https://www.franceinfo.fr/monde/ameriques/nayib-bukele-je-l-aime-de-tout-mon-c-ur-a-port-au-prince-l-emblematique-stade-aux-mains-des-gangs-a-ete-libere-grace-aux-salvadoriens_8299713.html": "2026-11-25T19:22:52.476570+00:00",
-  "https://www.franceinfo.fr/culture/livres/salon-du-livre-et-de-la-presse-jeunesse-de-montreuil/le-salon-du-livre-jeunesse-est-de-retour-a-montreuil-lire-c-est-reparer-des-mefaits-des-ecrans-estime-un-libraire_8299023.html": "2026-11-25T19:22:52.476570+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/temoignage-des-qu-il-y-a-un-nouveau-telephone-tout-le-monde-fait-un-credit-comment-le-surendettement-explose-chez-les-moins-de-30-ans_8266763.html": "2026-11-25T19:22:52.476570+00:00",
   "https://www.franceinfo.fr/faits-divers/incendie/on-comprend-qu-on-n-a-vraiment-plus-rien-qu-il-faut-recommencer-a-zero-ils-ont-vu-leur-maison-bruler-et-tentent-de-se-relever_8287193.html": "2026-11-25T19:22:52.476570+00:00",
   "https://www.franceinfo.fr/societe/education/blocage-des-lycees/tres-peu-d-enseignants-accuses-de-complicite-dans-des-violences-en-marge-des-mobilisations-lyceennes-revele-un-document-interne-du-gouvernement_8299731.html": "2026-11-25T19:22:52.476570+00:00",
@@ -28,90 +22,95 @@
   "https://france3-regions.franceinfo.fr/grand-est/haute-marne/chaumont/saluts-nazis-et-propos-racistes-les-derives-longtemps-impunies-des-douaniers-de-chaumont-3455603.html": "2026-11-25T19:22:52.476570+00:00",
   "https://www.franceinfo.fr/culture/livres/je-sais-quelle-joie-c-est-pour-un-enfant-d-imaginer-un-ami-comme-lui-l-autrice-nadja-donne-une-suite-a-chien-bleu-presque-quarante-ans-apres-le-premier-tome_8299011.html": "2026-11-25T19:22:52.476570+00:00",
   "https://www.franceinfo.fr/societe/education/blocage-des-lycees/deux-jeunes-de-17ans-en-garde-a-vue-apres-l-incendie-d-un-lycee-a-aix-en-provence_8299137.html": "2026-11-25T19:22:52.476570+00:00",
-  "https://www.franceinfo.fr/monde/europe/union-europeenne/leurs-vies-sont-devenues-du-jour-au-lendemain-un-enfer-pour-proteger-la-cpi-des-pressions-etrangeres-le-parlement-europeen-exige-de-la-commission-une-strategie-globale_8298972.html": "2026-11-25T19:22:52.476570+00:00",
-  "https://www.franceinfo.fr/replay-radio/histoire-du-jour/mouvement-lyceen-bons-eleves-milieux-privilegies-l-inspection-generale-de-l-education-nationale-esquisse-un-profil-des-meneurs_8295899.html": "2026-11-25T19:22:52.476570+00:00",
-  "https://www.franceinfo.fr/societe/feminicides/des-feministes-rendent-hommage-aux-victimes-de-feminicides-sur-la-tombe-du-soldat-inconnu_8299005.html": "2026-11-25T19:22:52.476570+00:00",
-  "https://www.franceinfo.fr/politique/front-national/presence-d-un-procureur-au-siege-du-rn-le-depute-rn-jean-philippe-tanguy-juge-l-affaire-totalement-insignifiante_8298999.html": "2026-11-25T19:22:52.476570+00:00"
+  "https://www.franceinfo.fr/societe/drogue/pres-de-2-000-plants-de-cannabis-decouverts-sous-une-aire-de-jeux-en-espagne_8300376.html": "2026-11-26T03:37:22.300282+00:00",
+  "https://www.franceinfo.fr/marseille/benoit-payan-affirme-que-des-ordres-ont-ete-donnes-pour-relacher-des-casseurs-le-17-octobre-a-marseille_8300364.html": "2026-11-26T03:37:22.300282+00:00",
+  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/avec-le-blocage-des-lycees-l-essor-des-cours-particuliers_8300355.html": "2026-11-26T03:37:22.300282+00:00",
+  "https://www.franceinfo.fr/faits-divers/feminicide-de-karen-baldi-les-proches-attendent-des-reponses-de-son-ex-mari_8300316.html": "2026-11-26T03:37:22.300282+00:00",
+  "https://www.franceinfo.fr/societe/justice/dieudonne/la-prefecture-de-l-allier-interdit-toute-representation-de-dieudonne-jeudi-dans-le-departement_8300310.html": "2026-11-26T03:37:22.300282+00:00",
+  "https://www.franceinfo.fr/replay-radio/la-question-des-informes/enseigner-les-uvres-classiques-nuit-elle-a-l-attrait-de-la-litterature-chez-les-jeunes_8277119.html": "2026-11-26T03:37:22.300282+00:00",
+  "https://www.franceinfo.fr/politique/front-national/presence-d-un-procureur-au-siege-du-rn-gerald-darmanin-a-annonce-l-ouverture-d-une-enquete_8300298.html": "2026-11-26T03:37:22.300282+00:00",
+  "https://www.franceinfo.fr/societe/drogue/la-marine-frappe-les-narcos-en-plein-pacifique-plus-de-3-tonnes-de-methamphetamines-saisies_8300253.html": "2026-11-26T03:37:22.300282+00:00",
+  "https://www.franceinfo.fr/faits-divers/assassinee-a-coup-de-machette-devant-son-fils_8300289.html": "2026-11-26T03:37:22.300282+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "Saluts nazis, propos racistes... Les révélations de Mediapart sur la brigade des douanes de Chaumont Mediapart a révélé mardi 24 novembre les dérives racistes et pro-nazies de la bridage des douanes de Chaumont (Haute-Marne). Maël Galisson, l’auteur de l’enquête, explique qu’il ne s’agit pas “d’un acte isolé”. Aujourd'hui 1:18 vidéo 1 minute 18",
+   "title": "Près de 2 000 plants de cannabis découverts sous une aire de jeux en Espagne Un bunker de 180m2 de culture de cannabis dissimulé sous une aire de jeux a été découvert par les autorités espagnoles, le 17 novembre, à Las Gabias (province de Grenade). Cinq personnes ont été arrêtées. Aujourd'hui 0:30 vidéo 30 secondes",
+   "link": "https://www.franceinfo.fr/societe/drogue/pres-de-2-000-plants-de-cannabis-decouverts-sous-une-aire-de-jeux-en-espagne_8300376.html",
+   "summary": "Près de 2 000 plants de cannabis découverts sous une aire de jeux en Espagne",
+   "image": "https://www.franceinfo.fr/pictures/O_jXidoRl2_w1QayhrIcQAWrmOE/0x0:1080x1920/fit-in/432x297/filters:upscale():fill(blur):format(jpg)/2026/11/25/6b075523efdaa084497722.jpg",
+   "date": null,
+   "pubdate": "2026-11-26T03:37:22.300282+00:00"
+  },
+  {
+   "title": "Benoît Payan affirme que des ordres ont été donnés pour \"relâcher\" des pilleurs le 17 octobre à Marseille Aujourd'hui",
+   "link": "https://www.franceinfo.fr/marseille/benoit-payan-affirme-que-des-ordres-ont-ete-donnes-pour-relacher-des-casseurs-le-17-octobre-a-marseille_8300364.html",
+   "summary": "Benoît Payan affirme que des ordres ont été donnés pour \"relâcher\" des pilleurs le 17 octobre à Marseille",
+   "image": "https://www.franceinfo.fr/pictures/HHsqASwkogxjODDw68WeAV0qJ9Y/0x25:1024x601/432x243/filters:format(jpg)/2026/11/25/6b0754bcb7e08088514778.jpg",
+   "date": null,
+   "pubdate": "2026-11-26T03:37:22.300282+00:00"
+  },
+  {
+   "title": "Avec le blocage des lycées, l'essor des cours particuliers Aujourd'hui 1:43 vidéo 1 minute 43",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/avec-le-blocage-des-lycees-l-essor-des-cours-particuliers_8300355.html",
+   "summary": "Avec le blocage des lycées, l'essor des cours particuliers",
+   "image": "https://www.franceinfo.fr/pictures/psw095D05us_8_noKHOCyQfRfs4/0x0:1504x846/432x243/filters:format(jpg)/2026/11/25/6b075265c5586539702767.jpg",
+   "date": null,
+   "pubdate": "2026-11-26T03:37:22.300282+00:00"
+  },
+  {
+   "title": "Féminicide de Karen Baldi : les proches attendent des réponses de son ex-mari Aujourd'hui 1:42 vidéo 1 minute 42",
+   "link": "https://www.franceinfo.fr/faits-divers/feminicide-de-karen-baldi-les-proches-attendent-des-reponses-de-son-ex-mari_8300316.html",
+   "summary": "Féminicide de Karen Baldi : les proches attendent des réponses de son ex-mari",
+   "image": "https://www.franceinfo.fr/pictures/NpencmIJ1m3wDNOAVWveKiNgAJ8/0x0:1523x856/432x243/filters:format(jpg)/2026/11/25/6b07464c81055892511958.jpg",
+   "date": null,
+   "pubdate": "2026-11-26T03:37:22.300282+00:00"
+  },
+  {
+   "title": "La préfecture de l'Allier interdit toute représentation de Dieudonné jeudi dans le département Aujourd'hui",
+   "link": "https://www.franceinfo.fr/societe/justice/dieudonne/la-prefecture-de-l-allier-interdit-toute-representation-de-dieudonne-jeudi-dans-le-departement_8300310.html",
+   "summary": "La préfecture de l'Allier interdit toute représentation de Dieudonné jeudi dans le département",
+   "image": "https://www.franceinfo.fr/pictures/exeeUxCNgKvXHbUodEKl4Gi3T7s/0x34:6444x3659/432x243/filters:format(jpg)/2026/11/25/6b0742f910893078492388.jpg",
+   "date": null,
+   "pubdate": "2026-11-26T03:37:22.300282+00:00"
+  },
+  {
+   "title": "Enseigner les œuvres classiques nuit-elle à l'attrait de la littérature chez les jeunes ? Aujourd'hui 9:30 audio 9 minutes 30",
+   "link": "https://www.franceinfo.fr/replay-radio/la-question-des-informes/enseigner-les-uvres-classiques-nuit-elle-a-l-attrait-de-la-litterature-chez-les-jeunes_8277119.html",
+   "summary": "Enseigner les œuvres classiques nuit-elle à l'attrait de la littérature chez les jeunes ?",
+   "image": "https://www.franceinfo.fr/pictures/krBOT6Ny_5kUq3__6bG7byd4UvE/0x0:5173x2909/432x243/filters:format(jpg)/2026/11/25/6b073ed250f95792088671.jpg",
+   "date": null,
+   "pubdate": "2026-11-26T03:37:22.300282+00:00"
+  },
+  {
+   "title": "Présence d'un procureur au siège du RN : Gérald Darmanin a annoncé l'ouverture d'une enquête Aujourd'hui 1:53 vidéo 1 minute 53",
+   "link": "https://www.franceinfo.fr/politique/front-national/presence-d-un-procureur-au-siege-du-rn-gerald-darmanin-a-annonce-l-ouverture-d-une-enquete_8300298.html",
+   "summary": "Présence d'un procureur au siège du RN : Gérald Darmanin a annoncé l'ouverture d'une enquête",
+   "image": "https://www.franceinfo.fr/pictures/GpgR7_tL2KYPGqnMCeM0XB4i4A8/0x35:1460x856/432x243/filters:format(jpg)/2026/11/25/6b0742ccabb68380095835.png",
+   "date": null,
+   "pubdate": "2026-11-26T03:37:22.300282+00:00"
+  },
+  {
+   "title": "La marine frappe les narcos en plein Pacifique, plus de 3 tonnes de méthamphétamines saisies Aujourd'hui 1:57 vidéo 1 minute 57",
+   "link": "https://www.franceinfo.fr/societe/drogue/la-marine-frappe-les-narcos-en-plein-pacifique-plus-de-3-tonnes-de-methamphetamines-saisies_8300253.html",
+   "summary": "La marine frappe les narcos en plein Pacifique, plus de 3 tonnes de méthamphétamines saisies",
+   "image": "https://www.franceinfo.fr/pictures/--4bm291uXQkGeuXZxcVcWkIy2M/0x75:1438x884/432x243/filters:format(jpg)/2026/11/25/6b0737449a7d2531422126.png",
+   "date": null,
+   "pubdate": "2026-11-26T03:37:22.300282+00:00"
+  },
+  {
+   "title": "Assassinée à coup de machette devant son fils Aujourd'hui 1:45 vidéo 1 minute 45",
+   "link": "https://www.franceinfo.fr/faits-divers/assassinee-a-coup-de-machette-devant-son-fils_8300289.html",
+   "summary": "Assassinée à coup de machette devant son fils",
+   "image": "https://www.franceinfo.fr/pictures/NI7TxIQpuVUTExAPHFRXaWJuTsI/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/25/6b073e62c1716701038777.jpg",
+   "date": null,
+   "pubdate": "2026-11-26T03:37:22.300282+00:00"
+  },
+  {
+   "title": "Saluts nazis, propos racistes... Les révélations de Mediapart sur la brigade des douanes de Chaumont Aujourd'hui 1:18 vidéo 1 minute 18",
    "link": "https://www.franceinfo.fr/france/grand-est/haute-marne/saluts-nazis-propos-racistes-les-revelations-de-mediapart-sur-la-brigade-des-douanes-de-chaumont_8300223.html",
    "summary": "Saluts nazis, propos racistes... Les révélations de Mediapart sur la brigade des douanes de Chaumont",
-   "image": "https://www.franceinfo.fr/pictures/7Z3QbMTVzMzE1inbpGw9r6DlYQk/0x0:1080x1920/fit-in/432x297/filters:upscale():fill(blur):format(jpg)/2026/11/25/6b072e4de1acf569531933.jpg",
-   "date": null,
-   "pubdate": "2026-11-25T19:22:52.476570+00:00"
-  },
-  {
-   "title": "Professeurs \"complices\" des violences : une accusation infondée ? Aujourd'hui 2:25 vidéo 2 minutes 25",
-   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/professeurs-complices-des-violences-une-accusation-infondee_8300220.html",
-   "summary": "Professeurs \"complices\" des violences : une accusation infondée ?",
-   "image": "https://www.franceinfo.fr/pictures/XzlHVsN9e51EUixuFkv--y7d8XM/0x0:900x1600/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/25/6b072e00b246b399957535.jpg",
-   "date": null,
-   "pubdate": "2026-11-25T19:22:52.476570+00:00"
-  },
-  {
-   "title": "Plus de 400 élèves ont été exclus définitivement de leur établissement depuis le début du mouvement lycéen, selon Edouard Geffray Aujourd'hui",
-   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/plus-de-400-eleves-ont-ete-exclus-definitivement-de-leur-etablissement-depuis-le-debut-du-mouvement-lyceen-selon-edouard-geffray_8300199.html",
-   "summary": "Plus de 400 élèves ont été exclus définitivement de leur établissement depuis le début du mouvement lycéen, selon Edouard Geffray",
-   "image": "https://www.franceinfo.fr/pictures/QFBcTlrCBz8TwojL0FIUk4M_AwU/0x105:1024x681/432x243/filters:format(jpg)/2026/11/25/6b072aae97e9c135773614.jpg",
-   "date": null,
-   "pubdate": "2026-11-25T19:22:52.476570+00:00"
-  },
-  {
-   "title": "\"Garde des preuves, bloque, signale\" : la Maison des Femmes détourne le personnage de Lucia de \"GTA VI\" Aujourd'hui",
-   "link": "https://www.franceinfo.fr/societe/violences-faites-aux-femmes/garde-des-preuves-bloque-signale-la-maison-des-femmes-detourne-le-personnage-de-lucia-de-gta-vi_8299845.html",
-   "summary": "\"Garde des preuves, bloque, signale\" : la Maison des Femmes détourne le personnage de Lucia de \"GTA VI\"",
-   "image": "https://www.franceinfo.fr/pictures/f2XUwmP_QJzer2YaP91KwIsRRhI/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/25/6b070f80debbf625493571.png",
-   "date": null,
-   "pubdate": "2026-11-25T19:22:52.476570+00:00"
-  },
-  {
-   "title": "Le président de l'association nationale des apprentis de France appelle à \"ne pas minimiser les impacts\" des fraudes dans l'apprentissage Aujourd'hui",
-   "link": "https://www.franceinfo.fr/economie/emploi/le-president-de-l-association-nationale-des-apprentis-de-france-appelle-a-ne-pas-minimiser-les-impacts-des-fraudes-dans-l-apprentissage_8299956.html",
-   "summary": "Le président de l'association nationale des apprentis de France appelle à \"ne pas minimiser les impacts\" des fraudes dans l'apprentissage",
-   "image": "https://www.franceinfo.fr/pictures/7VxoCUXuZ6wcoUrKKlrZHTMqH3k/0x185:3541x2177/432x243/filters:format(jpg)/2023/03/03/6401ee028b079_maxnewsworldfive845122.jpg",
-   "date": null,
-   "pubdate": "2026-11-25T19:22:52.476570+00:00"
-  },
-  {
-   "title": "Fraude à l'apprentissage : jusqu’à 3 milliards d'euros détournés selon la Cour des comptes Aujourd'hui 1:35 vidéo 1 minute 35",
-   "link": "https://www.franceinfo.fr/societe/education/fraude-a-l-apprentissage-jusqu-a-3-milliards-d-euros-detournes-selon-la-cour-des-comptes_8299800.html",
-   "summary": "Fraude à l'apprentissage : jusqu’à 3 milliards d'euros détournés selon la Cour des comptes",
-   "image": "https://www.franceinfo.fr/pictures/XOg5N3AnYei0j9vNSIQTdx1iCpE/0x90:1498x933/432x243/filters:format(jpg)/2026/11/25/6b06ed9b72547092626647.png",
-   "date": null,
-   "pubdate": "2026-11-25T19:22:52.476570+00:00"
-  },
-  {
-   "title": "Etudiants, enseignants du supérieur, policiers... A quoi faut-il s'attendre pour la mobilisation de jeudi ? Aujourd'hui",
-   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/etudiants-enseignants-du-superieur-policiers-a-quoi-faut-il-s-attendre-pour-la-mobilisation-de-jeudi_8299044.html",
-   "summary": "Etudiants, enseignants du supérieur, policiers... A quoi faut-il s'attendre pour la mobilisation de jeudi ?",
-   "image": "https://www.franceinfo.fr/pictures/E0y51iI2clwsxl4mIOtThBifgwU/0x0:1024x576/432x243/filters:format(jpg)/2026/11/25/6b06b8ee6ded1612025995.jpg",
-   "date": null,
-   "pubdate": "2026-11-25T19:22:52.476570+00:00"
-  },
-  {
-   "title": "Les policiers manquent de formation et de moyens pour accueillir les femmes victimes de violences sexuelles Aujourd'hui",
-   "link": "https://www.franceinfo.fr/societe/violences-faites-aux-femmes/les-policiers-manquent-de-formation-et-de-moyens-pour-accueillir-les-femmes-victimes-de-violences-sexuelles_8299716.html",
-   "summary": "Les policiers manquent de formation et de moyens pour accueillir les femmes victimes de violences sexuelles",
-   "image": "https://www.franceinfo.fr/pictures/yMjNW0KX-obUn4oO7Gecb_mBz5c/0x312:6000x3687/432x243/filters:format(jpg)/2026/11/25/6b06feae5b6db291233256.jpg",
-   "date": null,
-   "pubdate": "2026-11-25T19:22:52.476570+00:00"
-  },
-  {
-   "title": "\"Nayib Bukele, je l'aime de tout mon cœur\" : à Port-au-Prince, l'emblématique stade aux mains des gangs a été libéré grâce aux Salvadoriens Aujourd'hui",
-   "link": "https://www.franceinfo.fr/monde/ameriques/nayib-bukele-je-l-aime-de-tout-mon-c-ur-a-port-au-prince-l-emblematique-stade-aux-mains-des-gangs-a-ete-libere-grace-aux-salvadoriens_8299713.html",
-   "summary": "\"Nayib Bukele, je l'aime de tout mon cœur\" : à Port-au-Prince, l'emblématique stade aux mains des gangs a été libéré grâce aux Salvadoriens",
-   "image": "https://www.franceinfo.fr/pictures/fR-lPZPd4B24nM-cgxri0-qbu0Q/0x214:4123x2534/432x243/filters:format(jpg)/2026/11/25/6b06e800df63f593514799.jpg",
-   "date": null,
-   "pubdate": "2026-11-25T19:22:52.476570+00:00"
-  },
-  {
-   "title": "\"Lire, c'est réparer des méfaits des écrans\", estime un libraire à l'ouverture du Salon du livre jeunesse de Montreuil Aujourd'hui vidéo",
-   "link": "https://www.franceinfo.fr/culture/livres/salon-du-livre-et-de-la-presse-jeunesse-de-montreuil/le-salon-du-livre-jeunesse-est-de-retour-a-montreuil-lire-c-est-reparer-des-mefaits-des-ecrans-estime-un-libraire_8299023.html",
-   "summary": "\"Lire, c'est réparer des méfaits des écrans\", estime un libraire à l'ouverture du Salon du livre jeunesse de Montreuil",
-   "image": "https://www.franceinfo.fr/pictures/tkUBws6WxEJhqbnYucVHxtFYzCs/0x0:1280x720/432x243/filters:format(jpg)/2026/11/25/6b06ee222e4ea636873894.jpg",
+   "image": "https://www.franceinfo.fr/pictures/XK_AiUpSxm0CrPfEHKUzfNDXAJc/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/25/6b072e4de1acf569531933.jpg",
    "date": null,
    "pubdate": "2026-11-25T19:22:52.476570+00:00"
   },
@@ -128,6 +127,54 @@
    "link": "https://www.franceinfo.fr/faits-divers/incendie/on-comprend-qu-on-n-a-vraiment-plus-rien-qu-il-faut-recommencer-a-zero-ils-ont-vu-leur-maison-bruler-et-tentent-de-se-relever_8287193.html",
    "summary": "\"On comprend qu'on n'a vraiment plus rien, qu'il faut recommencer à zéro\" : ils ont vu leur maison brûler et tentent de se relever",
    "image": "https://www.franceinfo.fr/pictures/BAGwIvGmpaoLOwL2MQD67DFAI6M/375x0:1086x711/100x100/filters:format(jpg)/2026/11/17/6afcc4bb0b829632305263.jpg",
+   "date": null,
+   "pubdate": "2026-11-25T19:22:52.476570+00:00"
+  },
+  {
+   "title": "Plus de 400 élèves ont été exclus définitivement de leur établissement depuis le début du mouvement lycéen, selon Edouard Geffray Sur les 3 000 procédures disciplinaires engagées entre septembre et le 1er novembre, \"un peu plus de 400 ont donné lieu à des exclusions définitives, avec évidemment rescolarisation dans un autre établissement\", a assuré le ministre mercredi. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/plus-de-400-eleves-ont-ete-exclus-definitivement-de-leur-etablissement-depuis-le-debut-du-mouvement-lyceen-selon-edouard-geffray_8300199.html",
+   "summary": "Plus de 400 élèves ont été exclus définitivement de leur établissement depuis le début du mouvement lycéen, selon Edouard Geffray",
+   "image": "https://www.franceinfo.fr/pictures/QFBcTlrCBz8TwojL0FIUk4M_AwU/0x105:1024x681/432x243/filters:format(jpg)/2026/11/25/6b072aae97e9c135773614.jpg",
+   "date": null,
+   "pubdate": "2026-11-25T19:22:52.476570+00:00"
+  },
+  {
+   "title": "\"Garde des preuves, bloque, signale\" : la Maison des Femmes détourne le personnage de Lucia de \"GTA VI\" La campagne, diffusée à l'occasion de la Journée de lutte contre les violences faites aux femmes, rappelle que les victimes ne peuvent \"pas recommencer la partie\", comme dans un jeu. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/societe/violences-faites-aux-femmes/garde-des-preuves-bloque-signale-la-maison-des-femmes-detourne-le-personnage-de-lucia-de-gta-vi_8299845.html",
+   "summary": "\"Garde des preuves, bloque, signale\" : la Maison des Femmes détourne le personnage de Lucia de \"GTA VI\"",
+   "image": "https://www.franceinfo.fr/pictures/f2XUwmP_QJzer2YaP91KwIsRRhI/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/25/6b070f80debbf625493571.png",
+   "date": null,
+   "pubdate": "2026-11-25T19:22:52.476570+00:00"
+  },
+  {
+   "title": "Le président de l'association nationale des apprentis de France appelle à \"ne pas minimiser les impacts\" des fraudes dans l'apprentissage Baptiste Martin réagit après l'alerte de la Cour des comptes sur une \"faille systémique\" dans le contrôle des aides versées pour les formations en apprentissage. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/economie/emploi/le-president-de-l-association-nationale-des-apprentis-de-france-appelle-a-ne-pas-minimiser-les-impacts-des-fraudes-dans-l-apprentissage_8299956.html",
+   "summary": "Le président de l'association nationale des apprentis de France appelle à \"ne pas minimiser les impacts\" des fraudes dans l'apprentissage",
+   "image": "https://www.franceinfo.fr/pictures/7VxoCUXuZ6wcoUrKKlrZHTMqH3k/0x185:3541x2177/432x243/filters:format(jpg)/2023/03/03/6401ee028b079_maxnewsworldfive845122.jpg",
+   "date": null,
+   "pubdate": "2026-11-25T19:22:52.476570+00:00"
+  },
+  {
+   "title": "Etudiants, enseignants du supérieur, policiers... A quoi faut-il s'attendre pour la mobilisation de jeudi ? Seules les organisations étudiantes et de l'enseignement supérieur ont appelé à la grève et aux manifestations jeudi. Les fonctionnaires se mobiliseront quant à eux le 1er décembre. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/etudiants-enseignants-du-superieur-policiers-a-quoi-faut-il-s-attendre-pour-la-mobilisation-de-jeudi_8299044.html",
+   "summary": "Etudiants, enseignants du supérieur, policiers... A quoi faut-il s'attendre pour la mobilisation de jeudi ?",
+   "image": "https://www.franceinfo.fr/pictures/E0y51iI2clwsxl4mIOtThBifgwU/0x0:1024x576/432x243/filters:format(jpg)/2026/11/25/6b06b8ee6ded1612025995.jpg",
+   "date": null,
+   "pubdate": "2026-11-25T19:22:52.476570+00:00"
+  },
+  {
+   "title": "Les policiers manquent de formation et de moyens pour accueillir les femmes victimes de violences sexuelles La Mission interministérielle pour la protection des femmes publie ce mercredi un rapport qui dresse un bilan accablant des violences dont elles sont victimes. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/societe/violences-faites-aux-femmes/les-policiers-manquent-de-formation-et-de-moyens-pour-accueillir-les-femmes-victimes-de-violences-sexuelles_8299716.html",
+   "summary": "Les policiers manquent de formation et de moyens pour accueillir les femmes victimes de violences sexuelles",
+   "image": "https://www.franceinfo.fr/pictures/yMjNW0KX-obUn4oO7Gecb_mBz5c/0x312:6000x3687/432x243/filters:format(jpg)/2026/11/25/6b06feae5b6db291233256.jpg",
+   "date": null,
+   "pubdate": "2026-11-25T19:22:52.476570+00:00"
+  },
+  {
+   "title": "\"Nayib Bukele, je l'aime de tout mon cœur\" : à Port-au-Prince, l'emblématique stade aux mains des gangs a été libéré grâce aux Salvadoriens Haïti connaît un tournant dans sa lutte contre les gangs armés depuis que 2 000 soldats, envoyés en octobre par le très autoritaire président du Salvador, Nayib Bukele, ont été déployés dans le pays. Cette opération est saluée par des Haïtiens qui, après des années de terreur, reprennent espoir. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/monde/ameriques/nayib-bukele-je-l-aime-de-tout-mon-c-ur-a-port-au-prince-l-emblematique-stade-aux-mains-des-gangs-a-ete-libere-grace-aux-salvadoriens_8299713.html",
+   "summary": "\"Nayib Bukele, je l'aime de tout mon cœur\" : à Port-au-Prince, l'emblématique stade aux mains des gangs a été libéré grâce aux Salvadoriens",
+   "image": "https://www.franceinfo.fr/pictures/fR-lPZPd4B24nM-cgxri0-qbu0Q/0x214:4123x2534/432x243/filters:format(jpg)/2026/11/25/6b06e800df63f593514799.jpg",
    "date": null,
    "pubdate": "2026-11-25T19:22:52.476570+00:00"
   },
@@ -186,62 +233,6 @@
    "image": "https://www.franceinfo.fr/pictures/v5cOIqChJTG4FTleVFzRza8Hj7Q/0x0:4608x2592/432x243/filters:format(jpg)/2026/11/25/6b06b11290b28851581183.jpg",
    "date": null,
    "pubdate": "2026-11-25T19:22:52.476570+00:00"
-  },
-  {
-   "title": "\"Leurs vies sont devenues du jour au lendemain un enfer\" : pour protéger la CPI des pressions étrangères, le Parlement européen exige de la Commission une \"stratégie globale\" Face aux attaques, sanctions et menaces de sanctions des Etats-Unis contre la Cour pénale internationale et ses juges, le Parlement européen avait déjà décidé de leur décerner son prix Sakharov 2026 pour la liberté de l'esprit. Mais il veut aller plus loin : dans un rapport voté mercredi, il appelle la Commission à mettre en place sans plus attendre une \"stratégie globale pour renforcer le système judiciaire international et protéger la souveraineté européenne\". Aujourd'hui",
-   "link": "https://www.franceinfo.fr/monde/europe/union-europeenne/leurs-vies-sont-devenues-du-jour-au-lendemain-un-enfer-pour-proteger-la-cpi-des-pressions-etrangeres-le-parlement-europeen-exige-de-la-commission-une-strategie-globale_8298972.html",
-   "summary": "\"Leurs vies sont devenues du jour au lendemain un enfer\" : pour protéger la CPI des pressions étrangères, le Parlement européen exige de la Commission une \"stratégie globale\"",
-   "image": "https://www.franceinfo.fr/pictures/sCV3jXluj72Yp6yGWBVhzKoKoY4/628x834:2946x2137/432x243/filters:format(jpg)/2026/11/25/6b06affc45129871519242.jpg",
-   "date": null,
-   "pubdate": "2026-11-25T19:22:52.476570+00:00"
-  },
-  {
-   "title": "Mouvement lycéen : bons élèves, milieux privilégiés... L'Inspection générale de l'Éducation nationale esquisse un profil des \"meneurs\" L'Inspection générale de l'Éducation nationale a rendu mardi le rapport de sa mission flash sur la mobilisation des lycéens, un document censé tirer les premiers enseignements du mouvement. Aujourd'hui 2:32 audio 2 minutes 32",
-   "link": "https://www.franceinfo.fr/replay-radio/histoire-du-jour/mouvement-lyceen-bons-eleves-milieux-privilegies-l-inspection-generale-de-l-education-nationale-esquisse-un-profil-des-meneurs_8295899.html",
-   "summary": "Mouvement lycéen : bons élèves, milieux privilégiés... L'Inspection générale de l'Éducation nationale esquisse un profil des \"meneurs\"",
-   "image": "https://www.franceinfo.fr/pictures/hjP_JBjZ_Wu15g380xVsBWZGS40/0x416:7998x4915/432x243/filters:format(jpg)/2026/11/25/6b069e4e280a3273475429.jpg",
-   "date": null,
-   "pubdate": "2026-11-25T19:22:52.476570+00:00"
-  },
-  {
-   "title": "Des féministes rendent hommage aux victimes de féminicides sur la tombe du Soldat inconnu Les militantes ont déployé sous l'Arc de Triomphe une banderole portant l'inscription \"Aux combattantes inconnues assassinées par le patriarcat\" et déposé des fleurs avec le message \"ni oubli, ni pardon\", avant d'allumer un fumigène. Aujourd'hui",
-   "link": "https://www.franceinfo.fr/societe/feminicides/des-feministes-rendent-hommage-aux-victimes-de-feminicides-sur-la-tombe-du-soldat-inconnu_8299005.html",
-   "summary": "Des féministes rendent hommage aux victimes de féminicides sur la tombe du Soldat inconnu",
-   "image": "https://www.franceinfo.fr/pictures/Y-OUrnyY1YzqS4PEAnjMe14negw/0x572:7940x5038/432x243/filters:format(jpg)/2026/11/25/6b06a04d1b370172378247.jpg",
-   "date": null,
-   "pubdate": "2026-11-25T19:22:52.476570+00:00"
-  },
-  {
-   "title": "Présence d'un procureur au siège du RN : le député RN Jean-Philippe Tanguy juge l'affaire \"totalement insignifiante\" Mercredi matin, Gérald Darmanin a annoncé saisir l'Inspection générale de la justice concernant Christian de Rocquigny, un procureur adjoint du parquet de Paris aperçu au siège du Rassemblement national lors d'une perquisition le 9 novembre dernier, alors qu'il rendait visite à un eurodéputé. Aujourd'hui",
-   "link": "https://www.franceinfo.fr/politique/front-national/presence-d-un-procureur-au-siege-du-rn-le-depute-rn-jean-philippe-tanguy-juge-l-affaire-totalement-insignifiante_8298999.html",
-   "summary": "Présence d'un procureur au siège du RN : le député RN Jean-Philippe Tanguy juge l'affaire \"totalement insignifiante\"",
-   "image": "https://www.franceinfo.fr/pictures/-_P57QMRqZytYmr-swgSwsT3DQM/104x0:1124x573/432x243/filters:format(jpg)/2026/11/25/6b06a27c12354826745282.jpg",
-   "date": null,
-   "pubdate": "2026-11-25T19:22:52.476570+00:00"
-  },
-  {
-   "title": "Réforme des retraites, présence d'un procureur au siège du RN... Le \"8h30 franceinfo\" de Jean-Philippe Tanguy Jean-Philippe Tanguy, député RN de la Somme, président délégué du groupe à l'Assemblée nationale, est l'invité du \"8h30 franceinfo\" du 25 novembre 2026. Aujourd'hui 23:35 audio 23 minutes 35",
-   "link": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/reforme-des-retraites-presence-d-un-procureur-au-siege-du-rn-le-8h30-franceinfo-de-jean-philippe-tanguy_8277152.html",
-   "summary": "Réforme des retraites, présence d'un procureur au siège du RN... Le \"8h30 franceinfo\" de Jean-Philippe Tanguy",
-   "image": "https://www.franceinfo.fr/pictures/cUTDZZUot9U5hWTJNAHZV4CvD5A/142x0:1163x574/432x243/filters:format(jpg)/2026/11/25/6b069aaae3093613620595.jpg",
-   "date": "2026-11-25T11:00:00+00:00",
-   "pubdate": "2026-11-25T11:00:00+00:00"
-  },
-  {
-   "title": "Harcèlement, agressions, viols… Trois pharmaciennes sur dix se disent victimes de violences sexistes et sexuelles Selon une enquête menée auprès de plus de 4 000 pharmaciens et pharmaciennes, 30% des professionnelles déclarent avoir subi des VSS dans le cadre de leur travail ou de leurs études : outrages sexistes (19%), harcèlement sexuel (6%), agressions sexuelles (5%) et viols (1%). Aujourd'hui",
-   "link": "https://www.franceinfo.fr/societe/harcelement-sexuel/harcelement-agressions-viols-30-des-pharmaciennes-se-disent-victimes-de-violences-sexistes-et-sexuelles_8298648.html",
-   "summary": "Harcèlement, agressions, viols… Trois pharmaciennes sur dix se disent victimes de violences sexistes et sexuelles",
-   "image": "https://www.franceinfo.fr/pictures/d_09s8tt1Er1AsC_hvlM3Ul46IM/0x0:5000x2812/432x243/filters:format(jpg)/2026/11/25/6b0698f12aef3031902564.jpg",
-   "date": null,
-   "pubdate": "2026-11-25T08:44:45.659366+00:00"
-  },
-  {
-   "title": "\"Les visios, ce n'est pas viable\" : le désarroi d'étudiants en première année après la fermeture administrative de l'université de Lille Pour endiguer le mouvement et les blocus étudiants, des universités françaises sont fermées administrativement, dont l'université de Lille, sur décision de son président. Seuls certains cours sont organisés en visio, une situation déroutante pour les étudiants et enseignants rencontrés sur le campus. Aujourd'hui",
-   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/les-visios-ce-n-est-pas-viable-le-desarroi-d-etudiants-en-premiere-annee-apres-la-fermeture-administrative-de-l-universite-de-lille_8298867.html",
-   "summary": "\"Les visios, ce n'est pas viable\" : le désarroi d'étudiants en première année après la fermeture administrative de l'université de Lille",
-   "image": "https://www.franceinfo.fr/pictures/rnF3AiFTF2v-w3Nez1HfnG-Zp_8/0x312:6000x3687/432x243/filters:format(jpg)/2026/11/25/6b06856fba472154951153.jpg",
-   "date": null,
-   "pubdate": "2026-11-25T08:44:45.659366+00:00"
   },
   {
    "title": "De l'Espagne à l'Albanie en passant par la France, une jeunesse européenne unie par des causes communes descend dans la rue 9:00 article 9 minutes",
