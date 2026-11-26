@@ -1,5 +1,5 @@
 {
- "etag": "\"1ts6n40\"",
+ "etag": "\"19up1u0\"",
  "last_modified": "",
  "first_seen": {
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/quelles-ruines-laisserons-nous-derriere-nous-5610036": "2026-10-30T18:04:04.396175+00:00",
@@ -18,7 +18,8 @@
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/la-liberte-associative-est-elle-menacee-7367372": "2026-11-20T11:00:00+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/faut-il-une-regle-d-or-budgetaire-9050437": "2026-11-23T11:00:00+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/les-hauts-fonctionnaires-peuvent-ils-s-engager-dans-la-presidentielle-5630984": "2026-11-24T23:57:20.677129+00:00",
-  "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/comment-les-milliardaires-pesent-ils-sur-la-democratie-3733738": "2026-11-25T11:00:00+00:00"
+  "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/comment-les-milliardaires-pesent-ils-sur-la-democratie-3733738": "2026-11-25T11:00:00+00:00",
+  "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/faut-il-assumer-la-selection-a-l-universite-4857739": "2026-10-29T11:00:00+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
@@ -157,6 +158,14 @@
    "image": "https://www.radiofrance.fr/pikapi/images/d1752a4b-a897-49cb-ad65-0f336147f3a9/2048",
    "date": "2026-10-30T11:00:00+00:00",
    "pubdate": "2026-10-30T11:00:00+00:00"
+  },
+  {
+   "title": "Enseignement supérieur : la sélection, totem ou tabou ?",
+   "link": "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/faut-il-assumer-la-selection-a-l-universite-4857739",
+   "summary": "La sélection est-elle un tabou français ? Présente à différents niveaux du système éducatif, elle suscite un débat sur ses finalités : outil de réussite et d’orientation pour certains, facteur d’exclusion sociale pour d’autres.",
+   "image": "https://www.radiofrance.fr/pikapi/images/8b14718c-e36d-48ab-9c3b-1fc6e28c7a0b/2048",
+   "date": "2026-10-29T11:00:00+00:00",
+   "pubdate": "2026-10-29T11:00:00+00:00"
   }
  ]
 }

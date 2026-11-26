@@ -1,19 +1,35 @@
 {
  "etag": "",
- "last_modified": "Wed, 25 Nov 2026 17:40:06 GMT",
+ "last_modified": "Thu, 26 Nov 2026 16:11:43 GMT",
  "first_seen": {
-  "https://www.jean-jaures.org/publication/et-si-nous-avions-encore-besoin-deducation-populaire/": "2026-11-17T11:00:00+00:00",
-  "https://www.jean-jaures.org/publication/la-france-en-3d-declinisme-declassement-defiance/": "2026-11-18T11:00:00+00:00",
   "https://www.jean-jaures.org/publication/troyes-et-laube-de-la-revolution-de-1848-a-lassassinat-de-jean-jaures-en-1914-tome-2/": "2026-11-19T11:00:00+00:00",
   "https://www.jean-jaures.org/publication/apres-la-victoire-de-lula-un-modele-transposable-aux-gauches-americaines-et-europeennes/": "2026-11-24T11:00:00+00:00",
   "https://www.jean-jaures.org/publication/la-presidentielle-comme-un-jeu-video/": "2026-11-25T11:00:00+00:00",
-  "https://www.jean-jaures.org/publication/pour-une-gouvernance-locale-feministe/": "2026-11-20T11:00:00+00:00"
+  "https://www.jean-jaures.org/publication/pour-une-gouvernance-locale-feministe/": "2026-11-20T11:00:00+00:00",
+  "https://www.jean-jaures.org/publication/la-serbie-et-le-mouvement-etudiant-entre-promesse-de-refondation-democratique-et-epreuve-du-pouvoir/": "2026-11-26T11:00:00+00:00",
+  "https://www.jean-jaures.org/publication/je-doute-donc-je-suis-juriste-limpact-de-lintelligence-artificielle-sur-les-professions-juridiques/": "2026-11-25T11:00:00+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
+   "title": "La Serbie et le mouvement étudiant : entre promesse de refondation démocratique et épreuve du pouvoir",
+   "link": "https://www.jean-jaures.org/publication/la-serbie-et-le-mouvement-etudiant-entre-promesse-de-refondation-democratique-et-epreuve-du-pouvoir/",
+   "summary": "",
+   "image": "",
+   "date": "2026-11-26T11:00:00+00:00",
+   "pubdate": "2026-11-26T11:00:00+00:00"
+  },
+  {
    "title": "La présidentielle, comme un jeu vidéo",
    "link": "https://www.jean-jaures.org/publication/la-presidentielle-comme-un-jeu-video/",
+   "summary": "",
+   "image": "",
+   "date": "2026-11-25T11:00:00+00:00",
+   "pubdate": "2026-11-25T11:00:00+00:00"
+  },
+  {
+   "title": "Je doute, donc je suis juriste ? L’impact de l’intelligence artificielle sur les professions juridiques",
+   "link": "https://www.jean-jaures.org/publication/je-doute-donc-je-suis-juriste-limpact-de-lintelligence-artificielle-sur-les-professions-juridiques/",
    "summary": "",
    "image": "",
    "date": "2026-11-25T11:00:00+00:00",
@@ -42,22 +58,6 @@
    "image": "",
    "date": "2026-11-19T11:00:00+00:00",
    "pubdate": "2026-11-19T11:00:00+00:00"
-  },
-  {
-   "title": "« La France en 3D » : déclinisme, déclassement, défiance",
-   "link": "https://www.jean-jaures.org/publication/la-france-en-3d-declinisme-declassement-defiance/",
-   "summary": "",
-   "image": "",
-   "date": "2026-11-18T11:00:00+00:00",
-   "pubdate": "2026-11-18T11:00:00+00:00"
-  },
-  {
-   "title": "Et si nous avions (encore) besoin d’éducation populaire ?",
-   "link": "https://www.jean-jaures.org/publication/et-si-nous-avions-encore-besoin-deducation-populaire/",
-   "summary": "",
-   "image": "",
-   "date": "2026-11-17T11:00:00+00:00",
-   "pubdate": "2026-11-17T11:00:00+00:00"
   }
  ]
 }
