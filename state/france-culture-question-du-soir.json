@@ -1,8 +1,7 @@
 {
- "etag": "\"1w9ceqf\"",
+ "etag": "\"jsjxz4\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/quelles-ruines-laisserons-nous-derriere-nous-5610036": "2026-10-30T18:04:04.396175+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/ou-doit-on-placer-le-curseur-entre-libertes-et-securite-8407505": "2026-11-02T11:00:00+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/faut-il-augmenter-le-smic-1087463": "2026-11-03T11:00:00+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/midterms-trump-sous-controle-ou-incontrolable-2549983": "2026-11-04T23:44:42.905624+00:00",
@@ -19,10 +18,19 @@
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/faut-il-une-regle-d-or-budgetaire-9050437": "2026-11-23T11:00:00+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/les-hauts-fonctionnaires-peuvent-ils-s-engager-dans-la-presidentielle-5630984": "2026-11-24T23:57:20.677129+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/comment-les-milliardaires-pesent-ils-sur-la-democratie-3733738": "2026-11-25T11:00:00+00:00",
-  "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/la-baltique-nouveau-front-de-la-guerre-russo-ukrainienne-6924225": "2026-11-26T11:00:00+00:00"
+  "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/la-baltique-nouveau-front-de-la-guerre-russo-ukrainienne-6924225": "2026-11-26T11:00:00+00:00",
+  "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/la-probite-est-elle-une-exigence-democratique-1626579": "2026-11-27T23:30:30.055369+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "La probité est-elle une exigence démocratique ?",
+   "link": "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/la-probite-est-elle-une-exigence-democratique-1626579",
+   "summary": "De Nicolas Sarkozy à Marine Le Pen, en passant par Fabien Roussel, nombreux sont les politiciens à être visés, d'une manière ou d'une autre, par une procédure judiciaire. Aux côtés de nos invités, on s'interroge sur le devenir d'un enjeu pourtant majeur, celui de la moralisation de la vie politique.",
+   "image": "https://www.radiofrance.fr/pikapi/images/8611983d-698d-45d2-8cba-d73027b43e8d/2048",
+   "date": null,
+   "pubdate": "2026-11-27T23:30:30.055369+00:00"
+  },
   {
    "title": "La Baltique : nouveau front de la guerre russo-ukrainienne ?",
    "link": "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/la-baltique-nouveau-front-de-la-guerre-russo-ukrainienne-6924225",
@@ -158,14 +166,6 @@
    "image": "https://www.radiofrance.fr/pikapi/images/3b1d7c6d-7cc5-4932-8dd1-3eda1f0ae08b/2048",
    "date": "2026-11-02T11:00:00+00:00",
    "pubdate": "2026-11-02T11:00:00+00:00"
-  },
-  {
-   "title": "Quelles ruines laisserons-nous derrière nous ?",
-   "link": "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/quelles-ruines-laisserons-nous-derriere-nous-5610036",
-   "summary": "À l’heure du changement climatique et de l’essor de l’urbex, les ruines racontent autant notre passé que notre avenir. Que deviendront les bâtiments que nous construisons aujourd’hui ? Les vestiges anciens peuvent-ils nous aider à repenser l’architecture de demain ?",
-   "image": "https://www.radiofrance.fr/pikapi/images/d1752a4b-a897-49cb-ad65-0f336147f3a9/2048",
-   "date": "2026-10-30T11:00:00+00:00",
-   "pubdate": "2026-10-30T11:00:00+00:00"
   }
  ]
 }

@@ -3,14 +3,38 @@
  "last_modified": "",
  "first_seen": {
   "https://www.tf1info.fr/emissions/lci/brunet-sans-filtre-14290/integrales/": "2026-11-23T11:55:00+00:00",
-  "https://www.cnews.fr/emission/2026-11-23/la-matinale-emission-du-23112026-1959554": "2026-11-23T08:08:00+00:00",
-  "https://www.rtl.fr/programmes/rtl-petit--matin/7900699239-rtl-petit-matin-du-23-novembre-2026?tab=nav-episodes": "2026-11-23T05:38:00+00:00",
-  "https://www.rtl.fr/programmes/rtl-soir-week-end/7900699155-rtl-soir-week-end-du-22-novembre-2026?tab=nav-episodes": "2026-11-22T17:15:00+00:00",
   "https://www.europe1.fr/emissions/ledito-eco/le-bon-usage-de-la-regle-dor-1243405": "2026-11-24T08:39:00+00:00",
-  "https://www.lesechos.fr/idees-debats/livres/la-cocotte-fiscale-2264017": "2026-11-23T09:35:00+00:00"
+  "https://www.lesechos.fr/idees-debats/livres/la-cocotte-fiscale-2264017": "2026-11-23T09:35:00+00:00",
+  "https://www.cnews.fr/emission/2026-11-26/eric-zemmour-objectif-elysee-2027-emission-du-26112026-1961960": "2026-11-26T21:49:00+00:00",
+  "https://www.europe1.fr/emissions/ledito-eco/zucman-la-taxe-ou-lintox-1245175": "2026-11-26T07:47:00+00:00",
+  "https://www.cnews.fr/emission/2026-11-26/la-matinale-emission-du-26112026-1961387": "2026-11-26T07:44:00+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "Retraites : faut-il mettre fin au système par répartition ?",
+   "link": "https://www.cnews.fr/emission/2026-11-26/eric-zemmour-objectif-elysee-2027-emission-du-26112026-1961960",
+   "summary": "",
+   "image": "https://www.ifrap.org/sites/default/files/styles/100x/public/images/2025-01/images_nl_29.png?itok=gFuWqP5h",
+   "date": "2026-11-26T21:49:00+00:00",
+   "pubdate": "2026-11-26T21:49:00+00:00"
+  },
+  {
+   "title": "Zucman : la taxe ou l’intox ?",
+   "link": "https://www.europe1.fr/emissions/ledito-eco/zucman-la-taxe-ou-lintox-1245175",
+   "summary": "",
+   "image": "https://www.ifrap.org/sites/default/files/styles/100x/public/images/import/logo_europe1_6.jpg?itok=6FMdFcfZ",
+   "date": "2026-11-26T07:47:00+00:00",
+   "pubdate": "2026-11-26T07:47:00+00:00"
+  },
+  {
+   "title": "Fortune des milliardaires : on mélange tout !",
+   "link": "https://www.cnews.fr/emission/2026-11-26/la-matinale-emission-du-26112026-1961387",
+   "summary": "",
+   "image": "https://www.ifrap.org/sites/default/files/styles/100x/public/images/2025-01/images_nl_29.png?itok=gFuWqP5h",
+   "date": "2026-11-26T07:44:00+00:00",
+   "pubdate": "2026-11-26T07:44:00+00:00"
+  },
   {
    "title": "Le bon usage de la règle d’or",
    "link": "https://www.europe1.fr/emissions/ledito-eco/le-bon-usage-de-la-regle-dor-1243405",
@@ -34,30 +58,6 @@
    "image": "https://www.ifrap.org/sites/default/files/styles/100x/public/images/import/les_echos_92_0.jpg?itok=t6vocV2V",
    "date": "2026-11-23T09:35:00+00:00",
    "pubdate": "2026-11-23T09:35:00+00:00"
-  },
-  {
-   "title": "Une règle d'or pourrait-elle sauver nos finances publiques ?",
-   "link": "https://www.cnews.fr/emission/2026-11-23/la-matinale-emission-du-23112026-1959554",
-   "summary": "",
-   "image": "https://www.ifrap.org/sites/default/files/styles/100x/public/images/2025-01/images_nl_29.png?itok=gFuWqP5h",
-   "date": "2026-11-23T08:08:00+00:00",
-   "pubdate": "2026-11-23T08:08:00+00:00"
-  },
-  {
-   "title": "Bientôt une règle d'or budgétaire gravée dans notre Constitution ?",
-   "link": "https://www.rtl.fr/programmes/rtl-petit--matin/7900699239-rtl-petit-matin-du-23-novembre-2026?tab=nav-episodes",
-   "summary": "",
-   "image": "https://www.ifrap.org/sites/default/files/styles/100x/public/images/2026-11/design_sans_titre_7.png?itok=MNIGqwVO",
-   "date": "2026-11-23T05:38:00+00:00",
-   "pubdate": "2026-11-23T05:38:00+00:00"
-  },
-  {
-   "title": "Faut-il taxer les ultrariches ?",
-   "link": "https://www.rtl.fr/programmes/rtl-soir-week-end/7900699155-rtl-soir-week-end-du-22-novembre-2026?tab=nav-episodes",
-   "summary": "",
-   "image": "https://www.ifrap.org/sites/default/files/styles/100x/public/images/2026-11/design_sans_titre_7.png?itok=MNIGqwVO",
-   "date": "2026-11-22T17:15:00+00:00",
-   "pubdate": "2026-11-22T17:15:00+00:00"
   }
  ]
 }
