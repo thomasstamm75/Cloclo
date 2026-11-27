@@ -1,18 +1,15 @@
 {
- "etag": "\"5dd2d045a52ad6171746bb337fadcd68-gzip\"",
+ "etag": "\"4d308211aeb61e3b86b490ac445a4d5f-gzip\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.franceinfo.fr/societe/euthanasie/comprendre-les-debats-sur-la-fin-de-vie/": "2026-11-21T11:16:20.238477+00:00",
   "https://www.franceinfo.fr/societe/nos-jours-heureux/": "2026-11-23T01:47:31.297444+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/cet-outil-ne-va-pas-tout-faire-a-la-place-de-l-eleve-en-estonie-une-version-specifique-de-chatgpt-fait-son-entree-dans-les-salles-de-classe_8268662.html": "2026-11-23T01:47:31.297444+00:00",
   "https://www.franceinfo.fr/monde/europe/de-l-espagne-a-l-albanie-en-passant-par-la-france-une-jeunesse-europeenne-unie-par-des-causes-communes-descend-dans-la-rue_8290049.html": "2026-11-23T13:01:18.596580+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/temoignage-des-qu-il-y-a-un-nouveau-telephone-tout-le-monde-fait-un-credit-comment-le-surendettement-explose-chez-les-moins-de-30-ans_8266763.html": "2026-11-25T19:22:52.476570+00:00",
   "https://www.franceinfo.fr/faits-divers/incendie/on-comprend-qu-on-n-a-vraiment-plus-rien-qu-il-faut-recommencer-a-zero-ils-ont-vu-leur-maison-bruler-et-tentent-de-se-relever_8287193.html": "2026-11-25T19:22:52.476570+00:00",
   "https://www.franceinfo.fr/societe/droits-des-femmes/deputes-et-senateurs-s-entendent-pour-mettre-fin-au-devoir-conjugal-et-exclure-toute-obligation-sexuelle-dans-le-mariage_8301603.html": "2026-11-26T17:00:13.229678+00:00",
-  "https://www.franceinfo.fr/l-actu-pour-les-jeunes/apres-les-blocages-de-lycee-beaucoup-de-lyceens-se-tournent-vers-les-cours-particuliers_8301645.html": "2026-11-26T17:00:13.229678+00:00",
   "https://www.franceinfo.fr/societe/armee-securite-defense/face-a-la-menace-russe-le-royaume-uni-contacte-100-000-anciens-militaires_8301528.html": "2026-11-26T17:00:13.229678+00:00",
   "https://www.franceinfo.fr/societe/justice/feminicide-de-karen-baldi-en-2023-la-prison-a-perpetuite-requise-pour-l-ex-epoux-de-la-policiere-assassinee-a-la-machette-en-savoie_8301414.html": "2026-11-26T17:00:13.229678+00:00",
-  "https://www.franceinfo.fr/faits-divers/stop-aux-maisons-moches-trois-maisons-taguees-dans-un-village-des-cotes-d-armor-laissent-les-habitants-dubitatifs_8301435.html": "2026-11-26T17:00:13.229678+00:00",
   "https://www.franceinfo.fr/societe/education/blocage-des-lycees/on-est-a-peu-pres-aujourd-hui-a-20-de-fermetures-administratives-d-universites-affirme-le-ministre-de-l-enseignement-superieur_8301297.html": "2026-11-26T17:00:13.229678+00:00",
   "https://www.franceinfo.fr/france/grand-est/haute-marne/la-direction-generale-des-douanes-condamne-des-faits-d-une-extreme-gravite-apres-la-revelation-d-une-video-montrant-un-agent-effectuer-un-salut-nazi_8301351.html": "2026-11-26T17:00:13.229678+00:00",
   "https://www.franceinfo.fr/monde/europe/allemagne/deux-ressortissants-irakiens-soupconnes-de-preparer-des-attentats-contre-des-synagogues-arretes-en-allemagne_8301342.html": "2026-11-26T17:00:13.229678+00:00",
@@ -25,30 +22,109 @@
   "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-de-la-jeunesse-les-organisations-veulent-maintenir-la-pression-malgre-le-recul-des-blocages-une-manifestation-prevue-dans-l-apres-midi_8300754.html": "2026-11-26T17:00:13.229678+00:00",
   "https://www.franceinfo.fr/societe/education/blocage-des-lycees/incendie-d-un-lycee-a-aix-en-provence-les-deux-suspects-de-17-ans-deferes-jeudi_8301045.html": "2026-11-26T17:00:13.229678+00:00",
   "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/vrai-ou-faux-est-ce-qu-une-grande-majorite-des-etudiants-est-obligee-de-travailler-pour-payer-ses-etudes_8278526.html": "2026-11-26T17:00:13.229678+00:00",
-  "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/violences-du-17-octobre-a-marseille-benoit-payan-denonce-une-impreparation-chronique-et-systemique_8301000.html": "2026-11-26T17:00:13.229678+00:00",
-  "https://www.franceinfo.fr/replay-radio/ca-dit-quoi/podcast-400-lyceens-exclus-argent-francais-en-ukraine-et-discrimination-ou-pas-au-danemark-ca-dit-quoi-ce-26-novembre_8290739.html": "2026-11-26T17:00:13.229678+00:00",
-  "https://www.franceinfo.fr/replay-radio/le-monde-et-vous/logement-social-comment-le-danemark-applique-son-controverse-plan-ghetto_8278499.html": "2026-11-26T17:00:13.229678+00:00"
+  "https://www.franceinfo.fr/societe/cinquante-organisations-presentent-60-mesures-pour-refonder-la-protection-sociale-dans-le-cadre-de-la-campagne-presidentielle_8302125.html": "2026-11-27T01:46:05.067713+00:00",
+  "https://www.franceinfo.fr/replay-magazine/france-2/envoye-special/video-ce-soir-on-sort-danser-sans-les-hommes_8295818.html": "2026-11-27T01:46:05.067713+00:00",
+  "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/l-igpn-ouvre-une-enquete-a-toulouse-apres-la-plainte-d-un-manifestant-grievement-blesse-a-la-main-lors-de-la-mobilisation-du-24-octobre_8302107.html": "2026-11-27T01:46:05.067713+00:00",
+  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/le-lycee-nelson-mandela-a-nantes-ferme-toute-la-journee-de-jeudi-apres-le-jet-d-une-bombe-lacrymogene-a-l-interieur-de-l-etablissement_8302026.html": "2026-11-27T01:46:05.067713+00:00",
+  "https://www.franceinfo.fr/societe/drogue/espagne-bunkers-souterrains-tunnels-drones-les-narcotrafiquants-rivalisent-d-ingeniosite_8301999.html": "2026-11-27T01:46:05.067713+00:00",
+  "https://www.franceinfo.fr/societe/education/blocage-des-lycees/les-professeurs-du-lycee-apollinaire-de-nice-exercent-leur-droit-de-retrait-apres-l-explosion-de-deux-engins-artisanaux_8301942.html": "2026-11-27T01:46:05.067713+00:00",
+  "https://www.franceinfo.fr/faits-divers/police/c-est-que-de-l-argent-marco-mouly-un-recidiviste-de-la-cavale-aujourd-hui-en-liberte-conditionnelle_8301885.html": "2026-11-27T01:46:05.067713+00:00",
+  "https://www.franceinfo.fr/societe/education/l-universite-clermont-auvergne-lance-une-collecte-inedite-pour-accueillir-des-chercheurs-menaces-dans-le-monde_8301891.html": "2026-11-27T01:46:05.067713+00:00",
+  "https://www.franceinfo.fr/societe/racisme/les-opposants-au-banquet-du-canon-francais-vont-organiser-trois-rassemblements-a-biarritz-pour-bloquer-l-evenement_8301837.html": "2026-11-27T01:46:05.067713+00:00",
+  "https://www.franceinfo.fr/societe/violences-faites-aux-femmes/il-va-y-avoir-un-pourvoi-devant-la-cour-de-cassation-annonce-l-avocate-de-gerard-depardieu-renvoye-pour-viol-sur-charlotte-arnould_8301861.html": "2026-11-27T01:46:05.067713+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "Députés et sénateurs s'entendent pour mettre fin au \"devoir conjugal\" et exclure toute obligation sexuelle dans le mariage L'examen du texte à l'Assemblée nationale est prévu le 7 décembre, avant son vote pour une adoption définitive au Sénat. Aujourd'hui",
+   "title": "Cinquante organisations présentent 60 mesures pour refonder la protection sociale dans le cadre de la campagne présidentielle Ces organisations, qui comprennent la Mutualité Française ou encore la CFDT, ont rassemblé 60 idées pour enrayer le creusement du déficit de la Sécurité sociale, et rendre le système \"plus juste\" et \"plus efficace\". Aujourd'hui",
+   "link": "https://www.franceinfo.fr/societe/cinquante-organisations-presentent-60-mesures-pour-refonder-la-protection-sociale-dans-le-cadre-de-la-campagne-presidentielle_8302125.html",
+   "summary": "Cinquante organisations présentent 60 mesures pour refonder la protection sociale dans le cadre de la campagne présidentielle",
+   "image": "https://www.franceinfo.fr/pictures/QYOxajL3oeb6SGdBofZN5N0d9VY/0x0:2173x1493/432x297/filters:format(jpg)/2026/11/26/6b08b9871ae88314416506.jpg",
+   "date": null,
+   "pubdate": "2026-11-27T01:46:05.067713+00:00"
+  },
+  {
+   "title": ": Vidéo Ce soir on sort danser... sans les hommes ! 26 novembre : Vidéo 30:03 vidéo 30 minutes 3",
+   "link": "https://www.franceinfo.fr/replay-magazine/france-2/envoye-special/video-ce-soir-on-sort-danser-sans-les-hommes_8295818.html",
+   "summary": "Ce soir on sort danser... sans les hommes !",
+   "image": "https://www.franceinfo.fr/pictures/KYh6hcQcVktjJiONF7FpvnA_VaQ/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/26/6b08b858821f5500391909.jpg",
+   "date": null,
+   "pubdate": "2026-11-27T01:46:05.067713+00:00"
+  },
+  {
+   "title": "L'IGPN ouvre une enquête à Toulouse après la plainte d'un manifestant grièvement blessé à la main lors de la mobilisation du 24 octobre 26 novembre",
+   "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/l-igpn-ouvre-une-enquete-a-toulouse-apres-la-plainte-d-un-manifestant-grievement-blesse-a-la-main-lors-de-la-mobilisation-du-24-octobre_8302107.html",
+   "summary": "L'IGPN ouvre une enquête à Toulouse après la plainte d'un manifestant grièvement blessé à la main lors de la mobilisation du 24 octobre",
+   "image": "https://www.franceinfo.fr/pictures/50HLFSftbAXee9fW3s_hX5_P3nM/432x243/filters:format(jpg)/2026/10/25/6addd93ea44b1565157992.jpg",
+   "date": null,
+   "pubdate": "2026-11-27T01:46:05.067713+00:00"
+  },
+  {
+   "title": "Le lycée Nelson-Mandela à Nantes fermé toute la journée de jeudi après le jet d'une bombe lacrymogène à l'intérieur de l'établissement 26 novembre",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/le-lycee-nelson-mandela-a-nantes-ferme-toute-la-journee-de-jeudi-apres-le-jet-d-une-bombe-lacrymogene-a-l-interieur-de-l-etablissement_8302026.html",
+   "summary": "Le lycée Nelson-Mandela à Nantes fermé toute la journée de jeudi après le jet d'une bombe lacrymogène à l'intérieur de l'établissement",
+   "image": "https://www.franceinfo.fr/pictures/BUovHZVuXsTeC-5q7iOYNIK3jjk/1205x0:6554x3008/432x243/filters:format(jpg)/2026/11/16/6afb3f88bfdb2314887765.jpg",
+   "date": null,
+   "pubdate": "2026-11-27T01:46:05.067713+00:00"
+  },
+  {
+   "title": "Espagne : bunkers souterrains, tunnels, drones... les narcotrafiquants rivalisent d'ingéniosité 26 novembre 2:05 vidéo 2 minutes 5",
+   "link": "https://www.franceinfo.fr/societe/drogue/espagne-bunkers-souterrains-tunnels-drones-les-narcotrafiquants-rivalisent-d-ingeniosite_8301999.html",
+   "summary": "Espagne : bunkers souterrains, tunnels, drones... les narcotrafiquants rivalisent d'ingéniosité",
+   "image": "https://www.franceinfo.fr/pictures/Qv0xVs5c-t0jzMcfstaNs23UXBg/26x0:1521x841/432x243/filters:format(jpg)/2026/11/26/6b0889e39f8df757788016.png",
+   "date": null,
+   "pubdate": "2026-11-27T01:46:05.067713+00:00"
+  },
+  {
+   "title": "Les professeurs du lycée Apollinaire de Nice exercent leur droit de retrait après l'explosion de deux engins artisanaux 26 novembre",
+   "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/les-professeurs-du-lycee-apollinaire-de-nice-exercent-leur-droit-de-retrait-apres-l-explosion-de-deux-engins-artisanaux_8301942.html",
+   "summary": "Les professeurs du lycée Apollinaire de Nice exercent leur droit de retrait après l'explosion de deux engins artisanaux",
+   "image": "https://www.franceinfo.fr/pictures/KZQd50hH0uY9du7hRqsXsPQME9k/0x249:4332x2686/432x243/filters:format(jpg)/2026/11/26/6b087b8bcb8cb076340069.jpg",
+   "date": null,
+   "pubdate": "2026-11-27T01:46:05.067713+00:00"
+  },
+  {
+   "title": "\"C'est que de l'argent\" : Marco Mouly, un récidiviste de la cavale, aujourd'hui en liberté conditionnelle 26 novembre 1:12 vidéo 1 minute 12",
+   "link": "https://www.franceinfo.fr/faits-divers/police/c-est-que-de-l-argent-marco-mouly-un-recidiviste-de-la-cavale-aujourd-hui-en-liberte-conditionnelle_8301885.html",
+   "summary": "\"C'est que de l'argent\" : Marco Mouly, un récidiviste de la cavale, aujourd'hui en liberté conditionnelle",
+   "image": "https://www.franceinfo.fr/pictures/ddH_ASGK89qKbUu40tWKNEZ-Mo4/0x0:900x1600/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/26/6b08749b798f0776698532.jpg",
+   "date": null,
+   "pubdate": "2026-11-27T01:46:05.067713+00:00"
+  },
+  {
+   "title": "L'université Clermont-Auvergne lance une collecte inédite pour accueillir des chercheurs menacés dans le monde 26 novembre",
+   "link": "https://www.franceinfo.fr/societe/education/l-universite-clermont-auvergne-lance-une-collecte-inedite-pour-accueillir-des-chercheurs-menaces-dans-le-monde_8301891.html",
+   "summary": "L'université Clermont-Auvergne lance une collecte inédite pour accueillir des chercheurs menacés dans le monde",
+   "image": "https://www.franceinfo.fr/pictures/8dHsPsLtztegPs5UXx83ogIU7qs/0x0:1600x900/432x243/filters:format(jpg)/2026/09/15/6aa8e5ba8bbf5329534999.jpg",
+   "date": null,
+   "pubdate": "2026-11-27T01:46:05.067713+00:00"
+  },
+  {
+   "title": "Les opposants au banquet du Canon français vont organiser trois rassemblements à Biarritz pour bloquer l'événement 26 novembre",
+   "link": "https://www.franceinfo.fr/societe/racisme/les-opposants-au-banquet-du-canon-francais-vont-organiser-trois-rassemblements-a-biarritz-pour-bloquer-l-evenement_8301837.html",
+   "summary": "Les opposants au banquet du Canon français vont organiser trois rassemblements à Biarritz pour bloquer l'événement",
+   "image": "https://www.franceinfo.fr/pictures/zWgQtxA7ls795UEOQ4SQH5LdXOU/432x243/filters:format(jpg)/2026/10/18/6ad45bb93baa7092539473.jpg",
+   "date": null,
+   "pubdate": "2026-11-27T01:46:05.067713+00:00"
+  },
+  {
+   "title": "\"Il va y avoir un pourvoi devant la Cour de cassation\" annonce l’avocate de Gérard Depardieu, renvoyé pour viol sur Charlotte Arnould 26 novembre",
+   "link": "https://www.franceinfo.fr/societe/violences-faites-aux-femmes/il-va-y-avoir-un-pourvoi-devant-la-cour-de-cassation-annonce-l-avocate-de-gerard-depardieu-renvoye-pour-viol-sur-charlotte-arnould_8301861.html",
+   "summary": "\"Il va y avoir un pourvoi devant la Cour de cassation\" annonce l’avocate de Gérard Depardieu, renvoyé pour viol sur Charlotte Arnould",
+   "image": "https://www.franceinfo.fr/pictures/mF2eXeKLYZbZVoCVd-kVmqwP9V4/0x0:8192x4608/432x243/filters:format(jpg)/2026/11/16/6afaf86e83785975999075.jpg",
+   "date": null,
+   "pubdate": "2026-11-27T01:46:05.067713+00:00"
+  },
+  {
+   "title": "Députés et sénateurs s'entendent pour mettre fin au \"devoir conjugal\" et exclure toute obligation sexuelle dans le mariage L'examen du texte à l'Assemblée nationale est prévu le 7 décembre, avant son vote pour une adoption définitive au Sénat. 26 novembre",
    "link": "https://www.franceinfo.fr/societe/droits-des-femmes/deputes-et-senateurs-s-entendent-pour-mettre-fin-au-devoir-conjugal-et-exclure-toute-obligation-sexuelle-dans-le-mariage_8301603.html",
    "summary": "Députés et sénateurs s'entendent pour mettre fin au \"devoir conjugal\" et exclure toute obligation sexuelle dans le mariage",
-   "image": "https://www.franceinfo.fr/pictures/KCpxWDZRljJRdmrhQVK0xpIGDSk/157x0:5200x3467/432x297/filters:format(jpg)/2026/11/26/6b0854dc2a900327705307.jpg",
+   "image": "https://www.franceinfo.fr/pictures/Q2CoCkjANX9iztQniLI3exZbl68/0x0:5200x2925/432x243/filters:format(jpg)/2026/11/26/6b0854dc2a900327705307.jpg",
    "date": null,
    "pubdate": "2026-11-26T17:00:13.229678+00:00"
   },
   {
-   "title": "Après les blocages de lycée, beaucoup de lycéens se tournent vers les cours particuliers Aujourd'hui 1:11 vidéo 1 minute 11",
-   "link": "https://www.franceinfo.fr/l-actu-pour-les-jeunes/apres-les-blocages-de-lycee-beaucoup-de-lyceens-se-tournent-vers-les-cours-particuliers_8301645.html",
-   "summary": "Après les blocages de lycée, beaucoup de lycéens se tournent vers les cours particuliers",
-   "image": "https://www.franceinfo.fr/pictures/bqISYWpH3WvtMh30RtwbBdyYinI/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/26/6b08547089007600477597.jpg",
-   "date": null,
-   "pubdate": "2026-11-26T17:00:13.229678+00:00"
-  },
-  {
-   "title": "Face à la menace russe, le Royaume-Uni contacte 100 000 anciens militaires Aujourd'hui",
+   "title": "Face à la menace russe, le Royaume-Uni contacte 100 000 anciens militaires Le Royaume-Uni se prépare à l'éventualité d'un conflit. Le ministère britannique de la Défense a écrit à quelque 100 000 anciens combattants pour pouvoir les rappeler sous les drapeaux en cas de besoin. Une démarche inédite depuis la Guerre froide. 26 novembre",
    "link": "https://www.franceinfo.fr/societe/armee-securite-defense/face-a-la-menace-russe-le-royaume-uni-contacte-100-000-anciens-militaires_8301528.html",
    "summary": "Face à la menace russe, le Royaume-Uni contacte 100 000 anciens militaires",
    "image": "https://www.franceinfo.fr/pictures/nOCiWpl-MPtYLZ2ycnZJUTO-p2Y/0x131:3000x1819/432x243/filters:format(jpg)/2026/11/26/6b084b8c2f7d2649482336.jpg",
@@ -56,7 +132,7 @@
    "pubdate": "2026-11-26T17:00:13.229678+00:00"
   },
   {
-   "title": "Féminicide de Karen Baldi en 2023 : la prison à perpétuité requise pour l'ex-époux de la policière assassinée à la machette en Savoie Aujourd'hui",
+   "title": "Féminicide de Karen Baldi en 2023 : la prison à perpétuité requise pour l'ex-époux de la policière assassinée à la machette en Savoie Lors de son procès, l'accusé âgé de 64 ans a reconnu \"avoir commis l'acte\" qui a tué la policière de 42 ans. 26 novembre",
    "link": "https://www.franceinfo.fr/societe/justice/feminicide-de-karen-baldi-en-2023-la-prison-a-perpetuite-requise-pour-l-ex-epoux-de-la-policiere-assassinee-a-la-machette-en-savoie_8301414.html",
    "summary": "Féminicide de Karen Baldi en 2023 : la prison à perpétuité requise pour l'ex-époux de la policière assassinée à la machette en Savoie",
    "image": "https://www.franceinfo.fr/pictures/eUicoL0IMPL7IqKxFIXSYByF2ys/0x0:3543x1992/432x243/filters:format(jpg)/2026/11/26/6b08344e13c9c811164793.jpg",
@@ -64,15 +140,7 @@
    "pubdate": "2026-11-26T17:00:13.229678+00:00"
   },
   {
-   "title": "\"Stop aux maisons moches\" : trois maisons taguées dans un village des Côtes-d'Armor laissent les habitants dubitatifs Aujourd'hui 1:43 vidéo 1 minute 43",
-   "link": "https://www.franceinfo.fr/faits-divers/stop-aux-maisons-moches-trois-maisons-taguees-dans-un-village-des-cotes-d-armor-laissent-les-habitants-dubitatifs_8301435.html",
-   "summary": "\"Stop aux maisons moches\" : trois maisons taguées dans un village des Côtes-d'Armor laissent les habitants dubitatifs",
-   "image": "https://www.franceinfo.fr/pictures/QoebIX5PHKew7-yl1L28FLD6hk8/0x6:1496x848/432x243/filters:format(jpg)/2026/11/26/6b08334f401fe375851103.jpg",
-   "date": null,
-   "pubdate": "2026-11-26T17:00:13.229678+00:00"
-  },
-  {
-   "title": "Le ministre de l'Enseignement supérieur refuse d'annuler les partiels et appelle à \"cesser\" les blocages, \"un massacre pour les étudiants les plus fragiles\" Aujourd'hui",
+   "title": "Le ministre de l'Enseignement supérieur refuse d'annuler les partiels et appelle à \"cesser\" les blocages, \"un massacre pour les étudiants les plus fragiles\" Dans la foulée de la mobilisation lycéenne, de nombreux campus ont été fermés à cause de blocages ou par décision administrative depuis octobre. Les organisations étudiantes réclament une adaptation des examens à venir. 26 novembre",
    "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/on-est-a-peu-pres-aujourd-hui-a-20-de-fermetures-administratives-d-universites-affirme-le-ministre-de-l-enseignement-superieur_8301297.html",
    "summary": "Le ministre de l'Enseignement supérieur refuse d'annuler les partiels et appelle à \"cesser\" les blocages, \"un massacre pour les étudiants les plus fragiles\"",
    "image": "https://www.franceinfo.fr/pictures/f5-jj7fRFw3eyf2s_9Q4q-6Epbs/0x0:3192x1795/432x243/filters:format(jpg)/2026/11/26/6b081f8d9bbf9189414452.jpg",
@@ -80,7 +148,7 @@
    "pubdate": "2026-11-26T17:00:13.229678+00:00"
   },
   {
-   "title": "La direction générale des douanes condamne des faits d'une \"extrême gravité\" après la révélation d'une vidéo montrant un agent effectuer un salut nazi Aujourd'hui",
+   "title": "La direction générale des douanes condamne des faits d'une \"extrême gravité\" après la révélation d'une vidéo montrant un agent effectuer un salut nazi Le douanier de Chaumont, en Haute-Marne, a été suspendu. Les faits, remontant à 2022, ont été révélés par Mediapart mardi. 26 novembre",
    "link": "https://www.franceinfo.fr/france/grand-est/haute-marne/la-direction-generale-des-douanes-condamne-des-faits-d-une-extreme-gravite-apres-la-revelation-d-une-video-montrant-un-agent-effectuer-un-salut-nazi_8301351.html",
    "summary": "La direction générale des douanes condamne des faits d'une \"extrême gravité\" après la révélation d'une vidéo montrant un agent effectuer un salut nazi",
    "image": "https://www.franceinfo.fr/pictures/vuYkkww-nrpRDg55wkuL2hJbChs/0x312:6000x3687/432x243/filters:format(jpg)/2026/11/26/6b082239e2649405717295.jpg",
@@ -88,7 +156,7 @@
    "pubdate": "2026-11-26T17:00:13.229678+00:00"
   },
   {
-   "title": "Deux ressortissants irakiens soupçonnés de préparer des attentats contre des synagogues arrêtés en Allemagne Aujourd'hui",
+   "title": "Deux ressortissants irakiens soupçonnés de préparer des attentats contre des synagogues arrêtés en Allemagne Les deux hommes sont \"fortement soupçonnés d'appartenir à une association terroriste nationale\" pro-iranienne, selon le parquet de Karlsruhe. 26 novembre",
    "link": "https://www.franceinfo.fr/monde/europe/allemagne/deux-ressortissants-irakiens-soupconnes-de-preparer-des-attentats-contre-des-synagogues-arretes-en-allemagne_8301342.html",
    "summary": "Deux ressortissants irakiens soupçonnés de préparer des attentats contre des synagogues arrêtés en Allemagne",
    "image": "https://www.franceinfo.fr/pictures/emKKgHcidWB3Iq5wEwhmGmjB2CA/0x189:7388x4344/432x243/filters:format(jpg)/2026/11/26/6b08232751529187674658.jpg",
@@ -96,7 +164,7 @@
    "pubdate": "2026-11-26T17:00:13.229678+00:00"
   },
   {
-   "title": "L'avocat de Jordan Bardella envisage de déposer un complément de plainte pour \"faux et usage de faux\" après de nouvelles révélations sur des propos antisémites Aujourd'hui",
+   "title": "L'avocat de Jordan Bardella envisage de déposer un complément de plainte pour \"faux et usage de faux\" après de nouvelles révélations sur des propos antisémites Le président du Rassemblement national dénonce une \"entreprise de persécution\". \"Le Monde\" et Mediapart ont publié jeudi de nouveaux éléments de preuve sur les écrits antisémites attribués à Jordan Bardella. 26 novembre",
    "link": "https://www.franceinfo.fr/politique/jordan-bardella/propos-antisemites-attribues-a-jordan-bardella/l-avocat-de-jordan-bardella-envisage-de-deposer-un-complement-de-plainte-pour-faux-et-usage-de-faux-apres-de-nouvelles-revelations-sur-des-propos-antisemites_8301303.html",
    "summary": "L'avocat de Jordan Bardella envisage de déposer un complément de plainte pour \"faux et usage de faux\" après de nouvelles révélations sur des propos antisémites",
    "image": "https://www.franceinfo.fr/pictures/9qK94X4fg8dhkzV3gRT0NRhTQI0/0x234:4500x2765/432x243/filters:format(jpg)/2026/11/26/6b081d391f58a575575585.jpg",
@@ -104,7 +172,7 @@
    "pubdate": "2026-11-26T17:00:13.229678+00:00"
   },
   {
-   "title": "Les Etats-Unis approuvent la vente de matériel pour la maintenance de F-16 ukrainiens pour environ 570 millions d'euros La transaction sera financée par des fonds en provenance \"de la Belgique, du Danemark, des Pays-Bas et de la Norvège\", précise Washington. Aujourd'hui",
+   "title": "Les Etats-Unis approuvent la vente de matériel pour la maintenance de F-16 ukrainiens pour environ 570 millions d'euros La transaction sera financée par des fonds en provenance \"de la Belgique, du Danemark, des Pays-Bas et de la Norvège\", précise Washington. 26 novembre",
    "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/les-etats-unis-approuvent-la-vente-de-materiel-pour-la-maintenance-de-f-16-ukrainiens-pour-environ-570-millions-d-euros_8301270.html",
    "summary": "Les Etats-Unis approuvent la vente de matériel pour la maintenance de F-16 ukrainiens pour environ 570 millions d'euros",
    "image": "https://www.franceinfo.fr/pictures/oSroJOuLVD7V-fLPNpLFXTFC3bA/0x0:5740x3228/432x243/filters:format(jpg)/2026/11/26/6b08176dba999543106762.jpg",
@@ -112,7 +180,7 @@
    "pubdate": "2026-11-26T17:00:13.229678+00:00"
   },
   {
-   "title": "Un professeur de guitare, ancien responsable socialiste dans le département, jugé dans la Drôme pour des agressions sexuelles sur onze jeunes filles Samuel Arnaud comparaît jeudi pour des agressions sexuelles sur onze jeunes filles entre 2020 et 2022, à qui il donnait des cours particuliers de guitare Aujourd'hui",
+   "title": "Un professeur de guitare, ancien responsable socialiste dans le département, jugé dans la Drôme pour des agressions sexuelles sur onze jeunes filles Samuel Arnaud comparaît jeudi pour des agressions sexuelles sur onze jeunes filles entre 2020 et 2022, à qui il donnait des cours particuliers de guitare 26 novembre",
    "link": "https://www.franceinfo.fr/societe/harcelement-sexuel/un-professeur-de-guitare-ancien-responsable-socialiste-dans-le-departement-juge-dans-la-drome-pour-des-agressions-sexuelles-sur-onze-jeunes-filles_8301009.html",
    "summary": "Un professeur de guitare, ancien responsable socialiste dans le département, jugé dans la Drôme pour des agressions sexuelles sur onze jeunes filles",
    "image": "https://www.franceinfo.fr/pictures/xmCf34L2PalWcY5bsNAgmVajAms/0x112:1200x787/432x243/filters:format(jpg)/2026/08/18/6a83ddcf79cc3931384210.jpg",
@@ -120,7 +188,7 @@
    "pubdate": "2026-11-26T17:00:13.229678+00:00"
   },
   {
-   "title": "\"La pensée anti-juifs obsédait Jordan Bardella\" : ce qu'il faut retenir des nouvelles révélations sur des écrits antisémites attribués au patron du Rassemblement national Deux mois après les premières révélations de Mediapart, le site d'investigation et \"Le Monde\" publient de nouveaux messages antisémites attribués au leader d'extrême droite. Aujourd'hui",
+   "title": "\"La pensée anti-juifs obsédait Jordan Bardella\" : ce qu'il faut retenir des nouvelles révélations sur des écrits antisémites attribués au patron du Rassemblement national Deux mois après les premières révélations de Mediapart, le site d'investigation et \"Le Monde\" publient de nouveaux messages antisémites attribués au leader d'extrême droite. 26 novembre",
    "link": "https://www.franceinfo.fr/politique/jordan-bardella/la-pensee-anti-juifs-obsedait-jordan-bardella-ce-qu-il-faut-retenir-des-nouvelles-revelations-sur-des-ecrits-antisemites-attribues-au-patron-du-rassemblement-national_8300919.html",
    "summary": "\"La pensée anti-juifs obsédait Jordan Bardella\" : ce qu'il faut retenir des nouvelles révélations sur des écrits antisémites attribués au patron du Rassemblement national",
    "image": "https://www.franceinfo.fr/pictures/BRjOjaDCLoCvQBDtPEM3I0Vf5Eg/0x552:6000x3927/432x243/filters:format(jpg)/2026/11/26/6b07dd816a49d592356313.jpg",
@@ -128,7 +196,7 @@
    "pubdate": "2026-11-26T17:00:13.229678+00:00"
   },
   {
-   "title": "Cancers chez les jeunes : plusieurs collectifs et ONG lancent une cartographie citoyenne et participative pour \"mieux comprendre l'exposition aux polluants chimiques\" Ouverte aux personnes ayant eu un cancer avant 25 ans et à leurs parents, \"cette plateforme participative vise à recueillir des données sur les parcours d’exposition environnementale\" pour \"faire avancer la recherche indépendante et redonner la parole aux personnes concernées\". Aujourd'hui",
+   "title": "Cancers chez les jeunes : plusieurs collectifs et ONG lancent une cartographie citoyenne et participative pour \"mieux comprendre l'exposition aux polluants chimiques\" Ouverte aux personnes ayant eu un cancer avant 25 ans et à leurs parents, \"cette plateforme participative vise à recueillir des données sur les parcours d’exposition environnementale\" pour \"faire avancer la recherche indépendante et redonner la parole aux personnes concernées\". 26 novembre",
    "link": "https://www.franceinfo.fr/sante/cancer/cancers-chez-les-jeunes-plusieurs-collectifs-et-ong-lancent-une-cartographie-citoyenne-et-participative-pour-mieux-comprendre-l-exposition-aux-polluants-chimiques_8300925.html",
    "summary": "Cancers chez les jeunes : plusieurs collectifs et ONG lancent une cartographie citoyenne et participative pour \"mieux comprendre l'exposition aux polluants chimiques\"",
    "image": "https://www.franceinfo.fr/pictures/dm8zKJawplGJ8VV-XBVcVwT9QZE/0x448:4300x2867/432x243/filters:format(jpg)/2026/11/26/6b080ed50f5ea367985948.jpg",
@@ -136,7 +204,7 @@
    "pubdate": "2026-11-26T17:00:13.229678+00:00"
   },
   {
-   "title": "Propos antisémites attribués à Jordan Bardella : il \"ne peut pas plaider l'erreur de jeunesse\", martèle le coauteur de l’enquête de Mediapart Le site d'investigation et le journal \"Le Monde\" ont publié, jeudi, de nouveaux éléments concernant le président du Rassemblement national. Aujourd'hui",
+   "title": "Propos antisémites attribués à Jordan Bardella : il \"ne peut pas plaider l'erreur de jeunesse\", martèle le coauteur de l’enquête de Mediapart Le site d'investigation et le journal \"Le Monde\" ont publié, jeudi, de nouveaux éléments concernant le président du Rassemblement national. 26 novembre",
    "link": "https://www.franceinfo.fr/politique/jordan-bardella/propos-antisemites-attribues-a-jordan-bardella-il-ne-peut-pas-plaider-l-erreur-de-jeunesse-martele-le-co-auteur-de-l-enquete-de-mediapart_8301168.html",
    "summary": "Propos antisémites attribués à Jordan Bardella : il \"ne peut pas plaider l'erreur de jeunesse\", martèle le coauteur de l’enquête de Mediapart",
    "image": "https://www.franceinfo.fr/pictures/pbFys56EeAIsdj-dsY9pelodjcA/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/26/6b080d6664ef5983773414.png",
@@ -144,7 +212,7 @@
    "pubdate": "2026-11-26T17:00:13.229678+00:00"
   },
   {
-   "title": "• Direct Mobilisation des étudiants : la manifestation parisienne s'est terminée dans le calme en fin d'après-midi Plusieurs manifestations se tenaient cet après-midi dans toute la France, à l'initiative du collectif universitaire Interfac. Aujourd'hui • Direct",
+   "title": "Mobilisation des étudiants : la manifestation parisienne s'est terminée dans le calme en fin d'après-midi Plusieurs manifestations se tenaient cet après-midi dans toute la France, à l'initiative du collectif universitaire Interfac. 26 novembre",
    "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-de-la-jeunesse-les-organisations-veulent-maintenir-la-pression-malgre-le-recul-des-blocages-une-manifestation-prevue-dans-l-apres-midi_8300754.html",
    "summary": "Mobilisation des étudiants : la manifestation parisienne s'est terminée dans le calme en fin d'après-midi",
    "image": "https://www.franceinfo.fr/pictures/8WjwcL4BnIVx0jgSFtzkurG9qQs/0x391:7524x4624/432x243/filters:format(jpg)/2026/11/26/6b085ca4e4129917676514.jpg",
@@ -152,7 +220,7 @@
    "pubdate": "2026-11-26T17:00:13.229678+00:00"
   },
   {
-   "title": "Incendie d'un lycée à Aix-en-Provence : les deux suspects de 17 ans déférés jeudi Le parquet a requis leur placement sous contrôle judiciaire dans l'attente de leur jugement. Aujourd'hui",
+   "title": "Incendie d'un lycée à Aix-en-Provence : les deux suspects de 17 ans déférés jeudi Le parquet a requis leur placement sous contrôle judiciaire dans l'attente de leur jugement. 26 novembre",
    "link": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/incendie-d-un-lycee-a-aix-en-provence-les-deux-suspects-de-17-ans-deferes-jeudi_8301045.html",
    "summary": "Incendie d'un lycée à Aix-en-Provence : les deux suspects de 17 ans déférés jeudi",
    "image": "https://www.franceinfo.fr/pictures/SWWYJlNzrzTBigK3D-fy6hgSVmA/0x24:4608x2616/432x243/filters:format(jpg)/2026/11/26/6b0800499dff6740911793.jpg",
@@ -160,34 +228,10 @@
    "pubdate": "2026-11-26T17:00:13.229678+00:00"
   },
   {
-   "title": ": Vrai ou faux Est-ce qu'une \"grande majorité des étudiants\" est obligée de travailler pour payer ses études ? Aurélie Trouvé, députée insoumise, dénonce la paupérisation des étudiants et la nécessité, pour une grande partie d'entre eux, de devoir travailler pour financer leurs études. Aujourd'hui : Vrai ou faux 2:00 audio 2 minutes",
+   "title": ": Vrai ou faux Est-ce qu'une \"grande majorité des étudiants\" est obligée de travailler pour payer ses études ? Aurélie Trouvé, députée insoumise, dénonce la paupérisation des étudiants et la nécessité, pour une grande partie d'entre eux, de devoir travailler pour financer leurs études. 26 novembre : Vrai ou faux 2:00 audio 2 minutes",
    "link": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/vrai-ou-faux-est-ce-qu-une-grande-majorite-des-etudiants-est-obligee-de-travailler-pour-payer-ses-etudes_8278526.html",
    "summary": "Est-ce qu'une \"grande majorité des étudiants\" est obligée de travailler pour payer ses études ?",
    "image": "https://www.franceinfo.fr/pictures/A6ymQ9U83LxhgUuOX67RQO44GzY/0x200:3840x2360/432x243/filters:format(jpg)/2026/11/26/6b07fe9a07af5761210066.jpg",
-   "date": null,
-   "pubdate": "2026-11-26T17:00:13.229678+00:00"
-  },
-  {
-   "title": "Violences du 17 octobre à Marseille : Benoît Payan dénonce une \"impréparation chronique et systémique\" Mercredi, le maire de Marseille était devant la commission d'enquête de l'Assemblée nationale sur les violences du 17 octobre. Aujourd'hui",
-   "link": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/violences-du-17-octobre-a-marseille-benoit-payan-denonce-une-impreparation-chronique-et-systemique_8301000.html",
-   "summary": "Violences du 17 octobre à Marseille : Benoît Payan dénonce une \"impréparation chronique et systémique\"",
-   "image": "https://www.franceinfo.fr/pictures/E-PGWJpKfw15vyRFD2k3H-rSb1s/92x0:1110x572/432x243/filters:format(jpg)/2026/11/26/6b07fc2e2432b171648980.jpg",
-   "date": null,
-   "pubdate": "2026-11-26T17:00:13.229678+00:00"
-  },
-  {
-   "title": ": Podcast 400 lycéens exclus, argent français en Ukraine et discrimination (ou pas) au Danemark : ça dit quoi ce 26 novembre ? Ce jeudi 26 novembre, 400 lycéens ont été définitivement exclus, l'UE discute du financement de l'Ukraine pour l'année prochaine et la justice danoise estime que l'expulsion de locataires car ils sont \"non occidentaux\" n'est pas discriminante. Aujourd'hui : Podcast 6:05 audio 6 minutes 5",
-   "link": "https://www.franceinfo.fr/replay-radio/ca-dit-quoi/podcast-400-lyceens-exclus-argent-francais-en-ukraine-et-discrimination-ou-pas-au-danemark-ca-dit-quoi-ce-26-novembre_8290739.html",
-   "summary": "400 lycéens exclus, argent français en Ukraine et discrimination (ou pas) au Danemark : ça dit quoi ce 26 novembre ?",
-   "image": "https://www.franceinfo.fr/pictures/aRmkH2LY7SU753FEuMZNtdWm5Zo/0x0:1024x576/432x243/filters:format(jpg)/2026/11/18/6afda1344b564861315747.jpg",
-   "date": null,
-   "pubdate": "2026-11-26T17:00:13.229678+00:00"
-  },
-  {
-   "title": "Logement social : comment le Danemark applique son controversé \"plan ghetto\" La Cour suprême danoise a donné raison à un bailleur social qui avait résilié les baux de plusieurs dizaines de locataires. Depuis 2018, le Danemark mène une politique controversée de transformation des quartiers populaires, qui tient compte de l'origine des habitants. Aujourd'hui 2:27 audio 2 minutes 27",
-   "link": "https://www.franceinfo.fr/replay-radio/le-monde-et-vous/logement-social-comment-le-danemark-applique-son-controverse-plan-ghetto_8278499.html",
-   "summary": "Logement social : comment le Danemark applique son controversé \"plan ghetto\"",
-   "image": "https://www.franceinfo.fr/pictures/5DoWLe0L14DR8K9GYJPfIOAiWoM/0x258:4605x2846/432x243/filters:format(jpg)/2025/12/02/dpaphotoseight336967-692ef2203aa33584234766.jpg",
    "date": null,
    "pubdate": "2026-11-26T17:00:13.229678+00:00"
   },
@@ -230,14 +274,6 @@
    "image": "https://www.franceinfo.fr/pictures/nO9YryGsyz6tWzUfcFFvUlI-Lyc/0x0:5464x5464/100x100/filters:format(jpg)/2026/11/19/6afe8d5d83b2c564518561.jpg",
    "date": null,
    "pubdate": "2026-11-23T01:47:31.297444+00:00"
-  },
-  {
-   "title": "Comprendre les débats sur la fin de vie 15 contenus",
-   "link": "https://www.franceinfo.fr/societe/euthanasie/comprendre-les-debats-sur-la-fin-de-vie/",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/gZwL6mlJ39yMRDzurzn4EQx_sgw/432x297/filters:format(jpg)/2025/05/27/illustration-aide-a-mourir-68357ca797624128014806.jpg",
-   "date": null,
-   "pubdate": "2026-11-21T11:16:20.238477+00:00"
   }
  ]
 }

@@ -5,8 +5,15 @@
     <link>https://www.radiofrance.fr/franceculture/podcasts/le-temps-du-debat</link>
     <description>Flux fabriqué par Cloclo à partir de https://www.radiofrance.fr/franceculture/podcasts/le-temps-du-debat</description>
     <language>fr</language>
-    <lastBuildDate>Thu, 26 Nov 2026 17:00:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 01:46:18 +0000</lastBuildDate>
     <atom:link href="https://thomasstamm75.github.io/Cloclo/france-culture-question-du-soir.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La Baltique : nouveau front de la guerre russo-ukrainienne ?</title>
+      <link>https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/la-baltique-nouveau-front-de-la-guerre-russo-ukrainienne-6924225</link>
+      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/la-baltique-nouveau-front-de-la-guerre-russo-ukrainienne-6924225</guid>
+      <pubDate>Thu, 26 Nov 2026 11:00:00 +0000</pubDate>
+      <description>&lt;img src="https://www.radiofrance.fr/pikapi/images/f5361d56-4a13-43d0-a7f4-0d3a054c2c70/2048" alt=""/&gt;&lt;p&gt;Alors que les relations se tendent entre l'Estonie et la Russie et que la guerre semble se rapprocher autour de la Baltique, on s'interroge, aux côtés de nos invités, sur une possible apparition d'un nouveau front dans le cadre de la guerre russo-ukrainienne.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Comment les milliardaires pèsent-ils sur la démocratie ?</title>
       <link>https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/comment-les-milliardaires-pesent-ils-sur-la-democratie-3733738</link>
@@ -125,13 +132,6 @@
       <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/quelles-ruines-laisserons-nous-derriere-nous-5610036</guid>
       <pubDate>Fri, 30 Oct 2026 11:00:00 +0000</pubDate>
       <description>&lt;img src="https://www.radiofrance.fr/pikapi/images/d1752a4b-a897-49cb-ad65-0f336147f3a9/2048" alt=""/&gt;&lt;p&gt;À l’heure du changement climatique et de l’essor de l’urbex, les ruines racontent autant notre passé que notre avenir. Que deviendront les bâtiments que nous construisons aujourd’hui ? Les vestiges anciens peuvent-ils nous aider à repenser l’architecture de demain ?&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Enseignement supérieur : la sélection, totem ou tabou ?</title>
-      <link>https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/faut-il-assumer-la-selection-a-l-universite-4857739</link>
-      <guid isPermaLink="true">https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/faut-il-assumer-la-selection-a-l-universite-4857739</guid>
-      <pubDate>Thu, 29 Oct 2026 11:00:00 +0000</pubDate>
-      <description>&lt;img src="https://www.radiofrance.fr/pikapi/images/8b14718c-e36d-48ab-9c3b-1fc6e28c7a0b/2048" alt=""/&gt;&lt;p&gt;La sélection est-elle un tabou français ? Présente à différents niveaux du système éducatif, elle suscite un débat sur ses finalités : outil de réussite et d’orientation pour certains, facteur d’exclusion sociale pour d’autres.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

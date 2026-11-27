@@ -2,13 +2,29 @@
  "etag": "",
  "last_modified": "",
  "first_seen": {
-  "https://acteurspublics.fr/evenement/transformer-sans-tout-reconstruire-comment-lia-et-lorchestration-agentique-accelerent-laction-publique/": "2026-10-08T11:00:00+00:00",
-  "https://acteurspublics.fr/evenement/acteurs-public-tv-a-la-36e-convention-des-intercommunalites-de-france/": "2026-10-16T11:00:00+00:00",
   "https://acteurspublics.fr/evenement/reussir-les-grands-projets-numeriques-de-letat-les-cles-dune-transformation-maitrisee/": "2026-11-17T11:00:00+00:00",
-  "https://acteurspublics.fr/evenement/lafterwork-acteurs-publics-solutions-du-17-novembre-2026/": "2026-11-17T11:00:00+00:00"
+  "https://acteurspublics.fr/evenement/lafterwork-acteurs-publics-solutions-du-17-novembre-2026/": "2026-11-17T11:00:00+00:00",
+  "https://acteurspublics.fr/evenement/acteurs-publics-tv-au-salon-des-maires-2026-laudace-est-locale/": "2026-11-26T11:00:00+00:00",
+  "https://acteurspublics.fr/evenement/acteurs-publics-tv-au-salon-des-maires-2026-espace-uncass/": "2026-11-26T11:00:00+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "Du 24 au 26 novembre 2026 Acteurs publics TV au Salon des Maires 2026 : l’audace est locale Acteurs publics Solutions X Ugap",
+   "link": "https://acteurspublics.fr/evenement/acteurs-publics-tv-au-salon-des-maires-2026-laudace-est-locale/",
+   "summary": "Acteurs publics TV au Salon des Maires 2026 : l’audace est locale",
+   "image": "",
+   "date": "2026-11-26T11:00:00+00:00",
+   "pubdate": "2026-11-26T11:00:00+00:00"
+  },
+  {
+   "title": "Du 24 au 26 novembre 2026 Acteurs publics TV au Salon des Maires 2026 – Espace UNCCAS Acteurs publics Solutions X UNCCAS",
+   "link": "https://acteurspublics.fr/evenement/acteurs-publics-tv-au-salon-des-maires-2026-espace-uncass/",
+   "summary": "Acteurs publics TV au Salon des Maires 2026 – Espace UNCCAS",
+   "image": "",
+   "date": "2026-11-26T11:00:00+00:00",
+   "pubdate": "2026-11-26T11:00:00+00:00"
+  },
   {
    "title": "17 novembre 2026 Réussir les grands projets numériques de l’État : les clés d’une transformation maîtrisée Acteurs publics Solutions X EY",
    "link": "https://acteurspublics.fr/evenement/reussir-les-grands-projets-numeriques-de-letat-les-cles-dune-transformation-maitrisee/",
@@ -24,22 +40,6 @@
    "image": "",
    "date": "2026-11-17T11:00:00+00:00",
    "pubdate": "2026-11-17T11:00:00+00:00"
-  },
-  {
-   "title": "Du 14 au 16 octobre 2026 Acteurs publics TV à la 36e convention des intercommunalités de France",
-   "link": "https://acteurspublics.fr/evenement/acteurs-public-tv-a-la-36e-convention-des-intercommunalites-de-france/",
-   "summary": "Acteurs publics TV à la 36e convention des intercommunalités de France",
-   "image": "",
-   "date": "2026-10-16T11:00:00+00:00",
-   "pubdate": "2026-10-16T11:00:00+00:00"
-  },
-  {
-   "title": "8 octobre 2026 Transformer sans tout reconstruire. Comment l’IA et l’orchestration agentique accélèrent l’action publique ? Acteurs publics Solutions X UIPath",
-   "link": "https://acteurspublics.fr/evenement/transformer-sans-tout-reconstruire-comment-lia-et-lorchestration-agentique-accelerent-laction-publique/",
-   "summary": "Transformer sans tout reconstruire. Comment l’IA et l’orchestration agentique accélèrent l’action publique ?",
-   "image": "",
-   "date": "2026-10-08T11:00:00+00:00",
-   "pubdate": "2026-10-08T11:00:00+00:00"
   }
  ]
 }
