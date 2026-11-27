@@ -1,9 +1,7 @@
 {
- "etag": "W/\"1795726222\"",
- "last_modified": "Thu, 26 Nov 2026 20:50:22 GMT",
+ "etag": "W/\"1795778560\"",
+ "last_modified": "Fri, 27 Nov 2026 11:22:40 GMT",
  "first_seen": {
-  "https://www.ccomptes.fr/fr/publications/financement-des-indemnites-journalieres-des-professions-liberales": "2026-11-09T11:00:00+00:00",
-  "https://www.ccomptes.fr/fr/publications/contribution-au-retablissement-des-finances-publiques": "2026-11-09T11:00:00+00:00",
   "https://www.ccomptes.fr/fr/publications/la-caisse-generale-de-securite-sociale-de-la-guadeloupe-et-de-saint-martin": "2026-11-10T11:00:00+00:00",
   "https://www.ccomptes.fr/fr/publications/la-fondation-louis-lepine": "2026-11-12T11:00:00+00:00",
   "https://www.ccomptes.fr/fr/publications/la-cour-des-comptes-publie-trois-nouvelles-notes-thematiques-consacrees-aux-politiques": "2026-11-16T11:00:00+00:00",
@@ -11,10 +9,28 @@
   "https://www.ccomptes.fr/fr/publications/note-thematique-les-soutiens-de-letat-en-faveur-du-sport": "2026-11-19T11:00:00+00:00",
   "https://www.ccomptes.fr/fr/publications/les-jeux-olympiques-et-paralympiques-de-paris-2024-bilan-financier-et-heritage": "2026-11-19T11:00:00+00:00",
   "https://www.ccomptes.fr/fr/publications/la-cour-des-comptes-publie-deux-nouvelles-notes-thematiques-retraites-et-politique": "2026-11-24T11:00:00+00:00",
-  "https://www.ccomptes.fr/fr/publications/les-abus-et-les-fraudes-aux-aides-lapprentissage": "2026-11-25T11:00:00+00:00"
+  "https://www.ccomptes.fr/fr/publications/les-abus-et-les-fraudes-aux-aides-lapprentissage": "2026-11-25T11:00:00+00:00",
+  "https://www.ccomptes.fr/fr/publications/les-entrepots-de-donnees-de-sante-hospitaliers-edsh": "2026-11-27T11:00:00+00:00",
+  "https://www.ccomptes.fr/fr/publications/les-marches-interministeriels-de-formation-des-agents-de-letat-un-usage-recentrer": "2026-11-26T11:00:00+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "Les entrepôts de données de santé hospitaliers (EDSH)",
+   "link": "https://www.ccomptes.fr/fr/publications/les-entrepots-de-donnees-de-sante-hospitaliers-edsh",
+   "summary": "Les données de santé produites par les hôpitaux et cliniques constituent une ressource précieuse pour la recherche médicale, l'amélioration des soins et le pilotage des établissements. Pour en faciliter la réutilisation, la France a soutenu le développement des entrepôts de données de santé hospital...",
+   "image": "https://www.ccomptes.fr/sites/default/files/styles/teaser_182x98/public/2026-11/Entrepots-donnees-sante-hospitaliers-182x98.jpg?itok=oCIEnlvY",
+   "date": "2026-11-27T11:00:00+00:00",
+   "pubdate": "2026-11-27T11:00:00+00:00"
+  },
+  {
+   "title": "Les marchés interministériels de formation des agents de l’État : un usage à recentrer",
+   "link": "https://www.ccomptes.fr/fr/publications/les-marches-interministeriels-de-formation-des-agents-de-letat-un-usage-recentrer",
+   "summary": "La formation des agents de l'État, dont le budget a augmenté de 70 % entre 2018 et 2025, s’appuie sur une stratégie visant la mutualisation entre ministères des moyens mis en œuvre pour les domaines communs et transverses. Dans ce cadre, le recours aux marchés interministériels a été, de facto, priv...",
+   "image": "https://www.ccomptes.fr/sites/default/files/styles/teaser_182x98/public/2023-09/formation-continue-enseignants-182x98.jpg?itok=tTA6Dsw5",
+   "date": "2026-11-26T11:00:00+00:00",
+   "pubdate": "2026-11-26T11:00:00+00:00"
+  },
   {
    "title": "Les abus et les fraudes aux aides à l’apprentissage",
    "link": "https://www.ccomptes.fr/fr/publications/les-abus-et-les-fraudes-aux-aides-lapprentissage",
@@ -78,22 +94,6 @@
    "image": "https://www.ccomptes.fr/sites/default/files/styles/teaser_182x98/public/2024-10/Caisse-generale-securite-sociale-Martinique-182x98.jpg?itok=t2tIOffo",
    "date": "2026-11-10T11:00:00+00:00",
    "pubdate": "2026-11-10T11:00:00+00:00"
-  },
-  {
-   "title": "Financement des indemnités journalières des professions libérales",
-   "link": "https://www.ccomptes.fr/fr/publications/financement-des-indemnites-journalieres-des-professions-liberales",
-   "summary": "À l’occasion de la certification des comptes 2025 de la branche maladie du régime général de sécurité sociale, la Cour des comptes a examiné le financement du dispositif d’indemnités journalières des professions libérales, créé en 2021 pour permettre aux professionnels concernés de bénéficier d’une ...",
-   "image": "https://www.ccomptes.fr/sites/default/files/styles/teaser_182x98/public/2023-11/Fiscalite-du-logement-182x98.png?itok=O4sVQ4UW",
-   "date": "2026-11-09T11:00:00+00:00",
-   "pubdate": "2026-11-09T11:00:00+00:00"
-  },
-  {
-   "title": "Contribution au rétablissement des finances publiques",
-   "link": "https://www.ccomptes.fr/fr/publications/contribution-au-retablissement-des-finances-publiques",
-   "summary": "Dans le prolongement des alertes formulées dans son rapport La situation et les perspectives des finances publiques, publié en juin dernier, et alors que la dégradation des perspectives économiques renforce l'urgence du rétablissement des finances publiques, la Cour des comptes entend, à travers deu...",
-   "image": "https://www.ccomptes.fr/sites/default/files/styles/teaser_182x98/public/2024-10/Les-taxes-a-faible-rendement-182x98.jpg?itok=uZIMJAv0",
-   "date": "2026-11-09T11:00:00+00:00",
-   "pubdate": "2026-11-09T11:00:00+00:00"
   }
  ]
 }

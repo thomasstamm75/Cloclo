@@ -1,16 +1,24 @@
 {
  "etag": "",
- "last_modified": "Thu, 26 Nov 2026 16:11:43 GMT",
+ "last_modified": "Fri, 27 Nov 2026 11:47:36 GMT",
  "first_seen": {
-  "https://www.jean-jaures.org/publication/troyes-et-laube-de-la-revolution-de-1848-a-lassassinat-de-jean-jaures-en-1914-tome-2/": "2026-11-19T11:00:00+00:00",
   "https://www.jean-jaures.org/publication/apres-la-victoire-de-lula-un-modele-transposable-aux-gauches-americaines-et-europeennes/": "2026-11-24T11:00:00+00:00",
   "https://www.jean-jaures.org/publication/la-presidentielle-comme-un-jeu-video/": "2026-11-25T11:00:00+00:00",
-  "https://www.jean-jaures.org/publication/pour-une-gouvernance-locale-feministe/": "2026-11-20T11:00:00+00:00",
   "https://www.jean-jaures.org/publication/la-serbie-et-le-mouvement-etudiant-entre-promesse-de-refondation-democratique-et-epreuve-du-pouvoir/": "2026-11-26T11:00:00+00:00",
-  "https://www.jean-jaures.org/publication/je-doute-donc-je-suis-juriste-limpact-de-lintelligence-artificielle-sur-les-professions-juridiques/": "2026-11-25T11:00:00+00:00"
+  "https://www.jean-jaures.org/publication/je-doute-donc-je-suis-juriste-limpact-de-lintelligence-artificielle-sur-les-professions-juridiques/": "2026-11-25T11:00:00+00:00",
+  "https://www.jean-jaures.org/publication/ni-peste-ni-cholera-la-tentation-de-labstention-des-francais-face-au-spectre-dun-duel-le-pen-melenchon/": "2026-11-27T11:00:00+00:00",
+  "https://www.jean-jaures.org/publication/barometre-des-elus-ruraux-premiere-edition/": "2026-11-24T11:00:00+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "« Ni peste ni choléra »… La tentation de l’abstention des Français face au spectre d’un duel Le Pen-Mélenchon",
+   "link": "https://www.jean-jaures.org/publication/ni-peste-ni-cholera-la-tentation-de-labstention-des-francais-face-au-spectre-dun-duel-le-pen-melenchon/",
+   "summary": "",
+   "image": "",
+   "date": "2026-11-27T11:00:00+00:00",
+   "pubdate": "2026-11-27T11:00:00+00:00"
+  },
   {
    "title": "La Serbie et le mouvement étudiant : entre promesse de refondation démocratique et épreuve du pouvoir",
    "link": "https://www.jean-jaures.org/publication/la-serbie-et-le-mouvement-etudiant-entre-promesse-de-refondation-democratique-et-epreuve-du-pouvoir/",
@@ -36,28 +44,20 @@
    "pubdate": "2026-11-25T11:00:00+00:00"
   },
   {
-   "title": "Après la victoire de Lula, un modèle transposable aux gauches américaines et européennes ?",
-   "link": "https://www.jean-jaures.org/publication/apres-la-victoire-de-lula-un-modele-transposable-aux-gauches-americaines-et-europeennes/",
+   "title": "Baromètre des élus ruraux, première édition",
+   "link": "https://www.jean-jaures.org/publication/barometre-des-elus-ruraux-premiere-edition/",
    "summary": "",
    "image": "",
    "date": "2026-11-24T11:00:00+00:00",
    "pubdate": "2026-11-24T11:00:00+00:00"
   },
   {
-   "title": "Pour une gouvernance locale féministe",
-   "link": "https://www.jean-jaures.org/publication/pour-une-gouvernance-locale-feministe/",
+   "title": "Après la victoire de Lula, un modèle transposable aux gauches américaines et européennes ?",
+   "link": "https://www.jean-jaures.org/publication/apres-la-victoire-de-lula-un-modele-transposable-aux-gauches-americaines-et-europeennes/",
    "summary": "",
    "image": "",
-   "date": "2026-11-20T11:00:00+00:00",
-   "pubdate": "2026-11-20T11:00:00+00:00"
-  },
-  {
-   "title": "Troyes et l’Aube, de la révolution de 1848 à l’assassinat de Jean Jaurès en 1914, tome 2",
-   "link": "https://www.jean-jaures.org/publication/troyes-et-laube-de-la-revolution-de-1848-a-lassassinat-de-jean-jaures-en-1914-tome-2/",
-   "summary": "",
-   "image": "",
-   "date": "2026-11-19T11:00:00+00:00",
-   "pubdate": "2026-11-19T11:00:00+00:00"
+   "date": "2026-11-24T11:00:00+00:00",
+   "pubdate": "2026-11-24T11:00:00+00:00"
   }
  ]
 }

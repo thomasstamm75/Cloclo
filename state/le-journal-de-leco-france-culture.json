@@ -1,8 +1,7 @@
 {
- "etag": "\"1yr1uhv\"",
+ "etag": "\"1hh5nyu\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/l-ia-moteur-fragile-de-la-croissance-americaine-6786048": "2026-10-30T10:09:15.728182+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/territoires-zero-chomeur-de-longue-duree-un-retour-a-l-emploi-perenne-encore-menace-2176224": "2026-11-02T11:20:56.517484+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/les-ministeres-dopes-a-l-ia-pour-faire-des-economies-budgetaires-7507164": "2026-11-03T06:55:23.591112+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/le-casse-tete-du-nouveau-regime-europeen-des-societes-6410572": "2026-11-04T06:36:11.560873+00:00",
@@ -20,10 +19,19 @@
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/qu-est-ce-qu-une-entreprise-francaise-5294417": "2026-11-23T11:00:00+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/banques-europeennes-pourquoi-la-course-a-la-taille-s-accelere-2948376": "2026-11-24T13:52:24.669264+00:00",
   "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/ue-mercosur-six-mois-apres-un-accord-qui-profite-surtout-au-bresil-2497693": "2026-11-25T08:44:56.625633+00:00",
-  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/les-manpacks-ou-quand-les-fonds-d-investissement-payent-les-dirigeants-d-entreprise-pour-les-pousser-a-plus-de-profit-7455812": "2026-11-26T17:00:25.740497+00:00"
+  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/les-manpacks-ou-quand-les-fonds-d-investissement-payent-les-dirigeants-d-entreprise-pour-les-pousser-a-plus-de-profit-7455812": "2026-11-26T17:00:25.740497+00:00",
+  "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/mer-du-nord-le-royaume-uni-veut-tourner-la-page-du-petrole-mais-le-projet-rosebank-divise-2737642": "2026-11-27T12:37:49.690927+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
+  {
+   "title": "Mer du Nord : le Royaume-Uni veut tourner la page du pétrole, mais le projet Rosebank divise",
+   "link": "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/mer-du-nord-le-royaume-uni-veut-tourner-la-page-du-petrole-mais-le-projet-rosebank-divise-2737642",
+   "summary": "Le Royaume-Uni veut mettre fin aux nouvelles licences pétrolières et gazières en mer du Nord. Une mesure qui pourrait coûter 2,75 milliards d'euros à son économie sur trente ans. Mais Londres doit aussi décider du sort de Rosebank, l'un des plus grands projets pétroliers britanniques.",
+   "image": "https://www.radiofrance.fr/pikapi/images/a1d1a382-4f49-455f-a121-12d6f37975ca/2048",
+   "date": null,
+   "pubdate": "2026-11-27T12:37:49.690927+00:00"
+  },
   {
    "title": "Les \"manpacks\", ou quand les fonds d'investissement payent les dirigeants d'entreprise pour les pousser à plus de profit",
    "link": "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/les-manpacks-ou-quand-les-fonds-d-investissement-payent-les-dirigeants-d-entreprise-pour-les-pousser-a-plus-de-profit-7455812",
@@ -167,14 +175,6 @@
    "image": "https://www.radiofrance.fr/pikapi/images/1b5aee6d-ff6c-4e58-b3c9-d58d668669af/2048",
    "date": null,
    "pubdate": "2026-11-02T11:20:56.517484+00:00"
-  },
-  {
-   "title": "État des lieux de l'économie américaine 5/5 · L'IA, moteur fragile de la croissance américaine",
-   "link": "https://www.radiofrance.fr/franceculture/podcasts/le-journal-de-l-eco/l-ia-moteur-fragile-de-la-croissance-americaine-6786048",
-   "summary": "Poussés par Donald Trump, des milliers de milliards de dollars sont investis par les géants de la tech dans l’IA. Ces investissements portent la croissance américaine, mais plusieurs inconnues demeurent : cela va-t-il durer et l’économie américaine dans son ensemble va-t-elle en profiter ?",
-   "image": "https://www.radiofrance.fr/pikapi/images/41297182-3834-48bc-8570-9787c5ccb7d9/2048",
-   "date": null,
-   "pubdate": "2026-10-30T10:09:15.728182+00:00"
   }
  ]
 }
