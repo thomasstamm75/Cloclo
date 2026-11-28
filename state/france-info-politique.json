@@ -1,13 +1,11 @@
 {
- "etag": "\"8824648771c07a1c397d1aa10ca69e74-gzip\"",
+ "etag": "\"4022a91e67f4fca1f8736829bd3c3324-gzip\"",
  "last_modified": "",
  "first_seen": {
-  "https://www.franceinfo.fr/elections/quatre-choses-a-ne-pas-oublier-pour-faire-bon-usage-des-sondages-et-enquetes-d-opinion-en-periode-electorale_8270903.html": "2026-11-08T10:30:09.852050+00:00",
   "https://www.franceinfo.fr/economie/pouvoir-achat/temoignages-j-ai-l-impression-de-travailler-a-perte-salaries-au-smic-ils-racontent-un-quotidien-de-privations-de-galeres-et-de-declassement_8276399.html": "2026-11-14T10:36:09.591293+00:00",
   "https://www.franceinfo.fr/politique/affaire/financement-de-la-campagne-de-sarkozy/soupcons-de-financement-libyen-tout-comprendre-a-l-affaire/": "2026-11-26T03:37:24.498594+00:00",
   "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/tout-comprendre-au-proces-des-assistants-parlementaires-fn/": "2026-11-26T03:37:24.498594+00:00",
   "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-les-parrainages-je-n-en-donne-a-personne-les-maires-au-centre-de-la-chasse-aux-500-signatures-pour-les-candidats-a-l-election-presidentielle_8278493.html": "2026-11-26T17:00:15.552149+00:00",
-  "https://www.franceinfo.fr/politique/emmanuel-macron/il-faut-plus-d-humilite-quand-on-fait-campagne-emmanuel-macron-tacle-la-drole-d-arrogance-de-marine-le-pen_8302119.html": "2026-11-27T01:46:08.212423+00:00",
   "https://www.franceinfo.fr/elections/marine-le-pen-reitere-sa-confiance-a-jordan-bardella-apres-de-nouveaux-elements-sur-des-ecrits-antisemites-attribues-au-patron-du-rn_8303001.html": "2026-11-27T12:37:39.977130+00:00",
   "https://www.franceinfo.fr/replay-radio/les-informes-du-matin/les-informes-du-matin-du-vendredi-27-novembre-2026_8280200.html": "2026-11-27T11:00:00+00:00",
   "https://www.franceinfo.fr/politique/jordan-bardella/propos-antisemites-attribues-a-jordan-bardella/ecrits-antisemites-attribues-a-jordan-bardella-on-voit-ici-le-vrai-visage-du-rassemblement-national-selon-l-eurodeputee-lfi-manon-aubry_8302719.html": "2026-11-27T12:37:39.977130+00:00",
@@ -16,29 +14,75 @@
   "https://www.franceinfo.fr/france/guyane-francaise/en-guyane-des-elus-interpellent-l-etat-et-lui-demandent-d-agir-face-a-la-situation-migratoire_8302620.html": "2026-11-27T12:37:39.977130+00:00",
   "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/le-7-40-franceinfo-du-vendredi-27-novembre-2026_8291366.html": "2026-11-27T12:37:39.977130+00:00",
   "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/vrai-ou-faux-budget-de-l-europe-est-il-vrai-que-la-france-perd-de-l-argent-en-contribuant-a-l-ue_8280254.html": "2026-11-27T12:37:39.977130+00:00",
-  "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-face-aux-nouvelles-revelations-contre-jordan-bardella-le-rn-fait-front-mais-jusqu-a-quand_8280266.html": "2026-11-27T12:37:39.977130+00:00",
-  "https://www.franceinfo.fr/monde/espagne/reportage-en-espagne-des-legislatives-a-haut-risque-pour-le-socialiste-pedro-sanchez-lache-par-certains-electeurs-traditionnels-de-gauche_8302569.html": "2026-11-27T12:37:39.977130+00:00",
-  "https://www.franceinfo.fr/elections/direct-presidentielle-2027-marine-le-pen-va-presenter-son-programme-pour-les-outre-mer-en-pleine-tourmente-sur-les-ecrits-antisemites-attribues-a-jordan-bardella_8302521.html": "2026-11-27T12:37:39.977130+00:00",
-  "https://www.franceinfo.fr/elections/ou-en-sont-les-rapprochements-entre-la-france-insoumise-et-les-forces-de-gauche-pretes-a-soutenir-jean-luc-melenchon-a-la-presidentielle_8301066.html": "2026-11-27T12:37:39.977130+00:00",
   "https://www.franceinfo.fr/politique/la-france-insoumise/mathilde-panot-saisit-la-justice-apres-des-menaces-de-mort-contre-plusieurs-deputes-de-la-france-insoumise_8303808.html": "2026-11-27T23:30:19.605463+00:00",
   "https://www.franceinfo.fr/faits-divers/la-prefecture-de-l-isere-interdit-un-concert-organise-par-une-mouvance-identitaire-nationaliste-voire-neonazie-samedi_8303742.html": "2026-11-27T23:30:19.605463+00:00",
   "https://www.franceinfo.fr/elections/david-lisnard-c-est-zemmour-2022-ou-macron-2017_8303160.html": "2026-11-27T23:30:19.605463+00:00",
   "https://www.franceinfo.fr/france/outremer/marine-le-pen-promet-une-grande-loi-programme-pour-l-outre-mer_8303604.html": "2026-11-27T23:30:19.605463+00:00",
   "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/l-hommage-national-aux-victimes-de-l-attentat-raciste-de-trappes-et-de-la-verriere-aura-lieu-le-4-decembre-aux-invalides_8303391.html": "2026-11-27T23:30:19.605463+00:00",
-  "https://www.franceinfo.fr/politique/jordan-bardella/l-etau-se-resserre-pour-jordan-bardella-estime-stephane-zumsteeg_8302980.html": "2026-11-27T23:30:19.605463+00:00",
   "https://www.franceinfo.fr/politique/eric-zemmour/eric-zemmour-place-sous-le-statut-de-temoin-assiste-dans-l-affaire-des-prets-accordes-au-parti-reconquete_8303232.html": "2026-11-27T23:30:19.605463+00:00",
   "https://www.franceinfo.fr/replay-magazine/france-2/franc-jeu/franc-jeu-avec-thierry-breton_8301996.html": "2026-11-27T23:30:19.605463+00:00",
-  "https://www.franceinfo.fr/politique/jordan-bardella/propos-antisemites-attribues-a-jordan-bardella/edito-marine-le-pen-peut-elle-finir-par-lacher-jordan-bardella_8303214.html": "2026-11-27T23:30:19.605463+00:00",
-  "https://www.franceinfo.fr/politique/jordan-bardella/ce-n-est-pas-jean-moulin-que-vous-etes-c-est-plutot-des-methodes-proches-de-staline_8303157.html": "2026-11-27T23:30:19.605463+00:00",
-  "https://www.franceinfo.fr/politique/david-lisnard/direct-david-lisnard-les-secrets-d-une-percee-eclair-regardez-le-documentaire-de-franceinfo-consacre-aux-coulisses-de-l-entree-en-campagne-presidentielle-du-maire-de-cannes_8301420.html": "2026-11-27T23:30:19.605463+00:00"
+  "https://www.franceinfo.fr/politique/david-lisnard/direct-david-lisnard-les-secrets-d-une-percee-eclair-regardez-le-documentaire-de-franceinfo-consacre-aux-coulisses-de-l-entree-en-campagne-presidentielle-du-maire-de-cannes_8301420.html": "2026-11-27T23:30:19.605463+00:00",
+  "https://www.franceinfo.fr/economie/crise/crise-de-la-dette/roland-lescure-voit-un-avertissement-dans-la-decision-de-s-p-et-maintient-l-objectif-d-un-deficit-public-a-5-en-2027_8304339.html": "2026-11-28T07:57:47.465181+00:00",
+  "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/bruno-le-maire-on-aurait-du-accelerer-on-a-fait-machine-arriere_8304327.html": "2026-11-28T07:57:47.465181+00:00",
+  "https://www.franceinfo.fr/politique/marine-le-pen/est-il-possible-d-obliger-les-journalistes-a-respecter-le-secret-de-l-instruction-comme-le-souhaite-marine-le-pen_8303805.html": "2026-11-28T07:57:47.465181+00:00",
+  "https://www.franceinfo.fr/politique/front-national/dans-l-affaire-des-fuites-au-profit-du-rn-le-bureau-et-le-domicile-d-ambroise-de-rancourt-coordinateur-du-programme-presidentiel-du-parti-ont-ete-perquisitionnes_8304285.html": "2026-11-28T07:57:47.465181+00:00",
+  "https://www.franceinfo.fr/politique/jordan-bardella/propos-antisemites-attribues-a-jordan-bardella/ca-fait-pschitt-pourquoi-les-accusations-d-antisemitisme-visant-jordan-bardella-n-entament-pas-encore-la-popularite-du-rn_8303220.html": "2026-11-28T07:57:47.465181+00:00"
  },
  "full_text_cache": {},
  "last_good_items": [
   {
-   "title": "Mathilde Panot saisit la justice après des menaces de mort contre plusieurs députés de la France insoumise La présidente du groupe des députés Insoumis évoque des mails reçus dans la nuit de jeudi à vendredi entre 3 heures et 4 heures du matin, provenant d'une adresse mail empruntant le nom du suspect de l'attentat raciste dans les Yvelines. 27 novembre",
+   "title": "\"Franc-Jeu\". Avec Thierry Breton Dans la perspective de l'élection présidentielle de 2027, à travers des interviews et des débats, Benjamin Duhamel interroge celles et ceux qui participent aux choix proposés aux Français pour l’avenir du pays. Le 29 novembre 2026, il reçoit Thierry Breton, ancien commissaire européen au Marché intérieur et ancien ministre de l’Économie. 29 novembre 45:00 vidéo 45 minutes",
+   "link": "https://www.franceinfo.fr/replay-magazine/france-2/franc-jeu/franc-jeu-avec-thierry-breton_8301996.html",
+   "summary": "Dans la perspective de l'élection présidentielle de 2027, à travers des interviews et des débats, Benjamin Duhamel interroge celles et ceux qui participent aux choix proposés aux Français pour l’avenir du pays. Le 29 novembre 2026, il reçoit Thierry Breton, ancien commissaire européen au Marché intérieur et ancien ministre de l’Économie.",
+   "image": "https://www.franceinfo.fr/pictures/Fbh26rz7pEi0zniuyMT1nNCPA3k/0x0:680x382/432x243/filters:format(jpg)/2026/08/28/6a919b42820e4536048985.jpg",
+   "date": "2026-11-29T11:00:00+00:00",
+   "pubdate": "2026-11-29T11:00:00+00:00"
+  },
+  {
+   "title": "Roland Lescure voit un \"avertissement\" dans la décision de S&P et maintient l'objectif d'un déficit public à 5% en 2027 L'agence de notation a maintenu vendredi la note de la France à A+, mais a abaissé la perspective de stable à négative, la menaçant donc d'une dégradation, en raison des difficultés du pays à réduire son déficit. Aujourd'hui",
+   "link": "https://www.franceinfo.fr/economie/crise/crise-de-la-dette/roland-lescure-voit-un-avertissement-dans-la-decision-de-s-p-et-maintient-l-objectif-d-un-deficit-public-a-5-en-2027_8304339.html",
+   "summary": "Roland Lescure voit un \"avertissement\" dans la décision de S&P et maintient l'objectif d'un déficit public à 5% en 2027",
+   "image": "https://www.franceinfo.fr/pictures/QyL-Nf2wCln0zopEXH0qx1hjJZY/7x0:1203x822/432x297/filters:format(jpg)/2026/07/23/6a61c444af4ec477863126.jpg",
+   "date": null,
+   "pubdate": "2026-11-28T07:57:47.465181+00:00"
+  },
+  {
+   "title": "Bruno Le Maire : \"On aurait dû accélérer, on a fait machine arrière\" Aujourd'hui 13:22 vidéo 13 minutes 22",
+   "link": "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/bruno-le-maire-on-aurait-du-accelerer-on-a-fait-machine-arriere_8304327.html",
+   "summary": "Bruno Le Maire : \"On aurait dû accélérer, on a fait machine arrière\"",
+   "image": "https://www.franceinfo.fr/pictures/tmVxa4hcoCIcSkZW54ECMONOW_M/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/28/6b0a831b22245868410810.jpg",
+   "date": null,
+   "pubdate": "2026-11-28T07:57:47.465181+00:00"
+  },
+  {
+   "title": "Est-il possible d'obliger les journalistes à \"respecter le secret de l'instruction\", comme le souhaite Marine Le Pen ? Aujourd'hui",
+   "link": "https://www.franceinfo.fr/politique/marine-le-pen/est-il-possible-d-obliger-les-journalistes-a-respecter-le-secret-de-l-instruction-comme-le-souhaite-marine-le-pen_8303805.html",
+   "summary": "Est-il possible d'obliger les journalistes à \"respecter le secret de l'instruction\", comme le souhaite Marine Le Pen ?",
+   "image": "https://www.franceinfo.fr/pictures/Cj_AP3KQXTIi714F2MUlCdptvDQ/432x243/filters:format(jpg)/2026/08/19/6a85c4b9da98e913088548.jpg",
+   "date": null,
+   "pubdate": "2026-11-28T07:57:47.465181+00:00"
+  },
+  {
+   "title": "Dans l'affaire des fuites au profit du RN, le bureau et le domicile d'Ambroise de Rancourt, coordinateur du programme présidentiel du parti, ont été perquisitionnés Aujourd'hui",
+   "link": "https://www.franceinfo.fr/politique/front-national/dans-l-affaire-des-fuites-au-profit-du-rn-le-bureau-et-le-domicile-d-ambroise-de-rancourt-coordinateur-du-programme-presidentiel-du-parti-ont-ete-perquisitionnes_8304285.html",
+   "summary": "Dans l'affaire des fuites au profit du RN, le bureau et le domicile d'Ambroise de Rancourt, coordinateur du programme présidentiel du parti, ont été perquisitionnés",
+   "image": "https://www.franceinfo.fr/pictures/j3RCEixkEmO6BG57sfsJbOp7NCc/0x0:5043x2836/432x243/filters:format(jpg)/2026/11/28/6b0a774295bde123992567.jpg",
+   "date": null,
+   "pubdate": "2026-11-28T07:57:47.465181+00:00"
+  },
+  {
+   "title": "\"Ça fait pschitt !\" : pourquoi les accusations d'antisémitisme visant Jordan Bardella n'entament pas (encore) la popularité du RN 8:00 article 8 minutes",
+   "link": "https://www.franceinfo.fr/politique/jordan-bardella/propos-antisemites-attribues-a-jordan-bardella/ca-fait-pschitt-pourquoi-les-accusations-d-antisemitisme-visant-jordan-bardella-n-entament-pas-encore-la-popularite-du-rn_8303220.html",
+   "summary": "\"Ça fait pschitt !\" : pourquoi les accusations d'antisémitisme visant Jordan Bardella n'entament pas (encore) la popularité du RN",
+   "image": "https://www.franceinfo.fr/pictures/UgaY2Yt9WucYI7rNE68KRRhZFt8/973x0:3842x2869/100x100/filters:format(jpg)/2026/11/27/6b099bcb88bc5740060301.jpg",
+   "date": null,
+   "pubdate": "2026-11-28T07:57:47.465181+00:00"
+  },
+  {
+   "title": "Mathilde Panot saisit la justice après des menaces de mort contre plusieurs députés de la France insoumise 27 novembre",
    "link": "https://www.franceinfo.fr/politique/la-france-insoumise/mathilde-panot-saisit-la-justice-apres-des-menaces-de-mort-contre-plusieurs-deputes-de-la-france-insoumise_8303808.html",
    "summary": "Mathilde Panot saisit la justice après des menaces de mort contre plusieurs députés de la France insoumise",
-   "image": "https://www.franceinfo.fr/pictures/qUwlM8cbjY4i3uZdG9XralJy6F8/0x0:4848x3333/432x297/filters:format(jpg)/2026/11/27/6b09f3b3ad904591953901.jpg",
+   "image": "https://www.franceinfo.fr/pictures/tuM14Wa_AzEYVrr-aZKOTbKzrcc/0x0:5000x2812/432x243/filters:format(jpg)/2026/11/27/6b09f3b3ad904591953901.jpg",
    "date": null,
    "pubdate": "2026-11-27T23:30:19.605463+00:00"
   },
@@ -75,50 +119,18 @@
    "pubdate": "2026-11-27T23:30:19.605463+00:00"
   },
   {
-   "title": "\"L’étau se resserre pour Jordan Bardella\", estime Stéphane Zumsteeg 27 novembre 1:15 vidéo 1 minute 15",
-   "link": "https://www.franceinfo.fr/politique/jordan-bardella/l-etau-se-resserre-pour-jordan-bardella-estime-stephane-zumsteeg_8302980.html",
-   "summary": "\"L’étau se resserre pour Jordan Bardella\", estime Stéphane Zumsteeg",
-   "image": "https://www.franceinfo.fr/pictures/zW-tscSXDjDAW_83-E9adyCLJLA/0x0:900x1600/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/27/6b0967841f3f6533341010.jpg",
-   "date": null,
-   "pubdate": "2026-11-27T23:30:19.605463+00:00"
-  },
-  {
-   "title": "Eric Zemmour placé sous le statut de témoin assisté dans l'affaire des prêts accordés au parti Reconquête 27 novembre",
-   "link": "https://www.franceinfo.fr/politique/eric-zemmour/eric-zemmour-place-sous-le-statut-de-temoin-assiste-dans-l-affaire-des-prets-accordes-au-parti-reconquete_8303232.html",
-   "summary": "Eric Zemmour placé sous le statut de témoin assisté dans l'affaire des prêts accordés au parti Reconquête",
-   "image": "https://www.franceinfo.fr/pictures/8CFtGOpkHnTBRa8VWgBUonIVZpY/0x0:4059x2283/432x243/filters:format(jpg)/2026/11/27/6b09931d436e0917312010.jpg",
-   "date": null,
-   "pubdate": "2026-11-27T23:30:19.605463+00:00"
-  },
-  {
-   "title": "\"Franc-Jeu\". Avec Thierry Breton 29 novembre 45:00 vidéo 45 minutes",
-   "link": "https://www.franceinfo.fr/replay-magazine/france-2/franc-jeu/franc-jeu-avec-thierry-breton_8301996.html",
-   "summary": "",
-   "image": "https://www.franceinfo.fr/pictures/Fbh26rz7pEi0zniuyMT1nNCPA3k/0x0:680x382/432x243/filters:format(jpg)/2026/08/28/6a919b42820e4536048985.jpg",
-   "date": null,
-   "pubdate": "2026-11-27T23:30:19.605463+00:00"
-  },
-  {
-   "title": ": Édito Marine Le Pen peut-elle finir par lâcher Jordan Bardella ? 27 novembre : Édito 2:02 vidéo 2 minutes 2",
-   "link": "https://www.franceinfo.fr/politique/jordan-bardella/propos-antisemites-attribues-a-jordan-bardella/edito-marine-le-pen-peut-elle-finir-par-lacher-jordan-bardella_8303214.html",
-   "summary": "Marine Le Pen peut-elle finir par lâcher Jordan Bardella ?",
-   "image": "https://www.franceinfo.fr/pictures/7ijuhaasQPsUudvVGE-xrXxj520/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/27/6b098eb708834504037767.png",
-   "date": null,
-   "pubdate": "2026-11-27T23:30:19.605463+00:00"
-  },
-  {
-   "title": "“Ce n’est pas Jean Moulin que vous êtes, c’est plutôt des méthodes proches de Staline” 27 novembre 1:35 vidéo 1 minute 35",
-   "link": "https://www.franceinfo.fr/politique/jordan-bardella/ce-n-est-pas-jean-moulin-que-vous-etes-c-est-plutot-des-methodes-proches-de-staline_8303157.html",
-   "summary": "“Ce n’est pas Jean Moulin que vous êtes, c’est plutôt des méthodes proches de Staline”",
-   "image": "https://www.franceinfo.fr/pictures/Aah1z0UGRaQA7RrJ1GMf1xRfp6c/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/27/6b0987bdeb9c1865532786.jpg",
-   "date": null,
-   "pubdate": "2026-11-27T23:30:19.605463+00:00"
-  },
-  {
    "title": ": Replay \"David Lisnard, les secrets d'une percée éclair\" : regardez le documentaire de franceinfo consacré aux coulisses de l'entrée en campagne présidentielle du maire de Cannes : Replay 20:00 vidéo 20 minutes",
    "link": "https://www.franceinfo.fr/politique/david-lisnard/direct-david-lisnard-les-secrets-d-une-percee-eclair-regardez-le-documentaire-de-franceinfo-consacre-aux-coulisses-de-l-entree-en-campagne-presidentielle-du-maire-de-cannes_8301420.html",
    "summary": "\"David Lisnard, les secrets d'une percée éclair\" : regardez le documentaire de franceinfo consacré aux coulisses de l'entrée en campagne présidentielle du maire de Cannes",
    "image": "https://www.franceinfo.fr/pictures/i0c8NoIT8irWZGLOUCO1JtemNvE/840x0:1920x1080/100x100/filters:format(jpg)/2026/11/27/6b0951a1864a4846594425.png",
+   "date": null,
+   "pubdate": "2026-11-27T23:30:19.605463+00:00"
+  },
+  {
+   "title": "Eric Zemmour placé sous le statut de témoin assisté dans l'affaire des prêts accordés au parti Reconquête Une information judiciaire a été ouverte en janvier 2025, après un signalement de la Commission nationale des comptes de campagne et des financements politiques. 27 novembre",
+   "link": "https://www.franceinfo.fr/politique/eric-zemmour/eric-zemmour-place-sous-le-statut-de-temoin-assiste-dans-l-affaire-des-prets-accordes-au-parti-reconquete_8303232.html",
+   "summary": "Eric Zemmour placé sous le statut de témoin assisté dans l'affaire des prêts accordés au parti Reconquête",
+   "image": "https://www.franceinfo.fr/pictures/8CFtGOpkHnTBRa8VWgBUonIVZpY/0x0:4059x2283/432x243/filters:format(jpg)/2026/11/27/6b09931d436e0917312010.jpg",
    "date": null,
    "pubdate": "2026-11-27T23:30:19.605463+00:00"
   },
@@ -179,52 +191,12 @@
    "pubdate": "2026-11-27T12:37:39.977130+00:00"
   },
   {
-   "title": ": Édito Face aux nouvelles révélations contre Jordan Bardella, le RN fait front mais jusqu’à quand ? Après les nouvelles révélations du Monde et de Médiapart au sujet de messages antisémites de Jordan Bardella, lorsqu'il était lycéen, le président du RN continue de nier en bloc. Pour l'instant, l'affaire n’a pas d’incidence sur les intentions de vote en faveur de Marine Le Pen. 27 novembre : Édito 3:02 audio 3 minutes 2",
-   "link": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-face-aux-nouvelles-revelations-contre-jordan-bardella-le-rn-fait-front-mais-jusqu-a-quand_8280266.html",
-   "summary": "Face aux nouvelles révélations contre Jordan Bardella, le RN fait front mais jusqu’à quand ?",
-   "image": "https://www.franceinfo.fr/pictures/wsYBF8vP_zALzK04cw9vCaiGYQg/0x166:3201x1967/432x243/filters:format(jpg)/2026/11/27/6b0924fb3891a061359888.jpg",
-   "date": null,
-   "pubdate": "2026-11-27T12:37:39.977130+00:00"
-  },
-  {
-   "title": ": Reportage En Espagne, des législatives à haut risque pour le socialiste Pedro Sánchez, lâché par certains électeurs traditionnels de gauche À deux jours des élections législatives en Espagne, Pedro Sánchez, leader de la gauche socialiste et Premier ministre depuis huit ans, semble être touché par l'usure du pouvoir : même dans les rangs de la jeunesse progressiste, les critiques se font entendre. 27 novembre : Reportage 1:41 audio 1 minute 41",
-   "link": "https://www.franceinfo.fr/monde/espagne/reportage-en-espagne-des-legislatives-a-haut-risque-pour-le-socialiste-pedro-sanchez-lache-par-certains-electeurs-traditionnels-de-gauche_8302569.html",
-   "summary": "En Espagne, des législatives à haut risque pour le socialiste Pedro Sánchez, lâché par certains électeurs traditionnels de gauche",
-   "image": "https://www.franceinfo.fr/pictures/CWbEmHnmzQsCiGQO0wytHpfzjK8/0x0:5088x2862/432x243/filters:format(jpg)/2026/11/27/6b09246c47269284242183.jpg",
-   "date": null,
-   "pubdate": "2026-11-27T12:37:39.977130+00:00"
-  },
-  {
-   "title": "Présidentielle 2027 : \"Les débauchages, ça ne m'émeut pas\", réagit Bruno Retailleau après le ralliement de huit députés LR à David Lisnard Distancé dans les intentions de vote, le candidat LR à la présidentielle balaie cette annonce d'un revers de main, la qualifiant d'\"anecdotique\". 27 novembre",
-   "link": "https://www.franceinfo.fr/elections/direct-presidentielle-2027-marine-le-pen-va-presenter-son-programme-pour-les-outre-mer-en-pleine-tourmente-sur-les-ecrits-antisemites-attribues-a-jordan-bardella_8302521.html",
-   "summary": "Présidentielle 2027 : \"Les débauchages, ça ne m'émeut pas\", réagit Bruno Retailleau après le ralliement de huit députés LR à David Lisnard",
-   "image": "https://www.franceinfo.fr/pictures/5kAhxkKULLyx13e8fhHu1vvUdgo/0x311:5976x3672/432x243/filters:format(jpg)/2026/11/27/6b099631e6a6e552648597.jpg",
-   "date": null,
-   "pubdate": "2026-11-27T12:37:39.977130+00:00"
-  },
-  {
-   "title": "Où en sont les rapprochements entre La France insoumise et les forces de gauche prêtes à soutenir Jean-Luc Mélenchon à la présidentielle ? LFI, qui poursuit ses discussions avec les Ecologistes, vient de nouer une alliance avec le mouvement de Benoît Hamon, Génération.s, mais a fermé la porte à une réconciliation avec les anciens insoumis exclus en 2024. 27 novembre",
-   "link": "https://www.franceinfo.fr/elections/ou-en-sont-les-rapprochements-entre-la-france-insoumise-et-les-forces-de-gauche-pretes-a-soutenir-jean-luc-melenchon-a-la-presidentielle_8301066.html",
-   "summary": "Où en sont les rapprochements entre La France insoumise et les forces de gauche prêtes à soutenir Jean-Luc Mélenchon à la présidentielle ?",
-   "image": "https://www.franceinfo.fr/pictures/QePY4LFhZ34jybaF7o-zhts0hng/0x0:5456x3069/432x243/filters:format(jpg)/2026/11/19/6afe9849007b1438178316.jpg",
-   "date": null,
-   "pubdate": "2026-11-27T12:37:39.977130+00:00"
-  },
-  {
    "title": "Les informés du matin du vendredi 27 novembre 2026 Les informés débattent de l'actualité autour de Benjamin Recouvreur et Renaud Dély. 27 novembre 20:55 audio 20 minutes 55",
    "link": "https://www.franceinfo.fr/replay-radio/les-informes-du-matin/les-informes-du-matin-du-vendredi-27-novembre-2026_8280200.html",
    "summary": "Les informés du matin du vendredi 27 novembre 2026",
    "image": "https://www.franceinfo.fr/pictures/TKWb09bmk3TJazMzKgqtt36pV4Q/0x292:5616x3451/432x243/filters:format(jpg)/2026/07/08/6a4e52a5b634b233317025.jpg",
    "date": "2026-11-27T11:00:00+00:00",
    "pubdate": "2026-11-27T11:00:00+00:00"
-  },
-  {
-   "title": "\"Il faut plus d'humilité quand on fait campagne\" : Emmanuel Macron tacle la \"drôle d'arrogance\" de Marine Le Pen La candidate du parti d'extrême droite avait auparavant dénoncé \"de basses manœuvres politiciennes\" pour conclure d'ici la fin de l'année un accord sur le budget européen qui serait difficile à remettre en cause si elle remportait la présidentielle. 26 novembre",
-   "link": "https://www.franceinfo.fr/politique/emmanuel-macron/il-faut-plus-d-humilite-quand-on-fait-campagne-emmanuel-macron-tacle-la-drole-d-arrogance-de-marine-le-pen_8302119.html",
-   "summary": "\"Il faut plus d'humilité quand on fait campagne\" : Emmanuel Macron tacle la \"drôle d'arrogance\" de Marine Le Pen",
-   "image": "https://www.franceinfo.fr/pictures/fZ75zLazsBE3-M27E53Y9p0bDcc/0x312:6000x3687/432x243/filters:format(jpg)/2026/11/26/6b08b1e41bdc3005011576.jpg",
-   "date": null,
-   "pubdate": "2026-11-27T01:46:08.212423+00:00"
   },
   {
    "title": ": Reportage \"Les parrainages, je n'en donne à personne\" : les maires au centre de la chasse aux 500 signatures pour les candidats à l'élection présidentielle : Reportage 4:41 audio 4 minutes 41",
@@ -257,14 +229,6 @@
    "image": "https://www.franceinfo.fr/pictures/EE_lbPqu-nXvzdOpF1_khyaDmFw/400x0:1480x1080/100x100/filters:format(jpg)/2026/11/13/6af74274b7ad6350923370.jpg",
    "date": null,
    "pubdate": "2026-11-14T10:36:09.591293+00:00"
-  },
-  {
-   "title": "Quatre choses à ne pas oublier pour faire bon usage des sondages et enquêtes d'opinion en période électorale 3:00 article 3 minutes",
-   "link": "https://www.franceinfo.fr/elections/quatre-choses-a-ne-pas-oublier-pour-faire-bon-usage-des-sondages-et-enquetes-d-opinion-en-periode-electorale_8270903.html",
-   "summary": "Quatre choses à ne pas oublier pour faire bon usage des sondages et enquêtes d'opinion en période électorale",
-   "image": "https://www.franceinfo.fr/pictures/zWj2zToJt6EAkjX6WB5vDsRB7uo/1531x0:7655x6124/100x100/filters:format(jpg)/2026/11/06/6aee40116c20a280238590.jpg",
-   "date": null,
-   "pubdate": "2026-11-08T10:30:09.852050+00:00"
   }
  ]
 }
